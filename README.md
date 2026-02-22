@@ -31,8 +31,6 @@
 
 Air raid sirens. Russian frontline positions. Fires detected from space. Earthquake sensors. Air pollution. Breaking news. All updating automatically, all in one place, all free to use.
 
-> **Why?** Because civilians deserve the same situational awareness that used to be reserved for operations rooms.
-
 ---
 
 ## Features
