@@ -1,0 +1,2509 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UKR-MON // TACTICAL SURVEILLANCE</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    /* ==================== RESET & VARIABLES ==================== */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg-primary: #030608;
+      --bg-surface: #080d18;
+      --bg-elevated: #0c1422;
+      --bg-card: #10192c;
+      --border: rgba(0,229,255,0.06);
+      --border-active: rgba(0,229,255,0.15);
+      --text-primary: #d8e4f0;
+      --text-secondary: #6a7a8e;
+      --text-muted: #3a4a5e;
+      --cyan: #00e5ff;
+      --cyan-dim: #00e5ff22;
+      --cyan-glow: 0 0 20px #00e5ff33, 0 0 50px #00e5ff15;
+      --green: #00ff88;
+      --green-dim: #00ff8825;
+      --green-glow: 0 0 25px #00ff8840, 0 0 55px #00ff8818;
+      --red: #ff2952;
+      --red-dim: #ff295228;
+      --red-glow: 0 0 25px #ff295240, 0 0 55px #ff295218;
+      --amber: #ffb020;
+      --amber-dim: #ffb02028;
+      --blue: #3b82f6;
+      --purple: #8b5cf6;
+      --radius: 4px;
+      --radius-sm: 3px;
+      --radius-xs: 2px;
+      --font: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif;
+      --font-mono: 'SF Mono', 'Cascadia Code', 'Fira Code', 'Consolas', monospace;
+      --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    html, body {
+      height: 100%;
+      font-family: var(--font);
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      overflow: hidden;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Scan lines overlay */
+    body::after {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background: repeating-linear-gradient(
+        0deg,
+        transparent 0px,
+        transparent 2px,
+        rgba(0,0,0,0.08) 2px,
+        rgba(0,0,0,0.08) 4px
+      );
+      pointer-events: none;
+      z-index: 9999;
+    }
+
+    /* ==================== SCROLLBAR ==================== */
+    ::-webkit-scrollbar { width: 4px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: rgba(0,229,255,0.15); border-radius: 0; }
+    ::-webkit-scrollbar-thumb:hover { background: rgba(0,229,255,0.3); }
+
+    /* ==================== ALERT BANNER ==================== */
+    .alert-banner {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 24px;
+      height: 72px;
+      min-height: 72px;
+      background: var(--bg-surface);
+      border-bottom: 1px solid var(--border);
+      z-index: 100;
+      transition: all var(--transition);
+      overflow: hidden;
+    }
+
+    .alert-banner::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      opacity: 0;
+      transition: opacity var(--transition);
+    }
+
+    .alert-banner::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 2px;
+      background: linear-gradient(90deg, transparent, var(--cyan), var(--green), transparent);
+      background-size: 200% 100%;
+      animation: borderScan 3s linear infinite;
+    }
+    @keyframes borderScan {
+      0% { background-position: -100% 0; }
+      100% { background-position: 100% 0; }
+    }
+
+    .alert-banner.safe { border-bottom-color: var(--green-dim); }
+    .alert-banner.safe::before {
+      background: linear-gradient(90deg, var(--green-dim), transparent 50%);
+      opacity: 1;
+    }
+    .alert-banner.safe::after {
+      background: linear-gradient(90deg, transparent, var(--cyan), var(--green), transparent);
+      background-size: 200% 100%;
+    }
+    .alert-banner.danger { border-bottom-color: var(--red-dim); }
+    .alert-banner.danger::before {
+      background: linear-gradient(90deg, var(--red-dim), transparent 60%);
+      opacity: 1;
+      animation: pulseBg 2s ease-in-out infinite;
+    }
+    .alert-banner.danger::after {
+      background: linear-gradient(90deg, transparent, var(--red), var(--amber), transparent);
+      background-size: 200% 100%;
+    }
+    .alert-banner.checking { border-bottom-color: var(--amber-dim); }
+    .alert-banner.checking::before {
+      background: linear-gradient(90deg, var(--amber-dim), transparent 50%);
+      opacity: 1;
+    }
+    .alert-banner.error { border-bottom-color: var(--amber-dim); }
+    .alert-banner.error::before {
+      background: linear-gradient(90deg, rgba(255,100,50,0.15), transparent 50%);
+      opacity: 1;
+    }
+
+    @keyframes pulseBg {
+      0%, 100% { opacity: 0.6; }
+      50% { opacity: 1; }
+    }
+
+    .alert-left {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      z-index: 1;
+    }
+
+    .alert-indicator {
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      flex-shrink: 0;
+      transition: all var(--transition);
+    }
+
+    .safe .alert-indicator {
+      background: var(--green);
+      box-shadow: var(--green-glow);
+    }
+    .danger .alert-indicator {
+      background: var(--red);
+      box-shadow: var(--red-glow);
+      animation: pulseIndicator 1.5s ease-in-out infinite;
+    }
+    .checking .alert-indicator {
+      background: var(--amber);
+      box-shadow: 0 0 20px var(--amber);
+      animation: pulseIndicator 1s ease-in-out infinite;
+    }
+    .error .alert-indicator {
+      background: #ff6432;
+      box-shadow: 0 0 20px rgba(255,100,50,0.4);
+    }
+
+    @keyframes pulseIndicator {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.4); opacity: 0.6; }
+    }
+
+    .alert-status-text {
+      font-size: 22px;
+      font-weight: 700;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      font-family: var(--font-mono);
+      transition: color var(--transition);
+    }
+    .safe .alert-status-text { color: var(--green); text-shadow: 0 0 15px var(--green); }
+    .danger .alert-status-text { color: var(--red); text-shadow: 0 0 15px var(--red); }
+    .checking .alert-status-text { color: var(--amber); text-shadow: 0 0 15px var(--amber); }
+    .error .alert-status-text { color: #ff6432; text-shadow: 0 0 15px #ff6432; }
+
+    .alert-right {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 4px;
+      z-index: 1;
+    }
+
+    .alert-locations {
+      font-size: 12px;
+      color: var(--cyan);
+      font-weight: 500;
+      font-family: var(--font-mono);
+      letter-spacing: 1px;
+      text-shadow: 0 0 8px var(--cyan-dim);
+    }
+    .danger .alert-locations { color: var(--red); text-shadow: 0 0 8px var(--red-dim); }
+
+    .alert-timestamp {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--cyan);
+      opacity: 0.6;
+      text-shadow: 0 0 6px var(--cyan-dim);
+    }
+
+    /* ==================== SOURCE BADGES ==================== */
+    .source-badges {
+      display: flex;
+      gap: 6px;
+      z-index: 1;
+    }
+    .source-badge {
+      font-size: 9px;
+      font-weight: 600;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      padding: 3px 8px;
+      border-radius: 0;
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      font-family: var(--font-mono);
+    }
+    .source-badge.ok { border-color: var(--green-dim); color: var(--green); box-shadow: 0 0 8px var(--green-dim); }
+    .source-badge.fail { border-color: var(--red-dim); color: var(--red); opacity: 0.6; }
+
+    /* ==================== MAIN CONTENT ==================== */
+    .main-content {
+      flex: 1;
+      display: flex;
+      overflow: hidden;
+    }
+
+    /* ==================== MAP PANEL ==================== */
+    .map-panel {
+      flex: 0 0 60%;
+      position: relative;
+      border-right: 1px solid var(--border);
+      box-shadow: inset 0 0 60px rgba(0,229,255,0.03), inset 0 0 2px rgba(0,229,255,0.08);
+    }
+
+    /* Grid overlay */
+    .map-panel::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        repeating-linear-gradient(0deg, transparent 0px, transparent 59px, rgba(0,229,255,0.03) 59px, rgba(0,229,255,0.03) 60px),
+        repeating-linear-gradient(90deg, transparent 0px, transparent 59px, rgba(0,229,255,0.03) 59px, rgba(0,229,255,0.03) 60px);
+      pointer-events: none;
+      z-index: 45;
+    }
+
+    /* Vignette */
+    .map-panel::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse at center, transparent 50%, rgba(3,6,8,0.5) 100%);
+      pointer-events: none;
+      z-index: 45;
+    }
+
+    #map {
+      width: 100%;
+      height: 100%;
+      background: var(--bg-primary);
+    }
+
+    .leaflet-container { background: var(--bg-primary) !important; }
+    .leaflet-control-zoom a {
+      background: var(--bg-elevated) !important;
+      color: var(--cyan) !important;
+      border-color: var(--border) !important;
+      border-radius: 0 !important;
+      font-family: var(--font-mono) !important;
+    }
+    .leaflet-control-zoom a:hover { background: var(--bg-card) !important; }
+    .leaflet-control-zoom { border-radius: 0 !important; }
+    .leaflet-control-attribution {
+      background: rgba(6,10,19,0.8) !important;
+      color: var(--text-muted) !important;
+      font-size: 10px !important;
+    }
+    .leaflet-control-attribution a { color: var(--text-muted) !important; }
+
+    .city-marker {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      border: 2px solid var(--green);
+      background: var(--green-dim);
+      box-shadow: var(--green-glow);
+      transition: all var(--transition);
+    }
+    .city-marker.alert-active {
+      border-color: var(--red);
+      background: var(--red-dim);
+      box-shadow: var(--red-glow);
+      animation: pulseIndicator 1.5s ease-in-out infinite;
+    }
+    .city-marker-inner {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--green);
+    }
+    .city-marker.alert-active .city-marker-inner { background: var(--red); }
+
+    .city-popup .leaflet-popup-content-wrapper {
+      background: var(--bg-elevated);
+      color: var(--text-primary);
+      border: 1px solid var(--border-active);
+      border-radius: 0;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.5), 0 0 15px var(--cyan-dim);
+    }
+    .city-popup .leaflet-popup-tip { background: var(--bg-elevated); }
+    .city-popup .leaflet-popup-content { margin: 12px 16px; font-size: 13px; font-family: var(--font-mono); }
+
+    .oblast-popup .leaflet-popup-content-wrapper {
+      background: var(--bg-elevated);
+      color: var(--text-primary);
+      border: 1px solid var(--border-active);
+      border-radius: 0;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.5), 0 0 15px var(--cyan-dim);
+      max-width: 320px;
+    }
+    .oblast-popup .leaflet-popup-tip { background: var(--bg-elevated); }
+    .oblast-popup .leaflet-popup-content { margin: 14px 18px; font-size: 13px; font-family: var(--font-mono); }
+
+    .popup-headline-list {
+      list-style: none;
+      margin: 10px 0 0;
+      padding: 0;
+    }
+    .popup-headline {
+      padding: 8px 10px;
+      margin-bottom: 4px;
+      border-radius: 0;
+      font-size: 12px;
+      line-height: 1.4;
+      cursor: pointer;
+      color: var(--text-secondary);
+      border-left: 2px solid var(--border);
+      transition: all var(--transition);
+    }
+    .popup-headline:hover {
+      background: var(--bg-card);
+      color: var(--text-primary);
+      border-left-color: var(--cyan);
+    }
+    .popup-headline-time {
+      font-size: 10px;
+      font-family: var(--font-mono);
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
+    .popup-no-news {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-top: 8px;
+      font-style: italic;
+    }
+
+    .oblast-tooltip {
+      background: var(--bg-elevated) !important;
+      color: var(--cyan) !important;
+      border: 1px solid var(--border-active) !important;
+      border-radius: 0 !important;
+      padding: 6px 10px !important;
+      font-size: 11px !important;
+      font-family: var(--font-mono) !important;
+      letter-spacing: 1px !important;
+      text-transform: uppercase !important;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.4) !important;
+    }
+
+    /* ==================== FEED PANEL ==================== */
+    .feed-panel {
+      flex: 0 0 40%;
+      display: flex;
+      flex-direction: column;
+      background: var(--bg-surface);
+      overflow: hidden;
+      position: relative;
+      box-shadow: inset 0 0 40px rgba(0,229,255,0.02), inset 0 0 2px rgba(0,229,255,0.06);
+    }
+
+    /* HUD corner brackets */
+    .feed-panel::before,
+    .feed-panel::after {
+      content: '';
+      position: absolute;
+      width: 18px;
+      height: 18px;
+      z-index: 10;
+      pointer-events: none;
+    }
+    .feed-panel::before {
+      top: 6px;
+      left: 6px;
+      border-top: 2px solid var(--cyan);
+      border-left: 2px solid var(--cyan);
+      opacity: 0.4;
+    }
+    .feed-panel::after {
+      bottom: 6px;
+      right: 6px;
+      border-bottom: 2px solid var(--cyan);
+      border-right: 2px solid var(--cyan);
+      opacity: 0.4;
+    }
+
+    .feed-header {
+      padding: 16px 20px 12px;
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+
+    .feed-title-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 12px;
+    }
+
+    .feed-title {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--green);
+      letter-spacing: 2px;
+      font-family: var(--font-mono);
+      text-transform: uppercase;
+      text-shadow: 0 0 10px var(--green-dim);
+    }
+
+    .feed-count {
+      font-size: 11px;
+      color: var(--cyan);
+      font-family: var(--font-mono);
+      text-shadow: 0 0 6px var(--cyan-dim);
+    }
+
+    .feed-filters {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .filter-btn {
+      padding: 5px 10px;
+      font-size: 10px;
+      font-family: var(--font-mono);
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      border: 1px solid var(--border);
+      border-radius: 0;
+      background: transparent;
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: all var(--transition);
+      white-space: nowrap;
+    }
+    .filter-btn:hover {
+      border-color: var(--border-active);
+      color: var(--text-primary);
+      background: var(--bg-elevated);
+    }
+    .filter-btn.active {
+      border-color: var(--cyan);
+      color: var(--cyan);
+      background: var(--cyan-dim);
+    }
+
+    .feed-list {
+      flex: 1;
+      overflow-y: auto;
+      padding: 12px 16px;
+    }
+
+    .feed-item {
+      display: block;
+      padding: 18px 20px;
+      margin-bottom: 10px;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--border);
+      border-radius: 0;
+      transition: all var(--transition);
+      animation: feedItemIn 0.4s ease-out;
+      cursor: pointer;
+      text-decoration: none;
+      color: inherit;
+      position: relative;
+    }
+    .feed-item::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 0;
+      height: 0;
+      border-style: solid;
+      border-width: 0 10px 10px 0;
+      border-color: transparent var(--bg-surface) transparent transparent;
+    }
+    .feed-item:hover {
+      border-color: var(--border-active);
+      background: var(--bg-card);
+    }
+    /* Severity left-border colors */
+    .feed-item.border-critical { border-left-color: var(--red); }
+    .feed-item.border-high { border-left-color: #ff6432; }
+    .feed-item.border-medium { border-left-color: var(--amber); }
+    .feed-item.border-low { border-left-color: var(--blue); }
+    .feed-item.border-critical:hover { border-left-color: var(--red); }
+    .feed-item.border-high:hover { border-left-color: #ff6432; }
+    .feed-item.border-medium:hover { border-left-color: var(--amber); }
+    .feed-item.border-low:hover { border-left-color: var(--blue); }
+
+    @keyframes feedItemIn {
+      from { opacity: 0; transform: translateY(-8px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .feed-item-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      margin-bottom: 0;
+    }
+
+    .feed-category-icon { font-size: 20px; flex-shrink: 0; margin-top: 1px; }
+
+    .feed-item-title {
+      font-size: 14.5px;
+      font-weight: 600;
+      color: var(--text-primary);
+      flex: 1;
+      line-height: 1.4;
+    }
+
+    .feed-item-expand {
+      flex-shrink: 0;
+      font-size: 12px;
+      color: var(--text-muted);
+      transition: transform var(--transition);
+      margin-top: 3px;
+    }
+    .feed-item.expanded .feed-item-expand { transform: rotate(90deg); }
+
+    .feed-severity {
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      padding: 3px 9px;
+      border-radius: 0;
+      flex-shrink: 0;
+      margin-top: 2px;
+      font-family: var(--font-mono);
+    }
+    .severity-critical { background: var(--red-dim); color: var(--red); }
+    .severity-high { background: rgba(255,100,50,0.15); color: #ff6432; }
+    .severity-medium { background: var(--amber-dim); color: var(--amber); }
+    .severity-low { background: rgba(59,130,246,0.15); color: var(--blue); }
+
+    .feed-item-body {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.35s ease, opacity 0.25s ease, margin 0.35s ease;
+      opacity: 0;
+      margin-top: 0;
+    }
+    .feed-item.expanded .feed-item-body {
+      max-height: 600px;
+      opacity: 1;
+      margin-top: 14px;
+    }
+
+    .feed-item-description {
+      font-size: 13.5px;
+      color: #a0aab8;
+      line-height: 1.65;
+      margin-bottom: 12px;
+    }
+
+    .feed-item-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 11px;
+      font-weight: 500;
+      color: var(--cyan);
+      text-decoration: none;
+      margin-bottom: 12px;
+      font-family: var(--font-mono);
+      letter-spacing: 0.5px;
+      transition: color var(--transition);
+    }
+    .feed-item-link:hover { color: #60e5ff; text-decoration: underline; }
+
+    .feed-item-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 11px;
+      color: var(--cyan);
+      opacity: 0.6;
+      font-family: var(--font-mono);
+      margin-top: 10px;
+      text-shadow: 0 0 6px var(--cyan-dim);
+    }
+    .feed-item.expanded .feed-item-meta { margin-top: 0; }
+
+    .feed-item-location { display: flex; align-items: center; gap: 4px; }
+
+    .feed-item.highlight {
+      border-color: var(--cyan);
+      box-shadow: 0 0 0 1px var(--cyan), 0 0 20px var(--cyan-dim);
+    }
+
+    .feed-empty {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 200px;
+      color: var(--cyan);
+      opacity: 0.4;
+      font-size: 12px;
+      font-family: var(--font-mono);
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      text-align: center;
+      gap: 8px;
+    }
+    .feed-empty-icon { font-size: 32px; opacity: 0.3; }
+
+    /* ==================== CONTROLS BAR ==================== */
+    .controls-bar {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 20px;
+      background: var(--bg-primary);
+      border-top: 1px solid var(--border);
+      min-height: 48px;
+      z-index: 100;
+      font-family: var(--font-mono);
+    }
+
+    .ctrl-btn {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 7px 14px;
+      font-size: 10px;
+      font-family: var(--font-mono);
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      border: 1px solid var(--border);
+      border-radius: 0;
+      background: var(--bg-elevated);
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: all var(--transition);
+      white-space: nowrap;
+    }
+    .ctrl-btn:hover {
+      border-color: var(--border-active);
+      color: var(--cyan);
+      background: var(--bg-card);
+    }
+    .ctrl-btn.active {
+      border-color: var(--green);
+      color: var(--green);
+      background: var(--green-dim);
+      box-shadow: 0 0 8px var(--green-dim);
+    }
+    .ctrl-btn.loading {
+      pointer-events: none;
+      opacity: 0.6;
+    }
+
+    .ctrl-select {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-left: auto;
+    }
+    .ctrl-select label {
+      font-size: 10px;
+      color: var(--text-muted);
+      white-space: nowrap;
+      font-family: var(--font-mono);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .ctrl-select select {
+      padding: 6px 10px;
+      font-size: 11px;
+      font-family: var(--font-mono);
+      border: 1px solid var(--border);
+      border-radius: 0;
+      background: var(--bg-elevated);
+      color: var(--cyan);
+      cursor: pointer;
+      outline: none;
+    }
+    .ctrl-select select:focus { border-color: var(--cyan); }
+
+    .next-refresh {
+      font-size: 10px;
+      color: var(--cyan);
+      opacity: 0.5;
+      font-family: var(--font-mono);
+      white-space: nowrap;
+      text-shadow: 0 0 6px var(--cyan-dim);
+    }
+
+    /* ==================== LOADING OVERLAY ==================== */
+    .loading-overlay {
+      position: absolute;
+      inset: 0;
+      background: rgba(3,6,8,0.9);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      z-index: 50;
+      backdrop-filter: blur(6px);
+    }
+    .loading-overlay.hidden { display: none; }
+
+    .loading-spinner {
+      width: 60px;
+      height: 60px;
+      position: relative;
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .loading-spinner::before {
+      content: '+';
+      font-family: var(--font-mono);
+      font-size: 28px;
+      font-weight: 300;
+      color: var(--cyan);
+      text-shadow: 0 0 15px var(--cyan);
+      animation: crosshairPulse 1.5s ease-in-out infinite;
+    }
+    .loading-spinner::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      border: 2px solid transparent;
+      border-top-color: var(--cyan);
+      border-right-color: rgba(0,229,255,0.3);
+      border-radius: 50%;
+      animation: crosshairRing 1.2s linear infinite;
+    }
+
+    @keyframes crosshairPulse {
+      0%, 100% { opacity: 0.5; transform: scale(0.9); }
+      50% { opacity: 1; transform: scale(1.1); }
+    }
+    @keyframes crosshairRing {
+      to { transform: rotate(360deg); }
+    }
+
+    .loading-text {
+      font-size: 11px;
+      color: var(--cyan);
+      font-family: var(--font-mono);
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      animation: loadPulse 2s ease-in-out infinite;
+      text-shadow: 0 0 8px var(--cyan-dim);
+    }
+    @keyframes loadPulse {
+      0%, 100% { opacity: 0.4; }
+      50% { opacity: 1; }
+    }
+
+    .hidden { display: none !important; }
+
+    /* ==================== TOAST ==================== */
+    .toast {
+      position: fixed;
+      bottom: 72px;
+      left: 50%;
+      transform: translateX(-50%) translateY(20px);
+      padding: 12px 24px;
+      background: var(--bg-card);
+      border: 1px solid var(--red-dim);
+      border-radius: 0;
+      color: var(--text-primary);
+      font-size: 12px;
+      font-family: var(--font-mono);
+      z-index: 2000;
+      opacity: 0;
+      transition: all 0.3s ease;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.4), 0 0 10px var(--red-dim);
+      max-width: 90vw;
+    }
+    .toast.visible {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+
+    /* ==================== RESPONSIVE ==================== */
+    @media (max-width: 860px) {
+      .main-content { flex-direction: column; }
+      .map-panel {
+        flex: 0 0 45%;
+        border-right: none;
+        border-bottom: 1px solid var(--border);
+      }
+      .feed-panel { flex: 1; }
+      .alert-banner { padding: 0 16px; height: 64px; }
+      .alert-status-text { font-size: 18px; }
+      .source-badges { display: none; }
+      .controls-bar { flex-wrap: wrap; padding: 8px 12px; gap: 6px; }
+      .ctrl-btn { padding: 6px 10px; font-size: 11px; }
+      .feed-header { padding: 12px 14px 10px; }
+    }
+
+    @media (max-width: 500px) {
+      .map-panel { flex: 0 0 35%; }
+      .alert-banner { height: 56px; }
+      .alert-status-text { font-size: 16px; letter-spacing: 1px; }
+      .alert-locations { font-size: 11px; }
+    }
+
+    /* Layer toggle panel */
+    .layer-toggles {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      z-index: 1000;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    .layer-toggle {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 10px;
+      font-size: 10px;
+      font-family: var(--font-mono);
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      border: 1px solid var(--border);
+      border-radius: 0;
+      background: rgba(8,13,24,0.9);
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: all var(--transition);
+      white-space: nowrap;
+      backdrop-filter: blur(8px);
+    }
+    .layer-toggle:hover { border-color: var(--border-active); color: var(--text-primary); }
+    .layer-toggle.active.frontline { border-color: #ff2952; color: #ff2952; background: rgba(255,41,82,0.1); box-shadow: 0 0 8px rgba(255,41,82,0.15); }
+    .layer-toggle.active.fire { border-color: #ff6b00; color: #ff6b00; background: rgba(255,107,0,0.1); box-shadow: 0 0 8px rgba(255,107,0,0.15); }
+    .layer-toggle.active.seismic { border-color: #8b5cf6; color: #8b5cf6; background: rgba(139,92,246,0.1); box-shadow: 0 0 8px rgba(139,92,246,0.15); }
+    .layer-toggle.active.aq { border-color: #22c55e; color: #22c55e; background: rgba(34,197,94,0.1); box-shadow: 0 0 8px rgba(34,197,94,0.15); }
+    .layer-count {
+      font-size: 9px;
+      font-family: var(--font-mono);
+      padding: 1px 5px;
+      border-radius: 0;
+      background: rgba(255,255,255,0.06);
+    }
+
+    /* Fire marker pulse */
+    @keyframes firePulse { 0%,100%{opacity:.7} 50%{opacity:1} }
+  </style>
+</head>
+<body>
+
+  <!-- ==================== ALERT BANNER ==================== -->
+  <header id="alertBanner" class="alert-banner checking">
+    <div class="alert-left">
+      <div class="alert-indicator"></div>
+      <span class="alert-status-text" id="alertStatusText">CONNECTING</span>
+    </div>
+    <div class="source-badges" id="sourceBadges"></div>
+    <div class="alert-right">
+      <span class="alert-locations" id="alertLocations">Brovary · Kyiv · Boguslav</span>
+      <span class="alert-timestamp" id="alertTimestamp">—</span>
+    </div>
+  </header>
+
+  <!-- ==================== MAIN CONTENT ==================== -->
+  <div class="main-content">
+
+    <!-- Map -->
+    <section class="map-panel">
+      <div class="layer-toggles" id="layerToggles">
+        <button class="layer-toggle frontline active" id="toggleFrontline" onclick="toggleLayer('frontline')">🔴 Frontline <span class="layer-count" id="frontlineCount">—</span></button>
+        <button class="layer-toggle fire active" id="toggleFires" onclick="toggleLayer('fires')">🔥 Fires <span class="layer-count" id="firesCount">0</span></button>
+        <button class="layer-toggle seismic active" id="toggleSeismic" onclick="toggleLayer('seismic')">🌍 Seismic <span class="layer-count" id="seismicCount">0</span></button>
+        <button class="layer-toggle aq" id="toggleAQ" onclick="toggleLayer('airquality')">🌫 Air Quality <span class="layer-count" id="aqCount">0</span></button>
+      </div>
+      <div id="map"></div>
+      <div id="mapLoading" class="loading-overlay">
+        <div class="loading-spinner"></div>
+        <span class="loading-text">Acquiring tactical data...</span>
+      </div>
+    </section>
+
+    <!-- Feed -->
+    <section class="feed-panel">
+      <div class="feed-header">
+        <div class="feed-title-row">
+          <span class="feed-title">LIVE FEED</span>
+          <span class="feed-count" id="feedCount">0 items</span>
+        </div>
+        <div class="feed-filters">
+          <button class="filter-btn active" data-category="all" onclick="setFilter('all')">All</button>
+          <button class="filter-btn" data-category="missile" onclick="setFilter('missile')">🚀 Missile</button>
+          <button class="filter-btn" data-category="drone" onclick="setFilter('drone')">🛩️ Drone</button>
+          <button class="filter-btn" data-category="shelling" onclick="setFilter('shelling')">💥 Shelling</button>
+          <button class="filter-btn" data-category="alert" onclick="setFilter('alert')">⚠️ Alert</button>
+          <button class="filter-btn" data-category="political" onclick="setFilter('political')">📢 Political</button>
+          <button class="filter-btn" data-category="fire" onclick="setFilter('fire')">🔥 Fires</button>
+          <button class="filter-btn" data-category="seismic" onclick="setFilter('seismic')">🌍 Seismic</button>
+        </div>
+      </div>
+      <div class="feed-list" id="feedList">
+        <div class="feed-empty">
+          <span class="feed-empty-icon">📡</span>
+          <span>SYS> Establishing secure links...</span>
+        </div>
+      </div>
+    </section>
+
+  </div>
+
+  <!-- ==================== CONTROLS BAR ==================== -->
+  <footer class="controls-bar">
+    <button class="ctrl-btn" id="refreshBtn" onclick="manualRefresh()">🔄 Refresh</button>
+    <button class="ctrl-btn" id="notifBtn" onclick="toggleNotifications()">🔔 Notifications</button>
+    <button class="ctrl-btn" id="audioBtn" onclick="toggleAudio()">🔊 Audio</button>
+    <span class="next-refresh" id="nextRefreshText"></span>
+    <div class="ctrl-select">
+      <label>Auto-refresh:</label>
+      <select id="intervalSelect" onchange="updateInterval()">
+        <option value="60000">1 min</option>
+        <option value="120000" selected>2 min</option>
+        <option value="300000">5 min</option>
+        <option value="600000">10 min</option>
+        <option value="0">Off</option>
+      </select>
+    </div>
+    <div class="ctrl-select">
+      <label>FIRMS key:</label>
+      <input type="text" id="firmsKeyInput" placeholder="NASA MAP_KEY" style="width:110px;padding:3px 6px;font-size:11px;background:var(--bg-card);color:var(--text-primary);border:1px solid var(--border);border-radius:var(--radius-xs);font-family:var(--font-mono)" value="" onchange="saveFirmsKey(this.value)">
+    </div>
+  </footer>
+
+  <!-- ==================== TOAST ==================== -->
+  <div id="toast" class="toast"></div>
+
+  <!-- ==================== SCRIPTS ==================== -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    // ================================================================
+    //  UKRAINE SAFETY MONITOR — Free Edition (zero API keys needed)
+    //
+    //  Data sources:
+    //    Alerts  → alerts.in.ua public API via CORS proxy
+    //    News    → Ukrainska Pravda + UNIAN English RSS via rss2json
+    // ================================================================
+
+    // ==================== CONFIG ====================
+    const TARGET_CITIES = [
+      { name: 'Brovary',  lat: 50.5114, lng: 30.7906 },
+      { name: 'Kyiv',     lat: 50.4501, lng: 30.5234 },
+      { name: 'Boguslav', lat: 49.5436, lng: 30.8761 }
+    ];
+
+    // Oblast center coords + approximate radii for map circles
+    const OBLASTS = {
+      'Vinnytsia':       { lat: 49.23, lng: 28.47, r: 60000 },
+      'Volyn':           { lat: 51.05, lng: 25.00, r: 55000 },
+      'Dnipropetrovsk':  { lat: 48.46, lng: 35.05, r: 70000 },
+      'Donetsk':         { lat: 48.00, lng: 37.80, r: 65000 },
+      'Zhytomyr':        { lat: 50.70, lng: 28.70, r: 65000 },
+      'Zakarpattia':     { lat: 48.45, lng: 23.00, r: 45000 },
+      'Zaporizhzhia':    { lat: 47.50, lng: 35.50, r: 55000 },
+      'Ivano-Frankivsk': { lat: 48.70, lng: 24.60, r: 45000 },
+      'Kyiv Oblast':     { lat: 50.35, lng: 30.60, r: 60000 },
+      'Kyiv City':       { lat: 50.45, lng: 30.52, r: 18000 },
+      'Kirovohrad':      { lat: 48.50, lng: 32.30, r: 55000 },
+      'Luhansk':         { lat: 48.90, lng: 39.00, r: 60000 },
+      'Lviv':            { lat: 49.85, lng: 24.00, r: 55000 },
+      'Mykolaiv':        { lat: 47.00, lng: 32.00, r: 55000 },
+      'Odesa':           { lat: 46.70, lng: 30.70, r: 65000 },
+      'Poltava':         { lat: 49.60, lng: 34.50, r: 60000 },
+      'Rivne':           { lat: 50.90, lng: 26.20, r: 50000 },
+      'Sumy':            { lat: 51.00, lng: 34.50, r: 60000 },
+      'Ternopil':        { lat: 49.50, lng: 25.60, r: 45000 },
+      'Kharkiv':         { lat: 49.80, lng: 36.40, r: 65000 },
+      'Kherson':         { lat: 46.80, lng: 33.50, r: 55000 },
+      'Khmelnytskyi':    { lat: 49.40, lng: 27.00, r: 50000 },
+      'Cherkasy':        { lat: 49.40, lng: 32.00, r: 55000 },
+      'Chernivtsi':      { lat: 48.30, lng: 25.90, r: 40000 },
+      'Chernihiv':       { lat: 51.40, lng: 31.50, r: 60000 },
+      'Crimea':          { lat: 45.30, lng: 34.10, r: 70000 }
+    };
+
+    // Mapping: alerts.in.ua uid → our oblast key
+    // alerts.in.ua uses numeric UIDs for each oblast
+    const UID_TO_OBLAST = {
+      '1':  'Vinnytsia',
+      '2':  'Volyn',
+      '3':  'Dnipropetrovsk',
+      '4':  'Donetsk',
+      '5':  'Zhytomyr',
+      '6':  'Zakarpattia',
+      '7':  'Zaporizhzhia',
+      '8':  'Ivano-Frankivsk',
+      '9':  'Kyiv Oblast',
+      '10': 'Kirovohrad',
+      '11': 'Luhansk',
+      '12': 'Lviv',
+      '13': 'Mykolaiv',
+      '14': 'Odesa',
+      '15': 'Poltava',
+      '16': 'Rivne',
+      '17': 'Sumy',
+      '18': 'Ternopil',
+      '19': 'Kharkiv',
+      '20': 'Kherson',
+      '21': 'Khmelnytskyi',
+      '22': 'Cherkasy',
+      '23': 'Chernivtsi',
+      '24': 'Chernihiv',
+      '25': 'Kyiv City',
+      '26': 'Crimea'
+    };
+
+    const CATEGORY_ICONS = {
+      missile: '🚀', drone: '🛩️', shelling: '💥',
+      alert: '⚠️', political: '📢', unknown: '📋',
+      fire: '🔥', seismic: '🌍'
+    };
+
+    // CORS proxies — we try them in order until one works
+    const CORS_PROXIES = [
+      url => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
+      url => `https://corsproxy.io/?${encodeURIComponent(url)}`
+    ];
+
+    // RSS feeds for news
+    const RSS_FEEDS = [
+      { url: 'https://www.pravda.com.ua/eng/rss/view_news/', name: 'Ukrainska Pravda' },
+      { url: 'https://rss.unian.net/site/news_eng.rss', name: 'UNIAN' }
+    ];
+
+    // NASA FIRMS satellite fire detection
+    const FIRMS_CONFIG = {
+      country: 'UKR',
+      days: 1,
+      source: 'VIIRS_NOAA20_NRT',
+      getUrl(key) {
+        return `https://firms.modaps.eosdis.nasa.gov/api/area/csv/${key}/${this.source}/${this.country}/${this.days}`;
+      },
+      MIN_CONFIDENCE: 'nominal'
+    };
+
+    // USGS seismic / explosion detection (Ukraine bounding box)
+    const SEISMIC_CONFIG = {
+      minLat: 44, maxLat: 53, minLng: 22, maxLng: 41,
+      minMagnitude: 1.0, days: 7,
+      getUrl() {
+        const end = new Date().toISOString();
+        const start = new Date(Date.now() - this.days * 86400000).toISOString();
+        return `https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=${start}&endtime=${end}&minlatitude=${this.minLat}&maxlatitude=${this.maxLat}&minlongitude=${this.minLng}&maxlongitude=${this.maxLng}&minmagnitude=${this.minMagnitude}`;
+      }
+    };
+
+    // Air quality monitoring cities
+    const AIR_QUALITY_CITIES = [
+      { name: 'Kyiv', lat: 50.45, lng: 30.52 },
+      { name: 'Kharkiv', lat: 49.99, lng: 36.23 },
+      { name: 'Odesa', lat: 46.48, lng: 30.73 },
+      { name: 'Dnipro', lat: 48.46, lng: 35.05 },
+      { name: 'Lviv', lat: 49.84, lng: 24.03 },
+      { name: 'Zaporizhzhia', lat: 47.84, lng: 35.14 }
+    ];
+
+    // ==================== STATE ====================
+    const state = {
+      interval: parseInt(localStorage.getItem('ukr_interval')) || 120000,
+      notificationsEnabled: localStorage.getItem('ukr_notif') === 'true',
+      audioEnabled: localStorage.getItem('ukr_audio') === 'true',
+      alertActive: false,
+      previousAlertActive: null,
+      incidents: [],
+      oblastAlerts: {},
+      activeFilter: 'all',
+      isLoading: false,
+      refreshTimer: null,
+      nextRefreshAt: null,
+      countdownTimer: null,
+      map: null,
+      oblastCircles: {},
+      cityMarkers: [],
+      audioCtx: null,
+      incidentLayer: null,
+      // Satellite & sensor data
+      firmsData: [],
+      firmsLayer: null,
+      seismicData: [],
+      seismicLayer: null,
+      airQualityData: {},
+      airQualityLayer: null,
+      // Frontline data
+      frontlineData: null,
+      frontlineLayer: null,
+      frontlineDate: null,
+      // Layer visibility (persisted)
+      layers: {
+        frontline: localStorage.getItem('ukr_layer_frontline') !== 'false',
+        fires: localStorage.getItem('ukr_layer_fires') !== 'false',
+        seismic: localStorage.getItem('ukr_layer_seismic') !== 'false',
+        airquality: localStorage.getItem('ukr_layer_aq') === 'true'
+      },
+      sourcesStatus: { alerts: null, news: null, firms: null, seismic: null, airquality: null, frontline: null }
+    };
+
+    // ==================== INIT ====================
+    function init() {
+      initMap();
+      restoreUIState();
+      fetchData();
+      startAutoRefresh();
+      // Start separate refresh cycles for real-time layers
+      if (state.layers.airquality) fetchAndRenderAirQuality();
+      setInterval(() => { if (state.layers.airquality) fetchAndRenderAirQuality(); }, 900000);
+    }
+
+    function restoreUIState() {
+      document.getElementById('intervalSelect').value = state.interval.toString();
+      if (state.notificationsEnabled) document.getElementById('notifBtn').classList.add('active');
+      if (state.audioEnabled) document.getElementById('audioBtn').classList.add('active');
+      // Restore FIRMS key
+      const firmsKey = localStorage.getItem('ukr_firms_key');
+      if (firmsKey) document.getElementById('firmsKeyInput').value = firmsKey;
+      // Restore layer toggle states
+      if (state.layers.frontline) document.getElementById('toggleFrontline').classList.add('active');
+      else document.getElementById('toggleFrontline').classList.remove('active');
+      if (state.layers.fires) document.getElementById('toggleFires').classList.add('active');
+      else document.getElementById('toggleFires').classList.remove('active');
+      if (state.layers.seismic) document.getElementById('toggleSeismic').classList.add('active');
+      else document.getElementById('toggleSeismic').classList.remove('active');
+      if (state.layers.airquality) document.getElementById('toggleAQ').classList.add('active');
+    }
+
+    // ==================== MAP ====================
+    function initMap() {
+      state.map = L.map('map', {
+        center: [49.0, 31.5],
+        zoom: 6,
+        zoomControl: true,
+        attributionControl: true
+      });
+
+      L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
+        subdomains: 'abcd',
+        maxZoom: 18
+      }).addTo(state.map);
+
+      // Oblast zones — start hidden, only appear when they have alerts or news
+      Object.entries(OBLASTS).forEach(([name, cfg]) => {
+        const circle = L.circle([cfg.lat, cfg.lng], {
+          radius: cfg.r,
+          color: 'transparent',
+          fillColor: 'transparent',
+          fillOpacity: 1,
+          weight: 0
+        }).addTo(state.map);
+
+        circle.on('click', () => showOblastDetails(name));
+        state.oblastCircles[name] = circle;
+      });
+
+      // Target city markers
+      TARGET_CITIES.forEach(city => {
+        const icon = L.divIcon({
+          className: '',
+          html: `<div class="city-marker" id="marker-${city.name}"><div class="city-marker-inner"></div></div>`,
+          iconSize: [28, 28],
+          iconAnchor: [14, 14]
+        });
+        const marker = L.marker([city.lat, city.lng], { icon })
+          .addTo(state.map)
+          .bindPopup(
+            `<div style="text-align:center"><strong>${city.name}</strong><br><span style="font-size:11px;color:#7a8599">Kyiv Oblast</span></div>`,
+            { className: 'city-popup' }
+          );
+        state.cityMarkers.push({ name: city.name, marker });
+      });
+    }
+
+    function oblastHasNews(name) {
+      const keys = getSearchKeys(name);
+      return state.incidents.some(i => {
+        const text = ((i.title || '') + ' ' + (i.description || '') + ' ' + (i.location || '')).toLowerCase();
+        return keys.some(key => text.includes(key));
+      });
+    }
+
+    function updateMapAlerts(oblastAlerts) {
+      Object.entries(state.oblastCircles).forEach(([name, circle]) => {
+        const hasAlert = !!oblastAlerts[name];
+        const hasNews = oblastHasNews(name);
+
+        circle.unbindTooltip();
+
+        if (hasAlert) {
+          // Check if this oblast has high-severity news to decide intensity
+          const hasHighNews = state.incidents.some(i =>
+            (i.severity === 'critical' || i.severity === 'high') &&
+            getSearchKeys(name).some(k => ((i.title||'')+(i.description||'')+(i.location||'')).toLowerCase().includes(k))
+          );
+          if (hasHighNews) {
+            circle.setStyle({
+              color: 'rgba(255,41,82,0.5)',
+              fillColor: 'rgba(255,41,82,0.12)',
+              weight: 2
+            });
+            circle.bindTooltip(`🔴 ${name}`, { className: 'oblast-tooltip', direction: 'center', permanent: false });
+          } else {
+            // Alert active but no high-severity news — subtler amber outline
+            circle.setStyle({
+              color: 'rgba(255,176,32,0.35)',
+              fillColor: 'rgba(255,176,32,0.06)',
+              weight: 1
+            });
+            circle.bindTooltip(`🟡 ${name} — air alert`, { className: 'oblast-tooltip', direction: 'center', permanent: false });
+          }
+        } else if (hasNews) {
+          circle.setStyle({
+            color: 'rgba(255,255,255,0.1)',
+            fillColor: 'rgba(255,255,255,0.03)',
+            weight: 1
+          });
+          circle.bindTooltip(name, { className: 'oblast-tooltip', direction: 'center', permanent: false });
+        } else {
+          circle.setStyle({
+            color: 'transparent',
+            fillColor: 'transparent',
+            weight: 0
+          });
+        }
+      });
+
+      // City markers follow Kyiv Oblast status
+      const kyivAlert = oblastAlerts['Kyiv Oblast'] || oblastAlerts['Kyiv City'] || false;
+      state.cityMarkers.forEach(({ name }) => {
+        const el = document.getElementById(`marker-${name}`);
+        if (el) el.classList.toggle('alert-active', kyivAlert);
+      });
+    }
+
+    // Render precise city-level incident markers from news items
+    function renderIncidentMarkers() {
+      if (!state.incidentLayer) {
+        state.incidentLayer = L.layerGroup().addTo(state.map);
+      }
+      state.incidentLayer.clearLayers();
+
+      // Only place markers for incidents with a specific city (not generic "Ukraine")
+      const seen = new Set(); // avoid duplicate markers at same city
+      state.incidents.forEach((item, idx) => {
+        const loc = item.location;
+        const coords = CITY_COORDS[loc];
+        if (!coords || loc === 'Ukraine') return;
+
+        // Deduplicate: one marker per city, use highest severity
+        const key = loc;
+        if (seen.has(key)) return;
+        seen.add(key);
+
+        // Collect all incidents for this city
+        const cityIncidents = state.incidents.filter(i => i.location === loc);
+        const topSeverity = cityIncidents.reduce((best, i) => {
+          const order = { critical: 0, high: 1, medium: 2, low: 3 };
+          return (order[i.severity] ?? 3) < (order[best] ?? 3) ? i.severity : best;
+        }, 'low');
+
+        // Color by severity: red only for critical/high
+        let color, glowColor;
+        if (topSeverity === 'critical') { color = '#ff2952'; glowColor = 'rgba(255,41,82,0.6)'; }
+        else if (topSeverity === 'high') { color = '#ff6432'; glowColor = 'rgba(255,100,50,0.5)'; }
+        else if (topSeverity === 'medium') { color = '#ffb020'; glowColor = 'rgba(255,176,32,0.4)'; }
+        else { color = '#3b82f6'; glowColor = 'rgba(59,130,246,0.3)'; }
+
+        const isHighPriority = topSeverity === 'critical' || topSeverity === 'high';
+        const radius = isHighPriority ? 8 : 5;
+
+        const marker = L.circleMarker([coords.lat, coords.lng], {
+          radius,
+          color: color,
+          fillColor: color,
+          fillOpacity: isHighPriority ? 0.8 : 0.5,
+          weight: isHighPriority ? 2 : 1,
+          opacity: 0.9
+        });
+
+        // Build popup with city incidents
+        const sevIcon = { critical: '🔴', high: '🟠', medium: '🟡', low: '🔵' };
+        let popup = `<div style="font-size:13px"><strong>${sevIcon[topSeverity] || ''} ${loc}</strong>`;
+        popup += `<br><span style="color:${color};font-weight:600">${topSeverity.toUpperCase()}</span>`;
+        popup += `<ul style="list-style:none;padding:0;margin:6px 0 0">`;
+        cityIncidents.slice(0, 4).forEach(ci => {
+          const icon = CATEGORY_ICONS[ci.category] || '';
+          const linkUrl = ci.link ? escapeAttr(ci.link) : '';
+          popup += `<li style="padding:4px 0;font-size:11px;border-bottom:1px solid rgba(255,255,255,0.05);cursor:pointer" `
+            + `onclick="${linkUrl ? `window.open('${linkUrl}','_blank')` : ''}">`
+            + `${icon} ${escapeHtml(ci.title)}`
+            + `<div style="font-size:9px;color:#7a8599">${escapeHtml(ci.time)} · ${escapeHtml(ci.source)}${linkUrl ? ' · <span style=color:#3b82f6>open ↗</span>' : ''}</div></li>`;
+        });
+        popup += `</ul></div>`;
+
+        marker.bindPopup(popup, { className: 'oblast-popup', maxWidth: 300 });
+        state.incidentLayer.addLayer(marker);
+      });
+    }
+
+    // Aliases for oblast names so news text matching is broader
+    const OBLAST_ALIASES = {
+      'Dnipropetrovsk': ['dnipro', 'dnipropetrovsk', 'kryvyi rih', 'krivoy rog'],
+      'Kyiv Oblast':    ['kyiv', 'kiev', 'brovary', 'boguslav', 'boryspil', 'irpin', 'bucha'],
+      'Kyiv City':      ['kyiv', 'kiev'],
+      'Zaporizhzhia':   ['zaporizhzhia', 'zaporizhia', 'zaporozhye', 'zaporiz', 'energodar'],
+      'Donetsk':        ['donetsk', 'bakhmut', 'kramatorsk', 'avdiivka', 'pokrovsk', 'mariupol', 'sloviansk'],
+      'Luhansk':        ['luhansk', 'lugansk', 'sievierodonetsk', 'lysychansk', 'kupyansk'],
+      'Kharkiv':        ['kharkiv', 'kharkov', 'kupyansk'],
+      'Kherson':        ['kherson'],
+      'Odesa':          ['odesa', 'odessa', 'izmail'],
+      'Mykolaiv':       ['mykolaiv', 'nikolaev'],
+      'Lviv':           ['lviv'],
+      'Sumy':           ['sumy'],
+      'Chernihiv':      ['chernihiv', 'chernigov'],
+      'Poltava':        ['poltava'],
+      'Crimea':         ['crimea', 'sevastopol'],
+      'Vinnytsia':      ['vinnytsia', 'vinnytsya', 'vinnitsa'],
+      'Volyn':          ['volyn', 'lutsk'],
+      'Zhytomyr':       ['zhytomyr'],
+      'Zakarpattia':    ['zakarpattia', 'uzhhorod', 'uzhgorod', 'transcarpathia'],
+      'Ivano-Frankivsk':['ivano-frankivsk', 'ivano frankivsk', 'frankivsk'],
+      'Kirovohrad':     ['kirovohrad', 'kropyvnytskyi', 'kirovograd'],
+      'Rivne':          ['rivne', 'rovno'],
+      'Ternopil':       ['ternopil', 'ternopol'],
+      'Khmelnytskyi':   ['khmelnytskyi', 'khmelnitsky', 'khmelnytsky'],
+      'Cherkasy':       ['cherkasy', 'cherkassy'],
+      'Chernivtsi':     ['chernivtsi', 'chernovtsy']
+    };
+
+    function getSearchKeys(oblastName) {
+      const base = oblastName.toLowerCase().replace(' oblast', '').replace(' city', '');
+      const aliases = OBLAST_ALIASES[oblastName];
+      return aliases ? aliases : [base];
+    }
+
+    function showOblastDetails(name) {
+      const isActive = !!state.oblastAlerts[name];
+      const status = isActive ? '🔴 ALERT ACTIVE' : '🟢 No active alerts';
+      const searchKeys = getSearchKeys(name);
+
+      // Find related HIGH-severity incidents (critical/high only for map popup)
+      const related = [];
+      state.incidents.forEach((item, idx) => {
+        if (item.severity !== 'critical' && item.severity !== 'high') return;
+        const text = ((item.title || '') + ' ' + (item.description || '') + ' ' + (item.location || '')).toLowerCase();
+        if (searchKeys.some(key => text.includes(key))) {
+          related.push({ ...item, idx });
+        }
+      });
+
+      // Fallback: if alert is active but no oblast-specific high-severity news, show recent critical/high conflict news
+      let fallback = false;
+      let displayItems = related;
+      if (related.length === 0 && isActive) {
+        fallback = true;
+        displayItems = [];
+        state.incidents.forEach((item, idx) => {
+          if ((item.severity === 'critical' || item.severity === 'high') &&
+              ['missile', 'drone', 'shelling', 'alert'].includes(item.category)) {
+            displayItems.push({ ...item, idx });
+          }
+        });
+        displayItems = displayItems.slice(0, 6);
+      }
+
+      let html = `<strong>${name}</strong><br>${status}`;
+
+      if (displayItems.length > 0) {
+        if (fallback) {
+          html += `<div style="font-size:11px;color:var(--text-muted);margin-top:6px;margin-bottom:2px">No area-specific news — showing latest alerts:</div>`;
+        }
+        html += `<ul class="popup-headline-list">`;
+        displayItems.slice(0, 6).forEach(item => {
+          const icon = CATEGORY_ICONS[item.category] || '';
+          const linkUrl = item.link ? escapeAttr(item.link) : '';
+          html += `<li class="popup-headline" onclick="${linkUrl ? `window.open('${linkUrl}','_blank')` : `scrollToFeedItem(${item.idx})`}">`
+            + `${icon} ${escapeHtml(item.title)}`
+            + `<div class="popup-headline-time">${escapeHtml(item.time)} · ${escapeHtml(item.source)}${linkUrl ? ' · <span style="color:var(--blue)">open ↗</span>' : ''}</div>`
+            + `</li>`;
+        });
+        html += `</ul>`;
+        if (!fallback && related.length > 6) {
+          html += `<div class="popup-headline-time" style="margin-top:6px">${related.length - 6} more...</div>`;
+        }
+      } else {
+        html += `<div class="popup-no-news">No recent news for this area</div>`;
+      }
+
+      L.popup({ className: 'oblast-popup', maxWidth: 320 })
+        .setLatLng([OBLASTS[name].lat, OBLASTS[name].lng])
+        .setContent(html)
+        .openOn(state.map);
+    }
+
+    function scrollToFeedItem(globalIdx) {
+      // Close the map popup
+      state.map.closePopup();
+
+      // Reset filter to "all" so the item is visible
+      if (state.activeFilter !== 'all') {
+        setFilter('all');
+      }
+
+      // Find the feed item with matching data-index
+      const el = document.querySelector(`.feed-item[data-index="${globalIdx}"]`);
+      if (!el) return;
+
+      // Scroll into view
+      el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+
+      // Expand it
+      if (!el.classList.contains('expanded')) {
+        el.classList.add('expanded');
+      }
+
+      // Highlight briefly
+      el.classList.add('highlight');
+      setTimeout(() => el.classList.remove('highlight'), 2000);
+    }
+
+    // ==================== DATA FETCHING ====================
+    async function fetchData() {
+      if (state.isLoading) return;
+      state.isLoading = true;
+
+      setAlertBannerState('checking');
+      document.getElementById('alertStatusText').textContent = 'CHECKING';
+      document.getElementById('mapLoading').classList.remove('hidden');
+      document.getElementById('refreshBtn').classList.add('loading');
+
+      // Fetch all sources in parallel
+      const [alertResult, newsResult, firmsResult, seismicResult, frontlineResult] = await Promise.all([
+        fetchAlerts(),
+        fetchNews(),
+        fetchFirms(),
+        fetchSeismic(),
+        fetchFrontline()
+      ]);
+
+      // Process alert data
+      state.sourcesStatus.alerts = alertResult.ok;
+      if (alertResult.ok) {
+        applyAlertData(alertResult.data);
+      } else {
+        setAlertBannerState('error');
+        document.getElementById('alertStatusText').textContent = 'ALERTS UNAVAILABLE';
+      }
+
+      // Process news data
+      state.sourcesStatus.news = newsResult.ok;
+      if (newsResult.ok && newsResult.data.length > 0) {
+        state.incidents = newsResult.data;
+      } else if (state.incidents.length === 0) {
+        document.getElementById('feedList').innerHTML = `
+          <div class="feed-empty">
+            <span class="feed-empty-icon">⚠️</span>
+            <span>Could not load news feeds.<br>Will retry on next refresh.</span>
+          </div>`;
+      }
+
+      // Process FIRMS fire data
+      if (!firmsResult.noKey) state.sourcesStatus.firms = firmsResult.ok;
+      if (firmsResult.ok) {
+        state.firmsData = firmsResult.data;
+        renderFiresLayer();
+        injectFireIncidents(firmsResult.data);
+      }
+
+      // Process seismic data
+      state.sourcesStatus.seismic = seismicResult.ok;
+      if (seismicResult.ok) {
+        state.seismicData = seismicResult.data;
+        renderSeismicLayer();
+        injectSeismicIncidents(seismicResult.data);
+      }
+
+      // Process frontline data
+      state.sourcesStatus.frontline = frontlineResult.ok;
+      if (frontlineResult.ok) {
+        state.frontlineData = frontlineResult.data;
+        state.frontlineDate = frontlineResult.date;
+        renderFrontlineLayer();
+      }
+
+      // Cross-correlate sources to enhance alerts
+      enhanceAlertSeverity();
+
+      // Render feed (now includes injected satellite/seismic items)
+      renderFeed();
+      renderIncidentMarkers();
+      updateSourceBadges();
+      updateLayerCounts();
+
+      // Finalize
+      state.isLoading = false;
+      document.getElementById('mapLoading').classList.add('hidden');
+      document.getElementById('refreshBtn').classList.remove('loading');
+      document.getElementById('alertTimestamp').textContent =
+        'Updated: ' + new Date().toLocaleTimeString();
+    }
+
+    // ---------- ALERTS ----------
+    async function fetchAlerts() {
+      // Try siren.pp.ua (no API key) via CORS proxies
+      for (const proxyFn of CORS_PROXIES) {
+        try {
+          const url = proxyFn('https://siren.pp.ua/api/v3/alerts');
+          const resp = await fetch(url, { signal: AbortSignal.timeout(10000) });
+          if (!resp.ok) continue;
+          const data = await resp.json();
+          return { ok: true, data, source: 'siren.pp.ua' };
+        } catch (e) {
+          continue;
+        }
+      }
+
+      // Fallback: try alerts.in.ua active alerts endpoint
+      for (const proxyFn of CORS_PROXIES) {
+        try {
+          const url = proxyFn('https://alerts.in.ua/api/states');
+          const resp = await fetch(url, { signal: AbortSignal.timeout(10000) });
+          if (!resp.ok) continue;
+          const data = await resp.json();
+          return { ok: true, data, source: 'alerts.in.ua' };
+        } catch (e) {
+          continue;
+        }
+      }
+
+      return { ok: false, data: null };
+    }
+
+    function applyAlertData(data) {
+      const oblastAlerts = {};
+
+      // Initialize all oblasts to false
+      Object.keys(OBLASTS).forEach(name => { oblastAlerts[name] = false; });
+
+      // siren.pp.ua wraps ukrainealarm.com — returns array of regions with active alerts
+      if (Array.isArray(data)) {
+        data.forEach(region => {
+          const hasActive = region.activeAlerts && region.activeAlerts.length > 0;
+          if (!hasActive) return;
+
+          // Try to match by regionName / regionEngName
+          const matched = matchOblastName(
+            region.regionEngName || region.regionName || region.regionTitle || ''
+          );
+          if (matched) {
+            oblastAlerts[matched] = true;
+          }
+
+          // Also try matching by regionId (ukrainealarm numeric IDs)
+          if (region.regionId && UID_TO_OBLAST[String(region.regionId)]) {
+            oblastAlerts[UID_TO_OBLAST[String(region.regionId)]] = true;
+          }
+        });
+      }
+      // alerts.in.ua /api/states format — array with {id, alert, changed}
+      else if (data && typeof data === 'object') {
+        // Handle object with states array
+        const states = data.states || data;
+        if (Array.isArray(states)) {
+          states.forEach(s => {
+            const id = String(s.id);
+            if (UID_TO_OBLAST[id] && s.alert) {
+              oblastAlerts[UID_TO_OBLAST[id]] = true;
+            }
+          });
+        }
+      }
+
+      state.oblastAlerts = oblastAlerts;
+
+      // Check Kyiv Oblast specifically
+      const wasActive = state.alertActive;
+      state.alertActive = oblastAlerts['Kyiv Oblast'] || oblastAlerts['Kyiv City'] || false;
+
+      if (state.alertActive) {
+        setAlertBannerState('danger');
+        document.getElementById('alertStatusText').textContent = 'AIR ALERT ACTIVE';
+        // Show which oblasts are under alert near Kyiv
+        const nearbyAlerts = ['Kyiv Oblast', 'Kyiv City', 'Chernihiv', 'Zhytomyr', 'Cherkasy']
+          .filter(n => oblastAlerts[n]);
+        document.getElementById('alertLocations').textContent =
+          nearbyAlerts.length > 0 ? nearbyAlerts.join(' · ') : 'Kyiv Oblast';
+      } else {
+        setAlertBannerState('safe');
+        document.getElementById('alertStatusText').textContent = 'SAFE';
+        document.getElementById('alertLocations').textContent = 'Brovary · Kyiv · Boguslav';
+      }
+
+      // Count total active alerts
+      const activeCount = Object.values(oblastAlerts).filter(Boolean).length;
+      if (activeCount > 0 && !state.alertActive) {
+        // Alerts exist elsewhere but not Kyiv
+        document.getElementById('alertLocations').textContent =
+          `Brovary · Kyiv · Boguslav  (${activeCount} oblast${activeCount > 1 ? 's' : ''} on alert)`;
+      }
+
+      // Fire notification on inactive → active transition
+      if (state.alertActive && !wasActive && state.previousAlertActive !== null) {
+        if (state.notificationsEnabled) {
+          sendNotification('⚠️ AIR ALERT — Kyiv Oblast', 'Air alert activated in Kyiv Oblast area!');
+        }
+        if (state.audioEnabled) playAlertSound();
+      }
+      state.previousAlertActive = state.alertActive;
+
+      updateMapAlerts(oblastAlerts);
+    }
+
+    function matchOblastName(name) {
+      if (!name) return null;
+      const n = name.toLowerCase();
+
+      const patterns = [
+        [/vinnyt/,           'Vinnytsia'],
+        [/volyn/,            'Volyn'],
+        [/dnipro/,           'Dnipropetrovsk'],
+        [/donetsk/,          'Donetsk'],
+        [/zhytomyr/,         'Zhytomyr'],
+        [/zakarpat/,         'Zakarpattia'],
+        [/zapori/,           'Zaporizhzhia'],
+        [/ivano/,            'Ivano-Frankivsk'],
+        [/kirovohrad|kropyvnytsk/, 'Kirovohrad'],
+        [/luhansk/,          'Luhansk'],
+        [/lviv/,             'Lviv'],
+        [/mykolaiv/,         'Mykolaiv'],
+        [/odes/,             'Odesa'],
+        [/poltav/,           'Poltava'],
+        [/rivne/,            'Rivne'],
+        [/sum[ys]/,          'Sumy'],
+        [/ternopil/,         'Ternopil'],
+        [/kharkiv/,          'Kharkiv'],
+        [/kherson/,          'Kherson'],
+        [/khmelnyt/,         'Khmelnytskyi'],
+        [/cherkas/,          'Cherkasy'],
+        [/chernivts/,        'Chernivtsi'],
+        [/chernihiv/,        'Chernihiv'],
+        [/crim/,             'Crimea'],
+      ];
+
+      // Kyiv needs special handling — city vs oblast
+      if (/kyiv|київ/.test(n)) {
+        if (/city|місто|town/.test(n) || n === 'kyiv' || n === 'київ') return 'Kyiv City';
+        return 'Kyiv Oblast';
+      }
+
+      for (const [re, oblast] of patterns) {
+        if (re.test(n)) return oblast;
+      }
+      return null;
+    }
+
+    // ---------- NEWS ----------
+    async function fetchNews() {
+      const allItems = [];
+
+      const results = await Promise.all(
+        RSS_FEEDS.map(feed =>
+          fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feed.url)}`)
+            .then(r => r.ok ? r.json() : Promise.reject('not ok'))
+            .then(data => {
+              if (data.status !== 'ok' || !data.items) return [];
+              return data.items.map(item => normalizeNewsItem(item, feed.name));
+            })
+            .catch(() => [])
+        )
+      );
+
+      results.forEach(items => allItems.push(...items));
+
+      // Sort newest first
+      allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+      // Deduplicate by title similarity
+      const seen = new Set();
+      const unique = allItems.filter(item => {
+        const key = item.title.toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 40);
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      });
+
+      return { ok: unique.length > 0, data: unique };
+    }
+
+    function normalizeNewsItem(item, sourceName) {
+      const title = stripHtml(item.title || '');
+      const description = stripHtml(item.description || item.content || '');
+      const text = (title + ' ' + description).toLowerCase();
+
+      return {
+        title,
+        description,
+        time: formatDate(item.pubDate),
+        pubDate: item.pubDate,
+        category: categorize(text),
+        severity: assessSeverity(text),
+        location: extractLocation(text),
+        source: sourceName,
+        link: item.link || ''
+      };
+    }
+
+    function categorize(text) {
+      if (/missile|ballistic|cruise missile|iskander|kalibr|kinzhal|s-300|s-400|rocket attack|rockets?/.test(text)) return 'missile';
+      if (/drone|uav|shahed|lancet|mohajer|geran|fpv|unmanned/.test(text)) return 'drone';
+      if (/shell|artiller|mlrs|grad|mortar|bombard|glide bomb|fab-|guided bomb|bomb/.test(text)) return 'shelling';
+      if (/air alert|air raid|siren|alarm|intercept|air defence|air defense/.test(text)) return 'alert';
+      if (/diplomat|sanction|negotiat|peace|summit|eu |nato |g7|election|parliament|zelensky|aid package|congress|weapon|support|alliance/.test(text)) return 'political';
+      if (/attack|strike|hit|explo|combat|front.?line|casualt|troops|brigade|offensive|defensive/.test(text)) return 'shelling';
+      return 'alert';
+    }
+
+    function assessSeverity(text) {
+      if (/kill|dead|fatalit|casualt|destroy|massive|emergency|death toll/i.test(text)) return 'critical';
+      if (/injur|damag|hit|strike|attack|wound|fire|target/i.test(text)) return 'high';
+      if (/intercept|shoot down|repel|threat|warning|launch|detect/i.test(text)) return 'medium';
+      return 'low';
+    }
+
+    // City coordinates for precise map markers
+    const CITY_COORDS = {
+      'Kyiv':           { lat: 50.4501, lng: 30.5234 },
+      'Kharkiv':        { lat: 49.9935, lng: 36.2304 },
+      'Odesa':          { lat: 46.4825, lng: 30.7233 },
+      'Dnipro':         { lat: 48.4647, lng: 35.0462 },
+      'Zaporizhzhia':   { lat: 47.8388, lng: 35.1396 },
+      'Lviv':           { lat: 49.8397, lng: 24.0297 },
+      'Mykolaiv':       { lat: 46.9750, lng: 31.9946 },
+      'Kherson':        { lat: 46.6354, lng: 32.6169 },
+      'Sumy':           { lat: 50.9077, lng: 34.7981 },
+      'Chernihiv':      { lat: 51.4982, lng: 31.2894 },
+      'Donetsk':        { lat: 48.0159, lng: 37.8029 },
+      'Luhansk':        { lat: 48.5740, lng: 39.3078 },
+      'Poltava':        { lat: 49.5883, lng: 34.5514 },
+      'Kryvyi Rih':     { lat: 47.9104, lng: 33.3918 },
+      'Brovary':        { lat: 50.5114, lng: 30.7906 },
+      'Boguslav':       { lat: 49.5436, lng: 30.8761 },
+      'Kramatorsk':     { lat: 48.7364, lng: 37.5556 },
+      'Bakhmut':        { lat: 48.5953, lng: 38.0008 },
+      'Avdiivka':       { lat: 48.1393, lng: 37.7432 },
+      'Pokrovsk':       { lat: 48.2863, lng: 37.1810 },
+      'Kursk':          { lat: 51.7304, lng: 36.1926 },
+      'Crimea':         { lat: 45.3453, lng: 34.0549 },
+      'Sevastopol':     { lat: 44.6167, lng: 33.5254 },
+      'Mariupol':       { lat: 47.0958, lng: 37.5495 },
+      'Izmail':         { lat: 45.3531, lng: 28.8340 },
+      'Kupyansk':       { lat: 49.7134, lng: 37.6120 },
+      'Vinnytsia':      { lat: 49.2331, lng: 28.4682 },
+      'Lutsk':          { lat: 50.7593, lng: 25.3424 },
+      'Zhytomyr':       { lat: 50.2547, lng: 28.6587 },
+      'Uzhhorod':       { lat: 48.6208, lng: 22.2879 },
+      'Ivano-Frankivsk':{ lat: 48.9226, lng: 24.7111 },
+      'Kropyvnytskyi':  { lat: 48.5079, lng: 32.2623 },
+      'Rivne':          { lat: 50.6199, lng: 26.2516 },
+      'Ternopil':       { lat: 49.5535, lng: 25.5948 },
+      'Khmelnytskyi':   { lat: 49.4230, lng: 26.9871 },
+      'Cherkasy':       { lat: 49.4444, lng: 32.0598 },
+      'Chernivtsi':     { lat: 48.2920, lng: 25.9358 },
+      'Energodar':      { lat: 47.4990, lng: 34.6573 },
+      'Sloviansk':      { lat: 48.8518, lng: 37.6184 },
+      'Nikopol':        { lat: 47.5716, lng: 34.3964 },
+      'Melitopol':      { lat: 46.8489, lng: 35.3675 },
+      'Berdiansk':      { lat: 46.7562, lng: 36.7945 },
+      'Irpin':          { lat: 50.5216, lng: 30.2531 },
+      'Bucha':          { lat: 50.5436, lng: 30.2134 },
+      'Kherson City':   { lat: 46.6354, lng: 32.6169 },
+      'Tokmak':         { lat: 47.2538, lng: 35.7075 },
+      'Orikhiv':        { lat: 47.5658, lng: 35.7853 },
+      'Huliaipole':     { lat: 47.6567, lng: 36.2625 }
+    };
+
+    function extractLocation(text) {
+      // Check most specific (smaller cities) first, then larger ones
+      const cityNames = Object.keys(CITY_COORDS);
+      // Sort by name length descending so "Kryvyi Rih" matches before "Kyiv"
+      cityNames.sort((a, b) => b.length - a.length);
+      for (const loc of cityNames) {
+        if (text.includes(loc.toLowerCase())) return loc;
+      }
+      return 'Ukraine';
+    }
+
+    function stripHtml(html) {
+      const tmp = document.createElement('div');
+      tmp.innerHTML = html;
+      return tmp.textContent || tmp.innerText || '';
+    }
+
+    function formatDate(dateStr) {
+      if (!dateStr) return '';
+      const d = new Date(dateStr);
+      if (isNaN(d.getTime())) return dateStr;
+      const now = new Date();
+      const diffMs = now - d;
+      const diffMin = Math.floor(diffMs / 60000);
+      if (diffMin < 1) return 'Just now';
+      if (diffMin < 60) return `${diffMin}m ago`;
+      const diffHr = Math.floor(diffMin / 60);
+      if (diffHr < 24) return `${diffHr}h ago`;
+      const diffDay = Math.floor(diffHr / 24);
+      if (diffDay < 7) return `${diffDay}d ago`;
+      return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short' });
+    }
+
+    // ==================== SATELLITE & SENSOR DATA ====================
+
+    function findNearestOblast(lat, lng) {
+      let minDist = Infinity, nearest = null;
+      Object.entries(OBLASTS).forEach(([name, cfg]) => {
+        const d = Math.sqrt(Math.pow(lat - cfg.lat, 2) + Math.pow(lng - cfg.lng, 2));
+        if (d < minDist) { minDist = d; nearest = name; }
+      });
+      return nearest;
+    }
+
+    // ---------- NASA FIRMS ----------
+    async function fetchFirms() {
+      const key = localStorage.getItem('ukr_firms_key');
+      if (!key) return { ok: false, data: [], noKey: true };
+      try {
+        const resp = await fetch(FIRMS_CONFIG.getUrl(key), { signal: AbortSignal.timeout(15000) });
+        if (!resp.ok) return { ok: false, data: [] };
+        const csv = await resp.text();
+        return { ok: true, data: parseFirmsCSV(csv) };
+      } catch (e) { return { ok: false, data: [] }; }
+    }
+
+    function parseFirmsCSV(csv) {
+      const lines = csv.trim().split('\n');
+      if (lines.length < 2) return [];
+      const hdr = lines[0].split(',').map(h => h.trim().toLowerCase());
+      const idx = k => hdr.indexOf(k);
+      const fires = [];
+      for (let i = 1; i < lines.length; i++) {
+        const c = lines[i].split(',');
+        if (c.length < hdr.length) continue;
+        const confidence = (c[idx('confidence')] || '').trim().toLowerCase();
+        if (FIRMS_CONFIG.MIN_CONFIDENCE === 'high' && confidence !== 'high') continue;
+        if (FIRMS_CONFIG.MIN_CONFIDENCE === 'nominal' && confidence === 'low') continue;
+        const lat = parseFloat(c[idx('latitude')]);
+        const lng = parseFloat(c[idx('longitude')]);
+        if (isNaN(lat) || isNaN(lng)) continue;
+        fires.push({
+          lat, lng,
+          brightness: parseFloat(c[idx('bright_ti4')]) || 0,
+          confidence,
+          acq_date: (c[idx('acq_date')] || '').trim(),
+          acq_time: (c[idx('acq_time')] || '').trim(),
+          frp: parseFloat(c[idx('frp')]) || 0,
+          oblast: findNearestOblast(lat, lng)
+        });
+      }
+      return fires;
+    }
+
+    // ---------- USGS SEISMIC ----------
+    async function fetchSeismic() {
+      try {
+        const resp = await fetch(SEISMIC_CONFIG.getUrl(), { signal: AbortSignal.timeout(10000) });
+        if (!resp.ok) return { ok: false, data: [] };
+        const geo = await resp.json();
+        const events = (geo.features || []).map(f => ({
+          lat: f.geometry.coordinates[1],
+          lng: f.geometry.coordinates[0],
+          depth: f.geometry.coordinates[2],
+          magnitude: f.properties.mag,
+          place: f.properties.place || '',
+          time: f.properties.time,
+          type: f.properties.type || 'earthquake',
+          oblast: findNearestOblast(f.geometry.coordinates[1], f.geometry.coordinates[0])
+        }));
+        return { ok: true, data: events };
+      } catch (e) { return { ok: false, data: [] }; }
+    }
+
+    // ---------- AIR QUALITY ----------
+    async function fetchAirQuality() {
+      try {
+        const results = await Promise.all(AIR_QUALITY_CITIES.map(async city => {
+          const url = `https://air-quality-api.open-meteo.com/v1/air-quality?latitude=${city.lat}&longitude=${city.lng}&current=pm2_5,pm10`;
+          const resp = await fetch(url, { signal: AbortSignal.timeout(8000) });
+          if (!resp.ok) return null;
+          const d = await resp.json();
+          return { name: city.name, lat: city.lat, lng: city.lng, pm25: d.current?.pm2_5 ?? null, pm10: d.current?.pm10 ?? null };
+        }));
+        const valid = results.filter(Boolean);
+        return { ok: valid.length > 0, data: valid };
+      } catch (e) { return { ok: false, data: [] }; }
+    }
+
+    // ---------- AQ REFRESH ----------
+    async function fetchAndRenderAirQuality() {
+      const r = await fetchAirQuality();
+      state.sourcesStatus.airquality = r.ok;
+      if (r.ok) { r.data.forEach(d => { state.airQualityData[d.name] = d; }); renderAirQualityLayer(); updateLayerCounts(); }
+    }
+
+    // ==================== FRONTLINE ====================
+
+    async function fetchFrontline() {
+      // Try today through 5 days back (data may not be published yet today)
+      // Date format in filenames is YYYYMMDD (no hyphens)
+      const dates = [];
+      for (let i = 0; i <= 5; i++) {
+        const d = new Date();
+        d.setDate(d.getDate() - i);
+        const yyyy = d.getFullYear();
+        const mm = String(d.getMonth() + 1).padStart(2, '0');
+        const dd = String(d.getDate()).padStart(2, '0');
+        dates.push({ fileDate: `${yyyy}${mm}${dd}`, displayDate: `${yyyy}-${mm}-${dd}` });
+      }
+
+      for (const { fileDate, displayDate } of dates) {
+        const rawUrl = `https://raw.githubusercontent.com/cyterat/deepstate-map-data/main/data/deepstatemap_data_${fileDate}.geojson`;
+
+        // Try direct fetch first (GitHub raw usually allows CORS)
+        try {
+          const resp = await fetch(rawUrl, { signal: AbortSignal.timeout(15000) });
+          if (resp.ok) {
+            const geo = await resp.json();
+            return { ok: true, data: geo, date: displayDate };
+          }
+        } catch (e) { /* try proxies */ }
+
+        // Try CORS proxies
+        for (const proxyFn of CORS_PROXIES) {
+          try {
+            const url = proxyFn(rawUrl);
+            const resp = await fetch(url, { signal: AbortSignal.timeout(15000) });
+            if (resp.ok) {
+              const geo = await resp.json();
+              return { ok: true, data: geo, date: displayDate };
+            }
+          } catch (e) { /* next proxy */ }
+        }
+      }
+
+      return { ok: false, data: null, date: null };
+    }
+
+    function renderFrontlineLayer() {
+      if (!state.frontlineData) return;
+
+      if (state.frontlineLayer) {
+        state.map.removeLayer(state.frontlineLayer);
+      }
+
+      state.frontlineLayer = L.geoJSON(state.frontlineData, {
+        style: {
+          fillColor: '#8b0000',
+          fillOpacity: 0.15,
+          color: '#ff2952',
+          weight: 3,
+          opacity: 0.9,
+          dashArray: null
+        },
+        onEachFeature: (feature, layer) => {
+          layer.bindPopup(`
+            <div style="font-family:var(--font-mono);font-size:12px;color:#d8e4f0">
+              <div style="color:#ff2952;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:8px;font-size:13px">
+                ⚠ RUSSIAN-OCCUPIED ZONE
+              </div>
+              <div style="color:#6a7a8e;font-size:10px;line-height:1.6">
+                SRC: DeepStateMap (GitHub)<br>
+                DATE: ${state.frontlineDate || '—'}<br>
+                TYPE: MultiPolygon boundary<br>
+                UPD: Daily @ 03:00 UTC
+              </div>
+            </div>
+          `, { className: 'oblast-popup' });
+        }
+      });
+
+      if (state.layers.frontline) {
+        state.frontlineLayer.addTo(state.map);
+      }
+    }
+
+    // ==================== MAP LAYERS ====================
+
+    function renderFiresLayer() {
+      if (!state.firmsLayer) {
+        state.firmsLayer = L.layerGroup();
+        if (state.layers.fires) state.firmsLayer.addTo(state.map);
+      }
+      state.firmsLayer.clearLayers();
+      if (!state.layers.fires || state.firmsData.length === 0) return;
+
+      [...state.firmsData].sort((a, b) => b.frp - a.frp).forEach(fire => {
+        const isHigh = fire.confidence === 'high';
+        const radius = Math.max(4, Math.min(15, fire.frp / 10 + 4));
+        const color = isHigh ? '#ff2952' : '#ff6b00';
+        const marker = L.circleMarker([fire.lat, fire.lng], {
+          radius, color, fillColor: color, fillOpacity: isHigh ? 0.7 : 0.5, weight: 1, opacity: 0.8
+        });
+        const timeStr = fire.acq_date + ' ' + fire.acq_time.padStart(4, '0').replace(/(\d{2})(\d{2})/, '$1:$2') + ' UTC';
+        marker.bindPopup(
+          `<div style="font-size:13px"><strong>🔥 Thermal Detection</strong><br>` +
+          `<span style="color:var(--text-secondary)">Confidence: <b style="color:${color}">${fire.confidence.toUpperCase()}</b><br>` +
+          `Brightness: ${fire.brightness.toFixed(1)}K · FRP: ${fire.frp.toFixed(1)} MW<br>` +
+          `Time: ${timeStr}<br>Oblast: ${fire.oblast || '?'}</span></div>`,
+          { className: 'city-popup' }
+        );
+        state.firmsLayer.addLayer(marker);
+      });
+    }
+
+    function renderSeismicLayer() {
+      if (!state.seismicLayer) {
+        state.seismicLayer = L.layerGroup();
+        if (state.layers.seismic) state.seismicLayer.addTo(state.map);
+      }
+      state.seismicLayer.clearLayers();
+      if (!state.layers.seismic || state.seismicData.length === 0) return;
+
+      state.seismicData.forEach(ev => {
+        const radius = Math.max(6, ev.magnitude * 8);
+        const isExplosion = /explosion/i.test(ev.type);
+        const color = isExplosion ? '#ff2952' : '#8b5cf6';
+        const marker = L.circleMarker([ev.lat, ev.lng], {
+          radius, color, fillColor: color, fillOpacity: 0.3, weight: 2, opacity: 0.8,
+          dashArray: isExplosion ? null : '4 4'
+        });
+        marker.bindPopup(
+          `<div style="font-size:13px"><strong>${isExplosion ? '💥' : '🌍'} Seismic Event</strong><br>` +
+          `<span style="color:var(--text-secondary)">Type: <b style="color:${color}">${ev.type}</b><br>` +
+          `Magnitude: ${ev.magnitude.toFixed(1)} · Depth: ${ev.depth?.toFixed(1) || '?'} km<br>` +
+          `Location: ${ev.place}<br>Time: ${new Date(ev.time).toLocaleString()}</span></div>`,
+          { className: 'city-popup' }
+        );
+        state.seismicLayer.addLayer(marker);
+      });
+    }
+
+    function renderAirQualityLayer() {
+      if (!state.airQualityLayer) {
+        state.airQualityLayer = L.layerGroup();
+        if (state.layers.airquality) state.airQualityLayer.addTo(state.map);
+      }
+      state.airQualityLayer.clearLayers();
+      if (!state.layers.airquality) return;
+
+      Object.values(state.airQualityData).forEach(aq => {
+        if (aq.pm25 === null) return;
+        let color, label;
+        if (aq.pm25 > 100)     { color = '#ff2952'; label = 'VERY HIGH'; }
+        else if (aq.pm25 > 50) { color = '#ff6432'; label = 'HIGH'; }
+        else if (aq.pm25 > 25) { color = '#ffb020'; label = 'MODERATE'; }
+        else                    { color = '#22c55e'; label = 'GOOD'; }
+
+        const marker = L.circleMarker([aq.lat, aq.lng], {
+          radius: 18, color, fillColor: color, fillOpacity: 0.15, weight: 2, opacity: 0.6
+        });
+        const textIcon = L.divIcon({
+          className: '',
+          html: `<div style="font-size:9px;font-weight:700;color:${color};text-align:center;white-space:nowrap;text-shadow:0 0 4px rgba(0,0,0,.8);margin-top:-6px">PM2.5: ${aq.pm25.toFixed(0)}</div>`,
+          iconSize: [60, 16], iconAnchor: [30, -12]
+        });
+        marker.bindPopup(
+          `<div style="font-size:13px"><strong>🌫 Air Quality — ${aq.name}</strong><br>` +
+          `<span style="color:var(--text-secondary)">PM2.5: <b style="color:${color}">${aq.pm25.toFixed(1)} µg/m³ (${label})</b><br>` +
+          `PM10: ${aq.pm10?.toFixed(1) ?? '—'} µg/m³` +
+          `${aq.pm25 > 50 ? '<br><span style="color:var(--red)">⚠ Elevated — possible fire/explosion nearby</span>' : ''}</span></div>`,
+          { className: 'city-popup' }
+        );
+        state.airQualityLayer.addLayer(marker);
+        state.airQualityLayer.addLayer(L.marker([aq.lat, aq.lng], { icon: textIcon, interactive: false }));
+      });
+    }
+
+    // ==================== FEED INJECTION ====================
+
+    function injectFireIncidents(fires) {
+      const byOblast = {};
+      fires.forEach(f => { const k = f.oblast || 'Unknown'; (byOblast[k] = byOblast[k] || []).push(f); });
+
+      Object.entries(byOblast).forEach(([oblast, oblastFires]) => {
+        const highConf = oblastFires.filter(f => f.confidence === 'high');
+        if (oblastFires.length < 3 && highConf.length === 0) return;
+        const maxFrp = Math.max(...oblastFires.map(f => f.frp));
+        const latestTime = oblastFires
+          .map(f => f.acq_date + 'T' + f.acq_time.padStart(4, '0').replace(/(\d{2})(\d{2})/, '$1:$2') + ':00Z')
+          .sort().pop();
+
+        let severity;
+        if (highConf.length >= 5 || maxFrp > 100) severity = 'critical';
+        else if (highConf.length >= 2 || maxFrp > 50) severity = 'high';
+        else if (oblastFires.length >= 5) severity = 'medium';
+        else severity = 'low';
+
+        state.incidents.push({
+          title: `${oblastFires.length} thermal anomalies detected — ${oblast}`,
+          description: `NASA FIRMS satellite detected ${oblastFires.length} fire/heat signatures in ${oblast}. ${highConf.length} high confidence. Max fire power: ${maxFrp.toFixed(1)} MW.`,
+          time: formatDate(latestTime), pubDate: latestTime,
+          category: 'fire', severity, location: oblast.replace(' Oblast', '').replace(' City', ''),
+          source: 'NASA FIRMS', link: 'https://firms.modaps.eosdis.nasa.gov/map/'
+        });
+      });
+      state.incidents.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+    }
+
+    function injectSeismicIncidents(events) {
+      events.forEach(ev => {
+        if (ev.magnitude < 2.0) return;
+        const isExplosion = /explosion/i.test(ev.type);
+        let severity;
+        if (ev.magnitude >= 4.0) severity = 'critical';
+        else if (ev.magnitude >= 3.0) severity = 'high';
+        else severity = 'medium';
+
+        state.incidents.push({
+          title: `${isExplosion ? 'Explosion' : 'Seismic event'} M${ev.magnitude.toFixed(1)} — ${ev.place || ev.oblast}`,
+          description: `USGS detected ${ev.type} of magnitude ${ev.magnitude.toFixed(1)} at depth ${ev.depth?.toFixed(1) || '?'} km near ${ev.place || ev.oblast}.${isExplosion ? ' Classified as explosion, not natural seismic activity.' : ''}`,
+          time: formatDate(new Date(ev.time).toISOString()), pubDate: new Date(ev.time).toISOString(),
+          category: 'seismic', severity, location: ev.oblast || 'Ukraine',
+          source: 'USGS', link: ''
+        });
+      });
+      state.incidents.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+    }
+
+    // ==================== CROSS-SOURCE ALERT ENHANCEMENT ====================
+
+    function enhanceAlertSeverity() {
+      const enhancedOblasts = new Set();
+
+      Object.entries(state.oblastAlerts).forEach(([oblast, hasAlert]) => {
+        if (!hasAlert) return;
+        const recentFires = state.firmsData.filter(f => f.oblast === oblast);
+        const highConfFires = recentFires.filter(f => f.confidence === 'high');
+        const oneDayAgo = Date.now() - 86400000;
+        const recentSeismic = state.seismicData.filter(e => e.oblast === oblast && e.time > oneDayAgo);
+
+        if (highConfFires.length > 0 || recentSeismic.length > 0) {
+          enhancedOblasts.add(oblast);
+        }
+      });
+
+      // Fire clusters WITHOUT active alerts (possible unreported events)
+      const firesNoAlert = {};
+      state.firmsData.forEach(f => {
+        if (!state.oblastAlerts[f.oblast] && f.confidence === 'high') {
+          firesNoAlert[f.oblast] = (firesNoAlert[f.oblast] || 0) + 1;
+        }
+      });
+
+      // Upgrade confirmed-impact oblasts on map
+      enhancedOblasts.forEach(oblast => {
+        const circle = state.oblastCircles[oblast];
+        if (circle) {
+          circle.setStyle({ color: 'rgba(255,41,82,0.8)', fillColor: 'rgba(255,41,82,0.25)', weight: 3 });
+          circle.unbindTooltip();
+          circle.bindTooltip(`🔴🔥 ${oblast} — CONFIRMED IMPACT`, { className: 'oblast-tooltip', direction: 'center', permanent: false });
+        }
+      });
+
+      // Show fire clusters without alerts in orange
+      Object.entries(firesNoAlert).forEach(([oblast, count]) => {
+        if (count >= 3) {
+          const circle = state.oblastCircles[oblast];
+          if (circle) {
+            circle.setStyle({ color: 'rgba(255,107,0,0.5)', fillColor: 'rgba(255,107,0,0.1)', weight: 2 });
+            circle.unbindTooltip();
+            circle.bindTooltip(`🔥 ${oblast} — ${count} fire detections (no alert)`, { className: 'oblast-tooltip', direction: 'center', permanent: false });
+          }
+        }
+      });
+
+      // Escalate banner for confirmed Kyiv impacts
+      if (['Kyiv Oblast', 'Kyiv City'].some(o => enhancedOblasts.has(o)) && state.alertActive) {
+        document.getElementById('alertStatusText').textContent = 'CONFIRMED IMPACT';
+        if (state.notificationsEnabled && Notification.permission === 'granted') {
+          new Notification('🔴🔥 CONFIRMED IMPACT — Kyiv Oblast', {
+            body: 'Satellite data confirms fire/explosion in Kyiv Oblast during active alert!',
+            tag: 'ukr-impact'
+          });
+        }
+      }
+    }
+
+    // ==================== LAYER TOGGLES ====================
+
+    function toggleLayer(layerName) {
+      state.layers[layerName] = !state.layers[layerName];
+      const lsKey = layerName === 'airquality' ? 'aq' : layerName;
+      localStorage.setItem(`ukr_layer_${lsKey}`, state.layers[layerName]);
+
+      const cfg = {
+        frontline:  { layer: 'frontlineLayer',    render: renderFrontlineLayer,   btn: 'toggleFrontline' },
+        fires:      { layer: 'firmsLayer',       render: renderFiresLayer,      btn: 'toggleFires' },
+        seismic:    { layer: 'seismicLayer',      render: renderSeismicLayer,    btn: 'toggleSeismic' },
+        airquality: { layer: 'airQualityLayer',   render: renderAirQualityLayer, btn: 'toggleAQ' }
+      }[layerName];
+      if (!cfg) return;
+
+      const btn = document.getElementById(cfg.btn);
+      if (state.layers[layerName]) {
+        btn.classList.add('active');
+        if (state[cfg.layer]) state[cfg.layer].addTo(state.map);
+        cfg.render();
+        if (layerName === 'airquality') fetchAndRenderAirQuality();
+      } else {
+        btn.classList.remove('active');
+        if (state[cfg.layer]) state.map.removeLayer(state[cfg.layer]);
+      }
+    }
+
+    function updateLayerCounts() {
+      document.getElementById('frontlineCount').textContent = state.frontlineDate || '—';
+      document.getElementById('firesCount').textContent = state.firmsData.length;
+      document.getElementById('seismicCount').textContent = state.seismicData.length;
+      document.getElementById('aqCount').textContent = Object.keys(state.airQualityData).length;
+    }
+
+    function saveFirmsKey(val) {
+      localStorage.setItem('ukr_firms_key', val.trim());
+      showToast('FIRMS key saved — will be used on next refresh');
+    }
+
+    // ==================== UI UPDATES ====================
+    function setAlertBannerState(cls) {
+      const banner = document.getElementById('alertBanner');
+      banner.classList.remove('safe', 'danger', 'checking', 'error');
+      banner.classList.add(cls);
+    }
+
+    function updateSourceBadges() {
+      const container = document.getElementById('sourceBadges');
+      const sources = [
+        { key: 'alerts', label: 'Alerts' },
+        { key: 'news', label: 'News' },
+        { key: 'frontline', label: 'DeepState' },
+        { key: 'firms', label: 'FIRMS' },
+        { key: 'seismic', label: 'USGS' },
+        { key: 'airquality', label: 'AQ' }
+      ];
+      container.innerHTML = sources
+        .filter(s => state.sourcesStatus[s.key] !== null)
+        .map(s => {
+          const ok = state.sourcesStatus[s.key];
+          return `<span class="source-badge ${ok ? 'ok' : 'fail'}">${s.label} ${ok ? '✓' : '✗'}</span>`;
+        }).join('');
+    }
+
+    // ==================== FEED ====================
+    const SEVERITY_ORDER = { critical: 0, high: 1, medium: 2, low: 3 };
+
+    function renderFeed() {
+      const list = document.getElementById('feedList');
+      const filtered = (state.activeFilter === 'all'
+        ? [...state.incidents]
+        : state.incidents.filter(i => i.category === state.activeFilter)
+      ).sort((a, b) => {
+        const sa = SEVERITY_ORDER[a.severity] ?? 3;
+        const sb = SEVERITY_ORDER[b.severity] ?? 3;
+        if (sa !== sb) return sa - sb;
+        return new Date(b.pubDate) - new Date(a.pubDate);
+      });
+
+      if (filtered.length === 0) {
+        list.innerHTML = `
+          <div class="feed-empty">
+            <span class="feed-empty-icon">📭</span>
+            <span>No items match this filter</span>
+          </div>`;
+        document.getElementById('feedCount').textContent = '0 items';
+        return;
+      }
+
+      document.getElementById('feedCount').textContent =
+        `${filtered.length} item${filtered.length !== 1 ? 's' : ''}`;
+
+      list.innerHTML = filtered.map((item, i) => {
+        const icon = CATEGORY_ICONS[item.category] || CATEGORY_ICONS.unknown;
+        const sev = item.severity || 'low';
+        const severityClass = `severity-${sev}`;
+        const borderClass = `border-${sev}`;
+        const globalIdx = state.incidents.indexOf(item);
+        const linkHtml = item.link
+          ? `<a class="feed-item-link" href="${escapeAttr(item.link)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Read full article →</a>`
+          : '';
+
+        return `<div class="feed-item ${borderClass}" data-index="${globalIdx}" onclick="toggleExpand(this)" style="animation-delay:${i * 0.04}s">
+          <div class="feed-item-header">
+            <span class="feed-category-icon">${icon}</span>
+            <span class="feed-item-title">${escapeHtml(item.title)}</span>
+            <span class="feed-severity ${severityClass}">${sev}</span>
+            <span class="feed-item-expand">▸</span>
+          </div>
+          <div class="feed-item-body">
+            <div class="feed-item-description">${escapeHtml(item.description)}</div>
+            ${linkHtml}
+          </div>
+          <div class="feed-item-meta">
+            <span class="feed-item-location">📍 ${escapeHtml(item.location)}</span>
+            <span>${escapeHtml(item.time)} · ${escapeHtml(item.source)}</span>
+          </div>
+        </div>`;
+      }).join('');
+    }
+
+    function toggleExpand(el) {
+      el.classList.toggle('expanded');
+    }
+
+    function setFilter(category) {
+      state.activeFilter = category;
+      document.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.category === category);
+      });
+      renderFeed();
+    }
+
+    function escapeHtml(str) {
+      const div = document.createElement('div');
+      div.textContent = str || '';
+      return div.innerHTML;
+    }
+
+    function escapeAttr(str) {
+      return (str || '').replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    }
+
+    // ==================== NOTIFICATIONS ====================
+    async function toggleNotifications() {
+      if (!state.notificationsEnabled) {
+        if ('Notification' in window) {
+          const perm = await Notification.requestPermission();
+          if (perm !== 'granted') { showToast('Notification permission denied'); return; }
+          state.notificationsEnabled = true;
+        } else {
+          showToast('Notifications not supported'); return;
+        }
+      } else {
+        state.notificationsEnabled = false;
+      }
+      localStorage.setItem('ukr_notif', state.notificationsEnabled);
+      document.getElementById('notifBtn').classList.toggle('active', state.notificationsEnabled);
+    }
+
+    function sendNotification(title, body) {
+      if ('Notification' in window && Notification.permission === 'granted') {
+        new Notification(title, { body, tag: 'ukr-alert', requireInteraction: true });
+      }
+    }
+
+    // ==================== AUDIO ====================
+    function toggleAudio() {
+      state.audioEnabled = !state.audioEnabled;
+      localStorage.setItem('ukr_audio', state.audioEnabled);
+      document.getElementById('audioBtn').classList.toggle('active', state.audioEnabled);
+      if (state.audioEnabled) {
+        if (!state.audioCtx) state.audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+        playBeep(800, 0.08, 0.1);
+      }
+    }
+
+    function playAlertSound() {
+      if (!state.audioCtx) state.audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+      playBeep(600, 0.15, 0.3);
+      setTimeout(() => playBeep(800, 0.15, 0.3), 200);
+      setTimeout(() => playBeep(1000, 0.2, 0.3), 400);
+    }
+
+    function playBeep(freq, duration, volume) {
+      const ctx = state.audioCtx;
+      if (!ctx) return;
+      const osc = ctx.createOscillator();
+      const gain = ctx.createGain();
+      osc.connect(gain);
+      gain.connect(ctx.destination);
+      osc.frequency.value = freq;
+      osc.type = 'sine';
+      gain.gain.setValueAtTime(volume, ctx.currentTime);
+      gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + duration);
+      osc.start(ctx.currentTime);
+      osc.stop(ctx.currentTime + duration);
+    }
+
+    // ==================== CONTROLS ====================
+    function manualRefresh() {
+      fetchData();
+      resetAutoRefresh();
+    }
+
+    function updateInterval() {
+      state.interval = parseInt(document.getElementById('intervalSelect').value);
+      localStorage.setItem('ukr_interval', state.interval);
+      resetAutoRefresh();
+    }
+
+    function startAutoRefresh() {
+      clearInterval(state.refreshTimer);
+      clearInterval(state.countdownTimer);
+      if (state.interval > 0) {
+        state.nextRefreshAt = Date.now() + state.interval;
+        state.refreshTimer = setInterval(() => {
+          fetchData();
+          state.nextRefreshAt = Date.now() + state.interval;
+        }, state.interval);
+        state.countdownTimer = setInterval(updateCountdown, 1000);
+        updateCountdown();
+      } else {
+        document.getElementById('nextRefreshText').textContent = '';
+      }
+    }
+
+    function resetAutoRefresh() { startAutoRefresh(); }
+
+    function updateCountdown() {
+      if (!state.nextRefreshAt || state.interval <= 0) return;
+      const rem = Math.max(0, Math.ceil((state.nextRefreshAt - Date.now()) / 1000));
+      const m = Math.floor(rem / 60);
+      const s = rem % 60;
+      document.getElementById('nextRefreshText').textContent = `Next: ${m}:${s.toString().padStart(2,'0')}`;
+    }
+
+    // ==================== TOAST ====================
+    function showToast(msg) {
+      const t = document.getElementById('toast');
+      t.textContent = msg;
+      t.classList.add('visible');
+      setTimeout(() => t.classList.remove('visible'), 4000);
+    }
+
+    // ==================== KEYBOARD SHORTCUTS ====================
+    document.addEventListener('keydown', e => {
+      if (e.key === 'r' && !e.ctrlKey && !e.metaKey && document.activeElement.tagName !== 'INPUT') {
+        manualRefresh();
+      }
+    });
+
+    // ==================== START ====================
+    document.addEventListener('DOMContentLoaded', init);
+  </script>
+</body>
+</html>
