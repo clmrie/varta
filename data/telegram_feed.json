@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "A group of UAVs in the Sumy Oblast past Stepanivka, heading west. 🛵 A group of BALA from the Black Sea in the arms of Odeshchyna (Zatoka) 🛵 BpLA in the Kharkiv region - heading for Vilshany, Lyubotyn from the north.",
+    "description_en": "A group of UAVs in the Sumy Oblast past Stepanivka, heading west. 🛵 A group of BALA from the Black Sea in the arms of Odeshchyna (Zatoka) 🛵 BpLA in the Kharkiv region - heading for Vilshany, Lyubotyn from the north.",
+    "description_uk": "Група БпЛА на Сумщині повз Степанівку, західним курсом. 🛵 Група БаЛА з Чорного моря в напярмку Одещини (Затока) 🛵 БпЛА на Харківщині - курсом на Вільшани, Люботин з півночі.",
+    "time": "",
+    "pubDate": "2026-04-03T22:42:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59459",
+    "score": 6.0,
+    "views": 5814,
+    "forwards": 1
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV in the direction of Odessa from the Black Sea.",
+    "description_en": "UAV in the direction of Odessa from the Black Sea.",
+    "description_uk": "БпЛА в напрямку Одеси з Чорного моря.",
+    "time": "",
+    "pubDate": "2026-04-03T22:26:18+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59458",
+    "score": 5.0,
+    "views": 12361,
+    "forwards": 1
+  },
+  {
     "title": "Kyiv: BpLA in Poltava region - Kurosm in Kyiv region (Boryspil district).",
     "title_en": "Kyiv: BpLA in Poltava region - Kurosm in Kyiv region (Boryspil district).",
     "title_uk": "Київ: БпЛА в Полтавській обл.- Куросм у Київській обл. (Бориспільський р-н).",
@@ -15,42 +51,6 @@
     "link": "https://t.me/kpszsu/59457",
     "score": 6.0,
     "views": 12185,
-    "forwards": 1
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "A group of BpLA in Poltava region - heading for Kremenchuk. 🛵 The group of UAVs from the Black Sea continues its movement in the direction of Black Sea 🛵 Kharkiv region - BpLA near the village Blyznyuki, Oleksandrivka",
-    "description_en": "A group of BpLA in Poltava region - heading for Kremenchuk. 🛵 The group of UAVs from the Black Sea continues its movement in the direction of Black Sea 🛵 Kharkiv region - BpLA near the village Blyznyuki, Oleksandrivka",
-    "description_uk": "Група БпЛА на Полтавщині - курсом на Кременчук. 🛵 Група БпЛА з Чорного моря продовжує рух в напрямку н.п. Чорноморське. 🛵 Харківщина - БпЛА поблизу н.п. Близнюки, Олександрівка",
-    "time": "",
-    "pubDate": "2026-04-03T21:36:43+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59456",
-    "score": 6.0,
-    "views": 17228,
-    "forwards": 1
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A group of UAVs from the Black Sea ➡️ heading for Odesa (Black Sea)",
-    "description_en": "A group of UAVs from the Black Sea ➡️ heading for Odesa (Black Sea)",
-    "description_uk": "Група БпЛА з Чорного моря ➡️ курсом на Одещину (Чорноморське)",
-    "time": "",
-    "pubDate": "2026-04-03T21:17:28+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59455",
-    "score": 5.0,
-    "views": 13190,
     "forwards": 1
   },
   {
@@ -104,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52314",
     "score": 4.5,
-    "views": 745,
+    "views": 966,
     "forwards": 3
   },
   {
@@ -176,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52313",
     "score": 5.0,
-    "views": 1291,
+    "views": 1446,
     "forwards": 4
   },
   {
@@ -356,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36862",
     "score": 4.0,
-    "views": 9116,
+    "views": 9336,
     "forwards": 27
   },
   {
@@ -392,8 +392,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36860",
     "score": 13.0,
-    "views": 9502,
-    "forwards": 39
+    "views": 9543,
+    "forwards": 40
   },
   {
     "title": "Energy infrastructure hit",
@@ -410,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18521",
     "score": 4.0,
-    "views": 185566,
+    "views": 185697,
     "forwards": 123
   }
 ]
