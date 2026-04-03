@@ -1,5 +1,23 @@
 [
   {
+    "title": "BpLA in the direction of Kharkiv from the north.",
+    "title_en": "BpLA in the direction of Kharkiv from the north.",
+    "title_uk": "БпЛА в напрямку Харкова з півн.",
+    "description": "BpLA in the direction of Kharkiv from the north.",
+    "description_en": "BpLA in the direction of Kharkiv from the north.",
+    "description_uk": "БпЛА у напрямку Харкова з півночі.",
+    "time": "",
+    "pubDate": "2026-04-03T17:45:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59443",
+    "score": 5.0,
+    "views": 26255,
+    "forwards": 1
+  },
+  {
     "title": "Mykolaiv: BpLA from Kherson region to Mykolaiv region, vector - Mykolaiv.",
     "title_en": "Mykolaiv: BpLA from Kherson region to Mykolaiv region, vector - Mykolaiv.",
     "title_uk": "Миколаїв: BpLA з Херсонської області на Миколаївську область, вектор - Миколаїв.",
@@ -13,9 +31,9 @@
     "location": "Mykolaiv",
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59441",
-    "score": 6.0,
-    "views": 8076,
-    "forwards": 1
+    "score": 6.5,
+    "views": 60696,
+    "forwards": 69
   },
   {
     "title": "Poltava region: BpLA past Kobelyaki ➡️ heading west.",
@@ -68,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52308",
     "score": 14.0,
-    "views": 935,
+    "views": 1083,
     "forwards": 4
   },
   {
@@ -86,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52306",
     "score": 6.0,
-    "views": 1099,
+    "views": 1193,
     "forwards": 5
   },
   {
@@ -122,8 +140,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36862",
     "score": 4.0,
-    "views": 5465,
-    "forwards": 24
+    "views": 5962,
+    "forwards": 25
   },
   {
     "title": "Drone strike near civilians",
@@ -140,7 +158,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/188785",
     "score": 5.5,
-    "views": 124339,
+    "views": 129737,
     "forwards": 249
   },
   {
@@ -158,7 +176,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36860",
     "score": 13.0,
-    "views": 8314,
+    "views": 8452,
     "forwards": 35
   },
   {
@@ -176,7 +194,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18521",
     "score": 4.0,
-    "views": 182904,
+    "views": 183278,
     "forwards": 121
   },
   {
@@ -194,7 +212,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18520",
     "score": 16.5,
-    "views": 58398,
+    "views": 58507,
     "forwards": 32
   }
 ]
