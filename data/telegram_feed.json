@@ -1,5 +1,59 @@
 [
   {
+    "title": "A group of UAVs in Sumy Oblast, headed for Velika Pysarivka.",
+    "title_en": "A group of UAVs in Sumy Oblast, headed for Velika Pysarivka.",
+    "title_uk": "Група БПЛА в Сумській області прямувала на Велику Писарівку.",
+    "description": "A group of UAVs in Sumy Oblast, headed for Velika Pysarivka.",
+    "description_en": "A group of UAVs in Sumy Oblast, headed for Velika Pysarivka.",
+    "description_uk": "Група БпЛА на Сумщині, курсом на Велику Писарівку.",
+    "time": "",
+    "pubDate": "2026-04-03T20:48:03+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59453",
+    "score": 5.0,
+    "views": 10153,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Power outage reported",
+    "title_en": "Kyiv: Power outage reported",
+    "title_uk": "Київ: Повідомлено про відключення електроенергії",
+    "description": "Russia's banks face major service outages amid internet crackdown. Long lines formed at shops, restaurants, and gas stations in multiple Russian cities on April 3, as establishments could only accept cash payments. The outage may be connected to the Kremlin's restriction of VPNs.",
+    "description_en": "Russia's banks face major service outages amid internet crackdown. Long lines formed at shops, restaurants, and gas stations in multiple Russian cities on April 3, as establishments could only accept cash payments. The outage may be connected to the Kremlin's restriction of VPNs.",
+    "description_uk": "Russia's banks face major service outages amid internet crackdown. Long lines formed at shops, restaurants, and gas stations in multiple Russian cities on April 3, as establishments could only accept cash payments. The outage may be connected to the Kremlin's restriction of VPNs.",
+    "time": "",
+    "pubDate": "2026-04-03T20:47:44+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52314",
+    "score": 4.5,
+    "views": 178,
+    "forwards": 2
+  },
+  {
+    "title": "A group of BpLA in Zaporizhzhia, heading for Komyshuvakh.",
+    "title_en": "A group of BpLA in Zaporizhzhia, heading for Komyshuvakh.",
+    "title_uk": "Група BpLA в Запоріжжі, прямує на Комишуваху.",
+    "description": "A group of BpLA in Zaporizhzhia, heading for Komyshuvakh.",
+    "description_en": "A group of BpLA in Zaporizhzhia, heading for Komyshuvakh.",
+    "description_uk": "Група БпЛА на Запоріжжі, курсом на Комишуваху.",
+    "time": "",
+    "pubDate": "2026-04-03T20:44:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59451",
+    "score": 5.0,
+    "views": 13204,
+    "forwards": 2
+  },
+  {
     "title": "Chernihiv: Sumyshchyna - a group of BpLA near the n.p. Dubovyazunka, heading for...",
     "title_en": "Chernihiv: Sumyshchyna - a group of BpLA near the n.p. Dubovyazunka, heading for...",
     "title_uk": "Чернігів: Сумщина – група БпЛА біля н.п. Дубов'язунка, прямуючи до...",
@@ -50,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52313",
     "score": 5.0,
-    "views": 706,
-    "forwards": 3
+    "views": 954,
+    "forwards": 4
   },
   {
     "title": "BpLA on Cherkasy from the east.",
@@ -230,8 +284,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36862",
     "score": 4.0,
-    "views": 7754,
-    "forwards": 25
+    "views": 8448,
+    "forwards": 27
   },
   {
     "title": "Drone strike near civilians",
@@ -266,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36860",
     "score": 13.0,
-    "views": 9288,
+    "views": 9396,
     "forwards": 39
   },
   {
@@ -284,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18521",
     "score": 4.0,
-    "views": 185076,
+    "views": 185276,
     "forwards": 122
   }
 ]
