@@ -894,9 +894,6 @@
     }
     .layer-toggle:hover { border-color: var(--border-active); color: var(--text-primary); }
     .layer-toggle.active.frontline { border-color: #ff2952; color: #ff2952; background: rgba(255,41,82,0.1); box-shadow: 0 0 8px rgba(255,41,82,0.15); }
-    .layer-toggle.active.fire { border-color: #ff6b00; color: #ff6b00; background: rgba(255,107,0,0.1); box-shadow: 0 0 8px rgba(255,107,0,0.15); }
-    .layer-toggle.active.seismic { border-color: #8b5cf6; color: #8b5cf6; background: rgba(139,92,246,0.1); box-shadow: 0 0 8px rgba(139,92,246,0.15); }
-    .layer-toggle.active.aq { border-color: #22c55e; color: #22c55e; background: rgba(34,197,94,0.1); box-shadow: 0 0 8px rgba(34,197,94,0.15); }
     .layer-count {
       font-size: 9px;
       font-family: var(--font-mono);
@@ -905,8 +902,142 @@
       background: rgba(255,255,255,0.06);
     }
 
-    /* Fire marker pulse */
-    @keyframes firePulse { 0%,100%{opacity:.7} 50%{opacity:1} }
+    /* Language toggle */
+    .lang-toggle {
+      display: flex;
+      align-items: center;
+      gap: 0;
+      font-size: 11px;
+      font-family: var(--font-mono);
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+    .lang-btn {
+      padding: 4px 10px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: all var(--transition);
+      text-transform: uppercase;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      font-weight: 600;
+    }
+    .lang-btn:first-child { border-radius: var(--radius-xs) 0 0 var(--radius-xs); border-right: none; }
+    .lang-btn:last-child { border-radius: 0 var(--radius-xs) var(--radius-xs) 0; }
+    .lang-btn.active {
+      background: var(--cyan-dim);
+      color: var(--cyan);
+      border-color: var(--cyan);
+    }
+    .lang-btn:hover:not(.active) { border-color: var(--border-active); color: var(--text-primary); }
+
+    /* City settings modal */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.7);
+      z-index: 10000;
+      align-items: center;
+      justify-content: center;
+      backdrop-filter: blur(4px);
+    }
+    .modal-overlay.visible { display: flex; }
+    .modal {
+      background: var(--bg-elevated);
+      border: 1px solid var(--border-active);
+      border-radius: var(--radius);
+      padding: 20px;
+      width: 380px;
+      max-height: 70vh;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .modal-title {
+      font-family: var(--font-mono);
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      color: var(--cyan);
+    }
+    .modal-subtitle {
+      font-size: 11px;
+      color: var(--text-secondary);
+      line-height: 1.4;
+    }
+    .city-search {
+      padding: 8px 10px;
+      font-size: 12px;
+      font-family: var(--font-mono);
+      background: var(--bg-card);
+      color: var(--text-primary);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-xs);
+      outline: none;
+    }
+    .city-search:focus { border-color: var(--cyan); }
+    .city-list {
+      overflow-y: auto;
+      max-height: 35vh;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+    .city-option {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 8px;
+      font-size: 12px;
+      font-family: var(--font-mono);
+      color: var(--text-secondary);
+      cursor: pointer;
+      border-radius: var(--radius-xs);
+      transition: all 0.15s;
+    }
+    .city-option:hover { background: rgba(255,255,255,0.04); color: var(--text-primary); }
+    .city-option.selected { background: var(--cyan-dim); color: var(--cyan); }
+    .city-option .check { width: 14px; text-align: center; }
+    .modal-actions {
+      display: flex;
+      gap: 8px;
+      justify-content: flex-end;
+      padding-top: 8px;
+      border-top: 1px solid var(--border);
+    }
+    .modal-btn {
+      padding: 6px 16px;
+      font-size: 11px;
+      font-family: var(--font-mono);
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-xs);
+      cursor: pointer;
+      transition: all var(--transition);
+      background: transparent;
+      color: var(--text-secondary);
+    }
+    .modal-btn:hover { border-color: var(--border-active); color: var(--text-primary); }
+    .modal-btn.primary { background: var(--cyan-dim); color: var(--cyan); border-color: var(--cyan); }
+    .modal-btn.primary:hover { background: rgba(0,229,255,0.2); }
+
+    /* Feed item near-you highlight */
+    .feed-item.near-you { border-left-width: 4px; }
+    .feed-item .near-badge {
+      font-size: 9px;
+      font-family: var(--font-mono);
+      font-weight: 700;
+      color: var(--cyan);
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      margin-left: 6px;
+    }
   </style>
 </head>
 <body>
@@ -919,7 +1050,7 @@
     </div>
     <div class="source-badges" id="sourceBadges"></div>
     <div class="alert-right">
-      <span class="alert-locations" id="alertLocations">Brovary · Kyiv · Boguslav</span>
+      <span class="alert-locations" id="alertLocations"></span>
       <span class="alert-timestamp" id="alertTimestamp">—</span>
     </div>
   </header>
@@ -931,9 +1062,6 @@
     <section class="map-panel">
       <div class="layer-toggles" id="layerToggles">
         <button class="layer-toggle frontline active" id="toggleFrontline" onclick="toggleLayer('frontline')">🔴 Frontline <span class="layer-count" id="frontlineCount">—</span></button>
-        <button class="layer-toggle fire active" id="toggleFires" onclick="toggleLayer('fires')">🔥 Fires <span class="layer-count" id="firesCount">0</span></button>
-        <button class="layer-toggle seismic active" id="toggleSeismic" onclick="toggleLayer('seismic')">🌍 Seismic <span class="layer-count" id="seismicCount">0</span></button>
-        <button class="layer-toggle aq" id="toggleAQ" onclick="toggleLayer('airquality')">🌫 Air Quality <span class="layer-count" id="aqCount">0</span></button>
       </div>
       <div id="map"></div>
       <div id="mapLoading" class="loading-overlay">
@@ -947,6 +1075,10 @@
       <div class="feed-header">
         <div class="feed-title-row">
           <span class="feed-title">LIVE FEED</span>
+          <div class="lang-toggle">
+            <button class="lang-btn active" id="langEN" onclick="setLang('en')">EN</button>
+            <button class="lang-btn" id="langUA" onclick="setLang('uk')">UA</button>
+          </div>
           <span class="feed-count" id="feedCount">0 items</span>
         </div>
         <div class="feed-filters">
@@ -956,8 +1088,6 @@
           <button class="filter-btn" data-category="shelling" onclick="setFilter('shelling')">💥 Shelling</button>
           <button class="filter-btn" data-category="alert" onclick="setFilter('alert')">⚠️ Alert</button>
           <button class="filter-btn" data-category="political" onclick="setFilter('political')">📢 Political</button>
-          <button class="filter-btn" data-category="fire" onclick="setFilter('fire')">🔥 Fires</button>
-          <button class="filter-btn" data-category="seismic" onclick="setFilter('seismic')">🌍 Seismic</button>
         </div>
       </div>
       <div class="feed-list" id="feedList">
@@ -975,6 +1105,7 @@
     <button class="ctrl-btn" id="refreshBtn" onclick="manualRefresh()">🔄 Refresh</button>
     <button class="ctrl-btn" id="notifBtn" onclick="toggleNotifications()">🔔 Notifications</button>
     <button class="ctrl-btn" id="audioBtn" onclick="toggleAudio()">🔊 Audio</button>
+    <button class="ctrl-btn" id="citiesBtn" onclick="openCityModal()">📍 My Cities</button>
     <span class="next-refresh" id="nextRefreshText"></span>
     <div class="ctrl-select">
       <label>Auto-refresh:</label>
@@ -986,11 +1117,21 @@
         <option value="0">Off</option>
       </select>
     </div>
-    <div class="ctrl-select">
-      <label>FIRMS key:</label>
-      <input type="text" id="firmsKeyInput" placeholder="NASA MAP_KEY" style="width:110px;padding:3px 6px;font-size:11px;background:var(--bg-card);color:var(--text-primary);border:1px solid var(--border);border-radius:var(--radius-xs);font-family:var(--font-mono)" value="" onchange="saveFirmsKey(this.value)">
-    </div>
   </footer>
+
+  <!-- ==================== CITY SETTINGS MODAL ==================== -->
+  <div class="modal-overlay" id="cityModal">
+    <div class="modal">
+      <div class="modal-title">My Locations</div>
+      <div class="modal-subtitle">Pick cities to monitor. News about these locations will be prioritised at the top of your feed.</div>
+      <input class="city-search" id="citySearch" type="text" placeholder="Search cities..." oninput="filterCityList(this.value)">
+      <div class="city-list" id="cityList"></div>
+      <div class="modal-actions">
+        <button class="modal-btn" onclick="closeCityModal()">Cancel</button>
+        <button class="modal-btn primary" onclick="saveCitySelection()">Save</button>
+      </div>
+    </div>
+  </div>
 
   <!-- ==================== TOAST ==================== -->
   <div id="toast" class="toast"></div>
@@ -1003,15 +1144,58 @@
     //
     //  Data sources:
     //    Alerts  → alerts.in.ua public API via CORS proxy
-    //    News    → Ukrainska Pravda + UNIAN English RSS via rss2json
+    //    News    → Telegram channels via telegram_monitor.py
     // ================================================================
 
     // ==================== CONFIG ====================
-    const TARGET_CITIES = [
-      { name: 'Brovary',  lat: 50.5114, lng: 30.7906 },
-      { name: 'Kyiv',     lat: 50.4501, lng: 30.5234 },
-      { name: 'Boguslav', lat: 49.5436, lng: 30.8761 }
-    ];
+    const DEFAULT_CITIES = ['Brovary', 'Kyiv', 'Boguslav'];
+    function loadMyCities() {
+      try {
+        const saved = JSON.parse(localStorage.getItem('ukr_my_cities'));
+        if (Array.isArray(saved) && saved.length > 0) return saved;
+      } catch (e) {}
+      return DEFAULT_CITIES;
+    }
+    let MY_CITIES = loadMyCities();
+
+    // All available cities with coordinates (used by city picker & map)
+    const ALL_CITIES = {
+      'Kyiv':           { lat: 50.4501, lng: 30.5234 },
+      'Kharkiv':        { lat: 49.9935, lng: 36.2304 },
+      'Odesa':          { lat: 46.4825, lng: 30.7233 },
+      'Dnipro':         { lat: 48.4647, lng: 35.0462 },
+      'Zaporizhzhia':   { lat: 47.8388, lng: 35.1396 },
+      'Lviv':           { lat: 49.8397, lng: 24.0297 },
+      'Mykolaiv':       { lat: 46.9750, lng: 31.9946 },
+      'Kherson':        { lat: 46.6354, lng: 32.6169 },
+      'Sumy':           { lat: 50.9077, lng: 34.7981 },
+      'Chernihiv':      { lat: 51.4982, lng: 31.2894 },
+      'Poltava':        { lat: 49.5883, lng: 34.5514 },
+      'Kryvyi Rih':     { lat: 47.9104, lng: 33.3918 },
+      'Brovary':        { lat: 50.5114, lng: 30.7906 },
+      'Boguslav':       { lat: 49.5436, lng: 30.8761 },
+      'Kramatorsk':     { lat: 48.7364, lng: 37.5556 },
+      'Vinnytsia':      { lat: 49.2331, lng: 28.4682 },
+      'Lutsk':          { lat: 50.7593, lng: 25.3424 },
+      'Zhytomyr':       { lat: 50.2547, lng: 28.6587 },
+      'Uzhhorod':       { lat: 48.6208, lng: 22.2879 },
+      'Ivano-Frankivsk':{ lat: 48.9226, lng: 24.7111 },
+      'Kropyvnytskyi':  { lat: 48.5079, lng: 32.2623 },
+      'Rivne':          { lat: 50.6199, lng: 26.2516 },
+      'Ternopil':       { lat: 49.5535, lng: 25.5948 },
+      'Khmelnytskyi':   { lat: 49.4230, lng: 26.9871 },
+      'Cherkasy':       { lat: 49.4444, lng: 32.0598 },
+      'Chernivtsi':     { lat: 48.2920, lng: 25.9358 },
+      'Nikopol':        { lat: 47.5716, lng: 34.3964 },
+      'Melitopol':      { lat: 46.8489, lng: 35.3675 },
+      'Irpin':          { lat: 50.5216, lng: 30.2531 },
+      'Bucha':          { lat: 50.5436, lng: 30.2134 },
+    };
+
+    function getTargetCities() {
+      return MY_CITIES.filter(n => ALL_CITIES[n]).map(n => ({ name: n, ...ALL_CITIES[n] }));
+    }
+    let TARGET_CITIES = getTargetCities();
 
     // Oblast center coords + approximate radii for map circles
     const OBLASTS = {
@@ -1076,8 +1260,7 @@
 
     const CATEGORY_ICONS = {
       missile: '🚀', drone: '🛩️', shelling: '💥',
-      alert: '⚠️', political: '📢', unknown: '📋',
-      fire: '🔥', seismic: '🌍'
+      alert: '⚠️', political: '📢', unknown: '📋'
     };
 
     // CORS proxies — we try them in order until one works
@@ -1086,43 +1269,9 @@
       url => `https://corsproxy.io/?${encodeURIComponent(url)}`
     ];
 
-    // RSS feeds for news
-    const RSS_FEEDS = [
-      { url: 'https://www.pravda.com.ua/eng/rss/view_news/', name: 'Ukrainska Pravda' },
-      { url: 'https://rss.unian.net/site/news_eng.rss', name: 'UNIAN' }
-    ];
+    // Telegram feed (generated by telegram_monitor.py via GitHub Actions)
+    const TELEGRAM_FEED_URL = 'data/telegram_feed.json';
 
-    // NASA FIRMS satellite fire detection
-    const FIRMS_CONFIG = {
-      country: 'UKR',
-      days: 1,
-      source: 'VIIRS_NOAA20_NRT',
-      getUrl(key) {
-        return `https://firms.modaps.eosdis.nasa.gov/api/area/csv/${key}/${this.source}/${this.country}/${this.days}`;
-      },
-      MIN_CONFIDENCE: 'nominal'
-    };
-
-    // USGS seismic / explosion detection (Ukraine bounding box)
-    const SEISMIC_CONFIG = {
-      minLat: 44, maxLat: 53, minLng: 22, maxLng: 41,
-      minMagnitude: 1.0, days: 7,
-      getUrl() {
-        const end = new Date().toISOString();
-        const start = new Date(Date.now() - this.days * 86400000).toISOString();
-        return `https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=${start}&endtime=${end}&minlatitude=${this.minLat}&maxlatitude=${this.maxLat}&minlongitude=${this.minLng}&maxlongitude=${this.maxLng}&minmagnitude=${this.minMagnitude}`;
-      }
-    };
-
-    // Air quality monitoring cities
-    const AIR_QUALITY_CITIES = [
-      { name: 'Kyiv', lat: 50.45, lng: 30.52 },
-      { name: 'Kharkiv', lat: 49.99, lng: 36.23 },
-      { name: 'Odesa', lat: 46.48, lng: 30.73 },
-      { name: 'Dnipro', lat: 48.46, lng: 35.05 },
-      { name: 'Lviv', lat: 49.84, lng: 24.03 },
-      { name: 'Zaporizhzhia', lat: 47.84, lng: 35.14 }
-    ];
 
     // ==================== STATE ====================
     const state = {
@@ -1133,6 +1282,7 @@
       previousAlertActive: null,
       incidents: [],
       oblastAlerts: {},
+      lang: localStorage.getItem('ukr_lang') || 'en',
       activeFilter: 'all',
       isLoading: false,
       refreshTimer: null,
@@ -1143,53 +1293,36 @@
       cityMarkers: [],
       audioCtx: null,
       incidentLayer: null,
-      // Satellite & sensor data
-      firmsData: [],
-      firmsLayer: null,
-      seismicData: [],
-      seismicLayer: null,
-      airQualityData: {},
-      airQualityLayer: null,
       // Frontline data
       frontlineData: null,
       frontlineLayer: null,
       frontlineDate: null,
       // Layer visibility (persisted)
       layers: {
-        frontline: localStorage.getItem('ukr_layer_frontline') !== 'false',
-        fires: localStorage.getItem('ukr_layer_fires') !== 'false',
-        seismic: localStorage.getItem('ukr_layer_seismic') !== 'false',
-        airquality: localStorage.getItem('ukr_layer_aq') === 'true'
+        frontline: localStorage.getItem('ukr_layer_frontline') !== 'false'
       },
-      sourcesStatus: { alerts: null, news: null, firms: null, seismic: null, airquality: null, frontline: null }
+      sourcesStatus: { alerts: null, news: null, frontline: null }
     };
 
     // ==================== INIT ====================
     function init() {
       initMap();
       restoreUIState();
+      document.getElementById('alertLocations').textContent = MY_CITIES.join(' · ');
       fetchData();
       startAutoRefresh();
-      // Start separate refresh cycles for real-time layers
-      if (state.layers.airquality) fetchAndRenderAirQuality();
-      setInterval(() => { if (state.layers.airquality) fetchAndRenderAirQuality(); }, 900000);
     }
 
     function restoreUIState() {
       document.getElementById('intervalSelect').value = state.interval.toString();
       if (state.notificationsEnabled) document.getElementById('notifBtn').classList.add('active');
       if (state.audioEnabled) document.getElementById('audioBtn').classList.add('active');
-      // Restore FIRMS key
-      const firmsKey = localStorage.getItem('ukr_firms_key');
-      if (firmsKey) document.getElementById('firmsKeyInput').value = firmsKey;
+      // Restore language toggle
+      document.getElementById('langEN').classList.toggle('active', state.lang === 'en');
+      document.getElementById('langUA').classList.toggle('active', state.lang === 'uk');
       // Restore layer toggle states
       if (state.layers.frontline) document.getElementById('toggleFrontline').classList.add('active');
       else document.getElementById('toggleFrontline').classList.remove('active');
-      if (state.layers.fires) document.getElementById('toggleFires').classList.add('active');
-      else document.getElementById('toggleFires').classList.remove('active');
-      if (state.layers.seismic) document.getElementById('toggleSeismic').classList.add('active');
-      else document.getElementById('toggleSeismic').classList.remove('active');
-      if (state.layers.airquality) document.getElementById('toggleAQ').classList.add('active');
     }
 
     // ==================== MAP ====================
@@ -1497,11 +1630,9 @@
       document.getElementById('refreshBtn').classList.add('loading');
 
       // Fetch all sources in parallel
-      const [alertResult, newsResult, firmsResult, seismicResult, frontlineResult] = await Promise.all([
+      const [alertResult, newsResult, frontlineResult] = await Promise.all([
         fetchAlerts(),
         fetchNews(),
-        fetchFirms(),
-        fetchSeismic(),
         fetchFrontline()
       ]);
 
@@ -1526,22 +1657,6 @@
           </div>`;
       }
 
-      // Process FIRMS fire data
-      if (!firmsResult.noKey) state.sourcesStatus.firms = firmsResult.ok;
-      if (firmsResult.ok) {
-        state.firmsData = firmsResult.data;
-        renderFiresLayer();
-        injectFireIncidents(firmsResult.data);
-      }
-
-      // Process seismic data
-      state.sourcesStatus.seismic = seismicResult.ok;
-      if (seismicResult.ok) {
-        state.seismicData = seismicResult.data;
-        renderSeismicLayer();
-        injectSeismicIncidents(seismicResult.data);
-      }
-
       // Process frontline data
       state.sourcesStatus.frontline = frontlineResult.ok;
       if (frontlineResult.ok) {
@@ -1550,14 +1665,11 @@
         renderFrontlineLayer();
       }
 
-      // Cross-correlate sources to enhance alerts
-      enhanceAlertSeverity();
-
       // Render feed (now includes injected satellite/seismic items)
       renderFeed();
       renderIncidentMarkers();
       updateSourceBadges();
-      updateLayerCounts();
+      document.getElementById('frontlineCount').textContent = state.frontlineDate || '—';
 
       // Finalize
       state.isLoading = false;
@@ -1655,7 +1767,7 @@
       } else {
         setAlertBannerState('safe');
         document.getElementById('alertStatusText').textContent = 'SAFE';
-        document.getElementById('alertLocations').textContent = 'Brovary · Kyiv · Boguslav';
+        document.getElementById('alertLocations').textContent = MY_CITIES.join(' · ');
       }
 
       // Count total active alerts
@@ -1663,7 +1775,7 @@
       if (activeCount > 0 && !state.alertActive) {
         // Alerts exist elsewhere but not Kyiv
         document.getElementById('alertLocations').textContent =
-          `Brovary · Kyiv · Boguslav  (${activeCount} oblast${activeCount > 1 ? 's' : ''} on alert)`;
+          `${MY_CITIES.join(' · ')}  (${activeCount} oblast${activeCount > 1 ? 's' : ''} on alert)`;
       }
 
       // Fire notification on inactive → active transition
@@ -1721,55 +1833,26 @@
       return null;
     }
 
-    // ---------- NEWS ----------
+    // ---------- NEWS (Telegram feed) ----------
     async function fetchNews() {
-      const allItems = [];
-
-      const results = await Promise.all(
-        RSS_FEEDS.map(feed =>
-          fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feed.url)}`)
-            .then(r => r.ok ? r.json() : Promise.reject('not ok'))
-            .then(data => {
-              if (data.status !== 'ok' || !data.items) return [];
-              return data.items.map(item => normalizeNewsItem(item, feed.name));
-            })
-            .catch(() => [])
-        )
-      );
-
-      results.forEach(items => allItems.push(...items));
-
-      // Sort newest first
-      allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-
-      // Deduplicate by title similarity
-      const seen = new Set();
-      const unique = allItems.filter(item => {
-        const key = item.title.toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 40);
-        if (seen.has(key)) return false;
-        seen.add(key);
-        return true;
-      });
-
-      return { ok: unique.length > 0, data: unique };
-    }
-
-    function normalizeNewsItem(item, sourceName) {
-      const title = stripHtml(item.title || '');
-      const description = stripHtml(item.description || item.content || '');
-      const text = (title + ' ' + description).toLowerCase();
-
-      return {
-        title,
-        description,
-        time: formatDate(item.pubDate),
-        pubDate: item.pubDate,
-        category: categorize(text),
-        severity: assessSeverity(text),
-        location: extractLocation(text),
-        source: sourceName,
-        link: item.link || ''
-      };
+      try {
+        const r = await fetch(TELEGRAM_FEED_URL + '?t=' + Date.now());
+        if (!r.ok) return { ok: false, data: [] };
+        const items = await r.json();
+        // The Python backend already scored, categorised, and filtered.
+        // We just need to refresh relative timestamps.
+        const normalised = items.map(item => ({
+          ...item,
+          time: formatDate(item.pubDate),
+          // Re-run frontend categorisation as fallback
+          category: item.category || categorize((item.title + ' ' + item.description).toLowerCase()),
+          severity: item.severity || assessSeverity((item.title + ' ' + item.description).toLowerCase()),
+          location: item.location || extractLocation(item.title + ' ' + item.description),
+        }));
+        return { ok: normalised.length > 0, data: normalised };
+      } catch (e) {
+        return { ok: false, data: [] };
+      }
     }
 
     function categorize(text) {
@@ -1874,98 +1957,6 @@
       return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short' });
     }
 
-    // ==================== SATELLITE & SENSOR DATA ====================
-
-    function findNearestOblast(lat, lng) {
-      let minDist = Infinity, nearest = null;
-      Object.entries(OBLASTS).forEach(([name, cfg]) => {
-        const d = Math.sqrt(Math.pow(lat - cfg.lat, 2) + Math.pow(lng - cfg.lng, 2));
-        if (d < minDist) { minDist = d; nearest = name; }
-      });
-      return nearest;
-    }
-
-    // ---------- NASA FIRMS ----------
-    async function fetchFirms() {
-      const key = localStorage.getItem('ukr_firms_key');
-      if (!key) return { ok: false, data: [], noKey: true };
-      try {
-        const resp = await fetch(FIRMS_CONFIG.getUrl(key), { signal: AbortSignal.timeout(15000) });
-        if (!resp.ok) return { ok: false, data: [] };
-        const csv = await resp.text();
-        return { ok: true, data: parseFirmsCSV(csv) };
-      } catch (e) { return { ok: false, data: [] }; }
-    }
-
-    function parseFirmsCSV(csv) {
-      const lines = csv.trim().split('\n');
-      if (lines.length < 2) return [];
-      const hdr = lines[0].split(',').map(h => h.trim().toLowerCase());
-      const idx = k => hdr.indexOf(k);
-      const fires = [];
-      for (let i = 1; i < lines.length; i++) {
-        const c = lines[i].split(',');
-        if (c.length < hdr.length) continue;
-        const confidence = (c[idx('confidence')] || '').trim().toLowerCase();
-        if (FIRMS_CONFIG.MIN_CONFIDENCE === 'high' && confidence !== 'high') continue;
-        if (FIRMS_CONFIG.MIN_CONFIDENCE === 'nominal' && confidence === 'low') continue;
-        const lat = parseFloat(c[idx('latitude')]);
-        const lng = parseFloat(c[idx('longitude')]);
-        if (isNaN(lat) || isNaN(lng)) continue;
-        fires.push({
-          lat, lng,
-          brightness: parseFloat(c[idx('bright_ti4')]) || 0,
-          confidence,
-          acq_date: (c[idx('acq_date')] || '').trim(),
-          acq_time: (c[idx('acq_time')] || '').trim(),
-          frp: parseFloat(c[idx('frp')]) || 0,
-          oblast: findNearestOblast(lat, lng)
-        });
-      }
-      return fires;
-    }
-
-    // ---------- USGS SEISMIC ----------
-    async function fetchSeismic() {
-      try {
-        const resp = await fetch(SEISMIC_CONFIG.getUrl(), { signal: AbortSignal.timeout(10000) });
-        if (!resp.ok) return { ok: false, data: [] };
-        const geo = await resp.json();
-        const events = (geo.features || []).map(f => ({
-          lat: f.geometry.coordinates[1],
-          lng: f.geometry.coordinates[0],
-          depth: f.geometry.coordinates[2],
-          magnitude: f.properties.mag,
-          place: f.properties.place || '',
-          time: f.properties.time,
-          type: f.properties.type || 'earthquake',
-          oblast: findNearestOblast(f.geometry.coordinates[1], f.geometry.coordinates[0])
-        }));
-        return { ok: true, data: events };
-      } catch (e) { return { ok: false, data: [] }; }
-    }
-
-    // ---------- AIR QUALITY ----------
-    async function fetchAirQuality() {
-      try {
-        const results = await Promise.all(AIR_QUALITY_CITIES.map(async city => {
-          const url = `https://air-quality-api.open-meteo.com/v1/air-quality?latitude=${city.lat}&longitude=${city.lng}&current=pm2_5,pm10`;
-          const resp = await fetch(url, { signal: AbortSignal.timeout(8000) });
-          if (!resp.ok) return null;
-          const d = await resp.json();
-          return { name: city.name, lat: city.lat, lng: city.lng, pm25: d.current?.pm2_5 ?? null, pm10: d.current?.pm10 ?? null };
-        }));
-        const valid = results.filter(Boolean);
-        return { ok: valid.length > 0, data: valid };
-      } catch (e) { return { ok: false, data: [] }; }
-    }
-
-    // ---------- AQ REFRESH ----------
-    async function fetchAndRenderAirQuality() {
-      const r = await fetchAirQuality();
-      state.sourcesStatus.airquality = r.ok;
-      if (r.ok) { r.data.forEach(d => { state.airQualityData[d.name] = d; }); renderAirQualityLayer(); updateLayerCounts(); }
-    }
 
     // ==================== FRONTLINE ====================
 
@@ -2048,245 +2039,25 @@
       }
     }
 
-    // ==================== MAP LAYERS ====================
 
-    function renderFiresLayer() {
-      if (!state.firmsLayer) {
-        state.firmsLayer = L.layerGroup();
-        if (state.layers.fires) state.firmsLayer.addTo(state.map);
-      }
-      state.firmsLayer.clearLayers();
-      if (!state.layers.fires || state.firmsData.length === 0) return;
-
-      [...state.firmsData].sort((a, b) => b.frp - a.frp).forEach(fire => {
-        const isHigh = fire.confidence === 'high';
-        const radius = Math.max(4, Math.min(15, fire.frp / 10 + 4));
-        const color = isHigh ? '#ff2952' : '#ff6b00';
-        const marker = L.circleMarker([fire.lat, fire.lng], {
-          radius, color, fillColor: color, fillOpacity: isHigh ? 0.7 : 0.5, weight: 1, opacity: 0.8
-        });
-        const timeStr = fire.acq_date + ' ' + fire.acq_time.padStart(4, '0').replace(/(\d{2})(\d{2})/, '$1:$2') + ' UTC';
-        marker.bindPopup(
-          `<div style="font-size:13px"><strong>🔥 Thermal Detection</strong><br>` +
-          `<span style="color:var(--text-secondary)">Confidence: <b style="color:${color}">${fire.confidence.toUpperCase()}</b><br>` +
-          `Brightness: ${fire.brightness.toFixed(1)}K · FRP: ${fire.frp.toFixed(1)} MW<br>` +
-          `Time: ${timeStr}<br>Oblast: ${fire.oblast || '?'}</span></div>`,
-          { className: 'city-popup' }
-        );
-        state.firmsLayer.addLayer(marker);
-      });
-    }
-
-    function renderSeismicLayer() {
-      if (!state.seismicLayer) {
-        state.seismicLayer = L.layerGroup();
-        if (state.layers.seismic) state.seismicLayer.addTo(state.map);
-      }
-      state.seismicLayer.clearLayers();
-      if (!state.layers.seismic || state.seismicData.length === 0) return;
-
-      state.seismicData.forEach(ev => {
-        const radius = Math.max(6, ev.magnitude * 8);
-        const isExplosion = /explosion/i.test(ev.type);
-        const color = isExplosion ? '#ff2952' : '#8b5cf6';
-        const marker = L.circleMarker([ev.lat, ev.lng], {
-          radius, color, fillColor: color, fillOpacity: 0.3, weight: 2, opacity: 0.8,
-          dashArray: isExplosion ? null : '4 4'
-        });
-        marker.bindPopup(
-          `<div style="font-size:13px"><strong>${isExplosion ? '💥' : '🌍'} Seismic Event</strong><br>` +
-          `<span style="color:var(--text-secondary)">Type: <b style="color:${color}">${ev.type}</b><br>` +
-          `Magnitude: ${ev.magnitude.toFixed(1)} · Depth: ${ev.depth?.toFixed(1) || '?'} km<br>` +
-          `Location: ${ev.place}<br>Time: ${new Date(ev.time).toLocaleString()}</span></div>`,
-          { className: 'city-popup' }
-        );
-        state.seismicLayer.addLayer(marker);
-      });
-    }
-
-    function renderAirQualityLayer() {
-      if (!state.airQualityLayer) {
-        state.airQualityLayer = L.layerGroup();
-        if (state.layers.airquality) state.airQualityLayer.addTo(state.map);
-      }
-      state.airQualityLayer.clearLayers();
-      if (!state.layers.airquality) return;
-
-      Object.values(state.airQualityData).forEach(aq => {
-        if (aq.pm25 === null) return;
-        let color, label;
-        if (aq.pm25 > 100)     { color = '#ff2952'; label = 'VERY HIGH'; }
-        else if (aq.pm25 > 50) { color = '#ff6432'; label = 'HIGH'; }
-        else if (aq.pm25 > 25) { color = '#ffb020'; label = 'MODERATE'; }
-        else                    { color = '#22c55e'; label = 'GOOD'; }
-
-        const marker = L.circleMarker([aq.lat, aq.lng], {
-          radius: 18, color, fillColor: color, fillOpacity: 0.15, weight: 2, opacity: 0.6
-        });
-        const textIcon = L.divIcon({
-          className: '',
-          html: `<div style="font-size:9px;font-weight:700;color:${color};text-align:center;white-space:nowrap;text-shadow:0 0 4px rgba(0,0,0,.8);margin-top:-6px">PM2.5: ${aq.pm25.toFixed(0)}</div>`,
-          iconSize: [60, 16], iconAnchor: [30, -12]
-        });
-        marker.bindPopup(
-          `<div style="font-size:13px"><strong>🌫 Air Quality — ${aq.name}</strong><br>` +
-          `<span style="color:var(--text-secondary)">PM2.5: <b style="color:${color}">${aq.pm25.toFixed(1)} µg/m³ (${label})</b><br>` +
-          `PM10: ${aq.pm10?.toFixed(1) ?? '—'} µg/m³` +
-          `${aq.pm25 > 50 ? '<br><span style="color:var(--red)">⚠ Elevated — possible fire/explosion nearby</span>' : ''}</span></div>`,
-          { className: 'city-popup' }
-        );
-        state.airQualityLayer.addLayer(marker);
-        state.airQualityLayer.addLayer(L.marker([aq.lat, aq.lng], { icon: textIcon, interactive: false }));
-      });
-    }
-
-    // ==================== FEED INJECTION ====================
-
-    function injectFireIncidents(fires) {
-      const byOblast = {};
-      fires.forEach(f => { const k = f.oblast || 'Unknown'; (byOblast[k] = byOblast[k] || []).push(f); });
-
-      Object.entries(byOblast).forEach(([oblast, oblastFires]) => {
-        const highConf = oblastFires.filter(f => f.confidence === 'high');
-        if (oblastFires.length < 3 && highConf.length === 0) return;
-        const maxFrp = Math.max(...oblastFires.map(f => f.frp));
-        const latestTime = oblastFires
-          .map(f => f.acq_date + 'T' + f.acq_time.padStart(4, '0').replace(/(\d{2})(\d{2})/, '$1:$2') + ':00Z')
-          .sort().pop();
-
-        let severity;
-        if (highConf.length >= 5 || maxFrp > 100) severity = 'critical';
-        else if (highConf.length >= 2 || maxFrp > 50) severity = 'high';
-        else if (oblastFires.length >= 5) severity = 'medium';
-        else severity = 'low';
-
-        state.incidents.push({
-          title: `${oblastFires.length} thermal anomalies detected — ${oblast}`,
-          description: `NASA FIRMS satellite detected ${oblastFires.length} fire/heat signatures in ${oblast}. ${highConf.length} high confidence. Max fire power: ${maxFrp.toFixed(1)} MW.`,
-          time: formatDate(latestTime), pubDate: latestTime,
-          category: 'fire', severity, location: oblast.replace(' Oblast', '').replace(' City', ''),
-          source: 'NASA FIRMS', link: 'https://firms.modaps.eosdis.nasa.gov/map/'
-        });
-      });
-      state.incidents.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-    }
-
-    function injectSeismicIncidents(events) {
-      events.forEach(ev => {
-        if (ev.magnitude < 2.0) return;
-        const isExplosion = /explosion/i.test(ev.type);
-        let severity;
-        if (ev.magnitude >= 4.0) severity = 'critical';
-        else if (ev.magnitude >= 3.0) severity = 'high';
-        else severity = 'medium';
-
-        state.incidents.push({
-          title: `${isExplosion ? 'Explosion' : 'Seismic event'} M${ev.magnitude.toFixed(1)} — ${ev.place || ev.oblast}`,
-          description: `USGS detected ${ev.type} of magnitude ${ev.magnitude.toFixed(1)} at depth ${ev.depth?.toFixed(1) || '?'} km near ${ev.place || ev.oblast}.${isExplosion ? ' Classified as explosion, not natural seismic activity.' : ''}`,
-          time: formatDate(new Date(ev.time).toISOString()), pubDate: new Date(ev.time).toISOString(),
-          category: 'seismic', severity, location: ev.oblast || 'Ukraine',
-          source: 'USGS', link: ''
-        });
-      });
-      state.incidents.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-    }
-
-    // ==================== CROSS-SOURCE ALERT ENHANCEMENT ====================
-
-    function enhanceAlertSeverity() {
-      const enhancedOblasts = new Set();
-
-      Object.entries(state.oblastAlerts).forEach(([oblast, hasAlert]) => {
-        if (!hasAlert) return;
-        const recentFires = state.firmsData.filter(f => f.oblast === oblast);
-        const highConfFires = recentFires.filter(f => f.confidence === 'high');
-        const oneDayAgo = Date.now() - 86400000;
-        const recentSeismic = state.seismicData.filter(e => e.oblast === oblast && e.time > oneDayAgo);
-
-        if (highConfFires.length > 0 || recentSeismic.length > 0) {
-          enhancedOblasts.add(oblast);
-        }
-      });
-
-      // Fire clusters WITHOUT active alerts (possible unreported events)
-      const firesNoAlert = {};
-      state.firmsData.forEach(f => {
-        if (!state.oblastAlerts[f.oblast] && f.confidence === 'high') {
-          firesNoAlert[f.oblast] = (firesNoAlert[f.oblast] || 0) + 1;
-        }
-      });
-
-      // Upgrade confirmed-impact oblasts on map
-      enhancedOblasts.forEach(oblast => {
-        const circle = state.oblastCircles[oblast];
-        if (circle) {
-          circle.setStyle({ color: 'rgba(255,41,82,0.8)', fillColor: 'rgba(255,41,82,0.25)', weight: 3 });
-          circle.unbindTooltip();
-          circle.bindTooltip(`🔴🔥 ${oblast} — CONFIRMED IMPACT`, { className: 'oblast-tooltip', direction: 'center', permanent: false });
-        }
-      });
-
-      // Show fire clusters without alerts in orange
-      Object.entries(firesNoAlert).forEach(([oblast, count]) => {
-        if (count >= 3) {
-          const circle = state.oblastCircles[oblast];
-          if (circle) {
-            circle.setStyle({ color: 'rgba(255,107,0,0.5)', fillColor: 'rgba(255,107,0,0.1)', weight: 2 });
-            circle.unbindTooltip();
-            circle.bindTooltip(`🔥 ${oblast} — ${count} fire detections (no alert)`, { className: 'oblast-tooltip', direction: 'center', permanent: false });
-          }
-        }
-      });
-
-      // Escalate banner for confirmed Kyiv impacts
-      if (['Kyiv Oblast', 'Kyiv City'].some(o => enhancedOblasts.has(o)) && state.alertActive) {
-        document.getElementById('alertStatusText').textContent = 'CONFIRMED IMPACT';
-        if (state.notificationsEnabled && Notification.permission === 'granted') {
-          new Notification('🔴🔥 CONFIRMED IMPACT — Kyiv Oblast', {
-            body: 'Satellite data confirms fire/explosion in Kyiv Oblast during active alert!',
-            tag: 'ukr-impact'
-          });
-        }
-      }
-    }
 
     // ==================== LAYER TOGGLES ====================
 
     function toggleLayer(layerName) {
       state.layers[layerName] = !state.layers[layerName];
-      const lsKey = layerName === 'airquality' ? 'aq' : layerName;
-      localStorage.setItem(`ukr_layer_${lsKey}`, state.layers[layerName]);
+      localStorage.setItem(`ukr_layer_${layerName}`, state.layers[layerName]);
 
-      const cfg = {
-        frontline:  { layer: 'frontlineLayer',    render: renderFrontlineLayer,   btn: 'toggleFrontline' },
-        fires:      { layer: 'firmsLayer',       render: renderFiresLayer,      btn: 'toggleFires' },
-        seismic:    { layer: 'seismicLayer',      render: renderSeismicLayer,    btn: 'toggleSeismic' },
-        airquality: { layer: 'airQualityLayer',   render: renderAirQualityLayer, btn: 'toggleAQ' }
-      }[layerName];
-      if (!cfg) return;
-
-      const btn = document.getElementById(cfg.btn);
-      if (state.layers[layerName]) {
-        btn.classList.add('active');
-        if (state[cfg.layer]) state[cfg.layer].addTo(state.map);
-        cfg.render();
-        if (layerName === 'airquality') fetchAndRenderAirQuality();
-      } else {
-        btn.classList.remove('active');
-        if (state[cfg.layer]) state.map.removeLayer(state[cfg.layer]);
+      if (layerName === 'frontline') {
+        const btn = document.getElementById('toggleFrontline');
+        if (state.layers.frontline) {
+          btn.classList.add('active');
+          if (state.frontlineLayer) state.frontlineLayer.addTo(state.map);
+          renderFrontlineLayer();
+        } else {
+          btn.classList.remove('active');
+          if (state.frontlineLayer) state.map.removeLayer(state.frontlineLayer);
+        }
       }
-    }
-
-    function updateLayerCounts() {
-      document.getElementById('frontlineCount').textContent = state.frontlineDate || '—';
-      document.getElementById('firesCount').textContent = state.firmsData.length;
-      document.getElementById('seismicCount').textContent = state.seismicData.length;
-      document.getElementById('aqCount').textContent = Object.keys(state.airQualityData).length;
-    }
-
-    function saveFirmsKey(val) {
-      localStorage.setItem('ukr_firms_key', val.trim());
-      showToast('FIRMS key saved — will be used on next refresh');
     }
 
     // ==================== UI UPDATES ====================
@@ -2300,11 +2071,8 @@
       const container = document.getElementById('sourceBadges');
       const sources = [
         { key: 'alerts', label: 'Alerts' },
-        { key: 'news', label: 'News' },
-        { key: 'frontline', label: 'DeepState' },
-        { key: 'firms', label: 'FIRMS' },
-        { key: 'seismic', label: 'USGS' },
-        { key: 'airquality', label: 'AQ' }
+        { key: 'news', label: 'Telegram' },
+        { key: 'frontline', label: 'DeepState' }
       ];
       container.innerHTML = sources
         .filter(s => state.sourcesStatus[s.key] !== null)
@@ -2323,6 +2091,11 @@
         ? [...state.incidents]
         : state.incidents.filter(i => i.category === state.activeFilter)
       ).sort((a, b) => {
+        // Near-you items always float to top
+        const na = isNearMyCities(a) ? 0 : 1;
+        const nb = isNearMyCities(b) ? 0 : 1;
+        if (na !== nb) return na - nb;
+        // Then by severity
         const sa = SEVERITY_ORDER[a.severity] ?? 3;
         const sb = SEVERITY_ORDER[b.severity] ?? 3;
         if (sa !== sb) return sa - sb;
@@ -2342,25 +2115,35 @@
       document.getElementById('feedCount').textContent =
         `${filtered.length} item${filtered.length !== 1 ? 's' : ''}`;
 
+      const lang = state.lang;
+      const titleKey = lang === 'uk' ? 'title_uk' : 'title_en';
+      const descKey = lang === 'uk' ? 'description_uk' : 'description_en';
+
       list.innerHTML = filtered.map((item, i) => {
         const icon = CATEGORY_ICONS[item.category] || CATEGORY_ICONS.unknown;
         const sev = item.severity || 'low';
         const severityClass = `severity-${sev}`;
         const borderClass = `border-${sev}`;
         const globalIdx = state.incidents.indexOf(item);
+        const title = item[titleKey] || item.title || '';
+        const description = item[descKey] || item.description || '';
+        const nearYou = isNearMyCities(item);
+        const nearClass = nearYou ? ' near-you' : '';
+        const nearBadge = nearYou ? `<span class="near-badge">${lang === 'uk' ? 'ПОРУЧ' : 'NEAR YOU'}</span>` : '';
         const linkHtml = item.link
-          ? `<a class="feed-item-link" href="${escapeAttr(item.link)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Read full article →</a>`
+          ? `<a class="feed-item-link" href="${escapeAttr(item.link)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${lang === 'uk' ? 'Читати повністю →' : 'Read full article →'}</a>`
           : '';
 
-        return `<div class="feed-item ${borderClass}" data-index="${globalIdx}" onclick="toggleExpand(this)" style="animation-delay:${i * 0.04}s">
+        return `<div class="feed-item ${borderClass}${nearClass}" data-index="${globalIdx}" onclick="toggleExpand(this)" style="animation-delay:${i * 0.04}s">
           <div class="feed-item-header">
             <span class="feed-category-icon">${icon}</span>
-            <span class="feed-item-title">${escapeHtml(item.title)}</span>
+            <span class="feed-item-title">${escapeHtml(title)}</span>
+            ${nearBadge}
             <span class="feed-severity ${severityClass}">${sev}</span>
             <span class="feed-item-expand">▸</span>
           </div>
           <div class="feed-item-body">
-            <div class="feed-item-description">${escapeHtml(item.description)}</div>
+            <div class="feed-item-description">${escapeHtml(description)}</div>
             ${linkHtml}
           </div>
           <div class="feed-item-meta">
@@ -2381,6 +2164,100 @@
         btn.classList.toggle('active', btn.dataset.category === category);
       });
       renderFeed();
+    }
+
+    function setLang(lang) {
+      state.lang = lang;
+      localStorage.setItem('ukr_lang', lang);
+      document.getElementById('langEN').classList.toggle('active', lang === 'en');
+      document.getElementById('langUA').classList.toggle('active', lang === 'uk');
+      renderFeed();
+    }
+
+    // ==================== CITY SETTINGS ====================
+    let _pendingCities = [];
+
+    function openCityModal() {
+      _pendingCities = [...MY_CITIES];
+      renderCityList('');
+      document.getElementById('citySearch').value = '';
+      document.getElementById('cityModal').classList.add('visible');
+      document.getElementById('citySearch').focus();
+    }
+
+    function closeCityModal() {
+      document.getElementById('cityModal').classList.remove('visible');
+    }
+
+    function renderCityList(filter) {
+      const list = document.getElementById('cityList');
+      const f = filter.toLowerCase();
+      const cities = Object.keys(ALL_CITIES).sort();
+      list.innerHTML = cities
+        .filter(c => !f || c.toLowerCase().includes(f))
+        .map(city => {
+          const sel = _pendingCities.includes(city);
+          return `<div class="city-option ${sel ? 'selected' : ''}" onclick="toggleCity('${city}')">
+            <span class="check">${sel ? '✓' : ''}</span>
+            <span>${city}</span>
+          </div>`;
+        }).join('');
+    }
+
+    function filterCityList(val) { renderCityList(val); }
+
+    function toggleCity(name) {
+      const idx = _pendingCities.indexOf(name);
+      if (idx >= 0) _pendingCities.splice(idx, 1);
+      else _pendingCities.push(name);
+      renderCityList(document.getElementById('citySearch').value);
+    }
+
+    function saveCitySelection() {
+      if (_pendingCities.length === 0) {
+        showToast('Select at least one city');
+        return;
+      }
+      MY_CITIES = [..._pendingCities];
+      localStorage.setItem('ukr_my_cities', JSON.stringify(MY_CITIES));
+      TARGET_CITIES = getTargetCities();
+      closeCityModal();
+
+      // Re-render everything with new cities
+      rebuildCityMarkers();
+      renderFeed();
+      renderIncidentMarkers();
+      if (state.oblastAlerts) updateMapAlerts(state.oblastAlerts);
+      document.getElementById('alertLocations').textContent = MY_CITIES.join(' · ');
+      showToast(`Monitoring: ${MY_CITIES.join(', ')}`);
+    }
+
+    function rebuildCityMarkers() {
+      // Remove old markers
+      state.cityMarkers.forEach(({ marker }) => state.map.removeLayer(marker));
+      state.cityMarkers = [];
+      // Add new ones
+      TARGET_CITIES.forEach(city => {
+        const icon = L.divIcon({
+          className: '',
+          html: `<div class="city-marker" id="marker-${city.name}"><div class="city-marker-inner"></div></div>`,
+          iconSize: [28, 28],
+          iconAnchor: [14, 14]
+        });
+        const marker = L.marker([city.lat, city.lng], { icon })
+          .addTo(state.map)
+          .bindPopup(
+            `<div style="text-align:center"><strong>${city.name}</strong><br><span style="font-size:11px;color:#7a8599">Monitored</span></div>`,
+            { className: 'city-popup' }
+          );
+        state.cityMarkers.push({ name: city.name, marker });
+      });
+    }
+
+    function isNearMyCities(item) {
+      if (!item.location || item.location === 'Ukraine') return false;
+      const loc = item.location.toLowerCase();
+      return MY_CITIES.some(c => c.toLowerCase() === loc);
     }
 
     function escapeHtml(str) {

@@ -2,12 +2,11 @@
 
 # ВАРТА /// VARTA
 
-### Real-Time Tactical Surveillance for Ukraine
+### Civilian Safety Dashboard for Ukraine
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-00e5ff.svg?style=flat-square)](LICENSE)
-[![Single File](https://img.shields.io/badge/Single_HTML_File-00ff88.svg?style=flat-square)](#quick-start)
-[![No Setup](https://img.shields.io/badge/No_Setup_Required-ff2952.svg?style=flat-square)](#quick-start)
-[![6 Sources](https://img.shields.io/badge/6_Live_Data_Sources-ffb020.svg?style=flat-square)](#data-sources)
+[![Live](https://img.shields.io/badge/Live-clmrie.github.io/varta-00ff88.svg?style=flat-square)](https://clmrie.github.io/varta)
+[![Telegram Powered](https://img.shields.io/badge/Telegram-Powered-ffb020.svg?style=flat-square)](#data-sources)
 
 <br>
 
@@ -15,11 +14,11 @@
 
 <br>
 
-*A military command center in your browser — monitoring Ukraine's airspace, frontlines, and threats in real time.*
+*A civilian safety monitor — real-time threats, incoming strikes, and air defense activity in your area.*
 
 <br>
 
-[**Live Demo**](https://clmrie.github.io/varta) · [Report Bug](https://github.com/clmrie/varta/issues) · [Request Feature](https://github.com/clmrie/varta/issues)
+[**Live Dashboard**](https://clmrie.github.io/varta) · [Report Bug](https://github.com/clmrie/varta/issues) · [Request Feature](https://github.com/clmrie/varta/issues)
 
 </div>
 
@@ -27,9 +26,13 @@
 
 ## What is VARTA?
 
-**VARTA** (*Варта* — Ukrainian for "The Guard") is a live dashboard that tracks the war in Ukraine from **6 independent sources** — and displays everything on a single interactive map.
+**VARTA** (*Варта* — Ukrainian for "The Guard") is a **civilian-first** safety dashboard that answers one question:
 
-Air raid sirens. Russian frontline positions. Fires detected from space. Earthquake sensors. Air pollution. Breaking news. All updating automatically, all in one place, all free to use.
+> **Am I in danger right now?**
+
+It monitors Ukrainian Telegram channels in real time, filters out noise (military ops, diplomacy, geopolitics), and shows only what matters to a regular person — incoming missiles, drone strikes, explosions, casualties, infrastructure damage, and air defense activity.
+
+You pick the cities you care about. News about those locations is prioritised at the top of your feed with a **NEAR YOU** badge.
 
 ---
 
@@ -39,26 +42,26 @@ Air raid sirens. Russian frontline positions. Fires detected from space. Earthqu
 <tr>
 <td width="50%">
 
-### 🛰️ Fires Detected from Space
-Uses NASA satellite imagery to spot active fires and thermal anomalies across Ukraine — including infrastructure hits and explosions visible from orbit.
+### Civilian Threat Feed
+Real-time alerts from 8 official Ukrainian Telegram channels, filtered by an AI scoring system that keeps only what threatens civilians — incoming drones, confirmed strikes, casualties, infrastructure damage, evacuation orders.
 
-### 📡 Live Air Raid Alerts
-Tracks active sirens across all 26 Ukrainian oblasts in real time. Color-coded by severity. Precise down to individual cities.
+### My Cities
+Pick the cities you live in or care about. News about those locations floats to the top. Your choices are saved between visits.
 
-### 🔴 Russian Frontline Positions
-Shows exactly where Russian-occupied territory is, updated daily from [DeepStateMap](https://github.com/cyterat/deepstate-map-data). Bright red borders mark the frontline.
+### EN / UA Toggle
+Switch between English and Ukrainian instantly. All Telegram messages are automatically translated.
 
 </td>
 <td width="50%">
 
-### 🌍 Earthquake & Explosion Detection
-Monitors seismic activity across Ukraine using US Geological Survey sensors — helping distinguish natural earthquakes from military explosions.
+### Live Air Raid Alerts
+Tracks active sirens across all 26 oblasts in real time. Banner turns red when your area is under alert.
 
-### 🌫️ Air Quality After Strikes
-Tracks air pollution levels (PM2.5 and PM10) across 6 major cities. Critical for understanding the environmental impact of attacks.
+### Russian Frontline Positions
+Daily frontline data from [DeepStateMap](https://github.com/cyterat/deepstate-map-data). Red borders mark occupied territory.
 
-### 📰 Live Breaking News
-Automatically pulls English-language news from major Ukrainian outlets, sorted by urgency. Click any headline to read the full article.
+### Alert-Style Titles
+No Telegram noise. Every headline reads like an emergency alert: *"Kryvyi Rih: Drone incoming"*, *"Kyiv: 500 drones launched"*, *"Kursk: 26 missiles intercepted"*.
 
 </td>
 </tr>
@@ -66,12 +69,25 @@ Automatically pulls English-language news from major Ukrainian outlets, sorted b
 
 ### Plus...
 
-- **🔗 Smart Alert Correlation** — When satellites detect fire in a region that also has active sirens and seismic activity, VARTA automatically flags it as a confirmed strike
-- **🔔 Desktop Notifications** — Get notified instantly when something critical happens
-- **🔊 Audio Warnings** — Audible alert tones for high-severity events
-- **🗺️ City-Level Precision** — 48 Ukrainian cities mapped with exact coordinates
-- **💾 Remembers Your Settings** — Your preferences are saved between visits
-- **📱 Works on Any Screen** — Desktop, tablet, or phone
+- **Desktop Notifications** — get notified when your area is under alert
+- **Audio Warnings** — audible tones for high-severity events
+- **City-Level Precision** — 30+ Ukrainian cities mapped with exact coordinates
+- **Works on Any Screen** — desktop, tablet, or phone
+
+---
+
+## What Gets Filtered OUT
+
+VARTA is **not** a military intelligence dashboard. It deliberately removes:
+
+- Frontline military operations and assault reports
+- Diplomatic meetings and foreign affairs
+- Enemy loss statistics
+- Fundraising and volunteer coordination
+- Geopolitics not directly about Ukraine (Iran, China, etc.)
+- Spam, ads, weather clickbait
+
+If it doesn't answer "am I in danger?", it doesn't show up.
 
 ---
 
@@ -79,38 +95,62 @@ Automatically pulls English-language news from major Ukrainian outlets, sorted b
 
 | What | Source | Updates |
 |------|--------|---------|
-| **Air Raid Alerts** | [alerts.in.ua](https://alerts.in.ua) | Real-time |
-| **News** | [Ukrainska Pravda](https://www.pravda.com.ua/eng/) + [UNIAN](https://www.unian.net/) | Every refresh |
-| **Satellite Fires** | [NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/) | Every 3–6 hours |
-| **Seismic Activity** | [USGS](https://earthquake.usgs.gov/) | Real-time |
-| **Air Quality** | [Open-Meteo](https://open-meteo.com/) | Every 15 minutes |
+| **Threat Feed** | 8 Telegram channels (General Staff, Air Force, Zelenskyy, Kyiv Independent, UNIAN, DeepState, MFA) | Every 10 min |
+| **Air Raid Alerts** | [alerts.in.ua](https://alerts.in.ua) / [siren.pp.ua](https://siren.pp.ua) | Real-time |
 | **Frontline** | [DeepStateMap](https://github.com/cyterat/deepstate-map-data) | Daily |
 
-All data comes from **free, publicly available sources**. No accounts or setup needed.
+All data comes from **free, publicly available sources**.
 
 ---
 
 ## Quick Start
 
+### Use it online
+
+**[clmrie.github.io/varta](https://clmrie.github.io/varta)** — nothing to install.
+
+### Run it locally
+
 ```bash
 git clone https://github.com/clmrie/varta.git
-open varta/index.html
+cd varta
+python3 -m http.server 8000
+# Open http://localhost:8000
 ```
 
-That's it. Open the file in any browser and you're live.
-
-Want to share it? Deploy it on **GitHub Pages** for free:
+### Deploy your own
 
 1. Fork this repo
-2. Go to **Settings → Pages**
-3. Set source to **Deploy from branch → `main` → `/ (root)`**
-4. Your dashboard is now live at `https://yourusername.github.io/varta`
+2. Add Telegram secrets (see [Telegram Setup](#telegram-setup))
+3. Enable **GitHub Pages** (Settings → Pages → Deploy from `main`)
+4. The GitHub Action updates the feed every 10 minutes automatically
+
+---
+
+## Telegram Setup
+
+The feed is powered by Telegram's MTProto API via [Telethon](https://docs.telethon.dev/). You need a personal Telegram account.
+
+```bash
+pip install -r requirements.txt
+python telegram_monitor.py --setup
+```
+
+This gives you 3 values. Add them as GitHub repo secrets:
+
+| Secret | Value |
+|--------|-------|
+| `TELEGRAM_API_ID` | From [my.telegram.org](https://my.telegram.org) |
+| `TELEGRAM_API_HASH` | From [my.telegram.org](https://my.telegram.org) |
+| `TELEGRAM_SESSION` | Generated by `--setup` |
+
+The GitHub Action (`.github/workflows/telegram_feed.yml`) runs every 10 minutes, fetches and filters Telegram messages, translates them, and commits `data/telegram_feed.json`.
 
 ---
 
 ## Disclaimer
 
-> VARTA aggregates publicly available data for **informational purposes only**. It is not a military system. Data accuracy depends on upstream providers (alerts.in.ua, NASA, USGS, DeepStateMap). Frontline positions are approximate and updated daily. **Do not make safety-critical decisions based solely on this dashboard.** Always follow official instructions from Ukrainian authorities.
+> VARTA aggregates publicly available data for **informational purposes only**. It is not a military system. Data accuracy depends on upstream Telegram channels and alert providers. **Do not make safety-critical decisions based solely on this dashboard.** Always follow official instructions from Ukrainian authorities.
 
 ---
 
@@ -124,57 +164,34 @@ Want to share it? Deploy it on **GitHub Pages** for free:
 
 <div align="center">
 
-# 🇺🇦 Українською
+# Українською
 
 </div>
 
 ## Що таке ВАРТА?
 
-**ВАРТА** — це інтерактивна панель моніторингу, яка відстежує війну в Україні в реальному часі з **6 незалежних джерел** — і відображає все на одній карті.
+**ВАРТА** — це панель безпеки для цивільних, яка відповідає на одне питання:
 
-Повітряні тривоги. Позиції російського фронту. Пожежі, виявлені з космосу. Сейсмічні датчики. Якість повітря. Останні новини. Все оновлюється автоматично, все в одному місці, все безкоштовно.
+> **Мені зараз загрожує небезпека?**
+
+Вона моніторить українські Telegram-канали в реальному часі, фільтрує шум (військові операції, дипломатія, геополітика) і показує лише те, що важливо для звичайної людини — вхідні ракети, удари дронів, вибухи, жертви, пошкодження інфраструктури та роботу ППО.
+
+Ви обираєте міста, які вас цікавлять. Новини про ці локації піднімаються на верх стрічки з позначкою **ПОРУЧ**.
 
 ---
 
 ## Можливості
 
-<table>
-<tr>
-<td width="50%">
+- **Стрічка загроз** — лише те, що загрожує цивільним, з 8 офіційних Telegram-каналів
+- **Мої міста** — оберіть свої міста, новини про них будуть пріоритетними
+- **EN / UA перемикач** — миттєве перемикання мови
+- **Повітряні тривоги** — відстеження сирен у всіх 26 областях
+- **Лінія фронту** — щоденне оновлення з DeepStateMap
+- **Сповіщення та звукові сигнали** — для критичних подій
 
-### 🛰️ Пожежі з космосу
-Супутники NASA виявляють активні пожежі та термальні аномалії по всій Україні — включаючи удари по інфраструктурі та вибухи, видимі з орбіти.
+## Що фільтрується
 
-### 📡 Повітряні тривоги
-Відстежує активні сирени у всіх 26 областях у реальному часі. Кольорове кодування за рівнем загрози. Точність до окремих міст.
-
-### 🔴 Позиції російського фронту
-Щоденне оновлення окупованих територій з [DeepStateMap](https://github.com/cyterat/deepstate-map-data). Яскраво-червоні лінії позначають лінію фронту.
-
-</td>
-<td width="50%">
-
-### 🌍 Землетруси та вибухи
-Моніторинг сейсмічної активності за допомогою датчиків Геологічної служби США — допомагає відрізнити природні землетруси від військових вибухів.
-
-### 🌫️ Якість повітря після ударів
-Відстежує рівень забруднення повітря (PM2.5 та PM10) у 6 великих містах. Важливо для оцінки екологічних наслідків атак.
-
-### 📰 Стрічка новин
-Автоматично збирає англомовні новини з основних українських видань, відсортовані за терміновістю. Натисніть на заголовок, щоб прочитати повну статтю.
-
-</td>
-</tr>
-</table>
-
-### А також...
-
-- **🔗 Розумна кореляція** — Коли супутники виявляють пожежу в регіоні, де також є активна тривога і сейсмічна активність, ВАРТА автоматично позначає це як підтверджений удар
-- **🔔 Сповіщення на робочий стіл** — Миттєве повідомлення про критичні події
-- **🔊 Звукові сигнали** — Для подій високого рівня загрози
-- **🗺️ Точність до міста** — 48 українських міст з точними координатами
-- **💾 Запам'ятовує налаштування** — Ваші параметри зберігаються між візитами
-- **📱 Працює на будь-якому екрані** — Комп'ютер, планшет чи телефон
+ВАРТА **не** показує: військові операції на фронті, дипломатичні зустрічі, статистику втрат ворога, збори коштів, геополітику, спам та рекламу.
 
 ---
 
@@ -182,26 +199,24 @@ Want to share it? Deploy it on **GitHub Pages** for free:
 
 ```bash
 git clone https://github.com/clmrie/varta.git
-open varta/index.html
+cd varta
+python3 -m http.server 8000
+# Відкрийте http://localhost:8000
 ```
 
-Це все. Відкрийте файл у будь-якому браузері — і панель моніторингу працює.
+Або просто: **[clmrie.github.io/varta](https://clmrie.github.io/varta)**
 
 ---
 
 ## Застереження
 
-> ВАРТА збирає загальнодоступні дані **виключно з інформаційною метою**. Це не військова система. Точність даних залежить від постачальників (alerts.in.ua, NASA, USGS, DeepStateMap). Позиції фронту є приблизними та оновлюються щодня. **Не приймайте рішень щодо безпеки виключно на основі цієї панелі.** Завжди дотримуйтесь офіційних вказівок українських органів влади.
+> ВАРТА збирає загальнодоступні дані **виключно з інформаційною метою**. Це не військова система. **Не приймайте рішень щодо безпеки виключно на основі цієї панелі.** Завжди дотримуйтесь офіційних вказівок українських органів влади.
 
 ---
 
 <div align="center">
 
-🇺🇦
-
 **Слава Україні!**
-
-*Створено з відкритими даними та відкритими серцями.*
 
 <sub>ВАРТА — "The Guard" — Стоїть на варті, щоб вам не довелося.</sub>
 
