@@ -1,5 +1,41 @@
 [
   {
+    "title": "BpLA on Cherkasy from the east.",
+    "title_en": "BpLA on Cherkasy from the east.",
+    "title_uk": "БпЛА на Черкаси зі сх.",
+    "description": "BpLA on Cherkasy from the east.",
+    "description_en": "BpLA on Cherkasy from the east.",
+    "description_uk": "БпЛА на Черкаси зі сходу.",
+    "time": "",
+    "pubDate": "2026-04-03T18:11:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Cherkasy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59445",
+    "score": 5.0,
+    "views": 53591,
+    "forwards": 35
+  },
+  {
+    "title": "Sumy: Unmanned aerial vehicle on Sumy from the southwest.",
+    "title_en": "Sumy: Unmanned aerial vehicle on Sumy from the southwest.",
+    "title_uk": "Суми: БПЛА на Суми з південного заходу.",
+    "description": "Unmanned aerial vehicle on Sumy from the southwest.",
+    "description_en": "Unmanned aerial vehicle on Sumy from the southwest.",
+    "description_uk": "БпЛА на Суми з південного заходу.",
+    "time": "",
+    "pubDate": "2026-04-03T18:08:50+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59444",
+    "score": 6.0,
+    "views": 55624,
+    "forwards": 1
+  },
+  {
     "title": "BpLA in the direction of Kharkiv from the north.",
     "title_en": "BpLA in the direction of Kharkiv from the north.",
     "title_uk": "БпЛА в напрямку Харкова з півн.",
@@ -86,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52308",
     "score": 14.0,
-    "views": 1083,
+    "views": 1325,
     "forwards": 4
   },
   {
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52306",
     "score": 6.0,
-    "views": 1193,
+    "views": 1395,
     "forwards": 5
   },
   {
@@ -140,15 +176,15 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36862",
     "score": 4.0,
-    "views": 5962,
+    "views": 6798,
     "forwards": 25
   },
   {
     "title": "Drone strike near civilians",
     "title_en": "Drone strike near civilians",
     "title_uk": "Удар безпілотників поблизу мирних жителів",
-    "description": "The drone flew just a few tens of meters away from the person: the moment of shelling of the Kyiv region",
-    "description_en": "The drone flew just a few tens of meters away from the person: the moment of shelling of the Kyiv region",
+    "description": "The drone flew just a few tens of meters from the person: the moment of shelling of the Kyiv region",
+    "description_en": "The drone flew just a few tens of meters from the person: the moment of shelling of the Kyiv region",
     "description_uk": "Дрон прилетел всего в нескольких десятках метров от человека: момент обстрела Киевской области",
     "time": "",
     "pubDate": "2026-04-03T13:14:01+00:00",
@@ -158,7 +194,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/188785",
     "score": 5.5,
-    "views": 129737,
+    "views": 139406,
     "forwards": 249
   },
   {
@@ -176,8 +212,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36860",
     "score": 13.0,
-    "views": 8452,
-    "forwards": 35
+    "views": 8771,
+    "forwards": 36
   },
   {
     "title": "Energy infrastructure hit",
@@ -194,25 +230,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18521",
     "score": 4.0,
-    "views": 183278,
+    "views": 184353,
     "forwards": 121
-  },
-  {
-    "title": "Ivano-Frankivsk: Air defense active",
-    "title_en": "Ivano-Frankivsk: Air defense active",
-    "title_uk": "Івано-Франківськ: ППО діє",
-    "description": "For nearly the entire day, our warriors have been intercepting Russian drones. Air raid alerts were active in most regions, and more than 700 Russian drones were launched – a significant number of them “shaheds.” The interception rate over the past 24 hours has been quite high – around 90% – but, of course, it needs to be higher. Unfortunately, there were hits, including in the Volyn,...",
-    "description_en": "For nearly the entire day, our warriors have been intercepting Russian drones. Air raid alerts were active in most regions, and more than 700 Russian drones were launched – a significant number of them “shaheds.” The interception rate over the past 24 hours has been quite high – around 90% – but, of course, it needs to be higher. Unfortunately, there were hits, including in the Volyn,...",
-    "description_uk": "For nearly the entire day, our warriors have been intercepting Russian drones. Air raid alerts were active in most regions, and more than 700 Russian drones were launched – a significant number of them “shaheds.” The interception rate over the past 24 hours has been quite high – around 90% – but, of course, it needs to be higher. Unfortunately, there were hits, including in the Volyn,...",
-    "time": "",
-    "pubDate": "2026-04-01T18:32:21+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ivano-Frankivsk",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18520",
-    "score": 16.5,
-    "views": 58507,
-    "forwards": 32
   }
 ]
