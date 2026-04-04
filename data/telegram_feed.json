@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea area heading for Odesa.",
+    "description_en": "UAV from the Black Sea area heading for Odesa.",
+    "description_uk": "БпЛА з акваторіі Чорного моря курсом на Одесу.",
+    "time": "",
+    "pubDate": "2026-04-04T22:12:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59531",
+    "score": 5.5,
+    "views": 7003,
+    "forwards": 51
+  },
+  {
     "title": "Odesa: Drone incoming",
     "title_en": "Odesa: Drone incoming",
     "title_uk": "Одеса: Дрон вхід",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59530",
     "score": 6.0,
-    "views": 21122,
-    "forwards": 1
+    "views": 28965,
+    "forwards": 23
   },
   {
     "title": "Mykolaiv: BpLA on the city of Mykolaiv from the south",
@@ -68,26 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/188858",
     "score": 6.5,
-    "views": 111114,
-    "forwards": 457
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV from the Black Sea, heading for Odesa.",
-    "description_en": "UAV from the Black Sea, heading for Odesa.",
-    "description_uk": "БпЛА з акваторії Чорного моря, курсом на Одещину.",
-    "time": "",
-    "pubDate": "2026-04-04T17:38:28+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59522",
-    "score": 5.0,
-    "views": 46531,
-    "forwards": 1
+    "views": 114352,
+    "forwards": 458
   },
   {
     "title": "Istanbul. Meeting with Ecumenical Patriarch Bartholomew. The key...",
@@ -104,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18537",
     "score": 5.5,
-    "views": 47332,
-    "forwards": 157
+    "views": 48406,
+    "forwards": 163
   },
   {
     "title": "Luhansk: Ukraine hits key Russian plant in occupied Luhansk second time in...",
@@ -122,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52331",
     "score": 5.0,
-    "views": 1611,
+    "views": 1672,
     "forwards": 3
   },
   {
@@ -140,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52330",
     "score": 9.5,
-    "views": 1583,
+    "views": 1645,
     "forwards": 5
   },
   {
@@ -374,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36889",
     "score": 13.0,
-    "views": 5088,
+    "views": 5098,
     "forwards": 15
   }
 ]
