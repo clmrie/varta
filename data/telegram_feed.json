@@ -1,5 +1,41 @@
 [
   {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-04-04T18:38:38+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59523",
+    "score": 5.0,
+    "views": 6074,
+    "forwards": 1
+  },
+  {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "In the meantime, almost three hundred UAVs are flying to arrange a Russian attack. Some are already approaching the Leningrad region - monitors",
+    "description_en": "In the meantime, almost three hundred UAVs are flying to arrange a Russian attack. Some are already approaching the Leningrad region - monitors",
+    "description_uk": "Тем временем почти три сотни БПЛА летят устраивать россиюшке гойду. Некоторые уже приближаются к Ленинградской области, - мониторы",
+    "time": "",
+    "pubDate": "2026-04-04T18:16:24+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/188858",
+    "score": 6.5,
+    "views": 33552,
+    "forwards": 248
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -14,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59522",
     "score": 5.0,
-    "views": 21173,
+    "views": 46531,
     "forwards": 1
   },
   {
@@ -32,8 +68,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18537",
     "score": 5.5,
-    "views": 12583,
-    "forwards": 73
+    "views": 25793,
+    "forwards": 107
   },
   {
     "title": "Luhansk: Ukraine hits key Russian plant in occupied Luhansk second time in...",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52331",
     "score": 5.0,
-    "views": 678,
+    "views": 886,
     "forwards": 3
   },
   {
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52330",
     "score": 9.5,
-    "views": 765,
+    "views": 961,
     "forwards": 4
   },
   {
@@ -158,7 +194,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/188848",
     "score": 9.5,
-    "views": 122943,
+    "views": 131708,
     "forwards": 264
   },
   {
@@ -360,24 +396,6 @@
     "forwards": 1
   },
   {
-    "title": "Mykolaiv: BpLA headed for the city of Mykolaiv from the east",
-    "title_en": "Mykolaiv: BpLA headed for the city of Mykolaiv from the east",
-    "title_uk": "Миколаїв: БпЛА прямувала на м. Миколаїв зі сходу",
-    "description": "BpLA headed for the city of Mykolaiv from the east",
-    "description_en": "BpLA headed for the city of Mykolaiv from the east",
-    "description_uk": "БпЛА курсом на м.Миколаїв зі сходу",
-    "time": "",
-    "pubDate": "2026-04-04T06:40:52+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59490",
-    "score": 6.0,
-    "views": 1,
-    "forwards": 0
-  },
-  {
     "title": "Record sums for defense and zero for Ukraine: the White House...",
     "title_en": "Record sums for defense and zero for Ukraine: the White House...",
     "title_uk": "Рекордні суми на оборону і нульові для України: Білий дім...",
@@ -410,7 +428,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36889",
     "score": 13.0,
-    "views": 4846,
+    "views": 4918,
     "forwards": 13
   },
   {
@@ -430,23 +448,5 @@
     "score": 5.5,
     "views": 109248,
     "forwards": 286
-  },
-  {
-    "title": "Speed ​​target on Ochakiv!",
-    "title_en": "Speed ​​target on Ochakiv!",
-    "title_uk": "Швидкісна мішень на Очаків!",
-    "description": "Speed ​​target on Ochakiv!",
-    "description_en": "Speed ​​target on Ochakiv!",
-    "description_uk": "Швидкісна ціль на Очаків!",
-    "time": "",
-    "pubDate": "2026-04-04T04:23:17+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59482",
-    "score": 5.0,
-    "views": 16166,
-    "forwards": 1
   }
 ]
