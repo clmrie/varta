@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sumy: BpLA on Sumy from the north.",
+    "title_en": "Sumy: BpLA on Sumy from the north.",
+    "title_uk": "Суми: БпЛА на Суми з півн.",
+    "description": "BpLA on Sumy from the north.",
+    "description_en": "BpLA on Sumy from the north.",
+    "description_uk": "БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-04-04T02:05:39+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59469",
+    "score": 6.0,
+    "views": 6404,
+    "forwards": 1
+  },
+  {
+    "title": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_uk": "Харків: БпЛА на Харків з півночі.",
+    "description": "BpLA on Kharkiv from the north.",
+    "description_en": "BpLA on Kharkiv from the north.",
+    "description_uk": "БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-04-04T02:02:34+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59468",
+    "score": 6.0,
+    "views": 7310,
+    "forwards": 1
+  },
+  {
     "title": "Kyiv: While Ukraine aid runs dry, Trump asks for record-breaking $1.5...",
     "title_en": "Kyiv: While Ukraine aid runs dry, Trump asks for record-breaking $1.5...",
     "title_uk": "Київ: Поки допомога Україні закінчується, Трамп просить рекордні 1,5 долара...",
@@ -14,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52318",
     "score": 4.0,
-    "views": 192,
-    "forwards": 2
+    "views": 681,
+    "forwards": 4
   },
   {
     "title": "Sumyshchyna - a group of BpLA in the south, heading west.",
@@ -140,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52314",
     "score": 4.5,
-    "views": 1166,
+    "views": 1394,
     "forwards": 3
   },
   {
@@ -392,26 +428,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36862",
     "score": 4.0,
-    "views": 9535,
+    "views": 9985,
     "forwards": 27
-  },
-  {
-    "title": "Drone strike near civilians",
-    "title_en": "Drone strike near civilians",
-    "title_uk": "Удар безпілотників поблизу мирних жителів",
-    "description": "The drone flew just a few tens of meters from the person: the moment of shelling of the Kyiv region",
-    "description_en": "The drone flew just a few tens of meters from the person: the moment of shelling of the Kyiv region",
-    "description_uk": "Дрон прилетел всего в нескольких десятках метров от человека: момент обстрела Киевской области",
-    "time": "",
-    "pubDate": "2026-04-03T13:14:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/188785",
-    "score": 5.5,
-    "views": 139406,
-    "forwards": 249
   },
   {
     "title": "Kursk: 26 missiles intercepted",
@@ -428,25 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36860",
     "score": 13.0,
-    "views": 9582,
-    "forwards": 41
-  },
-  {
-    "title": "Energy infrastructure hit",
-    "title_en": "Energy infrastructure hit",
-    "title_uk": "Поразка енергетичної інфраструктури",
-    "description": "Today I held a selector at the level of the government and all our regions - on the situation in the energy sector. We are already preparing for next winter and are gradually restoring what the Russian strikes destroyed this winter. Across the country, sustainability plans have been approved for each region. Repair of roads after winter continues. It is important not to waste time at the level of communities, at the level of regional authorities. Every object that matters...",
-    "description_en": "Today I held a selector at the level of the government and all our regions - on the situation in the energy sector. We are already preparing for next winter and are gradually restoring what the Russian strikes destroyed this winter. Across the country, sustainability plans have been approved for each region. Repair of roads after winter continues. It is important not to waste time at the level of communities, at the level of regional authorities. Every object that matters...",
-    "description_uk": "Провів сьогодні селектор на рівні уряду та всіх наших областей – по ситуації в енергетиці. Уже готуємось до наступної зими та поступово відновлюємо те, що російські удари зруйнували цією зимою. По всій країні затверджені плани стійкості для кожного регіону. Триває і ремонт доріг після зими. Важливо на рівні громад, на рівні влади в областях не втрачати часу. Кожен обʼєкт, який має значення,...",
-    "time": "",
-    "pubDate": "2026-04-02T17:20:01+00:00",
-    "category": "shelling",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18521",
-    "score": 4.0,
-    "views": 185844,
-    "forwards": 123
+    "views": 9669,
+    "forwards": 42
   }
 ]
