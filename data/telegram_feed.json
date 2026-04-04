@@ -1,5 +1,41 @@
 [
   {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на південному сході...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-04-04T07:33:26+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59494",
+    "score": 5.0,
+    "views": 7090,
+    "forwards": 1
+  },
+  {
+    "title": "Sumy: BpLA in the city of Sumy from the north",
+    "title_en": "Sumy: BpLA in the city of Sumy from the north",
+    "title_uk": "Суми: БпЛА в м. Суми з півн",
+    "description": "BpLA in the city of Sumy from the north",
+    "description_en": "BpLA in the city of Sumy from the north",
+    "description_uk": "БпЛА на м.Суми з півночі",
+    "time": "",
+    "pubDate": "2026-04-04T07:28:54+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59493",
+    "score": 6.0,
+    "views": 12131,
+    "forwards": 1
+  },
+  {
     "title": "Mykolaiv: BpLA headed for the city of Mykolaiv from the east",
     "title_en": "Mykolaiv: BpLA headed for the city of Mykolaiv from the east",
     "title_uk": "Миколаїв: БпЛА прямувала на м. Миколаїв зі сходу",
@@ -31,9 +67,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/188821",
-    "score": 3.0,
-    "views": 2140,
-    "forwards": 1
+    "score": 3.5,
+    "views": 53814,
+    "forwards": 181
   },
   {
     "title": "Kursk: Drone incoming",
@@ -50,8 +86,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36889",
     "score": 13.0,
-    "views": 1155,
-    "forwards": 6
+    "views": 2464,
+    "forwards": 8
   },
   {
     "title": "Poltava region: BpLA in the direction of n.p. Shishaks from the...",
@@ -86,13 +122,13 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/188811",
     "score": 5.5,
-    "views": 74980,
-    "forwards": 213
+    "views": 100302,
+    "forwards": 283
   },
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомляється про вибухи",
+    "title_uk": "Київ: Повідомляється про вибухи",
     "description": "Explosions reported in Kyiv — air defense active. An office building caught fire after being hit by falling debris, Kyiv Mayor Vitalii Klitschko confirmed.",
     "description_en": "Explosions reported in Kyiv — air defense active. An office building caught fire after being hit by falling debris, Kyiv Mayor Vitalii Klitschko confirmed.",
     "description_uk": "Explosions reported in Kyiv — air defense active. An office building caught fire after being hit by falling debris, Kyiv Mayor Vitalii Klitschko confirmed.",
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52320",
     "score": 5.0,
-    "views": 795,
+    "views": 1081,
     "forwards": 2
   },
   {
@@ -378,24 +414,6 @@
     "forwards": 1
   },
   {
-    "title": "Kyiv: Attack attack",
-    "title_en": "Kyiv: Attack attack",
-    "title_uk": "Київ: Атака",
-    "description": "Ukraine, Russia waging shadow war in Libya, RFI reports. Around 200 Ukrainian troops are based in Libya in cooperation with the government in Tripoli, sources told Radio France Internationale. These forces are allegedly responsible for the March 3 strike on a Russian oil tanker in the Mediterranean Sea.",
-    "description_en": "Ukraine, Russia waging shadow war in Libya, RFI reports. Around 200 Ukrainian troops are based in Libya in cooperation with the government in Tripoli, sources told Radio France Internationale. These forces are allegedly responsible for the March 3 strike on a Russian oil tanker in the Mediterranean Sea.",
-    "description_uk": "Ukraine, Russia waging shadow war in Libya, RFI reports. Around 200 Ukrainian troops are based in Libya in cooperation with the government in Tripoli, sources told Radio France Internationale. These forces are allegedly responsible for the March 3 strike on a Russian oil tanker in the Mediterranean Sea.",
-    "time": "",
-    "pubDate": "2026-04-03T19:19:52+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52313",
-    "score": 5.0,
-    "views": 1532,
-    "forwards": 4
-  },
-  {
     "title": "Crimea: Russian Su-30 fighter jet crashes in occupied Crimea during training...",
     "title_en": "Crimea: Russian Su-30 fighter jet crashes in occupied Crimea during training...",
     "title_uk": "Крим: в окупованому Криму під час навчань розбився російський винищувач Су-30...",
@@ -428,7 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18521",
     "score": 4.0,
-    "views": 187511,
+    "views": 187885,
     "forwards": 123
   }
 ]
