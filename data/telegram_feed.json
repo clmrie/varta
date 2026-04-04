@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "UAV on the border of Kharkiv Oblast and Sumy Oblast, heading for Poltava Oblast.",
+    "description_en": "UAV on the border of Kharkiv Oblast and Sumy Oblast, heading for Poltava Oblast.",
+    "description_uk": "БпЛА на межі Харківщини та Сумщини, курсом на Полтавщину.",
+    "time": "",
+    "pubDate": "2026-04-04T14:17:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59516",
+    "score": 6.0,
+    "views": 26252,
+    "forwards": 1
+  },
+  {
     "title": "Air defense active",
     "title_en": "Air defense active",
     "title_uk": "Активна ППО",
@@ -14,8 +32,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/188848",
     "score": 8.5,
-    "views": 22833,
-    "forwards": 79
+    "views": 58758,
+    "forwards": 153
   },
   {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the east",
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59512",
     "score": 6.0,
-    "views": 26301,
+    "views": 56592,
     "forwards": 1
   },
   {
@@ -49,9 +67,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/188847",
-    "score": 3.0,
-    "views": 40316,
-    "forwards": 36
+    "score": 3.5,
+    "views": 68625,
+    "forwards": 74
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern and...",
@@ -122,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52322",
     "score": 14.0,
-    "views": 1423,
+    "views": 1550,
     "forwards": 6
   },
   {
@@ -266,7 +284,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36889",
     "score": 13.0,
-    "views": 4488,
+    "views": 4576,
     "forwards": 13
   },
   {
@@ -320,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52320",
     "score": 5.0,
-    "views": 2157,
+    "views": 2222,
     "forwards": 2
   },
   {
@@ -360,42 +378,6 @@
     "forwards": 1
   },
   {
-    "title": "Sumy: BpLA on Sumy from the north.",
-    "title_en": "Sumy: BpLA on Sumy from the north.",
-    "title_uk": "Суми: БпЛА на Суми з півн.",
-    "description": "BpLA on Sumy from the north.",
-    "description_en": "BpLA on Sumy from the north.",
-    "description_uk": "БпЛА на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-04-04T02:05:39+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59469",
-    "score": 6.0,
-    "views": 6404,
-    "forwards": 1
-  },
-  {
-    "title": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_uk": "Харків: БпЛА на Харків з півночі.",
-    "description": "BpLA on Kharkiv from the north.",
-    "description_en": "BpLA on Kharkiv from the north.",
-    "description_uk": "БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-04-04T02:02:34+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59468",
-    "score": 6.0,
-    "views": 7310,
-    "forwards": 1
-  },
-  {
     "title": "Crimea: Russian Su-30 fighter jet crashes in occupied Crimea during training...",
     "title_en": "Crimea: Russian Su-30 fighter jet crashes in occupied Crimea during training...",
     "title_uk": "Крим: в окупованому Криму під час навчань розбився російський винищувач Су-30...",
@@ -428,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18521",
     "score": 4.0,
-    "views": 189470,
+    "views": 189671,
     "forwards": 125
   }
 ]
