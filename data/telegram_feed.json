@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Київ: повідомляється про постраждалих",
+    "description": "Russia drops record number of deadly glide bombs on Ukraine, steps up aerial attacks. Russian forces launched 7,987 glide bombs last month — over 1,500 more than the previous record in February, Ukraine's Defense Ministry reported on April 3.",
+    "description_en": "Russia drops record number of deadly glide bombs on Ukraine, steps up aerial attacks. Russian forces launched 7,987 glide bombs last month — over 1,500 more than the previous record in February, Ukraine's Defense Ministry reported on April 3.",
+    "description_uk": "Russia drops record number of deadly glide bombs on Ukraine, steps up aerial attacks. Russian forces launched 7,987 glide bombs last month — over 1,500 more than the previous record in February, Ukraine's Defense Ministry reported on April 3.",
+    "time": "",
+    "pubDate": "2026-04-04T09:58:31+00:00",
+    "category": "shelling",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52322",
+    "score": 14.0,
+    "views": 111,
+    "forwards": 1
+  },
+  {
     "title": "Chernihiv: Unmanned aerial vehicle on the city of Chernihiv from the northeast",
     "title_en": "Chernihiv: Unmanned aerial vehicle on the city of Chernihiv from the northeast",
     "title_uk": "Чернігів: Безпілотний літальний апарат на м. Чернігів з північного сходу",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59502",
     "score": 6.0,
-    "views": 45509,
+    "views": 58626,
     "forwards": 1
   },
   {
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59500",
     "score": 6.0,
-    "views": 47539,
+    "views": 59652,
     "forwards": 1
   },
   {
@@ -122,7 +140,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/188821",
     "score": 4.5,
-    "views": 100271,
+    "views": 106777,
     "forwards": 254
   },
   {
@@ -140,7 +158,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36889",
     "score": 13.0,
-    "views": 3577,
+    "views": 3770,
     "forwards": 11
   },
   {
@@ -194,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52320",
     "score": 5.0,
-    "views": 1520,
+    "views": 1593,
     "forwards": 2
   },
   {
@@ -342,24 +360,6 @@
     "forwards": 1
   },
   {
-    "title": "Kyiv: BpLA in Poltava region - Kurosm in Kyiv region (Boryspil district).",
-    "title_en": "Kyiv: BpLA in Poltava region - Kurosm in Kyiv region (Boryspil district).",
-    "title_uk": "Київ: БпЛА в Полтавській обл.- Куросм у Київській обл. (Бориспільський р-н).",
-    "description": "BpLA in Poltava region - Kurosm in Kyiv region (Boryspil district).",
-    "description_en": "BpLA in Poltava region - Kurosm in Kyiv region (Boryspil district).",
-    "description_uk": "БпЛА на Полтавщині - куросм на Київщину (Бориспільський р-н).",
-    "time": "",
-    "pubDate": "2026-04-03T21:44:03+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59457",
-    "score": 6.0,
-    "views": 12185,
-    "forwards": 1
-  },
-  {
     "title": "Crimea: Russian Su-30 fighter jet crashes in occupied Crimea during training...",
     "title_en": "Crimea: Russian Su-30 fighter jet crashes in occupied Crimea during training...",
     "title_uk": "Крим: в окупованому Криму під час навчань розбився російський винищувач Су-30...",
@@ -392,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18521",
     "score": 4.0,
-    "views": 188384,
+    "views": 188513,
     "forwards": 123
   }
 ]
