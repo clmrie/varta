@@ -1,5 +1,59 @@
 [
   {
+    "title": "Air defense active",
+    "title_en": "Air defense active",
+    "title_uk": "Активна ППО",
+    "description": "For the first time in the world, the Ukrainian pilot shot down \"Shahedy\" at a distance of 500 km. He destroyed two drones with the help of STING interceptors. According to the developers, this is the first such case at such a distance and is actually a world record.",
+    "description_en": "For the first time in the world, the Ukrainian pilot shot down \"Shahedy\" at a distance of 500 km. He destroyed two drones with the help of STING interceptors. According to the developers, this is the first such case at such a distance and is actually a world record.",
+    "description_uk": "Украинский пилот впервые в мире сбил \"Шахеды\" на дистанции 500 км Он уничтожил два дрона с помощью перехватчиков STING. Как заявляют разработчики, это первый подобный случай на такой дистанции и фактически мировой рекорд.",
+    "time": "",
+    "pubDate": "2026-04-04T13:43:01+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/188848",
+    "score": 8.5,
+    "views": 22833,
+    "forwards": 79
+  },
+  {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the east",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the east",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі зі сх",
+    "description": "BpLA on Zaporozhye from the east",
+    "description_en": "BpLA on Zaporozhye from the east",
+    "description_uk": "БпЛА на Запоріжжя зі сходу",
+    "time": "",
+    "pubDate": "2026-04-04T13:35:14+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59512",
+    "score": 6.0,
+    "views": 26301,
+    "forwards": 1
+  },
+  {
+    "title": "France will increase its stockpile of missiles and drones up to 400%...",
+    "title_en": "France will increase its stockpile of missiles and drones up to 400%...",
+    "title_uk": "Франція збільшить свої запаси ракет і безпілотників до 400%...",
+    "description": "France will increase its stockpile of missiles and drones up to 400% by 2030, — Politico Next week, the French government will present an updated bill with funding of €8.5 billion for drones and missiles. This is done for the purpose of \"preparation for the military economy.\" It is planned to increase: ▪️ kamikaze drones — by 400%; ▪️ AASM Hammer aerial bombs — by 240%; ▪️ Aster and MICA missiles — by 30%. Defensive...",
+    "description_en": "France will increase its stockpile of missiles and drones up to 400% by 2030, — Politico Next week, the French government will present an updated bill with funding of €8.5 billion for drones and missiles. This is done for the purpose of \"preparation for the military economy.\" It is planned to increase: ▪️ kamikaze drones — by 400%; ▪️ AASM Hammer aerial bombs — by 240%; ▪️ Aster and MICA missiles — by 30%. Defensive...",
+    "description_uk": "Франция увеличит свои запасы ракет и беспилотников до 400% к 2030 году, — Politico На следующей неделе французское правительство представит обновленный законопроект с финансированием €8,5 млрд на дроны и ракеты. Это делается с целью «подготовки к военной экономики». Планируется увеличить: ▪️дроны-камикадзе — на 400%; ▪️авиабомбы AASM Hammer — на 240%; ▪️ракеты Aster и MICA — на 30%. Оборонный...",
+    "time": "",
+    "pubDate": "2026-04-04T13:20:43+00:00",
+    "category": "missile",
+    "severity": "medium",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/188847",
+    "score": 3.0,
+    "views": 40316,
+    "forwards": 36
+  },
+  {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern and...",
     "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern and...",
     "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на східному та...",
@@ -14,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59510",
     "score": 5.0,
-    "views": 4058,
+    "views": 37456,
     "forwards": 0
   },
   {
@@ -68,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52322",
     "score": 14.0,
-    "views": 1246,
-    "forwards": 5
+    "views": 1423,
+    "forwards": 6
   },
   {
     "title": "Chernihiv: Unmanned aerial vehicle on the city of Chernihiv from the northeast",
@@ -212,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36889",
     "score": 13.0,
-    "views": 4388,
+    "views": 4488,
     "forwards": 13
   },
   {
@@ -254,7 +308,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
+    "title_uk": "Київ: повідомляється про вибухи",
     "description": "Explosions reported in Kyiv — air defense active. An office building caught fire after being hit by falling debris, Kyiv Mayor Vitalii Klitschko confirmed.",
     "description_en": "Explosions reported in Kyiv — air defense active. An office building caught fire after being hit by falling debris, Kyiv Mayor Vitalii Klitschko confirmed.",
     "description_uk": "Explosions reported in Kyiv — air defense active. An office building caught fire after being hit by falling debris, Kyiv Mayor Vitalii Klitschko confirmed.",
@@ -266,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52320",
     "score": 5.0,
-    "views": 2073,
+    "views": 2157,
     "forwards": 2
   },
   {
@@ -374,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18521",
     "score": 4.0,
-    "views": 189332,
+    "views": 189470,
     "forwards": 125
   }
 ]
