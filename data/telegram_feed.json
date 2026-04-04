@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_uk": "Харків: БпЛА на Харків з півночі.",
+    "description": "BpLA on Kharkiv from the north.",
+    "description_en": "BpLA on Kharkiv from the north.",
+    "description_uk": "БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-04-04T15:29:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59519",
+    "score": 6.0,
+    "views": 23258,
+    "forwards": 2
+  },
+  {
     "title": "Kyiv: Ukraine restores nearly half of power generation wiped out by Russia....",
     "title_en": "Kyiv: Ukraine restores nearly half of power generation wiped out by Russia....",
     "title_uk": "Київ: Україна відновлює майже половину знищеної Росією електроенергії.",
@@ -14,7 +32,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52327",
     "score": 8.5,
-    "views": 114,
+    "views": 522,
     "forwards": 1
   },
   {
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59516",
     "score": 6.0,
-    "views": 40415,
+    "views": 52586,
     "forwards": 1
   },
   {
@@ -50,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/188848",
     "score": 8.5,
-    "views": 72963,
-    "forwards": 158
+    "views": 86038,
+    "forwards": 195
   },
   {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the east",
@@ -86,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/188847",
     "score": 3.5,
-    "views": 80614,
-    "forwards": 75
+    "views": 91551,
+    "forwards": 110
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern and...",
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52322",
     "score": 14.0,
-    "views": 1604,
+    "views": 1669,
     "forwards": 6
   },
   {
@@ -302,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36889",
     "score": 13.0,
-    "views": 4640,
+    "views": 4679,
     "forwards": 13
   },
   {
@@ -396,24 +414,6 @@
     "forwards": 1
   },
   {
-    "title": "Crimea: Russian Su-30 fighter jet crashes in occupied Crimea during training...",
-    "title_en": "Crimea: Russian Su-30 fighter jet crashes in occupied Crimea during training...",
-    "title_uk": "Крим: в окупованому Криму під час навчань розбився російський винищувач Су-30...",
-    "description": "Russian Su-30 fighter jet crashes in occupied Crimea during training flight, Kremlin Defense Ministry claims. The crew ejected and was recovered by a search-and-rescue team, the ministry claimed.",
-    "description_en": "Russian Su-30 fighter jet crashes in occupied Crimea during training flight, Kremlin Defense Ministry claims. The crew ejected and was recovered by a search-and-rescue team, the ministry claimed.",
-    "description_uk": "Russian Su-30 fighter jet crashes in occupied Crimea during training flight, Kremlin Defense Ministry claims. The crew ejected and was recovered by a search-and-rescue team, the ministry claimed.",
-    "time": "",
-    "pubDate": "2026-04-03T15:31:30+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Crimea",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52306",
-    "score": 6.0,
-    "views": 1395,
-    "forwards": 5
-  },
-  {
     "title": "Energy infrastructure hit",
     "title_en": "Energy infrastructure hit",
     "title_uk": "Поразка енергетичної інфраструктури",
@@ -428,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18521",
     "score": 4.0,
-    "views": 189742,
+    "views": 189843,
     "forwards": 125
   }
 ]
