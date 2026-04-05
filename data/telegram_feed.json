@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: BpLA group ➡️ to Kharkiv.",
+    "title_en": "Kharkiv: BpLA group ➡️ to Kharkiv.",
+    "title_uk": "Харків: BpLA group ➡️ до Харкова.",
+    "description": "BpLA group ➡️ to Kharkiv.",
+    "description_en": "BpLA group ➡️ to Kharkiv.",
+    "description_uk": "Група БпЛА ➡️ на Харків.",
+    "time": "",
+    "pubDate": "2026-04-05T23:10:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59563",
+    "score": 6.0,
+    "views": 6425,
+    "forwards": 11
+  },
+  {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "A group of UAVs from the Black Sea ➡️ heading for Odesa/Mykolaiv Oblast.",
+    "description_en": "A group of UAVs from the Black Sea ➡️ heading for Odesa/Mykolaiv Oblast.",
+    "description_uk": "Група БпЛА з акваторії Чорного моря ➡️ курсом на Одещину/Миколаївщину.",
+    "time": "",
+    "pubDate": "2026-04-05T23:09:19+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59562",
+    "score": 6.0,
+    "views": 7339,
+    "forwards": 11
+  },
+  {
     "title": "BpLA in the direction of ➡️ Pavlograd.",
     "title_en": "BpLA in the direction of ➡️ Pavlograd.",
     "title_uk": "БпЛА в напрямку ➡️ Павлоград.",
@@ -32,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52349",
     "score": 8.0,
-    "views": 534,
+    "views": 666,
     "forwards": 2
   },
   {
@@ -104,26 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52346",
     "score": 5.0,
-    "views": 1935,
+    "views": 1993,
     "forwards": 3
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "A group of UAVs from the Black Sea ➡️ heading for Odesa/Mykolaiv Oblast.",
-    "description_en": "A group of UAVs from the Black Sea ➡️ heading for Odesa/Mykolaiv Oblast.",
-    "description_uk": "Група БпЛА з акваторії Чорного моря ➡️ курсом на Одещину/Миколаївщину.",
-    "time": "",
-    "pubDate": "2026-04-05T16:40:22+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59555",
-    "score": 6.5,
-    "views": 127579,
-    "forwards": 57
   },
   {
     "title": "Chernihiv: Chernihiv region: BpLA group ➡️ in the Kholmiv district.",
@@ -176,7 +194,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8697",
     "score": 4.0,
-    "views": 4169,
+    "views": 4218,
     "forwards": 19
   },
   {
@@ -248,7 +266,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18541",
     "score": 6.5,
-    "views": 221200,
+    "views": 221728,
     "forwards": 423
   },
   {
@@ -320,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18537",
     "score": 6.5,
-    "views": 87062,
+    "views": 87106,
     "forwards": 216
   }
 ]
