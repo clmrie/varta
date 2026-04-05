@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "Enemy UAV in the Kyiv region, south of Yagotyn, in the direction of Pereyaslav",
+    "description_en": "Enemy UAV in the Kyiv region, south of Yagotyn, in the direction of Pereyaslav",
+    "description_uk": "Ворожий БпЛА на Київщині, південніше Яготина , у напрямку Переяслава",
+    "time": "",
+    "pubDate": "2026-04-05T19:55:18+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59559",
+    "score": 6.0,
+    "views": 12130,
+    "forwards": 1
+  },
+  {
+    "title": "Chernihiv: Several enemy UAVs in the north of Chernihiv Oblast and Sumy Oblast",
+    "title_en": "Chernihiv: Several enemy UAVs in the north of Chernihiv Oblast and Sumy Oblast",
+    "title_uk": "Чернігів: кілька ворожих БПЛА на півночі Чернігівщини та Сумщини",
+    "description": "Several enemy UAVs in the north of Chernihiv Oblast and Sumy Oblast",
+    "description_en": "Several enemy UAVs in the north of Chernihiv Oblast and Sumy Oblast",
+    "description_uk": "Декілька ворожих БпЛА на півночі Чернігівщини та Сумщини",
+    "time": "",
+    "pubDate": "2026-04-05T19:46:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59558",
+    "score": 6.0,
+    "views": 23614,
+    "forwards": 11
+  },
+  {
     "title": "BpLA ➡️ in the suburbs of Dnipro.",
     "title_en": "BpLA ➡️ in the suburbs of Dnipro.",
     "title_uk": "BpLA ➡️ в передмісті Дніпра.",
@@ -32,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52346",
     "score": 5.0,
-    "views": 1340,
+    "views": 1416,
     "forwards": 3
   },
   {
@@ -56,7 +92,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
+    "title_uk": "Київ: повідомляється про вибухи",
     "description": "Serbian leader claims explosives placed on Russian gas pipeline \"Serbian authorities have found a powerful explosive device, along with the equipment needed to detonate it, at critical gas infrastructure linking Serbia and Hungary,\" Hungarian Prime Minister Viktor Orban said on April 5 in a post on X. No culprits nor motives have been identified.",
     "description_en": "Serbian leader claims explosives placed on Russian gas pipeline \"Serbian authorities have found a powerful explosive device, along with the equipment needed to detonate it, at critical gas infrastructure linking Serbia and Hungary,\" Hungarian Prime Minister Viktor Orban said on April 5 in a post on X. No culprits nor motives have been identified.",
     "description_uk": "Serbian leader claims explosives placed on Russian gas pipeline \"Serbian authorities have found a powerful explosive device, along with the equipment needed to detonate it, at critical gas infrastructure linking Serbia and Hungary,\" Hungarian Prime Minister Viktor Orban said on April 5 in a post on X. No culprits nor motives have been identified.",
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52345",
     "score": 8.5,
-    "views": 1580,
+    "views": 1650,
     "forwards": 3
   },
   {
@@ -122,7 +158,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8697",
     "score": 4.0,
-    "views": 3710,
+    "views": 3806,
     "forwards": 19
   },
   {
@@ -230,7 +266,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18541",
     "score": 6.5,
-    "views": 213828,
+    "views": 215092,
     "forwards": 422
   },
   {
@@ -302,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18537",
     "score": 6.5,
-    "views": 86059,
+    "views": 86071,
     "forwards": 215
   }
 ]
