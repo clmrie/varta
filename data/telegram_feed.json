@@ -1,5 +1,41 @@
 [
   {
+    "title": "UAV from the Black Sea ➡️ course to Odesa.",
+    "title_en": "UAV from the Black Sea ➡️ course to Odesa.",
+    "title_uk": "БПЛА з Чорного моря ➡️ курс на Одесу.",
+    "description": "UAV from the Black Sea ➡️ course to Odesa.",
+    "description_en": "UAV from the Black Sea ➡️ course to Odesa.",
+    "description_uk": "БпЛА з акваторії Чорного моря ➡️ курсом на Одещину.",
+    "time": "",
+    "pubDate": "2026-04-05T09:39:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59547",
+    "score": 5.0,
+    "views": 3659,
+    "forwards": 1
+  },
+  {
+    "title": "Pokrovsk: \"I regularly work in the troops on the hottest areas of the front. In...",
+    "title_en": "Pokrovsk: \"I regularly work in the troops on the hottest areas of the front. In...",
+    "title_uk": "Покровськ: «Я регулярно працюю у військах на найгарячіших ділянках фронту. У...",
+    "description": "\"I regularly work in the troops on the hottest areas of the front. In the Oleksandrivsk direction, the offensive actions of the Defense Forces of Ukraine have been ongoing since the end of January. During this operation, control over 480 square kilometers of territory, eight settlements in the Dnipropetrovsk region and four in Zaporizhzhya region was restored. During another working trip, I met with the leadership of our offensive group...",
+    "description_en": "\"I regularly work in the troops on the hottest areas of the front. In the Oleksandrivsk direction, the offensive actions of the Defense Forces of Ukraine have been ongoing since the end of January. During this operation, control over 480 square kilometers of territory, eight settlements in the Dnipropetrovsk region and four in Zaporizhzhya region was restored. During another working trip, I met with the leadership of our offensive group...",
+    "description_uk": "\"Регулярно працюю у військах на найгарячіших напрямках фронту. На Олександрівському напрямку наступальні дії Сил оборони України тривають із кінця січня. В ході цієї операції відновлено контроль над 480 кв. км території, вісьмома населеними пунктами у Дніпропетровській області та чотирма – в Запорізькій. Під час чергової робочої поїздки зустрівся з керівництвом нашого наступального угруповання....",
+    "time": "",
+    "pubDate": "2026-04-05T09:01:45+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Pokrovsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/36925",
+    "score": 11.0,
+    "views": 1336,
+    "forwards": 11
+  },
+  {
     "title": "Attack attack",
     "title_en": "Attack attack",
     "title_uk": "Атака нападу",
@@ -13,9 +49,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/188888",
-    "score": 4.0,
-    "views": 19304,
-    "forwards": 34
+    "score": 4.5,
+    "views": 56834,
+    "forwards": 70
   },
   {
     "title": "I sincerely congratulate everyone who celebrates Easter today in...",
@@ -32,8 +68,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18541",
     "score": 6.5,
-    "views": 48330,
-    "forwards": 252
+    "views": 74999,
+    "forwards": 297
   },
   {
     "title": "Bucha: Ukrainians teach the USA to fight cartels with the help of drones...",
@@ -50,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/188883",
     "score": 6.5,
-    "views": 67570,
-    "forwards": 146
+    "views": 88007,
+    "forwards": 150
   },
   {
     "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
@@ -68,7 +104,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59544",
     "score": 6.0,
-    "views": 77085,
+    "views": 83484,
     "forwards": 11
   },
   {
@@ -86,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36922",
     "score": 13.0,
-    "views": 5172,
-    "forwards": 16
+    "views": 5418,
+    "forwards": 18
   },
   {
     "title": "Odesa: Drone strike",
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52339",
     "score": 18.0,
-    "views": 1431,
+    "views": 1572,
     "forwards": 3
   },
   {
@@ -122,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52338",
     "score": 6.0,
-    "views": 1694,
+    "views": 1818,
     "forwards": 4
   },
   {
@@ -162,24 +198,6 @@
     "forwards": 52
   },
   {
-    "title": "Odesa: Drone incoming",
-    "title_en": "Odesa: Drone incoming",
-    "title_uk": "Одеса: Дрон вхід",
-    "description": "UAV from the Black Sea area heading for Odessa (South/Odesa)",
-    "description_en": "UAV from the Black Sea area heading for Odessa (South/Odesa)",
-    "description_uk": "БпЛА з акваторіі Чорного моря курсом на Одещину (Південне/Одеса)",
-    "time": "",
-    "pubDate": "2026-04-04T21:18:29+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59530",
-    "score": 6.0,
-    "views": 41791,
-    "forwards": 23
-  },
-  {
     "title": "Istanbul. Meeting with Ecumenical Patriarch Bartholomew. The key...",
     "title_en": "Istanbul. Meeting with Ecumenical Patriarch Bartholomew. The key...",
     "title_uk": "Стамбул. Зустріч із Вселенським Патріархом Варфоломієм. Ключ...",
@@ -194,7 +212,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18537",
     "score": 6.5,
-    "views": 74791,
+    "views": 77247,
     "forwards": 207
   },
   {
