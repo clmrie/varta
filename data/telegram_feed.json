@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kirovohrad region: BpLA ➡️ heading for Kropyvnytskyi. 🛵Poltavshchyna:...",
+    "title_en": "Kirovohrad region: BpLA ➡️ heading for Kropyvnytskyi. 🛵Poltavshchyna:...",
+    "title_uk": "Кіровоградська область: BpLA ➡️ курс на Кропивницький. 🛵Полтавщина:...",
+    "description": "Kirovohrad region: BpLA ➡️ heading for Kropyvnytskyi. 🛵Poltavshchyna: BpLA ➡️ in the Kremenchuk area.",
+    "description_en": "Kirovohrad region: BpLA ➡️ heading for Kropyvnytskyi. 🛵Poltavshchyna: BpLA ➡️ in the Kremenchuk area.",
+    "description_uk": "Кіровоградщина: БпЛА ➡️ курсом на Кропивницький. 🛵Полтавщина: БпЛА ➡️ в районі Кременчука.",
+    "time": "",
+    "pubDate": "2026-04-05T13:08:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kropyvnytskyi",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59551",
+    "score": 5.0,
+    "views": 29770,
+    "forwards": 35
+  },
+  {
     "title": "Sumy: BpLA ➡️ heading for Sumy.",
     "title_en": "Sumy: BpLA ➡️ heading for Sumy.",
     "title_uk": "Суми: BpLA ➡️ прямує на Суми.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59548",
     "score": 6.0,
-    "views": 21172,
+    "views": 51037,
     "forwards": 1
   },
   {
@@ -50,8 +68,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36925",
     "score": 11.0,
-    "views": 3543,
-    "forwards": 17
+    "views": 3838,
+    "forwards": 20
   },
   {
     "title": "Attack attack",
@@ -68,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/188888",
     "score": 4.5,
-    "views": 123797,
-    "forwards": 107
+    "views": 135806,
+    "forwards": 141
   },
   {
     "title": "I sincerely congratulate everyone who celebrates Easter today in...",
@@ -86,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18541",
     "score": 6.5,
-    "views": 140952,
-    "forwards": 366
+    "views": 156589,
+    "forwards": 385
   },
   {
     "title": "Bucha: Ukrainians teach the USA to fight cartels with the help of drones...",
@@ -104,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/188883",
     "score": 7.5,
-    "views": 134634,
-    "forwards": 258
+    "views": 143482,
+    "forwards": 262
   },
   {
     "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
@@ -140,7 +158,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36922",
     "score": 13.0,
-    "views": 6078,
+    "views": 6212,
     "forwards": 21
   },
   {
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52339",
     "score": 18.0,
-    "views": 2046,
+    "views": 2150,
     "forwards": 4
   },
   {
@@ -176,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52338",
     "score": 6.0,
-    "views": 2201,
+    "views": 2283,
     "forwards": 5
   },
   {
@@ -194,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18537",
     "score": 6.5,
-    "views": 80600,
-    "forwards": 209
+    "views": 81388,
+    "forwards": 211
   },
   {
     "title": "Kyiv: US hearing exposes links between Russia’s energy sector and abduction...",
@@ -214,23 +232,5 @@
     "score": 9.5,
     "views": 1761,
     "forwards": 5
-  },
-  {
-    "title": "Air defense active",
-    "title_en": "Air defense active",
-    "title_uk": "Активна ППО",
-    "description": "For the first time in the world, the Ukrainian pilot shot down \"Shahedy\" at a distance of 500 km. He destroyed two drones with the help of STING interceptors. According to the developers, this is the first such case at such a distance and is actually a world record.",
-    "description_en": "For the first time in the world, the Ukrainian pilot shot down \"Shahedy\" at a distance of 500 km. He destroyed two drones with the help of STING interceptors. According to the developers, this is the first such case at such a distance and is actually a world record.",
-    "description_uk": "Украинский пилот впервые в мире сбил \"Шахеды\" на дистанции 500 км Он уничтожил два дрона с помощью перехватчиков STING. Как заявляют разработчики, это первый подобный случай на такой дистанции и фактически мировой рекорд.",
-    "time": "",
-    "pubDate": "2026-04-04T13:43:01+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/188848",
-    "score": 9.5,
-    "views": 143682,
-    "forwards": 301
   }
 ]
