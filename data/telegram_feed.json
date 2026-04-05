@@ -1,5 +1,23 @@
 [
   {
+    "title": "Odesa: Drone strike",
+    "title_en": "Odesa: Drone strike",
+    "title_uk": "Одеса: Дрон-удар",
+    "description": "Russian drone strike damages residential building in Odesa, injuring at least 2. Russian forces launched a drone attack on the city of Odesa overnight on April 5, damaging a residential building and injuring at least two people, local officials reported.",
+    "description_en": "Russian drone strike damages residential building in Odesa, injuring at least 2. Russian forces launched a drone attack on the city of Odesa overnight on April 5, damaging a residential building and injuring at least two people, local officials reported.",
+    "description_uk": "Russian drone strike damages residential building in Odesa, injuring at least 2. Russian forces launched a drone attack on the city of Odesa overnight on April 5, damaging a residential building and injuring at least two people, local officials reported.",
+    "time": "",
+    "pubDate": "2026-04-05T03:56:10+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Odesa",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52339",
+    "score": 18.0,
+    "views": 271,
+    "forwards": 0
+  },
+  {
     "title": "Vinnytsia: Attack attack",
     "title_en": "Vinnytsia: Attack attack",
     "title_uk": "Вінниця: Атака",
@@ -14,7 +32,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52338",
     "score": 6.0,
-    "views": 167,
+    "views": 692,
     "forwards": 2
   },
   {
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59536",
     "score": 5.0,
-    "views": 15303,
+    "views": 40807,
     "forwards": 0
   },
   {
@@ -50,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59531",
     "score": 5.5,
-    "views": 35315,
+    "views": 56943,
     "forwards": 52
   },
   {
@@ -140,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18537",
     "score": 5.5,
-    "views": 52701,
-    "forwards": 171
+    "views": 59039,
+    "forwards": 181
   },
   {
     "title": "Luhansk: Ukraine hits key Russian plant in occupied Luhansk second time in...",
@@ -178,78 +196,6 @@
     "score": 9.5,
     "views": 1761,
     "forwards": 5
-  },
-  {
-    "title": "Luhansk: Drone strike",
-    "title_en": "Luhansk: Drone strike",
-    "title_uk": "Луганськ: БПЛА",
-    "description": "Ukraine strikes Russian fuel train, confirms damage to multimillion-dollar Orion drones in occupied regions. Ukrainian forces struck a rail convoy carrying fuel to the Russian military in occupied Luhansk on April 4, the General Staff said. The military also shared results of a recent strike on occupied Crimea.",
-    "description_en": "Ukraine strikes Russian fuel train, confirms damage to multimillion-dollar Orion drones in occupied regions. Ukrainian forces struck a rail convoy carrying fuel to the Russian military in occupied Luhansk on April 4, the General Staff said. The military also shared results of a recent strike on occupied Crimea.",
-    "description_uk": "Ukraine strikes Russian fuel train, confirms damage to multimillion-dollar Orion drones in occupied regions. Ukrainian forces struck a rail convoy carrying fuel to the Russian military in occupied Luhansk on April 4, the General Staff said. The military also shared results of a recent strike on occupied Crimea.",
-    "time": "",
-    "pubDate": "2026-04-04T15:49:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Luhansk",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52329",
-    "score": 5.0,
-    "views": 424,
-    "forwards": 1
-  },
-  {
-    "title": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_uk": "Харків: БпЛА на Харків з півночі.",
-    "description": "BpLA on Kharkiv from the north.",
-    "description_en": "BpLA on Kharkiv from the north.",
-    "description_uk": "БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-04-04T15:29:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59519",
-    "score": 6.0,
-    "views": 97879,
-    "forwards": 35
-  },
-  {
-    "title": "Kyiv: Ukraine restores nearly half of power generation wiped out by Russia....",
-    "title_en": "Kyiv: Ukraine restores nearly half of power generation wiped out by Russia....",
-    "title_uk": "Київ: Україна відновлює майже половину знищеної Росією електроенергії.",
-    "description": "Ukraine restores nearly half of power generation wiped out by Russia. Russian forces destroyed 9 gigawatts (GW) of Ukraine's power generation, but the war-torn country has managed to rebuild 4 GW, Energy Minister Denys Shmyhal said on April 4.",
-    "description_en": "Ukraine restores nearly half of power generation wiped out by Russia. Russian forces destroyed 9 gigawatts (GW) of Ukraine's power generation, but the war-torn country has managed to rebuild 4 GW, Energy Minister Denys Shmyhal said on April 4.",
-    "description_uk": "Ukraine restores nearly half of power generation wiped out by Russia. Russian forces destroyed 9 gigawatts (GW) of Ukraine's power generation, but the war-torn country has managed to rebuild 4 GW, Energy Minister Denys Shmyhal said on April 4.",
-    "time": "",
-    "pubDate": "2026-04-04T15:11:10+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52327",
-    "score": 8.5,
-    "views": 763,
-    "forwards": 1
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "UAV on the border of Kharkiv Oblast and Sumy Oblast, heading for Poltava Oblast.",
-    "description_en": "UAV on the border of Kharkiv Oblast and Sumy Oblast, heading for Poltava Oblast.",
-    "description_uk": "БпЛА на межі Харківщини та Сумщини, курсом на Полтавщину.",
-    "time": "",
-    "pubDate": "2026-04-04T14:17:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59516",
-    "score": 6.0,
-    "views": 78463,
-    "forwards": 1
   },
   {
     "title": "Air defense active",
@@ -320,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36889",
     "score": 13.0,
-    "views": 5137,
-    "forwards": 15
+    "views": 5222,
+    "forwards": 16
   }
 ]
