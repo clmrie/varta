@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA headed for Kharkiv from the north.",
+    "title_uk": "Харків: BpLA прямувала на Харків з півночі.",
+    "description": "BpLA headed for Kharkiv from the north.",
+    "description_en": "BpLA headed for Kharkiv from the north.",
+    "description_uk": "БпЛА курсом на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-04-05T05:11:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59544",
+    "score": 6.0,
+    "views": 29308,
+    "forwards": 1
+  },
+  {
+    "title": "Kursk: Drone incoming",
+    "title_en": "Kursk: Drone incoming",
+    "title_uk": "Курськ: Дрон входить",
+    "description": "76 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 5 (from 18:00 on April 4), the enemy attacked 93 attack UAVs of the Shahed, Gerbera, Italmas and other types from the directions: Bryansk, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, about 60 among them are \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and...",
+    "description_en": "76 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 5 (from 18:00 on April 4), the enemy attacked 93 attack UAVs of the Shahed, Gerbera, Italmas and other types from the directions: Bryansk, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, about 60 among them are \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 76 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 05 квітня (з 18:00 04 квітня) противник атакував 93 ударними БпЛА типу Shahed, Гербера, Італмас та безпілотниками інших типів із напрямків: Брянськ, Курськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., Гвардійське – ТОТ АР Крим, близько 60 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та...",
+    "time": "",
+    "pubDate": "2026-04-05T05:06:45+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kursk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/36922",
+    "score": 13.0,
+    "views": 2309,
+    "forwards": 13
+  },
+  {
     "title": "Odesa: Drone strike",
     "title_en": "Odesa: Drone strike",
     "title_uk": "Одеса: Дрон-удар",
@@ -14,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52339",
     "score": 18.0,
-    "views": 271,
+    "views": 624,
     "forwards": 0
   },
   {
@@ -32,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52338",
     "score": 6.0,
-    "views": 692,
+    "views": 990,
     "forwards": 2
   },
   {
@@ -158,26 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18537",
     "score": 5.5,
-    "views": 59039,
-    "forwards": 181
-  },
-  {
-    "title": "Luhansk: Ukraine hits key Russian plant in occupied Luhansk second time in...",
-    "title_en": "Luhansk: Ukraine hits key Russian plant in occupied Luhansk second time in...",
-    "title_uk": "Луганськ: Україна вдруге за...",
-    "description": "Ukraine hits key Russian plant in occupied Luhansk second time in month, grinding production to halt. Ukrainian forces struck the Alchevsk Metallurgical Plant in Russian-occupied Luhansk Oblast for the second time in one month, halting production at the site, Ukraine's Security Service (SBU) reported on April 4. Photo: Screenshot / Security Service of Ukraine (SBU)",
-    "description_en": "Ukraine hits key Russian plant in occupied Luhansk second time in month, grinding production to halt. Ukrainian forces struck the Alchevsk Metallurgical Plant in Russian-occupied Luhansk Oblast for the second time in one month, halting production at the site, Ukraine's Security Service (SBU) reported on April 4. Photo: Screenshot / Security Service of Ukraine (SBU)",
-    "description_uk": "Ukraine hits key Russian plant in occupied Luhansk second time in month, grinding production to halt. Ukrainian forces struck the Alchevsk Metallurgical Plant in Russian-occupied Luhansk Oblast for the second time in one month, halting production at the site, Ukraine's Security Service (SBU) reported on April 4. Photo: Screenshot / Security Service of Ukraine (SBU)",
-    "time": "",
-    "pubDate": "2026-04-04T16:51:12+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Luhansk",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52331",
-    "score": 5.0,
-    "views": 1920,
-    "forwards": 4
+    "views": 64134,
+    "forwards": 185
   },
   {
     "title": "Kyiv: US hearing exposes links between Russia’s energy sector and abduction...",
@@ -250,23 +268,5 @@
     "score": 4.5,
     "views": 126346,
     "forwards": 323
-  },
-  {
-    "title": "Kursk: Drone incoming",
-    "title_en": "Kursk: Drone incoming",
-    "title_uk": "Курськ: Дрон входить",
-    "description": "260 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 4 (from 18:00 on April 3), the enemy attacked 286 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Shatalovo, Bryansk, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, about 200 of them - \"shahedis\". The air attack was repelled by aviation, anti-aircraft missile forces, EW and unmanned systems units, mobile...",
-    "description_en": "260 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 4 (from 18:00 on April 3), the enemy attacked 286 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Shatalovo, Bryansk, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, about 200 of them - \"shahedis\". The air attack was repelled by aviation, anti-aircraft missile forces, EW and unmanned systems units, mobile...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 260 ВОРОЖИХ БПЛА У ніч на 04 квітня (з 18:00 03 квітня) противник атакував 286 ударними БпЛА типу Shahed, Гербера, Італмас та безпілотниками інших типів із напрямків: Шаталово, Брянськ, Курськ, Орел, Міллєрово, Приморсько-Ахтарськ – рф., близько 200 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем, мобільні...",
-    "time": "",
-    "pubDate": "2026-04-04T06:19:26+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kursk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/36889",
-    "score": 13.0,
-    "views": 5222,
-    "forwards": 16
   }
 ]
