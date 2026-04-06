@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kharkiv: BpLA on Kharkiv from the north. B - shelter!",
+    "title_en": "Kharkiv: BpLA on Kharkiv from the north. B - shelter!",
+    "title_uk": "Харків: БпЛА на Харків з півночі. Б - притулок!",
+    "description": "BpLA on Kharkiv from the north. B - shelter!",
+    "description_en": "BpLA on Kharkiv from the north. B - shelter!",
+    "description_uk": "БпЛА на Харків з півночі. В - укриття!",
+    "time": "",
+    "pubDate": "2026-04-06T10:07:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59579",
+    "score": 11.0,
+    "views": 34440,
+    "forwards": 19
+  },
+  {
     "title": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_uk": "Харків: БпЛА на Харків з півночі.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59578",
     "score": 6.0,
-    "views": 18719,
+    "views": 49947,
     "forwards": 1
   },
   {
@@ -32,8 +50,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8704",
     "score": 5.0,
-    "views": 1207,
-    "forwards": 3
+    "views": 1470,
+    "forwards": 4
   },
   {
     "title": "Ballistic missile launch detected",
@@ -68,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52354",
     "score": 8.5,
-    "views": 1203,
+    "views": 1423,
     "forwards": 3
   },
   {
@@ -122,8 +140,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36967",
     "score": 13.0,
-    "views": 7778,
-    "forwards": 26
+    "views": 8236,
+    "forwards": 27
   },
   {
     "title": "Odesa: 3 killed, 10 injured",
@@ -140,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52352",
     "score": 9.0,
-    "views": 1658,
+    "views": 1814,
     "forwards": 3
   },
   {
@@ -252,24 +270,6 @@
     "forwards": 11
   },
   {
-    "title": "BpLA in the direction of ➡️ Pavlograd.",
-    "title_en": "BpLA in the direction of ➡️ Pavlograd.",
-    "title_uk": "БпЛА в напрямку ➡️ Павлоград.",
-    "description": "BpLA in the direction of ➡️ Pavlograd.",
-    "description_en": "BpLA in the direction of ➡️ Pavlograd.",
-    "description_uk": "БпЛА у напрямку ➡️ Павлограда.",
-    "time": "",
-    "pubDate": "2026-04-05T22:28:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59561",
-    "score": 5.0,
-    "views": 8207,
-    "forwards": 20
-  },
-  {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
     "title_uk": "Київ: Повідомляється про вибухи",
@@ -302,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8697",
     "score": 4.0,
-    "views": 5991,
+    "views": 6065,
     "forwards": 21
   },
   {
@@ -320,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18541",
     "score": 6.5,
-    "views": 253773,
-    "forwards": 427
+    "views": 255644,
+    "forwards": 428
   }
 ]
