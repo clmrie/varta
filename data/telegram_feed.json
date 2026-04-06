@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_uk": "Харків: БпЛА на Харків з півночі.",
+    "description": "BpLA on Kharkiv from the north.",
+    "description_en": "BpLA on Kharkiv from the north.",
+    "description_uk": "БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-04-06T09:41:39+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59578",
+    "score": 6.0,
+    "views": 18719,
+    "forwards": 1
+  },
+  {
     "title": "Casualties reported",
     "title_en": "Casualties reported",
     "title_uk": "Повідомляється про постраждалих",
@@ -14,7 +32,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8704",
     "score": 5.0,
-    "views": 595,
+    "views": 1207,
     "forwards": 3
   },
   {
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59577",
     "score": 5.0,
-    "views": 57243,
+    "views": 77401,
     "forwards": 46
   },
   {
@@ -50,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52354",
     "score": 8.5,
-    "views": 799,
-    "forwards": 2
+    "views": 1203,
+    "forwards": 3
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -104,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36967",
     "score": 13.0,
-    "views": 7061,
-    "forwards": 22
+    "views": 7778,
+    "forwards": 26
   },
   {
     "title": "Odesa: 3 killed, 10 injured",
@@ -122,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52352",
     "score": 9.0,
-    "views": 1419,
+    "views": 1658,
     "forwards": 3
   },
   {
@@ -284,25 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8697",
     "score": 4.0,
-    "views": 5842,
-    "forwards": 21
-  },
-  {
-    "title": "Pokrovsk: \"I regularly work in the troops on the hottest areas of the front. In...",
-    "title_en": "Pokrovsk: \"I regularly work in the troops on the hottest areas of the front. In...",
-    "title_uk": "Покровськ: «Я регулярно працюю у військах на найгарячіших ділянках фронту. У...",
-    "description": "\"I regularly work in the troops on the hottest areas of the front. In the Oleksandrivsk direction, the offensive actions of the Defense Forces of Ukraine have been ongoing since the end of January. During this operation, control over 480 square kilometers of territory, eight settlements in the Dnipropetrovsk region and four in Zaporizhzhya region was restored. During another working trip, I met with the leadership of our offensive group...",
-    "description_en": "\"I regularly work in the troops on the hottest areas of the front. In the Oleksandrivsk direction, the offensive actions of the Defense Forces of Ukraine have been ongoing since the end of January. During this operation, control over 480 square kilometers of territory, eight settlements in the Dnipropetrovsk region and four in Zaporizhzhya region was restored. During another working trip, I met with the leadership of our offensive group...",
-    "description_uk": "\"Регулярно працюю у військах на найгарячіших напрямках фронту. На Олександрівському напрямку наступальні дії Сил оборони України тривають із кінця січня. В ході цієї операції відновлено контроль над 480 кв. км території, вісьмома населеними пунктами у Дніпропетровській області та чотирма – в Запорізькій. Під час чергової робочої поїздки зустрівся з керівництвом нашого наступального угруповання....",
-    "time": "",
-    "pubDate": "2026-04-05T09:01:45+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Pokrovsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/36925",
-    "score": 11.0,
-    "views": 4066,
+    "views": 5991,
     "forwards": 21
   },
   {
@@ -320,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18541",
     "score": 6.5,
-    "views": 250417,
+    "views": 253773,
     "forwards": 427
   }
 ]
