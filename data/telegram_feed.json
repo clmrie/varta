@@ -1,5 +1,59 @@
 [
   {
+    "title": "Casualties reported",
+    "title_en": "Casualties reported",
+    "title_uk": "Повідомляється про постраждалих",
+    "description": "💬 Minister Andriy Sybiga: \"This is what Russia is doing to our children. It's terrible. At least four people, including a child, died in Odesa last night. About a dozen more people were injured. The pressure on Moscow should increase, not decrease. Russian child killers should only face sanctions, isolation and accountability.\"",
+    "description_en": "💬 Minister Andriy Sybiga: \"This is what Russia is doing to our children. It's terrible. At least four people, including a child, died in Odesa last night. About a dozen more people were injured. The pressure on Moscow should increase, not decrease. Russian child killers should only face sanctions, isolation and accountability.\"",
+    "description_uk": "💬 Міністр Андрій Сибіга: \"Це те, що Росія робить із нашими дітьми. Жахливо. Щонайменше чотири людини, серед них дитина, загинули в Одесі цієї ночі. Ще близько десятка людей отримали поранення. Тиск на Москву має посилюватися, а не зменшуватися. Російські вбивці дітей повинні стикатися лише із санкціями, ізоляцією та відповідальністю\".",
+    "time": "",
+    "pubDate": "2026-04-06T08:29:14+00:00",
+    "category": "political",
+    "severity": "critical",
+    "location": "Odesa",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/8704",
+    "score": 5.0,
+    "views": 595,
+    "forwards": 3
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons from the southeast.",
+    "description_en": "☄️ The threat of using ballistic weapons from the southeast.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння з південного сходу.",
+    "time": "",
+    "pubDate": "2026-04-06T07:27:52+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59577",
+    "score": 5.0,
+    "views": 57243,
+    "forwards": 46
+  },
+  {
+    "title": "Kyiv: Attack attack on infrastructure",
+    "title_en": "Kyiv: Attack attack on infrastructure",
+    "title_uk": "Київ: Атака на інфраструктуру",
+    "description": "Update: Serbia denies plans to frame Ukraine for gas pipeline sabotage plot. Earlier, Hungary’s Foreign Minister Peter Szijjarto hinted the plot “fits into the pattern” of Ukrainian attacks on Russian energy infrastructure. Kyiv has denied any involvement, suggesting the incident may be a Russian false-flag operation.",
+    "description_en": "Update: Serbia denies plans to frame Ukraine for gas pipeline sabotage plot. Earlier, Hungary’s Foreign Minister Peter Szijjarto hinted the plot “fits into the pattern” of Ukrainian attacks on Russian energy infrastructure. Kyiv has denied any involvement, suggesting the incident may be a Russian false-flag operation.",
+    "description_uk": "Update: Serbia denies plans to frame Ukraine for gas pipeline sabotage plot. Earlier, Hungary’s Foreign Minister Peter Szijjarto hinted the plot “fits into the pattern” of Ukrainian attacks on Russian energy infrastructure. Kyiv has denied any involvement, suggesting the incident may be a Russian false-flag operation.",
+    "time": "",
+    "pubDate": "2026-04-06T07:12:03+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52354",
+    "score": 8.5,
+    "views": 799,
+    "forwards": 2
+  },
+  {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
     "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
     "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
@@ -14,8 +68,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59575",
     "score": 5.0,
-    "views": 21203,
-    "forwards": 1
+    "views": 74383,
+    "forwards": 17
   },
   {
     "title": "BpLA in Sumy Oblast, past Trostyanets➡️ heading southwest.",
@@ -50,8 +104,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36967",
     "score": 13.0,
-    "views": 5443,
-    "forwards": 20
+    "views": 7061,
+    "forwards": 22
   },
   {
     "title": "Odesa: 3 killed, 10 injured",
@@ -68,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52352",
     "score": 9.0,
-    "views": 954,
-    "forwards": 2
+    "views": 1419,
+    "forwards": 3
   },
   {
     "title": "UAV from the Black Sea ➡️ course to the south of Odesa",
@@ -216,42 +270,6 @@
     "forwards": 3
   },
   {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Drone incoming",
-    "description": "Enemy UAV in the Kyiv region, south of Yagotyn, in the direction of Pereyaslav",
-    "description_en": "Enemy UAV in the Kyiv region, south of Yagotyn, in the direction of Pereyaslav",
-    "description_uk": "Ворожий БпЛА на Київщині, південніше Яготина , у напрямку Переяслава",
-    "time": "",
-    "pubDate": "2026-04-05T19:55:18+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59559",
-    "score": 6.0,
-    "views": 51328,
-    "forwards": 25
-  },
-  {
-    "title": "Chernihiv: Several enemy UAVs in the north of Chernihiv Oblast and Sumy Oblast",
-    "title_en": "Chernihiv: Several enemy UAVs in the north of Chernihiv Oblast and Sumy Oblast",
-    "title_uk": "Чернігів: кілька ворожих БПЛА на півночі Чернігівщини та Сумщини",
-    "description": "Several enemy UAVs in the north of Chernihiv Oblast and Sumy Oblast",
-    "description_en": "Several enemy UAVs in the north of Chernihiv Oblast and Sumy Oblast",
-    "description_uk": "Декілька ворожих БпЛА на півночі Чернігівщини та Сумщини",
-    "time": "",
-    "pubDate": "2026-04-05T19:46:40+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59558",
-    "score": 6.0,
-    "views": 54277,
-    "forwards": 23
-  },
-  {
     "title": "Explosions reported",
     "title_en": "Explosions reported",
     "title_uk": "Повідомляється про вибухи",
@@ -266,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8697",
     "score": 4.0,
-    "views": 5633,
+    "views": 5842,
     "forwards": 21
   },
   {
@@ -302,25 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18541",
     "score": 6.5,
-    "views": 245861,
+    "views": 250417,
     "forwards": 427
-  },
-  {
-    "title": "Istanbul. Meeting with Ecumenical Patriarch Bartholomew. The key...",
-    "title_en": "Istanbul. Meeting with Ecumenical Patriarch Bartholomew. The key...",
-    "title_uk": "Стамбул. Зустріч із Вселенським Патріархом Варфоломієм. Ключ...",
-    "description": "Istanbul. Meeting with Ecumenical Patriarch Bartholomew. The key topic of discussion is the fate of Ukrainian children and what they are forced to experience due to Russian aggression. Thank you to His Holiness for your support and constant prayers for Ukraine, Ukrainians and our children. Informed His Holiness about the negotiation process to achieve a dignified peace. They also discussed the development of the church in Ukraine. Invited...",
-    "description_en": "Istanbul. Meeting with Ecumenical Patriarch Bartholomew. The key topic of discussion is the fate of Ukrainian children and what they are forced to experience due to Russian aggression. Thank you to His Holiness for your support and constant prayers for Ukraine, Ukrainians and our children. Informed His Holiness about the negotiation process to achieve a dignified peace. They also discussed the development of the church in Ukraine. Invited...",
-    "description_uk": "Стамбул. Зустріч зі Вселенським Патріархом Варфоломієм. Ключова тема обговорення – долі українських дітей і те, що вони змушені переживати через російську агресію. Дякую Його Всесвятості за підтримку й постійні молитви за Україну, українців та наших дітей. Поінформував Його Всесвятість про переговорний процес задля досягнення достойного миру. Також обговорили розвиток церкви в Україні. Запросив...",
-    "time": "",
-    "pubDate": "2026-04-04T17:37:42+00:00",
-    "category": "political",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18537",
-    "score": 6.5,
-    "views": 88919,
-    "forwards": 219
   }
 ]
