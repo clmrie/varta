@@ -1,5 +1,41 @@
 [
   {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-04-06T06:56:33+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59575",
+    "score": 5.0,
+    "views": 21203,
+    "forwards": 1
+  },
+  {
+    "title": "BpLA in Sumy Oblast, past Trostyanets➡️ heading southwest.",
+    "title_en": "BpLA in Sumy Oblast, past Trostyanets➡️ heading southwest.",
+    "title_uk": "BpLA в Сумській області, повз Тростянець➡️ на південний захід.",
+    "description": "BpLA in Sumy Oblast, past Trostyanets➡️ heading southwest.",
+    "description_en": "BpLA in Sumy Oblast, past Trostyanets➡️ heading southwest.",
+    "description_uk": "БпЛА на Сумщині, повз Тростянець➡️ курсом на південний захід.",
+    "time": "",
+    "pubDate": "2026-04-06T06:35:36+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59572",
+    "score": 5.0,
+    "views": 41770,
+    "forwards": 5
+  },
+  {
     "title": "Kursk: Drone incoming",
     "title_en": "Kursk: Drone incoming",
     "title_uk": "Курськ: Дрон входить",
@@ -14,8 +50,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/36967",
     "score": 13.0,
-    "views": 764,
-    "forwards": 2
+    "views": 5443,
+    "forwards": 20
   },
   {
     "title": "Odesa: 3 killed, 10 injured",
@@ -32,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52352",
     "score": 9.0,
-    "views": 355,
-    "forwards": 1
+    "views": 954,
+    "forwards": 2
   },
   {
     "title": "UAV from the Black Sea ➡️ course to the south of Odesa",
@@ -164,7 +200,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомляється про вибухи",
+    "title_uk": "Київ: Повідомляється про вибухи",
     "description": "Ukrainian drones reportedly strike major oil terminal in Russian city of Novorossiysk. Explosions were reported overnight on April 6 in the southern Russian port city of Novorossiysk, with local residents reporting a drone attack at an oil terminal and damage to a residential building.",
     "description_en": "Ukrainian drones reportedly strike major oil terminal in Russian city of Novorossiysk. Explosions were reported overnight on April 6 in the southern Russian port city of Novorossiysk, with local residents reporting a drone attack at an oil terminal and damage to a residential building.",
     "description_uk": "Ukrainian drones reportedly strike major oil terminal in Russian city of Novorossiysk. Explosions were reported overnight on April 6 in the southern Russian port city of Novorossiysk, with local residents reporting a drone attack at an oil terminal and damage to a residential building.",
@@ -176,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52349",
     "score": 8.0,
-    "views": 1559,
+    "views": 1909,
     "forwards": 3
   },
   {
@@ -230,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8697",
     "score": 4.0,
-    "views": 5347,
+    "views": 5633,
     "forwards": 21
   },
   {
@@ -266,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18541",
     "score": 6.5,
-    "views": 238159,
-    "forwards": 426
+    "views": 245861,
+    "forwards": 427
   },
   {
     "title": "Istanbul. Meeting with Ecumenical Patriarch Bartholomew. The key...",
@@ -284,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18537",
     "score": 6.5,
-    "views": 88234,
-    "forwards": 217
+    "views": 88919,
+    "forwards": 219
   }
 ]
