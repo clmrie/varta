@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "A group of UAVs in the direction of the city of Kharkiv from the north",
+    "description_en": "A group of UAVs in the direction of the city of Kharkiv from the north",
+    "description_uk": "Група БпЛА в напрямку м.Харків з півночі",
+    "time": "",
+    "pubDate": "2026-04-07T21:28:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59673",
+    "score": 6.0,
+    "views": 21378,
+    "forwards": 1
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons",
+    "description_en": "☄️ The threat of using ballistic weapons",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння",
+    "time": "",
+    "pubDate": "2026-04-07T21:16:31+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59672",
+    "score": 5.5,
+    "views": 34582,
+    "forwards": 71
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -32,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189067",
     "score": 4.5,
-    "views": 44570,
-    "forwards": 109
+    "views": 62536,
+    "forwards": 110
   },
   {
     "title": "Kryvyi Rih: BpLA in the direction of the city of Kryvyi Rih from the south",
@@ -176,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8708",
     "score": 9.0,
-    "views": 752,
+    "views": 759,
     "forwards": 4
   },
   {
@@ -194,8 +230,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37007",
     "score": 13.5,
-    "views": 41207,
-    "forwards": 130
+    "views": 41736,
+    "forwards": 131
   },
   {
     "title": "🛫 The activity of enemy tactical aviation in the southeastern and...",
@@ -230,8 +266,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52380",
     "score": 6.0,
-    "views": 2066,
-    "forwards": 3
+    "views": 2141,
+    "forwards": 4
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -248,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52379",
     "score": 6.0,
-    "views": 2013,
+    "views": 2090,
     "forwards": 3
   },
   {
@@ -266,7 +302,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37004",
     "score": 5.0,
-    "views": 4830,
+    "views": 4864,
     "forwards": 13
   },
   {
@@ -338,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18562",
     "score": 11.5,
-    "views": 208092,
-    "forwards": 738
+    "views": 209904,
+    "forwards": 743
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -360,24 +396,6 @@
     "forwards": 1
   },
   {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "UAV headed for Kharkiv from the north-west direction.",
-    "description_en": "UAV headed for Kharkiv from the north-west direction.",
-    "description_uk": "БпЛА курсом на Харків з північно-західного напрямку.",
-    "time": "",
-    "pubDate": "2026-04-07T09:51:11+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59641",
-    "score": 6.0,
-    "views": 36929,
-    "forwards": 1
-  },
-  {
     "title": "Minister Andriy Sybiga: \"Moscow is extremely saddened by the rapid...",
     "title_en": "Minister Andriy Sybiga: \"Moscow is extremely saddened by the rapid...",
     "title_uk": "Міністр Андрій Сибіга: «Москва вкрай засмучена стрімким...",
@@ -392,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8706",
     "score": 5.0,
-    "views": 2841,
+    "views": 2859,
     "forwards": 29
   },
   {
@@ -430,23 +448,5 @@
     "score": 13.0,
     "views": 1858,
     "forwards": 1
-  },
-  {
-    "title": "Our goal is absolutely clear: stability and peace are needed in...",
-    "title_en": "Our goal is absolutely clear: stability and peace are needed in...",
-    "title_uk": "Наша мета абсолютно ясна: стабільність і мир потрібні в...",
-    "description": "Our goal is absolutely clear: stability and peace are needed in Europe, stability and peace are needed in the Middle East and the Gulf, as well as in other globally important regions, so that the world does not face such challenges caused by destabilized markets, destroyed energy sector, disrupted navigation, nuclear threat, or food insecurity. All nations deserve security – and we will have new...",
-    "description_en": "Our goal is absolutely clear: stability and peace are needed in Europe, stability and peace are needed in the Middle East and the Gulf, as well as in other globally important regions, so that the world does not face such challenges caused by destabilized markets, destroyed energy sector, disrupted navigation, nuclear threat, or food insecurity. All nations deserve security – and we will have new...",
-    "description_uk": "Our goal is absolutely clear: stability and peace are needed in Europe, stability and peace are needed in the Middle East and the Gulf, as well as in other globally important regions, so that the world does not face such challenges caused by destabilized markets, destroyed energy sector, disrupted navigation, nuclear threat, or food insecurity. All nations deserve security – and we will have new...",
-    "time": "",
-    "pubDate": "2026-04-06T19:05:25+00:00",
-    "category": "political",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18561",
-    "score": 7.5,
-    "views": 67268,
-    "forwards": 37
   }
 ]
