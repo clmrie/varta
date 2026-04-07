@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "UAV in the direction of Kyiv region from Chernihiv region",
+    "description_en": "UAV in the direction of Kyiv region from Chernihiv region",
+    "description_uk": "БпЛА в напрямку Київщини з Чернігівщини",
+    "time": "",
+    "pubDate": "2026-04-07T21:01:23+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59671",
+    "score": 6.5,
+    "views": 15120,
+    "forwards": 66
+  },
+  {
+    "title": "Meanwhile, flights have arrived in Luhansk",
+    "title_en": "Meanwhile, flights have arrived in Luhansk",
+    "title_uk": "Тим часом рейси прибули до Луганська",
+    "description": "Meanwhile, flights have arrived in Luhansk",
+    "description_en": "Meanwhile, flights have arrived in Luhansk",
+    "description_uk": "Тем временем в Луганске прилеты",
+    "time": "",
+    "pubDate": "2026-04-07T20:35:11+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Luhansk",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/189067",
+    "score": 4.5,
+    "views": 44570,
+    "forwards": 109
+  },
+  {
     "title": "Kryvyi Rih: BpLA in the direction of the city of Kryvyi Rih from the south",
     "title_en": "Kryvyi Rih: BpLA in the direction of the city of Kryvyi Rih from the south",
     "title_uk": "Кривий Ріг: БпЛА в напрямку м. Кривий Ріг з півд",
@@ -14,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59670",
     "score": 6.0,
-    "views": 11145,
-    "forwards": 1
+    "views": 39170,
+    "forwards": 35
   },
   {
     "title": "Odesa: Drone incoming",
@@ -140,7 +176,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8708",
     "score": 9.0,
-    "views": 734,
+    "views": 752,
     "forwards": 4
   },
   {
@@ -158,7 +194,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37007",
     "score": 13.5,
-    "views": 40403,
+    "views": 41207,
     "forwards": 130
   },
   {
@@ -194,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52380",
     "score": 6.0,
-    "views": 1968,
+    "views": 2066,
     "forwards": 3
   },
   {
@@ -212,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52379",
     "score": 6.0,
-    "views": 1922,
+    "views": 2013,
     "forwards": 3
   },
   {
@@ -230,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37004",
     "score": 5.0,
-    "views": 4777,
+    "views": 4830,
     "forwards": 13
   },
   {
@@ -302,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18562",
     "score": 11.5,
-    "views": 205862,
-    "forwards": 726
+    "views": 208092,
+    "forwards": 738
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -356,26 +392,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8706",
     "score": 5.0,
-    "views": 2812,
+    "views": 2841,
     "forwards": 29
-  },
-  {
-    "title": "Sumy: BpLA in the city of Sumy from the north",
-    "title_en": "Sumy: BpLA in the city of Sumy from the north",
-    "title_uk": "Суми: БпЛА в м. Суми з півн",
-    "description": "BpLA in the city of Sumy from the north",
-    "description_en": "BpLA in the city of Sumy from the north",
-    "description_uk": "БпЛА на м.Суми з півночі",
-    "time": "",
-    "pubDate": "2026-04-07T08:29:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59639",
-    "score": 6.0,
-    "views": 41400,
-    "forwards": 1
   },
   {
     "title": "Donetsk: Drone incoming",
@@ -428,7 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18561",
     "score": 7.5,
-    "views": 66692,
-    "forwards": 27
+    "views": 67268,
+    "forwards": 37
   }
 ]
