@@ -14,8 +14,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59673",
     "score": 6.0,
-    "views": 21378,
-    "forwards": 1
+    "views": 29243,
+    "forwards": 26
   },
   {
     "title": "Ballistic missile launch detected",
@@ -32,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59672",
     "score": 5.5,
-    "views": 34582,
-    "forwards": 71
+    "views": 41892,
+    "forwards": 92
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -68,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189067",
     "score": 4.5,
-    "views": 62536,
-    "forwards": 110
+    "views": 72156,
+    "forwards": 131
   },
   {
     "title": "Kryvyi Rih: BpLA in the direction of the city of Kryvyi Rih from the south",
@@ -212,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8708",
     "score": 9.0,
-    "views": 759,
+    "views": 767,
     "forwards": 4
   },
   {
@@ -230,7 +230,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37007",
     "score": 13.5,
-    "views": 41736,
+    "views": 41952,
     "forwards": 131
   },
   {
@@ -266,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52380",
     "score": 6.0,
-    "views": 2141,
+    "views": 2202,
     "forwards": 4
   },
   {
@@ -284,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52379",
     "score": 6.0,
-    "views": 2090,
+    "views": 2150,
     "forwards": 3
   },
   {
@@ -302,7 +302,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37004",
     "score": 5.0,
-    "views": 4864,
+    "views": 4873,
     "forwards": 13
   },
   {
@@ -374,26 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18562",
     "score": 11.5,
-    "views": 209904,
-    "forwards": 743
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "UAV in Bogodukhiv district of Kharkiv region, heading for Poltava region. 🛵 BpLA in Beryslav district of Kherson region, heading for Mykolaiv region.",
-    "description_en": "UAV in Bogodukhiv district of Kharkiv region, heading for Poltava region. 🛵 BpLA in Beryslav district of Kherson region, heading for Mykolaiv region.",
-    "description_uk": "БпЛА в Богодухівському районі Харківщини, курсом на Полтавщину. 🛵 БпЛА в Бериславському районі Херсонщини, курсом на Миколаївщину.",
-    "time": "",
-    "pubDate": "2026-04-07T10:16:10+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59642",
-    "score": 6.0,
-    "views": 59238,
-    "forwards": 1
+    "views": 210787,
+    "forwards": 746
   },
   {
     "title": "Minister Andriy Sybiga: \"Moscow is extremely saddened by the rapid...",
@@ -410,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8706",
     "score": 5.0,
-    "views": 2859,
+    "views": 2865,
     "forwards": 29
   },
   {
@@ -448,5 +430,23 @@
     "score": 13.0,
     "views": 1858,
     "forwards": 1
+  },
+  {
+    "title": "Our goal is absolutely clear: stability and peace are needed in...",
+    "title_en": "Our goal is absolutely clear: stability and peace are needed in...",
+    "title_uk": "Наша мета абсолютно ясна: стабільність і мир потрібні в...",
+    "description": "Our goal is absolutely clear: stability and peace are needed in Europe, stability and peace are needed in the Middle East and the Gulf, as well as in other globally important regions, so that the world does not face such challenges caused by destabilized markets, destroyed energy sector, disrupted navigation, nuclear threat, or food insecurity. All nations deserve security – and we will have new...",
+    "description_en": "Our goal is absolutely clear: stability and peace are needed in Europe, stability and peace are needed in the Middle East and the Gulf, as well as in other globally important regions, so that the world does not face such challenges caused by destabilized markets, destroyed energy sector, disrupted navigation, nuclear threat, or food insecurity. All nations deserve security – and we will have new...",
+    "description_uk": "Our goal is absolutely clear: stability and peace are needed in Europe, stability and peace are needed in the Middle East and the Gulf, as well as in other globally important regions, so that the world does not face such challenges caused by destabilized markets, destroyed energy sector, disrupted navigation, nuclear threat, or food insecurity. All nations deserve security – and we will have new...",
+    "time": "",
+    "pubDate": "2026-04-06T19:05:25+00:00",
+    "category": "political",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/18561",
+    "score": 7.5,
+    "views": 67829,
+    "forwards": 37
   }
 ]
