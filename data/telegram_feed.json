@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "Nizhegorodnefteorgsintez, the fourth largest refinery in the Russian Federation, stopped work after a drone attack - Reuters According to agency sources, the Lukoil plant stopped work on April 5 after an attack by Ukrainian UAVs. Fuel supplies may be suspended at least until the end of the month. The enterprise is one of the largest in Russia and produces a significant part of gasoline.",
+    "description_en": "Nizhegorodnefteorgsintez, the fourth largest refinery in the Russian Federation, stopped work after a drone attack - Reuters According to agency sources, the Lukoil plant stopped work on April 5 after an attack by Ukrainian UAVs. Fuel supplies may be suspended at least until the end of the month. The enterprise is one of the largest in Russia and produces a significant part of gasoline.",
+    "description_uk": "Четвертый по величине НПЗ в рф \"Нижегороднефтеоргсинтез\" остановил работу после удара дронов, - Reuters Как сообщают источники игентства, завод \"Лукойла\" прекратил работу 5 апреля после атаки украинских БПЛА. Поставки топлива могут быть приостановлены как минимум до конца месяца. Предприятие является одним из крупнейших в россии и производит значительную часть бензина.",
+    "time": "",
+    "pubDate": "2026-04-07T16:18:11+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/189048",
+    "score": 5.5,
+    "views": 31633,
+    "forwards": 109
+  },
+  {
     "title": "Kharkiv: BpLA in the direction of the city of Kharkiv from the north",
     "title_en": "Kharkiv: BpLA in the direction of the city of Kharkiv from the north",
     "title_uk": "Харків: БпЛА в напрямку м. Харкова з півн",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59654",
     "score": 6.0,
-    "views": 24259,
+    "views": 56169,
     "forwards": 1
   },
   {
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59653",
     "score": 5.0,
-    "views": 33386,
+    "views": 63052,
     "forwards": 0
   },
   {
@@ -50,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189042",
     "score": 8.5,
-    "views": 64189,
-    "forwards": 107
+    "views": 93645,
+    "forwards": 143
   },
   {
     "title": "Missile attack",
@@ -86,7 +104,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8708",
     "score": 9.0,
-    "views": 499,
+    "views": 552,
     "forwards": 3
   },
   {
@@ -104,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37007",
     "score": 13.5,
-    "views": 20476,
-    "forwards": 109
+    "views": 26383,
+    "forwards": 115
   },
   {
     "title": "🛫 The activity of enemy tactical aviation in the southeastern and...",
@@ -140,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52380",
     "score": 6.0,
-    "views": 1374,
+    "views": 1539,
     "forwards": 3
   },
   {
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52379",
     "score": 6.0,
-    "views": 1385,
+    "views": 1538,
     "forwards": 3
   },
   {
@@ -176,7 +194,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37004",
     "score": 5.0,
-    "views": 3861,
+    "views": 4121,
     "forwards": 10
   },
   {
@@ -248,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18562",
     "score": 11.5,
-    "views": 168057,
-    "forwards": 638
+    "views": 176880,
+    "forwards": 668
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -302,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8706",
     "score": 5.0,
-    "views": 2543,
+    "views": 2592,
     "forwards": 28
   },
   {
@@ -429,24 +447,6 @@
     "link": "https://t.me/KyivIndependent_official/52373",
     "score": 13.0,
     "views": 1858,
-    "forwards": 1
-  },
-  {
-    "title": "Odesa - BpLA ➡️ course to Black Sea/Odesa from the Black Sea area.",
-    "title_en": "Odesa - BpLA ➡️ course to Black Sea/Odesa from the Black Sea area.",
-    "title_uk": "Одеса - BpLA ➡️ курс до Чорного моря/Одеса з акваторії Чорного моря.",
-    "description": "Odesa - BpLA ➡️ course to Black Sea/Odesa from the Black Sea area.",
-    "description_en": "Odesa - BpLA ➡️ course to Black Sea/Odesa from the Black Sea area.",
-    "description_uk": "Одещина - БпЛА ➡️ курсом на Чорноморське/Одесу з акваторії Чорного моря.",
-    "time": "",
-    "pubDate": "2026-04-07T04:13:24+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59624",
-    "score": 5.0,
-    "views": 54499,
     "forwards": 1
   }
 ]
