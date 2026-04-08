@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Several strike UAVs from the Black Sea, near Zatoka ➡️ in the direction of Bilhorod-Dnistrovskyi",
+    "description_en": "Several strike UAVs from the Black Sea, near Zatoka ➡️ in the direction of Bilhorod-Dnistrovskyi",
+    "description_uk": "Декілька ударних БпЛА з Чорного моря, поблизу Затоки ➡️ у напрямку Білгород-Дністровського",
+    "time": "",
+    "pubDate": "2026-04-08T20:36:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59715",
+    "score": 5.0,
+    "views": 21914,
+    "forwards": 1
+  },
+  {
     "title": "A group of BpLA in Sumy Oblast in the Trostyanets region ➡️ in the...",
     "title_en": "A group of BpLA in Sumy Oblast in the Trostyanets region ➡️ in the...",
     "title_uk": "Група BpLA в Сумській області в Тростянецькому районі ➡️ в...",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59713",
     "score": 5.0,
-    "views": 28014,
+    "views": 45204,
     "forwards": 1
   },
   {
@@ -32,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52409",
     "score": 10.0,
-    "views": 741,
+    "views": 1059,
     "forwards": 3
   },
   {
@@ -50,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52408",
     "score": 4.5,
-    "views": 795,
+    "views": 1033,
     "forwards": 2
   },
   {
@@ -124,24 +142,6 @@
     "score": 6.5,
     "views": 116914,
     "forwards": 71
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A new group of UAVs from the Black Sea area ➡️ heading for Odesa.",
-    "description_en": "A new group of UAVs from the Black Sea area ➡️ heading for Odesa.",
-    "description_uk": "Нова група БпЛА з акваторії Чорного моря ➡️ курсом на Одещину.",
-    "time": "",
-    "pubDate": "2026-04-08T16:36:26+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59710",
-    "score": 5.0,
-    "views": 24250,
-    "forwards": 1
   },
   {
     "title": "BpLA ➡️ in the direction of Kharkiv and Sumy.",
@@ -324,24 +324,6 @@
     "forwards": 40
   },
   {
-    "title": "Kharkiv: A group of BpLA through Kharkiv Oblast ➡️ heading for Poltava Oblast.",
-    "title_en": "Kharkiv: A group of BpLA through Kharkiv Oblast ➡️ heading for Poltava Oblast.",
-    "title_uk": "Харків: Група BpLA через Харківську область ➡️ прямує до Полтавської області.",
-    "description": "A group of BpLA through Kharkiv Oblast ➡️ heading for Poltava Oblast.",
-    "description_en": "A group of BpLA through Kharkiv Oblast ➡️ heading for Poltava Oblast.",
-    "description_uk": "Група БпЛА через Харківщину ➡️ курсом на Полтавщину.",
-    "time": "",
-    "pubDate": "2026-04-08T08:35:15+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59695",
-    "score": 6.0,
-    "views": 63756,
-    "forwards": 29
-  },
-  {
     "title": "Kyiv: 176 drones intercepted",
     "title_en": "Kyiv: 176 drones intercepted",
     "title_uk": "Київ: перехоплено 176 безпілотників",
@@ -392,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8708",
     "score": 9.0,
-    "views": 1017,
+    "views": 1019,
     "forwards": 4
   },
   {
@@ -410,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18562",
     "score": 11.5,
-    "views": 236403,
-    "forwards": 775
+    "views": 236875,
+    "forwards": 779
   },
   {
     "title": "Minister Andriy Sybiga: \"Moscow is extremely saddened by the rapid...",
@@ -428,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8706",
     "score": 5.0,
-    "views": 3129,
+    "views": 3134,
     "forwards": 29
   }
 ]
