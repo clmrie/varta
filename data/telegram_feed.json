@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Київ: повідомляється про постраждалих",
+    "description": "16 Cameroonians killed fighting for Russia in Ukraine, officials say. The acknowledgement, which was delivered to Yaounde by Russian officials and broadcast through Cameroonian state media on April 6, marks the first time Cameroon has formally spoken of its citizens' involvement in the Russia-Ukraine war.",
+    "description_en": "16 Cameroonians killed fighting for Russia in Ukraine, officials say. The acknowledgement, which was delivered to Yaounde by Russian officials and broadcast through Cameroonian state media on April 6, marks the first time Cameroon has formally spoken of its citizens' involvement in the Russia-Ukraine war.",
+    "description_uk": "16 Cameroonians killed fighting for Russia in Ukraine, officials say. The acknowledgement, which was delivered to Yaounde by Russian officials and broadcast through Cameroonian state media on April 6, marks the first time Cameroon has formally spoken of its citizens' involvement in the Russia-Ukraine war.",
+    "time": "",
+    "pubDate": "2026-04-08T03:12:02+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52389",
+    "score": 6.0,
+    "views": 154,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV in the waters of the Black Sea, heading for Odesa (Bay)",
+    "description_en": "UAV in the waters of the Black Sea, heading for Odesa (Bay)",
+    "description_uk": "БпЛА в акваторії Чорного моря, курсом на Одещину (Затока)",
+    "time": "",
+    "pubDate": "2026-04-08T02:11:38+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59681",
+    "score": 5.0,
+    "views": 29079,
+    "forwards": 1
+  },
+  {
+    "title": "Izmail: BpLA headed for Izmail!",
+    "title_en": "Izmail: BpLA headed for Izmail!",
+    "title_uk": "Ізмаїл: BpLA взяв курс на Ізмаїл!",
+    "description": "BpLA headed for Izmail!",
+    "description_en": "BpLA headed for Izmail!",
+    "description_uk": "БпЛА курсом на Ізмаїл!",
+    "time": "",
+    "pubDate": "2026-04-08T00:40:55+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Izmail",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59679",
+    "score": 6.0,
+    "views": 38282,
+    "forwards": 11
+  },
+  {
     "title": "Odesa: Drone incoming",
     "title_en": "Odesa: Drone incoming",
     "title_uk": "Одеса: Дрон вхід",
@@ -86,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189067",
     "score": 4.5,
-    "views": 80037,
-    "forwards": 131
+    "views": 116165,
+    "forwards": 141
   },
   {
     "title": "Kryvyi Rih: BpLA in the direction of the city of Kryvyi Rih from the south",
@@ -212,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8708",
     "score": 9.0,
-    "views": 771,
+    "views": 779,
     "forwards": 4
   },
   {
@@ -230,26 +284,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37007",
     "score": 13.5,
-    "views": 42164,
+    "views": 43135,
     "forwards": 131
-  },
-  {
-    "title": "🛫 The activity of enemy tactical aviation in the southeastern and...",
-    "title_en": "🛫 The activity of enemy tactical aviation in the southeastern and...",
-    "title_uk": "🛫 Активність тактичної авіації противника на південно-східному та...",
-    "description": "🛫 The activity of enemy tactical aviation in the southeastern and southern directions! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "🛫 The activity of enemy tactical aviation in the southeastern and southern directions! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "🛫 Активність ворожої тактичної авіації на південно-східному та південному напрямках! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-04-07T13:28:40+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59647",
-    "score": 5.0,
-    "views": 64781,
-    "forwards": 45
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -266,26 +302,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52380",
     "score": 6.0,
-    "views": 2256,
+    "views": 2360,
     "forwards": 4
-  },
-  {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
-    "description": "Ukraine's parliament attempts to unblock stalled IMF financing, votes on contentious tax bills. After missing the official IMF deadline of March 31, Ukraine's parliament will consider on April 7 bills to extend the military tax for three years after the war, introduce taxes on income from digital platforms, and impose levies on parcels — three out of four measures required to unlock the next...",
-    "description_en": "Ukraine's parliament attempts to unblock stalled IMF financing, votes on contentious tax bills. After missing the official IMF deadline of March 31, Ukraine's parliament will consider on April 7 bills to extend the military tax for three years after the war, introduce taxes on income from digital platforms, and impose levies on parcels — three out of four measures required to unlock the next...",
-    "description_uk": "Ukraine's parliament attempts to unblock stalled IMF financing, votes on contentious tax bills. After missing the official IMF deadline of March 31, Ukraine's parliament will consider on April 7 bills to extend the military tax for three years after the war, introduce taxes on income from digital platforms, and impose levies on parcels — three out of four measures required to unlock the next...",
-    "time": "",
-    "pubDate": "2026-04-07T12:14:43+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52379",
-    "score": 6.0,
-    "views": 2192,
-    "forwards": 3
   },
   {
     "title": "What issues can you ask for help from veterans and windsurfing...",
@@ -302,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37004",
     "score": 5.0,
-    "views": 4896,
+    "views": 4976,
     "forwards": 14
   },
   {
@@ -320,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18562",
     "score": 11.5,
-    "views": 211530,
-    "forwards": 749
+    "views": 214729,
+    "forwards": 752
   },
   {
     "title": "Minister Andriy Sybiga: \"Moscow is extremely saddened by the rapid...",
@@ -338,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8706",
     "score": 5.0,
-    "views": 2872,
+    "views": 2896,
     "forwards": 29
   },
   {
@@ -392,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18561",
     "score": 7.5,
-    "views": 68022,
+    "views": 68408,
     "forwards": 37
   }
 ]
