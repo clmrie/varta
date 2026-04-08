@@ -1,5 +1,41 @@
 [
   {
+    "title": "BpLA ➡️ in the suburbs of Poltava.",
+    "title_en": "BpLA ➡️ in the suburbs of Poltava.",
+    "title_uk": "BpLA ➡️ в передмісті Полтави.",
+    "description": "BpLA ➡️ in the suburbs of Poltava.",
+    "description_en": "BpLA ➡️ in the suburbs of Poltava.",
+    "description_uk": "БпЛА ➡️ у передмісті Полтави.",
+    "time": "",
+    "pubDate": "2026-04-08T09:21:47+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59696",
+    "score": 5.0,
+    "views": 18725,
+    "forwards": 22
+  },
+  {
+    "title": "Kharkiv: A group of BpLA through Kharkiv Oblast ➡️ heading for Poltava Oblast.",
+    "title_en": "Kharkiv: A group of BpLA through Kharkiv Oblast ➡️ heading for Poltava Oblast.",
+    "title_uk": "Харків: Група BpLA через Харківську область ➡️ прямує до Полтавської області.",
+    "description": "A group of BpLA through Kharkiv Oblast ➡️ heading for Poltava Oblast.",
+    "description_en": "A group of BpLA through Kharkiv Oblast ➡️ heading for Poltava Oblast.",
+    "description_uk": "Група БпЛА через Харківщину ➡️ курсом на Полтавщину.",
+    "time": "",
+    "pubDate": "2026-04-08T08:35:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59695",
+    "score": 6.0,
+    "views": 45463,
+    "forwards": 29
+  },
+  {
     "title": "Chernihiv: Chernihiv region: BpLA ➡️ to Snovsk.",
     "title_en": "Chernihiv: Chernihiv region: BpLA ➡️ to Snovsk.",
     "title_uk": "Чернігів: Чернігівська область: БпЛА ➡️ до Сновська.",
@@ -32,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52391",
     "score": 18.0,
-    "views": 561,
-    "forwards": 1
+    "views": 984,
+    "forwards": 2
   },
   {
     "title": "Zaporizhzhia: BpLA heading for Zaporozhye from the north.",
@@ -86,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37034",
     "score": 13.0,
-    "views": 5116,
-    "forwards": 17
+    "views": 5810,
+    "forwards": 21
   },
   {
     "title": "BpLA heading for Poltava.",
@@ -122,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52389",
     "score": 6.0,
-    "views": 1595,
-    "forwards": 3
+    "views": 1803,
+    "forwards": 4
   },
   {
     "title": "Drone incoming",
@@ -180,60 +216,6 @@
     "forwards": 1
   },
   {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "A group of UAVs in the direction of the city of Kharkiv from the north",
-    "description_en": "A group of UAVs in the direction of the city of Kharkiv from the north",
-    "description_uk": "Група БпЛА в напрямку м.Харків з півночі",
-    "time": "",
-    "pubDate": "2026-04-07T21:28:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59673",
-    "score": 6.0,
-    "views": 36097,
-    "forwards": 26
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons",
-    "description_en": "☄️ The threat of using ballistic weapons",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння",
-    "time": "",
-    "pubDate": "2026-04-07T21:16:31+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59672",
-    "score": 5.5,
-    "views": 45138,
-    "forwards": 92
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "UAV in the direction of Kyiv region from Chernihiv region",
-    "description_en": "UAV in the direction of Kyiv region from Chernihiv region",
-    "description_uk": "БпЛА в напрямку Київщини з Чернігівщини",
-    "time": "",
-    "pubDate": "2026-04-07T21:01:23+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59671",
-    "score": 6.5,
-    "views": 15120,
-    "forwards": 66
-  },
-  {
     "title": "Meanwhile, flights have arrived in Luhansk",
     "title_en": "Meanwhile, flights have arrived in Luhansk",
     "title_uk": "Тим часом рейси прибули до Луганська",
@@ -248,26 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189067",
     "score": 4.5,
-    "views": 185327,
+    "views": 191670,
     "forwards": 143
-  },
-  {
-    "title": "Kryvyi Rih: BpLA in the direction of the city of Kryvyi Rih from the south",
-    "title_en": "Kryvyi Rih: BpLA in the direction of the city of Kryvyi Rih from the south",
-    "title_uk": "Кривий Ріг: БпЛА в напрямку м. Кривий Ріг з півд",
-    "description": "BpLA in the direction of the city of Kryvyi Rih from the south",
-    "description_en": "BpLA in the direction of the city of Kryvyi Rih from the south",
-    "description_uk": "БпЛА в напрямку м.Кривий Ріг з півдня",
-    "time": "",
-    "pubDate": "2026-04-07T20:22:54+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59670",
-    "score": 6.0,
-    "views": 39170,
-    "forwards": 35
   },
   {
     "title": "Missile attack",
@@ -302,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8708",
     "score": 9.0,
-    "views": 884,
+    "views": 903,
     "forwards": 4
   },
   {
@@ -356,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18562",
     "score": 11.5,
-    "views": 225337,
-    "forwards": 762
+    "views": 227490,
+    "forwards": 766
   },
   {
     "title": "Minister Andriy Sybiga: \"Moscow is extremely saddened by the rapid...",
@@ -374,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8706",
     "score": 5.0,
-    "views": 3013,
+    "views": 3027,
     "forwards": 29
   },
   {
@@ -392,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18561",
     "score": 7.5,
-    "views": 69555,
-    "forwards": 37
+    "views": 70127,
+    "forwards": 38
   }
 ]
