@@ -1,5 +1,23 @@
 [
   {
+    "title": "Odesa: Drone incoming",
+    "title_en": "Odesa: Drone incoming",
+    "title_uk": "Одеса: Дрон вхід",
+    "description": "UAV in the direction of Odessa from the Black Sea",
+    "description_en": "UAV in the direction of Odessa from the Black Sea",
+    "description_uk": "БпЛА в напрямку м.Одеса з Чорного моря",
+    "time": "",
+    "pubDate": "2026-04-07T23:46:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59676",
+    "score": 6.0,
+    "views": 5227,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Харків: Дрон вхід",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59673",
     "score": 6.0,
-    "views": 32666,
+    "views": 36097,
     "forwards": 26
   },
   {
@@ -68,7 +86,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189067",
     "score": 4.5,
-    "views": 76964,
+    "views": 80037,
     "forwards": 131
   },
   {
@@ -88,24 +106,6 @@
     "score": 6.0,
     "views": 39170,
     "forwards": 35
-  },
-  {
-    "title": "Odesa: Drone incoming",
-    "title_en": "Odesa: Drone incoming",
-    "title_uk": "Одеса: Дрон вхід",
-    "description": "UAV in the direction of Odessa from the Black Sea",
-    "description_en": "UAV in the direction of Odessa from the Black Sea",
-    "description_uk": "БпЛА в напрямку м.Одеса з Чорного моря",
-    "time": "",
-    "pubDate": "2026-04-07T19:54:24+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59668",
-    "score": 6.0,
-    "views": 41471,
-    "forwards": 1
   },
   {
     "title": "Kharkiv: BpLA in the direction of the city of Kharkiv from the north",
@@ -212,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8708",
     "score": 9.0,
-    "views": 769,
+    "views": 771,
     "forwards": 4
   },
   {
@@ -230,7 +230,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37007",
     "score": 13.5,
-    "views": 42076,
+    "views": 42164,
     "forwards": 131
   },
   {
@@ -266,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52380",
     "score": 6.0,
-    "views": 2236,
+    "views": 2256,
     "forwards": 4
   },
   {
@@ -284,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52379",
     "score": 6.0,
-    "views": 2174,
+    "views": 2192,
     "forwards": 3
   },
   {
@@ -302,26 +302,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37004",
     "score": 5.0,
-    "views": 4890,
-    "forwards": 13
-  },
-  {
-    "title": "🛫 Activity of enemy tactical aviation in the north-eastern direction!...",
-    "title_en": "🛫 Activity of enemy tactical aviation in the north-eastern direction!...",
-    "title_uk": "🛫 Активність тактичної авіації противника на північно-східному напрямку!...",
-    "description": "🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-04-07T11:52:56+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59644",
-    "score": 5.0,
-    "views": 42664,
-    "forwards": 1
+    "views": 4896,
+    "forwards": 14
   },
   {
     "title": "Nikopol: Drone strike",
@@ -338,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18562",
     "score": 11.5,
-    "views": 211302,
+    "views": 211530,
     "forwards": 749
   },
   {
@@ -356,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8706",
     "score": 5.0,
-    "views": 2869,
+    "views": 2872,
     "forwards": 29
   },
   {
@@ -410,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18561",
     "score": 7.5,
-    "views": 67970,
+    "views": 68022,
     "forwards": 37
   }
 ]
