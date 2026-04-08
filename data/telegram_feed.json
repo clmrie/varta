@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zaporizhzhia: BpLA heading for Zaporozhye from the north.",
+    "title_en": "Zaporizhzhia: BpLA heading for Zaporozhye from the north.",
+    "title_uk": "Запоріжжя: BpLA прямує на Запоріжжя з півночі.",
+    "description": "BpLA heading for Zaporozhye from the north.",
+    "description_en": "BpLA heading for Zaporozhye from the north.",
+    "description_uk": "БпЛА курсом на Запоріжжя з півночі.",
+    "time": "",
+    "pubDate": "2026-04-08T06:15:26+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59692",
+    "score": 6.0,
+    "views": 32458,
+    "forwards": 1
+  },
+  {
+    "title": "Izmail: BpLA in Odesa, heading for Izmail.",
+    "title_en": "Izmail: BpLA in Odesa, heading for Izmail.",
+    "title_uk": "Ізмаїл: BpLA в Одесі, курс на Ізмаїл.",
+    "description": "BpLA in Odesa, heading for Izmail.",
+    "description_en": "BpLA in Odesa, heading for Izmail.",
+    "description_uk": "БпЛА на Одещині, курсом на Ізмаїл.",
+    "time": "",
+    "pubDate": "2026-04-08T05:27:37+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Izmail",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59691",
+    "score": 6.0,
+    "views": 58083,
+    "forwards": 1
+  },
+  {
     "title": "Kursk: Drone incoming",
     "title_en": "Kursk: Drone incoming",
     "title_uk": "Курськ: Дрон входить",
@@ -14,8 +50,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37034",
     "score": 13.0,
-    "views": 1257,
-    "forwards": 3
+    "views": 3992,
+    "forwards": 14
   },
   {
     "title": "BpLA heading for Poltava.",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52389",
     "score": 6.0,
-    "views": 767,
-    "forwards": 0
+    "views": 1256,
+    "forwards": 2
   },
   {
     "title": "Drone incoming",
@@ -176,7 +212,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189067",
     "score": 4.5,
-    "views": 158638,
+    "views": 176744,
     "forwards": 142
   },
   {
@@ -266,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8708",
     "score": 9.0,
-    "views": 799,
+    "views": 868,
     "forwards": 4
   },
   {
@@ -302,8 +338,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52380",
     "score": 6.0,
-    "views": 2428,
-    "forwards": 4
+    "views": 2497,
+    "forwards": 5
   },
   {
     "title": "What issues can you ask for help from veterans and windsurfing...",
@@ -338,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18562",
     "score": 11.5,
-    "views": 219920,
-    "forwards": 758
+    "views": 223134,
+    "forwards": 761
   },
   {
     "title": "Minister Andriy Sybiga: \"Moscow is extremely saddened by the rapid...",
@@ -356,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8706",
     "score": 5.0,
-    "views": 2933,
+    "views": 2994,
     "forwards": 29
   },
   {
@@ -392,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18561",
     "score": 7.5,
-    "views": 68958,
+    "views": 69314,
     "forwards": 37
   }
 ]
