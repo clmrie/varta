@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Київ: повідомляється про постраждалих",
+    "description": "Ukraine's reform push underwhelms with billions in aid on the line Ukraine's parliament made scant progress on several reforms tied to funding from international partners during a highly anticipated parliamentary session on April 7–8. Ukraine has missed deadlines on a range of reforms tied to international financing over the past year. Lawmakers attempted to gain momentum during this week's...",
+    "description_en": "Ukraine's reform push underwhelms with billions in aid on the line Ukraine's parliament made scant progress on several reforms tied to funding from international partners during a highly anticipated parliamentary session on April 7–8. Ukraine has missed deadlines on a range of reforms tied to international financing over the past year. Lawmakers attempted to gain momentum during this week's...",
+    "description_uk": "Ukraine's reform push underwhelms with billions in aid on the line Ukraine's parliament made scant progress on several reforms tied to funding from international partners during a highly anticipated parliamentary session on April 7–8. Ukraine has missed deadlines on a range of reforms tied to international financing over the past year. Lawmakers attempted to gain momentum during this week's...",
+    "time": "",
+    "pubDate": "2026-04-08T15:43:37+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52399",
+    "score": 6.0,
+    "views": 202,
+    "forwards": 2
+  },
+  {
+    "title": "UAV from the Black Sea ➡️ course to Odesa.",
+    "title_en": "UAV from the Black Sea ➡️ course to Odesa.",
+    "title_uk": "БПЛА з Чорного моря ➡️ курс на Одесу.",
+    "description": "UAV from the Black Sea ➡️ course to Odesa.",
+    "description_en": "UAV from the Black Sea ➡️ course to Odesa.",
+    "description_uk": "БпЛА з акваторії Чорного моря ➡️ курсом на Одещину.",
+    "time": "",
+    "pubDate": "2026-04-08T15:10:55+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59707",
+    "score": 5.0,
+    "views": 30779,
+    "forwards": 1
+  },
+  {
     "title": "Sumy: BpLA on Sumy from the north.",
     "title_en": "Sumy: BpLA on Sumy from the north.",
     "title_uk": "Суми: БпЛА на Суми з півн.",
@@ -14,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59702",
     "score": 6.0,
-    "views": 44341,
+    "views": 72473,
     "forwards": 1
   },
   {
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52397",
     "score": 10.0,
-    "views": 1104,
+    "views": 1490,
     "forwards": 2
   },
   {
@@ -252,24 +288,6 @@
     "forwards": 36
   },
   {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
-    "description": "16 Cameroonians killed fighting for Russia in Ukraine, officials say. The acknowledgement, which was delivered to Yaounde by Russian officials and broadcast through Cameroonian state media on April 6, marks the first time Cameroon has formally spoken of its citizens' involvement in the Russia-Ukraine war.",
-    "description_en": "16 Cameroonians killed fighting for Russia in Ukraine, officials say. The acknowledgement, which was delivered to Yaounde by Russian officials and broadcast through Cameroonian state media on April 6, marks the first time Cameroon has formally spoken of its citizens' involvement in the Russia-Ukraine war.",
-    "description_uk": "16 Cameroonians killed fighting for Russia in Ukraine, officials say. The acknowledgement, which was delivered to Yaounde by Russian officials and broadcast through Cameroonian state media on April 6, marks the first time Cameroon has formally spoken of its citizens' involvement in the Russia-Ukraine war.",
-    "time": "",
-    "pubDate": "2026-04-08T03:12:02+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52389",
-    "score": 6.0,
-    "views": 2013,
-    "forwards": 4
-  },
-  {
     "title": "4 killed, 16 injured",
     "title_en": "4 killed, 16 injured",
     "title_uk": "4 загиблих, 16 поранених",
@@ -284,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8708",
     "score": 9.0,
-    "views": 936,
+    "views": 988,
     "forwards": 4
   },
   {
@@ -302,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18562",
     "score": 11.5,
-    "views": 232021,
+    "views": 233071,
     "forwards": 772
   },
   {
@@ -320,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8706",
     "score": 5.0,
-    "views": 3062,
+    "views": 3087,
     "forwards": 29
   },
   {
@@ -338,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18561",
     "score": 7.5,
-    "views": 70902,
+    "views": 71103,
     "forwards": 38
   }
 ]
