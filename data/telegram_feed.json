@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Chernihiv region: BpLA ➡️ to Snovsk.",
+    "title_en": "Chernihiv: Chernihiv region: BpLA ➡️ to Snovsk.",
+    "title_uk": "Чернігів: Чернігівська область: БпЛА ➡️ до Сновська.",
+    "description": "Chernihiv region: BpLA ➡️ to Snovsk.",
+    "description_en": "Chernihiv region: BpLA ➡️ to Snovsk.",
+    "description_uk": "Чернігівщина : БпЛА ➡️ на Сновськ.",
+    "time": "",
+    "pubDate": "2026-04-08T07:30:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59693",
+    "score": 6.0,
+    "views": 35516,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: 176 drones intercepted",
+    "title_en": "Kyiv: 176 drones intercepted",
+    "title_uk": "Київ: перехоплено 176 безпілотників",
+    "description": "At least 13 killed, 77 injured in Russian attacks on Ukraine over past day. Russia launched 176 drones at Ukraine overnight, the Air Force said, reporting that Ukrainian air defenses intercepted 146.",
+    "description_en": "At least 13 killed, 77 injured in Russian attacks on Ukraine over past day. Russia launched 176 drones at Ukraine overnight, the Air Force said, reporting that Ukrainian air defenses intercepted 146.",
+    "description_uk": "At least 13 killed, 77 injured in Russian attacks on Ukraine over past day. Russia launched 176 drones at Ukraine overnight, the Air Force said, reporting that Ukrainian air defenses intercepted 146.",
+    "time": "",
+    "pubDate": "2026-04-08T07:19:50+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52391",
+    "score": 18.0,
+    "views": 561,
+    "forwards": 1
+  },
+  {
     "title": "Zaporizhzhia: BpLA heading for Zaporozhye from the north.",
     "title_en": "Zaporizhzhia: BpLA heading for Zaporozhye from the north.",
     "title_uk": "Запоріжжя: BpLA прямує на Запоріжжя з півночі.",
@@ -14,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59692",
     "score": 6.0,
-    "views": 32458,
+    "views": 64863,
     "forwards": 1
   },
   {
@@ -50,8 +86,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37034",
     "score": 13.0,
-    "views": 3992,
-    "forwards": 14
+    "views": 5116,
+    "forwards": 17
   },
   {
     "title": "BpLA heading for Poltava.",
@@ -86,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52389",
     "score": 6.0,
-    "views": 1256,
-    "forwards": 2
+    "views": 1595,
+    "forwards": 3
   },
   {
     "title": "Drone incoming",
@@ -212,8 +248,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189067",
     "score": 4.5,
-    "views": 176744,
-    "forwards": 142
+    "views": 185327,
+    "forwards": 143
   },
   {
     "title": "Kryvyi Rih: BpLA in the direction of the city of Kryvyi Rih from the south",
@@ -232,42 +268,6 @@
     "score": 6.0,
     "views": 39170,
     "forwards": 35
-  },
-  {
-    "title": "Kharkiv: BpLA in the direction of the city of Kharkiv from the north",
-    "title_en": "Kharkiv: BpLA in the direction of the city of Kharkiv from the north",
-    "title_uk": "Харків: БпЛА в напрямку м. Харкова з півн",
-    "description": "BpLA in the direction of the city of Kharkiv from the north",
-    "description_en": "BpLA in the direction of the city of Kharkiv from the north",
-    "description_uk": "БпЛА в напрямку м.Харків з півночі",
-    "time": "",
-    "pubDate": "2026-04-07T19:37:19+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59665",
-    "score": 6.0,
-    "views": 12123,
-    "forwards": 1
-  },
-  {
-    "title": "🛫 Activity of enemy tactical aviation in the southeast direction!...",
-    "title_en": "🛫 Activity of enemy tactical aviation in the southeast direction!...",
-    "title_uk": "🛫 Активність тактичної авіації противника на південно-східному напрямку!...",
-    "description": "🛫 Activity of enemy tactical aviation in the southeast direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "🛫 Activity of enemy tactical aviation in the southeast direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "🛫 Активність ворожої тактичної авіації на південно-східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-04-07T19:11:27+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59663",
-    "score": 5.0,
-    "views": 39450,
-    "forwards": 0
   },
   {
     "title": "Missile attack",
@@ -302,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8708",
     "score": 9.0,
-    "views": 868,
+    "views": 884,
     "forwards": 4
   },
   {
@@ -322,24 +322,6 @@
     "score": 13.5,
     "views": 43135,
     "forwards": 131
-  },
-  {
-    "title": "Kyiv: Ballistic missile launch detected",
-    "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
-    "description": "Ukraine seeks THAAD, but analysts question its value and prospects President Volodymyr Zelensky suggested that THAAD systems could prevent Russian fighter aircraft from striking Ukraine with glide bombs and altogether strengthening Ukraine’s air defense. However, experts remain skeptical of such claims. \"THAAD has no ability to engage fixed wing aircraft, it is solely an anti-ballistic missile...",
-    "description_en": "Ukraine seeks THAAD, but analysts question its value and prospects President Volodymyr Zelensky suggested that THAAD systems could prevent Russian fighter aircraft from striking Ukraine with glide bombs and altogether strengthening Ukraine’s air defense. However, experts remain skeptical of such claims. \"THAAD has no ability to engage fixed wing aircraft, it is solely an anti-ballistic missile...",
-    "description_uk": "Ukraine seeks THAAD, but analysts question its value and prospects President Volodymyr Zelensky suggested that THAAD systems could prevent Russian fighter aircraft from striking Ukraine with glide bombs and altogether strengthening Ukraine’s air defense. However, experts remain skeptical of such claims. \"THAAD has no ability to engage fixed wing aircraft, it is solely an anti-ballistic missile...",
-    "time": "",
-    "pubDate": "2026-04-07T12:23:36+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52380",
-    "score": 6.0,
-    "views": 2497,
-    "forwards": 5
   },
   {
     "title": "What issues can you ask for help from veterans and windsurfing...",
@@ -374,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18562",
     "score": 11.5,
-    "views": 223134,
-    "forwards": 761
+    "views": 225337,
+    "forwards": 762
   },
   {
     "title": "Minister Andriy Sybiga: \"Moscow is extremely saddened by the rapid...",
@@ -392,26 +374,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8706",
     "score": 5.0,
-    "views": 2994,
+    "views": 3013,
     "forwards": 29
-  },
-  {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "77 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 7 (from 18:00 on April 6), the enemy attacked 110 attack UAVs of the Shahed, Gerbera, Italmas type and other types of drones from the directions: Bryansk, Orel, Primorsko-Akhtarsk - Russian Federation, Gvardiyske, Chauda - TOT AR Crimea, TOT Donetsk region, approx. 70 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and...",
-    "description_en": "77 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 7 (from 18:00 on April 6), the enemy attacked 110 attack UAVs of the Shahed, Gerbera, Italmas type and other types of drones from the directions: Bryansk, Orel, Primorsko-Akhtarsk - Russian Federation, Gvardiyske, Chauda - TOT AR Crimea, TOT Donetsk region, approx. 70 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 77 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 07 квітня (з 18:00 6 квітня) противник атакував 110 ударними БпЛА типу Shahed, Гербера, Італмас та безпілотниками інших типів із напрямків: Брянськ, Орел, Приморсько-Ахтарськ – рф., Гвардійське, Чауда – ТОТ АР Крим, ТОТ Донецької області, близько 70 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та...",
-    "time": "",
-    "pubDate": "2026-04-07T07:32:14+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37002",
-    "score": 13.0,
-    "views": 5018,
-    "forwards": 10
   },
   {
     "title": "Our goal is absolutely clear: stability and peace are needed in...",
@@ -428,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18561",
     "score": 7.5,
-    "views": 69314,
+    "views": 69555,
     "forwards": 37
   }
 ]
