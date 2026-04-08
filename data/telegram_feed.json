@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kursk: Drone incoming",
+    "title_en": "Kursk: Drone incoming",
+    "title_uk": "Курськ: Дрон входить",
+    "description": "146 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of April 8 (from 18:00 on April 7) the enemy attacked 176 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Bryansk, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Chauda - TOT AR Crimea, near 120 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
+    "description_en": "146 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of April 8 (from 18:00 on April 7) the enemy attacked 176 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Bryansk, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Chauda - TOT AR Crimea, near 120 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 146 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 08 квітня (з 18:00 07 квітня) противник атакував 176 ударними БпЛА типу Shahed, Гербера, Італмас та безпілотниками інших типів із напрямків: Брянськ, Курськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., Чауда – ТОТ АР Крим, близько 120 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних...",
+    "time": "",
+    "pubDate": "2026-04-08T05:05:00+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kursk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37034",
+    "score": 13.0,
+    "views": 1257,
+    "forwards": 3
+  },
+  {
+    "title": "BpLA heading for Poltava.",
+    "title_en": "BpLA heading for Poltava.",
+    "title_uk": "BpLA прямує до Полтави.",
+    "description": "BpLA heading for Poltava.",
+    "description_en": "BpLA heading for Poltava.",
+    "description_uk": "БпЛА курсом на Полтаву.",
+    "time": "",
+    "pubDate": "2026-04-08T04:38:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59687",
+    "score": 5.0,
+    "views": 43365,
+    "forwards": 36
+  },
+  {
     "title": "Kyiv: Casualties reported",
     "title_en": "Kyiv: Casualties reported",
     "title_uk": "Київ: повідомляється про постраждалих",
@@ -14,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52389",
     "score": 6.0,
-    "views": 154,
+    "views": 767,
     "forwards": 0
   },
   {
@@ -140,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189067",
     "score": 4.5,
-    "views": 116165,
-    "forwards": 141
+    "views": 158638,
+    "forwards": 142
   },
   {
     "title": "Kryvyi Rih: BpLA in the direction of the city of Kryvyi Rih from the south",
@@ -198,42 +234,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone strike",
-    "title_en": "Drone strike",
-    "title_uk": "Безпілотний удар",
-    "description": "The fourth largest refinery in the Russian Federation \"Nizhegorodnefteorgsintez\" stopped work after the drone strike, - Reuters According to agency sources, the \"Lukoil\" plant stopped work on April 5 after an attack by Ukrainian UAVs. Fuel supplies may be suspended at least until the end of the month. The enterprise is one of the largest in Russia and produces a significant part of gasoline.",
-    "description_en": "The fourth largest refinery in the Russian Federation \"Nizhegorodnefteorgsintez\" stopped work after the drone strike, - Reuters According to agency sources, the \"Lukoil\" plant stopped work on April 5 after an attack by Ukrainian UAVs. Fuel supplies may be suspended at least until the end of the month. The enterprise is one of the largest in Russia and produces a significant part of gasoline.",
-    "description_uk": "Четвертый по величине НПЗ в рф \"Нижегороднефтеоргсинтез\" остановил работу после удара дронов, - Reuters Как сообщают источники игентства, завод \"Лукойла\" прекратил работу 5 апреля после атаки украинских БПЛА. Поставки топлива могут быть приостановлены как минимум до конца месяца. Предприятие является одним из крупнейших в россии и производит значительную часть бензина.",
-    "time": "",
-    "pubDate": "2026-04-07T16:18:11+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/189048",
-    "score": 6.5,
-    "views": 143403,
-    "forwards": 258
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "Nizhegorodnefteorgsintez, the fourth largest refinery in the Russian Federation, stopped work after a drone attack - Reuters According to agency sources, the Lukoil plant stopped work on April 5 after an attack by Ukrainian UAVs. Fuel supplies may be suspended at least until the end of the month. The enterprise is one of the largest in Russia and produces a significant part of gasoline.",
-    "description_en": "Nizhegorodnefteorgsintez, the fourth largest refinery in the Russian Federation, stopped work after a drone attack - Reuters According to agency sources, the Lukoil plant stopped work on April 5 after an attack by Ukrainian UAVs. Fuel supplies may be suspended at least until the end of the month. The enterprise is one of the largest in Russia and produces a significant part of gasoline.",
-    "description_uk": "Четвертый по величине НПЗ в рф \"Нижегороднефтеоргсинтез\" остановил работу после удара дронов, - Reuters Как сообщают источники игентства, завод \"Лукойла\" прекратил работу 5 апреля после атаки украинских БПЛА. Поставки топлива могут быть приостановлены как минимум до конца месяца. Предприятие является одним из крупнейших в россии и производит значительную часть бензина.",
-    "time": "",
-    "pubDate": "2026-04-07T16:18:11+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/189048",
-    "score": 5.5,
-    "views": 31633,
-    "forwards": 109
-  },
-  {
     "title": "Missile attack",
     "title_en": "Missile attack",
     "title_uk": "Ракетна атака",
@@ -266,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8708",
     "score": 9.0,
-    "views": 779,
+    "views": 799,
     "forwards": 4
   },
   {
@@ -302,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52380",
     "score": 6.0,
-    "views": 2360,
+    "views": 2428,
     "forwards": 4
   },
   {
@@ -338,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18562",
     "score": 11.5,
-    "views": 214729,
-    "forwards": 752
+    "views": 219920,
+    "forwards": 758
   },
   {
     "title": "Minister Andriy Sybiga: \"Moscow is extremely saddened by the rapid...",
@@ -356,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8706",
     "score": 5.0,
-    "views": 2896,
+    "views": 2933,
     "forwards": 29
   },
   {
@@ -378,24 +378,6 @@
     "forwards": 10
   },
   {
-    "title": "Kyiv: Attack attack on infrastructure",
-    "title_en": "Kyiv: Attack attack on infrastructure",
-    "title_uk": "Київ: Атака на інфраструктуру",
-    "description": "Ukraine reportedly launches fresh strikes on Russia’s Ust-Luga port, intensifying attacks on Russian oil infrastructure. Ukraine's military reportedly struck Russia’s Ust-Luga port in Leningrad Oblast overnight on April 7, Russian Telegram media channels reported, renewing its attacks on the oil terminal. The latest attack comes just one week after Kyiv last launched a full-blown assault on oil...",
-    "description_en": "Ukraine reportedly launches fresh strikes on Russia’s Ust-Luga port, intensifying attacks on Russian oil infrastructure. Ukraine's military reportedly struck Russia’s Ust-Luga port in Leningrad Oblast overnight on April 7, Russian Telegram media channels reported, renewing its attacks on the oil terminal. The latest attack comes just one week after Kyiv last launched a full-blown assault on oil...",
-    "description_uk": "Ukraine reportedly launches fresh strikes on Russia’s Ust-Luga port, intensifying attacks on Russian oil infrastructure. Ukraine's military reportedly struck Russia’s Ust-Luga port in Leningrad Oblast overnight on April 7, Russian Telegram media channels reported, renewing its attacks on the oil terminal. The latest attack comes just one week after Kyiv last launched a full-blown assault on oil...",
-    "time": "",
-    "pubDate": "2026-04-07T04:56:05+00:00",
-    "category": "shelling",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52373",
-    "score": 13.0,
-    "views": 1858,
-    "forwards": 1
-  },
-  {
     "title": "Our goal is absolutely clear: stability and peace are needed in...",
     "title_en": "Our goal is absolutely clear: stability and peace are needed in...",
     "title_uk": "Наша мета абсолютно ясна: стабільність і мир потрібні в...",
@@ -410,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18561",
     "score": 7.5,
-    "views": 68408,
+    "views": 68958,
     "forwards": 37
   }
 ]
