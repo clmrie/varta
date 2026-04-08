@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A new group of UAVs from the Black Sea area ➡️ heading for Odesa.",
+    "description_en": "A new group of UAVs from the Black Sea area ➡️ heading for Odesa.",
+    "description_uk": "Нова група БпЛА з акваторії Чорного моря ➡️ курсом на Одещину.",
+    "time": "",
+    "pubDate": "2026-04-08T16:36:26+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59710",
+    "score": 5.0,
+    "views": 24250,
+    "forwards": 1
+  },
+  {
+    "title": "BpLA ➡️ in the direction of Kharkiv and Sumy.",
+    "title_en": "BpLA ➡️ in the direction of Kharkiv and Sumy.",
+    "title_uk": "BpLA ➡️ в напрямку Харкова та Сум.",
+    "description": "BpLA ➡️ in the direction of Kharkiv and Sumy.",
+    "description_en": "BpLA ➡️ in the direction of Kharkiv and Sumy.",
+    "description_uk": "БпЛА ➡️ у напрямку Харкова та Сум.",
+    "time": "",
+    "pubDate": "2026-04-08T16:17:24+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59709",
+    "score": 5.0,
+    "views": 37332,
+    "forwards": 1
+  },
+  {
     "title": "Kyiv: Casualties reported",
     "title_en": "Kyiv: Casualties reported",
     "title_uk": "Київ: повідомляється про постраждалих",
@@ -14,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52399",
     "score": 6.0,
-    "views": 202,
+    "views": 893,
     "forwards": 2
   },
   {
@@ -86,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52397",
     "score": 10.0,
-    "views": 1490,
+    "views": 1717,
     "forwards": 2
   },
   {
@@ -270,24 +306,6 @@
     "forwards": 21
   },
   {
-    "title": "BpLA heading for Poltava.",
-    "title_en": "BpLA heading for Poltava.",
-    "title_uk": "BpLA прямує до Полтави.",
-    "description": "BpLA heading for Poltava.",
-    "description_en": "BpLA heading for Poltava.",
-    "description_uk": "БпЛА курсом на Полтаву.",
-    "time": "",
-    "pubDate": "2026-04-08T04:38:07+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59687",
-    "score": 5.0,
-    "views": 43365,
-    "forwards": 36
-  },
-  {
     "title": "4 killed, 16 injured",
     "title_en": "4 killed, 16 injured",
     "title_uk": "4 загиблих, 16 поранених",
@@ -302,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8708",
     "score": 9.0,
-    "views": 988,
+    "views": 995,
     "forwards": 4
   },
   {
@@ -320,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18562",
     "score": 11.5,
-    "views": 233071,
-    "forwards": 772
+    "views": 233818,
+    "forwards": 775
   },
   {
     "title": "Minister Andriy Sybiga: \"Moscow is extremely saddened by the rapid...",
@@ -338,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8706",
     "score": 5.0,
-    "views": 3087,
+    "views": 3094,
     "forwards": 29
   },
   {
@@ -356,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18561",
     "score": 7.5,
-    "views": 71103,
+    "views": 71231,
     "forwards": 38
   }
 ]
