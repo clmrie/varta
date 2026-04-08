@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sumy: BpLA on Sumy from the north.",
+    "title_en": "Sumy: BpLA on Sumy from the north.",
+    "title_uk": "Суми: БпЛА на Суми з півн.",
+    "description": "BpLA on Sumy from the north.",
+    "description_en": "BpLA on Sumy from the north.",
+    "description_uk": "БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-04-08T13:27:18+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59702",
+    "score": 6.0,
+    "views": 44341,
+    "forwards": 1
+  },
+  {
+    "title": "Zaporizhzhia: BpLA ➡️ in the direction of Zaporizhzhia from the south.",
+    "title_en": "Zaporizhzhia: BpLA ➡️ in the direction of Zaporizhzhia from the south.",
+    "title_uk": "Запоріжжя: BpLA ➡️ в напрямку Запоріжжя з півдня.",
+    "description": "BpLA ➡️ in the direction of Zaporizhzhia from the south.",
+    "description_en": "BpLA ➡️ in the direction of Zaporizhzhia from the south.",
+    "description_uk": "БпЛА ➡️ у напрямку Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-04-08T12:46:29+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59700",
+    "score": 6.0,
+    "views": 70645,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: Russia hits Kharkiv Oblast oil refinery, causing 'significant'...",
     "title_en": "Kharkiv: Russia hits Kharkiv Oblast oil refinery, causing 'significant'...",
     "title_uk": "Харків: Росія завдала удару по нафтопереробному заводу в Харківській області, спричинивши \"значні\"...",
@@ -14,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52397",
     "score": 10.0,
-    "views": 406,
-    "forwards": 0
+    "views": 1104,
+    "forwards": 2
   },
   {
     "title": "BpLA ➡️ in the direction of Odesa district.",
@@ -68,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52394",
     "score": 5.0,
-    "views": 869,
-    "forwards": 3
+    "views": 1309,
+    "forwards": 4
   },
   {
     "title": "BpLA ➡️ in the suburbs of Poltava.",
@@ -234,42 +270,6 @@
     "forwards": 4
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV in the waters of the Black Sea, heading for Odesa (Bay)",
-    "description_en": "UAV in the waters of the Black Sea, heading for Odesa (Bay)",
-    "description_uk": "БпЛА в акваторії Чорного моря, курсом на Одещину (Затока)",
-    "time": "",
-    "pubDate": "2026-04-08T02:11:38+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59681",
-    "score": 5.0,
-    "views": 29079,
-    "forwards": 1
-  },
-  {
-    "title": "Missile attack",
-    "title_en": "Missile attack",
-    "title_uk": "Ракетна атака",
-    "description": "In Novorossiysk, the frigate \"Burevestnik\" - a carrier of \"Calibre\" missiles - was hit, - the General Staff reports that two UAVs hit the Russian project 11356R frigate, the extent of the damage is clarified. Attacks on the \"Sheskharis\" oil terminal and the \"Grushovaya\" base in the Krasnodar region were also confirmed - wharves, pipelines and tanks were damaged. In addition, the control points of UAVs and mass forces were hit...",
-    "description_en": "In Novorossiysk, the frigate \"Burevestnik\" - a carrier of \"Calibre\" missiles - was hit, - the General Staff reports that two UAVs hit the Russian project 11356R frigate, the extent of the damage is clarified. Attacks on the \"Sheskharis\" oil terminal and the \"Grushovaya\" base in the Krasnodar region were also confirmed - wharves, pipelines and tanks were damaged. In addition, the control points of UAVs and mass forces were hit...",
-    "description_uk": "В Новороссийске поражён фрегат \"Буревестник\" - носитель ракет \"Калибр\", - Генштаб Сообщается, о попадании двух ударных БПЛА в российский фрегат проекта 11356Р, масштабы повреждений уточняются. Также подтверждены удары по нефтетерминалу \"Шесхарис\" и базе \"Грушовая\" в Краснодарском крае - повреждены причалы, трубопроводы и резервуары. Кроме того, поражены пункты управления БПЛА и скопления сил...",
-    "time": "",
-    "pubDate": "2026-04-07T13:52:30+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/189037",
-    "score": 8.5,
-    "views": 91146,
-    "forwards": 144
-  },
-  {
     "title": "4 killed, 16 injured",
     "title_en": "4 killed, 16 injured",
     "title_uk": "4 загиблих, 16 поранених",
@@ -284,26 +284,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8708",
     "score": 9.0,
-    "views": 929,
+    "views": 936,
     "forwards": 4
-  },
-  {
-    "title": "Donetsk: The damage to the frigate and a number of other objects of the...",
-    "title_en": "Donetsk: The damage to the frigate and a number of other objects of the...",
-    "title_uk": "Донецьк: пошкодження фрегата та ряду інших об'єктів...",
-    "description": "The damage to the frigate and a number of other objects of the Russian occupiers has been confirmed ⚡️As a result of the damage to the oil terminal \"Sheskharis\" in the Krasnodar Territory of the Russian Federation on April 5, 2026, damage to the stands of berths No. 1, No. 2 and others, damage to the pipeline system for the distribution and shipment of oil. At the same time, damage to 3 tanks (RVSPK-50000) at the \"Grushovaya\" transshipment oil depot in...",
-    "description_en": "The damage to the frigate and a number of other objects of the Russian occupiers has been confirmed ⚡️As a result of the damage to the oil terminal \"Sheskharis\" in the Krasnodar Territory of the Russian Federation on April 5, 2026, damage to the stands of berths No. 1, No. 2 and others, damage to the pipeline system for the distribution and shipment of oil. At the same time, damage to 3 tanks (RVSPK-50000) at the \"Grushovaya\" transshipment oil depot in...",
-    "description_uk": "Підтверджено ураження фрегату та низки інших об’єктів російських окупантів ⚡️В результаті ураження 5 квітня 2026 нафтового терміналу “Шесхарис” у Краснодарському краї рф пошкодження стендерів причалів №1, №2 та інших, пошкодження трубопровідної системи розподілу та відвантаження нафти. Разом з тим підтверджено ураження 3 резервуарів (РВСПК-50000) на перевалочній нафтобазі \"Грушовая\" у...",
-    "time": "",
-    "pubDate": "2026-04-07T13:44:26+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37007",
-    "score": 13.5,
-    "views": 43135,
-    "forwards": 131
   },
   {
     "title": "Nikopol: Drone strike",
@@ -320,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18562",
     "score": 11.5,
-    "views": 230692,
-    "forwards": 771
+    "views": 232021,
+    "forwards": 772
   },
   {
     "title": "Minister Andriy Sybiga: \"Moscow is extremely saddened by the rapid...",
@@ -338,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8706",
     "score": 5.0,
-    "views": 3050,
+    "views": 3062,
     "forwards": 29
   },
   {
@@ -356,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18561",
     "score": 7.5,
-    "views": 70692,
+    "views": 70902,
     "forwards": 38
   }
 ]
