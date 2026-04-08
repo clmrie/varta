@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Russia hits Kharkiv Oblast oil refinery, causing 'significant'...",
+    "title_en": "Kharkiv: Russia hits Kharkiv Oblast oil refinery, causing 'significant'...",
+    "title_uk": "Харків: Росія завдала удару по нафтопереробному заводу в Харківській області, спричинивши \"значні\"...",
+    "description": "Russia hits Kharkiv Oblast oil refinery, causing 'significant' damage. Russia has targeted the facility for the fifth time since launching its full-scale invasion in 2022, the refinery's legal director, Anastasiia Cherednykova, told Suspilne.",
+    "description_en": "Russia hits Kharkiv Oblast oil refinery, causing 'significant' damage. Russia has targeted the facility for the fifth time since launching its full-scale invasion in 2022, the refinery's legal director, Anastasiia Cherednykova, told Suspilne.",
+    "description_uk": "Russia hits Kharkiv Oblast oil refinery, causing 'significant' damage. Russia has targeted the facility for the fifth time since launching its full-scale invasion in 2022, the refinery's legal director, Anastasiia Cherednykova, told Suspilne.",
+    "time": "",
+    "pubDate": "2026-04-08T12:11:34+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52397",
+    "score": 10.0,
+    "views": 406,
+    "forwards": 0
+  },
+  {
+    "title": "BpLA ➡️ in the direction of Odesa district.",
+    "title_en": "BpLA ➡️ in the direction of Odesa district.",
+    "title_uk": "BpLA ➡️ в напрямку Одеського району.",
+    "description": "BpLA ➡️ in the direction of Odesa district.",
+    "description_en": "BpLA ➡️ in the direction of Odesa district.",
+    "description_uk": "БпЛА ➡️ у напрямку Одеського району.",
+    "time": "",
+    "pubDate": "2026-04-08T11:55:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59698",
+    "score": 5.0,
+    "views": 37313,
+    "forwards": 3
+  },
+  {
     "title": "Mykolaiv: UAV from the Black Sea ➡️ course to the south of Mykolaiv Oblast.",
     "title_en": "Mykolaiv: UAV from the Black Sea ➡️ course to the south of Mykolaiv Oblast.",
     "title_uk": "Миколаїв: курс БПЛА з Чорного моря ➡️ на південь Миколаївської області.",
@@ -14,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59697",
     "score": 6.0,
-    "views": 25613,
-    "forwards": 12
+    "views": 58743,
+    "forwards": 29
   },
   {
     "title": "Crimea: Strike confirmed",
@@ -32,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52394",
     "score": 5.0,
-    "views": 413,
+    "views": 869,
     "forwards": 3
   },
   {
@@ -158,7 +194,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37034",
     "score": 13.0,
-    "views": 6398,
+    "views": 6711,
     "forwards": 21
   },
   {
@@ -216,42 +252,6 @@
     "forwards": 1
   },
   {
-    "title": "Izmail: BpLA headed for Izmail!",
-    "title_en": "Izmail: BpLA headed for Izmail!",
-    "title_uk": "Ізмаїл: BpLA взяв курс на Ізмаїл!",
-    "description": "BpLA headed for Izmail!",
-    "description_en": "BpLA headed for Izmail!",
-    "description_uk": "БпЛА курсом на Ізмаїл!",
-    "time": "",
-    "pubDate": "2026-04-08T00:40:55+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Izmail",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59679",
-    "score": 6.0,
-    "views": 38282,
-    "forwards": 11
-  },
-  {
-    "title": "Odesa: Drone incoming",
-    "title_en": "Odesa: Drone incoming",
-    "title_uk": "Одеса: Дрон вхід",
-    "description": "UAV in the direction of Odessa from the Black Sea",
-    "description_en": "UAV in the direction of Odessa from the Black Sea",
-    "description_uk": "БпЛА в напрямку м.Одеса з Чорного моря",
-    "time": "",
-    "pubDate": "2026-04-07T23:46:40+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59676",
-    "score": 6.0,
-    "views": 5227,
-    "forwards": 1
-  },
-  {
     "title": "Missile attack",
     "title_en": "Missile attack",
     "title_uk": "Ракетна атака",
@@ -284,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8708",
     "score": 9.0,
-    "views": 923,
+    "views": 929,
     "forwards": 4
   },
   {
@@ -306,24 +306,6 @@
     "forwards": 131
   },
   {
-    "title": "What issues can you ask for help from veterans and windsurfing...",
-    "title_en": "What issues can you ask for help from veterans and windsurfing...",
-    "title_uk": "З яких питань можна звернутися за допомогою до ветеранів і віндсерфінгу...",
-    "description": "What issues can you ask for help from veterans and windsurfing specialists? 🔹More than 2,400 escort specialists already work in the communities of Ukraine, and their number is constantly growing. Every day, they interact with veterans, their families, families of the fallen: they help navigate state support programs, available opportunities, provide basic assistance in solving...",
-    "description_en": "What issues can you ask for help from veterans and windsurfing specialists? 🔹More than 2,400 escort specialists already work in the communities of Ukraine, and their number is constantly growing. Every day, they interact with veterans, their families, families of the fallen: they help navigate state support programs, available opportunities, provide basic assistance in solving...",
-    "description_uk": "З яких питань можна звернутися за допомогою до фахівців із супроводу ветеранів й ветранок? 🔹У громадах Україні працюють вже понад 2 400 фахівців із супроводу і їхня кількість невпинно зростає. Щодня вони взаємодіють із ветеранами, ветеранками, їхніми родинами, сім'ями полеглих: допомагають зорієнтуватися у державних програмах підтримки, доступних можливостях, надають базову допомогу у вирішенні...",
-    "time": "",
-    "pubDate": "2026-04-07T12:11:05+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37004",
-    "score": 5.0,
-    "views": 4976,
-    "forwards": 14
-  },
-  {
     "title": "Nikopol: Drone strike",
     "title_en": "Nikopol: Drone strike",
     "title_uk": "Нікополь: безпілотник",
@@ -338,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18562",
     "score": 11.5,
-    "views": 229800,
+    "views": 230692,
     "forwards": 771
   },
   {
@@ -356,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8706",
     "score": 5.0,
-    "views": 3045,
+    "views": 3050,
     "forwards": 29
   },
   {
@@ -374,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18561",
     "score": 7.5,
-    "views": 70557,
+    "views": 70692,
     "forwards": 38
   }
 ]
