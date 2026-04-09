@@ -1,8 +1,26 @@
 [
   {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Київ: Дрон-удар",
+    "description": "Ukrainian drones reportedly strike oil pumping station in Russia's Krasnodar Krai. An oil pumping station in Krymsk, Krasnodar Krai, was struck by Ukrainian drones overnight on April 9, independent Telegram channel Astra reported.",
+    "description_en": "Ukrainian drones reportedly strike oil pumping station in Russia's Krasnodar Krai. An oil pumping station in Krymsk, Krasnodar Krai, was struck by Ukrainian drones overnight on April 9, independent Telegram channel Astra reported.",
+    "description_uk": "Ukrainian drones reportedly strike oil pumping station in Russia's Krasnodar Krai. An oil pumping station in Krymsk, Krasnodar Krai, was struck by Ukrainian drones overnight on April 9, independent Telegram channel Astra reported.",
+    "time": "",
+    "pubDate": "2026-04-09T02:53:17+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52414",
+    "score": 8.0,
+    "views": 603,
+    "forwards": 0
+  },
+  {
     "title": "A group of enemy UAVs in the north of Sumy Oblast",
     "title_en": "A group of enemy UAVs in the north of Sumy Oblast",
-    "title_uk": "Група ворожих БПЛА на півночі Сумської області",
+    "title_uk": "Група БПЛА противника на півночі Сумської області",
     "description": "A group of enemy UAVs in the north of Sumy Oblast",
     "description_en": "A group of enemy UAVs in the north of Sumy Oblast",
     "description_uk": "Група ворожих БпЛА на півночі Сумщини",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59719",
     "score": 5.0,
-    "views": 19963,
+    "views": 59057,
     "forwards": 11
   },
   {
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59718",
     "score": 5.0,
-    "views": 20361,
+    "views": 59458,
     "forwards": 3
   },
   {
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52409",
     "score": 10.0,
-    "views": 1868,
+    "views": 2078,
     "forwards": 6
   },
   {
@@ -198,24 +216,6 @@
     "forwards": 71
   },
   {
-    "title": "BpLA ➡️ in the direction of Kharkiv and Sumy.",
-    "title_en": "BpLA ➡️ in the direction of Kharkiv and Sumy.",
-    "title_uk": "BpLA ➡️ в напрямку Харкова та Сум.",
-    "description": "BpLA ➡️ in the direction of Kharkiv and Sumy.",
-    "description_en": "BpLA ➡️ in the direction of Kharkiv and Sumy.",
-    "description_uk": "БпЛА ➡️ у напрямку Харкова та Сум.",
-    "time": "",
-    "pubDate": "2026-04-08T16:17:24+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59709",
-    "score": 5.0,
-    "views": 37332,
-    "forwards": 1
-  },
-  {
     "title": "Kyiv: Casualties reported",
     "title_en": "Kyiv: Casualties reported",
     "title_uk": "Київ: повідомляється про постраждалих",
@@ -232,24 +232,6 @@
     "score": 6.0,
     "views": 893,
     "forwards": 2
-  },
-  {
-    "title": "UAV from the Black Sea ➡️ course to Odesa.",
-    "title_en": "UAV from the Black Sea ➡️ course to Odesa.",
-    "title_uk": "БПЛА з Чорного моря ➡️ курс на Одесу.",
-    "description": "UAV from the Black Sea ➡️ course to Odesa.",
-    "description_en": "UAV from the Black Sea ➡️ course to Odesa.",
-    "description_uk": "БпЛА з акваторії Чорного моря ➡️ курсом на Одещину.",
-    "time": "",
-    "pubDate": "2026-04-08T15:10:55+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59707",
-    "score": 5.0,
-    "views": 30779,
-    "forwards": 1
   },
   {
     "title": "Kyiv: 176 drones intercepted",
@@ -302,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8708",
     "score": 9.0,
-    "views": 1024,
+    "views": 1030,
     "forwards": 4
   },
   {
@@ -320,7 +302,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18562",
     "score": 11.5,
-    "views": 237679,
+    "views": 238602,
     "forwards": 780
   },
   {
@@ -338,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8706",
     "score": 5.0,
-    "views": 3141,
+    "views": 3147,
     "forwards": 29
   }
 ]
