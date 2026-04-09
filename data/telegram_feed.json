@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: 119 drones launched",
+    "title_en": "Kyiv: 119 drones launched",
+    "title_uk": "Київ: запущено 119 дронів",
+    "description": "At least 2 killed, 23 injured in Russian attacks on Ukraine over past day. Russian forces launched 119 drones against Ukraine overnight, of which almost 70 were Shahed-type drones, the Air Force said. Photo: Ukraine's Emergency Service",
+    "description_en": "At least 2 killed, 23 injured in Russian attacks on Ukraine over past day. Russian forces launched 119 drones against Ukraine overnight, of which almost 70 were Shahed-type drones, the Air Force said. Photo: Ukraine's Emergency Service",
+    "description_uk": "At least 2 killed, 23 injured in Russian attacks on Ukraine over past day. Russian forces launched 119 drones against Ukraine overnight, of which almost 70 were Shahed-type drones, the Air Force said. Photo: Ukraine's Emergency Service",
+    "time": "",
+    "pubDate": "2026-04-09T09:08:55+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52416",
+    "score": 14.0,
+    "views": 174,
+    "forwards": 2
+  },
+  {
+    "title": "BpLA on Pavlograd from the east.",
+    "title_en": "BpLA on Pavlograd from the east.",
+    "title_uk": "БпЛА на Павлоград зі сх.",
+    "description": "BpLA on Pavlograd from the east.",
+    "description_en": "BpLA on Pavlograd from the east.",
+    "description_uk": "БпЛА на Павлоград зі сходу.",
+    "time": "",
+    "pubDate": "2026-04-09T08:51:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59738",
+    "score": 5.0,
+    "views": 29287,
+    "forwards": 1
+  },
+  {
     "title": "UAV on Morske/Kobleve from the Black Sea area.",
     "title_en": "UAV on Morske/Kobleve from the Black Sea area.",
     "title_uk": "БПЛА на Морське/Коблеве з акваторії Чорного моря.",
@@ -14,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59734",
     "score": 5.0,
-    "views": 57675,
+    "views": 108374,
     "forwards": 1
   },
   {
@@ -68,7 +104,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37078",
     "score": 13.0,
-    "views": 5131,
+    "views": 5691,
     "forwards": 31
   },
   {
@@ -86,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52414",
     "score": 8.0,
-    "views": 1477,
+    "views": 1708,
     "forwards": 1
   },
   {
@@ -162,24 +198,6 @@
     "forwards": 52
   },
   {
-    "title": "Kyiv: Trump administration is trying to reverse Kissinger, and even...",
-    "title_en": "Kyiv: Trump administration is trying to reverse Kissinger, and even...",
-    "title_uk": "Київ: Адміністрація Трампа намагається змінити Кіссінджера, і навіть...",
-    "description": "Trump administration is trying to reverse Kissinger, and even Kissinger is probably rolling in his grave \"Instead of pushing a supposed 'reverse Kissinger,' officials across the West, including in the White House, would be far better served with something else: supporting Ukraine, however they can,\" writes Casey Michel, Director of the Combating Kleptocracy Program at the Human Rights Foundation,...",
-    "description_en": "Trump administration is trying to reverse Kissinger, and even Kissinger is probably rolling in his grave \"Instead of pushing a supposed 'reverse Kissinger,' officials across the West, including in the White House, would be far better served with something else: supporting Ukraine, however they can,\" writes Casey Michel, Director of the Combating Kleptocracy Program at the Human Rights Foundation,...",
-    "description_uk": "Trump administration is trying to reverse Kissinger, and even Kissinger is probably rolling in his grave \"Instead of pushing a supposed 'reverse Kissinger,' officials across the West, including in the White House, would be far better served with something else: supporting Ukraine, however they can,\" writes Casey Michel, Director of the Combating Kleptocracy Program at the Human Rights Foundation,...",
-    "time": "",
-    "pubDate": "2026-04-08T19:31:16+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52409",
-    "score": 10.0,
-    "views": 2394,
-    "forwards": 7
-  },
-  {
     "title": "Kyiv: Casualties reported",
     "title_en": "Kyiv: Casualties reported",
     "title_uk": "Київ: повідомляється про постраждалих",
@@ -212,7 +230,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8708",
     "score": 9.0,
-    "views": 1038,
+    "views": 1039,
     "forwards": 4
   },
   {
@@ -230,25 +248,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18562",
     "score": 11.5,
-    "views": 240436,
-    "forwards": 781
-  },
-  {
-    "title": "Minister Andriy Sybiga: \"Moscow is extremely saddened by the rapid...",
-    "title_en": "Minister Andriy Sybiga: \"Moscow is extremely saddened by the rapid...",
-    "title_uk": "Міністр Андрій Сибіга: «Москва вкрай засмучена стрімким...",
-    "description": "Minister Andriy Sybiga: \"Moscow is extremely saddened by the rapid strengthening of Ukraine's ties with the Gulf countries against the background of Iranian air terror. They understand that Ukraine's unique experience has radically changed its role in the region. So they turned to propaganda to try to undermine Ukraine's contribution. They are spreading fakes that Ukrainian experts have suffered, that Ukraine is not fulfilling its...",
-    "description_en": "Minister Andriy Sybiga: \"Moscow is extremely saddened by the rapid strengthening of Ukraine's ties with the Gulf countries against the background of Iranian air terror. They understand that Ukraine's unique experience has radically changed its role in the region. So they turned to propaganda to try to undermine Ukraine's contribution. They are spreading fakes that Ukrainian experts have suffered, that Ukraine is not fulfilling its...",
-    "description_uk": "Міністр Андрій Сибіга: «У Москві вкрай засмучені стрімким зміцненням зв'язків України з країнами Затоки на тлі іранського повітряного терору. Там розуміють, що унікальний досвід України кардинально змінив її роль у регіоні. Тому вони звернулися до пропаганди, щоб спробувати підірвати внесок України. Вони поширюють фейки про те, що українські експерти постраждали, що Україна не виконує своїх...",
-    "time": "",
-    "pubDate": "2026-04-07T08:46:53+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/8706",
-    "score": 5.0,
-    "views": 3161,
-    "forwards": 29
+    "views": 240903,
+    "forwards": 782
   }
 ]
