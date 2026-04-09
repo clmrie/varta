@@ -1,5 +1,41 @@
 [
   {
+    "title": "A group of enemy UAVs in the north of Sumy Oblast",
+    "title_en": "A group of enemy UAVs in the north of Sumy Oblast",
+    "title_uk": "Група ворожих БПЛА на півночі Сумської області",
+    "description": "A group of enemy UAVs in the north of Sumy Oblast",
+    "description_en": "A group of enemy UAVs in the north of Sumy Oblast",
+    "description_uk": "Група ворожих БпЛА на півночі Сумщини",
+    "time": "",
+    "pubDate": "2026-04-09T00:45:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59719",
+    "score": 5.0,
+    "views": 19963,
+    "forwards": 11
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A group of enemy UAVs from the Black Sea area ➡️ in the direction of the Bay",
+    "description_en": "A group of enemy UAVs from the Black Sea area ➡️ in the direction of the Bay",
+    "description_uk": "Група ворожих БпЛА з акваторії Чорного моря ➡️ у напрямку Затоки",
+    "time": "",
+    "pubDate": "2026-04-09T00:43:21+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59718",
+    "score": 5.0,
+    "views": 20361,
+    "forwards": 3
+  },
+  {
     "title": "Kharkiv: Sumyshchyna: BpLA ➡️ in the direction of Shostka. 🛵 Kharkiv region:...",
     "title_en": "Kharkiv: Sumyshchyna: BpLA ➡️ in the direction of Shostka. 🛵 Kharkiv region:...",
     "title_uk": "Харків: Сумщина: BpLA ➡️ в напрямку Шостки. 🛵 Харківська область:...",
@@ -36,24 +72,6 @@
     "forwards": 52
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Several strike UAVs from the Black Sea, near Zatoka ➡️ in the direction of Bilhorod-Dnistrovskyi",
-    "description_en": "Several strike UAVs from the Black Sea, near Zatoka ➡️ in the direction of Bilhorod-Dnistrovskyi",
-    "description_uk": "Декілька ударних БпЛА з Чорного моря, поблизу Затоки ➡️ у напрямку Білгород-Дністровського",
-    "time": "",
-    "pubDate": "2026-04-08T20:36:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59715",
-    "score": 5.0,
-    "views": 44030,
-    "forwards": 13
-  },
-  {
     "title": "A group of BpLA in Sumy Oblast in the Trostyanets region ➡️ in the...",
     "title_en": "A group of BpLA in Sumy Oblast in the Trostyanets region ➡️ in the...",
     "title_uk": "Група BpLA в Сумській області в Тростянецькому районі ➡️ в...",
@@ -86,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52409",
     "score": 10.0,
-    "views": 1609,
-    "forwards": 5
+    "views": 1868,
+    "forwards": 6
   },
   {
     "title": "Kyiv: Power outage reported",
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52408",
     "score": 4.5,
-    "views": 1476,
+    "views": 1690,
     "forwards": 3
   },
   {
@@ -234,60 +252,6 @@
     "forwards": 1
   },
   {
-    "title": "Sumy: BpLA on Sumy from the north.",
-    "title_en": "Sumy: BpLA on Sumy from the north.",
-    "title_uk": "Суми: БпЛА на Суми з півн.",
-    "description": "BpLA on Sumy from the north.",
-    "description_en": "BpLA on Sumy from the north.",
-    "description_uk": "БпЛА на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-04-08T13:27:18+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59702",
-    "score": 6.0,
-    "views": 72473,
-    "forwards": 1
-  },
-  {
-    "title": "Zaporizhzhia: BpLA ➡️ in the direction of Zaporizhzhia from the south.",
-    "title_en": "Zaporizhzhia: BpLA ➡️ in the direction of Zaporizhzhia from the south.",
-    "title_uk": "Запоріжжя: BpLA ➡️ в напрямку Запоріжжя з півдня.",
-    "description": "BpLA ➡️ in the direction of Zaporizhzhia from the south.",
-    "description_en": "BpLA ➡️ in the direction of Zaporizhzhia from the south.",
-    "description_uk": "БпЛА ➡️ у напрямку Запоріжжя з півдня.",
-    "time": "",
-    "pubDate": "2026-04-08T12:46:29+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59700",
-    "score": 6.0,
-    "views": 70645,
-    "forwards": 1
-  },
-  {
-    "title": "Kharkiv: Russia hits Kharkiv Oblast oil refinery, causing 'significant'...",
-    "title_en": "Kharkiv: Russia hits Kharkiv Oblast oil refinery, causing 'significant'...",
-    "title_uk": "Харків: Росія завдала удару по нафтопереробному заводу в Харківській області, спричинивши \"значні\"...",
-    "description": "Russia hits Kharkiv Oblast oil refinery, causing 'significant' damage. Russia has targeted the facility for the fifth time since launching its full-scale invasion in 2022, the refinery's legal director, Anastasiia Cherednykova, told Suspilne.",
-    "description_en": "Russia hits Kharkiv Oblast oil refinery, causing 'significant' damage. Russia has targeted the facility for the fifth time since launching its full-scale invasion in 2022, the refinery's legal director, Anastasiia Cherednykova, told Suspilne.",
-    "description_uk": "Russia hits Kharkiv Oblast oil refinery, causing 'significant' damage. Russia has targeted the facility for the fifth time since launching its full-scale invasion in 2022, the refinery's legal director, Anastasiia Cherednykova, told Suspilne.",
-    "time": "",
-    "pubDate": "2026-04-08T12:11:34+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52397",
-    "score": 10.0,
-    "views": 1717,
-    "forwards": 2
-  },
-  {
     "title": "Kyiv: 176 drones intercepted",
     "title_en": "Kyiv: 176 drones intercepted",
     "title_uk": "Київ: перехоплено 176 безпілотників",
@@ -356,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18562",
     "score": 11.5,
-    "views": 237387,
-    "forwards": 779
+    "views": 237679,
+    "forwards": 780
   },
   {
     "title": "Minister Andriy Sybiga: \"Moscow is extremely saddened by the rapid...",
