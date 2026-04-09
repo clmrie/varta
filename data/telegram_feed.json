@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Enemy UAVs in the direction of Odessa from the Black Sea",
+    "description_en": "Enemy UAVs in the direction of Odessa from the Black Sea",
+    "description_uk": "Ворожі БпЛА у напрямку Одеси з Чорного моря",
+    "time": "",
+    "pubDate": "2026-04-09T21:25:06+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59763",
+    "score": 5.0,
+    "views": 3035,
+    "forwards": 1
+  },
+  {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "UAVs in the direction of Sumy and Zaporizhzhia from the south",
+    "description_en": "UAVs in the direction of Sumy and Zaporizhzhia from the south",
+    "description_uk": "БпЛА у напрямку Сум та Запоріжжя з півдня",
+    "time": "",
+    "pubDate": "2026-04-09T21:13:24+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59762",
+    "score": 6.0,
+    "views": 9969,
+    "forwards": 11
+  },
+  {
     "title": "Airstrike attack on infrastructure",
     "title_en": "Airstrike attack on infrastructure",
     "title_uk": "Авіаудар по інфраструктурі",
@@ -14,26 +50,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189175",
     "score": 5.5,
-    "views": 108504,
+    "views": 118541,
     "forwards": 75
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV in the direction of Vylkove (Odeszine) from the Black Sea",
-    "description_en": "UAV in the direction of Vylkove (Odeszine) from the Black Sea",
-    "description_uk": "БпЛА у напрямку Вилкове (Одещина) з Чорного моря",
-    "time": "",
-    "pubDate": "2026-04-09T17:49:27+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59757",
-    "score": 5.0,
-    "views": 85139,
-    "forwards": 18
   },
   {
     "title": "Luhansk: The Tor air defense system, an oil pumping station and a number of...",
@@ -50,8 +68,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37100",
     "score": 10.5,
-    "views": 13782,
-    "forwards": 79
+    "views": 14703,
+    "forwards": 81
   },
   {
     "title": "Odeshchyna - BpLA on Beacons.",
@@ -86,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18584",
     "score": 9.0,
-    "views": 39876,
-    "forwards": 112
+    "views": 46451,
+    "forwards": 120
   },
   {
     "title": "Kyiv: Attack attack on infrastructure",
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52421",
     "score": 5.0,
-    "views": 1721,
+    "views": 1847,
     "forwards": 4
   },
   {
@@ -122,7 +140,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37099",
     "score": 5.0,
-    "views": 4754,
+    "views": 4834,
     "forwards": 12
   },
   {
@@ -140,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18578",
     "score": 5.0,
-    "views": 301295,
-    "forwards": 352
+    "views": 306200,
+    "forwards": 354
   },
   {
     "title": "🛫 Activity of enemy tactical aviation in the southern direction! 🚀The...",
@@ -248,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52418",
     "score": 6.0,
-    "views": 2101,
+    "views": 2176,
     "forwards": 1
   },
   {
@@ -266,7 +284,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23383",
     "score": 5.5,
-    "views": 113775,
+    "views": 115693,
     "forwards": 109
   },
   {
@@ -306,24 +324,6 @@
     "forwards": 287
   },
   {
-    "title": "Sumy: BpLA on Sumy from the north.",
-    "title_en": "Sumy: BpLA on Sumy from the north.",
-    "title_uk": "Суми: БпЛА на Суми з півн.",
-    "description": "BpLA on Sumy from the north.",
-    "description_en": "BpLA on Sumy from the north.",
-    "description_uk": "БпЛА на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-04-09T09:24:20+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59739",
-    "score": 6.0,
-    "views": 63653,
-    "forwards": 2
-  },
-  {
     "title": "Kyiv: 119 drones launched",
     "title_en": "Kyiv: 119 drones launched",
     "title_uk": "Київ: запущено 119 дронів",
@@ -340,24 +340,6 @@
     "score": 14.0,
     "views": 1777,
     "forwards": 4
-  },
-  {
-    "title": "BpLA on Pavlograd from the east.",
-    "title_en": "BpLA on Pavlograd from the east.",
-    "title_uk": "БпЛА на Павлоград зі сх.",
-    "description": "BpLA on Pavlograd from the east.",
-    "description_en": "BpLA on Pavlograd from the east.",
-    "description_uk": "БпЛА на Павлоград зі сходу.",
-    "time": "",
-    "pubDate": "2026-04-09T08:51:22+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59738",
-    "score": 5.0,
-    "views": 65678,
-    "forwards": 1
   },
   {
     "title": "Donetsk: Drone incoming",
