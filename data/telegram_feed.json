@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV on Odesa from the north-west.",
+    "description_en": "UAV on Odesa from the north-west.",
+    "description_uk": "БпЛА на Одесу з північного заходу.",
+    "time": "",
+    "pubDate": "2026-04-09T16:14:52+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59755",
+    "score": 5.0,
+    "views": 41505,
+    "forwards": 1
+  },
+  {
     "title": "Odeshchyna - BpLA on Beacons.",
     "title_en": "Odeshchyna - BpLA on Beacons.",
     "title_uk": "Одещина - BpLA on Beacons.",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59753",
     "score": 5.0,
-    "views": 3,
-    "forwards": 0
+    "views": 47828,
+    "forwards": 1
   },
   {
     "title": "If sanctions on Russian oil were lifted because of the war in the...",
@@ -31,27 +49,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18584",
-    "score": 8.5,
-    "views": 4152,
-    "forwards": 2
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV from the Black Sea ➡️ in the direction of Bilhorod-Dnistrovskyi.",
-    "description_en": "UAV from the Black Sea ➡️ in the direction of Bilhorod-Dnistrovskyi.",
-    "description_uk": "БпЛА з Чорного моря ➡️ у напрямку Білгород-Дністровського.",
-    "time": "",
-    "pubDate": "2026-04-09T15:56:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59752",
-    "score": 5.0,
-    "views": 12853,
-    "forwards": 11
+    "score": 9.0,
+    "views": 21719,
+    "forwards": 68
   },
   {
     "title": "Kyiv: Attack attack on infrastructure",
@@ -68,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52421",
     "score": 5.0,
-    "views": 781,
+    "views": 1096,
     "forwards": 3
   },
   {
@@ -86,8 +86,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37099",
     "score": 5.0,
-    "views": 2541,
-    "forwards": 11
+    "views": 3256,
+    "forwards": 12
   },
   {
     "title": "Today we are with our communities. The meeting of the Congress of...",
@@ -104,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18578",
     "score": 5.0,
-    "views": 212491,
-    "forwards": 290
+    "views": 250035,
+    "forwards": 309
   },
   {
     "title": "🛫 Activity of enemy tactical aviation in the southern direction! 🚀The...",
@@ -194,7 +194,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189158",
     "score": 6.0,
-    "views": 111628,
+    "views": 126820,
     "forwards": 38
   },
   {
@@ -212,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52418",
     "score": 6.0,
-    "views": 1595,
+    "views": 1746,
     "forwards": 1
   },
   {
@@ -230,8 +230,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23383",
     "score": 5.5,
-    "views": 90490,
-    "forwards": 95
+    "views": 98826,
+    "forwards": 99
   },
   {
     "title": "Chernihiv: Enemy UAVs in the north and south of Chernihiv Oblast.",
