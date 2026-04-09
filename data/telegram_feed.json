@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV in the direction of South/Ochakov from the Black Sea",
+    "description_en": "UAV in the direction of South/Ochakov from the Black Sea",
+    "description_uk": "БпЛА у напрямку Південного/Очакова з Чорного моря",
+    "time": "",
+    "pubDate": "2026-04-09T23:30:39+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59766",
+    "score": 5.0,
+    "views": 3136,
+    "forwards": 13
+  },
+  {
     "title": "BpLA in the direction of Brovary/Kyiv from the north",
     "title_en": "BpLA in the direction of Brovary/Kyiv from the north",
     "title_uk": "БпЛА в напрямку Бровари/Київ з півночі",
@@ -14,26 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59765",
     "score": 5.0,
-    "views": 25546,
+    "views": 29047,
     "forwards": 36
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Enemy UAVs in the Black Sea are moving in the direction of Odessa and Chornomorske.",
-    "description_en": "Enemy UAVs in the Black Sea are moving in the direction of Odessa and Chornomorske.",
-    "description_uk": "Ворожі БпЛА у Чорному морі рухаються у напрямку Одеси та Чорноморське.",
-    "time": "",
-    "pubDate": "2026-04-09T21:40:28+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59764",
-    "score": 5.0,
-    "views": 32713,
-    "forwards": 6
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -68,7 +68,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189175",
     "score": 5.5,
-    "views": 128211,
+    "views": 130126,
     "forwards": 107
   },
   {
@@ -86,7 +86,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37100",
     "score": 10.5,
-    "views": 16302,
+    "views": 16496,
     "forwards": 81
   },
   {
@@ -122,8 +122,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18584",
     "score": 9.0,
-    "views": 53505,
-    "forwards": 123
+    "views": 54520,
+    "forwards": 125
   },
   {
     "title": "Kyiv: Attack attack on infrastructure",
@@ -140,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52421",
     "score": 5.0,
-    "views": 1953,
+    "views": 1987,
     "forwards": 5
   },
   {
@@ -158,7 +158,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37099",
     "score": 5.0,
-    "views": 4906,
+    "views": 4926,
     "forwards": 12
   },
   {
@@ -176,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18578",
     "score": 5.0,
-    "views": 311447,
-    "forwards": 355
+    "views": 312468,
+    "forwards": 356
   },
   {
     "title": "🛫 Activity of enemy tactical aviation in the southern direction! 🚀The...",
@@ -284,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52418",
     "score": 6.0,
-    "views": 2243,
+    "views": 2266,
     "forwards": 1
   },
   {
@@ -302,26 +302,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23383",
     "score": 5.5,
-    "views": 117554,
+    "views": 117976,
     "forwards": 109
-  },
-  {
-    "title": "Chernihiv: Enemy UAVs in the north and south of Chernihiv Oblast.",
-    "title_en": "Chernihiv: Enemy UAVs in the north and south of Chernihiv Oblast.",
-    "title_uk": "Чернігів: БПЛА противника на півночі та півдні Чернігівської області.",
-    "description": "Enemy UAVs in the north and south of Chernihiv Oblast.",
-    "description_en": "Enemy UAVs in the north and south of Chernihiv Oblast.",
-    "description_uk": "Ворожі БпЛА на півночі та півдні Чернігівщини.",
-    "time": "",
-    "pubDate": "2026-04-09T11:33:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59741",
-    "score": 6.0,
-    "views": 5439,
-    "forwards": 1
   },
   {
     "title": "Air defense active",
