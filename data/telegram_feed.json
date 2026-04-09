@@ -1,21 +1,57 @@
 [
   {
+    "title": "Airstrike attack on infrastructure",
+    "title_en": "Airstrike attack on infrastructure",
+    "title_uk": "Авіаудар по інфраструктурі",
+    "description": "The Armed Forces hit the infrastructure of the Russian Federation Hit: ▪️ oil pumping station \"Krymskaya\" (Krasnodar region) - with a fire ▪️ SAM \"Tor-M1\" ▪️ warehouses of the BC, BpLA and logistics in the occupied territories Also recorded were strikes on objects in the Donetsk and Luhansk regions. Minus fuel. Air defense minus. Minus peaceful night.",
+    "description_en": "The Armed Forces hit the infrastructure of the Russian Federation Hit: ▪️ oil pumping station \"Krymskaya\" (Krasnodar region) - with a fire ▪️ SAM \"Tor-M1\" ▪️ warehouses of the BC, BpLA and logistics in the occupied territories Also recorded were strikes on objects in the Donetsk and Luhansk regions. Minus fuel. Air defense minus. Minus peaceful night.",
+    "description_uk": "ВСУ ударили по инфраструктуре рф Поражены: ▪️ нефтеперекачивающая станция \"Крымская\" (Краснодарский край) - с пожаром ▪️ ЗРК \"Тор-М1\" ▪️ склады БК, БпЛА и логистики на оккупированных территориях Также зафиксированы удары по объектам в Донецкой и Луганской областях. Минус топливо. Минус ПВО. Минус спокойная ночь.",
+    "time": "",
+    "pubDate": "2026-04-09T18:03:01+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/189175",
+    "score": 5.0,
+    "views": 19439,
+    "forwards": 38
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
-    "description": "UAV on Odesa from the north-west.",
-    "description_en": "UAV on Odesa from the north-west.",
-    "description_uk": "БпЛА на Одесу з північного заходу.",
+    "description": "UAV in the direction of Vylkove (Odeszine) from the Black Sea",
+    "description_en": "UAV in the direction of Vylkove (Odeszine) from the Black Sea",
+    "description_uk": "БпЛА у напрямку Вилкове (Одещина) з Чорного моря",
     "time": "",
-    "pubDate": "2026-04-09T16:14:52+00:00",
+    "pubDate": "2026-04-09T17:49:27+00:00",
     "category": "drone",
     "severity": "high",
-    "location": "Odesa",
+    "location": "Ukraine",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59755",
+    "link": "https://t.me/kpszsu/59757",
     "score": 5.0,
-    "views": 41505,
+    "views": 26292,
     "forwards": 1
+  },
+  {
+    "title": "Luhansk: The Tor air defense system, an oil pumping station and a number of...",
+    "title_en": "Luhansk: The Tor air defense system, an oil pumping station and a number of...",
+    "title_uk": "Луганськ: ЗРК «Тор», нафтоперекачувальна станція та ряд...",
+    "description": "The Tor air defense system, an oil pumping station and a number of logistical objects of the enemy were hit ⚡️As part of reducing the military and economic potential of the Russian aggressor, on the night of April 9, units of the Defense Forces of Ukraine hit the Krymskaya oil pumping station in the Krasnodar region of the Russian Federation. 💥🔥The damage to the target was recorded, followed by a fire on the territory of the object. 🧐The degree of damage is being clarified. ⚡️Except...",
+    "description_en": "The Tor air defense system, an oil pumping station and a number of logistical objects of the enemy were hit ⚡️As part of reducing the military and economic potential of the Russian aggressor, on the night of April 9, units of the Defense Forces of Ukraine hit the Krymskaya oil pumping station in the Krasnodar region of the Russian Federation. 💥🔥The damage to the target was recorded, followed by a fire on the territory of the object. 🧐The degree of damage is being clarified. ⚡️Except...",
+    "description_uk": "Уражено ЗРК Тор, нафтоперекачувальну станцію та низку логістичних об’єктів противника ⚡️В рамках зниження воєнно-економічного потенціалу російського агресора у ніч на 9 квітня підрозділи Сил оборони України уразили нафтоперекачувальну станцію “Крымская” у Краснодарському краї рф. 💥🔥Зафіксовано ураження цілі з подальшою пожежею на території об’єкту. 🧐Ступінь завданих збитків уточнюється. ⚡️Крім...",
+    "time": "",
+    "pubDate": "2026-04-09T17:32:43+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Luhansk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37100",
+    "score": 10.5,
+    "views": 4844,
+    "forwards": 56
   },
   {
     "title": "Odeshchyna - BpLA on Beacons.",
@@ -50,8 +86,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18584",
     "score": 9.0,
-    "views": 21719,
-    "forwards": 68
+    "views": 28283,
+    "forwards": 78
   },
   {
     "title": "Kyiv: Attack attack on infrastructure",
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52421",
     "score": 5.0,
-    "views": 1096,
+    "views": 1297,
     "forwards": 3
   },
   {
@@ -86,7 +122,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37099",
     "score": 5.0,
-    "views": 3256,
+    "views": 4084,
     "forwards": 12
   },
   {
@@ -104,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18578",
     "score": 5.0,
-    "views": 250035,
-    "forwards": 309
+    "views": 271515,
+    "forwards": 329
   },
   {
     "title": "🛫 Activity of enemy tactical aviation in the southern direction! 🚀The...",
@@ -194,7 +230,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189158",
     "score": 6.0,
-    "views": 126820,
+    "views": 135501,
     "forwards": 38
   },
   {
@@ -212,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52418",
     "score": 6.0,
-    "views": 1746,
+    "views": 1861,
     "forwards": 1
   },
   {
@@ -230,8 +266,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23383",
     "score": 5.5,
-    "views": 98826,
-    "forwards": 99
+    "views": 103830,
+    "forwards": 101
   },
   {
     "title": "Chernihiv: Enemy UAVs in the north and south of Chernihiv Oblast.",
@@ -358,24 +394,6 @@
     "score": 6.0,
     "views": 45437,
     "forwards": 1
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons",
-    "description_en": "☄️ The threat of using ballistic weapons",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння",
-    "time": "",
-    "pubDate": "2026-04-09T05:59:19+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59723",
-    "score": 5.5,
-    "views": 67297,
-    "forwards": 69
   },
   {
     "title": "Donetsk: Drone incoming",
