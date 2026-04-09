@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons",
+    "description_en": "☄️ The threat of using ballistic weapons",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння",
+    "time": "",
+    "pubDate": "2026-04-09T05:59:19+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59723",
+    "score": 5.5,
+    "views": 67297,
+    "forwards": 69
+  },
+  {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "99 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 9 (from 18:00 on April 8), the enemy attacked 119 attack UAVs of the Shahed, Gerbera, Italmas type and drones of other types from the directions: Bryansk, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, Donetsk, about 70 of them - \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
+    "description_en": "99 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 9 (from 18:00 on April 8), the enemy attacked 119 attack UAVs of the Shahed, Gerbera, Italmas type and drones of other types from the directions: Bryansk, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, Donetsk, about 70 of them - \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 99 ВОРОЖИХ БПЛА У ніч на 9 квітня (з 18:00 8 квітня) противник атакував 119 ударними БпЛА типу Shahed, Гербера, Італмас та безпілотниками інших типів із напрямків: Брянськ, Курськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., Гвардійське – ТОТ АР Крим, Донецьк, близько 70 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних...",
+    "time": "",
+    "pubDate": "2026-04-09T05:03:57+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37078",
+    "score": 13.0,
+    "views": 3470,
+    "forwards": 26
+  },
+  {
     "title": "Kyiv: Drone strike",
     "title_en": "Kyiv: Drone strike",
     "title_uk": "Київ: Дрон-удар",
@@ -14,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52414",
     "score": 8.0,
-    "views": 603,
-    "forwards": 0
+    "views": 1041,
+    "forwards": 1
   },
   {
     "title": "A group of enemy UAVs in the north of Sumy Oblast",
@@ -122,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52409",
     "score": 10.0,
-    "views": 2078,
-    "forwards": 6
+    "views": 2243,
+    "forwards": 7
   },
   {
     "title": "Kyiv: Power outage reported",
@@ -142,78 +178,6 @@
     "score": 4.5,
     "views": 1690,
     "forwards": 3
-  },
-  {
-    "title": "Kharkiv: A group of BpLA in Kharkiv Oblast ➡️ in the southern direction",
-    "title_en": "Kharkiv: A group of BpLA in Kharkiv Oblast ➡️ in the southern direction",
-    "title_uk": "Харків: Група БПЛА в Харківській області ➡️ на південному напрямку",
-    "description": "A group of BpLA in Kharkiv Oblast ➡️ in the southern direction",
-    "description_en": "A group of BpLA in Kharkiv Oblast ➡️ in the southern direction",
-    "description_uk": "Група БпЛА на Харківщині ➡️ у південному напрямку",
-    "time": "",
-    "pubDate": "2026-04-08T18:03:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59712",
-    "score": 6.0,
-    "views": 68827,
-    "forwards": 11
-  },
-  {
-    "title": "Kyiv: Fact-check: How Kremlin disinformation targets Hungary's election As...",
-    "title_en": "Kyiv: Fact-check: How Kremlin disinformation targets Hungary's election As...",
-    "title_uk": "Київ: Фактчек: як дезінформація Кремля спрямована на вибори в Угорщині Як...",
-    "description": "Fact-check: How Kremlin disinformation targets Hungary's election As Hungary heads into a high-stakes election, Moscow has deployed its propaganda and disinformation machine to bolster its preferred candidate. Viktor Orban, Hungary's Kremlin-friendly strongman, faces a real chance of defeat on April 12 that could end his 16-year grip on power. For weeks, Russian propagandists and bot networks...",
-    "description_en": "Fact-check: How Kremlin disinformation targets Hungary's election As Hungary heads into a high-stakes election, Moscow has deployed its propaganda and disinformation machine to bolster its preferred candidate. Viktor Orban, Hungary's Kremlin-friendly strongman, faces a real chance of defeat on April 12 that could end his 16-year grip on power. For weeks, Russian propagandists and bot networks...",
-    "description_uk": "Fact-check: How Kremlin disinformation targets Hungary's election As Hungary heads into a high-stakes election, Moscow has deployed its propaganda and disinformation machine to bolster its preferred candidate. Viktor Orban, Hungary's Kremlin-friendly strongman, faces a real chance of defeat on April 12 that could end his 16-year grip on power. For weeks, Russian propagandists and bot networks...",
-    "time": "",
-    "pubDate": "2026-04-08T17:56:10+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52405",
-    "score": 4.5,
-    "views": 216,
-    "forwards": 3
-  },
-  {
-    "title": "Kyiv: Ukrainian historian on how the world underestimated Ukraine The Kyiv...",
-    "title_en": "Kyiv: Ukrainian historian on how the world underestimated Ukraine The Kyiv...",
-    "title_uk": "Київ: український історик про те, як світ недооцінив Україну Київ...",
-    "description": "Ukrainian historian on how the world underestimated Ukraine The Kyiv Independent’s Kate Tsurkan speaks with historian Serhii Plokhy about how Russia has shaped global perceptions of its past — and why those misunderstandings continue to shape today’s war. From the fall of the Russian Empire in 1917 to the present day, Plokhy explains why Ukrainian independence has long been seen as a threat in...",
-    "description_en": "Ukrainian historian on how the world underestimated Ukraine The Kyiv Independent’s Kate Tsurkan speaks with historian Serhii Plokhy about how Russia has shaped global perceptions of its past — and why those misunderstandings continue to shape today’s war. From the fall of the Russian Empire in 1917 to the present day, Plokhy explains why Ukrainian independence has long been seen as a threat in...",
-    "description_uk": "Ukrainian historian on how the world underestimated Ukraine The Kyiv Independent’s Kate Tsurkan speaks with historian Serhii Plokhy about how Russia has shaped global perceptions of its past — and why those misunderstandings continue to shape today’s war. From the fall of the Russian Empire in 1917 to the present day, Plokhy explains why Ukrainian independence has long been seen as a threat in...",
-    "time": "",
-    "pubDate": "2026-04-08T17:52:28+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52404",
-    "score": 5.0,
-    "views": 269,
-    "forwards": 5
-  },
-  {
-    "title": "Mykolaiv: BpLA ➡️ course to Mykolaiv from the south.",
-    "title_en": "Mykolaiv: BpLA ➡️ course to Mykolaiv from the south.",
-    "title_uk": "Миколаїв: курс BpLA ➡️ на Миколаїв з півдня.",
-    "description": "BpLA ➡️ course to Mykolaiv from the south.",
-    "description_en": "BpLA ➡️ course to Mykolaiv from the south.",
-    "description_uk": "БпЛА ➡️ курсом на Миколаїв з півдня.",
-    "time": "",
-    "pubDate": "2026-04-08T17:29:24+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59711",
-    "score": 6.5,
-    "views": 116914,
-    "forwards": 71
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -252,24 +216,6 @@
     "forwards": 3
   },
   {
-    "title": "Kursk: Drone incoming",
-    "title_en": "Kursk: Drone incoming",
-    "title_uk": "Курськ: Дрон входить",
-    "description": "146 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of April 8 (from 18:00 on April 7) the enemy attacked 176 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Bryansk, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Chauda - TOT AR Crimea, near 120 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
-    "description_en": "146 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of April 8 (from 18:00 on April 7) the enemy attacked 176 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Bryansk, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Chauda - TOT AR Crimea, near 120 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 146 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 08 квітня (з 18:00 07 квітня) противник атакував 176 ударними БпЛА типу Shahed, Гербера, Італмас та безпілотниками інших типів із напрямків: Брянськ, Курськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., Чауда – ТОТ АР Крим, близько 120 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних...",
-    "time": "",
-    "pubDate": "2026-04-08T05:05:00+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kursk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37034",
-    "score": 13.0,
-    "views": 6711,
-    "forwards": 21
-  },
-  {
     "title": "4 killed, 16 injured",
     "title_en": "4 killed, 16 injured",
     "title_uk": "4 загиблих, 16 поранених",
@@ -284,7 +230,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8708",
     "score": 9.0,
-    "views": 1030,
+    "views": 1036,
     "forwards": 4
   },
   {
@@ -302,7 +248,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18562",
     "score": 11.5,
-    "views": 238602,
+    "views": 239563,
     "forwards": 780
   },
   {
@@ -320,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8706",
     "score": 5.0,
-    "views": 3147,
+    "views": 3153,
     "forwards": 29
   }
 ]
