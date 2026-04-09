@@ -1,5 +1,23 @@
 [
   {
+    "title": "Chernihiv: Enemy UAVs in the north and south of Chernihiv Oblast.",
+    "title_en": "Chernihiv: Enemy UAVs in the north and south of Chernihiv Oblast.",
+    "title_uk": "Чернігів: БПЛА противника на півночі та півдні Чернігівської області.",
+    "description": "Enemy UAVs in the north and south of Chernihiv Oblast.",
+    "description_en": "Enemy UAVs in the north and south of Chernihiv Oblast.",
+    "description_uk": "Ворожі БпЛА на півночі та півдні Чернігівщини.",
+    "time": "",
+    "pubDate": "2026-04-09T11:33:50+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59741",
+    "score": 6.0,
+    "views": 5439,
+    "forwards": 1
+  },
+  {
     "title": "Air defense active",
     "title_en": "Air defense active",
     "title_uk": "Активна ППО",
@@ -14,8 +32,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189145",
     "score": 9.5,
-    "views": 60261,
-    "forwards": 213
+    "views": 88588,
+    "forwards": 252
   },
   {
     "title": "Sumy: BpLA on Sumy from the north.",
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59739",
     "score": 6.0,
-    "views": 47481,
+    "views": 63653,
     "forwards": 2
   },
   {
@@ -50,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52416",
     "score": 14.0,
-    "views": 705,
+    "views": 966,
     "forwards": 2
   },
   {
@@ -140,8 +158,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37078",
     "score": 13.0,
-    "views": 6153,
-    "forwards": 31
+    "views": 6395,
+    "forwards": 33
   },
   {
     "title": "Kyiv: Drone strike",
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52414",
     "score": 8.0,
-    "views": 1888,
+    "views": 2000,
     "forwards": 1
   },
   {
@@ -248,25 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8708",
     "score": 9.0,
-    "views": 1039,
+    "views": 1053,
     "forwards": 4
-  },
-  {
-    "title": "Nikopol: Drone strike",
-    "title_en": "Nikopol: Drone strike",
-    "title_uk": "Нікополь: безпілотник",
-    "description": "Seven people are currently in the hospital after a Russian FPV drone hit Nikopol on a regular city bus. Another nine received help on the spot. Unfortunately, four people died. My condolences to family and friends. The Russians continue their targeted terror against people in Nikopol and other towns and communities near the front line. The other day there was a cynical attack on the Nikopol market, which...",
-    "description_en": "Seven people are currently in the hospital after a Russian FPV drone hit Nikopol on a regular city bus. Another nine received help on the spot. Unfortunately, four people died. My condolences to family and friends. The Russians continue their targeted terror against people in Nikopol and other towns and communities near the front line. The other day there was a cynical attack on the Nikopol market, which...",
-    "description_uk": "Зараз у лікарні перебувають сім людей після удару російського FPV-дрона по Нікополю, по звичайній міській маршрутці. Ще девʼять отримали допомогу на місці. Чотири людини, на жаль, загинули. Мої співчуття рідним і близьким. Росіяни продовжують свій цілеспрямований терор проти людей у Нікополі та інших містах і громадах поблизу лінії фронту. Днями був цинічний удар по нікопольському ринку, який...",
-    "time": "",
-    "pubDate": "2026-04-07T10:37:05+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Nikopol",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18562",
-    "score": 11.5,
-    "views": 241287,
-    "forwards": 782
   }
 ]
