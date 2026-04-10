@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea in the direction of Odesa (Sergiyivka/Tatarbunary)",
+    "description_en": "UAV from the Black Sea in the direction of Odesa (Sergiyivka/Tatarbunary)",
+    "description_uk": "БпЛА з акваторії Чорного моря в напрямку Одещини (Сергіївка/Татарбунари)",
+    "time": "",
+    "pubDate": "2026-04-10T16:59:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59811",
+    "score": 5.0,
+    "views": 6057,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Air defense active",
+    "title_en": "Kyiv: Air defense active",
+    "title_uk": "Київ: ППО діюча",
+    "description": "Poland intercepts Russian Il-20 spy plane for 2nd time in a week. Polish F-16s intercepted a Russian Il-20 reconnaissance aircraft during a patrol over the Baltic Sea on April 9, Polish Defense Minister Wladyslaw Kosiniak-Kamysz said on X.",
+    "description_en": "Poland intercepts Russian Il-20 spy plane for 2nd time in a week. Polish F-16s intercepted a Russian Il-20 reconnaissance aircraft during a patrol over the Baltic Sea on April 9, Polish Defense Minister Wladyslaw Kosiniak-Kamysz said on X.",
+    "description_uk": "Poland intercepts Russian Il-20 spy plane for 2nd time in a week. Polish F-16s intercepted a Russian Il-20 reconnaissance aircraft during a patrol over the Baltic Sea on April 9, Polish Defense Minister Wladyslaw Kosiniak-Kamysz said on X.",
+    "time": "",
+    "pubDate": "2026-04-10T16:43:41+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52444",
+    "score": 5.0,
+    "views": 356,
+    "forwards": 1
+  },
+  {
     "title": "Kyiv: Energy infrastructure hit",
     "title_en": "Kyiv: Energy infrastructure hit",
     "title_uk": "Київ: удар по енергетичній інфраструктурі",
@@ -14,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52443",
     "score": 8.5,
-    "views": 641,
-    "forwards": 1
+    "views": 1003,
+    "forwards": 2
   },
   {
     "title": "Luhansk: Ammunition and PMM warehouses and enemy manpower were hit As part of...",
@@ -32,8 +68,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37135",
     "score": 5.5,
-    "views": 6764,
-    "forwards": 56
+    "views": 9704,
+    "forwards": 67
   },
   {
     "title": "Sumy: BpLA in the direction of the city of Sumy",
@@ -50,7 +86,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59809",
     "score": 6.0,
-    "views": 56952,
+    "views": 69992,
     "forwards": 1
   },
   {
@@ -122,8 +158,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23386",
     "score": 5.0,
-    "views": 61731,
-    "forwards": 39
+    "views": 69110,
+    "forwards": 40
   },
   {
     "title": "Odesa: Air defense active",
@@ -194,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18595",
     "score": 3.5,
-    "views": 47315,
-    "forwards": 167
+    "views": 49365,
+    "forwards": 173
   },
   {
     "title": "The Russians know that if we withdraw our troops from Donbas, it will...",
@@ -212,13 +248,13 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18593",
     "score": 5.5,
-    "views": 40823,
-    "forwards": 98
+    "views": 42027,
+    "forwards": 99
   },
   {
     "title": "Drone attack",
     "title_en": "Drone attack",
-    "title_uk": "Атака дронов",
+    "title_uk": "Атака безпілотників",
     "description": "Hundreds, and sometimes thousands per day. Ukrainian soldiers continue to destroy enemy attack and reconnaissance UAVs. The fight continues! Glory to Ukraine! #СылиОбороныУкраины #innovatsiiZSU",
     "description_en": "Hundreds, and sometimes thousands per day. Ukrainian soldiers continue to destroy enemy attack and reconnaissance UAVs. The fight continues! Glory to Ukraine! #СылиОбороныУкраины #innovatsiiZSU",
     "description_uk": "Сотні, а інколи й тисячі за добу. Українські воїни продовжують нищити ударні та розвідувальні БпЛА ворога. Боротьба триває! Слава Україні! #СилиОборониУкраїни #інноваціїЗСУ",
@@ -230,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37129",
     "score": 8.0,
-    "views": 4955,
+    "views": 5066,
     "forwards": 19
   },
   {
@@ -250,24 +286,6 @@
     "score": 14.0,
     "views": 1808,
     "forwards": 4
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV from the Black Sea area heading for Southern/Black Sea (Odeszine).",
-    "description_en": "UAV from the Black Sea area heading for Southern/Black Sea (Odeszine).",
-    "description_uk": "БпЛА із акваторії Чорного моря курсом на Південне/Чорноморське (Одещина).",
-    "time": "",
-    "pubDate": "2026-04-10T08:00:31+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59796",
-    "score": 5.0,
-    "views": 86120,
-    "forwards": 2
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
@@ -430,23 +448,5 @@
     "score": 10.5,
     "views": 21123,
     "forwards": 82
-  },
-  {
-    "title": "🕯 The bodies of 1,000 victims were returned to Ukraine 🚪 Today, as a...",
-    "title_en": "🕯 The bodies of 1,000 victims were returned to Ukraine 🚪 Today, as a...",
-    "title_uk": "🕯 В Україну повернули тіла 1000 загиблих 🚪 Сьогодні, як...",
-    "description": "🕯 The bodies of 1,000 victims were returned to Ukraine 🚪 Today, as a result of repatriation measures, another 1,000 bodies (remains) were returned to Ukraine, which, according to the Muscovite side, belong to Ukrainian military personnel. 📷 It was possible to return the bodies as a result of the joint work of employees of the Coordination Headquarters for the Treatment of Prisoners of War, the Joint Center under the Security Service of Ukraine, the Armed Forces...",
-    "description_en": "🕯 The bodies of 1,000 victims were returned to Ukraine 🚪 Today, as a result of repatriation measures, another 1,000 bodies (remains) were returned to Ukraine, which, according to the Muscovite side, belong to Ukrainian military personnel. 📷 It was possible to return the bodies as a result of the joint work of employees of the Coordination Headquarters for the Treatment of Prisoners of War, the Joint Center under the Security Service of Ukraine, the Armed Forces...",
-    "description_uk": "🕯 В Україну повернули тіла 1000 загиблих 🚪 Сьогодні в результаті репатріаційних заходів в Україну повернуто ще 1000 тіл (останків), які за твердженням московитської сторони належать українським військовослужбовцям. 📷 Тіла вдалося повернути за результатами спільної роботи співробітників Координаційного штабу з питань поводження з військовополоненими, Об’єднаного центру при СБ України, Збройних Сил...",
-    "time": "",
-    "pubDate": "2026-04-09T12:07:37+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "DeepState",
-    "link": "https://t.me/DeepStateUA/23383",
-    "score": 5.5,
-    "views": 146498,
-    "forwards": 112
   }
 ]
