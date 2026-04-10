@@ -1,5 +1,77 @@
 [
   {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "Hundreds, and sometimes thousands per day. Ukrainian soldiers continue to destroy enemy attack and reconnaissance UAVs. The fight continues! Glory to Ukraine! #СылиОбороныУкраины #innovatsiiZSU",
+    "description_en": "Hundreds, and sometimes thousands per day. Ukrainian soldiers continue to destroy enemy attack and reconnaissance UAVs. The fight continues! Glory to Ukraine! #СылиОбороныУкраины #innovatsiiZSU",
+    "description_uk": "Сотні, а інколи й тисячі за добу. Українські воїни продовжують нищити ударні та розвідувальні БпЛА ворога. Боротьба триває! Слава Україні! #СилиОборониУкраїни #інноваціїЗСУ",
+    "time": "",
+    "pubDate": "2026-04-10T08:32:34+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37129",
+    "score": 8.0,
+    "views": 1135,
+    "forwards": 9
+  },
+  {
+    "title": "Kyiv: 128 drones launched",
+    "title_en": "Kyiv: 128 drones launched",
+    "title_uk": "Київ: запущено 128 безпілотників",
+    "description": "At least 4 killed, 38 injured in Russian attacks on Ukraine over past day. Russian forces launched 128 drones against Ukraine overnight, of which around 85 were Shahed-type drones, the Air Force said.",
+    "description_en": "At least 4 killed, 38 injured in Russian attacks on Ukraine over past day. Russian forces launched 128 drones against Ukraine overnight, of which around 85 were Shahed-type drones, the Air Force said.",
+    "description_uk": "At least 4 killed, 38 injured in Russian attacks on Ukraine over past day. Russian forces launched 128 drones against Ukraine overnight, of which around 85 were Shahed-type drones, the Air Force said.",
+    "time": "",
+    "pubDate": "2026-04-10T08:24:31+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52433",
+    "score": 14.0,
+    "views": 295,
+    "forwards": 1
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea area heading for Southern/Black Sea (Odeszine).",
+    "description_en": "UAV from the Black Sea area heading for Southern/Black Sea (Odeszine).",
+    "description_uk": "БпЛА із акваторії Чорного моря курсом на Південне/Чорноморське (Одещина).",
+    "time": "",
+    "pubDate": "2026-04-10T08:00:31+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59796",
+    "score": 5.0,
+    "views": 41377,
+    "forwards": 2
+  },
+  {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на східному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-04-10T07:23:11+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59795",
+    "score": 5.0,
+    "views": 57527,
+    "forwards": 1
+  },
+  {
     "title": "We have an agreement on ten-year agreements with three countries....",
     "title_en": "We have an agreement on ten-year agreements with three countries....",
     "title_uk": "У нас є угода про десятирічні угоди з трьома країнами....",
@@ -13,9 +85,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18588",
-    "score": 7.5,
-    "views": 18087,
-    "forwards": 33
+    "score": 8.0,
+    "views": 32630,
+    "forwards": 52
   },
   {
     "title": "WARNING! 🛫 The activity of enemy tactical aviation in the...",
@@ -57,8 +129,8 @@
     "title": "Crimea: Drone incoming",
     "title_en": "Crimea: Drone incoming",
     "title_uk": "Крим: надходить дрон",
-    "description": "113 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 10 (from 18:00 on April 9), the enemy attacked 128 attack UAVs of the Shahed, Gerbera, Italmas type and unmanned aerial vehicles of other types from the directions: Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske, Chauda - TOT AR Crimea, about 85 of them - \"shahedis\". The air attack was repelled by aviation, anti-aircraft missile forces, EW and unmanned systems units, mobile...",
-    "description_en": "113 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 10 (from 18:00 on April 9), the enemy attacked 128 attack UAVs of the Shahed, Gerbera, Italmas type and unmanned aerial vehicles of other types from the directions: Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske, Chauda - TOT AR Crimea, about 85 of them - \"shahedis\". The air attack was repelled by aviation, anti-aircraft missile forces, EW and unmanned systems units, mobile...",
+    "description": "113 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 10 (from 18:00 on April 9), the enemy attacked 128 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske, Chauda - TOT AR Crimea, about 85 of them - \"shahedis\". The air attack was repelled by aviation, anti-aircraft missile forces, EW and unmanned systems units, mobile...",
+    "description_en": "113 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 10 (from 18:00 on April 9), the enemy attacked 128 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske, Chauda - TOT AR Crimea, about 85 of them - \"shahedis\". The air attack was repelled by aviation, anti-aircraft missile forces, EW and unmanned systems units, mobile...",
     "description_uk": "ЗБИТО/ПОДАВЛЕНО 113 ВОРОЖИХ БПЛА У ніч на 10 квітня (з 18:00 09 квітня) противник атакував 128 ударними БпЛА типу Shahed, Гербера, Італмас та безпілотниками інших типів із напрямків: Орел, Міллєрово, Приморсько-Ахтарськ – рф., Гвардійське, Чауда – ТОТ АР Крим, близько 85 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем, мобільні...",
     "time": "",
     "pubDate": "2026-04-10T05:06:32+00:00",
@@ -68,8 +140,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37116",
     "score": 13.0,
-    "views": 3494,
-    "forwards": 18
+    "views": 4115,
+    "forwards": 19
   },
   {
     "title": "Air raid alert",
@@ -86,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189183",
     "score": 12.5,
-    "views": 92856,
-    "forwards": 121
+    "views": 119886,
+    "forwards": 122
   },
   {
     "title": "BpLA in Belgorod-Dnistrovsky\\Ovidiopol.",
@@ -122,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52428",
     "score": 6.0,
-    "views": 1373,
+    "views": 1680,
     "forwards": 1
   },
   {
@@ -160,24 +232,6 @@
     "score": 5.0,
     "views": 2715,
     "forwards": 10
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV in the direction of South/Ochakov from the Black Sea",
-    "description_en": "UAV in the direction of South/Ochakov from the Black Sea",
-    "description_uk": "БпЛА у напрямку Південного/Очакова з Чорного моря",
-    "time": "",
-    "pubDate": "2026-04-09T23:30:39+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59766",
-    "score": 5.0,
-    "views": 8830,
-    "forwards": 13
   },
   {
     "title": "BpLA in the direction of Brovary/Kyiv from the north",
@@ -266,26 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18584",
     "score": 9.0,
-    "views": 76600,
-    "forwards": 140
-  },
-  {
-    "title": "Kyiv: Attack attack on infrastructure",
-    "title_en": "Kyiv: Attack attack on infrastructure",
-    "title_uk": "Київ: Атака на інфраструктуру",
-    "description": "UK says it foiled undersea operation as Russian sub, frigate enter British waters A Russian attack submarine entered British waters with the aim to distract the country’s armed forces, the British government said. “To Putin, I say this: we see you, we see your activity over our underwater infrastructure. You should know that any attempt to damage it will not be tolerated and would have serious...",
-    "description_en": "UK says it foiled undersea operation as Russian sub, frigate enter British waters A Russian attack submarine entered British waters with the aim to distract the country’s armed forces, the British government said. “To Putin, I say this: we see you, we see your activity over our underwater infrastructure. You should know that any attempt to damage it will not be tolerated and would have serious...",
-    "description_uk": "UK says it foiled undersea operation as Russian sub, frigate enter British waters A Russian attack submarine entered British waters with the aim to distract the country’s armed forces, the British government said. “To Putin, I say this: we see you, we see your activity over our underwater infrastructure. You should know that any attempt to damage it will not be tolerated and would have serious...",
-    "time": "",
-    "pubDate": "2026-04-09T14:50:54+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52421",
-    "score": 5.0,
-    "views": 2332,
-    "forwards": 5
+    "views": 79475,
+    "forwards": 141
   },
   {
     "title": "🇨🇦 🇺🇦 Medical training and education of servicemen of the Armed...",
@@ -356,7 +392,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23383",
     "score": 5.5,
-    "views": 128149,
+    "views": 130726,
     "forwards": 110
   },
   {
