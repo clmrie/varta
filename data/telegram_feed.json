@@ -1,5 +1,41 @@
 [
   {
+    "title": "Crimea: Drone incoming",
+    "title_en": "Crimea: Drone incoming",
+    "title_uk": "Крим: надходить дрон",
+    "description": "113 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 10 (from 18:00 on April 9), the enemy attacked 128 attack UAVs of the Shahed, Gerbera, Italmas type and unmanned aerial vehicles of other types from the directions: Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske, Chauda - TOT AR Crimea, about 85 of them - \"shahedis\". The air attack was repelled by aviation, anti-aircraft missile forces, EW and unmanned systems units, mobile...",
+    "description_en": "113 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 10 (from 18:00 on April 9), the enemy attacked 128 attack UAVs of the Shahed, Gerbera, Italmas type and unmanned aerial vehicles of other types from the directions: Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske, Chauda - TOT AR Crimea, about 85 of them - \"shahedis\". The air attack was repelled by aviation, anti-aircraft missile forces, EW and unmanned systems units, mobile...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 113 ВОРОЖИХ БПЛА У ніч на 10 квітня (з 18:00 09 квітня) противник атакував 128 ударними БпЛА типу Shahed, Гербера, Італмас та безпілотниками інших типів із напрямків: Орел, Міллєрово, Приморсько-Ахтарськ – рф., Гвардійське, Чауда – ТОТ АР Крим, близько 85 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем, мобільні...",
+    "time": "",
+    "pubDate": "2026-04-10T05:06:32+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Crimea",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37116",
+    "score": 13.0,
+    "views": 1775,
+    "forwards": 10
+  },
+  {
+    "title": "Air raid alert",
+    "title_en": "Air raid alert",
+    "title_uk": "Повітряна тривога",
+    "description": "This night, drones staged a riot in Perevalsk in the occupied Luhansk region. At the same time, for the first time in Kazan, a missile warning siren sounded in the whole city - it is approximately 1000 km from Ukraine.",
+    "description_en": "This night, drones staged a riot in Perevalsk in the occupied Luhansk region. At the same time, for the first time in Kazan, a missile warning siren sounded in the whole city - it is approximately 1000 km from Ukraine.",
+    "description_uk": "Этой ночью дроны устроили гойду в Перевальске на оккупированной Луганщине Сообщают, что прилетело по ремонтно-механическому заводу. Параллельно в Казани впервые звучала сирена ракетной опасности во всем городе — это примерно в 1000 км от Украины.",
+    "time": "",
+    "pubDate": "2026-04-10T05:03:01+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Luhansk",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/189183",
+    "score": 12.5,
+    "views": 46706,
+    "forwards": 51
+  },
+  {
     "title": "BpLA in Belgorod-Dnistrovsky\\Ovidiopol.",
     "title_en": "BpLA in Belgorod-Dnistrovsky\\Ovidiopol.",
     "title_uk": "BpLA в м. Білгород-Дністровський\\Овідіополь.",
@@ -14,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59784",
     "score": 5.0,
-    "views": 1,
-    "forwards": 0
+    "views": 56602,
+    "forwards": 1
   },
   {
     "title": "Kyiv: 11 killed",
@@ -32,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52428",
     "score": 6.0,
-    "views": 310,
+    "views": 912,
     "forwards": 0
   },
   {
@@ -140,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189175",
     "score": 5.5,
-    "views": 149947,
-    "forwards": 111
+    "views": 171268,
+    "forwards": 123
   },
   {
     "title": "Luhansk: The Tor air defense system, an oil pumping station and a number of...",
@@ -158,26 +194,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37100",
     "score": 10.5,
-    "views": 17919,
+    "views": 21123,
     "forwards": 82
-  },
-  {
-    "title": "Odeshchyna - BpLA on Beacons.",
-    "title_en": "Odeshchyna - BpLA on Beacons.",
-    "title_uk": "Одещина - BpLA on Beacons.",
-    "description": "Odeshchyna - BpLA on Beacons.",
-    "description_en": "Odeshchyna - BpLA on Beacons.",
-    "description_uk": "Одещина - БпЛА на Маяки.",
-    "time": "",
-    "pubDate": "2026-04-09T16:03:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59753",
-    "score": 5.0,
-    "views": 47828,
-    "forwards": 1
   },
   {
     "title": "If sanctions on Russian oil were lifted because of the war in the...",
@@ -194,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18584",
     "score": 9.0,
-    "views": 61363,
-    "forwards": 131
+    "views": 70835,
+    "forwards": 138
   },
   {
     "title": "Kyiv: Attack attack on infrastructure",
@@ -212,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52421",
     "score": 5.0,
-    "views": 2144,
+    "views": 2241,
     "forwards": 5
   },
   {
@@ -248,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18578",
     "score": 5.0,
-    "views": 323826,
-    "forwards": 356
+    "views": 344832,
+    "forwards": 359
   },
   {
     "title": "Mariupol: Defender of Mariupol and combat medic Tetyana \"Khreshchena\" Teplyuk...",
@@ -302,7 +320,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23383",
     "score": 5.5,
-    "views": 120761,
+    "views": 125333,
     "forwards": 110
   },
   {
@@ -340,23 +358,5 @@
     "score": 14.0,
     "views": 1777,
     "forwards": 4
-  },
-  {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "99 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 9 (from 18:00 on April 8), the enemy attacked 119 attack UAVs of the Shahed, Gerbera, Italmas type and drones of other types from the directions: Bryansk, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, Donetsk, about 70 of them - \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
-    "description_en": "99 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 9 (from 18:00 on April 8), the enemy attacked 119 attack UAVs of the Shahed, Gerbera, Italmas type and drones of other types from the directions: Bryansk, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, Donetsk, about 70 of them - \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 99 ВОРОЖИХ БПЛА У ніч на 9 квітня (з 18:00 8 квітня) противник атакував 119 ударними БпЛА типу Shahed, Гербера, Італмас та безпілотниками інших типів із напрямків: Брянськ, Курськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., Гвардійське – ТОТ АР Крим, Донецьк, близько 70 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних...",
-    "time": "",
-    "pubDate": "2026-04-09T05:03:57+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37078",
-    "score": 13.0,
-    "views": 6652,
-    "forwards": 33
   }
 ]
