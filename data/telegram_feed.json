@@ -1,21 +1,39 @@
 [
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV from the Black Sea in the direction of Odesa (Sergiyivka/Tatarbunary)",
-    "description_en": "UAV from the Black Sea in the direction of Odesa (Sergiyivka/Tatarbunary)",
-    "description_uk": "БпЛА з акваторії Чорного моря в напрямку Одещини (Сергіївка/Татарбунари)",
+    "title": "Odesa: Drone incoming",
+    "title_en": "Odesa: Drone incoming",
+    "title_uk": "Одеса: Дрон вхід",
+    "description": "UAV from the Black Sea in the direction of Odessa",
+    "description_en": "UAV from the Black Sea in the direction of Odessa",
+    "description_uk": "БпЛА з акваторії Чорного моря в напрямку м.Одеса",
     "time": "",
-    "pubDate": "2026-04-10T16:59:58+00:00",
+    "pubDate": "2026-04-10T18:25:29+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Odesa",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59811",
+    "link": "https://t.me/kpszsu/59815",
+    "score": 6.0,
+    "views": 31350,
+    "forwards": 1
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea in the direction of Odessa (Ovidiopol)",
+    "description_en": "UAV from the Black Sea in the direction of Odessa (Ovidiopol)",
+    "description_uk": "БпЛА з акваторії Чорного моря в напрямку Одещини (Овідіополь)",
+    "time": "",
+    "pubDate": "2026-04-10T18:12:50+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59813",
     "score": 5.0,
-    "views": 41860,
-    "forwards": 11
+    "views": 41374,
+    "forwards": 1
   },
   {
     "title": "Kyiv: Air defense active",
@@ -32,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52444",
     "score": 5.0,
-    "views": 738,
+    "views": 991,
     "forwards": 2
   },
   {
@@ -50,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52443",
     "score": 8.5,
-    "views": 1225,
+    "views": 1370,
     "forwards": 2
   },
   {
@@ -68,8 +86,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37135",
     "score": 5.5,
-    "views": 11798,
-    "forwards": 71
+    "views": 13621,
+    "forwards": 73
   },
   {
     "title": "Sumy: BpLA in the direction of the city of Sumy",
@@ -158,8 +176,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23386",
     "score": 5.0,
-    "views": 75157,
-    "forwards": 45
+    "views": 80895,
+    "forwards": 47
   },
   {
     "title": "Odesa: Air defense active",
@@ -230,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18595",
     "score": 3.5,
-    "views": 51227,
-    "forwards": 175
+    "views": 54049,
+    "forwards": 181
   },
   {
     "title": "The Russians know that if we withdraw our troops from Donbas, it will...",
@@ -248,13 +266,13 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18593",
     "score": 5.5,
-    "views": 43096,
-    "forwards": 99
+    "views": 44356,
+    "forwards": 100
   },
   {
     "title": "Drone attack",
     "title_en": "Drone attack",
-    "title_uk": "Атака дронов",
+    "title_uk": "Атака безпілотників",
     "description": "Hundreds, and sometimes thousands per day. Ukrainian soldiers continue to destroy enemy attack and reconnaissance UAVs. The fight continues! Glory to Ukraine! #СылиОбороныУкраины #innovatsiiZSU",
     "description_en": "Hundreds, and sometimes thousands per day. Ukrainian soldiers continue to destroy enemy attack and reconnaissance UAVs. The fight continues! Glory to Ukraine! #СылиОбороныУкраины #innovatsiiZSU",
     "description_uk": "Сотні, а інколи й тисячі за добу. Українські воїни продовжують нищити ударні та розвідувальні БпЛА ворога. Боротьба триває! Слава Україні! #СилиОборониУкраїни #інноваціїЗСУ",
@@ -266,7 +284,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37129",
     "score": 8.0,
-    "views": 5164,
+    "views": 5255,
     "forwards": 21
   },
   {
@@ -304,60 +322,6 @@
     "score": 5.0,
     "views": 74555,
     "forwards": 1
-  },
-  {
-    "title": "We have an agreement on ten-year agreements with three countries....",
-    "title_en": "We have an agreement on ten-year agreements with three countries....",
-    "title_uk": "У нас є угода про десятирічні угоди з трьома країнами....",
-    "description": "We have an agreement on ten-year agreements with three countries. Ukrainian companies will work with the military of these countries to protect this or that object. My task is to agree on the volume, services, and types of weapons. Such security negotiations with Oman are currently ongoing, we are also talking with Kuwait and Bahrain - this is a plus to those countries with which we have already agreed and everyone has seen it. For our...",
-    "description_en": "We have an agreement on ten-year agreements with three countries. Ukrainian companies will work with the military of these countries to protect this or that object. My task is to agree on the volume, services, and types of weapons. Such security negotiations with Oman are currently ongoing, we are also talking with Kuwait and Bahrain - this is a plus to those countries with which we have already agreed and everyone has seen it. For our...",
-    "description_uk": "У нас є домовленість щодо десятирічних угод з трьома країнами. Українські компанії працюватимуть з військовими цих країн для захисту того чи іншого об’єкта. Моє завдання – домовлятися про обсяг, про послуги, про види озброєння. Зараз тривають такі безпекові перемовини з Оманом, також говоримо з Кувейтом та Бахрейном – це плюс до тих країн, з якими ми вже домовились і всі це бачили. За нашу...",
-    "time": "",
-    "pubDate": "2026-04-10T06:43:36+00:00",
-    "category": "political",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18588",
-    "score": 8.0,
-    "views": 32630,
-    "forwards": 52
-  },
-  {
-    "title": "WARNING! 🛫 The activity of enemy tactical aviation in the...",
-    "title_en": "WARNING! 🛫 The activity of enemy tactical aviation in the...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника в...",
-    "description": "WARNING! 🛫 The activity of enemy tactical aviation in the north-eastern and south-eastern directions! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 The activity of enemy tactical aviation in the north-eastern and south-eastern directions! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному та південно-східному напрямкуах! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-04-10T06:26:46+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59791",
-    "score": 5.0,
-    "views": 51471,
-    "forwards": 1
-  },
-  {
-    "title": "Kyiv: BpLA in the Kyiv region, heading for Vasylkiv",
-    "title_en": "Kyiv: BpLA in the Kyiv region, heading for Vasylkiv",
-    "title_uk": "К.: БпЛА в Київській обл., курс на Васильків",
-    "description": "BpLA in the Kyiv region, heading for Vasylkiv",
-    "description_en": "BpLA in the Kyiv region, heading for Vasylkiv",
-    "description_uk": "БпЛА на Київщині, курсом на Васильків",
-    "time": "",
-    "pubDate": "2026-04-10T06:24:46+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59790",
-    "score": 6.0,
-    "views": 54510,
-    "forwards": 36
   },
   {
     "title": "Crimea: Drone incoming",
@@ -414,24 +378,6 @@
     "forwards": 1
   },
   {
-    "title": "Airstrike attack on infrastructure",
-    "title_en": "Airstrike attack on infrastructure",
-    "title_uk": "Авіаудар по інфраструктурі",
-    "description": "The Armed Forces hit the infrastructure of the Russian Federation Hit: ▪️ oil pumping station \"Krymskaya\" (Krasnodar region) - with a fire ▪️ SAM \"Tor-M1\" ▪️ warehouses of the BC, BpLA and logistics in the occupied territories Also recorded were strikes on objects in the Donetsk and Luhansk regions. Minus fuel. Air defense minus. Minus peaceful night.",
-    "description_en": "The Armed Forces hit the infrastructure of the Russian Federation Hit: ▪️ oil pumping station \"Krymskaya\" (Krasnodar region) - with a fire ▪️ SAM \"Tor-M1\" ▪️ warehouses of the BC, BpLA and logistics in the occupied territories Also recorded were strikes on objects in the Donetsk and Luhansk regions. Minus fuel. Air defense minus. Minus peaceful night.",
-    "description_uk": "ВСУ ударили по инфраструктуре рф Поражены: ▪️ нефтеперекачивающая станция \"Крымская\" (Краснодарский край) - с пожаром ▪️ ЗРК \"Тор-М1\" ▪️ склады БК, БпЛА и логистики на оккупированных территориях Также зафиксированы удары по объектам в Донецкой и Луганской областях. Минус топливо. Минус ПВО. Минус спокойная ночь.",
-    "time": "",
-    "pubDate": "2026-04-09T18:03:01+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/189175",
-    "score": 5.5,
-    "views": 179839,
-    "forwards": 123
-  },
-  {
     "title": "🕯 The bodies of 1,000 victims were returned to Ukraine 🚪 Today, as a...",
     "title_en": "🕯 The bodies of 1,000 victims were returned to Ukraine 🚪 Today, as a...",
     "title_uk": "🕯 В Україну повернули тіла 1000 загиблих 🚪 Сьогодні, як...",
@@ -446,7 +392,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23383",
     "score": 5.5,
-    "views": 148602,
+    "views": 149644,
     "forwards": 113
   }
 ]
