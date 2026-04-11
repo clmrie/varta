@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Київ: повідомляється про постраждалих",
+    "description": "Civilian casualties double in Ukraine amid escalating short-range drone attacks, UN says. According to the report, at least 211 people were killed in March, and 1,206 were injured.",
+    "description_en": "Civilian casualties double in Ukraine amid escalating short-range drone attacks, UN says. According to the report, at least 211 people were killed in March, and 1,206 were injured.",
+    "description_uk": "Civilian casualties double in Ukraine amid escalating short-range drone attacks, UN says. According to the report, at least 211 people were killed in March, and 1,206 were injured.",
+    "time": "",
+    "pubDate": "2026-04-11T09:54:07+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52456",
+    "score": 6.0,
+    "views": 277,
+    "forwards": 2
+  },
+  {
     "title": "🚆UZ launches a direct flight from Kyiv railway station to Chisinau...",
     "title_en": "🚆UZ launches a direct flight from Kyiv railway station to Chisinau...",
     "title_uk": "🚆UZ запускає прямий рейс з Київського вокзалу до Кишинева...",
@@ -14,8 +32,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189256",
     "score": 6.5,
-    "views": 49419,
-    "forwards": 253
+    "views": 64525,
+    "forwards": 290
   },
   {
     "title": "BpLA ➡️ in the direction of Kharkiv.",
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59837",
     "score": 5.0,
-    "views": 28507,
+    "views": 35210,
     "forwards": 11
   },
   {
@@ -50,7 +68,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37151",
     "score": 13.0,
-    "views": 4299,
+    "views": 4394,
     "forwards": 21
   },
   {
@@ -140,26 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52444",
     "score": 5.0,
-    "views": 2042,
+    "views": 2057,
     "forwards": 4
-  },
-  {
-    "title": "Kyiv: Energy infrastructure hit",
-    "title_en": "Kyiv: Energy infrastructure hit",
-    "title_uk": "Київ: удар по енергетичній інфраструктурі",
-    "description": "Russian drilling platforms in Caspian Sea struck, Ukraine's military says. The General Staff said the platforms supplied fuel to Russian forces, as Ukraine continues long-range strikes on energy infrastructure.",
-    "description_en": "Russian drilling platforms in Caspian Sea struck, Ukraine's military says. The General Staff said the platforms supplied fuel to Russian forces, as Ukraine continues long-range strikes on energy infrastructure.",
-    "description_uk": "Russian drilling platforms in Caspian Sea struck, Ukraine's military says. The General Staff said the platforms supplied fuel to Russian forces, as Ukraine continues long-range strikes on energy infrastructure.",
-    "time": "",
-    "pubDate": "2026-04-10T15:02:27+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52443",
-    "score": 8.5,
-    "views": 2184,
-    "forwards": 2
   },
   {
     "title": "🦅 Fighters of the FOBOS 46 OAeMBr unit continue to destroy enemy...",
@@ -176,26 +176,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23386",
     "score": 5.5,
-    "views": 116262,
+    "views": 122267,
     "forwards": 57
-  },
-  {
-    "title": "Dnipro: Speed ​​goal in Dnipropetrovsk region",
-    "title_en": "Dnipro: Speed ​​goal in Dnipropetrovsk region",
-    "title_uk": "Дніпро: Спідгол у Дніпропетровській області",
-    "description": "Speed ​​goal in Dnipropetrovsk region",
-    "description_en": "Speed ​​goal in Dnipropetrovsk region",
-    "description_uk": "Швидкісна ціль на Дніпропетровщині",
-    "time": "",
-    "pubDate": "2026-04-10T10:10:49+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59799",
-    "score": 6.5,
-    "views": 95066,
-    "forwards": 166
   },
   {
     "title": "If the United States is really thinking about leaving NATO, the...",
@@ -212,7 +194,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18595",
     "score": 4.5,
-    "views": 76940,
+    "views": 77858,
     "forwards": 212
   },
   {
@@ -230,7 +212,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18593",
     "score": 5.5,
-    "views": 51328,
+    "views": 51556,
     "forwards": 104
   },
   {
@@ -248,7 +230,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23383",
     "score": 5.5,
-    "views": 158101,
+    "views": 159979,
     "forwards": 115
   }
 ]
