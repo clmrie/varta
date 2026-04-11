@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "Commander of the PATRIOT air defense unit: - The complex is actively used by our units to repel missile strikes. We provide coverage of important energy infrastructure facilities. It is an effective weapon capable of destroying ballistic missiles. - This equipment is in safe hands. I am sure that the \"iron\" will not let people down! - On behalf of my team, I thank our partners for the provided weapons and...",
+    "description_en": "Commander of the PATRIOT air defense unit: - The complex is actively used by our units to repel missile strikes. We provide coverage of important energy infrastructure facilities. It is an effective weapon capable of destroying ballistic missiles. - This equipment is in safe hands. I am sure that the \"iron\" will not let people down! - On behalf of my team, I thank our partners for the provided weapons and...",
+    "description_uk": "Командир підрозділу ЗРК PATRIOT: - Комплекс активно використовується нашими підрозділами для відбиття ракетних ударів. Забезпечуємо прикриття важливих об’єктів енергетичної інфраструктури. Це ефективна зброя, яка здатна знищувати балістичні ракети. - Ця техніка в надійних руках. Впевнений, що \"залізо\" не підведе і люди тим більше! - Від свого колективу дякую нашим партнерам за надане озброєння і...",
+    "time": "",
+    "pubDate": "2026-04-11T10:57:14+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37171",
+    "score": 3.5,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Luhansk: Ours are returning home. 175 military personnel. Soldiers of the...",
+    "title_en": "Luhansk: Ours are returning home. 175 military personnel. Soldiers of the...",
+    "title_uk": "Луганськ: Наші повертаються додому. 175 військовослужбовців. Солдати...",
+    "description": "Ours are returning home. 175 military personnel. Soldiers of the Armed Forces, national guardsmen, border guards. Privates, sergeants and officers. And seven civilians. Our soldiers defended Ukraine in various directions: in Mariupol, at the Chernobyl nuclear power plant, in the Donetsk, Luhansk, Kharkiv, Kherson, Zaporizhzhya, Sumy, Kyiv, Kursk directions. There are wounded among them. Most have been in captivity since 2022. And finally -...",
+    "description_en": "Ours are returning home. 175 military personnel. Soldiers of the Armed Forces, national guardsmen, border guards. Privates, sergeants and officers. And seven civilians. Our soldiers defended Ukraine in various directions: in Mariupol, at the Chernobyl nuclear power plant, in the Donetsk, Luhansk, Kharkiv, Kherson, Zaporizhzhya, Sumy, Kyiv, Kursk directions. There are wounded among them. Most have been in captivity since 2022. And finally -...",
+    "description_uk": "Наші повертаються додому. 175 військових. Воїни Збройних Сил, нацгвардійці, прикордонники. Рядові, сержанти та офіцери. І семеро цивільних. Наші воїни захищали Україну на різних напрямках: у Маріуполі, на ЧАЕС, на Донецькому, Луганському, Харківському, Херсонському, Запорізькому, Сумському, Київському, Курському напрямках. Серед них є поранені. Більшість була в полоні з 2022 року. І нарешті –...",
+    "time": "",
+    "pubDate": "2026-04-11T10:47:27+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Luhansk",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/18597",
+    "score": 7.5,
+    "views": 73972,
+    "forwards": 760
+  },
+  {
     "title": "Kyiv: Casualties reported",
     "title_en": "Kyiv: Casualties reported",
     "title_uk": "Київ: повідомляється про постраждалих",
@@ -14,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52456",
     "score": 6.0,
-    "views": 277,
+    "views": 523,
     "forwards": 2
   },
   {
@@ -32,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189256",
     "score": 6.5,
-    "views": 64525,
-    "forwards": 290
+    "views": 80662,
+    "forwards": 361
   },
   {
     "title": "BpLA ➡️ in the direction of Kharkiv.",
@@ -50,26 +86,26 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59837",
     "score": 5.0,
-    "views": 35210,
+    "views": 43429,
     "forwards": 11
   },
   {
     "title": "Donetsk: Drone incoming",
     "title_en": "Donetsk: Drone incoming",
     "title_uk": "Донецьк: Дрон вхід",
-    "description": "133 ENEMY UAVS DOWN/SUPPRESSED On the night of April 11 (from 18:00 on April 10), the enemy attacked with 160 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Chauda - TOT AR Crimea, about 100 of them - \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, EW units and unmanned systems,...",
-    "description_en": "133 ENEMY UAVS DOWN/SUPPRESSED On the night of April 11 (from 18:00 on April 10), the enemy attacked with 160 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Chauda - TOT AR Crimea, about 100 of them - \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, EW units and unmanned systems,...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 133 ВОРОЖІ БПЛА У ніч на 11 квітня (з 18:00 10 квітня) противник атакував 160 ударними БпЛА типу Shahed, Гербера, Італмас та безпілотниками інших типів із напрямків: Курськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., ТОТ Донецьк, Чауда – ТОТ АР Крим, близько 100 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем,...",
+    "description": "133 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of April 11 (from 18:00 on April 10), the enemy attacked with 160 attack UAVs of the Shahed, Gerbera, Italmas type and other types of drones from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Chauda - TOT AR Crimea, about 100 among them are \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and...",
+    "description_en": "133 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of April 11 (from 18:00 on April 10), the enemy attacked with 160 attack UAVs of the Shahed, Gerbera, Italmas type and other types of drones from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Chauda - TOT AR Crimea, about 100 among them are \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 133 ВОРОЖІ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 11 квітня (з 18:00 10 квітня) противник атакував 160 ударними БпЛА типу Shahed, Гербера, Італмас та безпілотниками інших типів із напрямків: Курськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., ТОТ Донецьк, Чауда – ТОТ АР Крим, близько 100 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та...",
     "time": "",
-    "pubDate": "2026-04-11T05:13:04+00:00",
+    "pubDate": "2026-04-11T05:04:54+00:00",
     "category": "missile",
     "severity": "critical",
     "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37151",
-    "score": 13.0,
-    "views": 4394,
-    "forwards": 21
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59833",
+    "score": 13.5,
+    "views": 104225,
+    "forwards": 157
   },
   {
     "title": "Izmail: Drone incoming",
@@ -158,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52444",
     "score": 5.0,
-    "views": 2057,
+    "views": 2093,
     "forwards": 4
   },
   {
@@ -176,7 +212,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23386",
     "score": 5.5,
-    "views": 122267,
+    "views": 125462,
     "forwards": 57
   },
   {
@@ -194,26 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18595",
     "score": 4.5,
-    "views": 77858,
-    "forwards": 212
-  },
-  {
-    "title": "The Russians know that if we withdraw our troops from Donbas, it will...",
-    "title_en": "The Russians know that if we withdraw our troops from Donbas, it will...",
-    "title_uk": "Росіяни знають, що якщо ми виведемо війська з Донбасу, то це...",
-    "description": "The Russians know that if we withdraw our troops from Donbas, it will divide our nation. Many people will oppose this. If the unity of Ukraine is undermined, Putin will come up with a new \"blitzkrieg\" to occupy Ukraine very quickly. Even if that doesn't happen, he will use the subsequent pause to recruit more people, train them, build up the military-industrial base, and get sanctions lifted. Ago...",
-    "description_en": "The Russians know that if we withdraw our troops from Donbas, it will divide our nation. Many people will oppose this. If the unity of Ukraine is undermined, Putin will come up with a new \"blitzkrieg\" to occupy Ukraine very quickly. Even if that doesn't happen, he will use the subsequent pause to recruit more people, train them, build up the military-industrial base, and get sanctions lifted. Ago...",
-    "description_uk": "Росіяни знають: якщо ми виведемо війська з Донбасу, це розділить нашу націю. Багато людей виступатимуть проти цього. Якщо єдність України буде підірвана, Путін придумає новий «бліцкриг», щоб окупувати Україну дуже швидко. Навіть якщо цього не станеться, він використає подальшу паузу, щоб набрати більше людей, підготувати їх, наростити військово-промислову базу та домогтися зняття санкцій. Тому...",
-    "time": "",
-    "pubDate": "2026-04-10T09:10:17+00:00",
-    "category": "political",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18593",
-    "score": 5.5,
-    "views": 51556,
-    "forwards": 104
+    "views": 79971,
+    "forwards": 213
   },
   {
     "title": "🕯 The bodies of 1,000 victims were returned to Ukraine 🚪 Today, as a...",
@@ -230,7 +248,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23383",
     "score": 5.5,
-    "views": 159979,
+    "views": 160926,
     "forwards": 115
   }
 ]
