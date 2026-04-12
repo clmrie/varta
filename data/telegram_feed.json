@@ -1,10 +1,46 @@
 [
   {
+    "title": "Shelling near civilians",
+    "title_en": "Shelling near civilians",
+    "title_uk": "Обстріл поблизу мирних жителів",
+    "description": "\"Dear defenders of Ukraine! For more than one and a half thousand days and nights, the entire Ukrainian people resisted the full-scale Russian onslaught. For more than one and a half thousand days and nights, the aggressor shelled Ukrainian cities and villages. Over the years, millions of Ukrainians learned to live in conditions of war and constant danger. And they learned to especially appreciate festive mornings, days and evenings. Today we celebrate Easter...",
+    "description_en": "\"Dear defenders of Ukraine! For more than one and a half thousand days and nights, the entire Ukrainian people resisted the full-scale Russian onslaught. For more than one and a half thousand days and nights, the aggressor shelled Ukrainian cities and villages. Over the years, millions of Ukrainians learned to live in conditions of war and constant danger. And they learned to especially appreciate festive mornings, days and evenings. Today we celebrate Easter...",
+    "description_uk": "\"Шановні захисники та захисниці України! Понад півтори тисячі днів і ночей весь український народ протистоїть повномасштабній російській навалі. Понад півтори тисячі днів і ночей агресор обстрілює українські міста і села. За ці роки мільйони українців навчилися жити в умовах війни та постійної небезпеки. І навчилися особливо цінувати святкові ранки, дні й вечори. Сьогодні ми відзначаємо Великдень...",
+    "time": "",
+    "pubDate": "2026-04-12T05:36:49+00:00",
+    "category": "shelling",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37187",
+    "score": 12.0,
+    "views": 2952,
+    "forwards": 10
+  },
+  {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Київ: Дрон-удар",
+    "description": "Russian drone strikes ambulance in northeastern Ukraine, injuring 3 paramedics despite Easter ceasefire. A Russian drone struck an ambulance in Sumy Oblast, injuring three paramedics overnight on April 12 despite an Easter ceasefire being in place, local authorities reported.",
+    "description_en": "Russian drone strikes ambulance in northeastern Ukraine, injuring 3 paramedics despite Easter ceasefire. A Russian drone struck an ambulance in Sumy Oblast, injuring three paramedics overnight on April 12 despite an Easter ceasefire being in place, local authorities reported.",
+    "description_uk": "Russian drone strikes ambulance in northeastern Ukraine, injuring 3 paramedics despite Easter ceasefire. A Russian drone struck an ambulance in Sumy Oblast, injuring three paramedics overnight on April 12 despite an Easter ceasefire being in place, local authorities reported.",
+    "time": "",
+    "pubDate": "2026-04-12T04:59:04+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52466",
+    "score": 13.0,
+    "views": 426,
+    "forwards": 0
+  },
+  {
     "title": "Casualties reported",
     "title_en": "Casualties reported",
     "title_uk": "Повідомляється про постраждалих",
-    "description": "🤬 Katsaps killed a Ukrainian evacuation group near Gulyaipilskyi 🔄 Despite the so-called \"ceasefire\", the enemy continues what he was doing. Today, around 5:30 p.m. near Gulyaipilskyi, with the use of fpv drones, snipers killed a group of our wounded. 💬 Another illusion of the partners that Moscow wants peace must be shattered. Only by joint power, and not by playing along, can you make the bastards sit down for...",
-    "description_en": "🤬 Katsaps killed a Ukrainian evacuation group near Gulyaipilskyi 🔄 Despite the so-called \"ceasefire\", the enemy continues what he was doing. Today, around 5:30 p.m. near Gulyaipilskyi, with the use of fpv drones, snipers killed a group of our wounded. 💬 Another illusion of the partners that Moscow wants peace must be shattered. Only by joint power, and not by playing along, can you make the bastards sit down for...",
+    "description": "🤬 Katsaps killed a Ukrainian evacuation group near Gulyaipilskyi 🔄 Despite the so-called \"ceasefire\", the enemy continues what he was doing. Today, around 5:30 p.m. near Gulyaipilskyi, with the use of fpv drones, snipers killed a group of our wounded. 💬 Another illusion of the partners that the Muscovite wants peace must be shattered. Only by joint power, and not by playing along, can you make the bastards sit down for...",
+    "description_en": "🤬 Katsaps killed a Ukrainian evacuation group near Gulyaipilskyi 🔄 Despite the so-called \"ceasefire\", the enemy continues what he was doing. Today, around 5:30 p.m. near Gulyaipilskyi, with the use of fpv drones, snipers killed a group of our wounded. 💬 Another illusion of the partners that the Muscovite wants peace must be shattered. Only by joint power, and not by playing along, can you make the bastards sit down for...",
     "description_uk": "🤬 Кацапи вбили українську евакуаційну групу поблизу Гуляйпільського 🔄 Незважаючи на так зване \"припинення вогню\", ворог продовжує те, що і робив. Сьогодні близько 17:30 поблизу Гуляйпілського, з використанням fpv-дронів кацапи вбили групу наших поранених. 💬 Чергові ілюзії партнерів, що москаль хоче миру, мають бути розбиті. Лише спільною силою, а не підіграванням, можна змусити виродків сісти за...",
     "time": "",
     "pubDate": "2026-04-11T19:44:56+00:00",
@@ -14,8 +50,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23392",
     "score": 15.5,
-    "views": 266656,
-    "forwards": 1469
+    "views": 313670,
+    "forwards": 1555
   },
   {
     "title": "Drone strike",
@@ -32,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189290",
     "score": 4.5,
-    "views": 132636,
-    "forwards": 233
+    "views": 154665,
+    "forwards": 244
   },
   {
     "title": "Kyiv: Russia is giving its masterclass in election interference ahead of...",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52463",
     "score": 5.0,
-    "views": 2046,
+    "views": 2203,
     "forwards": 6
   },
   {
@@ -86,26 +122,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18620",
     "score": 3.5,
-    "views": 33781,
+    "views": 37876,
     "forwards": 27
-  },
-  {
-    "title": "Energy infrastructure hit",
-    "title_en": "Energy infrastructure hit",
-    "title_uk": "Поразка енергетичної інфраструктури",
-    "description": "Ukraine hit an oil depot and an oil pumping station \"Krymskaya\" on the territory of the Russian Federation, - the General Staff. Three ammunition warehouses in the Donetsk and Zaporozhye regions, UAV control points and concentrations of enemy manpower were also hit. Losses and extent of damage are specified.",
-    "description_en": "Ukraine hit an oil depot and an oil pumping station \"Krymskaya\" on the territory of the Russian Federation, - the General Staff. Three ammunition warehouses in the Donetsk and Zaporozhye regions, UAV control points and concentrations of enemy manpower were also hit. Losses and extent of damage are specified.",
-    "description_uk": "Украина поразила нефтебазу и нефтеперекачивающую станцию \"Крымская\" на территории рф, - Генштаб Также поражены три склада боеприпасов в Донецкой и Запорожской областях, пункты управления БПЛА и скопления живой силы противника. Потери и масштабы ущерба уточняются.",
-    "time": "",
-    "pubDate": "2026-04-11T15:04:39+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Donetsk",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/189279",
-    "score": 5.5,
-    "views": 157531,
-    "forwards": 89
   },
   {
     "title": "Kramatorsk: Airstrike attack",
@@ -140,8 +158,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59839",
     "score": 5.0,
-    "views": 94318,
-    "forwards": 44
+    "views": 99947,
+    "forwards": 46
   },
   {
     "title": "ENG below⏬ ✅On behalf of the President of Ukraine - Supreme Commander...",
@@ -158,26 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37172",
     "score": 14.5,
-    "views": 49770,
+    "views": 50509,
     "forwards": 103
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "Commander of the PATRIOT air defense unit: - The complex is actively used by our units to repel missile strikes. We provide coverage of important energy infrastructure facilities. It is an effective weapon capable of destroying ballistic missiles. - This equipment is in safe hands. I am sure that \"iron\" will not let people down! - On behalf of my team, I thank our partners for the provided weapons and...",
-    "description_en": "Commander of the PATRIOT air defense unit: - The complex is actively used by our units to repel missile strikes. We provide coverage of important energy infrastructure facilities. It is an effective weapon capable of destroying ballistic missiles. - This equipment is in safe hands. I am sure that \"iron\" will not let people down! - On behalf of my team, I thank our partners for the provided weapons and...",
-    "description_uk": "Командир підрозділу ЗРК PATRIOT: - Комплекс активно використовується нашими підрозділами для відбиття ракетних ударів. Забезпечуємо прикриття важливих об’єктів енергетичної інфраструктури. Це ефективна зброя, яка здатна знищувати балістичні ракети. - Ця техніка в надійних руках. Впевнений, що \"залізо\" не підведе і люди тим більше! - Від свого колективу дякую нашим партнерам за надане озброєння і...",
-    "time": "",
-    "pubDate": "2026-04-11T10:57:14+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37171",
-    "score": 3.5,
-    "views": 5687,
-    "forwards": 21
   },
   {
     "title": "Luhansk: Ours are returning home. 175 military personnel. Soldiers of the...",
@@ -230,26 +230,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59837",
     "score": 5.0,
-    "views": 117483,
+    "views": 121660,
     "forwards": 13
-  },
-  {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "133 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of April 11 (from 18:00 on April 10), the enemy attacked with 160 attack UAVs of the Shahed, Gerbera, Italmas type and other types of drones from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Chauda - TOT AR Crimea, about 100 among them are \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and...",
-    "description_en": "133 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of April 11 (from 18:00 on April 10), the enemy attacked with 160 attack UAVs of the Shahed, Gerbera, Italmas type and other types of drones from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Chauda - TOT AR Crimea, about 100 among them are \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 133 ВОРОЖІ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 11 квітня (з 18:00 10 квітня) противник атакував 160 ударними БпЛА типу Shahed, Гербера, Італмас та безпілотниками інших типів із напрямків: Курськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., ТОТ Донецьк, Чауда – ТОТ АР Крим, близько 100 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та...",
-    "time": "",
-    "pubDate": "2026-04-11T05:04:54+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59833",
-    "score": 13.5,
-    "views": 111864,
-    "forwards": 157
   },
   {
     "title": "🦅 Fighters of the FOBOS 46 OAeMBr unit continue to destroy enemy...",
@@ -266,7 +248,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23386",
     "score": 5.5,
-    "views": 151166,
+    "views": 152780,
     "forwards": 63
   }
 ]
