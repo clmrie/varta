@@ -1,21 +1,57 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons",
+    "description_en": "☄️ The threat of using ballistic weapons",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння",
+    "time": "",
+    "pubDate": "2026-04-13T08:10:26+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59875",
+    "score": 5.0,
+    "views": 30278,
+    "forwards": 36
+  },
+  {
+    "title": "Kharkiv: BpLA from the north heading to Kharkiv",
+    "title_en": "Kharkiv: BpLA from the north heading to Kharkiv",
+    "title_uk": "Харків: BpLA з півночі прямує до Харкова",
+    "description": "BpLA from the north heading to Kharkiv",
+    "description_en": "BpLA from the north heading to Kharkiv",
+    "description_uk": "БпЛА з півночі курсом на м.Харків",
+    "time": "",
+    "pubDate": "2026-04-13T07:58:04+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59874",
+    "score": 6.0,
+    "views": 37358,
+    "forwards": 1
+  },
+  {
     "title": "Kursk: Drone incoming",
     "title_en": "Kursk: Drone incoming",
     "title_uk": "Курськ: Дрон входить",
-    "description": "87 ENEMY UAVS SHOT DOWN/SUPPRESSED During the night (from 00:10 on April 13), the enemy attacked 98 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Orel, Bryansk, Kursk, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, about 65 of them - \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
-    "description_en": "87 ENEMY UAVS SHOT DOWN/SUPPRESSED During the night (from 00:10 on April 13), the enemy attacked 98 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Orel, Bryansk, Kursk, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, about 65 of them - \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 87 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ Протягом ночі (з 00:10 13 квітня) противник атакував 98 ударними БпЛА типу Shahed, Гербера, Італмас та безпілотниками інших типів із напрямків: Орел, Брянськ, Курськ, Міллєрово, Приморсько-Ахтарськ – рф., Гвардійське – ТОТ АР Крим, близько 65 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних...",
+    "description": "87 ENEMY UAVS SHOT DOWN/SUPPRESSED During the night (from 00:10 on April 13), the enemy attacked 98 attack UAVs of the Shahed, Gerbera, Italmas type and UAVs of other types from the directions: Orel, Bryansk, Kursk, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, about 65 of them - \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, EW units and unmanned systems,...",
+    "description_en": "87 ENEMY UAVS SHOT DOWN/SUPPRESSED During the night (from 00:10 on April 13), the enemy attacked 98 attack UAVs of the Shahed, Gerbera, Italmas type and UAVs of other types from the directions: Orel, Bryansk, Kursk, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, about 65 of them - \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, EW units and unmanned systems,...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 87 ВОРОЖИХ БПЛА Протягом ночі (з 00:10 13 квітня) противник атакував 98 ударними БпЛА типу Shahed, Гербера, Італмас та безпілотниками інших типів із напрямків: Орел, Брянськ, Курськ, Міллєрово, Приморсько-Ахтарськ – рф., Гвардійське – ТОТ АР Крим, близько 65 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем,...",
     "time": "",
-    "pubDate": "2026-04-13T05:23:20+00:00",
+    "pubDate": "2026-04-13T06:29:47+00:00",
     "category": "missile",
     "severity": "critical",
     "location": "Kursk",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59863",
-    "score": 13.5,
-    "views": 48553,
-    "forwards": 107
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37242",
+    "score": 13.0,
+    "views": 3356,
+    "forwards": 14
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -176,8 +212,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8729",
     "score": 3.0,
-    "views": 7823,
-    "forwards": 16
+    "views": 9100,
+    "forwards": 18
   },
   {
     "title": "🇭🇺 Міністр закордонних справ України Андрій Сибіга привітав Петера...",
@@ -212,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52473",
     "score": 7.5,
-    "views": 3080,
+    "views": 3206,
     "forwards": 10
   },
   {
@@ -230,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52470",
     "score": 6.0,
-    "views": 2975,
+    "views": 3066,
     "forwards": 7
   },
   {
@@ -248,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8728",
     "score": 5.0,
-    "views": 7702,
+    "views": 7906,
     "forwards": 11
   },
   {
@@ -266,15 +302,15 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18623",
     "score": 6.5,
-    "views": 107035,
-    "forwards": 192
+    "views": 111650,
+    "forwards": 194
   },
   {
     "title": "Casualties reported",
     "title_en": "Casualties reported",
     "title_uk": "Повідомляється про постраждалих",
-    "description": "🤬 Katsaps killed a Ukrainian evacuation group near Gulyaipilskyi 🔄 Despite the so-called \"ceasefire\", the enemy continues what he was doing. Today, around 5:30 p.m. near Gulyaipilskyi, with the use of fpv drones, snipers killed a group of our wounded. 💬 Another illusion of the partners that Moscow wants peace must be shattered. Only by joint power, and not by playing along, can you make the bastards sit down for...",
-    "description_en": "🤬 Katsaps killed a Ukrainian evacuation group near Gulyaipilskyi 🔄 Despite the so-called \"ceasefire\", the enemy continues what he was doing. Today, around 5:30 p.m. near Gulyaipilskyi, with the use of fpv drones, snipers killed a group of our wounded. 💬 Another illusion of the partners that Moscow wants peace must be shattered. Only by joint power, and not by playing along, can you make the bastards sit down for...",
+    "description": "🤬 Katsaps killed a Ukrainian evacuation group near Gulyaipilskyi 🔄 Despite the so-called \"ceasefire\", the enemy continues what he was doing. Today, around 5:30 p.m. near Gulyaipilskyi, with the use of fpv drones, snipers killed a group of our wounded. 💬 Another illusion of the partners that the Muscovite wants peace must be shattered. Only by joint power, and not by playing along, can you make the bastards sit down for...",
+    "description_en": "🤬 Katsaps killed a Ukrainian evacuation group near Gulyaipilskyi 🔄 Despite the so-called \"ceasefire\", the enemy continues what he was doing. Today, around 5:30 p.m. near Gulyaipilskyi, with the use of fpv drones, snipers killed a group of our wounded. 💬 Another illusion of the partners that the Muscovite wants peace must be shattered. Only by joint power, and not by playing along, can you make the bastards sit down for...",
     "description_uk": "🤬 Кацапи вбили українську евакуаційну групу поблизу Гуляйпільського 🔄 Незважаючи на так зване \"припинення вогню\", ворог продовжує те, що і робив. Сьогодні близько 17:30 поблизу Гуляйпілського, з використанням fpv-дронів кацапи вбили групу наших поранених. 💬 Чергові ілюзії партнерів, що москаль хоче миру, мають бути розбиті. Лише спільною силою, а не підіграванням, можна змусити виродків сісти за...",
     "time": "",
     "pubDate": "2026-04-11T19:44:56+00:00",
@@ -284,8 +320,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23392",
     "score": 15.5,
-    "views": 456374,
-    "forwards": 1789
+    "views": 460225,
+    "forwards": 1792
   },
   {
     "title": "We are working with partners to move forward in negotiations and in...",
@@ -302,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18620",
     "score": 3.5,
-    "views": 68578,
+    "views": 69659,
     "forwards": 40
   }
 ]
