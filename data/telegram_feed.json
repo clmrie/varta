@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: A high-speed target in the east of Kharkiv region.",
+    "title_en": "Kharkiv: A high-speed target in the east of Kharkiv region.",
+    "title_uk": "Харків: Швидкісна ціль на сході Харківської області.",
+    "description": "A high-speed target in the east of Kharkiv region.",
+    "description_en": "A high-speed target in the east of Kharkiv region.",
+    "description_uk": "Швидкісна ціль на сході Харківщини.",
+    "time": "",
+    "pubDate": "2026-04-13T11:16:25+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59883",
+    "score": 6.5,
+    "views": 53477,
+    "forwards": 69
+  },
+  {
+    "title": "22 missiles",
+    "title_en": "22 missiles",
+    "title_uk": "22 ракети",
+    "description": "X-22 missile launches. The first rockets enter the Kharkiv region, UPD monitors: targets are not fixed. Explosions were heard in Kharkiv region.",
+    "description_en": "X-22 missile launches. The first rockets enter the Kharkiv region, UPD monitors: targets are not fixed. Explosions were heard in Kharkiv region.",
+    "description_uk": "Пуски ракет Х-22. Первые ракеты заходят в Харьковскую область, — мониторы UPD: цели не фиксируют. В Харьковской области были слышны взрывы.",
+    "time": "",
+    "pubDate": "2026-04-13T11:05:53+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kharkiv",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/189372",
+    "score": 3.0,
+    "views": 51155,
+    "forwards": 36
+  },
+  {
     "title": "Zaporizhzhia: 98 drones launched",
     "title_en": "Zaporizhzhia: 98 drones launched",
     "title_uk": "Запоріжжя: запущено 98 дронів",
@@ -14,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52481",
     "score": 14.0,
-    "views": 462,
+    "views": 1038,
     "forwards": 3
   },
   {
@@ -32,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59879",
     "score": 6.0,
-    "views": 35478,
+    "views": 119566,
     "forwards": 4
   },
   {
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52480",
     "score": 14.0,
-    "views": 670,
-    "forwards": 1
+    "views": 1163,
+    "forwards": 2
   },
   {
     "title": "Dnipro: BpLA heading for the city of Dnipro, from the south.",
@@ -122,8 +158,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37242",
     "score": 13.0,
-    "views": 4661,
-    "forwards": 17
+    "views": 5265,
+    "forwards": 19
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -198,60 +234,6 @@
     "forwards": 1
   },
   {
-    "title": "Enemy BpLA in the direction of Kropyvnytskyi.",
-    "title_en": "Enemy BpLA in the direction of Kropyvnytskyi.",
-    "title_uk": "БпЛА ворога в напрямку Кропивницького.",
-    "description": "Enemy BpLA in the direction of Kropyvnytskyi.",
-    "description_en": "Enemy BpLA in the direction of Kropyvnytskyi.",
-    "description_uk": "Ворожі БпЛА у напрямку Кропивницького.",
-    "time": "",
-    "pubDate": "2026-04-12T23:22:27+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kropyvnytskyi",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59850",
-    "score": 5.0,
-    "views": 13387,
-    "forwards": 17
-  },
-  {
-    "title": "Dnipro: UAVs from Dnipropetrovsk region enter Kirovohrad region on a westerly...",
-    "title_en": "Dnipro: UAVs from Dnipropetrovsk region enter Kirovohrad region on a westerly...",
-    "title_uk": "Дніпро: БПЛА з Дніпропетровської області зайшли в Кіровоградську область на західному...",
-    "description": "UAVs from Dnipropetrovsk region enter Kirovohrad region on a westerly course.",
-    "description_en": "UAVs from Dnipropetrovsk region enter Kirovohrad region on a westerly course.",
-    "description_uk": "БпЛА з Дніпропетровщини заходять на Кіровоградщину західним курсом.",
-    "time": "",
-    "pubDate": "2026-04-12T22:55:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59849",
-    "score": 6.0,
-    "views": 13124,
-    "forwards": 7
-  },
-  {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "Enemy UAVs in the direction of Zaporizhzhia from the east.",
-    "description_en": "Enemy UAVs in the direction of Zaporizhzhia from the east.",
-    "description_uk": "Ворожі БпЛА у напрямку Запоріжжя зі сходу.",
-    "time": "",
-    "pubDate": "2026-04-12T22:21:41+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59848",
-    "score": 6.0,
-    "views": 14483,
-    "forwards": 2
-  },
-  {
     "title": "🇭🇺 Minister of Foreign Affairs of Ukraine Andriy Sybiga congratulated...",
     "title_en": "🇭🇺 Minister of Foreign Affairs of Ukraine Andriy Sybiga congratulated...",
     "title_uk": "🇭🇺 Міністр закордонних справ України Андрій Сибіга привітав...",
@@ -266,8 +248,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8729",
     "score": 3.0,
-    "views": 9449,
-    "forwards": 18
+    "views": 9629,
+    "forwards": 19
   },
   {
     "title": "Kharkiv: Casualties reported",
@@ -302,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8728",
     "score": 5.0,
-    "views": 7968,
+    "views": 8050,
     "forwards": 11
   },
   {
@@ -320,7 +302,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18623",
     "score": 6.5,
-    "views": 114469,
+    "views": 115395,
     "forwards": 194
   },
   {
@@ -338,8 +320,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23392",
     "score": 15.5,
-    "views": 462812,
-    "forwards": 1793
+    "views": 465405,
+    "forwards": 1795
   },
   {
     "title": "We are working with partners to move forward in negotiations and in...",
@@ -356,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18620",
     "score": 3.5,
-    "views": 70161,
+    "views": 70692,
     "forwards": 40
   }
 ]
