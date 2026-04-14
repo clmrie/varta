@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kryvyi Rih: A group of unmanned aerial vehicles ➡️ heading for Kryvyi Rih.",
+    "title_en": "Kryvyi Rih: A group of unmanned aerial vehicles ➡️ heading for Kryvyi Rih.",
+    "title_uk": "Кривий Ріг: Група безпілотних літальних апаратів ➡️ прямує до Кривого Рогу.",
+    "description": "A group of unmanned aerial vehicles ➡️ heading for Kryvyi Rih.",
+    "description_en": "A group of unmanned aerial vehicles ➡️ heading for Kryvyi Rih.",
+    "description_uk": "Група ударних БпЛА ➡️ курсом на Кривий Ріг.",
+    "time": "",
+    "pubDate": "2026-04-14T15:21:10+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59966",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "A new group of attack UAVs in Sumy Oblast",
+    "description_en": "A new group of attack UAVs in Sumy Oblast",
+    "description_uk": "Нова група ударних БпЛА на Сумщину",
+    "time": "",
+    "pubDate": "2026-04-14T14:53:14+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59965",
+    "score": 5.0,
+    "views": 37327,
+    "forwards": 1
+  },
+  {
+    "title": "25 injured",
+    "title_en": "25 injured",
+    "title_uk": "25 поранених",
+    "description": "💬 Andriy Sybiga commented on the Russian attack on the Dnieper: \"At least 5 people were killed and 25 injured as a result of a Russian missile attack on the Dnieper. A terrible terrorist act against civilians in broad daylight. Enough pauses in the pressure on Russia! The 20th package of EU sanctions and a loan of €90 billion must be unblocked as soon as possible.\"",
+    "description_en": "💬 Andriy Sybiga commented on the Russian attack on the Dnieper: \"At least 5 people were killed and 25 injured as a result of a Russian missile attack on the Dnieper. A terrible terrorist act against civilians in broad daylight. Enough pauses in the pressure on Russia! The 20th package of EU sanctions and a loan of €90 billion must be unblocked as soon as possible.\"",
+    "description_uk": "💬 Андрій Сибіга прокоментував російський удар по Дніпру: \"Щонайменше 5 людей загинули і 25 отримали поранення внаслідок ракетного удару Росії по Дніпру. Жахливий терористичний акт проти цивільних серед білого дня. Досить пауз у тиску на Росію! 20-й пакет санкцій ЄС та кредит у €90 мільярдів мають бути розблоковані якнайшвидше\".",
+    "time": "",
+    "pubDate": "2026-04-14T14:41:11+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/8771",
+    "score": 9.0,
+    "views": 294,
+    "forwards": 2
+  },
+  {
     "title": "Kherson: Drone incoming",
     "title_en": "Kherson: Drone incoming",
     "title_uk": "Херсон: Дрон вхід",
@@ -50,13 +104,13 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189440",
     "score": 9.0,
-    "views": 39698,
-    "forwards": 35
+    "views": 87368,
+    "forwards": 36
   },
   {
     "title": "Kharkiv: Russia targets critical dam in Kharkiv Oblast with glide bombs,...",
     "title_en": "Kharkiv: Russia targets critical dam in Kharkiv Oblast with glide bombs,...",
-    "title_uk": "Харків: Росія націлила плануючими бомбами критичну дамбу в Харківській області,...",
+    "title_uk": "Харків: Росія націлила плануючими бомбами важливу дамбу в Харківській області,...",
     "description": "Russia targets critical dam in Kharkiv Oblast with glide bombs, governor says. Six such bombs were directed at the Pechenihy dam in Chuhuiv district, one of the largest reservoirs in the region and a key infrastructure facility, Syniehubov said on national television.",
     "description_en": "Russia targets critical dam in Kharkiv Oblast with glide bombs, governor says. Six such bombs were directed at the Pechenihy dam in Chuhuiv district, one of the largest reservoirs in the region and a key infrastructure facility, Syniehubov said on national television.",
     "description_uk": "Russia targets critical dam in Kharkiv Oblast with glide bombs, governor says. Six such bombs were directed at the Pechenihy dam in Chuhuiv district, one of the largest reservoirs in the region and a key infrastructure facility, Syniehubov said on national television.",
@@ -68,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52501",
     "score": 4.0,
-    "views": 649,
+    "views": 1083,
     "forwards": 3
   },
   {
@@ -86,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189438",
     "score": 8.5,
-    "views": 65618,
-    "forwards": 142
+    "views": 101368,
+    "forwards": 180
   },
   {
     "title": "Luhansk: Radar stations and air defense systems of the enemy were hit. As part...",
@@ -104,8 +158,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37294",
     "score": 5.5,
-    "views": 11501,
-    "forwards": 93
+    "views": 16360,
+    "forwards": 100
   },
   {
     "title": "Zaporizhzhia: Strike confirmed on residential building",
@@ -122,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52498",
     "score": 10.0,
-    "views": 1516,
+    "views": 1728,
     "forwards": 4
   },
   {
@@ -291,8 +345,8 @@
     "title": "Donetsk: Drone incoming",
     "title_en": "Donetsk: Drone incoming",
     "title_uk": "Донецьк: Дрон вхід",
-    "description": "MISCELLANEOUS AND 114 ENEMY UAVS DOWN/SHUTDOWN On the night of April 14 (from 18:00 on April 13), the enemy attacked with four Kh-59/69 guided air missiles from the TOT of the Donetsk region, and 129 strike UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Kursk, Orel, Bryansk, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Chauda - TOT AR Crimea, about 90 of them are \"shahedy\". Air strike...",
-    "description_en": "MISCELLANEOUS AND 114 ENEMY UAVS DOWN/SHUTDOWN On the night of April 14 (from 18:00 on April 13), the enemy attacked with four Kh-59/69 guided air missiles from the TOT of the Donetsk region, and 129 strike UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Kursk, Orel, Bryansk, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Chauda - TOT AR Crimea, about 90 of them are \"shahedy\". Air strike...",
+    "description": "MISCELLANEOUS AND 114 ENEMY UAVS BROKEN DOWN/SUPPRESSED On the night of April 14 (from 18:00 on April 13), the enemy attacked with four Kh-59/69 guided air missiles from the TOT of the Donetsk region, and 129 strike UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Kursk, Orel, Bryansk, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Chauda - TOT AR Crimea, about 90 of them are \"shahedy\". Air strike...",
+    "description_en": "MISCELLANEOUS AND 114 ENEMY UAVS BROKEN DOWN/SUPPRESSED On the night of April 14 (from 18:00 on April 13), the enemy attacked with four Kh-59/69 guided air missiles from the TOT of the Donetsk region, and 129 strike UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Kursk, Orel, Bryansk, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Chauda - TOT AR Crimea, about 90 of them are \"shahedy\". Air strike...",
     "description_uk": "ЗБИТО/ПОДАВЛЕНО РАКЕТУ ТА 114 ВОРОЖИХ БПЛА У ніч на 14 квітня (з 18:00 13 квітня) противник атакував чотирма керованими авіаційними ракетами Х-59/69 із ТОТ Донецької обл., та 129 ударними БпЛА типу Shahed, Гербера, Італмас та безпілотниками інших типів із напрямків: Курськ, Орел, Брянськ, Приморсько-Ахтарськ – рф., ТОТ Донецьк, Чауда – ТОТ АР Крим, близько 90 із них – \"шахеди\". Повітряний напад...",
     "time": "",
     "pubDate": "2026-04-14T05:18:29+00:00",
@@ -302,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37287",
     "score": 13.0,
-    "views": 5496,
+    "views": 5576,
     "forwards": 15
   },
   {
@@ -392,61 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18644",
     "score": 4.5,
-    "views": 126501,
+    "views": 128094,
     "forwards": 245
-  },
-  {
-    "title": "The future is already at the front, and Ukraine is creating it. These...",
-    "title_en": "The future is already at the front, and Ukraine is creating it. These...",
-    "title_uk": "Майбутнє вже на фронті, і Україна його створює. Ці...",
-    "description": "The future is already at the front, and Ukraine is creating it. These are our ground robotic complexes. For the first time in the history of this war, the enemy's position was taken exclusively by unmanned platforms - NRK and drones. The occupiers surrendered, and this operation was carried out without the participation of infantry and without loss on our part. \"Ratel\", \"termite\", \"ardal\", \"lynx\", \"snake\", \"protector\", \"volya\" and our other NRCs in just three months completed...",
-    "description_en": "The future is already at the front, and Ukraine is creating it. These are our ground robotic complexes. For the first time in the history of this war, the enemy's position was taken exclusively by unmanned platforms - NRK and drones. The occupiers surrendered, and this operation was carried out without the participation of infantry and without loss on our part. \"Ratel\", \"termite\", \"ardal\", \"lynx\", \"snake\", \"protector\", \"volya\" and our other NRCs in just three months completed...",
-    "description_uk": "Майбутнє вже на фронті, і його творить Україна. Це наші наземні роботизовані комплекси. Вперше в історії цієї війни ворожу позицію було взято виключно безпілотними платформами – НРК та дронами. Окупанти здалися в полон, і цю операцію виконали без участі піхоти й без втрат із нашого боку. «Ратель», «терміт», «ардал», «рись», «змій», «протектор», «воля» та інші наші НРК лише за три місяці виконали...",
-    "time": "",
-    "pubDate": "2026-04-13T17:02:14+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18640",
-    "score": 9.5,
-    "views": 79741,
-    "forwards": 469
-  },
-  {
-    "title": "Kyiv: Drone strike",
-    "title_en": "Kyiv: Drone strike",
-    "title_uk": "Київ: Дрон-удар",
-    "description": "Ukrainian drones hit chemical plant in Russian city of Cherepovets, reports suggest. Ukrainian drones struck a major industrial facility in the Russian city of Cherepovets overnight, targeting a chemical plant producing fertilizers and industrial compounds, according to Russian independent outlet Astra.",
-    "description_en": "Ukrainian drones hit chemical plant in Russian city of Cherepovets, reports suggest. Ukrainian drones struck a major industrial facility in the Russian city of Cherepovets overnight, targeting a chemical plant producing fertilizers and industrial compounds, according to Russian independent outlet Astra.",
-    "description_uk": "Ukrainian drones hit chemical plant in Russian city of Cherepovets, reports suggest. Ukrainian drones struck a major industrial facility in the Russian city of Cherepovets overnight, targeting a chemical plant producing fertilizers and industrial compounds, according to Russian independent outlet Astra.",
-    "time": "",
-    "pubDate": "2026-04-13T16:12:33+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52489",
-    "score": 8.0,
-    "views": 1928,
-    "forwards": 1
-  },
-  {
-    "title": "In the conditions of modern war, it is technology, engineering...",
-    "title_en": "In the conditions of modern war, it is technology, engineering...",
-    "title_uk": "В умовах сучасної війни це техніка, техніка...",
-    "description": "In the conditions of modern war, it is technology, engineering solutions and the speed of adaptation to new challenges that determine the advantage. The Ukrainian defense-industrial complex demonstrates dynamic development, and gunsmiths respond promptly to changes on the battlefield every day. Hundreds of enterprises and hundreds of thousands of specialists work in the industry, providing the Defense Forces with modern weapons and equipment. High-precision systems,...",
-    "description_en": "In the conditions of modern war, it is technology, engineering solutions and the speed of adaptation to new challenges that determine the advantage. The Ukrainian defense-industrial complex demonstrates dynamic development, and gunsmiths respond promptly to changes on the battlefield every day. Hundreds of enterprises and hundreds of thousands of specialists work in the industry, providing the Defense Forces with modern weapons and equipment. High-precision systems,...",
-    "description_uk": "В умовах сучасної війни саме технології, інженерні рішення та швидкість адаптації до нових викликів визначають перевагу. Український оборонно-промисловий комплекс демонструє динамічний розвиток, а зброярі щодня оперативно реагують на зміни на полі бою. У галузі працюють сотні підприємств і сотні тисяч фахівців, які забезпечують Сили оборони сучасним озброєнням і технікою. Високоточні системи,...",
-    "time": "",
-    "pubDate": "2026-04-13T14:11:35+00:00",
-    "category": "shelling",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37252",
-    "score": 8.5,
-    "views": 3498,
-    "forwards": 5
   }
 ]
