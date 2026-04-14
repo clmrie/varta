@@ -1,5 +1,23 @@
 [
   {
+    "title": "Casualties reported",
+    "title_en": "Casualties reported",
+    "title_uk": "Повідомляється про постраждалих",
+    "description": "🤬 In Cherkasy, rioters killed an 8-year-old boy, UAVs attacked the city and the region. 9 people were also injured.",
+    "description_en": "🤬 In Cherkasy, rioters killed an 8-year-old boy, UAVs attacked the city and the region. 9 people were also injured.",
+    "description_uk": "🤬 В Черкассах рашисты убили 8-летнего мальчика, - ОВА Город и область атаковали БПЛА. Также пострадали 9 человек.",
+    "time": "",
+    "pubDate": "2026-04-14T16:56:32+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Cherkasy",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/189453",
+    "score": 5.5,
+    "views": 59131,
+    "forwards": 106
+  },
+  {
     "title": "Dnipro: Drone attack",
     "title_en": "Dnipro: Drone attack",
     "title_uk": "Дніпро: Атака безпілотників",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59970",
     "score": 6.0,
-    "views": 14144,
+    "views": 62659,
     "forwards": 1
   },
   {
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59969",
     "score": 5.0,
-    "views": 37359,
+    "views": 72767,
     "forwards": 1
   },
   {
@@ -86,7 +104,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8771",
     "score": 9.0,
-    "views": 461,
+    "views": 549,
     "forwards": 3
   },
   {
@@ -140,7 +158,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189440",
     "score": 9.5,
-    "views": 112268,
+    "views": 128459,
     "forwards": 72
   },
   {
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52501",
     "score": 4.0,
-    "views": 1393,
+    "views": 1584,
     "forwards": 4
   },
   {
@@ -194,7 +212,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37294",
     "score": 5.5,
-    "views": 19157,
+    "views": 20867,
     "forwards": 103
   },
   {
@@ -212,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52498",
     "score": 10.0,
-    "views": 1920,
+    "views": 2048,
     "forwards": 4
   },
   {
@@ -392,7 +410,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37287",
     "score": 13.0,
-    "views": 5690,
+    "views": 5820,
     "forwards": 16
   },
   {
@@ -430,23 +448,5 @@
     "score": 5.0,
     "views": 881,
     "forwards": 2
-  },
-  {
-    "title": "Attack attack",
-    "title_en": "Attack attack",
-    "title_uk": "Атака нападу",
-    "description": "For the first time in the history of Ukraine, the courage of our soldiers and the resilience of our people are armed enough to defend themselves against Russian attacks. Russia has not come for the first time to destroy Ukrainian statehood and will. But now Ukrainians are in the strongest positions than they were before - both in 2014, and in the 20th century, and even earlier. This is the historical result of our country: Ukraine was able to withstand a full-scale war...",
-    "description_en": "For the first time in the history of Ukraine, the courage of our soldiers and the resilience of our people are armed enough to defend themselves against Russian attacks. Russia has not come for the first time to destroy Ukrainian statehood and will. But now Ukrainians are in the strongest positions than they were before - both in 2014, and in the 20th century, and even earlier. This is the historical result of our country: Ukraine was able to withstand a full-scale war...",
-    "description_uk": "Сміливість наших воїнів та стійкість нашого народу вперше в історії України озброєні достатньо, щоб захищатись від російських ударів. Росія не вперше прийшла знищити українську державність і волю. Але зараз українці на найбільш сильних позиціях, ніж це було раніше – і у 2014 році, і у ХХ столітті, і ще раніше. Це історичний результат нашої держави: Україна змогла вистояти в повномасштабній війні...",
-    "time": "",
-    "pubDate": "2026-04-13T18:57:15+00:00",
-    "category": "political",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18644",
-    "score": 4.5,
-    "views": 129536,
-    "forwards": 259
   }
 ]
