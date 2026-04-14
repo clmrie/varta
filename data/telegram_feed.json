@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kryvyi Rih: BpLA headed for Kryvyi Rih from the south.",
+    "title_en": "Kryvyi Rih: BpLA headed for Kryvyi Rih from the south.",
+    "title_uk": "Кривий Ріг: BpLA прямувала на Кривий Ріг з півдня.",
+    "description": "BpLA headed for Kryvyi Rih from the south.",
+    "description_en": "BpLA headed for Kryvyi Rih from the south.",
+    "description_uk": "БпЛА курсом на Кривий Ріг з південного напрямку.",
+    "time": "",
+    "pubDate": "2026-04-14T04:00:25+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59932",
+    "score": 6.0,
+    "views": 39340,
+    "forwards": 1
+  },
+  {
+    "title": "Dnipro: Rockets headed for the Dnipro. Stay in shelters!",
+    "title_en": "Dnipro: Rockets headed for the Dnipro. Stay in shelters!",
+    "title_uk": "Дніпро: Ракети летіли на Дніпро. Залишайтеся в притулках!",
+    "description": "Rockets headed for the Dnipro. Stay in shelters!",
+    "description_en": "Rockets headed for the Dnipro. Stay in shelters!",
+    "description_uk": "Ракети курсом на Дніпро. Перебувайте в укриттях!",
+    "time": "",
+    "pubDate": "2026-04-14T03:27:54+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59929",
+    "score": 6.5,
+    "views": 70606,
+    "forwards": 139
+  },
+  {
+    "title": "Zaporizhzhia: Explosions reported",
+    "title_en": "Zaporizhzhia: Explosions reported",
+    "title_uk": "Запоріжжя: повідомляється про вибухи",
+    "description": "Drones reportedly strike targets in occupied Zaporizhzhia Oblast, Crimea. A substation was struck by drones in occupied Zaporizhzhia Oblast, and explosions were heard in several cities across Crimea overnight on April 14, Telegram channel Exilenova Plus reported.",
+    "description_en": "Drones reportedly strike targets in occupied Zaporizhzhia Oblast, Crimea. A substation was struck by drones in occupied Zaporizhzhia Oblast, and explosions were heard in several cities across Crimea overnight on April 14, Telegram channel Exilenova Plus reported.",
+    "description_uk": "Drones reportedly strike targets in occupied Zaporizhzhia Oblast, Crimea. A substation was struck by drones in occupied Zaporizhzhia Oblast, and explosions were heard in several cities across Crimea overnight on April 14, Telegram channel Exilenova Plus reported.",
+    "time": "",
+    "pubDate": "2026-04-14T02:17:30+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Zaporizhzhia",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52496",
+    "score": 8.0,
+    "views": 676,
+    "forwards": 0
+  },
+  {
     "title": "Izmail: BpLA in Odesa, heading for Izmail.",
     "title_en": "Izmail: BpLA in Odesa, heading for Izmail.",
     "title_uk": "Ізмаїл: BpLA в Одесі, курс на Ізмаїл.",
@@ -32,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52495",
     "score": 4.0,
-    "views": 398,
-    "forwards": 3
+    "views": 936,
+    "forwards": 4
   },
   {
     "title": "Drone incoming",
@@ -122,7 +176,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8745",
     "score": 5.0,
-    "views": 481,
+    "views": 585,
     "forwards": 2
   },
   {
@@ -139,9 +193,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18644",
-    "score": 3.5,
-    "views": 60784,
-    "forwards": 187
+    "score": 4.5,
+    "views": 85697,
+    "forwards": 203
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -248,26 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18640",
     "score": 9.5,
-    "views": 55127,
-    "forwards": 375
-  },
-  {
-    "title": "Kharkiv: BpLA from the north to the city of Kharkiv",
-    "title_en": "Kharkiv: BpLA from the north to the city of Kharkiv",
-    "title_uk": "Харків: БпЛА з півночі до м. Харкова",
-    "description": "BpLA from the north to the city of Kharkiv",
-    "description_en": "BpLA from the north to the city of Kharkiv",
-    "description_uk": "БпЛА з півночі на м.Харків",
-    "time": "",
-    "pubDate": "2026-04-13T16:52:14+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59898",
-    "score": 6.0,
-    "views": 10518,
-    "forwards": 1
+    "views": 60177,
+    "forwards": 390
   },
   {
     "title": "Missile launch detected",
@@ -284,8 +320,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189388",
     "score": 6.5,
-    "views": 154074,
-    "forwards": 271
+    "views": 169985,
+    "forwards": 284
   },
   {
     "title": "Kyiv: Drone strike",
@@ -304,42 +340,6 @@
     "score": 8.0,
     "views": 1928,
     "forwards": 1
-  },
-  {
-    "title": "Drone strike",
-    "title_en": "Drone strike",
-    "title_uk": "Безпілотний удар",
-    "description": "Our missiles, unmanned systems, our interceptors, attack and maritime drones and reconnaissance, artillery, ammunition, armored vehicles, robotic complexes and much more. All that today is truly proudly called \"weapons of Ukraine\". This is what strength hardened by battle, pain, and fire looks like. This is what protection looks like, the desire for freedom and justice. This is what quality and accuracy, perfection and...",
-    "description_en": "Our missiles, unmanned systems, our interceptors, attack and maritime drones and reconnaissance, artillery, ammunition, armored vehicles, robotic complexes and much more. All that today is truly proudly called \"weapons of Ukraine\". This is what strength hardened by battle, pain, and fire looks like. This is what protection looks like, the desire for freedom and justice. This is what quality and accuracy, perfection and...",
-    "description_uk": "Наші ракети, безпілотні системи, наші перехоплювачі, ударні та морські дрони й розвідники, артилерія, боєприпаси, бронетехніка, роботизовані комплекси й багато іншого. Все те, що сьогодні справді гордо називається «зброя України». Так виглядає сила, загартована боєм, болем, вогнем. Так виглядає захист, бажання свободи й справедливості. Так виглядає якість і влучність, досконалість і...",
-    "time": "",
-    "pubDate": "2026-04-13T16:10:01+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18635",
-    "score": 5.5,
-    "views": 174907,
-    "forwards": 846
-  },
-  {
-    "title": "Kyiv: Missile strike",
-    "title_en": "Kyiv: Missile strike",
-    "title_uk": "Київ: Ракетний удар",
-    "description": "German arms giant Rheinmetall to build missiles with Ruta maker Destinus. German defense giant Rheinmetall and Netherlands-based defense manufacturer Destinus announced plans on April 13 for a joint venture to produce advanced missile systems, including cruise missiles and rocket artillery systems, according to a statement. “Europe is entering a new phase of scaling missile production,” Mikhail...",
-    "description_en": "German arms giant Rheinmetall to build missiles with Ruta maker Destinus. German defense giant Rheinmetall and Netherlands-based defense manufacturer Destinus announced plans on April 13 for a joint venture to produce advanced missile systems, including cruise missiles and rocket artillery systems, according to a statement. “Europe is entering a new phase of scaling missile production,” Mikhail...",
-    "description_uk": "German arms giant Rheinmetall to build missiles with Ruta maker Destinus. German defense giant Rheinmetall and Netherlands-based defense manufacturer Destinus announced plans on April 13 for a joint venture to produce advanced missile systems, including cruise missiles and rocket artillery systems, according to a statement. “Europe is entering a new phase of scaling missile production,” Mikhail...",
-    "time": "",
-    "pubDate": "2026-04-13T16:04:34+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52488",
-    "score": 6.0,
-    "views": 1218,
-    "forwards": 4
   },
   {
     "title": "In the conditions of modern war, it is technology, engineering...",
