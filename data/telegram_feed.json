@@ -1,5 +1,23 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons!",
+    "description_en": "☄️ The threat of using ballistic weapons!",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння!",
+    "time": "",
+    "pubDate": "2026-04-14T08:29:12+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59944",
+    "score": 5.5,
+    "views": 90427,
+    "forwards": 70
+  },
+  {
     "title": "Artillery shelling",
     "title_en": "Artillery shelling",
     "title_uk": "Артилерійський обстріл",
@@ -13,14 +31,14 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189416",
-    "score": 5.0,
-    "views": 7400,
-    "forwards": 0
+    "score": 5.5,
+    "views": 81316,
+    "forwards": 142
   },
   {
     "title": "Kryvyi Rih: BpLA group headed for Kryvyi Rih 🛵 BpLA headed for Chernihiv.",
     "title_en": "Kryvyi Rih: BpLA group headed for Kryvyi Rih 🛵 BpLA headed for Chernihiv.",
-    "title_uk": "Кривий Ріг: група BpLA прямує до Кривого Рогу 🛵 BpLA прямує до Чернігова.",
+    "title_uk": "Кривий Ріг: Група BpLA прямує до Кривого Рогу 🛵 BpLA прямує до Чернігова.",
     "description": "BpLA group headed for Kryvyi Rih 🛵 BpLA headed for Chernihiv.",
     "description_en": "BpLA group headed for Kryvyi Rih 🛵 BpLA headed for Chernihiv.",
     "description_uk": "Група БпЛА курсом на Кривий Ріг 🛵 БпЛА курсом на Чернігів.",
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59943",
     "score": 6.0,
-    "views": 16342,
+    "views": 90760,
     "forwards": 21
   },
   {
@@ -50,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189414",
     "score": 9.5,
-    "views": 56798,
-    "forwards": 222
+    "views": 101836,
+    "forwards": 297
   },
   {
     "title": "Zaporizhzhia: BpLA heading to Dnipropetrovsk region from Zaporizhzhia",
@@ -122,8 +140,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37287",
     "score": 13.0,
-    "views": 4241,
-    "forwards": 11
+    "views": 4736,
+    "forwards": 12
   },
   {
     "title": "Kryvyi Rih: BpLA headed for Kryvyi Rih from the south.",
@@ -164,7 +182,7 @@
   {
     "title": "Zaporizhzhia: Explosions reported",
     "title_en": "Zaporizhzhia: Explosions reported",
-    "title_uk": "Запоріжжя: повідомляється про вибухи",
+    "title_uk": "Запоріжжя: Повідомляється про вибухи",
     "description": "Drones reportedly strike targets in occupied Zaporizhzhia Oblast, Crimea. A substation was struck by drones in occupied Zaporizhzhia Oblast, and explosions were heard in several cities across Crimea overnight on April 14, Telegram channel Exilenova Plus reported.",
     "description_en": "Drones reportedly strike targets in occupied Zaporizhzhia Oblast, Crimea. A substation was struck by drones in occupied Zaporizhzhia Oblast, and explosions were heard in several cities across Crimea overnight on April 14, Telegram channel Exilenova Plus reported.",
     "description_uk": "Drones reportedly strike targets in occupied Zaporizhzhia Oblast, Crimea. A substation was struck by drones in occupied Zaporizhzhia Oblast, and explosions were heard in several cities across Crimea overnight on April 14, Telegram channel Exilenova Plus reported.",
@@ -176,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52496",
     "score": 8.0,
-    "views": 1559,
+    "views": 1821,
     "forwards": 1
   },
   {
@@ -212,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52495",
     "score": 4.0,
-    "views": 1728,
+    "views": 1949,
     "forwards": 5
   },
   {
@@ -284,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8745",
     "score": 5.0,
-    "views": 808,
+    "views": 845,
     "forwards": 2
   },
   {
@@ -302,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18644",
     "score": 4.5,
-    "views": 108662,
-    "forwards": 225
+    "views": 116118,
+    "forwards": 229
   },
   {
     "title": "The future is already at the front, and Ukraine is creating it. These...",
@@ -320,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18640",
     "score": 9.5,
-    "views": 68699,
-    "forwards": 417
+    "views": 73151,
+    "forwards": 435
   },
   {
     "title": "Kyiv: Drone strike",
@@ -412,41 +430,5 @@
     "score": 3.5,
     "views": 141520,
     "forwards": 71
-  },
-  {
-    "title": "Zaporizhzhia: 98 drones launched",
-    "title_en": "Zaporizhzhia: 98 drones launched",
-    "title_uk": "Запоріжжя: запущено 98 дронів",
-    "description": "At least 2 killed, 6 injured in Russian strikes across Ukraine despite Easter ceasefire. Russian forces launched 98 drones against Ukraine overnight, of which 65 were Shahed-type drones, the Air Force said. Photo: Zaporizhzhia Oblast Military Administration",
-    "description_en": "At least 2 killed, 6 injured in Russian strikes across Ukraine despite Easter ceasefire. Russian forces launched 98 drones against Ukraine overnight, of which 65 were Shahed-type drones, the Air Force said. Photo: Zaporizhzhia Oblast Military Administration",
-    "description_uk": "At least 2 killed, 6 injured in Russian strikes across Ukraine despite Easter ceasefire. Russian forces launched 98 drones against Ukraine overnight, of which 65 were Shahed-type drones, the Air Force said. Photo: Zaporizhzhia Oblast Military Administration",
-    "time": "",
-    "pubDate": "2026-04-13T09:37:01+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Zaporizhzhia",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52481",
-    "score": 14.0,
-    "views": 1775,
-    "forwards": 5
-  },
-  {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
-    "description": "Investigation: Western companies miss deadline to exit Russia’s main drone production Manufacturers from Belgium, Germany, Switzerland, France, and the U.S. continue operating in the Alabuga Special Economic Zone, where Russia produces thousands of Shahed drones capable of reaching the EU. This investigation reveals that one American and six European companies still operate alongside the mass...",
-    "description_en": "Investigation: Western companies miss deadline to exit Russia’s main drone production Manufacturers from Belgium, Germany, Switzerland, France, and the U.S. continue operating in the Alabuga Special Economic Zone, where Russia produces thousands of Shahed drones capable of reaching the EU. This investigation reveals that one American and six European companies still operate alongside the mass...",
-    "description_uk": "Investigation: Western companies miss deadline to exit Russia’s main drone production Manufacturers from Belgium, Germany, Switzerland, France, and the U.S. continue operating in the Alabuga Special Economic Zone, where Russia produces thousands of Shahed drones capable of reaching the EU. This investigation reveals that one American and six European companies still operate alongside the mass...",
-    "time": "",
-    "pubDate": "2026-04-13T09:13:19+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52480",
-    "score": 14.0,
-    "views": 1859,
-    "forwards": 4
   }
 ]
