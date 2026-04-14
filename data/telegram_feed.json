@@ -1,5 +1,41 @@
 [
   {
+    "title": "Dnipro: Drone attack",
+    "title_en": "Dnipro: Drone attack",
+    "title_uk": "Дніпро: Атака безпілотників",
+    "description": "Several attack UAVs ➡️ in the east of Dnipropetrovsk region",
+    "description_en": "Several attack UAVs ➡️ in the east of Dnipropetrovsk region",
+    "description_uk": "Декілька ударних БпЛА ➡️ на сході Дніпропетровщини",
+    "time": "",
+    "pubDate": "2026-04-14T16:31:31+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59970",
+    "score": 6.0,
+    "views": 14144,
+    "forwards": 1
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea area ➡️ in the direction of Chornomorske in Odesa.",
+    "description_en": "UAV from the Black Sea area ➡️ in the direction of Chornomorske in Odesa.",
+    "description_uk": "БпЛА з акваторії Чорного моря ➡️ у напрямку Чорноморське на Одещині.",
+    "time": "",
+    "pubDate": "2026-04-14T16:05:24+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/59969",
+    "score": 5.0,
+    "views": 37359,
+    "forwards": 1
+  },
+  {
     "title": "Kryvyi Rih: A group of unmanned aerial vehicles ➡️ heading for Kryvyi Rih.",
     "title_en": "Kryvyi Rih: A group of unmanned aerial vehicles ➡️ heading for Kryvyi Rih.",
     "title_uk": "Кривий Ріг: Група безпілотних літальних апаратів ➡️ прямує до Кривого Рогу.",
@@ -50,8 +86,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8771",
     "score": 9.0,
-    "views": 294,
-    "forwards": 2
+    "views": 461,
+    "forwards": 3
   },
   {
     "title": "Kherson: Drone incoming",
@@ -103,9 +139,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189440",
-    "score": 9.0,
-    "views": 87368,
-    "forwards": 36
+    "score": 9.5,
+    "views": 112268,
+    "forwards": 72
   },
   {
     "title": "Kharkiv: Russia targets critical dam in Kharkiv Oblast with glide bombs,...",
@@ -122,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52501",
     "score": 4.0,
-    "views": 1083,
-    "forwards": 3
+    "views": 1393,
+    "forwards": 4
   },
   {
     "title": "Missile launch detected",
@@ -140,7 +176,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189438",
     "score": 8.5,
-    "views": 101368,
+    "views": 121973,
     "forwards": 180
   },
   {
@@ -158,8 +194,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37294",
     "score": 5.5,
-    "views": 16360,
-    "forwards": 100
+    "views": 19157,
+    "forwards": 103
   },
   {
     "title": "Zaporizhzhia: Strike confirmed on residential building",
@@ -176,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52498",
     "score": 10.0,
-    "views": 1728,
+    "views": 1920,
     "forwards": 4
   },
   {
@@ -356,44 +392,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37287",
     "score": 13.0,
-    "views": 5576,
-    "forwards": 15
-  },
-  {
-    "title": "Kryvyi Rih: BpLA headed for Kryvyi Rih from the south.",
-    "title_en": "Kryvyi Rih: BpLA headed for Kryvyi Rih from the south.",
-    "title_uk": "Кривий Ріг: BpLA прямувала на Кривий Ріг з півдня.",
-    "description": "BpLA headed for Kryvyi Rih from the south.",
-    "description_en": "BpLA headed for Kryvyi Rih from the south.",
-    "description_uk": "БпЛА курсом на Кривий Ріг з південного напрямку.",
-    "time": "",
-    "pubDate": "2026-04-14T04:00:25+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59932",
-    "score": 6.0,
-    "views": 39340,
-    "forwards": 1
-  },
-  {
-    "title": "Dnipro: Rockets headed for the Dnipro. Stay in shelters!",
-    "title_en": "Dnipro: Rockets headed for the Dnipro. Stay in shelters!",
-    "title_uk": "Дніпро: Ракети летіли на Дніпро. Залишайтеся в притулках!",
-    "description": "Rockets headed for the Dnipro. Stay in shelters!",
-    "description_en": "Rockets headed for the Dnipro. Stay in shelters!",
-    "description_uk": "Ракети курсом на Дніпро. Перебувайте в укриттях!",
-    "time": "",
-    "pubDate": "2026-04-14T03:27:54+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59929",
-    "score": 6.5,
-    "views": 70606,
-    "forwards": 139
+    "views": 5690,
+    "forwards": 16
   },
   {
     "title": "Zaporizhzhia: Explosions reported",
@@ -446,7 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18644",
     "score": 4.5,
-    "views": 128094,
-    "forwards": 245
+    "views": 129536,
+    "forwards": 259
   }
 ]
