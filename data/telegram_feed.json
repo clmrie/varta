@@ -1,5 +1,23 @@
 [
   {
+    "title": "Poland and Iceland joined the agreement to launch the Special...",
+    "title_en": "Poland and Iceland joined the agreement to launch the Special...",
+    "title_uk": "Польща та Ісландія приєдналися до угоди про запуск Спец...",
+    "description": "Poland and Iceland joined the agreement to launch the Special Tribunal for the crime of aggression against Ukraine. The required number of 17 member states of the Council of Europe has been reached to put the agreement to the vote in May, - Minister Andrii Sybiga.",
+    "description_en": "Poland and Iceland joined the agreement to launch the Special Tribunal for the crime of aggression against Ukraine. The required number of 17 member states of the Council of Europe has been reached to put the agreement to the vote in May, - Minister Andrii Sybiga.",
+    "description_uk": "Польща та Ісландія приєдналися до угоди для запуску Спецтрибуналу щодо злочину агресії проти України. Досягнуто необхідної кількості — 17 держав-членів Ради Європи — для винесення угоди на голосування у травні, — міністр Андрій Сибіга.",
+    "time": "",
+    "pubDate": "2026-04-14T19:17:29+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/8781",
+    "score": 5.0,
+    "views": 410,
+    "forwards": 11
+  },
+  {
     "title": "Missile launch detected",
     "title_en": "Missile launch detected",
     "title_uk": "Виявлено запуск ракети",
@@ -13,9 +31,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189458",
-    "score": 9.5,
-    "views": 21551,
-    "forwards": 141
+    "score": 10.5,
+    "views": 78081,
+    "forwards": 245
   },
   {
     "title": "Casualties reported",
@@ -32,8 +50,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189453",
     "score": 5.5,
-    "views": 96007,
-    "forwards": 109
+    "views": 119951,
+    "forwards": 110
   },
   {
     "title": "Dnipro: Drone attack",
@@ -50,8 +68,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59970",
     "score": 6.0,
-    "views": 82431,
-    "forwards": 1
+    "views": 97641,
+    "forwards": 16
   },
   {
     "title": "Drone incoming",
@@ -68,8 +86,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/59969",
     "score": 5.0,
-    "views": 89404,
-    "forwards": 1
+    "views": 102801,
+    "forwards": 14
   },
   {
     "title": "Kryvyi Rih: A group of unmanned aerial vehicles ➡️ heading for Kryvyi Rih.",
@@ -122,7 +140,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8771",
     "score": 9.0,
-    "views": 587,
+    "views": 631,
     "forwards": 3
   },
   {
@@ -194,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52501",
     "score": 4.0,
-    "views": 1748,
+    "views": 1939,
     "forwards": 4
   },
   {
@@ -212,7 +230,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37294",
     "score": 5.5,
-    "views": 22199,
+    "views": 23442,
     "forwards": 103
   },
   {
@@ -230,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52498",
     "score": 10.0,
-    "views": 2155,
+    "views": 2287,
     "forwards": 4
   },
   {
@@ -324,24 +342,6 @@
     "forwards": 21
   },
   {
-    "title": "Missile attack on infrastructure",
-    "title_en": "Missile attack on infrastructure",
-    "title_uk": "Ракетний удар по інфраструктурі",
-    "description": "Russia can force Lithuania to capitulate in 90 days even without deploying troops — Defense News The publication writes that such a scenario was modeled by the Baltic Defense Initiative analytical center during the study of the country's defense vulnerabilities. According to the scenario, the Russian Federation first attacks the authorities with hypersonic missiles, and then within 60 days uses more than 170 thousand Shahed drones on the country's infrastructure....",
-    "description_en": "Russia can force Lithuania to capitulate in 90 days even without deploying troops — Defense News The publication writes that such a scenario was modeled by the Baltic Defense Initiative analytical center during the study of the country's defense vulnerabilities. According to the scenario, the Russian Federation first attacks the authorities with hypersonic missiles, and then within 60 days uses more than 170 thousand Shahed drones on the country's infrastructure....",
-    "description_uk": "россия может заставить Литву капитулировать за 90 дней даже без ввода войск, — Defence News Издание пишет, что такой сценарий смоделировал аналитический центр Baltic Defense Initiative во время исследования уязвимостей обороны страны. По сценарию, рф сначала атакует органы власти гиперзвуковыми ракетами, а затем в течение 60 дней применяет более 170 тысяч дронов «Шахед» по инфраструктуре страны....",
-    "time": "",
-    "pubDate": "2026-04-14T07:15:56+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/189414",
-    "score": 9.5,
-    "views": 131412,
-    "forwards": 340
-  },
-  {
     "title": "Attack attack on energy grid",
     "title_en": "Attack attack on energy grid",
     "title_uk": "Атака на енергетичну мережу",
@@ -374,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37287",
     "score": 13.0,
-    "views": 5871,
+    "views": 6043,
     "forwards": 16
   },
   {
@@ -394,23 +394,5 @@
     "score": 8.0,
     "views": 2193,
     "forwards": 1
-  },
-  {
-    "title": "🇳 Andriy Sybiga held a meeting with the special representative of the...",
-    "title_en": "🇳 Andriy Sybiga held a meeting with the special representative of the...",
-    "title_uk": "🇳 Андрій Сибіга провів зустріч зі спеціальним представником...",
-    "description": "🇳 Andriy Sybiga held a meeting with the special representative of the UN Secretary General on children and armed conflicts, Vanessa Fraser 💬 \"For Ukraine, the return of our children is one of the key priorities. I emphasized that lasting peace is impossible without their return home. So far, we have managed to return more than two thousand children, but many of them are still being forcibly and illegally...",
-    "description_en": "🇳 Andriy Sybiga held a meeting with the special representative of the UN Secretary General on children and armed conflicts, Vanessa Fraser 💬 \"For Ukraine, the return of our children is one of the key priorities. I emphasized that lasting peace is impossible without their return home. So far, we have managed to return more than two thousand children, but many of them are still being forcibly and illegally...",
-    "description_uk": "🇳 Андрій Сибіга провів зустріч зі спеціальною представницею Генерального секретаря ООН з питань дітей і збройних конфліктів Ванессою Фрейзер 💬 «Для України повернення наших дітей є одним із ключових пріоритетів. Я наголосив, що сталий мир неможливий без їхнього повернення додому. Наразі нам вдалося повернути понад дві тисячі дітей, однак багато з них досі залишаються примусово та незаконно...",
-    "time": "",
-    "pubDate": "2026-04-13T19:24:52+00:00",
-    "category": "political",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/8745",
-    "score": 5.0,
-    "views": 881,
-    "forwards": 2
   }
 ]
