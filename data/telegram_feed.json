@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: 324 drones launched",
+    "title_en": "Kyiv: 324 drones launched",
+    "title_uk": "Київ: запущено 324 дрони",
+    "description": "At least 7 killed, 64 injured in Russian strikes across Ukraine over past day. Russian forces launched 324 drones and three Iskander-M ballistic missiles into Ukraine overnight, the Air Force said. Photo: Ukraine's Emergency Service",
+    "description_en": "At least 7 killed, 64 injured in Russian strikes across Ukraine over past day. Russian forces launched 324 drones and three Iskander-M ballistic missiles into Ukraine overnight, the Air Force said. Photo: Ukraine's Emergency Service",
+    "description_uk": "At least 7 killed, 64 injured in Russian strikes across Ukraine over past day. Russian forces launched 324 drones and three Iskander-M ballistic missiles into Ukraine overnight, the Air Force said. Photo: Ukraine's Emergency Service",
+    "time": "",
+    "pubDate": "2026-04-15T09:49:42+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52511",
+    "score": 14.0,
+    "views": 128,
+    "forwards": 1
+  },
+  {
+    "title": "UAV to Odesa (Bay) from the Black Sea.",
+    "title_en": "UAV to Odesa (Bay) from the Black Sea.",
+    "title_uk": "БПЛА до Одеси (бухта) з боку Чорного моря.",
+    "description": "UAV to Odesa (Bay) from the Black Sea.",
+    "description_en": "UAV to Odesa (Bay) from the Black Sea.",
+    "description_uk": "БпЛА на Одещину (Затока) з акваторії Чорного моря.",
+    "time": "",
+    "pubDate": "2026-04-15T08:58:39+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60007",
+    "score": 5.0,
+    "views": 50470,
+    "forwards": 1
+  },
+  {
+    "title": "Dnipro: BpLA on the Dnipro from the west.",
+    "title_en": "Dnipro: BpLA on the Dnipro from the west.",
+    "title_uk": "Дніпро: БпЛА на Дніпрі із зах.",
+    "description": "BpLA on the Dnipro from the west.",
+    "description_en": "BpLA on the Dnipro from the west.",
+    "description_uk": "БпЛА на Дніпро із заходу.",
+    "time": "",
+    "pubDate": "2026-04-15T08:32:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60006",
+    "score": 6.0,
+    "views": 64647,
+    "forwards": 35
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -50,8 +104,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37326",
     "score": 10.0,
-    "views": 1700,
-    "forwards": 5
+    "views": 2654,
+    "forwards": 6
   },
   {
     "title": "🇳🇴 Within the framework of the visit of the President of Ukraine...",
@@ -68,8 +122,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8782",
     "score": 3.5,
-    "views": 536,
-    "forwards": 3
+    "views": 610,
+    "forwards": 4
   },
   {
     "title": "Kursk: Drone incoming",
@@ -212,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8781",
     "score": 5.0,
-    "views": 1010,
+    "views": 1036,
     "forwards": 16
   },
   {
@@ -230,7 +284,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189458",
     "score": 10.5,
-    "views": 179385,
+    "views": 184710,
     "forwards": 274
   },
   {
@@ -284,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52501",
     "score": 4.0,
-    "views": 2556,
+    "views": 2590,
     "forwards": 5
   },
   {
