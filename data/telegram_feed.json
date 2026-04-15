@@ -1,5 +1,41 @@
 [
   {
+    "title": "Mykolaiv: BpLA from the Mykolayiv region to Odesa in the district. n.p....",
+    "title_en": "Mykolaiv: BpLA from the Mykolayiv region to Odesa in the district. n.p....",
+    "title_uk": "Миколаїв: БпЛА від Миколаївської області до Одеси в район. н.п....",
+    "description": "BpLA from the Mykolayiv region to Odesa in the district. n.p. Berezivka",
+    "description_en": "BpLA from the Mykolayiv region to Odesa in the district. n.p. Berezivka",
+    "description_uk": "БпЛА з Миколаївщини на Одещину в р-ні. н.п. Березівка.",
+    "time": "",
+    "pubDate": "2026-04-15T22:23:17+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60073",
+    "score": 6.0,
+    "views": 2006,
+    "forwards": 1
+  },
+  {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "Enemy UAVs attack Odessa from the Black Sea",
+    "description_en": "Enemy UAVs attack Odessa from the Black Sea",
+    "description_uk": "Ворожі БпЛА на Одесу з Чорного моря",
+    "time": "",
+    "pubDate": "2026-04-15T22:11:16+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60072",
+    "score": 5.0,
+    "views": 11155,
+    "forwards": 1
+  },
+  {
     "title": "Mykolaiv: Groups of enemy unmanned aerial vehicles from the Kherson region to...",
     "title_en": "Mykolaiv: Groups of enemy unmanned aerial vehicles from the Kherson region to...",
     "title_uk": "Миколаїв: групи ворожих безпілотників з Херсонської області до...",
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52531",
     "score": 8.0,
-    "views": 1086,
+    "views": 1232,
     "forwards": 5
   },
   {
@@ -122,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189514",
     "score": 5.5,
-    "views": 107585,
-    "forwards": 152
+    "views": 113288,
+    "forwards": 184
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the south-eastern...",
@@ -194,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18684",
     "score": 4.0,
-    "views": 57273,
-    "forwards": 104
+    "views": 60069,
+    "forwards": 106
   },
   {
     "title": "Airstrike attack",
@@ -212,7 +248,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18681",
     "score": 5.5,
-    "views": 56628,
+    "views": 57591,
     "forwards": 67
   },
   {
@@ -230,8 +266,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189507",
     "score": 4.5,
-    "views": 137025,
-    "forwards": 351
+    "views": 140735,
+    "forwards": 383
   },
   {
     "title": "BpLA on Bila Tserkva from the south",
@@ -374,7 +410,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52522",
     "score": 5.0,
-    "views": 1925,
+    "views": 1983,
     "forwards": 2
   },
   {
@@ -412,41 +448,5 @@
     "score": 4.0,
     "views": 1538,
     "forwards": 0
-  },
-  {
-    "title": "BpLA in the Kryvyi Rih region.",
-    "title_en": "BpLA in the Kryvyi Rih region.",
-    "title_uk": "БпЛА у Криворізькій обл.",
-    "description": "BpLA in the Kryvyi Rih region.",
-    "description_en": "BpLA in the Kryvyi Rih region.",
-    "description_uk": "БпЛА в районі Кривого Рогу.",
-    "time": "",
-    "pubDate": "2026-04-15T14:38:20+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60031",
-    "score": 5.0,
-    "views": 26211,
-    "forwards": 1
-  },
-  {
-    "title": "Kyiv: Explosions reported",
-    "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомлення про вибухи",
-    "description": "Explosions rock 2 Russian gunpowder factories as fire breaks out. Explosions and fires broke out at Russian gunpowder factories in the Tatarstan Republic and Samara Oblast, both occurring over the past day, Russian independent outlet Astra reported.",
-    "description_en": "Explosions rock 2 Russian gunpowder factories as fire breaks out. Explosions and fires broke out at Russian gunpowder factories in the Tatarstan Republic and Samara Oblast, both occurring over the past day, Russian independent outlet Astra reported.",
-    "description_uk": "Explosions rock 2 Russian gunpowder factories as fire breaks out. Explosions and fires broke out at Russian gunpowder factories in the Tatarstan Republic and Samara Oblast, both occurring over the past day, Russian independent outlet Astra reported.",
-    "time": "",
-    "pubDate": "2026-04-15T13:58:36+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52518",
-    "score": 5.0,
-    "views": 634,
-    "forwards": 3
   }
 ]
