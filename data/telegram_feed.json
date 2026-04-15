@@ -1,5 +1,77 @@
 [
   {
+    "title": "500 drones",
+    "title_en": "500 drones",
+    "title_uk": "500 дронів",
+    "description": "During the day, the drone wants to launch 300-500 drones across Ukraine, the main launches should be from the south, - \"Nikolaevsky Vanek\"",
+    "description_en": "During the day, the drone wants to launch 300-500 drones across Ukraine, the main launches should be from the south, - \"Nikolaevsky Vanek\"",
+    "description_uk": "В течение дня кацапня хочет запустить 300-500 дронов по Украине, основные пуски должны быть с юга, - \"Николаевский Ванек\"",
+    "time": "",
+    "pubDate": "2026-04-15T10:52:20+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/189479",
+    "score": 3.0,
+    "views": 8498,
+    "forwards": 35
+  },
+  {
+    "title": "BpLA from Sumy region to Poltava region.",
+    "title_en": "BpLA from Sumy region to Poltava region.",
+    "title_uk": "БпЛА із Сумщини на Полтавщину.",
+    "description": "BpLA from Sumy region to Poltava region.",
+    "description_en": "BpLA from Sumy region to Poltava region.",
+    "description_uk": "БпЛА з Сумщини на Полтавщину.",
+    "time": "",
+    "pubDate": "2026-04-15T10:46:53+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60015",
+    "score": 5.0,
+    "views": 17136,
+    "forwards": 1
+  },
+  {
+    "title": "Hungary unblocks the EU loan to Ukraine after the launch of...",
+    "title_en": "Hungary unblocks the EU loan to Ukraine after the launch of...",
+    "title_uk": "Угорщина розблокувала кредит ЄС Україні після запуску...",
+    "description": "Hungary unblocks the EU loan to Ukraine after the launch of \"Druzhba\", - Bloomberg As the future Prime Minister Magyar said, Orban will remove the veto as soon as Ukraine restores the transit of Russian oil through the pipeline. The deliveries were stopped in January after damage to \"Friendship\", after which Budapest blocked the loan. Ukraine promises to resume transit by the end of April.",
+    "description_en": "Hungary unblocks the EU loan to Ukraine after the launch of \"Druzhba\", - Bloomberg As the future Prime Minister Magyar said, Orban will remove the veto as soon as Ukraine restores the transit of Russian oil through the pipeline. The deliveries were stopped in January after damage to \"Friendship\", after which Budapest blocked the loan. Ukraine promises to resume transit by the end of April.",
+    "description_uk": "Венгрия разблокирует кредит ЕС Украине после запуска \"Дружбы\", - Bloomberg Как заявил будущий премьер Мадьяр, Орбан снимет вето, как только Украина восстановит транзит российской нефти по трубопроводу. Поставки были остановлены в январе после повреждения \"Дружбы\", после чего Будапешт заблокировал кредит. Украина обещает возобновить транзит до конца апреля.",
+    "time": "",
+    "pubDate": "2026-04-15T10:32:48+00:00",
+    "category": "political",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/189478",
+    "score": 5.5,
+    "views": 34489,
+    "forwards": 111
+  },
+  {
+    "title": "Mykolaiv: BpLA from Kherson region to Mykolaiv region.",
+    "title_en": "Mykolaiv: BpLA from Kherson region to Mykolaiv region.",
+    "title_uk": "Миколаїв: БпЛА від Херсонщини до Миколаївщини.",
+    "description": "BpLA from Kherson region to Mykolaiv region.",
+    "description_en": "BpLA from Kherson region to Mykolaiv region.",
+    "description_uk": "БпЛА з Херсонщини на Миколаївщину.",
+    "time": "",
+    "pubDate": "2026-04-15T10:28:35+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60014",
+    "score": 6.0,
+    "views": 50543,
+    "forwards": 35
+  },
+  {
     "title": "Kyiv: 324 drones launched",
     "title_en": "Kyiv: 324 drones launched",
     "title_uk": "Київ: запущено 324 дрони",
@@ -14,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52511",
     "score": 14.0,
-    "views": 128,
-    "forwards": 1
+    "views": 696,
+    "forwards": 2
   },
   {
     "title": "UAV to Odesa (Bay) from the Black Sea.",
@@ -104,8 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37326",
     "score": 10.0,
-    "views": 2654,
-    "forwards": 6
+    "views": 3172,
+    "forwards": 8
   },
   {
     "title": "🇳🇴 Within the framework of the visit of the President of Ukraine...",
@@ -122,7 +194,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8782",
     "score": 3.5,
-    "views": 610,
+    "views": 633,
     "forwards": 4
   },
   {
@@ -234,24 +306,6 @@
     "forwards": 1
   },
   {
-    "title": "Kharkiv: Kharkiv region: BpLA ➡️ heading for Zlatopil, Vilshany, Lubotyn.",
-    "title_en": "Kharkiv: Kharkiv region: BpLA ➡️ heading for Zlatopil, Vilshany, Lubotyn.",
-    "title_uk": "Харків: Харківська область: BpLA ➡️ курс на Златопіль, Вільшани, Люботин.",
-    "description": "Kharkiv region: BpLA ➡️ heading for Zlatopil, Vilshany, Lubotyn.",
-    "description_en": "Kharkiv region: BpLA ➡️ heading for Zlatopil, Vilshany, Lubotyn.",
-    "description_uk": "Харківщина: БпЛА ➡️ курсом на Златопіль, Вільшани, Люботин.",
-    "time": "",
-    "pubDate": "2026-04-14T22:05:13+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/59972",
-    "score": 6.0,
-    "views": 16399,
-    "forwards": 10
-  },
-  {
     "title": "Poland and Iceland joined the agreement to launch the Special...",
     "title_en": "Poland and Iceland joined the agreement to launch the Special...",
     "title_uk": "Польща та Ісландія приєдналися до угоди про запуск Спец...",
@@ -266,26 +320,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8781",
     "score": 5.0,
-    "views": 1036,
+    "views": 1045,
     "forwards": 16
-  },
-  {
-    "title": "Missile launch detected",
-    "title_en": "Missile launch detected",
-    "title_uk": "Виявлено запуск ракети",
-    "description": "Russia may launch a new attack on Ukraine tonight, - Zelensky \"Another Russian attack may follow tonight. There are many \"Shahedov\" in the sky over Ukraine now. Perhaps missiles will also be used\"",
-    "description_en": "Russia may launch a new attack on Ukraine tonight, - Zelensky \"Another Russian attack may follow tonight. There are many \"Shahedov\" in the sky over Ukraine now. Perhaps missiles will also be used\"",
-    "description_uk": "россия может нанести новый удар по Украине сегодня ночью, - Зеленский \"Сегодня ночью может последовать очередной российский удар. В небе над Украиной сейчас много \"Шахедов\". Возможно, будут задействованы и ракеты\"",
-    "time": "",
-    "pubDate": "2026-04-14T18:38:35+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/189458",
-    "score": 10.5,
-    "views": 184710,
-    "forwards": 274
   },
   {
     "title": "Casualties reported",
@@ -338,25 +374,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52501",
     "score": 4.0,
-    "views": 2590,
+    "views": 2626,
     "forwards": 5
-  },
-  {
-    "title": "Zaporizhzhia: Strike confirmed on residential building",
-    "title_en": "Zaporizhzhia: Strike confirmed on residential building",
-    "title_uk": "Запоріжжя: підтверджено удар по житловому будинку",
-    "description": "At least 2 killed, 18 injured in Russian strikes across Ukraine over past day Although the Ukrainian Air Force successfully intercepted 115 aerial targets, several strikes impacted civilian infrastructure across Kherson, Kharkiv, Zaporizhzhia, Dnipropetrovsk, Odesa oblasts and the city of Chernihiv, damaging a medical facility, residential complexes, and port facilities. Photo: Local authorities",
-    "description_en": "At least 2 killed, 18 injured in Russian strikes across Ukraine over past day Although the Ukrainian Air Force successfully intercepted 115 aerial targets, several strikes impacted civilian infrastructure across Kherson, Kharkiv, Zaporizhzhia, Dnipropetrovsk, Odesa oblasts and the city of Chernihiv, damaging a medical facility, residential complexes, and port facilities. Photo: Local authorities",
-    "description_uk": "At least 2 killed, 18 injured in Russian strikes across Ukraine over past day Although the Ukrainian Air Force successfully intercepted 115 aerial targets, several strikes impacted civilian infrastructure across Kherson, Kharkiv, Zaporizhzhia, Dnipropetrovsk, Odesa oblasts and the city of Chernihiv, damaging a medical facility, residential complexes, and port facilities. Photo: Local authorities",
-    "time": "",
-    "pubDate": "2026-04-14T10:39:13+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Zaporizhzhia",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52498",
-    "score": 10.0,
-    "views": 2801,
-    "forwards": 4
   }
 ]
