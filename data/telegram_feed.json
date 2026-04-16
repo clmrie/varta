@@ -1,5 +1,41 @@
 [
   {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-04-16T18:23:55+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60144",
+    "score": 5.0,
+    "views": 28290,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: BpLA heading for Dnipro from the south.",
+    "title_en": "Dnipro: BpLA heading for Dnipro from the south.",
+    "title_uk": "Дніпро: BpLA прямує до Дніпра з півдня.",
+    "description": "BpLA heading for Dnipro from the south.",
+    "description_en": "BpLA heading for Dnipro from the south.",
+    "description_uk": "БпЛА курсом на м.Дніпро з півдня.",
+    "time": "",
+    "pubDate": "2026-04-16T18:13:46+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60143",
+    "score": 6.0,
+    "views": 39418,
+    "forwards": 1
+  },
+  {
     "title": "Together with the Prime Minister of the Netherlands, Rob Yetten, they...",
     "title_en": "Together with the Prime Minister of the Netherlands, Rob Yetten, they...",
     "title_uk": "Разом із прем’єр-міністром Нідерландів Робом Йеттеном вони...",
@@ -13,27 +49,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18704",
-    "score": 5.0,
-    "views": 639,
-    "forwards": 13
-  },
-  {
-    "title": "Dnipro: BpLA heading for Dnipro from the south",
-    "title_en": "Dnipro: BpLA heading for Dnipro from the south",
-    "title_uk": "Дніпро: BpLA прямує до Дніпра з півдня",
-    "description": "BpLA heading for Dnipro from the south",
-    "description_en": "BpLA heading for Dnipro from the south",
-    "description_uk": "БпЛА курсом на м.Дніпро з півдня",
-    "time": "",
-    "pubDate": "2026-04-16T17:33:09+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60140",
-    "score": 6.0,
-    "views": 13127,
-    "forwards": 1
+    "score": 5.5,
+    "views": 35284,
+    "forwards": 81
   },
   {
     "title": "Drone strike",
@@ -49,9 +67,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189582",
-    "score": 5.0,
-    "views": 31199,
-    "forwards": 38
+    "score": 5.5,
+    "views": 80763,
+    "forwards": 75
   },
   {
     "title": "Attack attack",
@@ -68,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189578",
     "score": 4.0,
-    "views": 48405,
-    "forwards": 1
+    "views": 86119,
+    "forwards": 35
   },
   {
     "title": "Airstrike attack",
@@ -104,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52554",
     "score": 9.5,
-    "views": 1167,
-    "forwards": 3
+    "views": 1459,
+    "forwards": 4
   },
   {
     "title": "Kharkiv: BpLA headed for the city of Kharkiv from the north.",
@@ -140,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52552",
     "score": 10.0,
-    "views": 1598,
+    "views": 1788,
     "forwards": 0
   },
   {
@@ -194,7 +212,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18696",
     "score": 13.5,
-    "views": 54689,
+    "views": 59233,
     "forwards": 101
   },
   {
@@ -284,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8793",
     "score": 10.0,
-    "views": 2492,
+    "views": 2583,
     "forwards": 19
   },
   {
@@ -324,24 +342,6 @@
     "forwards": 142
   },
   {
-    "title": "Zaporizhzhia: BpLA heading to Zaporozhye from the south",
-    "title_en": "Zaporizhzhia: BpLA heading to Zaporozhye from the south",
-    "title_uk": "Запоріжжя: BpLA прямує до Запоріжжя з півдня",
-    "description": "BpLA heading to Zaporozhye from the south",
-    "description_en": "BpLA heading to Zaporozhye from the south",
-    "description_uk": "БпЛА курсом на м.Запоріжжя з півдня",
-    "time": "",
-    "pubDate": "2026-04-16T06:39:21+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60120",
-    "score": 6.0,
-    "views": 121247,
-    "forwards": 1
-  },
-  {
     "title": "The meeting of the 6th interdepartmental working group on the...",
     "title_en": "The meeting of the 6th interdepartmental working group on the...",
     "title_uk": "Засідання 6 міжвідомчої робочої групи з...",
@@ -356,26 +356,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37366",
     "score": 5.0,
-    "views": 5283,
+    "views": 5416,
     "forwards": 14
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-04-16T06:16:40+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60117",
-    "score": 5.0,
-    "views": 107503,
-    "forwards": 1
   },
   {
     "title": "Dnipro: 13 killed, 86 injured",
@@ -448,5 +430,23 @@
     "score": 5.0,
     "views": 88054,
     "forwards": 3
+  },
+  {
+    "title": "000 drones launched",
+    "title_en": "000 drones launched",
+    "title_uk": "Запущено 000 дронів",
+    "description": "🇬🇧 Great Britain will hand over 120,000 drones to Ukraine 👥 The British government has announced the largest ever package of drones for Ukraine. We are talking about at least 120,000 drones, which will be transferred already this year to strengthen Ukrainian forces at the front. 🗒 Details of the aid package 🛑The supply includes thousands of long-range strike drones, reconnaissance and logistics drones, and...",
+    "description_en": "🇬🇧 Great Britain will hand over 120,000 drones to Ukraine 👥 The British government has announced the largest ever package of drones for Ukraine. We are talking about at least 120,000 drones, which will be transferred already this year to strengthen Ukrainian forces at the front. 🗒 Details of the aid package 🛑The supply includes thousands of long-range strike drones, reconnaissance and logistics drones, and...",
+    "description_uk": "🇬🇧 Велика Британія передасть Україні понад 120 000 дронів 👥 Уряд Великої Британії оголосив про найбільший в історії пакет постачання дронів для України. Йдеться про щонайменше 120 тисяч безпілотників, які будуть передані вже цього року для посилення українських сил на фронті. 🗒 Деталі пакету допомоги 🛑Поставка включає тисячі далекобійних ударних дронів, розвідувальні та логістичні безпілотники, а...",
+    "time": "",
+    "pubDate": "2026-04-15T11:54:30+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23410",
+    "score": 4.5,
+    "views": 171454,
+    "forwards": 299
   }
 ]
