@@ -1,5 +1,77 @@
 [
   {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Київ: Дрон-удар",
+    "description": "Ukrainian drones strike oil tanker on Black Sea coast, Russia says. The ship was struck near the coast of Krasnodar Krai, home to a major oil terminal and naval base in the port of Novorossiysk.",
+    "description_en": "Ukrainian drones strike oil tanker on Black Sea coast, Russia says. The ship was struck near the coast of Krasnodar Krai, home to a major oil terminal and naval base in the port of Novorossiysk.",
+    "description_uk": "Ukrainian drones strike oil tanker on Black Sea coast, Russia says. The ship was struck near the coast of Krasnodar Krai, home to a major oil terminal and naval base in the port of Novorossiysk.",
+    "time": "",
+    "pubDate": "2026-04-16T13:52:32+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52552",
+    "score": 10.0,
+    "views": 540,
+    "forwards": 0
+  },
+  {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на південному сході...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-04-16T13:31:36+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60130",
+    "score": 5.0,
+    "views": 46558,
+    "forwards": 1
+  },
+  {
+    "title": "Mykolaiv: A group of BpLA from the south heading for the city of Mykolaiv",
+    "title_en": "Mykolaiv: A group of BpLA from the south heading for the city of Mykolaiv",
+    "title_uk": "Миколаїв: Група BpLA з півдня прямує на м. Миколаїв",
+    "description": "A group of BpLA from the south heading for the city of Mykolaiv",
+    "description_en": "A group of BpLA from the south heading for the city of Mykolaiv",
+    "description_uk": "Група БпЛА з півдня курсом на м.Миколаїв",
+    "time": "",
+    "pubDate": "2026-04-16T13:16:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60128",
+    "score": 6.5,
+    "views": 96205,
+    "forwards": 71
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "Today is another very difficult day in Ukraine, a really difficult night - the day after the massive Russian attack. In one night alone, there were almost 300 attack drones, 19 ballistic missiles, as well as cruise missiles. The air alarm sounded in many of our cities. This happened after yesterday there were waves of \"shaheed\" in our sky. Dozens of people were injured. And, unfortunately, very unfortunately, there are also deaths in...",
+    "description_en": "Today is another very difficult day in Ukraine, a really difficult night - the day after the massive Russian attack. In one night alone, there were almost 300 attack drones, 19 ballistic missiles, as well as cruise missiles. The air alarm sounded in many of our cities. This happened after yesterday there were waves of \"shaheed\" in our sky. Dozens of people were injured. And, unfortunately, very unfortunately, there are also deaths in...",
+    "description_uk": "Сьогодні в Україні черговий дуже важкий день, справді складна ніч – день після масованої російської атаки. Лише за одну ніч було майже 300 ударних дронів, 19 балістичних ракет, а також крилаті ракети. Повітряна тривога лунала в багатьох наших містах. Це сталося після того, як іще вчора в нашому небі були хвилі «шахедів». Поранені десятки людей. І, на жаль, на превеликий жаль, є також загиблі в...",
+    "time": "",
+    "pubDate": "2026-04-16T13:14:48+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/18696",
+    "score": 13.5,
+    "views": 31135,
+    "forwards": 68
+  },
+  {
     "title": "Dnipro: Drone incoming",
     "title_en": "Dnipro: Drone incoming",
     "title_uk": "Dnipro: Drone incoming",
@@ -32,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52549",
     "score": 18.0,
-    "views": 1015,
-    "forwards": 5
+    "views": 1567,
+    "forwards": 6
   },
   {
     "title": "Kyiv: Strike confirmed",
@@ -86,8 +158,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8793",
     "score": 10.0,
-    "views": 1800,
-    "forwards": 18
+    "views": 2188,
+    "forwards": 19
   },
   {
     "title": "Another night that proves that Russia does not deserve any relaxation...",
@@ -104,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18686",
     "score": 18.5,
-    "views": 141615,
-    "forwards": 336
+    "views": 156033,
+    "forwards": 351
   },
   {
     "title": "🥰 Belgorod is now catching up: they are writing about the arrival at...",
@@ -158,7 +230,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37366",
     "score": 5.0,
-    "views": 4483,
+    "views": 4834,
     "forwards": 13
   },
   {
@@ -212,8 +284,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37364",
     "score": 12.0,
-    "views": 8543,
-    "forwards": 44
+    "views": 9010,
+    "forwards": 46
   },
   {
     "title": "Dnipro: 7 killed, 72 injured",
@@ -324,24 +396,6 @@
     "forwards": 1
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV from Sumy Oblast, past Chupakhivka, heading north of Poltava Oblast (Hadyach).",
-    "description_en": "UAV from Sumy Oblast, past Chupakhivka, heading north of Poltava Oblast (Hadyach).",
-    "description_uk": "БпЛА з Сумщини, повз Чупахівку, курсом на північ Полтавщини (Гадяч).",
-    "time": "",
-    "pubDate": "2026-04-16T01:58:10+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60107",
-    "score": 5.0,
-    "views": 23286,
-    "forwards": 1
-  },
-  {
     "title": "Dnipro: Ballistic missile launch detected",
     "title_en": "Dnipro: Ballistic missile launch detected",
     "title_uk": "Дніпро: виявлено пуск балістичної ракети",
@@ -394,59 +448,5 @@
     "score": 6.5,
     "views": 101923,
     "forwards": 70
-  },
-  {
-    "title": "With the President of Italy Sergio Mattarella, they discussed the...",
-    "title_en": "With the President of Italy Sergio Mattarella, they discussed the...",
-    "title_uk": "З Президентом Італії Серджіо Маттареллою вони обговорили...",
-    "description": "With the President of Italy Sergio Mattarella, they discussed the security situation in Ukraine and all of our Europe, as well as in the Middle East and the Gulf region. He spoke about our agreements with the countries of the region regarding security cooperation. It is important to build a common defense system in Europe as well. Particular attention is paid to the assistance necessary for the energy sustainability of Ukraine, the unblocking of the decision on financial...",
-    "description_en": "With the President of Italy Sergio Mattarella, they discussed the security situation in Ukraine and all of our Europe, as well as in the Middle East and the Gulf region. He spoke about our agreements with the countries of the region regarding security cooperation. It is important to build a common defense system in Europe as well. Particular attention is paid to the assistance necessary for the energy sustainability of Ukraine, the unblocking of the decision on financial...",
-    "description_uk": "Із Президентом Італії Серджо Маттареллою обговорили безпекову ситуацію в Україні та всій нашій Європі, а також на Близькому Сході та в регіоні Затоки. Розповів про наші домовленості з країнами регіону щодо безпекової співпраці. Важливо розбудовувати спільну систему захисту і у Європі. Окрема увага – допомозі, необхідній для енергетичної стійкості України, розблокуванню рішення про фінансовий...",
-    "time": "",
-    "pubDate": "2026-04-15T17:51:26+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18684",
-    "score": 4.0,
-    "views": 99559,
-    "forwards": 130
-  },
-  {
-    "title": "000 drones launched",
-    "title_en": "000 drones launched",
-    "title_uk": "Запущено 000 дронів",
-    "description": "🇬🇧 Great Britain will hand over 120,000 drones to Ukraine 👥 The British government has announced the largest ever package of drones for Ukraine. We are talking about at least 120,000 drones, which will be transferred already this year to strengthen Ukrainian forces at the front. 🗒 Details of the aid package 🛑The supply includes thousands of long-range strike drones, reconnaissance and logistics drones, and...",
-    "description_en": "🇬🇧 Great Britain will hand over 120,000 drones to Ukraine 👥 The British government has announced the largest ever package of drones for Ukraine. We are talking about at least 120,000 drones, which will be transferred already this year to strengthen Ukrainian forces at the front. 🗒 Details of the aid package 🛑The supply includes thousands of long-range strike drones, reconnaissance and logistics drones, and...",
-    "description_uk": "🇬🇧 Велика Британія передасть Україні понад 120 000 дронів 👥 Уряд Великої Британії оголосив про найбільший в історії пакет постачання дронів для України. Йдеться про щонайменше 120 тисяч безпілотників, які будуть передані вже цього року для посилення українських сил на фронті. 🗒 Деталі пакету допомоги 🛑Поставка включає тисячі далекобійних ударних дронів, розвідувальні та логістичні безпілотники, а...",
-    "time": "",
-    "pubDate": "2026-04-15T11:54:30+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "DeepState",
-    "link": "https://t.me/DeepStateUA/23410",
-    "score": 4.5,
-    "views": 165357,
-    "forwards": 289
-  },
-  {
-    "title": "🇳🇴 Within the framework of the visit of the President of Ukraine...",
-    "title_en": "🇳🇴 Within the framework of the visit of the President of Ukraine...",
-    "title_uk": "🇳🇴 У рамках візиту Президента України...",
-    "description": "🇳🇴 Within the framework of the visit of the President of Ukraine Volodymyr Zelenskyi to Norway, the Minister of Foreign Affairs of Ukraine Andrii Sybiga held a meeting with Espen Bart Eide, the head of the Foreign Ministry of Norway. The parties agreed that today's visit is an important step towards the development of strategic partnership between the countries. 💬 \"I expressed my sincere gratitude for Norway's steadfast support, especially during the winter period,...",
-    "description_en": "🇳🇴 Within the framework of the visit of the President of Ukraine Volodymyr Zelenskyi to Norway, the Minister of Foreign Affairs of Ukraine Andrii Sybiga held a meeting with Espen Bart Eide, the head of the Foreign Ministry of Norway. The parties agreed that today's visit is an important step towards the development of strategic partnership between the countries. 💬 \"I expressed my sincere gratitude for Norway's steadfast support, especially during the winter period,...",
-    "description_uk": "🇳🇴 У межах візиту Президента України Володимира Зеленського до Норвегії міністр закордонних справ України Андрій Сибіга провів зустріч з Еспеном Бартом Ейде, главою МЗС Норвегії. Сторони погодилися, що сьогоднішній візит є важливим кроком на шляху до розвитку стратегічного партнерства між країнами. 💬 \"Я висловив щиру вдячність за непохитну підтримку Норвегії, особливо впродовж зимового періоду,...",
-    "time": "",
-    "pubDate": "2026-04-15T05:37:33+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/8782",
-    "score": 3.5,
-    "views": 984,
-    "forwards": 4
   }
 ]
