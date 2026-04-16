@@ -1,5 +1,77 @@
 [
   {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "UAV heading towards Dnipro from the south-west direction",
+    "description_en": "UAV heading towards Dnipro from the south-west direction",
+    "description_uk": "БпЛА курсом на м.Дніпро з південно-західного напрямку",
+    "time": "",
+    "pubDate": "2026-04-16T11:10:35+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60125",
+    "score": 6.0,
+    "views": 26276,
+    "forwards": 35
+  },
+  {
+    "title": "Dnipro: 659 drones launched",
+    "title_en": "Dnipro: 659 drones launched",
+    "title_uk": "Дніпро: запущено 659 дронів",
+    "description": "At least 22 killed, 131 injured in Russian strikes across Ukraine over past day Russian forces launched 18 ballistic missiles, 20 Kh-101 cruise missiles, five Iskander-K cruise missiles, and 659 drones against Ukraine overnight, the Air Force reported on April 16. A mass Russian missile and drone attack early on April 16 struck major Ukrainian cities, including Kyiv, Odesa, and Dnipro. Photo:...",
+    "description_en": "At least 22 killed, 131 injured in Russian strikes across Ukraine over past day Russian forces launched 18 ballistic missiles, 20 Kh-101 cruise missiles, five Iskander-K cruise missiles, and 659 drones against Ukraine overnight, the Air Force reported on April 16. A mass Russian missile and drone attack early on April 16 struck major Ukrainian cities, including Kyiv, Odesa, and Dnipro. Photo:...",
+    "description_uk": "At least 22 killed, 131 injured in Russian strikes across Ukraine over past day Russian forces launched 18 ballistic missiles, 20 Kh-101 cruise missiles, five Iskander-K cruise missiles, and 659 drones against Ukraine overnight, the Air Force reported on April 16. A mass Russian missile and drone attack early on April 16 struck major Ukrainian cities, including Kyiv, Odesa, and Dnipro. Photo:...",
+    "time": "",
+    "pubDate": "2026-04-16T10:58:30+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Dnipro",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52549",
+    "score": 18.0,
+    "views": 523,
+    "forwards": 3
+  },
+  {
+    "title": "Kyiv: Strike confirmed",
+    "title_en": "Kyiv: Strike confirmed",
+    "title_uk": "Київ: Страйк підтверджено",
+    "description": "Kremlin says Russia ready to minimize impact of renewed US oil sanctions. \"We have already learned to act in a way that minimizes the impact of such measures on our interests,\" Kremlin spokesperson Dmitry Peskov said.",
+    "description_en": "Kremlin says Russia ready to minimize impact of renewed US oil sanctions. \"We have already learned to act in a way that minimizes the impact of such measures on our interests,\" Kremlin spokesperson Dmitry Peskov said.",
+    "description_uk": "Kremlin says Russia ready to minimize impact of renewed US oil sanctions. \"We have already learned to act in a way that minimizes the impact of such measures on our interests,\" Kremlin spokesperson Dmitry Peskov said.",
+    "time": "",
+    "pubDate": "2026-04-16T10:32:12+00:00",
+    "category": "political",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52548",
+    "score": 5.0,
+    "views": 740,
+    "forwards": 1
+  },
+  {
+    "title": "WARNING! The Office of the Ombudsman of Ukraine has developed a \"Road...",
+    "title_en": "WARNING! The Office of the Ombudsman of Ukraine has developed a \"Road...",
+    "title_uk": "УВАГА! Офіс Омбудсмена України розробив «Дорожню...",
+    "description": "WARNING! The Office of the Ombudsman of Ukraine has developed a \"Road Map\" — a detailed step-by-step algorithm of actions for the families of prisoners of war, missing persons and fallen defenders. What exactly the Roadmap explains: A clear list of institutions: where to turn and call first. What documents must be collected for submitting applications. How to properly interact with investigators, TCC and SP, military units. Algorithm...",
+    "description_en": "WARNING! The Office of the Ombudsman of Ukraine has developed a \"Road Map\" — a detailed step-by-step algorithm of actions for the families of prisoners of war, missing persons and fallen defenders. What exactly the Roadmap explains: A clear list of institutions: where to turn and call first. What documents must be collected for submitting applications. How to properly interact with investigators, TCC and SP, military units. Algorithm...",
+    "description_uk": "УВАГА! Офіс Омбудсмана України розробив \"Дорожню карту\" — детальний покроковий алгоритм дій для родин військовополонених, зниклих безвісти та загиблих захисників. Що саме пояснює Дорожня карта: Чіткий перелік установ: куди звертатися та телефонувати в першу чергу. Які документи необхідно зібрати для подачі заяв. Як правильно взаємодіяти зі слідчими, ТЦК та СП, військовими частинами. Алгоритм...",
+    "time": "",
+    "pubDate": "2026-04-16T10:13:32+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37374",
+    "score": 5.0,
+    "views": 3096,
+    "forwards": 26
+  },
+  {
     "title": "Shelling near civilians",
     "title_en": "Shelling near civilians",
     "title_uk": "Обстріл поблизу мирних жителів",
@@ -14,8 +86,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8793",
     "score": 10.0,
-    "views": 521,
-    "forwards": 6
+    "views": 1468,
+    "forwards": 16
   },
   {
     "title": "Another night that proves that Russia does not deserve any relaxation...",
@@ -32,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18686",
     "score": 18.5,
-    "views": 113981,
-    "forwards": 302
+    "views": 130653,
+    "forwards": 323
   },
   {
     "title": "🥰 Belgorod is now catching up: they are writing about the arrival at...",
@@ -50,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189540",
     "score": 4.5,
-    "views": 114406,
-    "forwards": 141
+    "views": 133071,
+    "forwards": 142
   },
   {
     "title": "Zaporizhzhia: BpLA heading to Zaporozhye from the south",
@@ -68,7 +140,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60120",
     "score": 6.0,
-    "views": 100909,
+    "views": 114002,
     "forwards": 1
   },
   {
@@ -86,8 +158,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37366",
     "score": 5.0,
-    "views": 3500,
-    "forwards": 10
+    "views": 4148,
+    "forwards": 12
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -324,78 +396,6 @@
     "forwards": 70
   },
   {
-    "title": "Kyiv: 'A new model of warfare' — Ukraine's Defense Ministry announces drone...",
-    "title_en": "Kyiv: 'A new model of warfare' — Ukraine's Defense Ministry announces drone...",
-    "title_uk": "Київ: «Нова модель ведення війни» — Міноборони анонсує безпілотник...",
-    "description": "'A new model of warfare' — Ukraine's Defense Ministry announces drone assault units. Ukraine has introduced drone assault units that combine aerial and ground drones, the Defense Ministry announced on April 15.",
-    "description_en": "'A new model of warfare' — Ukraine's Defense Ministry announces drone assault units. Ukraine has introduced drone assault units that combine aerial and ground drones, the Defense Ministry announced on April 15.",
-    "description_uk": "'A new model of warfare' — Ukraine's Defense Ministry announces drone assault units. Ukraine has introduced drone assault units that combine aerial and ground drones, the Defense Ministry announced on April 15.",
-    "time": "",
-    "pubDate": "2026-04-15T23:05:35+00:00",
-    "category": "drone",
-    "severity": "medium",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52535",
-    "score": 4.0,
-    "views": 499,
-    "forwards": 3
-  },
-  {
-    "title": "Dnipro: BpLA on the Dnipro from the southeast.",
-    "title_en": "Dnipro: BpLA on the Dnipro from the southeast.",
-    "title_uk": "Дніпро: БпЛА на Дніпрі з пд.-сх.",
-    "description": "BpLA on the Dnipro from the southeast.",
-    "description_en": "BpLA on the Dnipro from the southeast.",
-    "description_uk": "БпЛА на Дніпро з південного сходу.",
-    "time": "",
-    "pubDate": "2026-04-15T22:50:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60077",
-    "score": 6.0,
-    "views": 10149,
-    "forwards": 1
-  },
-  {
-    "title": "Enemy UAVs from the Black Sea to Odessa and the Gulf",
-    "title_en": "Enemy UAVs from the Black Sea to Odessa and the Gulf",
-    "title_uk": "БПЛА противника від Чорного моря до Одеси та Затоки",
-    "description": "Enemy UAVs from the Black Sea to Odessa and the Gulf",
-    "description_en": "Enemy UAVs from the Black Sea to Odessa and the Gulf",
-    "description_uk": "Ворожі БпЛА з Чорного моря на Одесу та Затоку",
-    "time": "",
-    "pubDate": "2026-04-15T22:50:20+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60076",
-    "score": 5.0,
-    "views": 11163,
-    "forwards": 1
-  },
-  {
-    "title": "Mykolaiv: BpLA from the Mykolayiv region to Odesa in the district. n.p....",
-    "title_en": "Mykolaiv: BpLA from the Mykolayiv region to Odesa in the district. n.p....",
-    "title_uk": "Миколаїв: БпЛА від Миколаївської області до Одеси в район. н.п....",
-    "description": "BpLA from the Mykolayiv region to Odesa in the district. n.p. Berezivka",
-    "description_en": "BpLA from the Mykolayiv region to Odesa in the district. n.p. Berezivka",
-    "description_uk": "БпЛА з Миколаївщини на Одещину в р-ні. н.п. Березівка.",
-    "time": "",
-    "pubDate": "2026-04-15T22:23:17+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60073",
-    "score": 6.0,
-    "views": 2006,
-    "forwards": 1
-  },
-  {
     "title": "With the President of Italy Sergio Mattarella, they discussed the...",
     "title_en": "With the President of Italy Sergio Mattarella, they discussed the...",
     "title_uk": "З Президентом Італії Серджіо Маттареллою вони обговорили...",
@@ -410,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18684",
     "score": 4.0,
-    "views": 97309,
+    "views": 98609,
     "forwards": 129
   },
   {
@@ -428,7 +428,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23410",
     "score": 4.5,
-    "views": 161787,
+    "views": 164253,
     "forwards": 287
   },
   {
@@ -446,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8782",
     "score": 3.5,
-    "views": 972,
+    "views": 979,
     "forwards": 4
   }
 ]
