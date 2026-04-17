@@ -1,5 +1,59 @@
 [
   {
+    "title": "Sumy: BpLA group ➡️ heading for Sumy.",
+    "title_en": "Sumy: BpLA group ➡️ heading for Sumy.",
+    "title_uk": "Суми: BpLA group ➡️ прямує на Суми.",
+    "description": "BpLA group ➡️ heading for Sumy.",
+    "description_en": "BpLA group ➡️ heading for Sumy.",
+    "description_uk": "Група БпЛА ➡️ курсом на Суми.",
+    "time": "",
+    "pubDate": "2026-04-17T12:02:43+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60200",
+    "score": 6.0,
+    "views": 7132,
+    "forwards": 11
+  },
+  {
+    "title": "Air defense active",
+    "title_en": "Air defense active",
+    "title_uk": "Активна ППО",
+    "description": "Private air defense for the first time shot down a Shahed jet flying at a speed of more than 400 km/h - Fedorov We are talking about a group of private air defense in the Kharkiv region, which participates in the protection of critical infrastructure. Now such divisions are already being created at 19 enterprises. They are integrated into the general control system of the Air Force.",
+    "description_en": "Private air defense for the first time shot down a Shahed jet flying at a speed of more than 400 km/h - Fedorov We are talking about a group of private air defense in the Kharkiv region, which participates in the protection of critical infrastructure. Now such divisions are already being created at 19 enterprises. They are integrated into the general control system of the Air Force.",
+    "description_uk": "Частная ПВО впервые сбила реактивный «Шахед», летевший со скоростью более 400 км/ч, — Федоров Речь идет о группе частной ПВО в Харьковской области, которая участвует в защите критической инфраструктуры. Сейчас такие подразделения создают уже на 19 предприятиях. Они интегрированы в общую систему управления Воздушных сил.",
+    "time": "",
+    "pubDate": "2026-04-17T11:35:52+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kharkiv",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/189623",
+    "score": 8.5,
+    "views": 35453,
+    "forwards": 106
+  },
+  {
+    "title": "Kharkiv: Kharkiv region: BpLA ➡️ in the direction of Kharkiv, Balaklia,...",
+    "title_en": "Kharkiv: Kharkiv region: BpLA ➡️ in the direction of Kharkiv, Balaklia,...",
+    "title_uk": "Харків: Харківська область: BpLA ➡️ в напрямку Харкова, Балаклії,...",
+    "description": "Kharkiv region: BpLA ➡️ in the direction of Kharkiv, Balaklia, Chuguyev.",
+    "description_en": "Kharkiv region: BpLA ➡️ in the direction of Kharkiv, Balaklia, Chuguyev.",
+    "description_uk": "Харківщина: БпЛА ➡️ в напрямку Харкова, Балаклії, Чугуєва.",
+    "time": "",
+    "pubDate": "2026-04-17T11:18:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60199",
+    "score": 6.0,
+    "views": 38121,
+    "forwards": 2
+  },
+  {
     "title": "Dnipro: BpLA group ➡️ heading for the Dnipro.",
     "title_en": "Dnipro: BpLA group ➡️ heading for the Dnipro.",
     "title_uk": "Дніпро: група BpLA ➡️ прямує до Дніпра.",
@@ -32,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52569",
     "score": 4.5,
-    "views": 521,
-    "forwards": 1
+    "views": 786,
+    "forwards": 3
   },
   {
     "title": "🇵🇱 🇪🇺 🇺🇦 Poland remains a key training hub that provides support for...",
@@ -50,8 +104,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37412",
     "score": 3.0,
-    "views": 2154,
-    "forwards": 13
+    "views": 2981,
+    "forwards": 17
   },
   {
     "title": "Kyiv: 172 drones launched",
@@ -68,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52567",
     "score": 14.0,
-    "views": 817,
-    "forwards": 4
+    "views": 1034,
+    "forwards": 5
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -122,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189609",
     "score": 5.0,
-    "views": 97506,
-    "forwards": 218
+    "views": 110740,
+    "forwards": 220
   },
   {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the north.",
@@ -158,8 +212,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37411",
     "score": 10.5,
-    "views": 21021,
-    "forwards": 167
+    "views": 24865,
+    "forwards": 171
   },
   {
     "title": "Kharkiv: BpLA on Kharkiv from the north.",
@@ -324,24 +378,6 @@
     "forwards": 1
   },
   {
-    "title": "Zaporizhzhia: BpLA heading for Dnipro and Zaporizhzhia from the south",
-    "title_en": "Zaporizhzhia: BpLA heading for Dnipro and Zaporizhzhia from the south",
-    "title_uk": "Запоріжжя: BpLA прямує на Дніпро та Запоріжжя з півдня",
-    "description": "BpLA heading for Dnipro and Zaporizhzhia from the south",
-    "description_en": "BpLA heading for Dnipro and Zaporizhzhia from the south",
-    "description_uk": "БпЛА курсом на м.Дніпро та м.Запоріжжя з півдня",
-    "time": "",
-    "pubDate": "2026-04-16T23:25:32+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60165",
-    "score": 6.0,
-    "views": 7324,
-    "forwards": 11
-  },
-  {
     "title": "Attack attack",
     "title_en": "Attack attack",
     "title_uk": "Атака нападу",
@@ -374,8 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18704",
     "score": 5.5,
-    "views": 104811,
-    "forwards": 134
+    "views": 106663,
+    "forwards": 135
   },
   {
     "title": "Airstrike attack",
@@ -412,41 +448,5 @@
     "score": 10.0,
     "views": 2380,
     "forwards": 0
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "Today is another very difficult day in Ukraine, a really difficult night - the day after the massive Russian attack. In one night alone, there were almost 300 attack drones, 19 ballistic missiles, as well as cruise missiles. The air alarm sounded in many of our cities. This happened after yesterday there were waves of \"shaheed\" in our sky. Dozens of people were injured. And, unfortunately, very unfortunately, there are also deaths in...",
-    "description_en": "Today is another very difficult day in Ukraine, a really difficult night - the day after the massive Russian attack. In one night alone, there were almost 300 attack drones, 19 ballistic missiles, as well as cruise missiles. The air alarm sounded in many of our cities. This happened after yesterday there were waves of \"shaheed\" in our sky. Dozens of people were injured. And, unfortunately, very unfortunately, there are also deaths in...",
-    "description_uk": "Сьогодні в Україні черговий дуже важкий день, справді складна ніч – день після масованої російської атаки. Лише за одну ніч було майже 300 ударних дронів, 19 балістичних ракет, а також крилаті ракети. Повітряна тривога лунала в багатьох наших містах. Це сталося після того, як іще вчора в нашому небі були хвилі «шахедів». Поранені десятки людей. І, на жаль, на превеликий жаль, є також загиблі в...",
-    "time": "",
-    "pubDate": "2026-04-16T13:14:48+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18696",
-    "score": 13.5,
-    "views": 74929,
-    "forwards": 119
-  },
-  {
-    "title": "000 drones launched",
-    "title_en": "000 drones launched",
-    "title_uk": "Запущено 000 дронів",
-    "description": "🇬🇧 Great Britain will hand over 120,000 drones to Ukraine 👥 The British government has announced the largest ever package of drones for Ukraine. We are talking about at least 120,000 drones, which will be transferred already this year to strengthen Ukrainian forces at the front. 🗒 Details of the aid package 🛑The supply includes thousands of long-range strike drones, reconnaissance and logistics drones, and...",
-    "description_en": "🇬🇧 Great Britain will hand over 120,000 drones to Ukraine 👥 The British government has announced the largest ever package of drones for Ukraine. We are talking about at least 120,000 drones, which will be transferred already this year to strengthen Ukrainian forces at the front. 🗒 Details of the aid package 🛑The supply includes thousands of long-range strike drones, reconnaissance and logistics drones, and...",
-    "description_uk": "🇬🇧 Велика Британія передасть Україні понад 120 000 дронів 👥 Уряд Великої Британії оголосив про найбільший в історії пакет постачання дронів для України. Йдеться про щонайменше 120 тисяч безпілотників, які будуть передані вже цього року для посилення українських сил на фронті. 🗒 Деталі пакету допомоги 🛑Поставка включає тисячі далекобійних ударних дронів, розвідувальні та логістичні безпілотники, а...",
-    "time": "",
-    "pubDate": "2026-04-15T11:54:30+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "DeepState",
-    "link": "https://t.me/DeepStateUA/23410",
-    "score": 4.5,
-    "views": 175488,
-    "forwards": 301
   }
 ]
