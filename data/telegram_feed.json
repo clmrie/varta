@@ -1,11 +1,83 @@
 [
   {
+    "title": "In the fifth year of the war, housing in Ukraine did not become...",
+    "title_en": "In the fifth year of the war, housing in Ukraine did not become...",
+    "title_uk": "На п'ятому році війни житла в Україні не стало...",
+    "description": "In the fifth year of the war, housing in Ukraine did not become cheaper - on the contrary, the market went up again. Everything becomes more expensive: new buildings due to the increase in the cost of construction, secondary - due to the demand for autonomous apartments with generators and backup power, rent - due to the return of people and the deficit offered. The most noticeable gap now is between safe regions and front-line regions. Kyiv and the west of the country...",
+    "description_en": "In the fifth year of the war, housing in Ukraine did not become cheaper - on the contrary, the market went up again. Everything becomes more expensive: new buildings due to the increase in the cost of construction, secondary - due to the demand for autonomous apartments with generators and backup power, rent - due to the return of people and the deficit offered. The most noticeable gap now is between safe regions and front-line regions. Kyiv and the west of the country...",
+    "description_uk": "На пятом году войны жилье в Украине не дешевеет - наоборот, рынок снова пошел вверх. Дорожает все: новостройки из-за роста себестоимости строительства, вторичка - из-за спроса на автономные квартиры с генераторами и резервным питанием, аренда - из-за возвращения людей и дефицита предложений. Самый заметный разрыв сейчас - между безопасными регионами и прифронтовыми областями. Киев и запад страны...",
+    "time": "",
+    "pubDate": "2026-04-17T08:40:11+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/189609",
+    "score": 4.0,
+    "views": 15952,
+    "forwards": 71
+  },
+  {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the north.",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the north.",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півн.",
+    "description": "BpLA on Zaporozhye from the north.",
+    "description_en": "BpLA on Zaporozhye from the north.",
+    "description_uk": "БпЛА на Запоріжжя з півночі.",
+    "time": "",
+    "pubDate": "2026-04-17T08:25:31+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60194",
+    "score": 6.0,
+    "views": 25211,
+    "forwards": 1
+  },
+  {
+    "title": "Luhansk: \"Podlyot\" and \"Nebo-M\" radars, control points, boat storage warehouse...",
+    "title_en": "Luhansk: \"Podlyot\" and \"Nebo-M\" radars, control points, boat storage warehouse...",
+    "title_uk": "Луганськ: РЛС \"Підльот\" і \"Небо-М\", пункти управління, склад зберігання катерів...",
+    "description": "\"Podlyot\" and \"Nebo-M\" radars, control points, boat storage warehouse and other logistical facilities of the enemy were hit ⚡️Yesterday and on the night of April 17, units of the Defense Forces of Ukraine hit the enemy's control points, in particular, the command and observation post in the area of ​​the settlement of Dovge (Tot of the Luhansk region), as well as the control points of the occupiers' UAVs in the areas of the settlements of Tyotkino (Kursk region,...",
+    "description_en": "\"Podlyot\" and \"Nebo-M\" radars, control points, boat storage warehouse and other logistical facilities of the enemy were hit ⚡️Yesterday and on the night of April 17, units of the Defense Forces of Ukraine hit the enemy's control points, in particular, the command and observation post in the area of ​​the settlement of Dovge (Tot of the Luhansk region), as well as the control points of the occupiers' UAVs in the areas of the settlements of Tyotkino (Kursk region,...",
+    "description_uk": "Уражено РЛС \"Подльот\" і \"Небо-М\", пункти управління, склад зберігання катерів та інші логістичні об'єкти противника ⚡️Вчора та у ніч на 17 квітня підрозділи Сил оборони України уразили пункти управління противника, зокрема командно-спостережний пункт у районі населеного пункту Довге (ТОТ Луганської обл.), а також пункти управління БпЛА окупантів у районах населених пунктів Тьоткіно (Курська обл.,...",
+    "time": "",
+    "pubDate": "2026-04-17T08:07:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Luhansk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37411",
+    "score": 10.5,
+    "views": 10191,
+    "forwards": 126
+  },
+  {
+    "title": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_uk": "Харків: БпЛА на Харків з півночі.",
+    "description": "BpLA on Kharkiv from the north.",
+    "description_en": "BpLA on Kharkiv from the north.",
+    "description_uk": "БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-04-17T07:29:11+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60191",
+    "score": 6.0,
+    "views": 57527,
+    "forwards": 1
+  },
+  {
     "title": "Drone attack",
     "title_en": "Drone attack",
     "title_uk": "Атака безпілотників",
-    "description": "The attack on the Dnieper does not stop: jet UAVs circle over the city",
-    "description_en": "The attack on the Dnieper does not stop: jet UAVs circle over the city",
-    "description_uk": "Не прекращается атака на Днепр: над городом крутятся реактивные БпЛА",
+    "description": "The attack on the Dnieper does not stop: jet UAVs are circling over the city",
+    "description_en": "The attack on the Dnieper does not stop: jet UAVs are circling over the city",
+    "description_uk": "Не прекращается атака на Днепр: над городом кружатся реактивные БпЛА",
     "time": "",
     "pubDate": "2026-04-17T06:14:01+00:00",
     "category": "drone",
@@ -14,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189600",
     "score": 5.5,
-    "views": 53270,
-    "forwards": 74
+    "views": 98478,
+    "forwards": 110
   },
   {
     "title": "Kharkiv: BpLA heading for Kharkiv from the north!",
@@ -50,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52564",
     "score": 11.5,
-    "views": 560,
-    "forwards": 1
+    "views": 972,
+    "forwards": 3
   },
   {
     "title": "Kursk: Drone incoming",
@@ -68,7 +140,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37401",
     "score": 13.0,
-    "views": 3222,
+    "views": 4224,
     "forwards": 8
   },
   {
@@ -248,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18704",
     "score": 5.5,
-    "views": 95354,
-    "forwards": 127
+    "views": 99740,
+    "forwards": 131
   },
   {
     "title": "Airstrike attack",
@@ -284,7 +356,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52554",
     "score": 9.5,
-    "views": 2366,
+    "views": 2416,
     "forwards": 7
   },
   {
@@ -320,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18696",
     "score": 13.5,
-    "views": 72143,
-    "forwards": 117
+    "views": 73437,
+    "forwards": 118
   },
   {
     "title": "Dnipro: 659 drones launched",
@@ -374,43 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8793",
     "score": 10.0,
-    "views": 2860,
+    "views": 2878,
     "forwards": 19
-  },
-  {
-    "title": "Another night that proves that Russia does not deserve any relaxation...",
-    "title_en": "Another night that proves that Russia does not deserve any relaxation...",
-    "title_uk": "Ще одна ніч, яка доводить, що Росія не заслуговує на розслаблення...",
-    "description": "Another night that proves that Russia does not deserve any relaxation of global policies and the lifting of sanctions. Russia is betting on war, and this is exactly what the answer should be - life must be protected with all forces and pressure for peace must also be exerted with all forces. I am grateful to those in the world who work with us in this way and who help Ukraine on time, fully and feeling that every show of support is really...",
-    "description_en": "Another night that proves that Russia does not deserve any relaxation of global policies and the lifting of sanctions. Russia is betting on war, and this is exactly what the answer should be - life must be protected with all forces and pressure for peace must also be exerted with all forces. I am grateful to those in the world who work with us in this way and who help Ukraine on time, fully and feeling that every show of support is really...",
-    "description_uk": "Ще одна ніч, яка доводить, що Росія не заслуговує на будь-яке пом’якшення глобальної політики та зняття санкцій. Росія робить ставку на війну, і саме такою має бути відповідь – потрібно захищати життя всіма силами й потрібно тиснути заради миру теж усіма силами. Я вдячний тим у світі, хто працює з нами так і хто допомагає Україні вчасно, повноцінно та відчуваючи, що кожен прояв підтримки справді...",
-    "time": "",
-    "pubDate": "2026-04-16T07:03:52+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18686",
-    "score": 18.5,
-    "views": 166760,
-    "forwards": 354
-  },
-  {
-    "title": "000 drones launched",
-    "title_en": "000 drones launched",
-    "title_uk": "Запущено 000 дронів",
-    "description": "🇬🇧 Great Britain will hand over 120,000 drones to Ukraine 👥 The British government has announced the largest ever package of drones for Ukraine. We are talking about at least 120,000 drones, which will be transferred already this year to strengthen Ukrainian forces at the front. 🗒 Details of the aid package 🛑The supply includes thousands of long-range strike drones, reconnaissance and logistics drones, and...",
-    "description_en": "🇬🇧 Great Britain will hand over 120,000 drones to Ukraine 👥 The British government has announced the largest ever package of drones for Ukraine. We are talking about at least 120,000 drones, which will be transferred already this year to strengthen Ukrainian forces at the front. 🗒 Details of the aid package 🛑The supply includes thousands of long-range strike drones, reconnaissance and logistics drones, and...",
-    "description_uk": "🇬🇧 Велика Британія передасть Україні понад 120 000 дронів 👥 Уряд Великої Британії оголосив про найбільший в історії пакет постачання дронів для України. Йдеться про щонайменше 120 тисяч безпілотників, які будуть передані вже цього року для посилення українських сил на фронті. 🗒 Деталі пакету допомоги 🛑Поставка включає тисячі далекобійних ударних дронів, розвідувальні та логістичні безпілотники, а...",
-    "time": "",
-    "pubDate": "2026-04-15T11:54:30+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "DeepState",
-    "link": "https://t.me/DeepStateUA/23410",
-    "score": 4.5,
-    "views": 174516,
-    "forwards": 300
   }
 ]
