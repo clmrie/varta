@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea area ➡️ in the direction of the south of Odesa.",
+    "description_en": "UAV from the Black Sea area ➡️ in the direction of the south of Odesa.",
+    "description_uk": "БпЛА з акваторії Чорного моря ➡️ у напрямку півдня Одещини.",
+    "time": "",
+    "pubDate": "2026-04-17T15:37:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60207",
+    "score": 5.0,
+    "views": 19088,
+    "forwards": 6
+  },
+  {
+    "title": "Chernihiv: New UAV groups ➡️ in the north of Chernihiv Oblast.",
+    "title_en": "Chernihiv: New UAV groups ➡️ in the north of Chernihiv Oblast.",
+    "title_uk": "Чернігів: Нові групи БПЛА ➡️ на півночі Чернігівської області.",
+    "description": "New UAV groups ➡️ in the north of Chernihiv Oblast.",
+    "description_en": "New UAV groups ➡️ in the north of Chernihiv Oblast.",
+    "description_uk": "Нові групи БпЛА ➡️ на півночі Чернігівщини.",
+    "time": "",
+    "pubDate": "2026-04-17T15:07:23+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60206",
+    "score": 6.0,
+    "views": 40363,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: Attack attack",
     "title_en": "Kharkiv: Attack attack",
     "title_uk": "Харків: Напад",
@@ -14,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52577",
     "score": 4.0,
-    "views": 1,
-    "forwards": 0
+    "views": 685,
+    "forwards": 1
   },
   {
     "title": "Kharkiv: BpLA ➡️ heading for Sumy, Kharkiv, Dnipro.",
@@ -50,8 +86,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18709",
     "score": 7.0,
-    "views": 13264,
-    "forwards": 51
+    "views": 27386,
+    "forwards": 69
   },
   {
     "title": "Kyiv: Air defense active",
@@ -68,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52576",
     "score": 8.0,
-    "views": 370,
-    "forwards": 3
+    "views": 869,
+    "forwards": 4
   },
   {
     "title": "BpLA ➡️ in the direction of Zatoka.",
@@ -104,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18708",
     "score": 8.5,
-    "views": 17110,
-    "forwards": 9
+    "views": 23078,
+    "forwards": 11
   },
   {
     "title": "Dnipro: New groups of BpLA ➡️ heading for the Dnipro, Pavlograd.",
@@ -124,24 +160,6 @@
     "score": 6.5,
     "views": 21339,
     "forwards": 58
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV from the Black Sea area ➡️ in the direction of Odesa.",
-    "description_en": "UAV from the Black Sea area ➡️ in the direction of Odesa.",
-    "description_uk": "БпЛА з акваторії Чорного моря ➡️ у напрямку Одещини.",
-    "time": "",
-    "pubDate": "2026-04-17T13:39:57+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60202",
-    "score": 5.0,
-    "views": 23876,
-    "forwards": 11
   },
   {
     "title": "Kyiv: Ukraine brings back nearly 20 children from Russian-occupied...",
@@ -212,8 +230,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8817",
     "score": 3.5,
-    "views": 832,
-    "forwards": 4
+    "views": 921,
+    "forwards": 5
   },
   {
     "title": "Sumy: BpLA group ➡️ heading for Sumy.",
@@ -247,9 +265,9 @@
     "location": "Kharkiv",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189623",
-    "score": 8.5,
-    "views": 102797,
-    "forwards": 187
+    "score": 9.5,
+    "views": 114778,
+    "forwards": 221
   },
   {
     "title": "Kharkiv: Kharkiv region: BpLA ➡️ in the direction of Kharkiv, Balaklia,...",
@@ -320,8 +338,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37412",
     "score": 3.0,
-    "views": 4532,
-    "forwards": 18
+    "views": 4951,
+    "forwards": 19
   },
   {
     "title": "Kyiv: 172 drones launched",
@@ -428,25 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37411",
     "score": 10.5,
-    "views": 33308,
-    "forwards": 182
-  },
-  {
-    "title": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_uk": "Харків: БпЛА на Харків з півночі.",
-    "description": "BpLA on Kharkiv from the north.",
-    "description_en": "BpLA on Kharkiv from the north.",
-    "description_uk": "БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-04-17T07:29:11+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60191",
-    "score": 6.0,
-    "views": 57527,
-    "forwards": 1
+    "views": 35486,
+    "forwards": 183
   }
 ]
