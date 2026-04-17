@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Groups of unmanned aerial vehicles have entered Odesa (Black Sea-South), combat work is underway. Several dozens of attack UAVs from the Black Sea area in the same direction",
+    "description_en": "Groups of unmanned aerial vehicles have entered Odesa (Black Sea-South), combat work is underway. Several dozens of attack UAVs from the Black Sea area in the same direction",
+    "description_uk": "Групи ударних БпЛА увійшли на Одещину (Чорноморське-Південне), йде бойова робота. Кілька десятків ударних БпЛА з акваторії Чорного моря у цьому ж напрямку",
+    "time": "",
+    "pubDate": "2026-04-17T22:10:50+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60219",
+    "score": 5.0,
+    "views": 15853,
+    "forwards": 21
+  },
+  {
     "title": "Zaporizhzhia: Airstrike attack",
     "title_en": "Zaporizhzhia: Airstrike attack",
     "title_uk": "Запоріжжя: Авіаудар",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60218",
     "score": 6.0,
-    "views": 14886,
+    "views": 27173,
     "forwards": 37
   },
   {
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52581",
     "score": 9.0,
-    "views": 1416,
+    "views": 1539,
     "forwards": 3
   },
   {
@@ -124,24 +142,6 @@
     "score": 6.0,
     "views": 130672,
     "forwards": 1
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV from the Black Sea area ➡️ in the direction of the south of Odesa.",
-    "description_en": "UAV from the Black Sea area ➡️ in the direction of the south of Odesa.",
-    "description_uk": "БпЛА з акваторії Чорного моря ➡️ у напрямку півдня Одещини.",
-    "time": "",
-    "pubDate": "2026-04-17T15:37:32+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60207",
-    "score": 5.0,
-    "views": 103630,
-    "forwards": 7
   },
   {
     "title": "Chernihiv: New UAV groups ➡️ in the north of Chernihiv Oblast.",
@@ -176,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52577",
     "score": 4.0,
-    "views": 1875,
+    "views": 1938,
     "forwards": 2
   },
   {
@@ -212,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18709",
     "score": 7.0,
-    "views": 51118,
-    "forwards": 122
+    "views": 51630,
+    "forwards": 124
   },
   {
     "title": "Kyiv: Air defense active",
@@ -266,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18708",
     "score": 8.5,
-    "views": 35480,
-    "forwards": 27
+    "views": 35718,
+    "forwards": 29
   },
   {
     "title": "Dnipro: New groups of BpLA ➡️ heading for the Dnipro, Pavlograd.",
@@ -356,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8817",
     "score": 3.5,
-    "views": 1168,
+    "views": 1177,
     "forwards": 5
   },
   {
@@ -414,39 +414,39 @@
     "forwards": 2
   },
   {
-    "title": "Dnipro: BpLA group ➡️ heading for the Dnipro.",
-    "title_en": "Dnipro: BpLA group ➡️ heading for the Dnipro.",
-    "title_uk": "Дніпро: група BpLA ➡️ прямує до Дніпра.",
-    "description": "BpLA group ➡️ heading for the Dnipro.",
-    "description_en": "BpLA group ➡️ heading for the Dnipro.",
-    "description_uk": "Група БпЛА ➡️ курсом на Дніпро.",
+    "title": "🇵🇱 🇪🇺 🇺🇦 Poland remains a key training hub that provides support for...",
+    "title_en": "🇵🇱 🇪🇺 🇺🇦 Poland remains a key training hub that provides support for...",
+    "title_uk": "🇵🇱 🇪🇺 🇺🇦 Польща залишається ключовим навчальним центром, який надає підтримку...",
+    "description": "🇵🇱 🇪🇺 🇺🇦 Poland remains a key training hub that provides support for the Armed Forces of Ukraine. / Polska remains kluczowym hubem szkoleniowym wspyerającym Siły Zbrojne Ukrainy. At the Polish training grounds, another group of servicemen is undergoing training under the leadership of international instructors of the Combined Arms Training Command (CAT-C). Within...",
+    "description_en": "🇵🇱 🇪🇺 🇺🇦 Poland remains a key training hub that provides support for the Armed Forces of Ukraine. / Polska remains kluczowym hubem szkoleniowym wspyerającym Siły Zbrojne Ukrainy. At the Polish training grounds, another group of servicemen is undergoing training under the leadership of international instructors of the Combined Arms Training Command (CAT-C). Within...",
+    "description_uk": "🇵🇱 🇪🇺 🇺🇦 Польща залишається ключовим навчальним хабом, що забезпечує підтримку Збройних Сил України. / Polska pozostaje kluczowym hubem szkoleniowym wspierającym Siły Zbrojne Ukrainy. На польських полігонах чергова група військовослужбовців проходить підготовку під керівництвом міжнародних інструкторів Об'єднаного командування з бойової підготовки (Combined Arms Training Command, CAT-C). У рамках...",
     "time": "",
-    "pubDate": "2026-04-17T10:53:22+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60198",
-    "score": 6.0,
-    "views": 24217,
-    "forwards": 36
+    "pubDate": "2026-04-17T10:25:17+00:00",
+    "category": "political",
+    "severity": "medium",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37412",
+    "score": 3.0,
+    "views": 6164,
+    "forwards": 20
   },
   {
-    "title": "Chernihiv: Attack attack on infrastructure",
-    "title_en": "Chernihiv: Attack attack on infrastructure",
-    "title_uk": "Чернігів: Атака на інфраструктуру",
-    "description": "Update: Russian attack halts Chernihiv power plant, 6,000 people left without electricity. \"Unfortunately, critical infrastructure facilities have once again been deliberately targeted, which has affected the stability of their operations,\" regional utility Teplokomunenergo, which supplies heat and hot water to residents, said.",
-    "description_en": "Update: Russian attack halts Chernihiv power plant, 6,000 people left without electricity. \"Unfortunately, critical infrastructure facilities have once again been deliberately targeted, which has affected the stability of their operations,\" regional utility Teplokomunenergo, which supplies heat and hot water to residents, said.",
-    "description_uk": "Update: Russian attack halts Chernihiv power plant, 6,000 people left without electricity. \"Unfortunately, critical infrastructure facilities have once again been deliberately targeted, which has affected the stability of their operations,\" regional utility Teplokomunenergo, which supplies heat and hot water to residents, said.",
+    "title": "Luhansk: \"Podlyot\" and \"Nebo-M\" radars, control points, boat storage warehouse...",
+    "title_en": "Luhansk: \"Podlyot\" and \"Nebo-M\" radars, control points, boat storage warehouse...",
+    "title_uk": "Луганськ: РЛС \"Підльот\" і \"Небо-М\", пункти управління, склад зберігання катерів...",
+    "description": "\"Podlyot\" and \"Nebo-M\" radars, control points, boat storage warehouse and other logistical facilities of the enemy were hit ⚡️Yesterday and on the night of April 17, units of the Defense Forces of Ukraine hit the enemy's control points, in particular, the command and observation post in the area of ​​the settlement of Dovge (Tot of the Luhansk region), as well as the control points of the occupiers' UAVs in the areas of the settlements of Tyotkino (Kursk region,...",
+    "description_en": "\"Podlyot\" and \"Nebo-M\" radars, control points, boat storage warehouse and other logistical facilities of the enemy were hit ⚡️Yesterday and on the night of April 17, units of the Defense Forces of Ukraine hit the enemy's control points, in particular, the command and observation post in the area of ​​the settlement of Dovge (Tot of the Luhansk region), as well as the control points of the occupiers' UAVs in the areas of the settlements of Tyotkino (Kursk region,...",
+    "description_uk": "Уражено РЛС \"Подльот\" і \"Небо-М\", пункти управління, склад зберігання катерів та інші логістичні об'єкти противника ⚡️Вчора та у ніч на 17 квітня підрозділи Сил оборони України уразили пункти управління противника, зокрема командно-спостережний пункт у районі населеного пункту Довге (ТОТ Луганської обл.), а також пункти управління БпЛА окупантів у районах населених пунктів Тьоткіно (Курська обл.,...",
     "time": "",
-    "pubDate": "2026-04-17T10:26:35+00:00",
-    "category": "alert",
+    "pubDate": "2026-04-17T08:07:13+00:00",
+    "category": "drone",
     "severity": "high",
-    "location": "Chernihiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52569",
-    "score": 4.5,
-    "views": 786,
-    "forwards": 3
+    "location": "Luhansk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37411",
+    "score": 10.5,
+    "views": 50768,
+    "forwards": 192
   }
 ]
