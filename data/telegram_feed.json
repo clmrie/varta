@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zaporizhzhia: A group of unmanned aerial vehicles ➡️ heading for Zaporozhye",
+    "title_en": "Zaporizhzhia: A group of unmanned aerial vehicles ➡️ heading for Zaporozhye",
+    "title_uk": "Запоріжжя: група безпілотників ➡️ прямує на Запоріжжя",
+    "description": "A group of unmanned aerial vehicles ➡️ heading for Zaporozhye",
+    "description_en": "A group of unmanned aerial vehicles ➡️ heading for Zaporozhye",
+    "description_uk": "Група ударних БпЛА ➡️ курсом на Запоріжжя",
+    "time": "",
+    "pubDate": "2026-04-17T20:48:35+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60215",
+    "score": 6.0,
+    "views": 17947,
+    "forwards": 21
+  },
+  {
+    "title": "Zaporizhzhia: BpLA ➡️ heading for Sumy, Zaporizhzhia.",
+    "title_en": "Zaporizhzhia: BpLA ➡️ heading for Sumy, Zaporizhzhia.",
+    "title_uk": "Запоріжжя: BpLA ➡️ прямує на Суми, Запоріжжя.",
+    "description": "BpLA ➡️ heading for Sumy, Zaporizhzhia.",
+    "description_en": "BpLA ➡️ heading for Sumy, Zaporizhzhia.",
+    "description_uk": "БпЛА ➡️ курсом на Суми, Запоріжжя.",
+    "time": "",
+    "pubDate": "2026-04-17T20:33:36+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60214",
+    "score": 6.0,
+    "views": 27661,
+    "forwards": 11
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -32,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52581",
     "score": 9.0,
-    "views": 1140,
+    "views": 1287,
     "forwards": 3
   },
   {
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52577",
     "score": 4.0,
-    "views": 1732,
+    "views": 1814,
     "forwards": 2
   },
   {
@@ -140,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18709",
     "score": 7.0,
-    "views": 48621,
-    "forwards": 115
+    "views": 50091,
+    "forwards": 120
   },
   {
     "title": "Kyiv: Air defense active",
@@ -194,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18708",
     "score": 8.5,
-    "views": 34453,
-    "forwards": 25
+    "views": 34996,
+    "forwards": 26
   },
   {
     "title": "Dnipro: New groups of BpLA ➡️ heading for the Dnipro, Pavlograd.",
@@ -284,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8817",
     "score": 3.5,
-    "views": 1145,
+    "views": 1156,
     "forwards": 5
   },
   {
@@ -392,7 +428,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37412",
     "score": 3.0,
-    "views": 6015,
+    "views": 6082,
     "forwards": 20
   },
   {
@@ -412,41 +448,5 @@
     "score": 14.0,
     "views": 1034,
     "forwards": 5
-  },
-  {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
-    "description": "Russia sets yet another Donbas capture deadline while demanding Ukraine withdraw without fighting, HUR says. The new timeline marks another postponement of Moscow's objectives.",
-    "description_en": "Russia sets yet another Donbas capture deadline while demanding Ukraine withdraw without fighting, HUR says. The new timeline marks another postponement of Moscow's objectives.",
-    "description_uk": "Russia sets yet another Donbas capture deadline while demanding Ukraine withdraw without fighting, HUR says. The new timeline marks another postponement of Moscow's objectives.",
-    "time": "",
-    "pubDate": "2026-04-17T09:34:24+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52566",
-    "score": 6.0,
-    "views": 450,
-    "forwards": 1
-  },
-  {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "UAVs in the direction of Zaporizhzhia from the south and west.",
-    "description_en": "UAVs in the direction of Zaporizhzhia from the south and west.",
-    "description_uk": "БпЛА в напрямку Запоріжжя з півдня та заходу.",
-    "time": "",
-    "pubDate": "2026-04-17T09:10:40+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60195",
-    "score": 6.0,
-    "views": 70474,
-    "forwards": 11
   }
 ]
