@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: 172 drones launched",
+    "title_en": "Kyiv: 172 drones launched",
+    "title_uk": "Київ: запущено 172 дрони",
+    "description": "At least 6 killed, 43 injured in Russian strikes across Ukraine over past day. Russian forces launched 172 drones and one Iskander ballistic missile against Ukraine overnight, the Air Force said. Photo: Ukraine's Emergency Service",
+    "description_en": "At least 6 killed, 43 injured in Russian strikes across Ukraine over past day. Russian forces launched 172 drones and one Iskander ballistic missile against Ukraine overnight, the Air Force said. Photo: Ukraine's Emergency Service",
+    "description_uk": "At least 6 killed, 43 injured in Russian strikes across Ukraine over past day. Russian forces launched 172 drones and one Iskander ballistic missile against Ukraine overnight, the Air Force said. Photo: Ukraine's Emergency Service",
+    "time": "",
+    "pubDate": "2026-04-17T09:46:36+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52567",
+    "score": 14.0,
+    "views": 326,
+    "forwards": 3
+  },
+  {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Київ: повідомляється про постраждалих",
+    "description": "Russia sets yet another Donbas capture deadline while demanding Ukraine withdraw without fighting, HUR says. The new timeline marks another postponement of Moscow's objectives.",
+    "description_en": "Russia sets yet another Donbas capture deadline while demanding Ukraine withdraw without fighting, HUR says. The new timeline marks another postponement of Moscow's objectives.",
+    "description_uk": "Russia sets yet another Donbas capture deadline while demanding Ukraine withdraw without fighting, HUR says. The new timeline marks another postponement of Moscow's objectives.",
+    "time": "",
+    "pubDate": "2026-04-17T09:34:24+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52566",
+    "score": 6.0,
+    "views": 450,
+    "forwards": 1
+  },
+  {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "UAVs in the direction of Zaporizhzhia from the south and west.",
+    "description_en": "UAVs in the direction of Zaporizhzhia from the south and west.",
+    "description_uk": "БпЛА в напрямку Запоріжжя з півдня та заходу.",
+    "time": "",
+    "pubDate": "2026-04-17T09:10:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60195",
+    "score": 6.0,
+    "views": 43163,
+    "forwards": 11
+  },
+  {
     "title": "In the fifth year of the war, housing in Ukraine did not become...",
     "title_en": "In the fifth year of the war, housing in Ukraine did not become...",
     "title_uk": "На п'ятому році війни житла в Україні не стало...",
@@ -14,13 +68,13 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189609",
     "score": 4.0,
-    "views": 15952,
-    "forwards": 71
+    "views": 72598,
+    "forwards": 179
   },
   {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the north.",
     "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the north.",
-    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півн.",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півночі.",
     "description": "BpLA on Zaporozhye from the north.",
     "description_en": "BpLA on Zaporozhye from the north.",
     "description_uk": "БпЛА на Запоріжжя з півночі.",
@@ -32,7 +86,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60194",
     "score": 6.0,
-    "views": 25211,
+    "views": 60615,
     "forwards": 1
   },
   {
@@ -50,8 +104,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37411",
     "score": 10.5,
-    "views": 10191,
-    "forwards": 126
+    "views": 17366,
+    "forwards": 160
   },
   {
     "title": "Kharkiv: BpLA on Kharkiv from the north.",
@@ -74,7 +128,7 @@
   {
     "title": "Drone attack",
     "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
+    "title_uk": "Атака дронов",
     "description": "The attack on the Dnieper does not stop: jet UAVs are circling over the city",
     "description_en": "The attack on the Dnieper does not stop: jet UAVs are circling over the city",
     "description_uk": "Не прекращается атака на Днепр: над городом кружатся реактивные БпЛА",
@@ -86,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189600",
     "score": 5.5,
-    "views": 98478,
-    "forwards": 110
+    "views": 117831,
+    "forwards": 145
   },
   {
     "title": "Kharkiv: BpLA heading for Kharkiv from the north!",
@@ -140,8 +194,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37401",
     "score": 13.0,
-    "views": 4224,
-    "forwards": 8
+    "views": 4643,
+    "forwards": 9
   },
   {
     "title": "Chernihiv: BpLA on Chernihiv from the north!",
@@ -270,24 +324,6 @@
     "forwards": 1
   },
   {
-    "title": "Kharkiv: BpLA heading to Kharkiv from the west",
-    "title_en": "Kharkiv: BpLA heading to Kharkiv from the west",
-    "title_uk": "Харків: BpLA прямує до Харкова із заходу",
-    "description": "BpLA heading to Kharkiv from the west",
-    "description_en": "BpLA heading to Kharkiv from the west",
-    "description_uk": "БпЛА курсом на м.Харків з заходу",
-    "time": "",
-    "pubDate": "2026-04-16T21:37:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60158",
-    "score": 6.0,
-    "views": 12654,
-    "forwards": 11
-  },
-  {
     "title": "Attack attack",
     "title_en": "Attack attack",
     "title_uk": "Атака нападу",
@@ -320,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18704",
     "score": 5.5,
-    "views": 99740,
-    "forwards": 131
+    "views": 101959,
+    "forwards": 133
   },
   {
     "title": "Airstrike attack",
@@ -340,24 +376,6 @@
     "score": 9.0,
     "views": 29150,
     "forwards": 34
-  },
-  {
-    "title": "Kyiv: Using Christianity for political power is wrong, Mr. Trump “The use...",
-    "title_en": "Kyiv: Using Christianity for political power is wrong, Mr. Trump “The use...",
-    "title_uk": "Київ: використовувати християнство для політичної влади неправильно, містер Трамп “Використання...",
-    "description": "Using Christianity for political power is wrong, Mr. Trump “The use of faith as a political instrument is dangerous, and history gives us ample reason to understand why,” writes Roman Sheremeta, Chair of the Economics Department at the Weatherhead School of Management, in this op-ed. Photo: Allison Bailey/Middle East Images/AFP via Getty Images.",
-    "description_en": "Using Christianity for political power is wrong, Mr. Trump “The use of faith as a political instrument is dangerous, and history gives us ample reason to understand why,” writes Roman Sheremeta, Chair of the Economics Department at the Weatherhead School of Management, in this op-ed. Photo: Allison Bailey/Middle East Images/AFP via Getty Images.",
-    "description_uk": "Using Christianity for political power is wrong, Mr. Trump “The use of faith as a political instrument is dangerous, and history gives us ample reason to understand why,” writes Roman Sheremeta, Chair of the Economics Department at the Weatherhead School of Management, in this op-ed. Photo: Allison Bailey/Middle East Images/AFP via Getty Images.",
-    "time": "",
-    "pubDate": "2026-04-16T15:27:42+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52554",
-    "score": 9.5,
-    "views": 2416,
-    "forwards": 7
   },
   {
     "title": "Kyiv: Drone strike",
@@ -392,8 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18696",
     "score": 13.5,
-    "views": 73437,
-    "forwards": 118
+    "views": 74143,
+    "forwards": 119
   },
   {
     "title": "Dnipro: 659 drones launched",
@@ -430,23 +448,5 @@
     "score": 5.0,
     "views": 3096,
     "forwards": 26
-  },
-  {
-    "title": "Shelling near civilians",
-    "title_en": "Shelling near civilians",
-    "title_uk": "Обстріл поблизу мирних жителів",
-    "description": "Minister Andriy Sybiga: Ukraine will bring the discussion of the Russian shelling to the UN Security Council meeting 💬 \"Russia's wave of terror against Ukraine is not accidental, but is part of its military strategy. Residential buildings with sleeping families, as well as critical infrastructure necessary for the daily life of hundreds of thousands of civilians, continue to be targets. Such attacks are planned in advance. This shows that...",
-    "description_en": "Minister Andriy Sybiga: Ukraine will bring the discussion of the Russian shelling to the UN Security Council meeting 💬 \"Russia's wave of terror against Ukraine is not accidental, but is part of its military strategy. Residential buildings with sleeping families, as well as critical infrastructure necessary for the daily life of hundreds of thousands of civilians, continue to be targets. Such attacks are planned in advance. This shows that...",
-    "description_uk": "Міністр Андрій Сибіга: Україна винесе обговорення російського обстрілу на засідання Радбезу ООН 💬 \"Хвиля терору Росії проти України не є випадковою, а є частиною її воєнної стратегії. Мішенями й надалі залишаються житлові будинки з родинами, які сплять, а також критична інфраструктура, необхідна для щоденного життя сотень тисяч мирних жителів. Такі атаки плануються заздалегідь. Це свідчить про...",
-    "time": "",
-    "pubDate": "2026-04-16T10:01:57+00:00",
-    "category": "shelling",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/8793",
-    "score": 10.0,
-    "views": 2878,
-    "forwards": 19
   }
 ]
