@@ -1,5 +1,59 @@
 [
   {
+    "title": "Crimea: Attack attack",
+    "title_en": "Crimea: Attack attack",
+    "title_uk": "Крим: Напад",
+    "description": "Ukraine reportedly strikes oil refinery in Russia's Samara Oblast. Ukraine's military reportedly struck the Novokuibyshevsk Oil Refinery in Russia's Samara Oblast on the morning hours of April 18, Russian Telegram media channels reported.",
+    "description_en": "Ukraine reportedly strikes oil refinery in Russia's Samara Oblast. Ukraine's military reportedly struck the Novokuibyshevsk Oil Refinery in Russia's Samara Oblast on the morning hours of April 18, Russian Telegram media channels reported.",
+    "description_uk": "Ukraine reportedly strikes oil refinery in Russia's Samara Oblast. Ukraine's military reportedly struck the Novokuibyshevsk Oil Refinery in Russia's Samara Oblast on the morning hours of April 18, Russian Telegram media channels reported.",
+    "time": "",
+    "pubDate": "2026-04-18T03:45:01+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Crimea",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52589",
+    "score": 5.0,
+    "views": 66,
+    "forwards": 1
+  },
+  {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака дронов",
+    "description": "Several attack UAVs in Poltava region (Novi Sanzhary)",
+    "description_en": "Several attack UAVs in Poltava region (Novi Sanzhary)",
+    "description_uk": "Декілька ударних БпЛА на Полтавщині (Нові Санжари)",
+    "time": "",
+    "pubDate": "2026-04-18T02:57:37+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60225",
+    "score": 5.0,
+    "views": 20296,
+    "forwards": 1
+  },
+  {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "New UAV groups in Chernihiv region ➡️ in the direction of Kyiv region.",
+    "description_en": "New UAV groups in Chernihiv region ➡️ in the direction of Kyiv region.",
+    "description_uk": "Нові групи БпЛА на Чернігівщині ➡️ в напрямку Київської обл.",
+    "time": "",
+    "pubDate": "2026-04-18T01:14:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60224",
+    "score": 6.0,
+    "views": 34605,
+    "forwards": 21
+  },
+  {
     "title": "Chernihiv: Groups of unmanned aerial vehicles in the north of Chernihiv Oblast...",
     "title_en": "Chernihiv: Groups of unmanned aerial vehicles in the north of Chernihiv Oblast...",
     "title_uk": "Чернігів: групи безпілотних літальних апаратів на півночі Чернігівської області...",
@@ -32,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52587",
     "score": 8.0,
-    "views": 157,
+    "views": 570,
     "forwards": 2
   },
   {
@@ -198,60 +252,6 @@
     "forwards": 1
   },
   {
-    "title": "Chernihiv: New UAV groups ➡️ in the north of Chernihiv Oblast.",
-    "title_en": "Chernihiv: New UAV groups ➡️ in the north of Chernihiv Oblast.",
-    "title_uk": "Чернігів: Нові групи БПЛА ➡️ на півночі Чернігівської області.",
-    "description": "New UAV groups ➡️ in the north of Chernihiv Oblast.",
-    "description_en": "New UAV groups ➡️ in the north of Chernihiv Oblast.",
-    "description_uk": "Нові групи БпЛА ➡️ на півночі Чернігівщини.",
-    "time": "",
-    "pubDate": "2026-04-17T15:07:23+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60206",
-    "score": 6.0,
-    "views": 40363,
-    "forwards": 1
-  },
-  {
-    "title": "Kharkiv: Attack attack",
-    "title_en": "Kharkiv: Attack attack",
-    "title_uk": "Харків: Напад",
-    "description": "Enlistment officers targeted in more than 600 attacks since start of full-scale invasion, officials say. The highest number of incidents was recorded in Kharkiv Oblast with 69 cases, followed by Kyiv with 53 and Dnipropetrovsk Oblast with 45, according to the data.",
-    "description_en": "Enlistment officers targeted in more than 600 attacks since start of full-scale invasion, officials say. The highest number of incidents was recorded in Kharkiv Oblast with 69 cases, followed by Kyiv with 53 and Dnipropetrovsk Oblast with 45, according to the data.",
-    "description_uk": "Enlistment officers targeted in more than 600 attacks since start of full-scale invasion, officials say. The highest number of incidents was recorded in Kharkiv Oblast with 69 cases, followed by Kyiv with 53 and Dnipropetrovsk Oblast with 45, according to the data.",
-    "time": "",
-    "pubDate": "2026-04-17T14:52:14+00:00",
-    "category": "alert",
-    "severity": "medium",
-    "location": "Kharkiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52577",
-    "score": 4.0,
-    "views": 1971,
-    "forwards": 2
-  },
-  {
-    "title": "Kharkiv: BpLA ➡️ heading for Sumy, Kharkiv, Dnipro.",
-    "title_en": "Kharkiv: BpLA ➡️ heading for Sumy, Kharkiv, Dnipro.",
-    "title_uk": "Харків: BpLA ➡️ курс на Суми, Харків, Дніпро.",
-    "description": "BpLA ➡️ heading for Sumy, Kharkiv, Dnipro.",
-    "description_en": "BpLA ➡️ heading for Sumy, Kharkiv, Dnipro.",
-    "description_uk": "БпЛА ➡️ курсом на Суми, Харків, Дніпро.",
-    "time": "",
-    "pubDate": "2026-04-17T14:51:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60205",
-    "score": 6.0,
-    "views": 1,
-    "forwards": 0
-  },
-  {
     "title": "For the second time after the restoration of our independence, the...",
     "title_en": "For the second time after the restoration of our independence, the...",
     "title_uk": "Вдруге після відновлення нашої незалежності...",
@@ -266,7 +266,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18709",
     "score": 7.0,
-    "views": 52225,
+    "views": 53806,
     "forwards": 126
   },
   {
@@ -288,24 +288,6 @@
     "forwards": 6
   },
   {
-    "title": "BpLA ➡️ in the direction of Zatoka.",
-    "title_en": "BpLA ➡️ in the direction of Zatoka.",
-    "title_uk": "БпЛА ➡️ в напрямку Затоки.",
-    "description": "BpLA ➡️ in the direction of Zatoka.",
-    "description_en": "BpLA ➡️ in the direction of Zatoka.",
-    "description_uk": "БпЛА ➡️ у напрямку Затоки.",
-    "time": "",
-    "pubDate": "2026-04-17T14:03:41+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60204",
-    "score": 5.0,
-    "views": 35580,
-    "forwards": 1
-  },
-  {
     "title": "Because of the war in Iran, there are risks to the supply of weapons...",
     "title_en": "Because of the war in Iran, there are risks to the supply of weapons...",
     "title_uk": "Через війну в Ірані існують ризики для поставок зброї...",
@@ -320,26 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18708",
     "score": 8.5,
-    "views": 36035,
+    "views": 36570,
     "forwards": 29
-  },
-  {
-    "title": "Dnipro: New groups of BpLA ➡️ heading for the Dnipro, Pavlograd.",
-    "title_en": "Dnipro: New groups of BpLA ➡️ heading for the Dnipro, Pavlograd.",
-    "title_uk": "Дніпро: Нові групи BpLA ➡️ прямують на Дніпро, Павлоград.",
-    "description": "New groups of BpLA ➡️ heading for the Dnipro, Pavlograd.",
-    "description_en": "New groups of BpLA ➡️ heading for the Dnipro, Pavlograd.",
-    "description_uk": "Нові групи БпЛА ➡️ курсом на Дніпро, Павлоград.",
-    "time": "",
-    "pubDate": "2026-04-17T13:41:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60203",
-    "score": 6.5,
-    "views": 21339,
-    "forwards": 58
   },
   {
     "title": "Kyiv: Ukraine brings back nearly 20 children from Russian-occupied...",
@@ -374,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8817",
     "score": 3.5,
-    "views": 1185,
+    "views": 1205,
     "forwards": 5
   },
   {
@@ -410,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37412",
     "score": 3.0,
-    "views": 6205,
+    "views": 6328,
     "forwards": 20
   },
   {
@@ -428,7 +392,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37411",
     "score": 10.5,
-    "views": 51026,
-    "forwards": 192
+    "views": 51643,
+    "forwards": 195
   }
 ]
