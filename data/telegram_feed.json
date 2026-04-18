@@ -1,8 +1,44 @@
 [
   {
+    "title": "Chernihiv: BpLA from Sumy Oblast heading for Chernihiv Oblast",
+    "title_en": "Chernihiv: BpLA from Sumy Oblast heading for Chernihiv Oblast",
+    "title_uk": "Чернігів: BpLA з Сумської області прямує до Чернігівської області",
+    "description": "BpLA from Sumy Oblast heading for Chernihiv Oblast",
+    "description_en": "BpLA from Sumy Oblast heading for Chernihiv Oblast",
+    "description_uk": "БпЛА з Сумщини курсом на Чернігівщину",
+    "time": "",
+    "pubDate": "2026-04-18T21:07:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60284",
+    "score": 6.0,
+    "views": 18217,
+    "forwards": 1
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "UAV in the Kharkiv region in the direction of the town of Izyum",
+    "description_en": "UAV in the Kharkiv region in the direction of the town of Izyum",
+    "description_uk": "БпЛА на Харківщині в напрямку н.п.Ізюм",
+    "time": "",
+    "pubDate": "2026-04-18T21:04:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60283",
+    "score": 6.0,
+    "views": 20257,
+    "forwards": 0
+  },
+  {
     "title": "Drone attack",
     "title_en": "Drone attack",
-    "title_uk": "Атака дронов",
+    "title_uk": "Атака безпілотників",
     "description": "Goyda in the Krasnodar Territory: UAVs attack the port in Eisk, - military publications",
     "description_en": "Goyda in the Krasnodar Territory: UAVs attack the port in Eisk, - military publications",
     "description_uk": "Гойда в Краснодарском крае: БПЛА атакуют порт в Ейске, - военные паблики",
@@ -14,7 +50,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189747",
     "score": 5.5,
-    "views": 26207,
+    "views": 45087,
     "forwards": 69
   },
   {
@@ -31,9 +67,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189746",
-    "score": 3.0,
-    "views": 40373,
-    "forwards": 40
+    "score": 3.5,
+    "views": 56946,
+    "forwards": 76
   },
   {
     "title": "BpLA in the direction of Kremenchuk.",
@@ -176,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18720",
     "score": 11.0,
-    "views": 292651,
-    "forwards": 1064
+    "views": 307178,
+    "forwards": 1094
   },
   {
     "title": "Law enforcement officers take away the body of one of the victims of...",
@@ -212,8 +248,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52601",
     "score": 6.0,
-    "views": 1502,
-    "forwards": 5
+    "views": 1702,
+    "forwards": 6
   },
   {
     "title": "Kyiv: 5 killed, 10 injured",
@@ -230,8 +266,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52600",
     "score": 6.0,
-    "views": 1867,
-    "forwards": 12
+    "views": 2052,
+    "forwards": 13
   },
   {
     "title": "UAV to the south of Odesa from the waters of the Black Sea.",
@@ -291,8 +327,8 @@
     "title": "Airstrike attack",
     "title_en": "Airstrike attack",
     "title_uk": "Авіаційна атака",
-    "description": "The Minister of Internal Affairs of Ukraine, Ihor Klymenko, has just reported on the elimination of an attacker in Kyiv who opened fire on ordinary people. All circumstances are being clarified. So far, 5 deaths are known. My condolences to family and friends. As of now, 10 people are hospitalized with wounds and injuries. All are provided with the necessary assistance. Four hostages were rescued. We count on operational...",
-    "description_en": "The Minister of Internal Affairs of Ukraine, Ihor Klymenko, has just reported on the elimination of an attacker in Kyiv who opened fire on ordinary people. All circumstances are being clarified. So far, 5 deaths are known. My condolences to family and friends. As of now, 10 people are hospitalized with wounds and injuries. All are provided with the necessary assistance. Four hostages were rescued. We count on operational...",
+    "description": "The Minister of Internal Affairs of Ukraine, Ihor Klymenko, has just reported on the elimination of an attacker in Kyiv who opened fire on ordinary people. All circumstances are being clarified. So far, 5 people have died. My condolences to family and friends. As of now, 10 people are hospitalized with wounds and injuries. All are provided with the necessary assistance. Four hostages were rescued. We count on operational...",
+    "description_en": "The Minister of Internal Affairs of Ukraine, Ihor Klymenko, has just reported on the elimination of an attacker in Kyiv who opened fire on ordinary people. All circumstances are being clarified. So far, 5 people have died. My condolences to family and friends. As of now, 10 people are hospitalized with wounds and injuries. All are provided with the necessary assistance. Four hostages were rescued. We count on operational...",
     "description_uk": "Щойно міністр внутрішніх справ України Ігор Клименко доповів про ліквідацію в Києві нападника, який відкрив вогонь по звичайних людях. Усі обставини зʼясовуються. Наразі відомо про 5 загиблих. Мої співчуття рідним та близьким. Станом на зараз 10 людей госпіталізовані з пораненнями й травмами. Усім надається необхідна допомога. Чотирьох заручників вдалося врятувати. Розраховуємо на оперативне...",
     "time": "",
     "pubDate": "2026-04-18T15:30:45+00:00",
@@ -302,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18719",
     "score": 6.5,
-    "views": 321622,
-    "forwards": 1521
+    "views": 328412,
+    "forwards": 1530
   },
   {
     "title": "Zaporizhzhia: Zaporozhye - stay in shelters. New unmanned aerial vehicles on the...",
@@ -412,41 +448,5 @@
     "score": 5.0,
     "views": 31564,
     "forwards": 2
-  },
-  {
-    "title": "Zaporizhzhia: BpLA in the direction of Zaporozhye from the east",
-    "title_en": "Zaporizhzhia: BpLA in the direction of Zaporozhye from the east",
-    "title_uk": "Запоріжжя: БпЛА в напрямку Запоріжжя зі сх",
-    "description": "BpLA in the direction of Zaporozhye from the east",
-    "description_en": "BpLA in the direction of Zaporozhye from the east",
-    "description_uk": "БпЛА в напрямку м.Запоріжжя зі сходу",
-    "time": "",
-    "pubDate": "2026-04-18T13:00:46+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60252",
-    "score": 6.0,
-    "views": 25821,
-    "forwards": 1
-  },
-  {
-    "title": "Crimea: Attack attack",
-    "title_en": "Crimea: Attack attack",
-    "title_uk": "Крим: Напад",
-    "description": "Update: Ukraine hits 4 'important' Russian oil sites in overnight strikes, military says. Ukraine's General Staff said the targeted sites support Russia's Armed Forces. Photo: General Staff / Telegram",
-    "description_en": "Update: Ukraine hits 4 'important' Russian oil sites in overnight strikes, military says. Ukraine's General Staff said the targeted sites support Russia's Armed Forces. Photo: General Staff / Telegram",
-    "description_uk": "Update: Ukraine hits 4 'important' Russian oil sites in overnight strikes, military says. Ukraine's General Staff said the targeted sites support Russia's Armed Forces. Photo: General Staff / Telegram",
-    "time": "",
-    "pubDate": "2026-04-18T12:39:45+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Crimea",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52595",
-    "score": 8.0,
-    "views": 796,
-    "forwards": 3
   }
 ]
