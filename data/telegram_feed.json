@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kyiv: 9 injured",
+    "title_en": "Kyiv: 9 injured",
+    "title_uk": "Київ: 9 постраждалих",
+    "description": "Update: Death toll rises to 6 in Kyiv shooting; 9 injured. One of the previously hospitalized victims has died of their injuries, bringing the total number of fatalities to six. Nine people remain injured.",
+    "description_en": "Update: Death toll rises to 6 in Kyiv shooting; 9 injured. One of the previously hospitalized victims has died of their injuries, bringing the total number of fatalities to six. Nine people remain injured.",
+    "description_uk": "Update: Death toll rises to 6 in Kyiv shooting; 9 injured. One of the previously hospitalized victims has died of their injuries, bringing the total number of fatalities to six. Nine people remain injured.",
+    "time": "",
+    "pubDate": "2026-04-18T17:08:53+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52601",
+    "score": 6.0,
+    "views": 2,
+    "forwards": 0
+  },
+  {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
     "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
     "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60260",
     "score": 6.0,
-    "views": 17185,
+    "views": 39493,
     "forwards": 1
   },
   {
@@ -32,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52600",
     "score": 6.0,
-    "views": 498,
-    "forwards": 8
+    "views": 809,
+    "forwards": 10
   },
   {
     "title": "UAV to the south of Odesa from the waters of the Black Sea.",
@@ -50,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60259",
     "score": 5.0,
-    "views": 29303,
+    "views": 48059,
     "forwards": 1
   },
   {
@@ -104,8 +122,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18719",
     "score": 6.5,
-    "views": 170412,
-    "forwards": 1295
+    "views": 208217,
+    "forwards": 1378
   },
   {
     "title": "Zaporizhzhia: Zaporozhye - stay in shelters. New unmanned aerial vehicles on the...",
@@ -356,8 +374,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37447",
     "score": 5.5,
-    "views": 26018,
-    "forwards": 153
+    "views": 27433,
+    "forwards": 154
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
@@ -392,7 +410,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37443",
     "score": 5.0,
-    "views": 4982,
+    "views": 5062,
     "forwards": 13
   },
   {
@@ -430,23 +448,5 @@
     "score": 13.0,
     "views": 3965,
     "forwards": 20
-  },
-  {
-    "title": "Sevastopol: Drone strike",
-    "title_en": "Sevastopol: Drone strike",
-    "title_uk": "Севастополь: удар безпілотника",
-    "description": "Ukrainian drones reportedly strike oil depot in occupied Crimea. Ukrainian drones reportedly struck an oil depot in the city of Sevastopol in occupied Crimea overnight on April 18, Russian Telegram media channels reported.",
-    "description_en": "Ukrainian drones reportedly strike oil depot in occupied Crimea. Ukrainian drones reportedly struck an oil depot in the city of Sevastopol in occupied Crimea overnight on April 18, Russian Telegram media channels reported.",
-    "description_uk": "Ukrainian drones reportedly strike oil depot in occupied Crimea. Ukrainian drones reportedly struck an oil depot in the city of Sevastopol in occupied Crimea overnight on April 18, Russian Telegram media channels reported.",
-    "time": "",
-    "pubDate": "2026-04-18T00:30:52+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Sevastopol",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52587",
-    "score": 8.0,
-    "views": 1169,
-    "forwards": 3
   }
 ]
