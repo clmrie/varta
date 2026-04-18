@@ -1,5 +1,59 @@
 [
   {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the east! 🚀 The...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the east! 🚀 The...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на сході! 🚀...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the east! 🚀 The threat of using aviation means of destruction for front-line areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the east! 🚀 The threat of using aviation means of destruction for front-line areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на сході! 🚀 Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-04-18T06:38:52+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60230",
+    "score": 5.0,
+    "views": 11127,
+    "forwards": 1
+  },
+  {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
+    "description": "BpLA on Zaporozhye from the south.",
+    "description_en": "BpLA on Zaporozhye from the south.",
+    "description_uk": "БпЛА на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-04-18T06:35:19+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60229",
+    "score": 6.0,
+    "views": 13780,
+    "forwards": 1
+  },
+  {
+    "title": "Kursk: Drone incoming",
+    "title_en": "Kursk: Drone incoming",
+    "title_uk": "Курськ: Дрон входить",
+    "description": "190 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 18 (from 18:00 on April 17), the enemy attacked with 219 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Shatalovo, Bryansk, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Chauda - TOT AR Crimea, near 150 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
+    "description_en": "190 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 18 (from 18:00 on April 17), the enemy attacked with 219 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Shatalovo, Bryansk, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Chauda - TOT AR Crimea, near 150 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 190 ВОРОЖИХ БПЛА У ніч на 18 квітня (з 18:00 17 квітня) противник атакував 219-ма ударними БпЛА типу Shahed, Гербера, Італмас та безпілотниками інших типів із напрямків: Шаталово, Брянськ, Курськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., Чауда – ТОТ АР Крим, близько 150 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних...",
+    "time": "",
+    "pubDate": "2026-04-18T05:43:06+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kursk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37441",
+    "score": 13.0,
+    "views": 2262,
+    "forwards": 12
+  },
+  {
     "title": "Crimea: Attack attack",
     "title_en": "Crimea: Attack attack",
     "title_uk": "Крим: Напад",
@@ -14,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52589",
     "score": 5.0,
-    "views": 516,
-    "forwards": 1
+    "views": 834,
+    "forwards": 2
   },
   {
     "title": "Drone attack",
@@ -86,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52587",
     "score": 8.0,
-    "views": 899,
-    "forwards": 2
+    "views": 1169,
+    "forwards": 3
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -216,24 +270,6 @@
     "forwards": 46
   },
   {
-    "title": "Kyiv: 100 missiles launched",
-    "title_en": "Kyiv: 100 missiles launched",
-    "title_uk": "Київ: випущено 100 ракет",
-    "description": "Zelensky sanctions 121 Russian commanders responsible for missile attacks The measures, enacted through decisions of the National Security and Defense Council of Ukraine, target commanders in Russian strategic aviation, which has launched over 4,100 missiles since the start of the full-scale invasion.",
-    "description_en": "Zelensky sanctions 121 Russian commanders responsible for missile attacks The measures, enacted through decisions of the National Security and Defense Council of Ukraine, target commanders in Russian strategic aviation, which has launched over 4,100 missiles since the start of the full-scale invasion.",
-    "description_uk": "Zelensky sanctions 121 Russian commanders responsible for missile attacks The measures, enacted through decisions of the National Security and Defense Council of Ukraine, target commanders in Russian strategic aviation, which has launched over 4,100 missiles since the start of the full-scale invasion.",
-    "time": "",
-    "pubDate": "2026-04-17T18:14:41+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52581",
-    "score": 9.0,
-    "views": 1704,
-    "forwards": 3
-  },
-  {
     "title": "For the second time after the restoration of our independence, the...",
     "title_en": "For the second time after the restoration of our independence, the...",
     "title_uk": "Вдруге після відновлення нашої незалежності...",
@@ -248,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18709",
     "score": 7.0,
-    "views": 56291,
-    "forwards": 128
+    "views": 57599,
+    "forwards": 129
   },
   {
     "title": "Kyiv: Air defense active",
@@ -284,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18708",
     "score": 8.5,
-    "views": 37320,
+    "views": 37856,
     "forwards": 30
   },
   {
@@ -320,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8817",
     "score": 3.5,
-    "views": 1227,
+    "views": 1243,
     "forwards": 5
   },
   {
