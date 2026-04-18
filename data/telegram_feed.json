@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Sumyshchyna: BpLA passes Trostyanets on a southwesterly course. UAV in the direction of Sumy from the east.",
+    "description_en": "Sumyshchyna: BpLA passes Trostyanets on a southwesterly course. UAV in the direction of Sumy from the east.",
+    "description_uk": "Сумщина: БпЛА повз Тростянець південно-західним курсом. БпЛА у напрямку Сум зі сходу.",
+    "time": "",
+    "pubDate": "2026-04-18T14:04:39+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60254",
+    "score": 5.0,
+    "views": 17191,
+    "forwards": 1
+  },
+  {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the east! 🚀 The...",
     "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the east! 🚀 The...",
     "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на сході! 🚀...",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60253",
     "score": 5.0,
-    "views": 2899,
+    "views": 31564,
     "forwards": 2
   },
   {
@@ -50,26 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52595",
     "score": 8.0,
-    "views": 559,
+    "views": 796,
     "forwards": 3
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Odeshchyna - UAV from the Black Sea area heading for Zatoka/Sergiivka.",
-    "description_en": "Odeshchyna - UAV from the Black Sea area heading for Zatoka/Sergiivka.",
-    "description_uk": "Одещина - БпЛА з акваторії Чорного моря курсом на н.п.Затока/Сергіївка.",
-    "time": "",
-    "pubDate": "2026-04-18T12:08:31+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60247",
-    "score": 5.0,
-    "views": 15193,
-    "forwards": 1
   },
   {
     "title": "Chernihiv: BpLA from Sumy Oblast heading for Chernihiv Oblast and Poltava Oblast.",
@@ -194,8 +194,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37447",
     "score": 5.5,
-    "views": 18903,
-    "forwards": 141
+    "views": 20928,
+    "forwards": 148
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
@@ -230,8 +230,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37443",
     "score": 5.0,
-    "views": 4542,
-    "forwards": 12
+    "views": 4672,
+    "forwards": 13
   },
   {
     "title": "Kyiv: 1 killed, 26 injured",
@@ -248,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52590",
     "score": 13.0,
-    "views": 1748,
+    "views": 1863,
     "forwards": 4
   },
   {
@@ -338,26 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18709",
     "score": 7.0,
-    "views": 61905,
-    "forwards": 141
-  },
-  {
-    "title": "Kyiv: Air defense active",
-    "title_en": "Kyiv: Air defense active",
-    "title_uk": "Київ: ППО діюча",
-    "description": "'Incredible record' — Ukrainian drone manufacturer shows remote control of interceptor from 2,000 kilometers away. The Sting interceptor drone was remotely controlled using Hornet Vision Ctrl technology. Video: \"Wild Hornets\"/X",
-    "description_en": "'Incredible record' — Ukrainian drone manufacturer shows remote control of interceptor from 2,000 kilometers away. The Sting interceptor drone was remotely controlled using Hornet Vision Ctrl technology. Video: \"Wild Hornets\"/X",
-    "description_uk": "'Incredible record' — Ukrainian drone manufacturer shows remote control of interceptor from 2,000 kilometers away. The Sting interceptor drone was remotely controlled using Hornet Vision Ctrl technology. Video: \"Wild Hornets\"/X",
-    "time": "",
-    "pubDate": "2026-04-17T14:27:12+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52576",
-    "score": 8.0,
-    "views": 1351,
-    "forwards": 6
+    "views": 62177,
+    "forwards": 145
   },
   {
     "title": "Because of the war in Iran, there are risks to the supply of weapons...",
@@ -374,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18708",
     "score": 8.5,
-    "views": 39836,
-    "forwards": 31
+    "views": 39985,
+    "forwards": 32
   }
 ]
