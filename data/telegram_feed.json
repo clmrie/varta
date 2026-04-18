@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Odeshchyna - UAV from the Black Sea area heading for Zatoka/Sergiivka.",
+    "description_en": "Odeshchyna - UAV from the Black Sea area heading for Zatoka/Sergiivka.",
+    "description_uk": "Одещина - БпЛА з акваторії Чорного моря курсом на н.п.Затока/Сергіївка.",
+    "time": "",
+    "pubDate": "2026-04-18T12:08:31+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60247",
+    "score": 5.0,
+    "views": 15193,
+    "forwards": 1
+  },
+  {
     "title": "Chernihiv: BpLA from Sumy Oblast heading for Chernihiv Oblast and Poltava Oblast.",
     "title_en": "Chernihiv: BpLA from Sumy Oblast heading for Chernihiv Oblast and Poltava Oblast.",
     "title_uk": "Чернігів: BpLA із Сумської області прямує до Чернігівської та Полтавської областей.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60244",
     "score": 6.0,
-    "views": 25625,
+    "views": 46021,
     "forwards": 3
   },
   {
@@ -68,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189670",
     "score": 5.5,
-    "views": 61367,
-    "forwards": 110
+    "views": 75566,
+    "forwards": 145
   },
   {
     "title": "Sumy: BpLA in the direction of the city of Sumy from the north.",
@@ -104,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189667",
     "score": 5.5,
-    "views": 70000,
-    "forwards": 218
+    "views": 82096,
+    "forwards": 253
   },
   {
     "title": "Donetsk: Four objects of the oil refining industry of the Russian Federation...",
@@ -122,8 +140,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37447",
     "score": 5.5,
-    "views": 11611,
-    "forwards": 115
+    "views": 14866,
+    "forwards": 126
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
@@ -158,26 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37443",
     "score": 5.0,
-    "views": 3988,
+    "views": 4220,
     "forwards": 11
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Антидронова підготовка: як курсанти відпрацьовують знищення повітряних цілей Ураження ворожих БпЛА з дробовика вимагає миттєвої реакції та ідеальної точності. Cadets of Taras Shevchenko KNU Military Institute hone these skills in practice. A semi-automatic rifle effectively destroys low-flying drones. Майбутні офіцери постійно вдосконалюють майстерність, враховуючи сучасний бойовий...",
-    "description_en": "Антидронова підготовка: як курсанти відпрацьовують знищення повітряних цілей Ураження ворожих БпЛА з дробовика вимагає миттєвої реакції та ідеальної точності. Cadets of Taras Shevchenko KNU Military Institute hone these skills in practice. A semi-automatic rifle effectively destroys low-flying drones. Майбутні офіцери постійно вдосконалюють майстерність, враховуючи сучасний бойовий...",
-    "description_uk": "Антидронова підготовка: як курсанти відпрацьовують знищення повітряних цілей Ураження ворожих БпЛА з дробовика вимагає миттєвої реакції та ідеальної точності. Курсанти Військового інституту КНУ імені Тараса Шевченка відточують ці навички на практиці. Напівавтоматична рушниця ефективно знищує низьколітаючі дрони. Майбутні офіцери постійно вдосконалюють майстерність, враховуючи сучасний бойовий...",
-    "time": "",
-    "pubDate": "2026-04-18T07:43:40+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37443",
-    "score": 5.0,
-    "views": 1673,
-    "forwards": 3
   },
   {
     "title": "Kyiv: 1 killed, 26 injured",
@@ -194,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52590",
     "score": 13.0,
-    "views": 1403,
+    "views": 1549,
     "forwards": 4
   },
   {
@@ -266,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52589",
     "score": 5.0,
-    "views": 1832,
+    "views": 1940,
     "forwards": 3
   },
   {
@@ -342,24 +342,6 @@
     "forwards": 3
   },
   {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "Groups of attack UAVs through Sumy Oblast ➡️ heading for Poltava Oblast. 🛵 BpLA ➡️ in the direction of Kharkiv, Zaporizhzhia.",
-    "description_en": "Groups of attack UAVs through Sumy Oblast ➡️ heading for Poltava Oblast. 🛵 BpLA ➡️ in the direction of Kharkiv, Zaporizhzhia.",
-    "description_uk": "Групи ударних БпЛА через Сумщину ➡️ курсом на Полтавщину. 🛵 БпЛА ➡️ у напрямку Харкова, Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-04-17T23:48:13+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60220",
-    "score": 6.0,
-    "views": 14331,
-    "forwards": 11
-  },
-  {
     "title": "For the second time after the restoration of our independence, the...",
     "title_en": "For the second time after the restoration of our independence, the...",
     "title_uk": "Вдруге після відновлення нашої незалежності...",
@@ -374,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18709",
     "score": 7.0,
-    "views": 61075,
-    "forwards": 140
+    "views": 61373,
+    "forwards": 141
   },
   {
     "title": "Kyiv: Air defense active",
@@ -410,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18708",
     "score": 8.5,
-    "views": 39439,
+    "views": 39584,
     "forwards": 31
   },
   {
