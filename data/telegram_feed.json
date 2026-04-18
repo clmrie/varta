@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака дронов",
+    "description": "Goyda in the Krasnodar Territory: UAVs attack the port in Eisk, - military publications",
+    "description_en": "Goyda in the Krasnodar Territory: UAVs attack the port in Eisk, - military publications",
+    "description_uk": "Гойда в Краснодарском крае: БПЛА атакуют порт в Ейске, - военные паблики",
+    "time": "",
+    "pubDate": "2026-04-18T20:23:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/189747",
+    "score": 5.5,
+    "views": 26207,
+    "forwards": 69
+  },
+  {
+    "title": "The Magyar party received a record majority in the Hungarian...",
+    "title_en": "The Magyar party received a record majority in the Hungarian...",
+    "title_uk": "Мадярська партія отримала рекордну більшість в Угорській...",
+    "description": "The Magyar party received a record majority in the Hungarian parliament, - Bloomberg According to the results of the vote count, the Tisza party will receive 141 out of 199 seats - this is more than two-thirds and an absolute record, which makes it possible to change the constitution. Orban's party \"Fidesz\" received 52 mandates, another 6 - ultra-right \"My Khasank\". Magyar plans to take over as prime minister around May 9. Among the key tasks of the new...",
+    "description_en": "The Magyar party received a record majority in the Hungarian parliament, - Bloomberg According to the results of the vote count, the Tisza party will receive 141 out of 199 seats - this is more than two-thirds and an absolute record, which makes it possible to change the constitution. Orban's party \"Fidesz\" received 52 mandates, another 6 - ultra-right \"My Khasank\". Magyar plans to take over as prime minister around May 9. Among the key tasks of the new...",
+    "description_uk": "Партия Мадьяра получила рекордное большинство в парламенте Венгрии, - Bloomberg По итогам подсчёта голосов партия \"Тиса\" получит 141 из 199 мест - это более двух третей и абсолютный рекорд, который даёт возможность менять конституцию. Партия Орбана \"Фидес\" получила 52 мандата, ещё 6 - ультраправая \"Ми Хазанк\". Мадьяр планирует вступить в должность премьера около 9 мая. Среди ключевых задач нового...",
+    "time": "",
+    "pubDate": "2026-04-18T20:05:23+00:00",
+    "category": "alert",
+    "severity": "medium",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/189746",
+    "score": 3.0,
+    "views": 40373,
+    "forwards": 40
+  },
+  {
     "title": "BpLA in the direction of Kremenchuk.",
     "title_en": "BpLA in the direction of Kremenchuk.",
     "title_uk": "БпЛА в напрямку Кременчука.",
@@ -14,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60277",
     "score": 5.5,
-    "views": 26283,
+    "views": 47569,
     "forwards": 70
   },
   {
@@ -32,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60275",
     "score": 6.0,
-    "views": 44473,
+    "views": 61690,
     "forwards": 35
   },
   {
@@ -140,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18720",
     "score": 11.0,
-    "views": 267872,
-    "forwards": 1016
+    "views": 292651,
+    "forwards": 1064
   },
   {
     "title": "Law enforcement officers take away the body of one of the victims of...",
@@ -176,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52601",
     "score": 6.0,
-    "views": 1332,
+    "views": 1502,
     "forwards": 5
   },
   {
@@ -194,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52600",
     "score": 6.0,
-    "views": 1718,
+    "views": 1867,
     "forwards": 12
   },
   {
@@ -266,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18719",
     "score": 6.5,
-    "views": 310702,
-    "forwards": 1510
+    "views": 321622,
+    "forwards": 1521
   },
   {
     "title": "Zaporizhzhia: Zaporozhye - stay in shelters. New unmanned aerial vehicles on the...",
@@ -412,41 +448,5 @@
     "score": 8.0,
     "views": 796,
     "forwards": 3
-  },
-  {
-    "title": "Chernihiv: BpLA from Sumy Oblast heading for Chernihiv Oblast and Poltava Oblast.",
-    "title_en": "Chernihiv: BpLA from Sumy Oblast heading for Chernihiv Oblast and Poltava Oblast.",
-    "title_uk": "Чернігів: BpLA із Сумської області прямує до Чернігівської та Полтавської областей.",
-    "description": "BpLA from Sumy Oblast heading for Chernihiv Oblast and Poltava Oblast.",
-    "description_en": "BpLA from Sumy Oblast heading for Chernihiv Oblast and Poltava Oblast.",
-    "description_uk": "БпЛА з Сумщини курсом на Чернігівщину та Полтавщину.",
-    "time": "",
-    "pubDate": "2026-04-18T11:02:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60244",
-    "score": 6.0,
-    "views": 46021,
-    "forwards": 3
-  },
-  {
-    "title": "Kharkiv: BpLA in the direction of the city of Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA in the direction of the city of Kharkiv from the north.",
-    "title_uk": "Харків: БпЛА в напрямку м. Харкова з півн.",
-    "description": "BpLA in the direction of the city of Kharkiv from the north.",
-    "description_en": "BpLA in the direction of the city of Kharkiv from the north.",
-    "description_uk": "БпЛА в напрямку м.Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-04-18T10:24:51+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60242",
-    "score": 6.0,
-    "views": 41841,
-    "forwards": 1
   }
 ]
