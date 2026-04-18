@@ -1,5 +1,77 @@
 [
   {
+    "title": "Zaporizhzhia: Zaporozhye - stay in shelters. New unmanned aerial vehicles on the...",
+    "title_en": "Zaporizhzhia: Zaporozhye - stay in shelters. New unmanned aerial vehicles on the...",
+    "title_uk": "Запоріжжя: Запоріжжя - перебування в притулках. Нові безпілотні літальні апарати на...",
+    "description": "Zaporozhye - stay in shelters. New unmanned aerial vehicles on the city from the south.",
+    "description_en": "Zaporozhye - stay in shelters. New unmanned aerial vehicles on the city from the south.",
+    "description_uk": "Запоріжжя - перебувайте в укриттях. Нові БпЛА на місто з півдня.",
+    "time": "",
+    "pubDate": "2026-04-18T15:02:06+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60257",
+    "score": 11.0,
+    "views": 10109,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: 1 killed",
+    "title_en": "Kyiv: 1 killed",
+    "title_uk": "Київ: 1 загиблий",
+    "description": "Update: At least 1 killed, child injured in Kyiv shooting as gunman remains inside supermarket. \"A special operation to apprehend the man who opened fire and is currently inside the supermarket is ongoing,\" Kyiv Mayor Vitali Klitschko said.",
+    "description_en": "Update: At least 1 killed, child injured in Kyiv shooting as gunman remains inside supermarket. \"A special operation to apprehend the man who opened fire and is currently inside the supermarket is ongoing,\" Kyiv Mayor Vitali Klitschko said.",
+    "description_uk": "Update: At least 1 killed, child injured in Kyiv shooting as gunman remains inside supermarket. \"A special operation to apprehend the man who opened fire and is currently inside the supermarket is ongoing,\" Kyiv Mayor Vitali Klitschko said.",
+    "time": "",
+    "pubDate": "2026-04-18T14:54:57+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52598",
+    "score": 6.0,
+    "views": 277,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Київ: повідомляється про постраждалих",
+    "description": "Gunman kills 1 in Kyiv, injures others as police hunt suspect. Authorities said others were injured, though the exact number of casualties is still being determined.",
+    "description_en": "Gunman kills 1 in Kyiv, injures others as police hunt suspect. Authorities said others were injured, though the exact number of casualties is still being determined.",
+    "description_uk": "Gunman kills 1 in Kyiv, injures others as police hunt suspect. Authorities said others were injured, though the exact number of casualties is still being determined.",
+    "time": "",
+    "pubDate": "2026-04-18T14:47:31+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52597",
+    "score": 6.0,
+    "views": 420,
+    "forwards": 3
+  },
+  {
+    "title": "Kharkiv: BpLA groups in the north-west of Kharkiv region, past...",
+    "title_en": "Kharkiv: BpLA groups in the north-west of Kharkiv region, past...",
+    "title_uk": "Харків: Угруповання BpLA на північному заході Харківської області, минуле...",
+    "description": "BpLA groups in the north-west of Kharkiv region, past Guti/Krasnokutsk heading south.",
+    "description_en": "BpLA groups in the north-west of Kharkiv region, past Guti/Krasnokutsk heading south.",
+    "description_uk": "Групи БпЛА на північному заході Харківщини, повз Гути/Краснокутськ курсом на південь.",
+    "time": "",
+    "pubDate": "2026-04-18T14:46:21+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60256",
+    "score": 6.0,
+    "views": 26278,
+    "forwards": 1
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -194,8 +266,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37447",
     "score": 5.5,
-    "views": 20928,
-    "forwards": 148
+    "views": 22395,
+    "forwards": 149
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
@@ -230,7 +302,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37443",
     "score": 5.0,
-    "views": 4672,
+    "views": 4776,
     "forwards": 13
   },
   {
@@ -288,24 +360,6 @@
     "forwards": 20
   },
   {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака дронов",
-    "description": "Several attack UAVs in Poltava region (Novi Sanzhary)",
-    "description_en": "Several attack UAVs in Poltava region (Novi Sanzhary)",
-    "description_uk": "Декілька ударних БпЛА на Полтавщині (Нові Санжари)",
-    "time": "",
-    "pubDate": "2026-04-18T02:57:37+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60225",
-    "score": 5.0,
-    "views": 50673,
-    "forwards": 1
-  },
-  {
     "title": "Sevastopol: Drone strike",
     "title_en": "Sevastopol: Drone strike",
     "title_uk": "Севастополь: удар безпілотника",
@@ -338,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18709",
     "score": 7.0,
-    "views": 62177,
-    "forwards": 145
+    "views": 62464,
+    "forwards": 148
   },
   {
     "title": "Because of the war in Iran, there are risks to the supply of weapons...",
@@ -356,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18708",
     "score": 8.5,
-    "views": 39985,
+    "views": 40117,
     "forwards": 32
   }
 ]
