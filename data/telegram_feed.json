@@ -1,8 +1,44 @@
 [
   {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Київ: повідомляється про постраждалих",
+    "description": "Police chief resigns in wake of Kyiv mass shooting. Yevhen Zhukov, head of Ukraine's patrol police, resigned on April 19 amid controversy over the police response to the deadly mass shooting in Kyiv the previous day.",
+    "description_en": "Police chief resigns in wake of Kyiv mass shooting. Yevhen Zhukov, head of Ukraine's patrol police, resigned on April 19 amid controversy over the police response to the deadly mass shooting in Kyiv the previous day.",
+    "description_uk": "Police chief resigns in wake of Kyiv mass shooting. Yevhen Zhukov, head of Ukraine's patrol police, resigned on April 19 amid controversy over the police response to the deadly mass shooting in Kyiv the previous day.",
+    "time": "",
+    "pubDate": "2026-04-19T16:01:57+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52611",
+    "score": 6.0,
+    "views": 111,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV in the waters of the Black Sea, heading for Odesa.",
+    "description_en": "UAV in the waters of the Black Sea, heading for Odesa.",
+    "description_uk": "БпЛА в акваторії Чорного моря, курсом на Одещину.",
+    "time": "",
+    "pubDate": "2026-04-19T15:34:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60329",
+    "score": 5.0,
+    "views": 26019,
+    "forwards": 0
+  },
+  {
     "title": "Mykolaiv: BpLA from the Kherson region, heading for the Mykolaiv region.",
     "title_en": "Mykolaiv: BpLA from the Kherson region, heading for the Mykolaiv region.",
-    "title_uk": "Миколаїв: BpLA з Херсонської області, прямуючи до Миколаївської області.",
+    "title_uk": "Миколаїв: БпЛА з Херсонської обл., прямуючи до Миколаївської обл.",
     "description": "BpLA from the Kherson region, heading for the Mykolaiv region.",
     "description_en": "BpLA from the Kherson region, heading for the Mykolaiv region.",
     "description_uk": "БпЛА з Херсонщини, курсом на Миколаївщину.",
@@ -14,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60328",
     "score": 6.0,
-    "views": 58733,
+    "views": 78239,
     "forwards": 1
   },
   {
@@ -32,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52610",
     "score": 4.0,
-    "views": 936,
-    "forwards": 3
+    "views": 1115,
+    "forwards": 5
   },
   {
     "title": "Activity of enemy tactical aviation in the eastern and south-eastern...",
@@ -356,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18720",
     "score": 11.0,
-    "views": 483587,
-    "forwards": 1261
+    "views": 486013,
+    "forwards": 1263
   },
   {
     "title": "Law enforcement officers take away the body of one of the victims of...",
@@ -412,41 +448,5 @@
     "score": 6.0,
     "views": 2250,
     "forwards": 13
-  },
-  {
-    "title": "Kyiv: 2 killed, 10 injured",
-    "title_en": "Kyiv: 2 killed, 10 injured",
-    "title_uk": "Київ: 2 загиблих, 10 поранених",
-    "description": "Update: Gunman killed after opening fire in Kyiv supermarket; 2 dead, 10 injured. The shooter was killed as special police forces moved in to detain him. Authorities now report at least two people dead and 10 injured.",
-    "description_en": "Update: Gunman killed after opening fire in Kyiv supermarket; 2 dead, 10 injured. The shooter was killed as special police forces moved in to detain him. Authorities now report at least two people dead and 10 injured.",
-    "description_uk": "Update: Gunman killed after opening fire in Kyiv supermarket; 2 dead, 10 injured. The shooter was killed as special police forces moved in to detain him. Authorities now report at least two people dead and 10 injured.",
-    "time": "",
-    "pubDate": "2026-04-18T15:40:49+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52599",
-    "score": 6.0,
-    "views": 799,
-    "forwards": 0
-  },
-  {
-    "title": "Casualties reported",
-    "title_en": "Casualties reported",
-    "title_uk": "Повідомляється про постраждалих",
-    "description": "🇨🇭 Andriy Sybiga held a meeting with the Minister of Foreign Affairs of Switzerland Ignazio Cassis 💬 \"Had a fruitful meeting with my Swiss counterpart Ignazio Cassis, who is also currently the acting head of the OSCE. I briefed him on the current state of peace efforts, the situation on the battlefield and the recent brutal Russian missile and drone attacks on Ukraine, which killed and injured civilians....",
-    "description_en": "🇨🇭 Andriy Sybiga held a meeting with the Minister of Foreign Affairs of Switzerland Ignazio Cassis 💬 \"Had a fruitful meeting with my Swiss counterpart Ignazio Cassis, who is also currently the acting head of the OSCE. I briefed him on the current state of peace efforts, the situation on the battlefield and the recent brutal Russian missile and drone attacks on Ukraine, which killed and injured civilians....",
-    "description_uk": "🇨🇭 Андрій Сибіга провів зустріч з міністром закордонних справ Швейцарії Ігнаціо Кассісом 💬 \"Мав плідну зустріч зі своїм швейцарським колегою Ігнаціо Кассісом, який наразі також є діючим головою ОБСЄ. Я поінформував його про поточний стан мирних зусиль, ситуацію на полі бою та нещодавні жорстокі ракетно-дронові атаки Росії по Україні, в результаті яких загинули та отримали поранення цивільні люди....",
-    "time": "",
-    "pubDate": "2026-04-18T15:34:52+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/8840",
-    "score": 8.5,
-    "views": 626,
-    "forwards": 2
   }
 ]
