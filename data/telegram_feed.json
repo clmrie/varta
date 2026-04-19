@@ -1,5 +1,23 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "UAVs in the Black Sea heading for the Mykolaiv region, moving in a northerly direction.",
+    "description_en": "UAVs in the Black Sea heading for the Mykolaiv region, moving in a northerly direction.",
+    "description_uk": "БпЛА у Чорному морі курсом на Миколаївщину, рухаються північному напрямку.",
+    "time": "",
+    "pubDate": "2026-04-19T19:16:38+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60334",
+    "score": 6.0,
+    "views": 30366,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: BpLA in Poltava region in the district. n.p. Komyshnya heading for...",
     "title_en": "Kyiv: BpLA in Poltava region in the district. n.p. Komyshnya heading for...",
     "title_uk": "Київ: БпЛА в Полтавській обл., в р-н. п.п. Комишня прямує до...",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60333",
     "score": 6.0,
-    "views": 34369,
+    "views": 57652,
     "forwards": 35
   },
   {
@@ -31,9 +49,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189802",
-    "score": 5.0,
-    "views": 47448,
-    "forwards": 35
+    "score": 5.5,
+    "views": 72530,
+    "forwards": 70
   },
   {
     "title": "Kharkiv: UAVs in Sumy Oblast and Kharkiv Oblast headed for Poltava Oblast.",
@@ -68,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189797",
     "score": 6.5,
-    "views": 79947,
-    "forwards": 439
+    "views": 97380,
+    "forwards": 473
   },
   {
     "title": "Kyiv: Documentary series ‘Kyiv of Mine’ traces city from creative boom to...",
@@ -86,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52613",
     "score": 4.5,
-    "views": 1198,
+    "views": 1392,
     "forwards": 1
   },
   {
@@ -104,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52611",
     "score": 6.0,
-    "views": 1334,
-    "forwards": 3
+    "views": 1475,
+    "forwards": 4
   },
   {
     "title": "Drone incoming",
@@ -324,42 +342,6 @@
     "forwards": 5
   },
   {
-    "title": "Air defense active",
-    "title_en": "Air defense active",
-    "title_uk": "Активна ППО",
-    "description": "For the first time in the world: the Ukrainian military shot down \"Shakhed\" with an interceptor drone from a surface platform. The interceptor was launched from a sea platform, which became a new level of integration of sea and air drones and expands the possibilities of defense against air attacks.",
-    "description_en": "For the first time in the world: the Ukrainian military shot down \"Shakhed\" with an interceptor drone from a surface platform. The interceptor was launched from a sea platform, which became a new level of integration of sea and air drones and expands the possibilities of defense against air attacks.",
-    "description_uk": "Впервые в мире: украинские военные сбили \"Шахед\" дроном-перехватчиком с надводной платформы Перехватчик был запущен с морской платформы, что стало новым уровнем интеграции морских и воздушных дронов и расширяет возможности защиты от воздушных атак.",
-    "time": "",
-    "pubDate": "2026-04-19T07:47:11+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/189761",
-    "score": 5.5,
-    "views": 139546,
-    "forwards": 184
-  },
-  {
-    "title": "Drone strike",
-    "title_en": "Drone strike",
-    "title_uk": "Безпілотний удар",
-    "description": "The defense forces defeated the company for the production of \"Molnia\" drones in Russia, - the General Staff. This is the \"Atlant Aero\" plant in Taganrog, where they develop and produce attack-reconnaissance UAVs and components, including for \"Orion\" drones. As a result of the attack, a fire broke out at the facility. The strike, as noted, may reduce Russia's ability to produce drones and strike Ukraine.",
-    "description_en": "The defense forces defeated the company for the production of \"Molnia\" drones in Russia, - the General Staff. This is the \"Atlant Aero\" plant in Taganrog, where they develop and produce attack-reconnaissance UAVs and components, including for \"Orion\" drones. As a result of the attack, a fire broke out at the facility. The strike, as noted, may reduce Russia's ability to produce drones and strike Ukraine.",
-    "description_uk": "Силы обороны поразили предприятие по производству дронов \"Молния\" в россии, - Генштаб Речь идёт о заводе \"Атлант Аэро\" в Таганроге, где разрабатывают и производят ударно-разведывательные БПЛА и комплектующие, в том числе для дронов \"Орион\". В результате атаки на объекте возник пожар. Удар, как отмечается, может снизить возможности рф по производству беспилотников и нанесению ударов по Украине.",
-    "time": "",
-    "pubDate": "2026-04-19T07:20:26+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/189760",
-    "score": 5.5,
-    "views": 143775,
-    "forwards": 140
-  },
-  {
     "title": "Donetsk: Drone incoming",
     "title_en": "Donetsk: Drone incoming",
     "title_uk": "Донецьк: Дрон вхід",
@@ -428,8 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18720",
     "score": 11.0,
-    "views": 501296,
-    "forwards": 1265
+    "views": 504077,
+    "forwards": 1266
   },
   {
     "title": "Casualties reported",
@@ -446,7 +428,25 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8840",
     "score": 8.5,
-    "views": 642,
+    "views": 643,
     "forwards": 2
+  },
+  {
+    "title": "Airstrike attack",
+    "title_en": "Airstrike attack",
+    "title_uk": "Авіаційна атака",
+    "description": "The Minister of Internal Affairs of Ukraine, Ihor Klymenko, has just reported on the elimination of an attacker in Kyiv who opened fire on ordinary people. All circumstances are being clarified. So far, 5 deaths are known. My condolences to family and friends. As of now, 10 people are hospitalized with wounds and injuries. All are provided with the necessary assistance. Four hostages were rescued. We count on operational...",
+    "description_en": "The Minister of Internal Affairs of Ukraine, Ihor Klymenko, has just reported on the elimination of an attacker in Kyiv who opened fire on ordinary people. All circumstances are being clarified. So far, 5 deaths are known. My condolences to family and friends. As of now, 10 people are hospitalized with wounds and injuries. All are provided with the necessary assistance. Four hostages were rescued. We count on operational...",
+    "description_uk": "Щойно міністр внутрішніх справ України Ігор Клименко доповів про ліквідацію в Києві нападника, який відкрив вогонь по звичайних людях. Усі обставини зʼясовуються. Наразі відомо про 5 загиблих. Мої співчуття рідним та близьким. Станом на зараз 10 людей госпіталізовані з пораненнями й травмами. Усім надається необхідна допомога. Чотирьох заручників вдалося врятувати. Розраховуємо на оперативне...",
+    "time": "",
+    "pubDate": "2026-04-18T15:30:45+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/18719",
+    "score": 6.5,
+    "views": 417894,
+    "forwards": 1574
   }
 ]
