@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA headed for Kharkiv from the north.",
+    "title_uk": "Харків: BpLA прямувала на Харків з півночі.",
+    "description": "BpLA headed for Kharkiv from the north.",
+    "description_en": "BpLA headed for Kharkiv from the north.",
+    "description_uk": "БпЛА курсом на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-04-19T09:06:06+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60317",
+    "score": 6.0,
+    "views": 4032,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: Ballistic missile launch detected",
+    "title_en": "Kharkiv: Ballistic missile launch detected",
+    "title_uk": "Харків: виявлено пуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons for the Kharkiv and Dnipropetrovsk regions.",
+    "description_en": "☄️ The threat of using ballistic weapons for the Kharkiv and Dnipropetrovsk regions.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння для Харківської та Дніпропетровської областей.",
+    "time": "",
+    "pubDate": "2026-04-19T09:00:37+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60316",
+    "score": 6.5,
+    "views": 19185,
+    "forwards": 102
+  },
+  {
     "title": "\"Dear servicemen and veterans of the Military Law and Order Service!...",
     "title_en": "\"Dear servicemen and veterans of the Military Law and Order Service!...",
     "title_uk": "«Шановні військовослужбовці та ветерани Військової служби правопорядку!...",
@@ -14,8 +50,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37471",
     "score": 5.0,
-    "views": 484,
-    "forwards": 1
+    "views": 2504,
+    "forwards": 4
   },
   {
     "title": "Kyiv: 32 drones intercepted",
@@ -32,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52607",
     "score": 13.0,
-    "views": 233,
+    "views": 556,
     "forwards": 2
   },
   {
@@ -50,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189761",
     "score": 5.5,
-    "views": 31220,
-    "forwards": 73
+    "views": 66591,
+    "forwards": 110
   },
   {
     "title": "Drone strike",
@@ -68,7 +104,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189760",
     "score": 5.5,
-    "views": 51597,
+    "views": 79482,
     "forwards": 70
   },
   {
@@ -104,8 +140,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37467",
     "score": 13.0,
-    "views": 4253,
-    "forwards": 17
+    "views": 4760,
+    "forwards": 19
   },
   {
     "title": "Strike confirmed on residential building",
@@ -158,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52605",
     "score": 8.0,
-    "views": 1206,
+    "views": 1398,
     "forwards": 4
   },
   {
@@ -270,60 +306,6 @@
     "forwards": 0
   },
   {
-    "title": "Chernihiv: BpLA from Sumy Oblast heading for Chernihiv Oblast",
-    "title_en": "Chernihiv: BpLA from Sumy Oblast heading for Chernihiv Oblast",
-    "title_uk": "Чернігів: BpLA з Сумської області прямує до Чернігівської області",
-    "description": "BpLA from Sumy Oblast heading for Chernihiv Oblast",
-    "description_en": "BpLA from Sumy Oblast heading for Chernihiv Oblast",
-    "description_uk": "БпЛА з Сумщини курсом на Чернігівщину",
-    "time": "",
-    "pubDate": "2026-04-18T21:07:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60284",
-    "score": 6.0,
-    "views": 28387,
-    "forwards": 1
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "UAV in the Kharkiv region in the direction of the town of Izyum",
-    "description_en": "UAV in the Kharkiv region in the direction of the town of Izyum",
-    "description_uk": "БпЛА на Харківщині в напрямку н.п.Ізюм",
-    "time": "",
-    "pubDate": "2026-04-18T21:04:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60283",
-    "score": 6.0,
-    "views": 20257,
-    "forwards": 0
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "Goyda in the Krasnodar Territory: UAVs attack the port in Eisk, - military publications",
-    "description_en": "Goyda in the Krasnodar Territory: UAVs attack the port in Eisk, - military publications",
-    "description_uk": "Гойда в Краснодарском крае: БПЛА атакуют порт в Ейске, - военные паблики",
-    "time": "",
-    "pubDate": "2026-04-18T20:23:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/189747",
-    "score": 5.5,
-    "views": 97982,
-    "forwards": 138
-  },
-  {
     "title": "Crimea: Casualties reported",
     "title_en": "Crimea: Casualties reported",
     "title_uk": "Крим: повідомляється про постраждалих",
@@ -338,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18720",
     "score": 11.0,
-    "views": 433453,
-    "forwards": 1215
+    "views": 443415,
+    "forwards": 1219
   },
   {
     "title": "Law enforcement officers take away the body of one of the victims of...",
@@ -428,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8840",
     "score": 8.5,
-    "views": 579,
+    "views": 583,
     "forwards": 1
   },
   {
@@ -446,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18719",
     "score": 6.5,
-    "views": 382064,
-    "forwards": 1557
+    "views": 386384,
+    "forwards": 1561
   }
 ]
