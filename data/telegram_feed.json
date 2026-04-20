@@ -1,5 +1,41 @@
 [
   {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "UAV in the Berislav district of the Kherson region, heading for the Kryvorizky district of the Dnipropetrovsk region.",
+    "description_en": "UAV in the Berislav district of the Kherson region, heading for the Kryvorizky district of the Dnipropetrovsk region.",
+    "description_uk": "БпЛА в Бериславському районі Херсонщини, курсом на Криворізький район Дніпропетровщини.",
+    "time": "",
+    "pubDate": "2026-04-20T05:41:35+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60359",
+    "score": 6.0,
+    "views": 38379,
+    "forwards": 0
+  },
+  {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "113 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 20 (from 18:00 on April 19), the enemy attacked 142 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Kursk, Bryansk, Orel, Millerovo, Shatalovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Gvardiyske - TOT AR Crimea, about 100 of them are \"martyrs\". The air attack was repulsed by aviation,...",
+    "description_en": "113 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 20 (from 18:00 on April 19), the enemy attacked 142 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Kursk, Bryansk, Orel, Millerovo, Shatalovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Gvardiyske - TOT AR Crimea, about 100 of them are \"martyrs\". The air attack was repulsed by aviation,...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 113 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 20 квітня (з 18:00 19 квітня) противник атакував 142 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та безпілотниками інших типів із напрямків: Курськ, Брянськ, Орел, Міллерово, Шаталово, Приморсько-Ахтарськ – рф., ТОТ Донецьк, Гвардійське – ТОТ АР Крим, близько 100 із них – \"шахеди\". Повітряний напад відбивали авіація,...",
+    "time": "",
+    "pubDate": "2026-04-20T05:07:45+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37514",
+    "score": 13.0,
+    "views": 4676,
+    "forwards": 23
+  },
+  {
     "title": "Brovary: Drone attack",
     "title_en": "Brovary: Drone attack",
     "title_uk": "Бровари: атака безпілотників",
@@ -14,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52621",
     "score": 18.0,
-    "views": 312,
+    "views": 979,
     "forwards": 2
   },
   {
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52620",
     "score": 8.0,
-    "views": 887,
+    "views": 1455,
     "forwards": 3
   },
   {
@@ -216,24 +252,6 @@
     "forwards": 0
   },
   {
-    "title": "Kyiv: BpLA in Poltava region in the district. n.p. Komyshnya heading for...",
-    "title_en": "Kyiv: BpLA in Poltava region in the district. n.p. Komyshnya heading for...",
-    "title_uk": "Київ: БпЛА в Полтавській обл., в р-н. п.п. Комишня прямує до...",
-    "description": "BpLA in Poltava region in the district. n.p. Komyshnya heading for Kyiv region.",
-    "description_en": "BpLA in Poltava region in the district. n.p. Komyshnya heading for Kyiv region.",
-    "description_uk": "БпЛА на Полтавщині в р-ні. н.п. Комишня курсом на Київщину.",
-    "time": "",
-    "pubDate": "2026-04-19T18:30:17+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60333",
-    "score": 6.5,
-    "views": 70098,
-    "forwards": 69
-  },
-  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -248,26 +266,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189802",
     "score": 5.5,
-    "views": 146794,
-    "forwards": 88
-  },
-  {
-    "title": "Kharkiv: UAVs in Sumy Oblast and Kharkiv Oblast headed for Poltava Oblast.",
-    "title_en": "Kharkiv: UAVs in Sumy Oblast and Kharkiv Oblast headed for Poltava Oblast.",
-    "title_uk": "Харків: БПЛА в Сумській та Харківській областях прямували до Полтавської області.",
-    "description": "UAVs in Sumy Oblast and Kharkiv Oblast headed for Poltava Oblast.",
-    "description_en": "UAVs in Sumy Oblast and Kharkiv Oblast headed for Poltava Oblast.",
-    "description_uk": "БпЛА на Сумщині і Харківщині курсом на Полтавщину.",
-    "time": "",
-    "pubDate": "2026-04-19T17:54:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60330",
-    "score": 6.0,
-    "views": 59893,
-    "forwards": 0
+    "views": 167035,
+    "forwards": 89
   },
   {
     "title": "Attack attack",
@@ -342,42 +342,6 @@
     "forwards": 5
   },
   {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "203 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 19 (from 17:30 on April 18), the enemy attacked with 236 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Kursk, Orel, Bryansk, Millerovo, Primorsko-Akhtarsk, Shatalovo - Russian Federation, Donetsk TOT, Gvardiyske TOT AR Crimea, about 150 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile troops,...",
-    "description_en": "203 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 19 (from 17:30 on April 18), the enemy attacked with 236 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Kursk, Orel, Bryansk, Millerovo, Primorsko-Akhtarsk, Shatalovo - Russian Federation, Donetsk TOT, Gvardiyske TOT AR Crimea, about 150 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile troops,...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 203 ВОРОЖІ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 19 квітня (з 17:30 18 квітня) противник атакував 236 ударними БпЛА типу Shahed, Гербера, Італмас та безпілотниками інших типів із напрямків: Курськ, Орел, Брянськ, Міллєрово, Приморсько-Ахтарськ, Шаталово – рф., Донецьк ТОТ, Гвардійське ТОТ АР Крим, близько 150 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська,...",
-    "time": "",
-    "pubDate": "2026-04-19T05:20:06+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37467",
-    "score": 13.0,
-    "views": 5623,
-    "forwards": 20
-  },
-  {
-    "title": "Strike confirmed on residential building",
-    "title_en": "Strike confirmed on residential building",
-    "title_uk": "Підтверджено удар по житловому будинку",
-    "description": "As a result of a drone attack on Chernihiv, a 16-year-old boy was killed. Impacts were recorded in different areas of the city: a lyceum, private houses, an industrial facility and a non-working medical facility were damaged.",
-    "description_en": "As a result of a drone attack on Chernihiv, a 16-year-old boy was killed. Impacts were recorded in different areas of the city: a lyceum, private houses, an industrial facility and a non-working medical facility were damaged.",
-    "description_uk": "В результате атаки дронов на Чернигов погиб 16-летний парень Ещё четыре человека пострадали. Удары зафиксированы в разных районах города: повреждены лицей, частные дома, промышленный объект и неработающее медучреждение.",
-    "time": "",
-    "pubDate": "2026-04-19T05:13:25+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Chernihiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/189753",
-    "score": 3.5,
-    "views": 100191,
-    "forwards": 70
-  },
-  {
     "title": "Crimea: Casualties reported",
     "title_en": "Crimea: Casualties reported",
     "title_uk": "Крим: повідомляється про постраждалих",
@@ -392,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18720",
     "score": 11.0,
-    "views": 517291,
-    "forwards": 1270
+    "views": 524268,
+    "forwards": 1273
   },
   {
     "title": "Casualties reported",
@@ -410,15 +374,15 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8840",
     "score": 8.5,
-    "views": 657,
+    "views": 668,
     "forwards": 2
   },
   {
     "title": "Airstrike attack",
     "title_en": "Airstrike attack",
     "title_uk": "Авіаційна атака",
-    "description": "The Minister of Internal Affairs of Ukraine, Ihor Klymenko, has just reported on the elimination of an attacker in Kyiv who opened fire on ordinary people. All circumstances are being clarified. So far, 5 people have died. My condolences to family and friends. As of now, 10 people are hospitalized with wounds and injuries. All are provided with the necessary assistance. Four hostages were rescued. We count on operational...",
-    "description_en": "The Minister of Internal Affairs of Ukraine, Ihor Klymenko, has just reported on the elimination of an attacker in Kyiv who opened fire on ordinary people. All circumstances are being clarified. So far, 5 people have died. My condolences to family and friends. As of now, 10 people are hospitalized with wounds and injuries. All are provided with the necessary assistance. Four hostages were rescued. We count on operational...",
+    "description": "The Minister of Internal Affairs of Ukraine, Ihor Klymenko, has just reported on the elimination of an attacker in Kyiv who opened fire on ordinary people. All circumstances are being clarified. So far, 5 deaths are known. My condolences to family and friends. As of now, 10 people are hospitalized with wounds and injuries. All are provided with the necessary assistance. Four hostages were rescued. We count on operational...",
+    "description_en": "The Minister of Internal Affairs of Ukraine, Ihor Klymenko, has just reported on the elimination of an attacker in Kyiv who opened fire on ordinary people. All circumstances are being clarified. So far, 5 deaths are known. My condolences to family and friends. As of now, 10 people are hospitalized with wounds and injuries. All are provided with the necessary assistance. Four hostages were rescued. We count on operational...",
     "description_uk": "Щойно міністр внутрішніх справ України Ігор Клименко доповів про ліквідацію в Києві нападника, який відкрив вогонь по звичайних людях. Усі обставини зʼясовуються. Наразі відомо про 5 загиблих. Мої співчуття рідним та близьким. Станом на зараз 10 людей госпіталізовані з пораненнями й травмами. Усім надається необхідна допомога. Чотирьох заручників вдалося врятувати. Розраховуємо на оперативне...",
     "time": "",
     "pubDate": "2026-04-18T15:30:45+00:00",
@@ -428,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18719",
     "score": 6.5,
-    "views": 428277,
-    "forwards": 1577
+    "views": 432366,
+    "forwards": 1578
   }
 ]
