@@ -1,5 +1,41 @@
 [
   {
+    "title": "🛫 Activity of enemy tactical aviation in the eastern direction!",
+    "title_en": "🛫 Activity of enemy tactical aviation in the eastern direction!",
+    "title_uk": "🛫 Активність тактичної авіації противника на східному напрямку!",
+    "description": "🛫 Activity of enemy tactical aviation in the eastern direction!",
+    "description_en": "🛫 Activity of enemy tactical aviation in the eastern direction!",
+    "description_uk": "🛫 Активність ворожої тактичної авіації на східному напрямку!",
+    "time": "",
+    "pubDate": "2026-04-20T07:40:14+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60362",
+    "score": 5.0,
+    "views": 54878,
+    "forwards": 0
+  },
+  {
+    "title": "Kryvyi Rih: BpLA heading for Kryvyi Rih.",
+    "title_en": "Kryvyi Rih: BpLA heading for Kryvyi Rih.",
+    "title_uk": "Кривий Ріг: BpLA прямує до Кривого Рогу.",
+    "description": "BpLA heading for Kryvyi Rih.",
+    "description_en": "BpLA heading for Kryvyi Rih.",
+    "description_uk": "БпЛА курсом на Кривий Ріг.",
+    "time": "",
+    "pubDate": "2026-04-20T06:50:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60361",
+    "score": 6.0,
+    "views": 79760,
+    "forwards": 1
+  },
+  {
     "title": "Dnipro: Drone incoming",
     "title_en": "Dnipro: Drone incoming",
     "title_uk": "Дніпро: Дрон вхід",
@@ -32,8 +68,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37514",
     "score": 13.0,
-    "views": 4676,
-    "forwards": 23
+    "views": 9071,
+    "forwards": 28
   },
   {
     "title": "Brovary: Drone attack",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52621",
     "score": 18.0,
-    "views": 979,
-    "forwards": 2
+    "views": 1527,
+    "forwards": 3
   },
   {
     "title": "Chernihiv: BpLA headed for Chernihiv from the north.",
@@ -140,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52620",
     "score": 8.0,
-    "views": 1455,
+    "views": 1915,
     "forwards": 3
   },
   {
@@ -216,60 +252,6 @@
     "forwards": 0
   },
   {
-    "title": "Kharkiv: BpLA from Kharkiv region to Poltava region.",
-    "title_en": "Kharkiv: BpLA from Kharkiv region to Poltava region.",
-    "title_uk": "Харків: БпЛА від Харківської обл. до Полтавської обл.",
-    "description": "BpLA from Kharkiv region to Poltava region.",
-    "description_en": "BpLA from Kharkiv region to Poltava region.",
-    "description_uk": "БпЛА з Харківщини на Полтавщину.",
-    "time": "",
-    "pubDate": "2026-04-19T20:37:22+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60337",
-    "score": 6.0,
-    "views": 17235,
-    "forwards": 1
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "UAVs in the Black Sea heading for the Mykolaiv region, moving in a northerly direction.",
-    "description_en": "UAVs in the Black Sea heading for the Mykolaiv region, moving in a northerly direction.",
-    "description_uk": "БпЛА у Чорному морі курсом на Миколаївщину, рухаються північному напрямку.",
-    "time": "",
-    "pubDate": "2026-04-19T19:16:38+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60334",
-    "score": 6.0,
-    "views": 59035,
-    "forwards": 0
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "👀 Ukraine is working on the creation of its own anti-ballistic system, - President Zelensky said that the country is discussing with partners the formation of a European missile defense system and, in parallel, is developing its own solution, which they plan to implement in about an hour. According to him, there are agreements on missiles for Patriot, but they do not close the current deficit and will have an effect only after...",
-    "description_en": "👀 Ukraine is working on the creation of its own anti-ballistic system, - President Zelensky said that the country is discussing with partners the formation of a European missile defense system and, in parallel, is developing its own solution, which they plan to implement in about an hour. According to him, there are agreements on missiles for Patriot, but they do not close the current deficit and will have an effect only after...",
-    "description_uk": "👀 Украина работает над созданием собственной антибаллистической системы, - Зеленский Президент заявил, что страна обсуждает с партнёрами формирование европейской системы ПРО и параллельно разрабатывает собственное решение, которое планируют реализовать примерно за год. По его словам, договорённости по ракетам для Patriot есть, но они не закрывают текущий дефицит и дадут эффект только после...",
-    "time": "",
-    "pubDate": "2026-04-19T18:24:15+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/189802",
-    "score": 5.5,
-    "views": 167035,
-    "forwards": 89
-  },
-  {
     "title": "Attack attack",
     "title_en": "Attack attack",
     "title_uk": "Атака нападу",
@@ -306,42 +288,6 @@
     "forwards": 4
   },
   {
-    "title": "\"Dear servicemen and veterans of the Military Law and Order Service!...",
-    "title_en": "\"Dear servicemen and veterans of the Military Law and Order Service!...",
-    "title_uk": "«Шановні військовослужбовці та ветерани Військової служби правопорядку!...",
-    "description": "\"Dear servicemen and veterans of the Military Law and Order Service! I sincerely congratulate you on your professional holiday! Today, the Military Law and Order Service is much more than a control or response body. Military law enforcement officers ensure compliance with the law, fight crime, and also perform a wide range of other tasks. The development of combat potential deserves special attention...",
-    "description_en": "\"Dear servicemen and veterans of the Military Law and Order Service! I sincerely congratulate you on your professional holiday! Today, the Military Law and Order Service is much more than a control or response body. Military law enforcement officers ensure compliance with the law, fight crime, and also perform a wide range of other tasks. The development of combat potential deserves special attention...",
-    "description_uk": "\"Шановні військовослужбовці та ветерани Військової служби правопорядку! Щиро вітаю вас із професійним святом! Сьогодні Військова служба правопорядку — це значно більше, ніж орган контролю чи реагування. Військові правоохоронці забезпечують дотримання законності, протидіють правопорушенням, а також виконують широкий спектр інших завдань. Особливої уваги заслуговує розвиток бойового потенціалу...",
-    "time": "",
-    "pubDate": "2026-04-19T08:09:39+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37471",
-    "score": 5.0,
-    "views": 5438,
-    "forwards": 9
-  },
-  {
-    "title": "Kyiv: 32 drones intercepted",
-    "title_en": "Kyiv: 32 drones intercepted",
-    "title_uk": "Київ: перехоплено 32 дрони",
-    "description": "At least 3 killed, 26 injured in Russian attacks across Ukraine over past day. Ukraine's Air Force said it shot down 203 of 236 Russian drones overnight. Direct hits by 32 drones were recorded at 18 locations, while falling debris was reported at eight additional sites.",
-    "description_en": "At least 3 killed, 26 injured in Russian attacks across Ukraine over past day. Ukraine's Air Force said it shot down 203 of 236 Russian drones overnight. Direct hits by 32 drones were recorded at 18 locations, while falling debris was reported at eight additional sites.",
-    "description_uk": "At least 3 killed, 26 injured in Russian attacks across Ukraine over past day. Ukraine's Air Force said it shot down 203 of 236 Russian drones overnight. Direct hits by 32 drones were recorded at 18 locations, while falling debris was reported at eight additional sites.",
-    "time": "",
-    "pubDate": "2026-04-19T07:54:03+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52607",
-    "score": 13.0,
-    "views": 1623,
-    "forwards": 5
-  },
-  {
     "title": "Crimea: Casualties reported",
     "title_en": "Crimea: Casualties reported",
     "title_uk": "Крим: повідомляється про постраждалих",
@@ -356,7 +302,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18720",
     "score": 11.0,
-    "views": 524268,
+    "views": 529549,
     "forwards": 1273
   },
   {
@@ -374,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8840",
     "score": 8.5,
-    "views": 668,
+    "views": 692,
     "forwards": 2
   },
   {
@@ -392,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18719",
     "score": 6.5,
-    "views": 432366,
+    "views": 435735,
     "forwards": 1578
   }
 ]
