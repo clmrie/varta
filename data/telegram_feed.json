@@ -1,5 +1,95 @@
 [
   {
+    "title": "Evacuation ordered",
+    "title_en": "Evacuation ordered",
+    "title_uk": "Наказано евакуацію",
+    "description": "The Medical Forces of the Armed Forces of Ukraine are implementing the MedEvac digital system, which is designed to increase the efficiency of providing assistance to the wounded at all stages of medical evacuation. In particular, the paper \"Form 100\" - the primary medical card of a wounded serviceman, which records the circumstances of the injury, the time of application of the tourniquet and the assistance provided - was replaced with an electronic primary medical card...",
+    "description_en": "The Medical Forces of the Armed Forces of Ukraine are implementing the MedEvac digital system, which is designed to increase the efficiency of providing assistance to the wounded at all stages of medical evacuation. In particular, the paper \"Form 100\" - the primary medical card of a wounded serviceman, which records the circumstances of the injury, the time of application of the tourniquet and the assistance provided - was replaced with an electronic primary medical card...",
+    "description_uk": "У Медичних силах Збройних Силах України впроваджують цифрову систему MedEvac, яка покликана підвищити ефективність надання допомоги пораненим на всіх етапах медичної евакуації. Зокрема, відбулась заміна паперової \"Форми 100\" – первинної медичної картки пораненого військовослужбовця, що фіксує обставини травми, час накладання турнікета та надану допомогу - на електронну первинну медичну картку...",
+    "time": "",
+    "pubDate": "2026-04-20T10:19:14+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37517",
+    "score": 13.5,
+    "views": 354,
+    "forwards": 2
+  },
+  {
+    "title": "Mykolaiv: Mykolaiv region - BpLA on Olshansk, Nova Odesa.",
+    "title_en": "Mykolaiv: Mykolaiv region - BpLA on Olshansk, Nova Odesa.",
+    "title_uk": "Миколаїв: Миколаївська обл.- БпЛА на Ольшанськ, Нова Одеса.",
+    "description": "Mykolaiv region - BpLA on Olshansk, Nova Odesa.",
+    "description_en": "Mykolaiv region - BpLA on Olshansk, Nova Odesa.",
+    "description_uk": "Миколаївщина - БпЛА на Ольшанське, Нову Одесу.",
+    "time": "",
+    "pubDate": "2026-04-20T10:12:26+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60373",
+    "score": 6.0,
+    "views": 26305,
+    "forwards": 1
+  },
+  {
+    "title": "Mykolaiv: Mykolaiv - a group of BpLA in the direction of the city.",
+    "title_en": "Mykolaiv: Mykolaiv - a group of BpLA in the direction of the city.",
+    "title_uk": "Миколаїв: Миколаїв – група БпЛА в напрямку м.",
+    "description": "Mykolaiv - a group of BpLA in the direction of the city.",
+    "description_en": "Mykolaiv - a group of BpLA in the direction of the city.",
+    "description_uk": "Миколаїв - група БпЛА в напрямку міста.",
+    "time": "",
+    "pubDate": "2026-04-20T09:50:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60372",
+    "score": 6.0,
+    "views": 60723,
+    "forwards": 34
+  },
+  {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Київ: Дрон-удар",
+    "description": "Top Defense Ministry advisor injured in allegedly targeted Russian drone strike. Military communications expert and Defense Ministry advisor Serhii Beskrestnov was injured in what he said was a targeted Russian drone strike on his home outside Kyiv overnight on April 20.",
+    "description_en": "Top Defense Ministry advisor injured in allegedly targeted Russian drone strike. Military communications expert and Defense Ministry advisor Serhii Beskrestnov was injured in what he said was a targeted Russian drone strike on his home outside Kyiv overnight on April 20.",
+    "description_uk": "Top Defense Ministry advisor injured in allegedly targeted Russian drone strike. Military communications expert and Defense Ministry advisor Serhii Beskrestnov was injured in what he said was a targeted Russian drone strike on his home outside Kyiv overnight on April 20.",
+    "time": "",
+    "pubDate": "2026-04-20T09:48:11+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52625",
+    "score": 16.5,
+    "views": 433,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: 142 drones launched",
+    "title_en": "Kyiv: 142 drones launched",
+    "title_uk": "Київ: запущено 142 дрони",
+    "description": "At least 1 killed, 26 injured in Russian strikes across Ukraine over past day. Russian forces launched 142 drones against Ukraine overnight, 113 of which were downed or jammed, the Air Force said. Photo: Ukraine's Emergency Service",
+    "description_en": "At least 1 killed, 26 injured in Russian strikes across Ukraine over past day. Russian forces launched 142 drones against Ukraine overnight, 113 of which were downed or jammed, the Air Force said. Photo: Ukraine's Emergency Service",
+    "description_uk": "At least 1 killed, 26 injured in Russian strikes across Ukraine over past day. Russian forces launched 142 drones against Ukraine overnight, 113 of which were downed or jammed, the Air Force said. Photo: Ukraine's Emergency Service",
+    "time": "",
+    "pubDate": "2026-04-20T09:35:28+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52624",
+    "score": 14.0,
+    "views": 560,
+    "forwards": 1
+  },
+  {
     "title": "🛫 Activity of enemy tactical aviation in the eastern direction!",
     "title_en": "🛫 Activity of enemy tactical aviation in the eastern direction!",
     "title_uk": "🛫 Активність тактичної авіації противника на східному напрямку!",
@@ -68,8 +158,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37514",
     "score": 13.0,
-    "views": 9071,
-    "forwards": 28
+    "views": 10779,
+    "forwards": 31
   },
   {
     "title": "Brovary: Drone attack",
@@ -162,24 +252,6 @@
     "forwards": 0
   },
   {
-    "title": "Kyiv: Drone strike",
-    "title_en": "Kyiv: Drone strike",
-    "title_uk": "Київ: Дрон-удар",
-    "description": "Ukrainian drones reportedly strike oil refinery in Russia's Krasnodar Krai. Ukrainian drones reportedly struck the Tuapse Oil Refinery in southern Russia's Krasnodar Krai during an overnight attack on April 20, as Kyiv continues efforts to disrupt Moscow's war funding.",
-    "description_en": "Ukrainian drones reportedly strike oil refinery in Russia's Krasnodar Krai. Ukrainian drones reportedly struck the Tuapse Oil Refinery in southern Russia's Krasnodar Krai during an overnight attack on April 20, as Kyiv continues efforts to disrupt Moscow's war funding.",
-    "description_uk": "Ukrainian drones reportedly strike oil refinery in Russia's Krasnodar Krai. Ukrainian drones reportedly struck the Tuapse Oil Refinery in southern Russia's Krasnodar Krai during an overnight attack on April 20, as Kyiv continues efforts to disrupt Moscow's war funding.",
-    "time": "",
-    "pubDate": "2026-04-20T00:15:18+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52620",
-    "score": 8.0,
-    "views": 1915,
-    "forwards": 3
-  },
-  {
     "title": "BpLA heading for Pavlograd from the south",
     "title_en": "BpLA heading for Pavlograd from the south",
     "title_uk": "BpLA прямує на Павлоград з півдня",
@@ -214,42 +286,6 @@
     "score": 6.0,
     "views": 14429,
     "forwards": 2
-  },
-  {
-    "title": "Kharkiv: BpLA from Kharkiv region heading for Pavlograd.",
-    "title_en": "Kharkiv: BpLA from Kharkiv region heading for Pavlograd.",
-    "title_uk": "Харків: BpLA з Харківщини прямує до Павлограда.",
-    "description": "BpLA from Kharkiv region heading for Pavlograd.",
-    "description_en": "BpLA from Kharkiv region heading for Pavlograd.",
-    "description_uk": "БпЛА з Харківщини курсом на Павлоград.",
-    "time": "",
-    "pubDate": "2026-04-19T21:35:16+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60339",
-    "score": 6.0,
-    "views": 37664,
-    "forwards": 6
-  },
-  {
-    "title": "Chernihiv: BpLA in Sumy Oblast heading for Poltava Oblast and Chernihiv Oblast.",
-    "title_en": "Chernihiv: BpLA in Sumy Oblast heading for Poltava Oblast and Chernihiv Oblast.",
-    "title_uk": "Чернігів: BpLA в Сумській області прямує до Полтавської та Чернігівської областей.",
-    "description": "BpLA in Sumy Oblast heading for Poltava Oblast and Chernihiv Oblast.",
-    "description_en": "BpLA in Sumy Oblast heading for Poltava Oblast and Chernihiv Oblast.",
-    "description_uk": "БпЛА на Сумщині курсом на Полтавщину та Чернігівщину.",
-    "time": "",
-    "pubDate": "2026-04-19T21:03:22+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60338",
-    "score": 6.0,
-    "views": 20826,
-    "forwards": 0
   },
   {
     "title": "Attack attack",
@@ -302,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18720",
     "score": 11.0,
-    "views": 529549,
-    "forwards": 1273
+    "views": 533412,
+    "forwards": 1274
   },
   {
     "title": "Casualties reported",
@@ -320,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8840",
     "score": 8.5,
-    "views": 692,
+    "views": 708,
     "forwards": 2
   },
   {
@@ -338,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18719",
     "score": 6.5,
-    "views": 435735,
-    "forwards": 1578
+    "views": 438392,
+    "forwards": 1580
   }
 ]
