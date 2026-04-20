@@ -1,5 +1,23 @@
 [
   {
+    "title": "Sumy: The BpLA group is headed for Sumy.",
+    "title_en": "Sumy: The BpLA group is headed for Sumy.",
+    "title_uk": "Суми: Група BpLA прямує до Сум.",
+    "description": "The BpLA group is headed for Sumy.",
+    "description_en": "The BpLA group is headed for Sumy.",
+    "description_uk": "Група БпЛА - курсом на Суми.",
+    "time": "",
+    "pubDate": "2026-04-20T22:19:04+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60404",
+    "score": 6.0,
+    "views": 9471,
+    "forwards": 10
+  },
+  {
     "title": "Zaporizhzhia: BpLA - in the direction of Zaporizhzhia.",
     "title_en": "Zaporizhzhia: BpLA - in the direction of Zaporizhzhia.",
     "title_uk": "Запоріжжя: БпЛА - в напрямку Запоріжжя.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60403",
     "score": 6.0,
-    "views": 10139,
+    "views": 19736,
     "forwards": 0
   },
   {
@@ -32,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52641",
     "score": 11.0,
-    "views": 216,
-    "forwards": 2
+    "views": 531,
+    "forwards": 3
   },
   {
     "title": "Dnipro: The BpLA group is headed for Dnipro/Sinelnikovo.",
@@ -176,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18730",
     "score": 9.5,
-    "views": 26892,
-    "forwards": 19
+    "views": 27863,
+    "forwards": 21
   },
   {
     "title": "Kyiv: Ukraine to simplify use of fiber-optic drones on front line Ukrainian...",
@@ -230,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18728",
     "score": 6.0,
-    "views": 279492,
-    "forwards": 245
+    "views": 284160,
+    "forwards": 250
   },
   {
     "title": "Drone strike on city center",
@@ -248,8 +266,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189858",
     "score": 9.5,
-    "views": 133647,
-    "forwards": 264
+    "views": 136767,
+    "forwards": 274
   },
   {
     "title": "On Wednesday, the EU will try to finalize the procedure for providing...",
@@ -266,7 +284,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189857",
     "score": 5.5,
-    "views": 137325,
+    "views": 140293,
     "forwards": 104
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 1497,
     "forwards": 3
-  },
-  {
-    "title": "Crimea: Attack attack",
-    "title_en": "Crimea: Attack attack",
-    "title_uk": "Крим: Напад",
-    "description": "Update: Ukraine strikes oil refinery in Russia's Krasnodar Krai for 2nd time in a week, sparking major fire, General Staff confirms. In addition to the oil refinery, Ukraine struck the Hvardiiske oil depot in Russian-occupied Crimea, as well as two landing ships of Project 1171 and Project 775, the General Staff said.",
-    "description_en": "Update: Ukraine strikes oil refinery in Russia's Krasnodar Krai for 2nd time in a week, sparking major fire, General Staff confirms. In addition to the oil refinery, Ukraine struck the Hvardiiske oil depot in Russian-occupied Crimea, as well as two landing ships of Project 1171 and Project 775, the General Staff said.",
-    "description_uk": "Update: Ukraine strikes oil refinery in Russia's Krasnodar Krai for 2nd time in a week, sparking major fire, General Staff confirms. In addition to the oil refinery, Ukraine struck the Hvardiiske oil depot in Russian-occupied Crimea, as well as two landing ships of Project 1171 and Project 775, the General Staff said.",
-    "time": "",
-    "pubDate": "2026-04-20T12:05:29+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Crimea",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52629",
-    "score": 5.0,
-    "views": 1247,
-    "forwards": 2
   }
 ]
