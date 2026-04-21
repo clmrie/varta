@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons.",
+    "description_en": "☄️ The threat of using ballistic weapons.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння.",
+    "time": "",
+    "pubDate": "2026-04-21T22:11:31+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60461",
+    "score": 5.0,
+    "views": 14179,
+    "forwards": 34
+  },
+  {
+    "title": "Kharkiv: BpLA from Kharkiv region in the direction of Pavlograd",
+    "title_en": "Kharkiv: BpLA from Kharkiv region in the direction of Pavlograd",
+    "title_uk": "Харків: БпЛА з Харківської області в напрямку Павлограда",
+    "description": "BpLA from Kharkiv region in the direction of Pavlograd",
+    "description_en": "BpLA from Kharkiv region in the direction of Pavlograd",
+    "description_uk": "БпЛА з Харківщини у напрямку Павлограду",
+    "time": "",
+    "pubDate": "2026-04-21T21:54:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60460",
+    "score": 6.0,
+    "views": 20268,
+    "forwards": 1
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -68,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189937",
     "score": 5.5,
-    "views": 62877,
-    "forwards": 72
+    "views": 70591,
+    "forwards": 86
   },
   {
     "title": "Drone attack on infrastructure",
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189935",
     "score": 5.5,
-    "views": 89635,
-    "forwards": 144
+    "views": 95650,
+    "forwards": 155
   },
   {
     "title": "Enemy anti-aircraft aircraft in the east of Sumy Oblast heading west.",
@@ -122,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52662",
     "score": 5.0,
-    "views": 1255,
-    "forwards": 2
+    "views": 1394,
+    "forwards": 3
   },
   {
     "title": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on...",
@@ -140,7 +176,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8859",
     "score": 4.0,
-    "views": 460,
+    "views": 478,
     "forwards": 5
   },
   {
@@ -158,8 +194,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52660",
     "score": 4.5,
-    "views": 1487,
-    "forwards": 4
+    "views": 1610,
+    "forwards": 5
   },
   {
     "title": "Kyiv: Airstrike attack on residential area",
@@ -194,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18739",
     "score": 8.0,
-    "views": 66897,
-    "forwards": 145
+    "views": 67470,
+    "forwards": 146
   },
   {
     "title": "We analyze in detail the updated Russian war plans. The command of...",
@@ -212,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18736",
     "score": 8.5,
-    "views": 78128,
-    "forwards": 120
+    "views": 78840,
+    "forwards": 121
   },
   {
     "title": "Kyiv: In one of the rehabilitation hospitals in the Kyiv region, work has...",
@@ -230,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37564",
     "score": 9.0,
-    "views": 5047,
+    "views": 5112,
     "forwards": 13
   },
   {
@@ -248,26 +284,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8848",
     "score": 5.0,
-    "views": 892,
+    "views": 897,
     "forwards": 8
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons.",
-    "description_en": "☄️ The threat of using ballistic weapons.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння.",
-    "time": "",
-    "pubDate": "2026-04-21T12:40:15+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60446",
-    "score": 5.0,
-    "views": 118843,
-    "forwards": 46
   },
   {
     "title": "🇪🇺 The EU is preparing to start payments to Ukraine for a loan of 90...",
@@ -284,8 +302,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23423",
     "score": 5.5,
-    "views": 111172,
-    "forwards": 165
+    "views": 112464,
+    "forwards": 166
   },
   {
     "title": "Kyiv: Drone strike",
@@ -392,7 +410,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37553",
     "score": 13.0,
-    "views": 5928,
+    "views": 5945,
     "forwards": 22
   },
   {
@@ -412,23 +430,5 @@
     "score": 10.0,
     "views": 1603,
     "forwards": 2
-  },
-  {
-    "title": "Kyiv: Ballistic missile launch detected",
-    "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
-    "description": "Ukraine war latest: Ukraine pushing to produce homegrown ballistic defense system 'within a year,' Zelensky says Ukraine, with support from its European partners, aims to develop an anti-ballistic missile air defense system \"within a year,\" seeking to reduce its reliance on the U.S.-made Patriot system. At the same time, Russian educational institutions — all the way from universities down to...",
-    "description_en": "Ukraine war latest: Ukraine pushing to produce homegrown ballistic defense system 'within a year,' Zelensky says Ukraine, with support from its European partners, aims to develop an anti-ballistic missile air defense system \"within a year,\" seeking to reduce its reliance on the U.S.-made Patriot system. At the same time, Russian educational institutions — all the way from universities down to...",
-    "description_uk": "Ukraine war latest: Ukraine pushing to produce homegrown ballistic defense system 'within a year,' Zelensky says Ukraine, with support from its European partners, aims to develop an anti-ballistic missile air defense system \"within a year,\" seeking to reduce its reliance on the U.S.-made Patriot system. At the same time, Russian educational institutions — all the way from universities down to...",
-    "time": "",
-    "pubDate": "2026-04-20T21:39:29+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52641",
-    "score": 11.0,
-    "views": 2088,
-    "forwards": 4
   }
 ]
