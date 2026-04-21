@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_uk": "Харків: БпЛА на Харків з півночі.",
+    "description": "BpLA on Kharkiv from the north.",
+    "description_en": "BpLA on Kharkiv from the north.",
+    "description_uk": "БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-04-21T20:17:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60456",
+    "score": 6.0,
+    "views": 21257,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
+    "description": "BpLA on Zaporozhye from the south.",
+    "description_en": "BpLA on Zaporozhye from the south.",
+    "description_uk": "БпЛА на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-04-21T20:06:52+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60455",
+    "score": 6.0,
+    "views": 29368,
+    "forwards": 1
+  },
+  {
     "title": "Airstrike attack",
     "title_en": "Airstrike attack",
     "title_uk": "Авіаційна атака",
@@ -14,8 +50,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189937",
     "score": 5.0,
-    "views": 9856,
-    "forwards": 2
+    "views": 49401,
+    "forwards": 38
   },
   {
     "title": "Drone attack on infrastructure",
@@ -32,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189935",
     "score": 5.5,
-    "views": 55302,
-    "forwards": 109
+    "views": 79526,
+    "forwards": 144
   },
   {
     "title": "Enemy anti-aircraft aircraft in the east of Sumy Oblast heading west.",
@@ -68,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52662",
     "score": 5.0,
-    "views": 831,
-    "forwards": 1
+    "views": 1123,
+    "forwards": 2
   },
   {
     "title": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on...",
@@ -86,7 +122,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8859",
     "score": 4.0,
-    "views": 379,
+    "views": 442,
     "forwards": 4
   },
   {
@@ -104,26 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52660",
     "score": 4.5,
-    "views": 1099,
-    "forwards": 3
-  },
-  {
-    "title": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_uk": "Харків: БпЛА на Харків з півночі.",
-    "description": "BpLA on Kharkiv from the north.",
-    "description_en": "BpLA on Kharkiv from the north.",
-    "description_uk": "БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-04-21T15:47:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60450",
-    "score": 6.0,
-    "views": 102948,
-    "forwards": 11
+    "views": 1370,
+    "forwards": 4
   },
   {
     "title": "Kyiv: Airstrike attack on residential area",
@@ -158,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18739",
     "score": 8.0,
-    "views": 63840,
-    "forwards": 140
+    "views": 65847,
+    "forwards": 141
   },
   {
     "title": "We analyze in detail the updated Russian war plans. The command of...",
@@ -176,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18736",
     "score": 8.5,
-    "views": 74893,
-    "forwards": 118
+    "views": 76924,
+    "forwards": 119
   },
   {
     "title": "Kyiv: In one of the rehabilitation hospitals in the Kyiv region, work has...",
@@ -194,7 +212,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37564",
     "score": 9.0,
-    "views": 4793,
+    "views": 4963,
     "forwards": 13
   },
   {
@@ -212,7 +230,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8848",
     "score": 5.0,
-    "views": 862,
+    "views": 883,
     "forwards": 8
   },
   {
@@ -248,7 +266,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23423",
     "score": 5.5,
-    "views": 106143,
+    "views": 109300,
     "forwards": 162
   },
   {
@@ -342,24 +360,6 @@
     "forwards": 3
   },
   {
-    "title": "He really survived by a miracle: this is what Flash's house and car...",
-    "title_en": "He really survived by a miracle: this is what Flash's house and car...",
-    "title_uk": "Він справді дивом вижив: ось що у Флеша та його машина...",
-    "description": "He really survived by a miracle: this is what Flash's house and car look like after the arrival of the BpLA",
-    "description_en": "He really survived by a miracle: this is what Flash's house and car look like after the arrival of the BpLA",
-    "description_uk": "Реально чудом выжил: так выглядит дом и авто «Флэша» после прилетов БпЛА",
-    "time": "",
-    "pubDate": "2026-04-21T08:42:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/189886",
-    "score": 9.5,
-    "views": 110855,
-    "forwards": 109
-  },
-  {
     "title": "Donetsk: 1 missiles intercepted",
     "title_en": "Donetsk: 1 missiles intercepted",
     "title_uk": "Донецьк: перехоплено 1 ракету",
@@ -374,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37553",
     "score": 13.0,
-    "views": 5845,
+    "views": 5895,
     "forwards": 22
   },
   {
