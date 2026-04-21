@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons.",
+    "description_en": "☄️ The threat of using ballistic weapons.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння.",
+    "time": "",
+    "pubDate": "2026-04-21T08:10:19+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60432",
+    "score": 5.0,
+    "views": 1,
+    "forwards": 1
+  },
+  {
+    "title": "BpLA on Kropyvnytskyi from the southeast.",
+    "title_en": "BpLA on Kropyvnytskyi from the southeast.",
+    "title_uk": "БпЛА на Кропивницького з пд.-сх.",
+    "description": "BpLA on Kropyvnytskyi from the southeast.",
+    "description_en": "BpLA on Kropyvnytskyi from the southeast.",
+    "description_uk": "БпЛА на Кропивницький з південного сходу.",
+    "time": "",
+    "pubDate": "2026-04-21T07:22:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kropyvnytskyi",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60430",
+    "score": 5.0,
+    "views": 48449,
+    "forwards": 34
+  },
+  {
     "title": "Donetsk: 1 missiles intercepted",
     "title_en": "Donetsk: 1 missiles intercepted",
     "title_uk": "Донецьк: перехоплено 1 ракету",
@@ -14,8 +50,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37553",
     "score": 13.0,
-    "views": 546,
-    "forwards": 6
+    "views": 3232,
+    "forwards": 15
   },
   {
     "title": "Dnipro: Dnipropetrovsk region - BpLA on Pavlograd/Termivka.",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52644",
     "score": 10.0,
-    "views": 470,
-    "forwards": 1
+    "views": 1053,
+    "forwards": 2
   },
   {
     "title": "Sumyshchyna - BpLA past Khotyn - in the western direction.",
@@ -176,8 +212,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52641",
     "score": 11.0,
-    "views": 1800,
-    "forwards": 3
+    "views": 2088,
+    "forwards": 4
   },
   {
     "title": "Dnipro: The BpLA group is headed for Dnipro/Sinelnikovo.",
@@ -270,42 +306,6 @@
     "forwards": 2
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "New groups of UAVs - through Sumy Oblast, heading for Poltava Oblast.",
-    "description_en": "New groups of UAVs - through Sumy Oblast, heading for Poltava Oblast.",
-    "description_uk": "Нові групи БпЛА - через Сумщину, курсом на Полтавщину.",
-    "time": "",
-    "pubDate": "2026-04-20T19:32:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60395",
-    "score": 5.0,
-    "views": 9084,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Sumyshchyna: BpLA - heading for Romny. 🛵 BpLA - heading to Kharkiv.",
-    "title_en": "Kharkiv: Sumyshchyna: BpLA - heading for Romny. 🛵 BpLA - heading to Kharkiv.",
-    "title_uk": "Харків: Сумщина: BpLA - курс на Ромни. 🛵 BpLA - прямуємо до Харкова.",
-    "description": "Sumyshchyna: BpLA - heading for Romny. 🛵 BpLA - heading to Kharkiv.",
-    "description_en": "Sumyshchyna: BpLA - heading for Romny. 🛵 BpLA - heading to Kharkiv.",
-    "description_uk": "Сумщина: БпЛА - курсом на Ромни. 🛵 БпЛА - курсом на Харків.",
-    "time": "",
-    "pubDate": "2026-04-20T19:18:46+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60393",
-    "score": 6.0,
-    "views": 31291,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Today, the key point is that, together with all regions and...",
     "title_en": "Kyiv: Today, the key point is that, together with all regions and...",
     "title_uk": "Київ: Сьогодні ключовим є те, що разом з усіма регіонами та...",
@@ -320,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18730",
     "score": 9.5,
-    "views": 37983,
+    "views": 45137,
     "forwards": 26
   },
   {
@@ -338,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18728",
     "score": 6.0,
-    "views": 392231,
-    "forwards": 270
+    "views": 425804,
+    "forwards": 271
   },
   {
     "title": "Drone strike on city center",
@@ -358,24 +358,6 @@
     "score": 9.5,
     "views": 169457,
     "forwards": 310
-  },
-  {
-    "title": "On Wednesday, the EU will try to finalize the procedure for providing...",
-    "title_en": "On Wednesday, the EU will try to finalize the procedure for providing...",
-    "title_uk": "У середу ЄС спробує завершити процедуру надання...",
-    "description": "On Wednesday, the EU will try to finalize the procedure for providing Ukraine with a loan of 90 billion euros. The European Union has taken a decisive step towards providing financial assistance to Ukraine in the amount of 90 billion euros. This issue was included in the agenda of the meeting on Wednesday, April 22. It is about approving an amendment to the multi-year budget of the EU - this is the last technical element necessary to launch a loan for Kyiv. How...",
-    "description_en": "On Wednesday, the EU will try to finalize the procedure for providing Ukraine with a loan of 90 billion euros. The European Union has taken a decisive step towards providing financial assistance to Ukraine in the amount of 90 billion euros. This issue was included in the agenda of the meeting on Wednesday, April 22. It is about approving an amendment to the multi-year budget of the EU - this is the last technical element necessary to launch a loan for Kyiv. How...",
-    "description_uk": "ЕС в среду попробует финализировать процедуру предоставления Украине кредита на 90 млрд евро В Евросоюзе сделали решающий шаг к предоставлению финансовой помощи Украине в размере 90 млрд евро. Этот вопрос внесен в повестку заседания в среду, 22 апреля. Речь идет об утверждении поправки в многолетний бюджет ЕС – это последний технический элемент, необходимый для запуска кредита для Киева. Как...",
-    "time": "",
-    "pubDate": "2026-04-20T16:26:58+00:00",
-    "category": "political",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/189857",
-    "score": 5.5,
-    "views": 171077,
-    "forwards": 107
   },
   {
     "title": "Kyiv: Russian preschools, schools, universities have spent over $213...",
