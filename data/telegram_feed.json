@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Enemy UAVs in the Black Sea/Southern direction from the Black Sea.",
+    "description_en": "Enemy UAVs in the Black Sea/Southern direction from the Black Sea.",
+    "description_uk": "Ворожі БпЛА у напрямку Чорноморське/Південне з Чорного моря.",
+    "time": "",
+    "pubDate": "2026-04-21T21:32:19+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60458",
+    "score": 5.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
+    "description": "BpLA on Zaporozhye from the south.",
+    "description_en": "BpLA on Zaporozhye from the south.",
+    "description_uk": "БпЛА на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-04-21T20:49:50+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60457",
+    "score": 6.0,
+    "views": 22531,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_uk": "Харків: БпЛА на Харків з півночі.",
@@ -18,24 +54,6 @@
     "forwards": 0
   },
   {
-    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
-    "description": "BpLA on Zaporozhye from the south.",
-    "description_en": "BpLA on Zaporozhye from the south.",
-    "description_uk": "БпЛА на Запоріжжя з півдня.",
-    "time": "",
-    "pubDate": "2026-04-21T20:06:52+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60455",
-    "score": 6.0,
-    "views": 29368,
-    "forwards": 1
-  },
-  {
     "title": "Airstrike attack",
     "title_en": "Airstrike attack",
     "title_uk": "Авіаційна атака",
@@ -49,9 +67,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189937",
-    "score": 5.0,
-    "views": 49401,
-    "forwards": 38
+    "score": 5.5,
+    "views": 62877,
+    "forwards": 72
   },
   {
     "title": "Drone attack on infrastructure",
@@ -68,7 +86,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189935",
     "score": 5.5,
-    "views": 79526,
+    "views": 89635,
     "forwards": 144
   },
   {
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52662",
     "score": 5.0,
-    "views": 1123,
+    "views": 1255,
     "forwards": 2
   },
   {
@@ -122,8 +140,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8859",
     "score": 4.0,
-    "views": 442,
-    "forwards": 4
+    "views": 460,
+    "forwards": 5
   },
   {
     "title": "Kyiv: As Telegram falters, communication with occupied Ukraine is breaking...",
@@ -140,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52660",
     "score": 4.5,
-    "views": 1370,
+    "views": 1487,
     "forwards": 4
   },
   {
@@ -176,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18739",
     "score": 8.0,
-    "views": 65847,
-    "forwards": 141
+    "views": 66897,
+    "forwards": 145
   },
   {
     "title": "We analyze in detail the updated Russian war plans. The command of...",
@@ -194,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18736",
     "score": 8.5,
-    "views": 76924,
-    "forwards": 119
+    "views": 78128,
+    "forwards": 120
   },
   {
     "title": "Kyiv: In one of the rehabilitation hospitals in the Kyiv region, work has...",
@@ -212,7 +230,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37564",
     "score": 9.0,
-    "views": 4963,
+    "views": 5047,
     "forwards": 13
   },
   {
@@ -230,7 +248,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8848",
     "score": 5.0,
-    "views": 883,
+    "views": 892,
     "forwards": 8
   },
   {
@@ -266,8 +284,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23423",
     "score": 5.5,
-    "views": 109300,
-    "forwards": 162
+    "views": 111172,
+    "forwards": 165
   },
   {
     "title": "Kyiv: Drone strike",
@@ -374,7 +392,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37553",
     "score": 13.0,
-    "views": 5895,
+    "views": 5928,
     "forwards": 22
   },
   {
