@@ -1,5 +1,41 @@
 [
   {
+    "title": "BpLA on Pavlograd from the northeast",
+    "title_en": "BpLA on Pavlograd from the northeast",
+    "title_uk": "БпЛА на Павлоград з пн.-сх",
+    "description": "BpLA on Pavlograd from the northeast",
+    "description_en": "BpLA on Pavlograd from the northeast",
+    "description_uk": "БпЛА на Павлоград з північного сходу",
+    "time": "",
+    "pubDate": "2026-04-21T22:57:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60466",
+    "score": 5.0,
+    "views": 4664,
+    "forwards": 12
+  },
+  {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the north",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the north",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півн",
+    "description": "BpLA on Zaporozhye from the north",
+    "description_en": "BpLA on Zaporozhye from the north",
+    "description_uk": "БпЛА на Запоріжжя з півночі",
+    "time": "",
+    "pubDate": "2026-04-21T22:55:26+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60465",
+    "score": 6.0,
+    "views": 5520,
+    "forwards": 6
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -104,7 +140,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189937",
     "score": 5.5,
-    "views": 70591,
+    "views": 74264,
     "forwards": 86
   },
   {
@@ -122,7 +158,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189935",
     "score": 5.5,
-    "views": 95650,
+    "views": 98655,
     "forwards": 155
   },
   {
@@ -158,8 +194,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52662",
     "score": 5.0,
-    "views": 1394,
-    "forwards": 3
+    "views": 1470,
+    "forwards": 4
   },
   {
     "title": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on...",
@@ -176,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8859",
     "score": 4.0,
-    "views": 478,
+    "views": 486,
     "forwards": 5
   },
   {
@@ -194,8 +230,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52660",
     "score": 4.5,
-    "views": 1610,
-    "forwards": 5
+    "views": 1678,
+    "forwards": 6
   },
   {
     "title": "Kyiv: Airstrike attack on residential area",
@@ -230,7 +266,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18739",
     "score": 8.0,
-    "views": 67470,
+    "views": 67753,
     "forwards": 146
   },
   {
@@ -248,7 +284,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18736",
     "score": 8.5,
-    "views": 78840,
+    "views": 79138,
     "forwards": 121
   },
   {
@@ -266,7 +302,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37564",
     "score": 9.0,
-    "views": 5112,
+    "views": 5147,
     "forwards": 13
   },
   {
@@ -284,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8848",
     "score": 5.0,
-    "views": 897,
+    "views": 900,
     "forwards": 8
   },
   {
@@ -302,7 +338,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23423",
     "score": 5.5,
-    "views": 112464,
+    "views": 113161,
     "forwards": 166
   },
   {
@@ -321,24 +357,6 @@
     "link": "https://t.me/KyivIndependent_official/52649",
     "score": 8.0,
     "views": 1794,
-    "forwards": 1
-  },
-  {
-    "title": "Dnipro: Dnipropetrovsk region - BpLA on Shakhtarske/Petropavlivka from the...",
-    "title_en": "Dnipro: Dnipropetrovsk region - BpLA on Shakhtarske/Petropavlivka from the...",
-    "title_uk": "Дніпро: Дніпропетровська область - БпЛА на Шахтарське/Петропавлівка від...",
-    "description": "Dnipropetrovsk region - BpLA on Shakhtarske/Petropavlivka from the south.",
-    "description_en": "Dnipropetrovsk region - BpLA on Shakhtarske/Petropavlivka from the south.",
-    "description_uk": "Дніпропетровщина - БпЛА на Шахтарське/Петропавлівку з півдня.",
-    "time": "",
-    "pubDate": "2026-04-21T10:46:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60443",
-    "score": 6.0,
-    "views": 100725,
     "forwards": 1
   },
   {
@@ -410,7 +428,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37553",
     "score": 13.0,
-    "views": 5945,
+    "views": 5958,
     "forwards": 22
   },
   {
