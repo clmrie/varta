@@ -1,5 +1,59 @@
 [
   {
+    "title": "Airstrike attack",
+    "title_en": "Airstrike attack",
+    "title_uk": "Авіаційна атака",
+    "description": "Ukraine will resume pumping oil through the Druzhba pipeline tomorrow, - Reuters According to the agency's source, the launch is scheduled for the second half of the day. The first application for transit was submitted by the Hungarian company MOL - the oil will be sent to Hungary and Slovakia. Earlier, Zelensky reported that the repair work on the \"Druzhby\" site, which was damaged by the Russian strike, had been completed.",
+    "description_en": "Ukraine will resume pumping oil through the Druzhba pipeline tomorrow, - Reuters According to the agency's source, the launch is scheduled for the second half of the day. The first application for transit was submitted by the Hungarian company MOL - the oil will be sent to Hungary and Slovakia. Earlier, Zelensky reported that the repair work on the \"Druzhby\" site, which was damaged by the Russian strike, had been completed.",
+    "description_uk": "Украина возобновит прокачку нефти по трубопроводу \"Дружба\" уже завтра, - Reuters Как сообщает источник агентства, запуск запланирован на вторую половину дня. Первую заявку на транзит подала венгерская компания MOL - нефть направят в Венгрию и Словакию. Ранее Зеленский сообщил, что был завершен ремонт на участке \"Дружбы\", который был поврежден российским ударом.",
+    "time": "",
+    "pubDate": "2026-04-21T19:46:02+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/189937",
+    "score": 5.0,
+    "views": 9856,
+    "forwards": 2
+  },
+  {
+    "title": "Drone attack on infrastructure",
+    "title_en": "Drone attack on infrastructure",
+    "title_uk": "Атака безпілотників на інфраструктуру",
+    "description": "🛢 Two Russian refineries stopped after UAV strikes, - Reuters Agency reports with reference to sources that Rosneft's Tuapsinsk and Novokuybyshevsk plants have resumed work. The first one has not been working since April 16 due to damaged ports and tanks, the second one stopped on April 18 after the attack, key installations were disabled. Against the background of attacks on infrastructure, the Russian Federation also reduced oil production - this is...",
+    "description_en": "🛢 Two Russian refineries stopped after UAV strikes, - Reuters Agency reports with reference to sources that Rosneft's Tuapsinsk and Novokuybyshevsk plants have resumed work. The first one has not been working since April 16 due to damaged ports and tanks, the second one stopped on April 18 after the attack, key installations were disabled. Against the background of attacks on infrastructure, the Russian Federation also reduced oil production - this is...",
+    "description_uk": "🛢 Два российских НПЗ остановились после ударов БПЛА, - Reuters Агентство со ссылкой на источники сообщает, что Туапсинский и Новокуйбышевский заводы \"Роснефти\" отсановили работу. Первый не работает с 16 апреля из-за повреждений порта и резервуаров, второй остановился 18 апреля после атаки, выведены из строя ключевые установки. На фоне ударов по инфраструктуре рф также сократила добычу нефти - это...",
+    "time": "",
+    "pubDate": "2026-04-21T19:00:18+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/189935",
+    "score": 5.5,
+    "views": 55302,
+    "forwards": 109
+  },
+  {
+    "title": "Enemy anti-aircraft aircraft in the east of Sumy Oblast heading west.",
+    "title_en": "Enemy anti-aircraft aircraft in the east of Sumy Oblast heading west.",
+    "title_uk": "Зенітна авіація противника на сході Сумської області прямує на захід.",
+    "description": "Enemy anti-aircraft aircraft in the east of Sumy Oblast heading west.",
+    "description_en": "Enemy anti-aircraft aircraft in the east of Sumy Oblast heading west.",
+    "description_uk": "Ворожі БпЛА на сході Сумщини курсом на захід.",
+    "time": "",
+    "pubDate": "2026-04-21T18:53:04+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60453",
+    "score": 5.0,
+    "views": 51595,
+    "forwards": 0
+  },
+  {
     "title": "Mariupol: Russia destroys mass graves near Mariupol, satellite images suggest....",
     "title_en": "Mariupol: Russia destroys mass graves near Mariupol, satellite images suggest....",
     "title_uk": "Маріуполь: Росія знищує братські поховання під Маріуполем, свідчать супутникові знімки....",
@@ -14,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52662",
     "score": 5.0,
-    "views": 419,
+    "views": 831,
     "forwards": 1
   },
   {
@@ -32,7 +86,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8859",
     "score": 4.0,
-    "views": 239,
+    "views": 379,
     "forwards": 4
   },
   {
@@ -50,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52660",
     "score": 4.5,
-    "views": 784,
+    "views": 1099,
     "forwards": 3
   },
   {
@@ -68,7 +122,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60450",
     "score": 6.0,
-    "views": 76636,
+    "views": 102948,
     "forwards": 11
   },
   {
@@ -104,7 +158,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18739",
     "score": 8.0,
-    "views": 57648,
+    "views": 63840,
     "forwards": 140
   },
   {
@@ -122,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18736",
     "score": 8.5,
-    "views": 69174,
-    "forwards": 117
+    "views": 74893,
+    "forwards": 118
   },
   {
     "title": "Kyiv: In one of the rehabilitation hospitals in the Kyiv region, work has...",
@@ -140,7 +194,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37564",
     "score": 9.0,
-    "views": 4301,
+    "views": 4793,
     "forwards": 13
   },
   {
@@ -158,8 +212,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8848",
     "score": 5.0,
-    "views": 825,
-    "forwards": 7
+    "views": 862,
+    "forwards": 8
   },
   {
     "title": "Ballistic missile launch detected",
@@ -194,8 +248,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23423",
     "score": 5.5,
-    "views": 100460,
-    "forwards": 156
+    "views": 106143,
+    "forwards": 162
   },
   {
     "title": "Kyiv: Drone strike",
@@ -306,24 +360,6 @@
     "forwards": 109
   },
   {
-    "title": "BpLA on Kropyvnytskyi from the southeast.",
-    "title_en": "BpLA on Kropyvnytskyi from the southeast.",
-    "title_uk": "БпЛА на Кропивницького з пд.-сх.",
-    "description": "BpLA on Kropyvnytskyi from the southeast.",
-    "description_en": "BpLA on Kropyvnytskyi from the southeast.",
-    "description_uk": "БпЛА на Кропивницький з південного сходу.",
-    "time": "",
-    "pubDate": "2026-04-21T07:22:40+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kropyvnytskyi",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60430",
-    "score": 5.0,
-    "views": 48449,
-    "forwards": 34
-  },
-  {
     "title": "Donetsk: 1 missiles intercepted",
     "title_en": "Donetsk: 1 missiles intercepted",
     "title_uk": "Донецьк: перехоплено 1 ракету",
@@ -338,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37553",
     "score": 13.0,
-    "views": 5719,
+    "views": 5845,
     "forwards": 22
   },
   {
@@ -376,23 +412,5 @@
     "score": 11.0,
     "views": 2088,
     "forwards": 4
-  },
-  {
-    "title": "Kharkiv: 20 killed",
-    "title_en": "Kharkiv: 20 killed",
-    "title_uk": "Харків: 20 убитих",
-    "description": "Russian drone attacks on Dnipropetrovsk, Kharkiv oblasts kill 3, injure 18. Russian drone attacks on Dnipropetrovsk and Kharkiv oblasts on April 20 killed three and injured 18 others, authorities reported.",
-    "description_en": "Russian drone attacks on Dnipropetrovsk, Kharkiv oblasts kill 3, injure 18. Russian drone attacks on Dnipropetrovsk and Kharkiv oblasts on April 20 killed three and injured 18 others, authorities reported.",
-    "description_uk": "Russian drone attacks on Dnipropetrovsk, Kharkiv oblasts kill 3, injure 18. Russian drone attacks on Dnipropetrovsk and Kharkiv oblasts on April 20 killed three and injured 18 others, authorities reported.",
-    "time": "",
-    "pubDate": "2026-04-20T19:32:44+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kharkiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52639",
-    "score": 9.0,
-    "views": 906,
-    "forwards": 2
   }
 ]
