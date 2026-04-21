@@ -1,5 +1,41 @@
 [
   {
+    "title": "Dnipro: Dnipropetrovsk region - BpLA on Shakhtarske/Petropavlivka from the...",
+    "title_en": "Dnipro: Dnipropetrovsk region - BpLA on Shakhtarske/Petropavlivka from the...",
+    "title_uk": "Дніпро: Дніпропетровська область - БпЛА на Шахтарське/Петропавлівка від...",
+    "description": "Dnipropetrovsk region - BpLA on Shakhtarske/Petropavlivka from the south.",
+    "description_en": "Dnipropetrovsk region - BpLA on Shakhtarske/Petropavlivka from the south.",
+    "description_uk": "Дніпропетровщина - БпЛА на Шахтарське/Петропавлівку з півдня.",
+    "time": "",
+    "pubDate": "2026-04-21T10:46:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60443",
+    "score": 6.0,
+    "views": 20213,
+    "forwards": 1
+  },
+  {
+    "title": "Speed ​​target in Sumy Oblast in the direction of Poltava Oblast",
+    "title_en": "Speed ​​target in Sumy Oblast in the direction of Poltava Oblast",
+    "title_uk": "Швидкісна ціль у Сумській області в напрямку Полтавської області",
+    "description": "Speed ​​target in Sumy Oblast in the direction of Poltava Oblast",
+    "description_en": "Speed ​​target in Sumy Oblast in the direction of Poltava Oblast",
+    "description_uk": "Швидкісна ціль на Сумщині у напрямку Полтавщини",
+    "time": "",
+    "pubDate": "2026-04-21T10:23:56+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60441",
+    "score": 10.0,
+    "views": 46449,
+    "forwards": 35
+  },
+  {
     "title": "Chernihiv: Another high-speed target in Sumy Oblast in the direction of...",
     "title_en": "Chernihiv: Another high-speed target in Sumy Oblast in the direction of...",
     "title_uk": "Чернігів: Чергова швидкісна ціль у Сумській області в напрямку...",
@@ -18,24 +54,6 @@
     "forwards": 103
   },
   {
-    "title": "Speed ​​target in Sumy Oblast in the direction of Poltava Oblast",
-    "title_en": "Speed ​​target in Sumy Oblast in the direction of Poltava Oblast",
-    "title_uk": "Швидкісна ціль у Сумській області в напрямку Полтавської області",
-    "description": "Speed ​​target in Sumy Oblast in the direction of Poltava Oblast",
-    "description_en": "Speed ​​target in Sumy Oblast in the direction of Poltava Oblast",
-    "description_uk": "Швидкісна ціль на Сумщині у напрямку Полтавщини",
-    "time": "",
-    "pubDate": "2026-04-21T09:16:34+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60438",
-    "score": 10.5,
-    "views": 44437,
-    "forwards": 104
-  },
-  {
     "title": "Kyiv: 143 drones intercepted",
     "title_en": "Kyiv: 143 drones intercepted",
     "title_uk": "Київ: перехоплено 143 дрони",
@@ -50,13 +68,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52647",
     "score": 18.0,
-    "views": 466,
+    "views": 901,
     "forwards": 1
   },
   {
     "title": "He really survived by a miracle: this is what Flash's house and car...",
     "title_en": "He really survived by a miracle: this is what Flash's house and car...",
-    "title_uk": "Він справді вижив дивом: ось що у Флеша та його машина...",
+    "title_uk": "Він справді дивом вижив: ось що у Флеша та його машина...",
     "description": "He really survived by a miracle: this is what Flash's house and car look like after the arrival of the BpLA",
     "description_en": "He really survived by a miracle: this is what Flash's house and car look like after the arrival of the BpLA",
     "description_uk": "Реально чудом выжил: так выглядит дом и авто «Флэша» после прилетов БпЛА",
@@ -68,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189886",
     "score": 9.5,
-    "views": 64026,
-    "forwards": 71
+    "views": 93315,
+    "forwards": 107
   },
   {
     "title": "Ballistic missile launch detected",
@@ -122,8 +140,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37553",
     "score": 13.0,
-    "views": 4274,
-    "forwards": 20
+    "views": 4651,
+    "forwards": 21
   },
   {
     "title": "Dnipro: Dnipropetrovsk region - BpLA on Pavlograd/Termivka.",
@@ -146,7 +164,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
+    "title_uk": "Київ: повідомлення про вибухи",
     "description": "Russian drone attack on Sumy injures at least 6, damages medical facility. Numerous explosions were heard across the city and damage was reported to residential buildings, cars, and a medical facility.",
     "description_en": "Russian drone attack on Sumy injures at least 6, damages medical facility. Numerous explosions were heard across the city and damage was reported to residential buildings, cars, and a medical facility.",
     "description_uk": "Russian drone attack on Sumy injures at least 6, damages medical facility. Numerous explosions were heard across the city and damage was reported to residential buildings, cars, and a medical facility.",
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52644",
     "score": 10.0,
-    "views": 1404,
+    "views": 1603,
     "forwards": 2
   },
   {
@@ -234,24 +252,6 @@
     "forwards": 0
   },
   {
-    "title": "Sumy: The BpLA group is headed for Sumy.",
-    "title_en": "Sumy: The BpLA group is headed for Sumy.",
-    "title_uk": "Суми: Група BpLA прямує до Сум.",
-    "description": "The BpLA group is headed for Sumy.",
-    "description_en": "The BpLA group is headed for Sumy.",
-    "description_uk": "Група БпЛА - курсом на Суми.",
-    "time": "",
-    "pubDate": "2026-04-20T22:19:04+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60404",
-    "score": 6.0,
-    "views": 13547,
-    "forwards": 11
-  },
-  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Київ: виявлено пуск балістичної ракети",
@@ -302,7 +302,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18730",
     "score": 9.5,
-    "views": 47341,
+    "views": 48146,
     "forwards": 26
   },
   {
@@ -320,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18728",
     "score": 6.0,
-    "views": 444720,
+    "views": 450920,
     "forwards": 275
   },
   {
@@ -376,23 +376,5 @@
     "score": 6.0,
     "views": 1497,
     "forwards": 3
-  },
-  {
-    "title": "Donetsk: Refinery in Tuapse, two large amphibious ships, an oil depot and...",
-    "title_en": "Donetsk: Refinery in Tuapse, two large amphibious ships, an oil depot and...",
-    "title_uk": "Донецьк: НПЗ в Туапсе, два великих десантних судна, нафтобаза і...",
-    "description": "Refinery in Tuapse, two large amphibious ships, an oil depot and ammunition warehouses were hit On the night of April 20, units of the Defense Forces of Ukraine inflicted damage on a number of important objects of the Russian aggressor. ⚡️In particular, the oil refinery \"Tuapsinsky\" in Krasnodar Krai was repeatedly affected. A hit to the tank farm was recorded, followed by a fire on the territory of the facility. ⚡️In addition, affected...",
-    "description_en": "Refinery in Tuapse, two large amphibious ships, an oil depot and ammunition warehouses were hit On the night of April 20, units of the Defense Forces of Ukraine inflicted damage on a number of important objects of the Russian aggressor. ⚡️In particular, the oil refinery \"Tuapsinsky\" in Krasnodar Krai was repeatedly affected. A hit to the tank farm was recorded, followed by a fire on the territory of the facility. ⚡️In addition, affected...",
-    "description_uk": "Уражено НПЗ у Туапсе, два великих десантних кораблі, нафтобазу та склади боєприпасів У ніч на 20 квітня підрозділи Сил оборони України завдали уражень по низці важливих об'єктів російського агресора. ⚡️Зокрема, повторно уражено нафтопереробний завод “Туапсинский” у Краснодарському краї. Зафіксовано влучання у резервуарний парк із подальшою пожежею на території об’єкта. ⚡️Окрім того, уражено...",
-    "time": "",
-    "pubDate": "2026-04-20T10:43:26+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37521",
-    "score": 10.5,
-    "views": 34663,
-    "forwards": 169
   }
 ]
