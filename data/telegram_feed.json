@@ -14,8 +14,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52692",
     "score": 4.0,
-    "views": 167,
-    "forwards": 3
+    "views": 479,
+    "forwards": 5
   },
   {
     "title": "Kharkiv: UAVs in Poltava region in Dykanka region, Kharkiv region - Balakleya,...",
@@ -32,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60526",
     "score": 6.0,
-    "views": 14170,
-    "forwards": 0
+    "views": 21366,
+    "forwards": 34
   },
   {
     "title": "New groups of enemy UAVs enter the Sumy region. in Tetkino district",
@@ -50,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60525",
     "score": 5.0,
-    "views": 29377,
+    "views": 34382,
     "forwards": 0
   },
   {
@@ -140,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52689",
     "score": 13.0,
-    "views": 1518,
+    "views": 1651,
     "forwards": 5
   },
   {
@@ -230,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189991",
     "score": 4.5,
-    "views": 124774,
-    "forwards": 322
+    "views": 127531,
+    "forwards": 323
   },
   {
     "title": "✈️ Lufthansa cancels flights due to rising fuel prices The company...",
@@ -248,7 +248,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189990",
     "score": 4.5,
-    "views": 129198,
+    "views": 131924,
     "forwards": 124
   },
   {
@@ -396,24 +396,6 @@
     "forwards": 0
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons",
-    "description_en": "☄️ The threat of using ballistic weapons",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння",
-    "time": "",
-    "pubDate": "2026-04-22T11:05:44+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60499",
-    "score": 5.0,
-    "views": 78812,
-    "forwards": 42
-  },
-  {
     "title": "Kyiv: 215 drones launched",
     "title_en": "Kyiv: 215 drones launched",
     "title_uk": "Київ: запущено 215 дронів",
@@ -446,7 +428,25 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23424",
     "score": 6.5,
-    "views": 128579,
+    "views": 129134,
     "forwards": 293
+  },
+  {
+    "title": "I listened to the report of representatives of the Bring Kids Back UA...",
+    "title_en": "I listened to the report of representatives of the Bring Kids Back UA...",
+    "title_uk": "Слухала доповідь представників Bring Kids Back UA...",
+    "description": "I listened to the report of representatives of the Bring Kids Back UA team, Oleksandr Bevz and Maksym Maksimov, regarding the results of the initiative. In total, more than 2,100 Ukrainian children abducted by Russia were returned during the initiative's operation. 150 of them - since the beginning of this year. Thanks to all partners who help us in this. Separately, they talked about supporting our efforts at the international level...",
+    "description_en": "I listened to the report of representatives of the Bring Kids Back UA team, Oleksandr Bevz and Maksym Maksimov, regarding the results of the initiative. In total, more than 2,100 Ukrainian children abducted by Russia were returned during the initiative's operation. 150 of them - since the beginning of this year. Thanks to all partners who help us in this. Separately, they talked about supporting our efforts at the international level...",
+    "description_uk": "Заслухав доповідь представників команди Bring Kids Back UA Олександра Бевза та Максима Максимова щодо результатів роботи ініціативи. Загалом за час роботи ініціативи вдалося повернути більш ніж 2100 українських дітей, яких викрала Росія. З них 150 – від початку цього року. Дякую всім партнерам, які нам у цьому допомагають. Окремо говорили про підтримку наших зусиль на рівні міжнародних...",
+    "time": "",
+    "pubDate": "2026-04-22T07:30:44+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/18749",
+    "score": 5.5,
+    "views": 77612,
+    "forwards": 128
   }
 ]
