@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: BpLA headed for Kharkiv from the north",
+    "title_en": "Kharkiv: BpLA headed for Kharkiv from the north",
+    "title_uk": "Харків: BpLA прямувала на Харків з півночі",
+    "description": "BpLA headed for Kharkiv from the north",
+    "description_en": "BpLA headed for Kharkiv from the north",
+    "description_uk": "БпЛА курсом на Харків з півночі",
+    "time": "",
+    "pubDate": "2026-04-22T11:44:49+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60502",
+    "score": 6.0,
+    "views": 16156,
+    "forwards": 0
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons",
+    "description_en": "☄️ The threat of using ballistic weapons",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння",
+    "time": "",
+    "pubDate": "2026-04-22T11:05:44+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60499",
+    "score": 5.0,
+    "views": 53181,
+    "forwards": 21
+  },
+  {
     "title": "Kyiv: 215 drones launched",
     "title_en": "Kyiv: 215 drones launched",
     "title_uk": "Київ: запущено 215 дронів",
@@ -14,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52673",
     "score": 14.0,
-    "views": 496,
+    "views": 953,
     "forwards": 0
   },
   {
@@ -32,8 +68,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23424",
     "score": 5.5,
-    "views": 48841,
-    "forwards": 155
+    "views": 62373,
+    "forwards": 189
   },
   {
     "title": "Zaporizhzhia: BpLA heading for Zaporozhye, from the south",
@@ -68,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189953",
     "score": 5.5,
-    "views": 89100,
-    "forwards": 139
+    "views": 107700,
+    "forwards": 175
   },
   {
     "title": "Kharkiv: A high-speed target in Donetsk region, in the direction of Barvinkovo...",
@@ -104,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18749",
     "score": 5.5,
-    "views": 44992,
-    "forwards": 107
+    "views": 49801,
+    "forwards": 119
   },
   {
     "title": "Donetsk: The control point for the movement of warships and other targets were...",
@@ -122,8 +158,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37598",
     "score": 11.5,
-    "views": 64455,
-    "forwards": 287
+    "views": 71453,
+    "forwards": 301
   },
   {
     "title": "BZVP This is how the warrior's path begins. Here, every day is a step...",
@@ -198,24 +234,6 @@
     "forwards": 0
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons.",
-    "description_en": "☄️ The threat of using ballistic weapons.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння.",
-    "time": "",
-    "pubDate": "2026-04-22T03:05:03+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60479",
-    "score": 5.0,
-    "views": 57490,
-    "forwards": 0
-  },
-  {
     "title": "UAV on Morske/Kobleve from the Black Sea area.",
     "title_en": "UAV on Morske/Kobleve from the Black Sea area.",
     "title_uk": "БПЛА на Морське/Коблеве з акваторії Чорного моря.",
@@ -252,42 +270,6 @@
     "forwards": 0
   },
   {
-    "title": "BpLA on Pavlograd from the northeast",
-    "title_en": "BpLA on Pavlograd from the northeast",
-    "title_uk": "БпЛА на Павлоград з пн.-сх",
-    "description": "BpLA on Pavlograd from the northeast",
-    "description_en": "BpLA on Pavlograd from the northeast",
-    "description_uk": "БпЛА на Павлоград з північного сходу",
-    "time": "",
-    "pubDate": "2026-04-21T22:57:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60466",
-    "score": 5.0,
-    "views": 11688,
-    "forwards": 12
-  },
-  {
-    "title": "Zaporizhzhia: BpLA on Zaporozhye from the north",
-    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the north",
-    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півн",
-    "description": "BpLA on Zaporozhye from the north",
-    "description_en": "BpLA on Zaporozhye from the north",
-    "description_uk": "БпЛА на Запоріжжя з півночі",
-    "time": "",
-    "pubDate": "2026-04-21T22:55:26+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60465",
-    "score": 6.0,
-    "views": 12539,
-    "forwards": 6
-  },
-  {
     "title": "Drone attack on infrastructure",
     "title_en": "Drone attack on infrastructure",
     "title_uk": "Атака безпілотників на інфраструктуру",
@@ -320,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52662",
     "score": 5.0,
-    "views": 2195,
+    "views": 2250,
     "forwards": 7
   },
   {
@@ -338,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8859",
     "score": 4.0,
-    "views": 805,
+    "views": 822,
     "forwards": 5
   },
   {
@@ -356,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18739",
     "score": 8.0,
-    "views": 79070,
-    "forwards": 149
+    "views": 79646,
+    "forwards": 151
   },
   {
     "title": "Kyiv: In one of the rehabilitation hospitals in the Kyiv region, work has...",
@@ -392,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8848",
     "score": 5.0,
-    "views": 1006,
+    "views": 1017,
     "forwards": 8
   },
   {
@@ -410,7 +392,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23423",
     "score": 5.5,
-    "views": 139799,
-    "forwards": 173
+    "views": 142601,
+    "forwards": 174
   }
 ]
