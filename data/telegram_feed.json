@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: High-speed target on Kharkiv!",
+    "title_en": "Kharkiv: High-speed target on Kharkiv!",
+    "title_uk": "Харків: Швидкісна ціль на Харків!",
+    "description": "High-speed target on Kharkiv!",
+    "description_en": "High-speed target on Kharkiv!",
+    "description_uk": "Швидкісна ціль на Харків!",
+    "time": "",
+    "pubDate": "2026-04-22T15:51:21+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60514",
+    "score": 6.0,
+    "views": 25255,
+    "forwards": 34
+  },
+  {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "UAV from Kyiv region, heading for Zhytomyr region.",
+    "description_en": "UAV from Kyiv region, heading for Zhytomyr region.",
+    "description_uk": "БпЛА з Київщини, курсом на Житомирщину.",
+    "time": "",
+    "pubDate": "2026-04-22T15:00:43+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60512",
+    "score": 6.0,
+    "views": 58618,
+    "forwards": 34
+  },
+  {
     "title": "Kyiv: BpLA in the Kyiv region, heading for Brovary.",
     "title_en": "Kyiv: BpLA in the Kyiv region, heading for Brovary.",
     "title_uk": "Київ: BpLA в Київській області, прямує до Броварів.",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52680",
     "score": 5.0,
-    "views": 765,
-    "forwards": 6
+    "views": 1174,
+    "forwards": 7
   },
   {
     "title": "Kyiv: Ukraine returned over 2,100 Ukrainian children abducted by Russia,...",
@@ -68,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52679",
     "score": 6.0,
-    "views": 873,
-    "forwards": 1
+    "views": 1191,
+    "forwards": 2
   },
   {
     "title": "Kharkiv: BpLA headed for Kharkiv from the north",
@@ -140,8 +176,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23424",
     "score": 6.5,
-    "views": 93745,
-    "forwards": 240
+    "views": 99713,
+    "forwards": 250
   },
   {
     "title": "Zaporizhzhia: BpLA heading for Zaporozhye, from the south",
@@ -212,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18749",
     "score": 5.5,
-    "views": 65830,
-    "forwards": 122
+    "views": 68642,
+    "forwards": 124
   },
   {
     "title": "Donetsk: The control point for the movement of warships and other targets were...",
@@ -288,24 +324,6 @@
     "forwards": 142
   },
   {
-    "title": "BpLA in Zhytomyr Oblast ➡️ course to Korosten from the east.",
-    "title_en": "BpLA in Zhytomyr Oblast ➡️ course to Korosten from the east.",
-    "title_uk": "BpLA в Житомирській області ➡️ курс на Коростень зі сходу.",
-    "description": "BpLA in Zhytomyr Oblast ➡️ course to Korosten from the east.",
-    "description_en": "BpLA in Zhytomyr Oblast ➡️ course to Korosten from the east.",
-    "description_uk": "БпЛА на Житомирщині ➡️ курсом на Коростень зі сходу.",
-    "time": "",
-    "pubDate": "2026-04-22T04:00:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zhytomyr",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60482",
-    "score": 5.0,
-    "views": 18156,
-    "forwards": 0
-  },
-  {
     "title": "Drone attack on infrastructure",
     "title_en": "Drone attack on infrastructure",
     "title_uk": "Атака безпілотників на інфраструктуру",
@@ -338,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8859",
     "score": 4.0,
-    "views": 866,
+    "views": 873,
     "forwards": 5
   },
   {
@@ -356,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18739",
     "score": 8.0,
-    "views": 81890,
+    "views": 82373,
     "forwards": 152
   },
   {
@@ -374,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8848",
     "score": 5.0,
-    "views": 1038,
+    "views": 1042,
     "forwards": 8
   },
   {
@@ -392,7 +410,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23423",
     "score": 5.5,
-    "views": 151170,
-    "forwards": 185
+    "views": 152854,
+    "forwards": 187
   }
 ]
