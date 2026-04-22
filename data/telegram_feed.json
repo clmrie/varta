@@ -1,5 +1,41 @@
 [
   {
+    "title": "BpLA in Zhytomyr Oblast ➡️ course to Korosten from the east.",
+    "title_en": "BpLA in Zhytomyr Oblast ➡️ course to Korosten from the east.",
+    "title_uk": "BpLA в Житомирській області ➡️ курс на Коростень зі сходу.",
+    "description": "BpLA in Zhytomyr Oblast ➡️ course to Korosten from the east.",
+    "description_en": "BpLA in Zhytomyr Oblast ➡️ course to Korosten from the east.",
+    "description_uk": "БпЛА на Житомирщині ➡️ курсом на Коростень зі сходу.",
+    "time": "",
+    "pubDate": "2026-04-22T04:00:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zhytomyr",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60482",
+    "score": 5.0,
+    "views": 18156,
+    "forwards": 0
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons.",
+    "description_en": "☄️ The threat of using ballistic weapons.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння.",
+    "time": "",
+    "pubDate": "2026-04-22T03:05:03+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60479",
+    "score": 5.0,
+    "views": 57490,
+    "forwards": 0
+  },
+  {
     "title": "UAV on Morske/Kobleve from the Black Sea area.",
     "title_en": "UAV on Morske/Kobleve from the Black Sea area.",
     "title_uk": "БПЛА на Морське/Коблеве з акваторії Чорного моря.",
@@ -72,24 +108,6 @@
     "forwards": 6
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons.",
-    "description_en": "☄️ The threat of using ballistic weapons.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння.",
-    "time": "",
-    "pubDate": "2026-04-21T22:11:31+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60461",
-    "score": 5.0,
-    "views": 14179,
-    "forwards": 34
-  },
-  {
     "title": "Kharkiv: BpLA from Kharkiv region in the direction of Pavlograd",
     "title_en": "Kharkiv: BpLA from Kharkiv region in the direction of Pavlograd",
     "title_uk": "Харків: БпЛА з Харківської області в напрямку Павлограда",
@@ -158,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189937",
     "score": 5.5,
-    "views": 82701,
-    "forwards": 88
+    "views": 120412,
+    "forwards": 99
   },
   {
     "title": "Drone attack on infrastructure",
@@ -176,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189935",
     "score": 5.5,
-    "views": 105630,
-    "forwards": 167
+    "views": 135059,
+    "forwards": 169
   },
   {
     "title": "Enemy anti-aircraft aircraft in the east of Sumy Oblast heading west.",
@@ -212,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52662",
     "score": 5.0,
-    "views": 1597,
+    "views": 1775,
     "forwards": 5
   },
   {
@@ -230,7 +248,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8859",
     "score": 4.0,
-    "views": 499,
+    "views": 554,
     "forwards": 5
   },
   {
@@ -248,26 +266,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52660",
     "score": 4.5,
-    "views": 1861,
+    "views": 2047,
     "forwards": 7
-  },
-  {
-    "title": "Kyiv: Airstrike attack on residential area",
-    "title_en": "Kyiv: Airstrike attack on residential area",
-    "title_uk": "Київ: авіаудар по житловому кварталу",
-    "description": "Druzhba pipeline ready to restart, Zelensky says, potentially unlocking EU loan for Ukraine. \"Ukraine has completed repair work on the section of the Druzhba oil pipeline that was damaged by a Russian strike,\" President Volodymyr Zelensky said.",
-    "description_en": "Druzhba pipeline ready to restart, Zelensky says, potentially unlocking EU loan for Ukraine. \"Ukraine has completed repair work on the section of the Druzhba oil pipeline that was damaged by a Russian strike,\" President Volodymyr Zelensky said.",
-    "description_uk": "Druzhba pipeline ready to restart, Zelensky says, potentially unlocking EU loan for Ukraine. \"Ukraine has completed repair work on the section of the Druzhba oil pipeline that was damaged by a Russian strike,\" President Volodymyr Zelensky said.",
-    "time": "",
-    "pubDate": "2026-04-21T14:32:24+00:00",
-    "category": "political",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52651",
-    "score": 5.0,
-    "views": 1327,
-    "forwards": 5
   },
   {
     "title": "We discussed our priorities in energy cooperation with partners....",
@@ -284,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18739",
     "score": 8.0,
-    "views": 68352,
-    "forwards": 147
+    "views": 71301,
+    "forwards": 148
   },
   {
     "title": "We analyze in detail the updated Russian war plans. The command of...",
@@ -302,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18736",
     "score": 8.5,
-    "views": 79826,
-    "forwards": 122
+    "views": 82625,
+    "forwards": 123
   },
   {
     "title": "Kyiv: In one of the rehabilitation hospitals in the Kyiv region, work has...",
@@ -320,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37564",
     "score": 9.0,
-    "views": 5197,
+    "views": 5476,
     "forwards": 13
   },
   {
@@ -338,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8848",
     "score": 5.0,
-    "views": 908,
+    "views": 918,
     "forwards": 8
   },
   {
@@ -356,7 +356,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23423",
     "score": 5.5,
-    "views": 114312,
+    "views": 118366,
     "forwards": 167
   },
   {
@@ -446,7 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37553",
     "score": 13.0,
-    "views": 5983,
+    "views": 6139,
     "forwards": 22
   }
 ]
