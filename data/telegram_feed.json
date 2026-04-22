@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kyiv: 215 drones launched",
+    "title_en": "Kyiv: 215 drones launched",
+    "title_uk": "Київ: запущено 215 дронів",
+    "description": "At least 4 killed, 79 injured in Russian strikes across Ukraine over past day. Russian forces launched 215 drones against Ukraine overnight, of which 189 were downed or jammed.",
+    "description_en": "At least 4 killed, 79 injured in Russian strikes across Ukraine over past day. Russian forces launched 215 drones against Ukraine overnight, of which 189 were downed or jammed.",
+    "description_uk": "At least 4 killed, 79 injured in Russian strikes across Ukraine over past day. Russian forces launched 215 drones against Ukraine overnight, of which 189 were downed or jammed.",
+    "time": "",
+    "pubDate": "2026-04-22T10:07:49+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52673",
+    "score": 14.0,
+    "views": 496,
+    "forwards": 0
+  },
+  {
     "title": "Casualties reported",
     "title_en": "Casualties reported",
     "title_uk": "Повідомляється про постраждалих",
@@ -14,8 +32,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23424",
     "score": 5.5,
-    "views": 18912,
-    "forwards": 67
+    "views": 48841,
+    "forwards": 155
   },
   {
     "title": "Zaporizhzhia: BpLA heading for Zaporozhye, from the south",
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60497",
     "score": 6.0,
-    "views": 34330,
+    "views": 50712,
     "forwards": 0
   },
   {
@@ -50,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189953",
     "score": 5.5,
-    "views": 59875,
-    "forwards": 104
+    "views": 89100,
+    "forwards": 139
   },
   {
     "title": "Kharkiv: A high-speed target in Donetsk region, in the direction of Barvinkovo...",
@@ -68,7 +86,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60495",
     "score": 6.0,
-    "views": 62605,
+    "views": 74901,
     "forwards": 34
   },
   {
@@ -86,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18749",
     "score": 5.5,
-    "views": 38833,
-    "forwards": 99
+    "views": 44992,
+    "forwards": 107
   },
   {
     "title": "Donetsk: The control point for the movement of warships and other targets were...",
@@ -104,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37598",
     "score": 11.5,
-    "views": 55735,
-    "forwards": 261
+    "views": 64455,
+    "forwards": 287
   },
   {
     "title": "BZVP This is how the warrior's path begins. Here, every day is a step...",
@@ -270,42 +288,6 @@
     "forwards": 6
   },
   {
-    "title": "Kharkiv: BpLA from Kharkiv region in the direction of Pavlograd",
-    "title_en": "Kharkiv: BpLA from Kharkiv region in the direction of Pavlograd",
-    "title_uk": "Харків: БпЛА з Харківської області в напрямку Павлограда",
-    "description": "BpLA from Kharkiv region in the direction of Pavlograd",
-    "description_en": "BpLA from Kharkiv region in the direction of Pavlograd",
-    "description_uk": "БпЛА з Харківщини у напрямку Павлограду",
-    "time": "",
-    "pubDate": "2026-04-21T21:54:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60460",
-    "score": 6.0,
-    "views": 20268,
-    "forwards": 1
-  },
-  {
-    "title": "Airstrike attack",
-    "title_en": "Airstrike attack",
-    "title_uk": "Авіаційна атака",
-    "description": "Ukraine will resume pumping oil through the Druzhba pipeline tomorrow, - Reuters According to the agency's source, the launch is scheduled for the second half of the day. The first application for transit was submitted by the Hungarian company MOL - the oil will be sent to Hungary and Slovakia. Earlier, Zelensky reported that the repair work on the \"Druzhby\" site, which was damaged by the Russian strike, had been completed.",
-    "description_en": "Ukraine will resume pumping oil through the Druzhba pipeline tomorrow, - Reuters According to the agency's source, the launch is scheduled for the second half of the day. The first application for transit was submitted by the Hungarian company MOL - the oil will be sent to Hungary and Slovakia. Earlier, Zelensky reported that the repair work on the \"Druzhby\" site, which was damaged by the Russian strike, had been completed.",
-    "description_uk": "Украина возобновит прокачку нефти по трубопроводу \"Дружба\" уже завтра, - Reuters Как сообщает источник агентства, запуск запланирован на вторую половину дня. Первую заявку на транзит подала венгерская компания MOL - нефть направят в Венгрию и Словакию. Ранее Зеленский сообщил, что был завершен ремонт на участке \"Дружбы\", который был поврежден российским ударом.",
-    "time": "",
-    "pubDate": "2026-04-21T19:46:02+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/189937",
-    "score": 5.5,
-    "views": 174730,
-    "forwards": 101
-  },
-  {
     "title": "Drone attack on infrastructure",
     "title_en": "Drone attack on infrastructure",
     "title_uk": "Атака безпілотників на інфраструктуру",
@@ -338,15 +320,15 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52662",
     "score": 5.0,
-    "views": 2145,
+    "views": 2195,
     "forwards": 7
   },
   {
     "title": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on...",
     "title_en": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on...",
     "title_uk": "Міністерство закордонних справ України вітає ухвалення...",
-    "description": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on April 21 by the UNESCO Executive Board at its 224th session of the regular decision \"UNESCO's Actions and Program of Emergency Assistance to Ukraine\". With this decision, the member states of the Executive Council confirmed their solidarity with Ukraine in countering the consequences of Russia's full-scale war against our country and called on the Director General of UNESCO to continue systematic...",
-    "description_en": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on April 21 by the UNESCO Executive Board at its 224th session of the regular decision \"UNESCO's Actions and Program of Emergency Assistance to Ukraine\". With this decision, the member states of the Executive Council confirmed their solidarity with Ukraine in countering the consequences of Russia's full-scale war against our country and called on the Director General of UNESCO to continue systematic...",
+    "description": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on April 21 by the UNESCO Executive Board at its 224th session of the regular decision \"UNESCO Emergency Assistance Actions and Program for Ukraine\". With this decision, the member states of the Executive Council confirmed their solidarity with Ukraine in countering the consequences of Russia's full-scale war against our country and called on the Director General of UNESCO to continue systematic...",
+    "description_en": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on April 21 by the UNESCO Executive Board at its 224th session of the regular decision \"UNESCO Emergency Assistance Actions and Program for Ukraine\". With this decision, the member states of the Executive Council confirmed their solidarity with Ukraine in countering the consequences of Russia's full-scale war against our country and called on the Director General of UNESCO to continue systematic...",
     "description_uk": "Міністерство закордонних справ України вітає ухвалення 21 квітня Виконавчою радою ЮНЕСКО на своїй 224-й сесії чергового рішення \"Дії та програма надзвичайної допомоги ЮНЕСКО Україні\". Цим рішенням держави-члени Виконавчої ради підтвердили солідарність з Україною у протидії наслідкам повномасштабної війни Росії проти нашої держави та закликали Генерального директора ЮНЕСКО продовжувати системний...",
     "time": "",
     "pubDate": "2026-04-21T18:10:48+00:00",
@@ -356,26 +338,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8859",
     "score": 4.0,
-    "views": 785,
+    "views": 805,
     "forwards": 5
-  },
-  {
-    "title": "Kyiv: As Telegram falters, communication with occupied Ukraine is breaking...",
-    "title_en": "Kyiv: As Telegram falters, communication with occupied Ukraine is breaking...",
-    "title_uk": "Київ: Поки Telegram гальмує, зв’язок з окупованою Україною ламається…",
-    "description": "As Telegram falters, communication with occupied Ukraine is breaking down Since the early months of the full-scale invasion, Russia has sought to control digital infrastructure in occupied territories, rerouting internet traffic through Russian systems and limiting access to foreign platforms. In recent months, these efforts have intensified. Residents in Ukrainian-controlled areas say they are...",
-    "description_en": "As Telegram falters, communication with occupied Ukraine is breaking down Since the early months of the full-scale invasion, Russia has sought to control digital infrastructure in occupied territories, rerouting internet traffic through Russian systems and limiting access to foreign platforms. In recent months, these efforts have intensified. Residents in Ukrainian-controlled areas say they are...",
-    "description_uk": "As Telegram falters, communication with occupied Ukraine is breaking down Since the early months of the full-scale invasion, Russia has sought to control digital infrastructure in occupied territories, rerouting internet traffic through Russian systems and limiting access to foreign platforms. In recent months, these efforts have intensified. Residents in Ukrainian-controlled areas say they are...",
-    "time": "",
-    "pubDate": "2026-04-21T17:34:10+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52660",
-    "score": 4.5,
-    "views": 2380,
-    "forwards": 10
   },
   {
     "title": "We discussed our priorities in energy cooperation with partners....",
@@ -392,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18739",
     "score": 8.0,
-    "views": 78360,
+    "views": 79070,
     "forwards": 149
   },
   {
@@ -428,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8848",
     "score": 5.0,
-    "views": 994,
+    "views": 1006,
     "forwards": 8
   },
   {
@@ -446,7 +410,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23423",
     "score": 5.5,
-    "views": 134015,
+    "views": 139799,
     "forwards": 173
   }
 ]
