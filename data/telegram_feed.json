@@ -1,5 +1,59 @@
 [
   {
+    "title": "UAV to Odesa from the waters of the Black Sea.",
+    "title_en": "UAV to Odesa from the waters of the Black Sea.",
+    "title_uk": "БПЛА до Одеси з акваторії Чорного моря.",
+    "description": "UAV to Odesa from the waters of the Black Sea.",
+    "description_en": "UAV to Odesa from the waters of the Black Sea.",
+    "description_uk": "БпЛА на Одещину з акваторії Чорного моря.",
+    "time": "",
+    "pubDate": "2026-04-23T09:11:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60550",
+    "score": 5.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: A group of BpLA in Chernihiv Oblast, past Lyubech, Slavutych -...",
+    "title_en": "Chernihiv: A group of BpLA in Chernihiv Oblast, past Lyubech, Slavutych -...",
+    "title_uk": "Чернігів: Група БПЛА в Чернігівській області, повз Любеч, Славутич -...",
+    "description": "A group of BpLA in Chernihiv Oblast, past Lyubech, Slavutych - heading for Kyiv Oblast.",
+    "description_en": "A group of BpLA in Chernihiv Oblast, past Lyubech, Slavutych - heading for Kyiv Oblast.",
+    "description_uk": "Група БпЛА на Чернігівщині, повз Любеч, Славутич - курсом на Київщину.",
+    "time": "",
+    "pubDate": "2026-04-23T08:01:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60547",
+    "score": 6.5,
+    "views": 56532,
+    "forwards": 68
+  },
+  {
+    "title": "Kyiv: 155 drones intercepted",
+    "title_en": "Kyiv: 155 drones intercepted",
+    "title_uk": "Київ: перехоплено 155 безпілотників",
+    "description": "At least 8 killed, 28 injured in Russian attacks on Ukraine over past day. Russia launched 155 drones at Ukraine overnight, the Air Force said, reporting that Ukrainian air defenses intercepted 139.",
+    "description_en": "At least 8 killed, 28 injured in Russian attacks on Ukraine over past day. Russia launched 155 drones at Ukraine overnight, the Air Force said, reporting that Ukrainian air defenses intercepted 139.",
+    "description_uk": "At least 8 killed, 28 injured in Russian attacks on Ukraine over past day. Russia launched 155 drones at Ukraine overnight, the Air Force said, reporting that Ukrainian air defenses intercepted 139.",
+    "time": "",
+    "pubDate": "2026-04-23T07:48:02+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52700",
+    "score": 18.0,
+    "views": 642,
+    "forwards": 0
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -50,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18754",
     "score": 3.5,
-    "views": 23600,
-    "forwards": 51
+    "views": 36327,
+    "forwards": 59
   },
   {
     "title": "Kursk: Drone incoming",
@@ -68,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37644",
     "score": 13.0,
-    "views": 3499,
-    "forwards": 22
+    "views": 4077,
+    "forwards": 24
   },
   {
     "title": "Zaporizhzhia: BpLA heading for Zaporozhye from the south.",
@@ -104,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52694",
     "score": 9.0,
-    "views": 1214,
+    "views": 1506,
     "forwards": 6
   },
   {
@@ -234,60 +288,6 @@
     "forwards": 0
   },
   {
-    "title": "Dnipro: A group of unmanned aerial vehicles in the Zaporizhia and...",
-    "title_en": "Dnipro: A group of unmanned aerial vehicles in the Zaporizhia and...",
-    "title_uk": "Дніпро: Група безпілотних літальних апаратів у Запорізькій та...",
-    "description": "A group of unmanned aerial vehicles in the Zaporizhia and Dnipropetrovsk regions.",
-    "description_en": "A group of unmanned aerial vehicles in the Zaporizhia and Dnipropetrovsk regions.",
-    "description_uk": "Група ударних БпЛА У Запорізькій та Дніпропетровській обл.",
-    "time": "",
-    "pubDate": "2026-04-22T20:35:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60522",
-    "score": 6.0,
-    "views": 5055,
-    "forwards": 0
-  },
-  {
-    "title": "Dnipro: BpLA on the Dnipro from the south",
-    "title_en": "Dnipro: BpLA on the Dnipro from the south",
-    "title_uk": "Дніпро: БпЛА на Дніпрі з пд",
-    "description": "BpLA on the Dnipro from the south",
-    "description_en": "BpLA on the Dnipro from the south",
-    "description_uk": "БпЛА на Дніпро з півдня",
-    "time": "",
-    "pubDate": "2026-04-22T20:27:34+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60521",
-    "score": 6.0,
-    "views": 14151,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Drone attack",
-    "title_en": "Kharkiv: Drone attack",
-    "title_uk": "Харків: Атака безпілотників",
-    "description": "Launches of guided aerial bombs by enemy tactical aircraft in Zaporizhzhia. 🛵 A group of strike UAVs in Kharkiv Oblast, headed for Dnipropetrovsk Oblast.",
-    "description_en": "Launches of guided aerial bombs by enemy tactical aircraft in Zaporizhzhia. 🛵 A group of strike UAVs in Kharkiv Oblast, headed for Dnipropetrovsk Oblast.",
-    "description_uk": "Пуски керованих авіаційних бомб ворожою тактичною авіацією на Запоріжжі. 🛵 Група ударних БпЛА на Харківщині, курсом на Дніпропетровщину.",
-    "time": "",
-    "pubDate": "2026-04-22T19:30:35+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60519",
-    "score": 6.0,
-    "views": 16190,
-    "forwards": 0
-  },
-  {
     "title": "Donetsk: Ukraine war latest: 'Not Putinland' — Zelensky pushes back on...",
     "title_en": "Donetsk: Ukraine war latest: 'Not Putinland' — Zelensky pushes back on...",
     "title_uk": "Донецьк: остання війна в Україні: «Не Путінленд» — Зеленський відкидає...",
@@ -374,8 +374,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23424",
     "score": 6.5,
-    "views": 138462,
-    "forwards": 304
+    "views": 140551,
+    "forwards": 308
   },
   {
     "title": "I listened to the report of representatives of the Bring Kids Back UA...",
@@ -392,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18749",
     "score": 5.5,
-    "views": 81455,
+    "views": 82481,
     "forwards": 130
   },
   {
@@ -410,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8859",
     "score": 4.0,
-    "views": 917,
+    "views": 924,
     "forwards": 5
   },
   {
@@ -428,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8848",
     "score": 5.0,
-    "views": 1077,
+    "views": 1081,
     "forwards": 8
   },
   {
@@ -446,7 +446,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23423",
     "score": 5.5,
-    "views": 166625,
+    "views": 167569,
     "forwards": 187
   }
 ]
