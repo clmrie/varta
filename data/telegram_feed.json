@@ -1,5 +1,59 @@
 [
   {
+    "title": "Dnipro: Casualties reported",
+    "title_en": "Dnipro: Casualties reported",
+    "title_uk": "Дніпро: повідомляється про постраждалих",
+    "description": "Russian drone attack on Dnipro kills 2, injures 8. Two people were killed and at least eight were injured in a Russian drone attack on Dnipro overnight on April 22–23, Governor Oleksandr Hanzha reported.",
+    "description_en": "Russian drone attack on Dnipro kills 2, injures 8. Two people were killed and at least eight were injured in a Russian drone attack on Dnipro overnight on April 22–23, Governor Oleksandr Hanzha reported.",
+    "description_uk": "Russian drone attack on Dnipro kills 2, injures 8. Two people were killed and at least eight were injured in a Russian drone attack on Dnipro overnight on April 22–23, Governor Oleksandr Hanzha reported.",
+    "time": "",
+    "pubDate": "2026-04-23T03:38:32+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Dnipro",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52694",
+    "score": 9.0,
+    "views": 64,
+    "forwards": 0
+  },
+  {
+    "title": "Kryvyi Rih: BpLA heading for Kryvyi Rih from the south.",
+    "title_en": "Kryvyi Rih: BpLA heading for Kryvyi Rih from the south.",
+    "title_uk": "Кривий Ріг: BpLA прямує на Кривий Ріг з півдня.",
+    "description": "BpLA heading for Kryvyi Rih from the south.",
+    "description_en": "BpLA heading for Kryvyi Rih from the south.",
+    "description_uk": "БпЛА курсом на Кривий Ріг з півдня.",
+    "time": "",
+    "pubDate": "2026-04-23T02:57:43+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60534",
+    "score": 6.0,
+    "views": 25236,
+    "forwards": 1
+  },
+  {
+    "title": "Mykolaiv: BpLA in Zhytomyr Oblast, heading for Korosten. 🛵 BpLA heading to...",
+    "title_en": "Mykolaiv: BpLA in Zhytomyr Oblast, heading for Korosten. 🛵 BpLA heading to...",
+    "title_uk": "Миколаїв: BpLA в Житомирській області, прямує до Коростеня. 🛵 BpLA прямує до...",
+    "description": "BpLA in Zhytomyr Oblast, heading for Korosten. 🛵 BpLA heading to Mykolaiv from the east. 🚀 Launches of guided aerial bombs by enemy tactical aircraft in Zaporizhzhia and Donetsk region.",
+    "description_en": "BpLA in Zhytomyr Oblast, heading for Korosten. 🛵 BpLA heading to Mykolaiv from the east. 🚀 Launches of guided aerial bombs by enemy tactical aircraft in Zaporizhzhia and Donetsk region.",
+    "description_uk": "БпЛА на Житомирщині, курсом на Коростень. 🛵 БпЛА курсом на Миколаїв зі східного напрямку. 🚀Пуски керованих авіаційних бомб ворожою тактичною авіацією на Запоріжжі та Донеччині.",
+    "time": "",
+    "pubDate": "2026-04-23T02:54:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60533",
+    "score": 6.0,
+    "views": 27948,
+    "forwards": 0
+  },
+  {
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Миколаїв: Дрон вхід",
@@ -32,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52692",
     "score": 4.0,
-    "views": 596,
+    "views": 1018,
     "forwards": 5
   },
   {
@@ -248,8 +302,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189991",
     "score": 4.5,
-    "views": 129565,
-    "forwards": 329
+    "views": 145088,
+    "forwards": 344
   },
   {
     "title": "✈️ Lufthansa cancels flights due to rising fuel prices The company...",
@@ -266,8 +320,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189990",
     "score": 4.5,
-    "views": 133624,
-    "forwards": 125
+    "views": 147566,
+    "forwards": 126
   },
   {
     "title": "Kyiv: Moldova's former most powerful person sentenced to 19 years in jail....",
@@ -304,78 +358,6 @@
     "score": 6.0,
     "views": 75681,
     "forwards": 34
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Дрон вхід",
-    "description": "UAV from Kyiv region, heading for Zhytomyr region.",
-    "description_en": "UAV from Kyiv region, heading for Zhytomyr region.",
-    "description_uk": "БпЛА з Київщини, курсом на Житомирщину.",
-    "time": "",
-    "pubDate": "2026-04-22T15:00:43+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60512",
-    "score": 6.0,
-    "views": 77947,
-    "forwards": 34
-  },
-  {
-    "title": "Kyiv: BpLA in the Kyiv region, heading for Brovary.",
-    "title_en": "Kyiv: BpLA in the Kyiv region, heading for Brovary.",
-    "title_uk": "Київ: BpLA в Київській області, прямує до Броварів.",
-    "description": "BpLA in the Kyiv region, heading for Brovary.",
-    "description_en": "BpLA in the Kyiv region, heading for Brovary.",
-    "description_uk": "БпЛА на Київщині, курсом на Бровари.",
-    "time": "",
-    "pubDate": "2026-04-22T14:27:43+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60509",
-    "score": 6.0,
-    "views": 46475,
-    "forwards": 0
-  },
-  {
-    "title": "Chernihiv: BpLA from Chernihiv region, heading for Kyiv region.",
-    "title_en": "Chernihiv: BpLA from Chernihiv region, heading for Kyiv region.",
-    "title_uk": "Чернігів: БпЛА з Чернігівщини, прямуючи на Київщину.",
-    "description": "BpLA from Chernihiv region, heading for Kyiv region.",
-    "description_en": "BpLA from Chernihiv region, heading for Kyiv region.",
-    "description_uk": "БпЛА з Чернігівщини, курсом на Київщину.",
-    "time": "",
-    "pubDate": "2026-04-22T13:57:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60508",
-    "score": 6.5,
-    "views": 64688,
-    "forwards": 69
-  },
-  {
-    "title": "Kyiv: Climate policy becomes new front in Ukraine-EU economic tensions...",
-    "title_en": "Kyiv: Climate policy becomes new front in Ukraine-EU economic tensions...",
-    "title_uk": "Київ: Кліматична політика стає новим фронтом економічної напруги між Україною та ЄС...",
-    "description": "Climate policy becomes new front in Ukraine-EU economic tensions Ukrainian officials are in Brussels this week to discuss the EU’s carbon border policy that Kyiv argues that it is hitting its war-battered steel industry and economy. At the center of those discussions is the EU’s Carbon Border Adjustment Mechanism — known as CBAM — which is designed to prevent “carbon leakage” — or pushing...",
-    "description_en": "Climate policy becomes new front in Ukraine-EU economic tensions Ukrainian officials are in Brussels this week to discuss the EU’s carbon border policy that Kyiv argues that it is hitting its war-battered steel industry and economy. At the center of those discussions is the EU’s Carbon Border Adjustment Mechanism — known as CBAM — which is designed to prevent “carbon leakage” — or pushing...",
-    "description_uk": "Climate policy becomes new front in Ukraine-EU economic tensions Ukrainian officials are in Brussels this week to discuss the EU’s carbon border policy that Kyiv argues that it is hitting its war-battered steel industry and economy. At the center of those discussions is the EU’s Carbon Border Adjustment Mechanism — known as CBAM — which is designed to prevent “carbon leakage” — or pushing...",
-    "time": "",
-    "pubDate": "2026-04-22T13:55:49+00:00",
-    "category": "political",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52680",
-    "score": 5.0,
-    "views": 1482,
-    "forwards": 7
   },
   {
     "title": "Kyiv: Ukraine returned over 2,100 Ukrainian children abducted by Russia,...",
@@ -428,8 +410,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23424",
     "score": 6.5,
-    "views": 129432,
-    "forwards": 293
+    "views": 131908,
+    "forwards": 295
   },
   {
     "title": "I listened to the report of representatives of the Bring Kids Back UA...",
@@ -446,7 +428,25 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18749",
     "score": 5.5,
-    "views": 77730,
+    "views": 78671,
     "forwards": 129
+  },
+  {
+    "title": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on...",
+    "title_en": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on...",
+    "title_uk": "Міністерство закордонних справ України вітає ухвалення...",
+    "description": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on April 21 by the UNESCO Executive Board at its 224th session of the regular decision \"UNESCO's Actions and Program of Emergency Assistance to Ukraine\". With this decision, the member states of the Executive Council confirmed their solidarity with Ukraine in countering the consequences of Russia's full-scale war against our country and called on the Director General of UNESCO to continue systematic...",
+    "description_en": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on April 21 by the UNESCO Executive Board at its 224th session of the regular decision \"UNESCO's Actions and Program of Emergency Assistance to Ukraine\". With this decision, the member states of the Executive Council confirmed their solidarity with Ukraine in countering the consequences of Russia's full-scale war against our country and called on the Director General of UNESCO to continue systematic...",
+    "description_uk": "Міністерство закордонних справ України вітає ухвалення 21 квітня Виконавчою радою ЮНЕСКО на своїй 224-й сесії чергового рішення \"Дії та програма надзвичайної допомоги ЮНЕСКО Україні\". Цим рішенням держави-члени Виконавчої ради підтвердили солідарність з Україною у протидії наслідкам повномасштабної війни Росії проти нашої держави та закликали Генерального директора ЮНЕСКО продовжувати системний...",
+    "time": "",
+    "pubDate": "2026-04-21T18:10:48+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/8859",
+    "score": 4.0,
+    "views": 898,
+    "forwards": 5
   }
 ]
