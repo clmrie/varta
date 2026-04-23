@@ -1,5 +1,23 @@
 [
   {
+    "title": "Cruise missile heading inbound",
+    "title_en": "Cruise missile heading inbound",
+    "title_uk": "Крилата ракета наближається",
+    "description": "👀 Exercises will take place over Poland with the participation of French aircraft capable of carrying nuclear weapons. As Rzeczpospolita writes, as part of the Polish-French exercises Rafale with ASMP missiles (supersonic cruise missiles with a nuclear warhead launched from aircraft) will work out strike scenarios, including the conditional use of nuclear warheads. Polish pilots will be engaged in reconnaissance and...",
+    "description_en": "👀 Exercises will take place over Poland with the participation of French aircraft capable of carrying nuclear weapons. As Rzeczpospolita writes, as part of the Polish-French exercises Rafale with ASMP missiles (supersonic cruise missiles with a nuclear warhead launched from aircraft) will work out strike scenarios, including the conditional use of nuclear warheads. Polish pilots will be engaged in reconnaissance and...",
+    "description_uk": "👀 Над Польшей пройдут учения с участием французских самолётов, способных нести ядерное оружие Как пишет издание Rzeczpospolita, в рамках польско-французских учений Rafale с ракетами ASMP (сверхзвуковые крылатые ракеты с ядерной боеголовкой, запускаемые с самолётов) будут отрабатывать сценарии ударов, включая условное применение ядерных боеголовок. Польские пилоты будут заниматься разведкой и...",
+    "time": "",
+    "pubDate": "2026-04-23T12:09:41+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190044",
+    "score": 5.5,
+    "views": 40887,
+    "forwards": 76
+  },
+  {
     "title": "Today is an important day for our defense and for our relations with...",
     "title_en": "Today is an important day for our defense and for our relations with...",
     "title_uk": "Сьогодні важливий день для нашої оборони та для наших відносин з...",
@@ -13,9 +31,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18757",
-    "score": 3.5,
-    "views": 2823,
-    "forwards": 40
+    "score": 5.0,
+    "views": 74798,
+    "forwards": 256
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
@@ -32,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60558",
     "score": 5.0,
-    "views": 18183,
-    "forwards": 1
+    "views": 49362,
+    "forwards": 3
   },
   {
     "title": "Zaporizhzhia: BpLA course to Zaporozhye",
@@ -50,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60557",
     "score": 6.0,
-    "views": 31286,
+    "views": 57790,
     "forwards": 0
   },
   {
@@ -68,8 +86,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37654",
     "score": 10.5,
-    "views": 3700,
-    "forwards": 76
+    "views": 8858,
+    "forwards": 98
   },
   {
     "title": "Dnipro: BpLA on the Dnipro from the southwest.",
@@ -122,7 +140,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8868",
     "score": 5.0,
-    "views": 594,
+    "views": 749,
     "forwards": 12
   },
   {
@@ -176,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52700",
     "score": 18.0,
-    "views": 1404,
+    "views": 1681,
     "forwards": 2
   },
   {
@@ -230,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18754",
     "score": 3.5,
-    "views": 45097,
-    "forwards": 64
+    "views": 48847,
+    "forwards": 65
   },
   {
     "title": "Kursk: Drone incoming",
@@ -248,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37644",
     "score": 13.0,
-    "views": 4642,
+    "views": 4768,
     "forwards": 26
   },
   {
@@ -284,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52694",
     "score": 9.0,
-    "views": 1882,
+    "views": 2008,
     "forwards": 6
   },
   {
@@ -322,24 +340,6 @@
     "score": 6.0,
     "views": 27948,
     "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "UAV in the north of the Kherson region, heading for the Mykolaiv region",
-    "description_en": "UAV in the north of the Kherson region, heading for the Mykolaiv region",
-    "description_uk": "БпЛА на півночі Херсонщини, курсом на Миколаївщину",
-    "time": "",
-    "pubDate": "2026-04-22T23:48:55+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60527",
-    "score": 6.0,
-    "views": 4254,
-    "forwards": 14
   },
   {
     "title": "Donetsk: Ukraine war latest: 'Not Putinland' — Zelensky pushes back on...",
@@ -410,8 +410,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23424",
     "score": 6.5,
-    "views": 146022,
-    "forwards": 319
+    "views": 148238,
+    "forwards": 320
   },
   {
     "title": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on...",
@@ -428,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8859",
     "score": 4.0,
-    "views": 940,
+    "views": 945,
     "forwards": 5
   }
 ]
