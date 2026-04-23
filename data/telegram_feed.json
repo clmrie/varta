@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kursk: Drone incoming",
+    "title_en": "Kursk: Drone incoming",
+    "title_uk": "Курськ: Дрон входить",
+    "description": "139 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 23 (from 18:00 on April 22), the enemy attacked 155 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Kursk, Orel, Millerovo, Shatalovo, Primorsko-Akhtarsk - Russian Federation, about 100 of them - \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, EW units and unmanned systems,...",
+    "description_en": "139 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 23 (from 18:00 on April 22), the enemy attacked 155 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Kursk, Orel, Millerovo, Shatalovo, Primorsko-Akhtarsk - Russian Federation, about 100 of them - \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, EW units and unmanned systems,...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 139 ВОРОЖИХ БПЛА У ніч на 23 квітня (з 18:00 22 квітня) противник атакував 155 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та безпілотниками інших типів із напрямків: Курськ, Орел, Міллерово, Шаталово, Приморсько-Ахтарськ – рф., близько 100 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем,...",
+    "time": "",
+    "pubDate": "2026-04-23T05:06:22+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kursk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37644",
+    "score": 13.0,
+    "views": 2045,
+    "forwards": 13
+  },
+  {
+    "title": "Zaporizhzhia: BpLA heading for Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA heading for Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: BpLA прямує на Запоріжжя з півдня.",
+    "description": "BpLA heading for Zaporozhye from the south.",
+    "description_en": "BpLA heading for Zaporozhye from the south.",
+    "description_uk": "БпЛА курсом на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-04-23T04:47:44+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60537",
+    "score": 6.0,
+    "views": 44461,
+    "forwards": 0
+  },
+  {
     "title": "Dnipro: Casualties reported",
     "title_en": "Dnipro: Casualties reported",
     "title_uk": "Дніпро: повідомляється про постраждалих",
@@ -14,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52694",
     "score": 9.0,
-    "views": 64,
-    "forwards": 0
+    "views": 749,
+    "forwards": 2
   },
   {
     "title": "Kryvyi Rih: BpLA heading for Kryvyi Rih from the south.",
@@ -86,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52692",
     "score": 4.0,
-    "views": 1018,
-    "forwards": 5
+    "views": 1471,
+    "forwards": 6
   },
   {
     "title": "Kharkiv: UAVs in Poltava region in Dykanka region, Kharkiv region - Balakleya,...",
@@ -252,42 +288,6 @@
     "forwards": 3
   },
   {
-    "title": "Zaporizhzhia: BpLA heading for Zaporozhye from the south",
-    "title_en": "Zaporizhzhia: BpLA heading for Zaporozhye from the south",
-    "title_uk": "Запоріжжя: BpLA прямує на Запоріжжя з півдня",
-    "description": "BpLA heading for Zaporozhye from the south",
-    "description_en": "BpLA heading for Zaporozhye from the south",
-    "description_uk": "БпЛА курсом на Запоріжжя з півдня",
-    "time": "",
-    "pubDate": "2026-04-22T18:01:54+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60516",
-    "score": 6.0,
-    "views": 19344,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Energy infrastructure hit",
-    "title_en": "Kyiv: Energy infrastructure hit",
-    "title_uk": "Київ: удар по енергетичній інфраструктурі",
-    "description": "Trump and Putin have 'zero instruments' to enforce backroom deal on Ukraine, ex-FM Kuleba tells Kyiv Independent After emerging from its harshest winters in years, marked by relentless Russian strikes on the energy grid, the country is now facing a hostile situation. The war in Iran has further diverted the U.S.'s focus, putting trilateral peace talks between Kyiv, Moscow, and Washington on hold....",
-    "description_en": "Trump and Putin have 'zero instruments' to enforce backroom deal on Ukraine, ex-FM Kuleba tells Kyiv Independent After emerging from its harshest winters in years, marked by relentless Russian strikes on the energy grid, the country is now facing a hostile situation. The war in Iran has further diverted the U.S.'s focus, putting trilateral peace talks between Kyiv, Moscow, and Washington on hold....",
-    "description_uk": "Trump and Putin have 'zero instruments' to enforce backroom deal on Ukraine, ex-FM Kuleba tells Kyiv Independent After emerging from its harshest winters in years, marked by relentless Russian strikes on the energy grid, the country is now facing a hostile situation. The war in Iran has further diverted the U.S.'s focus, putting trilateral peace talks between Kyiv, Moscow, and Washington on hold....",
-    "time": "",
-    "pubDate": "2026-04-22T17:40:35+00:00",
-    "category": "political",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52687",
-    "score": 4.5,
-    "views": 528,
-    "forwards": 5
-  },
-  {
     "title": "📈The number of immigrants in the European Union reached a record 64.2...",
     "title_en": "📈The number of immigrants in the European Union reached a record 64.2...",
     "title_uk": "📈Кількість іммігрантів в Європейському Союзі досягла рекордних 64,2...",
@@ -302,7 +302,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189991",
     "score": 4.5,
-    "views": 145088,
+    "views": 165225,
     "forwards": 344
   },
   {
@@ -320,26 +320,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/189990",
     "score": 4.5,
-    "views": 147566,
-    "forwards": 126
-  },
-  {
-    "title": "Kyiv: Moldova's former most powerful person sentenced to 19 years in jail....",
-    "title_en": "Kyiv: Moldova's former most powerful person sentenced to 19 years in jail....",
-    "title_uk": "Київ: колишню найвпливовішу людину Молдови засудили до 19 років в'язниці.",
-    "description": "Moldova's former most powerful person sentenced to 19 years in jail. A Moldovan court on April 22 sentenced Vladimir Plahotniuc, who was once the country's most powerful oligarch and kingmaker, to 19 years in prison in an embezzlement case. Plahotniuc was Moldova's wealthiest businessman and de facto controlled the country's government in the 2010s in what critics described as a",
-    "description_en": "Moldova's former most powerful person sentenced to 19 years in jail. A Moldovan court on April 22 sentenced Vladimir Plahotniuc, who was once the country's most powerful oligarch and kingmaker, to 19 years in prison in an embezzlement case. Plahotniuc was Moldova's wealthiest businessman and de facto controlled the country's government in the 2010s in what critics described as a",
-    "description_uk": "Moldova's former most powerful person sentenced to 19 years in jail. A Moldovan court on April 22 sentenced Vladimir Plahotniuc, who was once the country's most powerful oligarch and kingmaker, to 19 years in prison in an embezzlement case. Plahotniuc was Moldova's wealthiest businessman and de facto controlled the country's government in the 2010s in what critics described as a",
-    "time": "",
-    "pubDate": "2026-04-22T16:14:38+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52684",
-    "score": 4.5,
-    "views": 1157,
-    "forwards": 5
+    "views": 165606,
+    "forwards": 127
   },
   {
     "title": "Kharkiv: High-speed target on Kharkiv!",
@@ -410,8 +392,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23424",
     "score": 6.5,
-    "views": 131908,
-    "forwards": 295
+    "views": 136059,
+    "forwards": 301
   },
   {
     "title": "I listened to the report of representatives of the Bring Kids Back UA...",
@@ -428,15 +410,15 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18749",
     "score": 5.5,
-    "views": 78671,
-    "forwards": 129
+    "views": 80121,
+    "forwards": 130
   },
   {
     "title": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on...",
     "title_en": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on...",
     "title_uk": "Міністерство закордонних справ України вітає ухвалення...",
-    "description": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on April 21 by the UNESCO Executive Board at its 224th session of the regular decision \"UNESCO's Actions and Program of Emergency Assistance to Ukraine\". With this decision, the member states of the Executive Council confirmed their solidarity with Ukraine in countering the consequences of Russia's full-scale war against our country and called on the Director General of UNESCO to continue systematic...",
-    "description_en": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on April 21 by the UNESCO Executive Board at its 224th session of the regular decision \"UNESCO's Actions and Program of Emergency Assistance to Ukraine\". With this decision, the member states of the Executive Council confirmed their solidarity with Ukraine in countering the consequences of Russia's full-scale war against our country and called on the Director General of UNESCO to continue systematic...",
+    "description": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on April 21 by the UNESCO Executive Board at its 224th session of the regular decision \"UNESCO Emergency Assistance Actions and Program for Ukraine\". With this decision, the member states of the Executive Council confirmed their solidarity with Ukraine in countering the consequences of Russia's full-scale war against our country and called on the Director General of UNESCO to continue systematic...",
+    "description_en": "The Ministry of Foreign Affairs of Ukraine welcomes the adoption on April 21 by the UNESCO Executive Board at its 224th session of the regular decision \"UNESCO Emergency Assistance Actions and Program for Ukraine\". With this decision, the member states of the Executive Council confirmed their solidarity with Ukraine in countering the consequences of Russia's full-scale war against our country and called on the Director General of UNESCO to continue systematic...",
     "description_uk": "Міністерство закордонних справ України вітає ухвалення 21 квітня Виконавчою радою ЮНЕСКО на своїй 224-й сесії чергового рішення \"Дії та програма надзвичайної допомоги ЮНЕСКО Україні\". Цим рішенням держави-члени Виконавчої ради підтвердили солідарність з Україною у протидії наслідкам повномасштабної війни Росії проти нашої держави та закликали Генерального директора ЮНЕСКО продовжувати системний...",
     "time": "",
     "pubDate": "2026-04-21T18:10:48+00:00",
@@ -446,7 +428,25 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8859",
     "score": 4.0,
-    "views": 898,
+    "views": 902,
     "forwards": 5
+  },
+  {
+    "title": "We discussed our priorities in energy cooperation with partners....",
+    "title_en": "We discussed our priorities in energy cooperation with partners....",
+    "title_uk": "Ми обговорили з партнерами наші пріоритети в енергетичній співпраці....",
+    "description": "We discussed our priorities in energy cooperation with partners. First: in the conditions of the crisis due to the war in Iran, it is important to fully fulfill the agreements regarding the supply of the necessary volumes of fuel to Ukraine. Volumes are secured for April and May. Second: already this week we are preparing a meeting in the format of an energy \"Ramstein\", and we need to speed up obtaining the necessary financing for renewable...",
+    "description_en": "We discussed our priorities in energy cooperation with partners. First: in the conditions of the crisis due to the war in Iran, it is important to fully fulfill the agreements regarding the supply of the necessary volumes of fuel to Ukraine. Volumes are secured for April and May. Second: already this week we are preparing a meeting in the format of an energy \"Ramstein\", and we need to speed up obtaining the necessary financing for renewable...",
+    "description_uk": "Обговорили наші пріоритети в енергетичній співпраці з партнерами. Перше: в умовах кризи через війну в Ірані важливо виконати повністю домовленості щодо постачання в Україну необхідних обсягів пального. На квітень і травень обсяги забезпечені. Друге: вже на цей тиждень готуємо зустріч у форматі енергетичного «Рамштайну», і маємо прискорити отримання необхідного фінансування для відновлювальних...",
+    "time": "",
+    "pubDate": "2026-04-21T14:27:34+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/18739",
+    "score": 8.0,
+    "views": 85176,
+    "forwards": 154
   }
 ]
