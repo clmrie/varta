@@ -1,5 +1,41 @@
 [
   {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-04-23T23:57:45+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60591",
+    "score": 5.0,
+    "views": 1222,
+    "forwards": 1
+  },
+  {
+    "title": "Mykolaiv: BpLA course to Mykolaiv Oblast",
+    "title_en": "Mykolaiv: BpLA course to Mykolaiv Oblast",
+    "title_uk": "Миколаїв: Курс BpLA до Миколаївської обл",
+    "description": "BpLA course to Mykolaiv Oblast",
+    "description_en": "BpLA course to Mykolaiv Oblast",
+    "description_uk": "БпЛА курсом на Миколаївщину",
+    "time": "",
+    "pubDate": "2026-04-23T23:29:44+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60588",
+    "score": 6.0,
+    "views": 8111,
+    "forwards": 7
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -50,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190077",
     "score": 4.5,
-    "views": 41319,
-    "forwards": 359
+    "views": 46515,
+    "forwards": 374
   },
   {
     "title": "Kyiv: Air defense active",
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52714",
     "score": 8.0,
-    "views": 807,
+    "views": 947,
     "forwards": 1
   },
   {
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190076",
     "score": 10.0,
-    "views": 45385,
-    "forwards": 315
+    "views": 50538,
+    "forwards": 327
   },
   {
     "title": "Zaporizhzhia: BpLA in the direction of Zaporozhye.",
@@ -122,7 +158,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18765",
     "score": 5.0,
-    "views": 31509,
+    "views": 32365,
     "forwards": 47
   },
   {
@@ -158,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52711",
     "score": 6.0,
-    "views": 1557,
+    "views": 1622,
     "forwards": 6
   },
   {
@@ -320,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8875",
     "score": 5.0,
-    "views": 951,
+    "views": 956,
     "forwards": 12
   },
   {
@@ -356,49 +392,13 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18757",
     "score": 5.0,
-    "views": 212163,
+    "views": 212657,
     "forwards": 325
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на південному сході...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-04-23T11:37:39+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60558",
-    "score": 5.0,
-    "views": 49362,
-    "forwards": 3
-  },
-  {
-    "title": "Zaporizhzhia: BpLA course to Zaporozhye",
-    "title_en": "Zaporizhzhia: BpLA course to Zaporozhye",
-    "title_uk": "Запоріжжя: Курс BpLA до Запоріжжя",
-    "description": "BpLA course to Zaporozhye",
-    "description_en": "BpLA course to Zaporozhye",
-    "description_uk": "БпЛА курсом на м.Запоріжжя",
-    "time": "",
-    "pubDate": "2026-04-23T11:23:39+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60557",
-    "score": 6.0,
-    "views": 57790,
-    "forwards": 0
   },
   {
     "title": "Donetsk: Missile strike on residential area",
     "title_en": "Donetsk: Missile strike on residential area",
-    "title_uk": "Донецьк: Ракетний удар по житловому кварталу",
+    "title_uk": "Донецьк: ракетний удар по житловому кварталу",
     "description": "RAO warehouse, echelon with PMM and P-18 radar were hit ⚡️On the night of April 23, units of the Defense Forces of Ukraine hit a warehouse of missile and artillery weapons and a warehouse of material and technical equipment in the area of ​​the village of Sartana (TOT of Donetsk region). ⚡️The echelon with fuel and lubricants in the Voznesenivka area of ​​the Luhansk region's TOT was also affected. ⚡️ Among other things, the P-18 radar station in the area of...",
     "description_en": "RAO warehouse, echelon with PMM and P-18 radar were hit ⚡️On the night of April 23, units of the Defense Forces of Ukraine hit a warehouse of missile and artillery weapons and a warehouse of material and technical equipment in the area of ​​the village of Sartana (TOT of Donetsk region). ⚡️The echelon with fuel and lubricants in the Voznesenivka area of ​​the Luhansk region's TOT was also affected. ⚡️ Among other things, the P-18 radar station in the area of...",
     "description_uk": "Уражено склад РАО, ешелон з ПММ та РЛС П-18 ⚡️У ніч на 23 квітня підрозділи Сил оборони України уразили склад ракетно-артилерійського озброєння та склад матеріально-технічних засобів у районі населеного пункту Сартана (ТОТ Донецької обл.). ⚡️Також уражено ешелон з пально-мастильними матеріалами у районі Вознесенівки на ТОТ Луганщини. ⚡️Серед іншого уражено радіолокаційну станцію П-18 у районі...",
@@ -410,7 +410,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37654",
     "score": 10.5,
-    "views": 23613,
+    "views": 23749,
     "forwards": 126
   },
   {
@@ -446,7 +446,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23424",
     "score": 6.5,
-    "views": 155693,
+    "views": 155767,
     "forwards": 324
   }
 ]
