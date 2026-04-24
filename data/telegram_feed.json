@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "New UAVs in the direction of Dnipro, Kryvyi Rih.",
+    "description_en": "New UAVs in the direction of Dnipro, Kryvyi Rih.",
+    "description_uk": "Нові БпЛА у напрямку Дніпра, Кривого Рогу.",
+    "time": "",
+    "pubDate": "2026-04-24T19:29:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60647",
+    "score": 5.0,
+    "views": 6034,
+    "forwards": 1
+  },
+  {
+    "title": "Mykolaiv: BpLA heading for Sumy, Mykolaiv, Myrhorod.",
+    "title_en": "Mykolaiv: BpLA heading for Sumy, Mykolaiv, Myrhorod.",
+    "title_uk": "Миколаїв: BpLA курсує на Суми, Миколаїв, Миргород.",
+    "description": "BpLA heading for Sumy, Mykolaiv, Myrhorod.",
+    "description_en": "BpLA heading for Sumy, Mykolaiv, Myrhorod.",
+    "description_uk": "БпЛА курсом на Суми, Миколаїв, Миргород.",
+    "time": "",
+    "pubDate": "2026-04-24T19:08:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60645",
+    "score": 6.0,
+    "views": 43405,
+    "forwards": 1
+  },
+  {
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Миколаїв: Дрон вхід",
@@ -86,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52731",
     "score": 11.0,
-    "views": 911,
-    "forwards": 2
+    "views": 1306,
+    "forwards": 4
   },
   {
     "title": "Zaporizhzhia: Zaporozhye - in the area of ​​the city, an enemy anti-aircraft...",
@@ -140,7 +176,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8886",
     "score": 5.0,
-    "views": 567,
+    "views": 637,
     "forwards": 4
   },
   {
@@ -194,7 +230,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190121",
     "score": 9.5,
-    "views": 119672,
+    "views": 132566,
     "forwards": 322
   },
   {
@@ -212,7 +248,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8877",
     "score": 5.0,
-    "views": 604,
+    "views": 659,
     "forwards": 4
   },
   {
@@ -230,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37717",
     "score": 4.0,
-    "views": 2514,
+    "views": 2661,
     "forwards": 15
   },
   {
@@ -248,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52729",
     "score": 4.0,
-    "views": 1697,
+    "views": 1830,
     "forwards": 3
   },
   {
@@ -374,8 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18767",
     "score": 5.0,
-    "views": 103322,
-    "forwards": 304
+    "views": 106716,
+    "forwards": 305
   },
   {
     "title": "A group of UAVs to Odesa from the waters of the Black Sea (Odesa...",
@@ -412,41 +448,5 @@
     "score": 6.0,
     "views": 40689,
     "forwards": 11
-  },
-  {
-    "title": "In Ukraine, they are preparing a large-scale reform of the conditions...",
-    "title_en": "In Ukraine, they are preparing a large-scale reform of the conditions...",
-    "title_uk": "В Україні готують масштабну реформу умов...",
-    "description": "In Ukraine, they are preparing a large-scale reform of the conditions of recruitment and service in the army: the first 10 of 30 projects are almost ready for launch - Minister of Defense Fedorov According to him, it is about a complex transformation of the system of recruitment and passing of service in the Armed Forces. Details will be announced later.",
-    "description_en": "In Ukraine, they are preparing a large-scale reform of the conditions of recruitment and service in the army: the first 10 of 30 projects are almost ready for launch - Minister of Defense Fedorov According to him, it is about a complex transformation of the system of recruitment and passing of service in the Armed Forces. Details will be announced later.",
-    "description_uk": "В Украине готовят масштабную реформу условий набора и службы в армии: первые 10 из 30 проектов почти готовы к запуску, — министр обороны Федоров По его словам, речь идет о комплексной трансформации системы рекрутинга и прохождения службы в ВСУ. Подробности обещают обнародовать позже.",
-    "time": "",
-    "pubDate": "2026-04-24T08:33:10+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190103",
-    "score": 5.5,
-    "views": 129446,
-    "forwards": 174
-  },
-  {
-    "title": "Kyiv: 107 drones launched",
-    "title_en": "Kyiv: 107 drones launched",
-    "title_uk": "Київ: запущено 107 безпілотників",
-    "description": "At least 6 killed, 40 injured in Russian attacks on Ukraine over past day. Russia launched two Iskander-M ballistic missiles and 107 drones at Ukraine overnight, the Air Force said.",
-    "description_en": "At least 6 killed, 40 injured in Russian attacks on Ukraine over past day. Russia launched two Iskander-M ballistic missiles and 107 drones at Ukraine overnight, the Air Force said.",
-    "description_uk": "At least 6 killed, 40 injured in Russian attacks on Ukraine over past day. Russia launched two Iskander-M ballistic missiles and 107 drones at Ukraine overnight, the Air Force said.",
-    "time": "",
-    "pubDate": "2026-04-24T07:49:11+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52719",
-    "score": 14.0,
-    "views": 1312,
-    "forwards": 3
   }
 ]
