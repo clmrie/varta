@@ -1,5 +1,41 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "Several groups of BpLA from the Mykolaiv region headed for the Kirovohrad region. 🛵 UAV from Chernihiv Oblast in the direction of Yagotyn (Kyiv Oblast).",
+    "description_en": "Several groups of BpLA from the Mykolaiv region headed for the Kirovohrad region. 🛵 UAV from Chernihiv Oblast in the direction of Yagotyn (Kyiv Oblast).",
+    "description_uk": "Декілька груп БпЛА із Миколаївщини курсом на Кіровоградщину. 🛵 БпЛА з Чернігівщини у напрямку Яготина (Київщина).",
+    "time": "",
+    "pubDate": "2026-04-24T18:27:43+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60642",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 1
+  },
+  {
+    "title": "Zaporizhzhia: BpLA in the direction of Zaporizhzhia.",
+    "title_en": "Zaporizhzhia: BpLA in the direction of Zaporizhzhia.",
+    "title_uk": "Запоріжжя: БпЛА в напрямку Запоріжжя.",
+    "description": "BpLA in the direction of Zaporizhzhia.",
+    "description_en": "BpLA in the direction of Zaporizhzhia.",
+    "description_uk": "БпЛА у напрямку Запоріжжя.",
+    "time": "",
+    "pubDate": "2026-04-24T18:25:11+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60641",
+    "score": 6.0,
+    "views": 11111,
+    "forwards": 1
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52731",
     "score": 11.0,
-    "views": 592,
+    "views": 911,
     "forwards": 2
   },
   {
@@ -104,8 +140,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8886",
     "score": 5.0,
-    "views": 496,
-    "forwards": 3
+    "views": 567,
+    "forwards": 4
   },
   {
     "title": "Sumyshchyna - BpLA in the area of ​​Shostka and Voronezh.",
@@ -158,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190121",
     "score": 9.5,
-    "views": 106774,
-    "forwards": 286
+    "views": 119672,
+    "forwards": 322
   },
   {
     "title": "On April 20, to mark the 40th anniversary of the Chernobyl disaster,...",
@@ -176,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8877",
     "score": 5.0,
-    "views": 582,
+    "views": 604,
     "forwards": 4
   },
   {
@@ -194,7 +230,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37717",
     "score": 4.0,
-    "views": 2385,
+    "views": 2514,
     "forwards": 15
   },
   {
@@ -212,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52729",
     "score": 4.0,
-    "views": 1556,
+    "views": 1697,
     "forwards": 3
   },
   {
@@ -338,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18767",
     "score": 5.0,
-    "views": 100044,
+    "views": 103322,
     "forwards": 304
   },
   {
@@ -412,41 +448,5 @@
     "score": 14.0,
     "views": 1312,
     "forwards": 3
-  },
-  {
-    "title": "BpLA over Kyiv. Stay in shelters.",
-    "title_en": "BpLA over Kyiv. Stay in shelters.",
-    "title_uk": "БпЛА над Києвом. Перебувати в притулках.",
-    "description": "BpLA over Kyiv. Stay in shelters.",
-    "description_en": "BpLA over Kyiv. Stay in shelters.",
-    "description_uk": "БпЛА над Києвом. Перебувайте в укриттях.",
-    "time": "",
-    "pubDate": "2026-04-24T06:36:21+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60619",
-    "score": 10.5,
-    "views": 73299,
-    "forwards": 113
-  },
-  {
-    "title": "Service station for robots Technical workshop of the company of...",
-    "title_en": "Service station for robots Technical workshop of the company of...",
-    "title_uk": "СТО для роботів Технічна майстерня компанії...",
-    "description": "Service station for robots Technical workshop of the company of unmanned ground systems - where after each mission ground robotic complexes (GRC) are inspected, serviced and, if necessary, repaired. The unit is constantly developing, accumulating combat experience, taking into account the fact that masters are modernizing ground drones: additional protection, means of communication and equipment are installed. Company engineers, like doctors,...",
-    "description_en": "Service station for robots Technical workshop of the company of unmanned ground systems - where after each mission ground robotic complexes (GRC) are inspected, serviced and, if necessary, repaired. The unit is constantly developing, accumulating combat experience, taking into account the fact that masters are modernizing ground drones: additional protection, means of communication and equipment are installed. Company engineers, like doctors,...",
-    "description_uk": "СТО для роботів Технічна майстерня роти безпілотних наземних систем - де після кожної місії наземні роботизовані комплекси (НРК) оглядають, обслуговують та, за потреби, ремонтують. Підрозділ постійно розвивається, накопичується бойовий досвід, з урахуванням якого майстри модернізують наземні дрони: встановлюється додатковий захист, засоби зв'язку та обладнання. Інженери роти, як лікарі,...",
-    "time": "",
-    "pubDate": "2026-04-24T06:35:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37687",
-    "score": 4.0,
-    "views": 4547,
-    "forwards": 13
   }
 ]
