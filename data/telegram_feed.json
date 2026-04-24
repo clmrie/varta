@@ -1,5 +1,59 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons",
+    "description_en": "☄️ The threat of using ballistic weapons",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння",
+    "time": "",
+    "pubDate": "2026-04-24T11:29:27+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60622",
+    "score": 5.0,
+    "views": 30226,
+    "forwards": 21
+  },
+  {
+    "title": "Kyiv: Zelensky makes second Saudi Arabia visit in less than a month....",
+    "title_en": "Kyiv: Zelensky makes second Saudi Arabia visit in less than a month....",
+    "title_uk": "Київ: Зеленський здійснив другий візит до Саудівської Аравії менш ніж за місяць.",
+    "description": "Zelensky makes second Saudi Arabia visit in less than a month. \"Today, we are advancing our agreements with Saudi Arabia in the areas of security, energy, and infrastructure,\" President Volodymyr Zelensky said.",
+    "description_en": "Zelensky makes second Saudi Arabia visit in less than a month. \"Today, we are advancing our agreements with Saudi Arabia in the areas of security, energy, and infrastructure,\" President Volodymyr Zelensky said.",
+    "description_uk": "Zelensky makes second Saudi Arabia visit in less than a month. \"Today, we are advancing our agreements with Saudi Arabia in the areas of security, energy, and infrastructure,\" President Volodymyr Zelensky said.",
+    "time": "",
+    "pubDate": "2026-04-24T11:29:06+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52723",
+    "score": 4.5,
+    "views": 294,
+    "forwards": 0
+  },
+  {
+    "title": "I arrived in Saudi Arabia, where I will meet with Crown Prince...",
+    "title_en": "I arrived in Saudi Arabia, where I will meet with Crown Prince...",
+    "title_uk": "Я прибув до Саудівської Аравії, де зустрінуся з кронпринцем...",
+    "description": "I arrived in Saudi Arabia, where I will meet with Crown Prince Muhammad bin Salman Al Saud. Yesterday, at a meeting with European leaders, financial guarantees of our stability were established. Today, we are developing agreements with Saudi Arabia in the field of security, energy and infrastructure. It is important that the reinforcement is mutual. I appreciate meaningful cooperation between our countries.",
+    "description_en": "I arrived in Saudi Arabia, where I will meet with Crown Prince Muhammad bin Salman Al Saud. Yesterday, at a meeting with European leaders, financial guarantees of our stability were established. Today, we are developing agreements with Saudi Arabia in the field of security, energy and infrastructure. It is important that the reinforcement is mutual. I appreciate meaningful cooperation between our countries.",
+    "description_uk": "Прибув до Саудівської Аравії, де зустрінуся зі Спадкоємним принцом Мухаммадом бін Салманом Аль Саудом. Учора на зустрічі з європейськими лідерами закріпили фінансові гарантії нашої стійкості. Сьогодні розвиваємо домовленості із Саудівською Аравією у сфері безпеки, енергетики та інфраструктури. Важливо, щоб посилення було взаємним. Ціную змістовну співпрацю між нашими країнами.",
+    "time": "",
+    "pubDate": "2026-04-24T11:08:38+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/18767",
+    "score": 4.0,
+    "views": 30653,
+    "forwards": 188
+  },
+  {
     "title": "A group of UAVs to Odesa from the waters of the Black Sea (Odesa...",
     "title_en": "A group of UAVs to Odesa from the waters of the Black Sea (Odesa...",
     "title_uk": "Група БПЛА до Одеси з акваторії Чорного моря (Одеса...",
@@ -14,8 +68,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60621",
     "score": 5.0,
-    "views": 33609,
-    "forwards": 1
+    "views": 62756,
+    "forwards": 20
   },
   {
     "title": "Zaporizhzhia: BpLA in the direction of Zaporizhzhia, Kharkiv, Chernihiv.",
@@ -50,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190103",
     "score": 5.5,
-    "views": 84446,
-    "forwards": 137
+    "views": 101951,
+    "forwards": 138
   },
   {
     "title": "Kyiv: 107 drones launched",
@@ -68,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52719",
     "score": 14.0,
-    "views": 1098,
+    "views": 1312,
     "forwards": 3
   },
   {
@@ -104,8 +158,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37687",
     "score": 4.0,
-    "views": 4057,
-    "forwards": 11
+    "views": 4318,
+    "forwards": 13
   },
   {
     "title": "Kharkiv: Kharkiv region - BpLA on Balaklia.",
@@ -158,7 +212,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37685",
     "score": 13.0,
-    "views": 4828,
+    "views": 4991,
     "forwards": 15
   },
   {
@@ -234,24 +288,6 @@
     "forwards": 1
   },
   {
-    "title": "Mykolaiv: BpLA course to Mykolaiv Oblast",
-    "title_en": "Mykolaiv: BpLA course to Mykolaiv Oblast",
-    "title_uk": "Миколаїв: Курс BpLA до Миколаївської обл",
-    "description": "BpLA course to Mykolaiv Oblast",
-    "description_en": "BpLA course to Mykolaiv Oblast",
-    "description_uk": "БпЛА курсом на Миколаївщину",
-    "time": "",
-    "pubDate": "2026-04-23T23:29:44+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60588",
-    "score": 6.0,
-    "views": 8111,
-    "forwards": 7
-  },
-  {
     "title": "Kyiv: Air defense active",
     "title_en": "Kyiv: Air defense active",
     "title_uk": "Київ: ППО діюча",
@@ -284,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18765",
     "score": 5.5,
-    "views": 55919,
-    "forwards": 63
+    "views": 58551,
+    "forwards": 65
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -338,44 +374,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8875",
     "score": 5.0,
-    "views": 1275,
+    "views": 1307,
     "forwards": 13
-  },
-  {
-    "title": "Today is an important day for our defense and for our relations with...",
-    "title_en": "Today is an important day for our defense and for our relations with...",
-    "title_uk": "Сьогодні важливий день для нашої оборони та для наших відносин з...",
-    "description": "Today is an important day for our defense and for our relations with the European Union. The European support package for Ukraine has been unlocked - it is 90 billion euros for two years. This European package will strengthen our army, provide Ukraine with greater stability and allow us to fulfill our social obligations to Ukrainians as defined by law. It is important that Ukraine provides itself with such...",
-    "description_en": "Today is an important day for our defense and for our relations with the European Union. The European support package for Ukraine has been unlocked - it is 90 billion euros for two years. This European package will strengthen our army, provide Ukraine with greater stability and allow us to fulfill our social obligations to Ukrainians as defined by law. It is important that Ukraine provides itself with such...",
-    "description_uk": "Сьогодні важливий день для нашого захисту і для наших відносин із Євросоюзом. Розблоковано європейський пакет підтримки для України – це 90 мільярдів євро на два роки. Цей європейський пакет додасть сили нашій армії, забезпечить Україні більше стійкості та дозволить нам виконувати соціальні зобовʼязання перед українцями так, як це визначено законом. Важливо, що Україна забезпечує собі таку...",
-    "time": "",
-    "pubDate": "2026-04-23T11:46:52+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18757",
-    "score": 5.0,
-    "views": 239196,
-    "forwards": 329
-  },
-  {
-    "title": "Donetsk: Missile strike on residential area",
-    "title_en": "Donetsk: Missile strike on residential area",
-    "title_uk": "Донецьк: ракетний удар по житловому кварталу",
-    "description": "RAO warehouse, echelon with PMM and P-18 radar were hit ⚡️On the night of April 23, units of the Defense Forces of Ukraine hit a warehouse of missile and artillery weapons and a warehouse of material and technical equipment in the area of ​​the village of Sartana (TOT of Donetsk region). ⚡️The echelon with fuel and lubricants in the Voznesenivka area of ​​the Luhansk region's TOT was also affected. ⚡️ Among other things, the P-18 radar station in the area of...",
-    "description_en": "RAO warehouse, echelon with PMM and P-18 radar were hit ⚡️On the night of April 23, units of the Defense Forces of Ukraine hit a warehouse of missile and artillery weapons and a warehouse of material and technical equipment in the area of ​​the village of Sartana (TOT of Donetsk region). ⚡️The echelon with fuel and lubricants in the Voznesenivka area of ​​the Luhansk region's TOT was also affected. ⚡️ Among other things, the P-18 radar station in the area of...",
-    "description_uk": "Уражено склад РАО, ешелон з ПММ та РЛС П-18 ⚡️У ніч на 23 квітня підрозділи Сил оборони України уразили склад ракетно-артилерійського озброєння та склад матеріально-технічних засобів у районі населеного пункту Сартана (ТОТ Донецької обл.). ⚡️Також уражено ешелон з пально-мастильними матеріалами у районі Вознесенівки на ТОТ Луганщини. ⚡️Серед іншого уражено радіолокаційну станцію П-18 у районі...",
-    "time": "",
-    "pubDate": "2026-04-23T11:09:05+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37654",
-    "score": 10.5,
-    "views": 24604,
-    "forwards": 127
   },
   {
     "title": "Finland joined the agreement to launch the Special Tribunal for the...",
@@ -392,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8868",
     "score": 5.0,
-    "views": 1011,
+    "views": 1017,
     "forwards": 14
   }
 ]
