@@ -1,5 +1,59 @@
 [
   {
+    "title": "BpLA over Kyiv. Stay in shelters.",
+    "title_en": "BpLA over Kyiv. Stay in shelters.",
+    "title_uk": "БпЛА над Києвом. Перебувати в притулках.",
+    "description": "BpLA over Kyiv. Stay in shelters.",
+    "description_en": "BpLA over Kyiv. Stay in shelters.",
+    "description_uk": "БпЛА над Києвом. Перебувайте в укриттях.",
+    "time": "",
+    "pubDate": "2026-04-24T06:36:21+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60619",
+    "score": 10.5,
+    "views": 48470,
+    "forwards": 103
+  },
+  {
+    "title": "Service station for robots Technical workshop of the company of...",
+    "title_en": "Service station for robots Technical workshop of the company of...",
+    "title_uk": "СТО для роботів Технічна майстерня компанії...",
+    "description": "Service station for robots Technical workshop of the company of unmanned ground systems - where after each mission ground robotic complexes (GRC) are inspected, serviced and, if necessary, repaired. The unit is constantly developing, accumulating combat experience, taking into account the fact that masters are modernizing ground drones: additional protection, means of communication and equipment are installed. Company engineers, like doctors,...",
+    "description_en": "Service station for robots Technical workshop of the company of unmanned ground systems - where after each mission ground robotic complexes (GRC) are inspected, serviced and, if necessary, repaired. The unit is constantly developing, accumulating combat experience, taking into account the fact that masters are modernizing ground drones: additional protection, means of communication and equipment are installed. Company engineers, like doctors,...",
+    "description_uk": "СТО для роботів Технічна майстерня роти безпілотних наземних систем - де після кожної місії наземні роботизовані комплекси (НРК) оглядають, обслуговують та, за потреби, ремонтують. Підрозділ постійно розвивається, накопичується бойовий досвід, з урахуванням якого майстри модернізують наземні дрони: встановлюється додатковий захист, засоби зв'язку та обладнання. Інженери роти, як лікарі,...",
+    "time": "",
+    "pubDate": "2026-04-24T06:35:53+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37687",
+    "score": 4.0,
+    "views": 1893,
+    "forwards": 4
+  },
+  {
+    "title": "Kharkiv: Kharkiv region - BpLA on Balaklia.",
+    "title_en": "Kharkiv: Kharkiv region - BpLA on Balaklia.",
+    "title_uk": "Харків : Харківська обл.- БпЛА по Балаклії.",
+    "description": "Kharkiv region - BpLA on Balaklia.",
+    "description_en": "Kharkiv region - BpLA on Balaklia.",
+    "description_uk": "Харківщина - БпЛА на Балаклію.",
+    "time": "",
+    "pubDate": "2026-04-24T06:33:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60617",
+    "score": 6.0,
+    "views": 54548,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: A group of BpLA in Kharkiv Oblast heading for Poltava Oblast.",
     "title_en": "Kharkiv: A group of BpLA in Kharkiv Oblast heading for Poltava Oblast.",
     "title_uk": "Харків: Група BpLA в Харківській області прямує до Полтавської області.",
@@ -32,8 +86,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37685",
     "score": 13.0,
-    "views": 1444,
-    "forwards": 9
+    "views": 3687,
+    "forwards": 12
   },
   {
     "title": "Odesa: 14 injured",
@@ -50,26 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52717",
     "score": 9.0,
-    "views": 563,
-    "forwards": 2
-  },
-  {
-    "title": "Casualties reported",
-    "title_en": "Casualties reported",
-    "title_uk": "Повідомляється про постраждалих",
-    "description": "In Odessa, as a result of the Russian attack, 2 people died and 14 were injured, - State Emergency Service. Also, two 2-story residential buildings were destroyed, 7 people were injured. Also, an enemy anti-aircraft missile hit a 2-story building, killing 2 people.",
-    "description_en": "In Odessa, as a result of the Russian attack, 2 people died and 14 were injured, - State Emergency Service. Also, two 2-story residential buildings were destroyed, 7 people were injured. Also, an enemy anti-aircraft missile hit a 2-story building, killing 2 people.",
-    "description_uk": "В Одессе вследствие российской атаки погибли 2 человека и 14 пострадали, - ГСЧС В результате попадания в 3-этажный жилой дом разрушены квартиры, пострадали 6 человек. Также разрушены два 2-этажных жилых дома, пострадали 7 человек. Также вражеский БпЛА попал в 2-этажное здание, 2 человека погибли.",
-    "time": "",
-    "pubDate": "2026-04-24T03:39:04+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190078",
-    "score": 5.5,
-    "views": 87694,
-    "forwards": 71
+    "views": 1023,
+    "forwards": 3
   },
   {
     "title": "Mykolaiv: A group of BpLA in the south of Mykolaiv Oblast. 🛵 UAV to the north...",
@@ -92,7 +128,7 @@
   {
     "title": "Zaporizhzhia: Human rights activists count 7 torture chambers detaining Ukraine's...",
     "title_en": "Zaporizhzhia: Human rights activists count 7 torture chambers detaining Ukraine's...",
-    "title_uk": "Запоріжжя: Правозахисники нарахували 7 катівень, де утримують українських...",
+    "title_uk": "Запоріжжя: Правозахисники нарахували 7 катівень, де утримують українців...",
     "description": "Human rights activists count 7 torture chambers detaining Ukraine's Zaporizhzhia nuclear plant staff. There are at least seven torture chambers holding staff of the occupied Zaporizhzhia nuclear power plant, Roman Koval, head of research at the Ukrainian human rights organization Truth Hounds, said April 22.",
     "description_en": "Human rights activists count 7 torture chambers detaining Ukraine's Zaporizhzhia nuclear plant staff. There are at least seven torture chambers holding staff of the occupied Zaporizhzhia nuclear power plant, Roman Koval, head of research at the Ukrainian human rights organization Truth Hounds, said April 22.",
     "description_uk": "Human rights activists count 7 torture chambers detaining Ukraine's Zaporizhzhia nuclear plant staff. There are at least seven torture chambers holding staff of the occupied Zaporizhzhia nuclear power plant, Roman Koval, head of research at the Ukrainian human rights organization Truth Hounds, said April 22.",
@@ -104,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52716",
     "score": 4.5,
-    "views": 913,
-    "forwards": 6
+    "views": 1337,
+    "forwards": 8
   },
   {
     "title": "A group of UAVs to Odesa from the waters of the Black Sea (Odesa...",
@@ -284,26 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18765",
     "score": 5.5,
-    "views": 47102,
-    "forwards": 54
-  },
-  {
-    "title": "A group of BpLA in the direction of the city of Pavlograd.",
-    "title_en": "A group of BpLA in the direction of the city of Pavlograd.",
-    "title_uk": "Група БпЛА в напрямку м. Павлоград.",
-    "description": "A group of BpLA in the direction of the city of Pavlograd.",
-    "description_en": "A group of BpLA in the direction of the city of Pavlograd.",
-    "description_uk": "Група БпЛА в напрямку м.Павлоград.",
-    "time": "",
-    "pubDate": "2026-04-23T18:51:27+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60579",
-    "score": 5.5,
-    "views": 80904,
-    "forwards": 68
+    "views": 51404,
+    "forwards": 57
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -356,15 +374,15 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8875",
     "score": 5.0,
-    "views": 1029,
+    "views": 1171,
     "forwards": 13
   },
   {
     "title": "Today is an important day for our defense and for our relations with...",
     "title_en": "Today is an important day for our defense and for our relations with...",
     "title_uk": "Сьогодні важливий день для нашої оборони та для наших відносин з...",
-    "description": "Today is an important day for our defense and for our relations with the European Union. The European support package for Ukraine has been unlocked - it is 90 billion euros for two years. This European package will strengthen our army, provide Ukraine with greater stability and allow us to fulfill our social obligations to Ukrainians as defined by law. It is important that Ukraine provides itself with such...",
-    "description_en": "Today is an important day for our defense and for our relations with the European Union. The European support package for Ukraine has been unlocked - it is 90 billion euros for two years. This European package will strengthen our army, provide Ukraine with greater stability and allow us to fulfill our social obligations to Ukrainians as defined by law. It is important that Ukraine provides itself with such...",
+    "description": "Today is an important day for our defense and for our relations with the European Union. The European support package for Ukraine has been unlocked - it is 90 billion euros for two years. This European package will strengthen our army, provide Ukraine with more stability and allow us to fulfill our social obligations to Ukrainians as defined by law. It is important that Ukraine provides itself with such...",
+    "description_en": "Today is an important day for our defense and for our relations with the European Union. The European support package for Ukraine has been unlocked - it is 90 billion euros for two years. This European package will strengthen our army, provide Ukraine with more stability and allow us to fulfill our social obligations to Ukrainians as defined by law. It is important that Ukraine provides itself with such...",
     "description_uk": "Сьогодні важливий день для нашого захисту і для наших відносин із Євросоюзом. Розблоковано європейський пакет підтримки для України – це 90 мільярдів євро на два роки. Цей європейський пакет додасть сили нашій армії, забезпечить Україні більше стійкості та дозволить нам виконувати соціальні зобовʼязання перед українцями так, як це визначено законом. Важливо, що Україна забезпечує собі таку...",
     "time": "",
     "pubDate": "2026-04-23T11:46:52+00:00",
@@ -374,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18757",
     "score": 5.0,
-    "views": 225800,
-    "forwards": 325
+    "views": 232836,
+    "forwards": 327
   },
   {
     "title": "Donetsk: Missile strike on residential area",
@@ -410,7 +428,25 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8868",
     "score": 5.0,
-    "views": 969,
+    "views": 991,
     "forwards": 14
+  },
+  {
+    "title": "Casualties reported",
+    "title_en": "Casualties reported",
+    "title_uk": "Повідомляється про постраждалих",
+    "description": "Our team visited the pre-premiere screening of the film \"KILLHOUSE\" 🔫 Tactical action-thriller by Lubomir Levitsky, based on a real rescue operation. A story about the \"gray zone\", where decisions are made faster than you can think. About civilians who came under fire. And about those who enter a place from which it is usually difficult to return. 👤 Film with the participation of real fighters of the Main Directorate...",
+    "description_en": "Our team visited the pre-premiere screening of the film \"KILLHOUSE\" 🔫 Tactical action-thriller by Lubomir Levitsky, based on a real rescue operation. A story about the \"gray zone\", where decisions are made faster than you can think. About civilians who came under fire. And about those who enter a place from which it is usually difficult to return. 👤 Film with the participation of real fighters of the Main Directorate...",
+    "description_uk": "Відвідали нашою командою допрем’єрний показ фільму «КІЛЛХАУС» 🔫 Тактичний екшн-трилер Любомира Левицького, заснований на реальній рятувальній операції. Історія про «сіру зону», де рішення приймаються швидше, ніж встигаєш подумати. Про цивільних, які опинилися під вогнем. І про тих, хто заходить туди, звідки зазвичай важко повернутися. 👤 Фільм за участі реальних бійців Головного управління...",
+    "time": "",
+    "pubDate": "2026-04-22T09:37:43+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23424",
+    "score": 6.5,
+    "views": 157595,
+    "forwards": 326
   }
 ]
