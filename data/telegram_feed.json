@@ -1,5 +1,59 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "A group of UAVs from Sumy Oblast in the direction of Chernihiv Oblast. 🛵 BpLA from Dnipropetrovsk region heading for Poltava region.",
+    "description_en": "A group of UAVs from Sumy Oblast in the direction of Chernihiv Oblast. 🛵 BpLA from Dnipropetrovsk region heading for Poltava region.",
+    "description_uk": "Група БпЛА із Сумщини у напрямку Чернігівщини. 🛵 БпЛА із Дніпропетровщини курсом на Полтавщину.",
+    "time": "",
+    "pubDate": "2026-04-24T17:15:20+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60635",
+    "score": 6.0,
+    "views": 39334,
+    "forwards": 36
+  },
+  {
+    "title": "Dnipro: Dnipropetrovsk region: BpLA in the direction of Nikopol.",
+    "title_en": "Dnipro: Dnipropetrovsk region: BpLA in the direction of Nikopol.",
+    "title_uk": "Дніпро: Дніпропетровська обл.: БпЛА в напрямку Нікополь.",
+    "description": "Dnipropetrovsk region: BpLA in the direction of Nikopol.",
+    "description_en": "Dnipropetrovsk region: BpLA in the direction of Nikopol.",
+    "description_uk": "Дніпропетровщина: БпЛА в напрямку Нікополя.",
+    "time": "",
+    "pubDate": "2026-04-24T17:06:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60634",
+    "score": 6.0,
+    "views": 47435,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Investigation: A secret program, ‘suicidal’ missions, and death,...",
+    "title_en": "Kyiv: Investigation: A secret program, ‘suicidal’ missions, and death,...",
+    "title_uk": "Київ: Розслідування: секретна програма, «суїцидальні» місії та смерть,...",
+    "description": "Investigation: A secret program, ‘suicidal’ missions, and death, torture in occupied Ukraine The Kyiv Independent reveals how a classified “non-violent resistance” program encouraged civilians in occupied territories to perform breathtakingly dangerous tasks — while ignoring warnings that the FSB was tracking them. Illustration: Kseniia Stepas / The Kyiv Independent.",
+    "description_en": "Investigation: A secret program, ‘suicidal’ missions, and death, torture in occupied Ukraine The Kyiv Independent reveals how a classified “non-violent resistance” program encouraged civilians in occupied territories to perform breathtakingly dangerous tasks — while ignoring warnings that the FSB was tracking them. Illustration: Kseniia Stepas / The Kyiv Independent.",
+    "description_uk": "Investigation: A secret program, ‘suicidal’ missions, and death, torture in occupied Ukraine The Kyiv Independent reveals how a classified “non-violent resistance” program encouraged civilians in occupied territories to perform breathtakingly dangerous tasks — while ignoring warnings that the FSB was tracking them. Illustration: Kseniia Stepas / The Kyiv Independent.",
+    "time": "",
+    "pubDate": "2026-04-24T16:53:33+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52731",
+    "score": 11.0,
+    "views": 592,
+    "forwards": 2
+  },
+  {
     "title": "Zaporizhzhia: Zaporozhye - in the area of ​​the city, an enemy anti-aircraft...",
     "title_en": "Zaporizhzhia: Zaporozhye - in the area of ​​the city, an enemy anti-aircraft...",
     "title_uk": "Запоріжжя: Запоріжжя - в районі міста ворожий зенітний...",
@@ -50,7 +104,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8886",
     "score": 5.0,
-    "views": 250,
+    "views": 496,
     "forwards": 3
   },
   {
@@ -104,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190121",
     "score": 9.5,
-    "views": 90553,
-    "forwards": 248
+    "views": 106774,
+    "forwards": 286
   },
   {
     "title": "On April 20, to mark the 40th anniversary of the Chernobyl disaster,...",
@@ -122,8 +176,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8877",
     "score": 5.0,
-    "views": 475,
-    "forwards": 3
+    "views": 582,
+    "forwards": 4
   },
   {
     "title": "\"I met with the heads of the military committees of NATO and the...",
@@ -140,7 +194,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37717",
     "score": 4.0,
-    "views": 2141,
+    "views": 2385,
     "forwards": 15
   },
   {
@@ -158,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52729",
     "score": 4.0,
-    "views": 1335,
+    "views": 1556,
     "forwards": 3
   },
   {
@@ -284,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18767",
     "score": 5.0,
-    "views": 94585,
-    "forwards": 269
+    "views": 100044,
+    "forwards": 304
   },
   {
     "title": "A group of UAVs to Odesa from the waters of the Black Sea (Odesa...",
@@ -394,59 +448,5 @@
     "score": 4.0,
     "views": 4547,
     "forwards": 13
-  },
-  {
-    "title": "Kharkiv: Kharkiv region - BpLA on Balaklia.",
-    "title_en": "Kharkiv: Kharkiv region - BpLA on Balaklia.",
-    "title_uk": "Харків : Харківська обл.- БпЛА по Балаклії.",
-    "description": "Kharkiv region - BpLA on Balaklia.",
-    "description_en": "Kharkiv region - BpLA on Balaklia.",
-    "description_uk": "Харківщина - БпЛА на Балаклію.",
-    "time": "",
-    "pubDate": "2026-04-24T06:33:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60617",
-    "score": 6.0,
-    "views": 78746,
-    "forwards": 11
-  },
-  {
-    "title": "Kharkiv: A group of BpLA in Kharkiv Oblast heading for Poltava Oblast.",
-    "title_en": "Kharkiv: A group of BpLA in Kharkiv Oblast heading for Poltava Oblast.",
-    "title_uk": "Харків: Група BpLA в Харківській області прямує до Полтавської області.",
-    "description": "A group of BpLA in Kharkiv Oblast heading for Poltava Oblast.",
-    "description_en": "A group of BpLA in Kharkiv Oblast heading for Poltava Oblast.",
-    "description_uk": "Група БпЛА на Харківщині курсом на Полтавщину.",
-    "time": "",
-    "pubDate": "2026-04-24T05:36:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60610",
-    "score": 6.0,
-    "views": 15137,
-    "forwards": 2
-  },
-  {
-    "title": "Crimea: Drone incoming",
-    "title_en": "Crimea: Drone incoming",
-    "title_uk": "Крим: надходить дрон",
-    "description": "96 ENEMY UAVS DOWN/SUPPRESSED On the night of April 24 (from 18:00 on April 23), the enemy attacked with two Iskander-M ballistic missiles from the Rostov region - Russia, as well as 107 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Shatalovo, Bryansk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, about 70 of them are \"martyrs\". Air strike...",
-    "description_en": "96 ENEMY UAVS DOWN/SUPPRESSED On the night of April 24 (from 18:00 on April 23), the enemy attacked with two Iskander-M ballistic missiles from the Rostov region - Russia, as well as 107 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Shatalovo, Bryansk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, about 70 of them are \"martyrs\". Air strike...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 96 ВОРОЖИХ БПЛА У ніч на 24 квітня (з 18:00 23 квітня) противник атакував двома балістичними ракетами Іскандер-М із Ростовської області – рф., а також 107 ударними БпЛА типу Shahed, Гербера, Італмас та безпілотниками інших типів із напрямків: Шаталово,Брянськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., Гвардійське – ТОТ АР Крим, близько 70 із них – \"шахеди\". Повітряний напад...",
-    "time": "",
-    "pubDate": "2026-04-24T05:18:43+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Crimea",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37685",
-    "score": 13.0,
-    "views": 5134,
-    "forwards": 15
   }
 ]
