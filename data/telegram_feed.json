@@ -1,5 +1,59 @@
 [
   {
+    "title": "Mykolaiv: A group of BpLA in the south of Mykolaiv Oblast. 🛵 UAV to the north...",
+    "title_en": "Mykolaiv: A group of BpLA in the south of Mykolaiv Oblast. 🛵 UAV to the north...",
+    "title_uk": "Миколаїв: Група БпЛА на півдні Миколаївської області. 🛵 БПЛА на північ...",
+    "description": "A group of BpLA in the south of Mykolaiv Oblast. 🛵 UAV to the north of Kyiv region from Chernihiv region.",
+    "description_en": "A group of BpLA in the south of Mykolaiv Oblast. 🛵 UAV to the north of Kyiv region from Chernihiv region.",
+    "description_uk": "Група БпЛА на півдні Миколаївщини. 🛵 БпЛА на північ Київщини з Чернігівщини.",
+    "time": "",
+    "pubDate": "2026-04-24T03:18:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60604",
+    "score": 6.0,
+    "views": 2004,
+    "forwards": 1
+  },
+  {
+    "title": "Zaporizhzhia: Human rights activists count 7 torture chambers detaining Ukraine's...",
+    "title_en": "Zaporizhzhia: Human rights activists count 7 torture chambers detaining Ukraine's...",
+    "title_uk": "Запоріжжя: Правозахисники нарахували 7 катівень, де утримують українських...",
+    "description": "Human rights activists count 7 torture chambers detaining Ukraine's Zaporizhzhia nuclear plant staff. There are at least seven torture chambers holding staff of the occupied Zaporizhzhia nuclear power plant, Roman Koval, head of research at the Ukrainian human rights organization Truth Hounds, said April 22.",
+    "description_en": "Human rights activists count 7 torture chambers detaining Ukraine's Zaporizhzhia nuclear plant staff. There are at least seven torture chambers holding staff of the occupied Zaporizhzhia nuclear power plant, Roman Koval, head of research at the Ukrainian human rights organization Truth Hounds, said April 22.",
+    "description_uk": "Human rights activists count 7 torture chambers detaining Ukraine's Zaporizhzhia nuclear plant staff. There are at least seven torture chambers holding staff of the occupied Zaporizhzhia nuclear power plant, Roman Koval, head of research at the Ukrainian human rights organization Truth Hounds, said April 22.",
+    "time": "",
+    "pubDate": "2026-04-24T01:41:49+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52716",
+    "score": 4.5,
+    "views": 363,
+    "forwards": 3
+  },
+  {
+    "title": "A group of UAVs to Odesa from the waters of the Black Sea (Odesa...",
+    "title_en": "A group of UAVs to Odesa from the waters of the Black Sea (Odesa...",
+    "title_uk": "Група БПЛА до Одеси з акваторії Чорного моря (Одеса...",
+    "description": "A group of UAVs to Odesa from the waters of the Black Sea (Odesa district)",
+    "description_en": "A group of UAVs to Odesa from the waters of the Black Sea (Odesa district)",
+    "description_uk": "Група БпЛА на Одещину з акваторії Чорного моря (Одеський р-н)",
+    "time": "",
+    "pubDate": "2026-04-24T01:30:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60602",
+    "score": 5.0,
+    "views": 27756,
+    "forwards": 1
+  },
+  {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
     "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
     "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
@@ -86,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190077",
     "score": 4.5,
-    "views": 46515,
-    "forwards": 374
+    "views": 78750,
+    "forwards": 465
   },
   {
     "title": "Kyiv: Air defense active",
@@ -104,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52714",
     "score": 8.0,
-    "views": 947,
-    "forwards": 1
+    "views": 1313,
+    "forwards": 2
   },
   {
     "title": "Microsoft launches \"vibe working\" in Word, Excel and PowerPoint As...",
@@ -122,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190076",
     "score": 10.0,
-    "views": 50538,
-    "forwards": 327
+    "views": 82197,
+    "forwards": 408
   },
   {
     "title": "Zaporizhzhia: BpLA in the direction of Zaporozhye.",
@@ -158,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18765",
     "score": 5.0,
-    "views": 32365,
-    "forwards": 47
+    "views": 38093,
+    "forwards": 48
   },
   {
     "title": "A group of BpLA in the direction of the city of Pavlograd.",
@@ -288,60 +342,6 @@
     "forwards": 0
   },
   {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "A group of UAVs in the north of Sumy Oblast - heading for Chernihiv Oblast.",
-    "description_en": "A group of UAVs in the north of Sumy Oblast - heading for Chernihiv Oblast.",
-    "description_uk": "Група БпЛА на півночі Сумщини - курсом на Чернігівщину.",
-    "time": "",
-    "pubDate": "2026-04-23T14:48:25+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60566",
-    "score": 6.0,
-    "views": 18201,
-    "forwards": 0
-  },
-  {
-    "title": "Mariupol: Russia uses subsidized mortgages to drive population replacement in...",
-    "title_en": "Mariupol: Russia uses subsidized mortgages to drive population replacement in...",
-    "title_uk": "Маріуполь: Росія використовує субсидовану іпотеку для стимулювання заміщення населення в...",
-    "description": "Russia uses subsidized mortgages to drive population replacement in Mariupol, report says. Citing Sergey Mityagin, director general of Russia’s Unified Institute of Spatial Planning, the report says that 75% of apartments are bought by Russians, while only 25% are bought by residents of Ukrainian territories occupied by Russia.",
-    "description_en": "Russia uses subsidized mortgages to drive population replacement in Mariupol, report says. Citing Sergey Mityagin, director general of Russia’s Unified Institute of Spatial Planning, the report says that 75% of apartments are bought by Russians, while only 25% are bought by residents of Ukrainian territories occupied by Russia.",
-    "description_uk": "Russia uses subsidized mortgages to drive population replacement in Mariupol, report says. Citing Sergey Mityagin, director general of Russia’s Unified Institute of Spatial Planning, the report says that 75% of apartments are bought by Russians, while only 25% are bought by residents of Ukrainian territories occupied by Russia.",
-    "time": "",
-    "pubDate": "2026-04-23T14:40:53+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Mariupol",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52707",
-    "score": 5.0,
-    "views": 1034,
-    "forwards": 1
-  },
-  {
-    "title": "Kharkiv: BpLA headed for the city of Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA headed for the city of Kharkiv from the north.",
-    "title_uk": "Харків: BpLA прямувала на м. Харків з півночі.",
-    "description": "BpLA headed for the city of Kharkiv from the north.",
-    "description_en": "BpLA headed for the city of Kharkiv from the north.",
-    "description_uk": "БпЛА курсом на м.Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-04-23T14:33:41+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60565",
-    "score": 6.0,
-    "views": 30327,
-    "forwards": 6
-  },
-  {
     "title": "Greece Joins Agreement to Launch Special Tribunal for the Crime of...",
     "title_en": "Greece Joins Agreement to Launch Special Tribunal for the Crime of...",
     "title_uk": "Греція приєднується до угоди про створення спеціального трибуналу для розслідування злочинів...",
@@ -356,26 +356,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8875",
     "score": 5.0,
-    "views": 956,
-    "forwards": 12
-  },
-  {
-    "title": "Cruise missile heading inbound",
-    "title_en": "Cruise missile heading inbound",
-    "title_uk": "Крилата ракета наближається",
-    "description": "👀 Exercises will take place over Poland with the participation of French aircraft capable of carrying nuclear weapons. As Rzeczpospolita writes, as part of the Polish-French exercises Rafale with ASMP missiles (supersonic cruise missiles with a nuclear warhead launched from aircraft) will work out strike scenarios, including the conditional use of nuclear warheads. Polish pilots will be engaged in reconnaissance and...",
-    "description_en": "👀 Exercises will take place over Poland with the participation of French aircraft capable of carrying nuclear weapons. As Rzeczpospolita writes, as part of the Polish-French exercises Rafale with ASMP missiles (supersonic cruise missiles with a nuclear warhead launched from aircraft) will work out strike scenarios, including the conditional use of nuclear warheads. Polish pilots will be engaged in reconnaissance and...",
-    "description_uk": "👀 Над Польшей пройдут учения с участием французских самолётов, способных нести ядерное оружие Как пишет издание Rzeczpospolita, в рамках польско-французских учений Rafale с ракетами ASMP (сверхзвуковые крылатые ракеты с ядерной боеголовкой, запускаемые с самолётов) будут отрабатывать сценарии ударов, включая условное применение ядерных боеголовок. Польские пилоты будут заниматься разведкой и...",
-    "time": "",
-    "pubDate": "2026-04-23T12:09:41+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190044",
-    "score": 5.5,
-    "views": 40887,
-    "forwards": 76
+    "views": 970,
+    "forwards": 13
   },
   {
     "title": "Today is an important day for our defense and for our relations with...",
@@ -392,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18757",
     "score": 5.0,
-    "views": 212657,
+    "views": 216220,
     "forwards": 325
   },
   {
@@ -410,8 +392,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37654",
     "score": 10.5,
-    "views": 23749,
-    "forwards": 126
+    "views": 24604,
+    "forwards": 127
   },
   {
     "title": "Finland joined the agreement to launch the Special Tribunal for the...",
@@ -428,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8868",
     "score": 5.0,
-    "views": 952,
+    "views": 958,
     "forwards": 14
   },
   {
@@ -446,7 +428,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23424",
     "score": 6.5,
-    "views": 155767,
+    "views": 156128,
     "forwards": 324
   }
 ]
