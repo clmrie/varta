@@ -1,5 +1,23 @@
 [
   {
+    "title": "Mykolaiv: BpLA to the Mykolayiv region from the south.",
+    "title_en": "Mykolaiv: BpLA to the Mykolayiv region from the south.",
+    "title_uk": "Миколаїв: БпЛА до Миколаївської області з півд.",
+    "description": "BpLA to the Mykolayiv region from the south.",
+    "description_en": "BpLA to the Mykolayiv region from the south.",
+    "description_uk": "БпЛА на Миколаївщину з півдня.",
+    "time": "",
+    "pubDate": "2026-04-25T17:34:17+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60755",
+    "score": 6.0,
+    "views": 15754,
+    "forwards": 1
+  },
+  {
     "title": "Power outage reported",
     "title_en": "Power outage reported",
     "title_uk": "Повідомлено про відключення електроенергії",
@@ -14,7 +32,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52749",
     "score": 7.5,
-    "views": 352,
+    "views": 622,
     "forwards": 4
   },
   {
@@ -32,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60754",
     "score": 5.0,
-    "views": 27298,
-    "forwards": 36
+    "views": 48096,
+    "forwards": 49
   },
   {
     "title": "Mykolaiv: Mykolayiv region - BpLA heading for Bashtanka.",
@@ -67,9 +85,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190216",
-    "score": 3.5,
-    "views": 61565,
-    "forwards": 190
+    "score": 4.5,
+    "views": 80006,
+    "forwards": 228
   },
   {
     "title": "Azerbaijan handed over five passenger buses to Ukraine to support...",
@@ -86,8 +104,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8895",
     "score": 8.5,
-    "views": 474,
-    "forwards": 8
+    "views": 580,
+    "forwards": 10
   },
   {
     "title": "Dnipro: BpLA heading for Aviatorske/Dnipro.",
@@ -122,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18791",
     "score": 4.0,
-    "views": 36499,
-    "forwards": 61
+    "views": 41365,
+    "forwards": 63
   },
   {
     "title": "Zaporizhzhia: Fast target for Zaporozhye/Dnipro!",
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52747",
     "score": 7.5,
-    "views": 1206,
+    "views": 1333,
     "forwards": 2
   },
   {
@@ -176,8 +194,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37768",
     "score": 5.5,
-    "views": 5586,
-    "forwards": 59
+    "views": 6036,
+    "forwards": 61
   },
   {
     "title": "Dnipro: Energy infrastructure hit",
@@ -194,7 +212,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18790",
     "score": 18.0,
-    "views": 64212,
+    "views": 69288,
     "forwards": 121
   },
   {
@@ -430,23 +448,5 @@
     "score": 4.0,
     "views": 71042,
     "forwards": 196
-  },
-  {
-    "title": "Dnipro: Dnipro - BpLA over the city.",
-    "title_en": "Dnipro: Dnipro - BpLA over the city.",
-    "title_uk": "Дніпро: Дніпро - БпЛА над містом.",
-    "description": "Dnipro - BpLA over the city.",
-    "description_en": "Dnipro - BpLA over the city.",
-    "description_uk": "Дніпро - БпЛА над містом.",
-    "time": "",
-    "pubDate": "2026-04-25T08:10:37+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60728",
-    "score": 6.0,
-    "views": 82970,
-    "forwards": 2
   }
 ]
