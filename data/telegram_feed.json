@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "Several groups of UAVs from the east in the direction of the Kaniv Reservoir and Pereyaslav in the Kyiv region.",
+    "description_en": "Several groups of UAVs from the east in the direction of the Kaniv Reservoir and Pereyaslav in the Kyiv region.",
+    "description_uk": "Декілька груп БпЛА зі сходу у напрямку Канівського водосховища та Переяслава на Київщині.",
+    "time": "",
+    "pubDate": "2026-04-25T00:07:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60662",
+    "score": 6.0,
+    "views": 4049,
+    "forwards": 1
+  },
+  {
+    "title": "Shostka - stay in shelters. New unmanned aerial vehicles on the city...",
+    "title_en": "Shostka - stay in shelters. New unmanned aerial vehicles on the city...",
+    "title_uk": "Шостка - перебування в притулках. Нові безпілотники на міському...",
+    "description": "Shostka - stay in shelters. New unmanned aerial vehicles on the city from the north.",
+    "description_en": "Shostka - stay in shelters. New unmanned aerial vehicles on the city from the north.",
+    "description_uk": "Шостка - перебувайте в укриттях. Нові БпЛА на місто з півночі.",
+    "time": "",
+    "pubDate": "2026-04-25T00:04:33+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60661",
+    "score": 10.0,
+    "views": 8088,
+    "forwards": 1
+  },
+  {
+    "title": "Cruise missile heading inbound",
+    "title_en": "Cruise missile heading inbound",
+    "title_uk": "Крилата ракета наближається",
+    "description": "Launches of cruise missiles from Tu-95MS strategic bombers were allegedly carried out, - Air Force",
+    "description_en": "Launches of cruise missiles from Tu-95MS strategic bombers were allegedly carried out, - Air Force",
+    "description_uk": "Предположительно осуществлены пуски крылатых ракет со стратегических бомбардировщиков Ту-95МС, - Воздушные силы",
+    "time": "",
+    "pubDate": "2026-04-24T23:41:45+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190147",
+    "score": 3.0,
+    "views": 8894,
+    "forwards": 11
+  },
+  {
     "title": "Zaporizhzhia: Chernihiv region: BpLA in the direction of Nizhyn. 🛵 Poltava region:...",
     "title_en": "Zaporizhzhia: Chernihiv region: BpLA in the direction of Nizhyn. 🛵 Poltava region:...",
     "title_uk": "Запоріжжя: Чернігівська область: БпЛА в напрямку Ніжина. 🛵 Полтавська область:...",
@@ -200,7 +254,7 @@
   {
     "title": "Kyiv: Investigation: A secret program, ‘suicidal’ missions, and death,...",
     "title_en": "Kyiv: Investigation: A secret program, ‘suicidal’ missions, and death,...",
-    "title_uk": "Київ: Розслідування: Секретна програма, «суїцидальні» місії та смерть,...",
+    "title_uk": "Київ: Розслідування: секретна програма, «суїцидальні» місії та смерть,...",
     "description": "Investigation: A secret program, ‘suicidal’ missions, and death, torture in occupied Ukraine The Kyiv Independent reveals how a classified “non-violent resistance” program encouraged civilians in occupied territories to perform breathtakingly dangerous tasks — while ignoring warnings that the FSB was tracking them. Illustration: Kseniia Stepas / The Kyiv Independent.",
     "description_en": "Investigation: A secret program, ‘suicidal’ missions, and death, torture in occupied Ukraine The Kyiv Independent reveals how a classified “non-violent resistance” program encouraged civilians in occupied territories to perform breathtakingly dangerous tasks — while ignoring warnings that the FSB was tracking them. Illustration: Kseniia Stepas / The Kyiv Independent.",
     "description_uk": "Investigation: A secret program, ‘suicidal’ missions, and death, torture in occupied Ukraine The Kyiv Independent reveals how a classified “non-violent resistance” program encouraged civilians in occupied territories to perform breathtakingly dangerous tasks — while ignoring warnings that the FSB was tracking them. Illustration: Kseniia Stepas / The Kyiv Independent.",
@@ -212,8 +266,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52731",
     "score": 11.0,
-    "views": 4329,
-    "forwards": 15
+    "views": 4601,
+    "forwards": 18
   },
   {
     "title": "Zaporizhzhia: Zaporozhye - in the area of ​​the city, an enemy anti-aircraft...",
@@ -266,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8886",
     "score": 5.0,
-    "views": 706,
+    "views": 709,
     "forwards": 4
   },
   {
@@ -338,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8877",
     "score": 5.0,
-    "views": 709,
+    "views": 711,
     "forwards": 4
   },
   {
@@ -356,7 +410,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37717",
     "score": 4.0,
-    "views": 2903,
+    "views": 2911,
     "forwards": 15
   },
   {
@@ -374,7 +428,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52729",
     "score": 4.0,
-    "views": 2176,
+    "views": 2197,
     "forwards": 3
   },
   {
@@ -394,59 +448,5 @@
     "score": 10.0,
     "views": 2374,
     "forwards": 10
-  },
-  {
-    "title": "Kyiv: Ukraine brings home 193 POWs from Russian captivity. President...",
-    "title_en": "Kyiv: Ukraine brings home 193 POWs from Russian captivity. President...",
-    "title_uk": "Київ: Україна повертає додому 193 військовополонених з російського полону. президент...",
-    "description": "Ukraine brings home 193 POWs from Russian captivity. President Volodymyr Zelensky said those brought back to Ukraine include individuals against whom Russian authorities have opened criminal cases, as well as wounded soldiers.",
-    "description_en": "Ukraine brings home 193 POWs from Russian captivity. President Volodymyr Zelensky said those brought back to Ukraine include individuals against whom Russian authorities have opened criminal cases, as well as wounded soldiers.",
-    "description_uk": "Ukraine brings home 193 POWs from Russian captivity. President Volodymyr Zelensky said those brought back to Ukraine include individuals against whom Russian authorities have opened criminal cases, as well as wounded soldiers.",
-    "time": "",
-    "pubDate": "2026-04-24T13:09:55+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52727",
-    "score": 6.0,
-    "views": 1401,
-    "forwards": 2
-  },
-  {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
-    "description": "Gender-bending Bulgarian novel takes literature world by storm In the shadow of Albania’s Accursed Mountains, where the centuries-old laws of Kanun dictate people’s fate, Bekija publicly renounces her womanhood to live socially as a man after her father is shot dead in a blood feud and her younger brother flees home. This feverish dynamic is at the heart of Bulgarian author Rene Karabash’s novel...",
-    "description_en": "Gender-bending Bulgarian novel takes literature world by storm In the shadow of Albania’s Accursed Mountains, where the centuries-old laws of Kanun dictate people’s fate, Bekija publicly renounces her womanhood to live socially as a man after her father is shot dead in a blood feud and her younger brother flees home. This feverish dynamic is at the heart of Bulgarian author Rene Karabash’s novel...",
-    "description_uk": "Gender-bending Bulgarian novel takes literature world by storm In the shadow of Albania’s Accursed Mountains, where the centuries-old laws of Kanun dictate people’s fate, Bekija publicly renounces her womanhood to live socially as a man after her father is shot dead in a blood feud and her younger brother flees home. This feverish dynamic is at the heart of Bulgarian author Rene Karabash’s novel...",
-    "time": "",
-    "pubDate": "2026-04-24T12:23:22+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52726",
-    "score": 6.0,
-    "views": 367,
-    "forwards": 2
-  },
-  {
-    "title": "Kyiv: Missile attack",
-    "title_en": "Kyiv: Missile attack",
-    "title_uk": "Київ: Ракетний удар",
-    "description": "Ukrainian Neptune missiles destroy Russian drone factory workshops Rostov Oblast, General Staff confirms Ukrainian forces attacked the factory involved in the full cycle of drone production — design, manufacturing, and testing — on April 19.",
-    "description_en": "Ukrainian Neptune missiles destroy Russian drone factory workshops Rostov Oblast, General Staff confirms Ukrainian forces attacked the factory involved in the full cycle of drone production — design, manufacturing, and testing — on April 19.",
-    "description_uk": "Ukrainian Neptune missiles destroy Russian drone factory workshops Rostov Oblast, General Staff confirms Ukrainian forces attacked the factory involved in the full cycle of drone production — design, manufacturing, and testing — on April 19.",
-    "time": "",
-    "pubDate": "2026-04-24T12:11:33+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52725",
-    "score": 8.0,
-    "views": 488,
-    "forwards": 1
   }
 ]
