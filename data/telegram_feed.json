@@ -1,5 +1,41 @@
 [
   {
+    "title": "650 drones launched",
+    "title_en": "650 drones launched",
+    "title_uk": "Запущено 650 дронів",
+    "description": "💬Minister Andriy Sybiga - regarding the massive Russian shelling of Ukraine: \"Russia carried out another massive missile and drone attack against Ukraine this night, using at least 650 drones and missiles and deliberately striking civilians. As a result of this attack, at least four people were killed and more than thirty injured across Ukraine. This is not waging war, it is a targeted campaign...",
+    "description_en": "💬Minister Andriy Sybiga - regarding the massive Russian shelling of Ukraine: \"Russia carried out another massive missile and drone attack against Ukraine this night, using at least 650 drones and missiles and deliberately striking civilians. As a result of this attack, at least four people were killed and more than thirty injured across Ukraine. This is not waging war, it is a targeted campaign...",
+    "description_uk": "💬Міністр Андрій Сибіга — щодо масованого російського обстрілу України: \"Росія цієї ночі здійснила чергову масовану ракетну та дронову атаку проти України, застосувавши щонайменше 650 дронів і ракет та навмисно завдаючи ударів по цивільних. Унаслідок цієї атаки по всій Україні щонайменше чотири людини загинули, понад тридцять — зазнали поранень. Це не ведення війни — це цілеспрямована кампанія...",
+    "time": "",
+    "pubDate": "2026-04-25T07:52:52+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/8890",
+    "score": 13.0,
+    "views": 121,
+    "forwards": 1
+  },
+  {
+    "title": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city from the south.",
+    "title_en": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city from the south.",
+    "title_uk": "Запоріжжя: Запоріжжя - БпЛА в напрямку міста з півд.",
+    "description": "Zaporizhzhia - BpLA in the direction of the city from the south.",
+    "description_en": "Zaporizhzhia - BpLA in the direction of the city from the south.",
+    "description_uk": "Запоріжжя - БпЛА в напрямку міста з півдня.",
+    "time": "",
+    "pubDate": "2026-04-25T07:48:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60727",
+    "score": 6.0,
+    "views": 16189,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: Kharkiv - BpLA in the direction of the city.",
     "title_en": "Kharkiv: Kharkiv - BpLA in the direction of the city.",
     "title_uk": "Харків: Харків – БпЛА в напрямку м.",
@@ -14,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60723",
     "score": 6.0,
-    "views": 1002,
+    "views": 49624,
     "forwards": 1
   },
   {
@@ -32,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52739",
     "score": 13.0,
-    "views": 87,
-    "forwards": 1
+    "views": 606,
+    "forwards": 3
   },
   {
     "title": "Chernihiv: Strike confirmed on residential building",
@@ -49,9 +85,9 @@
     "location": "Chernihiv",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18781",
-    "score": 19.0,
-    "views": 42573,
-    "forwards": 166
+    "score": 20.0,
+    "views": 112368,
+    "forwards": 278
   },
   {
     "title": "Explosions reported",
@@ -68,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190173",
     "score": 4.5,
-    "views": 44756,
-    "forwards": 281
+    "views": 81813,
+    "forwards": 490
   },
   {
     "title": "47 missiles + 619 drones launched",
@@ -85,9 +121,9 @@
     "location": "Chernihiv",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190170",
-    "score": 3.5,
-    "views": 85203,
-    "forwards": 176
+    "score": 4.5,
+    "views": 110041,
+    "forwards": 245
   },
   {
     "title": "Chernihiv: 30 missiles intercepted",
@@ -103,9 +139,9 @@
     "location": "Chernihiv",
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37749",
-    "score": 13.0,
-    "views": 4319,
-    "forwards": 41
+    "score": 13.5,
+    "views": 5440,
+    "forwards": 52
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -140,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52738",
     "score": 13.0,
-    "views": 859,
+    "views": 1185,
     "forwards": 2
   },
   {
@@ -360,24 +396,6 @@
     "forwards": 70
   },
   {
-    "title": "Mykolaiv: BpLA heading for Sumy, Mykolaiv, Myrhorod.",
-    "title_en": "Mykolaiv: BpLA heading for Sumy, Mykolaiv, Myrhorod.",
-    "title_uk": "Миколаїв: BpLA курсує на Суми, Миколаїв, Миргород.",
-    "description": "BpLA heading for Sumy, Mykolaiv, Myrhorod.",
-    "description_en": "BpLA heading for Sumy, Mykolaiv, Myrhorod.",
-    "description_uk": "БпЛА курсом на Суми, Миколаїв, Миргород.",
-    "time": "",
-    "pubDate": "2026-04-24T19:08:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60645",
-    "score": 6.0,
-    "views": 43405,
-    "forwards": 1
-  },
-  {
     "title": "Kyiv: Investigation: A secret program, ‘suicidal’ missions, and death,...",
     "title_en": "Kyiv: Investigation: A secret program, ‘suicidal’ missions, and death,...",
     "title_uk": "Київ: Розслідування: секретна програма, «суїцидальні» місії та смерть,...",
@@ -410,8 +428,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8886",
     "score": 5.0,
-    "views": 768,
-    "forwards": 4
+    "views": 792,
+    "forwards": 5
   },
   {
     "title": "On April 20, to mark the 40th anniversary of the Chernobyl disaster,...",
@@ -430,23 +448,5 @@
     "score": 5.0,
     "views": 761,
     "forwards": 4
-  },
-  {
-    "title": "Innovations for the front: the Armed Forces of Ukraine and the...",
-    "title_en": "Innovations for the front: the Armed Forces of Ukraine and the...",
-    "title_uk": "Нововведення для фронту: Збройні сили України та...",
-    "description": "Innovations for the front: the Armed Forces of Ukraine and the National Academy of Sciences of Ukraine join forces in the war of technologies Deputy Commander-in-Chief of the Armed Forces of Ukraine Brigadier General Andriy Lebedenko took part in the reporting session of the general meeting of the National Academy of Sciences of Ukraine. At the invitation of the President of the National Academy of Sciences, Anatoly Zagorodnyi, he spoke before leading scientists of the country, outlining the key priorities of defense cooperation. IN...",
-    "description_en": "Innovations for the front: the Armed Forces of Ukraine and the National Academy of Sciences of Ukraine join forces in the war of technologies Deputy Commander-in-Chief of the Armed Forces of Ukraine Brigadier General Andriy Lebedenko took part in the reporting session of the general meeting of the National Academy of Sciences of Ukraine. At the invitation of the President of the National Academy of Sciences, Anatoly Zagorodnyi, he spoke before leading scientists of the country, outlining the key priorities of defense cooperation. IN...",
-    "description_uk": "Інновації для фронту: ЗСУ та НАН України об’єднують зусилля у війні технологій Заступник Головнокомандувача Збройних Сил України бригадний генерал Андрій Лебеденко взяв участь у звітній сесії загальних зборів Національної академії наук України. На запрошення президента НАН Анатолія Загороднього він виступив перед провідними науковцями країни, окресливши ключові пріоритети оборонної співпраці. У...",
-    "time": "",
-    "pubDate": "2026-04-24T13:18:00+00:00",
-    "category": "political",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37713",
-    "score": 10.0,
-    "views": 2374,
-    "forwards": 10
   }
 ]
