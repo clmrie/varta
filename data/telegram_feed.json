@@ -1,5 +1,23 @@
 [
   {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "UAV in the north of Zhytomrshchyna - heading south. 🛵 BpLA group in the east of the Dnipropetrovsk region - north-west course.",
+    "description_en": "UAV in the north of Zhytomrshchyna - heading south. 🛵 BpLA group in the east of the Dnipropetrovsk region - north-west course.",
+    "description_uk": "БпЛА на півночі Житомрщини - курсом на південь. 🛵 Група БпЛА на сході Дніпропетровщини - північно-західним курсом.",
+    "time": "",
+    "pubDate": "2026-04-25T19:47:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60762",
+    "score": 6.0,
+    "views": 20186,
+    "forwards": 1
+  },
+  {
     "title": "Chernihiv: A group of BpLA in Kyiv region (Vyshgorod district) from Chernihiv...",
     "title_en": "Chernihiv: A group of BpLA in Kyiv region (Vyshgorod district) from Chernihiv...",
     "title_uk": "Чернігів: Група БпЛА в Київській області (Вишгородський район) з Чернігівської...",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60759",
     "score": 6.0,
-    "views": 34333,
+    "views": 58614,
     "forwards": 36
   },
   {
@@ -86,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52749",
     "score": 7.5,
-    "views": 1193,
+    "views": 1340,
     "forwards": 5
   },
   {
@@ -140,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190216",
     "score": 4.5,
-    "views": 113367,
-    "forwards": 303
+    "views": 120978,
+    "forwards": 338
   },
   {
     "title": "Azerbaijan handed over five passenger buses to Ukraine to support...",
@@ -158,7 +176,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8895",
     "score": 8.5,
-    "views": 683,
+    "views": 704,
     "forwards": 10
   },
   {
@@ -194,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18791",
     "score": 4.0,
-    "views": 52326,
-    "forwards": 66
+    "views": 54959,
+    "forwards": 74
   },
   {
     "title": "Zaporizhzhia: Fast target for Zaporozhye/Dnipro!",
@@ -248,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37768",
     "score": 5.5,
-    "views": 7466,
+    "views": 8358,
     "forwards": 62
   },
   {
@@ -266,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18790",
     "score": 18.0,
-    "views": 79933,
-    "forwards": 123
+    "views": 82546,
+    "forwards": 124
   },
   {
     "title": "Explosions reported",
@@ -356,8 +374,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52746",
     "score": 6.0,
-    "views": 1746,
-    "forwards": 0
+    "views": 1819,
+    "forwards": 1
   },
   {
     "title": "The United States has returned execution as a method of capital...",
@@ -430,23 +448,5 @@
     "score": 10.5,
     "views": 15164,
     "forwards": 90
-  },
-  {
-    "title": "Luhansk: The warehouses, control points and manpower of the enemy were hit...",
-    "title_en": "Luhansk: The warehouses, control points and manpower of the enemy were hit...",
-    "title_uk": "Луганськ: Уражені склади, пункти управління та жива сила противника...",
-    "description": "The warehouses, control points and manpower of the enemy were hit ⚡️During April 24 and on the night of April 25, 2026, units of the Defense Forces of Ukraine hit the enemy's ammunition warehouse in the Bilotsk district of Luhansk region, as well as warehouses of material and technical means in the areas of the settlements of Boykivske in Donetsk region and Novovasylivka and Gulyaipole of Zaporizhzhya region. ⚡️A number of command-observation...",
-    "description_en": "The warehouses, control points and manpower of the enemy were hit ⚡️During April 24 and on the night of April 25, 2026, units of the Defense Forces of Ukraine hit the enemy's ammunition warehouse in the Bilotsk district of Luhansk region, as well as warehouses of material and technical means in the areas of the settlements of Boykivske in Donetsk region and Novovasylivka and Gulyaipole of Zaporizhzhya region. ⚡️A number of command-observation...",
-    "description_uk": "Уражено склади, пункти управління та живу силу противника ⚡️Упродовж 24 квітня та у ніч на 25 квітня 2026 року підрозділи Сил оборони України уразили склад боєприпасів ворога у районі Білолуцька на Луганщині, а також склади матеріально-технічних засобів у районах населених пунктів Бойківське на Донеччині і Нововасилівка та Гуляйполе Запорізької області. ⚡️Також уражено низку командно-спостережних...",
-    "time": "",
-    "pubDate": "2026-04-25T10:39:22+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Luhansk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37761",
-    "score": 10.5,
-    "views": 13397,
-    "forwards": 87
   }
 ]
