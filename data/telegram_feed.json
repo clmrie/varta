@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A group of UAVs from the waters of the Black Sea ➡️ heading for Odesa (Olexandrivka, Chornomorsk, Velikodolynske)",
+    "description_en": "A group of UAVs from the waters of the Black Sea ➡️ heading for Odesa (Olexandrivka, Chornomorsk, Velikodolynske)",
+    "description_uk": "Група БпЛА з акваторії Чорного моря ➡️ курсом на Одещину (Олександрівка, Чорноморськ, Великодолинське)",
+    "time": "",
+    "pubDate": "2026-04-25T23:24:53+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60772",
+    "score": 5.0,
+    "views": 4054,
+    "forwards": 1
+  },
+  {
+    "title": "Mykolaiv: BpLA in Zaporizhzhia past Novomykolaivka on a western course.",
+    "title_en": "Mykolaiv: BpLA in Zaporizhzhia past Novomykolaivka on a western course.",
+    "title_uk": "Миколаїв: БпЛА в Запоріжжі повз Новомиколаївку на західному курсі.",
+    "description": "BpLA in Zaporizhzhia past Novomykolaivka on a western course.",
+    "description_en": "BpLA in Zaporizhzhia past Novomykolaivka on a western course.",
+    "description_uk": "БпЛА на Запоріжжі повз Новомиколаївку західним курсом.",
+    "time": "",
+    "pubDate": "2026-04-25T23:16:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60770",
+    "score": 6.0,
+    "views": 11141,
+    "forwards": 2
+  },
+  {
     "title": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
     "title_en": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
     "title_uk": "Запоріжжя: Запоріжжя – БпЛА в напрямку м.",
@@ -176,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52749",
     "score": 7.5,
-    "views": 1868,
+    "views": 1932,
     "forwards": 6
   },
   {
@@ -216,24 +252,6 @@
     "forwards": 1
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "😱 Soldiers of the Ukrainian Armed Forces evacuated a 77-year-old woman from the \"gray zone\" with the help of a ground robot. She was noticed by drone operators of the 60th brigade in the Limansk direction - the woman was walking along a shot road among sinkholes and bodies of the dead. In order not to scare her, the robot was covered with a blanket with the inscription \"Grandma, sit down.\" The woman sat down and was taken to a safe place. Three more civilian drones were escorted to the point...",
-    "description_en": "😱 Soldiers of the Ukrainian Armed Forces evacuated a 77-year-old woman from the \"gray zone\" with the help of a ground robot. She was noticed by drone operators of the 60th brigade in the Limansk direction - the woman was walking along a shot road among sinkholes and bodies of the dead. In order not to scare her, the robot was covered with a blanket with the inscription \"Grandma, sit down.\" The woman sat down and was taken to a safe place. Three more civilian drones were escorted to the point...",
-    "description_uk": "😱 Бойцы ВСУ эвакуировали 77-летнюю женщину из \"серой зоны\" с помощью наземного робота Ее заметили операторы дронов 60-й бригады на Лиманском направлении - женщина шла по простреливаемой дороге среди воронок и тел погибших. Чтобы не напугать ее, робот накрыли одеялом с надписью \"Бабушка, садись\". Женщина села, и ее вывезли в безопасное место. Еще троих гражданских дроны сопроводили до точки...",
-    "time": "",
-    "pubDate": "2026-04-25T15:40:25+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190216",
-    "score": 4.5,
-    "views": 139746,
-    "forwards": 372
-  },
-  {
     "title": "Azerbaijan handed over five passenger buses to Ukraine to support...",
     "title_en": "Azerbaijan handed over five passenger buses to Ukraine to support...",
     "title_uk": "Азербайджан передав Україні п'ять пасажирських автобусів для підтримки...",
@@ -248,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8895",
     "score": 8.5,
-    "views": 760,
+    "views": 763,
     "forwards": 11
   },
   {
@@ -284,7 +302,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18791",
     "score": 4.0,
-    "views": 61987,
+    "views": 62530,
     "forwards": 78
   },
   {
@@ -338,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37768",
     "score": 5.5,
-    "views": 9794,
+    "views": 9849,
     "forwards": 62
   },
   {
@@ -356,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18790",
     "score": 18.0,
-    "views": 89610,
+    "views": 90259,
     "forwards": 128
   },
   {
@@ -430,23 +448,5 @@
     "score": 8.5,
     "views": 69232,
     "forwards": 155
-  },
-  {
-    "title": "Dnipro: 46 injured",
-    "title_en": "Dnipro: 46 injured",
-    "title_uk": "Дніпро: 46 постраждалих",
-    "description": "Update: 46 injured in Russian attacks on Dnipro. Five children are among the injured. Twenty-three people have been hospitalized, with two women aged 26 and 44 in critical condition, Governor Oleksandr Hanzha said.",
-    "description_en": "Update: 46 injured in Russian attacks on Dnipro. Five children are among the injured. Twenty-three people have been hospitalized, with two women aged 26 and 44 in critical condition, Governor Oleksandr Hanzha said.",
-    "description_uk": "Update: 46 injured in Russian attacks on Dnipro. Five children are among the injured. Twenty-three people have been hospitalized, with two women aged 26 and 44 in critical condition, Governor Oleksandr Hanzha said.",
-    "time": "",
-    "pubDate": "2026-04-25T12:43:41+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Dnipro",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52746",
-    "score": 6.0,
-    "views": 2127,
-    "forwards": 1
   }
 ]
