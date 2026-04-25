@@ -1,5 +1,23 @@
 [
   {
+    "title": "Dnipro: 1 killed, 7 injured",
+    "title_en": "Dnipro: 1 killed, 7 injured",
+    "title_uk": "Дніпро: 1 загиблий, 7 поранених",
+    "description": "Update: 1 killed, 7 injured as Russia renews attacks on Dnipro. Russian forces launched another attack against Dnipro during the day on April 25, killing at least one person and injuring seven, Governor Oleksandr Hanzha said. Russia targeted the same residential area that was hit overnight, he added.",
+    "description_en": "Update: 1 killed, 7 injured as Russia renews attacks on Dnipro. Russian forces launched another attack against Dnipro during the day on April 25, killing at least one person and injuring seven, Governor Oleksandr Hanzha said. Russia targeted the same residential area that was hit overnight, he added.",
+    "description_uk": "Update: 1 killed, 7 injured as Russia renews attacks on Dnipro. Russian forces launched another attack against Dnipro during the day on April 25, killing at least one person and injuring seven, Governor Oleksandr Hanzha said. Russia targeted the same residential area that was hit overnight, he added.",
+    "time": "",
+    "pubDate": "2026-04-25T09:07:42+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Dnipro",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52743",
+    "score": 18.0,
+    "views": 434,
+    "forwards": 1
+  },
+  {
     "title": "Zaporizhzhia: Zaporizhzhia - BpLA on the outskirts of the city.",
     "title_en": "Zaporizhzhia: Zaporizhzhia - BpLA on the outskirts of the city.",
     "title_uk": "Запоріжжя: Запоріжжя – БпЛА на околиці міста.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60730",
     "score": 6.0,
-    "views": 10139,
+    "views": 50520,
     "forwards": 1
   },
   {
@@ -32,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52742",
     "score": 6.0,
-    "views": 332,
+    "views": 648,
     "forwards": 2
   },
   {
@@ -50,8 +68,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18784",
     "score": 4.0,
-    "views": 19408,
-    "forwards": 115
+    "views": 41534,
+    "forwards": 157
   },
   {
     "title": "Drone attack",
@@ -67,9 +85,9 @@
     "location": "Dnipro",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190186",
-    "score": 9.0,
-    "views": 41585,
-    "forwards": 37
+    "score": 9.5,
+    "views": 68406,
+    "forwards": 72
   },
   {
     "title": "Dnipro: Dnipro - BpLA over the city.",
@@ -86,7 +104,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60728",
     "score": 6.0,
-    "views": 39476,
+    "views": 66757,
     "forwards": 2
   },
   {
@@ -104,7 +122,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8890",
     "score": 13.0,
-    "views": 287,
+    "views": 356,
     "forwards": 2
   },
   {
@@ -176,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18781",
     "score": 20.0,
-    "views": 155113,
-    "forwards": 320
+    "views": 178110,
+    "forwards": 345
   },
   {
     "title": "Explosions reported",
@@ -194,8 +212,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190173",
     "score": 4.5,
-    "views": 102604,
-    "forwards": 598
+    "views": 114655,
+    "forwards": 635
   },
   {
     "title": "47 missiles + 619 drones launched",
@@ -230,8 +248,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37749",
     "score": 13.5,
-    "views": 5974,
-    "forwards": 54
+    "views": 6362,
+    "forwards": 55
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/60652",
     "score": 6.0,
     "views": 12871,
-    "forwards": 11
-  },
-  {
-    "title": "Zaporizhzhia: Odesa: groups of BpLA in the direction of Izmail district. 🛵...",
-    "title_en": "Zaporizhzhia: Odesa: groups of BpLA in the direction of Izmail district. 🛵...",
-    "title_uk": "Запоріжжя: Одеса: групи БпЛА в напрямку Ізмаїльського району. 🛵...",
-    "description": "Odesa: groups of BpLA in the direction of Izmail district. 🛵 Sumyshchyna: BpLA heading for Shostka. 🛵 BpLA in the direction of Dnipro, Zaporizhzhia.",
-    "description_en": "Odesa: groups of BpLA in the direction of Izmail district. 🛵 Sumyshchyna: BpLA heading for Shostka. 🛵 BpLA in the direction of Dnipro, Zaporizhzhia.",
-    "description_uk": "Одещина: групи БпЛА в напрямку Ізмаїльського району. 🛵 Сумщина: БпЛА курсом на Шостку. 🛵 БпЛА в напрямку Дніпра, Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-04-24T22:19:58+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60651",
-    "score": 6.0,
-    "views": 22505,
     "forwards": 11
   }
 ]
