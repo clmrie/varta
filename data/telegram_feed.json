@@ -1,5 +1,23 @@
 [
   {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "124 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of April 26 (from 18:00 on April 25), the enemy attacked 144 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Kursk, Bryansk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, approx. 100 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and...",
+    "description_en": "124 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of April 26 (from 18:00 on April 25), the enemy attacked 144 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Kursk, Bryansk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, approx. 100 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 124 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 26 квітня (з 18:00 25 квітня) противник атакував 144 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та безпілотниками інших типів із напрямків: Курськ, Брянськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., ТОТ Донецьк, близько 100 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та...",
+    "time": "",
+    "pubDate": "2026-04-26T05:10:12+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37800",
+    "score": 13.0,
+    "views": 1897,
+    "forwards": 5
+  },
+  {
     "title": "BpLA over Kryvyi Rih!",
     "title_en": "BpLA over Kryvyi Rih!",
     "title_uk": "БпЛА над Кривим Рогом!",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60784",
     "score": 5.0,
-    "views": 10120,
-    "forwards": 1
+    "views": 51129,
+    "forwards": 12
   },
   {
     "title": "BpLA in Zhytomyr Oblast, heading for Korosten.",
@@ -50,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52754",
     "score": 5.0,
-    "views": 485,
-    "forwards": 3
+    "views": 985,
+    "forwards": 4
   },
   {
     "title": "Crimea: Drone strike",
@@ -68,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52753",
     "score": 8.0,
-    "views": 648,
+    "views": 1124,
     "forwards": 2
   },
   {
@@ -234,96 +252,6 @@
     "forwards": 36
   },
   {
-    "title": "Kharkiv: A group of BpLA to Poltava region from Kharkiv region. 🛵 A group of...",
-    "title_en": "Kharkiv: A group of BpLA to Poltava region from Kharkiv region. 🛵 A group of...",
-    "title_uk": "Харків: Група БпЛА на Полтавщину з Харківщини. 🛵 Група...",
-    "description": "A group of BpLA to Poltava region from Kharkiv region. 🛵 A group of BpLA in the east of Kharkiv Oblast - heading west.",
-    "description_en": "A group of BpLA to Poltava region from Kharkiv region. 🛵 A group of BpLA in the east of Kharkiv Oblast - heading west.",
-    "description_uk": "Група БпЛА на Полтавщину з Харківщини. 🛵 Група БпЛА на сході Харківщини - курсом на захід.",
-    "time": "",
-    "pubDate": "2026-04-25T17:58:57+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60757",
-    "score": 6.0,
-    "views": 67709,
-    "forwards": 35
-  },
-  {
-    "title": "Mykolaiv: BpLA to the Mykolayiv region from the south.",
-    "title_en": "Mykolaiv: BpLA to the Mykolayiv region from the south.",
-    "title_uk": "Миколаїв: БпЛА до Миколаївської області з півд.",
-    "description": "BpLA to the Mykolayiv region from the south.",
-    "description_en": "BpLA to the Mykolayiv region from the south.",
-    "description_uk": "БпЛА на Миколаївщину з півдня.",
-    "time": "",
-    "pubDate": "2026-04-25T17:34:17+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60755",
-    "score": 6.0,
-    "views": 15754,
-    "forwards": 1
-  },
-  {
-    "title": "Power outage reported",
-    "title_en": "Power outage reported",
-    "title_uk": "Повідомлено про відключення електроенергії",
-    "description": "Ukraine's nuclear lifeline in the shadow of Chornobyl Russia's attacks on Ukraine's energy infrastructure have caused a severe power deficit, plunging entire cities into blackouts. As thermal and hydroelectric plants have sustained heavy damage, nuclear power plants have become Ukraine's most critical and reliable source of electricity. Today, they generate the majority of the country's...",
-    "description_en": "Ukraine's nuclear lifeline in the shadow of Chornobyl Russia's attacks on Ukraine's energy infrastructure have caused a severe power deficit, plunging entire cities into blackouts. As thermal and hydroelectric plants have sustained heavy damage, nuclear power plants have become Ukraine's most critical and reliable source of electricity. Today, they generate the majority of the country's...",
-    "description_uk": "Ukraine's nuclear lifeline in the shadow of Chornobyl Russia's attacks on Ukraine's energy infrastructure have caused a severe power deficit, plunging entire cities into blackouts. As thermal and hydroelectric plants have sustained heavy damage, nuclear power plants have become Ukraine's most critical and reliable source of electricity. Today, they generate the majority of the country's...",
-    "time": "",
-    "pubDate": "2026-04-25T16:30:17+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52749",
-    "score": 7.5,
-    "views": 1969,
-    "forwards": 6
-  },
-  {
-    "title": "BpLA in the north of Zhytomyr Oblast - past Ovruch, headed for...",
-    "title_en": "BpLA in the north of Zhytomyr Oblast - past Ovruch, headed for...",
-    "title_uk": "БпЛА на півночі Житомирської області - повз Овруч, в напрямку...",
-    "description": "BpLA in the north of Zhytomyr Oblast - past Ovruch, headed for Chopovichi.",
-    "description_en": "BpLA in the north of Zhytomyr Oblast - past Ovruch, headed for Chopovichi.",
-    "description_uk": "БпЛА на півночі Житомирщини - повз Овруч, курсом на Чоповичі.",
-    "time": "",
-    "pubDate": "2026-04-25T16:27:34+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zhytomyr",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60754",
-    "score": 5.0,
-    "views": 48096,
-    "forwards": 49
-  },
-  {
-    "title": "Mykolaiv: Mykolayiv region - BpLA heading for Bashtanka.",
-    "title_en": "Mykolaiv: Mykolayiv region - BpLA heading for Bashtanka.",
-    "title_uk": "Миколаїв: Миколаївська область - BpLA курс на Баштанку.",
-    "description": "Mykolayiv region - BpLA heading for Bashtanka.",
-    "description_en": "Mykolayiv region - BpLA heading for Bashtanka.",
-    "description_uk": "Миколаївщина - БпЛА курсом на Баштанку.",
-    "time": "",
-    "pubDate": "2026-04-25T16:09:06+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60753",
-    "score": 6.0,
-    "views": 59537,
-    "forwards": 1
-  },
-  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -338,8 +266,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190216",
     "score": 4.5,
-    "views": 152251,
-    "forwards": 400
+    "views": 165234,
+    "forwards": 412
   },
   {
     "title": "Azerbaijan handed over five passenger buses to Ukraine to support...",
@@ -356,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8895",
     "score": 8.5,
-    "views": 782,
+    "views": 822,
     "forwards": 11
   },
   {
@@ -374,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18791",
     "score": 4.0,
-    "views": 66031,
-    "forwards": 80
+    "views": 70728,
+    "forwards": 83
   },
   {
     "title": "Zaporizhzhia: Fast target for Zaporozhye/Dnipro!",
@@ -396,24 +324,6 @@
     "forwards": 71
   },
   {
-    "title": "Evacuation ordered",
-    "title_en": "Evacuation ordered",
-    "title_uk": "Наказано евакуацію",
-    "description": "The Commander-in-Chief of the Armed Forces of Ukraine, General Oleksandr Syrskyi, ordered group commanders and corps commanders to check the organization of logistical support for servicemen performing tasks on the front line of defense by May 20. And also take all measures to provide means of transport, evacuation, ground robotic complexes and other equipment.",
-    "description_en": "The Commander-in-Chief of the Armed Forces of Ukraine, General Oleksandr Syrskyi, ordered group commanders and corps commanders to check the organization of logistical support for servicemen performing tasks on the front line of defense by May 20. And also take all measures to provide means of transport, evacuation, ground robotic complexes and other equipment.",
-    "description_uk": "Головнокомандувач Збройних Сил України генерал Олександр Сирський наказав командувачам угруповань і командирам корпусів до 20 травня перевірити організацію логістичного забезпечення військовослужбовців, які виконують завдання на передньому краї оборони. А також вжити всіх заходів для забезпечення засобами підвозу, евакуації, наземними роботизованими комплексами та іншим обладнанням.",
-    "time": "",
-    "pubDate": "2026-04-25T14:03:16+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37768",
-    "score": 5.5,
-    "views": 10477,
-    "forwards": 63
-  },
-  {
     "title": "Dnipro: Energy infrastructure hit",
     "title_en": "Dnipro: Energy infrastructure hit",
     "title_uk": "Дніпро: удар по енергетичній інфраструктурі",
@@ -428,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18790",
     "score": 18.0,
-    "views": 94800,
-    "forwards": 128
+    "views": 100688,
+    "forwards": 129
   },
   {
     "title": "650 drones launched",
@@ -446,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8890",
     "score": 13.0,
-    "views": 793,
+    "views": 808,
     "forwards": 3
   }
 ]
