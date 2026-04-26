@@ -1,5 +1,23 @@
 [
   {
+    "title": "BpLA in the district. Pavlograd.",
+    "title_en": "BpLA in the district. Pavlograd.",
+    "title_uk": "BpLA в окрузі. Павлоград.",
+    "description": "BpLA in the district. Pavlograd.",
+    "description_en": "BpLA in the district. Pavlograd.",
+    "description_uk": "БпЛА в р-ні. Павлограду.",
+    "time": "",
+    "pubDate": "2026-04-26T20:07:17+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60810",
+    "score": 5.0,
+    "views": 24289,
+    "forwards": 1
+  },
+  {
     "title": "Power outage reported",
     "title_en": "Power outage reported",
     "title_uk": "Повідомлено про відключення електроенергії",
@@ -14,8 +32,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190290",
     "score": 3.5,
-    "views": 17281,
-    "forwards": 36
+    "views": 47910,
+    "forwards": 38
   },
   {
     "title": "Energodar: Shelling",
@@ -32,8 +50,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18802",
     "score": 8.0,
-    "views": 28991,
-    "forwards": 74
+    "views": 34432,
+    "forwards": 90
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -50,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60806",
     "score": 5.0,
-    "views": 68916,
+    "views": 83765,
     "forwards": 11
   },
   {
@@ -68,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52765",
     "score": 8.0,
-    "views": 920,
-    "forwards": 3
+    "views": 1150,
+    "forwards": 4
   },
   {
     "title": "🤩 Beautiful: a video of night flights over the Yaroslavl Refinery in...",
@@ -86,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190281",
     "score": 4.5,
-    "views": 108877,
-    "forwards": 146
+    "views": 119796,
+    "forwards": 180
   },
   {
     "title": "Energy infrastructure hit",
@@ -104,7 +122,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18799",
     "score": 5.5,
-    "views": 108794,
+    "views": 113940,
     "forwards": 181
   },
   {
@@ -194,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8902",
     "score": 3.5,
-    "views": 610,
+    "views": 627,
     "forwards": 6
   },
   {
@@ -338,8 +356,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37806",
     "score": 5.5,
-    "views": 53182,
-    "forwards": 203
+    "views": 53978,
+    "forwards": 204
   },
   {
     "title": "Dnipro: BpLA in the direction of Dnipro from the south.",
@@ -410,8 +428,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8901",
     "score": 5.0,
-    "views": 10820,
-    "forwards": 40
+    "views": 11416,
+    "forwards": 41
   },
   {
     "title": "Donetsk: Drone incoming",
@@ -430,23 +448,5 @@
     "score": 13.0,
     "views": 5572,
     "forwards": 15
-  },
-  {
-    "title": "Crimea: Drone strike",
-    "title_en": "Crimea: Drone strike",
-    "title_uk": "Крим: удар безпілотника",
-    "description": "Fire reported at Yaroslavl oil refinery as Ukrainian drones strike several Russian regions, target occupied Crimea. A fire is burning at an oil refinery in the Russian city of Yaroslavl as Ukrainian drones attacked several Russian regions and occupied Crimea overnight on April 26, authorities and social media channels reported.",
-    "description_en": "Fire reported at Yaroslavl oil refinery as Ukrainian drones strike several Russian regions, target occupied Crimea. A fire is burning at an oil refinery in the Russian city of Yaroslavl as Ukrainian drones attacked several Russian regions and occupied Crimea overnight on April 26, authorities and social media channels reported.",
-    "description_uk": "Fire reported at Yaroslavl oil refinery as Ukrainian drones strike several Russian regions, target occupied Crimea. A fire is burning at an oil refinery in the Russian city of Yaroslavl as Ukrainian drones attacked several Russian regions and occupied Crimea overnight on April 26, authorities and social media channels reported.",
-    "time": "",
-    "pubDate": "2026-04-26T00:55:13+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Crimea",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52753",
-    "score": 8.0,
-    "views": 1607,
-    "forwards": 2
   }
 ]
