@@ -1,5 +1,23 @@
 [
   {
+    "title": "Power outage reported",
+    "title_en": "Power outage reported",
+    "title_uk": "Повідомлено про відключення електроенергії",
+    "description": "🤬 Another blackout occurred at the Zaporozhye NPP on the anniversary of the accident at the Chernobyl NPP, - Energoatom Station had 19 backup diesel generators working for about one and a half hours. This is already the 15th case of loss of external power since the occupation of ZAES.",
+    "description_en": "🤬 Another blackout occurred at the Zaporozhye NPP on the anniversary of the accident at the Chernobyl NPP, - Energoatom Station had 19 backup diesel generators working for about one and a half hours. This is already the 15th case of loss of external power since the occupation of ZAES.",
+    "description_uk": "🤬 На Запорожской АЭС в годовщину аварии на ЧАЭС произошел очередной блекаут, - Энергоатом Станция около полутора часов работала от 19 резервных дизельгенераторов. Это уже 15-й случай потери внешнего питания с момента оккупации ЗАЭС.",
+    "time": "",
+    "pubDate": "2026-04-26T19:45:46+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190290",
+    "score": 3.5,
+    "views": 17281,
+    "forwards": 36
+  },
+  {
     "title": "Energodar: Shelling",
     "title_en": "Energodar: Shelling",
     "title_uk": "Енергодар: Обстріл",
@@ -14,8 +32,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18802",
     "score": 8.0,
-    "views": 14652,
-    "forwards": 57
+    "views": 28991,
+    "forwards": 74
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60806",
     "score": 5.0,
-    "views": 48159,
+    "views": 68916,
     "forwards": 11
   },
   {
@@ -50,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52765",
     "score": 8.0,
-    "views": 626,
+    "views": 920,
     "forwards": 3
   },
   {
@@ -68,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190281",
     "score": 4.5,
-    "views": 90343,
-    "forwards": 144
+    "views": 108877,
+    "forwards": 146
   },
   {
     "title": "Energy infrastructure hit",
@@ -86,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18799",
     "score": 5.5,
-    "views": 98301,
-    "forwards": 176
+    "views": 108794,
+    "forwards": 181
   },
   {
     "title": "The liquidators of the accident at the Chernobyl nuclear power plant...",
@@ -140,7 +158,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60801",
     "score": 6.0,
-    "views": 109477,
+    "views": 116036,
     "forwards": 1
   },
   {
@@ -176,7 +194,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8902",
     "score": 3.5,
-    "views": 585,
+    "views": 610,
     "forwards": 6
   },
   {
@@ -320,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37806",
     "score": 5.5,
-    "views": 51801,
+    "views": 53182,
     "forwards": 203
   },
   {
@@ -392,26 +410,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8901",
     "score": 5.0,
-    "views": 9954,
-    "forwards": 39
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на східному...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-04-26T07:31:00+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60791",
-    "score": 5.0,
-    "views": 47539,
-    "forwards": 1
+    "views": 10820,
+    "forwards": 40
   },
   {
     "title": "Donetsk: Drone incoming",
