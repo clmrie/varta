@@ -1,5 +1,59 @@
 [
   {
+    "title": "Missile attack",
+    "title_en": "Missile attack",
+    "title_uk": "Ракетна атака",
+    "description": "The General Staff confirmed the attack on the Yaroslavsky Refinery, there is a fire at the facility 🔥 Also, two military echelons of the invaders in the Donetsk region were covered. Hits by the Kasta-2E1 radar in Melitopol and the Pantsir-S1 air defense missile system in Mariupol were confirmed.",
+    "description_en": "The General Staff confirmed the attack on the Yaroslavsky Refinery, there is a fire at the facility 🔥 Also, two military echelons of the invaders in the Donetsk region were covered. Hits by the Kasta-2E1 radar in Melitopol and the Pantsir-S1 air defense missile system in Mariupol were confirmed.",
+    "description_uk": "В Генштабе потвердили удар по НПЗ \"Ярославский\", на объекте сейчас пожар🔥 Также накрыты два военных эшелона оккупантов в Донецкой области. Подтверждены попадания по РЛС \"Каста-2Е1\" в Мелитополе и ЗРПК \"Панцирь-С1\" в Мариуполе.",
+    "time": "",
+    "pubDate": "2026-04-26T09:35:58+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Melitopol",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190248",
+    "score": 4.0,
+    "views": 18196,
+    "forwards": 35
+  },
+  {
+    "title": "Two military echelons, the Yaroslavsky Refinery and the enemy's air...",
+    "title_en": "Two military echelons, the Yaroslavsky Refinery and the enemy's air...",
+    "title_uk": "Два військових ешелони, Ярославський НПЗ і повітря противника...",
+    "description": "Two military echelons, the Yaroslavsky Refinery and the enemy's air defense facilities were hit ⚡️During April 25 and on the night of April 26, 2026, units of the Defense Forces of Ukraine inflicted a number of hits on the enemy on the territory of the Russian Federation and the TOT of Ukraine. ⚡️In particular, the oil refinery \"Yaroslavl\" in the city of Yaroslavl (Russian Federation) was affected, where a fire was recorded on the territory of the enterprise. Refinery \"Yaroslavl\" is strategically important...",
+    "description_en": "Two military echelons, the Yaroslavsky Refinery and the enemy's air defense facilities were hit ⚡️During April 25 and on the night of April 26, 2026, units of the Defense Forces of Ukraine inflicted a number of hits on the enemy on the territory of the Russian Federation and the TOT of Ukraine. ⚡️In particular, the oil refinery \"Yaroslavl\" in the city of Yaroslavl (Russian Federation) was affected, where a fire was recorded on the territory of the enterprise. Refinery \"Yaroslavl\" is strategically important...",
+    "description_uk": "Уражено два військових ешелони, НПЗ \"Ярославський\" та об'єкти ППО ворога ⚡️Упродовж 25 квітня та в ніч на 26 квітня 2026 року підрозділи Сил оборони України завдали низки уражень по противнику на території рф та ТОТ України. ⚡️Зокрема, уражено нафтопереробний завод \"Ярославльський\" у місті Ярославль (рф), де зафіксовано пожежу на території підприємства. НПЗ \"Ярославльський\" – стратегічно важливе...",
+    "time": "",
+    "pubDate": "2026-04-26T09:05:01+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37806",
+    "score": 4.5,
+    "views": 8726,
+    "forwards": 120
+  },
+  {
+    "title": "Dnipro: BpLA in the direction of Dnipro from the south.",
+    "title_en": "Dnipro: BpLA in the direction of Dnipro from the south.",
+    "title_uk": "Дніпро: БпЛА в напрямку Дніпра з півд.",
+    "description": "BpLA in the direction of Dnipro from the south.",
+    "description_en": "BpLA in the direction of Dnipro from the south.",
+    "description_uk": "БпЛА в напрямку м.Дніпро з півдня.",
+    "time": "",
+    "pubDate": "2026-04-26T09:01:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60795",
+    "score": 6.0,
+    "views": 30596,
+    "forwards": 33
+  },
+  {
     "title": "Kryvyi Rih: BpLA in the direction of the city of Kryvyi Rih from Sodu.",
     "title_en": "Kryvyi Rih: BpLA in the direction of the city of Kryvyi Rih from Sodu.",
     "title_uk": "Кривий Ріг: БпЛА в напрямку м. Кривий Ріг від Соду.",
@@ -14,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60794",
     "score": 6.0,
-    "views": 2003,
+    "views": 36074,
     "forwards": 1
   },
   {
@@ -32,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52755",
     "score": 18.0,
-    "views": 240,
-    "forwards": 2
+    "views": 614,
+    "forwards": 3
   },
   {
     "title": "Minister Andriy Sybiga: \"We condemn the shooting at the dinner of the...",
@@ -50,8 +104,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8901",
     "score": 5.0,
-    "views": 1706,
-    "forwards": 8
+    "views": 2470,
+    "forwards": 10
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
@@ -86,7 +140,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8900",
     "score": 4.0,
-    "views": 470,
+    "views": 582,
     "forwards": 4
   },
   {
@@ -122,8 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37800",
     "score": 13.0,
-    "views": 4239,
-    "forwards": 9
+    "views": 4710,
+    "forwards": 12
   },
   {
     "title": "BpLA over Kryvyi Rih!",
@@ -176,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52754",
     "score": 5.0,
-    "views": 1732,
+    "views": 1891,
     "forwards": 8
   },
   {
@@ -234,42 +288,6 @@
     "forwards": 2
   },
   {
-    "title": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
-    "title_en": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
-    "title_uk": "Запоріжжя: Запоріжжя – БпЛА в напрямку м.",
-    "description": "Zaporizhzhia - BpLA in the direction of the city.",
-    "description_en": "Zaporizhzhia - BpLA in the direction of the city.",
-    "description_uk": "Запоріжжя - БпЛА в напрямку міста.",
-    "time": "",
-    "pubDate": "2026-04-25T21:41:06+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60768",
-    "score": 6.0,
-    "views": 19954,
-    "forwards": 11
-  },
-  {
-    "title": "Chernihiv: Chernihiv region - BpLA near the n.p. Borzna, in the western...",
-    "title_en": "Chernihiv: Chernihiv region - BpLA near the n.p. Borzna, in the western...",
-    "title_uk": "Чернігів: Чернігівська обл.- БпЛА біля н.п. Борзна, в західній...",
-    "description": "Chernihiv region - BpLA near the n.p. Borzna, in the western direction.",
-    "description_en": "Chernihiv region - BpLA near the n.p. Borzna, in the western direction.",
-    "description_uk": "Чернігівщина - БпЛА повз н.п. Борзна, в західному напрямку.",
-    "time": "",
-    "pubDate": "2026-04-25T21:38:57+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60767",
-    "score": 6.0,
-    "views": 21141,
-    "forwards": 1
-  },
-  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -320,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18791",
     "score": 4.0,
-    "views": 80325,
+    "views": 81836,
     "forwards": 84
   },
   {
@@ -356,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18790",
     "score": 18.0,
-    "views": 108613,
+    "views": 109700,
     "forwards": 129
   }
 ]
