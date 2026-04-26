@@ -1,20 +1,38 @@
 [
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A group of UAVs from the waters of the Black Sea ➡️ heading for Odesa (Olexandrivka, Chornomorsk, Velikodolynske)",
-    "description_en": "A group of UAVs from the waters of the Black Sea ➡️ heading for Odesa (Olexandrivka, Chornomorsk, Velikodolynske)",
-    "description_uk": "Група БпЛА з акваторії Чорного моря ➡️ курсом на Одещину (Олександрівка, Чорноморськ, Великодолинське)",
+    "title": "A group of UAVs to Odesa from the waters of the Black Sea (Lymanka,...",
+    "title_en": "A group of UAVs to Odesa from the waters of the Black Sea (Lymanka,...",
+    "title_uk": "Група БПЛА до Одеси з акваторії Чорного моря (Лиманка,...",
+    "description": "A group of UAVs to Odesa from the waters of the Black Sea (Lymanka, Chornomorsk, Ovidiopol)",
+    "description_en": "A group of UAVs to Odesa from the waters of the Black Sea (Lymanka, Chornomorsk, Ovidiopol)",
+    "description_uk": "Група БпЛА на Одещину з акваторії Чорного моря (Лиманка, Чорноморськ, Овідіополь)",
     "time": "",
-    "pubDate": "2026-04-25T23:24:53+00:00",
+    "pubDate": "2026-04-26T00:06:39+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Odesa",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60772",
+    "link": "https://t.me/kpszsu/60776",
     "score": 5.0,
-    "views": 4054,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на східному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-04-26T00:00:34+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60774",
+    "score": 5.0,
+    "views": 5475,
     "forwards": 1
   },
   {
@@ -162,24 +180,6 @@
     "forwards": 35
   },
   {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на східному...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-04-25T17:53:22+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60756",
-    "score": 5.0,
-    "views": 40399,
-    "forwards": 1
-  },
-  {
     "title": "Mykolaiv: BpLA to the Mykolayiv region from the south.",
     "title_en": "Mykolaiv: BpLA to the Mykolayiv region from the south.",
     "title_uk": "Миколаїв: БпЛА до Миколаївської області з півд.",
@@ -212,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52749",
     "score": 7.5,
-    "views": 1932,
+    "views": 1969,
     "forwards": 6
   },
   {
@@ -252,6 +252,24 @@
     "forwards": 1
   },
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "😱 Soldiers of the Ukrainian Armed Forces evacuated a 77-year-old woman from the \"gray zone\" with the help of a ground robot. She was noticed by drone operators of the 60th brigade in the Limansk direction - the woman was walking along a shot road among sinkholes and bodies of the dead. In order not to scare her, the robot was covered with a blanket with the inscription \"Grandma, sit down.\" The woman sat down and was taken to a safe place. Three more civilian drones were escorted to the point...",
+    "description_en": "😱 Soldiers of the Ukrainian Armed Forces evacuated a 77-year-old woman from the \"gray zone\" with the help of a ground robot. She was noticed by drone operators of the 60th brigade in the Limansk direction - the woman was walking along a shot road among sinkholes and bodies of the dead. In order not to scare her, the robot was covered with a blanket with the inscription \"Grandma, sit down.\" The woman sat down and was taken to a safe place. Three more civilian drones were escorted to the point...",
+    "description_uk": "😱 Бойцы ВСУ эвакуировали 77-летнюю женщину из \"серой зоны\" с помощью наземного робота Ее заметили операторы дронов 60-й бригады на Лиманском направлении - женщина шла по простреливаемой дороге среди воронок и тел погибших. Чтобы не напугать ее, робот накрыли одеялом с надписью \"Бабушка, садись\". Женщина села, и ее вывезли в безопасное место. Еще троих гражданских дроны сопроводили до точки...",
+    "time": "",
+    "pubDate": "2026-04-25T15:40:25+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190216",
+    "score": 4.5,
+    "views": 142449,
+    "forwards": 384
+  },
+  {
     "title": "Azerbaijan handed over five passenger buses to Ukraine to support...",
     "title_en": "Azerbaijan handed over five passenger buses to Ukraine to support...",
     "title_uk": "Азербайджан передав Україні п'ять пасажирських автобусів для підтримки...",
@@ -266,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8895",
     "score": 8.5,
-    "views": 763,
+    "views": 765,
     "forwards": 11
   },
   {
@@ -302,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18791",
     "score": 4.0,
-    "views": 62530,
+    "views": 62939,
     "forwards": 78
   },
   {
@@ -356,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37768",
     "score": 5.5,
-    "views": 9849,
+    "views": 9904,
     "forwards": 62
   },
   {
@@ -374,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18790",
     "score": 18.0,
-    "views": 90259,
+    "views": 90684,
     "forwards": 128
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 45508,
     "forwards": 1
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "The Pentagon simulated a \"Ukrainian\" drone attack in Florida and realized that the US defense is holey, Defense One writes. During the study, it became clear that despite billions of investments, the American UAV countermeasures systems were insufficiently effective against a massive attack by cheap drones. Now the USA is urgently changing its approach: it combines data from different systems into a single network, revises...",
-    "description_en": "The Pentagon simulated a \"Ukrainian\" drone attack in Florida and realized that the US defense is holey, Defense One writes. During the study, it became clear that despite billions of investments, the American UAV countermeasures systems were insufficiently effective against a massive attack by cheap drones. Now the USA is urgently changing its approach: it combines data from different systems into a single network, revises...",
-    "description_uk": "Пентагон смоделировал во Флориде «украинскую» атаку дронов и понял, что защита США — дырявая, пишет Defense One Во время учений выяснилось, что несмотря на миллиардные вложения, американские системы противодействия БпЛА оказались недостаточно эффективными против массированной атаки дешевых дронов. Теперь США срочно меняют подход: объединяют данные разных систем в единую сеть, пересматривают...",
-    "time": "",
-    "pubDate": "2026-04-25T12:50:01+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190203",
-    "score": 8.5,
-    "views": 69232,
-    "forwards": 155
   }
 ]
