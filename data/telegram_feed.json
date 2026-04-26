@@ -1,5 +1,23 @@
 [
   {
+    "title": "Odesa: Drone incoming",
+    "title_en": "Odesa: Drone incoming",
+    "title_uk": "Одеса: Дрон вхід",
+    "description": "Enemy UAVs in the direction of Odesa/Black Sea from the Black Sea.",
+    "description_en": "Enemy UAVs in the direction of Odesa/Black Sea from the Black Sea.",
+    "description_uk": "Ворожі БпЛА у напрямку Одеса/Чорноморське з Чорного моря.",
+    "time": "",
+    "pubDate": "2026-04-26T21:41:29+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60811",
+    "score": 6.0,
+    "views": 10579,
+    "forwards": 7
+  },
+  {
     "title": "BpLA in the district. Pavlograd.",
     "title_en": "BpLA in the district. Pavlograd.",
     "title_uk": "BpLA в окрузі. Павлоград.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60810",
     "score": 5.0,
-    "views": 35730,
+    "views": 44304,
     "forwards": 22
   },
   {
@@ -32,7 +50,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190290",
     "score": 3.5,
-    "views": 63417,
+    "views": 72129,
     "forwards": 38
   },
   {
@@ -50,8 +68,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18802",
     "score": 8.0,
-    "views": 37555,
-    "forwards": 92
+    "views": 39397,
+    "forwards": 94
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -86,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52765",
     "score": 8.0,
-    "views": 1305,
-    "forwards": 4
+    "views": 1426,
+    "forwards": 5
   },
   {
     "title": "🤩 Beautiful: a video of night flights over the Yaroslavl Refinery in...",
@@ -104,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190281",
     "score": 4.5,
-    "views": 126483,
-    "forwards": 180
+    "views": 130819,
+    "forwards": 194
   },
   {
     "title": "Energy infrastructure hit",
@@ -122,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18799",
     "score": 5.5,
-    "views": 117111,
-    "forwards": 186
+    "views": 118877,
+    "forwards": 187
   },
   {
     "title": "The liquidators of the accident at the Chernobyl nuclear power plant...",
@@ -212,7 +230,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8902",
     "score": 3.5,
-    "views": 643,
+    "views": 648,
     "forwards": 6
   },
   {
@@ -306,42 +324,6 @@
     "forwards": 22
   },
   {
-    "title": "I am glad to welcome the President of Moldova, Maya Sanda, to...",
-    "title_en": "I am glad to welcome the President of Moldova, Maya Sanda, to...",
-    "title_uk": "Я радий вітати Президента Молдови Майю Санду в...",
-    "description": "I am glad to welcome the President of Moldova, Maya Sanda, to Ukraine. We appreciate this visit on such a special day, when we remember the accident at the Chernobyl station and the colossal solidarity and self-sacrifice of our people, which made it possible to protect our country and our entire region, our entire Europe and the world from an even greater radiation disaster. Today, Maya and I paid key attention to security issues, our...",
-    "description_en": "I am glad to welcome the President of Moldova, Maya Sanda, to Ukraine. We appreciate this visit on such a special day, when we remember the accident at the Chernobyl station and the colossal solidarity and self-sacrifice of our people, which made it possible to protect our country and our entire region, our entire Europe and the world from an even greater radiation disaster. Today, Maya and I paid key attention to security issues, our...",
-    "description_uk": "Радий вітати в Україні Президентку Молдови Маю Санду. Цінуємо цей візит у такий особливий день, коли ми згадуємо аварію на Чорнобильській станції і ту колосальну солідарність та самовідданість наших людей, яка дозволила захистити нашу країну й увесь наш регіон, всю нашу Європу та світ від іще більшої радіаційної катастрофи. Сьогодні ми з Маєю приділили ключову увагу питанням безпеки, нашої...",
-    "time": "",
-    "pubDate": "2026-04-26T10:01:37+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18793",
-    "score": 4.0,
-    "views": 91332,
-    "forwards": 188
-  },
-  {
-    "title": "Missile attack",
-    "title_en": "Missile attack",
-    "title_uk": "Ракетна атака",
-    "description": "The General Staff confirmed the attack on the Yaroslavsky Refinery, there is a fire at the facility 🔥 Also, two military echelons of the invaders in the Donetsk region were covered. Hits by the Kasta-2E1 radar in Melitopol and the Pantsir-S1 air defense missile system in Mariupol were confirmed.",
-    "description_en": "The General Staff confirmed the attack on the Yaroslavsky Refinery, there is a fire at the facility 🔥 Also, two military echelons of the invaders in the Donetsk region were covered. Hits by the Kasta-2E1 radar in Melitopol and the Pantsir-S1 air defense missile system in Mariupol were confirmed.",
-    "description_uk": "В Генштабе потвердили удар по НПЗ \"Ярославский\", на объекте сейчас пожар🔥 Также накрыты два военных эшелона оккупантов в Донецкой области. Подтверждены попадания по РЛС \"Каста-2Е1\" в Мелитополе и ЗРПК \"Панцирь-С1\" в Мариуполе.",
-    "time": "",
-    "pubDate": "2026-04-26T09:35:58+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Melitopol",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190248",
-    "score": 4.5,
-    "views": 93503,
-    "forwards": 70
-  },
-  {
     "title": "Two military echelons, the Yaroslavsky Refinery and the enemy's air...",
     "title_en": "Two military echelons, the Yaroslavsky Refinery and the enemy's air...",
     "title_uk": "Два військових ешелони, Ярославський НПЗ і повітря противника...",
@@ -356,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37806",
     "score": 5.5,
-    "views": 54458,
+    "views": 54763,
     "forwards": 204
   },
   {
@@ -392,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8901",
     "score": 5.0,
-    "views": 11779,
+    "views": 12035,
     "forwards": 41
   },
   {
