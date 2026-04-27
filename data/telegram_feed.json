@@ -1,5 +1,41 @@
 [
   {
+    "title": "Poltava: BpLA in the direction of the city of Poltava from the north.",
+    "title_en": "Poltava: BpLA in the direction of the city of Poltava from the north.",
+    "title_uk": "Полтава: БпЛА в напрямку м. Полтава з пн.",
+    "description": "BpLA in the direction of the city of Poltava from the north.",
+    "description_en": "BpLA in the direction of the city of Poltava from the north.",
+    "description_uk": "БпЛА в напрямку м.Полтава з півночі.",
+    "time": "",
+    "pubDate": "2026-04-27T02:50:21+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60822",
+    "score": 6.0,
+    "views": 31394,
+    "forwards": 1
+  },
+  {
+    "title": "BpLA from Sumy Oblast heading for Poltava Oblast.",
+    "title_en": "BpLA from Sumy Oblast heading for Poltava Oblast.",
+    "title_uk": "BpLA із Сумської області прямує до Полтавської області.",
+    "description": "BpLA from Sumy Oblast heading for Poltava Oblast.",
+    "description_en": "BpLA from Sumy Oblast heading for Poltava Oblast.",
+    "description_uk": "БпЛА з Сумщини курсом на Полтавщину.",
+    "time": "",
+    "pubDate": "2026-04-27T02:34:37+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60820",
+    "score": 5.0,
+    "views": 34839,
+    "forwards": 1
+  },
+  {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
     "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
     "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
@@ -32,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52769",
     "score": 14.0,
-    "views": 204,
-    "forwards": 1
+    "views": 833,
+    "forwards": 2
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52767",
     "score": 11.0,
-    "views": 647,
+    "views": 1148,
     "forwards": 3
   },
   {
@@ -104,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190290",
     "score": 4.0,
-    "views": 84536,
-    "forwards": 65
+    "views": 124101,
+    "forwards": 72
   },
   {
     "title": "Energodar: Shelling",
@@ -122,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18802",
     "score": 8.0,
-    "views": 42552,
-    "forwards": 95
+    "views": 50526,
+    "forwards": 101
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -176,8 +212,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190281",
     "score": 4.5,
-    "views": 137724,
-    "forwards": 194
+    "views": 156435,
+    "forwards": 195
   },
   {
     "title": "Energy infrastructure hit",
@@ -194,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18799",
     "score": 5.5,
-    "views": 121830,
-    "forwards": 187
+    "views": 132264,
+    "forwards": 189
   },
   {
     "title": "The liquidators of the accident at the Chernobyl nuclear power plant...",
@@ -216,60 +252,6 @@
     "forwards": 176
   },
   {
-    "title": "Kyiv: Explosions reported",
-    "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
-    "description": "On the 40 year anniversary, here are 5 books to better understand Chornobyl nuclear disaster On April 26, 1986, the explosion at Reactor No. 4 of the Chornobyl Nuclear Power Plant forever changed the lives of millions in Ukraine, Belarus, and Russia. To mark the somber forty year anniversary since the Chornobyl nuclear disaster, the Kyiv Independent presents five books that illuminate the lived...",
-    "description_en": "On the 40 year anniversary, here are 5 books to better understand Chornobyl nuclear disaster On April 26, 1986, the explosion at Reactor No. 4 of the Chornobyl Nuclear Power Plant forever changed the lives of millions in Ukraine, Belarus, and Russia. To mark the somber forty year anniversary since the Chornobyl nuclear disaster, the Kyiv Independent presents five books that illuminate the lived...",
-    "description_uk": "On the 40 year anniversary, here are 5 books to better understand Chornobyl nuclear disaster On April 26, 1986, the explosion at Reactor No. 4 of the Chornobyl Nuclear Power Plant forever changed the lives of millions in Ukraine, Belarus, and Russia. To mark the somber forty year anniversary since the Chornobyl nuclear disaster, the Kyiv Independent presents five books that illuminate the lived...",
-    "time": "",
-    "pubDate": "2026-04-26T14:11:49+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52762",
-    "score": 8.5,
-    "views": 1485,
-    "forwards": 5
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "UAV in the north of Sumy Oblast ➡️ direction to Chernihiv Oblast.",
-    "description_en": "UAV in the north of Sumy Oblast ➡️ direction to Chernihiv Oblast.",
-    "description_uk": "БпЛА на півночі Сумщини ➡️ напрямок на Чернігівщину.",
-    "time": "",
-    "pubDate": "2026-04-26T13:33:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60801",
-    "score": 6.0,
-    "views": 116036,
-    "forwards": 1
-  },
-  {
-    "title": "Zaporizhzhia: Loss of specialists at occupied Zaporizhzhia nuclear plant \"not a...",
-    "title_en": "Zaporizhzhia: Loss of specialists at occupied Zaporizhzhia nuclear plant \"not a...",
-    "title_uk": "Запоріжжя: Втрата фахівців на окупованій Запорізькій АЕС \"не...",
-    "description": "Loss of specialists at occupied Zaporizhzhia nuclear plant \"not a major issue,\" IAEA chief says United Nations nuclear chief Rafael Grossi said that the Russian-occupied Zaporizhzhia nuclear power plant is adequately staffed for nuclear safety measures, despite a lack of licensed nuclear specialists at the site.",
-    "description_en": "Loss of specialists at occupied Zaporizhzhia nuclear plant \"not a major issue,\" IAEA chief says United Nations nuclear chief Rafael Grossi said that the Russian-occupied Zaporizhzhia nuclear power plant is adequately staffed for nuclear safety measures, despite a lack of licensed nuclear specialists at the site.",
-    "description_uk": "Loss of specialists at occupied Zaporizhzhia nuclear plant \"not a major issue,\" IAEA chief says United Nations nuclear chief Rafael Grossi said that the Russian-occupied Zaporizhzhia nuclear power plant is adequately staffed for nuclear safety measures, despite a lack of licensed nuclear specialists at the site.",
-    "time": "",
-    "pubDate": "2026-04-26T13:30:32+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52761",
-    "score": 4.5,
-    "views": 820,
-    "forwards": 1
-  },
-  {
     "title": "💬 Head of the Ministry of Foreign Affairs Andrii Sybiga: \"We thank...",
     "title_en": "💬 Head of the Ministry of Foreign Affairs Andrii Sybiga: \"We thank...",
     "title_uk": "💬 Глава МЗС Андрій Сибіга: «Дякуємо...",
@@ -284,44 +266,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8902",
     "score": 3.5,
-    "views": 660,
+    "views": 682,
     "forwards": 6
-  },
-  {
-    "title": "Kyiv: Moldovan President Sandu and Zelensky meet in Kyiv amid Chornobyl...",
-    "title_en": "Kyiv: Moldovan President Sandu and Zelensky meet in Kyiv amid Chornobyl...",
-    "title_uk": "Київ: Президент Молдови Санду і Зеленський зустрілися в Києві на тлі Чорнобильської...",
-    "description": "Moldovan President Sandu and Zelensky meet in Kyiv amid Chornobyl anniversary, discuss security in the region According to Sandu's post on X, she also plans to visit Chornobyl to honor \"those who gave their health and lives for Europe.\" \"Disasters know no borders — neither should solidarity. Moldova stands with those who build, not destroy,\" Sandu wrote.",
-    "description_en": "Moldovan President Sandu and Zelensky meet in Kyiv amid Chornobyl anniversary, discuss security in the region According to Sandu's post on X, she also plans to visit Chornobyl to honor \"those who gave their health and lives for Europe.\" \"Disasters know no borders — neither should solidarity. Moldova stands with those who build, not destroy,\" Sandu wrote.",
-    "description_uk": "Moldovan President Sandu and Zelensky meet in Kyiv amid Chornobyl anniversary, discuss security in the region According to Sandu's post on X, she also plans to visit Chornobyl to honor \"those who gave their health and lives for Europe.\" \"Disasters know no borders — neither should solidarity. Moldova stands with those who build, not destroy,\" Sandu wrote.",
-    "time": "",
-    "pubDate": "2026-04-26T13:04:39+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52760",
-    "score": 5.0,
-    "views": 413,
-    "forwards": 2
-  },
-  {
-    "title": "Drone strike",
-    "title_en": "Drone strike",
-    "title_uk": "Безпілотний удар",
-    "description": "Three warships, a fighter jet, air defense objects: the SBU struck a number of important military targets in Crimea. This night, \"Alfa\" soldiers of the SBU conducted a successful special operation at the naval base of the Black Sea Fleet of the Russian Federation in the city of Sevastopol, as well as at the Belbek military airfield. As a result of the drone strikes of the Security Service of Ukraine, the following were struck: 🔸 Large amphibious ship of the Russian Navy \"Yamal\"; 🔸 Big...",
-    "description_en": "Three warships, a fighter jet, air defense objects: the SBU struck a number of important military targets in Crimea. This night, \"Alfa\" soldiers of the SBU conducted a successful special operation at the naval base of the Black Sea Fleet of the Russian Federation in the city of Sevastopol, as well as at the Belbek military airfield. As a result of the drone strikes of the Security Service of Ukraine, the following were struck: 🔸 Large amphibious ship of the Russian Navy \"Yamal\"; 🔸 Big...",
-    "description_uk": "Три военных корабля, истребитель, объекты ПВО: СБУ нанесла удар по ряду важных военных целей в Крыму Этой ночью бойцы \"Альфы\" СБУ провели успешную спецоперацию на военно-морской базе Черноморского флота рф в г. Севастополе, а также на военном аэродроме \"Бельбек\". В результате ударов беспилотников Службы безопасности Украины были поражены: 🔸 Большой десантный корабль ВМФ рф \"Ямал\"; 🔸 Большой...",
-    "time": "",
-    "pubDate": "2026-04-26T12:32:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sevastopol",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190257",
-    "score": 5.5,
-    "views": 96094,
-    "forwards": 356
   },
   {
     "title": "Airstrike attack",
@@ -356,8 +302,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37806",
     "score": 5.5,
-    "views": 55186,
-    "forwards": 206
+    "views": 56409,
+    "forwards": 211
   },
   {
     "title": "Kyiv: 144 drones intercepted",
@@ -392,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8901",
     "score": 5.0,
-    "views": 12415,
+    "views": 12957,
     "forwards": 41
   },
   {
