@@ -1,5 +1,77 @@
 [
   {
+    "title": "Zaporizhzhia: Casualties reported",
+    "title_en": "Zaporizhzhia: Casualties reported",
+    "title_uk": "Запоріжжя: повідомляється про постраждалих",
+    "description": "Drone strike kills driver near Zaporizhzhia nuclear plant, IAEA says. “Strikes on or near nuclear power plants can endanger nuclear safety and must not take place,” IAEA Director General Rafael Grossi said.",
+    "description_en": "Drone strike kills driver near Zaporizhzhia nuclear plant, IAEA says. “Strikes on or near nuclear power plants can endanger nuclear safety and must not take place,” IAEA Director General Rafael Grossi said.",
+    "description_uk": "Drone strike kills driver near Zaporizhzhia nuclear plant, IAEA says. “Strikes on or near nuclear power plants can endanger nuclear safety and must not take place,” IAEA Director General Rafael Grossi said.",
+    "time": "",
+    "pubDate": "2026-04-27T12:08:14+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Zaporizhzhia",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52779",
+    "score": 14.5,
+    "views": 508,
+    "forwards": 0
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "Moscow, are you sleeping? At the exhibition in Poland, the Ukrainian ballistic missile FP-9 was shown, which will fly for 800-850 km. Next to it is the already known missile FP-7.",
+    "description_en": "Moscow, are you sleeping? At the exhibition in Poland, the Ukrainian ballistic missile FP-9 was shown, which will fly for 800-850 km. Next to it is the already known missile FP-7.",
+    "description_uk": "москва, спишь? На выставке в Польше показали украинскую баллистическую ракету FP-9, которая полетит на 800-850 км Рядом с ней — уже известная ракета FP-7.",
+    "time": "",
+    "pubDate": "2026-04-27T11:59:43+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190330",
+    "score": 3.5,
+    "views": 52633,
+    "forwards": 181
+  },
+  {
+    "title": "Kyiv: Ukraine to help Poland build 'modern drone armada,' Polish PM Tusk...",
+    "title_en": "Kyiv: Ukraine to help Poland build 'modern drone armada,' Polish PM Tusk...",
+    "title_uk": "Київ: Україна допоможе Польщі побудувати «сучасну армаду безпілотників», прем'єр-міністр Польщі Туск...",
+    "description": "Ukraine to help Poland build 'modern drone armada,' Polish PM Tusk says Poland is launching a new project to build a modern drone fleet with the help of Ukrainian technical expertise and European funding, Polish Prime Minister Donald Tusk announced on April 27. Tusk said that Poland's new drone fleet will strengthen both Poland's national security and that of its allies.",
+    "description_en": "Ukraine to help Poland build 'modern drone armada,' Polish PM Tusk says Poland is launching a new project to build a modern drone fleet with the help of Ukrainian technical expertise and European funding, Polish Prime Minister Donald Tusk announced on April 27. Tusk said that Poland's new drone fleet will strengthen both Poland's national security and that of its allies.",
+    "description_uk": "Ukraine to help Poland build 'modern drone armada,' Polish PM Tusk says Poland is launching a new project to build a modern drone fleet with the help of Ukrainian technical expertise and European funding, Polish Prime Minister Donald Tusk announced on April 27. Tusk said that Poland's new drone fleet will strengthen both Poland's national security and that of its allies.",
+    "time": "",
+    "pubDate": "2026-04-27T11:59:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52778",
+    "score": 9.0,
+    "views": 592,
+    "forwards": 1
+  },
+  {
+    "title": "⛰ The work of the company of the 2nd GSHB 128th OGSHBr shock unmanned...",
+    "title_en": "⛰ The work of the company of the 2nd GSHB 128th OGSHBr shock unmanned...",
+    "title_uk": "⛰ Робота роти 2-го ГШБ 128-ї ОГШБр ударної безпілотної...",
+    "description": "⛰ The work of the company of the 2nd GSHB 128th OGSHBr shock unmanned aircraft complex ☠️ Katsaps continue to lose personnel, EW systems, automotive equipment, motorcycles, shelters and other property. 📍 Location — Stepove. Map🛑Blog🛑Write to us🛑ZSUHelp🛑Shop🛑Donate",
+    "description_en": "⛰ The work of the company of the 2nd GSHB 128th OGSHBr shock unmanned aircraft complex ☠️ Katsaps continue to lose personnel, EW systems, automotive equipment, motorcycles, shelters and other property. 📍 Location — Stepove. Map🛑Blog🛑Write to us🛑ZSUHelp🛑Shop🛑Donate",
+    "description_uk": "⛰ Робота роти ударних безпілотних авіаційних комплексів 2 ГШБ 128 ОГШБр ☠️ Кацапи продовжують втрачати особовий склад, системи РЕБ, автомобільну техніку, мотоцикли, укриття та інше майно. 📍 Локація — Степове. Мапа🛑Блог🛑Написати нам🛑 ЗСУHelp🛑Магазин🛑Донат",
+    "time": "",
+    "pubDate": "2026-04-27T11:50:51+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23445",
+    "score": 5.0,
+    "views": 42770,
+    "forwards": 34
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -14,8 +86,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60837",
     "score": 5.0,
-    "views": 44628,
-    "forwards": 1
+    "views": 63773,
+    "forwards": 17
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -50,13 +122,13 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190324",
     "score": 3.5,
-    "views": 70665,
-    "forwards": 105
+    "views": 104411,
+    "forwards": 140
   },
   {
     "title": "Mykolaiv: The BpLA group headed for Mykolaiv from the south.",
     "title_en": "Mykolaiv: The BpLA group headed for Mykolaiv from the south.",
-    "title_uk": "Миколаїв: група БпЛА прямувала на Миколаїв з півдня.",
+    "title_uk": "Миколаїв: Група BpLA прямувала на Миколаїв з півдня.",
     "description": "The BpLA group headed for Mykolaiv from the south.",
     "description_en": "The BpLA group headed for Mykolaiv from the south.",
     "description_uk": "Група БпЛА курсом на Миколаїв з півдня.",
@@ -68,8 +140,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60836",
     "score": 6.0,
-    "views": 58150,
-    "forwards": 2
+    "views": 74275,
+    "forwards": 15
   },
   {
     "title": "60 missiles launched",
@@ -86,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18804",
     "score": 12.5,
-    "views": 57456,
-    "forwards": 139
+    "views": 72522,
+    "forwards": 154
   },
   {
     "title": "BpLA in the direction of Mykolaiv from the north.",
@@ -176,8 +248,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37839",
     "score": 13.0,
-    "views": 4066,
-    "forwards": 13
+    "views": 4332,
+    "forwards": 14
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -252,24 +324,6 @@
     "forwards": 1
   },
   {
-    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
-    "description": "BpLA on Zaporozhye from the south.",
-    "description_en": "BpLA on Zaporozhye from the south.",
-    "description_uk": "БпЛА на Запоріжжя з півдня.",
-    "time": "",
-    "pubDate": "2026-04-26T23:55:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60813",
-    "score": 6.0,
-    "views": 3312,
-    "forwards": 8
-  },
-  {
     "title": "Odesa: Drone strike",
     "title_en": "Odesa: Drone strike",
     "title_uk": "Одеса: Дрон-удар",
@@ -302,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18802",
     "score": 8.0,
-    "views": 68988,
-    "forwards": 119
+    "views": 70285,
+    "forwards": 121
   },
   {
     "title": "Crimea: Airstrike attack",
@@ -356,26 +410,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8902",
     "score": 3.5,
-    "views": 803,
+    "views": 821,
     "forwards": 7
-  },
-  {
-    "title": "Airstrike attack",
-    "title_en": "Airstrike attack",
-    "title_uk": "Авіаційна атака",
-    "description": "\"We are not a threat,\" said the gray-haired voice of a foreign country that \"didn't attack anyone.\" And this is said by the country that started the largest war in Europe since the Second World War, occupies territories and regularly fires at cities. The Kremlin mouthpiece also added that \"the architecture of the European...",
-    "description_en": "\"We are not a threat,\" said the gray-haired voice of a foreign country that \"didn't attack anyone.\" And this is said by the country that started the largest war in Europe since the Second World War, occupies territories and regularly fires at cities. The Kremlin mouthpiece also added that \"the architecture of the European...",
-    "description_uk": "\"Мы не угроза\", - заявил седовласый голос недостраны, которая \"ни на кого не нападала\" песков утверждает, что россия - \"неотъемлемая часть Европы\" и вообще не может быть для неё главной угрозой. И это говорит страна, которая развязала крупнейшую войну в Европе со времён Второй мировой, оккупирует территории и регулярно обстреливает города. Рупор кремля также добавил, что \"архитектура европейской...",
-    "time": "",
-    "pubDate": "2026-04-26T11:26:58+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190253",
-    "score": 4.5,
-    "views": 105746,
-    "forwards": 75
   },
   {
     "title": "Minister Andriy Sybiga: \"We condemn the shooting at the dinner of the...",
@@ -392,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8901",
     "score": 5.0,
-    "views": 14446,
+    "views": 14597,
     "forwards": 42
   }
 ]
