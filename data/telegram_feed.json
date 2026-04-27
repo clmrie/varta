@@ -1,5 +1,41 @@
 [
   {
+    "title": "Odesa: BpLA heading for the Black Sea.",
+    "title_en": "Odesa: BpLA heading for the Black Sea.",
+    "title_uk": "Одеса: BpLA прямує до Чорного моря.",
+    "description": "Odesa: BpLA heading for the Black Sea.",
+    "description_en": "Odesa: BpLA heading for the Black Sea.",
+    "description_uk": "Одещина: БпЛА курсом на Чорноморське.",
+    "time": "",
+    "pubDate": "2026-04-27T19:53:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60848",
+    "score": 5.0,
+    "views": 30798,
+    "forwards": 3
+  },
+  {
+    "title": "Sumyshchyna: BpLA in the direction of Lebedyn.",
+    "title_en": "Sumyshchyna: BpLA in the direction of Lebedyn.",
+    "title_uk": "Сумщина: БпЛА в напрямку Лебедин.",
+    "description": "Sumyshchyna: BpLA in the direction of Lebedyn.",
+    "description_en": "Sumyshchyna: BpLA in the direction of Lebedyn.",
+    "description_uk": "Сумщина: БпЛА в напрямку Лебедина.",
+    "time": "",
+    "pubDate": "2026-04-27T19:52:06+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60847",
+    "score": 5.0,
+    "views": 30525,
+    "forwards": 1
+  },
+  {
     "title": "Zaporizhzhia: BpLA in the direction of Zaporizhzhia from the south.",
     "title_en": "Zaporizhzhia: BpLA in the direction of Zaporizhzhia from the south.",
     "title_uk": "Запоріжжя: БпЛА в напрямку Запоріжжя з півд.",
@@ -32,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190360",
     "score": 8.5,
-    "views": 50964,
-    "forwards": 75
+    "views": 76213,
+    "forwards": 114
   },
   {
     "title": "KAB in the direction of Sumy region.",
@@ -68,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190355",
     "score": 4.5,
-    "views": 94934,
-    "forwards": 215
+    "views": 109290,
+    "forwards": 250
   },
   {
     "title": "BpLA ➡️ in the direction of Mykolaiv from the west.",
@@ -122,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52783",
     "score": 5.0,
-    "views": 1588,
-    "forwards": 2
+    "views": 1720,
+    "forwards": 3
   },
   {
     "title": "Kherson: A group of BpLA headed for Kherson.",
@@ -176,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52781",
     "score": 9.0,
-    "views": 1762,
+    "views": 1871,
     "forwards": 2
   },
   {
@@ -284,7 +320,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23445",
     "score": 5.5,
-    "views": 104201,
+    "views": 107025,
     "forwards": 62
   },
   {
@@ -374,8 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18804",
     "score": 12.5,
-    "views": 115736,
-    "forwards": 178
+    "views": 117718,
+    "forwards": 183
   },
   {
     "title": "BpLA in the direction of Mykolaiv from the north.",
@@ -412,41 +448,5 @@
     "score": 6.0,
     "views": 1141,
     "forwards": 3
-  },
-  {
-    "title": "Kyiv: 94 drones intercepted",
-    "title_en": "Kyiv: 94 drones intercepted",
-    "title_uk": "Київ: перехоплено 94 дрони",
-    "description": "At least 4 killed, 26 injured in Russian attacks on Ukraine over past day. Russia launched 94 drones at Ukraine overnight, the Air Force said, adding that air defenses intercepted 74, while 20 strikes were recorded across 15 locations.",
-    "description_en": "At least 4 killed, 26 injured in Russian attacks on Ukraine over past day. Russia launched 94 drones at Ukraine overnight, the Air Force said, adding that air defenses intercepted 74, while 20 strikes were recorded across 15 locations.",
-    "description_uk": "At least 4 killed, 26 injured in Russian attacks on Ukraine over past day. Russia launched 94 drones at Ukraine overnight, the Air Force said, adding that air defenses intercepted 74, while 20 strikes were recorded across 15 locations.",
-    "time": "",
-    "pubDate": "2026-04-27T08:28:18+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52773",
-    "score": 18.0,
-    "views": 416,
-    "forwards": 1
-  },
-  {
-    "title": "BpLA in the direction of Poltava from the north.",
-    "title_en": "BpLA in the direction of Poltava from the north.",
-    "title_uk": "БпЛА в напрямку Полтави з півн.",
-    "description": "BpLA in the direction of Poltava from the north.",
-    "description_en": "BpLA in the direction of Poltava from the north.",
-    "description_uk": "БпЛА у напрямку Полтави з півночі.",
-    "time": "",
-    "pubDate": "2026-04-27T08:17:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60831",
-    "score": 5.0,
-    "views": 44408,
-    "forwards": 36
   }
 ]
