@@ -1,5 +1,23 @@
 [
   {
+    "title": "Zaporizhzhia: A group of BpLA headed for Zaporizhzhia. 🛵 BpLA in the direction of...",
+    "title_en": "Zaporizhzhia: A group of BpLA headed for Zaporizhzhia. 🛵 BpLA in the direction of...",
+    "title_uk": "Запоріжжя: група BpLA прямувала на Запоріжжя. 🛵 BpLA в напрямку...",
+    "description": "A group of BpLA headed for Zaporizhzhia. 🛵 BpLA in the direction of Kryvyi Rih.",
+    "description_en": "A group of BpLA headed for Zaporizhzhia. 🛵 BpLA in the direction of Kryvyi Rih.",
+    "description_uk": "Група БпЛА курсом на Запоріжжя. 🛵 БпЛА в напрямку Кривого Рогу.",
+    "time": "",
+    "pubDate": "2026-04-27T22:32:50+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60850",
+    "score": 6.0,
+    "views": 14003,
+    "forwards": 12
+  },
+  {
     "title": "Sumy: A group of BpLA headed for Sumy.",
     "title_en": "Sumy: A group of BpLA headed for Sumy.",
     "title_uk": "Суми: Група БПЛА прямувала на Суми.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60849",
     "score": 6.0,
-    "views": 22140,
+    "views": 31351,
     "forwards": 1
   },
   {
@@ -86,7 +104,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190360",
     "score": 8.5,
-    "views": 94754,
+    "views": 99156,
     "forwards": 128
   },
   {
@@ -122,7 +140,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190355",
     "score": 4.5,
-    "views": 121919,
+    "views": 124952,
     "forwards": 275
   },
   {
@@ -176,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52783",
     "score": 5.0,
-    "views": 1880,
+    "views": 1941,
     "forwards": 3
   },
   {
@@ -230,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52781",
     "score": 9.0,
-    "views": 2002,
+    "views": 2058,
     "forwards": 2
   },
   {
@@ -338,7 +356,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23445",
     "score": 5.5,
-    "views": 109618,
+    "views": 110285,
     "forwards": 64
   },
   {
@@ -374,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18804",
     "score": 12.5,
-    "views": 119341,
-    "forwards": 185
+    "views": 119738,
+    "forwards": 186
   },
   {
     "title": "Odesa: 14 injured",
@@ -410,8 +428,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18802",
     "score": 8.0,
-    "views": 76554,
-    "forwards": 124
+    "views": 76639,
+    "forwards": 125
   },
   {
     "title": "💬 Head of the Ministry of Foreign Affairs Andrii Sybiga: \"We thank...",
@@ -428,25 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8902",
     "score": 3.5,
-    "views": 1132,
+    "views": 1136,
     "forwards": 7
-  },
-  {
-    "title": "Minister Andriy Sybiga: \"We condemn the shooting at the dinner of the...",
-    "title_en": "Minister Andriy Sybiga: \"We condemn the shooting at the dinner of the...",
-    "title_uk": "Міністр Андрій Сибіга: «Ми засуджуємо стрілянину на вечері в...",
-    "description": "Minister Andriy Sybiga: \"We condemn the shooting at the dinner of the Association of Correspondents at the White House. We are relieved to note that US President Donald Trump, US Vice President JD Vance and other participants were not injured. Such violence has no justification and should not take place in a democratic society.\"",
-    "description_en": "Minister Andriy Sybiga: \"We condemn the shooting at the dinner of the Association of Correspondents at the White House. We are relieved to note that US President Donald Trump, US Vice President JD Vance and other participants were not injured. Such violence has no justification and should not take place in a democratic society.\"",
-    "description_uk": "Міністр Андрій Сибіга: «Ми засуджуємо стрілянину на вечері Асоціації кореспондентів при Білому домі. Із полегшенням відзначаємо, що Президент США Дональд Трамп, віцепрезидент США Джей Ді Венс та інші учасники не постраждали. Таке насильство не має жодного виправдання і не повинно мати місця в демократичному суспільстві».",
-    "time": "",
-    "pubDate": "2026-04-26T07:49:30+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/8901",
-    "score": 5.0,
-    "views": 15334,
-    "forwards": 42
   }
 ]
