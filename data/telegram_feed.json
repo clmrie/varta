@@ -1,5 +1,77 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "🛸 Enemy reconnaissance UAV in the waters of the Black Sea ➡️ in the direction of Odesa.",
+    "description_en": "🛸 Enemy reconnaissance UAV in the waters of the Black Sea ➡️ in the direction of Odesa.",
+    "description_uk": "🛸 Ворожий розвідувальний БпЛА в акваторії Чорного моря ➡️ в напрямку Одещини.",
+    "time": "",
+    "pubDate": "2026-04-27T10:10:11+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60837",
+    "score": 5.0,
+    "views": 44628,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Київ: повідомляється про постраждалих",
+    "description": "North Korea opens museum honoring soldiers killed fighting Russia's war against Ukraine. The opening coincided with the arrival of Russian Defense Minister Andrei Belousov in Pyongyang.",
+    "description_en": "North Korea opens museum honoring soldiers killed fighting Russia's war against Ukraine. The opening coincided with the arrival of Russian Defense Minister Andrei Belousov in Pyongyang.",
+    "description_uk": "North Korea opens museum honoring soldiers killed fighting Russia's war against Ukraine. The opening coincided with the arrival of Russian Defense Minister Andrei Belousov in Pyongyang.",
+    "time": "",
+    "pubDate": "2026-04-27T09:50:48+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52775",
+    "score": 6.0,
+    "views": 855,
+    "forwards": 1
+  },
+  {
+    "title": "Ukraine spends the largest share of GDP in the world on defense —...",
+    "title_en": "Ukraine spends the largest share of GDP in the world on defense —...",
+    "title_uk": "Україна витрачає на оборону найбільшу частку ВВП у світі —...",
+    "description": "Ukraine spends the largest share of GDP in the world on defense — about 40% — SIPRI According to the Stockholm International Institute for Peace Problems, in 2025 Ukraine spent $84.1 billion on defense. This is the highest figure in the world. The United States ($954 billion), China ($336 billion) and the Russian Federation ($190 billion) spent the most. This is despite the fact that \"US expenditures have decreased, since during the year no approval was made...",
+    "description_en": "Ukraine spends the largest share of GDP in the world on defense — about 40% — SIPRI According to the Stockholm International Institute for Peace Problems, in 2025 Ukraine spent $84.1 billion on defense. This is the highest figure in the world. The United States ($954 billion), China ($336 billion) and the Russian Federation ($190 billion) spent the most. This is despite the fact that \"US expenditures have decreased, since during the year no approval was made...",
+    "description_uk": "Украина тратит на оборону самую большую долю ВВП в мире — около 40%, — SIPRI По данным Стокгольмского международного института проблем мира, в 2025 году Украина направила на оборону $84,1 млрд. Это самый высокий показатель в мире. Больше всего потратили: США ($954 млрд), Китай ($336 млрд) и рф ($190 млрд). Это при том, что «расходы США сократились, поскольку в течение года не было утверждено...",
+    "time": "",
+    "pubDate": "2026-04-27T09:46:31+00:00",
+    "category": "political",
+    "severity": "medium",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190324",
+    "score": 3.5,
+    "views": 70665,
+    "forwards": 105
+  },
+  {
+    "title": "Mykolaiv: The BpLA group headed for Mykolaiv from the south.",
+    "title_en": "Mykolaiv: The BpLA group headed for Mykolaiv from the south.",
+    "title_uk": "Миколаїв: група БпЛА прямувала на Миколаїв з півдня.",
+    "description": "The BpLA group headed for Mykolaiv from the south.",
+    "description_en": "The BpLA group headed for Mykolaiv from the south.",
+    "description_uk": "Група БпЛА курсом на Миколаїв з півдня.",
+    "time": "",
+    "pubDate": "2026-04-27T09:45:18+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60836",
+    "score": 6.0,
+    "views": 58150,
+    "forwards": 2
+  },
+  {
     "title": "60 missiles launched",
     "title_en": "60 missiles launched",
     "title_uk": "Випущено 60 ракет",
@@ -13,9 +85,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18804",
-    "score": 12.0,
-    "views": 6024,
-    "forwards": 46
+    "score": 12.5,
+    "views": 57456,
+    "forwards": 139
   },
   {
     "title": "BpLA in the direction of Mykolaiv from the north.",
@@ -50,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52774",
     "score": 6.0,
-    "views": 345,
-    "forwards": 2
+    "views": 1141,
+    "forwards": 3
   },
   {
     "title": "Kyiv: 94 drones intercepted",
@@ -104,8 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37839",
     "score": 13.0,
-    "views": 3380,
-    "forwards": 11
+    "views": 4066,
+    "forwards": 13
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -216,42 +288,6 @@
     "forwards": 3
   },
   {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
-    "description": "Mali defense minister killed; Russia's Africa Corps withdraws from rebel-held town. Mali's defense minister, Sadio Camara, who had close ties to the Kremlin, was killed in an insurgent attack, a government spokesperson said April 26, as Russia's Africa Corps withdrew from a northern Malian town after clashes with rebels.",
-    "description_en": "Mali defense minister killed; Russia's Africa Corps withdraws from rebel-held town. Mali's defense minister, Sadio Camara, who had close ties to the Kremlin, was killed in an insurgent attack, a government spokesperson said April 26, as Russia's Africa Corps withdrew from a northern Malian town after clashes with rebels.",
-    "description_uk": "Mali defense minister killed; Russia's Africa Corps withdraws from rebel-held town. Mali's defense minister, Sadio Camara, who had close ties to the Kremlin, was killed in an insurgent attack, a government spokesperson said April 26, as Russia's Africa Corps withdrew from a northern Malian town after clashes with rebels.",
-    "time": "",
-    "pubDate": "2026-04-26T22:07:00+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52767",
-    "score": 11.0,
-    "views": 1747,
-    "forwards": 4
-  },
-  {
-    "title": "Odesa: Drone incoming",
-    "title_en": "Odesa: Drone incoming",
-    "title_uk": "Одеса: Дрон вхід",
-    "description": "Enemy UAVs in the direction of Odesa/Black Sea from the Black Sea.",
-    "description_en": "Enemy UAVs in the direction of Odesa/Black Sea from the Black Sea.",
-    "description_uk": "Ворожі БпЛА у напрямку Одеса/Чорноморське з Чорного моря.",
-    "time": "",
-    "pubDate": "2026-04-26T21:41:29+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60811",
-    "score": 6.0,
-    "views": 27280,
-    "forwards": 9
-  },
-  {
     "title": "Energodar: Shelling",
     "title_en": "Energodar: Shelling",
     "title_uk": "Енергодар: Обстріл",
@@ -266,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18802",
     "score": 8.0,
-    "views": 65745,
-    "forwards": 115
+    "views": 68988,
+    "forwards": 119
   },
   {
     "title": "Crimea: Airstrike attack",
@@ -320,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8902",
     "score": 3.5,
-    "views": 777,
+    "views": 803,
     "forwards": 7
   },
   {
@@ -356,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8901",
     "score": 5.0,
-    "views": 14108,
+    "views": 14446,
     "forwards": 42
   }
 ]
