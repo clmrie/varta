@@ -1,5 +1,23 @@
 [
   {
+    "title": "Sumy: A group of BpLA headed for Sumy.",
+    "title_en": "Sumy: A group of BpLA headed for Sumy.",
+    "title_uk": "Суми: Група БПЛА прямувала на Суми.",
+    "description": "A group of BpLA headed for Sumy.",
+    "description_en": "A group of BpLA headed for Sumy.",
+    "description_uk": "Група БпЛА курсом на Суми.",
+    "time": "",
+    "pubDate": "2026-04-27T21:00:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60849",
+    "score": 6.0,
+    "views": 15716,
+    "forwards": 1
+  },
+  {
     "title": "Odesa: BpLA heading for the Black Sea.",
     "title_en": "Odesa: BpLA heading for the Black Sea.",
     "title_uk": "Одеса: BpLA прямує до Чорного моря.",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60848",
     "score": 5.0,
-    "views": 30798,
-    "forwards": 3
+    "views": 43867,
+    "forwards": 14
   },
   {
     "title": "Sumyshchyna: BpLA in the direction of Lebedyn.",
@@ -68,7 +86,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190360",
     "score": 8.5,
-    "views": 76213,
+    "views": 88733,
     "forwards": 114
   },
   {
@@ -104,7 +122,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190355",
     "score": 4.5,
-    "views": 109290,
+    "views": 117899,
     "forwards": 250
   },
   {
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52783",
     "score": 5.0,
-    "views": 1720,
+    "views": 1827,
     "forwards": 3
   },
   {
@@ -212,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52781",
     "score": 9.0,
-    "views": 1871,
+    "views": 1959,
     "forwards": 2
   },
   {
@@ -320,8 +338,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23445",
     "score": 5.5,
-    "views": 107025,
-    "forwards": 62
+    "views": 108762,
+    "forwards": 63
   },
   {
     "title": "Drone incoming",
@@ -410,26 +428,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18804",
     "score": 12.5,
-    "views": 117718,
-    "forwards": 183
-  },
-  {
-    "title": "BpLA in the direction of Mykolaiv from the north.",
-    "title_en": "BpLA in the direction of Mykolaiv from the north.",
-    "title_uk": "БпЛА в напрямку Миколаєва з півночі.",
-    "description": "BpLA in the direction of Mykolaiv from the north.",
-    "description_en": "BpLA in the direction of Mykolaiv from the north.",
-    "description_uk": "БпЛА у напрямку Миколаєва з півночі.",
-    "time": "",
-    "pubDate": "2026-04-27T08:55:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60833",
-    "score": 5.0,
-    "views": 30290,
-    "forwards": 36
+    "views": 118804,
+    "forwards": 185
   },
   {
     "title": "Odesa: 14 injured",
