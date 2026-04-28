@@ -1,5 +1,77 @@
 [
   {
+    "title": "Drone strike",
+    "title_en": "Drone strike",
+    "title_uk": "Безпілотний удар",
+    "description": "💪🏻Since 2022, Ukraine has increased the range of strikes against Russia by 170%, — the Ministry of Defense If four years ago the most distant object hit was the Engels-2 air base in the Saratov region (650 km), and now Ukrainian drones are already at 1,750 km.",
+    "description_en": "💪🏻Since 2022, Ukraine has increased the range of strikes against Russia by 170%, — the Ministry of Defense If four years ago the most distant object hit was the Engels-2 air base in the Saratov region (650 km), and now Ukrainian drones are already at 1,750 km.",
+    "description_uk": "💪🏻Украина с 2022 года увеличила дальность ударов по россии на 170%, — Минобороны Если четыре года назад самым дальним пораженным объектом была авиабаза «Энгельс-2» в Саратовской области (650 км), а теперь украинские дроны добивают уже на 1750 км.",
+    "time": "",
+    "pubDate": "2026-04-28T11:07:01+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190397",
+    "score": 3.5,
+    "views": 30702,
+    "forwards": 71
+  },
+  {
+    "title": "Kyiv: Kyiv - BpLA in the direction of the city.",
+    "title_en": "Kyiv: Kyiv - BpLA in the direction of the city.",
+    "title_uk": "Київ: Київ – БпЛА в напрямку м.",
+    "description": "Kyiv - BpLA in the direction of the city.",
+    "description_en": "Kyiv - BpLA in the direction of the city.",
+    "description_uk": "Київ - БпЛА в напрямку міста.",
+    "time": "",
+    "pubDate": "2026-04-28T11:05:50+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60889",
+    "score": 6.5,
+    "views": 34524,
+    "forwards": 150
+  },
+  {
+    "title": "Chernihiv: A group of BpLA from Chernihiv region to Kyiv region (Brovarsky...",
+    "title_en": "Chernihiv: A group of BpLA from Chernihiv region to Kyiv region (Brovarsky...",
+    "title_uk": "Чернігів: Група БПЛА з Чернігівщини на Київщину (Броварський...",
+    "description": "A group of BpLA from Chernihiv region to Kyiv region (Brovarsky district).",
+    "description_en": "A group of BpLA from Chernihiv region to Kyiv region (Brovarsky district).",
+    "description_uk": "Група БпЛА з Чернігівщини на Київщину (Броварський р-н).",
+    "time": "",
+    "pubDate": "2026-04-28T10:33:34+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60888",
+    "score": 6.5,
+    "views": 54853,
+    "forwards": 163
+  },
+  {
+    "title": "Missile attack on residential area",
+    "title_en": "Missile attack on residential area",
+    "title_uk": "Ракетний обстріл житлових кварталів",
+    "description": "At the age of 7, Roman Oleksiv barely survived the Russian missile attack on Vinnytsia in 2022. Today, an 11-year-old boy is happy with his new apartment in Lviv. The apartment was given to him by Rinat Akhmetov, the founder of the Foundation and the president of Shakhtar FC. \"This apartment is actually really great. I will be able to do music, play the accordion, because it is the highest floor and there are almost no neighbors nearby. The apartment has a lot of space. It...",
+    "description_en": "At the age of 7, Roman Oleksiv barely survived the Russian missile attack on Vinnytsia in 2022. Today, an 11-year-old boy is happy with his new apartment in Lviv. The apartment was given to him by Rinat Akhmetov, the founder of the Foundation and the president of Shakhtar FC. \"This apartment is actually really great. I will be able to do music, play the accordion, because it is the highest floor and there are almost no neighbors nearby. The apartment has a lot of space. It...",
+    "description_uk": "У 7 років Роман Олексів ледь вижив після ракетного удару рф по Вінниці у 2022 році. Сьогодні 11-річний хлопчик радіє своїй новій квартирі у Львові. Житло йому подарував Рінат Ахметов, засновник Фонду та президент ФК «Шахтар». «Ця квартира насправді дуже чудова. Я зможу займатися музикою, грати на акордеоні, тому що це найвищий поверх і майже немає сусідів поруч. У квартирі багато простору. Це...",
+    "time": "",
+    "pubDate": "2026-04-28T09:50:13+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Vinnytsia",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190390",
+    "score": 8.0,
+    "views": 70757,
+    "forwards": 5
+  },
+  {
     "title": "Kharkiv: Sumyshchyna - BpLA group in Kirikivka. 🛵 Kharkiv region - BpLA on...",
     "title_en": "Kharkiv: Sumyshchyna - BpLA group in Kirikivka. 🛵 Kharkiv region - BpLA on...",
     "title_uk": "Харків: Сумщина - група BpLA в Кириківці. 🛵 Харківська область - BpLA на...",
@@ -50,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52794",
     "score": 4.5,
-    "views": 770,
-    "forwards": 0
+    "views": 1247,
+    "forwards": 1
   },
   {
     "title": "BpLA in the direction of Kryvyi Rih from the south.",
@@ -104,7 +176,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37898",
     "score": 13.0,
-    "views": 4622,
+    "views": 5065,
     "forwards": 15
   },
   {
@@ -158,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52792",
     "score": 4.0,
-    "views": 1739,
+    "views": 1997,
     "forwards": 4
   },
   {
@@ -196,24 +268,6 @@
     "score": 5.0,
     "views": 6736,
     "forwards": 1
-  },
-  {
-    "title": "Zaporizhzhia: A group of BpLA headed for Zaporizhzhia. 🛵 BpLA in the direction of...",
-    "title_en": "Zaporizhzhia: A group of BpLA headed for Zaporizhzhia. 🛵 BpLA in the direction of...",
-    "title_uk": "Запоріжжя: група BpLA прямувала на Запоріжжя. 🛵 BpLA в напрямку...",
-    "description": "A group of BpLA headed for Zaporizhzhia. 🛵 BpLA in the direction of Kryvyi Rih.",
-    "description_en": "A group of BpLA headed for Zaporizhzhia. 🛵 BpLA in the direction of Kryvyi Rih.",
-    "description_uk": "Група БпЛА курсом на Запоріжжя. 🛵 БпЛА в напрямку Кривого Рогу.",
-    "time": "",
-    "pubDate": "2026-04-27T22:32:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60850",
-    "score": 6.0,
-    "views": 14003,
-    "forwards": 12
   },
   {
     "title": "Air defense active",
@@ -266,26 +320,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23445",
     "score": 5.5,
-    "views": 124791,
-    "forwards": 69
-  },
-  {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
-    "description": "North Korea opens museum honoring soldiers killed fighting Russia's war against Ukraine. The opening coincided with the arrival of Russian Defense Minister Andrei Belousov in Pyongyang.",
-    "description_en": "North Korea opens museum honoring soldiers killed fighting Russia's war against Ukraine. The opening coincided with the arrival of Russian Defense Minister Andrei Belousov in Pyongyang.",
-    "description_uk": "North Korea opens museum honoring soldiers killed fighting Russia's war against Ukraine. The opening coincided with the arrival of Russian Defense Minister Andrei Belousov in Pyongyang.",
-    "time": "",
-    "pubDate": "2026-04-27T09:50:48+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52775",
-    "score": 6.0,
-    "views": 855,
-    "forwards": 1
+    "views": 127465,
+    "forwards": 70
   },
   {
     "title": "60 missiles launched",
@@ -302,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18804",
     "score": 12.5,
-    "views": 133203,
-    "forwards": 198
+    "views": 135325,
+    "forwards": 200
   },
   {
     "title": "Energodar: Shelling",
@@ -320,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18802",
     "score": 8.0,
-    "views": 78434,
-    "forwards": 126
+    "views": 78963,
+    "forwards": 128
   },
   {
     "title": "💬 Head of the Ministry of Foreign Affairs Andrii Sybiga: \"We thank...",
@@ -338,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8902",
     "score": 3.5,
-    "views": 1203,
+    "views": 1210,
     "forwards": 7
   }
 ]
