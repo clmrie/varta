@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "A group of UAVs in Kharkiv region - heading for Donetsk region. 🛵 BpLA group in the east of the Dnipropetrovsk region - north-west course.",
+    "description_en": "A group of UAVs in Kharkiv region - heading for Donetsk region. 🛵 BpLA group in the east of the Dnipropetrovsk region - north-west course.",
+    "description_uk": "Група БпЛА на Харківщині - курсом на Донеччину. 🛵 Група БпЛА на сході Дніпропетровщини - північно-західним курсом.",
+    "time": "",
+    "pubDate": "2026-04-28T20:43:35+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60907",
+    "score": 6.0,
+    "views": 28051,
+    "forwards": 22
+  },
+  {
     "title": "Missile launch detected",
     "title_en": "Missile launch detected",
     "title_uk": "Виявлено запуск ракети",
@@ -14,8 +32,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190434",
     "score": 10.5,
-    "views": 28130,
-    "forwards": 217
+    "views": 68821,
+    "forwards": 395
   },
   {
     "title": "Chernihiv: Chernihiv region - BpLA heading for Kyiv region (Brovarsky district).",
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60905",
     "score": 7.5,
-    "views": 31371,
+    "views": 59063,
     "forwards": 206
   },
   {
@@ -68,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52809",
     "score": 9.0,
-    "views": 876,
-    "forwards": 5
+    "views": 1390,
+    "forwards": 6
   },
   {
     "title": "A group of UAVs to Odesa (Southern) from the sea.",
@@ -122,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52807",
     "score": 6.0,
-    "views": 1163,
+    "views": 1487,
     "forwards": 4
   },
   {
@@ -194,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8909",
     "score": 3.0,
-    "views": 742,
+    "views": 766,
     "forwards": 13
   },
   {
@@ -212,7 +230,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8907",
     "score": 5.0,
-    "views": 1553,
+    "views": 1646,
     "forwards": 5
   },
   {
@@ -396,24 +414,6 @@
     "forwards": 5
   },
   {
-    "title": "Kharkiv: Sumyshchyna - BpLA group in Kirikivka. 🛵 Kharkiv region - BpLA on...",
-    "title_en": "Kharkiv: Sumyshchyna - BpLA group in Kirikivka. 🛵 Kharkiv region - BpLA on...",
-    "title_uk": "Харків: Сумщина - група BpLA в Кириківці. 🛵 Харківська область - BpLA на...",
-    "description": "Sumyshchyna - BpLA group in Kirikivka. 🛵 Kharkiv region - BpLA on Bogodukhiv.",
-    "description_en": "Sumyshchyna - BpLA group in Kirikivka. 🛵 Kharkiv region - BpLA on Bogodukhiv.",
-    "description_uk": "Сумщина - група БпЛА на Кириківку. 🛵 Харківщина - БпЛА на Богодухів.",
-    "time": "",
-    "pubDate": "2026-04-28T09:21:13+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60885",
-    "score": 6.0,
-    "views": 19190,
-    "forwards": 1
-  },
-  {
     "title": "Kursk: Drone incoming",
     "title_en": "Kursk: Drone incoming",
     "title_uk": "Курськ: Дрон входить",
@@ -446,7 +446,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23445",
     "score": 5.5,
-    "views": 137362,
-    "forwards": 71
+    "views": 137911,
+    "forwards": 72
   }
 ]
