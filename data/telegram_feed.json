@@ -1,5 +1,59 @@
 [
   {
+    "title": "Missile launch detected",
+    "title_en": "Missile launch detected",
+    "title_uk": "Виявлено запуск ракети",
+    "description": "🤔 Out of 23 launches of \"Flamingo\" missiles, only two hit the target, another debatable defeat - project \"Oboronka\". Six targets reached the districts, but only two were accurately hit. The analysis was carried out using satellite images and data from OSINT groups. At the same time, the real number of launches...",
+    "description_en": "🤔 Out of 23 launches of \"Flamingo\" missiles, only two hit the target, another debatable defeat - project \"Oboronka\". Six targets reached the districts, but only two were accurately hit. The analysis was carried out using satellite images and data from OSINT groups. At the same time, the real number of launches...",
+    "description_uk": "🤔 Из 23 пусков ракет \"Фламинго\" в цель попали только две, еще одно поражение спорное, - проект \"Оборонка\" Как сообщается, по открытым данным зафиксировано не менее 23 запусков этих ракет в рамках шести верифицированных атак. До районов целей долетели шесть, но точных попаданий всего два. Анализ проводился с использованием спутниковых снимков и данных OSINT-групп. При этом реальное число пусков...",
+    "time": "",
+    "pubDate": "2026-04-28T19:50:56+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190434",
+    "score": 10.5,
+    "views": 28130,
+    "forwards": 217
+  },
+  {
+    "title": "Chernihiv: Chernihiv region - BpLA heading for Kyiv region (Brovarsky district).",
+    "title_en": "Chernihiv: Chernihiv region - BpLA heading for Kyiv region (Brovarsky district).",
+    "title_uk": "Чернігів: Чернігівська область - BpLA курс на Київську область (Броварський район).",
+    "description": "Chernihiv region - BpLA heading for Kyiv region (Brovarsky district).",
+    "description_en": "Chernihiv region - BpLA heading for Kyiv region (Brovarsky district).",
+    "description_uk": "Чернігівщина - БпЛА курсом на Київщину (Броварський р-н).",
+    "time": "",
+    "pubDate": "2026-04-28T19:45:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60905",
+    "score": 7.5,
+    "views": 31371,
+    "forwards": 206
+  },
+  {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "Zaporizhzhia - UAV over the city - heading north.",
+    "description_en": "Zaporizhzhia - UAV over the city - heading north.",
+    "description_uk": "Запоріжжя - БпЛА над містом - північним курсом.",
+    "time": "",
+    "pubDate": "2026-04-28T19:43:35+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60904",
+    "score": 6.0,
+    "views": 34398,
+    "forwards": 1
+  },
+  {
     "title": "Kyiv: Cruise missile heading inbound",
     "title_en": "Kyiv: Cruise missile heading inbound",
     "title_uk": "Київ: наближається крилата ракета",
@@ -14,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52809",
     "score": 9.0,
-    "views": 90,
-    "forwards": 1
+    "views": 876,
+    "forwards": 5
   },
   {
     "title": "A group of UAVs to Odesa (Southern) from the sea.",
@@ -68,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52807",
     "score": 6.0,
-    "views": 724,
-    "forwards": 3
+    "views": 1163,
+    "forwards": 4
   },
   {
     "title": "Kharkiv: UAVs in the north of Kharkiv Region - on a southerly course.",
@@ -140,8 +194,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8909",
     "score": 3.0,
-    "views": 704,
-    "forwards": 12
+    "views": 742,
+    "forwards": 13
   },
   {
     "title": "The Czech Republic joined the agreement to launch the Special...",
@@ -158,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8907",
     "score": 5.0,
-    "views": 1368,
+    "views": 1553,
     "forwards": 5
   },
   {
@@ -360,24 +414,6 @@
     "forwards": 1
   },
   {
-    "title": "Kyiv: Slovakia takes EU to court over Russia energy phase-out. The...",
-    "title_en": "Kyiv: Slovakia takes EU to court over Russia energy phase-out. The...",
-    "title_uk": "Київ: Словаччина подала до суду на ЄС через поетапну відмову від електроенергії Росією. ...",
-    "description": "Slovakia takes EU to court over Russia energy phase-out. The Hungarian government under Viktor Orban had already filed a similar case, though it is unclear if the incoming pro-European government of Peter Magyar wishes to take it forward.",
-    "description_en": "Slovakia takes EU to court over Russia energy phase-out. The Hungarian government under Viktor Orban had already filed a similar case, though it is unclear if the incoming pro-European government of Peter Magyar wishes to take it forward.",
-    "description_uk": "Slovakia takes EU to court over Russia energy phase-out. The Hungarian government under Viktor Orban had already filed a similar case, though it is unclear if the incoming pro-European government of Peter Magyar wishes to take it forward.",
-    "time": "",
-    "pubDate": "2026-04-28T07:49:20+00:00",
-    "category": "political",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52794",
-    "score": 4.5,
-    "views": 1247,
-    "forwards": 1
-  },
-  {
     "title": "Kursk: Drone incoming",
     "title_en": "Kursk: Drone incoming",
     "title_uk": "Курськ: Дрон входить",
@@ -396,24 +432,6 @@
     "forwards": 15
   },
   {
-    "title": "Air defense active",
-    "title_en": "Air defense active",
-    "title_uk": "Активна ППО",
-    "description": "This year, Ukraine has already received twice as many interceptor drones as in the whole of 2025, - Fedorov According to him, such drones are already actively used to shoot down Shahed and other UAVs and are part of the small air defense system. In March, a record 33,000 people were shot down with their help. дронов. Fedorov noted that they are much cheaper than missile systems and allow to unload classic air defense.",
-    "description_en": "This year, Ukraine has already received twice as many interceptor drones as in the whole of 2025, - Fedorov According to him, such drones are already actively used to shoot down Shahed and other UAVs and are part of the small air defense system. In March, a record 33,000 people were shot down with their help. дронов. Fedorov noted that they are much cheaper than missile systems and allow to unload classic air defense.",
-    "description_uk": "Украина в этом году уже получила вдвое больше дронов-перехватчиков, чем за весь 2025-й, - Федоров По его словам, такие дроны уже активно используются для сбивания Shahed и других БПЛА и входят в систему малой ПВО. В марте с их помощью сбили рекордные 33 тыс. дронов. Федоров отметил, что они значительно дешевле ракетных систем и позволяют разгрузить классическую ПВО.",
-    "time": "",
-    "pubDate": "2026-04-27T18:55:01+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190360",
-    "score": 8.5,
-    "views": 145443,
-    "forwards": 141
-  },
-  {
     "title": "⛰ The work of the company of the 2nd GSHB 128th OGSHBr shock unmanned...",
     "title_en": "⛰ The work of the company of the 2nd GSHB 128th OGSHBr shock unmanned...",
     "title_uk": "⛰ Робота роти 2-го ГШБ 128-ї ОГШБр ударної безпілотної...",
@@ -428,25 +446,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23445",
     "score": 5.5,
-    "views": 136251,
-    "forwards": 70
-  },
-  {
-    "title": "60 missiles launched",
-    "title_en": "60 missiles launched",
-    "title_uk": "Випущено 60 ракет",
-    "description": "Over the past week, the Russian Federation launched about 1,900 attack drones, almost 1,400 guided aerial bombs and about 60 missiles of various types over Ukraine. This underlines the timeliness of the new contributions from the partners to the PURL programme, as well as the approval of the 20th EU sanctions package and the €90 billion European support package in Cyprus. Thanks to all partners who help. Our anti-aircraft system...",
-    "description_en": "Over the past week, the Russian Federation launched about 1,900 attack drones, almost 1,400 guided aerial bombs and about 60 missiles of various types over Ukraine. This underlines the timeliness of the new contributions from the partners to the PURL programme, as well as the approval of the 20th EU sanctions package and the €90 billion European support package in Cyprus. Thanks to all partners who help. Our anti-aircraft system...",
-    "description_uk": "Упродовж минулого тижня РФ випустила по Україні близько 1900 ударних дронів, майже 1400 керованих авіаційних бомб і близько 60 ракет різних типів. Це підкреслює, наскільки вчасними є нові внески партнерів до програми PURL, а також схвалення 20-го санкційного пакета ЄС та європейського пакета підтримки в 90 млрд євро на Кіпрі. Дякую всім партнерам, хто допомагає. Наша система протиповітряної...",
-    "time": "",
-    "pubDate": "2026-04-27T09:02:19+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18804",
-    "score": 13.5,
-    "views": 141019,
-    "forwards": 203
+    "views": 137362,
+    "forwards": 71
   }
 ]
