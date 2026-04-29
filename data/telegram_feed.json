@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: US pledges financial support for G7 initiative to repair Chornobyl...",
+    "title_en": "Kyiv: US pledges financial support for G7 initiative to repair Chornobyl...",
+    "title_uk": "Київ: США обіцяють фінансову підтримку ініціативи G7 щодо відновлення Чорнобильської...",
+    "description": "US pledges financial support for G7 initiative to repair Chornobyl confinement structure. The U.S. has pledged up to $100 million for a Group of Seven (G7) initiative for repairs to the New Safe Confinement (NSC) arch at the Chornobyl nuclear power plant, the State Department announced April 29.",
+    "description_en": "US pledges financial support for G7 initiative to repair Chornobyl confinement structure. The U.S. has pledged up to $100 million for a Group of Seven (G7) initiative for repairs to the New Safe Confinement (NSC) arch at the Chornobyl nuclear power plant, the State Department announced April 29.",
+    "description_uk": "US pledges financial support for G7 initiative to repair Chornobyl confinement structure. The U.S. has pledged up to $100 million for a Group of Seven (G7) initiative for repairs to the New Safe Confinement (NSC) arch at the Chornobyl nuclear power plant, the State Department announced April 29.",
+    "time": "",
+    "pubDate": "2026-04-29T22:20:51+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52834",
+    "score": 4.5,
+    "views": 313,
+    "forwards": 2
+  },
+  {
+    "title": "Odesa: Drone incoming",
+    "title_en": "Odesa: Drone incoming",
+    "title_uk": "Одеса: Дрон вхід",
+    "description": "UAV in the direction of Odessa from the Black Sea.",
+    "description_en": "UAV in the direction of Odessa from the Black Sea.",
+    "description_uk": "БпЛА в напрямку м.Одеса з акваторії Чорного моря.",
+    "time": "",
+    "pubDate": "2026-04-29T22:04:38+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60956",
+    "score": 6.0,
+    "views": 17823,
+    "forwards": 1
+  },
+  {
     "title": "Drone attack",
     "title_en": "Drone attack",
     "title_uk": "Атака безпілотників",
@@ -14,8 +50,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190512",
     "score": 4.5,
-    "views": 32324,
-    "forwards": 74
+    "views": 42804,
+    "forwards": 95
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -32,26 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52833",
     "score": 9.5,
-    "views": 647,
-    "forwards": 2
-  },
-  {
-    "title": "Odesa: Drone incoming",
-    "title_en": "Odesa: Drone incoming",
-    "title_uk": "Одеса: Дрон вхід",
-    "description": "UAV in the direction of Odessa from the Black Sea.",
-    "description_en": "UAV in the direction of Odessa from the Black Sea.",
-    "description_uk": "БпЛА в напрямку м.Одеса з акваторії Чорного моря.",
-    "time": "",
-    "pubDate": "2026-04-29T20:21:23+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60952",
-    "score": 6.0,
-    "views": 44222,
-    "forwards": 11
+    "views": 903,
+    "forwards": 3
   },
   {
     "title": "Kyiv: Drone strike",
@@ -176,7 +194,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37956",
     "score": 5.0,
-    "views": 3771,
+    "views": 3820,
     "forwards": 5
   },
   {
@@ -230,7 +248,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37955",
     "score": 6.5,
-    "views": 19894,
+    "views": 20340,
     "forwards": 109
   },
   {
@@ -248,7 +266,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18816",
     "score": 5.0,
-    "views": 88876,
+    "views": 89547,
     "forwards": 202
   },
   {
@@ -360,24 +378,6 @@
     "forwards": 103
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons",
-    "description_en": "☄️ The threat of using ballistic weapons",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння",
-    "time": "",
-    "pubDate": "2026-04-29T10:05:38+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60930",
-    "score": 5.5,
-    "views": 78031,
-    "forwards": 58
-  },
-  {
     "title": "Donetsk: Drone incoming",
     "title_en": "Donetsk: Drone incoming",
     "title_uk": "Донецьк: Дрон вхід",
@@ -410,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8909",
     "score": 3.0,
-    "views": 944,
+    "views": 945,
     "forwards": 14
   },
   {
@@ -428,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8907",
     "score": 5.0,
-    "views": 2623,
+    "views": 2625,
     "forwards": 9
   }
 ]
