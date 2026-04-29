@@ -1,5 +1,41 @@
 [
   {
+    "title": "A group of UAVs from the Black Sea area headed for Odesa.",
+    "title_en": "A group of UAVs from the Black Sea area headed for Odesa.",
+    "title_uk": "Група БПЛА з акваторії Чорного моря взяла курс на Одесу.",
+    "description": "A group of UAVs from the Black Sea area headed for Odesa.",
+    "description_en": "A group of UAVs from the Black Sea area headed for Odesa.",
+    "description_uk": "Група БпЛА з акваторії Чорного моря курсом на Одещину.",
+    "time": "",
+    "pubDate": "2026-04-29T17:54:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60948",
+    "score": 5.0,
+    "views": 20229,
+    "forwards": 1
+  },
+  {
+    "title": "Zaporizhzhia: BpLA in the city of Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA in the city of Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: БпЛА в м. Запоріжжі з півд.",
+    "description": "BpLA in the city of Zaporozhye from the south.",
+    "description_en": "BpLA in the city of Zaporozhye from the south.",
+    "description_uk": "БпЛА на м.Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-04-29T17:21:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60947",
+    "score": 6.0,
+    "views": 38413,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: High-speed drone from the Belgorod region. ➡️ to Kharkiv region",
     "title_en": "Kharkiv: High-speed drone from the Belgorod region. ➡️ to Kharkiv region",
     "title_uk": "Харків: Швидкісний дрон з Білгородської області. ➡️ в Харківську обл",
@@ -32,8 +68,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37956",
     "score": 5.0,
-    "views": 1400,
-    "forwards": 4
+    "views": 2466,
+    "forwards": 5
   },
   {
     "title": "Mykolaiv: The BpLA group operates in the Black Sea (Odessa region, Mykolaiv...",
@@ -68,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52825",
     "score": 6.0,
-    "views": 515,
-    "forwards": 0
+    "views": 1071,
+    "forwards": 2
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -104,8 +140,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37955",
     "score": 6.5,
-    "views": 9928,
-    "forwards": 96
+    "views": 12134,
+    "forwards": 100
   },
   {
     "title": "Odesa: Drone incoming",
@@ -140,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18816",
     "score": 4.0,
-    "views": 62460,
-    "forwards": 185
+    "views": 74803,
+    "forwards": 189
   },
   {
     "title": "Kyiv: Drone strike",
@@ -158,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52820",
     "score": 5.0,
-    "views": 1388,
+    "views": 1606,
     "forwards": 3
   },
   {
@@ -378,24 +414,6 @@
     "forwards": 624
   },
   {
-    "title": "Kyiv: What happens after Russia's abducted children finally return to...",
-    "title_en": "Kyiv: What happens after Russia's abducted children finally return to...",
-    "title_uk": "Київ: Що буде після того, як викрадені в Росії діти нарешті повернуться до...",
-    "description": "What happens after Russia's abducted children finally return to Ukraine? \"Returning alone is not enough. Reintegration is one of the most complex stages of this process,\" writes Iryna Tuliakova, Head of Ukraine's Coordination Center for Family Upbringing and Child Care Development, in this op-ed. \"Children return with very different experiences — from prolonged isolation and disrupted education...",
-    "description_en": "What happens after Russia's abducted children finally return to Ukraine? \"Returning alone is not enough. Reintegration is one of the most complex stages of this process,\" writes Iryna Tuliakova, Head of Ukraine's Coordination Center for Family Upbringing and Child Care Development, in this op-ed. \"Children return with very different experiences — from prolonged isolation and disrupted education...",
-    "description_uk": "What happens after Russia's abducted children finally return to Ukraine? \"Returning alone is not enough. Reintegration is one of the most complex stages of this process,\" writes Iryna Tuliakova, Head of Ukraine's Coordination Center for Family Upbringing and Child Care Development, in this op-ed. \"Children return with very different experiences — from prolonged isolation and disrupted education...",
-    "time": "",
-    "pubDate": "2026-04-28T17:50:19+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52807",
-    "score": 6.0,
-    "views": 2334,
-    "forwards": 5
-  },
-  {
     "title": "🇵🇱 Ukraine and Poland: history as a space of dialogue On May 6-8,...",
     "title_en": "🇵🇱 Ukraine and Poland: history as a space of dialogue On May 6-8,...",
     "title_uk": "🇵🇱 Україна та Польща: історія як простір діалогу 6-8 травня...",
@@ -410,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8909",
     "score": 3.0,
-    "views": 932,
+    "views": 933,
     "forwards": 14
   },
   {
@@ -428,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8907",
     "score": 5.0,
-    "views": 2556,
+    "views": 2577,
     "forwards": 9
   }
 ]
