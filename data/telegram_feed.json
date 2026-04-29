@@ -1,5 +1,59 @@
 [
   {
+    "title": "Dnipro: BpLA in the direction of Dnipro from the west.",
+    "title_en": "Dnipro: BpLA in the direction of Dnipro from the west.",
+    "title_uk": "Дніпро: БпЛА в напрямку Дніпра із зах.",
+    "description": "BpLA in the direction of Dnipro from the west.",
+    "description_en": "BpLA in the direction of Dnipro from the west.",
+    "description_uk": "БпЛА в напрямку м.Дніпро з заходу.",
+    "time": "",
+    "pubDate": "2026-04-29T07:12:36+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60923",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV in the waters of the Black Sea, heading for Odesa.",
+    "description_en": "UAV in the waters of the Black Sea, heading for Odesa.",
+    "description_uk": "БпЛА в акваторії Чорного моря, курсом на Одещину.",
+    "time": "",
+    "pubDate": "2026-04-29T06:54:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60922",
+    "score": 5.0,
+    "views": 22157,
+    "forwards": 1
+  },
+  {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "154 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 29 (from 18:00 on April 28), the enemy attacked 171 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Kursk, Shatalovo, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Gvardiyske, Chauda - TOT AR Crimea, about 120 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft...",
+    "description_en": "154 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 29 (from 18:00 on April 28), the enemy attacked 171 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Kursk, Shatalovo, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Gvardiyske, Chauda - TOT AR Crimea, about 120 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 154 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 29 квітня (з 18:00 28 квітня) противник атакував 171 ударним БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та безпілотниками інших типів із напрямків: Курськ, Шаталово, Орел, Міллерово, Приморсько-Ахтарськ – рф., ТОТ Донецьк, Гвардійське, Чауда – ТОТ АР Крим, близько 120 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні...",
+    "time": "",
+    "pubDate": "2026-04-29T05:05:57+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/37934",
+    "score": 13.0,
+    "views": 3443,
+    "forwards": 22
+  },
+  {
     "title": "A group of unmanned aerial vehicles in the north of Sumy Oblast - on...",
     "title_en": "A group of unmanned aerial vehicles in the north of Sumy Oblast - on...",
     "title_uk": "Група безпілотних літальних апаратів на півночі Сумської області - на...",
@@ -86,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190434",
     "score": 10.5,
-    "views": 143680,
-    "forwards": 506
+    "views": 175439,
+    "forwards": 624
   },
   {
     "title": "Chernihiv: Chernihiv region - BpLA heading for Kyiv region (Brovarsky district).",
@@ -129,9 +183,9 @@
     "title": "Kyiv: Cruise missile heading inbound",
     "title_en": "Kyiv: Cruise missile heading inbound",
     "title_uk": "Київ: наближається крилата ракета",
-    "description": "Russia has a new missile — here's what we know about the S-71K Ukraine's military intelligence (HUR),has revealed details of a new Russian air-launched cruise missile, the S-71K \"Kovyor,\" offering a closer look at its design and production. On its War&Sanctions portal, the agency published a 3D model of the missile, along with a breakdown of its components. Two major takeaways are the missile's...",
-    "description_en": "Russia has a new missile — here's what we know about the S-71K Ukraine's military intelligence (HUR),has revealed details of a new Russian air-launched cruise missile, the S-71K \"Kovyor,\" offering a closer look at its design and production. On its War&Sanctions portal, the agency published a 3D model of the missile, along with a breakdown of its components. Two major takeaways are the missile's...",
-    "description_uk": "Russia has a new missile — here's what we know about the S-71K Ukraine's military intelligence (HUR),has revealed details of a new Russian air-launched cruise missile, the S-71K \"Kovyor,\" offering a closer look at its design and production. On its War&Sanctions portal, the agency published a 3D model of the missile, along with a breakdown of its components. Two major takeaways are the missile's...",
+    "description": "Russia has a new missile — here's what we know about the S-71K Ukraine's military intelligence (HUR) has revealed details of a new Russian air-launched cruise missile, the S-71K \"Kovyor,\" offering a closer look at its design and production. On its War&Sanctions portal, the agency published a 3D model of the missile, along with a breakdown of its components. Two major takeaways are the missile's...",
+    "description_en": "Russia has a new missile — here's what we know about the S-71K Ukraine's military intelligence (HUR) has revealed details of a new Russian air-launched cruise missile, the S-71K \"Kovyor,\" offering a closer look at its design and production. On its War&Sanctions portal, the agency published a 3D model of the missile, along with a breakdown of its components. Two major takeaways are the missile's...",
+    "description_uk": "Russia has a new missile — here's what we know about the S-71K Ukraine's military intelligence (HUR) has revealed details of a new Russian air-launched cruise missile, the S-71K \"Kovyor,\" offering a closer look at its design and production. On its War&Sanctions portal, the agency published a 3D model of the missile, along with a breakdown of its components. Two major takeaways are the missile's...",
     "time": "",
     "pubDate": "2026-04-28T18:51:37+00:00",
     "category": "missile",
@@ -140,44 +194,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52809",
     "score": 9.0,
-    "views": 2222,
-    "forwards": 6
-  },
-  {
-    "title": "A group of UAVs to Odesa (Southern) from the sea.",
-    "title_en": "A group of UAVs to Odesa (Southern) from the sea.",
-    "title_uk": "Група БПЛА до Одеси (Південна) з моря.",
-    "description": "A group of UAVs to Odesa (Southern) from the sea.",
-    "description_en": "A group of UAVs to Odesa (Southern) from the sea.",
-    "description_uk": "Група БпЛА на Одещину (Південне) з моря.",
-    "time": "",
-    "pubDate": "2026-04-28T18:37:23+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60901",
-    "score": 5.0,
-    "views": 22247,
-    "forwards": 1
-  },
-  {
-    "title": "🛫 Activity of enemy tactical aviation in the southeast direction!...",
-    "title_en": "🛫 Activity of enemy tactical aviation in the southeast direction!...",
-    "title_uk": "🛫 Активність тактичної авіації противника на південно-східному напрямку!...",
-    "description": "🛫 Activity of enemy tactical aviation in the southeast direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "🛫 Activity of enemy tactical aviation in the southeast direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "🛫 Активність ворожої тактичної авіації на південно-східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-04-28T18:27:13+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60899",
-    "score": 5.0,
-    "views": 33358,
-    "forwards": 0
+    "views": 2480,
+    "forwards": 7
   },
   {
     "title": "Kyiv: What happens after Russia's abducted children finally return to...",
@@ -194,8 +212,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52807",
     "score": 6.0,
-    "views": 2056,
-    "forwards": 4
+    "views": 2236,
+    "forwards": 5
   },
   {
     "title": "Khmelnytskyi: Casualties reported",
@@ -230,8 +248,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8909",
     "score": 3.0,
-    "views": 799,
-    "forwards": 13
+    "views": 828,
+    "forwards": 14
   },
   {
     "title": "The Czech Republic joined the agreement to launch the Special...",
@@ -248,8 +266,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8907",
     "score": 5.0,
-    "views": 1812,
-    "forwards": 6
+    "views": 1957,
+    "forwards": 8
   },
   {
     "title": "Kyiv: Drone strike near civilians",
@@ -324,24 +342,6 @@
     "forwards": 5
   },
   {
-    "title": "Kursk: Drone incoming",
-    "title_en": "Kursk: Drone incoming",
-    "title_uk": "Курськ: Дрон входить",
-    "description": "95 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 28 (from 18:00 on April 27), the enemy attacked 123 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Kursk, Orel, Shatalovo, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, about 80 of them - \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, EW units and unmanned systems,...",
-    "description_en": "95 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 28 (from 18:00 on April 27), the enemy attacked 123 attack UAVs of the Shahed, Gerbera, Italmas type and other types of UAVs from the directions: Kursk, Orel, Shatalovo, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, about 80 of them - \"shahedis\". The air attack was repulsed by aviation, anti-aircraft missile forces, EW units and unmanned systems,...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 95 ВОРОЖИХ БПЛА У ніч на 28 квітня (з 18:00 27 квітня) противник атакував 123 ударними БпЛА типу Shahed, Гербера, Італмас та безпілотниками інших типів із напрямків: Курськ, Орел, Шаталово, Міллєрово, Приморсько-Ахтарськ – рф., Гвардійське – ТОТ АР Крим, близько 80 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем,...",
-    "time": "",
-    "pubDate": "2026-04-28T05:25:08+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kursk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37898",
-    "score": 13.0,
-    "views": 5851,
-    "forwards": 15
-  },
-  {
     "title": "⛰ The work of the company of the 2nd GSHB 128th OGSHBr shock unmanned...",
     "title_en": "⛰ The work of the company of the 2nd GSHB 128th OGSHBr shock unmanned...",
     "title_uk": "⛰ Робота роти 2-го ГШБ 128-ї ОГШБр ударної безпілотної...",
@@ -356,8 +356,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23445",
     "score": 5.5,
-    "views": 139168,
-    "forwards": 72
+    "views": 139979,
+    "forwards": 73
   },
   {
     "title": "60 missiles launched",
@@ -374,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18804",
     "score": 13.5,
-    "views": 143708,
-    "forwards": 206
+    "views": 144589,
+    "forwards": 207
   }
 ]
