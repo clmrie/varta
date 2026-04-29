@@ -1,5 +1,23 @@
 [
   {
+    "title": "🤔 Users report problems with Monobank: on iOS the application does...",
+    "title_en": "🤔 Users report problems with Monobank: on iOS the application does...",
+    "title_uk": "🤔 Користувачі повідомляють про проблеми з Monobank: на iOS додаток робить...",
+    "description": "🤔 Users report problems with Monobank: on iOS the application does not start, on Android either it opens with a delay or it does not work either",
+    "description_en": "🤔 Users report problems with Monobank: on iOS the application does not start, on Android either it opens with a delay or it does not work either",
+    "description_uk": "🤔 Пользователи сообщают о сбое в работе Monobank: на iOS приложение не запускается, на Android либо открывается с задержкой, либо тоже не пашет",
+    "time": "",
+    "pubDate": "2026-04-29T07:30:29+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190451",
+    "score": 5.0,
+    "views": 81160,
+    "forwards": 36
+  },
+  {
     "title": "Dnipro: BpLA in the direction of Dnipro from the west.",
     "title_en": "Dnipro: BpLA in the direction of Dnipro from the west.",
     "title_uk": "Дніпро: БпЛА в напрямку Дніпра із зах.",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60923",
     "score": 6.0,
-    "views": 1,
-    "forwards": 0
+    "views": 67827,
+    "forwards": 1
   },
   {
     "title": "Drone incoming",
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60922",
     "score": 5.0,
-    "views": 22157,
+    "views": 74728,
     "forwards": 1
   },
   {
@@ -50,8 +68,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37934",
     "score": 13.0,
-    "views": 3443,
-    "forwards": 22
+    "views": 4333,
+    "forwards": 27
   },
   {
     "title": "A group of unmanned aerial vehicles in the north of Sumy Oblast - on...",
@@ -108,24 +126,6 @@
     "forwards": 1
   },
   {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "A group of UAVs in Kharkiv region - heading for Donetsk region. 🛵 BpLA group in the east of the Dnipropetrovsk region - north-west course.",
-    "description_en": "A group of UAVs in Kharkiv region - heading for Donetsk region. 🛵 BpLA group in the east of the Dnipropetrovsk region - north-west course.",
-    "description_uk": "Група БпЛА на Харківщині - курсом на Донеччину. 🛵 Група БпЛА на сході Дніпропетровщини - північно-західним курсом.",
-    "time": "",
-    "pubDate": "2026-04-28T20:43:35+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60907",
-    "score": 6.0,
-    "views": 28051,
-    "forwards": 22
-  },
-  {
     "title": "Missile launch detected",
     "title_en": "Missile launch detected",
     "title_uk": "Виявлено запуск ракети",
@@ -144,42 +144,6 @@
     "forwards": 624
   },
   {
-    "title": "Chernihiv: Chernihiv region - BpLA heading for Kyiv region (Brovarsky district).",
-    "title_en": "Chernihiv: Chernihiv region - BpLA heading for Kyiv region (Brovarsky district).",
-    "title_uk": "Чернігів: Чернігівська область - BpLA курс на Київську область (Броварський район).",
-    "description": "Chernihiv region - BpLA heading for Kyiv region (Brovarsky district).",
-    "description_en": "Chernihiv region - BpLA heading for Kyiv region (Brovarsky district).",
-    "description_uk": "Чернігівщина - БпЛА курсом на Київщину (Броварський р-н).",
-    "time": "",
-    "pubDate": "2026-04-28T19:45:58+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60905",
-    "score": 7.5,
-    "views": 59063,
-    "forwards": 206
-  },
-  {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "Zaporizhzhia - UAV over the city - heading north.",
-    "description_en": "Zaporizhzhia - UAV over the city - heading north.",
-    "description_uk": "Запоріжжя - БпЛА над містом - північним курсом.",
-    "time": "",
-    "pubDate": "2026-04-28T19:43:35+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60904",
-    "score": 6.0,
-    "views": 34398,
-    "forwards": 1
-  },
-  {
     "title": "Kyiv: Cruise missile heading inbound",
     "title_en": "Kyiv: Cruise missile heading inbound",
     "title_uk": "Київ: наближається крилата ракета",
@@ -194,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52809",
     "score": 9.0,
-    "views": 2480,
+    "views": 2609,
     "forwards": 7
   },
   {
@@ -212,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52807",
     "score": 6.0,
-    "views": 2236,
+    "views": 2334,
     "forwards": 5
   },
   {
@@ -248,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8909",
     "score": 3.0,
-    "views": 828,
+    "views": 874,
     "forwards": 14
   },
   {
@@ -266,8 +230,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8907",
     "score": 5.0,
-    "views": 1957,
-    "forwards": 8
+    "views": 2117,
+    "forwards": 9
   },
   {
     "title": "Kyiv: Drone strike near civilians",
@@ -356,25 +320,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23445",
     "score": 5.5,
-    "views": 139979,
+    "views": 140499,
     "forwards": 73
-  },
-  {
-    "title": "60 missiles launched",
-    "title_en": "60 missiles launched",
-    "title_uk": "Випущено 60 ракет",
-    "description": "Over the past week, the Russian Federation launched about 1,900 attack drones, almost 1,400 guided aerial bombs and about 60 missiles of various types over Ukraine. This underlines the timeliness of the new contributions from the partners to the PURL programme, as well as the approval of the 20th EU sanctions package and the €90 billion European support package in Cyprus. Thanks to all partners who help. Our anti-aircraft system...",
-    "description_en": "Over the past week, the Russian Federation launched about 1,900 attack drones, almost 1,400 guided aerial bombs and about 60 missiles of various types over Ukraine. This underlines the timeliness of the new contributions from the partners to the PURL programme, as well as the approval of the 20th EU sanctions package and the €90 billion European support package in Cyprus. Thanks to all partners who help. Our anti-aircraft system...",
-    "description_uk": "Упродовж минулого тижня РФ випустила по Україні близько 1900 ударних дронів, майже 1400 керованих авіаційних бомб і близько 60 ракет різних типів. Це підкреслює, наскільки вчасними є нові внески партнерів до програми PURL, а також схвалення 20-го санкційного пакета ЄС та європейського пакета підтримки в 90 млрд євро на Кіпрі. Дякую всім партнерам, хто допомагає. Наша система протиповітряної...",
-    "time": "",
-    "pubDate": "2026-04-27T09:02:19+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18804",
-    "score": 13.5,
-    "views": 144589,
-    "forwards": 207
   }
 ]
