@@ -1,5 +1,77 @@
 [
   {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака дронов",
+    "description": "Russians massively attacked Odessa with drones: they write about the \"arrival\" in a high-rise building",
+    "description_en": "Russians massively attacked Odessa with drones: they write about the \"arrival\" in a high-rise building",
+    "description_uk": "русня массировано атаковала Одессу дронами: пишут о «прилете» в многоэтажку",
+    "time": "",
+    "pubDate": "2026-04-29T20:57:07+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190512",
+    "score": 4.0,
+    "views": 2171,
+    "forwards": 2
+  },
+  {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Київ: повідомляється про постраждалих",
+    "description": "Magyar's Russian energy phase-out plan for Hungary falls short Peter Magyar's plan to end Hungary's reliance on Russian fossil fuels seems to lack urgency — and risks perpetuating Viktor Orban's legacy. Magyar's Tisza party, which is to form the new government in May, has set 2035 as the deadline to end the country's energy reliance on Moscow. But experts argue that Hungary could pivot much...",
+    "description_en": "Magyar's Russian energy phase-out plan for Hungary falls short Peter Magyar's plan to end Hungary's reliance on Russian fossil fuels seems to lack urgency — and risks perpetuating Viktor Orban's legacy. Magyar's Tisza party, which is to form the new government in May, has set 2035 as the deadline to end the country's energy reliance on Moscow. But experts argue that Hungary could pivot much...",
+    "description_uk": "Magyar's Russian energy phase-out plan for Hungary falls short Peter Magyar's plan to end Hungary's reliance on Russian fossil fuels seems to lack urgency — and risks perpetuating Viktor Orban's legacy. Magyar's Tisza party, which is to form the new government in May, has set 2035 as the deadline to end the country's energy reliance on Moscow. But experts argue that Hungary could pivot much...",
+    "time": "",
+    "pubDate": "2026-04-29T20:48:17+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52833",
+    "score": 9.5,
+    "views": 196,
+    "forwards": 2
+  },
+  {
+    "title": "Odesa: Drone incoming",
+    "title_en": "Odesa: Drone incoming",
+    "title_uk": "Одеса: Дрон вхід",
+    "description": "UAV in the direction of Odessa from the Black Sea.",
+    "description_en": "UAV in the direction of Odessa from the Black Sea.",
+    "description_uk": "БпЛА в напрямку м.Одеса з акваторії Чорного моря.",
+    "time": "",
+    "pubDate": "2026-04-29T20:21:23+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60952",
+    "score": 6.0,
+    "views": 26348,
+    "forwards": 11
+  },
+  {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Київ: Дрон-удар",
+    "description": "'People once envied us' — Tuapse oil fire spreads as tour operators downplay tourist season risks Local Russian authorities are struggling to deal with the aftermath of Ukrainian strikes on the oil refinery in Tuapse on the Black Sea coast, even as tour operators continue to count on a busy resort season. Ukrainian drones struck an oil facility in Krasnodar Krai, which processes about 12 million...",
+    "description_en": "'People once envied us' — Tuapse oil fire spreads as tour operators downplay tourist season risks Local Russian authorities are struggling to deal with the aftermath of Ukrainian strikes on the oil refinery in Tuapse on the Black Sea coast, even as tour operators continue to count on a busy resort season. Ukrainian drones struck an oil facility in Krasnodar Krai, which processes about 12 million...",
+    "description_uk": "'People once envied us' — Tuapse oil fire spreads as tour operators downplay tourist season risks Local Russian authorities are struggling to deal with the aftermath of Ukrainian strikes on the oil refinery in Tuapse on the Black Sea coast, even as tour operators continue to count on a busy resort season. Ukrainian drones struck an oil facility in Krasnodar Krai, which processes about 12 million...",
+    "time": "",
+    "pubDate": "2026-04-29T19:53:32+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52831",
+    "score": 13.0,
+    "views": 695,
+    "forwards": 3
+  },
+  {
     "title": "Kyiv: From defense deals to luxury homes — Zelensky's associates...",
     "title_en": "Kyiv: From defense deals to luxury homes — Zelensky's associates...",
     "title_uk": "Київ: Від оборонних угод до елітних будинків — соратники Зеленського...",
@@ -32,7 +104,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/60948",
     "score": 5.0,
-    "views": 72310,
+    "views": 86079,
     "forwards": 2
   },
   {
@@ -104,7 +176,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37956",
     "score": 5.0,
-    "views": 3457,
+    "views": 3663,
     "forwards": 5
   },
   {
@@ -124,24 +196,6 @@
     "score": 6.0,
     "views": 55662,
     "forwards": 1
-  },
-  {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
-    "description": "Ukraine parliament inches through reforms as funding deadlines loom. Reform progress has slowed amid the fifth year of Russia's full-scale invasion and gridlock in Ukraine's parliament, delaying billions of dollars, which are conditional on Kyiv implementing the changes.",
-    "description_en": "Ukraine parliament inches through reforms as funding deadlines loom. Reform progress has slowed amid the fifth year of Russia's full-scale invasion and gridlock in Ukraine's parliament, delaying billions of dollars, which are conditional on Kyiv implementing the changes.",
-    "description_uk": "Ukraine parliament inches through reforms as funding deadlines loom. Reform progress has slowed amid the fifth year of Russia's full-scale invasion and gridlock in Ukraine's parliament, delaying billions of dollars, which are conditional on Kyiv implementing the changes.",
-    "time": "",
-    "pubDate": "2026-04-29T16:04:59+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52825",
-    "score": 6.0,
-    "views": 1459,
-    "forwards": 3
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -176,26 +230,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37955",
     "score": 6.5,
-    "views": 15921,
-    "forwards": 108
-  },
-  {
-    "title": "Odesa: Drone incoming",
-    "title_en": "Odesa: Drone incoming",
-    "title_uk": "Одеса: Дрон вхід",
-    "description": "UAV in the direction of Odessa from the Black Sea.",
-    "description_en": "UAV in the direction of Odessa from the Black Sea.",
-    "description_uk": "БпЛА в напрямку м.Одеса з акваторії Чорного моря.",
-    "time": "",
-    "pubDate": "2026-04-29T13:58:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60938",
-    "score": 6.0,
-    "views": 45983,
-    "forwards": 1
+    "views": 18933,
+    "forwards": 109
   },
   {
     "title": "Meeting with the team of the Coordination Headquarters on the...",
@@ -211,27 +247,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18816",
-    "score": 4.0,
-    "views": 84590,
-    "forwards": 199
-  },
-  {
-    "title": "Kyiv: Drone strike",
-    "title_en": "Kyiv: Drone strike",
-    "title_uk": "Київ: Дрон-удар",
-    "description": "Update: Ukraine confirms 3rd devastating drone strike on Russia's Tuapse oil refinery. Tuapse has faced intensified strikes over the past weeks, including strikes on the Tuapse oil refinery on April 20 and April 16, leaving multi-day fires burning in the Russian town.",
-    "description_en": "Update: Ukraine confirms 3rd devastating drone strike on Russia's Tuapse oil refinery. Tuapse has faced intensified strikes over the past weeks, including strikes on the Tuapse oil refinery on April 20 and April 16, leaving multi-day fires burning in the Russian town.",
-    "description_uk": "Update: Ukraine confirms 3rd devastating drone strike on Russia's Tuapse oil refinery. Tuapse has faced intensified strikes over the past weeks, including strikes on the Tuapse oil refinery on April 20 and April 16, leaving multi-day fires burning in the Russian town.",
-    "time": "",
-    "pubDate": "2026-04-29T13:39:24+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52820",
     "score": 5.0,
-    "views": 1606,
-    "forwards": 3
+    "views": 87546,
+    "forwards": 201
   },
   {
     "title": "Air defense active",
@@ -392,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8909",
     "score": 3.0,
-    "views": 938,
+    "views": 944,
     "forwards": 14
   },
   {
@@ -410,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8907",
     "score": 5.0,
-    "views": 2601,
+    "views": 2621,
     "forwards": 9
   }
 ]
