@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: Air defense active",
+    "title_en": "Kyiv: Air defense active",
+    "title_uk": "Київ: ППО діюча",
+    "description": "Kyiv to buy 8,000 Octopus interceptor drones for Ukrainian military. The Octopus is a Ukrainian-made self-guided interceptor designed to take down Shahed-type strike drones.",
+    "description_en": "Kyiv to buy 8,000 Octopus interceptor drones for Ukrainian military. The Octopus is a Ukrainian-made self-guided interceptor designed to take down Shahed-type strike drones.",
+    "description_uk": "Kyiv to buy 8,000 Octopus interceptor drones for Ukrainian military. The Octopus is a Ukrainian-made self-guided interceptor designed to take down Shahed-type strike drones.",
+    "time": "",
+    "pubDate": "2026-04-30T21:03:47+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52857",
+    "score": 13.0,
+    "views": 213,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "Enemy UAVs in the north-east of Sumy Oblast in the direction of Chernihiv Oblast.",
+    "description_en": "Enemy UAVs in the north-east of Sumy Oblast in the direction of Chernihiv Oblast.",
+    "description_uk": "Ворожі БпЛА на північному сході Сумщини у напрямку Чернігівщини.",
+    "time": "",
+    "pubDate": "2026-04-30T20:49:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61011",
+    "score": 6.0,
+    "views": 18392,
+    "forwards": 1
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "Enemy UAVs in the east of Kharkiv region heading for Dnipropetrovsk region.",
+    "description_en": "Enemy UAVs in the east of Kharkiv region heading for Dnipropetrovsk region.",
+    "description_uk": "Ворожі БпЛА на сході Харківщини курсом на Дніпропетровщину.",
+    "time": "",
+    "pubDate": "2026-04-30T20:47:43+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61010",
+    "score": 6.0,
+    "views": 19524,
+    "forwards": 11
+  },
+  {
     "title": "In Tuapse, they are getting ready for a night parade, Ukrainian...",
     "title_en": "In Tuapse, they are getting ready for a night parade, Ukrainian...",
     "title_uk": "У Туапсе готуються до нічного параду, український...",
@@ -14,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190563",
     "score": 6.5,
-    "views": 19446,
-    "forwards": 210
+    "views": 54654,
+    "forwards": 353
   },
   {
     "title": "Energy infrastructure hit",
@@ -31,9 +85,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190562",
-    "score": 4.0,
-    "views": 33637,
-    "forwards": 39
+    "score": 4.5,
+    "views": 62244,
+    "forwards": 74
   },
   {
     "title": "Kyiv: Ukraine launches arms-buying coalition with European allies,...",
@@ -50,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52855",
     "score": 11.0,
-    "views": 704,
+    "views": 1101,
     "forwards": 3
   },
   {
@@ -176,7 +230,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8930",
     "score": 5.0,
-    "views": 649,
+    "views": 673,
     "forwards": 6
   },
   {
@@ -237,8 +291,8 @@
     "title": "One of the most cynical Russian war crimes is the systematic,...",
     "title_en": "One of the most cynical Russian war crimes is the systematic,...",
     "title_uk": "Одним із найбільш цинічних російських військових злочинів є систематичне,...",
-    "description": "One of the most cynical Russian war crimes is the systematic, calculated deportation of Ukrainian children, scattering them across Russia, concealing their fate, \"reflashing\" their culture and successive, unceremonious militarization. It is extremely important to take our children home from there. Until the Russians broke them. And all the initiatives, all the activities, all the efforts that help this -...",
-    "description_en": "One of the most cynical Russian war crimes is the systematic, calculated deportation of Ukrainian children, scattering them across Russia, concealing their fate, \"reflashing\" their culture and successive, unceremonious militarization. It is extremely important to take our children home from there. Until the Russians broke them. And all the initiatives, all the activities, all the efforts that help this -...",
+    "description": "One of the most cynical Russian war crimes is the systematic, calculated deportation of Ukrainian children, scattering them across Russia, concealing their fate, \"reflashing\" their culture and successive, unceremonious militarization. It is extremely important to take our children home from there. Until the Russians broke them. And all initiatives, all activities, all efforts that help this -...",
+    "description_en": "One of the most cynical Russian war crimes is the systematic, calculated deportation of Ukrainian children, scattering them across Russia, concealing their fate, \"reflashing\" their culture and successive, unceremonious militarization. It is extremely important to take our children home from there. Until the Russians broke them. And all initiatives, all activities, all efforts that help this -...",
     "description_uk": "Один із найбільш цинічних російських воєнних злочинів – системне, прораховане вивезення українських дітей, розпорошення їх по Росії, приховування їхньої долі, «перепрошивка» їхньої культури та послідовна, безцеремонна мілітаризація. Надзвичайно важливо – забирати наших дітей звідти додому. Поки росіяни не зламали їх. І всі ініціативи, всі активності, всі зусилля, які цьому допомагають, –...",
     "time": "",
     "pubDate": "2026-04-30T12:11:20+00:00",
@@ -248,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18827",
     "score": 8.5,
-    "views": 62640,
-    "forwards": 105
+    "views": 63889,
+    "forwards": 106
   },
   {
     "title": "Mykolaiv: 200 drones launched",
@@ -266,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18826",
     "score": 22.0,
-    "views": 101290,
-    "forwards": 179
+    "views": 102998,
+    "forwards": 180
   },
   {
     "title": "Kyiv: 206 drones launched",
@@ -342,63 +396,9 @@
     "forwards": 1
   },
   {
-    "title": "Mykolaiv: Mykolaiv - a group of BpLA in the direction of the city from the...",
-    "title_en": "Mykolaiv: Mykolaiv - a group of BpLA in the direction of the city from the...",
-    "title_uk": "Миколаїв: Миколаїв - група БпЛА в напрямку м. від...",
-    "description": "Mykolaiv - a group of BpLA in the direction of the city from the south.",
-    "description_en": "Mykolaiv - a group of BpLA in the direction of the city from the south.",
-    "description_uk": "Миколаїв - група БпЛА в напрямку міста з півдня.",
-    "time": "",
-    "pubDate": "2026-04-30T08:58:45+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60985",
-    "score": 6.0,
-    "views": 3,
-    "forwards": 1
-  },
-  {
-    "title": "UAV to Odesa from the waters of the Black Sea.",
-    "title_en": "UAV to Odesa from the waters of the Black Sea.",
-    "title_uk": "БПЛА до Одеси з акваторії Чорного моря.",
-    "description": "UAV to Odesa from the waters of the Black Sea.",
-    "description_en": "UAV to Odesa from the waters of the Black Sea.",
-    "description_uk": "БпЛА на Одещину з акваторії Чорного моря.",
-    "time": "",
-    "pubDate": "2026-04-30T08:43:32+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60984",
-    "score": 5.0,
-    "views": 24241,
-    "forwards": 1
-  },
-  {
-    "title": "Arrival in Dnipro from the second perspective",
-    "title_en": "Arrival in Dnipro from the second perspective",
-    "title_uk": "Приїзд до Дніпра з другого ракурсу",
-    "description": "Arrival in Dnipro from the second perspective",
-    "description_en": "Arrival in Dnipro from the second perspective",
-    "description_uk": "Прилет в Днепре с другого ракурса",
-    "time": "",
-    "pubDate": "2026-04-30T08:35:40+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190533",
-    "score": 5.5,
-    "views": 134646,
-    "forwards": 219
-  },
-  {
     "title": "Dear defenders of the Ukrainian border! I sincerely congratulate you...",
     "title_en": "Dear defenders of the Ukrainian border! I sincerely congratulate you...",
-    "title_uk": "Шановні захисники українського кордону! Щиро вітаю...",
+    "title_uk": "Шановні захисники українського кордону! Щиро вітаю вас...",
     "description": "Dear defenders of the Ukrainian border! I sincerely congratulate you on the Day of the Border Guard of Ukraine! Border guards are the first to meet the enemy. And at a time when Ukraine is fighting for its freedom and independence, servicemen of the State Border Service of Ukraine are at the forefront of the struggle, performing an extremely important mission - protecting the state border, border intelligence, countering saboteurs and...",
     "description_en": "Dear defenders of the Ukrainian border! I sincerely congratulate you on the Day of the Border Guard of Ukraine! Border guards are the first to meet the enemy. And at a time when Ukraine is fighting for its freedom and independence, servicemen of the State Border Service of Ukraine are at the forefront of the struggle, performing an extremely important mission - protecting the state border, border intelligence, countering saboteurs and...",
     "description_uk": "Шановні захисники українського кордону! Щиро вітаю вас із Днем прикордонника України! Прикордонники зустрічають ворога першими. І в час, коли Україна виборює свою свободу і незалежність, військовослужбовці Державної прикордонної служби України стоять на передньому краї боротьби, виконуючи надзвичайно важливу місію – захист державного кордону, прикордонну розвідку, протидію диверсантам та...",
@@ -410,7 +410,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37982",
     "score": 5.0,
-    "views": 4668,
+    "views": 4714,
     "forwards": 9
   },
   {
@@ -446,7 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37979",
     "score": 13.0,
-    "views": 5369,
+    "views": 5400,
     "forwards": 24
   }
 ]
