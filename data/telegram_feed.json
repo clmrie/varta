@@ -1,21 +1,57 @@
 [
   {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Київ: Дрон-удар",
+    "description": "Russia's battered Tuapse oil refinery attacked by Ukrainian drones for 4th time as fires ravage site. The facility on the Black Sea Coast was previously hit three times in two weeks, causing heavy damage to the refinery and triggering a state of emergency in the city.",
+    "description_en": "Russia's battered Tuapse oil refinery attacked by Ukrainian drones for 4th time as fires ravage site. The facility on the Black Sea Coast was previously hit three times in two weeks, causing heavy damage to the refinery and triggering a state of emergency in the city.",
+    "description_uk": "Russia's battered Tuapse oil refinery attacked by Ukrainian drones for 4th time as fires ravage site. The facility on the Black Sea Coast was previously hit three times in two weeks, causing heavy damage to the refinery and triggering a state of emergency in the city.",
+    "time": "",
+    "pubDate": "2026-04-30T23:05:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52860",
+    "score": 5.0,
+    "views": 82,
+    "forwards": 1
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
-    "description": "Groups of enemy UAVs in the Black Sea in the direction of the Gulf.",
-    "description_en": "Groups of enemy UAVs in the Black Sea in the direction of the Gulf.",
-    "description_uk": "Групи ворожих БпЛА у Чорному морі у напрямку Затоки.",
+    "description": "Enemy UAVs in the direction of Odessa.",
+    "description_en": "Enemy UAVs in the direction of Odessa.",
+    "description_uk": "Ворожі БпЛА у напрямку Одеси.",
     "time": "",
-    "pubDate": "2026-04-30T22:09:30+00:00",
+    "pubDate": "2026-04-30T22:37:27+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Ukraine",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61012",
+    "link": "https://t.me/kpszsu/61014",
     "score": 5.0,
-    "views": 1966,
-    "forwards": 6
+    "views": 9769,
+    "forwards": 11
+  },
+  {
+    "title": "BpLA in the direction of Kryvyi Rih from the south.",
+    "title_en": "BpLA in the direction of Kryvyi Rih from the south.",
+    "title_uk": "БпЛА в напрямку Кривого Рогу з півд.",
+    "description": "BpLA in the direction of Kryvyi Rih from the south.",
+    "description_en": "BpLA in the direction of Kryvyi Rih from the south.",
+    "description_uk": "БпЛА у напрямку Кривого Рогу з півдня.",
+    "time": "",
+    "pubDate": "2026-04-30T22:22:54+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61013",
+    "score": 5.0,
+    "views": 13122,
+    "forwards": 12
   },
   {
     "title": "Kyiv: Air defense active",
@@ -32,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52857",
     "score": 13.0,
-    "views": 564,
+    "views": 759,
     "forwards": 1
   },
   {
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190563",
     "score": 6.5,
-    "views": 66986,
-    "forwards": 407
+    "views": 74060,
+    "forwards": 429
   },
   {
     "title": "Energy infrastructure hit",
@@ -104,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190562",
     "score": 4.5,
-    "views": 73206,
-    "forwards": 75
+    "views": 79598,
+    "forwards": 92
   },
   {
     "title": "Kyiv: Ukraine launches arms-buying coalition with European allies,...",
@@ -248,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8930",
     "score": 5.0,
-    "views": 681,
+    "views": 687,
     "forwards": 6
   },
   {
@@ -320,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18827",
     "score": 8.5,
-    "views": 64518,
-    "forwards": 108
+    "views": 65010,
+    "forwards": 109
   },
   {
     "title": "Mykolaiv: 200 drones launched",
@@ -338,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18826",
     "score": 22.0,
-    "views": 103800,
-    "forwards": 181
+    "views": 104514,
+    "forwards": 182
   },
   {
     "title": "Kyiv: 206 drones launched",
@@ -374,7 +410,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37982",
     "score": 5.0,
-    "views": 4737,
+    "views": 4749,
     "forwards": 9
   },
   {
@@ -410,7 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37979",
     "score": 13.0,
-    "views": 5416,
+    "views": 5424,
     "forwards": 24
   }
 ]
