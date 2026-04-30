@@ -1,5 +1,41 @@
 [
   {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на південному сході...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-04-30T13:50:22+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60999",
+    "score": 5.0,
+    "views": 33068,
+    "forwards": 1
+  },
+  {
+    "title": "Mykolaiv: Mykolaiv - BpLA in the direction of the city from the south.",
+    "title_en": "Mykolaiv: Mykolaiv - BpLA in the direction of the city from the south.",
+    "title_uk": "Миколаїв: Миколаїв – БпЛА в напрямку міста з півд.",
+    "description": "Mykolaiv - BpLA in the direction of the city from the south.",
+    "description_en": "Mykolaiv - BpLA in the direction of the city from the south.",
+    "description_uk": "Миколаїв - БпЛА в напрямку міста з півдня.",
+    "time": "",
+    "pubDate": "2026-04-30T12:55:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60998",
+    "score": 6.0,
+    "views": 93572,
+    "forwards": 35
+  },
+  {
     "title": "Sumy: Sumy - BpLA in the direction of the city.",
     "title_en": "Sumy: Sumy - BpLA in the direction of the city.",
     "title_uk": "Суми: Суми – БпЛА в напрямку м.",
@@ -31,9 +67,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18827",
-    "score": 8.0,
-    "views": 8482,
-    "forwards": 41
+    "score": 8.5,
+    "views": 43558,
+    "forwards": 90
   },
   {
     "title": "Mykolaiv: 200 drones launched",
@@ -50,8 +86,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18826",
     "score": 22.0,
-    "views": 28713,
-    "forwards": 119
+    "views": 73183,
+    "forwards": 157
   },
   {
     "title": "Kyiv: 206 drones launched",
@@ -68,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52844",
     "score": 14.0,
-    "views": 1078,
-    "forwards": 2
+    "views": 1544,
+    "forwards": 3
   },
   {
     "title": "Mykolaiv: Mykolaiv - BpLA in the direction of the city.",
@@ -104,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190537",
     "score": 6.5,
-    "views": 95750,
-    "forwards": 321
+    "views": 125095,
+    "forwards": 390
   },
   {
     "title": "Dnipro: Dnipro - BpLA in the direction of the city.",
@@ -175,9 +211,9 @@
     "location": "Dnipro",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190533",
-    "score": 4.5,
-    "views": 112820,
-    "forwards": 183
+    "score": 5.5,
+    "views": 134646,
+    "forwards": 219
   },
   {
     "title": "Dear defenders of the Ukrainian border! I sincerely congratulate you...",
@@ -194,8 +230,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37982",
     "score": 5.0,
-    "views": 3439,
-    "forwards": 8
+    "views": 3910,
+    "forwards": 9
   },
   {
     "title": "Strike confirmed",
@@ -284,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52838",
     "score": 8.0,
-    "views": 1526,
+    "views": 1748,
     "forwards": 2
   },
   {
@@ -302,8 +338,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37979",
     "score": 13.0,
-    "views": 4738,
-    "forwards": 22
+    "views": 4956,
+    "forwards": 23
   },
   {
     "title": "Odesa: Drone attack on residential area",
@@ -322,42 +358,6 @@
     "score": 18.0,
     "views": 1239,
     "forwards": 2
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "Several strike UAVs from the Black Sea in the direction of Odesa and Mykolaiv Oblast. And also south of Kryvyi Rih",
-    "description_en": "Several strike UAVs from the Black Sea in the direction of Odesa and Mykolaiv Oblast. And also south of Kryvyi Rih",
-    "description_uk": "Декілька ударних БпЛА з акваторії Чорного моря в напрямку Одещини та Миколаївщини. А також південніше Кривого Рогу",
-    "time": "",
-    "pubDate": "2026-04-30T01:38:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60968",
-    "score": 6.0,
-    "views": 63707,
-    "forwards": 13
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Strike UAV in the direction of Kovel (Volyn)",
-    "description_en": "Strike UAV in the direction of Kovel (Volyn)",
-    "description_uk": "Ударний БпЛА в напрямку Ковеля (Волинь)",
-    "time": "",
-    "pubDate": "2026-04-30T01:33:41+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60966",
-    "score": 5.0,
-    "views": 38976,
-    "forwards": 12
   },
   {
     "title": "Kyiv: Explosions reported",
@@ -430,23 +430,5 @@
     "score": 11.0,
     "views": 24221,
     "forwards": 1
-  },
-  {
-    "title": "🇵🇱 Ukraine and Poland: history as a space of dialogue On May 6-8,...",
-    "title_en": "🇵🇱 Ukraine and Poland: history as a space of dialogue On May 6-8,...",
-    "title_uk": "🇵🇱 Україна та Польща: історія як простір діалогу 6-8 травня...",
-    "description": "🇵🇱 Ukraine and Poland: history as a space of dialogue On May 6-8, 2026, the Polish-Ukrainian Congress of Historians will be held - the largest meeting of researchers from Poland and Ukraine to date, dedicated to understanding history and ways of interpreting it. Organized by the Myeroshevsky Center and the Ukrainian Institute of National Remembrance, the Congress will bring together more than 100 historians representing various...",
-    "description_en": "🇵🇱 Ukraine and Poland: history as a space of dialogue On May 6-8, 2026, the Polish-Ukrainian Congress of Historians will be held - the largest meeting of researchers from Poland and Ukraine to date, dedicated to understanding history and ways of interpreting it. Organized by the Myeroshevsky Center and the Ukrainian Institute of National Remembrance, the Congress will bring together more than 100 historians representing various...",
-    "description_uk": "🇵🇱 Україна та Польща: історія як простір діалогу 6–8 травня 2026 року відбудеться Польсько-український конгрес істориків – найбільша на сьогодні зустріч дослідників з Польщі та України, присвячена осмисленню історії та способів її інтерпретації. Організований Центром Мєрошевського та Українським інститутом національної пам’яті, Конгрес об’єднає понад 100 істориків, які представляють різні...",
-    "time": "",
-    "pubDate": "2026-04-28T13:58:26+00:00",
-    "category": "alert",
-    "severity": "medium",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/8909",
-    "score": 3.0,
-    "views": 974,
-    "forwards": 14
   }
 ]
