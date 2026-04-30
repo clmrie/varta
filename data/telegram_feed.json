@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Groups of enemy UAVs in the Black Sea in the direction of the Gulf.",
+    "description_en": "Groups of enemy UAVs in the Black Sea in the direction of the Gulf.",
+    "description_uk": "Групи ворожих БпЛА у Чорному морі у напрямку Затоки.",
+    "time": "",
+    "pubDate": "2026-04-30T22:09:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61012",
+    "score": 5.0,
+    "views": 1966,
+    "forwards": 6
+  },
+  {
     "title": "Kyiv: Air defense active",
     "title_en": "Kyiv: Air defense active",
     "title_uk": "Київ: ППО діюча",
@@ -14,8 +32,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52857",
     "score": 13.0,
-    "views": 213,
-    "forwards": 0
+    "views": 564,
+    "forwards": 1
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -32,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61011",
     "score": 6.0,
-    "views": 18392,
-    "forwards": 1
+    "views": 28432,
+    "forwards": 16
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -68,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190563",
     "score": 6.5,
-    "views": 54654,
-    "forwards": 353
+    "views": 66986,
+    "forwards": 407
   },
   {
     "title": "Energy infrastructure hit",
@@ -86,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190562",
     "score": 4.5,
-    "views": 62244,
-    "forwards": 74
+    "views": 73206,
+    "forwards": 75
   },
   {
     "title": "Kyiv: Ukraine launches arms-buying coalition with European allies,...",
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52855",
     "score": 11.0,
-    "views": 1101,
+    "views": 1275,
     "forwards": 3
   },
   {
@@ -230,7 +248,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8930",
     "score": 5.0,
-    "views": 673,
+    "views": 681,
     "forwards": 6
   },
   {
@@ -302,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18827",
     "score": 8.5,
-    "views": 63889,
-    "forwards": 106
+    "views": 64518,
+    "forwards": 108
   },
   {
     "title": "Mykolaiv: 200 drones launched",
@@ -320,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18826",
     "score": 22.0,
-    "views": 102998,
-    "forwards": 180
+    "views": 103800,
+    "forwards": 181
   },
   {
     "title": "Kyiv: 206 drones launched",
@@ -342,60 +360,6 @@
     "forwards": 3
   },
   {
-    "title": "Mykolaiv: Mykolaiv - BpLA in the direction of the city.",
-    "title_en": "Mykolaiv: Mykolaiv - BpLA in the direction of the city.",
-    "title_uk": "Миколаїв: Миколаїв – БпЛА в напрямку м.",
-    "description": "Mykolaiv - BpLA in the direction of the city.",
-    "description_en": "Mykolaiv - BpLA in the direction of the city.",
-    "description_uk": "Миколаїв - БпЛА в напрямку міста.",
-    "time": "",
-    "pubDate": "2026-04-30T09:50:21+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60988",
-    "score": 6.0,
-    "views": 69864,
-    "forwards": 1
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "In Perm, after the UAV attack, the installation at \"Lukoil-Permnefteorgsintez\" caught fire - one of the largest in the country, - ASTRA",
-    "description_en": "In Perm, after the UAV attack, the installation at \"Lukoil-Permnefteorgsintez\" caught fire - one of the largest in the country, - ASTRA",
-    "description_uk": "В Перми после атаки БПЛА загорелась установка на \"Лукойл-Пермнефтеоргсинтезе\" - одна из крупнейших в стране, - ASTRA",
-    "time": "",
-    "pubDate": "2026-04-30T09:45:52+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190537",
-    "score": 6.5,
-    "views": 139152,
-    "forwards": 390
-  },
-  {
-    "title": "Dnipro: Dnipro - BpLA in the direction of the city.",
-    "title_en": "Dnipro: Dnipro - BpLA in the direction of the city.",
-    "title_uk": "Дніпро: Дніпро – БпЛА в напрямку м.",
-    "description": "Dnipro - BpLA in the direction of the city.",
-    "description_en": "Dnipro - BpLA in the direction of the city.",
-    "description_uk": "Дніпро - БпЛА в напрямку міста.",
-    "time": "",
-    "pubDate": "2026-04-30T09:45:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60987",
-    "score": 6.0,
-    "views": 52538,
-    "forwards": 1
-  },
-  {
     "title": "Dear defenders of the Ukrainian border! I sincerely congratulate you...",
     "title_en": "Dear defenders of the Ukrainian border! I sincerely congratulate you...",
     "title_uk": "Шановні захисники українського кордону! Щиро вітаю вас...",
@@ -410,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37982",
     "score": 5.0,
-    "views": 4714,
+    "views": 4737,
     "forwards": 9
   },
   {
@@ -446,7 +410,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37979",
     "score": 13.0,
-    "views": 5400,
+    "views": 5416,
     "forwards": 24
   }
 ]
