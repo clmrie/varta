@@ -1,5 +1,59 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "Several strike UAVs from the Black Sea in the direction of Odesa and Mykolaiv Oblast. And also south of Kryvyi Rih",
+    "description_en": "Several strike UAVs from the Black Sea in the direction of Odesa and Mykolaiv Oblast. And also south of Kryvyi Rih",
+    "description_uk": "Декілька ударних БпЛА з акваторії Чорного моря в напрямку Одещини та Миколаївщини. А також південніше Кривого Рогу",
+    "time": "",
+    "pubDate": "2026-04-30T01:38:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60968",
+    "score": 6.0,
+    "views": 63707,
+    "forwards": 13
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Strike UAV in the direction of Kovel (Volyn)",
+    "description_en": "Strike UAV in the direction of Kovel (Volyn)",
+    "description_uk": "Ударний БпЛА в напрямку Ковеля (Волинь)",
+    "time": "",
+    "pubDate": "2026-04-30T01:33:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/60966",
+    "score": 5.0,
+    "views": 38976,
+    "forwards": 12
+  },
+  {
+    "title": "Kyiv: Explosions reported",
+    "title_en": "Kyiv: Explosions reported",
+    "title_uk": "Київ: Повідомляється про вибухи",
+    "description": "Ukrainian drones reportedly strike Russian explosives plant in Nizhny Novgorod Oblast. Ukrainian drones struck an explosives plant in Russia's Nizhny Novgorod Oblast, and explosions were heard overnight on April 30, social media channels reported.",
+    "description_en": "Ukrainian drones reportedly strike Russian explosives plant in Nizhny Novgorod Oblast. Ukrainian drones struck an explosives plant in Russia's Nizhny Novgorod Oblast, and explosions were heard overnight on April 30, social media channels reported.",
+    "description_uk": "Ukrainian drones reportedly strike Russian explosives plant in Nizhny Novgorod Oblast. Ukrainian drones struck an explosives plant in Russia's Nizhny Novgorod Oblast, and explosions were heard overnight on April 30, social media channels reported.",
+    "time": "",
+    "pubDate": "2026-04-30T00:32:19+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52835",
+    "score": 8.0,
+    "views": 593,
+    "forwards": 2
+  },
+  {
     "title": "Kyiv: BpLA in the direction of Kyiv.",
     "title_en": "Kyiv: BpLA in the direction of Kyiv.",
     "title_uk": "Київ: БпЛА в напрямку Києва.",
@@ -50,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52834",
     "score": 4.5,
-    "views": 518,
-    "forwards": 3
+    "views": 992,
+    "forwards": 4
   },
   {
     "title": "Odesa: Drone incoming",
@@ -74,7 +128,7 @@
   {
     "title": "Drone attack",
     "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
+    "title_uk": "Атака дронов",
     "description": "Russians massively attacked Odessa with drones: they write about the \"arrival\" in a high-rise building",
     "description_en": "Russians massively attacked Odessa with drones: they write about the \"arrival\" in a high-rise building",
     "description_uk": "русня массировано атаковала Одессу дронами: пишут о «прилете» в многоэтажку",
@@ -86,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190512",
     "score": 4.5,
-    "views": 49701,
-    "forwards": 95
+    "views": 98803,
+    "forwards": 107
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -230,8 +284,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37956",
     "score": 5.0,
-    "views": 3853,
-    "forwards": 5
+    "views": 4160,
+    "forwards": 6
   },
   {
     "title": "Mykolaiv: The BpLA group operates in the Black Sea (Odessa region, Mykolaiv...",
@@ -252,24 +306,6 @@
     "forwards": 1
   },
   {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "UAV in the direction of Mykolayiv region from the Black Sea.",
-    "description_en": "UAV in the direction of Mykolayiv region from the Black Sea.",
-    "description_uk": "БпЛА в напрямку Миколаївщини з акваторії Чорного моря.",
-    "time": "",
-    "pubDate": "2026-04-29T14:35:36+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60940",
-    "score": 6.0,
-    "views": 44540,
-    "forwards": 10
-  },
-  {
     "title": "Zaporizhzhia: The elements of the air defense system, ammunition warehouse, oil...",
     "title_en": "Zaporizhzhia: The elements of the air defense system, ammunition warehouse, oil...",
     "title_uk": "Запоріжжя: Елементи системи ППО, склад боєприпасів, нафто...",
@@ -284,8 +320,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37955",
     "score": 6.5,
-    "views": 20667,
-    "forwards": 109
+    "views": 23508,
+    "forwards": 110
   },
   {
     "title": "Meeting with the team of the Coordination Headquarters on the...",
@@ -302,44 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18816",
     "score": 5.0,
-    "views": 90708,
-    "forwards": 203
-  },
-  {
-    "title": "Air defense active",
-    "title_en": "Air defense active",
-    "title_uk": "Активна ППО",
-    "description": "So today they shot down \"Shakhed\" over the Dnieper from a portable anti-aircraft missile complex, - local public",
-    "description_en": "So today they shot down \"Shakhed\" over the Dnieper from a portable anti-aircraft missile complex, - local public",
-    "description_uk": "Так сегодня сбивали \"Шахед\" над Днепром с переносного зенитного ракетного комплекса, - местные паблики",
-    "time": "",
-    "pubDate": "2026-04-29T12:54:56+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190470",
-    "score": 6.5,
-    "views": 91609,
-    "forwards": 888
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern and south-eastern directions! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern and south-eastern directions! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному та південно-східному напрямках! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-04-29T12:41:51+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/60934",
-    "score": 5.0,
-    "views": 23234,
-    "forwards": 1
+    "views": 94048,
+    "forwards": 204
   },
   {
     "title": "Kyiv: Air defense active",
@@ -410,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8909",
     "score": 3.0,
-    "views": 947,
+    "views": 948,
     "forwards": 14
   },
   {
@@ -428,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8907",
     "score": 5.0,
-    "views": 2629,
+    "views": 2637,
     "forwards": 9
   }
 ]
