@@ -1,5 +1,59 @@
 [
   {
+    "title": "Chernihiv: A group of BpLA in Sumy Oblast, past n.p. Buryn - heading for...",
+    "title_en": "Chernihiv: A group of BpLA in Sumy Oblast, past n.p. Buryn - heading for...",
+    "title_uk": "Чернігів: Група БпЛА в Сумській обл., повз н.п. Буринь - прямує до...",
+    "description": "A group of BpLA in Sumy Oblast, past n.p. Buryn - heading for Chernihiv Oblast. 🛵 BpLA in Chernihiv Oblast - heading for Sumy Oblast. 🛵 Unmanned aerial vehicle in the Kherson region - on a northerly course.",
+    "description_en": "A group of BpLA in Sumy Oblast, past n.p. Buryn - heading for Chernihiv Oblast. 🛵 BpLA in Chernihiv Oblast - heading for Sumy Oblast. 🛵 Unmanned aerial vehicle in the Kherson region - on a northerly course.",
+    "description_uk": "Група БпЛА на Сумщині, повз н.п. Буринь - курсом на Чернігівщину. 🛵 БпЛА на Чернігівщині - курсом на Сумщину. 🛵 БпЛА на Херсонщині - північним курсом.",
+    "time": "",
+    "pubDate": "2026-05-01T06:35:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61034",
+    "score": 6.0,
+    "views": 21205,
+    "forwards": 37
+  },
+  {
+    "title": "UAV to Odesa (Odesa district) from the Black Sea.",
+    "title_en": "UAV to Odesa (Odesa district) from the Black Sea.",
+    "title_uk": "БПЛА на Одесу (Одеський район) з боку Чорного моря.",
+    "description": "UAV to Odesa (Odesa district) from the Black Sea.",
+    "description_en": "UAV to Odesa (Odesa district) from the Black Sea.",
+    "description_uk": "БпЛА на Одещину (Одеський р-н) з акваторії Чорного моря.",
+    "time": "",
+    "pubDate": "2026-05-01T05:26:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61033",
+    "score": 5.0,
+    "views": 58601,
+    "forwards": 2
+  },
+  {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "190 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of May 1 (from 17:45 on April 30), the enemy attacked 210 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Kursk, Shatalovo, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, TOT Donetsk, about 140 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile troops,...",
+    "description_en": "190 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of May 1 (from 17:45 on April 30), the enemy attacked 210 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Kursk, Shatalovo, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, TOT Donetsk, about 140 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile troops,...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 190 ВОРОЖИХ БПЛА У ніч на 01 травня (з 17:45 30 квітня) противник атакував 210 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та безпілотниками інших типів із напрямків: Курськ, Шаталово, Орел, Міллерово, Приморсько-Ахтарськ – рф., Гвардійське – ТОТ АР Крим, ТОТ Донецьк, близько 140 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська,...",
+    "time": "",
+    "pubDate": "2026-05-01T05:07:12+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/38010",
+    "score": 13.0,
+    "views": 3096,
+    "forwards": 18
+  },
+  {
     "title": "Zaporizhzhia: Military releases video of Ukrainian drones striking key Russian...",
     "title_en": "Zaporizhzhia: Military releases video of Ukrainian drones striking key Russian...",
     "title_uk": "Запоріжжя: військові оприлюднили відео ударів українських безпілотників по ключових російських...",
@@ -14,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52862",
     "score": 8.0,
-    "views": 273,
-    "forwards": 1
+    "views": 948,
+    "forwards": 2
   },
   {
     "title": "Ballistic missile launch detected",
@@ -86,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52860",
     "score": 5.0,
-    "views": 892,
+    "views": 1432,
     "forwards": 3
   },
   {
@@ -194,7 +248,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190563",
     "score": 6.5,
-    "views": 117364,
+    "views": 155103,
     "forwards": 457
   },
   {
@@ -212,7 +266,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190562",
     "score": 4.5,
-    "views": 119620,
+    "views": 154871,
     "forwards": 110
   },
   {
@@ -306,42 +360,6 @@
     "forwards": 0
   },
   {
-    "title": "Kharkiv: The BpLA group in the Kharkiv region - past Bogodukhiv, on a...",
-    "title_en": "Kharkiv: The BpLA group in the Kharkiv region - past Bogodukhiv, on a...",
-    "title_uk": "Харків: Група BpLA в Харківській області - повз Богодухів, на...",
-    "description": "The BpLA group in the Kharkiv region - past Bogodukhiv, on a southerly course.",
-    "description_en": "The BpLA group in the Kharkiv region - past Bogodukhiv, on a southerly course.",
-    "description_uk": "Група БпЛА на Харківщині - повз Богодухів, південним курсом.",
-    "time": "",
-    "pubDate": "2026-04-30T17:18:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61004",
-    "score": 6.0,
-    "views": 23954,
-    "forwards": 2
-  },
-  {
-    "title": "Mykolaiv: Mykolaiv - BpLA in the direction of the city from the south.",
-    "title_en": "Mykolaiv: Mykolaiv - BpLA in the direction of the city from the south.",
-    "title_uk": "Миколаїв: Миколаїв – БпЛА в напрямку міста з півд.",
-    "description": "Mykolaiv - BpLA in the direction of the city from the south.",
-    "description_en": "Mykolaiv - BpLA in the direction of the city from the south.",
-    "description_uk": "Миколаїв - БпЛА в напрямку міста з півдня.",
-    "time": "",
-    "pubDate": "2026-04-30T16:41:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61003",
-    "score": 6.5,
-    "views": 72454,
-    "forwards": 55
-  },
-  {
     "title": "🇪🇺 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"I am...",
     "title_en": "🇪🇺 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"I am...",
     "title_uk": "🇪🇺 Міністр закордонних справ України Андрій Сибіга: «Я...",
@@ -356,15 +374,15 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8930",
     "score": 5.0,
-    "views": 713,
+    "views": 763,
     "forwards": 6
   },
   {
     "title": "One of the most cynical Russian war crimes is the systematic,...",
     "title_en": "One of the most cynical Russian war crimes is the systematic,...",
     "title_uk": "Одним із найбільш цинічних російських військових злочинів є систематичне,...",
-    "description": "One of the most cynical Russian war crimes is the systematic, calculated deportation of Ukrainian children, scattering them across Russia, concealing their fate, \"reflashing\" their culture and successive, unceremonious militarization. It is extremely important to take our children home from there. Until the Russians broke them. And all initiatives, all activities, all efforts that help this -...",
-    "description_en": "One of the most cynical Russian war crimes is the systematic, calculated deportation of Ukrainian children, scattering them across Russia, concealing their fate, \"reflashing\" their culture and successive, unceremonious militarization. It is extremely important to take our children home from there. Until the Russians broke them. And all initiatives, all activities, all efforts that help this -...",
+    "description": "One of the most cynical Russian war crimes is the systematic, calculated deportation of Ukrainian children, scattering them across Russia, concealing their fate, \"reflashing\" their culture and successive, unceremonious militarization. It is extremely important to take our children home from there. Until the Russians broke them. And all the initiatives, all the activities, all the efforts that help this -...",
+    "description_en": "One of the most cynical Russian war crimes is the systematic, calculated deportation of Ukrainian children, scattering them across Russia, concealing their fate, \"reflashing\" their culture and successive, unceremonious militarization. It is extremely important to take our children home from there. Until the Russians broke them. And all the initiatives, all the activities, all the efforts that help this -...",
     "description_uk": "Один із найбільш цинічних російських воєнних злочинів – системне, прораховане вивезення українських дітей, розпорошення їх по Росії, приховування їхньої долі, «перепрошивка» їхньої культури та послідовна, безцеремонна мілітаризація. Надзвичайно важливо – забирати наших дітей звідти додому. Поки росіяни не зламали їх. І всі ініціативи, всі активності, всі зусилля, які цьому допомагають, –...",
     "time": "",
     "pubDate": "2026-04-30T12:11:20+00:00",
@@ -374,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18827",
     "score": 8.5,
-    "views": 67020,
-    "forwards": 110
+    "views": 69442,
+    "forwards": 112
   },
   {
     "title": "Mykolaiv: 200 drones launched",
@@ -392,8 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18826",
     "score": 22.0,
-    "views": 107801,
-    "forwards": 182
+    "views": 112378,
+    "forwards": 184
   },
   {
     "title": "Kyiv: 206 drones launched",
@@ -430,23 +448,5 @@
     "score": 5.0,
     "views": 4883,
     "forwards": 9
-  },
-  {
-    "title": "Kursk: Drone incoming",
-    "title_en": "Kursk: Drone incoming",
-    "title_uk": "Курськ: Дрон входить",
-    "description": "172 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 30 (from 18:00 on April 29), the enemy attacked with an Iskander-M ballistic missile from the Rostov region. - Russian Federation, 206 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Kursk, Bryansk, Shatalovo, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Gvardiyske - TOT AR Crimea, more than 140 of them -...",
-    "description_en": "172 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 30 (from 18:00 on April 29), the enemy attacked with an Iskander-M ballistic missile from the Rostov region. - Russian Federation, 206 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Kursk, Bryansk, Shatalovo, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Gvardiyske - TOT AR Crimea, more than 140 of them -...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 172 ВОРОЖІ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 30 квітня (з 18:00 29 квітня) противник атакував балістичною ракетою Іскандер-М із Ростовської обл. -рф, 206-ма ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та безпілотниками інших типів із напрямків: Курськ, Брянськ, Шаталово, Орел, Міллерово, Приморсько-Ахтарськ – рф., ТОТ Гвардійське – ТОТ АР Крим, понад 140 із них –...",
-    "time": "",
-    "pubDate": "2026-04-30T05:17:05+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kursk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37979",
-    "score": 13.0,
-    "views": 5508,
-    "forwards": 24
   }
 ]
