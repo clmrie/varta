@@ -1,5 +1,59 @@
 [
   {
+    "title": "Sumy: Drone incoming",
+    "title_en": "Sumy: Drone incoming",
+    "title_uk": "Суми: Дрон вхід",
+    "description": "UAV on Sumy from the northwest.",
+    "description_en": "UAV on Sumy from the northwest.",
+    "description_uk": "БпЛА на Суми з північного заходу.",
+    "time": "",
+    "pubDate": "2026-05-01T16:42:43+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61096",
+    "score": 6.0,
+    "views": 13104,
+    "forwards": 1
+  },
+  {
+    "title": "Sumyshchyna: BpLA passes by Krolevets heading southwest; BpLA on...",
+    "title_en": "Sumyshchyna: BpLA passes by Krolevets heading southwest; BpLA on...",
+    "title_uk": "Сумщина: BpLA проходить повз Кролевець на південний захід; BpLA на...",
+    "description": "Sumyshchyna: BpLA passes by Krolevets heading southwest; BpLA on Putivl from the south.",
+    "description_en": "Sumyshchyna: BpLA passes by Krolevets heading southwest; BpLA on Putivl from the south.",
+    "description_uk": "Сумщина: БпЛА повз Кролевець курсом на південний захід; БпЛА на Путивль з півдня.",
+    "time": "",
+    "pubDate": "2026-05-01T16:38:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61095",
+    "score": 5.0,
+    "views": 19180,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Airstrike attack",
+    "title_en": "Kyiv: Airstrike attack",
+    "title_uk": "Київ: Авіаційна атака",
+    "description": "Ukraine strikes Russian airfield nearly 1,700 kilometers away, damages 2 fighter jets, General Staff says. Ukrainian forces hit a Su-57 and a Su-34 fighter jet on May 1 at the Shagol airfield in Chelyabinsk, Russia, the General Staff said.",
+    "description_en": "Ukraine strikes Russian airfield nearly 1,700 kilometers away, damages 2 fighter jets, General Staff says. Ukrainian forces hit a Su-57 and a Su-34 fighter jet on May 1 at the Shagol airfield in Chelyabinsk, Russia, the General Staff said.",
+    "description_uk": "Ukraine strikes Russian airfield nearly 1,700 kilometers away, damages 2 fighter jets, General Staff says. Ukrainian forces hit a Su-57 and a Su-34 fighter jet on May 1 at the Shagol airfield in Chelyabinsk, Russia, the General Staff said.",
+    "time": "",
+    "pubDate": "2026-05-01T16:10:33+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52872",
+    "score": 5.0,
+    "views": 528,
+    "forwards": 0
+  },
+  {
     "title": "🛫 Activity of enemy tactical aviation in the southeast direction!...",
     "title_en": "🛫 Activity of enemy tactical aviation in the southeast direction!...",
     "title_uk": "🛫 Активність тактичної авіації противника на південно-східному напрямку!...",
@@ -50,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52870",
     "score": 6.0,
-    "views": 498,
+    "views": 928,
     "forwards": 2
   },
   {
@@ -68,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38042",
     "score": 12.5,
-    "views": 2495,
-    "forwards": 25
+    "views": 3379,
+    "forwards": 31
   },
   {
     "title": "Ballistic missile launch detected",
@@ -122,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190610",
     "score": 4.5,
-    "views": 76568,
-    "forwards": 263
+    "views": 94998,
+    "forwards": 301
   },
   {
     "title": "Drone strike",
@@ -176,7 +230,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38036",
     "score": 13.0,
-    "views": 3979,
+    "views": 4450,
     "forwards": 23
   },
   {
@@ -266,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18836",
     "score": 9.5,
-    "views": 122445,
-    "forwards": 258
+    "views": 131360,
+    "forwards": 269
   },
   {
     "title": "Volyn - BpLA passes by Tsuman heading west. 🛵 Unmanned aerial vehicle...",
@@ -394,59 +448,5 @@
     "score": 12.5,
     "views": 2903,
     "forwards": 8
-  },
-  {
-    "title": "Kyiv: 210 drones launched",
-    "title_en": "Kyiv: 210 drones launched",
-    "title_uk": "Київ: запущено 210 дронів",
-    "description": "At least 1 killed, 52 injured in Russian attacks on Ukraine over past day. Russian forces launched an Iskander-M ballistic missile and 210 drones against Ukraine overnight, the Air Force said. It reported downing 190 drones.",
-    "description_en": "At least 1 killed, 52 injured in Russian attacks on Ukraine over past day. Russian forces launched an Iskander-M ballistic missile and 210 drones against Ukraine overnight, the Air Force said. It reported downing 190 drones.",
-    "description_uk": "At least 1 killed, 52 injured in Russian attacks on Ukraine over past day. Russian forces launched an Iskander-M ballistic missile and 210 drones against Ukraine overnight, the Air Force said. It reported downing 190 drones.",
-    "time": "",
-    "pubDate": "2026-05-01T08:43:10+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52864",
-    "score": 14.0,
-    "views": 1719,
-    "forwards": 3
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Дрон вхід",
-    "description": "UAVs in the east and south of Kyiv region, in the southwest direction.",
-    "description_en": "UAVs in the east and south of Kyiv region, in the southwest direction.",
-    "description_uk": "БпЛА на сході та півдні Київщини, на південно-західний напрямок.",
-    "time": "",
-    "pubDate": "2026-05-01T08:24:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61046",
-    "score": 6.0,
-    "views": 29218,
-    "forwards": 3
-  },
-  {
-    "title": "\"They extinguished and the flight arrived again. God, will it ever...",
-    "title_en": "\"They extinguished and the flight arrived again. God, will it ever...",
-    "title_uk": "\"Погасили і рейс знову прилетів. Боже, чи колись...",
-    "description": "\"They extinguished and the flight arrived again. God, will it ever end? Bedny gorod\" - the Russians in Tuapse never got the reason for the swings in the swamps. Well, what the hell. Let's continue 🔥",
-    "description_en": "\"They extinguished and the flight arrived again. God, will it ever end? Bedny gorod\" - the Russians in Tuapse never got the reason for the swings in the swamps. Well, what the hell. Let's continue 🔥",
-    "description_uk": "«Потушили и снова прилет. Боже, это закончится? Бедный город» — к россиянам в Туапсе так и не дошла причина гойды на болотах Ну, что ж. Продолжаем 🔥",
-    "time": "",
-    "pubDate": "2026-05-01T07:45:01+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190583",
-    "score": 4.5,
-    "views": 88578,
-    "forwards": 182
   }
 ]
