@@ -1,5 +1,77 @@
 [
   {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "UAVs in the east and south of Kyiv region, in the southwest direction.",
+    "description_en": "UAVs in the east and south of Kyiv region, in the southwest direction.",
+    "description_uk": "БпЛА на сході та півдні Київщини, на південно-західний напрямок.",
+    "time": "",
+    "pubDate": "2026-05-01T08:24:50+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61046",
+    "score": 6.0,
+    "views": 29218,
+    "forwards": 3
+  },
+  {
+    "title": "\"They extinguished and the flight arrived again. God, will it ever...",
+    "title_en": "\"They extinguished and the flight arrived again. God, will it ever...",
+    "title_uk": "\"Погасили і рейс знову прилетів. Боже, чи колись...",
+    "description": "\"They extinguished and the flight arrived again. God, will it ever end? Bedny gorod\" - the Russians in Tuapse never got the reason for the rocking in the swamps. Well, what the hell. Let's continue 🔥",
+    "description_en": "\"They extinguished and the flight arrived again. God, will it ever end? Bedny gorod\" - the Russians in Tuapse never got the reason for the rocking in the swamps. Well, what the hell. Let's continue 🔥",
+    "description_uk": "«Потушили и снова прилет. Боже, это закончится? Бедный город» — к россиянам в Туапсе так и не дошла причина гойды на болотах Ну, что ж. Продолжаем 🔥",
+    "time": "",
+    "pubDate": "2026-05-01T07:45:01+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190583",
+    "score": 4.5,
+    "views": 46853,
+    "forwards": 142
+  },
+  {
+    "title": "Kharkiv: Drone strike near civilians",
+    "title_en": "Kharkiv: Drone strike near civilians",
+    "title_uk": "Харків: удар безпілотників по мирних жителях",
+    "description": "This night, the Russians again fought against ordinary high-rise buildings in Odesa - as of now, it is known about five wounded and fires in two buildings. Also, in Kryvyi Rih, a person was injured due to a drone strike. In Kharkiv Oblast, they attacked railway infrastructure, hit traction substations. There was damage and a fire in the wagons. Thousands of families lost power due to shelling. They were also in Sumy Oblast and Zaporizhzhia...",
+    "description_en": "This night, the Russians again fought against ordinary high-rise buildings in Odesa - as of now, it is known about five wounded and fires in two buildings. Also, in Kryvyi Rih, a person was injured due to a drone strike. In Kharkiv Oblast, they attacked railway infrastructure, hit traction substations. There was damage and a fire in the wagons. Thousands of families lost power due to shelling. They were also in Sumy Oblast and Zaporizhzhia...",
+    "description_uk": "Цієї ночі росіяни знову воювали проти звичайних багатоповерхівок в Одесі – станом на зараз відомо про пʼятьох поранених та пожежі у двох будинках. Також у Кривому Розі через удар дроном поранено людину. На Харківщині атакували залізничну інфраструктуру, били по тягових підстанціях. Були пошкодження, пожежа вагонів. Через обстріл знеструмлено тисячі сімей. Били також по Сумщині та Запорізькій...",
+    "time": "",
+    "pubDate": "2026-05-01T07:01:12+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kharkiv",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/18830",
+    "score": 22.0,
+    "views": 84313,
+    "forwards": 187
+  },
+  {
+    "title": "Russian cattle hit the gas station: in the morning it flew to the gas...",
+    "title_en": "Russian cattle hit the gas station: in the morning it flew to the gas...",
+    "title_uk": "Російське бидло вдарило по АЗС: вранці полетіло на газ...",
+    "description": "Russian cattle hit the gas station: in the morning it flew to the gas station in Chugueve and several more in Kharkiv",
+    "description_en": "Russian cattle hit the gas station: in the morning it flew to the gas station in Chugueve and several more in Kharkiv",
+    "description_uk": "руснявые скоты бьют по АЗС: за утро прилетело по автозаправке в Чугуеве и еще нескольких в Харькове",
+    "time": "",
+    "pubDate": "2026-05-01T06:50:07+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190578",
+    "score": 4.5,
+    "views": 77953,
+    "forwards": 140
+  },
+  {
     "title": "Chernihiv: A group of BpLA in Sumy Oblast, past n.p. Buryn - heading for...",
     "title_en": "Chernihiv: A group of BpLA in Sumy Oblast, past n.p. Buryn - heading for...",
     "title_uk": "Чернігів: Група БпЛА в Сумській обл., повз н.п. Буринь - прямує до...",
@@ -50,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38010",
     "score": 13.0,
-    "views": 3096,
-    "forwards": 18
+    "views": 4184,
+    "forwards": 21
   },
   {
     "title": "Zaporizhzhia: Military releases video of Ukrainian drones striking key Russian...",
@@ -68,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52862",
     "score": 8.0,
-    "views": 948,
-    "forwards": 2
+    "views": 1327,
+    "forwards": 3
   },
   {
     "title": "Ballistic missile launch detected",
@@ -140,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52860",
     "score": 5.0,
-    "views": 1432,
+    "views": 1725,
     "forwards": 3
   },
   {
@@ -234,42 +306,6 @@
     "forwards": 11
   },
   {
-    "title": "In Tuapse, they are getting ready for a night parade, Ukrainian...",
-    "title_en": "In Tuapse, they are getting ready for a night parade, Ukrainian...",
-    "title_uk": "У Туапсе готуються до нічного параду, український...",
-    "description": "In Tuapse, they are getting ready for a night parade, Ukrainian drones are invited to the party, and the list of honored guests will include jets. In total, 250 regular guests and a dozen reactive guests are expected to visit. In the morning, we will look at the consequences of the party.",
-    "description_en": "In Tuapse, they are getting ready for a night parade, Ukrainian drones are invited to the party, and the list of honored guests will include jets. In total, 250 regular guests and a dozen reactive guests are expected to visit. In the morning, we will look at the consequences of the party.",
-    "description_uk": "В Туапсе готовятся к ночной гойде, на вечеринку приглашены украинские дроны, в списке почетных гостей будут и реактивные Роспаблики сообщают, что вечеринка уже началась: сирены воют, а расчеты ПВО встречают дроны, которые заходят со стороны моря. В целом ожидается визит 250 обычных гостей, и с десяток реактивных. Утром посмотрим на последствия вечеринки.",
-    "time": "",
-    "pubDate": "2026-04-30T19:56:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190563",
-    "score": 6.5,
-    "views": 155103,
-    "forwards": 457
-  },
-  {
-    "title": "Energy infrastructure hit",
-    "title_en": "Energy infrastructure hit",
-    "title_uk": "Поразка енергетичної інфраструктури",
-    "description": "Ukrainian strikes on Russian facilities destroy Putin's reputation and demonstrate the helplessness of his air defense - a military expert \"Air defense is focused on Valdae, while the main economic and energy facilities remain uncovered. This undermines the reputation and legitimacy of power even among the Russian security forces\", - emphasized military expert and specialist in military counterintelligence Mikhail...",
-    "description_en": "Ukrainian strikes on Russian facilities destroy Putin's reputation and demonstrate the helplessness of his air defense - a military expert \"Air defense is focused on Valdae, while the main economic and energy facilities remain uncovered. This undermines the reputation and legitimacy of power even among the Russian security forces\", - emphasized military expert and specialist in military counterintelligence Mikhail...",
-    "description_uk": "Украинские удары по российским объектам разрушают репутацию Путина и демонстрируют беспомощность его ПВО — военный эксперт \"ПВО сосредоточено на Валдае, в то время как основные экономические и энергетические объекты остаются неприкрытыми. Это подрывает репутацию и легитимность власти даже среди российских силовых структур\", - подчеркнул военный эксперт и специалист по военной контрразведке Михаил...",
-    "time": "",
-    "pubDate": "2026-04-30T19:41:09+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190562",
-    "score": 4.5,
-    "views": 154871,
-    "forwards": 110
-  },
-  {
     "title": "Kyiv: Ukraine launches arms-buying coalition with European allies,...",
     "title_en": "Kyiv: Ukraine launches arms-buying coalition with European allies,...",
     "title_uk": "Київ: Україна створює коаліцію із закупівлі зброї з європейськими союзниками,...",
@@ -286,42 +322,6 @@
     "score": 11.0,
     "views": 1275,
     "forwards": 3
-  },
-  {
-    "title": "Mykolaiv: Enemy BpLA in the district. Ochakov is a vector of traffic to...",
-    "title_en": "Mykolaiv: Enemy BpLA in the district. Ochakov is a vector of traffic to...",
-    "title_uk": "Миколаїв: Ворожа БпЛА в р-ні. Очаків - вектор трафіку на...",
-    "description": "Enemy BpLA in the district. Ochakov is a vector of traffic to Mykolaiv.",
-    "description_en": "Enemy BpLA in the district. Ochakov is a vector of traffic to Mykolaiv.",
-    "description_uk": "Ворожі БпЛА в р-ні. Очакова вектором руху на Миколаїв.",
-    "time": "",
-    "pubDate": "2026-04-30T18:57:35+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61008",
-    "score": 6.5,
-    "views": 84987,
-    "forwards": 67
-  },
-  {
-    "title": "Dnipro: BpLA is north of Pavlograd with a vector of movement on the Dnipro",
-    "title_en": "Dnipro: BpLA is north of Pavlograd with a vector of movement on the Dnipro",
-    "title_uk": "Дніпро: БпЛА на північ від Павлограда з вектором руху на Дніпро",
-    "description": "BpLA is north of Pavlograd with a vector of movement on the Dnipro",
-    "description_en": "BpLA is north of Pavlograd with a vector of movement on the Dnipro",
-    "description_uk": "БпЛА північніше Павлограду вектором руху на Дніпро",
-    "time": "",
-    "pubDate": "2026-04-30T18:56:40+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61007",
-    "score": 6.5,
-    "views": 49204,
-    "forwards": 72
   },
   {
     "title": "Kyiv: Melania Trump helped bring back 26 Ukrainian children taken by...",
@@ -374,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8930",
     "score": 5.0,
-    "views": 763,
+    "views": 791,
     "forwards": 6
   },
   {
@@ -392,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18827",
     "score": 8.5,
-    "views": 69442,
+    "views": 71621,
     "forwards": 112
   },
   {
