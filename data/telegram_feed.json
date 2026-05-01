@@ -1,5 +1,41 @@
 [
   {
+    "title": "A group of UAVs to the south of Odesa from the waters of the Black...",
+    "title_en": "A group of UAVs to the south of Odesa from the waters of the Black...",
+    "title_uk": "Група БПЛА на південь від Одеси з акваторії Чорного...",
+    "description": "A group of UAVs to the south of Odesa from the waters of the Black Sea.",
+    "description_en": "A group of UAVs to the south of Odesa from the waters of the Black Sea.",
+    "description_uk": "Група БпЛА на південь Одещини з акваторії Чорного моря.",
+    "time": "",
+    "pubDate": "2026-05-01T00:01:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61016",
+    "score": 5.0,
+    "views": 2313,
+    "forwards": 6
+  },
+  {
+    "title": "Chernihiv: Enemy UAVs in the north of Chernihiv Oblast.",
+    "title_en": "Chernihiv: Enemy UAVs in the north of Chernihiv Oblast.",
+    "title_uk": "Чернігів: БПЛА противника на півночі Чернігівської області.",
+    "description": "Enemy UAVs in the north of Chernihiv Oblast.",
+    "description_en": "Enemy UAVs in the north of Chernihiv Oblast.",
+    "description_uk": "Ворожі БпЛА на півночі Чернігівщини.",
+    "time": "",
+    "pubDate": "2026-04-30T23:32:29+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61015",
+    "score": 6.0,
+    "views": 7254,
+    "forwards": 10
+  },
+  {
     "title": "Kyiv: Drone strike",
     "title_en": "Kyiv: Drone strike",
     "title_uk": "Київ: Дрон-удар",
@@ -14,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52860",
     "score": 5.0,
-    "views": 82,
-    "forwards": 1
+    "views": 323,
+    "forwards": 3
   },
   {
     "title": "Drone incoming",
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52857",
     "score": 13.0,
-    "views": 759,
+    "views": 875,
     "forwards": 1
   },
   {
@@ -122,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190563",
     "score": 6.5,
-    "views": 74060,
-    "forwards": 429
+    "views": 78572,
+    "forwards": 433
   },
   {
     "title": "Energy infrastructure hit",
@@ -140,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190562",
     "score": 4.5,
-    "views": 79598,
-    "forwards": 92
+    "views": 83876,
+    "forwards": 94
   },
   {
     "title": "Kyiv: Ukraine launches arms-buying coalition with European allies,...",
@@ -284,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8930",
     "score": 5.0,
-    "views": 687,
+    "views": 692,
     "forwards": 6
   },
   {
@@ -356,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18827",
     "score": 8.5,
-    "views": 65010,
+    "views": 65259,
     "forwards": 109
   },
   {
@@ -374,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18826",
     "score": 22.0,
-    "views": 104514,
+    "views": 104894,
     "forwards": 182
   },
   {
@@ -410,43 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/37982",
     "score": 5.0,
-    "views": 4749,
+    "views": 4763,
     "forwards": 9
-  },
-  {
-    "title": "Kyiv: Drone attack",
-    "title_en": "Kyiv: Drone attack",
-    "title_uk": "Київ: Атака безпілотників",
-    "description": "Russia’s Perm oil station struck for 2nd straight day by Ukrainian drones, fires reported. Satellite imagery indicates that at least two fuel storage tanks caught fire at an oil pumping station in Russia’s Perm Krai following a drone attack overnight on April 30, according to Russian Telegram channels and local media.",
-    "description_en": "Russia’s Perm oil station struck for 2nd straight day by Ukrainian drones, fires reported. Satellite imagery indicates that at least two fuel storage tanks caught fire at an oil pumping station in Russia’s Perm Krai following a drone attack overnight on April 30, according to Russian Telegram channels and local media.",
-    "description_uk": "Russia’s Perm oil station struck for 2nd straight day by Ukrainian drones, fires reported. Satellite imagery indicates that at least two fuel storage tanks caught fire at an oil pumping station in Russia’s Perm Krai following a drone attack overnight on April 30, according to Russian Telegram channels and local media.",
-    "time": "",
-    "pubDate": "2026-04-30T06:11:52+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52838",
-    "score": 8.0,
-    "views": 1963,
-    "forwards": 2
-  },
-  {
-    "title": "Kursk: Drone incoming",
-    "title_en": "Kursk: Drone incoming",
-    "title_uk": "Курськ: Дрон входить",
-    "description": "172 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 30 (from 18:00 on April 29), the enemy attacked with an Iskander-M ballistic missile from the Rostov region. - Russian Federation, 206 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Kursk, Bryansk, Shatalovo, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Gvardiyske - TOT AR Crimea, more than 140 of them -...",
-    "description_en": "172 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of April 30 (from 18:00 on April 29), the enemy attacked with an Iskander-M ballistic missile from the Rostov region. - Russian Federation, 206 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Kursk, Bryansk, Shatalovo, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Gvardiyske - TOT AR Crimea, more than 140 of them -...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 172 ВОРОЖІ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 30 квітня (з 18:00 29 квітня) противник атакував балістичною ракетою Іскандер-М із Ростовської обл. -рф, 206-ма ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та безпілотниками інших типів із напрямків: Курськ, Брянськ, Шаталово, Орел, Міллерово, Приморсько-Ахтарськ – рф., ТОТ Гвардійське – ТОТ АР Крим, понад 140 із них –...",
-    "time": "",
-    "pubDate": "2026-04-30T05:17:05+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kursk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/37979",
-    "score": 13.0,
-    "views": 5424,
-    "forwards": 24
   }
 ]
