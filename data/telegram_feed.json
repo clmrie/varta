@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Sumyshchyna - a group of BpLA heading for Chernihiv region. 🛵...",
+    "title_en": "Chernihiv: Sumyshchyna - a group of BpLA heading for Chernihiv region. 🛵...",
+    "title_uk": "Чернігів: Сумщина - група БпЛА прямує на Чернігівщину. 🛵...",
+    "description": "Sumyshchyna - a group of BpLA heading for Chernihiv region. 🛵 Chernihiv Oblast - BpLA group headed for Kyiv Oblast.",
+    "description_en": "Sumyshchyna - a group of BpLA heading for Chernihiv region. 🛵 Chernihiv Oblast - BpLA group headed for Kyiv Oblast.",
+    "description_uk": "Сумщина - група БпЛА курсом на Чернігівщину. 🛵 Чернігівщина - група БпЛА курсом на Київщину.",
+    "time": "",
+    "pubDate": "2026-05-02T09:34:03+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61139",
+    "score": 6.0,
+    "views": 21240,
+    "forwards": 1
+  },
+  {
+    "title": "Explosions reported",
+    "title_en": "Explosions reported",
+    "title_uk": "Повідомляється про вибухи",
+    "description": "The psychological obstacle course at the Training Center of the SBS of the ZSU Smuga has 14 obstacles. It simulates conditions close to combat: FPV-drone attacks and countering them, evacuation of wounded with the use of NRC, constant noise, explosions, smoke, limited visibility, physical exertion and working in a group under pressure. The first to cross the line are officers from various divisions who arrived at the SBS Center on...",
+    "description_en": "The psychological obstacle course at the Training Center of the SBS of the ZSU Smuga has 14 obstacles. It simulates conditions close to combat: FPV-drone attacks and countering them, evacuation of wounded with the use of NRC, constant noise, explosions, smoke, limited visibility, physical exertion and working in a group under pressure. The first to cross the line are officers from various divisions who arrived at the SBS Center on...",
+    "description_uk": "Психологічна смуга перешкод у Навчальному центрі СБС ЗСУ Смуга налічує 14 перешкод. Вона моделює умови, наближені до бойових: атаки FPV-дронів і протидію їм, евакуацію поранених із застосуванням НРК, постійний шум, вибухи, дим, обмежену видимість, фізичне навантаження та роботу в групі під тиском. Першими смугу проходять офіцери з різних підрозділів, які прибули до НЦ СБС на...",
+    "time": "",
+    "pubDate": "2026-05-02T09:31:28+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/38081",
+    "score": 14.0,
+    "views": 1226,
+    "forwards": 8
+  },
+  {
     "title": "Kryvyi Rih: Sumyshchyna - a group of BpLA heading for Chernihiv region. 🛵 BpLA...",
     "title_en": "Kryvyi Rih: Sumyshchyna - a group of BpLA heading for Chernihiv region. 🛵 BpLA...",
     "title_uk": "Кривий Ріг: Сумщина - група БПЛА прямує на Чернігівщину. 🛵 BpLA...",
@@ -14,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61137",
     "score": 6.0,
-    "views": 22244,
-    "forwards": 1
+    "views": 50567,
+    "forwards": 35
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -32,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52880",
     "score": 6.0,
-    "views": 379,
+    "views": 697,
     "forwards": 3
   },
   {
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52879",
     "score": 10.0,
-    "views": 581,
+    "views": 833,
     "forwards": 1
   },
   {
@@ -92,7 +128,7 @@
   {
     "title": "Mykolaiv: Drone strike near civilians",
     "title_en": "Mykolaiv: Drone strike near civilians",
-    "title_uk": "Миколаїв: обстріл безпілотників поблизу мирних жителів",
+    "title_uk": "Миколаїв: удар безпілотників поблизу мирних жителів",
     "description": "Seven victims in Kherson after a Russian FPV-drone attack on a regular city bus are being provided with the necessary medical assistance. Unfortunately, two people died. My condolences to family and friends. All the victims during the attack were civilians, and the Russians certainly understood that. In fact, such a cruel safari is carried out on people every day in our frontline and border communities. In Kharkiv, a drone hit a residential...",
     "description_en": "Seven victims in Kherson after a Russian FPV-drone attack on a regular city bus are being provided with the necessary medical assistance. Unfortunately, two people died. My condolences to family and friends. All the victims during the attack were civilians, and the Russians certainly understood that. In fact, such a cruel safari is carried out on people every day in our frontline and border communities. In Kharkiv, a drone hit a residential...",
     "description_uk": "Сімом постраждалим у Херсоні після російського удару FPV-дроном по звичайній міській маршрутці надають необхідну медичну допомогу. На жаль, двоє людей загинуло. Мої співчуття рідним та близьким. Усі постраждалі під час атаки – цивільні, і росіяни точно це розуміли. Фактично таке жорстоке сафарі на людей щодня в наших прифронтових і прикордонних громадах. У Харкові дрон вдарив по житловій...",
@@ -104,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18846",
     "score": 13.0,
-    "views": 50731,
-    "forwards": 142
+    "views": 66659,
+    "forwards": 156
   },
   {
     "title": "Sumy: Sumy - a group of BpLA in the direction of the city.",
@@ -140,7 +176,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190635",
     "score": 6.5,
-    "views": 108499,
+    "views": 120496,
     "forwards": 75
   },
   {
@@ -158,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190633",
     "score": 8.5,
-    "views": 110357,
-    "forwards": 76
+    "views": 123394,
+    "forwards": 77
   },
   {
     "title": "Kursk: Drone incoming",
@@ -176,7 +212,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38065",
     "score": 13.0,
-    "views": 4925,
+    "views": 5336,
     "forwards": 21
   },
   {
@@ -304,42 +340,6 @@
     "score": 6.0,
     "views": 12314,
     "forwards": 7
-  },
-  {
-    "title": "A group of UAVs to the south of Odesa from the waters of the Black...",
-    "title_en": "A group of UAVs to the south of Odesa from the waters of the Black...",
-    "title_uk": "Група БПЛА на південь від Одеси з акваторії Чорного...",
-    "description": "A group of UAVs to the south of Odesa from the waters of the Black Sea.",
-    "description_en": "A group of UAVs to the south of Odesa from the waters of the Black Sea.",
-    "description_uk": "Група БпЛА на південь Одещини з акваторії Чорного моря.",
-    "time": "",
-    "pubDate": "2026-05-01T21:49:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61107",
-    "score": 5.0,
-    "views": 6117,
-    "forwards": 2
-  },
-  {
-    "title": "Dnipro: BpLA in the Kryvorizka district of the Dnipropetrovsk region, heading...",
-    "title_en": "Dnipro: BpLA in the Kryvorizka district of the Dnipropetrovsk region, heading...",
-    "title_uk": "Дніпро: БпЛА у Криворізькому районі Дніпропетровської області, заголовок...",
-    "description": "BpLA in the Kryvorizka district of the Dnipropetrovsk region, heading for Apostolovo.",
-    "description_en": "BpLA in the Kryvorizka district of the Dnipropetrovsk region, heading for Apostolovo.",
-    "description_uk": "БпЛА в Криворізькому районі Дніпропетровщини, курсом на Апостолове.",
-    "time": "",
-    "pubDate": "2026-05-01T21:30:10+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61106",
-    "score": 6.0,
-    "views": 16111,
-    "forwards": 20
   },
   {
     "title": "Ternopil: Drone strike",
