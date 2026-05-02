@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kyiv: Drone attack",
+    "title_en": "Kyiv: Drone attack",
+    "title_uk": "Київ: Атака безпілотників",
+    "description": "Russia slams Kyiv with mass drone attack. Russia launched a mass drone attack against Kyiv late in the evening on May 2. The Air Force began warning that swarms of Russian drones were moving towards the capital shortly before 10 p.m. local time.",
+    "description_en": "Russia slams Kyiv with mass drone attack. Russia launched a mass drone attack against Kyiv late in the evening on May 2. The Air Force began warning that swarms of Russian drones were moving towards the capital shortly before 10 p.m. local time.",
+    "description_uk": "Russia slams Kyiv with mass drone attack. Russia launched a mass drone attack against Kyiv late in the evening on May 2. The Air Force began warning that swarms of Russian drones were moving towards the capital shortly before 10 p.m. local time.",
+    "time": "",
+    "pubDate": "2026-05-02T21:29:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52891",
+    "score": 9.0,
+    "views": 128,
+    "forwards": 1
+  },
+  {
     "title": "Enemy UAVs in the east and south of Kyiv.",
     "title_en": "Enemy UAVs in the east and south of Kyiv.",
     "title_uk": "БПЛА противника на сході та півдні Києва.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61162",
     "score": 5.0,
-    "views": 82659,
+    "views": 92864,
     "forwards": 36
   },
   {
@@ -32,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52890",
     "score": 6.0,
-    "views": 1008,
+    "views": 1213,
     "forwards": 3
   },
   {
@@ -50,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61161",
     "score": 6.0,
-    "views": 104311,
+    "views": 112187,
     "forwards": 36
   },
   {
@@ -68,7 +86,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190674",
     "score": 8.5,
-    "views": 120497,
+    "views": 129560,
     "forwards": 142
   },
   {
@@ -324,24 +342,6 @@
     "forwards": 57
   },
   {
-    "title": "Chernihiv: Sumyshchyna - a group of BpLA heading for Chernihiv region. 🛵...",
-    "title_en": "Chernihiv: Sumyshchyna - a group of BpLA heading for Chernihiv region. 🛵...",
-    "title_uk": "Чернігів: Сумщина – група БпЛА прямує на Чернігівщину. 🛵...",
-    "description": "Sumyshchyna - a group of BpLA heading for Chernihiv region. 🛵 Chernihiv Oblast - BpLA group headed for Kyiv Oblast.",
-    "description_en": "Sumyshchyna - a group of BpLA heading for Chernihiv region. 🛵 Chernihiv Oblast - BpLA group headed for Kyiv Oblast.",
-    "description_uk": "Сумщина - група БпЛА курсом на Чернігівщину. 🛵 Чернігівщина - група БпЛА курсом на Київщину.",
-    "time": "",
-    "pubDate": "2026-05-02T09:34:03+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61139",
-    "score": 6.0,
-    "views": 52434,
-    "forwards": 1
-  },
-  {
     "title": "Explosions reported",
     "title_en": "Explosions reported",
     "title_uk": "Повідомляється про вибухи",
@@ -356,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38081",
     "score": 14.0,
-    "views": 5103,
+    "views": 5137,
     "forwards": 17
   },
   {
@@ -410,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18846",
     "score": 14.0,
-    "views": 137389,
+    "views": 138419,
     "forwards": 218
   },
   {
@@ -428,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18836",
     "score": 9.5,
-    "views": 198856,
+    "views": 199274,
     "forwards": 318
   }
 ]
