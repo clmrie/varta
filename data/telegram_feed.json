@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kursk: Drone incoming",
+    "title_en": "Kursk: Drone incoming",
+    "title_uk": "Курськ: Дрон входить",
+    "description": "220 ENEMY UAVS SHOT DOWN/SUPPRESSED On May 2 (from 08:00 to 19:00), the enemy attacked 227 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Shatalovo, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, about 135 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile troops, units of the Reb...",
+    "description_en": "220 ENEMY UAVS SHOT DOWN/SUPPRESSED On May 2 (from 08:00 to 19:00), the enemy attacked 227 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Shatalovo, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, about 135 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile troops, units of the Reb...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 220 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ 2 травня (з 08:00 по 19:00) противник атакував 227 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та безпілотниками інших типів із напрямків: Шаталово, Курськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., Гвардійське – ТОТ АР Крим, близько 135 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ...",
+    "time": "",
+    "pubDate": "2026-05-02T16:26:12+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kursk",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61156",
+    "score": 13.0,
+    "views": 5044,
+    "forwards": 38
+  },
+  {
+    "title": "Chernihiv: A group of BpLA in Sumy Oblast - headed for Chernihiv Oblast, Poltava...",
+    "title_en": "Chernihiv: A group of BpLA in Sumy Oblast - headed for Chernihiv Oblast, Poltava...",
+    "title_uk": "Чернігів: група BpLA в Сумській області - прямувала на Чернігівську область, Полтавську...",
+    "description": "A group of BpLA in Sumy Oblast - headed for Chernihiv Oblast, Poltava Oblast. 🛵 BpLA group in Poltava region - heading to Myrhorod.",
+    "description_en": "A group of BpLA in Sumy Oblast - headed for Chernihiv Oblast, Poltava Oblast. 🛵 BpLA group in Poltava region - heading to Myrhorod.",
+    "description_uk": "Група БпЛА на Сумщині - курсом на Чернігівщину, Полтавщину. 🛵 Група БпЛА на Полтавщині - курсом на Миргород.",
+    "time": "",
+    "pubDate": "2026-05-02T16:25:56+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61155",
+    "score": 6.0,
+    "views": 4040,
+    "forwards": 1
+  },
+  {
     "title": "BpLA in the district. Kyiv in the direction of Vyshnevo.",
     "title_en": "BpLA in the district. Kyiv in the direction of Vyshnevo.",
     "title_uk": "BpLA в окрузі. Київ у напрямку Вишневого.",
@@ -50,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190659",
     "score": 6.5,
-    "views": 71204,
-    "forwards": 254
+    "views": 90721,
+    "forwards": 326
   },
   {
     "title": "UAV to Odesa (Ovidiopol) from the Black Sea.",
@@ -140,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190652",
     "score": 5.5,
-    "views": 107257,
-    "forwards": 242
+    "views": 118024,
+    "forwards": 276
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -212,7 +248,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38081",
     "score": 14.0,
-    "views": 4501,
+    "views": 4625,
     "forwards": 16
   },
   {
@@ -248,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52880",
     "score": 6.0,
-    "views": 1784,
+    "views": 1884,
     "forwards": 3
   },
   {
@@ -284,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52879",
     "score": 10.0,
-    "views": 1834,
+    "views": 1936,
     "forwards": 3
   },
   {
@@ -319,9 +355,9 @@
     "location": "Mykolaiv",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18846",
-    "score": 13.0,
-    "views": 118536,
-    "forwards": 200
+    "score": 14.0,
+    "views": 122426,
+    "forwards": 206
   },
   {
     "title": "Sumy: Sumy - a group of BpLA in the direction of the city.",
@@ -378,24 +414,6 @@
     "forwards": 78
   },
   {
-    "title": "Kursk: Drone incoming",
-    "title_en": "Kursk: Drone incoming",
-    "title_uk": "Курськ: Дрон входить",
-    "description": "142 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of May 2 (from 6:00 p.m. on May 1), the enemy attacked 163 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske, Chauda - TOT AR Crimea, about 100 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile troops,...",
-    "description_en": "142 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of May 2 (from 6:00 p.m. on May 1), the enemy attacked 163 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske, Chauda - TOT AR Crimea, about 100 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile troops,...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 142 ВОРОЖІ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 02 травня (з 18.00 1 травня) противник атакував 163 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та безпілотниками інших типів із напрямків: Курськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., Гвардійське, Чауда – ТОТ АР Крим, близько 100 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська,...",
-    "time": "",
-    "pubDate": "2026-05-02T05:14:03+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kursk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/38065",
-    "score": 13.0,
-    "views": 5954,
-    "forwards": 21
-  },
-  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -430,23 +448,5 @@
     "score": 12.5,
     "views": 906,
     "forwards": 1
-  },
-  {
-    "title": "Ternopil: Drone strike",
-    "title_en": "Ternopil: Drone strike",
-    "title_uk": "Тернопіль: Дрон-удар",
-    "description": "Ukraine war latest: Ukraine strikes Russia's Tuapse oil refinery for 4th time; Zelensky announces major military reform On May 1, Russian forces carried out a mass daytime drone attack across Ukraine, injuring at least 12 people in Ternopil. The local military administration said 36 aerial targets were detected over the city during the attack. At the same time, Ukrainian drones hit an oil...",
-    "description_en": "Ukraine war latest: Ukraine strikes Russia's Tuapse oil refinery for 4th time; Zelensky announces major military reform On May 1, Russian forces carried out a mass daytime drone attack across Ukraine, injuring at least 12 people in Ternopil. The local military administration said 36 aerial targets were detected over the city during the attack. At the same time, Ukrainian drones hit an oil...",
-    "description_uk": "Ukraine war latest: Ukraine strikes Russia's Tuapse oil refinery for 4th time; Zelensky announces major military reform On May 1, Russian forces carried out a mass daytime drone attack across Ukraine, injuring at least 12 people in Ternopil. The local military administration said 36 aerial targets were detected over the city during the attack. At the same time, Ukrainian drones hit an oil...",
-    "time": "",
-    "pubDate": "2026-05-01T19:13:39+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ternopil",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52875",
-    "score": 13.0,
-    "views": 1926,
-    "forwards": 2
   }
 ]
