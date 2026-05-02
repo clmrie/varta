@@ -1,5 +1,41 @@
 [
   {
+    "title": "UAV to Odesa (Ovidiopol) from the Black Sea.",
+    "title_en": "UAV to Odesa (Ovidiopol) from the Black Sea.",
+    "title_uk": "БПЛА на Одесу (Овідіополь) з Чорного моря.",
+    "description": "UAV to Odesa (Ovidiopol) from the Black Sea.",
+    "description_en": "UAV to Odesa (Ovidiopol) from the Black Sea.",
+    "description_uk": "БпЛА на Одещину (Овідіополь) з акваторії Чорного моря.",
+    "time": "",
+    "pubDate": "2026-05-02T13:42:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61150",
+    "score": 5.0,
+    "views": 17180,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Several groups of BpLA in Poltava Oblast - heading for Kyiv Oblast...",
+    "title_en": "Kyiv: Several groups of BpLA in Poltava Oblast - heading for Kyiv Oblast...",
+    "title_uk": "Київ: Кілька груп BpLA в Полтавській області - прямують на Київську область...",
+    "description": "Several groups of BpLA in Poltava Oblast - heading for Kyiv Oblast and Cherkasy Oblast.",
+    "description_en": "Several groups of BpLA in Poltava Oblast - heading for Kyiv Oblast and Cherkasy Oblast.",
+    "description_uk": "Декілька груп БпЛА на Полтавщині - курсом на Київщину та Черкащину.",
+    "time": "",
+    "pubDate": "2026-05-02T13:30:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61149",
+    "score": 6.0,
+    "views": 31302,
+    "forwards": 1
+  },
+  {
     "title": "51110 drones launched",
     "title_en": "51110 drones launched",
     "title_uk": "Запущено 51110 дронів",
@@ -49,9 +85,9 @@
     "location": "Kharkiv",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190652",
-    "score": 4.5,
-    "views": 52882,
-    "forwards": 172
+    "score": 5.5,
+    "views": 83308,
+    "forwards": 207
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -122,8 +158,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38081",
     "score": 14.0,
-    "views": 3547,
-    "forwards": 13
+    "views": 4158,
+    "forwards": 14
   },
   {
     "title": "Kryvyi Rih: Sumyshchyna - a group of BpLA heading for Chernihiv region. 🛵 BpLA...",
@@ -158,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52880",
     "score": 6.0,
-    "views": 1295,
+    "views": 1558,
     "forwards": 3
   },
   {
@@ -194,8 +230,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52879",
     "score": 10.0,
-    "views": 1396,
-    "forwards": 2
+    "views": 1640,
+    "forwards": 3
   },
   {
     "title": "Sumyshchyna - a group of BpLA passing by Bilopol' to Terny.",
@@ -230,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18846",
     "score": 13.0,
-    "views": 95981,
-    "forwards": 188
+    "views": 108684,
+    "forwards": 199
   },
   {
     "title": "Sumy: Sumy - a group of BpLA in the direction of the city.",
@@ -342,24 +378,6 @@
     "forwards": 1
   },
   {
-    "title": "Enemy anti-aircraft aircraft from Zhytomyr Region - to Khmelnytskyi...",
-    "title_en": "Enemy anti-aircraft aircraft from Zhytomyr Region - to Khmelnytskyi...",
-    "title_uk": "Ворожі зенітники з Житомирської області - на Хмельницький...",
-    "description": "Enemy anti-aircraft aircraft from Zhytomyr Region - to Khmelnytskyi Region, heading for Starokostyantyniv",
-    "description_en": "Enemy anti-aircraft aircraft from Zhytomyr Region - to Khmelnytskyi Region, heading for Starokostyantyniv",
-    "description_uk": "Ворожий БпЛА із Житомирщини - на Хмельниччину, курсом на Старокостянтинів",
-    "time": "",
-    "pubDate": "2026-05-02T01:29:26+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Khmelnytskyi",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61116",
-    "score": 5.0,
-    "views": 33470,
-    "forwards": 11
-  },
-  {
     "title": "Ternopil: Drone strike",
     "title_en": "Ternopil: Drone strike",
     "title_uk": "Тернопіль: Дрон-удар",
@@ -430,23 +448,5 @@
     "score": 12.5,
     "views": 4908,
     "forwards": 39
-  },
-  {
-    "title": "Missile launch detected",
-    "title_en": "Missile launch detected",
-    "title_uk": "Виявлено запуск ракети",
-    "description": "🤬 Russia released a record 6,583 long-range drones over Ukraine in April, - AFP Reportedly, the number of launches increased by 2% compared to March. At the same time, the Russian Federation began to strike more often during the day, which is connected with the demand to increase civilian casualties. The number of missiles also increased to 141, although this is less than in February. According to the data of the Armed Forces of Ukraine, in April it was possible to intercept about 88% of all targets.",
-    "description_en": "🤬 Russia released a record 6,583 long-range drones over Ukraine in April, - AFP Reportedly, the number of launches increased by 2% compared to March. At the same time, the Russian Federation began to strike more often during the day, which is connected with the demand to increase civilian casualties. The number of missiles also increased to 141, although this is less than in February. According to the data of the Armed Forces of Ukraine, in April it was possible to intercept about 88% of all targets.",
-    "description_uk": "🤬 россия выпустила рекордные 6583 дальнобойных дрона по Украине в апреле, - AFP Как сообщается, количество запусков выросло на 2% по сравнению с мартом. Одновременно рф стала чаще наносить удары днем, что связывается с попыткой увеличить потери среди гражданских. Число ракет также выросло до 141, хотя это меньше, чем в феврале. По данным ВС ВСУ, в апреле удалось перехватить около 88% всех целей.",
-    "time": "",
-    "pubDate": "2026-05-01T13:25:08+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190608",
-    "score": 8.0,
-    "views": 35368,
-    "forwards": 38
   }
 ]
