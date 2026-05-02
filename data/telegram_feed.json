@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Drone attack",
+    "title_en": "Kharkiv: Drone attack",
+    "title_uk": "Харків: Атака безпілотників",
+    "description": "The threat of attack UAVs for Kharkiv Oblast.",
+    "description_en": "The threat of attack UAVs for Kharkiv Oblast.",
+    "description_uk": "Загроза ударних БпЛА для Харківщини.",
+    "time": "",
+    "pubDate": "2026-05-02T22:25:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61166",
+    "score": 6.0,
+    "views": 14619,
+    "forwards": 1
+  },
+  {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "Another group of enemy strike UAVs is approaching Chornomorsk from the Black Sea.",
+    "description_en": "Another group of enemy strike UAVs is approaching Chornomorsk from the Black Sea.",
+    "description_uk": "Ще група ворожих ударних БпЛА наближається до Чорноморська з Чорного моря.",
+    "time": "",
+    "pubDate": "2026-05-02T22:24:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61165",
+    "score": 5.0,
+    "views": 15230,
+    "forwards": 1
+  },
+  {
     "title": "Kyiv: Drone attack",
     "title_en": "Kyiv: Drone attack",
     "title_uk": "Київ: Атака безпілотників",
@@ -14,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52891",
     "score": 9.0,
-    "views": 504,
+    "views": 682,
     "forwards": 2
   },
   {
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52890",
     "score": 6.0,
-    "views": 1424,
+    "views": 1546,
     "forwards": 3
   },
   {
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190674",
     "score": 8.5,
-    "views": 135551,
-    "forwards": 142
+    "views": 139714,
+    "forwards": 175
   },
   {
     "title": "BpLA in the district. Boryspil in the direction of Kyiv.",
@@ -324,24 +360,6 @@
     "forwards": 1
   },
   {
-    "title": "Kyiv: Kyiv - BpLA in the direction of the city.",
-    "title_en": "Kyiv: Kyiv - BpLA in the direction of the city.",
-    "title_uk": "Київ: Київ – БпЛА в напрямку м.",
-    "description": "Kyiv - BpLA in the direction of the city.",
-    "description_en": "Kyiv - BpLA in the direction of the city.",
-    "description_uk": "Київ - БпЛА в напрямку міста.",
-    "time": "",
-    "pubDate": "2026-05-02T10:34:45+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61140",
-    "score": 6.5,
-    "views": 24332,
-    "forwards": 57
-  },
-  {
     "title": "Explosions reported",
     "title_en": "Explosions reported",
     "title_uk": "Повідомляється про вибухи",
@@ -356,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38081",
     "score": 14.0,
-    "views": 5159,
+    "views": 5169,
     "forwards": 17
   },
   {
@@ -410,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18846",
     "score": 14.0,
-    "views": 139036,
+    "views": 139458,
     "forwards": 220
   },
   {
@@ -428,7 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18836",
     "score": 9.5,
-    "views": 199655,
+    "views": 199912,
     "forwards": 318
   }
 ]
