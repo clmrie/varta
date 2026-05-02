@@ -1,5 +1,23 @@
 [
   {
+    "title": "BpLA in the district. Kyiv in the direction of Vyshnevo.",
+    "title_en": "BpLA in the district. Kyiv in the direction of Vyshnevo.",
+    "title_uk": "BpLA в окрузі. Київ у напрямку Вишневого.",
+    "description": "BpLA in the district. Kyiv in the direction of Vyshnevo.",
+    "description_en": "BpLA in the district. Kyiv in the direction of Vyshnevo.",
+    "description_uk": "БпЛА в р-ні. Києва у напрямку Вишневого.",
+    "time": "",
+    "pubDate": "2026-05-02T15:27:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61152",
+    "score": 5.5,
+    "views": 18211,
+    "forwards": 69
+  },
+  {
     "title": "Kyiv: Kyiv region BpLA on Berezan, Baryshivka, Velyka Dymerka.",
     "title_en": "Kyiv: Kyiv region BpLA on Berezan, Baryshivka, Velyka Dymerka.",
     "title_uk": "Київ: БпЛА Київської області на Березань, Баришівка, Велика Димерка.",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61151",
     "score": 6.0,
-    "views": 1025,
-    "forwards": 0
+    "views": 54599,
+    "forwards": 35
   },
   {
     "title": "Chuyka did not let the men down: the railwaymen managed to run away...",
@@ -31,9 +49,9 @@
     "location": "Kryvyi Rih",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190659",
-    "score": 5.5,
-    "views": 45190,
-    "forwards": 182
+    "score": 6.5,
+    "views": 71204,
+    "forwards": 254
   },
   {
     "title": "UAV to Odesa (Ovidiopol) from the Black Sea.",
@@ -122,7 +140,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190652",
     "score": 5.5,
-    "views": 97393,
+    "views": 107257,
     "forwards": 242
   },
   {
@@ -194,7 +212,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38081",
     "score": 14.0,
-    "views": 4352,
+    "views": 4501,
     "forwards": 16
   },
   {
@@ -230,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52880",
     "score": 6.0,
-    "views": 1665,
+    "views": 1784,
     "forwards": 3
   },
   {
@@ -266,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52879",
     "score": 10.0,
-    "views": 1727,
+    "views": 1834,
     "forwards": 3
   },
   {
@@ -290,7 +308,7 @@
   {
     "title": "Mykolaiv: Drone strike near civilians",
     "title_en": "Mykolaiv: Drone strike near civilians",
-    "title_uk": "Миколаїв: удар безпілотників поблизу мирних жителів",
+    "title_uk": "Миколаїв: обстріл безпілотників поблизу мирних жителів",
     "description": "Seven victims in Kherson after a Russian FPV-drone attack on a regular city bus are being provided with the necessary medical assistance. Unfortunately, two people died. My condolences to family and friends. All the victims during the attack were civilians, and the Russians certainly understood that. In fact, such a cruel safari is carried out on people every day in our frontline and border communities. In Kharkiv, a drone hit a residential...",
     "description_en": "Seven victims in Kherson after a Russian FPV-drone attack on a regular city bus are being provided with the necessary medical assistance. Unfortunately, two people died. My condolences to family and friends. All the victims during the attack were civilians, and the Russians certainly understood that. In fact, such a cruel safari is carried out on people every day in our frontline and border communities. In Kharkiv, a drone hit a residential...",
     "description_uk": "Сімом постраждалим у Херсоні після російського удару FPV-дроном по звичайній міській маршрутці надають необхідну медичну допомогу. На жаль, двоє людей загинуло. Мої співчуття рідним та близьким. Усі постраждалі під час атаки – цивільні, і росіяни точно це розуміли. Фактично таке жорстоке сафарі на людей щодня в наших прифронтових і прикордонних громадах. У Харкові дрон вдарив по житловій...",
@@ -302,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18846",
     "score": 13.0,
-    "views": 114235,
-    "forwards": 199
+    "views": 118536,
+    "forwards": 200
   },
   {
     "title": "Sumy: Sumy - a group of BpLA in the direction of the city.",
@@ -430,23 +448,5 @@
     "score": 13.0,
     "views": 1926,
     "forwards": 2
-  },
-  {
-    "title": "Chernihiv: High-speed BpLA in Chernihiv.",
-    "title_en": "Chernihiv: High-speed BpLA in Chernihiv.",
-    "title_uk": "Чернігів: Швидкісний BpLA в Черніг.",
-    "description": "High-speed BpLA in Chernihiv.",
-    "description_en": "High-speed BpLA in Chernihiv.",
-    "description_uk": "Швидкісний БпЛА на Чернігів.",
-    "time": "",
-    "pubDate": "2026-05-01T15:17:53+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61092",
-    "score": 11.0,
-    "views": 33367,
-    "forwards": 35
   }
 ]
