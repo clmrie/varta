@@ -1,5 +1,77 @@
 [
   {
+    "title": "Kherson: 2 killed, 7 injured",
+    "title_en": "Kherson: 2 killed, 7 injured",
+    "title_uk": "Херсон: 2 загиблих, 7 поранених",
+    "description": "At least 2 killed, 7 injured after Russian drone hits civilian bus in Kherson. At least two people were killed and seven others injured after a Russian drone struck a civilian bus in Kherson in the early hours of May 2.",
+    "description_en": "At least 2 killed, 7 injured after Russian drone hits civilian bus in Kherson. At least two people were killed and seven others injured after a Russian drone struck a civilian bus in Kherson in the early hours of May 2.",
+    "description_uk": "At least 2 killed, 7 injured after Russian drone hits civilian bus in Kherson. At least two people were killed and seven others injured after a Russian drone struck a civilian bus in Kherson in the early hours of May 2.",
+    "time": "",
+    "pubDate": "2026-05-02T07:39:29+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kherson",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52879",
+    "score": 10.0,
+    "views": 52,
+    "forwards": 0
+  },
+  {
+    "title": "Sumyshchyna - a group of BpLA passing by Bilopol' to Terny.",
+    "title_en": "Sumyshchyna - a group of BpLA passing by Bilopol' to Terny.",
+    "title_uk": "Сумщина - група БпЛА проходить Білополем на Терни.",
+    "description": "Sumyshchyna - a group of BpLA passing by Bilopol' to Terny.",
+    "description_en": "Sumyshchyna - a group of BpLA passing by Bilopol' to Terny.",
+    "description_uk": "Сумщина - група БпЛА повз Білопілля на Терни.",
+    "time": "",
+    "pubDate": "2026-05-02T07:18:57+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61131",
+    "score": 5.0,
+    "views": 19212,
+    "forwards": 1
+  },
+  {
+    "title": "Mykolaiv: Drone strike near civilians",
+    "title_en": "Mykolaiv: Drone strike near civilians",
+    "title_uk": "Миколаїв: обстріл безпілотників поблизу мирних жителів",
+    "description": "Seven victims in Kherson after a Russian FPV-drone attack on a regular city bus are being provided with the necessary medical assistance. Unfortunately, two people died. My condolences to family and friends. All the victims during the attack were civilians, and the Russians certainly understood that. In fact, such a cruel safari is carried out on people every day in our frontline and border communities. In Kharkiv, a drone hit a residential...",
+    "description_en": "Seven victims in Kherson after a Russian FPV-drone attack on a regular city bus are being provided with the necessary medical assistance. Unfortunately, two people died. My condolences to family and friends. All the victims during the attack were civilians, and the Russians certainly understood that. In fact, such a cruel safari is carried out on people every day in our frontline and border communities. In Kharkiv, a drone hit a residential...",
+    "description_uk": "Сімом постраждалим у Херсоні після російського удару FPV-дроном по звичайній міській маршрутці надають необхідну медичну допомогу. На жаль, двоє людей загинуло. Мої співчуття рідним та близьким. Усі постраждалі під час атаки – цивільні, і росіяни точно це розуміли. Фактично таке жорстоке сафарі на людей щодня в наших прифронтових і прикордонних громадах. У Харкові дрон вдарив по житловій...",
+    "time": "",
+    "pubDate": "2026-05-02T07:18:36+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Mykolaiv",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/18846",
+    "score": 13.0,
+    "views": 18450,
+    "forwards": 98
+  },
+  {
+    "title": "Sumy: Sumy - a group of BpLA in the direction of the city.",
+    "title_en": "Sumy: Sumy - a group of BpLA in the direction of the city.",
+    "title_uk": "Суми: Суми – група БпЛА в напрямку м.",
+    "description": "Sumy - a group of BpLA in the direction of the city.",
+    "description_en": "Sumy - a group of BpLA in the direction of the city.",
+    "description_uk": "Суми - група БпЛА в напрямку міста.",
+    "time": "",
+    "pubDate": "2026-05-02T06:58:34+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61128",
+    "score": 6.0,
+    "views": 40482,
+    "forwards": 1
+  },
+  {
     "title": "Kherson: Rusnia continues to terrorize Kherson. Two people died on the spot,...",
     "title_en": "Kherson: Rusnia continues to terrorize Kherson. Two people died on the spot,...",
     "title_uk": "Херсон: Русія продовжує тероризувати Херсон. Двоє людей загинули на місці...",
@@ -14,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190635",
     "score": 6.0,
-    "views": 28792,
-    "forwards": 39
+    "views": 89053,
+    "forwards": 40
   },
   {
     "title": "Drone attack on residential area",
@@ -31,9 +103,9 @@
     "location": "Izmail",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190633",
-    "score": 8.0,
-    "views": 34863,
-    "forwards": 38
+    "score": 8.5,
+    "views": 90914,
+    "forwards": 74
   },
   {
     "title": "Kursk: Drone incoming",
@@ -50,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38065",
     "score": 13.0,
-    "views": 1864,
-    "forwards": 11
+    "views": 4311,
+    "forwards": 20
   },
   {
     "title": "Drone incoming",
@@ -86,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52878",
     "score": 12.5,
-    "views": 381,
+    "views": 906,
     "forwards": 1
   },
   {
@@ -234,60 +306,6 @@
     "forwards": 2
   },
   {
-    "title": "Mykolaiv: BpLA on Mykolaiv from the south.",
-    "title_en": "Mykolaiv: BpLA on Mykolaiv from the south.",
-    "title_uk": "Миколаїв: БпЛА на Миколаєві з півд.",
-    "description": "BpLA on Mykolaiv from the south.",
-    "description_en": "BpLA on Mykolaiv from the south.",
-    "description_uk": "БпЛА на Миколаїв з півдня.",
-    "time": "",
-    "pubDate": "2026-05-01T19:08:44+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61100",
-    "score": 6.0,
-    "views": 97895,
-    "forwards": 36
-  },
-  {
-    "title": "\"Ukrzaliznytsia\" will introduce new ticket return rules from May 2....",
-    "title_en": "\"Ukrzaliznytsia\" will introduce new ticket return rules from May 2....",
-    "title_uk": "\"Укрзалізниця\" з 2 травня запроваджує нові правила повернення квитків....",
-    "description": "\"Ukrzaliznytsia\" will introduce new ticket return rules from May 2. According to reports, the changes apply to domestic flights and depend on the time of return. The closer to departure, the smaller the compensation: 100% is returned for 15-20 days, 75% for 5-9 days, 50% for 1-4 days, and only part of the ticket price for less than a day. For military personnel who buy tickets through \"Armiya+\", the conditions do not change - they...",
-    "description_en": "\"Ukrzaliznytsia\" will introduce new ticket return rules from May 2. According to reports, the changes apply to domestic flights and depend on the time of return. The closer to departure, the smaller the compensation: 100% is returned for 15-20 days, 75% for 5-9 days, 50% for 1-4 days, and only part of the ticket price for less than a day. For military personnel who buy tickets through \"Armiya+\", the conditions do not change - they...",
-    "description_uk": "\"Укрзалізниця\" з 2 травня вводить нові правила повернення квитків Як повідомляється, зміни стосуються внутрішніх рейсів і залежать від часу повернення. Чим ближче до відправлення, тим менша компенсація: за 15-20 днів повертають 100%, за 5-9 днів - 75%, за 1-4 дні - 50%, а менш ніж за добу - лише частину вартості квитка. Для військових, які купують квитки через \"Армія+\", умови не змінюються - їм...",
-    "time": "",
-    "pubDate": "2026-05-01T18:30:47+00:00",
-    "category": "alert",
-    "severity": "medium",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190627",
-    "score": 3.5,
-    "views": 126303,
-    "forwards": 174
-  },
-  {
-    "title": "BpLA in the direction of Kryvyi Rih from the southeast.",
-    "title_en": "BpLA in the direction of Kryvyi Rih from the southeast.",
-    "title_uk": "БпЛА в напрямку Кривого Рогу з пд.-сх.",
-    "description": "BpLA in the direction of Kryvyi Rih from the southeast.",
-    "description_en": "BpLA in the direction of Kryvyi Rih from the southeast.",
-    "description_uk": "БпЛА у напрямку Кривого Рогу з південного сходу.",
-    "time": "",
-    "pubDate": "2026-05-01T18:09:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61098",
-    "score": 5.0,
-    "views": 84344,
-    "forwards": 7
-  },
-  {
     "title": "Chernihiv: High-speed BpLA in Chernihiv.",
     "title_en": "Chernihiv: High-speed BpLA in Chernihiv.",
     "title_uk": "Чернігів: Швидкісний BpLA в Черніг.",
@@ -392,26 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18836",
     "score": 9.5,
-    "views": 177428,
-    "forwards": 308
-  },
-  {
-    "title": "Kharkiv: Drone strike near civilians",
-    "title_en": "Kharkiv: Drone strike near civilians",
-    "title_uk": "Харків: удар безпілотників по мирних жителях",
-    "description": "This night, the Russians again fought against ordinary high-rise buildings in Odesa - as of now, it is known about five wounded and fires in two buildings. Also, in Kryvyi Rih, a person was injured due to a drone strike. In Kharkiv Oblast, they attacked railway infrastructure, hit traction substations. There was damage and a fire in the wagons. Thousands of families lost power due to shelling. They were also in Sumy Oblast and Zaporizhzhia...",
-    "description_en": "This night, the Russians again fought against ordinary high-rise buildings in Odesa - as of now, it is known about five wounded and fires in two buildings. Also, in Kryvyi Rih, a person was injured due to a drone strike. In Kharkiv Oblast, they attacked railway infrastructure, hit traction substations. There was damage and a fire in the wagons. Thousands of families lost power due to shelling. They were also in Sumy Oblast and Zaporizhzhia...",
-    "description_uk": "Цієї ночі росіяни знову воювали проти звичайних багатоповерхівок в Одесі – станом на зараз відомо про пʼятьох поранених та пожежі у двох будинках. Також у Кривому Розі через удар дроном поранено людину. На Харківщині атакували залізничну інфраструктуру, били по тягових підстанціях. Були пошкодження, пожежа вагонів. Через обстріл знеструмлено тисячі сімей. Били також по Сумщині та Запорізькій...",
-    "time": "",
-    "pubDate": "2026-05-01T07:01:12+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kharkiv",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18830",
-    "score": 23.0,
-    "views": 182091,
-    "forwards": 250
+    "views": 183176,
+    "forwards": 309
   },
   {
     "title": "🇪🇺 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"I am...",
@@ -428,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8930",
     "score": 5.0,
-    "views": 878,
+    "views": 882,
     "forwards": 6
   }
 ]
