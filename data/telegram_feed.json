@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "Enemy UAVs in Chernihiv Oblast and Poltava Oblast are moving in the direction of Kyiv Oblast and Cherkasy Oblast; 🛵 New groups of enemy UAVs in the east of Sumy Oblast in the west direction.",
+    "description_en": "Enemy UAVs in Chernihiv Oblast and Poltava Oblast are moving in the direction of Kyiv Oblast and Cherkasy Oblast; 🛵 New groups of enemy UAVs in the east of Sumy Oblast in the west direction.",
+    "description_uk": "Ворожі БпЛА на Чернігівщині та Полтавщині рухаються у напрямку Київщини та Черкащини; 🛵 Нові групи ворожих БпЛА на сході Сумщини у західному напрямку.",
+    "time": "",
+    "pubDate": "2026-05-02T17:22:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61157",
+    "score": 6.0,
+    "views": 5152,
+    "forwards": 11
+  },
+  {
+    "title": "Kyiv: Zelensky slaps personal sanctions on ex-chief of staff Andriy Bohdan....",
+    "title_en": "Kyiv: Zelensky slaps personal sanctions on ex-chief of staff Andriy Bohdan....",
+    "title_uk": "Київ: Зеленський наклав персональні санкції на екс-главу Адміністрації Андрія Богдана.",
+    "description": "Zelensky slaps personal sanctions on ex-chief of staff Andriy Bohdan. Bohdan served as head of Zelensky's administration from May 2019 to February 2020, when he was dismissed and immediately replaced by Andriy Yermak.",
+    "description_en": "Zelensky slaps personal sanctions on ex-chief of staff Andriy Bohdan. Bohdan served as head of Zelensky's administration from May 2019 to February 2020, when he was dismissed and immediately replaced by Andriy Yermak.",
+    "description_uk": "Zelensky slaps personal sanctions on ex-chief of staff Andriy Bohdan. Bohdan served as head of Zelensky's administration from May 2019 to February 2020, when he was dismissed and immediately replaced by Andriy Yermak.",
+    "time": "",
+    "pubDate": "2026-05-02T16:54:56+00:00",
+    "category": "political",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52887",
+    "score": 6.0,
+    "views": 408,
+    "forwards": 0
+  },
+  {
     "title": "Kursk: Drone incoming",
     "title_en": "Kursk: Drone incoming",
     "title_uk": "Курськ: Дрон входить",
@@ -13,9 +49,9 @@
     "location": "Kursk",
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61156",
-    "score": 13.0,
-    "views": 5044,
-    "forwards": 38
+    "score": 13.5,
+    "views": 68259,
+    "forwards": 157
   },
   {
     "title": "Chernihiv: A group of BpLA in Sumy Oblast - headed for Chernihiv Oblast, Poltava...",
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190659",
     "score": 6.5,
-    "views": 90721,
-    "forwards": 326
+    "views": 105869,
+    "forwards": 361
   },
   {
     "title": "UAV to Odesa (Ovidiopol) from the Black Sea.",
@@ -176,7 +212,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190652",
     "score": 5.5,
-    "views": 118024,
+    "views": 125647,
     "forwards": 276
   },
   {
@@ -248,8 +284,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38081",
     "score": 14.0,
-    "views": 4625,
-    "forwards": 16
+    "views": 4725,
+    "forwards": 17
   },
   {
     "title": "Kryvyi Rih: Sumyshchyna - a group of BpLA heading for Chernihiv region. 🛵 BpLA...",
@@ -284,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52880",
     "score": 6.0,
-    "views": 1884,
+    "views": 1994,
     "forwards": 3
   },
   {
@@ -356,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18846",
     "score": 14.0,
-    "views": 122426,
+    "views": 125697,
     "forwards": 206
   },
   {
@@ -412,41 +448,5 @@
     "score": 8.5,
     "views": 131405,
     "forwards": 78
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Strike UAV in the Kremenchutsk district of Poltava Oblast - in the direction of Cherkas Also enemy UAV - in the direction of Kryvyi Rih from the south",
-    "description_en": "Strike UAV in the Kremenchutsk district of Poltava Oblast - in the direction of Cherkas Also enemy UAV - in the direction of Kryvyi Rih from the south",
-    "description_uk": "Ударний БпЛА у Кременчуцькому районі Полтавщини - напрямку Черкас Також ворожий БпЛА - напрямку Кривого Рогу з півдня",
-    "time": "",
-    "pubDate": "2026-05-02T05:11:35+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61122",
-    "score": 5.0,
-    "views": 30322,
-    "forwards": 1
-  },
-  {
-    "title": "Kryvyi Rih: Energy infrastructure hit",
-    "title_en": "Kryvyi Rih: Energy infrastructure hit",
-    "title_uk": "Кривий Ріг: удар по енергетичній інфраструктурі",
-    "description": "Russia targets infrastructure across Ukraine in overnight drone attacks. Russian forces launched overnight attacks targeting critical and energy infrastructure across several Ukrainian regions early on May 2. Drone strikes were reported in Mykolaiv, Kryvyi Rih, and Odesa Oblasts, according to regional authorities and local reports.",
-    "description_en": "Russia targets infrastructure across Ukraine in overnight drone attacks. Russian forces launched overnight attacks targeting critical and energy infrastructure across several Ukrainian regions early on May 2. Drone strikes were reported in Mykolaiv, Kryvyi Rih, and Odesa Oblasts, according to regional authorities and local reports.",
-    "description_uk": "Russia targets infrastructure across Ukraine in overnight drone attacks. Russian forces launched overnight attacks targeting critical and energy infrastructure across several Ukrainian regions early on May 2. Drone strikes were reported in Mykolaiv, Kryvyi Rih, and Odesa Oblasts, according to regional authorities and local reports.",
-    "time": "",
-    "pubDate": "2026-05-02T05:02:06+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kryvyi Rih",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52878",
-    "score": 12.5,
-    "views": 906,
-    "forwards": 1
   }
 ]
