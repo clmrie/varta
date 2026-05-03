@@ -1,5 +1,23 @@
 [
   {
+    "title": "5 missiles intercepted",
+    "title_en": "5 missiles intercepted",
+    "title_uk": "Перехоплено 5 ракет",
+    "description": "175 ENEMY UAVS AND 5 MISSILES WERE CUT DOWN/SUPPRESSED On May 3 (from 08:30 to 18:30), the enemy attacked with two Iskander-M ballistic missiles, five Kh-59/69 guided air missiles, as well as 234 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, \"Parody\" simulator drones and other types of drones. The air attack was repulsed by aviation, anti-aircraft missile troops,...",
+    "description_en": "175 ENEMY UAVS AND 5 MISSILES WERE CUT DOWN/SUPPRESSED On May 3 (from 08:30 to 18:30), the enemy attacked with two Iskander-M ballistic missiles, five Kh-59/69 guided air missiles, as well as 234 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, \"Parody\" simulator drones and other types of drones. The air attack was repulsed by aviation, anti-aircraft missile troops,...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 175 ВОРОЖИХ БПЛА ТА 5 РАКЕТ ➖➖➖➖➖➖➖➖➖➖ 3 травня (з 08.30 по 18:30) противник атакував двома балістичними ракетами Іскандер-М, п'ятьма керованими авіаційними ракетами Х-59/69, а також 234 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас, дронами-імітаторами «Пародія» та безпілотниками інших типів. Повітряний напад відбивали авіація, зенітні ракетні війська,...",
+    "time": "",
+    "pubDate": "2026-05-03T16:37:02+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/38127",
+    "score": 12.0,
+    "views": 1522,
+    "forwards": 13
+  },
+  {
     "title": "Poltava region: a group of BpLA ➡️ in the Pyryatina district.",
     "title_en": "Poltava region: a group of BpLA ➡️ in the Pyryatina district.",
     "title_uk": "Полтавська область: група БпЛА ➡️ в районі Пирятина.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61222",
     "score": 5.0,
-    "views": 7067,
+    "views": 48951,
     "forwards": 1
   },
   {
@@ -32,8 +50,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18855",
     "score": 9.0,
-    "views": 25712,
-    "forwards": 92
+    "views": 48536,
+    "forwards": 113
   },
   {
     "title": "Kyiv: BpLA ➡️ course to Kyiv/Brovary.",
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52898",
     "score": 9.0,
-    "views": 1353,
+    "views": 1536,
     "forwards": 3
   },
   {
@@ -212,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190698",
     "score": 4.5,
-    "views": 124510,
-    "forwards": 248
+    "views": 133155,
+    "forwards": 249
   },
   {
     "title": "Chernihiv: UAV in Sumy Oblast, headed for Poltava Oblast and Chernihiv Oblast.",
@@ -320,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8943",
     "score": 15.0,
-    "views": 532,
+    "views": 553,
     "forwards": 6
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 60198,
     "forwards": 1
-  },
-  {
-    "title": "Mykolaiv: Speedway in Mykolayiv Oblast heading for Odesa.",
-    "title_en": "Mykolaiv: Speedway in Mykolayiv Oblast heading for Odesa.",
-    "title_uk": "Миколаїв: Спідвей у Миколаївській області в напрямку Одеси.",
-    "description": "Speedway in Mykolayiv Oblast heading for Odesa.",
-    "description_en": "Speedway in Mykolayiv Oblast heading for Odesa.",
-    "description_uk": "Швидкісна на Миколаївщині курсом на Одещину.",
-    "time": "",
-    "pubDate": "2026-05-03T05:43:11+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61178",
-    "score": 6.5,
-    "views": 42451,
-    "forwards": 103
   }
 ]
