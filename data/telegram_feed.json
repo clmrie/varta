@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: Drone strike near civilians",
+    "title_en": "Kyiv: Drone strike near civilians",
+    "title_uk": "Київ: удар безпілотників поблизу мирних жителів",
+    "description": "Damage reported in Moscow after Ukrainian drones reportedly hit residential building. Ukrainian forces reportedly launched a drone attack on Moscow overnight on May 4, hitting civilian infrastructure in the Russian capital, Russian Telegram media channels reported.",
+    "description_en": "Damage reported in Moscow after Ukrainian drones reportedly hit residential building. Ukrainian forces reportedly launched a drone attack on Moscow overnight on May 4, hitting civilian infrastructure in the Russian capital, Russian Telegram media channels reported.",
+    "description_uk": "Damage reported in Moscow after Ukrainian drones reportedly hit residential building. Ukrainian forces reportedly launched a drone attack on Moscow overnight on May 4, hitting civilian infrastructure in the Russian capital, Russian Telegram media channels reported.",
+    "time": "",
+    "pubDate": "2026-05-03T22:39:54+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52904",
+    "score": 13.0,
+    "views": 243,
+    "forwards": 1
+  },
+  {
+    "title": "Zaporizhzhia: BpLA group ➡️ heading for Zaporozhye.",
+    "title_en": "Zaporizhzhia: BpLA group ➡️ heading for Zaporozhye.",
+    "title_uk": "Запоріжжя: BpLA group ➡️ прямує до Запоріжжя.",
+    "description": "BpLA group ➡️ heading for Zaporozhye.",
+    "description_en": "BpLA group ➡️ heading for Zaporozhye.",
+    "description_uk": "Група БпЛА ➡️ курсом на Запоріжжя.",
+    "time": "",
+    "pubDate": "2026-05-03T22:13:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61235",
+    "score": 6.0,
+    "views": 12381,
+    "forwards": 11
+  },
+  {
     "title": "Sumyshchyna: BpLA ➡️ in the direction of Shostka.",
     "title_en": "Sumyshchyna: BpLA ➡️ in the direction of Shostka.",
     "title_uk": "Сумщина: БпЛА ➡️ в напрямку Шостки.",
@@ -14,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61234",
     "score": 5.0,
-    "views": 9975,
+    "views": 19896,
     "forwards": 14
   },
   {
@@ -68,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190728",
     "score": 3.5,
-    "views": 46567,
-    "forwards": 70
+    "views": 54037,
+    "forwards": 82
   },
   {
     "title": "BpLA group ➡️ heading for Voznesensk.",
@@ -122,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190726",
     "score": 5.5,
-    "views": 74542,
-    "forwards": 101
+    "views": 80262,
+    "forwards": 103
   },
   {
     "title": "Zaporizhzhia: BpLA groups through Kherson region ➡️ course to Mykolaiv region. 🛵...",
@@ -212,7 +248,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18857",
     "score": 4.0,
-    "views": 66393,
+    "views": 67621,
     "forwards": 117
   },
   {
@@ -230,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38127",
     "score": 12.0,
-    "views": 4804,
+    "views": 4877,
     "forwards": 22
   },
   {
@@ -266,7 +302,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18855",
     "score": 9.0,
-    "views": 90397,
+    "views": 91387,
     "forwards": 141
   },
   {
@@ -392,7 +428,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52898",
     "score": 9.0,
-    "views": 2202,
+    "views": 2274,
     "forwards": 4
   },
   {
@@ -412,41 +448,5 @@
     "score": 6.5,
     "views": 8053,
     "forwards": 69
-  },
-  {
-    "title": "Chernihiv: Poltava region: BpLA - in the direction of Lubniv. 🛵 Chernihiv...",
-    "title_en": "Chernihiv: Poltava region: BpLA - in the direction of Lubniv. 🛵 Chernihiv...",
-    "title_uk": "Чернігів : Полтавська обл : БпЛА - в напрямку Лубнів. 🛵 Чернігів...",
-    "description": "Poltava region: BpLA - in the direction of Lubniv. 🛵 Chernihiv region: BpLA - in the direction of Nizhyn/Nosivka. 🛵 Sumy: groups of BpLA - heading for Sumy, Okhtyrka, Terny.",
-    "description_en": "Poltava region: BpLA - in the direction of Lubniv. 🛵 Chernihiv region: BpLA - in the direction of Nizhyn/Nosivka. 🛵 Sumy: groups of BpLA - heading for Sumy, Okhtyrka, Terny.",
-    "description_uk": "Полтавщина: БпЛА - в напрямку Лубнів. 🛵 Чернігівщина: БпЛА - в напрямку Ніжина/Носівки. 🛵 Сумщина: групи БпЛА - курсом на Суми, Охтирку, Терни.",
-    "time": "",
-    "pubDate": "2026-05-03T11:42:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61203",
-    "score": 6.0,
-    "views": 33325,
-    "forwards": 1
-  },
-  {
-    "title": "Another Russian carrier \"Kalibrov\" was destroyed, - Zelensky \"Major...",
-    "title_en": "Another Russian carrier \"Kalibrov\" was destroyed, - Zelensky \"Major...",
-    "title_uk": "Знищено ще один російський авіаносець \"Калібров\", - Зеленський \"Майор...",
-    "description": "Another Russian carrier \"Kalibrov\" was destroyed, - Zelensky \"Major General Yevgeny Khmara reported on the successful defeat of objects in the port of Primorsk. Joint operation of our Security Service of Ukraine, Forces of unmanned systems, SSO, GUR and border guards\", - noted the president. He specified that the missile ship \"Karakurt\" was hit, as well as a patrol boat and another tanker of the shadow oil fleet....",
-    "description_en": "Another Russian carrier \"Kalibrov\" was destroyed, - Zelensky \"Major General Yevgeny Khmara reported on the successful defeat of objects in the port of Primorsk. Joint operation of our Security Service of Ukraine, Forces of unmanned systems, SSO, GUR and border guards\", - noted the president. He specified that the missile ship \"Karakurt\" was hit, as well as a patrol boat and another tanker of the shadow oil fleet....",
-    "description_uk": "Еще один российский носитель \"Калибров\" уничтожен, - Зеленский \"Генерал-майор Евгений Хмара доложил об успешном поражении объектов в порту Приморск. Совместная операция нашей Службы безопасности Украины, Сил беспилотных систем, ССО, ГУР и пограничников\", - отметил президент. Он уточнил, что поражен ракетный корабль \"Каракурт\", а также сторожевой катер и еще один танкер теневого нефтяного флота....",
-    "time": "",
-    "pubDate": "2026-05-03T11:12:00+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190698",
-    "score": 4.5,
-    "views": 133155,
-    "forwards": 249
   }
 ]
