@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: Kyiv region: BpLA group ➡️ in the direction of Bila Tserkva.",
+    "title_en": "Kyiv: Kyiv region: BpLA group ➡️ in the direction of Bila Tserkva.",
+    "title_uk": "Київ: Київська область: BpLA group ➡️ в напрямку Білої Церкви.",
+    "description": "Kyiv region: BpLA group ➡️ in the direction of Bila Tserkva.",
+    "description_en": "Kyiv region: BpLA group ➡️ in the direction of Bila Tserkva.",
+    "description_uk": "Київщина: група БпЛА ➡️ в напрямку Білої Церкви.",
+    "time": "",
+    "pubDate": "2026-05-03T14:24:29+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61218",
+    "score": 6.0,
+    "views": 19161,
+    "forwards": 36
+  },
+  {
+    "title": "Kyiv: Kyiv region: BpLA ➡️ heading for Berezan.",
+    "title_en": "Kyiv: Kyiv region: BpLA ➡️ heading for Berezan.",
+    "title_uk": "Київ: Київська область: BpLA ➡️ прямуємо на Березань.",
+    "description": "Kyiv region: BpLA ➡️ heading for Berezan.",
+    "description_en": "Kyiv region: BpLA ➡️ heading for Berezan.",
+    "description_uk": "Київщина: БпЛА ➡️ курсом на Березань.",
+    "time": "",
+    "pubDate": "2026-05-03T14:13:36+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61217",
+    "score": 6.0,
+    "views": 30259,
+    "forwards": 1
+  },
+  {
     "title": "BpLA ➡️ in the direction of Kremenchuk.",
     "title_en": "BpLA ➡️ in the direction of Kremenchuk.",
     "title_uk": "BpLA ➡️ в напрямку Кременчука.",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52898",
     "score": 9.0,
-    "views": 735,
+    "views": 1016,
     "forwards": 2
   },
   {
@@ -103,9 +139,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190698",
-    "score": 3.5,
-    "views": 90801,
-    "forwards": 179
+    "score": 4.5,
+    "views": 105927,
+    "forwards": 213
   },
   {
     "title": "Chernihiv: UAV in Sumy Oblast, headed for Poltava Oblast and Chernihiv Oblast.",
@@ -194,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190694",
     "score": 5.0,
-    "views": 112245,
-    "forwards": 36
+    "views": 122145,
+    "forwards": 37
   },
   {
     "title": "Kherson: Evacuation ordered",
@@ -212,7 +248,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8943",
     "score": 15.0,
-    "views": 468,
+    "views": 495,
     "forwards": 5
   },
   {
@@ -356,7 +392,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38111",
     "score": 13.0,
-    "views": 4290,
+    "views": 4356,
     "forwards": 24
   },
   {
@@ -392,7 +428,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52891",
     "score": 9.0,
-    "views": 2656,
+    "views": 2694,
     "forwards": 3
   },
   {
@@ -412,41 +448,5 @@
     "score": 8.5,
     "views": 191807,
     "forwards": 176
-  },
-  {
-    "title": "Kursk: Drone incoming",
-    "title_en": "Kursk: Drone incoming",
-    "title_uk": "Курськ: Дрон входить",
-    "description": "220 ENEMY UAVS SHOT DOWN/SUPPRESSED On May 2 (from 08:00 to 19:00), the enemy attacked 227 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Shatalovo, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, about 135 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile troops, units of the Reb...",
-    "description_en": "220 ENEMY UAVS SHOT DOWN/SUPPRESSED On May 2 (from 08:00 to 19:00), the enemy attacked 227 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of UAVs from the directions: Shatalovo, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea, about 135 of them are \"martyrs\". The air attack was repulsed by aviation, anti-aircraft missile troops, units of the Reb...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 220 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ 2 травня (з 08:00 по 19:00) противник атакував 227 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та безпілотниками інших типів із напрямків: Шаталово, Курськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., Гвардійське – ТОТ АР Крим, близько 135 із них – \"шахеди\". Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ...",
-    "time": "",
-    "pubDate": "2026-05-02T16:26:12+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kursk",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61156",
-    "score": 13.5,
-    "views": 100829,
-    "forwards": 157
-  },
-  {
-    "title": "Mykolaiv: Drone strike near civilians",
-    "title_en": "Mykolaiv: Drone strike near civilians",
-    "title_uk": "Миколаїв: обстріл безпілотників поблизу мирних жителів",
-    "description": "Seven victims in Kherson after a Russian FPV-drone attack on a regular city bus are being provided with the necessary medical assistance. Unfortunately, two people died. My condolences to family and friends. All the victims during the attack were civilians, and the Russians certainly understood that. In fact, such a cruel safari is carried out on people every day in our frontline and border communities. In Kharkiv, a drone hit a residential...",
-    "description_en": "Seven victims in Kherson after a Russian FPV-drone attack on a regular city bus are being provided with the necessary medical assistance. Unfortunately, two people died. My condolences to family and friends. All the victims during the attack were civilians, and the Russians certainly understood that. In fact, such a cruel safari is carried out on people every day in our frontline and border communities. In Kharkiv, a drone hit a residential...",
-    "description_uk": "Сімом постраждалим у Херсоні після російського удару FPV-дроном по звичайній міській маршрутці надають необхідну медичну допомогу. На жаль, двоє людей загинуло. Мої співчуття рідним та близьким. Усі постраждалі під час атаки – цивільні, і росіяни точно це розуміли. Фактично таке жорстоке сафарі на людей щодня в наших прифронтових і прикордонних громадах. У Харкові дрон вдарив по житловій...",
-    "time": "",
-    "pubDate": "2026-05-02T07:18:36+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Mykolaiv",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18846",
-    "score": 14.0,
-    "views": 158037,
-    "forwards": 233
   }
 ]
