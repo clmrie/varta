@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kryvyi Rih: Several groups of BpLA ➡️ heading for Kryvyi Rih from the south.",
+    "title_en": "Kryvyi Rih: Several groups of BpLA ➡️ heading for Kryvyi Rih from the south.",
+    "title_uk": "Кривий Ріг: кілька груп BpLA ➡️ прямують на Кривий Ріг з півдня.",
+    "description": "Several groups of BpLA ➡️ heading for Kryvyi Rih from the south.",
+    "description_en": "Several groups of BpLA ➡️ heading for Kryvyi Rih from the south.",
+    "description_uk": "Декілька груп БпЛА ➡️ курсом на Кривий Ріг з півдня.",
+    "time": "",
+    "pubDate": "2026-05-03T21:21:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61233",
+    "score": 6.0,
+    "views": 10117,
+    "forwards": 36
+  },
+  {
     "title": "Kyiv: Kyiv region: BpLA ➡️ in the direction of Brovary.",
     "title_en": "Kyiv: Kyiv region: BpLA ➡️ in the direction of Brovary.",
     "title_uk": "Київ: Київська область: БпЛА ➡️ в напрямку Броварів.",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61232",
     "score": 6.0,
-    "views": 2007,
-    "forwards": 0
+    "views": 38533,
+    "forwards": 36
   },
   {
     "title": "Missile strike",
@@ -32,8 +50,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190728",
     "score": 3.0,
-    "views": 12163,
-    "forwards": 7
+    "views": 37342,
+    "forwards": 44
   },
   {
     "title": "BpLA group ➡️ heading for Voznesensk.",
@@ -86,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190726",
     "score": 5.5,
-    "views": 53472,
-    "forwards": 72
+    "views": 67803,
+    "forwards": 74
   },
   {
     "title": "Zaporizhzhia: BpLA groups through Kherson region ➡️ course to Mykolaiv region. 🛵...",
@@ -176,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18857",
     "score": 4.0,
-    "views": 61516,
-    "forwards": 109
+    "views": 64860,
+    "forwards": 113
   },
   {
     "title": "5 missiles intercepted",
@@ -194,7 +212,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38127",
     "score": 12.0,
-    "views": 4570,
+    "views": 4740,
     "forwards": 22
   },
   {
@@ -230,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18855",
     "score": 9.0,
-    "views": 87220,
-    "forwards": 133
+    "views": 89364,
+    "forwards": 137
   },
   {
     "title": "Kyiv: BpLA ➡️ course to Kyiv/Brovary.",
@@ -356,7 +374,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52898",
     "score": 9.0,
-    "views": 2037,
+    "views": 2140,
     "forwards": 4
   },
   {
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/61202",
     "score": 6.0,
     "views": 22224,
-    "forwards": 1
-  },
-  {
-    "title": "Kherson: A group of BpLA in the north of the Kherson region ➡️ heading for...",
-    "title_en": "Kherson: A group of BpLA in the north of the Kherson region ➡️ heading for...",
-    "title_uk": "Херсон: Група БПЛА на півночі Херсонської області ➡️ прямує на...",
-    "description": "A group of BpLA in the north of the Kherson region ➡️ heading for Arkhangelsk.",
-    "description_en": "A group of BpLA in the north of the Kherson region ➡️ heading for Arkhangelsk.",
-    "description_uk": "Група БпЛА на півночі Херсонщини ➡️ курсом на Архангельське.",
-    "time": "",
-    "pubDate": "2026-05-03T10:50:25+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kherson",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61201",
-    "score": 6.0,
-    "views": 30316,
     "forwards": 1
   }
 ]
