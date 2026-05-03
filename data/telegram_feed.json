@@ -1,5 +1,77 @@
 [
   {
+    "title": "Kharkiv: Kharkiv - BpLA in the direction of the city from the north. 🛵 Kharkiv...",
+    "title_en": "Kharkiv: Kharkiv - BpLA in the direction of the city from the north. 🛵 Kharkiv...",
+    "title_uk": "Харків: Харків – БпЛА в напрямку міста з півночі. 🛵 Харків...",
+    "description": "Kharkiv - BpLA in the direction of the city from the north. 🛵 Kharkiv region - BpLA to Poltava region.",
+    "description_en": "Kharkiv - BpLA in the direction of the city from the north. 🛵 Kharkiv region - BpLA to Poltava region.",
+    "description_uk": "Харків - БпЛА в напрямку міста з півночі. 🛵 Харківщина - БпЛА на Полтавщину.",
+    "time": "",
+    "pubDate": "2026-05-03T06:17:24+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61180",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: Speedway in Mykolayiv Oblast heading for Odesa.",
+    "title_en": "Mykolaiv: Speedway in Mykolayiv Oblast heading for Odesa.",
+    "title_uk": "Миколаїв: Спідвей у Миколаївській області в напрямку Одеси.",
+    "description": "Speedway in Mykolayiv Oblast heading for Odesa.",
+    "description_en": "Speedway in Mykolayiv Oblast heading for Odesa.",
+    "description_uk": "Швидкісна на Миколаївщині курсом на Одещину.",
+    "time": "",
+    "pubDate": "2026-05-03T05:43:11+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61178",
+    "score": 6.5,
+    "views": 42451,
+    "forwards": 103
+  },
+  {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "249 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of May 3 (from 19:00 on May 2), the enemy attacked with an Iskander-M ballistic missile from the Kursk region. - Russian Federation, 268 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of drones from the directions: Kursk, Shatalovo, Orel, Primorsko-Akhtarsk - Russian Federation, TOT Gvardiyske, Chauda - TOT AR Crimea, TOT Donetsk, more than 160 of them are \"shahedy\"....",
+    "description_en": "249 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of May 3 (from 19:00 on May 2), the enemy attacked with an Iskander-M ballistic missile from the Kursk region. - Russian Federation, 268 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and other types of drones from the directions: Kursk, Shatalovo, Orel, Primorsko-Akhtarsk - Russian Federation, TOT Gvardiyske, Chauda - TOT AR Crimea, TOT Donetsk, more than 160 of them are \"shahedy\"....",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 249 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 3 травня (з 19:00 2 травня) противник атакував балістичною ракетою Іскандер-М із Курської обл. -рф, 268-ма ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та безпілотниками інших типів із напрямків: Курськ, Шаталово, Орел, Приморсько-Ахтарськ – рф., ТОТ Гвардійське, Чауда – ТОТ АР Крим, ТОТ Донецьк, понад 160 із них – \"шахеди\"....",
+    "time": "",
+    "pubDate": "2026-05-03T05:07:43+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/38111",
+    "score": 13.0,
+    "views": 2155,
+    "forwards": 14
+  },
+  {
+    "title": "50 drones intercepted",
+    "title_en": "50 drones intercepted",
+    "title_uk": "Перехоплено 50 безпілотників",
+    "description": "The Leningrad region was attacked by drones all night. The authorities said that more than 50 UAVs were shot down.",
+    "description_en": "The Leningrad region was attacked by drones all night. The authorities said that more than 50 UAVs were shot down.",
+    "description_uk": "Ленинградскую область всю ночь атаковали дроны Росвласти заявили, что сбиты более 50 БПЛА.",
+    "time": "",
+    "pubDate": "2026-05-03T04:40:04+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190684",
+    "score": 8.5,
+    "views": 72466,
+    "forwards": 142
+  },
+  {
     "title": "🛫 Activity of enemy tactical aviation in the eastern direction! 🚀The...",
     "title_en": "🛫 Activity of enemy tactical aviation in the eastern direction! 🚀The...",
     "title_uk": "🛫 Активність тактичної авіації противника на східному напрямку! 🚀The...",
@@ -86,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52891",
     "score": 9.0,
-    "views": 1225,
+    "views": 1693,
     "forwards": 3
   },
   {
@@ -122,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52890",
     "score": 6.0,
-    "views": 1936,
+    "views": 2203,
     "forwards": 4
   },
   {
@@ -158,44 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190674",
     "score": 8.5,
-    "views": 163373,
+    "views": 191807,
     "forwards": 176
-  },
-  {
-    "title": "BpLA in the district. Boryspil in the direction of Kyiv.",
-    "title_en": "BpLA in the district. Boryspil in the direction of Kyiv.",
-    "title_uk": "BpLA в окрузі. Бориспіль в напрямку Києва.",
-    "description": "BpLA in the district. Boryspil in the direction of Kyiv.",
-    "description_en": "BpLA in the district. Boryspil in the direction of Kyiv.",
-    "description_uk": "БпЛА в р-ні. Борисполя у напрямку Києва.",
-    "time": "",
-    "pubDate": "2026-05-02T18:17:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61160",
-    "score": 5.5,
-    "views": 82891,
-    "forwards": 69
-  },
-  {
-    "title": "Kyiv: Zelensky slaps personal sanctions on ex-chief of staff Andriy Bohdan....",
-    "title_en": "Kyiv: Zelensky slaps personal sanctions on ex-chief of staff Andriy Bohdan....",
-    "title_uk": "Київ: Зеленський наклав персональні санкції на екс-главу Адміністрації Андрія Богдана.",
-    "description": "Zelensky slaps personal sanctions on ex-chief of staff Andriy Bohdan. Bohdan served as head of Zelensky's administration from May 2019 to February 2020, when he was dismissed and immediately replaced by Andriy Yermak.",
-    "description_en": "Zelensky slaps personal sanctions on ex-chief of staff Andriy Bohdan. Bohdan served as head of Zelensky's administration from May 2019 to February 2020, when he was dismissed and immediately replaced by Andriy Yermak.",
-    "description_uk": "Zelensky slaps personal sanctions on ex-chief of staff Andriy Bohdan. Bohdan served as head of Zelensky's administration from May 2019 to February 2020, when he was dismissed and immediately replaced by Andriy Yermak.",
-    "time": "",
-    "pubDate": "2026-05-02T16:54:56+00:00",
-    "category": "political",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52887",
-    "score": 6.0,
-    "views": 1575,
-    "forwards": 2
   },
   {
     "title": "Kursk: Drone incoming",
@@ -214,24 +250,6 @@
     "score": 13.5,
     "views": 100829,
     "forwards": 157
-  },
-  {
-    "title": "Chernihiv: A group of BpLA in Sumy Oblast - headed for Chernihiv Oblast, Poltava...",
-    "title_en": "Chernihiv: A group of BpLA in Sumy Oblast - headed for Chernihiv Oblast, Poltava...",
-    "title_uk": "Чернігів: група BpLA в Сумській області - прямувала на Чернігівську область, Полтавську...",
-    "description": "A group of BpLA in Sumy Oblast - headed for Chernihiv Oblast, Poltava Oblast. 🛵 BpLA group in Poltava region - heading to Myrhorod.",
-    "description_en": "A group of BpLA in Sumy Oblast - headed for Chernihiv Oblast, Poltava Oblast. 🛵 BpLA group in Poltava region - heading to Myrhorod.",
-    "description_uk": "Група БпЛА на Сумщині - курсом на Чернігівщину, Полтавщину. 🛵 Група БпЛА на Полтавщині - курсом на Миргород.",
-    "time": "",
-    "pubDate": "2026-05-02T16:25:56+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61155",
-    "score": 6.0,
-    "views": 4040,
-    "forwards": 1
   },
   {
     "title": "51110 drones launched",
@@ -320,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18846",
     "score": 14.0,
-    "views": 142151,
-    "forwards": 227
+    "views": 148386,
+    "forwards": 229
   },
   {
     "title": "As a result of this April, our long-range sanctions reached a new...",
@@ -338,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18836",
     "score": 9.5,
-    "views": 200712,
-    "forwards": 320
+    "views": 204084,
+    "forwards": 321
   }
 ]
