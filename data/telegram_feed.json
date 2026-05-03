@@ -1,5 +1,41 @@
 [
   {
+    "title": "Strike confirmed",
+    "title_en": "Strike confirmed",
+    "title_uk": "Страйк підтверджено",
+    "description": "Rashists hit a gas station in the Dnipropetrovsk region, - OVA A 10-year-old boy was wounded. Ego was hospitalized in a condition of moderate severity. Five adults were also admitted to the hospital. Among them is a 21-year-old pregnant woman. The truck caught fire at the point of impact. The bus, in which there were about 40 children, was also damaged - at the time of arrival, they managed to leave the cabin. Another \"military object\" according to...",
+    "description_en": "Rashists hit a gas station in the Dnipropetrovsk region, - OVA A 10-year-old boy was wounded. Ego was hospitalized in a condition of moderate severity. Five adults were also admitted to the hospital. Among them is a 21-year-old pregnant woman. The truck caught fire at the point of impact. The bus, in which there were about 40 children, was also damaged - at the time of arrival, they managed to leave the cabin. Another \"military object\" according to...",
+    "description_uk": "Рашисты ударили по АЗС в Днепропетровской области, - ОВА Ранен 10-летний мальчик. Его госпитализировали в состоянии средней тяжести. В больницу также поступили пять взрослых. Среди них - 21-летняя беременная женщина. На месте удара загорелся грузовик. Также поврежден автобус, в котором находились около 40 детей - на момент прилета они успели покинуть салон. Очередной \"военный объект\" по версии...",
+    "time": "",
+    "pubDate": "2026-05-03T08:08:01+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Dnipro",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190690",
+    "score": 4.0,
+    "views": 12847,
+    "forwards": 3
+  },
+  {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-05-03T07:11:01+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61182",
+    "score": 5.0,
+    "views": 43155,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: Kharkiv - BpLA in the direction of the city from the north. 🛵 Kharkiv...",
     "title_en": "Kharkiv: Kharkiv - BpLA in the direction of the city from the north. 🛵 Kharkiv...",
     "title_uk": "Харків: Харків – БпЛА в напрямку міста з півночі. 🛵 Харків...",
@@ -14,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61180",
     "score": 6.0,
-    "views": 1,
-    "forwards": 0
+    "views": 60198,
+    "forwards": 1
   },
   {
     "title": "Mykolaiv: Speedway in Mykolayiv Oblast heading for Odesa.",
@@ -50,8 +86,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38111",
     "score": 13.0,
-    "views": 2155,
-    "forwards": 14
+    "views": 3292,
+    "forwards": 19
   },
   {
     "title": "50 drones intercepted",
@@ -67,9 +103,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190684",
-    "score": 8.5,
-    "views": 72466,
-    "forwards": 142
+    "score": 9.5,
+    "views": 124317,
+    "forwards": 213
   },
   {
     "title": "🛫 Activity of enemy tactical aviation in the eastern direction! 🚀The...",
@@ -158,26 +194,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52891",
     "score": 9.0,
-    "views": 1693,
+    "views": 2103,
     "forwards": 3
-  },
-  {
-    "title": "Enemy UAVs in the east and south of Kyiv.",
-    "title_en": "Enemy UAVs in the east and south of Kyiv.",
-    "title_uk": "БПЛА противника на сході та півдні Києва.",
-    "description": "Enemy UAVs in the east and south of Kyiv.",
-    "description_en": "Enemy UAVs in the east and south of Kyiv.",
-    "description_uk": "Ворожі БпЛА на сході та півдні Києва.",
-    "time": "",
-    "pubDate": "2026-05-02T19:20:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61162",
-    "score": 5.0,
-    "views": 98445,
-    "forwards": 36
   },
   {
     "title": "Kyiv: Peru launches investigation into citizens allegedly trafficked to...",
@@ -194,26 +212,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52890",
     "score": 6.0,
-    "views": 2203,
+    "views": 2478,
     "forwards": 4
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "Groups of enemy UAVs from Sumy Oblast in the western direction through Chernihiv Oblast and Poltava Oblast in the direction of Kyiv Oblast.",
-    "description_en": "Groups of enemy UAVs from Sumy Oblast in the western direction through Chernihiv Oblast and Poltava Oblast in the direction of Kyiv Oblast.",
-    "description_uk": "Групи ворожих БпЛА з Сумщини у західному напрямку через Чернігівщину та Полтавщину у напрямку Київщини.",
-    "time": "",
-    "pubDate": "2026-05-02T18:48:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61161",
-    "score": 6.0,
-    "views": 116689,
-    "forwards": 36
   },
   {
     "title": "Drone incoming",
@@ -288,42 +288,6 @@
     "forwards": 17
   },
   {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
-    "description": "General Staff: Russia has lost 1,332,950 troops in Ukraine since Feb. 24, 2022. Russia has lost around 1,332,950 troops in Ukraine since the beginning of its full-scale invasion on Feb. 24, 2022, the General Staff of the Armed Forces of Ukraine reported on May 2. The number includes 1,240 casualties that Russian forces suffered over the past day.",
-    "description_en": "General Staff: Russia has lost 1,332,950 troops in Ukraine since Feb. 24, 2022. Russia has lost around 1,332,950 troops in Ukraine since the beginning of its full-scale invasion on Feb. 24, 2022, the General Staff of the Armed Forces of Ukraine reported on May 2. The number includes 1,240 casualties that Russian forces suffered over the past day.",
-    "description_uk": "General Staff: Russia has lost 1,332,950 troops in Ukraine since Feb. 24, 2022. Russia has lost around 1,332,950 troops in Ukraine since the beginning of its full-scale invasion on Feb. 24, 2022, the General Staff of the Armed Forces of Ukraine reported on May 2. The number includes 1,240 casualties that Russian forces suffered over the past day.",
-    "time": "",
-    "pubDate": "2026-05-02T08:07:49+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52880",
-    "score": 6.0,
-    "views": 2055,
-    "forwards": 3
-  },
-  {
-    "title": "Kherson: 2 killed, 7 injured",
-    "title_en": "Kherson: 2 killed, 7 injured",
-    "title_uk": "Херсон: 2 загиблих, 7 поранених",
-    "description": "At least 2 killed, 7 injured after Russian drone hits civilian bus in Kherson. At least two people were killed and seven others injured after a Russian drone struck a civilian bus in Kherson in the early hours of May 2.",
-    "description_en": "At least 2 killed, 7 injured after Russian drone hits civilian bus in Kherson. At least two people were killed and seven others injured after a Russian drone struck a civilian bus in Kherson in the early hours of May 2.",
-    "description_uk": "At least 2 killed, 7 injured after Russian drone hits civilian bus in Kherson. At least two people were killed and seven others injured after a Russian drone struck a civilian bus in Kherson in the early hours of May 2.",
-    "time": "",
-    "pubDate": "2026-05-02T07:39:29+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kherson",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52879",
-    "score": 10.0,
-    "views": 1936,
-    "forwards": 3
-  },
-  {
     "title": "Mykolaiv: Drone strike near civilians",
     "title_en": "Mykolaiv: Drone strike near civilians",
     "title_uk": "Миколаїв: обстріл безпілотників поблизу мирних жителів",
@@ -338,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18846",
     "score": 14.0,
-    "views": 148386,
-    "forwards": 229
+    "views": 152034,
+    "forwards": 230
   },
   {
     "title": "As a result of this April, our long-range sanctions reached a new...",
@@ -356,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18836",
     "score": 9.5,
-    "views": 204084,
-    "forwards": 321
+    "views": 205899,
+    "forwards": 322
   }
 ]
