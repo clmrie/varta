@@ -1,5 +1,23 @@
 [
   {
+    "title": "Sumyshchyna: BpLA ➡️ in the direction of Poltava.",
+    "title_en": "Sumyshchyna: BpLA ➡️ in the direction of Poltava.",
+    "title_uk": "Сумщина: БпЛА ➡️ в напрямку Полтави.",
+    "description": "Sumyshchyna: BpLA ➡️ in the direction of Poltava.",
+    "description_en": "Sumyshchyna: BpLA ➡️ in the direction of Poltava.",
+    "description_uk": "Сумщина: БпЛА ➡️ в напрямку Полтави.",
+    "time": "",
+    "pubDate": "2026-05-03T23:41:33+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61236",
+    "score": 5.0,
+    "views": 4171,
+    "forwards": 13
+  },
+  {
     "title": "Kyiv: Drone strike near civilians",
     "title_en": "Kyiv: Drone strike near civilians",
     "title_uk": "Київ: удар безпілотників поблизу мирних жителів",
@@ -14,8 +32,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52904",
     "score": 13.0,
-    "views": 243,
-    "forwards": 1
+    "views": 485,
+    "forwards": 2
   },
   {
     "title": "Zaporizhzhia: BpLA group ➡️ heading for Zaporozhye.",
@@ -32,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61235",
     "score": 6.0,
-    "views": 12381,
-    "forwards": 11
+    "views": 18012,
+    "forwards": 12
   },
   {
     "title": "Sumyshchyna: BpLA ➡️ in the direction of Shostka.",
@@ -104,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190728",
     "score": 3.5,
-    "views": 54037,
-    "forwards": 82
+    "views": 59747,
+    "forwards": 84
   },
   {
     "title": "BpLA group ➡️ heading for Voznesensk.",
@@ -158,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190726",
     "score": 5.5,
-    "views": 80262,
-    "forwards": 103
+    "views": 84579,
+    "forwards": 104
   },
   {
     "title": "Zaporizhzhia: BpLA groups through Kherson region ➡️ course to Mykolaiv region. 🛵...",
@@ -248,7 +266,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18857",
     "score": 4.0,
-    "views": 67621,
+    "views": 68436,
     "forwards": 117
   },
   {
@@ -266,8 +284,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38127",
     "score": 12.0,
-    "views": 4877,
-    "forwards": 22
+    "views": 4938,
+    "forwards": 23
   },
   {
     "title": "Poltava region: a group of BpLA ➡️ in the Pyryatina district.",
@@ -302,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18855",
     "score": 9.0,
-    "views": 91387,
+    "views": 92042,
     "forwards": 141
   },
   {
@@ -428,25 +446,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52898",
     "score": 9.0,
-    "views": 2274,
+    "views": 2318,
     "forwards": 4
-  },
-  {
-    "title": "Dnipro: Dnipro is urgently in shelter.",
-    "title_en": "Dnipro: Dnipro is urgently in shelter.",
-    "title_uk": "Дніпро: Дніпро терміново в притулок.",
-    "description": "Dnipro is urgently in shelter.",
-    "description_en": "Dnipro is urgently in shelter.",
-    "description_uk": "Дніпро терміново в укриття.",
-    "time": "",
-    "pubDate": "2026-05-03T12:03:05+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61206",
-    "score": 6.5,
-    "views": 8053,
-    "forwards": 69
   }
 ]
