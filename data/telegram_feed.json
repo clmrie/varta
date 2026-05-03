@@ -1,5 +1,23 @@
 [
   {
+    "title": "Sumyshchyna: BpLA ➡️ in the direction of Shostka.",
+    "title_en": "Sumyshchyna: BpLA ➡️ in the direction of Shostka.",
+    "title_uk": "Сумщина: БпЛА ➡️ в напрямку Шостки.",
+    "description": "Sumyshchyna: BpLA ➡️ in the direction of Shostka.",
+    "description_en": "Sumyshchyna: BpLA ➡️ in the direction of Shostka.",
+    "description_uk": "Сумщина: БпЛА ➡️ в напрямку Шостки.",
+    "time": "",
+    "pubDate": "2026-05-03T21:47:03+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61234",
+    "score": 5.0,
+    "views": 9975,
+    "forwards": 14
+  },
+  {
     "title": "Kryvyi Rih: Several groups of BpLA ➡️ heading for Kryvyi Rih from the south.",
     "title_en": "Kryvyi Rih: Several groups of BpLA ➡️ heading for Kryvyi Rih from the south.",
     "title_uk": "Кривий Ріг: кілька груп BpLA ➡️ прямують на Кривий Ріг з півдня.",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61233",
     "score": 6.0,
-    "views": 10117,
-    "forwards": 36
+    "views": 23835,
+    "forwards": 37
   },
   {
     "title": "Kyiv: Kyiv region: BpLA ➡️ in the direction of Brovary.",
@@ -49,9 +67,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190728",
-    "score": 3.0,
-    "views": 37342,
-    "forwards": 44
+    "score": 3.5,
+    "views": 46567,
+    "forwards": 70
   },
   {
     "title": "BpLA group ➡️ heading for Voznesensk.",
@@ -104,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190726",
     "score": 5.5,
-    "views": 67803,
-    "forwards": 74
+    "views": 74542,
+    "forwards": 101
   },
   {
     "title": "Zaporizhzhia: BpLA groups through Kherson region ➡️ course to Mykolaiv region. 🛵...",
@@ -194,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18857",
     "score": 4.0,
-    "views": 64860,
-    "forwards": 113
+    "views": 66393,
+    "forwards": 117
   },
   {
     "title": "5 missiles intercepted",
@@ -212,7 +230,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38127",
     "score": 12.0,
-    "views": 4740,
+    "views": 4804,
     "forwards": 22
   },
   {
@@ -248,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18855",
     "score": 9.0,
-    "views": 89364,
-    "forwards": 137
+    "views": 90397,
+    "forwards": 141
   },
   {
     "title": "Kyiv: BpLA ➡️ course to Kyiv/Brovary.",
@@ -374,7 +392,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52898",
     "score": 9.0,
-    "views": 2140,
+    "views": 2202,
     "forwards": 4
   },
   {
@@ -430,23 +448,5 @@
     "score": 4.5,
     "views": 133155,
     "forwards": 249
-  },
-  {
-    "title": "Chernihiv: UAV in Sumy Oblast, headed for Poltava Oblast and Chernihiv Oblast.",
-    "title_en": "Chernihiv: UAV in Sumy Oblast, headed for Poltava Oblast and Chernihiv Oblast.",
-    "title_uk": "Чернігів: БПЛА в Сумській області, курс на Полтавську та Чернігівську області.",
-    "description": "UAV in Sumy Oblast, headed for Poltava Oblast and Chernihiv Oblast.",
-    "description_en": "UAV in Sumy Oblast, headed for Poltava Oblast and Chernihiv Oblast.",
-    "description_uk": "БпЛА на Сумщині, курсом на Полтавщину та Чернігівщину.",
-    "time": "",
-    "pubDate": "2026-05-03T10:59:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61202",
-    "score": 6.0,
-    "views": 22224,
-    "forwards": 1
   }
 ]
