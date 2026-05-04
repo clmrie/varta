@@ -1,5 +1,77 @@
 [
   {
+    "title": "Kramatorsk: A group of BpLA in the north of Donetsk region ➡️ heading for...",
+    "title_en": "Kramatorsk: A group of BpLA in the north of Donetsk region ➡️ heading for...",
+    "title_uk": "Краматорськ: Група BpLA на півночі Донецької області ➡️ прямує на...",
+    "description": "A group of BpLA in the north of Donetsk region ➡️ heading for Sloviansk. Kramatorsk",
+    "description_en": "A group of BpLA in the north of Donetsk region ➡️ heading for Sloviansk. Kramatorsk",
+    "description_uk": "Група БпЛА на півночі Донеччини ➡️ курсом на Слов'янськ. Краматорськ.",
+    "time": "",
+    "pubDate": "2026-05-04T11:05:16+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kramatorsk",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61273",
+    "score": 6.0,
+    "views": 13143,
+    "forwards": 1
+  },
+  {
+    "title": "Sumy: A group of BpLA on Sumy from the north!",
+    "title_en": "Sumy: A group of BpLA on Sumy from the north!",
+    "title_uk": "Суми: Група БПЛА на Суми з півночі!",
+    "description": "A group of BpLA on Sumy from the north!",
+    "description_en": "A group of BpLA on Sumy from the north!",
+    "description_uk": "Група БпЛА на Суми з півночі!",
+    "time": "",
+    "pubDate": "2026-05-04T10:58:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61272",
+    "score": 6.0,
+    "views": 21215,
+    "forwards": 1
+  },
+  {
+    "title": "Air defense active",
+    "title_en": "Air defense active",
+    "title_uk": "Активна ППО",
+    "description": "Another interesting thing about the night flight in Moscow: FP-1 passed three echelons of air defense - this is at least 101 confirmed positions of air defense. Dronebomber writes that the route passed through the area of ​​responsibility of at least 10 S-400 regiments, as well as dozens of \"Pantsyr\" and \"Tor\" installations. At the same time, the drone even bypassed special positions on the roofs in the city center and towers along the roads, which were created specifically for interception...",
+    "description_en": "Another interesting thing about the night flight in Moscow: FP-1 passed three echelons of air defense - this is at least 101 confirmed positions of air defense. Dronebomber writes that the route passed through the area of ​​responsibility of at least 10 S-400 regiments, as well as dozens of \"Pantsyr\" and \"Tor\" installations. At the same time, the drone even bypassed special positions on the roofs in the city center and towers along the roads, which were created specifically for interception...",
+    "description_uk": "Еще интересное о ночной гойде в москве: FP-1 прошел три эшелона ПВО — это как минимум 101 подтвержденная позиция ПВО Dronebomber пишет, что маршрут проходил через зону ответственности не менее 10 полков С-400, а также десятков установок «Панцирь» и «Тор». При этом дрон обошел даже специальные позиции на крышах в центре города и башни вдоль дорог, которые создавались именно для перехвата...",
+    "time": "",
+    "pubDate": "2026-05-04T10:02:01+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190755",
+    "score": 4.5,
+    "views": 66410,
+    "forwards": 398
+  },
+  {
+    "title": "Kyiv: 155 drones launched",
+    "title_en": "Kyiv: 155 drones launched",
+    "title_uk": "Київ: запущено 155 дронів",
+    "description": "At least 7 killed, 85 injured in Russian attacks over previous day. Ukrainian forces downed 135 out of 155 drones, including Shahed-type attack drones, launched by Russia overnight, the Air Force reported. 14 strikes were recorded in ten different locations, according to the statement.",
+    "description_en": "At least 7 killed, 85 injured in Russian attacks over previous day. Ukrainian forces downed 135 out of 155 drones, including Shahed-type attack drones, launched by Russia overnight, the Air Force reported. 14 strikes were recorded in ten different locations, according to the statement.",
+    "description_uk": "At least 7 killed, 85 injured in Russian attacks over previous day. Ukrainian forces downed 135 out of 155 drones, including Shahed-type attack drones, launched by Russia overnight, the Air Force reported. 14 strikes were recorded in ten different locations, according to the statement.",
+    "time": "",
+    "pubDate": "2026-05-04T09:47:35+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52910",
+    "score": 14.0,
+    "views": 814,
+    "forwards": 1
+  },
+  {
     "title": "Nikopol: BpLA to Sumy, Kharkiv, Nikopol!",
     "title_en": "Nikopol: BpLA to Sumy, Kharkiv, Nikopol!",
     "title_uk": "Нікополь: BpLA на Суми, Харків, Нікополь!",
@@ -32,8 +104,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23463",
     "score": 4.5,
-    "views": 63138,
-    "forwards": 132
+    "views": 85660,
+    "forwards": 190
   },
   {
     "title": "Donetsk: Air defense active",
@@ -50,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38144",
     "score": 13.0,
-    "views": 4076,
-    "forwards": 16
+    "views": 4862,
+    "forwards": 17
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -176,62 +248,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52904",
     "score": 13.0,
-    "views": 2094,
+    "views": 2318,
     "forwards": 4
-  },
-  {
-    "title": "Zaporizhzhia: BpLA group ➡️ heading for Zaporozhye.",
-    "title_en": "Zaporizhzhia: BpLA group ➡️ heading for Zaporozhye.",
-    "title_uk": "Запоріжжя: BpLA group ➡️ прямує до Запоріжжя.",
-    "description": "BpLA group ➡️ heading for Zaporozhye.",
-    "description_en": "BpLA group ➡️ heading for Zaporozhye.",
-    "description_uk": "Група БпЛА ➡️ курсом на Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-05-03T22:13:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61235",
-    "score": 6.0,
-    "views": 18012,
-    "forwards": 12
-  },
-  {
-    "title": "Sumyshchyna: BpLA ➡️ in the direction of Shostka.",
-    "title_en": "Sumyshchyna: BpLA ➡️ in the direction of Shostka.",
-    "title_uk": "Сумщина: БпЛА ➡️ в напрямку Шостки.",
-    "description": "Sumyshchyna: BpLA ➡️ in the direction of Shostka.",
-    "description_en": "Sumyshchyna: BpLA ➡️ in the direction of Shostka.",
-    "description_uk": "Сумщина: БпЛА ➡️ в напрямку Шостки.",
-    "time": "",
-    "pubDate": "2026-05-03T21:47:03+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61234",
-    "score": 5.0,
-    "views": 19896,
-    "forwards": 14
-  },
-  {
-    "title": "Kryvyi Rih: Several groups of BpLA ➡️ heading for Kryvyi Rih from the south.",
-    "title_en": "Kryvyi Rih: Several groups of BpLA ➡️ heading for Kryvyi Rih from the south.",
-    "title_uk": "Кривий Ріг: кілька груп BpLA ➡️ прямують на Кривий Ріг з півдня.",
-    "description": "Several groups of BpLA ➡️ heading for Kryvyi Rih from the south.",
-    "description_en": "Several groups of BpLA ➡️ heading for Kryvyi Rih from the south.",
-    "description_uk": "Декілька груп БпЛА ➡️ курсом на Кривий Ріг з півдня.",
-    "time": "",
-    "pubDate": "2026-05-03T21:21:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61233",
-    "score": 6.0,
-    "views": 23835,
-    "forwards": 37
   },
   {
     "title": "He met with the Prime Minister of Great Britain, Keir Starmer. We in...",
@@ -248,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18857",
     "score": 4.0,
-    "views": 89153,
-    "forwards": 127
+    "views": 91796,
+    "forwards": 130
   },
   {
     "title": "5 missiles intercepted",
@@ -284,26 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18855",
     "score": 9.0,
-    "views": 109322,
-    "forwards": 148
-  },
-  {
-    "title": "How drone warfare is changing war reporting In the latest episode of...",
-    "title_en": "How drone warfare is changing war reporting In the latest episode of...",
-    "title_uk": "Як війна безпілотників змінює репортаж про війну В останньому епізоді...",
-    "description": "How drone warfare is changing war reporting In the latest episode of Ukraine This Week, Anna Belokur examines why war reporting is becoming more dangerous in Ukraine. As drone warfare expands across the country, journalists are increasingly exposed to risks far beyond the front line. With these new dangers, questions have emerged about how best to protect themselves and whether journalists should...",
-    "description_en": "How drone warfare is changing war reporting In the latest episode of Ukraine This Week, Anna Belokur examines why war reporting is becoming more dangerous in Ukraine. As drone warfare expands across the country, journalists are increasingly exposed to risks far beyond the front line. With these new dangers, questions have emerged about how best to protect themselves and whether journalists should...",
-    "description_uk": "How drone warfare is changing war reporting In the latest episode of Ukraine This Week, Anna Belokur examines why war reporting is becoming more dangerous in Ukraine. As drone warfare expands across the country, journalists are increasingly exposed to risks far beyond the front line. With these new dangers, questions have emerged about how best to protect themselves and whether journalists should...",
-    "time": "",
-    "pubDate": "2026-05-03T12:29:17+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52898",
-    "score": 9.0,
-    "views": 2690,
-    "forwards": 5
+    "views": 112206,
+    "forwards": 150
   },
   {
     "title": "Kherson: Evacuation ordered",
@@ -320,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8943",
     "score": 15.0,
-    "views": 734,
+    "views": 815,
     "forwards": 7
   }
 ]
