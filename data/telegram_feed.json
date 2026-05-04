@@ -1,5 +1,59 @@
 [
   {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "A group of BpLA from the south of Kherson region ➡️ heading north. 🛵 BpLA to Zaporizhzhia from the north. 🛵 UAV from the east ➡️ to the north of Kharkiv Oblast.",
+    "description_en": "A group of BpLA from the south of Kherson region ➡️ heading north. 🛵 BpLA to Zaporizhzhia from the north. 🛵 UAV from the east ➡️ to the north of Kharkiv Oblast.",
+    "description_uk": "Група БпЛА з півдня Херсонщини ➡️ курсом на північ. 🛵 БпЛА на Запоріжжя з півночі. 🛵 БпЛА зі сходу ➡️ на північ Харківщини.",
+    "time": "",
+    "pubDate": "2026-05-04T16:24:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61290",
+    "score": 6.0,
+    "views": 36364,
+    "forwards": 1
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "70 ENEMY UAVS SHOT DOWN/SUPPRESSED On May 4 (from 8:30 a.m. to 6:30 p.m.), the enemy attacked with an Iskander-M ballistic missile and 88 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones. The air attack was repulsed by aviation, anti-aircraft missile forces, units of EW and unmanned systems, mobile fire groups of the Defense Forces of Ukraine. 💥 According to preliminary data,...",
+    "description_en": "70 ENEMY UAVS SHOT DOWN/SUPPRESSED On May 4 (from 8:30 a.m. to 6:30 p.m.), the enemy attacked with an Iskander-M ballistic missile and 88 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones. The air attack was repulsed by aviation, anti-aircraft missile forces, units of EW and unmanned systems, mobile fire groups of the Defense Forces of Ukraine. 💥 According to preliminary data,...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 70 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ 4 травня (з 08.30 по 18:30) противник атакував балістичною ракетою Іскандер-М та 88-ма ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас, дронами-імітаторами типу «Пародія». Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем, мобільні вогневі групи Сил оборони України. 💥 За попередніми даними,...",
+    "time": "",
+    "pubDate": "2026-05-04T16:19:48+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/38160",
+    "score": 12.0,
+    "views": 1530,
+    "forwards": 10
+  },
+  {
+    "title": "Donetsk: Anti-aircraft, ammunition, and anti-aircraft missile depots and enemy...",
+    "title_en": "Donetsk: Anti-aircraft, ammunition, and anti-aircraft missile depots and enemy...",
+    "title_uk": "Донецьк: Зенітні, боєприпаси, зенітно-ракетні склади та противник...",
+    "description": "Anti-aircraft, ammunition, and anti-aircraft missile depots and enemy air defense facilities were hit Yesterday, May 3, and on the night of May 4, 2026, units of the Defense Forces of Ukraine inflicted damage on a number of objects of the Russian occupiers. ⚡️In particular, the UAV warehouse in the city of Donetsk (Tot of the Donetsk region) and Kamianets of the Zaporizhzhia region, as well as the control point of the enemy UAV in the Novogrodivka district of Donetsk region, were affected. ⚡️The composition is also affected...",
+    "description_en": "Anti-aircraft, ammunition, and anti-aircraft missile depots and enemy air defense facilities were hit Yesterday, May 3, and on the night of May 4, 2026, units of the Defense Forces of Ukraine inflicted damage on a number of objects of the Russian occupiers. ⚡️In particular, the UAV warehouse in the city of Donetsk (Tot of the Donetsk region) and Kamianets of the Zaporizhzhia region, as well as the control point of the enemy UAV in the Novogrodivka district of Donetsk region, were affected. ⚡️The composition is also affected...",
+    "description_uk": "Уражено склади БпЛА, боєприпасів і ПММ та об'єкти ППО противника Вчора, 3 травня, та в ніч на 4 травня 2026 року підрозділи Сил оборони України завдали уражень по низці об’єктів російських окупантів. ⚡️Зокрема уражено склад БпЛА у місті Донецьк (ТОТ Донецької обл) та Кам’янці Запорізької області, а також пункт управління БпЛА ворога у районі Новогродівки на Донеччині. ⚡️Також уражено склад...",
+    "time": "",
+    "pubDate": "2026-05-04T16:07:48+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/38159",
+    "score": 9.5,
+    "views": 3533,
+    "forwards": 56
+  },
+  {
     "title": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_uk": "Харків: БпЛА на Харків з півночі.",
@@ -90,24 +144,6 @@
     "forwards": 35
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "Thanks to Canada for their strong support of the PURL program. The additional $200 million announced today by Prime Minister Mark Carney is an important contribution to protecting our people from ongoing Russian ballistic strikes. In total, Canada has already committed more than $830 million to support this initiative. And these are solutions that really save lives. During the meeting, the strengthening of...",
-    "description_en": "Thanks to Canada for their strong support of the PURL program. The additional $200 million announced today by Prime Minister Mark Carney is an important contribution to protecting our people from ongoing Russian ballistic strikes. In total, Canada has already committed more than $830 million to support this initiative. And these are solutions that really save lives. During the meeting, the strengthening of...",
-    "description_uk": "Дякую Канаді за вагому підтримку програми PURL. Додаткові 200 мільйонів доларів, про які сьогодні оголосив Премʼєр-міністр Марк Карні, – важливий внесок у захист наших людей від постійних балістичних російських ударів. Загалом Канада вже спрямувала понад 830 мільйонів доларів на підтримку цієї ініціативи. І це рішення, які справді рятують життя. Детально під час зустрічі обговорили зміцнення...",
-    "time": "",
-    "pubDate": "2026-05-04T12:06:01+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18871",
-    "score": 5.5,
-    "views": 48473,
-    "forwards": 96
-  },
-  {
     "title": "Fire training of operators of the Special Operations Forces of the...",
     "title_en": "Fire training of operators of the Special Operations Forces of the...",
     "title_uk": "Вогнева підготовка операторів Сил спеціальних операцій...",
@@ -194,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52910",
     "score": 14.0,
-    "views": 1704,
+    "views": 1897,
     "forwards": 2
   },
   {
@@ -230,8 +266,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23463",
     "score": 5.5,
-    "views": 111900,
-    "forwards": 207
+    "views": 119274,
+    "forwards": 213
   },
   {
     "title": "Donetsk: Air defense active",
@@ -288,24 +324,6 @@
     "forwards": 388
   },
   {
-    "title": "Preparation for the parade on Red Square: in Moscow, a drone flew...",
-    "title_en": "Preparation for the parade on Red Square: in Moscow, a drone flew...",
-    "title_uk": "Підготовка до параду на Красній площі: в Москві полетів дрон...",
-    "description": "Preparation for the parade on Red Square: in Moscow, a drone flew into a multi-storey building. From the point of arrival to the Kremlin - about 6 km.😏",
-    "description_en": "Preparation for the parade on Red Square: in Moscow, a drone flew into a multi-storey building. From the point of arrival to the Kremlin - about 6 km.😏",
-    "description_uk": "Подготовка к параду на Красной площади: в Москве беспилотник влетел в многоэтажку От места прилета до Кремля — около 6 км.😏",
-    "time": "",
-    "pubDate": "2026-05-04T03:38:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190730",
-    "score": 5.5,
-    "views": 152545,
-    "forwards": 693
-  },
-  {
     "title": "Kyiv: Drone strike near civilians",
     "title_en": "Kyiv: Drone strike near civilians",
     "title_uk": "Київ: удар безпілотників поблизу мирних жителів",
@@ -320,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52904",
     "score": 13.0,
-    "views": 2593,
+    "views": 2674,
     "forwards": 4
   },
   {
@@ -338,26 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18857",
     "score": 4.0,
-    "views": 95180,
-    "forwards": 131
-  },
-  {
-    "title": "5 missiles intercepted",
-    "title_en": "5 missiles intercepted",
-    "title_uk": "Перехоплено 5 ракет",
-    "description": "175 ENEMY UAVS AND 5 MISSILES WERE CUT DOWN/SUPPRESSED On May 3 (from 08:30 to 18:30), the enemy attacked with two Iskander-M ballistic missiles, five Kh-59/69 guided air missiles, as well as 234 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, \"Parody\" simulator drones and other types of drones. The air attack was repulsed by aviation, anti-aircraft missile troops,...",
-    "description_en": "175 ENEMY UAVS AND 5 MISSILES WERE CUT DOWN/SUPPRESSED On May 3 (from 08:30 to 18:30), the enemy attacked with two Iskander-M ballistic missiles, five Kh-59/69 guided air missiles, as well as 234 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, \"Parody\" simulator drones and other types of drones. The air attack was repulsed by aviation, anti-aircraft missile troops,...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 175 ВОРОЖИХ БПЛА ТА 5 РАКЕТ ➖➖➖➖➖➖➖➖➖➖ 3 травня (з 08.30 по 18:30) противник атакував двома балістичними ракетами Іскандер-М, п'ятьма керованими авіаційними ракетами Х-59/69, а також 234 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас, дронами-імітаторами «Пародія» та безпілотниками інших типів. Повітряний напад відбивали авіація, зенітні ракетні війська,...",
-    "time": "",
-    "pubDate": "2026-05-03T16:37:02+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/38127",
-    "score": 12.0,
-    "views": 6662,
-    "forwards": 25
+    "views": 96060,
+    "forwards": 132
   },
   {
     "title": "Kherson: Evacuation ordered",
@@ -374,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8943",
     "score": 15.0,
-    "views": 861,
+    "views": 877,
     "forwards": 7
   }
 ]
