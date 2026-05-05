@@ -1,8 +1,26 @@
 [
   {
+    "title": "Attack attack on infrastructure",
+    "title_en": "Attack attack on infrastructure",
+    "title_uk": "Атака на інфраструктуру",
+    "description": "It is estimated that the comprehensive attack by units of the Defense Forces of Ukraine in April and May 1 resulted in damage to the port infrastructure of Tuapse and the Tuapse Refinery in the amount of more than 300 million US dollars.",
+    "description_en": "It is estimated that the comprehensive attack by units of the Defense Forces of Ukraine in April and May 1 resulted in damage to the port infrastructure of Tuapse and the Tuapse Refinery in the amount of more than 300 million US dollars.",
+    "description_uk": "Підраховано, що комплексне ураження підрозділами Сил оборони України у квітні та 1 травня призвело до завдання збитків портовій інфраструктурі Туапсе та Туапсинському НПЗ на суму понад 300 млн. доларів США.",
+    "time": "",
+    "pubDate": "2026-05-05T12:02:33+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/38214",
+    "score": 4.0,
+    "views": 2845,
+    "forwards": 35
+  },
+  {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
+    "title_uk": "Київ: повідомлення про вибухи",
     "description": "UK sanctions Russian individuals, entities responsible for exploiting migrants in its war effort. \"The practice of exploiting vulnerable people to prop up Russia’s failing and illegal war in Ukraine is barbaric,\" U.K. Sanctions Minister Stephen Doughty said.",
     "description_en": "UK sanctions Russian individuals, entities responsible for exploiting migrants in its war effort. \"The practice of exploiting vulnerable people to prop up Russia’s failing and illegal war in Ukraine is barbaric,\" U.K. Sanctions Minister Stephen Doughty said.",
     "description_uk": "UK sanctions Russian individuals, entities responsible for exploiting migrants in its war effort. \"The practice of exploiting vulnerable people to prop up Russia’s failing and illegal war in Ukraine is barbaric,\" U.K. Sanctions Minister Stephen Doughty said.",
@@ -14,7 +32,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52930",
     "score": 5.0,
-    "views": 262,
+    "views": 891,
     "forwards": 0
   },
   {
@@ -32,8 +50,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38213",
     "score": 10.5,
-    "views": 13259,
-    "forwards": 125
+    "views": 26910,
+    "forwards": 156
   },
   {
     "title": "Moscow is not ready for rest - there is a threat from the BpLA again,...",
@@ -50,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190842",
     "score": 5.5,
-    "views": 70927,
-    "forwards": 104
+    "views": 101338,
+    "forwards": 138
   },
   {
     "title": "UAV to Odesa (Odesa district) from the Black Sea.",
@@ -86,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190840",
     "score": 4.5,
-    "views": 91509,
-    "forwards": 284
+    "views": 115414,
+    "forwards": 321
   },
   {
     "title": "Kursk: 164 drones intercepted",
@@ -122,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52929",
     "score": 14.0,
-    "views": 1363,
-    "forwards": 2
+    "views": 1690,
+    "forwards": 3
   },
   {
     "title": "Chernihiv: BpLA in Chernihiv Oblast, past n.p. March to the southwest.",
@@ -146,7 +164,7 @@
   {
     "title": "Kharkiv: Shelling near civilians",
     "title_en": "Kharkiv: Shelling near civilians",
-    "title_uk": "Харків: Обстріли поблизу мирних жителів",
+    "title_uk": "Харків: обстріли поблизу мирних жителів",
     "description": "At night, the Russians attacked the energy infrastructure in Poltava Oblast. And very meanly, they hit again with a rocket, when the emergency services workers were already on the spot - eliminating the fire. As of now, it is known about dozens of wounded. Unfortunately, four people were killed, including two rescuers. These are Hero of Ukraine Viktor Kuzmenko, who eliminated the consequences of shelling more than 50 times, and Dmytro Skryl, who...",
     "description_en": "At night, the Russians attacked the energy infrastructure in Poltava Oblast. And very meanly, they hit again with a rocket, when the emergency services workers were already on the spot - eliminating the fire. As of now, it is known about dozens of wounded. Unfortunately, four people were killed, including two rescuers. These are Hero of Ukraine Viktor Kuzmenko, who eliminated the consequences of shelling more than 50 times, and Dmytro Skryl, who...",
     "description_uk": "Вночі росіяни атакували енергетичну інфраструктуру на Полтавщині. І дуже підло вдарили повторно ракетою, коли на місці вже були працівники ДСНС – ліквідовували пожежу. Станом на зараз відомо про десятки поранених. На жаль, чотири людини було вбито і серед них двоє рятувальників. Це Герой України Віктор Кузьменко, який більш ніж 50 разів ліквідовував наслідки обстрілів, і Дмитро Скриль, який на...",
@@ -158,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18878",
     "score": 14.0,
-    "views": 165365,
-    "forwards": 478
+    "views": 181158,
+    "forwards": 501
   },
   {
     "title": "Civil-military cooperation in the Armed Forces of Ukraine has gone...",
@@ -270,24 +288,6 @@
     "forwards": 3
   },
   {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "A group of strike UAVs in the Buryn region of Sumy Oblast",
-    "description_en": "A group of strike UAVs in the Buryn region of Sumy Oblast",
-    "description_uk": "Група ударних БпЛА в районі Буринь на Сумщині",
-    "time": "",
-    "pubDate": "2026-05-04T23:55:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61323",
-    "score": 5.0,
-    "views": 3947,
-    "forwards": 1
-  },
-  {
     "title": "4 injured",
     "title_en": "4 injured",
     "title_uk": "4 поранених",
@@ -302,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8957",
     "score": 9.0,
-    "views": 877,
+    "views": 895,
     "forwards": 4
   },
   {
@@ -338,26 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18871",
     "score": 5.5,
-    "views": 74310,
+    "views": 74968,
     "forwards": 120
-  },
-  {
-    "title": "Fire training of operators of the Special Operations Forces of the...",
-    "title_en": "Fire training of operators of the Special Operations Forces of the...",
-    "title_uk": "Вогнева підготовка операторів Сил спеціальних операцій...",
-    "description": "Fire training of operators of the Special Operations Forces of the Armed Forces of Ukraine. It is not the weapon that shoots. A man shoots. A weapon is only a tool, and its effectiveness is determined by the person holding it. That is why the basis of fire training in units of the Special Operations Forces is not the number of shots, but the quality of each element: stance and its structure, weapon control, visual focus, breathing, awareness...",
-    "description_en": "Fire training of operators of the Special Operations Forces of the Armed Forces of Ukraine. It is not the weapon that shoots. A man shoots. A weapon is only a tool, and its effectiveness is determined by the person holding it. That is why the basis of fire training in units of the Special Operations Forces is not the number of shots, but the quality of each element: stance and its structure, weapon control, visual focus, breathing, awareness...",
-    "description_uk": "Вогнева підготовка операторів Сил спеціальних операцій Збройних Сил України. Стріляє не зброя. Стріляє людина. Зброя – лише інструмент, і його ефективність визначається тим, хто його тримає. Саме тому основа вогневої підготовки в підрозділах Сил спеціальних операцій – це не кількість пострілів, а якість кожного елемента: стійка та її структура, контроль зброї, фокус зору, дихання, усвідомлення...",
-    "time": "",
-    "pubDate": "2026-05-04T11:44:44+00:00",
-    "category": "political",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/38148",
-    "score": 5.0,
-    "views": 3501,
-    "forwards": 4
   },
   {
     "title": "Drone incoming",
@@ -374,7 +356,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23463",
     "score": 5.5,
-    "views": 143392,
-    "forwards": 237
+    "views": 146061,
+    "forwards": 238
   }
 ]
