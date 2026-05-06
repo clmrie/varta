@@ -1,5 +1,77 @@
 [
   {
+    "title": "Missile launch detected",
+    "title_en": "Missile launch detected",
+    "title_uk": "Виявлено запуск ракети",
+    "description": "Putin is testing nuclear-capable missiles for the first time in 1.5 years. Right before the parade in Moscow, \"Military\" of the Russian Federation announced missile tests at the \"Kura\" range in the Ust-Kamchatsky District from May 6 to 10. The presence of people and the movement of any equipment have already been banned on the territory. The last time such launches took place on October 29, 2024, when an intercontinental missile hit the test site...",
+    "description_en": "Putin is testing nuclear-capable missiles for the first time in 1.5 years. Right before the parade in Moscow, \"Military\" of the Russian Federation announced missile tests at the \"Kura\" range in the Ust-Kamchatsky District from May 6 to 10. The presence of people and the movement of any equipment have already been banned on the territory. The last time such launches took place on October 29, 2024, when an intercontinental missile hit the test site...",
+    "description_uk": "путин впервые за 1,5 года проводит испытания ракет с ядерным потенциалом. Прямо перед парадом в Москве, - \"Милитарный\" рф объявила о ракетных испытаниях на полигоне \"Кура\" в Усть-Камчатском округе с 6 по 10 мая. На территории уже запретили пребывание людей и движение любой техники. Последний раз подобные пуски проходили 29 октября 2024 года, когда по полигону ударили межконтинентальной ракетой...",
+    "time": "",
+    "pubDate": "2026-05-06T09:23:07+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190899",
+    "score": 4.5,
+    "views": 80158,
+    "forwards": 323
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "New groups of UAVs from the Black Sea area ➡️ heading for Odesa.",
+    "description_en": "New groups of UAVs from the Black Sea area ➡️ heading for Odesa.",
+    "description_uk": "Нові групи БпЛА із акваторії Чорного моря ➡️ курсом на Одещину.",
+    "time": "",
+    "pubDate": "2026-05-06T09:12:03+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61440",
+    "score": 5.0,
+    "views": 56328,
+    "forwards": 45
+  },
+  {
+    "title": "Kharkiv: Kharkiv region: BpLA group - in the Stary Saltov district. 🛵 BpLA -...",
+    "title_en": "Kharkiv: Kharkiv region: BpLA group - in the Stary Saltov district. 🛵 BpLA -...",
+    "title_uk": "Харків: Харківська обл.: BpLA group - у Старосалтівському районі. 🛵 BpLA -...",
+    "description": "Kharkiv region: BpLA group - in the Stary Saltov district. 🛵 BpLA - heading for Pavlograd.",
+    "description_en": "Kharkiv region: BpLA group - in the Stary Saltov district. 🛵 BpLA - heading for Pavlograd.",
+    "description_uk": "Харківщина: група БпЛА - в районі Старого Салтова. 🛵 БпЛА - курсом на Павлоград.",
+    "time": "",
+    "pubDate": "2026-05-06T09:11:29+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61439",
+    "score": 6.0,
+    "views": 55884,
+    "forwards": 17
+  },
+  {
+    "title": "Head of the Mission of Ukraine to the North Atlantic Treaty...",
+    "title_en": "Head of the Mission of Ukraine to the North Atlantic Treaty...",
+    "title_uk": "Голова Місії України при Північноатлантичному договорі...",
+    "description": "Head of the Mission of Ukraine to the North Atlantic Treaty Organization, Alyona Getmanchuk, held a meeting with the Supreme Commander of the United Armed Forces of NATO on issues of NATO transformation - Allied Command Transformation (ACT), Admiral Pierre Vandieu. Admiral Pierre Wandier heads one of the Alliance's two strategic commands - NATO's Joint Forces Command for...",
+    "description_en": "Head of the Mission of Ukraine to the North Atlantic Treaty Organization, Alyona Getmanchuk, held a meeting with the Supreme Commander of the United Armed Forces of NATO on issues of NATO transformation - Allied Command Transformation (ACT), Admiral Pierre Vandieu. Admiral Pierre Wandier heads one of the Alliance's two strategic commands - NATO's Joint Forces Command for...",
+    "description_uk": "Глава Місії України при Організації Північноатлантичного договору Альона Гетьманчук Alyona Getmanchuk провела зустріч із Верховним Головнокомандувачем Об'єднаних Збройних Сил НАТО з питань трансформації NATO - Allied Command Transformation (ACT) адміралом П'єром Вандьє. Адмірал П'єр Вандьє очолює одне з двох стратегічних командувань Альянсу - Командування Об'єднаних Збройних сил НАТО з питань...",
+    "time": "",
+    "pubDate": "2026-05-06T08:50:27+00:00",
+    "category": "political",
+    "severity": "medium",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/38252",
+    "score": 3.0,
+    "views": 3162,
+    "forwards": 8
+  },
+  {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
     "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
     "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
@@ -31,9 +103,9 @@
     "location": "Sumy",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190897",
-    "score": 4.5,
-    "views": 12753,
-    "forwards": 107
+    "score": 5.5,
+    "views": 99445,
+    "forwards": 291
   },
   {
     "title": "Chernihiv: 🛸Aircraft on Sumy from the north. 🛵 BpLA on Raisins from the east. 🛵...",
@@ -122,8 +194,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38247",
     "score": 13.0,
-    "views": 6416,
-    "forwards": 21
+    "views": 7558,
+    "forwards": 22
   },
   {
     "title": "Dear Ukrainian infantrymen! Dear combat brothers and sisters! I...",
@@ -194,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52942",
     "score": 6.0,
-    "views": 1786,
+    "views": 2097,
     "forwards": 4
   },
   {
@@ -230,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52941",
     "score": 4.5,
-    "views": 2078,
+    "views": 2325,
     "forwards": 5
   },
   {
@@ -250,78 +322,6 @@
     "score": 6.0,
     "views": 10671,
     "forwards": 22
-  },
-  {
-    "title": "Kharkiv: Kharkiv region - BpLA near the village of Izyum, Balaklia, Prolisne.",
-    "title_en": "Kharkiv: Kharkiv region - BpLA near the village of Izyum, Balaklia, Prolisne.",
-    "title_uk": "Харків: Харківська обл.- БпЛА біля с.Ізюм, Балаклія, Пролісне.",
-    "description": "Kharkiv region - BpLA near the village of Izyum, Balaklia, Prolisne.",
-    "description_en": "Kharkiv region - BpLA near the village of Izyum, Balaklia, Prolisne.",
-    "description_uk": "Харківщина - БпЛА поблизу н.п Ізюм, Балаклія, Пролісне.",
-    "time": "",
-    "pubDate": "2026-05-05T22:22:32+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61405",
-    "score": 6.0,
-    "views": 14374,
-    "forwards": 32
-  },
-  {
-    "title": "Kharkiv: Kharkiv region - BpLA near the village of Izyum, in the northern...",
-    "title_en": "Kharkiv: Kharkiv region - BpLA near the village of Izyum, in the northern...",
-    "title_uk": "Харків: Харківська область - БпЛА біля с.Ізюм, на пн....",
-    "description": "Kharkiv region - BpLA near the village of Izyum, in the northern direction.",
-    "description_en": "Kharkiv region - BpLA near the village of Izyum, in the northern direction.",
-    "description_uk": "Харківщина - БпЛА поблизу н.п Ізюм, в північному напрямку.",
-    "time": "",
-    "pubDate": "2026-05-05T21:36:46+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61404",
-    "score": 6.0,
-    "views": 12152,
-    "forwards": 21
-  },
-  {
-    "title": "Explosions reported",
-    "title_en": "Explosions reported",
-    "title_uk": "Повідомляється про вибухи",
-    "description": "The regime of silence announced by Zelensky has begun, and it has already been broken by the Russians: explosions rang out in the Dnieper, the city was attacked by UAVs.",
-    "description_en": "The regime of silence announced by Zelensky has begun, and it has already been broken by the Russians: explosions rang out in the Dnieper, the city was attacked by UAVs.",
-    "description_uk": "Начался объявленный Зеленским режим тишины И он уже был нарушен россиянами: в Днепре прозвучали взрывы, город под атакой БПЛА.",
-    "time": "",
-    "pubDate": "2026-05-05T21:07:06+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/190886",
-    "score": 6.5,
-    "views": 171028,
-    "forwards": 441
-  },
-  {
-    "title": "Dnipro: Dnipro - BpLA in the direction of the city.",
-    "title_en": "Dnipro: Dnipro - BpLA in the direction of the city.",
-    "title_uk": "Дніпро: Дніпро – БпЛА в напрямку м.",
-    "description": "Dnipro - BpLA in the direction of the city.",
-    "description_en": "Dnipro - BpLA in the direction of the city.",
-    "description_uk": "Дніпро - БпЛА в напрямку міста.",
-    "time": "",
-    "pubDate": "2026-05-05T20:56:28+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61403",
-    "score": 6.5,
-    "views": 29022,
-    "forwards": 52
   },
   {
     "title": "Kramatorsk: 12 killed, 37 injured",
@@ -356,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18897",
     "score": 6.5,
-    "views": 262349,
-    "forwards": 551
+    "views": 272815,
+    "forwards": 552
   },
   {
     "title": "\"Courage inspires\" - a meeting with Heroes of Ukraine The Main...",
@@ -410,8 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18896",
     "score": 4.0,
-    "views": 91493,
-    "forwards": 192
+    "views": 94722,
+    "forwards": 193
   },
   {
     "title": "Kramatorsk: Casualties reported",
@@ -446,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8957",
     "score": 9.0,
-    "views": 959,
+    "views": 969,
     "forwards": 4
   }
 ]
