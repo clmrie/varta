@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Київ: повідомляється про постраждалих",
+    "description": "Ukraine’s railway operator deploys 800 modular shelters amid surge in attacks. Ukrzaliznytsia has recorded 983 attacks on railway infrastructure since the start of 2026, with strikes also hitting passenger trains and causing civilian casualties.",
+    "description_en": "Ukraine’s railway operator deploys 800 modular shelters amid surge in attacks. Ukrzaliznytsia has recorded 983 attacks on railway infrastructure since the start of 2026, with strikes also hitting passenger trains and causing civilian casualties.",
+    "description_uk": "Ukraine’s railway operator deploys 800 modular shelters amid surge in attacks. Ukrzaliznytsia has recorded 983 attacks on railway infrastructure since the start of 2026, with strikes also hitting passenger trains and causing civilian casualties.",
+    "time": "",
+    "pubDate": "2026-05-06T18:03:46+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52956",
+    "score": 18.0,
+    "views": 163,
+    "forwards": 1
+  },
+  {
+    "title": "Zaporizhzhia: BpLA ➡️ heading for Sumy, Zaporizhzhia.",
+    "title_en": "Zaporizhzhia: BpLA ➡️ heading for Sumy, Zaporizhzhia.",
+    "title_uk": "Запоріжжя: BpLA ➡️ прямує на Суми, Запоріжжя.",
+    "description": "BpLA ➡️ heading for Sumy, Zaporizhzhia.",
+    "description_en": "BpLA ➡️ heading for Sumy, Zaporizhzhia.",
+    "description_uk": "БпЛА ➡️ курсом на Суми, Запоріжжя.",
+    "time": "",
+    "pubDate": "2026-05-06T17:33:55+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61460",
+    "score": 6.0,
+    "views": 33386,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Attack attack",
+    "title_en": "Kyiv: Attack attack",
+    "title_uk": "Київ: Атака",
+    "description": "Russian attacks on Ukrainian first responders rise, follow ‘sustained pattern,’ report finds. The report describes the trend as a “deeply troubling trajectory in the war,” finding a sustained pattern in which responders are repeatedly targeted while carrying out rescue operations, including after arriving at strike sites.",
+    "description_en": "Russian attacks on Ukrainian first responders rise, follow ‘sustained pattern,’ report finds. The report describes the trend as a “deeply troubling trajectory in the war,” finding a sustained pattern in which responders are repeatedly targeted while carrying out rescue operations, including after arriving at strike sites.",
+    "description_uk": "Russian attacks on Ukrainian first responders rise, follow ‘sustained pattern,’ report finds. The report describes the trend as a “deeply troubling trajectory in the war,” finding a sustained pattern in which responders are repeatedly targeted while carrying out rescue operations, including after arriving at strike sites.",
+    "time": "",
+    "pubDate": "2026-05-06T17:28:51+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52955",
+    "score": 6.0,
+    "views": 544,
+    "forwards": 4
+  },
+  {
     "title": "Odesa: BpLA ➡️ in the direction of Tsebrykovo/Zakharivka.",
     "title_en": "Odesa: BpLA ➡️ in the direction of Tsebrykovo/Zakharivka.",
     "title_uk": "Одеса: BpLA ➡️ в напрямку Цебриково/Захарівка.",
@@ -14,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61458",
     "score": 5.0,
-    "views": 9078,
+    "views": 59665,
     "forwards": 1
   },
   {
@@ -68,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190925",
     "score": 5.5,
-    "views": 62579,
-    "forwards": 69
+    "views": 101285,
+    "forwards": 104
   },
   {
     "title": "A drone flew to the house of the Russian blogger Lytvyn in Moscow....",
@@ -86,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190921",
     "score": 5.5,
-    "views": 77672,
-    "forwards": 361
+    "views": 108877,
+    "forwards": 436
   },
   {
     "title": "Kyiv: The corruption scandal Volodymyr Zelensky won’t confront When it...",
@@ -158,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18912",
     "score": 3.5,
-    "views": 41895,
-    "forwards": 76
+    "views": 49257,
+    "forwards": 87
   },
   {
     "title": "Kyiv: EU ambassadors back new compensation mechanism for victims of...",
@@ -378,24 +432,6 @@
     "forwards": 1
   },
   {
-    "title": "BpLA in the Kryvyi Rih region.",
-    "title_en": "BpLA in the Kryvyi Rih region.",
-    "title_uk": "БпЛА у Криворізькій обл.",
-    "description": "BpLA in the Kryvyi Rih region.",
-    "description_en": "BpLA in the Kryvyi Rih region.",
-    "description_uk": "БпЛА в районі Кривого Рогу.",
-    "time": "",
-    "pubDate": "2026-05-06T05:51:55+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61424",
-    "score": 5.0,
-    "views": 34326,
-    "forwards": 1
-  },
-  {
     "title": "Donetsk: Ballistic missile launch detected",
     "title_en": "Donetsk: Ballistic missile launch detected",
     "title_uk": "Донецьк: виявлено пуск балістичної ракети",
@@ -412,41 +448,5 @@
     "score": 13.0,
     "views": 8603,
     "forwards": 24
-  },
-  {
-    "title": "Dear Ukrainian infantrymen! Dear combat brothers and sisters! I...",
-    "title_en": "Dear Ukrainian infantrymen! Dear combat brothers and sisters! I...",
-    "title_uk": "Шановні українські піхотинці! Дорогі бойові побратими та сестри! я...",
-    "description": "Dear Ukrainian infantrymen! Dear combat brothers and sisters! I sincerely congratulate you on the professional holiday - Infantry Day! Today we honor infantrymen - soldiers of rifle, mechanized, motorized infantry, assault, mountain assault units, who hold the shield of all of Europe, stopping the advance of the Russian horde. It is not for nothing that they say: the line between good and evil passes where our infantry has dug in. AND...",
-    "description_en": "Dear Ukrainian infantrymen! Dear combat brothers and sisters! I sincerely congratulate you on the professional holiday - Infantry Day! Today we honor infantrymen - soldiers of rifle, mechanized, motorized infantry, assault, mountain assault units, who hold the shield of all of Europe, stopping the advance of the Russian horde. It is not for nothing that they say: the line between good and evil passes where our infantry has dug in. AND...",
-    "description_uk": "Шановні українські піхотинці! Дорогі бойові побратими і посестри! Щиро вітаю вас із професійним святом – Днем піхоти! Сьогодні ми вшановуємо піхотинців – воїнів стрілецьких, механізованих, мотопіхотних, штурмових, гірсько-штурмових підрозділів, які тримають щит усієї Європи, спиняючи наступ російської орди. Недарма кажуть: межа між добром і злом проходить там, де окопалась наша піхота. І...",
-    "time": "",
-    "pubDate": "2026-05-06T05:03:12+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/38246",
-    "score": 5.0,
-    "views": 3699,
-    "forwards": 30
-  },
-  {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
-    "description": "Zelensky denounces 'Russian scumbags' following deadly strikes on Ukrainian cities ahead of planned ceasefire. President Volodymyr Zelensky on May 5 denounced \"cynical\" Russian strikes on cities across Ukraine ahead of a planned Victory Day ceasefire.",
-    "description_en": "Zelensky denounces 'Russian scumbags' following deadly strikes on Ukrainian cities ahead of planned ceasefire. President Volodymyr Zelensky on May 5 denounced \"cynical\" Russian strikes on cities across Ukraine ahead of a planned Victory Day ceasefire.",
-    "description_uk": "Zelensky denounces 'Russian scumbags' following deadly strikes on Ukrainian cities ahead of planned ceasefire. President Volodymyr Zelensky on May 5 denounced \"cynical\" Russian strikes on cities across Ukraine ahead of a planned Victory Day ceasefire.",
-    "time": "",
-    "pubDate": "2026-05-06T02:17:39+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52942",
-    "score": 6.0,
-    "views": 2097,
-    "forwards": 4
   }
 ]
