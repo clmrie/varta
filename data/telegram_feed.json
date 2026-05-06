@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: EU ambassadors back new compensation mechanism for victims of...",
+    "title_en": "Kyiv: EU ambassadors back new compensation mechanism for victims of...",
+    "title_uk": "Київ: Посли ЄС підтримали новий механізм компенсацій жертвам...",
+    "description": "EU ambassadors back new compensation mechanism for victims of Russia’s war. Aside from Ukraine itself, no country has so far ratified the International Claims Commission, the body that will handle compensation requests from the war’s victims.",
+    "description_en": "EU ambassadors back new compensation mechanism for victims of Russia’s war. Aside from Ukraine itself, no country has so far ratified the International Claims Commission, the body that will handle compensation requests from the war’s victims.",
+    "description_uk": "EU ambassadors back new compensation mechanism for victims of Russia’s war. Aside from Ukraine itself, no country has so far ratified the International Claims Commission, the body that will handle compensation requests from the war’s victims.",
+    "time": "",
+    "pubDate": "2026-05-06T12:24:30+00:00",
+    "category": "political",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52948",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "BpLA - heading for Pavlograd.",
+    "title_en": "BpLA - heading for Pavlograd.",
+    "title_uk": "BpLA - курс на Павлоград.",
+    "description": "BpLA - heading for Pavlograd.",
+    "description_en": "BpLA - heading for Pavlograd.",
+    "description_uk": "БпЛА - курсом на Павлоград.",
+    "time": "",
+    "pubDate": "2026-05-06T12:24:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61444",
+    "score": 5.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Crimea: Attack attack",
+    "title_en": "Crimea: Attack attack",
+    "title_uk": "Крим: Напад",
+    "description": "'Putin only cares about parades' — Russia violated Kyiv-proposed May 6 ceasefire 1,820 times, Ukraine says Moscow has also accused Kyiv of breaching its own ceasefire. Russian Foreign Ministry's Ambassador-at-Large Rodion Miroshnik said Ukraine had launched attacks on Russian-occupied Crimea and Russia's Bryansk Oblast.",
+    "description_en": "'Putin only cares about parades' — Russia violated Kyiv-proposed May 6 ceasefire 1,820 times, Ukraine says Moscow has also accused Kyiv of breaching its own ceasefire. Russian Foreign Ministry's Ambassador-at-Large Rodion Miroshnik said Ukraine had launched attacks on Russian-occupied Crimea and Russia's Bryansk Oblast.",
+    "description_uk": "'Putin only cares about parades' — Russia violated Kyiv-proposed May 6 ceasefire 1,820 times, Ukraine says Moscow has also accused Kyiv of breaching its own ceasefire. Russian Foreign Ministry's Ambassador-at-Large Rodion Miroshnik said Ukraine had launched attacks on Russian-occupied Crimea and Russia's Bryansk Oblast.",
+    "time": "",
+    "pubDate": "2026-05-06T10:59:39+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Crimea",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52945",
+    "score": 6.0,
+    "views": 996,
+    "forwards": 0
+  },
+  {
     "title": "Missile launch detected",
     "title_en": "Missile launch detected",
     "title_uk": "Виявлено запуск ракети",
@@ -14,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190899",
     "score": 4.5,
-    "views": 80158,
-    "forwards": 323
+    "views": 113890,
+    "forwards": 429
   },
   {
     "title": "Drone incoming",
@@ -32,7 +86,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61440",
     "score": 5.0,
-    "views": 56328,
+    "views": 92383,
     "forwards": 45
   },
   {
@@ -68,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38252",
     "score": 3.0,
-    "views": 3162,
-    "forwards": 8
+    "views": 3900,
+    "forwards": 9
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -104,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190897",
     "score": 5.5,
-    "views": 99445,
-    "forwards": 291
+    "views": 125657,
+    "forwards": 328
   },
   {
     "title": "Chernihiv: 🛸Aircraft on Sumy from the north. 🛵 BpLA on Raisins from the east. 🛵...",
@@ -194,8 +248,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38247",
     "score": 13.0,
-    "views": 7558,
-    "forwards": 22
+    "views": 8056,
+    "forwards": 23
   },
   {
     "title": "Dear Ukrainian infantrymen! Dear combat brothers and sisters! I...",
@@ -270,60 +324,6 @@
     "forwards": 4
   },
   {
-    "title": "Kharkiv: Kharkiv region - BpLA on Vilshany.",
-    "title_en": "Kharkiv: Kharkiv region - BpLA on Vilshany.",
-    "title_uk": "Харків : Харківська обл.- БпЛА на Вільшані.",
-    "description": "Kharkiv region - BpLA on Vilshany.",
-    "description_en": "Kharkiv region - BpLA on Vilshany.",
-    "description_uk": "Харківщина - БпЛА на Вільшани.",
-    "time": "",
-    "pubDate": "2026-05-05T23:59:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61407",
-    "score": 6.0,
-    "views": 252,
-    "forwards": 3
-  },
-  {
-    "title": "Kyiv: Russia cuts mobile internet ahead of Victory Day parade. Russia cut...",
-    "title_en": "Kyiv: Russia cuts mobile internet ahead of Victory Day parade. Russia cut...",
-    "title_uk": "Київ: Росія відключає мобільний інтернет напередодні параду Перемоги. Росія скоротила...",
-    "description": "Russia cuts mobile internet ahead of Victory Day parade. Russia cut off mobile internet services in Moscow and St. Petersburg on May 5, days ahead of the country's annual Victory Day parade, citing security concerns.",
-    "description_en": "Russia cuts mobile internet ahead of Victory Day parade. Russia cut off mobile internet services in Moscow and St. Petersburg on May 5, days ahead of the country's annual Victory Day parade, citing security concerns.",
-    "description_uk": "Russia cuts mobile internet ahead of Victory Day parade. Russia cut off mobile internet services in Moscow and St. Petersburg on May 5, days ahead of the country's annual Victory Day parade, citing security concerns.",
-    "time": "",
-    "pubDate": "2026-05-05T23:24:15+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52941",
-    "score": 4.5,
-    "views": 2325,
-    "forwards": 5
-  },
-  {
-    "title": "Kharkiv: Kharkiv - BpLA in the direction of the city.",
-    "title_en": "Kharkiv: Kharkiv - BpLA in the direction of the city.",
-    "title_uk": "Харків: Харків – БпЛА в напрямку м.",
-    "description": "Kharkiv - BpLA in the direction of the city.",
-    "description_en": "Kharkiv - BpLA in the direction of the city.",
-    "description_uk": "Харків - БпЛА в напрямку міста.",
-    "time": "",
-    "pubDate": "2026-05-05T23:00:03+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61406",
-    "score": 6.0,
-    "views": 10671,
-    "forwards": 22
-  },
-  {
     "title": "Kramatorsk: 12 killed, 37 injured",
     "title_en": "Kramatorsk: 12 killed, 37 injured",
     "title_uk": "Краматорськ: 12 загиблих, 37 поранених",
@@ -338,8 +338,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23475",
     "score": 11.5,
-    "views": 126913,
-    "forwards": 521
+    "views": 137589,
+    "forwards": 533
   },
   {
     "title": "Airstrike attack on infrastructure",
@@ -356,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18897",
     "score": 6.5,
-    "views": 272815,
-    "forwards": 552
+    "views": 277980,
+    "forwards": 578
   },
   {
     "title": "\"Courage inspires\" - a meeting with Heroes of Ukraine The Main...",
@@ -410,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18896",
     "score": 4.0,
-    "views": 94722,
+    "views": 96588,
     "forwards": 193
   },
   {
@@ -446,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8957",
     "score": 9.0,
-    "views": 969,
+    "views": 974,
     "forwards": 4
   }
 ]
