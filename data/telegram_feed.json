@@ -1,5 +1,77 @@
 [
   {
+    "title": "Dnipro: BpLA on the Dnipro from the east.",
+    "title_en": "Dnipro: BpLA on the Dnipro from the east.",
+    "title_uk": "Дніпро: БпЛА на Дніпрі зі сх.",
+    "description": "BpLA on the Dnipro from the east.",
+    "description_en": "BpLA on the Dnipro from the east.",
+    "description_uk": "БпЛА на Дніпро зі сходу.",
+    "time": "",
+    "pubDate": "2026-05-07T15:37:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61541",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons from the north!",
+    "description_en": "☄️ The threat of using ballistic weapons from the north!",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння з півночі!",
+    "time": "",
+    "pubDate": "2026-05-07T15:36:53+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61540",
+    "score": 5.0,
+    "views": 15117,
+    "forwards": 1
+  },
+  {
+    "title": "Chernihiv: ‘Emergency situation’ — Massive forest fire burns near Ukraine’s...",
+    "title_en": "Chernihiv: ‘Emergency situation’ — Massive forest fire burns near Ukraine’s...",
+    "title_uk": "Чернігів: «Надзвичайна ситуація» — Масштабна лісова пожежа горить біля...",
+    "description": "‘Emergency situation’ — Massive forest fire burns near Ukraine’s border as Russian drones block access. A 2,400-hectare forest fire is burning in Chernihiv Oblast near the Russian border, where emergency crews say Russian FPV drones are preventing full access to the area. Photo: Ukraine’s Northern Forest Office/Facebook.",
+    "description_en": "‘Emergency situation’ — Massive forest fire burns near Ukraine’s border as Russian drones block access. A 2,400-hectare forest fire is burning in Chernihiv Oblast near the Russian border, where emergency crews say Russian FPV drones are preventing full access to the area. Photo: Ukraine’s Northern Forest Office/Facebook.",
+    "description_uk": "‘Emergency situation’ — Massive forest fire burns near Ukraine’s border as Russian drones block access. A 2,400-hectare forest fire is burning in Chernihiv Oblast near the Russian border, where emergency crews say Russian FPV drones are preventing full access to the area. Photo: Ukraine’s Northern Forest Office/Facebook.",
+    "time": "",
+    "pubDate": "2026-05-07T15:36:52+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Chernihiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/52974",
+    "score": 8.0,
+    "views": 62,
+    "forwards": 1
+  },
+  {
+    "title": "The Defense Forces defeated the \"Kalibrov\" carrier in Dagestan🔥 On...",
+    "title_en": "The Defense Forces defeated the \"Kalibrov\" carrier in Dagestan🔥 On...",
+    "title_uk": "Сили оборони розбили носій \"Калібров\" у Дагестані🔥 На...",
+    "description": "The Defense Forces defeated the \"Kalibrov\" carrier in Dagestan🔥 On the night of May 7, units of the Defense Forces of Ukraine struck a number of objects of the Russian occupiers. In the vicinity of the Kaspiysk base in Dagestan, a small missile ship of project 22800 \"Karakurt\" carrying Kalibr cruise missiles was hit. The degree of damage is specified. The fewer \"Calibrov\" carriers have, the fewer missiles there are...",
+    "description_en": "The Defense Forces defeated the \"Kalibrov\" carrier in Dagestan🔥 On the night of May 7, units of the Defense Forces of Ukraine struck a number of objects of the Russian occupiers. In the vicinity of the Kaspiysk base in Dagestan, a small missile ship of project 22800 \"Karakurt\" carrying Kalibr cruise missiles was hit. The degree of damage is specified. The fewer \"Calibrov\" carriers have, the fewer missiles there are...",
+    "description_uk": "Силы обороны поразили носитель \"Калибров\" в Дагестане🔥 В ночь на 7 мая подразделения Сил обороны Украины нанесли удары по ряду объектов российских оккупантов. В районе пункта базирования \"Каспийск\" в Дагестане поражён малый ракетный корабль проекта 22800 \"Каракурт\" - носитель крылатых ракет \"Калибр\". Степень повреждений уточняется. Чем меньше у рашистов носителей \"Калибров\", тем меньше ракет...",
+    "time": "",
+    "pubDate": "2026-05-07T15:11:01+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190979",
+    "score": 3.0,
+    "views": 31319,
+    "forwards": 38
+  },
+  {
     "title": "Dnipro: Dnipro - BpLA in the direction of the city.",
     "title_en": "Dnipro: Dnipro - BpLA in the direction of the city.",
     "title_uk": "Дніпро: Дніпро – БпЛА в напрямку м.",
@@ -31,9 +103,9 @@
     "location": "Luhansk",
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38325",
-    "score": 13.5,
-    "views": 1837,
-    "forwards": 58
+    "score": 14.5,
+    "views": 233736,
+    "forwards": 878
   },
   {
     "title": "Explosions reported",
@@ -50,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38322",
     "score": 7.5,
-    "views": 4780,
-    "forwards": 65
+    "views": 19854,
+    "forwards": 96
   },
   {
     "title": "Air defense active",
@@ -67,9 +139,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/190972",
-    "score": 8.5,
-    "views": 35488,
-    "forwards": 110
+    "score": 9.5,
+    "views": 102511,
+    "forwards": 250
   },
   {
     "title": "BpLA from Sumy region to Poltava region.",
@@ -126,24 +198,6 @@
     "forwards": 1
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons.",
-    "description_en": "☄️ The threat of using ballistic weapons.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння.",
-    "time": "",
-    "pubDate": "2026-05-07T10:11:28+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61512",
-    "score": 5.0,
-    "views": 63652,
-    "forwards": 35
-  },
-  {
     "title": "Kharkiv: Drone strike near civilians",
     "title_en": "Kharkiv: Drone strike near civilians",
     "title_uk": "Харків: удар безпілотників по мирних жителях",
@@ -158,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18917",
     "score": 13.0,
-    "views": 99884,
-    "forwards": 279
+    "views": 121143,
+    "forwards": 297
   },
   {
     "title": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
@@ -302,44 +356,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52963",
     "score": 4.0,
-    "views": 2158,
+    "views": 2364,
     "forwards": 5
-  },
-  {
-    "title": "Kyiv: Explosions reported",
-    "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
-    "description": "Russia plans to expand exploitation of resources in Ukraine's occupied territories, Zelensky says. Russia plans to expand its exploitation of resources, including grain and minerals, in Ukraine's occupied territories, President Volodymyr Zelensky said May 6.",
-    "description_en": "Russia plans to expand exploitation of resources in Ukraine's occupied territories, Zelensky says. Russia plans to expand its exploitation of resources, including grain and minerals, in Ukraine's occupied territories, President Volodymyr Zelensky said May 6.",
-    "description_uk": "Russia plans to expand exploitation of resources in Ukraine's occupied territories, Zelensky says. Russia plans to expand its exploitation of resources, including grain and minerals, in Ukraine's occupied territories, President Volodymyr Zelensky said May 6.",
-    "time": "",
-    "pubDate": "2026-05-07T03:38:13+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/52962",
-    "score": 5.0,
-    "views": 2181,
-    "forwards": 3
-  },
-  {
-    "title": "Several unmanned aerial vehicles in the direction of the Dnipro from...",
-    "title_en": "Several unmanned aerial vehicles in the direction of the Dnipro from...",
-    "title_uk": "Кілька безпілотних літальних апаратів у напрямку Дніпра з...",
-    "description": "Several unmanned aerial vehicles in the direction of the Dnipro from the south.",
-    "description_en": "Several unmanned aerial vehicles in the direction of the Dnipro from the south.",
-    "description_uk": "Декілька БпЛА у напрямку Дніпра з півдня.",
-    "time": "",
-    "pubDate": "2026-05-07T02:51:39+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61483",
-    "score": 5.0,
-    "views": 31659,
-    "forwards": 1
   },
   {
     "title": "Zaporizhzhia: Attack attack",
@@ -356,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18916",
     "score": 4.5,
-    "views": 60274,
-    "forwards": 113
+    "views": 63264,
+    "forwards": 116
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -428,7 +446,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23475",
     "score": 11.5,
-    "views": 154780,
-    "forwards": 560
+    "views": 155500,
+    "forwards": 563
   }
 ]
