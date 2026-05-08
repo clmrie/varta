@@ -1,5 +1,77 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons",
+    "description_en": "☄️ The threat of using ballistic weapons",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння",
+    "time": "",
+    "pubDate": "2026-05-08T06:17:20+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61570",
+    "score": 5.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Kadyrov, are you sleeping? They write that the BpLA pacified the...",
+    "title_en": "Kadyrov, are you sleeping? They write that the BpLA pacified the...",
+    "title_uk": "Кадиров, ти спиш? Пишуть, що BpLA заспокоїла...",
+    "description": "Kadyrov, are you sleeping? They write that the BpLA pacified the capital of Chechnya — Grozny",
+    "description_en": "Kadyrov, are you sleeping? They write that the BpLA pacified the capital of Chechnya — Grozny",
+    "description_uk": "Кадыров, спишь? Пишут, что БпЛА отперемирили столицу Чечни — Грозный",
+    "time": "",
+    "pubDate": "2026-05-08T05:35:35+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/191006",
+    "score": 5.5,
+    "views": 49065,
+    "forwards": 191
+  },
+  {
+    "title": "Kursk: Drone incoming",
+    "title_en": "Kursk: Drone incoming",
+    "title_uk": "Курськ: Дрон входить",
+    "description": "56 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of May 8 (from 18:00 on May 7), the enemy attacked 67 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and parody drones from the directions: Kursk, Orel, Bryansk, Primorsko-Akhtarsk, Millerovo - Russian Federation, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
+    "description_en": "56 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of May 8 (from 18:00 on May 7), the enemy attacked 67 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and parody drones from the directions: Kursk, Orel, Bryansk, Primorsko-Akhtarsk, Millerovo - Russian Federation, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 56 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 8 травня (з 18:00 7 травня) противник атакував 67-ма ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами «Пародія» із напрямків: Курськ, Орел, Брянськ, Приморсько-Ахтарськ, Міллерово – рф, Гвардійське – ТОТ АР Крим. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних...",
+    "time": "",
+    "pubDate": "2026-05-08T05:18:46+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kursk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/38349",
+    "score": 10.0,
+    "views": 3102,
+    "forwards": 17
+  },
+  {
+    "title": "Attack attack",
+    "title_en": "Attack attack",
+    "title_uk": "Атака нападу",
+    "description": "In Russia, the \"truce\" began with fires in Rostov and flew to Yaroslavl through the refinery. According to ASTRA, after the fires in Rostov, a fire broke out in the area of ​​the Western Promuzla. In particular, the Empils factory is located there, one of the largest chemical and paint factories. And in Yaroslavl, the refinery \"Slavneft-YANOS\" is on fire. This is not the first time that this plant has come under attack - the previous time was at the end of April.",
+    "description_en": "In Russia, the \"truce\" began with fires in Rostov and flew to Yaroslavl through the refinery. According to ASTRA, after the fires in Rostov, a fire broke out in the area of ​​the Western Promuzla. In particular, the Empils factory is located there, one of the largest chemical and paint factories. And in Yaroslavl, the refinery \"Slavneft-YANOS\" is on fire. This is not the first time that this plant has come under attack - the previous time was at the end of April.",
+    "description_uk": "В россии «перемирие» началось с пожаров в ростове и прилетов по НПЗ в ярославле По данным ASTRA, после ударов в ростове пожар вспыхнул в районе западного промузла. Там расположен, в частности, завод «Эмпилс» — один из крупнейших химических и лакокрасочных заводов. А в Ярославле горит НПЗ «Славнефть-ЯНОС». Этот завод уже не впервые попадает под атаку — предыдущий раз был в конце апреля.",
+    "time": "",
+    "pubDate": "2026-05-08T05:03:17+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/190998",
+    "score": 5.5,
+    "views": 72568,
+    "forwards": 214
+  },
+  {
     "title": "Kyiv: Ukraine reportedly launches dozens of drones at Moscow ahead of...",
     "title_en": "Kyiv: Ukraine reportedly launches dozens of drones at Moscow ahead of...",
     "title_uk": "Київ: Україна запустила десятки безпілотників на Москву напередодні...",
@@ -14,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52984",
     "score": 6.0,
-    "views": 137,
+    "views": 844,
     "forwards": 0
   },
   {
@@ -32,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52983",
     "score": 9.0,
-    "views": 445,
+    "views": 1073,
     "forwards": 0
   },
   {
@@ -69,24 +141,6 @@
     "link": "https://t.me/kpszsu/61567",
     "score": 6.0,
     "views": 62236,
-    "forwards": 12
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons from the south-eastern direction!",
-    "description_en": "☄️ The threat of using ballistic weapons from the south-eastern direction!",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння з південно-східного напрямку!",
-    "time": "",
-    "pubDate": "2026-05-07T23:01:18+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61565",
-    "score": 5.0,
-    "views": 25806,
     "forwards": 12
   },
   {
@@ -180,42 +234,6 @@
     "forwards": 7
   },
   {
-    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
-    "description": "BpLA on Zaporozhye from the south.",
-    "description_en": "BpLA on Zaporozhye from the south.",
-    "description_uk": "БпЛА на Запоріжжя з півдня.",
-    "time": "",
-    "pubDate": "2026-05-07T17:10:04+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61551",
-    "score": 6.0,
-    "views": 17162,
-    "forwards": 1
-  },
-  {
-    "title": "UAV to Odessa from the Black Sea.",
-    "title_en": "UAV to Odessa from the Black Sea.",
-    "title_uk": "БПЛА до Одеси з Чорного моря.",
-    "description": "UAV to Odessa from the Black Sea.",
-    "description_en": "UAV to Odessa from the Black Sea.",
-    "description_uk": "БпЛА на Одесу з Чорного моря.",
-    "time": "",
-    "pubDate": "2026-05-07T17:09:45+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61550",
-    "score": 5.0,
-    "views": 18169,
-    "forwards": 1
-  },
-  {
     "title": "Missile launch detected",
     "title_en": "Missile launch detected",
     "title_uk": "Виявлено запуск ракети",
@@ -230,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18921",
     "score": 13.5,
-    "views": 42717,
-    "forwards": 103
+    "views": 55185,
+    "forwards": 108
   },
   {
     "title": "Chernihiv: ‘Emergency situation’ — Massive forest fire burns near Ukraine’s...",
@@ -338,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8974",
     "score": 11.5,
-    "views": 614,
+    "views": 621,
     "forwards": 2
   },
   {
