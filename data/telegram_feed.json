@@ -1,5 +1,41 @@
 [
   {
+    "title": "The situation in Kaspiysk, Russian Federation: there are already...",
+    "title_en": "The situation in Kaspiysk, Russian Federation: there are already...",
+    "title_uk": "Ситуація в Каспійську, РФ: вже є...",
+    "description": "The situation in Kaspiysk, Russian Federation: there are already fireworks in honor of Victory Day, but there is a nuance",
+    "description_en": "The situation in Kaspiysk, Russian Federation: there are already fireworks in honor of Victory Day, but there is a nuance",
+    "description_uk": "Обстановка в Каспийске, рф: там уже запускают салюты в честь дня победы, но есть нюанс",
+    "time": "",
+    "pubDate": "2026-05-08T19:51:03+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/191078",
+    "score": 5.0,
+    "views": 3278,
+    "forwards": 38
+  },
+  {
+    "title": "Chernihiv: enemy UAVs in the north of the Chernihiv region.",
+    "title_en": "Chernihiv: enemy UAVs in the north of the Chernihiv region.",
+    "title_uk": "Чернігів: БПЛА противника на півночі Чернігівської області.",
+    "description": "enemy UAVs in the north of the Chernihiv region.",
+    "description_en": "enemy UAVs in the north of the Chernihiv region.",
+    "description_uk": "ворожі БпЛА на півночі Чернігівської обл.",
+    "time": "",
+    "pubDate": "2026-05-08T18:50:11+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61590",
+    "score": 6.5,
+    "views": 47454,
+    "forwards": 123
+  },
+  {
     "title": "Odesa: Inside Ukraine's mission to defend the Black Sea coast Since Russia’s...",
     "title_en": "Odesa: Inside Ukraine's mission to defend the Black Sea coast Since Russia’s...",
     "title_uk": "Одеса: всередині місії України із захисту Чорноморського узбережжя. Оскільки Росія...",
@@ -14,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53002",
     "score": 15.0,
-    "views": 728,
+    "views": 1253,
     "forwards": 2
   },
   {
@@ -32,8 +68,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61589",
     "score": 5.0,
-    "views": 45138,
-    "forwards": 18
+    "views": 80001,
+    "forwards": 29
   },
   {
     "title": "400 drones",
@@ -50,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191066",
     "score": 8.5,
-    "views": 85010,
-    "forwards": 140
+    "views": 120553,
+    "forwards": 174
   },
   {
     "title": "In Dnipro, he visited our soldiers who are undergoing treatment after...",
@@ -67,9 +103,9 @@
     "location": "Dnipro",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18932",
-    "score": 5.5,
-    "views": 38990,
-    "forwards": 177
+    "score": 6.5,
+    "views": 71210,
+    "forwards": 250
   },
   {
     "title": "Kyiv: Attack attack",
@@ -86,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52999",
     "score": 4.0,
-    "views": 985,
+    "views": 1340,
     "forwards": 2
   },
   {
@@ -140,8 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38394",
     "score": 10.5,
-    "views": 9823,
-    "forwards": 63
+    "views": 13562,
+    "forwards": 66
   },
   {
     "title": "Kyiv: Air defense active",
@@ -175,9 +211,9 @@
     "location": "Dnipro",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18929",
-    "score": 11.5,
-    "views": 69664,
-    "forwards": 186
+    "score": 12.5,
+    "views": 80460,
+    "forwards": 202
   },
   {
     "title": "10 missiles launched",
@@ -212,7 +248,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8984",
     "score": 3.5,
-    "views": 657,
+    "views": 693,
     "forwards": 4
   },
   {
@@ -302,8 +338,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8982",
     "score": 5.0,
-    "views": 4250,
-    "forwards": 20
+    "views": 5841,
+    "forwards": 23
   },
   {
     "title": "Crimea: On May 8, Ukraine celebrates the Day of Remembrance and Victory over...",
@@ -324,24 +360,6 @@
     "forwards": 14
   },
   {
-    "title": "Modernized Ukrainian laser weapon against drones was shown - the...",
-    "title_en": "Modernized Ukrainian laser weapon against drones was shown - the...",
-    "title_uk": "Показали модернізовану українську лазерну зброю проти безпілотників -...",
-    "description": "Modernized Ukrainian laser weapon against drones was shown - the \"Trident\" complex. According to the developer Celebra Tech, it is already undergoing final tests and is preparing for public presentation. The complex was integrated into a mobile drone combat system — from FPV drones to reconnaissance UAVs. During modernization, \"Trident\" also received an AI-based tracking system, automatic capture and...",
-    "description_en": "Modernized Ukrainian laser weapon against drones was shown - the \"Trident\" complex. According to the developer Celebra Tech, it is already undergoing final tests and is preparing for public presentation. The complex was integrated into a mobile drone combat system — from FPV drones to reconnaissance UAVs. During modernization, \"Trident\" also received an AI-based tracking system, automatic capture and...",
-    "description_uk": "Показали модернизированное украинское лазерное оружие против дронов — комплекс «Тризуб» По данным разработчика Celebra Tech, он уже проходит финальные испытания и готовится к публичной презентации. Комплекс интегрировали в мобильную систему борьбы с беспилотниками — от FPV-дронов до разведывательных БпЛА. Во время модернизации «Тризуб» также получил систему донаведения на базе ИИ, автозахват и...",
-    "time": "",
-    "pubDate": "2026-05-08T07:20:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/191016",
-    "score": 9.5,
-    "views": 101640,
-    "forwards": 386
-  },
-  {
     "title": "ENG below⏬ 🇺🇦🇸🇪 The active phase of international military exercises...",
     "title_en": "ENG below⏬ 🇺🇦🇸🇪 The active phase of international military exercises...",
     "title_uk": "ENG нижче⏬ 🇺🇦🇸🇪 Активна фаза міжнародних військових навчань...",
@@ -360,24 +378,6 @@
     "forwards": 14
   },
   {
-    "title": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_uk": "Харків: БпЛА на Харків з півночі.",
-    "description": "BpLA on Kharkiv from the north.",
-    "description_en": "BpLA on Kharkiv from the north.",
-    "description_uk": "БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-05-08T06:48:54+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61574",
-    "score": 6.0,
-    "views": 91282,
-    "forwards": 2
-  },
-  {
     "title": "Explosions reported",
     "title_en": "Explosions reported",
     "title_uk": "Повідомляється про вибухи",
@@ -394,24 +394,6 @@
     "score": 3.5,
     "views": 117535,
     "forwards": 72
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons",
-    "description_en": "☄️ The threat of using ballistic weapons",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння",
-    "time": "",
-    "pubDate": "2026-05-08T06:38:20+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61572",
-    "score": 5.0,
-    "views": 76623,
-    "forwards": 35
   },
   {
     "title": "Today is the Day of Remembrance and Victory over Nazism. The day when...",
