@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kharkiv: Drone strike",
+    "title_en": "Kharkiv: Drone strike",
+    "title_uk": "Харків: Дрон-удар",
+    "description": "Russian drone strikes apartment building in Kharkiv less than 24 hours into ceasefire. The drone attack hit a nine-story residential building in the city's Industrial district, Kharkiv Oblast Governor Oleh Syniehubov said on May 9 — the first day of a three-day truce meant to last until May 11.",
+    "description_en": "Russian drone strikes apartment building in Kharkiv less than 24 hours into ceasefire. The drone attack hit a nine-story residential building in the city's Industrial district, Kharkiv Oblast Governor Oleh Syniehubov said on May 9 — the first day of a three-day truce meant to last until May 11.",
+    "description_uk": "Russian drone strikes apartment building in Kharkiv less than 24 hours into ceasefire. The drone attack hit a nine-story residential building in the city's Industrial district, Kharkiv Oblast Governor Oleh Syniehubov said on May 9 — the first day of a three-day truce meant to last until May 11.",
+    "time": "",
+    "pubDate": "2026-05-09T20:46:35+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kharkiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53025",
+    "score": 8.0,
+    "views": 371,
+    "forwards": 4
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61600",
     "score": 5.0,
-    "views": 39711,
+    "views": 49470,
     "forwards": 31
   },
   {
@@ -50,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53021",
     "score": 10.0,
-    "views": 1553,
-    "forwards": 2
+    "views": 1717,
+    "forwards": 3
   },
   {
     "title": "BpLA in the direction of Kharkiv from the north.",
@@ -104,7 +122,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191117",
     "score": 6.5,
-    "views": 151538,
+    "views": 156960,
     "forwards": 253
   },
   {
@@ -158,7 +176,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8987",
     "score": 6.5,
-    "views": 860,
+    "views": 870,
     "forwards": 4
   },
   {
@@ -178,24 +196,6 @@
     "score": 6.5,
     "views": 166796,
     "forwards": 223
-  },
-  {
-    "title": "Kyiv: 'Victory will be ours,' Putin tells Victory Day parade without any...",
-    "title_en": "Kyiv: 'Victory will be ours,' Putin tells Victory Day parade without any...",
-    "title_uk": "Київ: «Перемога буде за нами», — Путін на параді до Дня Перемоги без...",
-    "description": "'Victory will be ours,' Putin tells Victory Day parade without any tanks. A greatest hits compilation of Russia's most modern military hardware was shown on a video displayed on screens at the event.",
-    "description_en": "'Victory will be ours,' Putin tells Victory Day parade without any tanks. A greatest hits compilation of Russia's most modern military hardware was shown on a video displayed on screens at the event.",
-    "description_uk": "'Victory will be ours,' Putin tells Victory Day parade without any tanks. A greatest hits compilation of Russia's most modern military hardware was shown on a video displayed on screens at the event.",
-    "time": "",
-    "pubDate": "2026-05-09T09:05:34+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53014",
-    "score": 5.0,
-    "views": 1306,
-    "forwards": 9
   },
   {
     "title": "Ballistic missile launch detected",
@@ -248,7 +248,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18932",
     "score": 6.5,
-    "views": 131188,
+    "views": 131645,
     "forwards": 324
   },
   {
@@ -266,7 +266,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18929",
     "score": 12.5,
-    "views": 111077,
+    "views": 111369,
     "forwards": 226
   },
   {
@@ -284,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8984",
     "score": 3.5,
-    "views": 991,
+    "views": 993,
     "forwards": 5
   }
 ]
