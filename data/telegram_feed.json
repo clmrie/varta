@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "The Air Force reports that on the night of May 9 (from 18:00 on May 8), the enemy attacked Ukraine with an Iskander-M ballistic missile from Crimea and 43 strike UAVs of the Shahed, Gerbera, Italmas type and Parody simulator drones. A missile and 9 strike UAVs were hit at 6 locations, as well as downed (debris) at 2 locations. It is somehow difficult to call Iskander's strike a truce...",
+    "description_en": "The Air Force reports that on the night of May 9 (from 18:00 on May 8), the enemy attacked Ukraine with an Iskander-M ballistic missile from Crimea and 43 strike UAVs of the Shahed, Gerbera, Italmas type and Parody simulator drones. A missile and 9 strike UAVs were hit at 6 locations, as well as downed (debris) at 2 locations. It is somehow difficult to call Iskander's strike a truce...",
+    "description_uk": "Воздушные силы сообщают, что в ночь на 9 мая (с 18:00 8 мая) противник атаковал Украину баллистической ракетой Искандер-М из Крыма и 43 ударными БпЛА типа Shahed, Гербера, Италмас и дронами-имитаторами «Пародия». Зафиксировано попадание ракеты и 9 ударных БПЛА на 6 локациях, а также падение сбитых (обломки) на 2 локациях. Как-то сложно назвать удар Искандером перемирием...",
+    "time": "",
+    "pubDate": "2026-05-09T05:29:35+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Crimea",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/191085",
+    "score": 8.0,
+    "views": 9684,
+    "forwards": 5
+  },
+  {
+    "title": "Kursk: Drone incoming",
+    "title_en": "Kursk: Drone incoming",
+    "title_uk": "Курськ: Дрон входить",
+    "description": "34 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of May 9 (from 18:00 on May 8), the enemy attacked with an Iskander-M ballistic missile from Crimea and 43 strike UAVs of the Shahed, Gerbera, Italmas type and imitation drones \"Parody\" from the directions: Kursk, Orel, Primorsko-Akhtarsk, Millerovo - Russian Federation, The air attack was repelled by aviation, anti-aircraft missile forces, EW and unmanned systems units, mobile...",
+    "description_en": "34 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of May 9 (from 18:00 on May 8), the enemy attacked with an Iskander-M ballistic missile from Crimea and 43 strike UAVs of the Shahed, Gerbera, Italmas type and imitation drones \"Parody\" from the directions: Kursk, Orel, Primorsko-Akhtarsk, Millerovo - Russian Federation, The air attack was repelled by aviation, anti-aircraft missile forces, EW and unmanned systems units, mobile...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 34 ВОРОЖІ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 9 травня (з 18:00 8 травня) противник атакував балістичною ракетою Іскандер-М із Криму та 43-ма ударними БпЛА типу Shahed, Гербера, Італмас та дронами-імітаторами «Пародія» із напрямків: Курськ, Орел, Приморсько-Ахтарськ, Міллерово – рф, Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем, мобільні...",
+    "time": "",
+    "pubDate": "2026-05-09T05:03:59+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kursk",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61592",
+    "score": 13.5,
+    "views": 29136,
+    "forwards": 101
+  },
+  {
     "title": "BpLA from Sumy region (past Romny) to Poltava region.",
     "title_en": "BpLA from Sumy region (past Romny) to Poltava region.",
     "title_uk": "БпЛА із Сумщини (повз Ромни) на Полтавщину.",
@@ -13,9 +49,9 @@
     "location": "Poltava",
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61591",
-    "score": 5.0,
-    "views": 55511,
-    "forwards": 40
+    "score": 5.5,
+    "views": 91808,
+    "forwards": 52
   },
   {
     "title": "The situation in Kaspiysk, Russian Federation: there are already...",
@@ -32,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191078",
     "score": 6.5,
-    "views": 107741,
-    "forwards": 485
+    "views": 156681,
+    "forwards": 496
   },
   {
     "title": "Chernihiv: enemy UAVs in the north of the Chernihiv region.",
@@ -68,26 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53002",
     "score": 15.0,
-    "views": 1833,
+    "views": 2010,
     "forwards": 2
-  },
-  {
-    "title": "🛸 BpLA - in the direction of Kharkiv.",
-    "title_en": "🛸 BpLA - in the direction of Kharkiv.",
-    "title_uk": "🛸 BpLA - в напрямку Харкова.",
-    "description": "🛸 BpLA - in the direction of Kharkiv.",
-    "description_en": "🛸 BpLA - in the direction of Kharkiv.",
-    "description_uk": "🛸 БпЛА - в напрямку Харкова.",
-    "time": "",
-    "pubDate": "2026-05-08T17:05:58+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61589",
-    "score": 5.0,
-    "views": 80001,
-    "forwards": 29
   },
   {
     "title": "400 drones",
@@ -122,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18932",
     "score": 6.5,
-    "views": 89950,
-    "forwards": 285
+    "views": 100652,
+    "forwards": 293
   },
   {
     "title": "Kyiv: Attack attack",
@@ -140,26 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52999",
     "score": 4.0,
-    "views": 1805,
-    "forwards": 2
-  },
-  {
-    "title": "Chernihiv: 🛸 Chernihiv region: a group of BpLA - in the direction of Kholmiv.",
-    "title_en": "Chernihiv: 🛸 Chernihiv region: a group of BpLA - in the direction of Kholmiv.",
-    "title_uk": "Чернігів: 🛸 Чернігівська область: група БПЛА – на Холмівському напрямку.",
-    "description": "🛸 Chernihiv region: a group of BpLA - in the direction of Kholmiv.",
-    "description_en": "🛸 Chernihiv region: a group of BpLA - in the direction of Kholmiv.",
-    "description_uk": "🛸 Чернігівщина: група БпЛА - в напрямку Холмів.",
-    "time": "",
-    "pubDate": "2026-05-08T16:33:25+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61587",
-    "score": 6.0,
-    "views": 68682,
-    "forwards": 33
+    "views": 1960,
+    "forwards": 3
   },
   {
     "title": "Air defense active",
@@ -194,7 +194,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38394",
     "score": 10.5,
-    "views": 15990,
+    "views": 17869,
     "forwards": 68
   },
   {
@@ -230,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18929",
     "score": 12.5,
-    "views": 89855,
-    "forwards": 207
+    "views": 95244,
+    "forwards": 209
   },
   {
     "title": "📞 Minister of Foreign Affairs of Ukraine Andrii Sybiga held telephone...",
@@ -248,8 +248,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8984",
     "score": 3.5,
-    "views": 753,
-    "forwards": 4
+    "views": 772,
+    "forwards": 5
   },
   {
     "title": "A high-speed target for Sumy region!",
@@ -284,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8982",
     "score": 5.0,
-    "views": 7303,
+    "views": 7770,
     "forwards": 25
   },
   {
@@ -358,23 +358,5 @@
     "score": 9.5,
     "views": 662363,
     "forwards": 1064
-  },
-  {
-    "title": "Kursk: Drone incoming",
-    "title_en": "Kursk: Drone incoming",
-    "title_uk": "Курськ: Дрон входить",
-    "description": "56 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of May 8 (from 18:00 on May 7), the enemy attacked 67 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and parody drones from the directions: Kursk, Orel, Bryansk, Primorsko-Akhtarsk, Millerovo - Russian Federation, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
-    "description_en": "56 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of May 8 (from 18:00 on May 7), the enemy attacked 67 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and parody drones from the directions: Kursk, Orel, Bryansk, Primorsko-Akhtarsk, Millerovo - Russian Federation, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 56 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 8 травня (з 18:00 7 травня) противник атакував 67-ма ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами «Пародія» із напрямків: Курськ, Орел, Брянськ, Приморсько-Ахтарськ, Міллерово – рф, Гвардійське – ТОТ АР Крим. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних...",
-    "time": "",
-    "pubDate": "2026-05-08T05:18:46+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kursk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/38349",
-    "score": 10.0,
-    "views": 3102,
-    "forwards": 17
   }
 ]
