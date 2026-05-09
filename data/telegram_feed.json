@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "🛸 Zaporizhzhia region: UAV in the direction of the village of Kushugum from the south.",
+    "description_en": "🛸 Zaporizhzhia region: UAV in the direction of the village of Kushugum from the south.",
+    "description_uk": "🛸 Запорізька область: БпЛА в напрямку н.п.Кушугум з півдня.",
+    "time": "",
+    "pubDate": "2026-05-09T19:32:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61600",
+    "score": 5.0,
+    "views": 14658,
+    "forwards": 8
+  },
+  {
     "title": "BpLA in the Kharkiv region.",
     "title_en": "BpLA in the Kharkiv region.",
     "title_uk": "BpLA в Харківській обл.",
@@ -32,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53021",
     "score": 10.0,
-    "views": 1031,
-    "forwards": 1
+    "views": 1374,
+    "forwards": 2
   },
   {
     "title": "BpLA in the direction of Kharkiv from the north.",
@@ -86,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191117",
     "score": 6.5,
-    "views": 127958,
-    "forwards": 217
+    "views": 143961,
+    "forwards": 253
   },
   {
     "title": "Kyiv: Attack attack",
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53017",
     "score": 4.5,
-    "views": 1855,
+    "views": 2008,
     "forwards": 1
   },
   {
@@ -128,7 +146,7 @@
   {
     "title": "🇪🇺 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"Happy...",
     "title_en": "🇪🇺 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"Happy...",
-    "title_uk": "🇪🇺 Міністр закордонних справ України Андрій Сибіга: «Щаслива...",
+    "title_uk": "🇪🇺 Міністр закордонних справ України Андрій Сибіга: «З...",
     "description": "🇪🇺 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"Happy Europe Day! For Ukrainians, Europe has never been just a geography. It has always been an idea - dignity, freedom, democracy and the right of peoples to choose their own future. Today, Ukraine is not only defending itself. We are defending the values ​​on which Europe is built: freedom, democracy and human dignity. That is why Ukraine's struggle is also...",
     "description_en": "🇪🇺 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"Happy Europe Day! For Ukrainians, Europe has never been just a geography. It has always been an idea - dignity, freedom, democracy and the right of peoples to choose their own future. Today, Ukraine is not only defending itself. We are defending the values ​​on which Europe is built: freedom, democracy and human dignity. That is why Ukraine's struggle is also...",
     "description_uk": "🇪🇺 Міністр закордонних справ України Андрій Сибіга: \"З Днем Європи! Для українців Європа ніколи не була лише географією. Вона завжди була ідеєю – гідності, свободи, демократії та права народів самостійно обирати своє майбутнє. Сьогодні Україна захищає не лише себе. Ми захищаємо цінності, на яких побудована Європа: свободу, демократію та людську гідність. Саме тому боротьба України – це також...",
@@ -140,7 +158,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8987",
     "score": 6.5,
-    "views": 806,
+    "views": 846,
     "forwards": 4
   },
   {
@@ -198,24 +216,6 @@
     "forwards": 4
   },
   {
-    "title": "Zaporizhzhia: An enemy anti-aircraft missile is approaching the city of Zaporozhye...",
-    "title_en": "Zaporizhzhia: An enemy anti-aircraft missile is approaching the city of Zaporozhye...",
-    "title_uk": "Запоріжжя: На місто Запоріжжя наближається ворожий зенітний комплекс...",
-    "description": "An enemy anti-aircraft missile is approaching the city of Zaporozhye from the east.",
-    "description_en": "An enemy anti-aircraft missile is approaching the city of Zaporozhye from the east.",
-    "description_uk": "Ворожий БпЛА наближається до м.Запоріжжя зі сходу.",
-    "time": "",
-    "pubDate": "2026-05-09T06:37:06+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61593",
-    "score": 6.5,
-    "views": 109981,
-    "forwards": 153
-  },
-  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -266,7 +266,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18932",
     "score": 6.5,
-    "views": 129312,
+    "views": 130549,
     "forwards": 322
   },
   {
@@ -284,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18929",
     "score": 12.5,
-    "views": 109918,
-    "forwards": 224
+    "views": 110676,
+    "forwards": 225
   },
   {
     "title": "📞 Minister of Foreign Affairs of Ukraine Andrii Sybiga held telephone...",
@@ -302,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8984",
     "score": 3.5,
-    "views": 979,
+    "views": 988,
     "forwards": 5
   }
 ]
