@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Kharkiv region: BpLA in the direction of Savyntsi village from the...",
+    "title_en": "Kharkiv: Kharkiv region: BpLA in the direction of Savyntsi village from the...",
+    "title_uk": "Харків: Харківська область: БпЛА в напрямку с.Савинці від...",
+    "description": "Kharkiv region: BpLA in the direction of Savyntsi village from the east.",
+    "description_en": "Kharkiv region: BpLA in the direction of Savyntsi village from the east.",
+    "description_uk": "Харківщина: БпЛА в напрямку н.п.Савинці зі сходу.",
+    "time": "",
+    "pubDate": "2026-05-09T21:59:55+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61603",
+    "score": 6.0,
+    "views": 3038,
+    "forwards": 2
+  },
+  {
+    "title": "Kramatorsk: Drone incoming",
+    "title_en": "Kramatorsk: Drone incoming",
+    "title_uk": "Краматорськ: Дрон вхід",
+    "description": "UAV in the direction of Kramatorsk from the southeast.",
+    "description_en": "UAV in the direction of Kramatorsk from the southeast.",
+    "description_uk": "БпЛА в напрямку Краматорська з південного сходу.",
+    "time": "",
+    "pubDate": "2026-05-09T21:48:19+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kramatorsk",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61602",
+    "score": 6.0,
+    "views": 9459,
+    "forwards": 12
+  },
+  {
     "title": "Kharkiv: Drone strike",
     "title_en": "Kharkiv: Drone strike",
     "title_uk": "Харків: Дрон-удар",
@@ -14,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53025",
     "score": 8.0,
-    "views": 371,
+    "views": 719,
     "forwards": 4
   },
   {
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53021",
     "score": 10.0,
-    "views": 1717,
+    "views": 1853,
     "forwards": 3
   },
   {
@@ -122,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191117",
     "score": 6.5,
-    "views": 156960,
-    "forwards": 253
+    "views": 161761,
+    "forwards": 282
   },
   {
     "title": "Kyiv: Attack attack",
@@ -176,26 +212,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8987",
     "score": 6.5,
-    "views": 870,
+    "views": 883,
     "forwards": 4
-  },
-  {
-    "title": "🌸 And to the good news: the season of lilac blossoming has started in...",
-    "title_en": "🌸 And to the good news: the season of lilac blossoming has started in...",
-    "title_uk": "🌸 І до гарних новин: розпочався сезон цвітіння бузку в...",
-    "description": "🌸 And to the good news: the season of lilac blossoming has started in Kyiv, which means that there will be a lot of work for local Instagram women.",
-    "description_en": "🌸 And to the good news: the season of lilac blossoming has started in Kyiv, which means that there will be a lot of work for local Instagram women.",
-    "description_uk": "🌸 И к добрым новостям: в Киеве начался сезон цветения сирени А значит, что у местных инстасамок будет много работы.",
-    "time": "",
-    "pubDate": "2026-05-09T09:24:29+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/191101",
-    "score": 6.5,
-    "views": 166796,
-    "forwards": 223
   },
   {
     "title": "Ballistic missile launch detected",
@@ -248,7 +266,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18932",
     "score": 6.5,
-    "views": 131645,
+    "views": 132019,
     "forwards": 324
   },
   {
@@ -266,7 +284,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18929",
     "score": 12.5,
-    "views": 111369,
+    "views": 111604,
     "forwards": 226
   },
   {
@@ -284,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8984",
     "score": 3.5,
-    "views": 993,
+    "views": 996,
     "forwards": 5
   }
 ]
