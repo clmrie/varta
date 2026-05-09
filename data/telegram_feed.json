@@ -1,5 +1,23 @@
 [
   {
+    "title": "Zaporizhzhia: An enemy anti-aircraft missile is approaching the city of Zaporozhye...",
+    "title_en": "Zaporizhzhia: An enemy anti-aircraft missile is approaching the city of Zaporozhye...",
+    "title_uk": "Запоріжжя: На місто Запоріжжя наближається ворожий зенітний комплекс...",
+    "description": "An enemy anti-aircraft missile is approaching the city of Zaporozhye from the east.",
+    "description_en": "An enemy anti-aircraft missile is approaching the city of Zaporozhye from the east.",
+    "description_uk": "Ворожий БпЛА наближається до м.Запоріжжя зі сходу.",
+    "time": "",
+    "pubDate": "2026-05-09T06:37:06+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61593",
+    "score": 6.5,
+    "views": 38843,
+    "forwards": 108
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -13,9 +31,9 @@
     "location": "Crimea",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191085",
-    "score": 8.0,
-    "views": 9684,
-    "forwards": 5
+    "score": 8.5,
+    "views": 110452,
+    "forwards": 111
   },
   {
     "title": "Kursk: Drone incoming",
@@ -31,9 +49,9 @@
     "location": "Kursk",
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61592",
-    "score": 13.5,
-    "views": 29136,
-    "forwards": 101
+    "score": 14.5,
+    "views": 99494,
+    "forwards": 217
   },
   {
     "title": "BpLA from Sumy region (past Romny) to Poltava region.",
@@ -68,26 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191078",
     "score": 6.5,
-    "views": 156681,
-    "forwards": 496
-  },
-  {
-    "title": "Chernihiv: enemy UAVs in the north of the Chernihiv region.",
-    "title_en": "Chernihiv: enemy UAVs in the north of the Chernihiv region.",
-    "title_uk": "Чернігів: БПЛА противника на півночі Чернігівської області.",
-    "description": "enemy UAVs in the north of the Chernihiv region.",
-    "description_en": "enemy UAVs in the north of the Chernihiv region.",
-    "description_uk": "ворожі БпЛА на півночі Чернігівської обл.",
-    "time": "",
-    "pubDate": "2026-05-08T18:50:11+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61590",
-    "score": 6.5,
-    "views": 88584,
-    "forwards": 135
+    "views": 183333,
+    "forwards": 532
   },
   {
     "title": "Odesa: Inside Ukraine's mission to defend the Black Sea coast Since Russia’s...",
@@ -104,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53002",
     "score": 15.0,
-    "views": 2010,
-    "forwards": 2
+    "views": 2126,
+    "forwards": 3
   },
   {
     "title": "400 drones",
@@ -140,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18932",
     "score": 6.5,
-    "views": 100652,
-    "forwards": 293
+    "views": 110011,
+    "forwards": 303
   },
   {
     "title": "Kyiv: Attack attack",
@@ -158,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/52999",
     "score": 4.0,
-    "views": 1960,
+    "views": 2055,
     "forwards": 3
   },
   {
@@ -194,8 +194,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38394",
     "score": 10.5,
-    "views": 17869,
-    "forwards": 68
+    "views": 18713,
+    "forwards": 69
   },
   {
     "title": "Kyiv: Air defense active",
@@ -230,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18929",
     "score": 12.5,
-    "views": 95244,
-    "forwards": 209
+    "views": 99451,
+    "forwards": 219
   },
   {
     "title": "📞 Minister of Foreign Affairs of Ukraine Andrii Sybiga held telephone...",
@@ -248,7 +248,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8984",
     "score": 3.5,
-    "views": 772,
+    "views": 796,
     "forwards": 5
   },
   {
@@ -284,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8982",
     "score": 5.0,
-    "views": 7770,
+    "views": 8046,
     "forwards": 25
   },
   {
@@ -304,59 +304,5 @@
     "score": 6.0,
     "views": 3144,
     "forwards": 14
-  },
-  {
-    "title": "ENG below⏬ 🇺🇦🇸🇪 The active phase of international military exercises...",
-    "title_en": "ENG below⏬ 🇺🇦🇸🇪 The active phase of international military exercises...",
-    "title_uk": "ENG нижче⏬ 🇺🇦🇸🇪 Активна фаза міжнародних військових навчань...",
-    "description": "ENG below⏬ 🇺🇦🇸🇪 The active phase of international military exercises Aurora 2026 is underway in the Kingdom of Sweden - one of the largest security events in the Baltic region. Military personnel from 18 countries, as well as representatives of the Defense Forces of Ukraine, are participating in the joint exercises. Aurora 2026 covers the key components of modern defense: operations on land, in the air and at sea. The main goal of the exercises is to strengthen...",
-    "description_en": "ENG below⏬ 🇺🇦🇸🇪 The active phase of international military exercises Aurora 2026 is underway in the Kingdom of Sweden - one of the largest security events in the Baltic region. Military personnel from 18 countries, as well as representatives of the Defense Forces of Ukraine, are participating in the joint exercises. Aurora 2026 covers the key components of modern defense: operations on land, in the air and at sea. The main goal of the exercises is to strengthen...",
-    "description_uk": "ENG below⏬ 🇺🇦🇸🇪 У Королівстві Швеція триває активна фаза міжнародних військових навчань Aurora 2026 - одного з найбільших безпекових заходів у Балтійському регіоні У спільних навчаннях беруть участь військовослужбовці з 18 країн, а також представники Сил оборони України. Aurora 2026 охоплює ключові компоненти сучасної оборони: дії на суші, у повітрі та на морі. Основна мета навчань - посилити...",
-    "time": "",
-    "pubDate": "2026-05-08T06:50:29+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/38352",
-    "score": 13.0,
-    "views": 3196,
-    "forwards": 14
-  },
-  {
-    "title": "Explosions reported",
-    "title_en": "Explosions reported",
-    "title_uk": "Повідомляється про вибухи",
-    "description": "In Latvia, they are still looking for the drone that flew yesterday from the Russian Federation. According to the authorities, the drone may have fallen in the sparsely populated Rezekne region of Latgale, but it has not yet been found. The military believes that the drone can be explosive.",
-    "description_en": "In Latvia, they are still looking for the drone that flew yesterday from the Russian Federation. According to the authorities, the drone may have fallen in the sparsely populated Rezekne region of Latgale, but it has not yet been found. The military believes that the drone can be explosive.",
-    "description_uk": "В Латвии до сих пор ищут дрон, залетевший вчера со стороны рф По данным властей, беспилотник мог упасть в малонаселенном Резекненском крае Латгалии, однако найти его пока не удалось. Военные считают, что дрон может быть взрывоопасным.",
-    "time": "",
-    "pubDate": "2026-05-08T06:41:01+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/191014",
-    "score": 3.5,
-    "views": 117535,
-    "forwards": 72
-  },
-  {
-    "title": "Today is the Day of Remembrance and Victory over Nazism. The day when...",
-    "title_en": "Today is the Day of Remembrance and Victory over Nazism. The day when...",
-    "title_uk": "Сьогодні День пам'яті та перемоги над нацизмом. День, коли...",
-    "description": "Today is the Day of Remembrance and Victory over Nazism. The day when all of Europe celebrates the end of the most terrible war of the 20th century - a war after which there should be only real peace. This is what was dreamed of when the guns of the Second World War began to fall silent. That war turned our land into a field of brutal battles, abuse in the occupied territory, mass destruction of people and lives. Losses of the Ukrainian people...",
-    "description_en": "Today is the Day of Remembrance and Victory over Nazism. The day when all of Europe celebrates the end of the most terrible war of the 20th century - a war after which there should be only real peace. This is what was dreamed of when the guns of the Second World War began to fall silent. That war turned our land into a field of brutal battles, abuse in the occupied territory, mass destruction of people and lives. Losses of the Ukrainian people...",
-    "description_uk": "Сьогодні День пам’яті та перемоги над нацизмом. День, коли вся Європа відзначає завершення найстрашнішої війни ХХ століття – війни, після якої мав би бути тільки справжній мир. Саме так тоді мріялось, коли гармати Другої світової почали замовкати. Та війна перетворила нашу землю на поле жорстоких битв, знущань на окупованій території, масового знищення людей і життя. Втрати українського народу...",
-    "time": "",
-    "pubDate": "2026-05-08T06:22:49+00:00",
-    "category": "political",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/18924",
-    "score": 9.5,
-    "views": 662363,
-    "forwards": 1064
   }
 ]
