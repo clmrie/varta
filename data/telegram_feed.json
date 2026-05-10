@@ -1,5 +1,23 @@
 [
   {
+    "title": "Sumy: 🛸 Sumy - BpLA in the direction of the city from the north.",
+    "title_en": "Sumy: 🛸 Sumy - BpLA in the direction of the city from the north.",
+    "title_uk": "Суми: 🛸 Суми – БпЛА в напрямку міста з півночі.",
+    "description": "🛸 Sumy - BpLA in the direction of the city from the north.",
+    "description_en": "🛸 Sumy - BpLA in the direction of the city from the north.",
+    "description_uk": "🛸 Суми - БпЛА в напрямку міста з півночі.",
+    "time": "",
+    "pubDate": "2026-05-10T13:00:53+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61615",
+    "score": 6.0,
+    "views": 7987,
+    "forwards": 6
+  },
+  {
     "title": "Dnipro: Enemy BpLA in the south of Dnipropetrovsk region, heading for...",
     "title_en": "Dnipro: Enemy BpLA in the south of Dnipropetrovsk region, heading for...",
     "title_uk": "Дніпро: Ворожа БПЛА на півдні Дніпропетровської області прямує на...",
@@ -13,9 +31,9 @@
     "location": "Dnipro",
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61614",
-    "score": 6.5,
-    "views": 22438,
-    "forwards": 170
+    "score": 7.5,
+    "views": 54690,
+    "forwards": 208
   },
   {
     "title": "Cruise missile heading inbound",
@@ -32,8 +50,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191144",
     "score": 3.5,
-    "views": 82219,
-    "forwards": 90
+    "views": 110100,
+    "forwards": 122
   },
   {
     "title": "🛸 Zaporizhzhia region: BpLA past Balabyne - in the northern direction.",
@@ -68,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191140",
     "score": 6.5,
-    "views": 138236,
-    "forwards": 309
+    "views": 151778,
+    "forwards": 323
   },
   {
     "title": "Today is Mother's Day. And especially today I want to say the most...",
@@ -86,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18936",
     "score": 6.5,
-    "views": 248731,
-    "forwards": 447
+    "views": 270947,
+    "forwards": 468
   },
   {
     "title": "Drone attack",
@@ -122,8 +140,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38452",
     "score": 5.0,
-    "views": 4511,
-    "forwards": 21
+    "views": 4644,
+    "forwards": 22
   },
   {
     "title": "Drone incoming",
@@ -140,7 +158,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38451",
     "score": 9.0,
-    "views": 4609,
+    "views": 4714,
     "forwards": 22
   },
   {
@@ -162,24 +180,6 @@
     "forwards": 2
   },
   {
-    "title": "Kharkiv: Kharkiv region: BpLA in the direction of Savyntsi village from the...",
-    "title_en": "Kharkiv: Kharkiv region: BpLA in the direction of Savyntsi village from the...",
-    "title_uk": "Харків: Харківська область: БпЛА в напрямку с.Савинці від...",
-    "description": "Kharkiv region: BpLA in the direction of Savyntsi village from the east.",
-    "description_en": "Kharkiv region: BpLA in the direction of Savyntsi village from the east.",
-    "description_uk": "Харківщина: БпЛА в напрямку н.п.Савинці зі сходу.",
-    "time": "",
-    "pubDate": "2026-05-10T00:01:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61610",
-    "score": 6.0,
-    "views": 33595,
-    "forwards": 2
-  },
-  {
     "title": "Kharkiv: Drone strike",
     "title_en": "Kharkiv: Drone strike",
     "title_uk": "Харків: Дрон-удар",
@@ -194,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53025",
     "score": 8.0,
-    "views": 2603,
+    "views": 2670,
     "forwards": 10
   },
   {
@@ -212,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53021",
     "score": 10.0,
-    "views": 2689,
+    "views": 2731,
     "forwards": 4
   },
   {
@@ -230,7 +230,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8987",
     "score": 6.5,
-    "views": 1010,
+    "views": 1025,
     "forwards": 4
   },
   {
@@ -248,7 +248,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18932",
     "score": 6.5,
-    "views": 136827,
-    "forwards": 326
+    "views": 137461,
+    "forwards": 338
   }
 ]
