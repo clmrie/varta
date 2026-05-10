@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Київ: повідомляється про постраждалих",
+    "description": "Analysis: Is Ukraine really turning the tide of this war? Russian territorial gains have flatlined, giving Moscow next to nothing to show for its consistently high losses. But in a long war that has seen many ebbs and flows, perceptions can be deceiving, and making quick judgements can be a dangerous game. As of 2026, around 80% of all casualties on both sides are caused by drones. Massing forces...",
+    "description_en": "Analysis: Is Ukraine really turning the tide of this war? Russian territorial gains have flatlined, giving Moscow next to nothing to show for its consistently high losses. But in a long war that has seen many ebbs and flows, perceptions can be deceiving, and making quick judgements can be a dangerous game. As of 2026, around 80% of all casualties on both sides are caused by drones. Massing forces...",
+    "description_uk": "Analysis: Is Ukraine really turning the tide of this war? Russian territorial gains have flatlined, giving Moscow next to nothing to show for its consistently high losses. But in a long war that has seen many ebbs and flows, perceptions can be deceiving, and making quick judgements can be a dangerous game. As of 2026, around 80% of all casualties on both sides are caused by drones. Massing forces...",
+    "time": "",
+    "pubDate": "2026-05-10T15:19:22+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53039",
+    "score": 11.0,
+    "views": 250,
+    "forwards": 2
+  },
+  {
     "title": "Sumy: 🛸 Sumy - BpLA in the direction of the city from the north.",
     "title_en": "Sumy: 🛸 Sumy - BpLA in the direction of the city from the north.",
     "title_uk": "Суми: 🛸 Суми – БпЛА в напрямку міста з півночі.",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61615",
     "score": 6.0,
-    "views": 39762,
-    "forwards": 17
+    "views": 53590,
+    "forwards": 19
   },
   {
     "title": "Dnipro: Enemy BpLA in the south of Dnipropetrovsk region, heading for...",
@@ -32,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61614",
     "score": 7.5,
-    "views": 74685,
-    "forwards": 218
+    "views": 85543,
+    "forwards": 219
   },
   {
     "title": "Cruise missile heading inbound",
@@ -104,8 +122,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18936",
     "score": 6.5,
-    "views": 290297,
-    "forwards": 479
+    "views": 305526,
+    "forwards": 480
   },
   {
     "title": "Drone attack",
@@ -140,7 +158,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38452",
     "score": 5.0,
-    "views": 4810,
+    "views": 4947,
     "forwards": 22
   },
   {
@@ -158,26 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38451",
     "score": 9.0,
-    "views": 4905,
-    "forwards": 24
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "Kharkiv region: UAV on Chuguiv from the northeast.",
-    "description_en": "Kharkiv region: UAV on Chuguiv from the northeast.",
-    "description_uk": "Харківщина: БпЛА на Чугуїв з північного сходу.",
-    "time": "",
-    "pubDate": "2026-05-10T02:24:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61611",
-    "score": 6.0,
-    "views": 65856,
-    "forwards": 2
+    "views": 5088,
+    "forwards": 25
   },
   {
     "title": "Kharkiv: Drone strike",
@@ -194,31 +194,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53025",
     "score": 8.0,
-    "views": 2731,
+    "views": 2805,
     "forwards": 10
-  },
-  {
-    "title": "Crimea: News from occupied Ukraine: FSB facility struck in Crimea, civilians...",
-    "title_en": "Crimea: News from occupied Ukraine: FSB facility struck in Crimea, civilians...",
-    "title_uk": "Крим: Новини з окупованої України: в Криму обстріляно об'єкт ФСБ, мирні...",
-    "description": "News from occupied Ukraine: FSB facility struck in Crimea, civilians in Oleshky trapped in urgent need of aid This weekly update from the Kyiv Independent aims to shed light on the situation facing Ukrainians living under Russian occupation and the ever-tightening control of information imposed by the Kremlin.",
-    "description_en": "News from occupied Ukraine: FSB facility struck in Crimea, civilians in Oleshky trapped in urgent need of aid This weekly update from the Kyiv Independent aims to shed light on the situation facing Ukrainians living under Russian occupation and the ever-tightening control of information imposed by the Kremlin.",
-    "description_uk": "News from occupied Ukraine: FSB facility struck in Crimea, civilians in Oleshky trapped in urgent need of aid This weekly update from the Kyiv Independent aims to shed light on the situation facing Ukrainians living under Russian occupation and the ever-tightening control of information imposed by the Kremlin.",
-    "time": "",
-    "pubDate": "2026-05-09T16:41:20+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Crimea",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53021",
-    "score": 10.0,
-    "views": 2765,
-    "forwards": 4
   },
   {
     "title": "🇪🇺 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"Happy...",
     "title_en": "🇪🇺 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"Happy...",
-    "title_uk": "🇪🇺 Міністр закордонних справ України Андрій Сибіга: «Щаслива...",
+    "title_uk": "🇪🇺 Міністр закордонних справ України Андрій Сибіга: «З...",
     "description": "🇪🇺 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"Happy Europe Day! For Ukrainians, Europe has never been just a geography. It has always been an idea - dignity, freedom, democracy and the right of peoples to choose their own future. Today, Ukraine is not only defending itself. We are defending the values ​​on which Europe is built: freedom, democracy and human dignity. That is why Ukraine's struggle is also...",
     "description_en": "🇪🇺 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"Happy Europe Day! For Ukrainians, Europe has never been just a geography. It has always been an idea - dignity, freedom, democracy and the right of peoples to choose their own future. Today, Ukraine is not only defending itself. We are defending the values ​​on which Europe is built: freedom, democracy and human dignity. That is why Ukraine's struggle is also...",
     "description_uk": "🇪🇺 Міністр закордонних справ України Андрій Сибіга: \"З Днем Європи! Для українців Європа ніколи не була лише географією. Вона завжди була ідеєю – гідності, свободи, демократії та права народів самостійно обирати своє майбутнє. Сьогодні Україна захищає не лише себе. Ми захищаємо цінності, на яких побудована Європа: свободу, демократію та людську гідність. Саме тому боротьба України – це також...",
@@ -230,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8987",
     "score": 6.5,
-    "views": 1039,
+    "views": 1088,
     "forwards": 4
   },
   {
@@ -248,7 +230,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18932",
     "score": 6.5,
-    "views": 137794,
+    "views": 138138,
     "forwards": 338
   }
 ]
