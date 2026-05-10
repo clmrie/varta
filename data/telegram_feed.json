@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "Kharkiv region: UAV on Chuguiv from the northeast.",
+    "description_en": "Kharkiv region: UAV on Chuguiv from the northeast.",
+    "description_uk": "Харківщина: БпЛА на Чугуїв з північного сходу.",
+    "time": "",
+    "pubDate": "2026-05-10T02:24:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61611",
+    "score": 6.0,
+    "views": 20949,
+    "forwards": 2
+  },
+  {
+    "title": "Kharkiv: Kharkiv region: BpLA in the direction of Savyntsi village from the...",
+    "title_en": "Kharkiv: Kharkiv region: BpLA in the direction of Savyntsi village from the...",
+    "title_uk": "Харків: Харківська область: БпЛА в напрямку с.Савинці від...",
+    "description": "Kharkiv region: BpLA in the direction of Savyntsi village from the east.",
+    "description_en": "Kharkiv region: BpLA in the direction of Savyntsi village from the east.",
+    "description_uk": "Харківщина: БпЛА в напрямку н.п.Савинці зі сходу.",
+    "time": "",
+    "pubDate": "2026-05-10T00:01:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61610",
+    "score": 6.0,
+    "views": 33595,
+    "forwards": 2
+  },
+  {
     "title": "Mykolaiv: Sumy: BpLA in the direction of Ulyanivka/Mykolaivka from the...",
     "title_en": "Mykolaiv: Sumy: BpLA in the direction of Ulyanivka/Mykolaivka from the...",
     "title_uk": "Миколаїв: Суми: БпЛА в напрямку Ульянівка/Миколаївка від...",
@@ -18,24 +54,6 @@
     "forwards": 9
   },
   {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "UAV in the Kharkiv region past Andriivka village in the west/southwest direction.",
-    "description_en": "UAV in the Kharkiv region past Andriivka village in the west/southwest direction.",
-    "description_uk": "БпЛА на Харківщині повз н.п.Андріївка в західному/південно-західному напрямку.",
-    "time": "",
-    "pubDate": "2026-05-09T22:47:14+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61608",
-    "score": 6.0,
-    "views": 14725,
-    "forwards": 11
-  },
-  {
     "title": "Kharkiv: Kharkiv region: BpLA in the direction of Barvinkovo, Balaklia,...",
     "title_en": "Kharkiv: Kharkiv region: BpLA in the direction of Barvinkovo, Balaklia,...",
     "title_uk": "Харків: Харківська область: БпЛА в напрямку Барвінкове, Балаклія,...",
@@ -52,24 +70,6 @@
     "score": 6.0,
     "views": 11004,
     "forwards": 11
-  },
-  {
-    "title": "Kharkiv: Kharkiv region: BpLA in the direction of Savyntsi village from the...",
-    "title_en": "Kharkiv: Kharkiv region: BpLA in the direction of Savyntsi village from the...",
-    "title_uk": "Харків: Харківська область: БпЛА в напрямку с.Савинці від...",
-    "description": "Kharkiv region: BpLA in the direction of Savyntsi village from the east.",
-    "description_en": "Kharkiv region: BpLA in the direction of Savyntsi village from the east.",
-    "description_uk": "Харківщина: БпЛА в напрямку н.п.Савинці зі сходу.",
-    "time": "",
-    "pubDate": "2026-05-09T21:59:55+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61603",
-    "score": 6.0,
-    "views": 3038,
-    "forwards": 2
   },
   {
     "title": "Kramatorsk: Drone incoming",
@@ -104,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53025",
     "score": 8.0,
-    "views": 1121,
-    "forwards": 6
+    "views": 1605,
+    "forwards": 8
   },
   {
     "title": "Drone incoming",
@@ -158,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53021",
     "score": 10.0,
-    "views": 2049,
-    "forwards": 3
+    "views": 2261,
+    "forwards": 4
   },
   {
     "title": "BpLA in the direction of Kharkiv from the north.",
@@ -180,24 +180,6 @@
     "forwards": 48
   },
   {
-    "title": "Enemy anti-aircraft missile in the direction of Kharkiv from the...",
-    "title_en": "Enemy anti-aircraft missile in the direction of Kharkiv from the...",
-    "title_uk": "Зенітно-ракетний обстріл противника в напрямку Харкова з...",
-    "description": "Enemy anti-aircraft missile in the direction of Kharkiv from the northwest.",
-    "description_en": "Enemy anti-aircraft missile in the direction of Kharkiv from the northwest.",
-    "description_uk": "Ворожий БпЛА в напрямку Харкова з північного заходу.",
-    "time": "",
-    "pubDate": "2026-05-09T15:48:16+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61595",
-    "score": 5.0,
-    "views": 61801,
-    "forwards": 14
-  },
-  {
     "title": "Powerful innovations, look, the Americans are also good at analog....",
     "title_en": "Powerful innovations, look, the Americans are also good at analog....",
     "title_uk": "Потужні інновації, подивіться, американці теж вправні в аналогі....",
@@ -212,26 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191117",
     "score": 6.5,
-    "views": 166083,
-    "forwards": 284
-  },
-  {
-    "title": "Kyiv: Attack attack",
-    "title_en": "Kyiv: Attack attack",
-    "title_uk": "Київ: Атака",
-    "description": "Moscow restricts mobile internet during Russia's Victory Day parade amid fears of Ukrainian strikes Russia's Digital Development Ministry announced following the parade that restrictions in Moscow, imposed for \"security reasons,\" had been lifted, the Kremlin-controlled Russian Interfax news agency said on May 9.",
-    "description_en": "Moscow restricts mobile internet during Russia's Victory Day parade amid fears of Ukrainian strikes Russia's Digital Development Ministry announced following the parade that restrictions in Moscow, imposed for \"security reasons,\" had been lifted, the Kremlin-controlled Russian Interfax news agency said on May 9.",
-    "description_uk": "Moscow restricts mobile internet during Russia's Victory Day parade amid fears of Ukrainian strikes Russia's Digital Development Ministry announced following the parade that restrictions in Moscow, imposed for \"security reasons,\" had been lifted, the Kremlin-controlled Russian Interfax news agency said on May 9.",
-    "time": "",
-    "pubDate": "2026-05-09T13:00:46+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53017",
-    "score": 4.5,
-    "views": 2093,
-    "forwards": 1
+    "views": 174074,
+    "forwards": 288
   },
   {
     "title": "🇪🇺 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"Happy...",
@@ -248,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8987",
     "score": 6.5,
-    "views": 896,
+    "views": 907,
     "forwards": 4
   },
   {
@@ -302,7 +266,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18932",
     "score": 6.5,
-    "views": 132511,
+    "views": 133124,
     "forwards": 324
   },
   {
@@ -320,7 +284,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18929",
     "score": 12.5,
-    "views": 111897,
+    "views": 112325,
     "forwards": 227
   },
   {
@@ -338,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8984",
     "score": 3.5,
-    "views": 997,
+    "views": 1000,
     "forwards": 5
   }
 ]
