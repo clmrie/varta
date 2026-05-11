@@ -1,8 +1,26 @@
 [
   {
+    "title": "Casualties reported",
+    "title_en": "Casualties reported",
+    "title_uk": "Повідомляється про постраждалих",
+    "description": "The Ukrainian blockbuster \"KILLHOUSE\" continues to gain momentum at the box office - the film has already been viewed by more than 130,000 viewers. 🔝 Confirmation that Ukrainian cinema today can be large-scale, dynamic and competitive. The film finds its audience, gathers full halls and arouses keen interest in various audiences. We are proud that such projects are produced in Ukraine - with level, drive and...",
+    "description_en": "The Ukrainian blockbuster \"KILLHOUSE\" continues to gain momentum at the box office - the film has already been viewed by more than 130,000 viewers. 🔝 Confirmation that Ukrainian cinema today can be large-scale, dynamic and competitive. The film finds its audience, gathers full halls and arouses keen interest in various audiences. We are proud that such projects are produced in Ukraine - with level, drive and...",
+    "description_uk": "Український блокбастер «КІЛЛХАУС» продовжує впевнено набирати оберти в прокаті — стрічку вже переглянули понад 130 000 глядачів. 🔝 Підтвердження того, що українське кіно сьогодні може бути масштабним, динамічним і конкурентним. Фільм знаходить свого глядача, збирає повні зали та викликає живий інтерес у різних аудиторій. Пишаємось, що в Україні виходять такі проекти — з рівнем, драйвом і...",
+    "time": "",
+    "pubDate": "2026-05-11T19:35:45+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23495",
+    "score": 6.5,
+    "views": 43129,
+    "forwards": 205
+  },
+  {
     "title": "Kyiv: Lithuanian PM Ruginiene: The urgent case for returning Ukraine's...",
     "title_en": "Kyiv: Lithuanian PM Ruginiene: The urgent case for returning Ukraine's...",
-    "title_uk": "Київ: Прем'єр-міністр Литви Ругініене: Актуальна справа повернення Україні...",
+    "title_uk": "Київ: Прем'єр-міністр Литви Ругінієне: Актуальна справа повернення Україні...",
     "description": "Lithuanian PM Ruginiene: The urgent case for returning Ukraine's children “As a mother and as a representative of a nation that knows the cost of occupation, I cannot speak about deported, separated, and traumatized children in abstract terms,” – writes Inga Ruginiene, Lithuanian Prime Minister, in her op-ed. “Ukraine's children are not only Ukraine's responsibility. They are Europe's...",
     "description_en": "Lithuanian PM Ruginiene: The urgent case for returning Ukraine's children “As a mother and as a representative of a nation that knows the cost of occupation, I cannot speak about deported, separated, and traumatized children in abstract terms,” – writes Inga Ruginiene, Lithuanian Prime Minister, in her op-ed. “Ukraine's children are not only Ukraine's responsibility. They are Europe's...",
     "description_uk": "Lithuanian PM Ruginiene: The urgent case for returning Ukraine's children “As a mother and as a representative of a nation that knows the cost of occupation, I cannot speak about deported, separated, and traumatized children in abstract terms,” – writes Inga Ruginiene, Lithuanian Prime Minister, in her op-ed. “Ukraine's children are not only Ukraine's responsibility. They are Europe's...",
@@ -14,7 +32,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53056",
     "score": 11.0,
-    "views": 404,
+    "views": 1349,
     "forwards": 3
   },
   {
@@ -32,8 +50,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18956",
     "score": 6.5,
-    "views": 30119,
-    "forwards": 139
+    "views": 58100,
+    "forwards": 192
   },
   {
     "title": "Now our coalition for the return of Ukrainian children is truly...",
@@ -50,8 +68,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18955",
     "score": 5.5,
-    "views": 28746,
-    "forwards": 54
+    "views": 45152,
+    "forwards": 76
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -68,8 +86,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61623",
     "score": 6.0,
-    "views": 42703,
-    "forwards": 9
+    "views": 70452,
+    "forwards": 19
   },
   {
     "title": "💬 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"I am...",
@@ -86,7 +104,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8997",
     "score": 5.0,
-    "views": 469,
+    "views": 599,
     "forwards": 6
   },
   {
@@ -104,7 +122,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38518",
     "score": 10.0,
-    "views": 2897,
+    "views": 3539,
     "forwards": 4
   },
   {
@@ -158,8 +176,26 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53052",
     "score": 6.0,
-    "views": 1972,
+    "views": 2222,
     "forwards": 3
+  },
+  {
+    "title": "Work in the Kostyantyniv direction",
+    "title_en": "Work in the Kostyantyniv direction",
+    "title_uk": "Робота в Костянтинівському напрямку",
+    "description": "Work in the Kostyantyniv direction",
+    "description_en": "Work in the Kostyantyniv direction",
+    "description_uk": "Робота на Костянтинівському напрямку",
+    "time": "",
+    "pubDate": "2026-05-11T10:50:51+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/38509",
+    "score": 5.0,
+    "views": 4622,
+    "forwards": 13
   },
   {
     "title": "Work in the Kostyantynivsky direction",
@@ -180,24 +216,6 @@
     "forwards": 13
   },
   {
-    "title": "Work in the Kostyantyniv direction",
-    "title_en": "Work in the Kostyantyniv direction",
-    "title_uk": "Робота в Костянтинівському напрямку",
-    "description": "Work in the Kostyantyniv direction",
-    "description_en": "Work in the Kostyantyniv direction",
-    "description_uk": "Робота на Костянтинівському напрямку",
-    "time": "",
-    "pubDate": "2026-05-11T10:50:51+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/38509",
-    "score": 5.0,
-    "views": 3479,
-    "forwards": 11
-  },
-  {
     "title": "Kyiv: EU backs Ukraine war compensation, funds from Russian frozen assets...",
     "title_en": "Kyiv: EU backs Ukraine war compensation, funds from Russian frozen assets...",
     "title_uk": "Київ: ЄС підтримує Україні компенсацію за війну, кошти із заморожених російських активів...",
@@ -214,24 +232,6 @@
     "score": 6.0,
     "views": 1969,
     "forwards": 4
-  },
-  {
-    "title": "Casualties reported",
-    "title_en": "Casualties reported",
-    "title_uk": "Повідомляється про постраждалих",
-    "description": "Tactical medicine is knowledge that saves lives in war. Scouts of the 92nd OShBr are constantly improving their skills in providing aid to themselves and their wounded comrades in combat conditions. During the training, soldiers practice applying tourniquets, evacuating the wounded, stopping critical bleeding, working under stress and under enemy fire. In modern warfare, every fighter must be ready not only...",
-    "description_en": "Tactical medicine is knowledge that saves lives in war. Scouts of the 92nd OShBr are constantly improving their skills in providing aid to themselves and their wounded comrades in combat conditions. During the training, soldiers practice applying tourniquets, evacuating the wounded, stopping critical bleeding, working under stress and under enemy fire. In modern warfare, every fighter must be ready not only...",
-    "description_uk": "Тактична медицина — це знання, які на війні рятують життя. Розвідники 92 ОШБр постійно вдосконалюють навички надання допомоги собі і пораненим побратимам у бойових умовах. Під час занять воїни відпрацьовують накладання турнікетів, евакуацію поранених, зупинку критичних кровотеч, роботу в умовах стресу та під вогневим впливом противника. У сучасній війні кожен боєць має бути готовим не лише...",
-    "time": "",
-    "pubDate": "2026-05-11T09:16:48+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/38492",
-    "score": 10.0,
-    "views": 3186,
-    "forwards": 6
   },
   {
     "title": "Energy infrastructure hit",
@@ -266,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8990",
     "score": 3.5,
-    "views": 1387,
+    "views": 1401,
     "forwards": 14
   }
 ]
