@@ -1,5 +1,77 @@
 [
   {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Київ: Дрон-удар",
+    "description": "As ceasefire ends, Russian drone strikes residential building in Kyiv. Russian forces resumes their attacks on Kyiv overnight on May 12, launching dozens of drones towards the capital and hitting a residential building in the city, local officials reported.",
+    "description_en": "As ceasefire ends, Russian drone strikes residential building in Kyiv. Russian forces resumes their attacks on Kyiv overnight on May 12, launching dozens of drones towards the capital and hitting a residential building in the city, local officials reported.",
+    "description_uk": "As ceasefire ends, Russian drone strikes residential building in Kyiv. Russian forces resumes their attacks on Kyiv overnight on May 12, launching dozens of drones towards the capital and hitting a residential building in the city, local officials reported.",
+    "time": "",
+    "pubDate": "2026-05-12T01:26:17+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53064",
+    "score": 13.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Explosions reported",
+    "title_en": "Kyiv: Explosions reported",
+    "title_uk": "Київ: Повідомляється про вибухи",
+    "description": "Explosions reported in Kyiv. Explosions were heard in Kyiv around 3:35 a.m. local time, according to a Kyiv Independent journalist on the ground, amid reports of Russian drones approaching the capital.",
+    "description_en": "Explosions reported in Kyiv. Explosions were heard in Kyiv around 3:35 a.m. local time, according to a Kyiv Independent journalist on the ground, amid reports of Russian drones approaching the capital.",
+    "description_uk": "Explosions reported in Kyiv. Explosions were heard in Kyiv around 3:35 a.m. local time, according to a Kyiv Independent journalist on the ground, amid reports of Russian drones approaching the capital.",
+    "time": "",
+    "pubDate": "2026-05-12T00:42:05+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53063",
+    "score": 5.0,
+    "views": 350,
+    "forwards": 2
+  },
+  {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "A group of UAVs on Kyiv from the east.",
+    "description_en": "A group of UAVs on Kyiv from the east.",
+    "description_uk": "Група БпЛА на Київ зі сходу.",
+    "time": "",
+    "pubDate": "2026-05-12T00:35:33+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61632",
+    "score": 6.0,
+    "views": 34567,
+    "forwards": 1
+  },
+  {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "Several groups of enemy UAVs in the north, east and west of Sumy Oblast ➡️ heading for Chernihiv Oblast. 🛵 A large number of enemy UAVs in the north, east and in the center of Chernihiv Oblast ➡️ heading west. 🛵 BpLA group in the east of Kyiv region ➡️ heading for Brovary, Boryspil. 🛵 BpLA group in the north of Kherson region, east of Mykolaiv region ➡️ heading north. 🛵 A group of BpLA in the north of Donetsk region, south of Kharkiv region ➡️ heading for...",
+    "description_en": "Several groups of enemy UAVs in the north, east and west of Sumy Oblast ➡️ heading for Chernihiv Oblast. 🛵 A large number of enemy UAVs in the north, east and in the center of Chernihiv Oblast ➡️ heading west. 🛵 BpLA group in the east of Kyiv region ➡️ heading for Brovary, Boryspil. 🛵 BpLA group in the north of Kherson region, east of Mykolaiv region ➡️ heading north. 🛵 A group of BpLA in the north of Donetsk region, south of Kharkiv region ➡️ heading for...",
+    "description_uk": "Кілька груп ворожих БпЛА на півночі, сході та заході Сумщини ➡️ курсом на Чернігівщину. 🛵 Велика кількість ворожих БпЛА на півночі, сході та в центрі Чернігівщині ➡️ курсом на захід. 🛵 Група БпЛА на сході Київщини ➡️ курсом на Бровари, Бориспіль. 🛵 Група БпЛА на півночі Херсонщини, сході Миколаївщини ➡️ курсом на північ. 🛵 Група БпЛА на півночі Донеччини, півдні Харківщини ➡️ курсом на...",
+    "time": "",
+    "pubDate": "2026-05-12T00:28:37+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61631",
+    "score": 6.0,
+    "views": 42424,
+    "forwards": 35
+  },
+  {
     "title": "Chernihiv: Chernihiv region: BpLA in the direction of Chernihiv, Borzny, Ichny....",
     "title_en": "Chernihiv: Chernihiv region: BpLA in the direction of Chernihiv, Borzny, Ichny....",
     "title_uk": "Чернігів: Чернігівська область: БпЛА в напрямку Чернігова, Борзного, Ічні....",
@@ -86,7 +158,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8998",
     "score": 5.0,
-    "views": 363,
+    "views": 416,
     "forwards": 6
   },
   {
@@ -104,8 +176,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23495",
     "score": 6.5,
-    "views": 73880,
-    "forwards": 258
+    "views": 78759,
+    "forwards": 263
   },
   {
     "title": "Kyiv: Lithuanian PM Ruginiene: The urgent case for returning Ukraine's...",
@@ -140,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18956",
     "score": 7.5,
-    "views": 69070,
-    "forwards": 224
+    "views": 71638,
+    "forwards": 226
   },
   {
     "title": "Now our coalition for the return of Ukrainian children is truly...",
@@ -158,7 +230,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18955",
     "score": 5.5,
-    "views": 51483,
+    "views": 52988,
     "forwards": 84
   },
   {
@@ -194,8 +266,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8997",
     "score": 5.0,
-    "views": 759,
-    "forwards": 6
+    "views": 777,
+    "forwards": 7
   },
   {
     "title": "In the conditions of the enemy's numerical advantage, the question of...",
@@ -212,7 +284,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38518",
     "score": 10.0,
-    "views": 3798,
+    "views": 3832,
     "forwards": 4
   },
   {
@@ -232,24 +304,6 @@
     "score": 4.5,
     "views": 113336,
     "forwards": 214
-  },
-  {
-    "title": "🤝Ukraine and Germany are launching joint production of long-range...",
-    "title_en": "🤝Ukraine and Germany are launching joint production of long-range...",
-    "title_uk": "🤝Україна та Німеччина запускають спільне виробництво далекобійних...",
-    "description": "🤝Ukraine and Germany are launching joint production of long-range drones with a radius of up to 1,500 km. This was announced by Boris Pistorius during his visit to Kyiv. In addition, the countries signed a letter of intent to launch Brave Germany — a joint program to develop defense technologies and support innovative startups.",
-    "description_en": "🤝Ukraine and Germany are launching joint production of long-range drones with a radius of up to 1,500 km. This was announced by Boris Pistorius during his visit to Kyiv. In addition, the countries signed a letter of intent to launch Brave Germany — a joint program to develop defense technologies and support innovative startups.",
-    "description_uk": "🤝Украина и Германия запускают совместное производство дальнобойных дронов с радиусом до 1500 км Об этом сообщил Борис Писториус во время визита в Киев. Кроме того, страны подписали письмо о намерениях по запуску Brave Germany — совместной программы по развитию оборонных технологий и поддержке инновационных стартапов.",
-    "time": "",
-    "pubDate": "2026-05-11T12:57:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/191219",
-    "score": 9.5,
-    "views": 117597,
-    "forwards": 256
   },
   {
     "title": "Kyiv: UK sanctions Russia over deportation of Ukrainian children, Armenian...",
@@ -284,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38509",
     "score": 5.0,
-    "views": 4731,
+    "views": 4742,
     "forwards": 13
   },
   {
