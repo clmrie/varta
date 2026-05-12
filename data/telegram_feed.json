@@ -1,5 +1,77 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "Enemy UAV groups in Dnipropetrovsk region, heading for Pavlograd 🛵 UAV group in Kharkiv region in Barvinkovo ​​region",
+    "description_en": "Enemy UAV groups in Dnipropetrovsk region, heading for Pavlograd 🛵 UAV group in Kharkiv region in Barvinkovo ​​region",
+    "description_uk": "Групи ворожих БпЛА на Дніпропетровщині, курсом на Павлоград 🛵 Група БпЛА на Харківщині в районі Барвінкове",
+    "time": "",
+    "pubDate": "2026-05-12T20:39:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61674",
+    "score": 6.0,
+    "views": 17204,
+    "forwards": 1
+  },
+  {
+    "title": "A group of enemy UAVs in Donetsk region in the Svyatogorsk region",
+    "title_en": "A group of enemy UAVs in Donetsk region in the Svyatogorsk region",
+    "title_uk": "Група ворожих БПЛА на Донеччині в районі Святогірська",
+    "description": "A group of enemy UAVs in Donetsk region in the Svyatogorsk region",
+    "description_en": "A group of enemy UAVs in Donetsk region in the Svyatogorsk region",
+    "description_uk": "Група ворожих БпЛА на Донеччині в районі Святогорська",
+    "time": "",
+    "pubDate": "2026-05-12T20:24:17+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Donetsk",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61673",
+    "score": 5.0,
+    "views": 29982,
+    "forwards": 1
+  },
+  {
+    "title": "Kryvyi Rih: Casualties reported",
+    "title_en": "Kryvyi Rih: Casualties reported",
+    "title_uk": "Кривий Ріг: повідомляється про постраждалих",
+    "description": "Russia strikes Kryvyi Rih day after ceasefire ends, killing 2. Two people were killed and four others injured, including a 9-month-old girl hospitalized in critical condition, local authorities said.",
+    "description_en": "Russia strikes Kryvyi Rih day after ceasefire ends, killing 2. Two people were killed and four others injured, including a 9-month-old girl hospitalized in critical condition, local authorities said.",
+    "description_uk": "Russia strikes Kryvyi Rih day after ceasefire ends, killing 2. Two people were killed and four others injured, including a 9-month-old girl hospitalized in critical condition, local authorities said.",
+    "time": "",
+    "pubDate": "2026-05-12T20:22:57+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kryvyi Rih",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53079",
+    "score": 6.0,
+    "views": 388,
+    "forwards": 0
+  },
+  {
+    "title": "Poland and France are more active than anyone else in opposing...",
+    "title_en": "Poland and France are more active than anyone else in opposing...",
+    "title_uk": "Польща та Франція активніше за інших протистоять...",
+    "description": "Poland and France are more active than anyone else in opposing Ukraine's rapid advancement into the EU, - mass media \"Radio Liberty\" journalist Rikard Jozwiak writes that it is Poland and France that are most actively opposing the opening of several negotiation clusters at once. The countries insist on opening only one cluster in June - \"Basics\", which includes issues of justice, fundamental rights and state...",
+    "description_en": "Poland and France are more active than anyone else in opposing Ukraine's rapid advancement into the EU, - mass media \"Radio Liberty\" journalist Rikard Jozwiak writes that it is Poland and France that are most actively opposing the opening of several negotiation clusters at once. The countries insist on opening only one cluster in June - \"Basics\", which includes issues of justice, fundamental rights and state...",
+    "description_uk": "Польша и Франция активнее всех противятся быстрому продвижению Украины в ЕС, — СМИ Журналист «Радио Свобода» Рикард Джозвяк пишет, что именно Польша и Франция наиболее активно сопротивляются открытию сразу нескольких переговорных кластеров. Страны настаивают на том, чтобы в июне открыть только один кластер — «Основы», который включает вопросы правосудия, основных прав и государственного...",
+    "time": "",
+    "pubDate": "2026-05-12T19:42:01+00:00",
+    "category": "political",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/191312",
+    "score": 5.5,
+    "views": 59009,
+    "forwards": 117
+  },
+  {
     "title": "Kyiv: Drone strike near civilians",
     "title_en": "Kyiv: Drone strike near civilians",
     "title_uk": "Київ: удар безпілотників поблизу мирних жителів",
@@ -14,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53076",
     "score": 9.0,
-    "views": 525,
+    "views": 1184,
     "forwards": 1
   },
   {
@@ -32,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18983",
     "score": 6.5,
-    "views": 72004,
-    "forwards": 254
+    "views": 105970,
+    "forwards": 323
   },
   {
     "title": "Kyiv: 'She told us we're Russian': Abducted Ukrainian teen on meeting...",
@@ -86,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191300",
     "score": 3.5,
-    "views": 116156,
-    "forwards": 106
+    "views": 139026,
+    "forwards": 108
   },
   {
     "title": "Kyiv: New Russia sanctions feature individuals exposed in Kyiv Independent...",
@@ -122,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18980",
     "score": 10.5,
-    "views": 40978,
-    "forwards": 68
+    "views": 45960,
+    "forwards": 69
   },
   {
     "title": "🇩🇪 Rheinmetall begins serial production of the FV-014 kamikaze drone...",
@@ -140,8 +212,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23498",
     "score": 9.5,
-    "views": 87213,
-    "forwards": 249
+    "views": 96988,
+    "forwards": 264
   },
   {
     "title": "Pokrovsk: Energy infrastructure hit",
@@ -158,8 +230,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38561",
     "score": 6.5,
-    "views": 17871,
-    "forwards": 86
+    "views": 21339,
+    "forwards": 88
   },
   {
     "title": "Donetsk: Attack attack",
@@ -284,44 +356,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38545",
     "score": 8.0,
-    "views": 4409,
+    "views": 4518,
     "forwards": 19
-  },
-  {
-    "title": "Dnipro: Dnipropetrovsk region - BpLA heading for Petropavlivka from the...",
-    "title_en": "Dnipro: Dnipropetrovsk region - BpLA heading for Petropavlivka from the...",
-    "title_uk": "Дніпро: Дніпропетровська область - BpLA курс на Петропавлівку з...",
-    "description": "Dnipropetrovsk region - BpLA heading for Petropavlivka from the southeast.",
-    "description_en": "Dnipropetrovsk region - BpLA heading for Petropavlivka from the southeast.",
-    "description_uk": "Дніпропетровщина - БпЛА курсом на Петропавлівку з південного сходу.",
-    "time": "",
-    "pubDate": "2026-05-12T07:39:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61653",
-    "score": 6.0,
-    "views": 69514,
-    "forwards": 16
-  },
-  {
-    "title": "Kharkiv: 🛸 BpLA ➡️ heading for Sumy, Kharkiv.",
-    "title_en": "Kharkiv: 🛸 BpLA ➡️ heading for Sumy, Kharkiv.",
-    "title_uk": "Харків: 🛸 BpLA ➡️ прямує на Суми, Харків.",
-    "description": "🛸 BpLA ➡️ heading for Sumy, Kharkiv.",
-    "description_en": "🛸 BpLA ➡️ heading for Sumy, Kharkiv.",
-    "description_uk": "🛸 БпЛА ➡️ курсом на Суми, Харків.",
-    "time": "",
-    "pubDate": "2026-05-12T07:23:24+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61652",
-    "score": 6.0,
-    "views": 77950,
-    "forwards": 11
   },
   {
     "title": "Donetsk: Drone incoming",
@@ -394,23 +430,5 @@
     "score": 5.0,
     "views": 1110,
     "forwards": 3
-  },
-  {
-    "title": "In Brussels, Minister of Foreign Affairs Andrii Sybiga took part in a...",
-    "title_en": "In Brussels, Minister of Foreign Affairs Andrii Sybiga took part in a...",
-    "title_uk": "У Брюсселі міністр закордонних справ Андрій Сибіга взяв участь у...",
-    "description": "In Brussels, Minister of Foreign Affairs Andrii Sybiga took part in a high-level meeting of the International Coalition for the Return of Ukrainian Children, which took place on the sidelines of the meeting of the Council of Foreign Ministers of the EU. The event was co-organized by the European Union, Ukraine and Canada. The meeting was attended by Canada's Minister of Foreign Affairs Anita Annand, Head of EU Diplomacy Kaya Callas,...",
-    "description_en": "In Brussels, Minister of Foreign Affairs Andrii Sybiga took part in a high-level meeting of the International Coalition for the Return of Ukrainian Children, which took place on the sidelines of the meeting of the Council of Foreign Ministers of the EU. The event was co-organized by the European Union, Ukraine and Canada. The meeting was attended by Canada's Minister of Foreign Affairs Anita Annand, Head of EU Diplomacy Kaya Callas,...",
-    "description_uk": "У Брюсселі міністр закордонних справ Андрій Сибіга взяв участь у зустрічі високого рівня Міжнародної коаліції за повернення українських дітей, яка відбулася на полях засідання Ради міністрів закордонних справ ЄС. Співорганізаторами заходу виступили Європейський Союз, Україна та Канада. У зустрічі взяли участь міністерка закордонних справ Канади Аніта Аннанд, глава дипломатії ЄС Кая Каллас,...",
-    "time": "",
-    "pubDate": "2026-05-11T20:23:47+00:00",
-    "category": "political",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/8998",
-    "score": 5.0,
-    "views": 1030,
-    "forwards": 15
   }
 ]
