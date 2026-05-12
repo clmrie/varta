@@ -1,11 +1,47 @@
 [
   {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "A new group of BpLA from the Kursk region, Russian Federation ➡️ to Sumy Oblast. 🛵 BpLA in the center, in the west of Sumy Oblast ➡️ heading west. 🛵 UAV in the east of Chernihiv Oblast ➡️ heading for Nizhyn, Pryluky. 🛵 BpLA group in the south of Kyiv Oblast ➡️ heading for Vinnytsia Oblast. 🛵🛸 BpLA from the south ➡️ course to Zaporizhzhia.",
+    "description_en": "A new group of BpLA from the Kursk region, Russian Federation ➡️ to Sumy Oblast. 🛵 BpLA in the center, in the west of Sumy Oblast ➡️ heading west. 🛵 UAV in the east of Chernihiv Oblast ➡️ heading for Nizhyn, Pryluky. 🛵 BpLA group in the south of Kyiv Oblast ➡️ heading for Vinnytsia Oblast. 🛵🛸 BpLA from the south ➡️ course to Zaporizhzhia.",
+    "description_uk": "Нова група БпЛА з Курської обл., рф ➡️ на Сумщину. 🛵 БпЛА в центрі, на заході Сумщини ➡️ курсом на захід. 🛵 БпЛА на сході Чернігівщини ➡️ курсом на Ніжин, Прилуки. 🛵 Група БпЛА на півдні Київщини ➡️ курсом на Вінниччину. 🛵🛸 БпЛА з півдня ➡️ курсом на Запоріжжя.",
+    "time": "",
+    "pubDate": "2026-05-12T04:40:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61637",
+    "score": 6.5,
+    "views": 33253,
+    "forwards": 70
+  },
+  {
+    "title": "Dnipro: A new group of BpLA from the Kursk region, Russian Federation ➡️ to...",
+    "title_en": "Dnipro: A new group of BpLA from the Kursk region, Russian Federation ➡️ to...",
+    "title_uk": "Дніпро: Нова група BpLA з Курської області, РФ ➡️ до...",
+    "description": "A new group of BpLA from the Kursk region, Russian Federation ➡️ to Sumy Oblast. 🛵 BpLA in the south of Kyiv region ➡️ heading for Pereyaslav. 🛵 BpLA group in the north of Cherkasy region ➡️ heading southwest. 🛵 BpLA in the west of Dnipropetrovsk region ➡️ heading for the Dnipro.",
+    "description_en": "A new group of BpLA from the Kursk region, Russian Federation ➡️ to Sumy Oblast. 🛵 BpLA in the south of Kyiv region ➡️ heading for Pereyaslav. 🛵 BpLA group in the north of Cherkasy region ➡️ heading southwest. 🛵 BpLA in the west of Dnipropetrovsk region ➡️ heading for the Dnipro.",
+    "description_uk": "Нова група БпЛА з Курської обл., рф ➡️ на Сумщину. 🛵 БпЛА на півдні Київщини ➡️ курсом на Переяслав. 🛵 Група БпЛА на півночі Черкащини ➡️ курсом на південний захід. 🛵 БпЛА на заході Дніпропетровщини ➡️ курсом на Дніпро.",
+    "time": "",
+    "pubDate": "2026-05-12T03:55:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61636",
+    "score": 6.5,
+    "views": 68627,
+    "forwards": 71
+  },
+  {
     "title": "Kyiv: Drone strike",
     "title_en": "Kyiv: Drone strike",
     "title_uk": "Київ: Дрон-удар",
-    "description": "As ceasefire ends, Russian drone strikes residential building in Kyiv. Russian forces resumes their attacks on Kyiv overnight on May 12, launching dozens of drones towards the capital and hitting a residential building in the city, local officials reported.",
-    "description_en": "As ceasefire ends, Russian drone strikes residential building in Kyiv. Russian forces resumes their attacks on Kyiv overnight on May 12, launching dozens of drones towards the capital and hitting a residential building in the city, local officials reported.",
-    "description_uk": "As ceasefire ends, Russian drone strikes residential building in Kyiv. Russian forces resumes their attacks on Kyiv overnight on May 12, launching dozens of drones towards the capital and hitting a residential building in the city, local officials reported.",
+    "description": "As ceasefire ends, Russian drone strikes residential building in Kyiv. Russian forces resumed their attacks on Kyiv overnight on May 12, launching dozens of drones towards the capital and hitting a residential building in the city, local officials reported.",
+    "description_en": "As ceasefire ends, Russian drone strikes residential building in Kyiv. Russian forces resumed their attacks on Kyiv overnight on May 12, launching dozens of drones towards the capital and hitting a residential building in the city, local officials reported.",
+    "description_uk": "As ceasefire ends, Russian drone strikes residential building in Kyiv. Russian forces resumed their attacks on Kyiv overnight on May 12, launching dozens of drones towards the capital and hitting a residential building in the city, local officials reported.",
     "time": "",
     "pubDate": "2026-05-12T01:26:17+00:00",
     "category": "drone",
@@ -14,13 +50,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53064",
     "score": 13.0,
-    "views": 1,
-    "forwards": 0
+    "views": 939,
+    "forwards": 3
   },
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
+    "title_uk": "Київ: повідомляється про вибухи",
     "description": "Explosions reported in Kyiv. Explosions were heard in Kyiv around 3:35 a.m. local time, according to a Kyiv Independent journalist on the ground, amid reports of Russian drones approaching the capital.",
     "description_en": "Explosions reported in Kyiv. Explosions were heard in Kyiv around 3:35 a.m. local time, according to a Kyiv Independent journalist on the ground, amid reports of Russian drones approaching the capital.",
     "description_uk": "Explosions reported in Kyiv. Explosions were heard in Kyiv around 3:35 a.m. local time, according to a Kyiv Independent journalist on the ground, amid reports of Russian drones approaching the capital.",
@@ -32,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53063",
     "score": 5.0,
-    "views": 350,
-    "forwards": 2
+    "views": 1110,
+    "forwards": 3
   },
   {
     "title": "Kyiv: Drone incoming",
@@ -158,8 +194,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8998",
     "score": 5.0,
-    "views": 416,
-    "forwards": 6
+    "views": 587,
+    "forwards": 8
   },
   {
     "title": "Casualties reported",
@@ -176,8 +212,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23495",
     "score": 6.5,
-    "views": 78759,
-    "forwards": 263
+    "views": 106519,
+    "forwards": 302
   },
   {
     "title": "Kyiv: Lithuanian PM Ruginiene: The urgent case for returning Ukraine's...",
@@ -212,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18956",
     "score": 7.5,
-    "views": 71638,
-    "forwards": 226
+    "views": 94897,
+    "forwards": 250
   },
   {
     "title": "Now our coalition for the return of Ukrainian children is truly...",
@@ -230,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18955",
     "score": 5.5,
-    "views": 52988,
-    "forwards": 84
+    "views": 60618,
+    "forwards": 94
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -266,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/8997",
     "score": 5.0,
-    "views": 777,
+    "views": 857,
     "forwards": 7
   },
   {
@@ -284,26 +320,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38518",
     "score": 10.0,
-    "views": 3832,
+    "views": 4200,
     "forwards": 4
-  },
-  {
-    "title": "Missile attack",
-    "title_en": "Missile attack",
-    "title_uk": "Ракетна атака",
-    "description": "Fedorov stated that Ukraine already has an analogue of the Taurus missile \"If we are talking about the Taurus, then of course we now have missiles that operate at a similar and greater distance,\" the Minister of Defense noted at a briefing with his German colleague Boris Pistorius in Kyiv. He also added that Ukraine is gaining independence in terms of means of strikes: \"We have all seen strikes on the Russian Federation at a distance of 1,500 km. And therefore...",
-    "description_en": "Fedorov stated that Ukraine already has an analogue of the Taurus missile \"If we are talking about the Taurus, then of course we now have missiles that operate at a similar and greater distance,\" the Minister of Defense noted at a briefing with his German colleague Boris Pistorius in Kyiv. He also added that Ukraine is gaining independence in terms of means of strikes: \"We have all seen strikes on the Russian Federation at a distance of 1,500 km. And therefore...",
-    "description_uk": "Федоров заявил, что у Украины уже есть аналог ракет Taurus «Если говорить о Taurus, то конечно, у нас сейчас уже есть ракеты, которые работают на дистанции схожей и больше», — отметил Министр обороны на брифинге с немецким коллегой Борисом Писториусом в Киеве. Также он добавил, что Украина получает независимость в плане средств ударов по рашке: «Мы все видели удары по рф на 1500 км. И поэтому...",
-    "time": "",
-    "pubDate": "2026-05-11T13:27:21+00:00",
-    "category": "missile",
-    "severity": "medium",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/191221",
-    "score": 4.5,
-    "views": 113336,
-    "forwards": 214
   },
   {
     "title": "Kyiv: UK sanctions Russia over deportation of Ukrainian children, Armenian...",
@@ -324,11 +342,11 @@
     "forwards": 3
   },
   {
-    "title": "Work in the Kostyantynivsky direction",
-    "title_en": "Work in the Kostyantynivsky direction",
+    "title": "Work in the Kostyantyniv direction",
+    "title_en": "Work in the Kostyantyniv direction",
     "title_uk": "Робота в Костянтинівському напрямку",
-    "description": "Work in the Kostyantynivsky direction",
-    "description_en": "Work in the Kostyantynivsky direction",
+    "description": "Work in the Kostyantyniv direction",
+    "description_en": "Work in the Kostyantyniv direction",
     "description_uk": "Робота на Костянтинівському напрямку",
     "time": "",
     "pubDate": "2026-05-11T10:50:51+00:00",
@@ -338,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38509",
     "score": 5.0,
-    "views": 4742,
+    "views": 4936,
     "forwards": 13
   },
   {
