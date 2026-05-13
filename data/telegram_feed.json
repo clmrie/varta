@@ -1,5 +1,23 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "Groups of enemy UAVs from the Kherson region to the Mykolaiv region in the northern direction.",
+    "description_en": "Groups of enemy UAVs from the Kherson region to the Mykolaiv region in the northern direction.",
+    "description_uk": "Групи ворожих БпЛА з Херсонщини на Миколаївщину у північному напрямку.",
+    "time": "",
+    "pubDate": "2026-05-13T22:11:54+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61798",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: 14 killed, 80 injured",
     "title_en": "Kyiv: 14 killed, 80 injured",
     "title_uk": "Київ: 14 загиблих, 80 поранених",
@@ -14,8 +32,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53101",
     "score": 21.5,
-    "views": 679,
-    "forwards": 5
+    "views": 1139,
+    "forwards": 6
   },
   {
     "title": "Airstrike attack",
@@ -32,8 +50,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191394",
     "score": 6.5,
-    "views": 71276,
-    "forwards": 213
+    "views": 90057,
+    "forwards": 247
   },
   {
     "title": "260 drones launched",
@@ -50,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191391",
     "score": 4.5,
-    "views": 97996,
-    "forwards": 353
+    "views": 113351,
+    "forwards": 354
   },
   {
     "title": "Mykolaiv: Enemy BpLA from Kherson Region to Mykolaiv Region.",
@@ -86,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53100",
     "score": 6.0,
-    "views": 1291,
-    "forwards": 4
+    "views": 1594,
+    "forwards": 5
   },
   {
     "title": "🛫Activity of enemy tactical aviation in the north-eastern and...",
@@ -122,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19019",
     "score": 6.5,
-    "views": 99823,
-    "forwards": 306
+    "views": 106026,
+    "forwards": 307
   },
   {
     "title": "In Russia, the factory that produces \"Comet\" antennas has...",
@@ -194,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9032",
     "score": 6.0,
-    "views": 663,
+    "views": 687,
     "forwards": 5
   },
   {
@@ -302,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38600",
     "score": 12.0,
-    "views": 6414,
+    "views": 6551,
     "forwards": 43
   },
   {
@@ -320,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19004",
     "score": 19.5,
-    "views": 364566,
-    "forwards": 561
+    "views": 369598,
+    "forwards": 572
   },
   {
     "title": "Kherson: Ballistic missile launch detected",
@@ -430,23 +448,5 @@
     "score": 10.5,
     "views": 89657,
     "forwards": 218
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Дрон вхід",
-    "description": "Kyiv - enemy UAVs in the direction of the city from the north.",
-    "description_en": "Kyiv - enemy UAVs in the direction of the city from the north.",
-    "description_uk": "Київ - ворожі БпЛА в напрямку міста з півночі.",
-    "time": "",
-    "pubDate": "2026-05-13T09:28:18+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61741",
-    "score": 6.5,
-    "views": 93908,
-    "forwards": 69
   }
 ]
