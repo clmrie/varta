@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "Enemy UAVs on Kharkiv from the north.",
+    "description_en": "Enemy UAVs on Kharkiv from the north.",
+    "description_uk": "Ворожі БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-05-13T00:04:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61683",
+    "score": 6.0,
+    "views": 3424,
+    "forwards": 5
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61681",
     "score": 5.0,
-    "views": 19232,
+    "views": 25950,
     "forwards": 26
   },
   {
@@ -33,24 +51,6 @@
     "link": "https://t.me/kpszsu/61680",
     "score": 5.0,
     "views": 24607,
-    "forwards": 1
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "Enemy UAV groups in Dnipropetrovsk region, heading for Pavlograd 🛵 UAV group in Kharkiv region in Barvinkovo ​​region",
-    "description_en": "Enemy UAV groups in Dnipropetrovsk region, heading for Pavlograd 🛵 UAV group in Kharkiv region in Barvinkovo ​​region",
-    "description_uk": "Групи ворожих БпЛА на Дніпропетровщині, курсом на Павлоград 🛵 Група БпЛА на Харківщині в районі Барвінкове",
-    "time": "",
-    "pubDate": "2026-05-12T20:39:51+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61674",
-    "score": 6.0,
-    "views": 17204,
     "forwards": 1
   },
   {
@@ -86,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53079",
     "score": 6.0,
-    "views": 999,
+    "views": 1151,
     "forwards": 2
   },
   {
@@ -104,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191312",
     "score": 5.5,
-    "views": 86217,
-    "forwards": 164
+    "views": 90799,
+    "forwards": 169
   },
   {
     "title": "Kyiv: Drone strike near civilians",
@@ -122,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53076",
     "score": 9.0,
-    "views": 1524,
-    "forwards": 1
+    "views": 1605,
+    "forwards": 2
   },
   {
     "title": "Casualties reported",
@@ -140,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18983",
     "score": 6.5,
-    "views": 118457,
-    "forwards": 338
+    "views": 120188,
+    "forwards": 340
   },
   {
     "title": "Kyiv: 'She told us we're Russian': Abducted Ukrainian teen on meeting...",
@@ -194,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191300",
     "score": 3.5,
-    "views": 150711,
-    "forwards": 132
+    "views": 152861,
+    "forwards": 133
   },
   {
     "title": "Kyiv: New Russia sanctions feature individuals exposed in Kyiv Independent...",
@@ -230,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18980",
     "score": 10.5,
-    "views": 48216,
-    "forwards": 71
+    "views": 48533,
+    "forwards": 72
   },
   {
     "title": "🇩🇪 Rheinmetall begins serial production of the FV-014 kamikaze drone...",
@@ -248,8 +248,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23498",
     "score": 9.5,
-    "views": 102030,
-    "forwards": 276
+    "views": 102798,
+    "forwards": 277
   },
   {
     "title": "Pokrovsk: Energy infrastructure hit",
@@ -266,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38561",
     "score": 6.5,
-    "views": 22752,
+    "views": 22935,
     "forwards": 88
   },
   {
@@ -324,24 +324,6 @@
     "forwards": 1
   },
   {
-    "title": "🛬Activity of enemy tactical aviation in the south-eastern direction....",
-    "title_en": "🛬Activity of enemy tactical aviation in the south-eastern direction....",
-    "title_uk": "🛬Діяльність тактичної авіації противника на південно-східному напрямку....",
-    "description": "🛬Activity of enemy tactical aviation in the south-eastern direction. The use of aviation means of destruction!",
-    "description_en": "🛬Activity of enemy tactical aviation in the south-eastern direction. The use of aviation means of destruction!",
-    "description_uk": "🛬Активність ворожої тактичної авіації на південно-східному напрямку. Застосування авіаційних засобів ураження!",
-    "time": "",
-    "pubDate": "2026-05-12T11:47:13+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61656",
-    "score": 5.0,
-    "views": 33308,
-    "forwards": 0
-  },
-  {
     "title": "Drone strike",
     "title_en": "Drone strike",
     "title_uk": "Безпілотний удар",
@@ -356,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38545",
     "score": 8.0,
-    "views": 4573,
+    "views": 4586,
     "forwards": 19
   },
   {
