@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: 14 killed, 80 injured",
+    "title_en": "Kyiv: 14 killed, 80 injured",
+    "title_uk": "Київ: 14 загиблих, 80 поранених",
+    "description": "Update: At least 14 killed, over 80 injured in one of 'longest mass attacks' of Russia's war against Ukraine. Russian forces launched hundreds of drones across Ukraine on the afternoon of May 13, targeting regions far from the front lines and damaging homes, critical infrastructure, and energy facilities across the country. Photo: Svilana Olynshchuk / Telegram",
+    "description_en": "Update: At least 14 killed, over 80 injured in one of 'longest mass attacks' of Russia's war against Ukraine. Russian forces launched hundreds of drones across Ukraine on the afternoon of May 13, targeting regions far from the front lines and damaging homes, critical infrastructure, and energy facilities across the country. Photo: Svilana Olynshchuk / Telegram",
+    "description_uk": "Update: At least 14 killed, over 80 injured in one of 'longest mass attacks' of Russia's war against Ukraine. Russian forces launched hundreds of drones across Ukraine on the afternoon of May 13, targeting regions far from the front lines and damaging homes, critical infrastructure, and energy facilities across the country. Photo: Svilana Olynshchuk / Telegram",
+    "time": "",
+    "pubDate": "2026-05-13T20:08:32+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53101",
+    "score": 21.5,
+    "views": 679,
+    "forwards": 5
+  },
+  {
+    "title": "Airstrike attack",
+    "title_en": "Airstrike attack",
+    "title_uk": "Авіаційна атака",
+    "description": "Monitors: The massive attack of \"Shakhedov\" has started again - the Russian Federation has carried out launches from many directions, in several waves. The takeoff of a group of Tu-95MS strategic bombers was recorded.",
+    "description_en": "Monitors: The massive attack of \"Shakhedov\" has started again - the Russian Federation has carried out launches from many directions, in several waves. The takeoff of a group of Tu-95MS strategic bombers was recorded.",
+    "description_uk": "Мониторы: Массированная атака \"Шахедов\" вновь началась - РФ осуществила запуски со многих направлений, в несколько волн. Зафиксирован взлет группы стратегических бомбардировщиков Ту-95МС.",
+    "time": "",
+    "pubDate": "2026-05-13T19:44:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/191394",
+    "score": 6.5,
+    "views": 71276,
+    "forwards": 213
+  },
+  {
     "title": "260 drones launched",
     "title_en": "260 drones launched",
     "title_uk": "Запущено 260 дронів",
@@ -13,9 +49,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191391",
-    "score": 3.5,
-    "views": 27682,
-    "forwards": 178
+    "score": 4.5,
+    "views": 97996,
+    "forwards": 353
   },
   {
     "title": "Mykolaiv: Enemy BpLA from Kherson Region to Mykolaiv Region.",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53100",
     "score": 6.0,
-    "views": 459,
-    "forwards": 2
+    "views": 1291,
+    "forwards": 4
   },
   {
     "title": "🛫Activity of enemy tactical aviation in the north-eastern and...",
@@ -86,8 +122,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19019",
     "score": 6.5,
-    "views": 69474,
-    "forwards": 248
+    "views": 99823,
+    "forwards": 306
   },
   {
     "title": "In Russia, the factory that produces \"Comet\" antennas has...",
@@ -158,7 +194,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9032",
     "score": 6.0,
-    "views": 574,
+    "views": 663,
     "forwards": 5
   },
   {
@@ -266,8 +302,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38600",
     "score": 12.0,
-    "views": 6038,
-    "forwards": 41
+    "views": 6414,
+    "forwards": 43
   },
   {
     "title": "Mykolaiv: Attack attack on residential area",
@@ -284,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19004",
     "score": 19.5,
-    "views": 344325,
-    "forwards": 526
+    "views": 364566,
+    "forwards": 561
   },
   {
     "title": "Kherson: Ballistic missile launch detected",
@@ -412,41 +448,5 @@
     "score": 6.5,
     "views": 93908,
     "forwards": 69
-  },
-  {
-    "title": "Kyiv: 200 drones launched",
-    "title_en": "Kyiv: 200 drones launched",
-    "title_uk": "Київ: запущено 200 безпілотників",
-    "description": "Breaking: Russia launches daytime mass attack with over 200 drones on Ukraine. Air raid alerts rang out across Ukraine as a massive swarm of attack drones crossed the Russian border shortly after 11:00 a.m. local time.",
-    "description_en": "Breaking: Russia launches daytime mass attack with over 200 drones on Ukraine. Air raid alerts rang out across Ukraine as a massive swarm of attack drones crossed the Russian border shortly after 11:00 a.m. local time.",
-    "description_uk": "Breaking: Russia launches daytime mass attack with over 200 drones on Ukraine. Air raid alerts rang out across Ukraine as a massive swarm of attack drones crossed the Russian border shortly after 11:00 a.m. local time.",
-    "time": "",
-    "pubDate": "2026-05-13T09:15:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53087",
-    "score": 9.0,
-    "views": 1404,
-    "forwards": 4
-  },
-  {
-    "title": "5️⃣6️⃣Russia has changed the tactics of using \"Shakhedov\", - Flash...",
-    "title_en": "5️⃣6️⃣Russia has changed the tactics of using \"Shakhedov\", - Flash...",
-    "title_uk": "5️⃣6️⃣Росія змінила тактику використання \"Шахедова\", - Flash...",
-    "description": "5️⃣6️⃣Russia has changed the tactics of using \"Shakhedov\", - Flash According to the adviser to the Minister of Defense Sergei Beskrestny, this time the drones are moving along the border with Belarus at a distance of 5-10 km, literally one by one and in large groups. In this way, Russia is trying to overload the air defense system so that as many drones as possible can break into the depths of the country.",
-    "description_en": "5️⃣6️⃣Russia has changed the tactics of using \"Shakhedov\", - Flash According to the adviser to the Minister of Defense Sergei Beskrestny, this time the drones are moving along the border with Belarus at a distance of 5-10 km, literally one by one and in large groups. In this way, Russia is trying to overload the air defense system so that as many drones as possible can break into the depths of the country.",
-    "description_uk": "5️⃣6️⃣русня изменила тактику применения «Шахедов», — Флэш По словам советника министра обороны Сергея Бескрестного, на этот раз дроны движутся вдоль границы с Беларусью на расстоянии 5-10 км, буквально один за другим и сразу большими группами. Таким образом русня пытается перегрузить систему ПВО, чтобы как можно больше беспилотников смогли прорваться вглубь страны.",
-    "time": "",
-    "pubDate": "2026-05-13T09:11:18+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/191338",
-    "score": 8.5,
-    "views": 67603,
-    "forwards": 105
   }
 ]
