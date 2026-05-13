@@ -1,5 +1,77 @@
 [
   {
+    "title": "Rivne region - BpLA on the outskirts of Dubno.",
+    "title_en": "Rivne region - BpLA on the outskirts of Dubno.",
+    "title_uk": "Рівненська область – БпЛА на околиці Дубно.",
+    "description": "Rivne region - BpLA on the outskirts of Dubno.",
+    "description_en": "Rivne region - BpLA on the outskirts of Dubno.",
+    "description_uk": "Рівненщина - БпЛА на околицях Дубно.",
+    "time": "",
+    "pubDate": "2026-05-13T11:49:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Rivne",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61756",
+    "score": 5.0,
+    "views": 81918,
+    "forwards": 35
+  },
+  {
+    "title": "Volyn region - BpLA on Kovel.",
+    "title_en": "Volyn region - BpLA on Kovel.",
+    "title_uk": "Волинська область - БпЛА на Ковелі.",
+    "description": "Volyn region - BpLA on Kovel.",
+    "description_en": "Volyn region - BpLA on Kovel.",
+    "description_uk": "Волинська область - БпЛА на Ковель.",
+    "time": "",
+    "pubDate": "2026-05-13T11:46:03+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61755",
+    "score": 5.0,
+    "views": 99201,
+    "forwards": 35
+  },
+  {
+    "title": "Attack attack",
+    "title_en": "Attack attack",
+    "title_uk": "Атака нападу",
+    "description": "Still shots of the strikes on Lutsk: the \"arrival\" was just a few meters away from the people",
+    "description_en": "Still shots of the strikes on Lutsk: the \"arrival\" was just a few meters away from the people",
+    "description_uk": "Еще кадры ударов по Луцку: «прилет» был просто в нескольких метрах от людей",
+    "time": "",
+    "pubDate": "2026-05-13T11:12:56+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Lutsk",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/191348",
+    "score": 4.5,
+    "views": 75758,
+    "forwards": 184
+  },
+  {
+    "title": "\"Shahed\" flew into a residential building in Lutsk, - local public...",
+    "title_en": "\"Shahed\" flew into a residential building in Lutsk, - local public...",
+    "title_uk": "\"Шахед\" влетів у житловий будинок у Луцьку, - місцеві громадські...",
+    "description": "\"Shahed\" flew into a residential building in Lutsk, - local public More drones are flying into the city. UPD: they report three deaths in the Rivne region.",
+    "description_en": "\"Shahed\" flew into a residential building in Lutsk, - local public More drones are flying into the city. UPD: they report three deaths in the Rivne region.",
+    "description_uk": "«Шахед» прилетел в жилую застройку в Луцке, — местные паблики На город летят еще дроны. UPD: сообщают о троих погибших в Ровенской области.",
+    "time": "",
+    "pubDate": "2026-05-13T10:53:53+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Lutsk",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/191347",
+    "score": 10.5,
+    "views": 89657,
+    "forwards": 218
+  },
+  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Київ: виявлено пуск балістичної ракети",
@@ -14,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53088",
     "score": 9.5,
-    "views": 71,
+    "views": 1126,
     "forwards": 0
   },
   {
@@ -50,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53087",
     "score": 9.0,
-    "views": 682,
-    "forwards": 3
+    "views": 1404,
+    "forwards": 4
   },
   {
     "title": "5️⃣6️⃣Russia has changed the tactics of using \"Shakhedov\", - Flash...",
@@ -86,8 +158,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38588",
     "score": 10.0,
-    "views": 2412,
-    "forwards": 5
+    "views": 4400,
+    "forwards": 7
   },
   {
     "title": "Zhytomyrshchyna - a group of BpLA on Korosten.",
@@ -140,7 +212,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38577",
     "score": 13.0,
-    "views": 9034,
+    "views": 10037,
     "forwards": 17
   },
   {
@@ -214,24 +286,6 @@
     "score": 4.0,
     "views": 1598,
     "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "Enemy UAVs on Kharkiv from the north.",
-    "description_en": "Enemy UAVs on Kharkiv from the north.",
-    "description_uk": "Ворожі БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-05-13T00:04:13+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61683",
-    "score": 6.0,
-    "views": 3424,
-    "forwards": 5
   },
   {
     "title": "Kryvyi Rih: Casualties reported",
@@ -320,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/18980",
     "score": 10.5,
-    "views": 58139,
+    "views": 61226,
     "forwards": 82
   },
   {
@@ -338,7 +392,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23498",
     "score": 9.5,
-    "views": 146052,
-    "forwards": 313
+    "views": 151292,
+    "forwards": 315
   }
 ]
