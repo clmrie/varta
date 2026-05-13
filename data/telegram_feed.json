@@ -1,5 +1,23 @@
 [
   {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "Groups of enemy UAVs from Dnipropetrovsk region in Poltava region in the direction of Kyiv region.",
+    "description_en": "Groups of enemy UAVs from Dnipropetrovsk region in Poltava region in the direction of Kyiv region.",
+    "description_uk": "Групи ворожих БпЛА з Дніпропетровщини на Полтавщині у напрямку Київщини.",
+    "time": "",
+    "pubDate": "2026-05-13T22:45:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61805",
+    "score": 6.0,
+    "views": 50658,
+    "forwards": 37
+  },
+  {
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Миколаїв: Дрон вхід",
@@ -32,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53101",
     "score": 21.5,
-    "views": 1139,
+    "views": 1420,
     "forwards": 6
   },
   {
@@ -50,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191394",
     "score": 6.5,
-    "views": 90057,
-    "forwards": 247
+    "views": 98897,
+    "forwards": 258
   },
   {
     "title": "260 drones launched",
@@ -68,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191391",
     "score": 4.5,
-    "views": 113351,
-    "forwards": 354
+    "views": 120308,
+    "forwards": 375
   },
   {
     "title": "Mykolaiv: Enemy BpLA from Kherson Region to Mykolaiv Region.",
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53100",
     "score": 6.0,
-    "views": 1594,
+    "views": 1778,
     "forwards": 5
   },
   {
@@ -140,7 +158,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19019",
     "score": 6.5,
-    "views": 106026,
+    "views": 109630,
     "forwards": 307
   },
   {
@@ -212,7 +230,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9032",
     "score": 6.0,
-    "views": 687,
+    "views": 697,
     "forwards": 5
   },
   {
@@ -320,8 +338,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38600",
     "score": 12.0,
-    "views": 6551,
-    "forwards": 43
+    "views": 6603,
+    "forwards": 44
   },
   {
     "title": "Mykolaiv: Attack attack on residential area",
@@ -338,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19004",
     "score": 19.5,
-    "views": 369598,
-    "forwards": 572
+    "views": 372156,
+    "forwards": 575
   },
   {
     "title": "Kherson: Ballistic missile launch detected",
@@ -430,23 +448,5 @@
     "score": 5.0,
     "views": 164735,
     "forwards": 35
-  },
-  {
-    "title": "\"Shahed\" flew into a residential building in Lutsk, - local public...",
-    "title_en": "\"Shahed\" flew into a residential building in Lutsk, - local public...",
-    "title_uk": "\"Шахед\" влетів у житловий будинок у Луцьку, - місцеві громадські...",
-    "description": "\"Shahed\" flew into a residential building in Lutsk, - local public More drones are flying into the city. UPD: they report three deaths in the Rivne region.",
-    "description_en": "\"Shahed\" flew into a residential building in Lutsk, - local public More drones are flying into the city. UPD: they report three deaths in the Rivne region.",
-    "description_uk": "«Шахед» прилетел в жилую застройку в Луцке, — местные паблики На город летят еще дроны. UPD: сообщают о троих погибших в Ровенской области.",
-    "time": "",
-    "pubDate": "2026-05-13T10:53:53+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Lutsk",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/191347",
-    "score": 10.5,
-    "views": 89657,
-    "forwards": 218
   }
 ]
