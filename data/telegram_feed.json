@@ -1,5 +1,77 @@
 [
   {
+    "title": "Sumy: BpLA ➡️ heading for Sumy.",
+    "title_en": "Sumy: BpLA ➡️ heading for Sumy.",
+    "title_uk": "Суми: BpLA ➡️ прямує на Суми.",
+    "description": "BpLA ➡️ heading for Sumy.",
+    "description_en": "BpLA ➡️ heading for Sumy.",
+    "description_uk": "БпЛА ➡️ курсом на Суми.",
+    "time": "",
+    "pubDate": "2026-05-14T16:50:37+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61876",
+    "score": 6.0,
+    "views": 1015,
+    "forwards": 1
+  },
+  {
+    "title": "Odesa: BpLA ➡️ to Odesa, Bilhorod-Dnistrovskyi, Pivdenne.",
+    "title_en": "Odesa: BpLA ➡️ to Odesa, Bilhorod-Dnistrovskyi, Pivdenne.",
+    "title_uk": "Одеса: BpLA ➡️ до Одеси, Білгород-Дністровського, Південного.",
+    "description": "Odesa: BpLA ➡️ to Odesa, Bilhorod-Dnistrovskyi, Pivdenne.",
+    "description_en": "Odesa: BpLA ➡️ to Odesa, Bilhorod-Dnistrovskyi, Pivdenne.",
+    "description_uk": "Одещина: БпЛА ➡️ на Одесу, Білгород-Дністровський, Південне.",
+    "time": "",
+    "pubDate": "2026-05-14T16:48:37+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61875",
+    "score": 5.0,
+    "views": 7079,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Ukraine now has 'strongest, most powerful' military in Europe, Rubio...",
+    "title_en": "Kyiv: Ukraine now has 'strongest, most powerful' military in Europe, Rubio...",
+    "title_uk": "Київ: Україна зараз має «найсильнішу, найпотужнішу» армію в Європі, Рубіо...",
+    "description": "Ukraine now has 'strongest, most powerful' military in Europe, Rubio says \"If you look, the Russians are losing five times as many soldiers a month as the Ukrainians are, and Ukraine is a smaller country and a smaller army for that matter,\" Rubio said.",
+    "description_en": "Ukraine now has 'strongest, most powerful' military in Europe, Rubio says \"If you look, the Russians are losing five times as many soldiers a month as the Ukrainians are, and Ukraine is a smaller country and a smaller army for that matter,\" Rubio said.",
+    "description_uk": "Ukraine now has 'strongest, most powerful' military in Europe, Rubio says \"If you look, the Russians are losing five times as many soldiers a month as the Ukrainians are, and Ukraine is a smaller country and a smaller army for that matter,\" Rubio said.",
+    "time": "",
+    "pubDate": "2026-05-14T16:34:36+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53119",
+    "score": 4.5,
+    "views": 330,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: 44 injured",
+    "title_en": "Kyiv: 44 injured",
+    "title_uk": "Київ: 44 поранених",
+    "description": "Update: Zelensky instructs military to prepare response to Russia's deadly Kyiv attack. Nine people have been confirmed killed, including a 13-year-old child, and another 44 injured.",
+    "description_en": "Update: Zelensky instructs military to prepare response to Russia's deadly Kyiv attack. Nine people have been confirmed killed, including a 13-year-old child, and another 44 injured.",
+    "description_uk": "Update: Zelensky instructs military to prepare response to Russia's deadly Kyiv attack. Nine people have been confirmed killed, including a 13-year-old child, and another 44 injured.",
+    "time": "",
+    "pubDate": "2026-05-14T15:17:04+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53117",
+    "score": 13.0,
+    "views": 929,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: BpLA group ➡️ in the direction of Kryvyi Rih. 🛵 Kharkiv region: BpLA...",
     "title_en": "Kharkiv: BpLA group ➡️ in the direction of Kryvyi Rih. 🛵 Kharkiv region: BpLA...",
     "title_uk": "Харків: BpLA group ➡️ в напрямку Кривого Рогу. 🛵 Харківська область: BpLA...",
@@ -49,9 +121,9 @@
     "location": "Kyiv",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191471",
-    "score": 5.5,
-    "views": 81819,
-    "forwards": 145
+    "score": 6.5,
+    "views": 124971,
+    "forwards": 215
   },
   {
     "title": "Kharkiv: Drone strike",
@@ -67,9 +139,9 @@
     "location": "Kharkiv",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19041",
-    "score": 22.0,
-    "views": 117418,
-    "forwards": 176
+    "score": 23.0,
+    "views": 177337,
+    "forwards": 209
   },
   {
     "title": "Kyiv: Russia 'ripping off' Ukraine's drone forces success, Magyar says. The...",
@@ -122,8 +194,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9035",
     "score": 10.0,
-    "views": 551,
-    "forwards": 5
+    "views": 679,
+    "forwards": 6
   },
   {
     "title": "One of the main qualities of a scout is versatility. You never know...",
@@ -140,7 +212,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38637",
     "score": 5.0,
-    "views": 3526,
+    "views": 4067,
     "forwards": 4
   },
   {
@@ -212,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19031",
     "score": 19.5,
-    "views": 142980,
-    "forwards": 530
+    "views": 159792,
+    "forwards": 553
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -376,77 +448,5 @@
     "score": 13.5,
     "views": 9952,
     "forwards": 61
-  },
-  {
-    "title": "56 missiles + 675 drones intercepted",
-    "title_en": "56 missiles + 675 drones intercepted",
-    "title_uk": "Перехоплено 56 ракет + 675 безпілотників",
-    "description": "That night, the air defense forces shot down 652 out of 675 UAVs and 41 out of 56 missiles, - the Armed Forces of the Ukrainian Armed Forces. Hits were recorded in 24 places, the attack continues.",
-    "description_en": "That night, the air defense forces shot down 652 out of 675 UAVs and 41 out of 56 missiles, - the Armed Forces of the Ukrainian Armed Forces. Hits were recorded in 24 places, the attack continues.",
-    "description_uk": "Этой ночью силы ПВО сбили 652 из 675 БПЛА и 41 из 56 ракет, - ВС ВСУ Зафиксировано попадания в 24 местах, атака продолжается.",
-    "time": "",
-    "pubDate": "2026-05-14T05:11:00+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/191428",
-    "score": 8.0,
-    "views": 1,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Missile launch detected",
-    "title_en": "Kyiv: Missile launch detected",
-    "title_uk": "Київ: Зафіксовано пуск ракети",
-    "description": "Update: 1 killed, 16 injured in Kyiv as Russia's mass daytime attack continues overnight, causing building collapse. One person was killed, and 16 others were injured, with 10 people rescued from under a partially collapsed building in Kyiv overnight on May 14 as Russia launched a large-scale missile attack across Ukraine, extending a mass daytime assault into the night.",
-    "description_en": "Update: 1 killed, 16 injured in Kyiv as Russia's mass daytime attack continues overnight, causing building collapse. One person was killed, and 16 others were injured, with 10 people rescued from under a partially collapsed building in Kyiv overnight on May 14 as Russia launched a large-scale missile attack across Ukraine, extending a mass daytime assault into the night.",
-    "description_uk": "Update: 1 killed, 16 injured in Kyiv as Russia's mass daytime attack continues overnight, causing building collapse. One person was killed, and 16 others were injured, with 10 people rescued from under a partially collapsed building in Kyiv overnight on May 14 as Russia launched a large-scale missile attack across Ukraine, extending a mass daytime assault into the night.",
-    "time": "",
-    "pubDate": "2026-05-14T03:56:31+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53106",
-    "score": 18.0,
-    "views": 644,
-    "forwards": 4
-  },
-  {
-    "title": "Kyiv: Drone strike",
-    "title_en": "Kyiv: Drone strike",
-    "title_uk": "Київ: Дрон-удар",
-    "description": "Update: 4 hospitalized in Kyiv as Russia's mass daytime drone strike becomes large-scale missile attack. In the Darnytskyi district, structural components of a residential building collapsed, and people might be trapped underneath, according to preliminary reports, Kyiv Mayor Vitali Klitschko said. As search operations continue at the site, 10 people have been rescued from the building, the State...",
-    "description_en": "Update: 4 hospitalized in Kyiv as Russia's mass daytime drone strike becomes large-scale missile attack. In the Darnytskyi district, structural components of a residential building collapsed, and people might be trapped underneath, according to preliminary reports, Kyiv Mayor Vitali Klitschko said. As search operations continue at the site, 10 people have been rescued from the building, the State...",
-    "description_uk": "Update: 4 hospitalized in Kyiv as Russia's mass daytime drone strike becomes large-scale missile attack. In the Darnytskyi district, structural components of a residential building collapsed, and people might be trapped underneath, according to preliminary reports, Kyiv Mayor Vitali Klitschko said. As search operations continue at the site, 10 people have been rescued from the building, the State...",
-    "time": "",
-    "pubDate": "2026-05-14T02:42:35+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53105",
-    "score": 13.0,
-    "views": 921,
-    "forwards": 0
-  },
-  {
-    "title": "Rescuers continue to clear debris at the landing site in Darnytsia...",
-    "title_en": "Rescuers continue to clear debris at the landing site in Darnytsia...",
-    "title_uk": "Рятувальники продовжують розбирати завали на місці приземлення на Дарниці...",
-    "description": "Rescuers continue to clear debris at the landing site in Darnytsia district. 10 people were saved. Destruction is recorded in other locations as well. Information about the victims is being clarified",
-    "description_en": "Rescuers continue to clear debris at the landing site in Darnytsia district. 10 people were saved. Destruction is recorded in other locations as well. Information about the victims is being clarified",
-    "description_uk": "Спасатели продолжают разбирать завалы на месте прилета в Дарницком районе. Спасены 10 человек. Разрушения фиксируются и на других локациях. Информация о пострадавших уточняется",
-    "time": "",
-    "pubDate": "2026-05-14T02:30:59+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/191414",
-    "score": 5.5,
-    "views": 115623,
-    "forwards": 286
   }
 ]
