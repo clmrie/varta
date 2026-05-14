@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea ➡️ in the direction of Ochakov.",
+    "description_en": "UAV from the Black Sea ➡️ in the direction of Ochakov.",
+    "description_uk": "БпЛА з Чорного моря ➡️ в напрямку Очакова.",
+    "time": "",
+    "pubDate": "2026-05-14T21:32:55+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61887",
+    "score": 5.0,
+    "views": 9153,
+    "forwards": 2
+  },
+  {
+    "title": "High-speed target heading south of Odesa!",
+    "title_en": "High-speed target heading south of Odesa!",
+    "title_uk": "Швидкісна ціль прямує на південь від Одеси!",
+    "description": "High-speed target heading south of Odesa!",
+    "description_en": "High-speed target heading south of Odesa!",
+    "description_uk": "Швидкісна ціль курсом на південь Одещини!",
+    "time": "",
+    "pubDate": "2026-05-14T21:31:06+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61886",
+    "score": 5.0,
+    "views": 10897,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Харків: Дрон вхід",
@@ -32,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53123",
     "score": 12.5,
-    "views": 462,
+    "views": 999,
     "forwards": 0
   },
   {
@@ -104,7 +140,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19045",
     "score": 8.0,
-    "views": 25511,
+    "views": 30149,
     "forwards": 25
   },
   {
@@ -122,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19044",
     "score": 8.5,
-    "views": 162747,
-    "forwards": 315
+    "views": 175762,
+    "forwards": 320
   },
   {
     "title": "Sumy: BpLA ➡️ heading for Sumy.",
@@ -176,8 +212,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53119",
     "score": 4.5,
-    "views": 1479,
-    "forwards": 1
+    "views": 1676,
+    "forwards": 2
   },
   {
     "title": "Kyiv: 44 injured",
@@ -214,24 +250,6 @@
     "score": 6.0,
     "views": 6072,
     "forwards": 1
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "New UAV groups from the Black Sea ➡️ heading for Odesa.",
-    "description_en": "New UAV groups from the Black Sea ➡️ heading for Odesa.",
-    "description_uk": "Нові групи БпЛА з Чорного моря ➡️ курсом на Одещину.",
-    "time": "",
-    "pubDate": "2026-05-14T14:33:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61866",
-    "score": 5.0,
-    "views": 21266,
-    "forwards": 2
   },
   {
     "title": "7 killed",
@@ -302,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9035",
     "score": 10.0,
-    "views": 784,
+    "views": 795,
     "forwards": 6
   },
   {
@@ -320,8 +338,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38637",
     "score": 5.0,
-    "views": 4638,
-    "forwards": 4
+    "views": 4716,
+    "forwards": 5
   },
   {
     "title": "Shelling near civilians",
@@ -414,24 +432,6 @@
     "forwards": 3
   },
   {
-    "title": "Zaporizhzhia: BpLA ➡️ in the direction of Zaporizhzhia.",
-    "title_en": "Zaporizhzhia: BpLA ➡️ in the direction of Zaporizhzhia.",
-    "title_uk": "Запоріжжя: BpLA ➡️ в напрямку Запоріжжя.",
-    "description": "BpLA ➡️ in the direction of Zaporizhzhia.",
-    "description_en": "BpLA ➡️ in the direction of Zaporizhzhia.",
-    "description_uk": "БпЛА ➡️ у напрямку Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-05-14T08:36:17+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61856",
-    "score": 6.0,
-    "views": 98353,
-    "forwards": 16
-  },
-  {
     "title": "Kharkiv: Drone strike",
     "title_en": "Kharkiv: Drone strike",
     "title_uk": "Харків: Дрон-удар",
@@ -446,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9032",
     "score": 6.0,
-    "views": 1228,
+    "views": 1231,
     "forwards": 5
   }
 ]
