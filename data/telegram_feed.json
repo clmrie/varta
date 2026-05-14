@@ -1,5 +1,23 @@
 [
   {
+    "title": "Zaporizhzhia: BpLA ➡️ in the direction of Zaporizhzhia.",
+    "title_en": "Zaporizhzhia: BpLA ➡️ in the direction of Zaporizhzhia.",
+    "title_uk": "Запоріжжя: BpLA ➡️ в напрямку Запоріжжя.",
+    "description": "BpLA ➡️ in the direction of Zaporizhzhia.",
+    "description_en": "BpLA ➡️ in the direction of Zaporizhzhia.",
+    "description_uk": "БпЛА ➡️ в напрямку Запоріжжя.",
+    "time": "",
+    "pubDate": "2026-05-14T23:01:25+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61890",
+    "score": 6.0,
+    "views": 8318,
+    "forwards": 1
+  },
+  {
     "title": "BpLA groups ➡️ course to Pivdenne/Rybakivka.",
     "title_en": "BpLA groups ➡️ course to Pivdenne/Rybakivka.",
     "title_uk": "Групи BpLA ➡️ курс на Південне/Рибаківка.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61888",
     "score": 5.0,
-    "views": 21739,
+    "views": 29182,
     "forwards": 13
   },
   {
@@ -86,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53123",
     "score": 12.5,
-    "views": 1245,
+    "views": 1388,
     "forwards": 0
   },
   {
@@ -158,7 +176,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19045",
     "score": 8.0,
-    "views": 31475,
+    "views": 32239,
     "forwards": 25
   },
   {
@@ -176,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19044",
     "score": 8.5,
-    "views": 179888,
-    "forwards": 324
+    "views": 182183,
+    "forwards": 325
   },
   {
     "title": "Sumy: BpLA ➡️ heading for Sumy.",
@@ -230,8 +248,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53119",
     "score": 4.5,
-    "views": 1770,
-    "forwards": 2
+    "views": 1835,
+    "forwards": 3
   },
   {
     "title": "Kyiv: 44 injured",
@@ -338,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9035",
     "score": 10.0,
-    "views": 796,
+    "views": 798,
     "forwards": 6
   },
   {
@@ -356,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38637",
     "score": 5.0,
-    "views": 4736,
+    "views": 4757,
     "forwards": 5
   },
   {
@@ -430,23 +448,5 @@
     "score": 13.0,
     "views": 1167,
     "forwards": 3
-  },
-  {
-    "title": "Kharkiv: Drone strike",
-    "title_en": "Kharkiv: Drone strike",
-    "title_uk": "Харків: Дрон-удар",
-    "description": "💬 Minister of Foreign Affairs of Ukraine Andrii Sybiga regarding the Russian shelling: \"Despite his statements about the alleged end of the war, Putin proves the opposite with his actions. Instead of accepting Ukraine's proposal to extend the ceasefire, he continues the war. During the night and during the day, many regions of Ukraine were subjected to Russian attacks. Russian drones attacked objects...",
-    "description_en": "💬 Minister of Foreign Affairs of Ukraine Andrii Sybiga regarding the Russian shelling: \"Despite his statements about the alleged end of the war, Putin proves the opposite with his actions. Instead of accepting Ukraine's proposal to extend the ceasefire, he continues the war. During the night and during the day, many regions of Ukraine were subjected to Russian attacks. Russian drones attacked objects...",
-    "description_uk": "💬 Міністр закордонних справ України Андрій Сибіга щодо російського обстрілу: \"Попри свої заяви про нібито наближення завершення війни, Путін своїми діями доводить протилежне. Замість того щоб прийняти пропозицію України щодо продовження режиму припинення вогню, він продовжує війну. Упродовж ночі та протягом дня багато регіонів України зазнали російських атак. Російські дрони атакували об’єкти...",
-    "time": "",
-    "pubDate": "2026-05-13T16:50:33+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kharkiv",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9032",
-    "score": 6.0,
-    "views": 1232,
-    "forwards": 5
   }
 ]
