@@ -1,5 +1,23 @@
 [
   {
+    "title": "BpLA groups ➡️ course to Pivdenne/Rybakivka.",
+    "title_en": "BpLA groups ➡️ course to Pivdenne/Rybakivka.",
+    "title_uk": "Групи BpLA ➡️ курс на Південне/Рибаківка.",
+    "description": "BpLA groups ➡️ course to Pivdenne/Rybakivka.",
+    "description_en": "BpLA groups ➡️ course to Pivdenne/Rybakivka.",
+    "description_uk": "Групи БпЛА ➡️ курсом на Південне/Рибаківку.",
+    "time": "",
+    "pubDate": "2026-05-14T21:48:11+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61888",
+    "score": 5.0,
+    "views": 21739,
+    "forwards": 13
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/61887",
     "score": 5.0,
-    "views": 9153,
-    "forwards": 2
+    "views": 29284,
+    "forwards": 28
   },
   {
     "title": "High-speed target heading south of Odesa!",
@@ -68,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53123",
     "score": 12.5,
-    "views": 999,
+    "views": 1245,
     "forwards": 0
   },
   {
@@ -140,7 +158,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19045",
     "score": 8.0,
-    "views": 30149,
+    "views": 31475,
     "forwards": 25
   },
   {
@@ -158,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19044",
     "score": 8.5,
-    "views": 175762,
-    "forwards": 320
+    "views": 179888,
+    "forwards": 324
   },
   {
     "title": "Sumy: BpLA ➡️ heading for Sumy.",
@@ -212,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53119",
     "score": 4.5,
-    "views": 1676,
+    "views": 1770,
     "forwards": 2
   },
   {
@@ -320,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9035",
     "score": 10.0,
-    "views": 795,
+    "views": 796,
     "forwards": 6
   },
   {
@@ -338,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38637",
     "score": 5.0,
-    "views": 4716,
+    "views": 4736,
     "forwards": 5
   },
   {
@@ -358,24 +376,6 @@
     "score": 6.5,
     "views": 130297,
     "forwards": 214
-  },
-  {
-    "title": "Airstrike attack",
-    "title_en": "Airstrike attack",
-    "title_uk": "Авіаційна атака",
-    "description": "Combat work of units of the Center Air Command during the massive combined strike of the enemy on May 13-14, 2026.",
-    "description_en": "Combat work of units of the Center Air Command during the massive combined strike of the enemy on May 13-14, 2026.",
-    "description_uk": "Бойова робота підрозділів Повітряне командування \"Центр\" під час масованого комбінованого удару противника 13-14 травня 2026 року.",
-    "time": "",
-    "pubDate": "2026-05-14T10:10:20+00:00",
-    "category": "alert",
-    "severity": "medium",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61857",
-    "score": 3.5,
-    "views": 88579,
-    "forwards": 195
   },
   {
     "title": "Missile attack",
@@ -446,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9032",
     "score": 6.0,
-    "views": 1231,
+    "views": 1232,
     "forwards": 5
   }
 ]
