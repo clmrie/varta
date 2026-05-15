@@ -1,5 +1,41 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "A new group of strike UAVs from the Black Sea is heading towards Odesa/Mykolaiv Oblast",
+    "description_en": "A new group of strike UAVs from the Black Sea is heading towards Odesa/Mykolaiv Oblast",
+    "description_uk": "Нова група ударних БпЛА з акваторії Чорного моря прямує в бік Одещини/Миколаївщини",
+    "time": "",
+    "pubDate": "2026-05-15T23:03:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61985",
+    "score": 6.0,
+    "views": 4897,
+    "forwards": 1
+  },
+  {
+    "title": "Zaporizhzhia: BpLA ➡️ course to Zaporizhzhia",
+    "title_en": "Zaporizhzhia: BpLA ➡️ course to Zaporizhzhia",
+    "title_uk": "Запоріжжя: BpLA ➡️ курс до Запоріжжя",
+    "description": "BpLA ➡️ course to Zaporizhzhia",
+    "description_en": "BpLA ➡️ course to Zaporizhzhia",
+    "description_uk": "БпЛА ➡️ курсом на Запоріжжя",
+    "time": "",
+    "pubDate": "2026-05-15T23:02:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61984",
+    "score": 6.0,
+    "views": 5502,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: Drone attack",
     "title_en": "Kharkiv: Drone attack",
     "title_uk": "Харків: Атака безпілотників",
@@ -68,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191564",
     "score": 5.5,
-    "views": 40284,
-    "forwards": 118
+    "views": 50804,
+    "forwards": 138
   },
   {
     "title": "Kyiv: How leaked conversations suggest backroom influence at a Ukrainian...",
@@ -86,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53140",
     "score": 4.0,
-    "views": 996,
-    "forwards": 2
+    "views": 1170,
+    "forwards": 3
   },
   {
     "title": "Chernihiv: Several enemy UAVs in Chernihiv Oblast in the Pryluk area",
@@ -140,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191559",
     "score": 9.5,
-    "views": 104355,
-    "forwards": 252
+    "views": 109807,
+    "forwards": 264
   },
   {
     "title": "Mykolaiv: BpLA groups: - from Donetsk ➡️ to Kharkiv; - in Chernihiv region...",
@@ -162,24 +198,6 @@
     "forwards": 0
   },
   {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "Groups of UAVs from the Black Sea in the direction of the Mykolaiv/Odesa regions",
-    "description_en": "Groups of UAVs from the Black Sea in the direction of the Mykolaiv/Odesa regions",
-    "description_uk": "Групи БпЛА з акваторії Чорного моря у напрямку Миколаївської\\Одеської областей",
-    "time": "",
-    "pubDate": "2026-05-15T18:13:45+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61958",
-    "score": 6.0,
-    "views": 56741,
-    "forwards": 35
-  },
-  {
     "title": "Kyiv: End of Ukraine's 'untouchables'? Zelensky faces final choice for...",
     "title_en": "Kyiv: End of Ukraine's 'untouchables'? Zelensky faces final choice for...",
     "title_uk": "Київ: кінець «недоторканним» України? Зеленський стоїть перед остаточним вибором для...",
@@ -194,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53138",
     "score": 9.5,
-    "views": 1619,
+    "views": 1730,
     "forwards": 5
   },
   {
@@ -248,7 +266,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19078",
     "score": 7.5,
-    "views": 175918,
+    "views": 179175,
     "forwards": 627
   },
   {
@@ -302,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19074",
     "score": 7.5,
-    "views": 260655,
+    "views": 262357,
     "forwards": 1396
   },
   {
@@ -320,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9053",
     "score": 5.0,
-    "views": 662,
+    "views": 667,
     "forwards": 3
   },
   {
@@ -356,44 +374,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38684",
     "score": 8.0,
-    "views": 35790,
-    "forwards": 163
-  },
-  {
-    "title": "Attack attack",
-    "title_en": "Attack attack",
-    "title_uk": "Атака нападу",
-    "description": "Russia is capable of launching a nuclear attack on Ukraine at any moment, but at the moment there are no signs of preparation for such an attack, - Budanov More statements of the head of the OP in an interview with The Times: ▪️Volunteers are no longer enough to cover the needs of the army, so the mobilization must continue: \"Otherwise the country will simply fall.\" ▪️ Budanov said that he believes in the negotiation process with the Russian Federation and considers it possible...",
-    "description_en": "Russia is capable of launching a nuclear attack on Ukraine at any moment, but at the moment there are no signs of preparation for such an attack, - Budanov More statements of the head of the OP in an interview with The Times: ▪️Volunteers are no longer enough to cover the needs of the army, so the mobilization must continue: \"Otherwise the country will simply fall.\" ▪️ Budanov said that he believes in the negotiation process with the Russian Federation and considers it possible...",
-    "description_uk": "рф способна нанести ядерный удар по Украине в любой момент, но на данный момент нет никаких признаков подготовки к такой атаке, - Буданов Еще заявления главы ОП в интервью The Times: ▪️Добровольцев уже недостаточно для покрытия потребностей армии, поэтому мобилизация должна продолжаться: \"Иначе страна просто упадет\". ▪️Буданов заявил, что верит в переговорный процесс с рф и считает возможным его...",
-    "time": "",
-    "pubDate": "2026-05-15T10:38:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/191522",
-    "score": 4.5,
-    "views": 94806,
-    "forwards": 146
-  },
-  {
-    "title": "BpLA on Starokostyantyniv.",
-    "title_en": "BpLA on Starokostyantyniv.",
-    "title_uk": "БпЛА на Старокостянтинів.",
-    "description": "BpLA on Starokostyantyniv.",
-    "description_en": "BpLA on Starokostyantyniv.",
-    "description_uk": "БпЛА на Старокостянтинів.",
-    "time": "",
-    "pubDate": "2026-05-15T10:33:10+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61932",
-    "score": 5.0,
-    "views": 86083,
-    "forwards": 3
+    "views": 36047,
+    "forwards": 164
   },
   {
     "title": "The head of the Ministry of Foreign Affairs: \"We are creating an...",
@@ -410,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9050",
     "score": 4.0,
-    "views": 997,
+    "views": 999,
     "forwards": 6
   },
   {
@@ -448,5 +430,23 @@
     "score": 13.0,
     "views": 5883,
     "forwards": 20
+  },
+  {
+    "title": "Kharkiv: ⚔️ 129 OVMBr liberated Odradne in Kharkiv Oblast ➡️ Katsaps were...",
+    "title_en": "Kharkiv: ⚔️ 129 OVMBr liberated Odradne in Kharkiv Oblast ➡️ Katsaps were...",
+    "title_uk": "Харків: ⚔️ 129 ОВМБр звільнила Одрадне на Харківщині ➡️ Кацапи були...",
+    "description": "⚔️ 129 OVMBr liberated Odradne in Kharkiv Oblast ➡️ Katsaps were destroyed near Odradne. As a result of the planned operation, the Defense Forces carried out a cleanup and brought back under full control the settlement of Odradne and its surroundings. ✈️ New war tactics bring results, the enemy suffered significant losses in defense, and those who managed to escape escaped. 129 OVMBr continues to free Ukrainian land from Katsap...",
+    "description_en": "⚔️ 129 OVMBr liberated Odradne in Kharkiv Oblast ➡️ Katsaps were destroyed near Odradne. As a result of the planned operation, the Defense Forces carried out a cleanup and brought back under full control the settlement of Odradne and its surroundings. ✈️ New war tactics bring results, the enemy suffered significant losses in defense, and those who managed to escape escaped. 129 OVMBr continues to free Ukrainian land from Katsap...",
+    "description_uk": "⚔️ 129 ОВМБр звільнила Одрадне на Харківщині ➡️ Кацапів розбито поблизу Одрадного. В результаті спланованої операції Сили Оборони здійснили зачистку та повернули під повний контроль населений пункт Одрадне та його околиці. ✈️ Нові тактики війни приносять результат, в обороні ворог поніс значні втрати, а хто зумів — рятувався втечею. 129 ОВМБр продовжує звільняти українську землю від кацапської...",
+    "time": "",
+    "pubDate": "2026-05-15T05:02:05+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23505",
+    "score": 6.5,
+    "views": 139357,
+    "forwards": 705
   }
 ]
