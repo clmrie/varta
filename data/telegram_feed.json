@@ -1,5 +1,59 @@
 [
   {
+    "title": "Chernihiv: Several enemy UAVs in Chernihiv Oblast in the Pryluk area",
+    "title_en": "Chernihiv: Several enemy UAVs in Chernihiv Oblast in the Pryluk area",
+    "title_uk": "Чернігів: кілька ворожих БПЛА в Чернігівській області в районі Прилук",
+    "description": "Several enemy UAVs in Chernihiv Oblast in the Pryluk area",
+    "description_en": "Several enemy UAVs in Chernihiv Oblast in the Pryluk area",
+    "description_uk": "Декілька ворожих БпЛА на Чернігівщині в районі Прилук",
+    "time": "",
+    "pubDate": "2026-05-15T20:07:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61972",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "Several enemy UAVs south of Zaporozhye in the direction of the city",
+    "description_en": "Several enemy UAVs south of Zaporozhye in the direction of the city",
+    "description_uk": "Декілька ворожих БпЛА на південь від м. Запоріжжя в напрямку міста",
+    "time": "",
+    "pubDate": "2026-05-15T19:51:18+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61970",
+    "score": 6.0,
+    "views": 29365,
+    "forwards": 1
+  },
+  {
+    "title": "Statements by the president and other officials about the shortage of...",
+    "title_en": "Statements by the president and other officials about the shortage of...",
+    "title_uk": "Заяви президента та інших чиновників про дефіцит...",
+    "description": "Statements by the president and other officials about the shortage of missiles for air defense were a provocation of the Russian Federation so that the aggressor squandered its reserves, as well as a call to Ukraine's partners to speed up deliveries. This opinion was expressed by the commander of the special forces group of the Armed Forces of Ukraine Konstantin Proshinsky: \"In reality, there was no shortage. These words were simply said in order to force the Russian side...",
+    "description_en": "Statements by the president and other officials about the shortage of missiles for air defense were a provocation of the Russian Federation so that the aggressor squandered its reserves, as well as a call to Ukraine's partners to speed up deliveries. This opinion was expressed by the commander of the special forces group of the Armed Forces of Ukraine Konstantin Proshinsky: \"In reality, there was no shortage. These words were simply said in order to force the Russian side...",
+    "description_uk": "Заявления президента и других официальных лиц о дефиците ракет для ПВО были провоцированием рф на то, чтобы агрессор растратил свои запасы, а также призывом к партнерам Украины ускорить поставки Такое мнение высказал командир группы спецподразделения ЗСУ Константин Прошинский: \"На самом деле никакого дефицита не было. Эти слова просто говорились для того, чтобы вынудить российскую сторону...",
+    "time": "",
+    "pubDate": "2026-05-15T19:01:01+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/191559",
+    "score": 8.5,
+    "views": 69601,
+    "forwards": 178
+  },
+  {
     "title": "Mykolaiv: BpLA groups: - from Donetsk ➡️ to Kharkiv; - in Chernihiv region...",
     "title_en": "Mykolaiv: BpLA groups: - from Donetsk ➡️ to Kharkiv; - in Chernihiv region...",
     "title_uk": "Миколаїв: групи BpLA: - з Донецька ➡️ до Харкова; - на Чернігівщині...",
@@ -50,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53138",
     "score": 9.5,
-    "views": 673,
-    "forwards": 2
+    "views": 1191,
+    "forwards": 3
   },
   {
     "title": "BpLA in the direction of Kharkiv from the north.",
@@ -104,26 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19078",
     "score": 7.5,
-    "views": 123407,
-    "forwards": 538
-  },
-  {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "KAB to Zaporizhzhia/Donetsk region. 🛵 Strike jet UAV in the direction of Zaporizhzhia, jet drone in the north of Chernihiv Oblast",
-    "description_en": "KAB to Zaporizhzhia/Donetsk region. 🛵 Strike jet UAV in the direction of Zaporizhzhia, jet drone in the north of Chernihiv Oblast",
-    "description_uk": "КАБи на Запоріжжя/Донеччину. 🛵 Ударний реактивний БпЛА у напрямку Запоріжжя, реактивний дрон на півночі Чернігівщини",
-    "time": "",
-    "pubDate": "2026-05-15T14:56:34+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61948",
-    "score": 6.0,
-    "views": 15201,
-    "forwards": 1
+    "views": 159369,
+    "forwards": 572
   },
   {
     "title": "Kyiv: Attack attack on residential area",
@@ -140,8 +176,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53134",
     "score": 6.0,
-    "views": 1573,
-    "forwards": 3
+    "views": 1781,
+    "forwards": 4
   },
   {
     "title": "Assault BpLA heading for Pavlograd (N.P. Ternivka)",
@@ -176,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19074",
     "score": 7.5,
-    "views": 229918,
-    "forwards": 1336
+    "views": 249787,
+    "forwards": 1374
   },
   {
     "title": "🤝 Minister of Foreign Affairs of Ukraine Andrii Sybiga held a meeting...",
@@ -194,7 +230,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9053",
     "score": 5.0,
-    "views": 570,
+    "views": 644,
     "forwards": 3
   },
   {
@@ -230,8 +266,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38684",
     "score": 8.0,
-    "views": 29651,
-    "forwards": 160
+    "views": 34588,
+    "forwards": 162
   },
   {
     "title": "Attack attack",
@@ -338,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9050",
     "score": 4.0,
-    "views": 917,
+    "views": 987,
     "forwards": 6
   },
   {
@@ -392,8 +428,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23505",
     "score": 6.5,
-    "views": 131797,
-    "forwards": 680
+    "views": 135563,
+    "forwards": 692
   },
   {
     "title": "Kyiv: 24 killed, 48 injured",
@@ -412,41 +448,5 @@
     "score": 13.0,
     "views": 2559,
     "forwards": 14
-  },
-  {
-    "title": "Kyiv: Energy infrastructure hit",
-    "title_en": "Kyiv: Energy infrastructure hit",
-    "title_uk": "Київ: удар по енергетичній інфраструктурі",
-    "description": "Major fire seen after Ukrainian drones reportedly strike oil refinery in Ryazan. Ukraine's military reportedly launched a large-scale drone attack overnight on May 15, striking Russian military and energy infrastructure in multiple regions of the country, Russian Telegram media channels reported.",
-    "description_en": "Major fire seen after Ukrainian drones reportedly strike oil refinery in Ryazan. Ukraine's military reportedly launched a large-scale drone attack overnight on May 15, striking Russian military and energy infrastructure in multiple regions of the country, Russian Telegram media channels reported.",
-    "description_uk": "Major fire seen after Ukrainian drones reportedly strike oil refinery in Ryazan. Ukraine's military reportedly launched a large-scale drone attack overnight on May 15, striking Russian military and energy infrastructure in multiple regions of the country, Russian Telegram media channels reported.",
-    "time": "",
-    "pubDate": "2026-05-15T01:01:18+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53126",
-    "score": 12.5,
-    "views": 2384,
-    "forwards": 4
-  },
-  {
-    "title": "High-speed target heading south of Odesa!",
-    "title_en": "High-speed target heading south of Odesa!",
-    "title_uk": "Швидкісна ціль прямує на південь від Одеси!",
-    "description": "High-speed target heading south of Odesa!",
-    "description_en": "High-speed target heading south of Odesa!",
-    "description_uk": "Швидкісна ціль курсом на південь Одещини!",
-    "time": "",
-    "pubDate": "2026-05-14T21:31:06+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61886",
-    "score": 5.0,
-    "views": 10897,
-    "forwards": 1
   }
 ]
