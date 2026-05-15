@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "New groups of attack UAVs from the Belgorod region. are included in the Sumy region.",
+    "description_en": "New groups of attack UAVs from the Belgorod region. are included in the Sumy region.",
+    "description_uk": "Нові групи ударних БпЛА із Бєлгородської обл. входять в Сумську обл.",
+    "time": "",
+    "pubDate": "2026-05-15T20:58:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/61978",
+    "score": 5.0,
+    "views": 22286,
+    "forwards": 1
+  },
+  {
+    "title": "Air defense active",
+    "title_en": "Air defense active",
+    "title_uk": "Активна ППО",
+    "description": "There are reasonable suspicions that some \"Shahedas\" have EW devices installed to suppress our drone interceptors, as well as EW devices to interfere with radar stations. This was stated by the adviser to the Minister of Defense Sergey \"Flash\" Beskrestnov. \"There is nothing unexpected in this for us, but it is important to keep the whole situation under control even before the facts are confirmed,\" he wrote...",
+    "description_en": "There are reasonable suspicions that some \"Shahedas\" have EW devices installed to suppress our drone interceptors, as well as EW devices to interfere with radar stations. This was stated by the adviser to the Minister of Defense Sergey \"Flash\" Beskrestnov. \"There is nothing unexpected in this for us, but it is important to keep the whole situation under control even before the facts are confirmed,\" he wrote...",
+    "description_uk": "Есть обоснованные подозрения, что на некоторых \"Шахедах\" установлены средства РЭБ для подавления наших перехватчиков-дронов, а также средства РЭБ для создания помех радиолокационным станциям. Об этом заявил советник министра обороны Сергей \"Флэш\" Бескрестнов. \"Для нас в этом нет ничего неожиданного, но важно держать всю ситуацию под контролем еще до того, как факты будут подтверждены\", - написал...",
+    "time": "",
+    "pubDate": "2026-05-15T20:57:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/191564",
+    "score": 5.0,
+    "views": 18619,
+    "forwards": 39
+  },
+  {
+    "title": "Kyiv: How leaked conversations suggest backroom influence at a Ukrainian...",
+    "title_en": "Kyiv: How leaked conversations suggest backroom influence at a Ukrainian...",
+    "title_uk": "Київ: Як витік розмов свідчить про кулуарний вплив на українську...",
+    "description": "How leaked conversations suggest backroom influence at a Ukrainian bank A state-owned bank that formerly belonged to a Russian oligarch is at the center of a spiraling corruption scandal implicating several people close to President Volodymyr Zelensky. In transcripts of recorded conversations published by Ukrainian media outlet Ukrainska Pravda in the first weeks of May, two businessmen with ties...",
+    "description_en": "How leaked conversations suggest backroom influence at a Ukrainian bank A state-owned bank that formerly belonged to a Russian oligarch is at the center of a spiraling corruption scandal implicating several people close to President Volodymyr Zelensky. In transcripts of recorded conversations published by Ukrainian media outlet Ukrainska Pravda in the first weeks of May, two businessmen with ties...",
+    "description_uk": "How leaked conversations suggest backroom influence at a Ukrainian bank A state-owned bank that formerly belonged to a Russian oligarch is at the center of a spiraling corruption scandal implicating several people close to President Volodymyr Zelensky. In transcripts of recorded conversations published by Ukrainian media outlet Ukrainska Pravda in the first weeks of May, two businessmen with ties...",
+    "time": "",
+    "pubDate": "2026-05-15T20:10:48+00:00",
+    "category": "alert",
+    "severity": "medium",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53140",
+    "score": 4.0,
+    "views": 707,
+    "forwards": 2
+  },
+  {
     "title": "Chernihiv: Several enemy UAVs in Chernihiv Oblast in the Pryluk area",
     "title_en": "Chernihiv: Several enemy UAVs in Chernihiv Oblast in the Pryluk area",
     "title_uk": "Чернігів: кілька ворожих БПЛА в Чернігівській області в районі Прилук",
@@ -49,9 +103,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191559",
-    "score": 8.5,
-    "views": 69601,
-    "forwards": 178
+    "score": 9.5,
+    "views": 94929,
+    "forwards": 216
   },
   {
     "title": "Mykolaiv: BpLA groups: - from Donetsk ➡️ to Kharkiv; - in Chernihiv region...",
@@ -104,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53138",
     "score": 9.5,
-    "views": 1191,
+    "views": 1447,
     "forwards": 3
   },
   {
@@ -158,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19078",
     "score": 7.5,
-    "views": 159369,
-    "forwards": 572
+    "views": 170986,
+    "forwards": 607
   },
   {
     "title": "Kyiv: Attack attack on residential area",
@@ -212,7 +266,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19074",
     "score": 7.5,
-    "views": 249787,
+    "views": 257268,
     "forwards": 1374
   },
   {
@@ -230,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9053",
     "score": 5.0,
-    "views": 644,
+    "views": 655,
     "forwards": 3
   },
   {
@@ -255,8 +309,8 @@
     "title": "Luhansk: The Ryazansky Refinery, ships, ammunition depots and enemy radars...",
     "title_en": "Luhansk: The Ryazansky Refinery, ships, ammunition depots and enemy radars...",
     "title_uk": "Луганськ: Рязанський НПЗ, кораблі, склади боєприпасів і ворожі радари...",
-    "description": "The Ryazansky Refinery, ships, ammunition depots and enemy radars were hit Yesterday and on the night of May 15, 2026, units of the Defense Forces of Ukraine inflicted damage on a number of important objects of the Russian occupiers. ⚡️In particular, the oil refinery \"Ryazanskyi\" in Ryazan (Ryazan region, Russian Federation) was affected. A large-scale fire was recorded on the territory of the object. Ryazansky Refinery is one of the largest oil refineries...",
-    "description_en": "The Ryazansky Refinery, ships, ammunition depots and enemy radars were hit Yesterday and on the night of May 15, 2026, units of the Defense Forces of Ukraine inflicted damage on a number of important objects of the Russian occupiers. ⚡️In particular, the oil refinery \"Ryazanskyi\" in Ryazan (Ryazan region, Russian Federation) was affected. A large-scale fire was recorded on the territory of the object. Ryazansky Refinery is one of the largest oil refineries...",
+    "description": "The Ryazansky Refinery, ships, ammunition depots and enemy radars were hit Yesterday and on the night of May 15, 2026, units of the Defense Forces of Ukraine inflicted damage on a number of important objects of the Russian occupiers. ⚡️In particular, the oil refinery \"Ryazanskyi\" in Ryazan (Ryazan region, Russian Federation) was affected. A large-scale fire was recorded on the territory of the facility. Ryazansky Refinery is one of the largest oil refineries...",
+    "description_en": "The Ryazansky Refinery, ships, ammunition depots and enemy radars were hit Yesterday and on the night of May 15, 2026, units of the Defense Forces of Ukraine inflicted damage on a number of important objects of the Russian occupiers. ⚡️In particular, the oil refinery \"Ryazanskyi\" in Ryazan (Ryazan region, Russian Federation) was affected. A large-scale fire was recorded on the territory of the facility. Ryazansky Refinery is one of the largest oil refineries...",
     "description_uk": "Уражено НПЗ “Рязанський”, кораблі, склади боєприпасів та РЛС противника Вчора та в ніч на 15 травня 2026 року підрозділи Сил оборони України завдали уражень по низці важливих об’єктів російських окупантів. ⚡️Зокрема уражено нафтопереробний завод “Рязанський” у Рязані (Рязанська обл., рф). На території об’єкта зафіксовано масштабну пожежу. НПЗ “Рязанський” є одним із найбільших нафтопереробних...",
     "time": "",
     "pubDate": "2026-05-15T11:35:18+00:00",
@@ -266,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38684",
     "score": 8.0,
-    "views": 34588,
+    "views": 35355,
     "forwards": 162
   },
   {
@@ -324,42 +378,6 @@
     "forwards": 104
   },
   {
-    "title": "Odesa: WARNING! Odesa! 🛵 Enemy UAV over the city. Stay in shelters until the...",
-    "title_en": "Odesa: WARNING! Odesa! 🛵 Enemy UAV over the city. Stay in shelters until the...",
-    "title_uk": "Одеса: УВАГА! Одеса! 🛵 БПЛА ворога над містом. Перебувати в укриттях до...",
-    "description": "WARNING! Odesa! 🛵 Enemy UAV over the city. Stay in shelters until the break!",
-    "description_en": "WARNING! Odesa! 🛵 Enemy UAV over the city. Stay in shelters until the break!",
-    "description_uk": "Увага! Одеса! 🛵 Над містом ворожий БпЛА. Перебувайте в укриттях до відбою!",
-    "time": "",
-    "pubDate": "2026-05-15T08:24:37+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61922",
-    "score": 11.0,
-    "views": 9071,
-    "forwards": 1
-  },
-  {
-    "title": "Chernihiv: BpLA from Chernihiv region to Kyiv region ➡️ course to Brovary.",
-    "title_en": "Chernihiv: BpLA from Chernihiv region to Kyiv region ➡️ course to Brovary.",
-    "title_uk": "Чернігів: BpLA з Чернігівщини на Київщину ➡️ курс на Бровари.",
-    "description": "BpLA from Chernihiv region to Kyiv region ➡️ course to Brovary.",
-    "description_en": "BpLA from Chernihiv region to Kyiv region ➡️ course to Brovary.",
-    "description_uk": "БпЛА з Чернігівщини на Київщину ➡️ курсом на Бровари.",
-    "time": "",
-    "pubDate": "2026-05-15T08:23:27+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61921",
-    "score": 6.0,
-    "views": 12102,
-    "forwards": 36
-  },
-  {
     "title": "The head of the Ministry of Foreign Affairs: \"We are creating an...",
     "title_en": "The head of the Ministry of Foreign Affairs: \"We are creating an...",
     "title_uk": "Глава МЗС: «Ми створюємо...",
@@ -374,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9050",
     "score": 4.0,
-    "views": 987,
+    "views": 993,
     "forwards": 6
   },
   {
@@ -416,7 +434,7 @@
   {
     "title": "Kharkiv: ⚔️ 129 OVMBr liberated Odradne in Kharkiv Oblast ➡️ Katsaps were...",
     "title_en": "Kharkiv: ⚔️ 129 OVMBr liberated Odradne in Kharkiv Oblast ➡️ Katsaps were...",
-    "title_uk": "Харків: ⚔️ 129 ОВМБр звільнила Одрадне на Харківщині ➡️ Кацапи були...",
+    "title_uk": "Харків: ⚔️ 129 ОВМБр звільнила Одрадне Харківської області ➡️ Кацапи були...",
     "description": "⚔️ 129 OVMBr liberated Odradne in Kharkiv Oblast ➡️ Katsaps were destroyed near Odradne. As a result of the planned operation, the Defense Forces carried out a cleanup and brought back under full control the settlement of Odradne and its surroundings. ✈️ New war tactics bring results, the enemy suffered significant losses in defense, and those who managed to escape escaped. 129 OVMBr continues to free Ukrainian land from Katsap...",
     "description_en": "⚔️ 129 OVMBr liberated Odradne in Kharkiv Oblast ➡️ Katsaps were destroyed near Odradne. As a result of the planned operation, the Defense Forces carried out a cleanup and brought back under full control the settlement of Odradne and its surroundings. ✈️ New war tactics bring results, the enemy suffered significant losses in defense, and those who managed to escape escaped. 129 OVMBr continues to free Ukrainian land from Katsap...",
     "description_uk": "⚔️ 129 ОВМБр звільнила Одрадне на Харківщині ➡️ Кацапів розбито поблизу Одрадного. В результаті спланованої операції Сили Оборони здійснили зачистку та повернули під повний контроль населений пункт Одрадне та його околиці. ✈️ Нові тактики війни приносять результат, в обороні ворог поніс значні втрати, а хто зумів — рятувався втечею. 129 ОВМБр продовжує звільняти українську землю від кацапської...",
@@ -428,25 +446,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23505",
     "score": 6.5,
-    "views": 135563,
-    "forwards": 692
-  },
-  {
-    "title": "Kyiv: 24 killed, 48 injured",
-    "title_en": "Kyiv: 24 killed, 48 injured",
-    "title_uk": "Київ: 24 загиблих, 48 поранених",
-    "description": "Update: At least 24 killed, 48 injured in Russia's May 14 attack on Kyiv. Ukraine's State Emergency Service of Ukraine reported that the death toll from the May 14 Russian drone and missile attack on Kyiv has risen to 24, with an further 48 people injured.",
-    "description_en": "Update: At least 24 killed, 48 injured in Russia's May 14 attack on Kyiv. Ukraine's State Emergency Service of Ukraine reported that the death toll from the May 14 Russian drone and missile attack on Kyiv has risen to 24, with an further 48 people injured.",
-    "description_uk": "Update: At least 24 killed, 48 injured in Russia's May 14 attack on Kyiv. Ukraine's State Emergency Service of Ukraine reported that the death toll from the May 14 Russian drone and missile attack on Kyiv has risen to 24, with an further 48 people injured.",
-    "time": "",
-    "pubDate": "2026-05-15T03:38:11+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53128",
-    "score": 13.0,
-    "views": 2559,
-    "forwards": 14
+    "views": 137586,
+    "forwards": 696
   }
 ]
