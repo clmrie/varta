@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: Explosions reported",
+    "title_en": "Kyiv: Explosions reported",
+    "title_uk": "Київ: повідомляється про вибухи",
+    "description": "Romanian authorities find unexploded projectile near Ukraine border. Romania's Defense Ministry said that an \"unguided reactive projectile\" was discovered on a property near the country's border with Ukraine.",
+    "description_en": "Romanian authorities find unexploded projectile near Ukraine border. Romania's Defense Ministry said that an \"unguided reactive projectile\" was discovered on a property near the country's border with Ukraine.",
+    "description_uk": "Romanian authorities find unexploded projectile near Ukraine border. Romania's Defense Ministry said that an \"unguided reactive projectile\" was discovered on a property near the country's border with Ukraine.",
+    "time": "",
+    "pubDate": "2026-05-16T21:07:10+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53159",
+    "score": 5.0,
+    "views": 328,
+    "forwards": 1
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A group of UAVs in the direction of the Dnipro from the southeast.",
+    "description_en": "A group of UAVs in the direction of the Dnipro from the southeast.",
+    "description_uk": "Група БпЛА у напрямку Дніпра з південного сходу.",
+    "time": "",
+    "pubDate": "2026-05-16T20:41:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62059",
+    "score": 5.0,
+    "views": 38193,
+    "forwards": 35
+  },
+  {
     "title": "Chernihiv: A group of UAVs from Sumy Oblast on a southwesterly course to...",
     "title_en": "Chernihiv: A group of UAVs from Sumy Oblast on a southwesterly course to...",
     "title_uk": "Чернігів: Група БПЛА з Сумської області на південно-західному курсі на...",
@@ -14,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/62058",
     "score": 6.0,
-    "views": 45542,
+    "views": 71050,
     "forwards": 1
   },
   {
@@ -34,24 +70,6 @@
     "score": 6.5,
     "views": 58677,
     "forwards": 69
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV in the direction of Kyiv from the east.",
-    "description_en": "UAV in the direction of Kyiv from the east.",
-    "description_uk": "БпЛА у напрямку Києва зі сходу.",
-    "time": "",
-    "pubDate": "2026-05-16T19:31:41+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62055",
-    "score": 5.5,
-    "views": 35373,
-    "forwards": 71
   },
   {
     "title": "Mykolaiv: BpLA from Mykolaiv region to Odesa in the western direction.",
@@ -140,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53157",
     "score": 5.0,
-    "views": 1482,
+    "views": 1712,
     "forwards": 8
   },
   {
@@ -194,7 +212,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38718",
     "score": 13.5,
-    "views": 17664,
+    "views": 18665,
     "forwards": 92
   },
   {
@@ -270,24 +288,6 @@
     "forwards": 107
   },
   {
-    "title": "Kyiv: Explosions reported",
-    "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
-    "description": "Update: Drone strike reportedly hits major Russian fertilizer plant linked to explosives production. Andrii Kovalenko, an official at Ukraine’s National Security and Defense Council, described the facility as “a critical component” of Russia’s defense-industrial complex.",
-    "description_en": "Update: Drone strike reportedly hits major Russian fertilizer plant linked to explosives production. Andrii Kovalenko, an official at Ukraine’s National Security and Defense Council, described the facility as “a critical component” of Russia’s defense-industrial complex.",
-    "description_uk": "Update: Drone strike reportedly hits major Russian fertilizer plant linked to explosives production. Andrii Kovalenko, an official at Ukraine’s National Security and Defense Council, described the facility as “a critical component” of Russia’s defense-industrial complex.",
-    "time": "",
-    "pubDate": "2026-05-16T10:06:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53149",
-    "score": 5.0,
-    "views": 1602,
-    "forwards": 2
-  },
-  {
     "title": "Ukrainian engineers, inventors, researchers and scientists are today...",
     "title_en": "Ukrainian engineers, inventors, researchers and scientists are today...",
     "title_uk": "Українські інженери, винахідники, дослідники та вчені сьогодні...",
@@ -302,7 +302,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19082",
     "score": 4.0,
-    "views": 79067,
+    "views": 80380,
     "forwards": 105
   },
   {
@@ -320,7 +320,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23507",
     "score": 5.5,
-    "views": 125593,
+    "views": 127772,
     "forwards": 75
   },
   {
@@ -342,24 +342,6 @@
     "forwards": 2
   },
   {
-    "title": "Dnipro: Dnipro - BpLA on the outskirts of the city.",
-    "title_en": "Dnipro: Dnipro - BpLA on the outskirts of the city.",
-    "title_uk": "Дніпро: Дніпро - БпЛА на околиці міста.",
-    "description": "Dnipro - BpLA on the outskirts of the city.",
-    "description_en": "Dnipro - BpLA on the outskirts of the city.",
-    "description_uk": "Дніпро - БпЛА на околицях міста.",
-    "time": "",
-    "pubDate": "2026-05-16T09:10:14+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62033",
-    "score": 6.0,
-    "views": 109166,
-    "forwards": 20
-  },
-  {
     "title": "Drone strike",
     "title_en": "Drone strike",
     "title_uk": "Безпілотний удар",
@@ -374,26 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19081",
     "score": 4.5,
-    "views": 135488,
-    "forwards": 228
-  },
-  {
-    "title": "Chernihiv: Chernihiv region - BpLA on Pryluky from the north.",
-    "title_en": "Chernihiv: Chernihiv region - BpLA on Pryluky from the north.",
-    "title_uk": "Чернігів: Чернігівська обл.- БпЛА на Прилуках з півн.",
-    "description": "Chernihiv region - BpLA on Pryluky from the north.",
-    "description_en": "Chernihiv region - BpLA on Pryluky from the north.",
-    "description_uk": "Чернігівщина - БпЛА на Прилуки з півночі.",
-    "time": "",
-    "pubDate": "2026-05-16T08:36:29+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62032",
-    "score": 6.0,
-    "views": 96846,
-    "forwards": 1
+    "views": 139158,
+    "forwards": 229
   },
   {
     "title": "Kyiv: 294 drones intercepted",
@@ -446,7 +410,43 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38708",
     "score": 13.0,
-    "views": 5841,
+    "views": 5890,
     "forwards": 22
+  },
+  {
+    "title": "🤝 Minister of Foreign Affairs of Ukraine Andrii Sybiga held a meeting...",
+    "title_en": "🤝 Minister of Foreign Affairs of Ukraine Andrii Sybiga held a meeting...",
+    "title_uk": "🤝 Міністр закордонних справ України Андрій Сибіга провів зустріч...",
+    "description": "🤝 Minister of Foreign Affairs of Ukraine Andrii Sybiga held a meeting with PACE President Petra Bair on the sidelines of the 135th session of the Committee of Ministers in Chisinau. 💬 \"Grateful to PACE for unwavering support of Ukraine, in particular for actively promoting the creation of the Special Tribunal for the Crime of Aggression against Ukraine and the international compensation mechanism. They discussed further parliamentary efforts to ensure...",
+    "description_en": "🤝 Minister of Foreign Affairs of Ukraine Andrii Sybiga held a meeting with PACE President Petra Bair on the sidelines of the 135th session of the Committee of Ministers in Chisinau. 💬 \"Grateful to PACE for unwavering support of Ukraine, in particular for actively promoting the creation of the Special Tribunal for the Crime of Aggression against Ukraine and the international compensation mechanism. They discussed further parliamentary efforts to ensure...",
+    "description_uk": "🤝 Міністр закордонних справ України Андрій Сибіга провів зустріч з Президенткою ПАРЄ Петрою Байр на полях 135-ї сесії Комітету міністрів у Кишиневі. 💬 \"Вдячний ПАРЄ за непохитну підтримку України, зокрема за активне просування створення Спеціального трибуналу щодо злочину агресії проти України та міжнародного компенсаційного механізму. Обговорили подальші парламентські зусилля для забезпечення...",
+    "time": "",
+    "pubDate": "2026-05-15T13:06:45+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9053",
+    "score": 5.0,
+    "views": 740,
+    "forwards": 3
+  },
+  {
+    "title": "The head of the Ministry of Foreign Affairs: \"We are creating an...",
+    "title_en": "The head of the Ministry of Foreign Affairs: \"We are creating an...",
+    "title_uk": "Глава МЗС: «Ми створюємо...",
+    "description": "The head of the Ministry of Foreign Affairs: \"We are creating an infrastructure of responsibility based on three main elements: the Special Tribunal, the Register of Damages and the Compensation Commission. I also want to emphasize: responsibility will never be a subject of compromises. Justice is an integral element of lasting peace.\"",
+    "description_en": "The head of the Ministry of Foreign Affairs: \"We are creating an infrastructure of responsibility based on three main elements: the Special Tribunal, the Register of Damages and the Compensation Commission. I also want to emphasize: responsibility will never be a subject of compromises. Justice is an integral element of lasting peace.\"",
+    "description_uk": "Глава МЗС: \"Ми створюємо інфраструктуру відповідальності, що спирається на три основні елементи: Спеціальний трибунал, Реєстр збитків та Компенсаційну Комісію. Хочу також підкреслити: відповідальність ніколи не стане предметом компромісів. Справедливість — це невід'ємний елемент тривалого миру\".",
+    "time": "",
+    "pubDate": "2026-05-15T07:49:45+00:00",
+    "category": "political",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9050",
+    "score": 4.0,
+    "views": 1054,
+    "forwards": 6
   }
 ]
