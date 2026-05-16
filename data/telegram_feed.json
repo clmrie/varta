@@ -1,5 +1,59 @@
 [
   {
+    "title": "Zaporizhzhia: Zaporizhzhia - BpLA on the outskirts of the city.",
+    "title_en": "Zaporizhzhia: Zaporizhzhia - BpLA on the outskirts of the city.",
+    "title_uk": "Запоріжжя: Запоріжжя – БпЛА на околиці міста.",
+    "description": "Zaporizhzhia - BpLA on the outskirts of the city.",
+    "description_en": "Zaporizhzhia - BpLA on the outskirts of the city.",
+    "description_uk": "Запоріжжя -БпЛА на околицях міста.",
+    "time": "",
+    "pubDate": "2026-05-16T06:16:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62021",
+    "score": 6.0,
+    "views": 11109,
+    "forwards": 1
+  },
+  {
+    "title": "Kursk: Drone incoming",
+    "title_en": "Kursk: Drone incoming",
+    "title_uk": "Курськ: Дрон входить",
+    "description": "269 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of May 16 (from 18:00 on May 15), the enemy attacked 294 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and \"Parody\" type simulator drones from the directions: Orel, Kursk, Bryansk, Millerovo, Shatalovo, Primorsko-Akhtarsk - Russian Federation, Chauda, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile troops,...",
+    "description_en": "269 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of May 16 (from 18:00 on May 15), the enemy attacked 294 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and \"Parody\" type simulator drones from the directions: Orel, Kursk, Bryansk, Millerovo, Shatalovo, Primorsko-Akhtarsk - Russian Federation, Chauda, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile troops,...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 269 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 16 травня (з 18:00 15 травня) противник атакував 294 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та та дронами-імітаторами типу \"Пародія\" із напрямків: Орел, Курськ, Брянськ, Міллєрово, Шаталово, Приморсько-Ахтарськ – рф., Чауда, Гвардійське – ТОТ АР Крим. Повітряний напад відбивали авіація, зенітні ракетні війська,...",
+    "time": "",
+    "pubDate": "2026-05-16T06:12:34+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kursk",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62020",
+    "score": 13.5,
+    "views": 18190,
+    "forwards": 70
+  },
+  {
+    "title": "Kharkiv: Attack attack on infrastructure",
+    "title_en": "Kharkiv: Attack attack on infrastructure",
+    "title_uk": "Харків: Атака на інфраструктуру",
+    "description": "Russian attack damages infrastructure in Odesa Oblast and Kharkiv. Russian forces launched overnight strikes targeting critical and civilian infrastructure across parts of Ukraine on the night of May 15–16, with attacks reported in Odesa Oblast and Kharkiv, according to regional authorities.",
+    "description_en": "Russian attack damages infrastructure in Odesa Oblast and Kharkiv. Russian forces launched overnight strikes targeting critical and civilian infrastructure across parts of Ukraine on the night of May 15–16, with attacks reported in Odesa Oblast and Kharkiv, according to regional authorities.",
+    "description_uk": "Russian attack damages infrastructure in Odesa Oblast and Kharkiv. Russian forces launched overnight strikes targeting critical and civilian infrastructure across parts of Ukraine on the night of May 15–16, with attacks reported in Odesa Oblast and Kharkiv, according to regional authorities.",
+    "time": "",
+    "pubDate": "2026-05-16T05:30:07+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kharkiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53144",
+    "score": 13.0,
+    "views": 430,
+    "forwards": 1
+  },
+  {
     "title": "BpLA on Myrhorod from the north.",
     "title_en": "BpLA on Myrhorod from the north.",
     "title_uk": "БпЛА на Миргород з півн.",
@@ -38,7 +92,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомляється про вибухи",
+    "title_uk": "Київ: Повідомляється про вибухи",
     "description": "Explosions reported at Russian chemical facility in Stavropol Krai, local media says. The Nevinnomyssky Azot facility was reportedly hit, with videos shared by local residents showing a fire at the site.",
     "description_en": "Explosions reported at Russian chemical facility in Stavropol Krai, local media says. The Nevinnomyssky Azot facility was reportedly hit, with videos shared by local residents showing a fire at the site.",
     "description_uk": "Explosions reported at Russian chemical facility in Stavropol Krai, local media says. The Nevinnomyssky Azot facility was reportedly hit, with videos shared by local residents showing a fire at the site.",
@@ -50,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53143",
     "score": 5.0,
-    "views": 125,
-    "forwards": 0
+    "views": 836,
+    "forwards": 1
   },
   {
     "title": "Kryvyi Rih: BpLA to Kryvyi Rih from the east.",
@@ -175,9 +229,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191564",
-    "score": 5.5,
-    "views": 100108,
-    "forwards": 183
+    "score": 6.5,
+    "views": 154552,
+    "forwards": 204
   },
   {
     "title": "Kyiv: How leaked conversations suggest backroom influence at a Ukrainian...",
@@ -248,8 +302,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191559",
     "score": 9.5,
-    "views": 138138,
-    "forwards": 298
+    "views": 165980,
+    "forwards": 310
   },
   {
     "title": "Mykolaiv: BpLA groups: - from Donetsk ➡️ to Kharkiv; - in Chernihiv region...",
@@ -270,42 +324,6 @@
     "forwards": 0
   },
   {
-    "title": "Kyiv: End of Ukraine's 'untouchables'? Zelensky faces final choice for...",
-    "title_en": "Kyiv: End of Ukraine's 'untouchables'? Zelensky faces final choice for...",
-    "title_uk": "Київ: кінець «недоторканним» України? Зеленський стоїть перед остаточним вибором для...",
-    "description": "End of Ukraine's 'untouchables'? Zelensky faces final choice for Ukraine's anti-corruption future \"Corruption is back at the top of the news in Ukraine, and that is not necessarily a bad thing,\" writes Daria Kaleniuk, Co-founder of ICUV and AntAC, in this op-ed. \"The general population has recognized corruption for what it is: a threat to the nation's safety. Every dollar wasted in war is a...",
-    "description_en": "End of Ukraine's 'untouchables'? Zelensky faces final choice for Ukraine's anti-corruption future \"Corruption is back at the top of the news in Ukraine, and that is not necessarily a bad thing,\" writes Daria Kaleniuk, Co-founder of ICUV and AntAC, in this op-ed. \"The general population has recognized corruption for what it is: a threat to the nation's safety. Every dollar wasted in war is a...",
-    "description_uk": "End of Ukraine's 'untouchables'? Zelensky faces final choice for Ukraine's anti-corruption future \"Corruption is back at the top of the news in Ukraine, and that is not necessarily a bad thing,\" writes Daria Kaleniuk, Co-founder of ICUV and AntAC, in this op-ed. \"The general population has recognized corruption for what it is: a threat to the nation's safety. Every dollar wasted in war is a...",
-    "time": "",
-    "pubDate": "2026-05-15T17:41:02+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53138",
-    "score": 9.5,
-    "views": 1819,
-    "forwards": 5
-  },
-  {
-    "title": "BpLA in the direction of Kharkiv from the north.",
-    "title_en": "BpLA in the direction of Kharkiv from the north.",
-    "title_uk": "БпЛА в напрямку Харкова з півн.",
-    "description": "BpLA in the direction of Kharkiv from the north.",
-    "description_en": "BpLA in the direction of Kharkiv from the north.",
-    "description_uk": "БпЛА у напрямку Харкова з півночі.",
-    "time": "",
-    "pubDate": "2026-05-15T15:58:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61955",
-    "score": 5.0,
-    "views": 36902,
-    "forwards": 11
-  },
-  {
     "title": "Chernihiv: We clearly understand what is being discussed between Russia and the...",
     "title_en": "Chernihiv: We clearly understand what is being discussed between Russia and the...",
     "title_uk": "Чернігів: Ми чітко розуміємо, про що йде мова між Росією і...",
@@ -320,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19078",
     "score": 7.5,
-    "views": 197899,
-    "forwards": 642
+    "views": 220129,
+    "forwards": 652
   },
   {
     "title": "Kyiv: Attack attack on residential area",
@@ -356,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19074",
     "score": 7.5,
-    "views": 269583,
-    "forwards": 1409
+    "views": 277849,
+    "forwards": 1419
   },
   {
     "title": "🤝 Minister of Foreign Affairs of Ukraine Andrii Sybiga held a meeting...",
@@ -374,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9053",
     "score": 5.0,
-    "views": 678,
+    "views": 691,
     "forwards": 3
   },
   {
@@ -410,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9050",
     "score": 4.0,
-    "views": 1006,
+    "views": 1015,
     "forwards": 6
   },
   {
@@ -430,23 +448,5 @@
     "score": 4.0,
     "views": 762,
     "forwards": 4
-  },
-  {
-    "title": "Donetsk: 1 missiles intercepted",
-    "title_en": "Donetsk: 1 missiles intercepted",
-    "title_uk": "Донецьк: перехоплено 1 ракету",
-    "description": "1 MISSILE AND 130 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of May 15 (from 18:00 on May 14), the enemy attacked with five Kh-31P anti-radar missiles from the airspace over the Black Sea, one Kh-35 anti-ship missile from the TOT AR Crimea, as well as 141 attack UAVs of the type Shahed, Gerbera, Italmas and \"Parody\" type simulator drones from Bryansk, Kursk, Orel,...",
-    "description_en": "1 MISSILE AND 130 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of May 15 (from 18:00 on May 14), the enemy attacked with five Kh-31P anti-radar missiles from the airspace over the Black Sea, one Kh-35 anti-ship missile from the TOT AR Crimea, as well as 141 attack UAVs of the type Shahed, Gerbera, Italmas and \"Parody\" type simulator drones from Bryansk, Kursk, Orel,...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 1 РАКЕТУ ТА 130 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 15 травня (з 18:00 14 травня) противник атакував п'ятьма протирадіолокаційними ракетами Х-31П з повітряного простору над акваторією Чорного моря, однією протикорабельною ракетою Х-35 з ТОТ АР Крим, а також 141 ударним БпЛА типу Shahed, Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків Брянськ, Курськ, Орел,...",
-    "time": "",
-    "pubDate": "2026-05-15T06:28:29+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/38670",
-    "score": 13.0,
-    "views": 5883,
-    "forwards": 20
   }
 ]
