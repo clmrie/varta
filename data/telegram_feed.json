@@ -3,19 +3,73 @@
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
-    "description": "UAV from Chernihiv Oblast to Kyiv Oblast in the direction of Kyiv.",
-    "description_en": "UAV from Chernihiv Oblast to Kyiv Oblast in the direction of Kyiv.",
-    "description_uk": "БпЛА з Чернігівщини на Київщину у напрямку Києва.",
+    "description": "UAV in the north of Sumy region in the direction of Chernihiv region",
+    "description_en": "UAV in the north of Sumy region in the direction of Chernihiv region",
+    "description_uk": "БпЛА на півночі Сумщини у напрямку Чернігівщини",
     "time": "",
-    "pubDate": "2026-05-16T14:06:39+00:00",
+    "pubDate": "2026-05-16T15:25:00+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Chernihiv",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62038",
-    "score": 6.5,
-    "views": 30350,
-    "forwards": 106
+    "link": "https://t.me/kpszsu/62044",
+    "score": 6.0,
+    "views": 15184,
+    "forwards": 2
+  },
+  {
+    "title": "Pokrovsk: Control points and other enemy facilities were hit. Results of damage...",
+    "title_en": "Pokrovsk: Control points and other enemy facilities were hit. Results of damage...",
+    "title_uk": "Покровськ: уражені пункти управління та інші об’єкти противника. Результати пошкодження...",
+    "description": "Control points and other enemy facilities were hit. Results of damage to the Ryazan Refinery Yesterday and on the night of May 16, 2026, units of the Defense Forces of Ukraine inflicted damage on a number of important objects of the Russian occupiers. ⚡️In particular, the enemy control post in the Pokrovsk district of Donetsk region, as well as the enemy UAV control post in Grafskyi, Donetsk region, were hit. ⚡️A hangar with...",
+    "description_en": "Control points and other enemy facilities were hit. Results of damage to the Ryazan Refinery Yesterday and on the night of May 16, 2026, units of the Defense Forces of Ukraine inflicted damage on a number of important objects of the Russian occupiers. ⚡️In particular, the enemy control post in the Pokrovsk district of Donetsk region, as well as the enemy UAV control post in Grafskyi, Donetsk region, were hit. ⚡️A hangar with...",
+    "description_uk": "Уражено пункти управління та інші об’єкти ворога. Результати ураження Рязанського НПЗ Вчора та у ніч на 16 травня 2026 року підрозділи Сил оборони України завдали уражень по низці важливих об’єктів російських окупантів. ⚡️Зокрема уражено пункт управління ворога у районі Покровська Донецької області, а також пункт управління БпЛА противника у Графському на Донеччині. ⚡️Також уражено ангар з...",
+    "time": "",
+    "pubDate": "2026-05-16T15:19:56+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Pokrovsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/38718",
+    "score": 13.0,
+    "views": 1645,
+    "forwards": 49
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV in the direction of Kryvyi Rih from the east",
+    "description_en": "UAV in the direction of Kryvyi Rih from the east",
+    "description_uk": "БпЛА у напрямку Кривого Рогу зі сходу",
+    "time": "",
+    "pubDate": "2026-05-16T15:19:49+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62043",
+    "score": 5.0,
+    "views": 22257,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "France ready to develop ballistic missile defense with Ukraine, Zelensky says, calling it ‘important step.’ “We discussed strengthening our capabilities to repel Russian attacks right now,” President Volodymyr Zelensky said.",
+    "description_en": "France ready to develop ballistic missile defense with Ukraine, Zelensky says, calling it ‘important step.’ “We discussed strengthening our capabilities to repel Russian attacks right now,” President Volodymyr Zelensky said.",
+    "description_uk": "France ready to develop ballistic missile defense with Ukraine, Zelensky says, calling it ‘important step.’ “We discussed strengthening our capabilities to repel Russian attacks right now,” President Volodymyr Zelensky said.",
+    "time": "",
+    "pubDate": "2026-05-16T14:55:50+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53155",
+    "score": 6.0,
+    "views": 536,
+    "forwards": 1
   },
   {
     "title": "200 drones intercepted",
@@ -31,9 +85,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191596",
-    "score": 8.5,
-    "views": 68299,
-    "forwards": 177
+    "score": 9.5,
+    "views": 88995,
+    "forwards": 213
   },
   {
     "title": "Kyiv: Airstrike attack on residential area",
@@ -50,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53150",
     "score": 5.0,
-    "views": 1344,
+    "views": 1574,
     "forwards": 0
   },
   {
@@ -104,7 +158,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19082",
     "score": 4.0,
-    "views": 58885,
+    "views": 63099,
     "forwards": 93
   },
   {
@@ -122,7 +176,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23507",
     "score": 5.5,
-    "views": 90346,
+    "views": 100264,
     "forwards": 71
   },
   {
@@ -176,7 +230,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19081",
     "score": 4.5,
-    "views": 97105,
+    "views": 105264,
     "forwards": 205
   },
   {
@@ -284,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38708",
     "score": 13.0,
-    "views": 5170,
+    "views": 5371,
     "forwards": 22
   },
   {
@@ -360,24 +414,6 @@
     "forwards": 1
   },
   {
-    "title": "Kyiv: Attack attack on residential area",
-    "title_en": "Kyiv: Attack attack on residential area",
-    "title_uk": "Київ: обстріл житлового кварталу",
-    "description": "Zelensky pays respects to victims of May 14 Russian attack on Kyiv as capital marks day of mourning. A day of mourning was being observed in Kyiv on May 15. Photo: Ukrainian Presidency / Handout/Anadolu via Getty Images",
-    "description_en": "Zelensky pays respects to victims of May 14 Russian attack on Kyiv as capital marks day of mourning. A day of mourning was being observed in Kyiv on May 15. Photo: Ukrainian Presidency / Handout/Anadolu via Getty Images",
-    "description_uk": "Zelensky pays respects to victims of May 14 Russian attack on Kyiv as capital marks day of mourning. A day of mourning was being observed in Kyiv on May 15. Photo: Ukrainian Presidency / Handout/Anadolu via Getty Images",
-    "time": "",
-    "pubDate": "2026-05-15T14:42:59+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53134",
-    "score": 6.0,
-    "views": 1781,
-    "forwards": 4
-  },
-  {
     "title": "🤝 Minister of Foreign Affairs of Ukraine Andrii Sybiga held a meeting...",
     "title_en": "🤝 Minister of Foreign Affairs of Ukraine Andrii Sybiga held a meeting...",
     "title_uk": "🤝 Міністр закордонних справ України Андрій Сибіга провів зустріч...",
@@ -392,15 +428,15 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9053",
     "score": 5.0,
-    "views": 722,
+    "views": 726,
     "forwards": 3
   },
   {
     "title": "The head of the Ministry of Foreign Affairs: \"We are creating an...",
     "title_en": "The head of the Ministry of Foreign Affairs: \"We are creating an...",
     "title_uk": "Глава МЗС: «Ми створюємо...",
-    "description": "The head of the Ministry of Foreign Affairs: \"We are creating an infrastructure of responsibility based on three main elements: the Special Tribunal, the Register of Damages and the Compensation Commission. I also want to emphasize: responsibility will never be a subject of compromises. Justice is an integral element of lasting peace.\"",
-    "description_en": "The head of the Ministry of Foreign Affairs: \"We are creating an infrastructure of responsibility based on three main elements: the Special Tribunal, the Register of Damages and the Compensation Commission. I also want to emphasize: responsibility will never be a subject of compromises. Justice is an integral element of lasting peace.\"",
+    "description": "The head of the Ministry of Foreign Affairs: \"We are creating an infrastructure of responsibility based on three main elements: the Special Tribunal, the Register of Damages and the Compensation Commission. I also want to emphasize: responsibility will never be the subject of compromises. Justice is an integral element of lasting peace.\"",
+    "description_en": "The head of the Ministry of Foreign Affairs: \"We are creating an infrastructure of responsibility based on three main elements: the Special Tribunal, the Register of Damages and the Compensation Commission. I also want to emphasize: responsibility will never be the subject of compromises. Justice is an integral element of lasting peace.\"",
     "description_uk": "Глава МЗС: \"Ми створюємо інфраструктуру відповідальності, що спирається на три основні елементи: Спеціальний трибунал, Реєстр збитків та Компенсаційну Комісію. Хочу також підкреслити: відповідальність ніколи не стане предметом компромісів. Справедливість — це невід'ємний елемент тривалого миру\".",
     "time": "",
     "pubDate": "2026-05-15T07:49:45+00:00",
@@ -410,25 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9050",
     "score": 4.0,
-    "views": 1040,
+    "views": 1042,
     "forwards": 6
-  },
-  {
-    "title": "Kharkiv: ⚔️ 129 OVMBr liberated Odradne in Kharkiv Oblast ➡️ Katsaps were...",
-    "title_en": "Kharkiv: ⚔️ 129 OVMBr liberated Odradne in Kharkiv Oblast ➡️ Katsaps were...",
-    "title_uk": "Харків: ⚔️ 129 ОВМБр звільнила Одрадне на Харківщині ➡️ Кацапи були...",
-    "description": "⚔️ 129 OVMBr liberated Odradne in Kharkiv Oblast ➡️ Katsaps were destroyed near Odradne. As a result of the planned operation, the Defense Forces carried out a cleanup and brought back under full control the settlement of Odradne and its surroundings. ✈️ New war tactics bring results, the enemy suffered significant losses in defense, and those who managed to escape escaped. 129 OVMBr continues to free Ukrainian land from Katsap...",
-    "description_en": "⚔️ 129 OVMBr liberated Odradne in Kharkiv Oblast ➡️ Katsaps were destroyed near Odradne. As a result of the planned operation, the Defense Forces carried out a cleanup and brought back under full control the settlement of Odradne and its surroundings. ✈️ New war tactics bring results, the enemy suffered significant losses in defense, and those who managed to escape escaped. 129 OVMBr continues to free Ukrainian land from Katsap...",
-    "description_uk": "⚔️ 129 ОВМБр звільнила Одрадне на Харківщині ➡️ Кацапів розбито поблизу Одрадного. В результаті спланованої операції Сили Оборони здійснили зачистку та повернули під повний контроль населений пункт Одрадне та його околиці. ✈️ Нові тактики війни приносять результат, в обороні ворог поніс значні втрати, а хто зумів — рятувався втечею. 129 ОВМБр продовжує звільняти українську землю від кацапської...",
-    "time": "",
-    "pubDate": "2026-05-15T05:02:05+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "DeepState",
-    "link": "https://t.me/DeepStateUA/23505",
-    "score": 6.5,
-    "views": 162337,
-    "forwards": 746
   }
 ]
