@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kyiv: Airstrike attack on residential area",
+    "title_en": "Kyiv: Airstrike attack on residential area",
+    "title_uk": "Київ: авіаудар по житловому кварталу",
+    "description": "‘Justified response’ – Zelensky releases footage of Ukrainian strikes on Russian aircraft, other targets deep behind enemy lines. Ukraine struck several Russian military targets this week, including a Be-200 amphibious aircraft, President Volodymyr Zelensky said on May 16.",
+    "description_en": "‘Justified response’ – Zelensky releases footage of Ukrainian strikes on Russian aircraft, other targets deep behind enemy lines. Ukraine struck several Russian military targets this week, including a Be-200 amphibious aircraft, President Volodymyr Zelensky said on May 16.",
+    "description_uk": "‘Justified response’ – Zelensky releases footage of Ukrainian strikes on Russian aircraft, other targets deep behind enemy lines. Ukraine struck several Russian military targets this week, including a Be-200 amphibious aircraft, President Volodymyr Zelensky said on May 16.",
+    "time": "",
+    "pubDate": "2026-05-16T11:30:22+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53150",
+    "score": 5.0,
+    "views": 386,
+    "forwards": 0
+  },
+  {
     "title": "Casualties reported",
     "title_en": "Casualties reported",
     "title_uk": "Повідомляється про постраждалих",
@@ -13,14 +31,14 @@
     "location": "Kyiv",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191582",
-    "score": 4.0,
-    "views": 22613,
-    "forwards": 38
+    "score": 4.5,
+    "views": 58305,
+    "forwards": 73
   },
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомляється про вибухи",
+    "title_uk": "Київ: повідомлення про вибухи",
     "description": "Update: Drone strike reportedly hits major Russian fertilizer plant linked to explosives production. Andrii Kovalenko, an official at Ukraine’s National Security and Defense Council, described the facility as “a critical component” of Russia’s defense-industrial complex.",
     "description_en": "Update: Drone strike reportedly hits major Russian fertilizer plant linked to explosives production. Andrii Kovalenko, an official at Ukraine’s National Security and Defense Council, described the facility as “a critical component” of Russia’s defense-industrial complex.",
     "description_uk": "Update: Drone strike reportedly hits major Russian fertilizer plant linked to explosives production. Andrii Kovalenko, an official at Ukraine’s National Security and Defense Council, described the facility as “a critical component” of Russia’s defense-industrial complex.",
@@ -32,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53149",
     "score": 5.0,
-    "views": 500,
+    "views": 906,
     "forwards": 0
   },
   {
@@ -50,8 +68,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19082",
     "score": 4.0,
-    "views": 28785,
-    "forwards": 63
+    "views": 38372,
+    "forwards": 83
   },
   {
     "title": "🕯 The bodies of 528 victims were returned to Ukraine 🚪 Today, as a...",
@@ -68,8 +86,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23507",
     "score": 5.0,
-    "views": 51436,
-    "forwards": 44
+    "views": 61731,
+    "forwards": 50
   },
   {
     "title": "Kyiv: Kyiv repatriates 528 bodies that Russia claims are fallen Ukrainian...",
@@ -104,8 +122,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/62033",
     "score": 6.0,
-    "views": 64390,
-    "forwards": 2
+    "views": 74149,
+    "forwards": 20
   },
   {
     "title": "Drone strike",
@@ -122,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19081",
     "score": 3.5,
-    "views": 56955,
-    "forwards": 160
+    "views": 69890,
+    "forwards": 181
   },
   {
     "title": "Chernihiv: Chernihiv region - BpLA on Pryluky from the north.",
@@ -140,7 +158,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/62032",
     "score": 6.0,
-    "views": 75562,
+    "views": 84418,
     "forwards": 1
   },
   {
@@ -230,7 +248,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38708",
     "score": 13.0,
-    "views": 4290,
+    "views": 4570,
     "forwards": 20
   },
   {
@@ -342,60 +360,6 @@
     "forwards": 2
   },
   {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "A new group of strike UAVs from the Black Sea is heading towards Odesa/Mykolaiv Oblast",
-    "description_en": "A new group of strike UAVs from the Black Sea is heading towards Odesa/Mykolaiv Oblast",
-    "description_uk": "Нова група ударних БпЛА з акваторії Чорного моря прямує в бік Одещини/Миколаївщини",
-    "time": "",
-    "pubDate": "2026-05-15T23:03:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61985",
-    "score": 6.0,
-    "views": 4897,
-    "forwards": 1
-  },
-  {
-    "title": "Zaporizhzhia: BpLA ➡️ course to Zaporizhzhia",
-    "title_en": "Zaporizhzhia: BpLA ➡️ course to Zaporizhzhia",
-    "title_uk": "Запоріжжя: BpLA ➡️ курс до Запоріжжя",
-    "description": "BpLA ➡️ course to Zaporizhzhia",
-    "description_en": "BpLA ➡️ course to Zaporizhzhia",
-    "description_uk": "БпЛА ➡️ курсом на Запоріжжя",
-    "time": "",
-    "pubDate": "2026-05-15T23:02:07+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/61984",
-    "score": 6.0,
-    "views": 5502,
-    "forwards": 1
-  },
-  {
-    "title": "Air defense active",
-    "title_en": "Air defense active",
-    "title_uk": "Активна ППО",
-    "description": "There are reasonable suspicions that some \"Shahedas\" have EW devices installed to suppress our drone interceptors, as well as EW devices to interfere with radar stations. This was stated by the adviser to the Minister of Defense Sergey \"Flash\" Beskrestnov. \"There is nothing unexpected in this for us, but it is important to keep the whole situation under control even before the facts are confirmed,\" he wrote...",
-    "description_en": "There are reasonable suspicions that some \"Shahedas\" have EW devices installed to suppress our drone interceptors, as well as EW devices to interfere with radar stations. This was stated by the adviser to the Minister of Defense Sergey \"Flash\" Beskrestnov. \"There is nothing unexpected in this for us, but it is important to keep the whole situation under control even before the facts are confirmed,\" he wrote...",
-    "description_uk": "Есть обоснованные подозрения, что на некоторых \"Шахедах\" установлены средства РЭБ для подавления наших перехватчиков-дронов, а также средства РЭБ для создания помех радиолокационным станциям. Об этом заявил советник министра обороны Сергей \"Флэш\" Бескрестнов. \"Для нас в этом нет ничего неожиданного, но важно держать всю ситуацию под контролем еще до того, как факты будут подтверждены\", - написал...",
-    "time": "",
-    "pubDate": "2026-05-15T20:57:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/191564",
-    "score": 6.5,
-    "views": 190172,
-    "forwards": 275
-  },
-  {
     "title": "Kyiv: Attack attack on residential area",
     "title_en": "Kyiv: Attack attack on residential area",
     "title_uk": "Київ: обстріл житлового кварталу",
@@ -428,15 +392,15 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9053",
     "score": 5.0,
-    "views": 711,
+    "views": 717,
     "forwards": 3
   },
   {
     "title": "The head of the Ministry of Foreign Affairs: \"We are creating an...",
     "title_en": "The head of the Ministry of Foreign Affairs: \"We are creating an...",
     "title_uk": "Глава МЗС: «Ми створюємо...",
-    "description": "The head of the Ministry of Foreign Affairs: \"We are creating an infrastructure of responsibility based on three main elements: the Special Tribunal, the Register of Damages and the Compensation Commission. I also want to emphasize: responsibility will never be a subject of compromises. Justice is an integral element of lasting peace.\"",
-    "description_en": "The head of the Ministry of Foreign Affairs: \"We are creating an infrastructure of responsibility based on three main elements: the Special Tribunal, the Register of Damages and the Compensation Commission. I also want to emphasize: responsibility will never be a subject of compromises. Justice is an integral element of lasting peace.\"",
+    "description": "The head of the Ministry of Foreign Affairs: \"We are creating an infrastructure of responsibility based on three main elements: the Special Tribunal, the Register of Damages and the Compensation Commission. I also want to emphasize: responsibility will never be the subject of compromises. Justice is an integral element of lasting peace.\"",
+    "description_en": "The head of the Ministry of Foreign Affairs: \"We are creating an infrastructure of responsibility based on three main elements: the Special Tribunal, the Register of Damages and the Compensation Commission. I also want to emphasize: responsibility will never be the subject of compromises. Justice is an integral element of lasting peace.\"",
     "description_uk": "Глава МЗС: \"Ми створюємо інфраструктуру відповідальності, що спирається на три основні елементи: Спеціальний трибунал, Реєстр збитків та Компенсаційну Комісію. Хочу також підкреслити: відповідальність ніколи не стане предметом компромісів. Справедливість — це невід'ємний елемент тривалого миру\".",
     "time": "",
     "pubDate": "2026-05-15T07:49:45+00:00",
@@ -446,7 +410,25 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9050",
     "score": 4.0,
-    "views": 1032,
+    "views": 1036,
     "forwards": 6
+  },
+  {
+    "title": "Kharkiv: ⚔️ 129 OVMBr liberated Odradne in Kharkiv Oblast ➡️ Katsaps were...",
+    "title_en": "Kharkiv: ⚔️ 129 OVMBr liberated Odradne in Kharkiv Oblast ➡️ Katsaps were...",
+    "title_uk": "Харків: ⚔️ 129 ОВМБр звільнила Одрадне на Харківщині ➡️ Кацапи були...",
+    "description": "⚔️ 129 OVMBr liberated Odradne in Kharkiv Oblast ➡️ Katsaps were destroyed near Odradne. As a result of the planned operation, the Defense Forces carried out a cleanup and brought back under full control the settlement of Odradne and its surroundings. ✈️ New war tactics bring results, the enemy suffered significant losses in defense, and those who managed to escape escaped. 129 OVMBr continues to free Ukrainian land from Katsap...",
+    "description_en": "⚔️ 129 OVMBr liberated Odradne in Kharkiv Oblast ➡️ Katsaps were destroyed near Odradne. As a result of the planned operation, the Defense Forces carried out a cleanup and brought back under full control the settlement of Odradne and its surroundings. ✈️ New war tactics bring results, the enemy suffered significant losses in defense, and those who managed to escape escaped. 129 OVMBr continues to free Ukrainian land from Katsap...",
+    "description_uk": "⚔️ 129 ОВМБр звільнила Одрадне на Харківщині ➡️ Кацапів розбито поблизу Одрадного. В результаті спланованої операції Сили Оборони здійснили зачистку та повернули під повний контроль населений пункт Одрадне та його околиці. ✈️ Нові тактики війни приносять результат, в обороні ворог поніс значні втрати, а хто зумів — рятувався втечею. 129 ОВМБр продовжує звільняти українську землю від кацапської...",
+    "time": "",
+    "pubDate": "2026-05-15T05:02:05+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23505",
+    "score": 6.5,
+    "views": 156765,
+    "forwards": 741
   }
 ]
