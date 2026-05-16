@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV in the direction of Kyiv from the east.",
+    "description_en": "UAV in the direction of Kyiv from the east.",
+    "description_uk": "БпЛА у напрямку Києва зі сходу.",
+    "time": "",
+    "pubDate": "2026-05-16T19:31:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62055",
+    "score": 5.5,
+    "views": 35373,
+    "forwards": 71
+  },
+  {
+    "title": "Mykolaiv: BpLA from Mykolaiv region to Odesa in the western direction.",
+    "title_en": "Mykolaiv: BpLA from Mykolaiv region to Odesa in the western direction.",
+    "title_uk": "Миколаїв: БпЛА від Миколаївської області до Одеси в західному напрямку.",
+    "description": "BpLA from Mykolaiv region to Odesa in the western direction.",
+    "description_en": "BpLA from Mykolaiv region to Odesa in the western direction.",
+    "description_uk": "БпЛА з Миколаївщини на Одещину у західному напрямку.",
+    "time": "",
+    "pubDate": "2026-05-16T19:21:37+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62054",
+    "score": 6.0,
+    "views": 46523,
+    "forwards": 3
+  },
+  {
     "title": "Mykolaiv: A group of BpLA to Mykolayiv region from Kherson region. 🛵 A group of...",
     "title_en": "Mykolaiv: A group of BpLA to Mykolayiv region from Kherson region. 🛵 A group of...",
     "title_uk": "Миколаїв: Група БпЛА на Миколаївщину з Херсонщини. 🛵 Група...",
@@ -68,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53157",
     "score": 5.0,
-    "views": 999,
-    "forwards": 6
+    "views": 1288,
+    "forwards": 8
   },
   {
     "title": "Mykolaiv: Threat of BpLA in Mykolaiv region, Chernihiv region and Kherson...",
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53156",
     "score": 13.5,
-    "views": 1098,
+    "views": 1354,
     "forwards": 4
   },
   {
@@ -122,26 +158,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38718",
     "score": 13.5,
-    "views": 12843,
-    "forwards": 83
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV in the direction of Kryvyi Rih from the east",
-    "description_en": "UAV in the direction of Kryvyi Rih from the east",
-    "description_uk": "БпЛА у напрямку Кривого Рогу зі сходу",
-    "time": "",
-    "pubDate": "2026-05-16T15:19:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62043",
-    "score": 5.0,
-    "views": 22257,
-    "forwards": 1
+    "views": 15832,
+    "forwards": 89
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -248,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19082",
     "score": 4.0,
-    "views": 74249,
-    "forwards": 104
+    "views": 77439,
+    "forwards": 105
   },
   {
     "title": "🕯 The bodies of 528 victims were returned to Ukraine 🚪 Today, as a...",
@@ -266,7 +284,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23507",
     "score": 5.5,
-    "views": 117586,
+    "views": 122842,
     "forwards": 75
   },
   {
@@ -320,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19081",
     "score": 4.5,
-    "views": 125337,
-    "forwards": 216
+    "views": 131546,
+    "forwards": 218
   },
   {
     "title": "Chernihiv: Chernihiv region - BpLA on Pryluky from the north.",
@@ -428,25 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38708",
     "score": 13.0,
-    "views": 5653,
+    "views": 5771,
     "forwards": 22
-  },
-  {
-    "title": "Kharkiv: Attack attack on infrastructure",
-    "title_en": "Kharkiv: Attack attack on infrastructure",
-    "title_uk": "Харків: Атака на інфраструктуру",
-    "description": "Russian attack damages infrastructure in Odesa Oblast and Kharkiv. Russian forces launched overnight strikes targeting critical and civilian infrastructure across parts of Ukraine on the night of May 15–16, with attacks reported in Odesa Oblast and Kharkiv, according to regional authorities.",
-    "description_en": "Russian attack damages infrastructure in Odesa Oblast and Kharkiv. Russian forces launched overnight strikes targeting critical and civilian infrastructure across parts of Ukraine on the night of May 15–16, with attacks reported in Odesa Oblast and Kharkiv, according to regional authorities.",
-    "description_uk": "Russian attack damages infrastructure in Odesa Oblast and Kharkiv. Russian forces launched overnight strikes targeting critical and civilian infrastructure across parts of Ukraine on the night of May 15–16, with attacks reported in Odesa Oblast and Kharkiv, according to regional authorities.",
-    "time": "",
-    "pubDate": "2026-05-16T05:30:07+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kharkiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53144",
-    "score": 13.0,
-    "views": 1025,
-    "forwards": 2
   }
 ]
