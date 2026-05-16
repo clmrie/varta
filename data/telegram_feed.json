@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: UAVs from Kharkiv Oblast enter Poltava Oblast on a westerly course.",
+    "title_en": "Kharkiv: UAVs from Kharkiv Oblast enter Poltava Oblast on a westerly course.",
+    "title_uk": "Харків: БПЛА з Харківської області заходять на Полтавську область західним курсом.",
+    "description": "UAVs from Kharkiv Oblast enter Poltava Oblast on a westerly course.",
+    "description_en": "UAVs from Kharkiv Oblast enter Poltava Oblast on a westerly course.",
+    "description_uk": "БпЛА з Харківщини заходять на Полтавщину західним курсом.",
+    "time": "",
+    "pubDate": "2026-05-16T23:04:18+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62062",
+    "score": 6.0,
+    "views": 6087,
+    "forwards": 1
+  },
+  {
+    "title": "Limanka (Odeszine) is a threat of unmanned aerial vehicles.",
+    "title_en": "Limanka (Odeszine) is a threat of unmanned aerial vehicles.",
+    "title_uk": "Лиманка (Одесине) – загроза безпілотних літальних апаратів.",
+    "description": "Limanka (Odeszine) is a threat of unmanned aerial vehicles.",
+    "description_en": "Limanka (Odeszine) is a threat of unmanned aerial vehicles.",
+    "description_uk": "Лиманка (Одещина) загроза ударних БпЛА.",
+    "time": "",
+    "pubDate": "2026-05-16T22:20:20+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62061",
+    "score": 5.0,
+    "views": 20326,
+    "forwards": 17
+  },
+  {
     "title": "Limanka (Odeshchyna) is a threat of unmanned aerial vehicles.",
     "title_en": "Limanka (Odeshchyna) is a threat of unmanned aerial vehicles.",
     "title_uk": "Лиманка (Одещина) – загроза безпілотних літальних апаратів.",
@@ -20,7 +56,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
+    "title_uk": "Київ: повідомляється про вибухи",
     "description": "Romanian authorities find unexploded projectile near Ukraine border. Romania's Defense Ministry said that an \"unguided reactive projectile\" was discovered on a property near the country's border with Ukraine.",
     "description_en": "Romanian authorities find unexploded projectile near Ukraine border. Romania's Defense Ministry said that an \"unguided reactive projectile\" was discovered on a property near the country's border with Ukraine.",
     "description_uk": "Romanian authorities find unexploded projectile near Ukraine border. Romania's Defense Ministry said that an \"unguided reactive projectile\" was discovered on a property near the country's border with Ukraine.",
@@ -32,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53159",
     "score": 5.0,
-    "views": 665,
+    "views": 842,
     "forwards": 3
   },
   {
@@ -176,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53157",
     "score": 5.0,
-    "views": 1874,
+    "views": 1965,
     "forwards": 8
   },
   {
@@ -230,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38718",
     "score": 13.5,
-    "views": 19082,
+    "views": 19248,
     "forwards": 92
   },
   {
@@ -320,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19082",
     "score": 4.0,
-    "views": 81314,
+    "views": 81693,
     "forwards": 106
   },
   {
@@ -338,7 +374,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23507",
     "score": 5.5,
-    "views": 128919,
+    "views": 129570,
     "forwards": 75
   },
   {
@@ -374,8 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19081",
     "score": 4.5,
-    "views": 140793,
-    "forwards": 229
+    "views": 141334,
+    "forwards": 231
   },
   {
     "title": "Kyiv: 294 drones intercepted",
@@ -412,41 +448,5 @@
     "score": 5.5,
     "views": 35878,
     "forwards": 89
-  },
-  {
-    "title": "Kursk: Drone incoming",
-    "title_en": "Kursk: Drone incoming",
-    "title_uk": "Курськ: Дрон входить",
-    "description": "269 ENEMY UAVS DOWN/SUPPRESSED On the night of May 16 (from 18:00 on May 15), the enemy attacked 294 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and \"Parody\" type simulator drones from the directions: Orel, Kursk, Bryansk, Millerovo, Shatalovo, Primorsko-Akhtarsk - Russian Federation, Chauda, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and...",
-    "description_en": "269 ENEMY UAVS DOWN/SUPPRESSED On the night of May 16 (from 18:00 on May 15), the enemy attacked 294 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and \"Parody\" type simulator drones from the directions: Orel, Kursk, Bryansk, Millerovo, Shatalovo, Primorsko-Akhtarsk - Russian Federation, Chauda, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 269 ВОРОЖИХ БПЛА У ніч на 16 травня (з 18:00 15 травня) противник атакував 294 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та та дронами-імітаторами типу \"Пародія\" із напрямків: Орел, Курськ, Брянськ, Міллєрово, Шаталово, Приморсько-Ахтарськ – рф., Чауда, Гвардійське – ТОТ АР Крим. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та...",
-    "time": "",
-    "pubDate": "2026-05-16T06:49:02+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kursk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/38708",
-    "score": 13.0,
-    "views": 5915,
-    "forwards": 22
-  },
-  {
-    "title": "🤝 Minister of Foreign Affairs of Ukraine Andrii Sybiga held a meeting...",
-    "title_en": "🤝 Minister of Foreign Affairs of Ukraine Andrii Sybiga held a meeting...",
-    "title_uk": "🤝 Міністр закордонних справ України Андрій Сибіга провів зустріч...",
-    "description": "🤝 Minister of Foreign Affairs of Ukraine Andrii Sybiga held a meeting with PACE President Petra Bair on the sidelines of the 135th session of the Committee of Ministers in Chisinau. 💬 \"Grateful to PACE for unwavering support of Ukraine, in particular for actively promoting the creation of the Special Tribunal for the Crime of Aggression against Ukraine and the international compensation mechanism. They discussed further parliamentary efforts to ensure...",
-    "description_en": "🤝 Minister of Foreign Affairs of Ukraine Andrii Sybiga held a meeting with PACE President Petra Bair on the sidelines of the 135th session of the Committee of Ministers in Chisinau. 💬 \"Grateful to PACE for unwavering support of Ukraine, in particular for actively promoting the creation of the Special Tribunal for the Crime of Aggression against Ukraine and the international compensation mechanism. They discussed further parliamentary efforts to ensure...",
-    "description_uk": "🤝 Міністр закордонних справ України Андрій Сибіга провів зустріч з Президенткою ПАРЄ Петрою Байр на полях 135-ї сесії Комітету міністрів у Кишиневі. 💬 \"Вдячний ПАРЄ за непохитну підтримку України, зокрема за активне просування створення Спеціального трибуналу щодо злочину агресії проти України та міжнародного компенсаційного механізму. Обговорили подальші парламентські зусилля для забезпечення...",
-    "time": "",
-    "pubDate": "2026-05-15T13:06:45+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9053",
-    "score": 5.0,
-    "views": 740,
-    "forwards": 3
   }
 ]
