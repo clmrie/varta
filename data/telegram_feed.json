@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Sumyshchyna - BpLA on Nyzy, Nedrigailiv. 🛵 Kharkiv region BpLA on...",
+    "title_en": "Kharkiv: Sumyshchyna - BpLA on Nyzy, Nedrigailiv. 🛵 Kharkiv region BpLA on...",
+    "title_uk": "Харків: Сумщина – БпЛА на Низі, Недригайлів. 🛵 BpLA Харківської області на...",
+    "description": "Sumyshchyna - BpLA on Nyzy, Nedrigailiv. 🛵 Kharkiv region BpLA on Mala Danilivka. 🛵 Poltava region - BpLA past Myrhorod, heading for Velyki Sorochyntsi.",
+    "description_en": "Sumyshchyna - BpLA on Nyzy, Nedrigailiv. 🛵 Kharkiv region BpLA on Mala Danilivka. 🛵 Poltava region - BpLA past Myrhorod, heading for Velyki Sorochyntsi.",
+    "description_uk": "Сумщина - БпЛА на Низи, Недригайлів. 🛵 Харківщина БпЛА на Малу Данилівку. 🛵 Полтавщина - БпЛА повз Миргород, курсом на Великі Сорочинці.",
+    "time": "",
+    "pubDate": "2026-05-17T00:05:33+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62070",
+    "score": 6.0,
+    "views": 3646,
+    "forwards": 1
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Enemy UAVs in the east of Sumy Oblast in the west direction.",
+    "description_en": "Enemy UAVs in the east of Sumy Oblast in the west direction.",
+    "description_uk": "Ворожі БпЛА на сході Сумщини у західному напрямку.",
+    "time": "",
+    "pubDate": "2026-05-16T23:47:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62068",
+    "score": 5.0,
+    "views": 9747,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: UAVs from Kharkiv Oblast enter Poltava Oblast on a westerly course.",
     "title_en": "Kharkiv: UAVs from Kharkiv Oblast enter Poltava Oblast on a westerly course.",
     "title_uk": "Харків: БПЛА з Харківської області заходять на Полтавську область західним курсом.",
@@ -68,26 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53159",
     "score": 5.0,
-    "views": 842,
-    "forwards": 3
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A group of UAVs in the direction of the Dnipro from the southeast.",
-    "description_en": "A group of UAVs in the direction of the Dnipro from the southeast.",
-    "description_uk": "Група БпЛА у напрямку Дніпра з південного сходу.",
-    "time": "",
-    "pubDate": "2026-05-16T20:41:28+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62059",
-    "score": 5.0,
-    "views": 54771,
-    "forwards": 46
+    "views": 977,
+    "forwards": 5
   },
   {
     "title": "Chernihiv: A group of UAVs from Sumy Oblast on a southwesterly course to...",
@@ -212,8 +230,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53157",
     "score": 5.0,
-    "views": 1965,
-    "forwards": 8
+    "views": 2044,
+    "forwards": 9
   },
   {
     "title": "Mykolaiv: Threat of BpLA in Mykolaiv region, Chernihiv region and Kherson...",
@@ -266,8 +284,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38718",
     "score": 13.5,
-    "views": 19248,
-    "forwards": 92
+    "views": 19432,
+    "forwards": 93
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -306,24 +324,6 @@
     "forwards": 251
   },
   {
-    "title": "Kyiv: Airstrike attack on residential area",
-    "title_en": "Kyiv: Airstrike attack on residential area",
-    "title_uk": "Київ: авіаудар по житловому кварталу",
-    "description": "‘Justified response’ – Zelensky releases footage of Ukrainian strikes on Russian aircraft, other targets deep behind enemy lines. Ukraine struck several Russian military targets this week, including a Be-200 amphibious aircraft, President Volodymyr Zelensky said on May 16.",
-    "description_en": "‘Justified response’ – Zelensky releases footage of Ukrainian strikes on Russian aircraft, other targets deep behind enemy lines. Ukraine struck several Russian military targets this week, including a Be-200 amphibious aircraft, President Volodymyr Zelensky said on May 16.",
-    "description_uk": "‘Justified response’ – Zelensky releases footage of Ukrainian strikes on Russian aircraft, other targets deep behind enemy lines. Ukraine struck several Russian military targets this week, including a Be-200 amphibious aircraft, President Volodymyr Zelensky said on May 16.",
-    "time": "",
-    "pubDate": "2026-05-16T11:30:22+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53150",
-    "score": 5.0,
-    "views": 1574,
-    "forwards": 0
-  },
-  {
     "title": "Casualties reported",
     "title_en": "Casualties reported",
     "title_uk": "Повідомляється про постраждалих",
@@ -356,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19082",
     "score": 4.0,
-    "views": 81693,
+    "views": 82310,
     "forwards": 106
   },
   {
@@ -374,7 +374,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23507",
     "score": 5.5,
-    "views": 129570,
+    "views": 130164,
     "forwards": 75
   },
   {
@@ -410,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19081",
     "score": 4.5,
-    "views": 141334,
+    "views": 141908,
     "forwards": 231
   },
   {
