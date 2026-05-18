@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A group of UAVs in the waters of the Black Sea in the direction of southern Odesa",
+    "description_en": "A group of UAVs in the waters of the Black Sea in the direction of southern Odesa",
+    "description_uk": "Група БпЛА в акваторії Чорного моря у напрямку півдня Одещини",
+    "time": "",
+    "pubDate": "2026-05-18T21:48:43+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62212",
+    "score": 5.0,
+    "views": 14951,
+    "forwards": 1
+  },
+  {
     "title": "Kramatorsk: Drone incoming",
     "title_en": "Kramatorsk: Drone incoming",
     "title_uk": "Краматорськ: Дрон вхід",
@@ -16,24 +34,6 @@
     "score": 6.0,
     "views": 45956,
     "forwards": 18
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Strike UAV in the direction of Brovary",
-    "description_en": "Strike UAV in the direction of Brovary",
-    "description_uk": "Ударний БпЛА у напрямку Броварів",
-    "time": "",
-    "pubDate": "2026-05-18T20:16:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Brovary",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62207",
-    "score": 5.0,
-    "views": 48244,
-    "forwards": 36
   },
   {
     "title": "Dnipro: The BpLA group entered the Dnipropetrovsk region, heading for...",
@@ -86,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53194",
     "score": 6.0,
-    "views": 1440,
+    "views": 1681,
     "forwards": 5
   },
   {
@@ -104,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53193",
     "score": 6.0,
-    "views": 1328,
-    "forwards": 5
+    "views": 1533,
+    "forwards": 6
   },
   {
     "title": "Only in recent months, Russia has lost about 10% of its oil refining...",
@@ -122,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191756",
     "score": 4.5,
-    "views": 127443,
-    "forwards": 74
+    "views": 133424,
+    "forwards": 108
   },
   {
     "title": "In these months alone, minus 10% of Russian oil refining. It is also...",
@@ -140,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19122",
     "score": 4.5,
-    "views": 192460,
-    "forwards": 323
+    "views": 202088,
+    "forwards": 324
   },
   {
     "title": "Sumyshchyna - BpLA on Konotop.",
@@ -284,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19112",
     "score": 10.5,
-    "views": 207111,
-    "forwards": 273
+    "views": 209065,
+    "forwards": 275
   },
   {
     "title": "Ukraine is developing a cruise missile with a flight range of up to...",
@@ -320,8 +320,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38812",
     "score": 14.0,
-    "views": 25541,
-    "forwards": 115
+    "views": 25776,
+    "forwards": 118
   },
   {
     "title": "Kyiv: 22 missiles + 524 drones intercepted",
