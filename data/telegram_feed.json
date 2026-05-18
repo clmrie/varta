@@ -1,5 +1,77 @@
 [
   {
+    "title": "Dnipro: The BpLA group entered the Dnipropetrovsk region, heading for...",
+    "title_en": "Dnipro: The BpLA group entered the Dnipropetrovsk region, heading for...",
+    "title_uk": "Дніпро: Угруповання BpLA увійшло в Дніпропетровську область, прямуючи на...",
+    "description": "The BpLA group entered the Dnipropetrovsk region, heading for Pavlograd",
+    "description_en": "The BpLA group entered the Dnipropetrovsk region, heading for Pavlograd",
+    "description_uk": "Група БпЛА увійшла в Дніпропетровську область, курсом на Павлоград",
+    "time": "",
+    "pubDate": "2026-05-18T19:51:29+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62204",
+    "score": 6.0,
+    "views": 19214,
+    "forwards": 35
+  },
+  {
+    "title": "Kharkiv: BpLA groups from the Belgorod region. enter the airspace of Ukraine...",
+    "title_en": "Kharkiv: BpLA groups from the Belgorod region. enter the airspace of Ukraine...",
+    "title_uk": "Харків: Групи БпЛА з Білгородської обл. входити в повітряний простір України...",
+    "description": "BpLA groups from the Belgorod region. enter the airspace of Ukraine on the border of Sumy and Kharkiv regions.",
+    "description_en": "BpLA groups from the Belgorod region. enter the airspace of Ukraine on the border of Sumy and Kharkiv regions.",
+    "description_uk": "Групи БпЛА із Бєлгородської обл. входять в повітряний простір України на кордоні Сумської та Харківської областей.",
+    "time": "",
+    "pubDate": "2026-05-18T19:37:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62202",
+    "score": 6.0,
+    "views": 36701,
+    "forwards": 12
+  },
+  {
+    "title": "Luhansk: Casualties reported",
+    "title_en": "Luhansk: Casualties reported",
+    "title_uk": "Луганськ: повідомляється про постраждалих",
+    "description": "First known Russian recruited from university dies in Ukraine, exposing Russia’s student recruitment campaign When 23-year-old Russian student Valery Averin signed a military contract in January after being recruited into Russia’s drone forces campaign targeting students, he was told he would train as a drone operator. Three months later, he was dead near Luhansk after reportedly being sent into...",
+    "description_en": "First known Russian recruited from university dies in Ukraine, exposing Russia’s student recruitment campaign When 23-year-old Russian student Valery Averin signed a military contract in January after being recruited into Russia’s drone forces campaign targeting students, he was told he would train as a drone operator. Three months later, he was dead near Luhansk after reportedly being sent into...",
+    "description_uk": "First known Russian recruited from university dies in Ukraine, exposing Russia’s student recruitment campaign When 23-year-old Russian student Valery Averin signed a military contract in January after being recruited into Russia’s drone forces campaign targeting students, he was told he would train as a drone operator. Three months later, he was dead near Luhansk after reportedly being sent into...",
+    "time": "",
+    "pubDate": "2026-05-18T18:34:07+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Luhansk",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53194",
+    "score": 6.0,
+    "views": 1041,
+    "forwards": 5
+  },
+  {
+    "title": "Kyiv: How Europe can succeed in post-American world, and why Ukraine is...",
+    "title_en": "Kyiv: How Europe can succeed in post-American world, and why Ukraine is...",
+    "title_uk": "Київ: Як Європі досягти успіху в постамериканському світі і чому Україна...",
+    "description": "How Europe can succeed in post-American world, and why Ukraine is part of answer “If Europe is to regain its mojo, one of the first steps it must take is to bring Ukraine into its fold and learn from its example. Having fought an adversary several times its size to an apparent stalemate, there is no other country in the world that knows more about being the underdog and yet surviving in an...",
+    "description_en": "How Europe can succeed in post-American world, and why Ukraine is part of answer “If Europe is to regain its mojo, one of the first steps it must take is to bring Ukraine into its fold and learn from its example. Having fought an adversary several times its size to an apparent stalemate, there is no other country in the world that knows more about being the underdog and yet surviving in an...",
+    "description_uk": "How Europe can succeed in post-American world, and why Ukraine is part of answer “If Europe is to regain its mojo, one of the first steps it must take is to bring Ukraine into its fold and learn from its example. Having fought an adversary several times its size to an apparent stalemate, there is no other country in the world that knows more about being the underdog and yet surviving in an...",
+    "time": "",
+    "pubDate": "2026-05-18T18:27:41+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53193",
+    "score": 6.0,
+    "views": 968,
+    "forwards": 4
+  },
+  {
     "title": "Only in recent months, Russia has lost about 10% of its oil refining...",
     "title_en": "Only in recent months, Russia has lost about 10% of its oil refining...",
     "title_uk": "Тільки за останні місяці Росія втратила близько 10% переробки нафти...",
@@ -13,9 +85,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191756",
-    "score": 4.0,
-    "views": 48542,
-    "forwards": 35
+    "score": 4.5,
+    "views": 109970,
+    "forwards": 73
   },
   {
     "title": "In these months alone, minus 10% of Russian oil refining. It is also...",
@@ -32,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19122",
     "score": 4.5,
-    "views": 72637,
-    "forwards": 216
+    "views": 165632,
+    "forwards": 289
   },
   {
     "title": "Sumyshchyna - BpLA on Konotop.",
@@ -176,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19112",
     "score": 10.5,
-    "views": 183048,
-    "forwards": 262
+    "views": 200482,
+    "forwards": 273
   },
   {
     "title": "Ukraine is developing a cruise missile with a flight range of up to...",
@@ -212,7 +284,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38812",
     "score": 14.0,
-    "views": 21924,
+    "views": 24600,
     "forwards": 115
   },
   {
@@ -234,24 +306,6 @@
     "forwards": 0
   },
   {
-    "title": "Zhytomyr region: BpLA on Korosten.",
-    "title_en": "Zhytomyr region: BpLA on Korosten.",
-    "title_uk": "Житомирська обл.: БпЛА по Коростен.",
-    "description": "Zhytomyr region: BpLA on Korosten.",
-    "description_en": "Zhytomyr region: BpLA on Korosten.",
-    "description_uk": "Житомирщина: БпЛА на Коростень.",
-    "time": "",
-    "pubDate": "2026-05-18T07:41:15+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zhytomyr",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62183",
-    "score": 5.0,
-    "views": 54083,
-    "forwards": 47
-  },
-  {
     "title": "Crimea: May 18 is the Day of Remembrance of the Victims of the Genocide of...",
     "title_en": "Crimea: May 18 is the Day of Remembrance of the Victims of the Genocide of...",
     "title_uk": "Крим: 18 травня - День пам'яті жертв геноциду...",
@@ -268,24 +322,6 @@
     "score": 6.5,
     "views": 17337,
     "forwards": 61
-  },
-  {
-    "title": "Zhytomyr region: BpLA on Ovruch.",
-    "title_en": "Zhytomyr region: BpLA on Ovruch.",
-    "title_uk": "Житомирська обл.: БпЛА на Овруч.",
-    "description": "Zhytomyr region: BpLA on Ovruch.",
-    "description_en": "Zhytomyr region: BpLA on Ovruch.",
-    "description_uk": "Житомирщина: БпЛА на Овруч.",
-    "time": "",
-    "pubDate": "2026-05-18T07:21:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zhytomyr",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62182",
-    "score": 5.0,
-    "views": 68389,
-    "forwards": 1
   },
   {
     "title": "Casualties reported",
@@ -392,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9068",
     "score": 7.5,
-    "views": 7521,
+    "views": 7594,
     "forwards": 18
   },
   {
@@ -410,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9066",
     "score": 5.0,
-    "views": 1184,
+    "views": 1214,
     "forwards": 6
   }
 ]
