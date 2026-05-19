@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_uk": "Харків: БпЛА на Харків з півночі.",
+    "description": "BpLA on Kharkiv from the north.",
+    "description_en": "BpLA on Kharkiv from the north.",
+    "description_uk": "БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-05-19T21:32:06+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62268",
+    "score": 6.0,
+    "views": 9090,
+    "forwards": 1
+  },
+  {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "UAV in the north of Sumy region in the direction of Chernihiv region.",
+    "description_en": "UAV in the north of Sumy region in the direction of Chernihiv region.",
+    "description_uk": "БпЛА на півночі Сумщини у напрямку Чернігівщини.",
+    "time": "",
+    "pubDate": "2026-05-19T21:14:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62265",
+    "score": 6.0,
+    "views": 25273,
+    "forwards": 2
+  },
+  {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Київ: повідомляється про постраждалих",
+    "description": "Civilian casualties in Ukraine reach 10-month high in April, UN finds. Short-range drones killed and injured more Ukrainian civilians in April 2026 than in any other month since the start of Russia's full-scale invasion.",
+    "description_en": "Civilian casualties in Ukraine reach 10-month high in April, UN finds. Short-range drones killed and injured more Ukrainian civilians in April 2026 than in any other month since the start of Russia's full-scale invasion.",
+    "description_uk": "Civilian casualties in Ukraine reach 10-month high in April, UN finds. Short-range drones killed and injured more Ukrainian civilians in April 2026 than in any other month since the start of Russia's full-scale invasion.",
+    "time": "",
+    "pubDate": "2026-05-19T20:41:29+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53222",
+    "score": 9.0,
+    "views": 552,
+    "forwards": 3
+  },
+  {
     "title": "Kyiv: Ukraine’s increasingly violent mobilization problem After eight...",
     "title_en": "Kyiv: Ukraine’s increasingly violent mobilization problem After eight...",
     "title_uk": "Київ: дедалі гостріша проблема мобілізації в Україні Після восьми...",
@@ -14,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53221",
     "score": 6.0,
-    "views": 725,
-    "forwards": 5
+    "views": 1390,
+    "forwards": 7
   },
   {
     "title": "Dnipro: BpLA in Zaporozhye heading for Dnipropetrovsk region.",
@@ -122,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191812",
     "score": 5.5,
-    "views": 114322,
-    "forwards": 114
+    "views": 131324,
+    "forwards": 151
   },
   {
     "title": "The ashes of the head of the OUN Andrii Melnyk and his wife will be...",
@@ -140,8 +194,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23519",
     "score": 5.0,
-    "views": 95079,
-    "forwards": 233
+    "views": 105051,
+    "forwards": 239
   },
   {
     "title": "Ballistic missile launch detected",
@@ -248,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9075",
     "score": 7.5,
-    "views": 2619,
+    "views": 2713,
     "forwards": 31
   },
   {
@@ -302,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38856",
     "score": 6.5,
-    "views": 18643,
+    "views": 20071,
     "forwards": 101
   },
   {
@@ -356,7 +410,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38852",
     "score": 7.5,
-    "views": 21064,
+    "views": 22427,
     "forwards": 152
   },
   {
@@ -394,59 +448,5 @@
     "score": 18.0,
     "views": 410,
     "forwards": 0
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southern...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southern...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на південному...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the southern direction!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southern direction!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на південному напрямку!",
-    "time": "",
-    "pubDate": "2026-05-19T08:28:34+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62239",
-    "score": 5.0,
-    "views": 87975,
-    "forwards": 2
-  },
-  {
-    "title": "Sumy: Sumy - BpLA in the direction of the city.",
-    "title_en": "Sumy: Sumy - BpLA in the direction of the city.",
-    "title_uk": "Суми: Суми – БпЛА в напрямку м.",
-    "description": "Sumy - BpLA in the direction of the city.",
-    "description_en": "Sumy - BpLA in the direction of the city.",
-    "description_uk": "Суми - БпЛА в напрямку міста.",
-    "time": "",
-    "pubDate": "2026-05-19T08:17:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62237",
-    "score": 6.0,
-    "views": 90943,
-    "forwards": 1
-  },
-  {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "180 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of May 19 (from 18:00 on May 18), the enemy attacked 209 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones from the directions: Orel, Kursk, Bryansk, Millerovo, Shatalovo, Primorsko-Akhtarsk - Russian Federation, TOT of Donetsk region, Gvardiyske - TOT of Crimea. The air attack was repulsed by aviation, anti-aircraft missiles...",
-    "description_en": "180 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of May 19 (from 18:00 on May 18), the enemy attacked 209 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones from the directions: Orel, Kursk, Bryansk, Millerovo, Shatalovo, Primorsko-Akhtarsk - Russian Federation, TOT of Donetsk region, Gvardiyske - TOT of Crimea. The air attack was repulsed by aviation, anti-aircraft missiles...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 180 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 19 травня (з 18:00 18 травня) противник атакував 209 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу \"Пародія\" із напрямків: Орел, Курськ, Брянськ, Міллєрово, Шаталово, Приморсько-Ахтарськ – рф., ТОТ Донецької області, Гвардійське - ТОТ Криму. Повітряний напад відбивали авіація, зенітні ракетні...",
-    "time": "",
-    "pubDate": "2026-05-19T05:40:53+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/38836",
-    "score": 13.0,
-    "views": 5492,
-    "forwards": 23
   }
 ]
