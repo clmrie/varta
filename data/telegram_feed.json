@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kryvyi Rih: Kryvyi Rih - BpLA over the city.",
+    "title_en": "Kryvyi Rih: Kryvyi Rih - BpLA over the city.",
+    "title_uk": "Кривий Ріг: Кривий Ріг - БпЛА над містом.",
+    "description": "Kryvyi Rih - BpLA over the city.",
+    "description_en": "Kryvyi Rih - BpLA over the city.",
+    "description_uk": "Кривий Ріг - БпЛА над містом.",
+    "time": "",
+    "pubDate": "2026-05-19T01:28:39+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62221",
+    "score": 6.0,
+    "views": 5490,
+    "forwards": 1
+  },
+  {
+    "title": "BpLA in the Kryvyi Rih region.",
+    "title_en": "BpLA in the Kryvyi Rih region.",
+    "title_uk": "БпЛА у Криворізькій обл.",
+    "description": "BpLA in the Kryvyi Rih region.",
+    "description_en": "BpLA in the Kryvyi Rih region.",
+    "description_uk": "БпЛА в районі Кривого Рогу.",
+    "time": "",
+    "pubDate": "2026-05-19T00:56:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62220",
+    "score": 5.0,
+    "views": 9762,
+    "forwards": 1
+  },
+  {
     "title": "Izmail: Drone incoming",
     "title_en": "Izmail: Drone incoming",
     "title_uk": "Ізмаїл: Наліт дрон",
@@ -122,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53194",
     "score": 6.0,
-    "views": 1774,
+    "views": 1928,
     "forwards": 5
   },
   {
@@ -140,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53193",
     "score": 6.0,
-    "views": 1620,
+    "views": 1747,
     "forwards": 6
   },
   {
@@ -158,7 +194,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191756",
     "score": 4.5,
-    "views": 136797,
+    "views": 142546,
     "forwards": 108
   },
   {
@@ -176,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19122",
     "score": 4.5,
-    "views": 207792,
-    "forwards": 324
+    "views": 214282,
+    "forwards": 334
   },
   {
     "title": "Sumyshchyna - BpLA on Konotop.",
@@ -270,42 +306,6 @@
     "forwards": 5
   },
   {
-    "title": "BpLA in the Kryvyi Rih region.",
-    "title_en": "BpLA in the Kryvyi Rih region.",
-    "title_uk": "БпЛА у Криворізькій обл.",
-    "description": "BpLA in the Kryvyi Rih region.",
-    "description_en": "BpLA in the Kryvyi Rih region.",
-    "description_uk": "БпЛА в районі Кривого Рогу.",
-    "time": "",
-    "pubDate": "2026-05-18T13:50:18+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62197",
-    "score": 5.5,
-    "views": 73536,
-    "forwards": 70
-  },
-  {
-    "title": "Poltava Region: BpLA past Shishaky in the direction of Velika...",
-    "title_en": "Poltava Region: BpLA past Shishaky in the direction of Velika...",
-    "title_uk": "Полтавська область: БпЛА повз Шишаки в напрямку Великої...",
-    "description": "Poltava Region: BpLA past Shishaky in the direction of Velika Bagachka.",
-    "description_en": "Poltava Region: BpLA past Shishaky in the direction of Velika Bagachka.",
-    "description_uk": "Полтавщина: БпЛА повз Шишаки у бік Великої Багачки.",
-    "time": "",
-    "pubDate": "2026-05-18T12:25:20+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62192",
-    "score": 5.0,
-    "views": 24209,
-    "forwards": 2
-  },
-  {
     "title": "Crimea: Today we remember and honor the memory of all the victims of one of...",
     "title_en": "Crimea: Today we remember and honor the memory of all the victims of one of...",
     "title_uk": "Крим: Сьогодні ми згадуємо та вшановуємо пам'ять усіх жертв одного з...",
@@ -320,15 +320,15 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19112",
     "score": 10.5,
-    "views": 210879,
-    "forwards": 275
+    "views": 212984,
+    "forwards": 285
   },
   {
     "title": "Zaporizhzhia: ENG below⏬ ⚡️⚡️An anti-sabotage boat, control points of UAVs and...",
     "title_en": "Zaporizhzhia: ENG below⏬ ⚡️⚡️An anti-sabotage boat, control points of UAVs and...",
     "title_uk": "Запоріжжя: нижче ENG⏬ ⚡️⚡️Протидиверсійний катер, пункти управління БПЛА та...",
-    "description": "ENG below⏬ ⚡️⚡️An anti-sabotage boat, control points of UAVs and other objects of the enemy were hit. On the night of May 17 and 18, 2026, units of the Defense Forces of Ukraine inflicted damage on a number of important objects of the Russian occupiers. ⚡️In particular, an anti-sabotage boat of the \"Grachonok\" project was hit in the Kaspiysk region (Republic of Dagestan, Russian Federation). Boats of this type are used to protect points...",
-    "description_en": "ENG below⏬ ⚡️⚡️An anti-sabotage boat, control points of UAVs and other objects of the enemy were hit. On the night of May 17 and 18, 2026, units of the Defense Forces of Ukraine inflicted damage on a number of important objects of the Russian occupiers. ⚡️In particular, an anti-sabotage boat of the \"Grachonok\" project was hit in the Kaspiysk region (Republic of Dagestan, Russian Federation). Boats of this type are used to protect points...",
+    "description": "ENG below⏬ ⚡️⚡️An anti-sabotage boat, control points of UAVs and other objects of the enemy were hit. On the night of May 17 and 18, 2026, units of the Defense Forces of Ukraine inflicted damage on a number of important objects of the Russian occupiers. ⚡️In particular, an anti-sabotage boat of the \"Grachonok\" project was hit in the Kaspiysk region (Republic of Dagestan, Russian Federation). Boats of this type are used to guard points...",
+    "description_en": "ENG below⏬ ⚡️⚡️An anti-sabotage boat, control points of UAVs and other objects of the enemy were hit. On the night of May 17 and 18, 2026, units of the Defense Forces of Ukraine inflicted damage on a number of important objects of the Russian occupiers. ⚡️In particular, an anti-sabotage boat of the \"Grachonok\" project was hit in the Kaspiysk region (Republic of Dagestan, Russian Federation). Boats of this type are used to guard points...",
     "description_uk": "ENG below⏬ ⚡️⚡️Уражено протидиверсійний катер, пункти управління БпЛА та інші об’єкти противника 17-го та в ніч на 18 травня 2026 року підрозділи Сил оборони України завдали уражень по низці важливих об’єктів російських окупантів. ⚡️Зокрема, уражено протидиверсійний катер проєкту “Грачонок” у районі Каспійська (республіка Дагестан, рф). Катери цього типу використовуються для охорони пунктів...",
     "time": "",
     "pubDate": "2026-05-18T10:18:22+00:00",
@@ -338,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38812",
     "score": 14.0,
-    "views": 25866,
+    "views": 26008,
     "forwards": 118
   },
   {
@@ -432,21 +432,21 @@
     "forwards": 3
   },
   {
-    "title": "Dnipro: Attack attack on residential area",
-    "title_en": "Dnipro: Attack attack on residential area",
-    "title_uk": "Дніпро: обстріл житлового кварталу",
-    "description": "Update: Russian attack on central, southern Ukraine injures at least 12. The number of injured victims in an overnight Russian attack on Dnipro has risen to nine people, including a child, Dnipropetrovsk Oblast Governor Oleksandr Hanzha reported. Three others were also injured in Odesa in an attack on a residential building overnight.",
-    "description_en": "Update: Russian attack on central, southern Ukraine injures at least 12. The number of injured victims in an overnight Russian attack on Dnipro has risen to nine people, including a child, Dnipropetrovsk Oblast Governor Oleksandr Hanzha reported. Three others were also injured in Odesa in an attack on a residential building overnight.",
-    "description_uk": "Update: Russian attack on central, southern Ukraine injures at least 12. The number of injured victims in an overnight Russian attack on Dnipro has risen to nine people, including a child, Dnipropetrovsk Oblast Governor Oleksandr Hanzha reported. Three others were also injured in Odesa in an attack on a residential building overnight.",
+    "title": "Energy infrastructure hit",
+    "title_en": "Energy infrastructure hit",
+    "title_uk": "Поразка енергетичної інфраструктури",
+    "description": "Minister Andriy Sybiga condemned the drone attack on the nuclear power plant in the UAE. 💬 \"Today's attack on the perimeter of the Baraka NPP in the UAE, during which a drone hit an electric generator, is absolutely unacceptable. Ukraine strongly condemns any attacks that endanger the safety of nuclear facilities. Ukraine has been experiencing targeted Russian strikes on energy...",
+    "description_en": "Minister Andriy Sybiga condemned the drone attack on the nuclear power plant in the UAE. 💬 \"Today's attack on the perimeter of the Baraka NPP in the UAE, during which a drone hit an electric generator, is absolutely unacceptable. Ukraine strongly condemns any attacks that endanger the safety of nuclear facilities. Ukraine has been experiencing targeted Russian strikes on energy...",
+    "description_uk": "Міністр Андрій Сибіга засудив атаку безпілотника на атомну електростанцію в ОАЕ. 💬 \"Сьогоднішня атака на периметр АЕС \"Барака\" в ОАЕ, під час якої безпілотник влучив в електрогенератор, є абсолютно неприйнятною. Україна рішуче засуджує будь-які атаки, що ставлять під загрозу безпеку ядерних об’єктів. Україна вже понад чотири роки зазнає цілеспрямованих російських ударів по енергетичній...",
     "time": "",
-    "pubDate": "2026-05-18T01:16:28+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Dnipro",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53173",
-    "score": 9.0,
-    "views": 1188,
-    "forwards": 2
+    "pubDate": "2026-05-17T16:03:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9068",
+    "score": 7.5,
+    "views": 7655,
+    "forwards": 18
   }
 ]
