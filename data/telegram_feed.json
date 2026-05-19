@@ -1,5 +1,41 @@
 [
   {
+    "title": "Groups of enemy UAVs are approaching Odesa.",
+    "title_en": "Groups of enemy UAVs are approaching Odesa.",
+    "title_uk": "До Одеси наближаються групи ворожих БПЛА.",
+    "description": "Groups of enemy UAVs are approaching Odesa.",
+    "description_en": "Groups of enemy UAVs are approaching Odesa.",
+    "description_uk": "Групи ворожих БпЛА наближаються до Одеси.",
+    "time": "",
+    "pubDate": "2026-05-19T22:45:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62274",
+    "score": 5.0,
+    "views": 5793,
+    "forwards": 1
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "Enemy UAVs on Kharkiv from the north.",
+    "description_en": "Enemy UAVs on Kharkiv from the north.",
+    "description_uk": "Ворожі БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-05-19T22:39:04+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62273",
+    "score": 6.0,
+    "views": 10029,
+    "forwards": 21
+  },
+  {
     "title": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_uk": "Харків: БпЛА на Харків з півночі.",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53222",
     "score": 9.0,
-    "views": 552,
+    "views": 812,
     "forwards": 3
   },
   {
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53221",
     "score": 6.0,
-    "views": 1390,
+    "views": 1602,
     "forwards": 7
   },
   {
@@ -176,7 +212,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191812",
     "score": 5.5,
-    "views": 131324,
+    "views": 135373,
     "forwards": 151
   },
   {
@@ -194,8 +230,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23519",
     "score": 5.0,
-    "views": 105051,
-    "forwards": 239
+    "views": 107548,
+    "forwards": 241
   },
   {
     "title": "Ballistic missile launch detected",
@@ -302,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9075",
     "score": 7.5,
-    "views": 2713,
+    "views": 2733,
     "forwards": 31
   },
   {
@@ -356,7 +392,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38856",
     "score": 6.5,
-    "views": 20071,
+    "views": 20361,
     "forwards": 101
   },
   {
@@ -410,43 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38852",
     "score": 7.5,
-    "views": 22427,
+    "views": 22710,
     "forwards": 152
-  },
-  {
-    "title": "BpLA to Poltava region from Sumy region.",
-    "title_en": "BpLA to Poltava region from Sumy region.",
-    "title_uk": "BpLA в Полтавську область з Сумської області.",
-    "description": "BpLA to Poltava region from Sumy region.",
-    "description_en": "BpLA to Poltava region from Sumy region.",
-    "description_uk": "БпЛА на Полтавщину з Сумщини.",
-    "time": "",
-    "pubDate": "2026-05-19T09:52:22+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62245",
-    "score": 5.0,
-    "views": 73241,
-    "forwards": 35
-  },
-  {
-    "title": "Kyiv: 209 drones intercepted",
-    "title_en": "Kyiv: 209 drones intercepted",
-    "title_uk": "Київ: перехоплено 209 безпілотників",
-    "description": "At least 6 killed, 37 injured in Russian attacks as Naftogaz facilities hit for 3rd day. Russia launched 209 drones overnight, Ukraine's Air Force said on the morning of May 19, most of them Shahed-type deep-strike drones. Ukrainian air defense systems downed or suppressed 180 of them.",
-    "description_en": "At least 6 killed, 37 injured in Russian attacks as Naftogaz facilities hit for 3rd day. Russia launched 209 drones overnight, Ukraine's Air Force said on the morning of May 19, most of them Shahed-type deep-strike drones. Ukrainian air defense systems downed or suppressed 180 of them.",
-    "description_uk": "At least 6 killed, 37 injured in Russian attacks as Naftogaz facilities hit for 3rd day. Russia launched 209 drones overnight, Ukraine's Air Force said on the morning of May 19, most of them Shahed-type deep-strike drones. Ukrainian air defense systems downed or suppressed 180 of them.",
-    "time": "",
-    "pubDate": "2026-05-19T08:57:32+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53203",
-    "score": 18.0,
-    "views": 410,
-    "forwards": 0
   }
 ]
