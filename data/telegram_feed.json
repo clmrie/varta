@@ -1,5 +1,77 @@
 [
   {
+    "title": "Kherson: Drone incoming",
+    "title_en": "Kherson: Drone incoming",
+    "title_uk": "Херсон: Дрон вхід",
+    "description": "A new group of UAVs in the north of Kherson region ➡️ heading north.",
+    "description_en": "A new group of UAVs in the north of Kherson region ➡️ heading north.",
+    "description_uk": "Нова група БпЛА на півночі Херсонщини ➡️ курсом на північ.",
+    "time": "",
+    "pubDate": "2026-05-20T10:21:25+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62307",
+    "score": 6.0,
+    "views": 28258,
+    "forwards": 1
+  },
+  {
+    "title": "🛸 BpLA from Sumy region ➡️ to Poltava region.",
+    "title_en": "🛸 BpLA from Sumy region ➡️ to Poltava region.",
+    "title_uk": "🛸 BpLA із Сумської області ➡️ на Полтавську область.",
+    "description": "🛸 BpLA from Sumy region ➡️ to Poltava region.",
+    "description_en": "🛸 BpLA from Sumy region ➡️ to Poltava region.",
+    "description_uk": "🛸 БпЛА із Сумщини ➡️ на Полтавщину.",
+    "time": "",
+    "pubDate": "2026-05-20T10:17:18+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62306",
+    "score": 5.0,
+    "views": 33317,
+    "forwards": 1
+  },
+  {
+    "title": "🇸🇪 Minister of Foreign Affairs of Ukraine Andriy Sybiga began his...",
+    "title_en": "🇸🇪 Minister of Foreign Affairs of Ukraine Andriy Sybiga began his...",
+    "title_uk": "🇸🇪 Міністр закордонних справ України Андрій Сибіга розпочав свою...",
+    "description": "🇸🇪 Minister of Foreign Affairs of Ukraine Andriy Sybiga began his visit to Sweden with a meeting with the Minister of Foreign Affairs of Sweden Maria Stenergard 💬 \"I look forward to our productive negotiations and important events today. We will focus on the implementation of the agreements reached by our leaders, our strong defense cooperation and Ukraine's accession to the EU. We will also discuss peaceful...",
+    "description_en": "🇸🇪 Minister of Foreign Affairs of Ukraine Andriy Sybiga began his visit to Sweden with a meeting with the Minister of Foreign Affairs of Sweden Maria Stenergard 💬 \"I look forward to our productive negotiations and important events today. We will focus on the implementation of the agreements reached by our leaders, our strong defense cooperation and Ukraine's accession to the EU. We will also discuss peaceful...",
+    "description_uk": "🇸🇪 Міністр закордонних справ України Андрій Сибіга розпочав свій візит до Швеції із зустрічі з міністеркою закордонних справ Швеції Марією Стенергард 💬 \"Я з нетерпінням чекаю на наші сьогоднішні продуктивні переговори та важливі заходи. Ми зосередимося на реалізації домовленостей, досягнутих нашими лідерами, нашій міцній оборонній співпраці та вступі України до ЄС. Ми також обговоримо мирні...",
+    "time": "",
+    "pubDate": "2026-05-20T09:50:20+00:00",
+    "category": "political",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9081",
+    "score": 3.5,
+    "views": 374,
+    "forwards": 6
+  },
+  {
+    "title": "Attack attack",
+    "title_en": "Attack attack",
+    "title_uk": "Атака нападу",
+    "description": "Russian oil had a hot night: the defense forces attacked the Lukoil-Nizhegorodorgsintez refinery and the Yaroslavl-3 station. At the Kstovo refinery, the AVT-6 primary oil processing unit was hit, and a fire started. Four tanks with a total volume of 140,000 cubic meters were damaged at the Yaroslavl-3 oil pumping station. In addition, the Ukrainian military defeated control points, centers...",
+    "description_en": "Russian oil had a hot night: the defense forces attacked the Lukoil-Nizhegorodorgsintez refinery and the Yaroslavl-3 station. At the Kstovo refinery, the AVT-6 primary oil processing unit was hit, and a fire started. Four tanks with a total volume of 140,000 cubic meters were damaged at the Yaroslavl-3 oil pumping station. In addition, the Ukrainian military defeated control points, centers...",
+    "description_uk": "У российской нефти выдались горячие ночи: Силы обороны ударили по НПЗ «Лукойл-Нижегородоргсинтез» и станции «Ярославль-3» На НПЗ в Кстово была поражена установка первичной переработки нефти АВТ-6, после чего начался пожар. На нефтеперекачивающей станции «Ярославль-3» повреждены четыре резервуара общим объемом 140 тысяч кубометров. Кроме того, украинские военные поразили пункты управления, центры...",
+    "time": "",
+    "pubDate": "2026-05-20T08:26:45+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/191854",
+    "score": 5.5,
+    "views": 88107,
+    "forwards": 70
+  },
+  {
     "title": "Dnipro: BpLA on Kamianske in Dnipropetrovsk Oblast from the south.",
     "title_en": "Dnipro: BpLA on Kamianske in Dnipropetrovsk Oblast from the south.",
     "title_uk": "Дніпро: BpLA на Кам’янському Дніпропетровської області з півд.",
@@ -32,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191841",
     "score": 9.5,
-    "views": 51251,
-    "forwards": 287
+    "views": 112731,
+    "forwards": 501
   },
   {
     "title": "Kyiv: Drone incoming",
@@ -52,6 +124,24 @@
     "score": 6.0,
     "views": 47658,
     "forwards": 37
+  },
+  {
+    "title": "Kursk: Drone incoming",
+    "title_en": "Kursk: Drone incoming",
+    "title_uk": "Курськ: Дрон входить",
+    "description": "131 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of May 20 (from 18:00 on May 19), the enemy attacked with an Iskander-M ballistic missile from the Rostov region. - Russian Federation, 154 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones from the directions: Kursk, Shatalovo, Orel, Bryansk, Millerovo, Primorsko-Akhtarsk - Russian Federation. The air attack was repulsed by aviation, anti-aircraft...",
+    "description_en": "131 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of May 20 (from 18:00 on May 19), the enemy attacked with an Iskander-M ballistic missile from the Rostov region. - Russian Federation, 154 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones from the directions: Kursk, Shatalovo, Orel, Bryansk, Millerovo, Primorsko-Akhtarsk - Russian Federation. The air attack was repulsed by aviation, anti-aircraft...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 131 ВОРОЖИЙ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 20 травня (з 18:00 19 травня) противник атакував балістичною ракетою Іскандер-М із Ростовської обл. -рф, 154 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Шаталово, Орел, Брянськ, Міллєрово, Приморсько-Ахтарськ – рф. Повітряний напад відбивали авіація, зенітні...",
+    "time": "",
+    "pubDate": "2026-05-20T06:23:59+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kursk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/38880",
+    "score": 13.0,
+    "views": 4099,
+    "forwards": 12
   },
   {
     "title": "Kursk: 154 drones intercepted",
@@ -86,8 +176,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53227",
     "score": 4.0,
-    "views": 1136,
-    "forwards": 1
+    "views": 1700,
+    "forwards": 2
   },
   {
     "title": "Kyiv: Attack attack",
@@ -104,8 +194,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53225",
     "score": 8.0,
-    "views": 1442,
-    "forwards": 0
+    "views": 1923,
+    "forwards": 2
   },
   {
     "title": "Sumyshchyna - BpLA at Bilopylla, Konotop.",
@@ -160,78 +250,6 @@
     "score": 6.0,
     "views": 47264,
     "forwards": 1
-  },
-  {
-    "title": "Groups of enemy UAVs are approaching Odesa.",
-    "title_en": "Groups of enemy UAVs are approaching Odesa.",
-    "title_uk": "До Одеси наближаються групи ворожих БПЛА.",
-    "description": "Groups of enemy UAVs are approaching Odesa.",
-    "description_en": "Groups of enemy UAVs are approaching Odesa.",
-    "description_uk": "Групи ворожих БпЛА наближаються до Одеси.",
-    "time": "",
-    "pubDate": "2026-05-19T22:45:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62274",
-    "score": 5.0,
-    "views": 21764,
-    "forwards": 1
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "Enemy UAVs on Kharkiv from the north.",
-    "description_en": "Enemy UAVs on Kharkiv from the north.",
-    "description_uk": "Ворожі БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-05-19T22:39:04+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62273",
-    "score": 6.0,
-    "views": 10029,
-    "forwards": 21
-  },
-  {
-    "title": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_uk": "Харків: БпЛА на Харків з півночі.",
-    "description": "BpLA on Kharkiv from the north.",
-    "description_en": "BpLA on Kharkiv from the north.",
-    "description_uk": "БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-05-19T21:32:06+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62268",
-    "score": 6.0,
-    "views": 9090,
-    "forwards": 1
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "UAV in the north of Sumy region in the direction of Chernihiv region.",
-    "description_en": "UAV in the north of Sumy region in the direction of Chernihiv region.",
-    "description_uk": "БпЛА на півночі Сумщини у напрямку Чернігівщини.",
-    "time": "",
-    "pubDate": "2026-05-19T21:14:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62265",
-    "score": 6.0,
-    "views": 25273,
-    "forwards": 2
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -302,8 +320,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23519",
     "score": 5.0,
-    "views": 130571,
-    "forwards": 265
+    "views": 135942,
+    "forwards": 274
   },
   {
     "title": "Kyiv: Update: Ukraine says it struck major Russian oil refinery, pumping...",
@@ -338,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9075",
     "score": 7.5,
-    "views": 2904,
+    "views": 2970,
     "forwards": 32
   },
   {
@@ -392,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19122",
     "score": 4.5,
-    "views": 353079,
+    "views": 356484,
     "forwards": 380
   }
 ]
