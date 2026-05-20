@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: Attack attack",
+    "title_en": "Kyiv: Attack attack",
+    "title_uk": "Київ: Атака",
+    "description": "Ukraine reportedly strikes Russian chemical plant for second time in a week. Ukraine's military reportedly struck the Nevinnomyssk Azot plant in Russia's southern Stavropol Krai overnight on May 20, Russian Telegram media channels reported.",
+    "description_en": "Ukraine reportedly strikes Russian chemical plant for second time in a week. Ukraine's military reportedly struck the Nevinnomyssk Azot plant in Russia's southern Stavropol Krai overnight on May 20, Russian Telegram media channels reported.",
+    "description_uk": "Ukraine reportedly strikes Russian chemical plant for second time in a week. Ukraine's military reportedly struck the Nevinnomyssk Azot plant in Russia's southern Stavropol Krai overnight on May 20, Russian Telegram media channels reported.",
+    "time": "",
+    "pubDate": "2026-05-20T02:15:28+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53225",
+    "score": 8.0,
+    "views": 461,
+    "forwards": 0
+  },
+  {
+    "title": "Sumyshchyna - BpLA at Bilopylla, Konotop.",
+    "title_en": "Sumyshchyna - BpLA at Bilopylla, Konotop.",
+    "title_uk": "Сумщина - БпЛА на Білопіллі, Конотоп.",
+    "description": "Sumyshchyna - BpLA at Bilopylla, Konotop.",
+    "description_en": "Sumyshchyna - BpLA at Bilopylla, Konotop.",
+    "description_uk": "Сумщина - БпЛА на Білопілля, Конотоп.",
+    "time": "",
+    "pubDate": "2026-05-20T00:54:04+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62280",
+    "score": 5.0,
+    "views": 39414,
+    "forwards": 3
+  },
+  {
+    "title": "Kyiv: Attack attack on residential area",
+    "title_en": "Kyiv: Attack attack on residential area",
+    "title_uk": "Київ: обстріл житлового кварталу",
+    "description": "Russia strikes residential buildings, businesses in multiple regions of Ukraine, injuring at least 11. Russia launched attacks on several Ukrainian regions overnight on May 20, striking multi-story residential buildings, businesses, and other civilian targets, while injuring at least 11 people, officials reported.",
+    "description_en": "Russia strikes residential buildings, businesses in multiple regions of Ukraine, injuring at least 11. Russia launched attacks on several Ukrainian regions overnight on May 20, striking multi-story residential buildings, businesses, and other civilian targets, while injuring at least 11 people, officials reported.",
+    "description_uk": "Russia strikes residential buildings, businesses in multiple regions of Ukraine, injuring at least 11. Russia launched attacks on several Ukrainian regions overnight on May 20, striking multi-story residential buildings, businesses, and other civilian targets, while injuring at least 11 people, officials reported.",
+    "time": "",
+    "pubDate": "2026-05-20T00:51:17+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53224",
+    "score": 14.0,
+    "views": 667,
+    "forwards": 1
+  },
+  {
     "title": "Chernihiv: BpLA in the district. n.p. Buryn (Sumshchyna) on a southwesterly...",
     "title_en": "Chernihiv: BpLA in the district. n.p. Buryn (Sumshchyna) on a southwesterly...",
     "title_uk": "Чернігів: БпЛА в район. п.п. Буринь (Сумщина) на південно-західному...",
@@ -14,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/62275",
     "score": 6.0,
-    "views": 10660,
+    "views": 47264,
     "forwards": 1
   },
   {
@@ -230,8 +284,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/191812",
     "score": 5.5,
-    "views": 138379,
-    "forwards": 161
+    "views": 153071,
+    "forwards": 163
   },
   {
     "title": "The ashes of the head of the OUN Andrii Melnyk and his wife will be...",
@@ -248,8 +302,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23519",
     "score": 5.0,
-    "views": 109044,
-    "forwards": 243
+    "views": 116304,
+    "forwards": 251
   },
   {
     "title": "Ballistic missile launch detected",
@@ -268,60 +322,6 @@
     "score": 5.0,
     "views": 77195,
     "forwards": 35
-  },
-  {
-    "title": "Kyiv: Missile launch detected",
-    "title_en": "Kyiv: Missile launch detected",
-    "title_uk": "Київ: Зафіксовано пуск ракети",
-    "description": "Russia launches large-scale nuclear forces drills after Belarus exercises. The drills, scheduled to run through May 21, involve Russia’s Strategic Missile Forces, the Northern and Pacific fleets, long-range aviation command, and units from the Leningrad and Central military districts, the ministry said.",
-    "description_en": "Russia launches large-scale nuclear forces drills after Belarus exercises. The drills, scheduled to run through May 21, involve Russia’s Strategic Missile Forces, the Northern and Pacific fleets, long-range aviation command, and units from the Leningrad and Central military districts, the ministry said.",
-    "description_uk": "Russia launches large-scale nuclear forces drills after Belarus exercises. The drills, scheduled to run through May 21, involve Russia’s Strategic Missile Forces, the Northern and Pacific fleets, long-range aviation command, and units from the Leningrad and Central military districts, the ministry said.",
-    "time": "",
-    "pubDate": "2026-05-19T14:42:07+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53211",
-    "score": 9.0,
-    "views": 773,
-    "forwards": 1
-  },
-  {
-    "title": "Poltava region - BpLA to Myrhorod.",
-    "title_en": "Poltava region - BpLA to Myrhorod.",
-    "title_uk": "Полтавська область - БпЛА до Миргорода.",
-    "description": "Poltava region - BpLA to Myrhorod.",
-    "description_en": "Poltava region - BpLA to Myrhorod.",
-    "description_uk": "Полтавщина - БпЛА на Миргород.",
-    "time": "",
-    "pubDate": "2026-05-19T14:25:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62254",
-    "score": 5.0,
-    "views": 54923,
-    "forwards": 27
-  },
-  {
-    "title": "Kyiv: Russia threatens Latvia over unfounded claims of Ukrainian drone...",
-    "title_en": "Kyiv: Russia threatens Latvia over unfounded claims of Ukrainian drone...",
-    "title_uk": "Київ: Росія погрожує Латвії через необґрунтовані заяви про український безпілотник...",
-    "description": "Russia threatens Latvia over unfounded claims of Ukrainian drone launch plans. “It would be useful to remind that the coordinates of decision-making centers on Latvian territory are well known,” Russia’s intelligence agency said.",
-    "description_en": "Russia threatens Latvia over unfounded claims of Ukrainian drone launch plans. “It would be useful to remind that the coordinates of decision-making centers on Latvian territory are well known,” Russia’s intelligence agency said.",
-    "description_uk": "Russia threatens Latvia over unfounded claims of Ukrainian drone launch plans. “It would be useful to remind that the coordinates of decision-making centers on Latvian territory are well known,” Russia’s intelligence agency said.",
-    "time": "",
-    "pubDate": "2026-05-19T14:06:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53210",
-    "score": 6.0,
-    "views": 1027,
-    "forwards": 2
   },
   {
     "title": "Kyiv: Update: Ukraine says it struck major Russian oil refinery, pumping...",
@@ -356,31 +356,13 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9075",
     "score": 7.5,
-    "views": 2745,
+    "views": 2786,
     "forwards": 31
-  },
-  {
-    "title": "Airstrike attack on residential area",
-    "title_en": "Airstrike attack on residential area",
-    "title_uk": "Авіаудар по житловому району",
-    "description": "Latvia called the SVR's statement that Ukraine is preparing strikes on Russia from its territory a lie Latvian President Edgar Rynkevichs rejected the statement of the Russian Foreign Intelligence Service that Ukraine was allegedly preparing strikes on Russia from Latvian territory. The head of the Ministry of Foreign Affairs of Latvia, Baiba Braže, also called the statement of SVR a disinformation campaign against Latvia. Earlier, Russian intelligence claimed that...",
-    "description_en": "Latvia called the SVR's statement that Ukraine is preparing strikes on Russia from its territory a lie Latvian President Edgar Rynkevichs rejected the statement of the Russian Foreign Intelligence Service that Ukraine was allegedly preparing strikes on Russia from Latvian territory. The head of the Ministry of Foreign Affairs of Latvia, Baiba Braže, also called the statement of SVR a disinformation campaign against Latvia. Earlier, Russian intelligence claimed that...",
-    "description_uk": "Латвия назвала ложью заявление СВР о том, что Украина готовит удары по России с ее территории Президент Латвии Эдгар Ринкевичс отверг заявление российской Службы внешней разведки о том, что Украина якобы готовит удары по России с латвийской территории. Глава МИД Латвии Байба Браже также назвала заявление СВР дезинформационной кампанией против Латвии. Ранее российская разведка утверждала, что...",
-    "time": "",
-    "pubDate": "2026-05-19T12:11:58+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/191794",
-    "score": 5.5,
-    "views": 113507,
-    "forwards": 80
   },
   {
     "title": "Donetsk: Pontoon-bridge crossings and other enemy objects were hit On May 18,...",
     "title_en": "Donetsk: Pontoon-bridge crossings and other enemy objects were hit On May 18,...",
-    "title_uk": "Донецьк: уражені понтонно-мостові переправи та інші об'єкти противника 18 травня...",
+    "title_uk": "Донецьк: уражено понтонно-мостові переправи та інші об'єкти противника 18 травня...",
     "description": "Pontoon-bridge crossings and other enemy objects were hit On May 18, 2026, units of the Defense Forces of Ukraine hit the enemy's command and observation post in the Tyotkin region (Kursk region, Russian Federation), as well as its UAV control points in Oleksandrivka, Kherson region, and Bilovodyv, Sumy region. ⚡️In addition, two pontoon-bridge crossings of the enemy on the TOT of Donetsk region were damaged. ⚡️Also...",
     "description_en": "Pontoon-bridge crossings and other enemy objects were hit On May 18, 2026, units of the Defense Forces of Ukraine hit the enemy's command and observation post in the Tyotkin region (Kursk region, Russian Federation), as well as its UAV control points in Oleksandrivka, Kherson region, and Bilovodyv, Sumy region. ⚡️In addition, two pontoon-bridge crossings of the enemy on the TOT of Donetsk region were damaged. ⚡️Also...",
     "description_uk": "Уражено понтонно-мостові переправи та інші об’єкти противника 18 травня 2026 року підрозділи Сил оборони України уразили командно-спостережний пункт противника у районі Тьоткіного (Курська обл., рф), а також його пункти управління БпЛА у районах Олександрівки Херсонської області та Біловодів на Сумщині. ⚡️Крім того, уражено дві понтонно-мостові переправи ворога на ТОТ Донецької області. ⚡️Також...",
@@ -392,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38856",
     "score": 6.5,
-    "views": 20506,
+    "views": 21592,
     "forwards": 101
   },
   {
@@ -428,7 +410,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38852",
     "score": 7.5,
-    "views": 22890,
+    "views": 23879,
     "forwards": 152
   },
   {
@@ -446,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19122",
     "score": 4.5,
-    "views": 346085,
+    "views": 348015,
     "forwards": 378
   }
 ]
