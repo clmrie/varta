@@ -1,5 +1,41 @@
 [
   {
+    "title": "North-east of Poltava region enemy anti-aircraft aircraft heading...",
+    "title_en": "North-east of Poltava region enemy anti-aircraft aircraft heading...",
+    "title_uk": "На північному сході Полтавської області зенітна авіація противника прямує...",
+    "description": "North-east of Poltava region enemy anti-aircraft aircraft heading west.",
+    "description_en": "North-east of Poltava region enemy anti-aircraft aircraft heading west.",
+    "description_uk": "Північний схід Полтавщини ворожі БпЛА курсом на захід.",
+    "time": "",
+    "pubDate": "2026-05-22T23:26:11+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62458",
+    "score": 5.0,
+    "views": 3970,
+    "forwards": 1
+  },
+  {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака дронов",
+    "description": "The threat of attack UAVs for Sumy Oblast.",
+    "description_en": "The threat of attack UAVs for Sumy Oblast.",
+    "description_uk": "Загроза ударних БпЛА для Сумщини.",
+    "time": "",
+    "pubDate": "2026-05-22T23:01:37+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62457",
+    "score": 5.0,
+    "views": 8575,
+    "forwards": 1
+  },
+  {
     "title": "BpLA in the direction of Kryvyi Rih from the south.",
     "title_en": "BpLA in the direction of Kryvyi Rih from the south.",
     "title_uk": "БпЛА в напрямку Кривого Рогу з півд.",
@@ -50,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192056",
     "score": 4.5,
-    "views": 49059,
-    "forwards": 137
+    "views": 57780,
+    "forwards": 150
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192051",
     "score": 6.5,
-    "views": 80601,
-    "forwards": 238
+    "views": 86626,
+    "forwards": 241
   },
   {
     "title": "Luhansk: Casualties reported",
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53284",
     "score": 13.0,
-    "views": 1198,
+    "views": 1332,
     "forwards": 4
   },
   {
@@ -122,7 +158,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19168",
     "score": 10.5,
-    "views": 39574,
+    "views": 41128,
     "forwards": 97
   },
   {
@@ -142,24 +178,6 @@
     "score": 6.0,
     "views": 69085,
     "forwards": 35
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака дронов",
-    "description": "Threat of attack UAVs in Sumy Oblast.",
-    "description_en": "Threat of attack UAVs in Sumy Oblast.",
-    "description_uk": "Загроза ударних БпЛА на Сумщині.",
-    "time": "",
-    "pubDate": "2026-05-22T17:59:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62448",
-    "score": 5.0,
-    "views": 4846,
-    "forwards": 1
   },
   {
     "title": "France wants to join the joint program of Germany and Britain on the...",
@@ -212,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53281",
     "score": 10.0,
-    "views": 1631,
+    "views": 1708,
     "forwards": 6
   },
   {
@@ -230,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19166",
     "score": 6.5,
-    "views": 55749,
-    "forwards": 128
+    "views": 56467,
+    "forwards": 129
   },
   {
     "title": "Pokrovsk: Energy infrastructure hit",
@@ -248,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38968",
     "score": 6.5,
-    "views": 19423,
+    "views": 19632,
     "forwards": 92
   },
   {
