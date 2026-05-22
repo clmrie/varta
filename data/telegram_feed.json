@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sumy: BpLA on Sumy from the north.",
+    "title_en": "Sumy: BpLA on Sumy from the north.",
+    "title_uk": "Суми: БпЛА на Суми з півн.",
+    "description": "BpLA on Sumy from the north.",
+    "description_en": "BpLA on Sumy from the north.",
+    "description_uk": "БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-05-22T12:29:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62435",
+    "score": 6.0,
+    "views": 45665,
+    "forwards": 3
+  },
+  {
+    "title": "Mykolaiv: Enemy BpLA on Mykolaiv from the south.",
+    "title_en": "Mykolaiv: Enemy BpLA on Mykolaiv from the south.",
+    "title_uk": "Миколаїв: БПЛА ворога на Миколаїв з півдня.",
+    "description": "Enemy BpLA on Mykolaiv from the south.",
+    "description_en": "Enemy BpLA on Mykolaiv from the south.",
+    "description_uk": "Ворожі БпЛА на Миколаїв з південного напрямку.",
+    "time": "",
+    "pubDate": "2026-05-22T11:49:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62434",
+    "score": 6.0,
+    "views": 62537,
+    "forwards": 2
+  },
+  {
     "title": "Kyiv: Russia’s Yaroslavl Oil Refinery hit for 4th time in a month, Zelensky...",
     "title_en": "Kyiv: Russia’s Yaroslavl Oil Refinery hit for 4th time in a month, Zelensky...",
     "title_uk": "Київ: російський Ярославський нафтопереробний завод завдав удару вчетверте за місяць, Зеленський...",
@@ -14,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53270",
     "score": 5.0,
-    "views": 592,
-    "forwards": 0
+    "views": 1368,
+    "forwards": 1
   },
   {
     "title": "Kharkiv: A high-speed target in the south of Kharkiv Oblast with a traffic...",
@@ -104,7 +140,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/38958",
     "score": 10.0,
-    "views": 4875,
+    "views": 5269,
     "forwards": 16
   },
   {
@@ -158,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53265",
     "score": 5.0,
-    "views": 1938,
+    "views": 2188,
     "forwards": 1
   },
   {
@@ -178,42 +214,6 @@
     "score": 5.0,
     "views": 54961,
     "forwards": 3
-  },
-  {
-    "title": "Dnipro: Dnipropetrovsk region: BpLA on Pavlograd and Shakhtarske.",
-    "title_en": "Dnipro: Dnipropetrovsk region: BpLA on Pavlograd and Shakhtarske.",
-    "title_uk": "Дніпро: Дніпропетровська обл.: БпЛА на Павлограді та Шахтарському.",
-    "description": "Dnipropetrovsk region: BpLA on Pavlograd and Shakhtarske.",
-    "description_en": "Dnipropetrovsk region: BpLA on Pavlograd and Shakhtarske.",
-    "description_uk": "Дніпропетровщина: БпЛА на Павлоград та Шахтарське.",
-    "time": "",
-    "pubDate": "2026-05-22T01:17:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62409",
-    "score": 6.0,
-    "views": 58823,
-    "forwards": 1
-  },
-  {
-    "title": "Zaporizhzhia: BpLA ➡️ heading for Dnipro, Zaporizhzhia.",
-    "title_en": "Zaporizhzhia: BpLA ➡️ heading for Dnipro, Zaporizhzhia.",
-    "title_uk": "Запоріжжя: BpLA ➡️ курс на Дніпро, Запоріжжя.",
-    "description": "BpLA ➡️ heading for Dnipro, Zaporizhzhia.",
-    "description_en": "BpLA ➡️ heading for Dnipro, Zaporizhzhia.",
-    "description_uk": "БпЛА ➡️ курсом на Дніпро, Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-05-21T23:41:45+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62398",
-    "score": 6.0,
-    "views": 5260,
-    "forwards": 7
   },
   {
     "title": "Kyiv: The anniversary of Russia's long-forgotten genocide \"European history...",
@@ -266,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19159",
     "score": 6.0,
-    "views": 67933,
-    "forwards": 207
+    "views": 69904,
+    "forwards": 208
   },
   {
     "title": "Dnipro: Drone strike",
@@ -302,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19158",
     "score": 6.5,
-    "views": 75495,
-    "forwards": 189
+    "views": 77729,
+    "forwards": 192
   },
   {
     "title": "Kyiv: Casualties reported",
