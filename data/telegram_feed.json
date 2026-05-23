@@ -1,5 +1,77 @@
 [
   {
+    "title": "Mykolaiv: A group of BpLA from Kherson Region ➡️ to Mykolaiv Region.",
+    "title_en": "Mykolaiv: A group of BpLA from Kherson Region ➡️ to Mykolaiv Region.",
+    "title_uk": "Миколаїв: Група BpLA з Херсонщини ➡️ на Миколаївщину.",
+    "description": "A group of BpLA from Kherson Region ➡️ to Mykolaiv Region.",
+    "description_en": "A group of BpLA from Kherson Region ➡️ to Mykolaiv Region.",
+    "description_uk": "Група БпЛА з Херсонщини ➡️ на Миколаївщину.",
+    "time": "",
+    "pubDate": "2026-05-23T17:36:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62517",
+    "score": 6.0,
+    "views": 20228,
+    "forwards": 35
+  },
+  {
+    "title": "Kursk: A new group of BpLA from the Kursk region, Russian Federation ➡️ to...",
+    "title_en": "Kursk: A new group of BpLA from the Kursk region, Russian Federation ➡️ to...",
+    "title_uk": "Курськ: Нова група BpLA з Курської області, РФ ➡️ до...",
+    "description": "A new group of BpLA from the Kursk region, Russian Federation ➡️ to Sumy Oblast, heading for Konotop.",
+    "description_en": "A new group of BpLA from the Kursk region, Russian Federation ➡️ to Sumy Oblast, heading for Konotop.",
+    "description_uk": "Нова група БпЛА з Курської обл., рф ➡️ на Сумщину, курсом на Конотоп.",
+    "time": "",
+    "pubDate": "2026-05-23T17:14:38+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kursk",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62516",
+    "score": 6.0,
+    "views": 50518,
+    "forwards": 35
+  },
+  {
+    "title": "Kyiv: Missile attack on residential area",
+    "title_en": "Kyiv: Missile attack on residential area",
+    "title_uk": "Київ: Ракетний обстріл житлового кварталу",
+    "description": "Zelensky warns of possible Russian Oreshnik missile attack on Ukraine. Citing Ukrainian and Western intelligence reports, President Volodymyr Zelensky said Russia appeared to be preparing an Oreshnik missile strike on Ukraine.",
+    "description_en": "Zelensky warns of possible Russian Oreshnik missile attack on Ukraine. Citing Ukrainian and Western intelligence reports, President Volodymyr Zelensky said Russia appeared to be preparing an Oreshnik missile strike on Ukraine.",
+    "description_uk": "Zelensky warns of possible Russian Oreshnik missile attack on Ukraine. Citing Ukrainian and Western intelligence reports, President Volodymyr Zelensky said Russia appeared to be preparing an Oreshnik missile strike on Ukraine.",
+    "time": "",
+    "pubDate": "2026-05-23T16:55:52+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53294",
+    "score": 5.0,
+    "views": 640,
+    "forwards": 5
+  },
+  {
+    "title": "Missile launch detected",
+    "title_en": "Missile launch detected",
+    "title_uk": "Виявлено запуск ракети",
+    "description": "🤬 Russia has moved the Bastion missile complex near Kursk: the approach time of the Zircons and Onyx to Kyiv can be reduced to a few minutes, - the monitoring channel Bastion is a mobile coastal missile complex, originally intended for the destruction of ships. It can launch supersonic Onyx missiles, and after modernization - hypersonic Zircons. \"Onyx\" develops speed...",
+    "description_en": "🤬 Russia has moved the Bastion missile complex near Kursk: the approach time of the Zircons and Onyx to Kyiv can be reduced to a few minutes, - the monitoring channel Bastion is a mobile coastal missile complex, originally intended for the destruction of ships. It can launch supersonic Onyx missiles, and after modernization - hypersonic Zircons. \"Onyx\" develops speed...",
+    "description_uk": "🤬 россия перебросила ракетный комплекс \"Бастион\" под Курск: время подлета \"Цирконов\" и \"Ониксов\" к Киеву может сократиться до нескольких минут, - мониторинговые канал \"Бастион\" - это мобильный береговой ракетный комплекс, изначально предназначенный для уничтожения кораблей. Он может запускать сверхзвуковые ракеты \"Оникс\", а после модернизации - гиперзвуковые \"Цирконы\". \"Оникс\" развивает скорость...",
+    "time": "",
+    "pubDate": "2026-05-23T16:53:19+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kursk",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/192087",
+    "score": 9.5,
+    "views": 59028,
+    "forwards": 391
+  },
+  {
     "title": "Attack attack",
     "title_en": "Attack attack",
     "title_uk": "Атака нападу",
@@ -14,8 +86,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19183",
     "score": 9.5,
-    "views": 5345,
-    "forwards": 206
+    "views": 146852,
+    "forwards": 1967
   },
   {
     "title": "Zaporizhzhia: BpLA ➡️ in the direction of Zaporizhzhia.",
@@ -86,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19181",
     "score": 8.5,
-    "views": 36249,
-    "forwards": 95
+    "views": 61493,
+    "forwards": 117
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -104,8 +176,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53293",
     "score": 10.0,
-    "views": 821,
-    "forwards": 1
+    "views": 1413,
+    "forwards": 3
   },
   {
     "title": "Kharkiv: Kharkiv region - BpLA on Balaklia.",
@@ -139,9 +211,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192076",
-    "score": 5.0,
-    "views": 95348,
-    "forwards": 34
+    "score": 5.5,
+    "views": 120106,
+    "forwards": 70
   },
   {
     "title": "BpLA in Sumy Oblast ➡️ heading for Lebedyn.",
@@ -342,24 +414,6 @@
     "forwards": 14
   },
   {
-    "title": "The Ukrainian military adapted the GTA V mod to training on the...",
-    "title_en": "The Ukrainian military adapted the GTA V mod to training on the...",
-    "title_uk": "Українські військові адаптували мод GTA V для навчання на...",
-    "description": "The Ukrainian military adapted the GTA V mod to training on the destruction of \"Shakhedov\" WeTrueGun training center uses a special mod for GTA V that simulates hunting enemy drones. During the training, the search for targets in the air, the pursuit and shooting down of drones are carried out.",
-    "description_en": "The Ukrainian military adapted the GTA V mod to training on the destruction of \"Shakhedov\" WeTrueGun training center uses a special mod for GTA V that simulates hunting enemy drones. During the training, the search for targets in the air, the pursuit and shooting down of drones are carried out.",
-    "description_uk": "Украинские военные приспособили мод GTA V к тренировкам по уничтожению \"Шахедов\" В учебном центре WeTrueGun используют специальный мод для GTA V, имитирующий охоту на вражеские дроны. Во время тренировок отрабатывается поиск целей в воздухе, преследование и сбивание беспилотников.",
-    "time": "",
-    "pubDate": "2026-05-23T05:31:40+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/192059",
-    "score": 6.5,
-    "views": 144418,
-    "forwards": 258
-  },
-  {
     "title": "\"Donald Trump\" will soon be put to meat Are you happy? In vain This...",
     "title_en": "\"Donald Trump\" will soon be put to meat Are you happy? In vain This...",
     "title_uk": "\"Дональда Трампа\" скоро покладуть на м'ясо. Ви щасливі? Даремно Це...",
@@ -394,41 +448,5 @@
     "score": 13.0,
     "views": 1819,
     "forwards": 6
-  },
-  {
-    "title": "Thank you to the leaders of the communities of Rivne region, Volyn...",
-    "title_en": "Thank you to the leaders of the communities of Rivne region, Volyn...",
-    "title_uk": "Дякую керівникам громад Рівненщини, Волині...",
-    "description": "Thank you to the leaders of the communities of Rivne region, Volyn and Zhytomyr region for taking such care of your people and our state. The main focus of our meeting was on security in the northern direction. We must be strong, so strengthening defenses, erecting fortifications and the readiness of our troops for any scenario is a priority. Support for education and children was discussed separately. A clear task for government officials is...",
-    "description_en": "Thank you to the leaders of the communities of Rivne region, Volyn and Zhytomyr region for taking such care of your people and our state. The main focus of our meeting was on security in the northern direction. We must be strong, so strengthening defenses, erecting fortifications and the readiness of our troops for any scenario is a priority. Support for education and children was discussed separately. A clear task for government officials is...",
-    "description_uk": "Дякую керівникам громад Рівненщини, Волині та Житомирщини за те, що так дбаєте про своїх людей і нашу державу. Головна увага нашої зустрічі була присвячена безпеці на північному напрямку. Ми повинні бути сильними, тому посилення оборони, зведення фортифікацій та готовність наших військ до будь-якого сценарію – пріоритет. Окремо обговорили підтримку освіти та дітей. Чітке завдання для урядовців –...",
-    "time": "",
-    "pubDate": "2026-05-22T19:10:02+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Zhytomyr",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19168",
-    "score": 10.5,
-    "views": 76236,
-    "forwards": 137
-  },
-  {
-    "title": "Kharkiv: I was with our soldiers who are being treated and undergoing...",
-    "title_en": "Kharkiv: I was with our soldiers who are being treated and undergoing...",
-    "title_uk": "Харків: Я був з нашими бійцями, які лікуються та проходять...",
-    "description": "I was with our soldiers who are being treated and undergoing rehabilitation after injuries in one of the medical institutions of the Rivne region. I talked to the defenders. They defended Ukraine in various directions - Kharkiv region, Kherson region, Dnipro region, Donetsk region, participated in the Kursk operation. Awarded soldiers with state awards. Thank you for serving and protecting our country. It is very important that the infrastructure for...",
-    "description_en": "I was with our soldiers who are being treated and undergoing rehabilitation after injuries in one of the medical institutions of the Rivne region. I talked to the defenders. They defended Ukraine in various directions - Kharkiv region, Kherson region, Dnipro region, Donetsk region, participated in the Kursk operation. Awarded soldiers with state awards. Thank you for serving and protecting our country. It is very important that the infrastructure for...",
-    "description_uk": "Був у наших воїнів, які лікуються та проходять реабілітацію після поранень в одному з медичних закладів Рівненщини. Поспілкувався з захисниками. Вони захищали Україну на різних напрямках – Харківщині, Херсонщині, Дніпровщині, Донеччині, брали участь у Курській операції. Відзначив воїнів державними нагородами. Дякую за службу та захист нашої країни. Дуже важливо, щоб інфраструктура для...",
-    "time": "",
-    "pubDate": "2026-05-22T16:14:35+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kharkiv",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19166",
-    "score": 6.5,
-    "views": 68302,
-    "forwards": 131
   }
 ]
