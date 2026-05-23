@@ -1,5 +1,59 @@
 [
   {
+    "title": "Chernihiv: BpLA from Chernihiv Oblast (past Desna) ➡️ in the direction of Kyiv...",
+    "title_en": "Chernihiv: BpLA from Chernihiv Oblast (past Desna) ➡️ in the direction of Kyiv...",
+    "title_uk": "Чернігів: БпЛА з Чернігівської області (минувши Десну) ➡️ в напрямку Києва...",
+    "description": "BpLA from Chernihiv Oblast (past Desna) ➡️ in the direction of Kyiv Oblast.",
+    "description_en": "BpLA from Chernihiv Oblast (past Desna) ➡️ in the direction of Kyiv Oblast.",
+    "description_uk": "БпЛА із Чернігівщини (повз Десну) ➡️ у напрямку Київщини.",
+    "time": "",
+    "pubDate": "2026-05-23T22:30:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62568",
+    "score": 6.0,
+    "views": 43549,
+    "forwards": 37
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAVs are approaching Kyiv from the south.",
+    "description_en": "UAVs are approaching Kyiv from the south.",
+    "description_uk": "БпЛА наближаються до Києва з півдня.",
+    "time": "",
+    "pubDate": "2026-05-23T22:26:31+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62567",
+    "score": 6.5,
+    "views": 75038,
+    "forwards": 240
+  },
+  {
+    "title": "Kyiv: Missile launch detected",
+    "title_en": "Kyiv: Missile launch detected",
+    "title_uk": "Київ: Зафіксовано пуск ракети",
+    "description": "Multiple explosions heard in Kyiv amid missile threat. A series of explosions was heard around 1 a.m. local time, according to Kyiv Independent journalists on the ground. Ahead of the explosions, Ukraine's Air Force warned of the threat of incoming Russian missile strikes on the capital, including the possible launch of an Oreshnik medium-range missile.",
+    "description_en": "Multiple explosions heard in Kyiv amid missile threat. A series of explosions was heard around 1 a.m. local time, according to Kyiv Independent journalists on the ground. Ahead of the explosions, Ukraine's Air Force warned of the threat of incoming Russian missile strikes on the capital, including the possible launch of an Oreshnik medium-range missile.",
+    "description_uk": "Multiple explosions heard in Kyiv amid missile threat. A series of explosions was heard around 1 a.m. local time, according to Kyiv Independent journalists on the ground. Ahead of the explosions, Ukraine's Air Force warned of the threat of incoming Russian missile strikes on the capital, including the possible launch of an Oreshnik medium-range missile.",
+    "time": "",
+    "pubDate": "2026-05-23T22:07:05+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53297",
+    "score": 10.0,
+    "views": 750,
+    "forwards": 1
+  },
+  {
     "title": "A high-speed target past Zhytomyr in the direction of...",
     "title_en": "A high-speed target past Zhytomyr in the direction of...",
     "title_uk": "Швидкісна ціль повз Житомир у напрямку...",
@@ -68,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53296",
     "score": 6.0,
-    "views": 777,
+    "views": 1456,
     "forwards": 4
   },
   {
@@ -140,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192092",
     "score": 9.5,
-    "views": 114249,
-    "forwards": 557
+    "views": 128310,
+    "forwards": 592
   },
   {
     "title": "Kyiv: Explosions reported",
@@ -230,8 +284,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192087",
     "score": 9.5,
-    "views": 148384,
-    "forwards": 709
+    "views": 156068,
+    "forwards": 745
   },
   {
     "title": "Attack attack",
@@ -248,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19183",
     "score": 9.5,
-    "views": 302183,
-    "forwards": 2602
+    "views": 327456,
+    "forwards": 2672
   },
   {
     "title": "Zaporizhzhia: BpLA ➡️ in the direction of Zaporizhzhia.",
@@ -320,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19181",
     "score": 8.5,
-    "views": 94314,
+    "views": 100635,
     "forwards": 137
   },
   {
@@ -393,60 +447,6 @@
     "link": "https://t.me/kpszsu/62504",
     "score": 5.0,
     "views": 35242,
-    "forwards": 2
-  },
-  {
-    "title": "Chernihiv: BpLA in the north of Chernihiv Oblast ➡️ heading for Horodnia.",
-    "title_en": "Chernihiv: BpLA in the north of Chernihiv Oblast ➡️ heading for Horodnia.",
-    "title_uk": "Чернігів: BpLA на півночі Чернігівської області ➡️ в напрямку Городні.",
-    "description": "BpLA in the north of Chernihiv Oblast ➡️ heading for Horodnia.",
-    "description_en": "BpLA in the north of Chernihiv Oblast ➡️ heading for Horodnia.",
-    "description_uk": "БпЛА на півночі Чернігівщини ➡️ курсом на Городню.",
-    "time": "",
-    "pubDate": "2026-05-23T11:44:41+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62501",
-    "score": 6.0,
-    "views": 12154,
-    "forwards": 1
-  },
-  {
-    "title": "🛸Sumshchyna: BpLA past Khotyn in the direction of Sumy/Stepanivka.",
-    "title_en": "🛸Sumshchyna: BpLA past Khotyn in the direction of Sumy/Stepanivka.",
-    "title_uk": "🛸Сумщина: БпЛА повз Хотин в напрямку Сум/Степанівка.",
-    "description": "🛸Sumshchyna: BpLA past Khotyn in the direction of Sumy/Stepanivka.",
-    "description_en": "🛸Sumshchyna: BpLA past Khotyn in the direction of Sumy/Stepanivka.",
-    "description_uk": "🛸Сумщина: БпЛА повз Хотінь в напрямку Сум/Степанівки.",
-    "time": "",
-    "pubDate": "2026-05-23T11:10:21+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62500",
-    "score": 5.0,
-    "views": 29358,
-    "forwards": 1
-  },
-  {
-    "title": "Kyiv: Attack attack on residential area",
-    "title_en": "Kyiv: Attack attack on residential area",
-    "title_uk": "Київ: обстріл житлового кварталу",
-    "description": "Update: Ukraine hits major chemical plant in Perm Krai, fuel terminal in Novorossiysk, authorities say. President Volodymyr Zelensky confirmed that Ukraine's Security Service (SBU) had struck the Metafrax Chemicals plant in Perm Krai, located around 1,700 kilometers (1,050 miles) from the Ukrainian border. According to Zelensky, production at the facility has been halted following the strike.",
-    "description_en": "Update: Ukraine hits major chemical plant in Perm Krai, fuel terminal in Novorossiysk, authorities say. President Volodymyr Zelensky confirmed that Ukraine's Security Service (SBU) had struck the Metafrax Chemicals plant in Perm Krai, located around 1,700 kilometers (1,050 miles) from the Ukrainian border. According to Zelensky, production at the facility has been halted following the strike.",
-    "description_uk": "Update: Ukraine hits major chemical plant in Perm Krai, fuel terminal in Novorossiysk, authorities say. President Volodymyr Zelensky confirmed that Ukraine's Security Service (SBU) had struck the Metafrax Chemicals plant in Perm Krai, located around 1,700 kilometers (1,050 miles) from the Ukrainian border. According to Zelensky, production at the facility has been halted following the strike.",
-    "time": "",
-    "pubDate": "2026-05-23T10:27:19+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53291",
-    "score": 5.0,
-    "views": 1603,
     "forwards": 2
   }
 ]
