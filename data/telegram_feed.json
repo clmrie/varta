@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Groups of enemy UAVs in the direction of Kyiv from the north.",
+    "description_en": "Groups of enemy UAVs in the direction of Kyiv from the north.",
+    "description_uk": "Групи ворожих БпЛА в напрямку Києва з півночі.",
+    "time": "",
+    "pubDate": "2026-05-23T23:31:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62579",
+    "score": 5.5,
+    "views": 47619,
+    "forwards": 71
+  },
+  {
+    "title": "Mykolaiv: Cruise missile heading inbound",
+    "title_en": "Mykolaiv: Cruise missile heading inbound",
+    "title_uk": "Миколаїв: наближається крилата ракета",
+    "description": "Cruise missiles in the Kherson region heading for Mykolaiv region.",
+    "description_en": "Cruise missiles in the Kherson region heading for Mykolaiv region.",
+    "description_uk": "Крилаті ракети на Херсонщині курсом на Миколаївщину.",
+    "time": "",
+    "pubDate": "2026-05-23T23:22:54+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62577",
+    "score": 6.5,
+    "views": 76040,
+    "forwards": 104
+  },
+  {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "Explosions heard as Kyiv comes under massive ballistic missile attack. Russian forces launched a large-scale missile attack on Kyiv overnight on May 24, officials reported. Kyiv Independent journalists on the ground reported hearing what they described as a massive series of missile strikes on Ukraine's capital. Ukraine's Air Force issued warnings about a possible Russian launch of an Oreshnik...",
+    "description_en": "Explosions heard as Kyiv comes under massive ballistic missile attack. Russian forces launched a large-scale missile attack on Kyiv overnight on May 24, officials reported. Kyiv Independent journalists on the ground reported hearing what they described as a massive series of missile strikes on Ukraine's capital. Ukraine's Air Force issued warnings about a possible Russian launch of an Oreshnik...",
+    "description_uk": "Explosions heard as Kyiv comes under massive ballistic missile attack. Russian forces launched a large-scale missile attack on Kyiv overnight on May 24, officials reported. Kyiv Independent journalists on the ground reported hearing what they described as a massive series of missile strikes on Ukraine's capital. Ukraine's Air Force issued warnings about a possible Russian launch of an Oreshnik...",
+    "time": "",
+    "pubDate": "2026-05-23T22:39:42+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53298",
+    "score": 18.0,
+    "views": 881,
+    "forwards": 1
+  },
+  {
     "title": "Chernihiv: BpLA from Chernihiv Oblast (past Desna) ➡️ in the direction of Kyiv...",
     "title_en": "Chernihiv: BpLA from Chernihiv Oblast (past Desna) ➡️ in the direction of Kyiv...",
     "title_uk": "Чернігів: БпЛА з Чернігівської області (минувши Десну) ➡️ в напрямку Києва...",
@@ -18,24 +72,6 @@
     "forwards": 37
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAVs are approaching Kyiv from the south.",
-    "description_en": "UAVs are approaching Kyiv from the south.",
-    "description_uk": "БпЛА наближаються до Києва з півдня.",
-    "time": "",
-    "pubDate": "2026-05-23T22:26:31+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62567",
-    "score": 6.5,
-    "views": 75038,
-    "forwards": 240
-  },
-  {
     "title": "Kyiv: Missile launch detected",
     "title_en": "Kyiv: Missile launch detected",
     "title_uk": "Київ: Зафіксовано пуск ракети",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53297",
     "score": 10.0,
-    "views": 750,
-    "forwards": 1
+    "views": 1314,
+    "forwards": 2
   },
   {
     "title": "A high-speed target past Zhytomyr in the direction of...",
@@ -194,7 +230,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192092",
     "score": 9.5,
-    "views": 128310,
+    "views": 138162,
     "forwards": 592
   },
   {
@@ -302,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19183",
     "score": 9.5,
-    "views": 327456,
-    "forwards": 2672
+    "views": 344430,
+    "forwards": 2684
   },
   {
     "title": "Zaporizhzhia: BpLA ➡️ in the direction of Zaporizhzhia.",
@@ -374,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19181",
     "score": 8.5,
-    "views": 100635,
+    "views": 104555,
     "forwards": 137
   },
   {
@@ -412,41 +448,5 @@
     "score": 6.0,
     "views": 13448,
     "forwards": 1
-  },
-  {
-    "title": "Air defense active",
-    "title_en": "Air defense active",
-    "title_uk": "Активна ППО",
-    "description": "The Russians will change the tactics of using drones, - Flash The adviser to the Minister of Defense explained in a comment to UNIAN how the invaders will act after the effectiveness of gasoline \"shakhed\" dropped to the lowest level. Moscow can improve evasion systems from Ukrainian interceptor drones, and is also trying to implement countermeasures: \"For example, EW on \"Shakhed\" or other...",
-    "description_en": "The Russians will change the tactics of using drones, - Flash The adviser to the Minister of Defense explained in a comment to UNIAN how the invaders will act after the effectiveness of gasoline \"shakhed\" dropped to the lowest level. Moscow can improve evasion systems from Ukrainian interceptor drones, and is also trying to implement countermeasures: \"For example, EW on \"Shakhed\" or other...",
-    "description_uk": "Россияне будут менять тактику использования беспилотников, - Флэш Советник министра обороны в комментарии УНИАН объяснил, как оккупанты будут действовать после того, как эффективность бензиновых \"шахедов\" упала до самой низкой отметки. Москва может усовершенствовать системы уклонения от украинских дронов-перехватчиков, а также пытаться внедрять контрмеры: \"Например, РЭБ на \"Шахедах\" или другие...",
-    "time": "",
-    "pubDate": "2026-05-23T12:43:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/192076",
-    "score": 5.5,
-    "views": 120106,
-    "forwards": 70
-  },
-  {
-    "title": "BpLA in Sumy Oblast ➡️ heading for Lebedyn.",
-    "title_en": "BpLA in Sumy Oblast ➡️ heading for Lebedyn.",
-    "title_uk": "BpLA в Сумській області ➡️ прямуючи на Лебедин.",
-    "description": "BpLA in Sumy Oblast ➡️ heading for Lebedyn.",
-    "description_en": "BpLA in Sumy Oblast ➡️ heading for Lebedyn.",
-    "description_uk": "БпЛА на Сумщині ➡️ курсом на Лебедин.",
-    "time": "",
-    "pubDate": "2026-05-23T12:22:14+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62504",
-    "score": 5.0,
-    "views": 35242,
-    "forwards": 2
   }
 ]
