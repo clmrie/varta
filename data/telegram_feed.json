@@ -1,5 +1,23 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "New groups of UAVs in the north of Chernihiv Oblast, in the direction of Slavutych.",
+    "description_en": "New groups of UAVs in the north of Chernihiv Oblast, in the direction of Slavutych.",
+    "description_uk": "Нові групи БпЛА на півночі Чернігівщини, у напрямку Славутича.",
+    "time": "",
+    "pubDate": "2026-05-24T21:34:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62684",
+    "score": 6.0,
+    "views": 7905,
+    "forwards": 10
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/62683",
     "score": 5.0,
-    "views": 1,
-    "forwards": 0
+    "views": 30421,
+    "forwards": 35
   },
   {
     "title": "Mykolaiv: Kharkiv region: a group of BpLA in the direction of Chuguyev. 🛵 BpLA...",
@@ -68,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53313",
     "score": 4.0,
-    "views": 1031,
+    "views": 1445,
     "forwards": 4
   },
   {
@@ -108,24 +126,6 @@
     "forwards": 2
   },
   {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "UAV from Chernihiv region heading for the Kyiv Reservoir.",
-    "description_en": "UAV from Chernihiv region heading for the Kyiv Reservoir.",
-    "description_uk": "БпЛА із Чернігівщини курсом на Київське водосховище.",
-    "time": "",
-    "pubDate": "2026-05-24T18:32:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62673",
-    "score": 6.0,
-    "views": 32364,
-    "forwards": 35
-  },
-  {
     "title": "Missile attack",
     "title_en": "Missile attack",
     "title_uk": "Ракетна атака",
@@ -140,8 +140,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9141",
     "score": 8.0,
-    "views": 848,
-    "forwards": 12
+    "views": 892,
+    "forwards": 13
   },
   {
     "title": "Chernihiv: Chernihiv region: jet UAV in Chernihiv.",
@@ -212,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53311",
     "score": 6.0,
-    "views": 2035,
+    "views": 2264,
     "forwards": 3
   },
   {
@@ -248,7 +248,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192240",
     "score": 8.5,
-    "views": 176204,
+    "views": 182664,
     "forwards": 108
   },
   {
@@ -428,8 +428,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23531",
     "score": 8.5,
-    "views": 146023,
-    "forwards": 346
+    "views": 148543,
+    "forwards": 350
   },
   {
     "title": "Shooting down enemy drones with Ukrainian weapons. \"Chaklun\" UAV is...",
@@ -446,7 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39065",
     "score": 9.0,
-    "views": 7466,
+    "views": 7527,
     "forwards": 33
   }
 ]
