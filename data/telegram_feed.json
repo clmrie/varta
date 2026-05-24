@@ -1,5 +1,59 @@
 [
   {
+    "title": "Dnipro: Kyiv region: BpLA heading for Ivankiv. 🛵 Dnipropetrovsk region: BpLA...",
+    "title_en": "Dnipro: Kyiv region: BpLA heading for Ivankiv. 🛵 Dnipropetrovsk region: BpLA...",
+    "title_uk": "Дніпро: Київська обл.: BpLA курс на Іванків. 🛵 Дніпропетровська область: BpLA...",
+    "description": "Kyiv region: BpLA heading for Ivankiv. 🛵 Dnipropetrovsk region: BpLA in the direction of Pavlograd. 🛵 Sumyshchyna: BpLA past Lebedyn on the way to Poltava region.",
+    "description_en": "Kyiv region: BpLA heading for Ivankiv. 🛵 Dnipropetrovsk region: BpLA in the direction of Pavlograd. 🛵 Sumyshchyna: BpLA past Lebedyn on the way to Poltava region.",
+    "description_uk": "Київщина: БпЛА курсом на Іванків. 🛵 Дніпропетровщина: БпЛА в напрямку Павлограда. 🛵 Сумщина: БпЛА повз Лебедин курсом на Полтавщину.",
+    "time": "",
+    "pubDate": "2026-05-24T18:40:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62675",
+    "score": 6.0,
+    "views": 16191,
+    "forwards": 2
+  },
+  {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "UAV from Chernihiv region heading for the Kyiv Reservoir.",
+    "description_en": "UAV from Chernihiv region heading for the Kyiv Reservoir.",
+    "description_uk": "БпЛА із Чернігівщини курсом на Київське водосховище.",
+    "time": "",
+    "pubDate": "2026-05-24T18:32:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62673",
+    "score": 6.0,
+    "views": 32364,
+    "forwards": 35
+  },
+  {
+    "title": "Missile attack",
+    "title_en": "Missile attack",
+    "title_uk": "Ракетна атака",
+    "description": "The Russian Federation must bear responsibility for cultural genocide. The National Commission of Ukraine for UNESCO issues a strong protest and categorically condemns another massive missile and drone attack by the Russian Federation on Kyiv on the night of May 24, 2026. This planned act of terror was directed against the historical and cultural core of the Ukrainian capital. The Russian Federation is systematically waging war...",
+    "description_en": "The Russian Federation must bear responsibility for cultural genocide. The National Commission of Ukraine for UNESCO issues a strong protest and categorically condemns another massive missile and drone attack by the Russian Federation on Kyiv on the night of May 24, 2026. This planned act of terror was directed against the historical and cultural core of the Ukrainian capital. The Russian Federation is systematically waging war...",
+    "description_uk": "РФ має понести відповідальність за культурний геноцид. Національна комісія України у справах ЮНЕСКО висловлює рішучий протест та категорично засуджує черговий масований ракетно-дроновий удар Російської Федерації по Києву в ніч проти 24 травня 2026 року. Цей спланований акт терору був спрямований проти історичного та культурного ядра української столиці. Російська Федерація систематично веде війну...",
+    "time": "",
+    "pubDate": "2026-05-24T17:53:20+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9141",
+    "score": 8.0,
+    "views": 565,
+    "forwards": 10
+  },
+  {
     "title": "Chernihiv: Chernihiv region: jet UAV in Chernihiv.",
     "title_en": "Chernihiv: Chernihiv region: jet UAV in Chernihiv.",
     "title_uk": "Чернігів: Чернігівська обл.: реактивний БПЛА в Черніг.",
@@ -15,24 +69,6 @@
     "link": "https://t.me/kpszsu/62669",
     "score": 6.0,
     "views": 33438,
-    "forwards": 0
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "Chernihiv region: a jet UAV passes Goncharivske heading south.",
-    "description_en": "Chernihiv region: a jet UAV passes Goncharivske heading south.",
-    "description_uk": "Чернігівщина: реактивний БпЛА повз Гончарівське курсом на південь.",
-    "time": "",
-    "pubDate": "2026-05-24T16:48:56+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62668",
-    "score": 6.0,
-    "views": 42545,
     "forwards": 0
   },
   {
@@ -86,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53311",
     "score": 6.0,
-    "views": 1013,
+    "views": 1381,
     "forwards": 3
   },
   {
@@ -104,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53310",
     "score": 10.0,
-    "views": 1130,
-    "forwards": 1
+    "views": 1433,
+    "forwards": 3
   },
   {
     "title": "Air defense active",
@@ -122,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192240",
     "score": 8.5,
-    "views": 117348,
-    "forwards": 72
+    "views": 144008,
+    "forwards": 107
   },
   {
     "title": "Mykolaiv: A group of BpLA from Kherson region to Mykolaiv region.",
@@ -302,8 +338,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23531",
     "score": 8.5,
-    "views": 121565,
-    "forwards": 325
+    "views": 133046,
+    "forwards": 337
   },
   {
     "title": "Shooting down enemy drones with Ukrainian weapons. \"Chaklun\" UAV is...",
@@ -320,8 +356,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39065",
     "score": 9.0,
-    "views": 6372,
-    "forwards": 30
+    "views": 6862,
+    "forwards": 31
   },
   {
     "title": "UAV from the Black Sea to Ochakiv.",
@@ -412,41 +448,5 @@
     "score": 9.0,
     "views": 1634,
     "forwards": 3
-  },
-  {
-    "title": "Chernihiv: BpLA through Chernihiv Oblast, in the direction of Borzna/Nizhyn.",
-    "title_en": "Chernihiv: BpLA through Chernihiv Oblast, in the direction of Borzna/Nizhyn.",
-    "title_uk": "Чернігів: BpLA через Чернігівську область, в напрямку Борзна/Ніжин.",
-    "description": "BpLA through Chernihiv Oblast, in the direction of Borzna/Nizhyn.",
-    "description_en": "BpLA through Chernihiv Oblast, in the direction of Borzna/Nizhyn.",
-    "description_uk": "БпЛА через Чернігівщину, в напрямку Борзни/Ніжина.",
-    "time": "",
-    "pubDate": "2026-05-24T08:43:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62654",
-    "score": 6.0,
-    "views": 51191,
-    "forwards": 0
-  },
-  {
-    "title": "Kursk: 55 missiles intercepted",
-    "title_en": "Kursk: 55 missiles intercepted",
-    "title_uk": "Курськ: перехоплено 55 ракет",
-    "description": "604 TARGETS DOWN/SUPPRESSED: 55 MISSILES AND 549 ENEMY UAVs (in addition, 19 enemy missiles probably did not reach the targets, the information is being clarified) ➖➖➖➖➖➖➖➖➖➖ On the night of May 24 (from 18:00 on May 23), the enemy launched a massive combined attack on Ukraine using attack UAVs, air, sea and land missiles basing ❗️ The main direction of the attack is Kyiv. All the radio engineering troops...",
-    "description_en": "604 TARGETS DOWN/SUPPRESSED: 55 MISSILES AND 549 ENEMY UAVs (in addition, 19 enemy missiles probably did not reach the targets, the information is being clarified) ➖➖➖➖➖➖➖➖➖➖ On the night of May 24 (from 18:00 on May 23), the enemy launched a massive combined attack on Ukraine using attack UAVs, air, sea and land missiles basing ❗️ The main direction of the attack is Kyiv. All the radio engineering troops...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 604 ЦІЛІ: 55 РАКЕТ ТА 549 ВОРОЖИХ БПЛА (крім того, 19 ворожих ракет, імовірно, не досягли цілей, інформація уточнюється) ➖➖➖➖➖➖➖➖➖➖ У ніч на 24 травня (з 18:00 23 травня), противник завдав масованого комбінованого удару по Україні із застосуванням ударних БпЛА, ракет повітряного, морського та наземного базування. ❗️ Основний напрямок удару – Київ. Усього радіотехнічними військами...",
-    "time": "",
-    "pubDate": "2026-05-24T07:10:11+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kursk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/39054",
-    "score": 13.5,
-    "views": 8263,
-    "forwards": 56
   }
 ]
