@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Chernihiv region: jet UAV in Chernihiv.",
+    "title_en": "Chernihiv: Chernihiv region: jet UAV in Chernihiv.",
+    "title_uk": "Чернігів: Чернігівська обл.: реактивний БПЛА в Черніг.",
+    "description": "Chernihiv region: jet UAV in Chernihiv.",
+    "description_en": "Chernihiv region: jet UAV in Chernihiv.",
+    "description_uk": "Чернігівщина: реактивний БпЛА на Чернігів.",
+    "time": "",
+    "pubDate": "2026-05-24T16:59:10+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62669",
+    "score": 6.0,
+    "views": 33438,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "Chernihiv region: a jet UAV passes Goncharivske heading south.",
+    "description_en": "Chernihiv region: a jet UAV passes Goncharivske heading south.",
+    "description_uk": "Чернігівщина: реактивний БпЛА повз Гончарівське курсом на південь.",
+    "time": "",
+    "pubDate": "2026-05-24T16:48:56+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62668",
+    "score": 6.0,
+    "views": 42545,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: BpLA on Kharkiv from the west.",
     "title_en": "Kharkiv: BpLA on Kharkiv from the west.",
     "title_uk": "Харків: БпЛА на Харків із зах.",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53311",
     "score": 6.0,
-    "views": 512,
-    "forwards": 2
+    "views": 1013,
+    "forwards": 3
   },
   {
     "title": "Kyiv: Attack attack on infrastructure",
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53310",
     "score": 10.0,
-    "views": 763,
+    "views": 1130,
     "forwards": 1
   },
   {
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192240",
     "score": 8.5,
-    "views": 87246,
-    "forwards": 70
+    "views": 117348,
+    "forwards": 72
   },
   {
     "title": "Mykolaiv: A group of BpLA from Kherson region to Mykolaiv region.",
@@ -266,8 +302,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23531",
     "score": 8.5,
-    "views": 106051,
-    "forwards": 310
+    "views": 121565,
+    "forwards": 325
   },
   {
     "title": "Shooting down enemy drones with Ukrainian weapons. \"Chaklun\" UAV is...",
@@ -284,8 +320,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39065",
     "score": 9.0,
-    "views": 5930,
-    "forwards": 28
+    "views": 6372,
+    "forwards": 30
   },
   {
     "title": "UAV from the Black Sea to Ochakiv.",
@@ -396,24 +432,6 @@
     "forwards": 0
   },
   {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "UAV in the north of Sumy Oblast, heading for Chernihiv Oblast.",
-    "description_en": "UAV in the north of Sumy Oblast, heading for Chernihiv Oblast.",
-    "description_uk": "БпЛА на півночі Сумщини, курсом на Чернігівщину.",
-    "time": "",
-    "pubDate": "2026-05-24T08:25:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62652",
-    "score": 6.0,
-    "views": 61095,
-    "forwards": 0
-  },
-  {
     "title": "Kursk: 55 missiles intercepted",
     "title_en": "Kursk: 55 missiles intercepted",
     "title_uk": "Курськ: перехоплено 55 ракет",
@@ -428,25 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39054",
     "score": 13.5,
-    "views": 8098,
+    "views": 8263,
     "forwards": 56
-  },
-  {
-    "title": "55 missiles + 549 drones intercepted",
-    "title_en": "55 missiles + 549 drones intercepted",
-    "title_uk": "Перехоплено 55 ракет + 549 безпілотників",
-    "description": "Today, 55 missiles and 549 UAVs were shot down/suppressed over Ukraine, - the Armed Forces of Ukraine also recorded 16 missiles and 51 attack UAVs in 54 locations.",
-    "description_en": "Today, 55 missiles and 549 UAVs were shot down/suppressed over Ukraine, - the Armed Forces of Ukraine also recorded 16 missiles and 51 attack UAVs in 54 locations.",
-    "description_uk": "Сегодня над Украиной было сбито/подавлено 55 ракет и 549 БПЛА, - ВС ВСУ Также зафиксировано попадание 16 ракет и 51 ударного БПЛА в 54 локациях.",
-    "time": "",
-    "pubDate": "2026-05-24T06:54:05+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/192172",
-    "score": 9.5,
-    "views": 99825,
-    "forwards": 217
   }
 ]
