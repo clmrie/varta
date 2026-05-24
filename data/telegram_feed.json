@@ -1,5 +1,77 @@
 [
   {
+    "title": "Kharkiv: BpLA on Kharkiv from the west.",
+    "title_en": "Kharkiv: BpLA on Kharkiv from the west.",
+    "title_uk": "Харків: БпЛА на Харків із зах.",
+    "description": "BpLA on Kharkiv from the west.",
+    "description_en": "BpLA on Kharkiv from the west.",
+    "description_uk": "БпЛА на Харків із заходу.",
+    "time": "",
+    "pubDate": "2026-05-24T16:37:17+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62666",
+    "score": 6.0,
+    "views": 3051,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: A jet UAV in the north of Chernihiv Oblast.",
+    "title_en": "Chernihiv: A jet UAV in the north of Chernihiv Oblast.",
+    "title_uk": "Чернігів: реактивний БПЛА на півночі Чернігівської області.",
+    "description": "A jet UAV in the north of Chernihiv Oblast.",
+    "description_en": "A jet UAV in the north of Chernihiv Oblast.",
+    "description_uk": "Реактивний БпЛА на півночі Чернігівщини.",
+    "time": "",
+    "pubDate": "2026-05-24T16:31:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62665",
+    "score": 6.0,
+    "views": 13166,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: 748 new members have joined the Kyiv Independent community since the...",
+    "title_en": "Kyiv: 748 new members have joined the Kyiv Independent community since the...",
+    "title_uk": "Київ: 748 нових учасників приєдналися до Київської незалежної спільноти з...",
+    "description": "748 new members have joined the Kyiv Independent community since the launch of our campaign! Thank you to everyone who chose to support independent journalism from Ukraine and help keep our reporting accessible to readers around the world. Our goal is to welcome 4,000 new members — and every new supporter helps us continue covering Ukraine with independence, accuracy, and depth. Join our global...",
+    "description_en": "748 new members have joined the Kyiv Independent community since the launch of our campaign! Thank you to everyone who chose to support independent journalism from Ukraine and help keep our reporting accessible to readers around the world. Our goal is to welcome 4,000 new members — and every new supporter helps us continue covering Ukraine with independence, accuracy, and depth. Join our global...",
+    "description_uk": "748 new members have joined the Kyiv Independent community since the launch of our campaign! Thank you to everyone who chose to support independent journalism from Ukraine and help keep our reporting accessible to readers around the world. Our goal is to welcome 4,000 new members — and every new supporter helps us continue covering Ukraine with independence, accuracy, and depth. Join our global...",
+    "time": "",
+    "pubDate": "2026-05-24T15:58:46+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53311",
+    "score": 6.0,
+    "views": 512,
+    "forwards": 2
+  },
+  {
+    "title": "Kyiv: Attack attack on infrastructure",
+    "title_en": "Kyiv: Attack attack on infrastructure",
+    "title_uk": "Київ: Атака на інфраструктуру",
+    "description": "Update: Ukraine requests emergency meetings of UN Security Council, OSCE to respond to Russian attack. \"Putin is trying to intimidate Ukraine by attacking civilians and destroying residential buildings, museums, schools, and critical infrastructure,\" Foreign Minister Andrii Sybiha said. \"He is also trying to intimidate the world by launching IRBMs against peaceful cities.\"",
+    "description_en": "Update: Ukraine requests emergency meetings of UN Security Council, OSCE to respond to Russian attack. \"Putin is trying to intimidate Ukraine by attacking civilians and destroying residential buildings, museums, schools, and critical infrastructure,\" Foreign Minister Andrii Sybiha said. \"He is also trying to intimidate the world by launching IRBMs against peaceful cities.\"",
+    "description_uk": "Update: Ukraine requests emergency meetings of UN Security Council, OSCE to respond to Russian attack. \"Putin is trying to intimidate Ukraine by attacking civilians and destroying residential buildings, museums, schools, and critical infrastructure,\" Foreign Minister Andrii Sybiha said. \"He is also trying to intimidate the world by launching IRBMs against peaceful cities.\"",
+    "time": "",
+    "pubDate": "2026-05-24T15:37:27+00:00",
+    "category": "political",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53310",
+    "score": 10.0,
+    "views": 763,
+    "forwards": 1
+  },
+  {
     "title": "Air defense active",
     "title_en": "Air defense active",
     "title_uk": "Активна ППО",
@@ -13,9 +85,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192240",
-    "score": 8.0,
-    "views": 34313,
-    "forwards": 36
+    "score": 8.5,
+    "views": 87246,
+    "forwards": 70
   },
   {
     "title": "Mykolaiv: A group of BpLA from Kherson region to Mykolaiv region.",
@@ -122,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192226",
     "score": 3.5,
-    "views": 126917,
-    "forwards": 176
+    "views": 145475,
+    "forwards": 177
   },
   {
     "title": "Kyiv: Attack attack",
@@ -157,9 +229,9 @@
     "location": "Kyiv",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19197",
-    "score": 9.5,
-    "views": 86381,
-    "forwards": 193
+    "score": 10.5,
+    "views": 98277,
+    "forwards": 207
   },
   {
     "title": "Attack attack",
@@ -194,8 +266,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23531",
     "score": 8.5,
-    "views": 98465,
-    "forwards": 295
+    "views": 106051,
+    "forwards": 310
   },
   {
     "title": "Shooting down enemy drones with Ukrainian weapons. \"Chaklun\" UAV is...",
@@ -212,7 +284,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39065",
     "score": 9.0,
-    "views": 5568,
+    "views": 5930,
     "forwards": 28
   },
   {
@@ -356,7 +428,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39054",
     "score": 13.5,
-    "views": 7937,
+    "views": 8098,
     "forwards": 56
   },
   {
@@ -376,77 +448,5 @@
     "score": 9.5,
     "views": 99825,
     "forwards": 217
-  },
-  {
-    "title": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_uk": "Харків: БпЛА на Харків з півночі.",
-    "description": "BpLA on Kharkiv from the north.",
-    "description_en": "BpLA on Kharkiv from the north.",
-    "description_uk": "БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-05-24T05:36:54+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62644",
-    "score": 6.0,
-    "views": 12164,
-    "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: BpLA on Mykolaiv from the south.",
-    "title_en": "Mykolaiv: BpLA on Mykolaiv from the south.",
-    "title_uk": "Миколаїв: БпЛА на Миколаєві з півд.",
-    "description": "BpLA on Mykolaiv from the south.",
-    "description_en": "BpLA on Mykolaiv from the south.",
-    "description_uk": "БпЛА на Миколаїв з півдня.",
-    "time": "",
-    "pubDate": "2026-05-24T05:36:27+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62643",
-    "score": 6.0,
-    "views": 17127,
-    "forwards": 34
-  },
-  {
-    "title": "Kyiv: 700 drones launched",
-    "title_en": "Kyiv: 700 drones launched",
-    "title_uk": "Київ: запущено 700 дронів",
-    "description": "Update: Massive Russian ballistic missile, drone attack on Kyiv kills 1, injures 24. The number of injured victims in Russia's overnight missile and drone attack on Kyiv and the surrounding region has risen to 24, officials reported. Monitoring groups reported that more than 50 Russian missiles and upwards of 700 drones were launched towards Ukraine, almost entirely targeting the capital region,...",
-    "description_en": "Update: Massive Russian ballistic missile, drone attack on Kyiv kills 1, injures 24. The number of injured victims in Russia's overnight missile and drone attack on Kyiv and the surrounding region has risen to 24, officials reported. Monitoring groups reported that more than 50 Russian missiles and upwards of 700 drones were launched towards Ukraine, almost entirely targeting the capital region,...",
-    "description_uk": "Update: Massive Russian ballistic missile, drone attack on Kyiv kills 1, injures 24. The number of injured victims in Russia's overnight missile and drone attack on Kyiv and the surrounding region has risen to 24, officials reported. Monitoring groups reported that more than 50 Russian missiles and upwards of 700 drones were launched towards Ukraine, almost entirely targeting the capital region,...",
-    "time": "",
-    "pubDate": "2026-05-24T04:49:11+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53304",
-    "score": 14.0,
-    "views": 2573,
-    "forwards": 4
-  },
-  {
-    "title": "Missile attack on residential area",
-    "title_en": "Missile attack on residential area",
-    "title_uk": "Ракетний обстріл житлових кварталів",
-    "description": "As a result of the enemy's massive attack on the capital, damage was recorded in all areas of the city, Kyiv Mayor Vitaly Klychko said. In the Darnytskyi district, as a result of the fall of UAV debris and missiles, a dormitory building, several non-residential premises, a service station and cars parked near a residential building were damaged. In the Obolonsky district, the UAV hit a private one-story residential building. Also as a result of hitting...",
-    "description_en": "As a result of the enemy's massive attack on the capital, damage was recorded in all areas of the city, Kyiv Mayor Vitaly Klychko said. In the Darnytskyi district, as a result of the fall of UAV debris and missiles, a dormitory building, several non-residential premises, a service station and cars parked near a residential building were damaged. In the Obolonsky district, the UAV hit a private one-story residential building. Also as a result of hitting...",
-    "description_uk": "В результате массированной атаки врага на столицу повреждения зафиксированы во всех районах города, сообщил мэр Киева Виталий Кличко, В Дарницком районе в результате падения обломков БПЛА и ракет повреждено здание общежития, несколько нежилых помещений, СТО и автомобили, припаркованные возле жилого дома. В Оболонском районе БПЛА попал в частный 1-этажный жилой дом. Также в результате попадания...",
-    "time": "",
-    "pubDate": "2026-05-24T03:16:38+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/192161",
-    "score": 9.5,
-    "views": 121396,
-    "forwards": 285
   }
 ]
