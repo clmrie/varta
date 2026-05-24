@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A group of UAVs in the direction of Kryvyi Rih.",
+    "description_en": "A group of UAVs in the direction of Kryvyi Rih.",
+    "description_uk": "Група БпЛА в напрямку Кривого Рогу.",
+    "time": "",
+    "pubDate": "2026-05-24T20:48:55+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62683",
+    "score": 5.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: Kharkiv region: a group of BpLA in the direction of Chuguyev. 🛵 BpLA...",
+    "title_en": "Mykolaiv: Kharkiv region: a group of BpLA in the direction of Chuguyev. 🛵 BpLA...",
+    "title_uk": "Миколаїв : Харківська область : група БпЛА на напрямку Чугуєва. 🛵 BpLA...",
+    "description": "Kharkiv region: a group of BpLA in the direction of Chuguyev. 🛵 BpLA groups from Kherson region heading for Mykolaiv region.",
+    "description_en": "Kharkiv region: a group of BpLA in the direction of Chuguyev. 🛵 BpLA groups from Kherson region heading for Mykolaiv region.",
+    "description_uk": "Харківщина: група БпЛА у напрямку Чугуєва. 🛵 Групи БпЛА із Херсонщини курсом на Миколаївщину.",
+    "time": "",
+    "pubDate": "2026-05-24T20:35:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62682",
+    "score": 6.0,
+    "views": 15235,
+    "forwards": 0
+  },
+  {
     "title": "Chernihiv: Kharkiv region: a group of BpLA in the direction of Izyum. 🛵...",
     "title_en": "Chernihiv: Kharkiv region: a group of BpLA in the direction of Izyum. 🛵...",
     "title_uk": "Чернігів: Харківська область: група БпЛА на Ізюмському напрямку. 🛵...",
@@ -32,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53313",
     "score": 4.0,
-    "views": 527,
-    "forwards": 2
+    "views": 1031,
+    "forwards": 4
   },
   {
     "title": "A group of UAVs from the Black Sea to Odesa.",
@@ -104,7 +140,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9141",
     "score": 8.0,
-    "views": 762,
+    "views": 848,
     "forwards": 12
   },
   {
@@ -176,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53311",
     "score": 6.0,
-    "views": 1793,
+    "views": 2035,
     "forwards": 3
   },
   {
@@ -212,7 +248,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192240",
     "score": 8.5,
-    "views": 165305,
+    "views": 176204,
     "forwards": 108
   },
   {
@@ -392,8 +428,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23531",
     "score": 8.5,
-    "views": 141654,
-    "forwards": 340
+    "views": 146023,
+    "forwards": 346
   },
   {
     "title": "Shooting down enemy drones with Ukrainian weapons. \"Chaklun\" UAV is...",
@@ -410,43 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39065",
     "score": 9.0,
-    "views": 7301,
+    "views": 7466,
     "forwards": 33
-  },
-  {
-    "title": "UAV from the Black Sea to Ochakiv.",
-    "title_en": "UAV from the Black Sea to Ochakiv.",
-    "title_uk": "БПЛА від Чорного моря до Очакова.",
-    "description": "UAV from the Black Sea to Ochakiv.",
-    "description_en": "UAV from the Black Sea to Ochakiv.",
-    "description_uk": "БпЛА з акваторії Чорного моря на Очаків.",
-    "time": "",
-    "pubDate": "2026-05-24T10:35:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62655",
-    "score": 5.0,
-    "views": 61593,
-    "forwards": 16
-  },
-  {
-    "title": "Footage of one of the arrivals in Kyiv this night is published on the...",
-    "title_en": "Footage of one of the arrivals in Kyiv this night is published on the...",
-    "title_uk": "Кадри одного з приїздів до Києва цієї ночі опубліковані на...",
-    "description": "Footage of one of the arrivals in Kyiv this night is published on the network",
-    "description_en": "Footage of one of the arrivals in Kyiv this night is published on the network",
-    "description_uk": "Кадры одного из прилетов в Киеве этой ночью публикуют в сети",
-    "time": "",
-    "pubDate": "2026-05-24T10:08:24+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/192205",
-    "score": 5.5,
-    "views": 92785,
-    "forwards": 390
   }
 ]
