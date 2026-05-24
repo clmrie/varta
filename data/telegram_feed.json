@@ -1,5 +1,59 @@
 [
   {
+    "title": "Air defense active",
+    "title_en": "Air defense active",
+    "title_uk": "Активна ППО",
+    "description": "The main damage during the night attack was again caused by missiles - there were too many of them for the available air defense resources - the adviser to the Minister of Defense \"Flash\" At the same time, the effectiveness of countermeasures against the \"Shakhed\" increased: more than 40% of all downed drones were destroyed by interceptors, said Sergey Beskrestnov. According to him, Russia again made a bet on mass — drones flew along the same routes, asking...",
+    "description_en": "The main damage during the night attack was again caused by missiles - there were too many of them for the available air defense resources - the adviser to the Minister of Defense \"Flash\" At the same time, the effectiveness of countermeasures against the \"Shakhed\" increased: more than 40% of all downed drones were destroyed by interceptors, said Sergey Beskrestnov. According to him, Russia again made a bet on mass — drones flew along the same routes, asking...",
+    "description_uk": "Основной ущерб во время ночной атаки снова нанесли ракеты — их было слишком много для имеющихся ресурсов ПВО, — советник министра обороны «Флеш» При этом эффективность противодействия «Шахедам» выросла: более 40% всех сбитых дронов уничтожили именно перехватчики, заявил Сергей Бескрестнов. По его словам, россия снова делала ставку на массовость — дроны летели по одним маршрутам, пытаясь...",
+    "time": "",
+    "pubDate": "2026-05-24T15:11:36+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/192240",
+    "score": 8.0,
+    "views": 34313,
+    "forwards": 36
+  },
+  {
+    "title": "Mykolaiv: A group of BpLA from Kherson region to Mykolaiv region.",
+    "title_en": "Mykolaiv: A group of BpLA from Kherson region to Mykolaiv region.",
+    "title_uk": "Миколаїв: Група БпЛА з Херсонщини на Миколаївщину.",
+    "description": "A group of BpLA from Kherson region to Mykolaiv region.",
+    "description_en": "A group of BpLA from Kherson region to Mykolaiv region.",
+    "description_uk": "Група БпЛА із Херсонщини на Миколаївщину.",
+    "time": "",
+    "pubDate": "2026-05-24T14:44:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62661",
+    "score": 6.0,
+    "views": 33756,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "UAV on Kharkiv from the east.",
+    "description_en": "UAV on Kharkiv from the east.",
+    "description_uk": "БпЛА на Харків зі сходу.",
+    "time": "",
+    "pubDate": "2026-05-24T14:17:06+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62659",
+    "score": 6.0,
+    "views": 49009,
+    "forwards": 0
+  },
+  {
     "title": "Odeshchyna: a group of BpLA passes Pivdenne, heading north.",
     "title_en": "Odeshchyna: a group of BpLA passes Pivdenne, heading north.",
     "title_uk": "Одещина: група БПЛА проходить Південне, прямуючи на північ.",
@@ -32,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53309",
     "score": 5.0,
-    "views": 350,
-    "forwards": 1
+    "views": 1015,
+    "forwards": 2
   },
   {
     "title": "Mykolaiv: Sumyshchyna: BpLA in the direction of Konotop. 🛵 Kharkiv region: BpLA...",
@@ -68,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192226",
     "score": 3.5,
-    "views": 91426,
-    "forwards": 141
+    "views": 126917,
+    "forwards": 176
   },
   {
     "title": "Kyiv: Attack attack",
@@ -86,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53307",
     "score": 4.0,
-    "views": 1076,
+    "views": 1511,
     "forwards": 0
   },
   {
@@ -104,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19197",
     "score": 9.5,
-    "views": 64355,
-    "forwards": 145
+    "views": 86381,
+    "forwards": 193
   },
   {
     "title": "Attack attack",
@@ -140,8 +194,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23531",
     "score": 8.5,
-    "views": 85155,
-    "forwards": 265
+    "views": 98465,
+    "forwards": 295
   },
   {
     "title": "Shooting down enemy drones with Ukrainian weapons. \"Chaklun\" UAV is...",
@@ -158,26 +212,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39065",
     "score": 9.0,
-    "views": 4830,
-    "forwards": 24
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "UAV on Kharkiv from the northeast.",
-    "description_en": "UAV on Kharkiv from the northeast.",
-    "description_uk": "БпЛА на Харків з північного сходу.",
-    "time": "",
-    "pubDate": "2026-05-24T11:05:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62656",
-    "score": 6.0,
-    "views": 44617,
-    "forwards": 0
+    "views": 5568,
+    "forwards": 28
   },
   {
     "title": "UAV from the Black Sea to Ochakiv.",
@@ -320,8 +356,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39054",
     "score": 13.5,
-    "views": 7652,
-    "forwards": 55
+    "views": 7937,
+    "forwards": 56
   },
   {
     "title": "55 missiles + 549 drones intercepted",
@@ -412,41 +448,5 @@
     "score": 9.5,
     "views": 121396,
     "forwards": 285
-  },
-  {
-    "title": "Kyiv: Missile attack on residential area",
-    "title_en": "Kyiv: Missile attack on residential area",
-    "title_uk": "Київ: Ракетний обстріл житлового кварталу",
-    "description": "Update: Damage reported in every district of Kyiv amid massive Russian missile, drone attack. Officials reported that over 40 locations in Kyiv have sustained damage in the large-scale overnight Russian missile and drone attack on the capital. At least seven residential buildings have been struck in Kyiv, officials reported.",
-    "description_en": "Update: Damage reported in every district of Kyiv amid massive Russian missile, drone attack. Officials reported that over 40 locations in Kyiv have sustained damage in the large-scale overnight Russian missile and drone attack on the capital. At least seven residential buildings have been struck in Kyiv, officials reported.",
-    "description_uk": "Update: Damage reported in every district of Kyiv amid massive Russian missile, drone attack. Officials reported that over 40 locations in Kyiv have sustained damage in the large-scale overnight Russian missile and drone attack on the capital. At least seven residential buildings have been struck in Kyiv, officials reported.",
-    "time": "",
-    "pubDate": "2026-05-24T02:59:14+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53303",
-    "score": 8.0,
-    "views": 2141,
-    "forwards": 8
-  },
-  {
-    "title": "Another powerful fire broke out in Kyiv after the Russian flight, oil...",
-    "title_en": "Another powerful fire broke out in Kyiv after the Russian flight, oil...",
-    "title_uk": "У Києві сталася чергова потужна пожежа після російського рейсу, нафто...",
-    "description": "Another powerful fire broke out in Kyiv after the Russian flight, oil products are probably burning Video: TSN, 1+1",
-    "description_en": "Another powerful fire broke out in Kyiv after the Russian flight, oil products are probably burning Video: TSN, 1+1",
-    "description_uk": "Еще один мощный пожар после российского прилета разгорелся в Киеве, вероятно, горят нефтепродукты Видео: ТСН, 1+1",
-    "time": "",
-    "pubDate": "2026-05-24T02:39:55+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/192155",
-    "score": 5.5,
-    "views": 121522,
-    "forwards": 493
   }
 ]
