@@ -1,5 +1,23 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons from the south.",
+    "description_en": "☄️ The threat of using ballistic weapons from the south.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння з півдня.",
+    "time": "",
+    "pubDate": "2026-05-24T21:53:27+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62685",
+    "score": 5.0,
+    "views": 24819,
+    "forwards": 0
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/62684",
     "score": 6.0,
-    "views": 7905,
-    "forwards": 10
+    "views": 34870,
+    "forwards": 20
   },
   {
     "title": "Drone incoming",
@@ -86,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53313",
     "score": 4.0,
-    "views": 1445,
+    "views": 1712,
     "forwards": 4
   },
   {
@@ -140,7 +158,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9141",
     "score": 8.0,
-    "views": 892,
+    "views": 918,
     "forwards": 13
   },
   {
@@ -212,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53311",
     "score": 6.0,
-    "views": 2264,
+    "views": 2423,
     "forwards": 3
   },
   {
@@ -248,7 +266,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192240",
     "score": 8.5,
-    "views": 182664,
+    "views": 186737,
     "forwards": 108
   },
   {
@@ -428,25 +446,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23531",
     "score": 8.5,
-    "views": 148543,
-    "forwards": 350
-  },
-  {
-    "title": "Shooting down enemy drones with Ukrainian weapons. \"Chaklun\" UAV is...",
-    "title_en": "Shooting down enemy drones with Ukrainian weapons. \"Chaklun\" UAV is...",
-    "title_uk": "Збивання ворожих безпілотників українською зброєю. БПЛА \"Чаклун\" - це...",
-    "description": "Shooting down enemy drones with Ukrainian weapons. \"Chaklun\" UAV is used. Combat work of units of the Forces of Unmanned Systems of the Armed Forces of the Armed Forces of Ukraine",
-    "description_en": "Shooting down enemy drones with Ukrainian weapons. \"Chaklun\" UAV is used. Combat work of units of the Forces of Unmanned Systems of the Armed Forces of the Armed Forces of Ukraine",
-    "description_uk": "Збиття ворожих дронів українською зброєю. Застосовується БпЛА \"Чаклун\". Бойова робота підрозділів Сил безпілотних систем ЗСУ #СилиОборониУкраїни #ЗСУ #УкраїнськаЗброя #СБС",
-    "time": "",
-    "pubDate": "2026-05-24T11:15:17+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/39065",
-    "score": 9.0,
-    "views": 7527,
-    "forwards": 33
+    "views": 150293,
+    "forwards": 355
   }
 ]
