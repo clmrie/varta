@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Chernihiv region - BpLA on Nizhyn.",
+    "title_en": "Chernihiv: Chernihiv region - BpLA on Nizhyn.",
+    "title_uk": "Чернігів: Чернігівська обл.- БпЛА на Ніжин.",
+    "description": "Chernihiv region - BpLA on Nizhyn.",
+    "description_en": "Chernihiv region - BpLA on Nizhyn.",
+    "description_uk": "Чернігівщина - БпЛА на Ніжин.",
+    "time": "",
+    "pubDate": "2026-05-25T22:02:50+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62765",
+    "score": 6.0,
+    "views": 8853,
+    "forwards": 20
+  },
+  {
+    "title": "BpLA to Poltava region from Sumy region.",
+    "title_en": "BpLA to Poltava region from Sumy region.",
+    "title_uk": "BpLA в Полтавську область з Сумської області.",
+    "description": "BpLA to Poltava region from Sumy region.",
+    "description_en": "BpLA to Poltava region from Sumy region.",
+    "description_uk": "БпЛА на Полтавщину із Сумщини.",
+    "time": "",
+    "pubDate": "2026-05-25T21:21:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62764",
+    "score": 5.0,
+    "views": 24483,
+    "forwards": 10
+  },
+  {
     "title": "Poltava: Casualties reported",
     "title_en": "Poltava: Casualties reported",
     "title_uk": "Полтава: повідомляється про постраждалих",
@@ -14,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53334",
     "score": 6.0,
-    "views": 518,
-    "forwards": 4
+    "views": 1082,
+    "forwards": 7
   },
   {
     "title": "Kyiv: Missile attack",
@@ -32,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53333",
     "score": 5.0,
-    "views": 1039,
-    "forwards": 2
+    "views": 1422,
+    "forwards": 3
   },
   {
     "title": "Ballistic missile launch detected",
@@ -140,8 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39122",
     "score": 5.5,
-    "views": 19561,
-    "forwards": 152
+    "views": 20086,
+    "forwards": 153
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -230,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19229",
     "score": 14.0,
-    "views": 138419,
-    "forwards": 242
+    "views": 140809,
+    "forwards": 246
   },
   {
     "title": "Drone incoming",
@@ -284,8 +320,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23534",
     "score": 7.5,
-    "views": 122098,
-    "forwards": 291
+    "views": 124743,
+    "forwards": 299
   },
   {
     "title": "Bakhmut: Air defense active",
@@ -320,8 +356,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9145",
     "score": 5.0,
-    "views": 1369,
-    "forwards": 36
+    "views": 1390,
+    "forwards": 37
   },
   {
     "title": "Drone strike",
@@ -378,24 +414,6 @@
     "forwards": 7
   },
   {
-    "title": "Poltava region: BpLA ➡️ in the direction of Kotelvy/Opishna.",
-    "title_en": "Poltava region: BpLA ➡️ in the direction of Kotelvy/Opishna.",
-    "title_uk": "Полтавська область: БпЛА ➡️ в напрямку Котельви/Опішна.",
-    "description": "Poltava region: BpLA ➡️ in the direction of Kotelvy/Opishna.",
-    "description_en": "Poltava region: BpLA ➡️ in the direction of Kotelvy/Opishna.",
-    "description_uk": "Полтавщина: БпЛА ➡️ у напрямку Котельви/Опішні.",
-    "time": "",
-    "pubDate": "2026-05-25T09:10:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62734",
-    "score": 5.0,
-    "views": 67762,
-    "forwards": 0
-  },
-  {
     "title": "Dnipro: High-speed target on the Dnipro",
     "title_en": "Dnipro: High-speed target on the Dnipro",
     "title_uk": "Дніпро: Швидкісна ціль на Дніпрі",
@@ -428,25 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19218",
     "score": 13.5,
-    "views": 197847,
-    "forwards": 272
-  },
-  {
-    "title": "Kursk: Drone incoming",
-    "title_en": "Kursk: Drone incoming",
-    "title_uk": "Курськ: Дрон входить",
-    "description": "246 ENEMY UAVS DOWN/SUPPRESSED On the night of May 25 (from 17:30 on May 24), the enemy attacked 262 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and parody drones of the \"Parody\" type from the directions: Orel, Kursk, Shatalovo, Bryansk, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and...",
-    "description_en": "246 ENEMY UAVS DOWN/SUPPRESSED On the night of May 25 (from 17:30 on May 24), the enemy attacked 262 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and parody drones of the \"Parody\" type from the directions: Orel, Kursk, Shatalovo, Bryansk, Millerovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 246 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 25 травня (з 17:30 24 травня) противник атакував 262 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків: Орел, Курськ, Шаталово, Брянськ, Міллєрово, Приморсько-Ахтарськ – рф., Гвардійське – ТОТ АР Крим. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та...",
-    "time": "",
-    "pubDate": "2026-05-25T05:24:20+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kursk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/39089",
-    "score": 10.0,
-    "views": 2851,
-    "forwards": 7
+    "views": 199308,
+    "forwards": 275
   }
 ]
