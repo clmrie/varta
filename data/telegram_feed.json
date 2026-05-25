@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kherson: UAV in Kherson region - north-west course.",
+    "title_en": "Kherson: UAV in Kherson region - north-west course.",
+    "title_uk": "Херсон: БПЛА в Херсонській області - курс північно-західний.",
+    "description": "UAV in Kherson region - north-west course.",
+    "description_en": "UAV in Kherson region - north-west course.",
+    "description_uk": "БпЛА на Херсонщині - північно-західним курсом.",
+    "time": "",
+    "pubDate": "2026-05-25T22:18:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62766",
+    "score": 6.0,
+    "views": 15636,
+    "forwards": 10
+  },
+  {
     "title": "Chernihiv: Chernihiv region - BpLA on Nizhyn.",
     "title_en": "Chernihiv: Chernihiv region - BpLA on Nizhyn.",
     "title_uk": "Чернігів: Чернігівська обл.- БпЛА на Ніжин.",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/62765",
     "score": 6.0,
-    "views": 8853,
-    "forwards": 20
+    "views": 22562,
+    "forwards": 30
   },
   {
     "title": "BpLA to Poltava region from Sumy region.",
@@ -50,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53334",
     "score": 6.0,
-    "views": 1082,
+    "views": 1356,
     "forwards": 7
   },
   {
@@ -68,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53333",
     "score": 5.0,
-    "views": 1422,
+    "views": 1622,
     "forwards": 3
   },
   {
@@ -176,7 +194,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39122",
     "score": 5.5,
-    "views": 20086,
+    "views": 20276,
     "forwards": 153
   },
   {
@@ -266,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19229",
     "score": 14.0,
-    "views": 140809,
-    "forwards": 246
+    "views": 141909,
+    "forwards": 248
   },
   {
     "title": "Drone incoming",
@@ -320,8 +338,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23534",
     "score": 7.5,
-    "views": 124743,
-    "forwards": 299
+    "views": 126027,
+    "forwards": 304
   },
   {
     "title": "Bakhmut: Air defense active",
@@ -356,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9145",
     "score": 5.0,
-    "views": 1390,
+    "views": 1392,
     "forwards": 37
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.5,
     "views": 85595,
     "forwards": 93
-  },
-  {
-    "title": "Attack attack on residential area",
-    "title_en": "Attack attack on residential area",
-    "title_uk": "Напад на житловий квартал",
-    "description": "In the Shevchenkivskyi and Podilskyi districts of Kyiv, work continues to eliminate the consequences of yesterday's Russian strikes. Almost 100 employees of the State Emergency Service are involved in the work. In total, about 300 objects were damaged in Kyiv. Most of them are residential buildings - during the day yesterday, applications were received regarding various degrees of damage in almost 150 private and multi-story buildings. As of now...",
-    "description_en": "In the Shevchenkivskyi and Podilskyi districts of Kyiv, work continues to eliminate the consequences of yesterday's Russian strikes. Almost 100 employees of the State Emergency Service are involved in the work. In total, about 300 objects were damaged in Kyiv. Most of them are residential buildings - during the day yesterday, applications were received regarding various degrees of damage in almost 150 private and multi-story buildings. As of now...",
-    "description_uk": "У Шевченківському та Подільському районах Києва продовжуються роботи з ліквідації наслідків вчорашніх російських ударів. Майже 100 працівників ДСНС залучено до робіт. Загалом у Києві було пошкоджено близько 300 обʼєктів. Найбільше серед них житлових будинків – протягом дня вчора надійшли заявки щодо різних ступенів пошкодження у майже 150 приватних і багатоповерхових будинках. Станом на зараз...",
-    "time": "",
-    "pubDate": "2026-05-25T07:11:50+00:00",
-    "category": "shelling",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19218",
-    "score": 13.5,
-    "views": 199308,
-    "forwards": 275
   }
 ]
