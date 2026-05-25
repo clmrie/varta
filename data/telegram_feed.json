@@ -1,5 +1,23 @@
 [
   {
+    "title": "Poltava: Casualties reported",
+    "title_en": "Poltava: Casualties reported",
+    "title_uk": "Полтава: повідомляється про постраждалих",
+    "description": "The controversial life and unsolved death of Symon Petliura, one of Ukraine's most famous leaders A century ago, on May 25, 1926, an otherwise ordinary afternoon in Paris’ bohemian Latin Quarter was disrupted by a barrage of gunshots, leaving one of Ukraine’s famous military leaders dead in the street. Born in Poltava in 1879 to a family of Cossack descent, Symon Petliura would rise to command...",
+    "description_en": "The controversial life and unsolved death of Symon Petliura, one of Ukraine's most famous leaders A century ago, on May 25, 1926, an otherwise ordinary afternoon in Paris’ bohemian Latin Quarter was disrupted by a barrage of gunshots, leaving one of Ukraine’s famous military leaders dead in the street. Born in Poltava in 1879 to a family of Cossack descent, Symon Petliura would rise to command...",
+    "description_uk": "The controversial life and unsolved death of Symon Petliura, one of Ukraine's most famous leaders A century ago, on May 25, 1926, an otherwise ordinary afternoon in Paris’ bohemian Latin Quarter was disrupted by a barrage of gunshots, leaving one of Ukraine’s famous military leaders dead in the street. Born in Poltava in 1879 to a family of Cossack descent, Symon Petliura would rise to command...",
+    "time": "",
+    "pubDate": "2026-05-25T20:31:47+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Poltava",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53334",
+    "score": 6.0,
+    "views": 518,
+    "forwards": 4
+  },
+  {
     "title": "Kyiv: Missile attack",
     "title_en": "Kyiv: Missile attack",
     "title_uk": "Київ: Ракетний удар",
@@ -14,8 +32,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53333",
     "score": 5.0,
-    "views": 347,
-    "forwards": 1
+    "views": 1039,
+    "forwards": 2
   },
   {
     "title": "Ballistic missile launch detected",
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/62758",
     "score": 5.5,
-    "views": 119400,
+    "views": 140909,
     "forwards": 70
   },
   {
@@ -50,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/62757",
     "score": 5.0,
-    "views": 88926,
+    "views": 103146,
     "forwards": 0
   },
   {
@@ -122,8 +140,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39122",
     "score": 5.5,
-    "views": 18154,
-    "forwards": 150
+    "views": 19561,
+    "forwards": 152
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -212,7 +230,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19229",
     "score": 14.0,
-    "views": 133128,
+    "views": 138419,
     "forwards": 242
   },
   {
@@ -266,8 +284,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23534",
     "score": 7.5,
-    "views": 116835,
-    "forwards": 279
+    "views": 122098,
+    "forwards": 291
   },
   {
     "title": "Bakhmut: Air defense active",
@@ -302,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9145",
     "score": 5.0,
-    "views": 1347,
+    "views": 1369,
     "forwards": 36
   },
   {
@@ -396,24 +414,6 @@
     "forwards": 93
   },
   {
-    "title": "The workhorse of the Ukrainian SBS, which regularly terrorizes...",
-    "title_en": "The workhorse of the Ukrainian SBS, which regularly terrorizes...",
-    "title_uk": "Робоча конячка українського ДПС, яка регулярно тероризує...",
-    "description": "The workhorse of the Ukrainian SBS, which regularly terrorizes Russian oil refineries, has become even more powerful. As the chief designer of the Fire Point company Denis Shtilerman reported, the FP-2 drone after modernization received an increased warhead weighing 200 kg and a range of up to 370 km.",
-    "description_en": "The workhorse of the Ukrainian SBS, which regularly terrorizes Russian oil refineries, has become even more powerful. As the chief designer of the Fire Point company Denis Shtilerman reported, the FP-2 drone after modernization received an increased warhead weighing 200 kg and a range of up to 370 km.",
-    "description_uk": "Рабочая лошадка украинских СБС, регулярно кошмарящая НПЗ русни, стала еще мощнее Как сообщил главный конструктор компании Fire Point Денис Штилерман, дрон FP-2 после модернизации получил увеличенную боевую часть массой 200 кг и дальность поражения уже до 370 км.",
-    "time": "",
-    "pubDate": "2026-05-25T08:54:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/192263",
-    "score": 3.5,
-    "views": 96320,
-    "forwards": 108
-  },
-  {
     "title": "Attack attack on residential area",
     "title_en": "Attack attack on residential area",
     "title_uk": "Напад на житловий квартал",
@@ -428,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19218",
     "score": 13.5,
-    "views": 194758,
+    "views": 197847,
     "forwards": 272
   },
   {
