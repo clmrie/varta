@@ -1,5 +1,23 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "UAV on/past Chernihiv from the northeast.",
+    "description_en": "UAV on/past Chernihiv from the northeast.",
+    "description_uk": "БпЛА на/повз Чернігів з північного сходу.",
+    "time": "",
+    "pubDate": "2026-05-26T23:05:44+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62937",
+    "score": 6.0,
+    "views": 7320,
+    "forwards": 10
+  },
+  {
     "title": "BpLA in the direction of Chernihiv from the north.",
     "title_en": "BpLA in the direction of Chernihiv from the north.",
     "title_uk": "БпЛА в напрямку Чернігова з півн.",
@@ -50,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192363",
     "score": 3.5,
-    "views": 45950,
-    "forwards": 151
+    "views": 56515,
+    "forwards": 172
   },
   {
     "title": "Dnipro: Dnipropetrovsk region: BpLA in the direction of Samar/Dnipro.",
@@ -140,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53353",
     "score": 5.0,
-    "views": 1669,
+    "views": 1770,
     "forwards": 4
   },
   {
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53351",
     "score": 9.5,
-    "views": 1647,
+    "views": 1743,
     "forwards": 4
   },
   {
@@ -176,7 +194,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192354",
     "score": 5.5,
-    "views": 146638,
+    "views": 151000,
     "forwards": 183
   },
   {
@@ -248,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39170",
     "score": 10.0,
-    "views": 4176,
+    "views": 4223,
     "forwards": 6
   },
   {
@@ -338,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19236",
     "score": 9.0,
-    "views": 76676,
-    "forwards": 111
+    "views": 77404,
+    "forwards": 112
   },
   {
     "title": "Luhansk: Missile attack on infrastructure",
@@ -392,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19229",
     "score": 14.0,
-    "views": 174153,
+    "views": 174286,
     "forwards": 278
   },
   {
@@ -410,7 +428,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23534",
     "score": 7.5,
-    "views": 159048,
+    "views": 159287,
     "forwards": 368
   }
 ]
