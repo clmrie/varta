@@ -1,5 +1,59 @@
 [
   {
+    "title": "Chernihiv: Chernihiv region: BpLA on/past Nizhyn heading southwest.",
+    "title_en": "Chernihiv: Chernihiv region: BpLA on/past Nizhyn heading southwest.",
+    "title_uk": "Чернігів: Чернігівська область: BpLA на/повз Ніжин у напрямку на південний захід.",
+    "description": "Chernihiv region: BpLA on/past Nizhyn heading southwest.",
+    "description_en": "Chernihiv region: BpLA on/past Nizhyn heading southwest.",
+    "description_uk": "Чернігівщина: БпЛА на/повз Ніжин курсом на південний захід.",
+    "time": "",
+    "pubDate": "2026-05-26T01:16:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62774",
+    "score": 6.0,
+    "views": 2770,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "UAV from Chernihiv region heading for the Kyiv Reservoir.",
+    "description_en": "UAV from Chernihiv region heading for the Kyiv Reservoir.",
+    "description_uk": "БпЛА із Чернігівщини курсом на Київське водосховище.",
+    "time": "",
+    "pubDate": "2026-05-26T01:13:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/62771",
+    "score": 6.0,
+    "views": 3804,
+    "forwards": 9
+  },
+  {
+    "title": "Kramatorsk: Airstrike attack on residential area",
+    "title_en": "Kramatorsk: Airstrike attack on residential area",
+    "title_uk": "Краматорськ: авіаудар по житловому кварталу",
+    "description": "Russian airstrike on central Kramatorsk injures at least 12. Russia carried out an airstrike on the center of Kramatorsk in Donetsk Oblast on May 25, injuring at least 12 civilians, regional authorities reported.",
+    "description_en": "Russian airstrike on central Kramatorsk injures at least 12. Russia carried out an airstrike on the center of Kramatorsk in Donetsk Oblast on May 25, injuring at least 12 civilians, regional authorities reported.",
+    "description_uk": "Russian airstrike on central Kramatorsk injures at least 12. Russia carried out an airstrike on the center of Kramatorsk in Donetsk Oblast on May 25, injuring at least 12 civilians, regional authorities reported.",
+    "time": "",
+    "pubDate": "2026-05-26T00:06:05+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kramatorsk",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53336",
+    "score": 10.0,
+    "views": 406,
+    "forwards": 0
+  },
+  {
     "title": "Kherson: UAV in Kherson region - north-west course.",
     "title_en": "Kherson: UAV in Kherson region - north-west course.",
     "title_uk": "Херсон: БПЛА в Херсонській області - курс північно-західний.",
@@ -68,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53334",
     "score": 6.0,
-    "views": 1356,
+    "views": 1600,
     "forwards": 7
   },
   {
@@ -194,7 +248,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39122",
     "score": 5.5,
-    "views": 20276,
+    "views": 20604,
     "forwards": 153
   },
   {
@@ -284,44 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19229",
     "score": 14.0,
-    "views": 141909,
-    "forwards": 248
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV in the direction of Odesa from the waters of the Black Sea.",
-    "description_en": "UAV in the direction of Odesa from the waters of the Black Sea.",
-    "description_uk": "БпЛА в напрямку Одещини з акваторії Чорного моря.",
-    "time": "",
-    "pubDate": "2026-05-25T12:27:56+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62742",
-    "score": 5.0,
-    "views": 60047,
-    "forwards": 0
-  },
-  {
-    "title": "BpLA to the north of Poltava region from Sumy region.",
-    "title_en": "BpLA to the north of Poltava region from Sumy region.",
-    "title_uk": "БпЛА на північ Полтавщини від Сумщини.",
-    "description": "BpLA to the north of Poltava region from Sumy region.",
-    "description_en": "BpLA to the north of Poltava region from Sumy region.",
-    "description_uk": "БпЛА на північ Полтавщини з Сумщини.",
-    "time": "",
-    "pubDate": "2026-05-25T12:25:22+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62741",
-    "score": 5.0,
-    "views": 60538,
-    "forwards": 0
+    "views": 142926,
+    "forwards": 253
   },
   {
     "title": "Mariupol: Attack attack on infrastructure",
@@ -338,8 +356,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23534",
     "score": 7.5,
-    "views": 126027,
-    "forwards": 304
+    "views": 127094,
+    "forwards": 306
   },
   {
     "title": "Bakhmut: Air defense active",
@@ -374,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9145",
     "score": 5.0,
-    "views": 1392,
+    "views": 1396,
     "forwards": 37
   },
   {
@@ -430,23 +448,5 @@
     "score": 5.0,
     "views": 4767,
     "forwards": 7
-  },
-  {
-    "title": "Dnipro: High-speed target on the Dnipro",
-    "title_en": "Dnipro: High-speed target on the Dnipro",
-    "title_uk": "Дніпро: Швидкісна ціль на Дніпрі",
-    "description": "High-speed target on the Dnipro",
-    "description_en": "High-speed target on the Dnipro",
-    "description_uk": "Швидкісна ціль на Дніпро",
-    "time": "",
-    "pubDate": "2026-05-25T09:06:41+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62733",
-    "score": 6.5,
-    "views": 85595,
-    "forwards": 93
   }
 ]
