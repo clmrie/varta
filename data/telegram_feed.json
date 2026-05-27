@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "A group of attack UAVs in the Kharkiv region in the Bogodukhiv-Krasnokutsk region ➡️ heading for Poltava region",
+    "description_en": "A group of attack UAVs in the Kharkiv region in the Bogodukhiv-Krasnokutsk region ➡️ heading for Poltava region",
+    "description_uk": "Група ударних БпЛА на Харківщині в районі Богодухів-Краснокутськ ➡️ курсом на Полтавщину",
+    "time": "",
+    "pubDate": "2026-05-27T22:51:56+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63033",
+    "score": 6.0,
+    "views": 924,
+    "forwards": 0
+  },
+  {
+    "title": "Assault UAV groups ➡️ on Belgorod-Dnistrovsky",
+    "title_en": "Assault UAV groups ➡️ on Belgorod-Dnistrovsky",
+    "title_uk": "Штурмові групи БПЛА ➡️ на Білгород-Дністровський",
+    "description": "Assault UAV groups ➡️ on Belgorod-Dnistrovsky",
+    "description_en": "Assault UAV groups ➡️ on Belgorod-Dnistrovsky",
+    "description_uk": "Групи ударних БпЛА ➡️ на Білгород-Дністровський",
+    "time": "",
+    "pubDate": "2026-05-27T22:07:18+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63032",
+    "score": 5.0,
+    "views": 14548,
+    "forwards": 10
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -86,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53371",
     "score": 10.0,
-    "views": 1578,
-    "forwards": 2
+    "views": 1902,
+    "forwards": 4
   },
   {
     "title": "Odesa: UAV to the South from the water area.",
@@ -140,8 +176,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23540",
     "score": 5.5,
-    "views": 114719,
-    "forwards": 195
+    "views": 118013,
+    "forwards": 199
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -158,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53369",
     "score": 6.0,
-    "views": 1964,
+    "views": 2147,
     "forwards": 7
   },
   {
@@ -212,7 +248,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39205",
     "score": 3.0,
-    "views": 4329,
+    "views": 4396,
     "forwards": 5
   },
   {
@@ -252,42 +288,6 @@
     "forwards": 178
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons from the southeast.",
-    "description_en": "☄️ The threat of using ballistic weapons from the southeast.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння з південного сходу.",
-    "time": "",
-    "pubDate": "2026-05-27T10:00:23+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62986",
-    "score": 5.0,
-    "views": 24223,
-    "forwards": 34
-  },
-  {
-    "title": "BpLA from Zhytomyr region to Rivne region in the direction of Sarniv.",
-    "title_en": "BpLA from Zhytomyr region to Rivne region in the direction of Sarniv.",
-    "title_uk": "БпЛА з Житомирської області на Рівненську в напрямку Сарнова.",
-    "description": "BpLA from Zhytomyr region to Rivne region in the direction of Sarniv.",
-    "description_en": "BpLA from Zhytomyr region to Rivne region in the direction of Sarniv.",
-    "description_uk": "БпЛА з Житомирщини на Рівненщину у напрямку Сарнів.",
-    "time": "",
-    "pubDate": "2026-05-27T09:36:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zhytomyr",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/62984",
-    "score": 5.5,
-    "views": 77757,
-    "forwards": 103
-  },
-  {
     "title": "Sumy: Have you been refused a loan from banks? Apply for the new O.Kartka...",
     "title_en": "Sumy: Have you been refused a loan from banks? Apply for the new O.Kartka...",
     "title_uk": "Суми: Вам відмовляли в кредиті банки? Подати заявку на нову О.Картку...",
@@ -320,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39192",
     "score": 8.0,
-    "views": 3744,
+    "views": 3768,
     "forwards": 8
   },
   {
