@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
+    "description": "BpLA on Zaporozhye from the south.",
+    "description_en": "BpLA on Zaporozhye from the south.",
+    "description_uk": "БпЛА на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-05-28T03:15:11+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63041",
+    "score": 6.0,
+    "views": 13164,
+    "forwards": 0
+  },
+  {
+    "title": "Sumyshchyna: BpLA in the direction of Shostka from the northeast.",
+    "title_en": "Sumyshchyna: BpLA in the direction of Shostka from the northeast.",
+    "title_uk": "Сумщина: БпЛА в напрямку Шостки з пн.-сх.",
+    "description": "Sumyshchyna: BpLA in the direction of Shostka from the northeast.",
+    "description_en": "Sumyshchyna: BpLA in the direction of Shostka from the northeast.",
+    "description_uk": "Сумщина: БпЛА в напрямку Шостки з північного сходу.",
+    "time": "",
+    "pubDate": "2026-05-28T02:33:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63040",
+    "score": 5.0,
+    "views": 25077,
+    "forwards": 1
+  },
+  {
     "title": "Mykolaiv: Enemy BpLA in the Mykolaiv region, south of the regional center",
     "title_en": "Mykolaiv: Enemy BpLA in the Mykolaiv region, south of the regional center",
     "title_uk": "Миколаїв: БПЛА ворога в Миколаївській області, на південь від обласного центру",
@@ -140,8 +176,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53371",
     "score": 10.0,
-    "views": 2020,
-    "forwards": 4
+    "views": 2355,
+    "forwards": 5
   },
   {
     "title": "Odesa: UAV to the South from the water area.",
@@ -193,9 +229,9 @@
     "location": "Ukraine",
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23540",
-    "score": 5.5,
-    "views": 119103,
-    "forwards": 199
+    "score": 6.5,
+    "views": 123752,
+    "forwards": 204
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -212,44 +248,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53369",
     "score": 6.0,
-    "views": 2216,
+    "views": 2419,
     "forwards": 7
-  },
-  {
-    "title": "Shock-unmanned aerial vehicle in the Yuzhnoye region of Odesa",
-    "title_en": "Shock-unmanned aerial vehicle in the Yuzhnoye region of Odesa",
-    "title_uk": "Ударний безпілотний літальний апарат в районі Південного Одеси",
-    "description": "Shock-unmanned aerial vehicle in the Yuzhnoye region of Odesa",
-    "description_en": "Shock-unmanned aerial vehicle in the Yuzhnoye region of Odesa",
-    "description_uk": "Ударний БпЛА в районі Південного на Одещині",
-    "time": "",
-    "pubDate": "2026-05-27T13:29:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63004",
-    "score": 5.0,
-    "views": 19190,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Drone strike",
-    "title_en": "Kyiv: Drone strike",
-    "title_uk": "Київ: Дрон-удар",
-    "description": "Pope Leo condemns Russian strikes on Ukraine, calls for end to 'sharp intensification' of war. \"Where missiles and drones fall, hopes also fall, homes and places of worship are destroyed, and innocent lives are shattered,\" Pope Leo XIV said.",
-    "description_en": "Pope Leo condemns Russian strikes on Ukraine, calls for end to 'sharp intensification' of war. \"Where missiles and drones fall, hopes also fall, homes and places of worship are destroyed, and innocent lives are shattered,\" Pope Leo XIV said.",
-    "description_uk": "Pope Leo condemns Russian strikes on Ukraine, calls for end to 'sharp intensification' of war. \"Where missiles and drones fall, hopes also fall, homes and places of worship are destroyed, and innocent lives are shattered,\" Pope Leo XIV said.",
-    "time": "",
-    "pubDate": "2026-05-27T13:29:32+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53365",
-    "score": 5.0,
-    "views": 300,
-    "forwards": 0
   },
   {
     "title": "Everyone who fights for Ukraine in the Special Operations Forces of...",
@@ -266,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39205",
     "score": 3.0,
-    "views": 4427,
+    "views": 4633,
     "forwards": 5
   },
   {
@@ -338,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39192",
     "score": 8.0,
-    "views": 3779,
+    "views": 3850,
     "forwards": 8
   },
   {
