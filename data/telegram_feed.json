@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: BpLA in the east of Kharkiv Oblast ➡️ heading for Balaklia.",
+    "title_en": "Kharkiv: BpLA in the east of Kharkiv Oblast ➡️ heading for Balaklia.",
+    "title_uk": "Харків: BpLA на сході Харківської області ➡️ в напрямку Балаклії.",
+    "description": "BpLA in the east of Kharkiv Oblast ➡️ heading for Balaklia.",
+    "description_en": "BpLA in the east of Kharkiv Oblast ➡️ heading for Balaklia.",
+    "description_uk": "БпЛА на сході Харківщини ➡️ курсом на Балаклію.",
+    "time": "",
+    "pubDate": "2026-05-28T20:12:25+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63127",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: BpLA on Chernihiv from the north.",
+    "title_en": "Chernihiv: BpLA on Chernihiv from the north.",
+    "title_uk": "Чернігів: БпЛА на Чернігів з півн.",
+    "description": "BpLA on Chernihiv from the north.",
+    "description_en": "BpLA on Chernihiv from the north.",
+    "description_uk": "БпЛА на Чернігів з півночі.",
+    "time": "",
+    "pubDate": "2026-05-28T20:02:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63126",
+    "score": 6.0,
+    "views": 55750,
+    "forwards": 34
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -32,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192504",
     "score": 3.5,
-    "views": 19409,
-    "forwards": 71
+    "views": 105561,
+    "forwards": 180
   },
   {
     "title": "Kharkiv: A group of BpLA from the Belgorod region, Russian Federation ➡️ to...",
@@ -86,7 +122,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48057",
     "score": 3.5,
-    "views": 21,
+    "views": 33,
     "forwards": 0
   },
   {
@@ -104,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19268",
     "score": 5.5,
-    "views": 34194,
-    "forwards": 54
+    "views": 47810,
+    "forwards": 69
   },
   {
     "title": "Kyiv: Drone attack",
@@ -122,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53384",
     "score": 4.0,
-    "views": 1110,
-    "forwards": 2
+    "views": 1604,
+    "forwards": 4
   },
   {
     "title": "UAV from the Black Sea ➡️ course to Odesa.",
@@ -176,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19264",
     "score": 3.5,
-    "views": 98110,
-    "forwards": 99
+    "views": 124784,
+    "forwards": 115
   },
   {
     "title": "Attack attack",
@@ -230,8 +266,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53381",
     "score": 4.5,
-    "views": 1660,
-    "forwards": 3
+    "views": 1938,
+    "forwards": 4
   },
   {
     "title": "Kherson: Russia damages Mykola Kulish Theatre in Kherson for second time –...",
@@ -360,42 +396,6 @@
     "forwards": 259
   },
   {
-    "title": "Chernihiv: BpLA in the north of Sumy Oblast with a short distance to Chernihiv...",
-    "title_en": "Chernihiv: BpLA in the north of Sumy Oblast with a short distance to Chernihiv...",
-    "title_uk": "Чернігів: BpLA на півночі Сумської області з невеликою відстанню до Чернігова...",
-    "description": "BpLA in the north of Sumy Oblast with a short distance to Chernihiv Oblast.",
-    "description_en": "BpLA in the north of Sumy Oblast with a short distance to Chernihiv Oblast.",
-    "description_uk": "БпЛА на півночі Сумщини кусом на Чернігівщину.",
-    "time": "",
-    "pubDate": "2026-05-28T07:38:43+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63059",
-    "score": 6.0,
-    "views": 7049,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "UAV in the north of the Kharkiv region heading for Chuguiv.",
-    "description_en": "UAV in the north of the Kharkiv region heading for Chuguiv.",
-    "description_uk": "БпЛА на півночі Харківщини курсом на Чугуїв.",
-    "time": "",
-    "pubDate": "2026-05-28T07:23:10+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63055",
-    "score": 6.0,
-    "views": 24244,
-    "forwards": 0
-  },
-  {
     "title": "Luhansk: The \"Tuapsinsky\" refinery, the software and hardware complex of...",
     "title_en": "Luhansk: The \"Tuapsinsky\" refinery, the software and hardware complex of...",
     "title_uk": "Луганськ: «Туапсинський» НПЗ, програмно-технічний комплекс...",
@@ -410,8 +410,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39224",
     "score": 14.5,
-    "views": 52977,
-    "forwards": 214
+    "views": 63307,
+    "forwards": 217
   },
   {
     "title": "Kursk: Drone incoming",
@@ -428,7 +428,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39222",
     "score": 13.0,
-    "views": 6015,
+    "views": 6270,
     "forwards": 26
   },
   {
@@ -446,7 +446,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23540",
     "score": 6.5,
-    "views": 154608,
-    "forwards": 240
+    "views": 160283,
+    "forwards": 242
   }
 ]
