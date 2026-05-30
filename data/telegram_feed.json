@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "New groups of UAVs from Sumy Oblast ➡️ in the direction of Chernihiv Oblast.",
+    "description_en": "New groups of UAVs from Sumy Oblast ➡️ in the direction of Chernihiv Oblast.",
+    "description_uk": "Нові групи БпЛА із Сумщини ➡️ в напрямку Чернігівщини.",
+    "time": "",
+    "pubDate": "2026-05-30T20:13:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63352",
+    "score": 6.0,
+    "views": 37473,
+    "forwards": 34
+  },
+  {
+    "title": "Kyiv: UAVs continue their movement through Kyiv Oblast to Zhytomyr Oblast.",
+    "title_en": "Kyiv: UAVs continue their movement through Kyiv Oblast to Zhytomyr Oblast.",
+    "title_uk": "Київ: БПЛА продовжують рух через Київську область до Житомирської області.",
+    "description": "UAVs continue their movement through Kyiv Oblast to Zhytomyr Oblast.",
+    "description_en": "UAVs continue their movement through Kyiv Oblast to Zhytomyr Oblast.",
+    "description_uk": "БпЛА через Київщину продовжують рух на Житомирщину.",
+    "time": "",
+    "pubDate": "2026-05-30T20:05:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63351",
+    "score": 6.0,
+    "views": 51645,
+    "forwards": 35
+  },
+  {
     "title": "Drone strike",
     "title_en": "Drone strike",
     "title_uk": "Безпілотний удар",
@@ -13,9 +49,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192653",
-    "score": 8.0,
-    "views": 48385,
-    "forwards": 36
+    "score": 8.5,
+    "views": 85059,
+    "forwards": 71
   },
   {
     "title": "Zaporizhzhia: Drone attack on energy grid",
@@ -32,7 +68,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48148",
     "score": 8.5,
-    "views": 10,
+    "views": 15,
     "forwards": 0
   },
   {
@@ -68,7 +104,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19290",
     "score": 12.0,
-    "views": 18177,
+    "views": 24898,
     "forwards": 16
   },
   {
@@ -122,7 +158,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48145",
     "score": 8.0,
-    "views": 19,
+    "views": 22,
     "forwards": 0
   },
   {
@@ -140,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19289",
     "score": 13.5,
-    "views": 248114,
-    "forwards": 866
+    "views": 308294,
+    "forwards": 926
   },
   {
     "title": "Konstantinovsky direction",
@@ -158,7 +194,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39326",
     "score": 5.0,
-    "views": 3582,
+    "views": 3987,
     "forwards": 17
   },
   {
@@ -306,24 +342,6 @@
     "forwards": 34
   },
   {
-    "title": "Kyiv: UAVs continue their movement through Kyiv Oblast to Zhytomyr Oblast.",
-    "title_en": "Kyiv: UAVs continue their movement through Kyiv Oblast to Zhytomyr Oblast.",
-    "title_uk": "Київ: БПЛА продовжують рух через Київську область до Житомирської області.",
-    "description": "UAVs continue their movement through Kyiv Oblast to Zhytomyr Oblast.",
-    "description_en": "UAVs continue their movement through Kyiv Oblast to Zhytomyr Oblast.",
-    "description_uk": "БпЛА через Київщину продовжують рух на Житомирщину.",
-    "time": "",
-    "pubDate": "2026-05-30T13:17:14+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63334",
-    "score": 6.0,
-    "views": 4,
-    "forwards": 1
-  },
-  {
     "title": "Zaporizhzhia: Casualties reported",
     "title_en": "Zaporizhzhia: Casualties reported",
     "title_uk": "Запоріжжя: повідомляється про постраждалих",
@@ -430,23 +448,5 @@
     "score": 5.0,
     "views": 20178,
     "forwards": 0
-  },
-  {
-    "title": "Donetsk: Kurgannefteprodukt oil terminal, Tu-142 aircraft and Iskander-M OTRK...",
-    "title_en": "Donetsk: Kurgannefteprodukt oil terminal, Tu-142 aircraft and Iskander-M OTRK...",
-    "title_uk": "Донецьк: нафтовий термінал «Курганнефтепродукт», літак Ту-142 і ОТРК «Іскандер-М»...",
-    "description": "Kurgannefteprodukt oil terminal, Tu-142 aircraft and Iskander-M OTRK launcher were hit. On the night of May 30, 2026, units of the Defense Forces of Ukraine inflicted damage on a number of important objects of the Russian aggressor. ⚡️In particular, the oil terminal \"Kurgannefteprodukt\" (Taganrog, Rostov region, Russian Federation) was affected. According to preliminary information, a tank with fuel on the territory was damaged. Others...",
-    "description_en": "Kurgannefteprodukt oil terminal, Tu-142 aircraft and Iskander-M OTRK launcher were hit. On the night of May 30, 2026, units of the Defense Forces of Ukraine inflicted damage on a number of important objects of the Russian aggressor. ⚡️In particular, the oil terminal \"Kurgannefteprodukt\" (Taganrog, Rostov region, Russian Federation) was affected. According to preliminary information, a tank with fuel on the territory was damaged. Others...",
-    "description_uk": "Уражено нафтовий термінал “Курганнефтепродукт”, літаки Ту-142 та пускову установку ОТРК “Іскандер-М” У ніч на 30 травня 2026 року підрозділи Сил оборони України завдали уражень по низці важливих об'єктів російського агресора. ⚡️Зокрема, уражено нафтовий термінал “Курганнефтепродукт” (Таганрог, Ростовська обл., рф). За попередньою інформацією, пошкоджено резервуар із пальним на території. Інші...",
-    "time": "",
-    "pubDate": "2026-05-30T11:17:11+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/39309",
-    "score": 10.5,
-    "views": 15873,
-    "forwards": 85
   }
 ]
