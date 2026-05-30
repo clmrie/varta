@@ -1,5 +1,95 @@
 [
   {
+    "title": "Kursk: Drone incoming",
+    "title_en": "Kursk: Drone incoming",
+    "title_uk": "Курськ: Дрон входить",
+    "description": "284 ENEMY TARGETS DOWN/SUPPRESSED On the night of May 30 (from 18:00 on May 29), the enemy attacked with an Iskander-M ballistic missile from the Bryansk region, six Kh-101 cruise missiles from the Vologda region, as well as 290 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and by imitation drones of the \"Parody\" type from the directions: Bryansk, Kursk, Millerovo, Orel, Primorsko-Akhtarsk -...",
+    "description_en": "284 ENEMY TARGETS DOWN/SUPPRESSED On the night of May 30 (from 18:00 on May 29), the enemy attacked with an Iskander-M ballistic missile from the Bryansk region, six Kh-101 cruise missiles from the Vologda region, as well as 290 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and by imitation drones of the \"Parody\" type from the directions: Bryansk, Kursk, Millerovo, Orel, Primorsko-Akhtarsk -...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 284 ЦІЛІ ПРОТИВНИКА ➖➖➖➖➖➖➖➖➖➖ У ніч на 30 травня (з 18:00 29 травня) противник атакував балістичною ракетою Іскандер-М із Брянської обл.- рф, шістьма крилатими ракетами Х-101 із Вологодської обл., а також 290 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу “Пародія” із напрямків: Брянськ, Курськ, Міллєрово, Орел, Приморсько-Ахтарськ –...",
+    "time": "",
+    "pubDate": "2026-05-30T06:03:36+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kursk",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63300",
+    "score": 13.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Poltava: Drone attack",
+    "title_en": "Poltava: Drone attack",
+    "title_uk": "Полтава: Атака безпілотників",
+    "description": "Russian drones attack Poltava Oblast, causing damage and injuring two people Houses and a local clinic were damaged after Russian drones targeted several locations in the Poltava district on the evening of 29 May. Read the full article on our website",
+    "description_en": "Russian drones attack Poltava Oblast, causing damage and injuring two people Houses and a local clinic were damaged after Russian drones targeted several locations in the Poltava district on the evening of 29 May. Read the full article on our website",
+    "description_uk": "Russian drones attack Poltava Oblast, causing damage and injuring two people Houses and a local clinic were damaged after Russian drones targeted several locations in the Poltava district on the evening of 29 May. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-05-30T05:42:09+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Poltava",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48116",
+    "score": 13.0,
+    "views": 6,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: Attack attack on infrastructure",
+    "title_en": "Zaporizhzhia: Attack attack on infrastructure",
+    "title_uk": "Запоріжжя: Атака на інфраструктуру",
+    "description": "Russia attacks industrial infrastructure in Zaporizhzhia, one person injured A man in his 40s is in a critical condition in hospital following an early morning attack by Russian forces on the city's infrastructure. Read the full article on our website",
+    "description_en": "Russia attacks industrial infrastructure in Zaporizhzhia, one person injured A man in his 40s is in a critical condition in hospital following an early morning attack by Russian forces on the city's infrastructure. Read the full article on our website",
+    "description_uk": "Russia attacks industrial infrastructure in Zaporizhzhia, one person injured A man in his 40s is in a critical condition in hospital following an early morning attack by Russian forces on the city's infrastructure. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-05-30T05:42:09+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48117",
+    "score": 6.0,
+    "views": 6,
+    "forwards": 0
+  },
+  {
+    "title": "BpLA in the north of the Rivne region heading for Sarny.",
+    "title_en": "BpLA in the north of the Rivne region heading for Sarny.",
+    "title_uk": "BpLA на півночі Рівненської області прямує до Сарн.",
+    "description": "BpLA in the north of the Rivne region heading for Sarny.",
+    "description_en": "BpLA in the north of the Rivne region heading for Sarny.",
+    "description_uk": "БпЛА на півночі Рівненщини курсом на Сарни.",
+    "time": "",
+    "pubDate": "2026-05-30T05:40:24+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Rivne",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63298",
+    "score": 5.0,
+    "views": 29357,
+    "forwards": 34
+  },
+  {
+    "title": "Crimea: Attack attack on infrastructure",
+    "title_en": "Crimea: Attack attack on infrastructure",
+    "title_uk": "Крим: Напад на інфраструктуру",
+    "description": "Ukraine reportedly strikes oil infrastructure, tanker in western Russia, occupied Crimea. Ukraine's military reportedly struck oil infrastructure in multiple Russian and Russian-held territories overnight on May 30, Russian Telegram media channels reported.",
+    "description_en": "Ukraine reportedly strikes oil infrastructure, tanker in western Russia, occupied Crimea. Ukraine's military reportedly struck oil infrastructure in multiple Russian and Russian-held territories overnight on May 30, Russian Telegram media channels reported.",
+    "description_uk": "Ukraine reportedly strikes oil infrastructure, tanker in western Russia, occupied Crimea. Ukraine's military reportedly struck oil infrastructure in multiple Russian and Russian-held territories overnight on May 30, Russian Telegram media channels reported.",
+    "time": "",
+    "pubDate": "2026-05-30T03:33:26+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Crimea",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53408",
+    "score": 8.0,
+    "views": 800,
+    "forwards": 1
+  },
+  {
     "title": "Chernihiv: BpLA from Chernihiv region heading for Kyiv region (vector - Velyka...",
     "title_en": "Chernihiv: BpLA from Chernihiv region heading for Kyiv region (vector - Velyka...",
     "title_uk": "Чернігів: BpLA з Чернігівської області прямує до Київської області (вектор - Велика...",
@@ -86,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53406",
     "score": 6.0,
-    "views": 1691,
+    "views": 2158,
     "forwards": 2
   },
   {
@@ -140,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192591",
     "score": 4.5,
-    "views": 139886,
-    "forwards": 241
+    "views": 169335,
+    "forwards": 258
   },
   {
     "title": "BpLA in the north of Sumy Region ➡️ heading for Shostka.",
@@ -176,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19284",
     "score": 8.5,
-    "views": 35542,
-    "forwards": 56
+    "views": 39742,
+    "forwards": 58
   },
   {
     "title": "Drone strike",
@@ -194,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19283",
     "score": 5.5,
-    "views": 59547,
-    "forwards": 116
+    "views": 64682,
+    "forwards": 118
   },
   {
     "title": "Dnipro: Attack attack",
@@ -234,24 +324,6 @@
     "forwards": 0
   },
   {
-    "title": "Poltava region: BpLA groups past Kotelva in the direction of Gogolevo.",
-    "title_en": "Poltava region: BpLA groups past Kotelva in the direction of Gogolevo.",
-    "title_uk": "Полтавщина: групи БпЛА повз Котельву в напрямку Гоголевого.",
-    "description": "Poltava region: BpLA groups past Kotelva in the direction of Gogolevo.",
-    "description_en": "Poltava region: BpLA groups past Kotelva in the direction of Gogolevo.",
-    "description_uk": "Полтавщина: групи БпЛА повз Котельву в напрямку Гоголевого.",
-    "time": "",
-    "pubDate": "2026-05-29T16:31:32+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63242",
-    "score": 5.0,
-    "views": 53490,
-    "forwards": 1
-  },
-  {
     "title": "Kyiv: UN blacklists Russian forces over sexual violence against Ukrainian...",
     "title_en": "Kyiv: UN blacklists Russian forces over sexual violence against Ukrainian...",
     "title_uk": "Київ: ООН внесла російські війська в чорний список через сексуальне насильство над українцями...",
@@ -286,42 +358,6 @@
     "score": 5.5,
     "views": 106088,
     "forwards": 103
-  },
-  {
-    "title": "Kyiv: Attack attack on residential area",
-    "title_en": "Kyiv: Attack attack on residential area",
-    "title_uk": "Київ: обстріл житлового кварталу",
-    "description": "Russia preparing new large-scale attack, Zelensky says. President Volodymyr Zelensky said on May 29 that Ukrainian intelligence has information indicating Russia is preparing a new large-scale attack on Ukraine.",
-    "description_en": "Russia preparing new large-scale attack, Zelensky says. President Volodymyr Zelensky said on May 29 that Ukrainian intelligence has information indicating Russia is preparing a new large-scale attack on Ukraine.",
-    "description_uk": "Russia preparing new large-scale attack, Zelensky says. President Volodymyr Zelensky said on May 29 that Ukrainian intelligence has information indicating Russia is preparing a new large-scale attack on Ukraine.",
-    "time": "",
-    "pubDate": "2026-05-29T16:06:22+00:00",
-    "category": "alert",
-    "severity": "medium",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53400",
-    "score": 4.0,
-    "views": 1512,
-    "forwards": 5
-  },
-  {
-    "title": "🤡 Pinya stated that he heard about a drone in Romania, but he does...",
-    "title_en": "🤡 Pinya stated that he heard about a drone in Romania, but he does...",
-    "title_uk": "🤡 Піня заявив, що чув про дрон у Румунії, але він...",
-    "description": "🤡 Pinya stated that he heard about a drone in Romania, but he does not know what kind of drone it was. He says that no one can tell about the origin of the drone without an examination. Let us remind you that at night a Russian UAV fell on a residential building in Romania. The Consulate General of the Russian Federation in the country was closed.",
-    "description_en": "🤡 Pinya stated that he heard about a drone in Romania, but he does not know what kind of drone it was. He says that no one can tell about the origin of the drone without an examination. Let us remind you that at night a Russian UAV fell on a residential building in Romania. The Consulate General of the Russian Federation in the country was closed.",
-    "description_uk": "🤡 пыня заявил, что слышал о беспилотнике в Румынии, но не знает, что это был за дрон Говорит, что никто не может сказать о происхождении беспилотника без экспертизы. Напомним, что ночью руснявный БПЛА упал на жилой дом в Румынии. Генконсульство рф в стране закрыли.",
-    "time": "",
-    "pubDate": "2026-05-29T15:43:54+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/192572",
-    "score": 5.5,
-    "views": 61975,
-    "forwards": 69
   },
   {
     "title": "There will be no repeat of the invasion of Ukraine through Belarus in...",
@@ -410,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9202",
     "score": 4.0,
-    "views": 1736,
+    "views": 1775,
     "forwards": 11
   }
 ]
