@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: BpLA from Chernihiv region heading for Kyiv region (vector - Velyka...",
+    "title_en": "Chernihiv: BpLA from Chernihiv region heading for Kyiv region (vector - Velyka...",
+    "title_uk": "Чернігів: BpLA з Чернігівської області прямує до Київської області (вектор - Велика...",
+    "description": "BpLA from Chernihiv region heading for Kyiv region (vector - Velyka Dymerka/Brovary).",
+    "description_en": "BpLA from Chernihiv region heading for Kyiv region (vector - Velyka Dymerka/Brovary).",
+    "description_uk": "БпЛА з Чернігівщини курсом на Київщину (вектор - Велика Димерка/Бровари).",
+    "time": "",
+    "pubDate": "2026-05-30T02:16:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63288",
+    "score": 6.0,
+    "views": 10159,
+    "forwards": 1
+  },
+  {
+    "title": "Zhytomyr region: BpLA in the direction of Korosten from the north.",
+    "title_en": "Zhytomyr region: BpLA in the direction of Korosten from the north.",
+    "title_uk": "Житомирська обл.: БпЛА в напрямку м. Коростень з пн.",
+    "description": "Zhytomyr region: BpLA in the direction of Korosten from the north.",
+    "description_en": "Zhytomyr region: BpLA in the direction of Korosten from the north.",
+    "description_uk": "Житомирщина: БпЛА в напрямку Коростеня з півночі.",
+    "time": "",
+    "pubDate": "2026-05-30T01:56:43+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zhytomyr",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63287",
+    "score": 5.0,
+    "views": 15205,
+    "forwards": 0
+  },
+  {
     "title": "Sumyshchyna - BpLA in the area of ​​Shostka and Voronezh.",
     "title_en": "Sumyshchyna - BpLA in the area of ​​Shostka and Voronezh.",
     "title_uk": "Сумщина - БпЛА в районі Шостки та Воронежа.",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53406",
     "score": 6.0,
-    "views": 1371,
+    "views": 1691,
     "forwards": 2
   },
   {
@@ -68,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53404",
     "score": 6.0,
-    "views": 1557,
-    "forwards": 7
+    "views": 1845,
+    "forwards": 8
   },
   {
     "title": "Kharkiv: Kharkiv region - BpLA on Donets, Balaklia.",
@@ -104,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192591",
     "score": 4.5,
-    "views": 128506,
-    "forwards": 231
+    "views": 139886,
+    "forwards": 241
   },
   {
     "title": "BpLA in the north of Sumy Region ➡️ heading for Shostka.",
@@ -140,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19284",
     "score": 8.5,
-    "views": 34154,
-    "forwards": 55
+    "views": 35542,
+    "forwards": 56
   },
   {
     "title": "Drone strike",
@@ -158,7 +194,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19283",
     "score": 5.5,
-    "views": 57946,
+    "views": 59547,
     "forwards": 116
   },
   {
@@ -306,42 +342,6 @@
     "forwards": 141
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV from the Black Sea area heading south of Odesa.",
-    "description_en": "UAV from the Black Sea area heading south of Odesa.",
-    "description_uk": "БпЛА з акваторії Чорного моря курсом на південь Одещини.",
-    "time": "",
-    "pubDate": "2026-05-29T12:42:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63211",
-    "score": 5.0,
-    "views": 19244,
-    "forwards": 0
-  },
-  {
-    "title": "Countering the MiG-31K missile threat.",
-    "title_en": "Countering the MiG-31K missile threat.",
-    "title_uk": "Протидія ракетній загрозі МіГ-31К.",
-    "description": "Countering the MiG-31K missile threat.",
-    "description_en": "Countering the MiG-31K missile threat.",
-    "description_uk": "Відбій ракетної небезпеки по МіГ-31К.",
-    "time": "",
-    "pubDate": "2026-05-29T12:40:54+00:00",
-    "category": "missile",
-    "severity": "medium",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63210",
-    "score": 3.0,
-    "views": 23278,
-    "forwards": 0
-  },
-  {
     "title": "Energy infrastructure hit",
     "title_en": "Energy infrastructure hit",
     "title_uk": "Поразка енергетичної інфраструктури",
@@ -360,24 +360,6 @@
     "forwards": 0
   },
   {
-    "title": "Attack attack on residential area",
-    "title_en": "Attack attack on residential area",
-    "title_uk": "Напад на житловий квартал",
-    "description": "Zelenskyy: Russia is preparing for new large-scale attack on Ukraine President Volodymyr Zelenskyy said on 29 May that Russia is preparing a new large-scale strike against Ukraine. Read the full article on our website",
-    "description_en": "Zelenskyy: Russia is preparing for new large-scale attack on Ukraine President Volodymyr Zelenskyy said on 29 May that Russia is preparing a new large-scale strike against Ukraine. Read the full article on our website",
-    "description_uk": "Zelenskyy: Russia is preparing for new large-scale attack on Ukraine President Volodymyr Zelenskyy said on 29 May that Russia is preparing a new large-scale strike against Ukraine. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-05-29T12:24:31+00:00",
-    "category": "alert",
-    "severity": "medium",
-    "location": "Ukraine",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48090",
-    "score": 3.0,
-    "views": 13,
-    "forwards": 0
-  },
-  {
     "title": "Berdiansk: The Volgograd Refinery, the Yaroslavl-3 NPS, the Tor-M2 air defense...",
     "title_en": "Berdiansk: The Volgograd Refinery, the Yaroslavl-3 NPS, the Tor-M2 air defense...",
     "title_uk": "Бердянськ: Волгоградський НПЗ, Ярославська АЕС-3, ППО Тор-М2...",
@@ -392,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39271",
     "score": 13.5,
-    "views": 15827,
+    "views": 16074,
     "forwards": 119
   },
   {
@@ -428,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9202",
     "score": 4.0,
-    "views": 1729,
+    "views": 1736,
     "forwards": 11
   }
 ]
