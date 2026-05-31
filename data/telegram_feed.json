@@ -1,5 +1,59 @@
 [
   {
+    "title": "BpLA in the south of the Zaporizhzhia region.",
+    "title_en": "BpLA in the south of the Zaporizhzhia region.",
+    "title_uk": "БпЛА на півдні Запорізької обл.",
+    "description": "BpLA in the south of the Zaporizhzhia region.",
+    "description_en": "BpLA in the south of the Zaporizhzhia region.",
+    "description_uk": "БпЛА на півдні Запорізької області.",
+    "time": "",
+    "pubDate": "2026-05-31T17:35:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63424",
+    "score": 5.0,
+    "views": 19227,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: Casualties reported",
+    "title_en": "Dnipro: Casualties reported",
+    "title_uk": "Дніпро: повідомляється про постраждалих",
+    "description": "One killed, nine injured in Russian attacks on Dnipropetrovsk Oblast One person was killed and nine injured in Russian attacks on Dnipropetrovsk Oblast on 31 May. Residential buildings, a school and vehicles were damaged. Read the full article on our website",
+    "description_en": "One killed, nine injured in Russian attacks on Dnipropetrovsk Oblast One person was killed and nine injured in Russian attacks on Dnipropetrovsk Oblast on 31 May. Residential buildings, a school and vehicles were damaged. Read the full article on our website",
+    "description_uk": "One killed, nine injured in Russian attacks on Dnipropetrovsk Oblast One person was killed and nine injured in Russian attacks on Dnipropetrovsk Oblast on 31 May. Residential buildings, a school and vehicles were damaged. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-05-31T17:27:42+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Dnipro",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48181",
+    "score": 10.0,
+    "views": 9,
+    "forwards": 0
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "US anti-ballistic missile production insufficient – Zelenskyy Ukrainian President Volodymyr Zelenskyy has stated that current US anti-ballistic missile production volumes are insufficient relative to present-day challenges. Read the full article on our website",
+    "description_en": "US anti-ballistic missile production insufficient – Zelenskyy Ukrainian President Volodymyr Zelenskyy has stated that current US anti-ballistic missile production volumes are insufficient relative to present-day challenges. Read the full article on our website",
+    "description_uk": "US anti-ballistic missile production insufficient – Zelenskyy Ukrainian President Volodymyr Zelenskyy has stated that current US anti-ballistic missile production volumes are insufficient relative to present-day challenges. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-05-31T17:27:42+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48180",
+    "score": 5.0,
+    "views": 9,
+    "forwards": 0
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -14,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/63422",
     "score": 6.0,
-    "views": 27324,
+    "views": 64795,
     "forwards": 0
   },
   {
@@ -86,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53427",
     "score": 6.0,
-    "views": 894,
-    "forwards": 3
+    "views": 1194,
+    "forwards": 5
   },
   {
     "title": "Drone strike",
@@ -104,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192693",
     "score": 5.5,
-    "views": 82831,
-    "forwards": 109
+    "views": 105537,
+    "forwards": 143
   },
   {
     "title": "Drone incoming",
@@ -248,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19292",
     "score": 12.5,
-    "views": 98575,
-    "forwards": 177
+    "views": 104581,
+    "forwards": 178
   },
   {
     "title": "Dnipro: BpLA on the Dnipro from the east.",
@@ -284,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53424",
     "score": 9.0,
-    "views": 2131,
+    "views": 2235,
     "forwards": 3
   },
   {
@@ -342,24 +396,6 @@
     "forwards": 218
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons!",
-    "description_en": "☄️ The threat of using ballistic weapons!",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння!",
-    "time": "",
-    "pubDate": "2026-05-31T08:06:35+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63389",
-    "score": 5.0,
-    "views": 66749,
-    "forwards": 0
-  },
-  {
     "title": "Drone attack",
     "title_en": "Drone attack",
     "title_uk": "Атака безпілотників",
@@ -412,41 +448,5 @@
     "score": 8.0,
     "views": 788,
     "forwards": 5
-  },
-  {
-    "title": "108 missiles launched",
-    "title_en": "108 missiles launched",
-    "title_uk": "Випущено 108 ракет",
-    "description": "During this week, the Russians launched more than 2,300 attack drones, almost 1,560 guided aerial bombs and 108 missiles of various types against our people. All these blows are simply on ordinary civil infrastructure - residential buildings, energy. Every day we work to increase protection against Russian terror. Yesterday we received the new IRIS-T launcher. We thank Germany for its constant contribution to the protection of...",
-    "description_en": "During this week, the Russians launched more than 2,300 attack drones, almost 1,560 guided aerial bombs and 108 missiles of various types against our people. All these blows are simply on ordinary civil infrastructure - residential buildings, energy. Every day we work to increase protection against Russian terror. Yesterday we received the new IRIS-T launcher. We thank Germany for its constant contribution to the protection of...",
-    "description_uk": "За цей тиждень росіяни випустили проти наших людей понад 2300 ударних дронів, майже 1560 керованих авіаційних бомб і 108 ракет різних типів. Усі ці удари просто по звичайній цивільній інфраструктурі – житлових будинках, енергетиці. Щодня ми працюємо, щоб захисту від російського терору було більше. Вчора ми отримали нову пускову установку IRIS-T. Дякуємо Німеччині за постійний внесок у захист...",
-    "time": "",
-    "pubDate": "2026-05-31T07:40:39+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19291",
-    "score": 8.0,
-    "views": 171491,
-    "forwards": 260
-  },
-  {
-    "title": "Rivne region: BpLA in the direction of Rivne, Berezny.",
-    "title_en": "Rivne region: BpLA in the direction of Rivne, Berezny.",
-    "title_uk": "Рівненська область: БпЛА в напрямку Рівне, Березний.",
-    "description": "Rivne region: BpLA in the direction of Rivne, Berezny.",
-    "description_en": "Rivne region: BpLA in the direction of Rivne, Berezny.",
-    "description_uk": "Рівненщина: БпЛА в напрямку Рівного, Березного.",
-    "time": "",
-    "pubDate": "2026-05-31T06:12:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Rivne",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63371",
-    "score": 5.0,
-    "views": 1006,
-    "forwards": 0
   }
 ]
