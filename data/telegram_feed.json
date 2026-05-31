@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "Sumyshchyna: UAV on/past Nyza in the northern direction; 🛵 Chernihiv Region: BpLA in the direction of Chernihiv from the north.",
+    "description_en": "Sumyshchyna: UAV on/past Nyza in the northern direction; 🛵 Chernihiv Region: BpLA in the direction of Chernihiv from the north.",
+    "description_uk": "Сумщина: БпЛА на/повз Низи в північному напрямку; 🛵 Чернігівщина: БпЛА в напрямку Чернігова з півночі.",
+    "time": "",
+    "pubDate": "2026-05-31T16:23:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63422",
+    "score": 6.0,
+    "views": 27324,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: 🛸 BpLA heading for Kharkiv from the north.",
+    "title_en": "Kharkiv: 🛸 BpLA heading for Kharkiv from the north.",
+    "title_uk": "Харків: 🛸 BpLA прямує до Харкова з півночі.",
+    "description": "🛸 BpLA heading for Kharkiv from the north.",
+    "description_en": "🛸 BpLA heading for Kharkiv from the north.",
+    "description_uk": "🛸 БпЛА курсом на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-05-31T16:10:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63421",
+    "score": 6.0,
+    "views": 37447,
+    "forwards": 0
+  },
+  {
     "title": "Kherson: Drone attack",
     "title_en": "Kherson: Drone attack",
     "title_uk": "Херсон: атака безпілотників",
@@ -14,7 +50,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48175",
     "score": 6.0,
-    "views": 5,
+    "views": 10,
     "forwards": 0
   },
   {
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53427",
     "score": 6.0,
-    "views": 467,
-    "forwards": 2
+    "views": 894,
+    "forwards": 3
   },
   {
     "title": "Drone strike",
@@ -68,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192693",
     "score": 5.5,
-    "views": 40859,
-    "forwards": 73
+    "views": 82831,
+    "forwards": 109
   },
   {
     "title": "Drone incoming",
@@ -104,7 +140,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48174",
     "score": 4.0,
-    "views": 13,
+    "views": 18,
     "forwards": 0
   },
   {
@@ -212,26 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19292",
     "score": 12.5,
-    "views": 90666,
-    "forwards": 164
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "Jet UAVs in the north of Chernihiv region along the border with Belarus in the western direction and to the north of Kyiv region.",
-    "description_en": "Jet UAVs in the north of Chernihiv region along the border with Belarus in the western direction and to the north of Kyiv region.",
-    "description_uk": "Реактивні БпЛА на півночі Чернігівщини вздовж кордону з Білоруссю західним курсом та на північ Київщини.",
-    "time": "",
-    "pubDate": "2026-05-31T11:09:57+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63401",
-    "score": 6.0,
-    "views": 11078,
-    "forwards": 35
+    "views": 98575,
+    "forwards": 177
   },
   {
     "title": "Dnipro: BpLA on the Dnipro from the east.",
@@ -266,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53424",
     "score": 9.0,
-    "views": 2007,
+    "views": 2131,
     "forwards": 3
   },
   {
@@ -410,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19291",
     "score": 8.0,
-    "views": 165402,
+    "views": 171491,
     "forwards": 260
   },
   {
@@ -430,23 +448,5 @@
     "score": 5.0,
     "views": 1006,
     "forwards": 0
-  },
-  {
-    "title": "Kursk: Drone incoming",
-    "title_en": "Kursk: Drone incoming",
-    "title_uk": "Курськ: Дрон входить",
-    "description": "212 ENEMY UAVS BROKEN DOWN/SUPPRESSED On the night of May 31 (from 18:00 on May 30), the enemy attacked 229 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones from the directions: Orel, Kursk, Bryansk, Millerovo, Shatalovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and...",
-    "description_en": "212 ENEMY UAVS BROKEN DOWN/SUPPRESSED On the night of May 31 (from 18:00 on May 30), the enemy attacked 229 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones from the directions: Orel, Kursk, Bryansk, Millerovo, Shatalovo, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 212 ВОРОЖИХ БПЛА У ніч на 31 травня (з 18:00 30 травня) противник атакував 229 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу \"Пародія\" із напрямків: Орел, Курськ, Брянськ, Міллєрово, Шаталово, Приморсько-Ахтарськ – рф., Гвардійське – ТОТ АР Крим. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та...",
-    "time": "",
-    "pubDate": "2026-05-31T05:41:00+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kursk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/39343",
-    "score": 13.0,
-    "views": 6306,
-    "forwards": 22
   }
 ]
