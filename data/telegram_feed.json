@@ -14,8 +14,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/63439",
     "score": 5.0,
-    "views": 19382,
-    "forwards": 4
+    "views": 33171,
+    "forwards": 5
   },
   {
     "title": "Kyiv: Drone strike",
@@ -32,7 +32,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53430",
     "score": 10.0,
-    "views": 656,
+    "views": 960,
     "forwards": 2
   },
   {
@@ -50,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/63437",
     "score": 6.5,
-    "views": 81749,
+    "views": 88932,
     "forwards": 68
   },
   {
@@ -68,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53428",
     "score": 5.0,
-    "views": 1619,
+    "views": 1802,
     "forwards": 2
   },
   {
@@ -122,7 +122,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48182",
     "score": 9.0,
-    "views": 33,
+    "views": 34,
     "forwards": 0
   },
   {
@@ -158,7 +158,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48181",
     "score": 10.0,
-    "views": 33,
+    "views": 34,
     "forwards": 0
   },
   {
@@ -410,26 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19292",
     "score": 12.5,
-    "views": 119174,
+    "views": 119819,
     "forwards": 186
-  },
-  {
-    "title": "Dnipro: BpLA on the Dnipro from the east.",
-    "title_en": "Dnipro: BpLA on the Dnipro from the east.",
-    "title_uk": "Дніпро: БпЛА на Дніпрі зі сх.",
-    "description": "BpLA on the Dnipro from the east.",
-    "description_en": "BpLA on the Dnipro from the east.",
-    "description_uk": "БпЛА на Дніпро зі сходу.",
-    "time": "",
-    "pubDate": "2026-05-31T10:48:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63400",
-    "score": 6.0,
-    "views": 28315,
-    "forwards": 0
   },
   {
     "title": "Strike confirmed",
@@ -448,5 +430,23 @@
     "score": 4.5,
     "views": 144246,
     "forwards": 75
+  },
+  {
+    "title": "108 missiles launched",
+    "title_en": "108 missiles launched",
+    "title_uk": "Випущено 108 ракет",
+    "description": "During this week, the Russians launched more than 2,300 attack drones, almost 1,560 guided aerial bombs and 108 missiles of various types against our people. All these blows are simply on ordinary civil infrastructure - residential buildings, energy. Every day we work to increase protection against Russian terror. Yesterday we received the new IRIS-T launcher. We thank Germany for its constant contribution to the protection of...",
+    "description_en": "During this week, the Russians launched more than 2,300 attack drones, almost 1,560 guided aerial bombs and 108 missiles of various types against our people. All these blows are simply on ordinary civil infrastructure - residential buildings, energy. Every day we work to increase protection against Russian terror. Yesterday we received the new IRIS-T launcher. We thank Germany for its constant contribution to the protection of...",
+    "description_uk": "За цей тиждень росіяни випустили проти наших людей понад 2300 ударних дронів, майже 1560 керованих авіаційних бомб і 108 ракет різних типів. Усі ці удари просто по звичайній цивільній інфраструктурі – житлових будинках, енергетиці. Щодня ми працюємо, щоб захисту від російського терору було більше. Вчора ми отримали нову пускову установку IRIS-T. Дякуємо Німеччині за постійний внесок у захист...",
+    "time": "",
+    "pubDate": "2026-05-31T07:40:39+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/19291",
+    "score": 8.0,
+    "views": 192160,
+    "forwards": 279
   }
 ]
