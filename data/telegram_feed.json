@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Groups of enemy UAVs in the direction of the South from the Black Sea.",
+    "description_en": "Groups of enemy UAVs in the direction of the South from the Black Sea.",
+    "description_uk": "Групи ворожих БпЛА у напрямку Південного з Чорного моря.",
+    "time": "",
+    "pubDate": "2026-05-31T19:44:19+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63436",
+    "score": 5.0,
+    "views": 39440,
+    "forwards": 0
+  },
+  {
     "title": "Donetsk: Attack attack",
     "title_en": "Donetsk: Attack attack",
     "title_uk": "Донецьк: Напад",
@@ -14,7 +32,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53428",
     "score": 5.0,
-    "views": 177,
+    "views": 866,
     "forwards": 0
   },
   {
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/63434",
     "score": 6.0,
-    "views": 24274,
+    "views": 85034,
     "forwards": 0
   },
   {
@@ -51,24 +69,6 @@
     "link": "https://t.me/kpszsu/63430",
     "score": 5.0,
     "views": 56635,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Zelenskyy: We try to intercept all Russian drones heading towards European countries President Volodymyr Zelenskyy has said he regards incidents in which Russian drones cross the borders of European countries as measures of political pressure by Russia against Ukraine's partners, and that Ukraine tries to intercept all such drones. Read the full article on our website",
-    "description_en": "Zelenskyy: We try to intercept all Russian drones heading towards European countries President Volodymyr Zelenskyy has said he regards incidents in which Russian drones cross the borders of European countries as measures of political pressure by Russia against Ukraine's partners, and that Ukraine tries to intercept all such drones. Read the full article on our website",
-    "description_uk": "Zelenskyy: We try to intercept all Russian drones heading towards European countries President Volodymyr Zelenskyy has said he regards incidents in which Russian drones cross the borders of European countries as measures of political pressure by Russia against Ukraine's partners, and that Ukraine tries to intercept all such drones. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-05-31T18:10:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48182",
-    "score": 9.0,
-    "views": 16,
     "forwards": 0
   },
   {
@@ -104,7 +104,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48181",
     "score": 10.0,
-    "views": 21,
+    "views": 23,
     "forwards": 0
   },
   {
@@ -212,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53427",
     "score": 6.0,
-    "views": 1506,
+    "views": 1838,
     "forwards": 6
   },
   {
@@ -356,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19292",
     "score": 12.5,
-    "views": 110605,
-    "forwards": 180
+    "views": 115179,
+    "forwards": 181
   },
   {
     "title": "Dnipro: BpLA on the Dnipro from the east.",
