@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: Drone attack",
+    "title_en": "Kyiv: Drone attack",
+    "title_uk": "Київ: Атака безпілотників",
+    "description": "Russia's Saratov Oil Refinery reportedly struck by Ukrainian drones. Ukraine's military reportedly carried out a drone attack against the Saratov Oil Refinery late on May 30, Russian Telegram media channels reported.",
+    "description_en": "Russia's Saratov Oil Refinery reportedly struck by Ukrainian drones. Ukraine's military reportedly carried out a drone attack against the Saratov Oil Refinery late on May 30, Russian Telegram media channels reported.",
+    "description_uk": "Russia's Saratov Oil Refinery reportedly struck by Ukrainian drones. Ukraine's military reportedly carried out a drone attack against the Saratov Oil Refinery late on May 30, Russian Telegram media channels reported.",
+    "time": "",
+    "pubDate": "2026-05-31T01:33:58+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53420",
+    "score": 8.0,
+    "views": 99,
+    "forwards": 1
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "BpLA in the north of Kyiv region ➡️ heading for the capital. 🛵 UAV in the north of Kharkiv region ➡️ heading to Kharkiv, Bogoduhiv.",
+    "description_en": "BpLA in the north of Kyiv region ➡️ heading for the capital. 🛵 UAV in the north of Kharkiv region ➡️ heading to Kharkiv, Bogoduhiv.",
+    "description_uk": "БпЛА на півночі Київщини ➡️ курсом на столицю. 🛵 БпЛА на півночі Харківщини ➡️ курсом на Харків, Богодухів.",
+    "time": "",
+    "pubDate": "2026-05-31T01:21:26+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63362",
+    "score": 6.0,
+    "views": 9146,
+    "forwards": 21
+  },
+  {
+    "title": "Chernihiv: BpLA from Bryansk region, Russian Federation ➡️ to Chernihiv Oblast....",
+    "title_en": "Chernihiv: BpLA from Bryansk region, Russian Federation ➡️ to Chernihiv Oblast....",
+    "title_uk": "Чернігів: BpLA з Брянської області, РФ ➡️ до Чернігівської області....",
+    "description": "BpLA from Bryansk region, Russian Federation ➡️ to Chernihiv Oblast. 🛵 BpLA in the north of Sumy region ➡️ heading for Konotop, Krolevets.",
+    "description_en": "BpLA from Bryansk region, Russian Federation ➡️ to Chernihiv Oblast. 🛵 BpLA in the north of Sumy region ➡️ heading for Konotop, Krolevets.",
+    "description_uk": "БпЛА з Брянської обл., рф ➡️ на Чернігівщину. 🛵 БпЛА на півночі Сумщини ➡️ курсом на Конотоп, Кролевець.",
+    "time": "",
+    "pubDate": "2026-05-31T00:41:35+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63361",
+    "score": 6.0,
+    "views": 16594,
+    "forwards": 5
+  },
+  {
     "title": "Kyiv: Drone incoming",
     "title_en": "Kyiv: Drone incoming",
     "title_uk": "Київ: Дрон вхід",
@@ -32,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53418",
     "score": 10.0,
-    "views": 355,
-    "forwards": 3
+    "views": 766,
+    "forwards": 5
   },
   {
     "title": "Dnipro: New groups of BpLA ➡️ heading for the Dnipro.",
@@ -122,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192653",
     "score": 8.5,
-    "views": 115800,
-    "forwards": 109
+    "views": 123897,
+    "forwards": 121
   },
   {
     "title": "Zaporizhzhia: Drone attack on energy grid",
@@ -176,7 +230,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19290",
     "score": 12.0,
-    "views": 30805,
+    "views": 31902,
     "forwards": 20
   },
   {
@@ -248,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19289",
     "score": 13.5,
-    "views": 348350,
-    "forwards": 952
+    "views": 357058,
+    "forwards": 954
   },
   {
     "title": "Konstantinovsky direction",
@@ -266,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39326",
     "score": 5.0,
-    "views": 4341,
+    "views": 4419,
     "forwards": 17
   },
   {
@@ -394,59 +448,5 @@
     "score": 10.0,
     "views": 22,
     "forwards": 0
-  },
-  {
-    "title": "Zhytomyr region: BpLA ➡️ heading for Ovruch.",
-    "title_en": "Zhytomyr region: BpLA ➡️ heading for Ovruch.",
-    "title_uk": "Житомирська область: BpLA ➡️ прямує на Овруч.",
-    "description": "Zhytomyr region: BpLA ➡️ heading for Ovruch.",
-    "description_en": "Zhytomyr region: BpLA ➡️ heading for Ovruch.",
-    "description_uk": "Житомирщина: БпЛА ➡️ курсом на Овруч.",
-    "time": "",
-    "pubDate": "2026-05-30T13:32:34+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zhytomyr",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63335",
-    "score": 5.0,
-    "views": 47567,
-    "forwards": 34
-  },
-  {
-    "title": "Zaporizhzhia: Casualties reported",
-    "title_en": "Zaporizhzhia: Casualties reported",
-    "title_uk": "Запоріжжя: повідомляється про постраждалих",
-    "description": "Driver killed in Russian drone strike on locomotive in Zaporizhzhia Oblast Russia continues to attack railway infrastructure: a Russian UAV hit a diesel locomotive in Zaporizhzhia Oblast, killing one person and injuring two others. Read the full article on our website",
-    "description_en": "Driver killed in Russian drone strike on locomotive in Zaporizhzhia Oblast Russia continues to attack railway infrastructure: a Russian UAV hit a diesel locomotive in Zaporizhzhia Oblast, killing one person and injuring two others. Read the full article on our website",
-    "description_uk": "Driver killed in Russian drone strike on locomotive in Zaporizhzhia Oblast Russia continues to attack railway infrastructure: a Russian UAV hit a diesel locomotive in Zaporizhzhia Oblast, killing one person and injuring two others. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-05-30T13:15:10+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48135",
-    "score": 15.0,
-    "views": 25,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: BpLA past Slavutych ➡️ to the north of Kyiv region.",
-    "title_en": "Kyiv: BpLA past Slavutych ➡️ to the north of Kyiv region.",
-    "title_uk": "Київ: BpLA повз Славутич ➡️ на північ Київської області.",
-    "description": "BpLA past Slavutych ➡️ to the north of Kyiv region.",
-    "description_en": "BpLA past Slavutych ➡️ to the north of Kyiv region.",
-    "description_uk": "БпЛА повз Славутич ➡️ на північ Київщини.",
-    "time": "",
-    "pubDate": "2026-05-30T12:58:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63332",
-    "score": 6.0,
-    "views": 17223,
-    "forwards": 1
   }
 ]
