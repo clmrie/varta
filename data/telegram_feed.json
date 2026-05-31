@@ -1,5 +1,41 @@
 [
   {
+    "title": "Enemy UAVs in the Black Sea are approaching Odessa from the Black Sea.",
+    "title_en": "Enemy UAVs in the Black Sea are approaching Odessa from the Black Sea.",
+    "title_uk": "Ворожі БПЛА в Чорному морі наближаються до Одеси з боку Чорного моря.",
+    "description": "Enemy UAVs in the Black Sea are approaching Odessa from the Black Sea.",
+    "description_en": "Enemy UAVs in the Black Sea are approaching Odessa from the Black Sea.",
+    "description_uk": "Ворожі БпЛА у Чорному морі наближаються до Одеси з Чорного моря.",
+    "time": "",
+    "pubDate": "2026-05-31T21:43:38+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63439",
+    "score": 5.0,
+    "views": 19382,
+    "forwards": 4
+  },
+  {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Київ: Дрон-удар",
+    "description": "Romania confirms Russian Shahed-type drone behind earlier strike on residential building. \"The evidence identified at the scene is structurally and functionally identical to those recovered... in previous incidents involving Geran-2 type unmanned aerial vehicles,\" the country's Defense Ministry said.",
+    "description_en": "Romania confirms Russian Shahed-type drone behind earlier strike on residential building. \"The evidence identified at the scene is structurally and functionally identical to those recovered... in previous incidents involving Geran-2 type unmanned aerial vehicles,\" the country's Defense Ministry said.",
+    "description_uk": "Romania confirms Russian Shahed-type drone behind earlier strike on residential building. \"The evidence identified at the scene is structurally and functionally identical to those recovered... in previous incidents involving Geran-2 type unmanned aerial vehicles,\" the country's Defense Ministry said.",
+    "time": "",
+    "pubDate": "2026-05-31T21:14:37+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53430",
+    "score": 10.0,
+    "views": 656,
+    "forwards": 2
+  },
+  {
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Миколаїв: Дрон вхід",
@@ -14,26 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/63437",
     "score": 6.5,
-    "views": 63802,
+    "views": 81749,
     "forwards": 68
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Groups of enemy UAVs in the direction of the South from the Black Sea.",
-    "description_en": "Groups of enemy UAVs in the direction of the South from the Black Sea.",
-    "description_uk": "Групи ворожих БпЛА у напрямку Південного з Чорного моря.",
-    "time": "",
-    "pubDate": "2026-05-31T19:44:19+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63436",
-    "score": 5.0,
-    "views": 87085,
-    "forwards": 0
   },
   {
     "title": "Donetsk: Attack attack",
@@ -50,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53428",
     "score": 5.0,
-    "views": 1319,
+    "views": 1619,
     "forwards": 2
   },
   {
@@ -90,6 +108,24 @@
     "forwards": 0
   },
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Zelenskyy: We try to intercept all Russian drones heading towards European countries President Volodymyr Zelenskyy has said he regards incidents in which Russian drones cross the borders of European countries as measures of political pressure by Russia against Ukraine's partners, and that Ukraine tries to intercept all such drones. Read the full article on our website",
+    "description_en": "Zelenskyy: We try to intercept all Russian drones heading towards European countries President Volodymyr Zelenskyy has said he regards incidents in which Russian drones cross the borders of European countries as measures of political pressure by Russia against Ukraine's partners, and that Ukraine tries to intercept all such drones. Read the full article on our website",
+    "description_uk": "Zelenskyy: We try to intercept all Russian drones heading towards European countries President Volodymyr Zelenskyy has said he regards incidents in which Russian drones cross the borders of European countries as measures of political pressure by Russia against Ukraine's partners, and that Ukraine tries to intercept all such drones. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-05-31T18:10:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48182",
+    "score": 9.0,
+    "views": 33,
+    "forwards": 0
+  },
+  {
     "title": "BpLA in the south of the Zaporizhzhia region.",
     "title_en": "BpLA in the south of the Zaporizhzhia region.",
     "title_uk": "БпЛА на півдні Запорізької обл.",
@@ -122,7 +158,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48181",
     "score": 10.0,
-    "views": 31,
+    "views": 33,
     "forwards": 0
   },
   {
@@ -374,8 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19292",
     "score": 12.5,
-    "views": 118037,
-    "forwards": 185
+    "views": 119174,
+    "forwards": 186
   },
   {
     "title": "Dnipro: BpLA on the Dnipro from the east.",
@@ -396,24 +432,6 @@
     "forwards": 0
   },
   {
-    "title": "Kyiv: 108 missiles launched",
-    "title_en": "Kyiv: 108 missiles launched",
-    "title_uk": "Київ: випущено 108 ракет",
-    "description": "Germany sends new IRIS-T system to Ukraine as Kyiv braces for next Russian mass attack. Russian forces launched more than 2,300 attack drones, nearly 1,560 guided aerial bombs, and 108 missiles over the past week, according to President Volodymyr Zelensky.",
-    "description_en": "Germany sends new IRIS-T system to Ukraine as Kyiv braces for next Russian mass attack. Russian forces launched more than 2,300 attack drones, nearly 1,560 guided aerial bombs, and 108 missiles over the past week, according to President Volodymyr Zelensky.",
-    "description_uk": "Germany sends new IRIS-T system to Ukraine as Kyiv braces for next Russian mass attack. Russian forces launched more than 2,300 attack drones, nearly 1,560 guided aerial bombs, and 108 missiles over the past week, according to President Volodymyr Zelensky.",
-    "time": "",
-    "pubDate": "2026-05-31T09:31:04+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53424",
-    "score": 9.0,
-    "views": 2235,
-    "forwards": 3
-  },
-  {
     "title": "Strike confirmed",
     "title_en": "Strike confirmed",
     "title_uk": "Страйк підтверджено",
@@ -430,23 +448,5 @@
     "score": 4.5,
     "views": 144246,
     "forwards": 75
-  },
-  {
-    "title": "108 missiles launched",
-    "title_en": "108 missiles launched",
-    "title_uk": "Випущено 108 ракет",
-    "description": "During this week, the Russians launched more than 2,300 attack drones, almost 1,560 guided aerial bombs and 108 missiles of various types against our people. All these blows are simply on ordinary civil infrastructure - residential buildings, energy. Every day we work to increase protection against Russian terror. Yesterday we received the new IRIS-T launcher. We thank Germany for its constant contribution to the protection of...",
-    "description_en": "During this week, the Russians launched more than 2,300 attack drones, almost 1,560 guided aerial bombs and 108 missiles of various types against our people. All these blows are simply on ordinary civil infrastructure - residential buildings, energy. Every day we work to increase protection against Russian terror. Yesterday we received the new IRIS-T launcher. We thank Germany for its constant contribution to the protection of...",
-    "description_uk": "За цей тиждень росіяни випустили проти наших людей понад 2300 ударних дронів, майже 1560 керованих авіаційних бомб і 108 ракет різних типів. Усі ці удари просто по звичайній цивільній інфраструктурі – житлових будинках, енергетиці. Щодня ми працюємо, щоб захисту від російського терору було більше. Вчора ми отримали нову пускову установку IRIS-T. Дякуємо Німеччині за постійний внесок у захист...",
-    "time": "",
-    "pubDate": "2026-05-31T07:40:39+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19291",
-    "score": 8.0,
-    "views": 190122,
-    "forwards": 274
   }
 ]
