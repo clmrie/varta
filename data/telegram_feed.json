@@ -1,5 +1,77 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "Jet UAVs in the north of Chernihiv region along the border with Belarus in the western direction and to the north of Kyiv region.",
+    "description_en": "Jet UAVs in the north of Chernihiv region along the border with Belarus in the western direction and to the north of Kyiv region.",
+    "description_uk": "Реактивні БпЛА на півночі Чернігівщини вздовж кордону з Білоруссю західним курсом та на північ Київщини.",
+    "time": "",
+    "pubDate": "2026-05-31T11:09:57+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63401",
+    "score": 6.0,
+    "views": 11078,
+    "forwards": 35
+  },
+  {
+    "title": "Dnipro: BpLA on the Dnipro from the east.",
+    "title_en": "Dnipro: BpLA on the Dnipro from the east.",
+    "title_uk": "Дніпро: БпЛА на Дніпрі зі сх.",
+    "description": "BpLA on the Dnipro from the east.",
+    "description_en": "BpLA on the Dnipro from the east.",
+    "description_uk": "БпЛА на Дніпро зі сходу.",
+    "time": "",
+    "pubDate": "2026-05-31T10:48:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63400",
+    "score": 6.0,
+    "views": 28315,
+    "forwards": 0
+  },
+  {
+    "title": "Drone strike",
+    "title_en": "Drone strike",
+    "title_uk": "Безпілотний удар",
+    "description": "Ukrainian intelligence uses hundreds of decoy drones in long-range attacks on Russia, CNN reports – photos Defence Intelligence of Ukraine uses hundreds of decoy drones during deep-strike attacks on Russia, CNN reports. Specialised software allows drone operators to manage thousands of UAVs. Read the full article on our website",
+    "description_en": "Ukrainian intelligence uses hundreds of decoy drones in long-range attacks on Russia, CNN reports – photos Defence Intelligence of Ukraine uses hundreds of decoy drones during deep-strike attacks on Russia, CNN reports. Specialised software allows drone operators to manage thousands of UAVs. Read the full article on our website",
+    "description_uk": "Ukrainian intelligence uses hundreds of decoy drones in long-range attacks on Russia, CNN reports – photos Defence Intelligence of Ukraine uses hundreds of decoy drones during deep-strike attacks on Russia, CNN reports. Specialised software allows drone operators to manage thousands of UAVs. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-05-31T10:46:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48163",
+    "score": 5.0,
+    "views": 6,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: 108 missiles launched",
+    "title_en": "Kyiv: 108 missiles launched",
+    "title_uk": "Київ: випущено 108 ракет",
+    "description": "Germany sends new IRIS-T system to Ukraine as Kyiv braces for next Russian mass attack. Russian forces launched more than 2,300 attack drones, nearly 1,560 guided aerial bombs, and 108 missiles over the past week, according to President Volodymyr Zelensky.",
+    "description_en": "Germany sends new IRIS-T system to Ukraine as Kyiv braces for next Russian mass attack. Russian forces launched more than 2,300 attack drones, nearly 1,560 guided aerial bombs, and 108 missiles over the past week, according to President Volodymyr Zelensky.",
+    "description_uk": "Germany sends new IRIS-T system to Ukraine as Kyiv braces for next Russian mass attack. Russian forces launched more than 2,300 attack drones, nearly 1,560 guided aerial bombs, and 108 missiles over the past week, according to President Volodymyr Zelensky.",
+    "time": "",
+    "pubDate": "2026-05-31T09:31:04+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53424",
+    "score": 9.0,
+    "views": 852,
+    "forwards": 3
+  },
+  {
     "title": "Missile launch detected",
     "title_en": "Missile launch detected",
     "title_uk": "Виявлено запуск ракети",
@@ -31,9 +103,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192673",
-    "score": 4.0,
-    "views": 51266,
-    "forwards": 39
+    "score": 4.5,
+    "views": 103851,
+    "forwards": 74
   },
   {
     "title": "Drone incoming",
@@ -67,9 +139,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192670",
-    "score": 4.5,
-    "views": 61916,
-    "forwards": 141
+    "score": 5.5,
+    "views": 109170,
+    "forwards": 215
   },
   {
     "title": "Ballistic missile launch detected",
@@ -122,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53423",
     "score": 18.0,
-    "views": 667,
+    "views": 1272,
     "forwards": 2
   },
   {
@@ -157,9 +229,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19291",
-    "score": 7.0,
-    "views": 81635,
-    "forwards": 197
+    "score": 8.0,
+    "views": 116385,
+    "forwards": 231
   },
   {
     "title": "Rivne region: BpLA in the direction of Rivne, Berezny.",
@@ -194,8 +266,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39343",
     "score": 13.0,
-    "views": 5363,
-    "forwards": 19
+    "views": 5791,
+    "forwards": 20
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -288,24 +360,6 @@
     "forwards": 7
   },
   {
-    "title": "Dnipro: New groups of BpLA ➡️ heading for the Dnipro.",
-    "title_en": "Dnipro: New groups of BpLA ➡️ heading for the Dnipro.",
-    "title_uk": "Дніпро: Нові групи BpLA ➡️ прямують до Дніпра.",
-    "description": "New groups of BpLA ➡️ heading for the Dnipro.",
-    "description_en": "New groups of BpLA ➡️ heading for the Dnipro.",
-    "description_uk": "Нові групи БпЛА ➡️ курсом на Дніпро.",
-    "time": "",
-    "pubDate": "2026-05-30T22:00:40+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63355",
-    "score": 6.0,
-    "views": 46622,
-    "forwards": 35
-  },
-  {
     "title": "Air raid alert",
     "title_en": "Air raid alert",
     "title_uk": "Повітряна тривога",
@@ -320,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19290",
     "score": 12.0,
-    "views": 46323,
-    "forwards": 33
+    "views": 48735,
+    "forwards": 34
   },
   {
     "title": "Airstrike attack",
