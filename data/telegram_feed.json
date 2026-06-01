@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "UAV in Kharkiv region at/past Bogodukhiv in the southern direction.",
+    "description_en": "UAV in Kharkiv region at/past Bogodukhiv in the southern direction.",
+    "description_uk": "БпЛА на Харківщині на/повз Богодухів у південному напрямку.",
+    "time": "",
+    "pubDate": "2026-06-01T01:40:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63455",
+    "score": 6.0,
+    "views": 4081,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV heading to/past Kremenchuk from the east.",
+    "description_en": "UAV heading to/past Kremenchuk from the east.",
+    "description_uk": "БпЛА курсом на/повз Кременчук зі сходу.",
+    "time": "",
+    "pubDate": "2026-06-01T01:38:46+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63454",
+    "score": 5.0,
+    "views": 5088,
+    "forwards": 1
+  },
+  {
     "title": "Enemy UAVs in the Black Sea are approaching Odessa from the Black Sea.",
     "title_en": "Enemy UAVs in the Black Sea are approaching Odessa from the Black Sea.",
     "title_uk": "Ворожі БПЛА в Чорному морі наближаються до Одеси з боку Чорного моря.",
@@ -32,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53430",
     "score": 10.0,
-    "views": 960,
+    "views": 1283,
     "forwards": 2
   },
   {
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53428",
     "score": 5.0,
-    "views": 1802,
+    "views": 1995,
     "forwards": 2
   },
   {
@@ -108,24 +144,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Zelenskyy: We try to intercept all Russian drones heading towards European countries President Volodymyr Zelenskyy has said he regards incidents in which Russian drones cross the borders of European countries as measures of political pressure by Russia against Ukraine's partners, and that Ukraine tries to intercept all such drones. Read the full article on our website",
-    "description_en": "Zelenskyy: We try to intercept all Russian drones heading towards European countries President Volodymyr Zelenskyy has said he regards incidents in which Russian drones cross the borders of European countries as measures of political pressure by Russia against Ukraine's partners, and that Ukraine tries to intercept all such drones. Read the full article on our website",
-    "description_uk": "Zelenskyy: We try to intercept all Russian drones heading towards European countries President Volodymyr Zelenskyy has said he regards incidents in which Russian drones cross the borders of European countries as measures of political pressure by Russia against Ukraine's partners, and that Ukraine tries to intercept all such drones. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-05-31T18:10:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48182",
-    "score": 9.0,
-    "views": 34,
-    "forwards": 0
-  },
-  {
     "title": "BpLA in the south of the Zaporizhzhia region.",
     "title_en": "BpLA in the south of the Zaporizhzhia region.",
     "title_uk": "БпЛА на півдні Запорізької обл.",
@@ -158,7 +176,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48181",
     "score": 10.0,
-    "views": 34,
+    "views": 38,
     "forwards": 0
   },
   {
@@ -306,96 +324,6 @@
     "forwards": 0
   },
   {
-    "title": "Donetsk: Russians destroy church in Donetsk Oblast on eve of religious holiday...",
-    "title_en": "Donetsk: Russians destroy church in Donetsk Oblast on eve of religious holiday...",
-    "title_uk": "Донецьк: росіяни знищили церкву в Донецькій області напередодні релігійного свята...",
-    "description": "Russians destroy church in Donetsk Oblast on eve of religious holiday – video Russian forces destroyed the church in the village of Zakitne in Donetsk Oblast on the eve of Trinity Sunday, celebrated this year on 31 May. Trinity Sunday celebrates the Christian doctrine of the Trinity, the three Persons of God: the Father, the Son and the Holy Spirit – ed. Read the full article on our website",
-    "description_en": "Russians destroy church in Donetsk Oblast on eve of religious holiday – video Russian forces destroyed the church in the village of Zakitne in Donetsk Oblast on the eve of Trinity Sunday, celebrated this year on 31 May. Trinity Sunday celebrates the Christian doctrine of the Trinity, the three Persons of God: the Father, the Son and the Holy Spirit – ed. Read the full article on our website",
-    "description_uk": "Russians destroy church in Donetsk Oblast on eve of religious holiday – video Russian forces destroyed the church in the village of Zakitne in Donetsk Oblast on the eve of Trinity Sunday, celebrated this year on 31 May. Trinity Sunday celebrates the Christian doctrine of the Trinity, the three Persons of God: the Father, the Son and the Holy Spirit – ed. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-05-31T13:41:54+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Donetsk",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48170",
-    "score": 5.0,
-    "views": 11,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "UAV on the border of Sumy and Kharkiv regions in the direction of Poltava region.",
-    "description_en": "UAV on the border of Sumy and Kharkiv regions in the direction of Poltava region.",
-    "description_uk": "БпЛА на межі Сумської та Харківської областей у напрямку Полтавщини.",
-    "time": "",
-    "pubDate": "2026-05-31T13:18:04+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63407",
-    "score": 6.0,
-    "views": 46666,
-    "forwards": 0
-  },
-  {
-    "title": "BpLA from Zhytomyr Oblast to Rivne Oblast on a western course.",
-    "title_en": "BpLA from Zhytomyr Oblast to Rivne Oblast on a western course.",
-    "title_uk": "BpLA з Житомирської області на Рівненську область на західному курсі.",
-    "description": "BpLA from Zhytomyr Oblast to Rivne Oblast on a western course.",
-    "description_en": "BpLA from Zhytomyr Oblast to Rivne Oblast on a western course.",
-    "description_uk": "БпЛА з Житомирщини на Рівненщину західним курсом.",
-    "time": "",
-    "pubDate": "2026-05-31T12:42:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zhytomyr",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63406",
-    "score": 5.0,
-    "views": 66413,
-    "forwards": 1
-  },
-  {
-    "title": "Luhansk: Luhansk Oblast now under control of Ukrainian drones – Ukraine's...",
-    "title_en": "Luhansk: Luhansk Oblast now under control of Ukrainian drones – Ukraine's...",
-    "title_uk": "Луганськ: Луганська область тепер під контролем українських безпілотників – українська...",
-    "description": "Luhansk Oblast now under control of Ukrainian drones – Ukraine's Third Army Corps Ukraine's Third Army Corps UAVs have struck Russian logistics routes and depots in Luhansk Oblast and East Slobozhanshchyna. Read the full article on our website",
-    "description_en": "Luhansk Oblast now under control of Ukrainian drones – Ukraine's Third Army Corps Ukraine's Third Army Corps UAVs have struck Russian logistics routes and depots in Luhansk Oblast and East Slobozhanshchyna. Read the full article on our website",
-    "description_uk": "Luhansk Oblast now under control of Ukrainian drones – Ukraine's Third Army Corps Ukraine's Third Army Corps UAVs have struck Russian logistics routes and depots in Luhansk Oblast and East Slobozhanshchyna. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-05-31T12:22:09+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Luhansk",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48168",
-    "score": 10.0,
-    "views": 16,
-    "forwards": 0
-  },
-  {
-    "title": "Kherson: Drone incoming",
-    "title_en": "Kherson: Drone incoming",
-    "title_uk": "Херсон: Дрон вхід",
-    "description": "A group of UAVs through the Kherson region in the direction of Kryvyi Rih; 🛵 A group of UAVs in Odesa from the Black Sea in the direction of Tatarbunary; 🛵 Unmanned aerial vehicle group in the north of Zhytomyr region in the direction of Zhytomyr.",
-    "description_en": "A group of UAVs through the Kherson region in the direction of Kryvyi Rih; 🛵 A group of UAVs in Odesa from the Black Sea in the direction of Tatarbunary; 🛵 Unmanned aerial vehicle group in the north of Zhytomyr region in the direction of Zhytomyr.",
-    "description_uk": "Група БпЛА через Херсонщину у напрямку Кривого Рогу; 🛵 Група БпЛА на Одещині із Чорного моря у напрямку Татарбунарів; 🛵 Група БпЛА на півночі Житомирщини у напрямку Житомира.",
-    "time": "",
-    "pubDate": "2026-05-31T12:15:06+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kherson",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63404",
-    "score": 6.0,
-    "views": 33413,
-    "forwards": 0
-  },
-  {
     "title": "Casualties reported",
     "title_en": "Casualties reported",
     "title_uk": "Повідомляється про постраждалих",
@@ -410,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19292",
     "score": 12.5,
-    "views": 119819,
+    "views": 120574,
     "forwards": 186
   },
   {
@@ -446,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19291",
     "score": 8.0,
-    "views": 192160,
+    "views": 193150,
     "forwards": 279
   }
 ]
