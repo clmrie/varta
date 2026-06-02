@@ -1,21 +1,57 @@
 [
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAV ➡️ heading for Makariv.",
-    "description_en": "Jet UAV ➡️ heading for Makariv.",
-    "description_uk": "Реактивний БпЛА ➡️ курсом на Макарів.",
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ Threat of using ballistic weapons (northeast)!",
+    "description_en": "☄️ Threat of using ballistic weapons (northeast)!",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння (північний схід)!",
     "time": "",
-    "pubDate": "2026-06-02T18:39:26+00:00",
-    "category": "drone",
+    "pubDate": "2026-06-02T21:44:26+00:00",
+    "category": "missile",
     "severity": "high",
     "location": "Ukraine",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63707",
+    "link": "https://t.me/kpszsu/63717",
     "score": 5.0,
-    "views": 34425,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea area heading for Odesa.",
+    "description_en": "UAV from the Black Sea area heading for Odesa.",
+    "description_uk": "БпЛА з акваторії Чорного моря курсом на Одещину.",
+    "time": "",
+    "pubDate": "2026-06-02T21:20:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63716",
+    "score": 5.0,
+    "views": 18312,
     "forwards": 1
+  },
+  {
+    "title": "Zaporizhzhia: Attack attack",
+    "title_en": "Zaporizhzhia: Attack attack",
+    "title_uk": "Запоріжжя: Напад",
+    "description": "Today, hundreds of people – in Kyiv, in Dnipro, and in other cities – worked in the aftermath of Russia’s massive strike: putting out fires, helping the wounded, pulling people from under the rubble. First responders of the State Emergency Service of Ukraine, police officers, municipal workers, and emergency teams – I am grateful to everyone who is helping to save lives after Russian attacks. It...",
+    "description_en": "Today, hundreds of people – in Kyiv, in Dnipro, and in other cities – worked in the aftermath of Russia’s massive strike: putting out fires, helping the wounded, pulling people from under the rubble. First responders of the State Emergency Service of Ukraine, police officers, municipal workers, and emergency teams – I am grateful to everyone who is helping to save lives after Russian attacks. It...",
+    "description_uk": "Today, hundreds of people – in Kyiv, in Dnipro, and in other cities – worked in the aftermath of Russia’s massive strike: putting out fires, helping the wounded, pulling people from under the rubble. First responders of the State Emergency Service of Ukraine, police officers, municipal workers, and emergency teams – I am grateful to everyone who is helping to save lives after Russian attacks. It...",
+    "time": "",
+    "pubDate": "2026-06-02T19:11:42+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Zaporizhzhia",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/19321",
+    "score": 18.0,
+    "views": 25993,
+    "forwards": 25
   },
   {
     "title": "Kyiv: Air raid alert",
@@ -32,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53464",
     "score": 11.0,
-    "views": 460,
-    "forwards": 3
+    "views": 1639,
+    "forwards": 5
   },
   {
     "title": "Kyiv: Attack attack",
@@ -50,7 +86,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48271",
     "score": 9.0,
-    "views": 16,
+    "views": 31,
     "forwards": 0
   },
   {
@@ -68,7 +104,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48272",
     "score": 8.0,
-    "views": 16,
+    "views": 31,
     "forwards": 0
   },
   {
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53461",
     "score": 4.0,
-    "views": 1250,
+    "views": 1946,
     "forwards": 3
   },
   {
@@ -270,24 +306,6 @@
     "forwards": 0
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons!",
-    "description_en": "☄️ The threat of using ballistic weapons!",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння!",
-    "time": "",
-    "pubDate": "2026-06-02T10:09:33+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63685",
-    "score": 6.5,
-    "views": 88182,
-    "forwards": 210
-  },
-  {
     "title": "Dnipro: Attack attack",
     "title_en": "Dnipro: Attack attack",
     "title_uk": "Дніпро: Атака",
@@ -392,8 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19308",
     "score": 23.0,
-    "views": 343535,
-    "forwards": 759
+    "views": 359769,
+    "forwards": 775
   },
   {
     "title": "Zaporizhzhia: 40 missiles intercepted",
@@ -430,23 +448,5 @@
     "score": 13.0,
     "views": 10,
     "forwards": 0
-  },
-  {
-    "title": "73 missiles + 656 drones intercepted",
-    "title_en": "73 missiles + 656 drones intercepted",
-    "title_uk": "Перехоплено 73 ракети + 656 безпілотників",
-    "description": "The Air Force reports that 73 missiles and 656 drones of various types attacked Ukraine last night, of which 40 missiles and 602 UAVs were shot down ❗️ The main direction of the attack is Kyiv. Dnipro, Kharkiv, Zaporozhye, Poltava and other regions were also attacked. A total of 729 means of air attack were recorded by the Air Force's radio engineering forces: - 8 anti-ship missiles 3M22 \"Zircon\" (areas...",
-    "description_en": "The Air Force reports that 73 missiles and 656 drones of various types attacked Ukraine last night, of which 40 missiles and 602 UAVs were shot down ❗️ The main direction of the attack is Kyiv. Dnipro, Kharkiv, Zaporozhye, Poltava and other regions were also attacked. A total of 729 means of air attack were recorded by the Air Force's radio engineering forces: - 8 anti-ship missiles 3M22 \"Zircon\" (areas...",
-    "description_uk": "Воздушные силы сообщают, что сегодня ночью Украину атаковали 73 ракеты и 656 дронов различного типа, из которых было сбито 40 ракет и 602 БПЛА ❗️ Основное направление удара – Киев. Также атакованы Днепр, Харьков, Запорожье, Полтавщину и другие регионы. Всего радиотехническими войсками Воздушных Сил зафиксировано 729 средств воздушного нападения: - 8 противокорабельных ракет 3М22 \"Циркон\" (районы...",
-    "time": "",
-    "pubDate": "2026-06-02T05:39:06+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kharkiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/192854",
-    "score": 8.5,
-    "views": 59171,
-    "forwards": 136
   }
 ]
