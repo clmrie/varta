@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kursk: Drone incoming",
+    "title_en": "Kursk: Drone incoming",
+    "title_uk": "Курськ: Дрон входить",
+    "description": "Sumyshchyna: new UAV groups from the Kursk region. They cross the border ➡️ in the direction of Terniv.",
+    "description_en": "Sumyshchyna: new UAV groups from the Kursk region. They cross the border ➡️ in the direction of Terniv.",
+    "description_uk": "Сумщина: нові групи БпЛА з Курської області. Перетинають кордон ➡️ у напрямку Тернів.",
+    "time": "",
+    "pubDate": "2026-06-02T23:44:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kursk",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63727",
+    "score": 6.0,
+    "views": 23534,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: BpLA passes by Voznesensk ➡️ course to Mykolaiv.",
+    "title_en": "Mykolaiv: BpLA passes by Voznesensk ➡️ course to Mykolaiv.",
+    "title_uk": "Миколаїв: BpLA проходить по Вознесенську ➡️ курсом до Миколаєва.",
+    "description": "BpLA passes by Voznesensk ➡️ course to Mykolaiv.",
+    "description_en": "BpLA passes by Voznesensk ➡️ course to Mykolaiv.",
+    "description_uk": "БпЛА повз Вознесенське ➡️ курсом на Миколаїв.",
+    "time": "",
+    "pubDate": "2026-06-02T23:38:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63726",
+    "score": 6.0,
+    "views": 24461,
+    "forwards": 0
+  },
+  {
     "title": "Mykolaiv: Mykolayiv region: a group of BpLA ➡️ in the direction of Snigurivka.",
     "title_en": "Mykolaiv: Mykolayiv region: a group of BpLA ➡️ in the direction of Snigurivka.",
     "title_uk": "Миколаїв: Миколаївська область: група БПЛА ➡️ в напрямку Снігурівки.",
@@ -86,8 +122,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19321",
     "score": 18.0,
-    "views": 28492,
-    "forwards": 29
+    "views": 30439,
+    "forwards": 30
   },
   {
     "title": "Kyiv: Air raid alert",
@@ -104,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53464",
     "score": 11.0,
-    "views": 1903,
-    "forwards": 6
+    "views": 2149,
+    "forwards": 7
   },
   {
     "title": "Kyiv: Attack attack",
@@ -122,7 +158,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48271",
     "score": 9.0,
-    "views": 36,
+    "views": 40,
     "forwards": 0
   },
   {
@@ -140,7 +176,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48272",
     "score": 8.0,
-    "views": 35,
+    "views": 39,
     "forwards": 0
   },
   {
@@ -176,8 +212,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53461",
     "score": 4.0,
-    "views": 2127,
-    "forwards": 3
+    "views": 2315,
+    "forwards": 7
   },
   {
     "title": "Dnipro: Dnipro - stay in shelters!",
@@ -250,42 +286,6 @@
     "score": 3.5,
     "views": 137806,
     "forwards": 182
-  },
-  {
-    "title": "Kharkiv: Evacuation ordered",
-    "title_en": "Kharkiv: Evacuation ordered",
-    "title_uk": "Харків: Наказано евакуацію",
-    "description": "Kharkiv Oblast expands mandatory evacuation zone, over 7,000 people to be relocated The Kharkiv Oblast Defence Council has expanded the mandatory evacuation zone to seven settlements in the Bohodukhiv district. More than 7,000 people are to be evacuated. Read the full article on our website",
-    "description_en": "Kharkiv Oblast expands mandatory evacuation zone, over 7,000 people to be relocated The Kharkiv Oblast Defence Council has expanded the mandatory evacuation zone to seven settlements in the Bohodukhiv district. More than 7,000 people are to be evacuated. Read the full article on our website",
-    "description_uk": "Kharkiv Oblast expands mandatory evacuation zone, over 7,000 people to be relocated The Kharkiv Oblast Defence Council has expanded the mandatory evacuation zone to seven settlements in the Bohodukhiv district. More than 7,000 people are to be evacuated. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-02T12:57:56+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48258",
-    "score": 6.0,
-    "views": 24,
-    "forwards": 0
-  },
-  {
-    "title": "Chernihiv: BpLA ➡️ heading for Chernihiv, Slavutych.",
-    "title_en": "Chernihiv: BpLA ➡️ heading for Chernihiv, Slavutych.",
-    "title_uk": "Чернігів: BpLA ➡️ курс Чернігів, Славутич.",
-    "description": "BpLA ➡️ heading for Chernihiv, Slavutych.",
-    "description_en": "BpLA ➡️ heading for Chernihiv, Slavutych.",
-    "description_uk": "БпЛА ➡️ курсом на Чернігів, Славутич.",
-    "time": "",
-    "pubDate": "2026-06-02T12:47:03+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63691",
-    "score": 6.0,
-    "views": 78136,
-    "forwards": 20
   },
   {
     "title": "In the middle of the day, a Russian woman was kicked by Shahed on a...",
@@ -410,8 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19308",
     "score": 23.0,
-    "views": 363030,
-    "forwards": 782
+    "views": 365635,
+    "forwards": 783
   },
   {
     "title": "Zaporizhzhia: 40 missiles intercepted",
