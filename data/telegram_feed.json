@@ -1,5 +1,59 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ Ballistics Threat (North)",
+    "description_en": "☄️ Ballistics Threat (North)",
+    "description_uk": "☄️ Загроза балістики (північ)",
+    "time": "",
+    "pubDate": "2026-06-03T20:25:42+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63808",
+    "score": 5.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: BpLA on the Dnipro (n.p. Prydniprianske)",
+    "title_en": "Dnipro: BpLA on the Dnipro (n.p. Prydniprianske)",
+    "title_uk": "Дніпро: БпЛА на Дніпрі (н.п. Придніпрянське)",
+    "description": "BpLA on the Dnipro (n.p. Prydniprianske)",
+    "description_en": "BpLA on the Dnipro (n.p. Prydniprianske)",
+    "description_uk": "БпЛА на Дніпро (н.п. Придніпрянське)",
+    "time": "",
+    "pubDate": "2026-06-03T20:14:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/63807",
+    "score": 6.0,
+    "views": 18216,
+    "forwards": 0
+  },
+  {
+    "title": "EU ambassadors urgently discuss opening first cluster for Ukraine on...",
+    "title_en": "EU ambassadors urgently discuss opening first cluster for Ukraine on...",
+    "title_uk": "Посли ЄС екстрено обговорюють відкриття першого кластера для України на...",
+    "description": "EU ambassadors urgently discuss opening first cluster for Ukraine on evening of 3 June The issue of starting preparations for the official opening of the first EU negotiating cluster (Fundamentals) for Ukraine and Moldova has been urgently added to the agenda of a meeting of the Committee of Permanent Representatives (Coreper) on the evening of 3 June. Read the full article on our website",
+    "description_en": "EU ambassadors urgently discuss opening first cluster for Ukraine on evening of 3 June The issue of starting preparations for the official opening of the first EU negotiating cluster (Fundamentals) for Ukraine and Moldova has been urgently added to the agenda of a meeting of the Committee of Permanent Representatives (Coreper) on the evening of 3 June. Read the full article on our website",
+    "description_uk": "EU ambassadors urgently discuss opening first cluster for Ukraine on evening of 3 June The issue of starting preparations for the official opening of the first EU negotiating cluster (Fundamentals) for Ukraine and Moldova has been urgently added to the agenda of a meeting of the Committee of Permanent Representatives (Coreper) on the evening of 3 June. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-06-03T18:29:46+00:00",
+    "category": "political",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48326",
+    "score": 5.0,
+    "views": 21,
+    "forwards": 0
+  },
+  {
     "title": "3 missiles",
     "title_en": "3 missiles",
     "title_uk": "3 ракети",
@@ -13,9 +67,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19333",
-    "score": 3.0,
-    "views": 10649,
-    "forwards": 13
+    "score": 3.5,
+    "views": 36972,
+    "forwards": 65
   },
   {
     "title": "Kramatorsk: Casualties reported",
@@ -86,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53481",
     "score": 9.0,
-    "views": 512,
-    "forwards": 2
+    "views": 1662,
+    "forwards": 5
   },
   {
     "title": "Kyiv: Thousands of bogus Ukrainian companies involved in massive capital...",
@@ -104,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53480",
     "score": 4.0,
-    "views": 554,
-    "forwards": 0
+    "views": 1586,
+    "forwards": 4
   },
   {
     "title": "Zelenskyy says Ukraine reaches deal on rapid delivery of Patriot...",
@@ -139,9 +193,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19331",
-    "score": 4.0,
-    "views": 22677,
-    "forwards": 33
+    "score": 4.5,
+    "views": 38263,
+    "forwards": 60
   },
   {
     "title": "Attack attack",
@@ -157,9 +211,9 @@
     "location": "Dnipro",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/192975",
-    "score": 4.5,
-    "views": 75417,
-    "forwards": 181
+    "score": 5.5,
+    "views": 145302,
+    "forwards": 251
   },
   {
     "title": "In Europe, one of the longest railway routes from the border with...",
@@ -248,8 +302,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39469",
     "score": 4.5,
-    "views": 8990,
-    "forwards": 94
+    "views": 9689,
+    "forwards": 99
   },
   {
     "title": "Project 20380 corvette hit in Kronstadt ⚡️On the night of June 3,...",
@@ -324,24 +378,6 @@
     "forwards": 746
   },
   {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному т напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-06-03T07:00:24+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63752",
-    "score": 5.0,
-    "views": 8086,
-    "forwards": 1
-  },
-  {
     "title": "Drone strike",
     "title_en": "Drone strike",
     "title_uk": "Безпілотний удар",
@@ -358,24 +394,6 @@
     "score": 7.5,
     "views": 18129,
     "forwards": 178
-  },
-  {
-    "title": "Kyiv: BpLA through Slavutych ➡️ to the north of Kyiv region.",
-    "title_en": "Kyiv: BpLA through Slavutych ➡️ to the north of Kyiv region.",
-    "title_uk": "Київ: BpLA через Славутич ➡️ на північ Київської області.",
-    "description": "BpLA through Slavutych ➡️ to the north of Kyiv region.",
-    "description_en": "BpLA through Slavutych ➡️ to the north of Kyiv region.",
-    "description_uk": "БпЛА через Славутич ➡️ на північ Київщини.",
-    "time": "",
-    "pubDate": "2026-06-03T05:59:24+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63749",
-    "score": 6.0,
-    "views": 53647,
-    "forwards": 1
   },
   {
     "title": "Kherson: Drone strike near civilians",
@@ -396,24 +414,6 @@
     "forwards": 0
   },
   {
-    "title": "198 drones launched",
-    "title_en": "198 drones launched",
-    "title_uk": "Запущено 198 дронів",
-    "description": "Russia attacks Ukraine with 198 drones, 189 downed by air defences Russia launched 198 drones on Ukraine overnight. Ukrainian air defences downed 189 of them, although several strikes were recorded and the attack is still ongoing in the morning. Read the full article on our website",
-    "description_en": "Russia attacks Ukraine with 198 drones, 189 downed by air defences Russia launched 198 drones on Ukraine overnight. Ukrainian air defences downed 189 of them, although several strikes were recorded and the attack is still ongoing in the morning. Read the full article on our website",
-    "description_uk": "Russia attacks Ukraine with 198 drones, 189 downed by air defences Russia launched 198 drones on Ukraine overnight. Ukrainian air defences downed 189 of them, although several strikes were recorded and the attack is still ongoing in the morning. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-03T05:54:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48278",
-    "score": 8.0,
-    "views": 18,
-    "forwards": 0
-  },
-  {
     "title": "Kursk: Drone incoming",
     "title_en": "Kursk: Drone incoming",
     "title_uk": "Курськ: Дрон входить",
@@ -428,25 +428,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39465",
     "score": 10.0,
-    "views": 10999,
+    "views": 11351,
     "forwards": 17
-  },
-  {
-    "title": "Zaporizhzhia: Attack attack",
-    "title_en": "Zaporizhzhia: Attack attack",
-    "title_uk": "Запоріжжя: Напад",
-    "description": "Today, hundreds of people – in Kyiv, in Dnipro, and in other cities – worked in the aftermath of Russia’s massive strike: putting out fires, helping the wounded, pulling people from under the rubble. First responders of the State Emergency Service of Ukraine, police officers, municipal workers, and emergency teams – I am grateful to everyone who is helping to save lives after Russian attacks. It...",
-    "description_en": "Today, hundreds of people – in Kyiv, in Dnipro, and in other cities – worked in the aftermath of Russia’s massive strike: putting out fires, helping the wounded, pulling people from under the rubble. First responders of the State Emergency Service of Ukraine, police officers, municipal workers, and emergency teams – I am grateful to everyone who is helping to save lives after Russian attacks. It...",
-    "description_uk": "Today, hundreds of people – in Kyiv, in Dnipro, and in other cities – worked in the aftermath of Russia’s massive strike: putting out fires, helping the wounded, pulling people from under the rubble. First responders of the State Emergency Service of Ukraine, police officers, municipal workers, and emergency teams – I am grateful to everyone who is helping to save lives after Russian attacks. It...",
-    "time": "",
-    "pubDate": "2026-06-02T19:11:42+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Zaporizhzhia",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19321",
-    "score": 18.0,
-    "views": 59779,
-    "forwards": 42
   }
 ]
