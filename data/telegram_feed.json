@@ -1,21 +1,75 @@
 [
   {
+    "title": "Kyiv: Update: Kyiv receives response from Trump to Zelensky's plea for air...",
+    "title_en": "Kyiv: Update: Kyiv receives response from Trump to Zelensky's plea for air...",
+    "title_uk": "Київ: Оновлення: Київ отримав відповідь від Трампа на прохання Зеленського про ефір...",
+    "description": "Update: Kyiv receives response from Trump to Zelensky's plea for air defenses. \"It's a technical matter, so we won't go into the details,\" Dmytro Lytvyn, adviser to President Zelensky, told reporters on June 4. Previously, Zelensky sent Trump on urgent letter on May 26 warning of Ukraine's critical air defense shortage.",
+    "description_en": "Update: Kyiv receives response from Trump to Zelensky's plea for air defenses. \"It's a technical matter, so we won't go into the details,\" Dmytro Lytvyn, adviser to President Zelensky, told reporters on June 4. Previously, Zelensky sent Trump on urgent letter on May 26 warning of Ukraine's critical air defense shortage.",
+    "description_uk": "Update: Kyiv receives response from Trump to Zelensky's plea for air defenses. \"It's a technical matter, so we won't go into the details,\" Dmytro Lytvyn, adviser to President Zelensky, told reporters on June 4. Previously, Zelensky sent Trump on urgent letter on May 26 warning of Ukraine's critical air defense shortage.",
+    "time": "",
+    "pubDate": "2026-06-04T22:46:09+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53509",
+    "score": 6.0,
+    "views": 229,
+    "forwards": 2
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "A group of UAVs in the Kharkiv region at/past Krasnopavlivka in the western direction; 🛵 Zhytomyr region: BpLA over Korosten and Malyn; 🛵 BpLA in the direction of Sumy from the north.",
+    "description_en": "A group of UAVs in the Kharkiv region at/past Krasnopavlivka in the western direction; 🛵 Zhytomyr region: BpLA over Korosten and Malyn; 🛵 BpLA in the direction of Sumy from the north.",
+    "description_uk": "Група БпЛА на Харківщині на/повз Краснопавлівку у західному напрямку; 🛵 Житомирщина: БпЛА над Коростенем і Малином; 🛵 БпЛА в напрямку Сум з півночі.",
+    "time": "",
+    "pubDate": "2026-06-04T22:36:33+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64058",
+    "score": 6.0,
+    "views": 9957,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
-    "description": "UAV in the north of Zhytomyr Oblast on a course to/past Ovruch from the east.",
-    "description_en": "UAV in the north of Zhytomyr Oblast on a course to/past Ovruch from the east.",
-    "description_uk": "БпЛА на півночі Житомирщини курсом на/повз Овруч зі сходу.",
+    "description": "🛸 Enemy reconnaissance UAV in the direction of Komyshuvakha from the north (Zaporizhia region)",
+    "description_en": "🛸 Enemy reconnaissance UAV in the direction of Komyshuvakha from the north (Zaporizhia region)",
+    "description_uk": "🛸 Ворожий розвідувальний БпЛА в напрямку Комишувахи з півночі (Запорізька обл.)",
     "time": "",
-    "pubDate": "2026-06-04T21:53:23+00:00",
+    "pubDate": "2026-06-04T22:34:27+00:00",
     "category": "drone",
     "severity": "high",
-    "location": "Zhytomyr",
+    "location": "Ukraine",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64051",
+    "link": "https://t.me/kpszsu/64057",
     "score": 5.0,
-    "views": 4055,
+    "views": 11604,
     "forwards": 0
+  },
+  {
+    "title": "Donetsk: Drone strike",
+    "title_en": "Donetsk: Drone strike",
+    "title_uk": "Донецьк: Дрон-удар",
+    "description": "'First such operation in modern history' — Ukraine destroys Russia's drone base at occupied Donetsk Airport. \"A decision was made to carry out systematic preemptive strikes that will disrupt enemy launches and reduce the number of enemy drones that will once again fly to attack kindergartens, high-rise buildings, and hospitals.\"",
+    "description_en": "'First such operation in modern history' — Ukraine destroys Russia's drone base at occupied Donetsk Airport. \"A decision was made to carry out systematic preemptive strikes that will disrupt enemy launches and reduce the number of enemy drones that will once again fly to attack kindergartens, high-rise buildings, and hospitals.\"",
+    "description_uk": "'First such operation in modern history' — Ukraine destroys Russia's drone base at occupied Donetsk Airport. \"A decision was made to carry out systematic preemptive strikes that will disrupt enemy launches and reduce the number of enemy drones that will once again fly to attack kindergartens, high-rise buildings, and hospitals.\"",
+    "time": "",
+    "pubDate": "2026-06-04T22:21:34+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53508",
+    "score": 15.0,
+    "views": 412,
+    "forwards": 1
   },
   {
     "title": "Drone attack",
@@ -54,24 +108,6 @@
     "forwards": 0
   },
   {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "New UAVs in the Kharkiv region on/past Izyum from the east.",
-    "description_en": "New UAVs in the Kharkiv region on/past Izyum from the east.",
-    "description_uk": "Нові БпЛА на Харківщині на/повз Ізюм зі сходу.",
-    "time": "",
-    "pubDate": "2026-06-04T20:09:58+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64026",
-    "score": 6.0,
-    "views": 18219,
-    "forwards": 0
-  },
-  {
     "title": "Zaporizhzhia: Drone attack on residential area",
     "title_en": "Zaporizhzhia: Drone attack on residential area",
     "title_uk": "Запоріжжя: атака безпілотників на житловий масив",
@@ -104,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19368",
     "score": 6.5,
-    "views": 46686,
-    "forwards": 260
+    "views": 50193,
+    "forwards": 287
   },
   {
     "title": "The world is not tired of Ukraine, which you have been counting on...",
@@ -122,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19361",
     "score": 6.5,
-    "views": 31741,
-    "forwards": 238
+    "views": 33933,
+    "forwards": 253
   },
   {
     "title": "Kyiv: 'Enough of the war' — Zelensky throws down gauntlet to Putin in open...",
@@ -302,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9244",
     "score": 8.5,
-    "views": 762,
+    "views": 773,
     "forwards": 7
   },
   {
@@ -338,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39519",
     "score": 6.5,
-    "views": 4937,
+    "views": 4984,
     "forwards": 53
   },
   {
@@ -412,41 +448,5 @@
     "score": 6.0,
     "views": 1,
     "forwards": 0
-  },
-  {
-    "title": "Sumyshchyna: BpLA in the area of ​​n.p. Znob-Novgorodsk.",
-    "title_en": "Sumyshchyna: BpLA in the area of ​​n.p. Znob-Novgorodsk.",
-    "title_uk": "Сумщина: БпЛА в районі н.п. Зноб-Новгородськ.",
-    "description": "Sumyshchyna: BpLA in the area of ​​n.p. Znob-Novgorodsk.",
-    "description_en": "Sumyshchyna: BpLA in the area of ​​n.p. Znob-Novgorodsk.",
-    "description_uk": "Сумщина: БпЛА в районі н.п. Зноб-Новгородське.",
-    "time": "",
-    "pubDate": "2026-06-04T12:07:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/63935",
-    "score": 5.0,
-    "views": 10096,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: Attack attack on energy grid",
-    "title_en": "Zaporizhzhia: Attack attack on energy grid",
-    "title_uk": "Запоріжжя: Атака на енергомережі",
-    "description": "'Heavy attack' hits Zaporizhzhia Thermal Power Plant, IAEA says. The IAEA said the incident is a matter of \"serious concern\" because the facility relies on a single remaining power line supplying electricity to the Zaporizhzhia Nuclear Power Plant.",
-    "description_en": "'Heavy attack' hits Zaporizhzhia Thermal Power Plant, IAEA says. The IAEA said the incident is a matter of \"serious concern\" because the facility relies on a single remaining power line supplying electricity to the Zaporizhzhia Nuclear Power Plant.",
-    "description_uk": "'Heavy attack' hits Zaporizhzhia Thermal Power Plant, IAEA says. The IAEA said the incident is a matter of \"serious concern\" because the facility relies on a single remaining power line supplying electricity to the Zaporizhzhia Nuclear Power Plant.",
-    "time": "",
-    "pubDate": "2026-06-04T11:32:59+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53494",
-    "score": 8.5,
-    "views": 589,
-    "forwards": 1
   }
 ]
