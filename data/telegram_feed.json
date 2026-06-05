@@ -1,5 +1,77 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea ➡️ heading for Tatarbunary",
+    "description_en": "UAV from the Black Sea ➡️ heading for Tatarbunary",
+    "description_uk": "БпЛА із акваторії Чорного моря ➡️ курсом на Татарбунари",
+    "time": "",
+    "pubDate": "2026-06-05T22:10:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64182",
+    "score": 5.0,
+    "views": 3032,
+    "forwards": 0
+  },
+  {
+    "title": "BpLA from the north of Poltava region ➡️course to Kremenchuk",
+    "title_en": "BpLA from the north of Poltava region ➡️course to Kremenchuk",
+    "title_uk": "BpLA з півночі Полтавської області ➡️курс на Кременчук",
+    "description": "BpLA from the north of Poltava region ➡️course to Kremenchuk",
+    "description_en": "BpLA from the north of Poltava region ➡️course to Kremenchuk",
+    "description_uk": "БпЛА із півночі Полтавщини ➡️курсом на Кременчук",
+    "time": "",
+    "pubDate": "2026-06-05T22:07:36+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64181",
+    "score": 5.0,
+    "views": 5070,
+    "forwards": 34
+  },
+  {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "UN Security Council to hold emergency meeting in response to Russia's ballistic missile terror. \"The latest wave of Russian strikes is yet another reminder that Moscow continues to choose escalation over peace, and terror over diplomacy,\" Foreign Minister Andrii Sybiha said.",
+    "description_en": "UN Security Council to hold emergency meeting in response to Russia's ballistic missile terror. \"The latest wave of Russian strikes is yet another reminder that Moscow continues to choose escalation over peace, and terror over diplomacy,\" Foreign Minister Andrii Sybiha said.",
+    "description_uk": "UN Security Council to hold emergency meeting in response to Russia's ballistic missile terror. \"The latest wave of Russian strikes is yet another reminder that Moscow continues to choose escalation over peace, and terror over diplomacy,\" Foreign Minister Andrii Sybiha said.",
+    "time": "",
+    "pubDate": "2026-06-05T21:56:43+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53529",
+    "score": 6.0,
+    "views": 232,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: Attack attack",
+    "title_en": "Chernihiv: Attack attack",
+    "title_uk": "Чернігів: Атака атака",
+    "description": "Russians strike business and car park in Chernihiv: 6 people injured, 37 vehicles damaged Russian forces struck a business and a car park in the city of Chernihiv on 5 June, injuring six people and damaging dozens of vehicles. Read the full article on our website",
+    "description_en": "Russians strike business and car park in Chernihiv: 6 people injured, 37 vehicles damaged Russian forces struck a business and a car park in the city of Chernihiv on 5 June, injuring six people and damaging dozens of vehicles. Read the full article on our website",
+    "description_uk": "Russians strike business and car park in Chernihiv: 6 people injured, 37 vehicles damaged Russian forces struck a business and a car park in the city of Chernihiv on 5 June, injuring six people and damaging dozens of vehicles. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-06-05T21:14:19+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Chernihiv",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48421",
+    "score": 10.0,
+    "views": 15,
+    "forwards": 0
+  },
+  {
     "title": "BpLA from the east of Sumy region ➡️ course to Konotop",
     "title_en": "BpLA from the east of Sumy region ➡️ course to Konotop",
     "title_uk": "BpLA зі сходу Сумської області ➡️ курс на Конотоп",
@@ -50,13 +122,13 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193128",
     "score": 4.5,
-    "views": 44595,
-    "forwards": 294
+    "views": 72210,
+    "forwards": 419
   },
   {
     "title": "Pokrovsk: Drone strike",
     "title_en": "Pokrovsk: Drone strike",
-    "title_uk": "Покровськ: Удар безпілотників",
+    "title_uk": "Покровськ: БПЛА",
     "description": "Ukrainian forces strike Russian Molniya drone launch site in Pokrovsk – video Ukraine's defence forces have carried out a precision airstrike on central Pokrovsk in Donetsk Oblast, hitting a Russian base used to launch Molniya loitering munitions and conduct aerial reconnaissance. Read the full article on our website",
     "description_en": "Ukrainian forces strike Russian Molniya drone launch site in Pokrovsk – video Ukraine's defence forces have carried out a precision airstrike on central Pokrovsk in Donetsk Oblast, hitting a Russian base used to launch Molniya loitering munitions and conduct aerial reconnaissance. Read the full article on our website",
     "description_uk": "Ukrainian forces strike Russian Molniya drone launch site in Pokrovsk – video Ukraine's defence forces have carried out a precision airstrike on central Pokrovsk in Donetsk Oblast, hitting a Russian base used to launch Molniya loitering munitions and conduct aerial reconnaissance. Read the full article on our website",
@@ -68,7 +140,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48420",
     "score": 10.0,
-    "views": 15,
+    "views": 27,
     "forwards": 0
   },
   {
@@ -86,8 +158,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9261",
     "score": 5.0,
-    "views": 400,
-    "forwards": 3
+    "views": 475,
+    "forwards": 4
   },
   {
     "title": "✈️ Ukrainian drone operators began to receive satellite images...",
@@ -104,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193125",
     "score": 4.5,
-    "views": 100394,
-    "forwards": 288
+    "views": 115678,
+    "forwards": 341
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -162,24 +234,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A group of UAVs from the east of Sumy Oblast on a westerly course.",
-    "description_en": "A group of UAVs from the east of Sumy Oblast on a westerly course.",
-    "description_uk": "Група БпЛА зі сходу Сумщини західним курсом.",
-    "time": "",
-    "pubDate": "2026-06-05T16:29:28+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64148",
-    "score": 5.0,
-    "views": 75037,
-    "forwards": 0
-  },
-  {
     "title": "Chernihiv: BpLA from the east of Chernihiv Oblast heading for Mena.",
     "title_en": "Chernihiv: BpLA from the east of Chernihiv Oblast heading for Mena.",
     "title_uk": "Чернігів: БпЛА зі сходу Чернігівської області в напрямку Мени.",
@@ -212,8 +266,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23552",
     "score": 6.5,
-    "views": 84416,
-    "forwards": 56
+    "views": 88622,
+    "forwards": 58
   },
   {
     "title": "Explosions reported",
@@ -320,7 +374,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53523",
     "score": 6.0,
-    "views": 2036,
+    "views": 2176,
     "forwards": 4
   },
   {
@@ -356,8 +410,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39581",
     "score": 10.5,
-    "views": 18965,
-    "forwards": 92
+    "views": 20009,
+    "forwards": 93
   },
   {
     "title": "Kyiv: Why Putin’s latest Oreshnik comments are... questionable. “We simply...",
@@ -392,61 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39571",
     "score": 6.0,
-    "views": 7395,
+    "views": 7568,
     "forwards": 25
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "UAV from the north of Kharkiv region ➡️ in the direction of Chornoglazivka.",
-    "description_en": "UAV from the north of Kharkiv region ➡️ in the direction of Chornoglazivka.",
-    "description_uk": "БпЛА із півночі Харківщини ➡️ у напрямку Чорноглазівки.",
-    "time": "",
-    "pubDate": "2026-06-05T11:41:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64122",
-    "score": 6.0,
-    "views": 13141,
-    "forwards": 0
-  },
-  {
-    "title": "BpLA from the west of Sumy Oblast ➡️ course to/past Bakhmach. 🛵...",
-    "title_en": "BpLA from the west of Sumy Oblast ➡️ course to/past Bakhmach. 🛵...",
-    "title_uk": "BpLA із заходу Сумської області ➡️ курс на/повз Бахмач. 🛵...",
-    "description": "BpLA from the west of Sumy Oblast ➡️ course to/past Bakhmach. 🛵 Unmanned aerial vehicle in the north of Sumy Oblast near Glukhov.",
-    "description_en": "BpLA from the west of Sumy Oblast ➡️ course to/past Bakhmach. 🛵 Unmanned aerial vehicle in the north of Sumy Oblast near Glukhov.",
-    "description_uk": "БпЛА із заходу Сумщини ➡️ курсом на/повз Бахмач. 🛵 БпЛА на півночі Сумщини поблизу Глухова.",
-    "time": "",
-    "pubDate": "2026-06-05T11:10:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64121",
-    "score": 5.0,
-    "views": 38421,
-    "forwards": 0
-  },
-  {
-    "title": "Chernihiv: Attack attack",
-    "title_en": "Chernihiv: Attack attack",
-    "title_uk": "Чернігів: Атака",
-    "description": "Russians strike business and car park in Chernihiv: 6 people injured, 37 vehicles damaged Russian forces struck a business and a car park in the city of Chernihiv on 5 June, injuring six people and damaging dozens of vehicles. Read the full article on our website",
-    "description_en": "Russians strike business and car park in Chernihiv: 6 people injured, 37 vehicles damaged Russian forces struck a business and a car park in the city of Chernihiv on 5 June, injuring six people and damaging dozens of vehicles. Read the full article on our website",
-    "description_uk": "Russians strike business and car park in Chernihiv: 6 people injured, 37 vehicles damaged Russian forces struck a business and a car park in the city of Chernihiv on 5 June, injuring six people and damaging dozens of vehicles. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-05T10:58:39+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Chernihiv",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48394",
-    "score": 10.0,
-    "views": 13,
-    "forwards": 0
   }
 ]
