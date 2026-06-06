@@ -1,5 +1,59 @@
 [
   {
+    "title": "Zaporizhzhia: Power outage reported",
+    "title_en": "Zaporizhzhia: Power outage reported",
+    "title_uk": "Запоріжжя: Повідомляється про відключення електроенергії",
+    "description": "Power returns to Zaporizhzhia nuclear plant after prolonged outage, IAEA says. Power returned to the Zaporizhzhia Nuclear Power Plant after a 15-hour outage, the IAEA said, ending one of the longest disruptions at the facility during the war.",
+    "description_en": "Power returns to Zaporizhzhia nuclear plant after prolonged outage, IAEA says. Power returned to the Zaporizhzhia Nuclear Power Plant after a 15-hour outage, the IAEA said, ending one of the longest disruptions at the facility during the war.",
+    "description_uk": "Power returns to Zaporizhzhia nuclear plant after prolonged outage, IAEA says. Power returned to the Zaporizhzhia Nuclear Power Plant after a 15-hour outage, the IAEA said, ending one of the longest disruptions at the facility during the war.",
+    "time": "",
+    "pubDate": "2026-06-06T19:49:02+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53543",
+    "score": 4.5,
+    "views": 243,
+    "forwards": 0
+  },
+  {
+    "title": "Unmanned aerial vehicle from the Black Sea aqueduct in the direction...",
+    "title_en": "Unmanned aerial vehicle from the Black Sea aqueduct in the direction...",
+    "title_uk": "Безпілотний літальний апарат від Чорноморського акведуку в напрямку...",
+    "description": "Unmanned aerial vehicle from the Black Sea aqueduct in the direction of Odesa (Chornomorsk/Ovidiopol)",
+    "description_en": "Unmanned aerial vehicle from the Black Sea aqueduct in the direction of Odesa (Chornomorsk/Ovidiopol)",
+    "description_uk": "БпЛА з акаваторії Чорного моря в напрямку Одещини (Чорноморськ/Овідіополь)",
+    "time": "",
+    "pubDate": "2026-06-06T19:46:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64264",
+    "score": 5.0,
+    "views": 18221,
+    "forwards": 1
+  },
+  {
+    "title": "Zaporizhzhia: BpLA heading for Zaporozhye from the north-eastern direction.",
+    "title_en": "Zaporizhzhia: BpLA heading for Zaporozhye from the north-eastern direction.",
+    "title_uk": "Запоріжжя: BpLA прямує на Запоріжжя з північно-східного напрямку.",
+    "description": "BpLA heading for Zaporozhye from the north-eastern direction.",
+    "description_en": "BpLA heading for Zaporozhye from the north-eastern direction.",
+    "description_uk": "БпЛА курсом на м.Запоріжжя з північно-східного напрямку.",
+    "time": "",
+    "pubDate": "2026-06-06T19:28:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64263",
+    "score": 6.0,
+    "views": 33376,
+    "forwards": 0
+  },
+  {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
     "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
     "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на південному сході...",
@@ -36,24 +90,6 @@
     "forwards": 0
   },
   {
-    "title": "Zaporizhzhia: Power outage reported",
-    "title_en": "Zaporizhzhia: Power outage reported",
-    "title_uk": "Запоріжжя: Повідомляється про відключення електроенергії",
-    "description": "External power supply restored at Zaporizhzhia Nuclear Power Plant after 15-hour blackout – IAEA External power supply has been restored at the ZNPP after a 15-hour outage, with the plant now operating stably. Read the full article on our website",
-    "description_en": "External power supply restored at Zaporizhzhia Nuclear Power Plant after 15-hour blackout – IAEA External power supply has been restored at the ZNPP after a 15-hour outage, with the plant now operating stably. Read the full article on our website",
-    "description_uk": "External power supply restored at Zaporizhzhia Nuclear Power Plant after 15-hour blackout – IAEA External power supply has been restored at the ZNPP after a 15-hour outage, with the plant now operating stably. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-06T17:44:00+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48452",
-    "score": 4.5,
-    "views": 10,
-    "forwards": 0
-  },
-  {
     "title": "Dnipro: Attack attack on infrastructure",
     "title_en": "Dnipro: Attack attack on infrastructure",
     "title_uk": "Дніпро: Атака на інфраструктуру",
@@ -68,7 +104,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48451",
     "score": 10.0,
-    "views": 16,
+    "views": 25,
     "forwards": 0
   },
   {
@@ -122,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193174",
     "score": 6.5,
-    "views": 102809,
-    "forwards": 355
+    "views": 126479,
+    "forwards": 394
   },
   {
     "title": "Such entertainment today in Odessa. Instead of bulls, now they catch...",
@@ -212,8 +248,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193167",
     "score": 4.5,
-    "views": 121211,
-    "forwards": 255
+    "views": 137364,
+    "forwards": 291
   },
   {
     "title": "Melitopol: Ukrainian forces take air control of part of land route to Crimea –...",
@@ -284,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53540",
     "score": 6.0,
-    "views": 1653,
+    "views": 1943,
     "forwards": 2
   },
   {
@@ -410,43 +446,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23553",
     "score": 7.5,
-    "views": 111671,
-    "forwards": 417
-  },
-  {
-    "title": "This year, we are launching the first full-format support program for...",
-    "title_en": "This year, we are launching the first full-format support program for...",
-    "title_uk": "Цього року ми запускаємо першу повноформатну програму підтримки...",
-    "description": "This year, we are launching the first full-format support program for Ukrainian culture \"Tysyachovesna\". Billions of hryvnias are guaranteed to go towards the creation of a cultural product every year. The program covers seven areas, from films, series and animation to music, performance and visual arts, as well as creating content for social networks. We already have 1151 applications. Review of applications...",
-    "description_en": "This year, we are launching the first full-format support program for Ukrainian culture \"Tysyachovesna\". Billions of hryvnias are guaranteed to go towards the creation of a cultural product every year. The program covers seven areas, from films, series and animation to music, performance and visual arts, as well as creating content for social networks. We already have 1151 applications. Review of applications...",
-    "description_uk": "У цьому році ми запускаємо першу повноформатну програму підтримки української культури «Тисячовесна». Мільярди гривень щороку гарантовано спрямовуватимуться на створення культурного продукту. Програма охоплює сім напрямів, від фільмів, серіалів та анімації до музики, перформативного й візуального мистецтва, а також створення контенту для соціальних мереж. Уже маємо 1151 заявку. Розгляд заявок...",
-    "time": "",
-    "pubDate": "2026-06-06T11:07:12+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19412",
-    "score": 10.0,
-    "views": 82065,
-    "forwards": 219
-  },
-  {
-    "title": "Kherson: ‘The land cannot wait’: Documentary examines toll of Kakhovka Dam...",
-    "title_en": "Kherson: ‘The land cannot wait’: Documentary examines toll of Kakhovka Dam...",
-    "title_uk": "Херсон: «Земля не може чекати»: документально досліджено втрати Каховської дамби...",
-    "description": "‘The land cannot wait’: Documentary examines toll of Kakhovka Dam destruction on Ukraine’s farmland A new documentary, Kakhovka. High Water. How the Destruction of the Hydroelectric Power Plant Changed Ukraine, examines the long-term consequences of the June 6, 2023 destruction of the Kakhovka Dam, which Ukrainian officials have called Europe’s worst environmental disaster since Chornobyl. The...",
-    "description_en": "‘The land cannot wait’: Documentary examines toll of Kakhovka Dam destruction on Ukraine’s farmland A new documentary, Kakhovka. High Water. How the Destruction of the Hydroelectric Power Plant Changed Ukraine, examines the long-term consequences of the June 6, 2023 destruction of the Kakhovka Dam, which Ukrainian officials have called Europe’s worst environmental disaster since Chornobyl. The...",
-    "description_uk": "‘The land cannot wait’: Documentary examines toll of Kakhovka Dam destruction on Ukraine’s farmland A new documentary, Kakhovka. High Water. How the Destruction of the Hydroelectric Power Plant Changed Ukraine, examines the long-term consequences of the June 6, 2023 destruction of the Kakhovka Dam, which Ukrainian officials have called Europe’s worst environmental disaster since Chornobyl. The...",
-    "time": "",
-    "pubDate": "2026-06-06T10:55:13+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kherson",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53538",
-    "score": 13.5,
-    "views": 1002,
-    "forwards": 6
+    "views": 118553,
+    "forwards": 430
   }
 ]
