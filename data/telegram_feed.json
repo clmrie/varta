@@ -1,5 +1,59 @@
 [
   {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "A jet UAV in the direction of Dnipro from the south.",
+    "description_en": "A jet UAV in the direction of Dnipro from the south.",
+    "description_uk": "Реактивний БпЛА в напрямку м.Дніпро з півдня.",
+    "time": "",
+    "pubDate": "2026-06-06T15:57:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64250",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Kherson: Attack attack on residential area",
+    "title_en": "Kherson: Attack attack on residential area",
+    "title_uk": "Херсон: обстріл житлового кварталу",
+    "description": "Seven people injured in Russian attacks on Kherson Oblast Seven civilians were injured in Russian attacks across Kherson Oblast on 6 June, while residential buildings and vehicles were damaged. Read the full article on our website",
+    "description_en": "Seven people injured in Russian attacks on Kherson Oblast Seven civilians were injured in Russian attacks across Kherson Oblast on 6 June, while residential buildings and vehicles were damaged. Read the full article on our website",
+    "description_uk": "Seven people injured in Russian attacks on Kherson Oblast Seven civilians were injured in Russian attacks across Kherson Oblast on 6 June, while residential buildings and vehicles were damaged. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-06-06T15:30:33+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kherson",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48448",
+    "score": 10.0,
+    "views": 5,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: Casualties reported",
+    "title_en": "Mykolaiv: Casualties reported",
+    "title_uk": "Миколаїв: повідомляється про постраждалих",
+    "description": "One killed and four injured in Russian drone attacks on Mykolaiv Oblast A man has been killed and four other people injured in Russian drone attacks on Mykolaiv Oblast on 6 June. Read the full article on our website",
+    "description_en": "One killed and four injured in Russian drone attacks on Mykolaiv Oblast A man has been killed and four other people injured in Russian drone attacks on Mykolaiv Oblast on 6 June. Read the full article on our website",
+    "description_uk": "One killed and four injured in Russian drone attacks on Mykolaiv Oblast A man has been killed and four other people injured in Russian drone attacks on Mykolaiv Oblast on 6 June. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-06-06T14:52:30+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Mykolaiv",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48447",
+    "score": 6.0,
+    "views": 13,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -14,8 +68,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/64246",
     "score": 5.0,
-    "views": 1,
-    "forwards": 0
+    "views": 50481,
+    "forwards": 22
   },
   {
     "title": "17 drones",
@@ -32,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193167",
     "score": 3.5,
-    "views": 21570,
-    "forwards": 73
+    "views": 70391,
+    "forwards": 183
   },
   {
     "title": "Melitopol: Ukrainian forces take air control of part of land route to Crimea –...",
@@ -68,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193166",
     "score": 5.5,
-    "views": 40091,
-    "forwards": 73
+    "views": 79144,
+    "forwards": 76
   },
   {
     "title": "Zaporizhzhia: Drone strike",
@@ -104,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53540",
     "score": 6.0,
-    "views": 608,
-    "forwards": 0
+    "views": 1079,
+    "forwards": 1
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
@@ -176,8 +230,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53539",
     "score": 15.0,
-    "views": 1258,
-    "forwards": 1
+    "views": 1563,
+    "forwards": 2
   },
   {
     "title": "Odesa: Casualties reported",
@@ -248,8 +302,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23553",
     "score": 7.5,
-    "views": 86770,
-    "forwards": 364
+    "views": 96374,
+    "forwards": 381
   },
   {
     "title": "This year, we are launching the first full-format support program for...",
@@ -266,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19412",
     "score": 9.0,
-    "views": 60021,
-    "forwards": 184
+    "views": 68190,
+    "forwards": 195
   },
   {
     "title": "Kherson: ‘The land cannot wait’: Documentary examines toll of Kakhovka Dam...",
@@ -338,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9264",
     "score": 12.5,
-    "views": 533,
+    "views": 557,
     "forwards": 4
   },
   {
@@ -392,61 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19410",
     "score": 4.5,
-    "views": 378335,
-    "forwards": 879
-  },
-  {
-    "title": "400 drones launched",
-    "title_en": "400 drones launched",
-    "title_uk": "Запущено 400 дронів",
-    "description": "Monitoring channels reported that more than 400 drones attacked Russian regions tonight 🔥 Well, he doesn't want a truce - get it!",
-    "description_en": "Monitoring channels reported that more than 400 drones attacked Russian regions tonight 🔥 Well, he doesn't want a truce - get it!",
-    "description_uk": "Мониторинговые каналы сообщили, что российские регионы сегодня ночью атаковали более 400 дронов 🔥 Ну что ж, не хочет пыня перемирия - получайте!",
-    "time": "",
-    "pubDate": "2026-06-06T08:09:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/193147",
-    "score": 3.5,
-    "views": 122808,
-    "forwards": 110
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на східному...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-06-06T07:22:49+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64220",
-    "score": 5.0,
-    "views": 36473,
-    "forwards": 1
-  },
-  {
-    "title": "272 drones launched",
-    "title_en": "272 drones launched",
-    "title_uk": "Запущено 272 дрони",
-    "description": "Russia attacks Ukraine with 272 drones overnight Ukraine’s air defence forces destroyed or jammed 249 out of 272 drones launched during an overnight Russian attack, with attack still ongoing. Read the full article on our website",
-    "description_en": "Russia attacks Ukraine with 272 drones overnight Ukraine’s air defence forces destroyed or jammed 249 out of 272 drones launched during an overnight Russian attack, with attack still ongoing. Read the full article on our website",
-    "description_uk": "Russia attacks Ukraine with 272 drones overnight Ukraine’s air defence forces destroyed or jammed 249 out of 272 drones launched during an overnight Russian attack, with attack still ongoing. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-06T06:53:07+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48429",
-    "score": 12.0,
-    "views": 8,
-    "forwards": 0
+    "views": 399695,
+    "forwards": 900
   }
 ]
