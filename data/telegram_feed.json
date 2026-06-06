@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAV in Zhytomyr Oblast heading for Korosten",
+    "description_en": "Jet UAV in Zhytomyr Oblast heading for Korosten",
+    "description_uk": "Реактивний БпЛА на Житомирщині курсом на Коростень",
+    "time": "",
+    "pubDate": "2026-06-06T22:45:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zhytomyr",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64273",
+    "score": 5.0,
+    "views": 15411,
+    "forwards": 44
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -14,26 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/64271",
     "score": 5.5,
-    "views": 26205,
+    "views": 44398,
     "forwards": 67
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV from the Black Sea acavation area in the direction of Odesa (Chornomorsk)",
-    "description_en": "UAV from the Black Sea acavation area in the direction of Odesa (Chornomorsk)",
-    "description_uk": "БпЛА з акаваторії Чорного моря в напрямку Одещини (Чорноморськ)",
-    "time": "",
-    "pubDate": "2026-06-06T21:11:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64269",
-    "score": 5.0,
-    "views": 46547,
-    "forwards": 0
   },
   {
     "title": "A jet UAV in the Sumy Oblast headed for Romny",
@@ -68,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53543",
     "score": 4.5,
-    "views": 1128,
-    "forwards": 3
+    "views": 1327,
+    "forwards": 4
   },
   {
     "title": "Unmanned aerial vehicle from the Black Sea aqueduct in the direction...",
@@ -140,7 +140,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48451",
     "score": 10.0,
-    "views": 31,
+    "views": 32,
     "forwards": 0
   },
   {
@@ -180,6 +180,24 @@
     "forwards": 35
   },
   {
+    "title": "Such entertainment today in Odessa. Instead of bulls, they now catch...",
+    "title_en": "Such entertainment today in Odessa. Instead of bulls, they now catch...",
+    "title_uk": "Такі розваги сьогодні в Одесі. Замість биків тепер ловлять...",
+    "description": "Such entertainment today in Odessa. Instead of bulls, they now catch \"Shakheds\".",
+    "description_en": "Such entertainment today in Odessa. Instead of bulls, they now catch \"Shakheds\".",
+    "description_uk": "Такие развлечения нынче в Одессе Вместо бычков тут теперь ловят \"Шахеды\".",
+    "time": "",
+    "pubDate": "2026-06-06T15:58:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/193174",
+    "score": 6.5,
+    "views": 152622,
+    "forwards": 448
+  },
+  {
     "title": "Such entertainment today in Odessa. Instead of bulls, now they catch...",
     "title_en": "Such entertainment today in Odessa. Instead of bulls, now they catch...",
     "title_uk": "Такі розваги сьогодні в Одесі. Замість биків тепер ловлять...",
@@ -196,24 +214,6 @@
     "score": 6.5,
     "views": 148550,
     "forwards": 447
-  },
-  {
-    "title": "Such entertainment today in Odessa. Instead of bulls, they now catch...",
-    "title_en": "Such entertainment today in Odessa. Instead of bulls, they now catch...",
-    "title_uk": "Такі розваги сьогодні в Одесі. Замість биків тепер ловлять...",
-    "description": "Such entertainment today in Odessa. Instead of bulls, they now catch \"Shakheds\".",
-    "description_en": "Such entertainment today in Odessa. Instead of bulls, they now catch \"Shakheds\".",
-    "description_uk": "Такие развлечения нынче в Одессе Вместо бычков тут теперь ловят \"Шахеды\".",
-    "time": "",
-    "pubDate": "2026-06-06T15:58:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/193174",
-    "score": 6.5,
-    "views": 140727,
-    "forwards": 433
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -356,7 +356,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53540",
     "score": 6.0,
-    "views": 2271,
+    "views": 2359,
     "forwards": 2
   },
   {
@@ -432,21 +432,21 @@
     "forwards": 0
   },
   {
-    "title": "Zaporizhzhia: BpLA from the south heading to Zaporozhye",
-    "title_en": "Zaporizhzhia: BpLA from the south heading to Zaporozhye",
-    "title_uk": "Запоріжжя: BpLA з півдня в напрямку Запоріжжя",
-    "description": "BpLA from the south heading to Zaporozhye",
-    "description_en": "BpLA from the south heading to Zaporozhye",
-    "description_uk": "БпЛА з півдня курсом на м.Запоріжжя",
+    "title": "Melitopol: Drone attack",
+    "title_en": "Melitopol: Drone attack",
+    "title_uk": "Мелітополь: атака безпілотників",
+    "description": "🐺 The 3rd OPSpP reports on taking part of the enemy's land corridor to Crimea under air control 🇷🇺 SSO pilots with Hornet attack UAVs destroy automobile equipment and destroy the enemy's logistics routes on the route Melitopol — Chongar. As a result, the logistics of supplying the Russian army and fuel to the peninsula have already been complicated. Map🛑Blog🛑Write to us🛑ZSUHelp🛑Support us",
+    "description_en": "🐺 The 3rd OPSpP reports on taking part of the enemy's land corridor to Crimea under air control 🇷🇺 SSO pilots with Hornet attack UAVs destroy automobile equipment and destroy the enemy's logistics routes on the route Melitopol — Chongar. As a result, the logistics of supplying the Russian army and fuel to the peninsula have already been complicated. Map🛑Blog🛑Write to us🛑ZSUHelp🛑Support us",
+    "description_uk": "🐺 3-й ОПСпП звітує про взяття під повітряний контроль частини сухопутного коридору противника до Криму 🇷🇺 Пілоти ССО ударними БпЛА Hornet знищують автомобільну техніку та руйнують логістичні шляхи ворога на маршруті Мелітополь — Чонгар. Внаслідок цього вже ускладнено логістику в частині постачання армії рф та пального на півострів. Мапа🛑Блог🛑Написати нам🛑 ЗСУHelp🛑Підтримати нас",
     "time": "",
-    "pubDate": "2026-06-06T11:31:20+00:00",
+    "pubDate": "2026-06-06T11:14:37+00:00",
     "category": "drone",
     "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64235",
-    "score": 6.0,
-    "views": 36016,
-    "forwards": 0
+    "location": "Melitopol",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23553",
+    "score": 7.5,
+    "views": 127088,
+    "forwards": 446
   }
 ]
