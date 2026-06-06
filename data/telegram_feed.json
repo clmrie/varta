@@ -1,5 +1,59 @@
 [
   {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на південному сході...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-06-06T18:07:53+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64256",
+    "score": 5.0,
+    "views": 35396,
+    "forwards": 1
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A jet UAV in the Sumy Oblast in the direction of Esman/Glukhiv",
+    "description_en": "A jet UAV in the Sumy Oblast in the direction of Esman/Glukhiv",
+    "description_uk": "Реактивний БпЛА на Сумщині в напрямку н.п.Есмань/Глухів",
+    "time": "",
+    "pubDate": "2026-06-06T17:52:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64254",
+    "score": 5.0,
+    "views": 46520,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: Power outage reported",
+    "title_en": "Zaporizhzhia: Power outage reported",
+    "title_uk": "Запоріжжя: Повідомляється про відключення електроенергії",
+    "description": "External power supply restored at Zaporizhzhia Nuclear Power Plant after 15-hour blackout – IAEA External power supply has been restored at the ZNPP after a 15-hour outage, with the plant now operating stably. Read the full article on our website",
+    "description_en": "External power supply restored at Zaporizhzhia Nuclear Power Plant after 15-hour blackout – IAEA External power supply has been restored at the ZNPP after a 15-hour outage, with the plant now operating stably. Read the full article on our website",
+    "description_uk": "External power supply restored at Zaporizhzhia Nuclear Power Plant after 15-hour blackout – IAEA External power supply has been restored at the ZNPP after a 15-hour outage, with the plant now operating stably. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-06-06T17:44:00+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48452",
+    "score": 4.5,
+    "views": 10,
+    "forwards": 0
+  },
+  {
     "title": "Dnipro: Attack attack on infrastructure",
     "title_en": "Dnipro: Attack attack on infrastructure",
     "title_uk": "Дніпро: Атака на інфраструктуру",
@@ -14,7 +68,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48451",
     "score": 10.0,
-    "views": 5,
+    "views": 16,
     "forwards": 0
   },
   {
@@ -52,6 +106,24 @@
     "score": 6.0,
     "views": 44912,
     "forwards": 35
+  },
+  {
+    "title": "Such entertainment today in Odessa. Instead of bulls, they now catch...",
+    "title_en": "Such entertainment today in Odessa. Instead of bulls, they now catch...",
+    "title_uk": "Такі розваги сьогодні в Одесі. Замість биків тепер ловлять...",
+    "description": "Such entertainment today in Odessa. Instead of bulls, they now catch \"Shakheds\".",
+    "description_en": "Such entertainment today in Odessa. Instead of bulls, they now catch \"Shakheds\".",
+    "description_uk": "Такие развлечения нынче в Одессе Вместо бычков тут теперь ловят \"Шахеды\".",
+    "time": "",
+    "pubDate": "2026-06-06T15:58:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/193174",
+    "score": 6.5,
+    "views": 102809,
+    "forwards": 355
   },
   {
     "title": "Such entertainment today in Odessa. Instead of bulls, now they catch...",
@@ -126,24 +198,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A jet UAV from the Black Sea area in the direction of Odesa (Chornomorsk)",
-    "description_en": "A jet UAV from the Black Sea area in the direction of Odesa (Chornomorsk)",
-    "description_uk": "Реактивний БпЛА з акаваторії Чорного моря в напрямку Одещини (Чорноморськ)",
-    "time": "",
-    "pubDate": "2026-06-06T14:42:29+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64246",
-    "score": 5.0,
-    "views": 50481,
-    "forwards": 22
-  },
-  {
     "title": "17 drones",
     "title_en": "17 drones",
     "title_uk": "17 дронів",
@@ -158,8 +212,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193167",
     "score": 4.5,
-    "views": 98614,
-    "forwards": 218
+    "views": 121211,
+    "forwards": 255
   },
   {
     "title": "Melitopol: Ukrainian forces take air control of part of land route to Crimea –...",
@@ -230,26 +284,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53540",
     "score": 6.0,
-    "views": 1397,
-    "forwards": 1
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на південному сході...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-06-06T12:48:34+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64241",
-    "score": 5.0,
-    "views": 56423,
-    "forwards": 0
+    "views": 1653,
+    "forwards": 2
   },
   {
     "title": "Polish defence minister meets head of Zelenskyy's office over name of...",
@@ -302,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53539",
     "score": 15.0,
-    "views": 1789,
+    "views": 1982,
     "forwards": 2
   },
   {
@@ -374,8 +410,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23553",
     "score": 7.5,
-    "views": 104071,
-    "forwards": 401
+    "views": 111671,
+    "forwards": 417
   },
   {
     "title": "This year, we are launching the first full-format support program for...",
@@ -392,8 +428,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19412",
     "score": 10.0,
-    "views": 75017,
-    "forwards": 206
+    "views": 82065,
+    "forwards": 219
   },
   {
     "title": "Kherson: ‘The land cannot wait’: Documentary examines toll of Kakhovka Dam...",
@@ -412,41 +448,5 @@
     "score": 13.5,
     "views": 1002,
     "forwards": 6
-  },
-  {
-    "title": "Sumy: BpLA in the city of Sumy from the east",
-    "title_en": "Sumy: BpLA in the city of Sumy from the east",
-    "title_uk": "Суми: БпЛА в м. Суми зі сх",
-    "description": "BpLA in the city of Sumy from the east",
-    "description_en": "BpLA in the city of Sumy from the east",
-    "description_uk": "БпЛА на м.Суми зі сходу",
-    "time": "",
-    "pubDate": "2026-06-06T10:00:25+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64232",
-    "score": 6.0,
-    "views": 18212,
-    "forwards": 0
-  },
-  {
-    "title": "Drone strike",
-    "title_en": "Drone strike",
-    "title_uk": "Безпілотний удар",
-    "description": "Zelenskyy says Ukrainian drones attack Russian Navy arsenals and base in Kronstadt at night Ukrainian drones hit Russian naval arsenals and bases in Leningrad Oblast and Kronstadt, Zelenskyy said Read the full article on our website",
-    "description_en": "Zelenskyy says Ukrainian drones attack Russian Navy arsenals and base in Kronstadt at night Ukrainian drones hit Russian naval arsenals and bases in Leningrad Oblast and Kronstadt, Zelenskyy said Read the full article on our website",
-    "description_uk": "Zelenskyy says Ukrainian drones attack Russian Navy arsenals and base in Kronstadt at night Ukrainian drones hit Russian naval arsenals and bases in Leningrad Oblast and Kronstadt, Zelenskyy said Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-06T09:11:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48436",
-    "score": 4.0,
-    "views": 11,
-    "forwards": 0
   }
 ]
