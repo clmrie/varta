@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea acavation area in the direction of Odesa (Chornomorsk)",
+    "description_en": "UAV from the Black Sea acavation area in the direction of Odesa (Chornomorsk)",
+    "description_uk": "БпЛА з акаваторії Чорного моря в напрямку Одещини (Чорноморськ)",
+    "time": "",
+    "pubDate": "2026-06-06T21:11:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64269",
+    "score": 5.0,
+    "views": 4042,
+    "forwards": 0
+  },
+  {
+    "title": "A jet UAV in the Sumy Oblast headed for Romny",
+    "title_en": "A jet UAV in the Sumy Oblast headed for Romny",
+    "title_uk": "Реактивний БПЛА в Сумській області взяв курс на Ромни",
+    "description": "A jet UAV in the Sumy Oblast headed for Romny",
+    "description_en": "A jet UAV in the Sumy Oblast headed for Romny",
+    "description_uk": "Реактивний БпЛА на Сумщині курсом на н.п.Ромни",
+    "time": "",
+    "pubDate": "2026-06-06T20:58:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64268",
+    "score": 5.0,
+    "views": 16222,
+    "forwards": 0
+  },
+  {
     "title": "Zaporizhzhia: Power outage reported",
     "title_en": "Zaporizhzhia: Power outage reported",
     "title_uk": "Запоріжжя: Повідомляється про відключення електроенергії",
@@ -14,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53543",
     "score": 4.5,
-    "views": 243,
-    "forwards": 0
+    "views": 834,
+    "forwards": 3
   },
   {
     "title": "Unmanned aerial vehicle from the Black Sea aqueduct in the direction...",
@@ -72,24 +108,6 @@
     "forwards": 1
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A jet UAV in the Sumy Oblast in the direction of Esman/Glukhiv",
-    "description_en": "A jet UAV in the Sumy Oblast in the direction of Esman/Glukhiv",
-    "description_uk": "Реактивний БпЛА на Сумщині в напрямку н.п.Есмань/Глухів",
-    "time": "",
-    "pubDate": "2026-06-06T17:52:07+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64254",
-    "score": 5.0,
-    "views": 46520,
-    "forwards": 0
-  },
-  {
     "title": "Dnipro: Attack attack on infrastructure",
     "title_en": "Dnipro: Attack attack on infrastructure",
     "title_uk": "Дніпро: Атака на інфраструктуру",
@@ -104,7 +122,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48451",
     "score": 10.0,
-    "views": 25,
+    "views": 28,
     "forwards": 0
   },
   {
@@ -158,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193174",
     "score": 6.5,
-    "views": 126479,
-    "forwards": 394
+    "views": 140727,
+    "forwards": 433
   },
   {
     "title": "Such entertainment today in Odessa. Instead of bulls, now they catch...",
@@ -320,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53540",
     "score": 6.0,
-    "views": 1943,
+    "views": 2138,
     "forwards": 2
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 36016,
     "forwards": 0
-  },
-  {
-    "title": "Melitopol: Drone attack",
-    "title_en": "Melitopol: Drone attack",
-    "title_uk": "Мелітополь: атака безпілотників",
-    "description": "🐺 The 3rd OPSpP reports on taking part of the enemy's land corridor to Crimea under air control 🇷🇺 SSO pilots with Hornet attack UAVs destroy automobile equipment and destroy the enemy's logistics routes on the route Melitopol — Chongar. As a result, the logistics of supplying the Russian army and fuel to the peninsula have already been complicated. Map🛑Blog🛑Write to us🛑ZSUHelp🛑Support us",
-    "description_en": "🐺 The 3rd OPSpP reports on taking part of the enemy's land corridor to Crimea under air control 🇷🇺 SSO pilots with Hornet attack UAVs destroy automobile equipment and destroy the enemy's logistics routes on the route Melitopol — Chongar. As a result, the logistics of supplying the Russian army and fuel to the peninsula have already been complicated. Map🛑Blog🛑Write to us🛑ZSUHelp🛑Support us",
-    "description_uk": "🐺 3-й ОПСпП звітує про взяття під повітряний контроль частини сухопутного коридору противника до Криму 🇷🇺 Пілоти ССО ударними БпЛА Hornet знищують автомобільну техніку та руйнують логістичні шляхи ворога на маршруті Мелітополь — Чонгар. Внаслідок цього вже ускладнено логістику в частині постачання армії рф та пального на півострів. Мапа🛑Блог🛑Написати нам🛑 ЗСУHelp🛑Підтримати нас",
-    "time": "",
-    "pubDate": "2026-06-06T11:14:37+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Melitopol",
-    "source": "DeepState",
-    "link": "https://t.me/DeepStateUA/23553",
-    "score": 7.5,
-    "views": 118553,
-    "forwards": 430
   }
 ]
