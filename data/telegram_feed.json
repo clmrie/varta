@@ -1,5 +1,77 @@
 [
   {
+    "title": "Dnipro: Attack attack on infrastructure",
+    "title_en": "Dnipro: Attack attack on infrastructure",
+    "title_uk": "Дніпро: Атака на інфраструктуру",
+    "description": "Russians attack Dnipropetrovsk Oblast more than 40 times, injuring six people Russian attacks on Dnipropetrovsk Oblast left six people injured, including a child, and caused damage to houses, cars and civilian infrastructure. Read the full article on our website",
+    "description_en": "Russians attack Dnipropetrovsk Oblast more than 40 times, injuring six people Russian attacks on Dnipropetrovsk Oblast left six people injured, including a child, and caused damage to houses, cars and civilian infrastructure. Read the full article on our website",
+    "description_uk": "Russians attack Dnipropetrovsk Oblast more than 40 times, injuring six people Russian attacks on Dnipropetrovsk Oblast left six people injured, including a child, and caused damage to houses, cars and civilian infrastructure. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-06-06T17:05:38+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Dnipro",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48451",
+    "score": 10.0,
+    "views": 5,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: Casualties reported",
+    "title_en": "Zaporizhzhia: Casualties reported",
+    "title_uk": "Запоріжжя: повідомляється про постраждалих",
+    "description": "Russian forces attack minibus in Zaporizhzhia Oblast, driver killed Russian forces have attacked a minibus with an FPV drone in Zaporizhzhia Oblast, killing the 56-year-old driver. Read the full article on our website",
+    "description_en": "Russian forces attack minibus in Zaporizhzhia Oblast, driver killed Russian forces have attacked a minibus with an FPV drone in Zaporizhzhia Oblast, killing the 56-year-old driver. Read the full article on our website",
+    "description_uk": "Russian forces attack minibus in Zaporizhzhia Oblast, driver killed Russian forces have attacked a minibus with an FPV drone in Zaporizhzhia Oblast, killing the 56-year-old driver. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-06-06T16:38:34+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48450",
+    "score": 9.0,
+    "views": 13,
+    "forwards": 0
+  },
+  {
+    "title": "Poltava: Drone incoming",
+    "title_en": "Poltava: Drone incoming",
+    "title_uk": "Полтава: Дрон вхід",
+    "description": "A jet UAV in the direction of the city of Poltava from the east.",
+    "description_en": "A jet UAV in the direction of the city of Poltava from the east.",
+    "description_uk": "Реактивний БпЛА в напрямку м.Полтава зі сходу.",
+    "time": "",
+    "pubDate": "2026-06-06T15:59:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64251",
+    "score": 6.0,
+    "views": 44912,
+    "forwards": 35
+  },
+  {
+    "title": "Such entertainment today in Odessa. Instead of bulls, now they catch...",
+    "title_en": "Such entertainment today in Odessa. Instead of bulls, now they catch...",
+    "title_uk": "Такі розваги сьогодні в Одесі. Замість биків тепер ловлять...",
+    "description": "Such entertainment today in Odessa. Instead of bulls, now they catch \"Shakheds\".",
+    "description_en": "Such entertainment today in Odessa. Instead of bulls, now they catch \"Shakheds\".",
+    "description_uk": "Такие развлечения нынче в Одессе Вместо бычков тут теперь ловят \"Шахеды\".",
+    "time": "",
+    "pubDate": "2026-06-06T15:58:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/193174",
+    "score": 6.5,
+    "views": 65013,
+    "forwards": 248
+  },
+  {
     "title": "Dnipro: Drone incoming",
     "title_en": "Dnipro: Drone incoming",
     "title_uk": "Дніпро: Дрон вхід",
@@ -14,7 +86,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/64250",
     "score": 6.0,
-    "views": 1,
+    "views": 47791,
     "forwards": 0
   },
   {
@@ -85,9 +157,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193167",
-    "score": 3.5,
-    "views": 70391,
-    "forwards": 183
+    "score": 4.5,
+    "views": 98614,
+    "forwards": 218
   },
   {
     "title": "Melitopol: Ukrainian forces take air control of part of land route to Crimea –...",
@@ -158,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53540",
     "score": 6.0,
-    "views": 1079,
+    "views": 1397,
     "forwards": 1
   },
   {
@@ -230,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53539",
     "score": 15.0,
-    "views": 1563,
+    "views": 1789,
     "forwards": 2
   },
   {
@@ -302,8 +374,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23553",
     "score": 7.5,
-    "views": 96374,
-    "forwards": 381
+    "views": 104071,
+    "forwards": 401
   },
   {
     "title": "This year, we are launching the first full-format support program for...",
@@ -319,9 +391,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19412",
-    "score": 9.0,
-    "views": 68190,
-    "forwards": 195
+    "score": 10.0,
+    "views": 75017,
+    "forwards": 206
   },
   {
     "title": "Kherson: ‘The land cannot wait’: Documentary examines toll of Kakhovka Dam...",
@@ -376,77 +448,5 @@
     "score": 4.0,
     "views": 11,
     "forwards": 0
-  },
-  {
-    "title": "Kherson: Three years ago, Russia blew up the Kakhovskaya HPP dam, causing one...",
-    "title_en": "Kherson: Three years ago, Russia blew up the Kakhovskaya HPP dam, causing one...",
-    "title_uk": "Херсон: Три роки тому Росія підірвала дамбу Каховської ГЕС, внаслідок чого один...",
-    "description": "Three years ago, Russia blew up the Kakhovskaya HPP dam, causing one of the biggest man-made and environmental disasters in Europe in recent decades. Large areas were flooded, the Kakhov reservoir was destroyed, and hundreds of thousands of people were left without access to drinking water. This crime also endangered the stability of the Zaporizhzhia nuclear power plant, the largest in Europe. Exactly...",
-    "description_en": "Three years ago, Russia blew up the Kakhovskaya HPP dam, causing one of the biggest man-made and environmental disasters in Europe in recent decades. Large areas were flooded, the Kakhov reservoir was destroyed, and hundreds of thousands of people were left without access to drinking water. This crime also endangered the stability of the Zaporizhzhia nuclear power plant, the largest in Europe. Exactly...",
-    "description_uk": "Три роки тому Росія підірвала греблю Каховської ГЕС, спричинивши одну з найбільших техногенних та екологічних катастроф у Європі за останні десятиліття. Були затоплені значні території, знищене Каховське водосховище, а сотні тисяч людей залишилися без доступу до питної води. Цей злочин також поставив під загрозу стабільність роботи Запорізької атомної електростанції – найбільшої в Європі. Точну...",
-    "time": "",
-    "pubDate": "2026-06-06T09:08:27+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kherson",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9264",
-    "score": 12.5,
-    "views": 557,
-    "forwards": 4
-  },
-  {
-    "title": "Drone attack on residential area",
-    "title_en": "Drone attack on residential area",
-    "title_uk": "Атака безпілотників на житлові квартали",
-    "description": "The President of Ukraine, Volodymyr Zelensky, reported on the new attack on St. Petersburg and the Kuban. In particular, according to him, last night Ukrainian drones covered a distance of about 1,000 km to the St. Petersburg region - to the arsenals of the enemy's Navy and the base in Kronstadt, and...",
-    "description_en": "The President of Ukraine, Volodymyr Zelensky, reported on the new attack on St. Petersburg and the Kuban. In particular, according to him, last night Ukrainian drones covered a distance of about 1,000 km to the St. Petersburg region - to the arsenals of the enemy's Navy and the base in Kronstadt, and...",
-    "description_uk": "Президент Украины Владимир Зеленский отчитался о новом ударе по Питеру и Кубани🔥 \"Эту войну пора заканчивать. Но российский глава хочет воевать. Поэтому работают украинские санкции за эту агрессию\", - заявил украинский президент. В частности, по его словам, прошлой ночью украинские дроны преодолели расстояние около 1000 км до региона Петербурга – до арсеналов ВМФ врага и базы в Кронштадте, а...",
-    "time": "",
-    "pubDate": "2026-06-06T08:24:25+00:00",
-    "category": "drone",
-    "severity": "medium",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/193148",
-    "score": 4.5,
-    "views": 120670,
-    "forwards": 248
-  },
-  {
-    "title": "Sumy: Power outage reported",
-    "title_en": "Sumy: Power outage reported",
-    "title_uk": "Суми: Повідомлено про відключення електроенергії",
-    "description": "Russia attacks energy infrastructure in Sumy Oblast, power outages reported Power supply disruptions have been recorded in certain settlements since the evening of 5 June as a result of Russian strikes on energy infrastructure in Sumy Oblast. Read the full article on our website",
-    "description_en": "Russia attacks energy infrastructure in Sumy Oblast, power outages reported Power supply disruptions have been recorded in certain settlements since the evening of 5 June as a result of Russian strikes on energy infrastructure in Sumy Oblast. Read the full article on our website",
-    "description_uk": "Russia attacks energy infrastructure in Sumy Oblast, power outages reported Power supply disruptions have been recorded in certain settlements since the evening of 5 June as a result of Russian strikes on energy infrastructure in Sumy Oblast. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-06T08:23:08+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48432",
-    "score": 7.5,
-    "views": 16,
-    "forwards": 0
-  },
-  {
-    "title": "Drone strike near civilians",
-    "title_en": "Drone strike near civilians",
-    "title_uk": "Удар безпілотників поблизу мирних жителів",
-    "description": "It is time to end this war. But the Russian leader wants to fight. That is why Ukrainian sanctions for this aggression are working. Last night, our drones covered a distance of about 1,000 kilometers to the Petersburg region - to the arsenals of the enemy's Navy and the base in Kronstadt. Also, our long-range sanctions covered about 500 kilometers to the Krasnodar region and hit an oil depot. Important results of joint work...",
-    "description_en": "It is time to end this war. But the Russian leader wants to fight. That is why Ukrainian sanctions for this aggression are working. Last night, our drones covered a distance of about 1,000 kilometers to the Petersburg region - to the arsenals of the enemy's Navy and the base in Kronstadt. Also, our long-range sanctions covered about 500 kilometers to the Krasnodar region and hit an oil depot. Important results of joint work...",
-    "description_uk": "Цю війну час завершувати. Але російський керівник хоче воювати. Тому працюють українські санкції за цю агресію. Минулої ночі наші дрони подолали відстань близько 1000 кілометрів до регіону Петербурга – до арсеналів ВМФ ворога та бази в Кронштадті. А також наші далекобійні санкції подолали близько 500 кілометрів до Краснодарського регіону і вдарили по нафтобазі. Важливі результати спільної роботи...",
-    "time": "",
-    "pubDate": "2026-06-06T08:15:47+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19410",
-    "score": 4.5,
-    "views": 399695,
-    "forwards": 900
   }
 ]
