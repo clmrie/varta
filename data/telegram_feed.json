@@ -1,5 +1,23 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ Threat of using ballistic weapons from Bryansk.",
+    "description_en": "☄️ Threat of using ballistic weapons from Bryansk.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння з Брянська.",
+    "time": "",
+    "pubDate": "2026-06-06T22:10:21+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64271",
+    "score": 5.5,
+    "views": 26205,
+    "forwards": 67
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/64269",
     "score": 5.0,
-    "views": 4042,
+    "views": 46547,
     "forwards": 0
   },
   {
@@ -50,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53543",
     "score": 4.5,
-    "views": 834,
+    "views": 1128,
     "forwards": 3
   },
   {
@@ -122,7 +140,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48451",
     "score": 10.0,
-    "views": 28,
+    "views": 31,
     "forwards": 0
   },
   {
@@ -162,6 +180,24 @@
     "forwards": 35
   },
   {
+    "title": "Such entertainment today in Odessa. Instead of bulls, now they catch...",
+    "title_en": "Such entertainment today in Odessa. Instead of bulls, now they catch...",
+    "title_uk": "Такі розваги сьогодні в Одесі. Замість биків тепер ловлять...",
+    "description": "Such entertainment today in Odessa. Instead of bulls, now they catch \"Shakheds\".",
+    "description_en": "Such entertainment today in Odessa. Instead of bulls, now they catch \"Shakheds\".",
+    "description_uk": "Такие развлечения нынче в Одессе Вместо бычков тут теперь ловят \"Шахеды\".",
+    "time": "",
+    "pubDate": "2026-06-06T15:58:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/193174",
+    "score": 6.5,
+    "views": 148550,
+    "forwards": 447
+  },
+  {
     "title": "Such entertainment today in Odessa. Instead of bulls, they now catch...",
     "title_en": "Such entertainment today in Odessa. Instead of bulls, they now catch...",
     "title_uk": "Такі розваги сьогодні в Одесі. Замість биків тепер ловлять...",
@@ -178,24 +214,6 @@
     "score": 6.5,
     "views": 140727,
     "forwards": 433
-  },
-  {
-    "title": "Such entertainment today in Odessa. Instead of bulls, now they catch...",
-    "title_en": "Such entertainment today in Odessa. Instead of bulls, now they catch...",
-    "title_uk": "Такі розваги сьогодні в Одесі. Замість биків тепер ловлять...",
-    "description": "Such entertainment today in Odessa. Instead of bulls, now they catch \"Shakheds\".",
-    "description_en": "Such entertainment today in Odessa. Instead of bulls, now they catch \"Shakheds\".",
-    "description_uk": "Такие развлечения нынче в Одессе Вместо бычков тут теперь ловят \"Шахеды\".",
-    "time": "",
-    "pubDate": "2026-06-06T15:58:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/193174",
-    "score": 6.5,
-    "views": 65013,
-    "forwards": 248
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -338,7 +356,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53540",
     "score": 6.0,
-    "views": 2138,
+    "views": 2271,
     "forwards": 2
   },
   {
@@ -412,24 +430,6 @@
     "score": 9.0,
     "views": 15,
     "forwards": 0
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons from the north-eastern direction",
-    "description_en": "☄️ The threat of using ballistic weapons from the north-eastern direction",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння з північно-східного напрямку",
-    "time": "",
-    "pubDate": "2026-06-06T11:36:32+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64236",
-    "score": 5.0,
-    "views": 30339,
-    "forwards": 34
   },
   {
     "title": "Zaporizhzhia: BpLA from the south heading to Zaporozhye",
