@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "+ 🛵 UAV from the Black Sea area ➡️ to the south of Odesa, heading for Tatarbunary.",
+    "description_en": "+ 🛵 UAV from the Black Sea area ➡️ to the south of Odesa, heading for Tatarbunary.",
+    "description_uk": "+ 🛵 БпЛА із акваторії Чорного моря ➡️ на південь Одещини, курсом на Татарбунари.",
+    "time": "",
+    "pubDate": "2026-06-07T19:57:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64375",
+    "score": 5.0,
+    "views": 23292,
+    "forwards": 0
+  },
+  {
+    "title": "Power outage reported",
+    "title_en": "Power outage reported",
+    "title_uk": "Повідомлено про відключення електроенергії",
+    "description": "👀 Ukrainians almost outplayed NATO, speaking for the \"Russian\" side, - FT At the NATO cyber exercises in Bydgoszcz, Poland, Ukrainian specialists were given an unusual role - they portrayed a conditional aggressor whose methods were based on Russian disinformation campaigns. Over the course of three days, the participants worked out blackout, flooding, and banking system hacking scenarios. The Ukrainian team massively...",
+    "description_en": "👀 Ukrainians almost outplayed NATO, speaking for the \"Russian\" side, - FT At the NATO cyber exercises in Bydgoszcz, Poland, Ukrainian specialists were given an unusual role - they portrayed a conditional aggressor whose methods were based on Russian disinformation campaigns. Over the course of three days, the participants worked out blackout, flooding, and banking system hacking scenarios. The Ukrainian team massively...",
+    "description_uk": "👀 Украинцы едва не переиграли НАТО, выступая за \"российскую\" сторону, - FT На киберучениях НАТО в польском Быдгоще украинские специалисты получили необычную роль - они изображали условного агрессора, чьи методы были построены на российских дезинформационных кампаниях. В течение трех дней участники отрабатывали сценарии блэкаута, наводнения и взлома банковской системы. Украинская команда массово...",
+    "time": "",
+    "pubDate": "2026-06-07T19:43:01+00:00",
+    "category": "political",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/193243",
+    "score": 5.5,
+    "views": 44987,
+    "forwards": 105
+  },
+  {
+    "title": "BpLA groups through Lozova ➡️course to Pavlograd.",
+    "title_en": "BpLA groups through Lozova ➡️course to Pavlograd.",
+    "title_uk": "Групи BpLA через Лозову ➡️курс на Павлоград.",
+    "description": "BpLA groups through Lozova ➡️course to Pavlograd.",
+    "description_en": "BpLA groups through Lozova ➡️course to Pavlograd.",
+    "description_uk": "Групи БпЛА через Лозову ➡️курсом на Павлоград.",
+    "time": "",
+    "pubDate": "2026-06-07T19:40:16+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64374",
+    "score": 5.0,
+    "views": 44526,
+    "forwards": 35
+  },
+  {
     "title": "Kirovohrad region: BpLA ➡️ heading for Pomichna.",
     "title_en": "Kirovohrad region: BpLA ➡️ heading for Pomichna.",
     "title_uk": "Кіровоградська область: BpLA ➡️ прямує на Помічну.",
@@ -18,24 +72,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAVs in Sumy Oblast ➡️ heading for Konotop.",
-    "description_en": "Jet UAVs in Sumy Oblast ➡️ heading for Konotop.",
-    "description_uk": "Реактивні БпЛА на Сумщині ➡️ курсом на Конотоп.",
-    "time": "",
-    "pubDate": "2026-06-07T18:27:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64369",
-    "score": 5.0,
-    "views": 41509,
-    "forwards": 0
-  },
-  {
     "title": "Crimea: Drone strike",
     "title_en": "Crimea: Drone strike",
     "title_uk": "Крим: удар безпілотника",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53560",
     "score": 8.0,
-    "views": 563,
+    "views": 1193,
     "forwards": 2
   },
   {
@@ -68,7 +104,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48488",
     "score": 5.0,
-    "views": 14,
+    "views": 19,
     "forwards": 0
   },
   {
@@ -104,8 +140,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39653",
     "score": 5.0,
-    "views": 2550,
-    "forwards": 9
+    "views": 3205,
+    "forwards": 11
   },
   {
     "title": "Nikopol: Casualties reported",
@@ -140,7 +176,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48485",
     "score": 5.0,
-    "views": 27,
+    "views": 30,
     "forwards": 0
   },
   {
@@ -212,7 +248,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9268",
     "score": 10.5,
-    "views": 591,
+    "views": 643,
     "forwards": 6
   },
   {
@@ -266,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53557",
     "score": 5.0,
-    "views": 1938,
+    "views": 2154,
     "forwards": 7
   },
   {
@@ -411,42 +447,6 @@
     "link": "https://t.me/kpszsu/64337",
     "score": 5.0,
     "views": 15173,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: BpLA ➡️ course to Zaporizhzhia from the south.",
-    "title_en": "Zaporizhzhia: BpLA ➡️ course to Zaporizhzhia from the south.",
-    "title_uk": "Запоріжжя: курс BpLA ➡️ на Запоріжжя з півдня.",
-    "description": "BpLA ➡️ course to Zaporizhzhia from the south.",
-    "description_en": "BpLA ➡️ course to Zaporizhzhia from the south.",
-    "description_uk": "БпЛА ➡️ курсом на Запоріжжя з півдня.",
-    "time": "",
-    "pubDate": "2026-06-07T10:47:56+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64336",
-    "score": 6.0,
-    "views": 29482,
-    "forwards": 0
-  },
-  {
-    "title": "Kherson: Drone attack",
-    "title_en": "Kherson: Drone attack",
-    "title_uk": "Херсон: атака безпілотників",
-    "description": "Drone attack damages bridge between Kherson Oblast and Crimea A drone attack damaged a bridge near Chonhar, forcing the suspension of traffic via Dzhankoi. Alternative routes remain available through Armiansk and Perekop. Read the full article on our website",
-    "description_en": "Drone attack damages bridge between Kherson Oblast and Crimea A drone attack damaged a bridge near Chonhar, forcing the suspension of traffic via Dzhankoi. Alternative routes remain available through Armiansk and Perekop. Read the full article on our website",
-    "description_uk": "Drone attack damages bridge between Kherson Oblast and Crimea A drone attack damaged a bridge near Chonhar, forcing the suspension of traffic via Dzhankoi. Alternative routes remain available through Armiansk and Perekop. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-07T10:38:38+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kherson",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48468",
-    "score": 5.0,
-    "views": 7,
     "forwards": 0
   }
 ]
