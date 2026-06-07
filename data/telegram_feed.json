@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: A group of BpLA from the Belgorod region, Russian Federation ➡️ to...",
+    "title_en": "Kharkiv: A group of BpLA from the Belgorod region, Russian Federation ➡️ to...",
+    "title_uk": "Харків: Група BpLA з Білгородської області, Російська Федерація ➡️ до...",
+    "description": "A group of BpLA from the Belgorod region, Russian Federation ➡️ to the north of Kharkiv region.",
+    "description_en": "A group of BpLA from the Belgorod region, Russian Federation ➡️ to the north of Kharkiv region.",
+    "description_uk": "Група БпЛА з Бєлгородської обл., рф ➡️ на північ Харківщини.",
+    "time": "",
+    "pubDate": "2026-06-07T21:32:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64382",
+    "score": 6.0,
+    "views": 5182,
+    "forwards": 10
+  },
+  {
+    "title": "Sumyshchyna: jet UAV ➡️ on Romny.",
+    "title_en": "Sumyshchyna: jet UAV ➡️ on Romny.",
+    "title_uk": "Сумщина: реактивний БПЛА ➡️ на Ромни.",
+    "description": "Sumyshchyna: jet UAV ➡️ on Romny.",
+    "description_en": "Sumyshchyna: jet UAV ➡️ on Romny.",
+    "description_uk": "Сумщина: реактивний БпЛА ➡️ на Ромни.",
+    "time": "",
+    "pubDate": "2026-06-07T21:31:24+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64381",
+    "score": 5.0,
+    "views": 7022,
+    "forwards": 11
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -32,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193243",
     "score": 5.5,
-    "views": 44987,
-    "forwards": 105
+    "views": 86806,
+    "forwards": 177
   },
   {
     "title": "BpLA groups through Lozova ➡️course to Pavlograd.",
@@ -86,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53560",
     "score": 8.0,
-    "views": 1193,
+    "views": 1570,
     "forwards": 2
   },
   {
@@ -104,7 +140,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48488",
     "score": 5.0,
-    "views": 19,
+    "views": 24,
     "forwards": 0
   },
   {
@@ -140,8 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39653",
     "score": 5.0,
-    "views": 3205,
-    "forwards": 11
+    "views": 3503,
+    "forwards": 12
   },
   {
     "title": "Nikopol: Casualties reported",
@@ -176,7 +212,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48485",
     "score": 5.0,
-    "views": 30,
+    "views": 33,
     "forwards": 0
   },
   {
@@ -248,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9268",
     "score": 10.5,
-    "views": 643,
+    "views": 680,
     "forwards": 6
   },
   {
@@ -302,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53557",
     "score": 5.0,
-    "views": 2154,
+    "views": 2300,
     "forwards": 7
   },
   {
@@ -411,42 +447,6 @@
     "link": "https://t.me/kpszsu/64338",
     "score": 6.0,
     "views": 37109,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: Casualties reported",
-    "title_en": "Zaporizhzhia: Casualties reported",
-    "title_uk": "Запоріжжя: повідомляється про постраждалих",
-    "description": "Russians strike near bus stop in Zaporizhzhia Oblast with guided bombs: three killed – photo, video Three people were killed and three others injured due to a Russian attack on the settlement of Balabyne in Zaporizhzhia Oblast with guided aerial bombs on 7 June. Read the full article on our website",
-    "description_en": "Russians strike near bus stop in Zaporizhzhia Oblast with guided bombs: three killed – photo, video Three people were killed and three others injured due to a Russian attack on the settlement of Balabyne in Zaporizhzhia Oblast with guided aerial bombs on 7 June. Read the full article on our website",
-    "description_uk": "Russians strike near bus stop in Zaporizhzhia Oblast with guided bombs: three killed – photo, video Three people were killed and three others injured due to a Russian attack on the settlement of Balabyne in Zaporizhzhia Oblast with guided aerial bombs on 7 June. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-07T11:27:56+00:00",
-    "category": "shelling",
-    "severity": "critical",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48470",
-    "score": 6.0,
-    "views": 2,
-    "forwards": 0
-  },
-  {
-    "title": "BpLA ➡️ in the direction of Sumy from the north.",
-    "title_en": "BpLA ➡️ in the direction of Sumy from the north.",
-    "title_uk": "БпЛА ➡️ в напрямку Сум з півночі.",
-    "description": "BpLA ➡️ in the direction of Sumy from the north.",
-    "description_en": "BpLA ➡️ in the direction of Sumy from the north.",
-    "description_uk": "БпЛА ➡️ в напрямку Сум із півночі.",
-    "time": "",
-    "pubDate": "2026-06-07T11:12:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64337",
-    "score": 5.0,
-    "views": 15173,
     "forwards": 0
   }
 ]
