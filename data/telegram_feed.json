@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "A group of UAVs on the border of Sumy and Kharkiv regions ➡️ in the direction of Poltava region.",
+    "description_en": "A group of UAVs on the border of Sumy and Kharkiv regions ➡️ in the direction of Poltava region.",
+    "description_uk": "Група БпЛА на межі Сумської та Харківської областей ➡️ у напрямку Полтавщини.",
+    "time": "",
+    "pubDate": "2026-06-07T22:35:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64393",
+    "score": 6.0,
+    "views": 4055,
+    "forwards": 0
+  },
+  {
+    "title": "BpLA ➡️ towards Kryvyi Rih from the south.",
+    "title_en": "BpLA ➡️ towards Kryvyi Rih from the south.",
+    "title_uk": "BpLA ➡️ в сторону Кривого Рогу з півдня.",
+    "description": "BpLA ➡️ towards Kryvyi Rih from the south.",
+    "description_en": "BpLA ➡️ towards Kryvyi Rih from the south.",
+    "description_uk": "БпЛА ➡️ в бік Кривого Рогу з півдня.",
+    "time": "",
+    "pubDate": "2026-06-07T22:13:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64392",
+    "score": 5.0,
+    "views": 18286,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: A group of BpLA from the Belgorod region, Russian Federation ➡️ to...",
     "title_en": "Kharkiv: A group of BpLA from the Belgorod region, Russian Federation ➡️ to...",
     "title_uk": "Харків: Група BpLA з Білгородської області, Російська Федерація ➡️ до...",
@@ -67,9 +103,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193243",
-    "score": 5.5,
-    "views": 86806,
-    "forwards": 177
+    "score": 6.5,
+    "views": 99298,
+    "forwards": 209
   },
   {
     "title": "BpLA groups through Lozova ➡️course to Pavlograd.",
@@ -122,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53560",
     "score": 8.0,
-    "views": 1570,
+    "views": 1755,
     "forwards": 2
   },
   {
@@ -140,7 +176,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48488",
     "score": 5.0,
-    "views": 24,
+    "views": 27,
     "forwards": 0
   },
   {
@@ -176,7 +212,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39653",
     "score": 5.0,
-    "views": 3503,
+    "views": 3603,
     "forwards": 12
   },
   {
@@ -212,7 +248,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48485",
     "score": 5.0,
-    "views": 33,
+    "views": 34,
     "forwards": 0
   },
   {
@@ -284,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9268",
     "score": 10.5,
-    "views": 680,
+    "views": 696,
     "forwards": 6
   },
   {
@@ -338,7 +374,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53557",
     "score": 5.0,
-    "views": 2300,
+    "views": 2393,
     "forwards": 7
   },
   {
@@ -412,41 +448,5 @@
     "score": 3.5,
     "views": 31264,
     "forwards": 81
-  },
-  {
-    "title": "Crimea: Attack attack",
-    "title_en": "Crimea: Attack attack",
-    "title_uk": "Крим: Напад",
-    "description": "Ukraine's Special Operations Forces strike oil storage facilities in Crimea – video Ukraine’s Special Operations Forces struck an oil depot and an oil terminal in Crimea, damaging key fuel storage facilities used by Russian forces. Read the full article on our website",
-    "description_en": "Ukraine's Special Operations Forces strike oil storage facilities in Crimea – video Ukraine’s Special Operations Forces struck an oil depot and an oil terminal in Crimea, damaging key fuel storage facilities used by Russian forces. Read the full article on our website",
-    "description_uk": "Ukraine's Special Operations Forces strike oil storage facilities in Crimea – video Ukraine’s Special Operations Forces struck an oil depot and an oil terminal in Crimea, damaging key fuel storage facilities used by Russian forces. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-07T12:18:42+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Crimea",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48471",
-    "score": 5.0,
-    "views": 10,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: A new group of BpLA ➡️ in the direction of Zaporizhzhia from the...",
-    "title_en": "Zaporizhzhia: A new group of BpLA ➡️ in the direction of Zaporizhzhia from the...",
-    "title_uk": "Запоріжжя: Нова група БПЛА ➡️ в напрямку Запоріжжя з боку...",
-    "description": "A new group of BpLA ➡️ in the direction of Zaporizhzhia from the south.",
-    "description_en": "A new group of BpLA ➡️ in the direction of Zaporizhzhia from the south.",
-    "description_uk": "Нова група БпЛА ➡️ у напрямку Запоріжжя з півдня.",
-    "time": "",
-    "pubDate": "2026-06-07T12:07:51+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64338",
-    "score": 6.0,
-    "views": 37109,
-    "forwards": 0
   }
 ]
