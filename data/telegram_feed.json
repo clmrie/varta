@@ -1,5 +1,95 @@
 [
   {
+    "title": "Zaporizhzhia: Casualties reported",
+    "title_en": "Zaporizhzhia: Casualties reported",
+    "title_uk": "Запоріжжя: повідомляється про постраждалих",
+    "description": "Russians strike near bus stop in Zaporizhzhia Oblast with guided bombs: three killed – photo, video Three people were killed and three others injured due to a Russian attack on the settlement of Balabyne in Zaporizhzhia Oblast with guided aerial bombs on 7 June. Read the full article on our website",
+    "description_en": "Russians strike near bus stop in Zaporizhzhia Oblast with guided bombs: three killed – photo, video Three people were killed and three others injured due to a Russian attack on the settlement of Balabyne in Zaporizhzhia Oblast with guided aerial bombs on 7 June. Read the full article on our website",
+    "description_uk": "Russians strike near bus stop in Zaporizhzhia Oblast with guided bombs: three killed – photo, video Three people were killed and three others injured due to a Russian attack on the settlement of Balabyne in Zaporizhzhia Oblast with guided aerial bombs on 7 June. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-06-07T11:27:56+00:00",
+    "category": "shelling",
+    "severity": "critical",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48470",
+    "score": 6.0,
+    "views": 2,
+    "forwards": 0
+  },
+  {
+    "title": "BpLA ➡️ in the direction of Sumy from the north.",
+    "title_en": "BpLA ➡️ in the direction of Sumy from the north.",
+    "title_uk": "БпЛА ➡️ в напрямку Сум з півночі.",
+    "description": "BpLA ➡️ in the direction of Sumy from the north.",
+    "description_en": "BpLA ➡️ in the direction of Sumy from the north.",
+    "description_uk": "БпЛА ➡️ в напрямку Сум із півночі.",
+    "time": "",
+    "pubDate": "2026-06-07T11:12:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64337",
+    "score": 5.0,
+    "views": 15173,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: BpLA ➡️ course to Zaporizhzhia from the south.",
+    "title_en": "Zaporizhzhia: BpLA ➡️ course to Zaporizhzhia from the south.",
+    "title_uk": "Запоріжжя: курс BpLA ➡️ на Запоріжжя з півдня.",
+    "description": "BpLA ➡️ course to Zaporizhzhia from the south.",
+    "description_en": "BpLA ➡️ course to Zaporizhzhia from the south.",
+    "description_uk": "БпЛА ➡️ курсом на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-06-07T10:47:56+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64336",
+    "score": 6.0,
+    "views": 29482,
+    "forwards": 0
+  },
+  {
+    "title": "Kherson: Drone attack",
+    "title_en": "Kherson: Drone attack",
+    "title_uk": "Херсон: атака безпілотників",
+    "description": "Drone attack damages bridge between Kherson Oblast and Crimea A drone attack damaged a bridge near Chonhar, forcing the suspension of traffic via Dzhankoi. Alternative routes remain available through Armiansk and Perekop. Read the full article on our website",
+    "description_en": "Drone attack damages bridge between Kherson Oblast and Crimea A drone attack damaged a bridge near Chonhar, forcing the suspension of traffic via Dzhankoi. Alternative routes remain available through Armiansk and Perekop. Read the full article on our website",
+    "description_uk": "Drone attack damages bridge between Kherson Oblast and Crimea A drone attack damaged a bridge near Chonhar, forcing the suspension of traffic via Dzhankoi. Alternative routes remain available through Armiansk and Perekop. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-06-07T10:38:38+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48468",
+    "score": 5.0,
+    "views": 7,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Ukraine, Russia agree to 'start from scratch' on POW lists after...",
+    "title_en": "Kyiv: Ukraine, Russia agree to 'start from scratch' on POW lists after...",
+    "title_uk": "Київ: Україна та Росія домовилися «почати з нуля» списки військовополонених після...",
+    "description": "Ukraine, Russia agree to 'start from scratch' on POW lists after ombudsmen meet in Belarus. The June 5 meeting marks the start of a new phase of communication on prisoner and hostage issues after Russia appointed Lantratova as ombudswoman in May.",
+    "description_en": "Ukraine, Russia agree to 'start from scratch' on POW lists after ombudsmen meet in Belarus. The June 5 meeting marks the start of a new phase of communication on prisoner and hostage issues after Russia appointed Lantratova as ombudswoman in May.",
+    "description_uk": "Ukraine, Russia agree to 'start from scratch' on POW lists after ombudsmen meet in Belarus. The June 5 meeting marks the start of a new phase of communication on prisoner and hostage issues after Russia appointed Lantratova as ombudswoman in May.",
+    "time": "",
+    "pubDate": "2026-06-07T09:57:22+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53553",
+    "score": 4.5,
+    "views": 782,
+    "forwards": 1
+  },
+  {
     "title": "⛽️ Welcome to the \"energy superpower\" In Sevastopol, they decided to...",
     "title_en": "⛽️ Welcome to the \"energy superpower\" In Sevastopol, they decided to...",
     "title_uk": "⛽️ Ласкаво просимо до «енергетичної супердержави» У Севастополі вирішили...",
@@ -13,9 +103,9 @@
     "location": "Sevastopol",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193209",
-    "score": 5.0,
-    "views": 3236,
-    "forwards": 2
+    "score": 5.5,
+    "views": 82733,
+    "forwards": 108
   },
   {
     "title": "Kyiv: Drone strike",
@@ -32,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53551",
     "score": 5.0,
-    "views": 567,
-    "forwards": 1
+    "views": 1158,
+    "forwards": 2
   },
   {
     "title": "Drone incoming",
@@ -68,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19413",
     "score": 22.0,
-    "views": 71347,
-    "forwards": 348
+    "views": 132273,
+    "forwards": 458
   },
   {
     "title": "Casualties reported",
@@ -86,8 +176,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9267",
     "score": 9.0,
-    "views": 362,
-    "forwards": 7
+    "views": 509,
+    "forwards": 9
   },
   {
     "title": "🛸 BpLA in the north of Sumy Region ➡️ heading for Shostka, Krolevets.",
@@ -122,8 +212,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39645",
     "score": 27.0,
-    "views": 5240,
-    "forwards": 68
+    "views": 6869,
+    "forwards": 74
   },
   {
     "title": "Strike confirmed on residential building",
@@ -139,9 +229,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193194",
-    "score": 5.5,
-    "views": 108159,
-    "forwards": 183
+    "score": 6.5,
+    "views": 134254,
+    "forwards": 220
   },
   {
     "title": "Donetsk: Energy infrastructure hit",
@@ -194,8 +284,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39638",
     "score": 13.0,
-    "views": 4067,
-    "forwards": 12
+    "views": 4472,
+    "forwards": 13
   },
   {
     "title": "Chernihiv: Chernihiv Oblast: BpLA ➡️ passing by Lynovytsa heading for Kyiv...",
@@ -270,24 +360,6 @@
     "forwards": 1
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ Threat of using ballistic weapons from Bryansk.",
-    "description_en": "☄️ Threat of using ballistic weapons from Bryansk.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння з Брянська.",
-    "time": "",
-    "pubDate": "2026-06-06T22:10:21+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64271",
-    "score": 5.5,
-    "views": 44398,
-    "forwards": 67
-  },
-  {
     "title": "Dnipro: Attack attack on infrastructure",
     "title_en": "Dnipro: Attack attack on infrastructure",
     "title_uk": "Дніпро: Атака на інфраструктуру",
@@ -303,24 +375,6 @@
     "link": "https://t.me/pravda_eng/48451",
     "score": 10.0,
     "views": 34,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: Casualties reported",
-    "title_en": "Zaporizhzhia: Casualties reported",
-    "title_uk": "Запоріжжя: повідомляється про постраждалих",
-    "description": "Russian forces attack minibus in Zaporizhzhia Oblast, driver killed Russian forces have attacked a minibus with an FPV drone in Zaporizhzhia Oblast, killing the 56-year-old driver. Read the full article on our website",
-    "description_en": "Russian forces attack minibus in Zaporizhzhia Oblast, driver killed Russian forces have attacked a minibus with an FPV drone in Zaporizhzhia Oblast, killing the 56-year-old driver. Read the full article on our website",
-    "description_uk": "Russian forces attack minibus in Zaporizhzhia Oblast, driver killed Russian forces have attacked a minibus with an FPV drone in Zaporizhzhia Oblast, killing the 56-year-old driver. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-06T16:38:34+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48450",
-    "score": 9.0,
-    "views": 13,
     "forwards": 0
   },
   {
@@ -393,60 +447,6 @@
     "link": "https://t.me/pravda_eng/48443",
     "score": 13.0,
     "views": 13,
-    "forwards": 0
-  },
-  {
-    "title": "Crimea: 1 killed, 4 injured",
-    "title_en": "Crimea: 1 killed, 4 injured",
-    "title_uk": "Крим: 1 загинув, 4 поранені",
-    "description": "Turkish-flagged fishing vessel attacked near occupied Crimea, coast guard says, 1 dead, 4 injured. The Turkish Coast Guard didn't specify who may have been responsible for the attack.",
-    "description_en": "Turkish-flagged fishing vessel attacked near occupied Crimea, coast guard says, 1 dead, 4 injured. The Turkish Coast Guard didn't specify who may have been responsible for the attack.",
-    "description_uk": "Turkish-flagged fishing vessel attacked near occupied Crimea, coast guard says, 1 dead, 4 injured. The Turkish Coast Guard didn't specify who may have been responsible for the attack.",
-    "time": "",
-    "pubDate": "2026-06-06T13:49:40+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Crimea",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53540",
-    "score": 6.0,
-    "views": 2489,
-    "forwards": 2
-  },
-  {
-    "title": "Kyiv: Strike confirmed",
-    "title_en": "Kyiv: Strike confirmed",
-    "title_uk": "Київ: Страйк підтверджено",
-    "description": "Russia obstructed evacuations after Kakhovka dam destruction leading to civilian casualties, report says. “Russian forces and occupation authorities made effective use of the response window — the period during which an emergency has not yet reached the peak of its destructive impact — significantly more difficult,” said Roman Koval, head of research at Truth Hounds.",
-    "description_en": "Russia obstructed evacuations after Kakhovka dam destruction leading to civilian casualties, report says. “Russian forces and occupation authorities made effective use of the response window — the period during which an emergency has not yet reached the peak of its destructive impact — significantly more difficult,” said Roman Koval, head of research at Truth Hounds.",
-    "description_uk": "Russia obstructed evacuations after Kakhovka dam destruction leading to civilian casualties, report says. “Russian forces and occupation authorities made effective use of the response window — the period during which an emergency has not yet reached the peak of its destructive impact — significantly more difficult,” said Roman Koval, head of research at Truth Hounds.",
-    "time": "",
-    "pubDate": "2026-06-06T11:53:47+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53539",
-    "score": 15.0,
-    "views": 1982,
-    "forwards": 2
-  },
-  {
-    "title": "Odesa: Casualties reported",
-    "title_en": "Odesa: Casualties reported",
-    "title_uk": "Одеса: повідомляється про постраждалих",
-    "description": "Russia's war pushes Black Sea ecosystem to brink as 22 cetaceans found dead in Odesa Oblast national park Researchers found a record number of cetacean bodies on the Black Sea coast near the Tuzly Estuaries National Nature Park in Odesa Oblast in a single day: 22 animals. Read the full article on our website",
-    "description_en": "Russia's war pushes Black Sea ecosystem to brink as 22 cetaceans found dead in Odesa Oblast national park Researchers found a record number of cetacean bodies on the Black Sea coast near the Tuzly Estuaries National Nature Park in Odesa Oblast in a single day: 22 animals. Read the full article on our website",
-    "description_uk": "Russia's war pushes Black Sea ecosystem to brink as 22 cetaceans found dead in Odesa Oblast national park Researchers found a record number of cetacean bodies on the Black Sea coast near the Tuzly Estuaries National Nature Park in Odesa Oblast in a single day: 22 animals. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-06T11:41:04+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Odesa",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48440",
-    "score": 9.0,
-    "views": 15,
     "forwards": 0
   }
 ]
