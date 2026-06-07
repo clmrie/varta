@@ -1,5 +1,41 @@
 [
   {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-06-07T00:36:40+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64282",
+    "score": 5.0,
+    "views": 22919,
+    "forwards": 2
+  },
+  {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Drone incoming",
+    "description": "UAV in the direction of Kyiv from the east.",
+    "description_en": "UAV in the direction of Kyiv from the east.",
+    "description_uk": "БпЛА в напрямку м.Київ зі сходу.",
+    "time": "",
+    "pubDate": "2026-06-07T00:35:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64281",
+    "score": 6.0,
+    "views": 24259,
+    "forwards": 1
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53543",
     "score": 4.5,
-    "views": 1327,
+    "views": 1586,
     "forwards": 4
   },
   {
@@ -140,7 +176,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48451",
     "score": 10.0,
-    "views": 32,
+    "views": 34,
     "forwards": 0
   },
   {
@@ -194,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193174",
     "score": 6.5,
-    "views": 152622,
-    "forwards": 448
+    "views": 157773,
+    "forwards": 460
   },
   {
     "title": "Such entertainment today in Odessa. Instead of bulls, now they catch...",
@@ -356,44 +392,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53540",
     "score": 6.0,
-    "views": 2359,
+    "views": 2489,
     "forwards": 2
-  },
-  {
-    "title": "Polish defence minister meets head of Zelenskyy's office over name of...",
-    "title_en": "Polish defence minister meets head of Zelenskyy's office over name of...",
-    "title_uk": "Міністр оборони Польщі зустрівся з головою канцелярії Зеленського щодо імені...",
-    "description": "Polish defence minister meets head of Zelenskyy's office over name of Ukrainian military unit: \"There are lines that must not be crossed\" The Polish defence minister urges Ukraine to reconsider naming a military unit after Heroes of the Ukrainian Insurgent Army. Read the full article on our website",
-    "description_en": "Polish defence minister meets head of Zelenskyy's office over name of Ukrainian military unit: \"There are lines that must not be crossed\" The Polish defence minister urges Ukraine to reconsider naming a military unit after Heroes of the Ukrainian Insurgent Army. Read the full article on our website",
-    "description_uk": "Polish defence minister meets head of Zelenskyy's office over name of Ukrainian military unit: \"There are lines that must not be crossed\" The Polish defence minister urges Ukraine to reconsider naming a military unit after Heroes of the Ukrainian Insurgent Army. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-06T12:39:11+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48441",
-    "score": 5.0,
-    "views": 6,
-    "forwards": 0
-  },
-  {
-    "title": "Unmanned aerial vehicle from the Black Sea area in the direction of...",
-    "title_en": "Unmanned aerial vehicle from the Black Sea area in the direction of...",
-    "title_uk": "Безпілотний літальний апарат з акваторії Чорного моря в напрямку...",
-    "description": "Unmanned aerial vehicle from the Black Sea area in the direction of Odesa (Black Sea/South)",
-    "description_en": "Unmanned aerial vehicle from the Black Sea area in the direction of Odesa (Black Sea/South)",
-    "description_uk": "БпЛА з акаваторії Чорного моря в напрямку Одещини (Чорноморське/Південне)",
-    "time": "",
-    "pubDate": "2026-06-06T12:10:15+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64240",
-    "score": 5.0,
-    "views": 35416,
-    "forwards": 0
   },
   {
     "title": "Kyiv: Strike confirmed",
@@ -446,7 +446,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23553",
     "score": 7.5,
-    "views": 127088,
-    "forwards": 446
+    "views": 128585,
+    "forwards": 450
   }
 ]
