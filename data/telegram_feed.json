@@ -1,5 +1,77 @@
 [
   {
+    "title": "Kirovohrad region: BpLA ➡️ heading for Pomichna.",
+    "title_en": "Kirovohrad region: BpLA ➡️ heading for Pomichna.",
+    "title_uk": "Кіровоградська область: BpLA ➡️ прямує на Помічну.",
+    "description": "Kirovohrad region: BpLA ➡️ heading for Pomichna.",
+    "description_en": "Kirovohrad region: BpLA ➡️ heading for Pomichna.",
+    "description_uk": "Кіровоградщина: БпЛА ➡️ курсом на Помічну.",
+    "time": "",
+    "pubDate": "2026-06-07T18:48:49+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64371",
+    "score": 5.0,
+    "views": 18221,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAVs in Sumy Oblast ➡️ heading for Konotop.",
+    "description_en": "Jet UAVs in Sumy Oblast ➡️ heading for Konotop.",
+    "description_uk": "Реактивні БпЛА на Сумщині ➡️ курсом на Конотоп.",
+    "time": "",
+    "pubDate": "2026-06-07T18:27:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64369",
+    "score": 5.0,
+    "views": 41509,
+    "forwards": 0
+  },
+  {
+    "title": "Crimea: Drone strike",
+    "title_en": "Crimea: Drone strike",
+    "title_uk": "Крим: удар безпілотника",
+    "description": "Ukraine war latest: Chornobyl's spent nuclear fuel depot hit by Russian drone A Russian drone strike damaged part of the Centralized Spent Nuclear Fuel Storage Facility in the Chornobyl Exclusion Zone overnight on June 7, Ukraine's state nuclear operator Energoatom reported. At the same time, a bridge near the village of Chonhar connecting occupied Crimea with Russian-controlled parts of southern...",
+    "description_en": "Ukraine war latest: Chornobyl's spent nuclear fuel depot hit by Russian drone A Russian drone strike damaged part of the Centralized Spent Nuclear Fuel Storage Facility in the Chornobyl Exclusion Zone overnight on June 7, Ukraine's state nuclear operator Energoatom reported. At the same time, a bridge near the village of Chonhar connecting occupied Crimea with Russian-controlled parts of southern...",
+    "description_uk": "Ukraine war latest: Chornobyl's spent nuclear fuel depot hit by Russian drone A Russian drone strike damaged part of the Centralized Spent Nuclear Fuel Storage Facility in the Chornobyl Exclusion Zone overnight on June 7, Ukraine's state nuclear operator Energoatom reported. At the same time, a bridge near the village of Chonhar connecting occupied Crimea with Russian-controlled parts of southern...",
+    "time": "",
+    "pubDate": "2026-06-07T18:22:06+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Crimea",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53560",
+    "score": 8.0,
+    "views": 563,
+    "forwards": 2
+  },
+  {
+    "title": "Kherson: Drone strike",
+    "title_en": "Kherson: Drone strike",
+    "title_uk": "Херсон: Удар безпілотників",
+    "description": "Ukraine carries out Chonhar strike using Behemot and Fire Point drones – photos The strike on the road bridge near Chonhar, linking temporarily occupied Crimea and Kherson Oblast, was carried out using Ukrainian-made Behemot and Fire Point drones. Read the full article on our website",
+    "description_en": "Ukraine carries out Chonhar strike using Behemot and Fire Point drones – photos The strike on the road bridge near Chonhar, linking temporarily occupied Crimea and Kherson Oblast, was carried out using Ukrainian-made Behemot and Fire Point drones. Read the full article on our website",
+    "description_uk": "Ukraine carries out Chonhar strike using Behemot and Fire Point drones – photos The strike on the road bridge near Chonhar, linking temporarily occupied Crimea and Kherson Oblast, was carried out using Ukrainian-made Behemot and Fire Point drones. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-06-07T18:18:04+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48488",
+    "score": 5.0,
+    "views": 14,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_uk": "Харків: БпЛА на Харків з півночі.",
@@ -32,26 +104,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39653",
     "score": 5.0,
-    "views": 977,
-    "forwards": 8
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A group of UAVs from the Black Sea ➡️ heading for Odesa.",
-    "description_en": "A group of UAVs from the Black Sea ➡️ heading for Odesa.",
-    "description_uk": "Група БпЛА з Чорного моря ➡️ курсом на Одещину.",
-    "time": "",
-    "pubDate": "2026-06-07T17:28:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64358",
-    "score": 5.0,
-    "views": 19240,
-    "forwards": 1
+    "views": 2550,
+    "forwards": 9
   },
   {
     "title": "Nikopol: Casualties reported",
@@ -86,7 +140,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48485",
     "score": 5.0,
-    "views": 16,
+    "views": 27,
     "forwards": 0
   },
   {
@@ -158,8 +212,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9268",
     "score": 10.5,
-    "views": 508,
-    "forwards": 5
+    "views": 591,
+    "forwards": 6
   },
   {
     "title": "Mykolaiv: Mykolayiv region: BpLA ➡️ heading for Snigurivka.",
@@ -198,24 +252,6 @@
     "forwards": 357
   },
   {
-    "title": "Kherson: Drone strike",
-    "title_en": "Kherson: Drone strike",
-    "title_uk": "Херсон: Удар безпілотників",
-    "description": "Russia hits petrol station in Kherson, injuring worker Russian forces have attacked a petrol station in the city of Kherson with a drone. Read the full article on our website",
-    "description_en": "Russia hits petrol station in Kherson, injuring worker Russian forces have attacked a petrol station in the city of Kherson with a drone. Read the full article on our website",
-    "description_uk": "Russia hits petrol station in Kherson, injuring worker Russian forces have attacked a petrol station in the city of Kherson with a drone. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-07T13:35:46+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kherson",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48473",
-    "score": 10.0,
-    "views": 13,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
     "title_uk": "Київ: Повідомляється про вибухи",
@@ -230,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53557",
     "score": 5.0,
-    "views": 1694,
+    "views": 1938,
     "forwards": 7
   },
   {
@@ -304,24 +340,6 @@
     "score": 3.5,
     "views": 31264,
     "forwards": 81
-  },
-  {
-    "title": "Crimea: Drone strike",
-    "title_en": "Crimea: Drone strike",
-    "title_uk": "Крим: удар безпілотника",
-    "description": "Update: Ukraine strikes oil depot, marine terminal in occupied Crimea, releases footage of attack. Ukrainian drones struck the Semikolodyansk oil depot near the town of Yedi Quyu in Russian-occupied Crimea overnight on June 7, Ukraine's Special Operations Forces reported.",
-    "description_en": "Update: Ukraine strikes oil depot, marine terminal in occupied Crimea, releases footage of attack. Ukrainian drones struck the Semikolodyansk oil depot near the town of Yedi Quyu in Russian-occupied Crimea overnight on June 7, Ukraine's Special Operations Forces reported.",
-    "description_uk": "Update: Ukraine strikes oil depot, marine terminal in occupied Crimea, releases footage of attack. Ukrainian drones struck the Semikolodyansk oil depot near the town of Yedi Quyu in Russian-occupied Crimea overnight on June 7, Ukraine's Special Operations Forces reported.",
-    "time": "",
-    "pubDate": "2026-06-07T12:40:45+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Crimea",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53556",
-    "score": 8.0,
-    "views": 1859,
-    "forwards": 3
   },
   {
     "title": "Crimea: Attack attack",
@@ -430,23 +448,5 @@
     "score": 5.0,
     "views": 7,
     "forwards": 0
-  },
-  {
-    "title": "Kyiv: Ukraine, Russia agree to 'start from scratch' on POW lists after...",
-    "title_en": "Kyiv: Ukraine, Russia agree to 'start from scratch' on POW lists after...",
-    "title_uk": "Київ: Україна та Росія домовилися «почати з нуля» списки військовополонених після...",
-    "description": "Ukraine, Russia agree to 'start from scratch' on POW lists after ombudsmen meet in Belarus. The June 5 meeting marks the start of a new phase of communication on prisoner and hostage issues after Russia appointed Lantratova as ombudswoman in May.",
-    "description_en": "Ukraine, Russia agree to 'start from scratch' on POW lists after ombudsmen meet in Belarus. The June 5 meeting marks the start of a new phase of communication on prisoner and hostage issues after Russia appointed Lantratova as ombudswoman in May.",
-    "description_uk": "Ukraine, Russia agree to 'start from scratch' on POW lists after ombudsmen meet in Belarus. The June 5 meeting marks the start of a new phase of communication on prisoner and hostage issues after Russia appointed Lantratova as ombudswoman in May.",
-    "time": "",
-    "pubDate": "2026-06-07T09:57:22+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53553",
-    "score": 4.5,
-    "views": 782,
-    "forwards": 1
   }
 ]
