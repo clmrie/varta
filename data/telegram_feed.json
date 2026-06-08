@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV in Sumy Oblast on/past Lypova Dolyna heading for Poltava Oblast.",
+    "description_en": "UAV in Sumy Oblast on/past Lypova Dolyna heading for Poltava Oblast.",
+    "description_uk": "БпЛА на Сумщині на/повз Липову Долину курсом на Полтавщину.",
+    "time": "",
+    "pubDate": "2026-06-08T21:02:49+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64542",
+    "score": 5.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: Sumyshchyna: BpLA on/past Mykolayivka/Ulyanivka from the north.",
+    "title_en": "Mykolaiv: Sumyshchyna: BpLA on/past Mykolayivka/Ulyanivka from the north.",
+    "title_uk": "Миколаїв: Сумщина: БпЛА на/повз Миколаївку/Ульянівку з півночі.",
+    "description": "Sumyshchyna: BpLA on/past Mykolayivka/Ulyanivka from the north.",
+    "description_en": "Sumyshchyna: BpLA on/past Mykolayivka/Ulyanivka from the north.",
+    "description_uk": "Сумщина: БпЛА на/повз Миколаївку/Улянівку з півночі.",
+    "time": "",
+    "pubDate": "2026-06-08T20:43:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64540",
+    "score": 6.0,
+    "views": 15221,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Here's what Candace Owens gets wrong on Russia Candace Owens billed...",
+    "title_en": "Kyiv: Here's what Candace Owens gets wrong on Russia Candace Owens billed...",
+    "title_uk": "Київ: Ось у чому Кендіс Оуенс помиляється щодо Росії. Кендіс Оуенс виставила рахунок...",
+    "description": "Here's what Candace Owens gets wrong on Russia Candace Owens billed her trip to Russia last week as a family vacation. It turned into something far more useful for the Kremlin. While known primarily for railing against Israel and spreading conspiracy theories about France's first lady, Owens now tried her hand at whitewashing Russia for U.S. audiences. The Kyiv Independent explains why her...",
+    "description_en": "Here's what Candace Owens gets wrong on Russia Candace Owens billed her trip to Russia last week as a family vacation. It turned into something far more useful for the Kremlin. While known primarily for railing against Israel and spreading conspiracy theories about France's first lady, Owens now tried her hand at whitewashing Russia for U.S. audiences. The Kyiv Independent explains why her...",
+    "description_uk": "Here's what Candace Owens gets wrong on Russia Candace Owens billed her trip to Russia last week as a family vacation. It turned into something far more useful for the Kremlin. While known primarily for railing against Israel and spreading conspiracy theories about France's first lady, Owens now tried her hand at whitewashing Russia for U.S. audiences. The Kyiv Independent explains why her...",
+    "time": "",
+    "pubDate": "2026-06-08T19:34:11+00:00",
+    "category": "political",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53584",
+    "score": 5.0,
+    "views": 1094,
+    "forwards": 2
+  },
+  {
     "title": "Kyiv: Ukraine war latest: Kyiv recaptures more territory than it loses in...",
     "title_en": "Kyiv: Ukraine war latest: Kyiv recaptures more territory than it loses in...",
     "title_uk": "Київ: остання війна в Україні: Київ відвойовує більше території, ніж втрачає за...",
@@ -14,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53582",
     "score": 5.0,
-    "views": 96,
-    "forwards": 2
+    "views": 1392,
+    "forwards": 6
   },
   {
     "title": "Air defense active",
@@ -32,7 +86,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48541",
     "score": 12.5,
-    "views": 9,
+    "views": 27,
     "forwards": 0
   },
   {
@@ -68,25 +122,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48539",
     "score": 15.0,
-    "views": 20,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A jet UAV in the waters of the Black Sea, heading for Odesa (Bay).",
-    "description_en": "A jet UAV in the waters of the Black Sea, heading for Odesa (Bay).",
-    "description_uk": "Реактивний БпЛА в акваторії Чорного моря, курсом на Одещину (Затока).",
-    "time": "",
-    "pubDate": "2026-06-08T17:07:54+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64515",
-    "score": 5.0,
-    "views": 69785,
+    "views": 28,
     "forwards": 0
   },
   {
@@ -194,8 +230,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23555",
     "score": 11.5,
-    "views": 93428,
-    "forwards": 334
+    "views": 111520,
+    "forwards": 379
   },
   {
     "title": "🇬🇧 Within the framework of the visit of the President of Ukraine...",
@@ -212,7 +248,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9272",
     "score": 10.0,
-    "views": 716,
+    "views": 760,
     "forwards": 11
   },
   {
@@ -360,24 +396,6 @@
     "forwards": 19
   },
   {
-    "title": "Power outage reported",
-    "title_en": "Power outage reported",
-    "title_uk": "Повідомлено про відключення електроенергії",
-    "description": "👀 Ukrainians almost outplayed NATO, speaking for the \"Russian\" side, - FT At the NATO cyber exercises in Bydgoszcz, Poland, Ukrainian specialists were given an unusual role - they portrayed a conditional aggressor whose methods were based on Russian disinformation campaigns. Over the course of three days, the participants worked out blackout, flooding, and banking system hacking scenarios. The Ukrainian team massively...",
-    "description_en": "👀 Ukrainians almost outplayed NATO, speaking for the \"Russian\" side, - FT At the NATO cyber exercises in Bydgoszcz, Poland, Ukrainian specialists were given an unusual role - they portrayed a conditional aggressor whose methods were based on Russian disinformation campaigns. Over the course of three days, the participants worked out blackout, flooding, and banking system hacking scenarios. The Ukrainian team massively...",
-    "description_uk": "👀 Украинцы едва не переиграли НАТО, выступая за \"российскую\" сторону, - FT На киберучениях НАТО в польском Быдгоще украинские специалисты получили необычную роль - они изображали условного агрессора, чьи методы были построены на российских дезинформационных кампаниях. В течение трех дней участники отрабатывали сценарии блэкаута, наводнения и взлома банковской системы. Украинская команда массово...",
-    "time": "",
-    "pubDate": "2026-06-07T19:43:01+00:00",
-    "category": "political",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/193243",
-    "score": 6.5,
-    "views": 116514,
-    "forwards": 224
-  },
-  {
     "title": "Explosions reported",
     "title_en": "Explosions reported",
     "title_uk": "Повідомляється про вибухи",
@@ -392,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9268",
     "score": 10.5,
-    "views": 1174,
+    "views": 1188,
     "forwards": 7
   },
   {
@@ -410,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19413",
     "score": 22.0,
-    "views": 316022,
+    "views": 319538,
     "forwards": 668
   }
 ]
