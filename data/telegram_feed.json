@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kharkiv: Kharkiv region: BpLA in the direction of Kharkiv and Chuguyev.",
+    "title_en": "Kharkiv: Kharkiv region: BpLA in the direction of Kharkiv and Chuguyev.",
+    "title_uk": "Харків: Харківська обл.: БпЛА в напрямку Харкова та Чугуєва.",
+    "description": "Kharkiv region: BpLA in the direction of Kharkiv and Chuguyev.",
+    "description_en": "Kharkiv region: BpLA in the direction of Kharkiv and Chuguyev.",
+    "description_uk": "Харківщина: БпЛА в напрямку Харкова та Чугуєва.",
+    "time": "",
+    "pubDate": "2026-06-08T23:48:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64552",
+    "score": 6.0,
+    "views": 1523,
+    "forwards": 1
+  },
+  {
     "title": "Several BpLA in Kharkiv district!",
     "title_en": "Several BpLA in Kharkiv district!",
     "title_uk": "Кілька БпЛА в Харківському районі!",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/64549",
     "score": 5.0,
-    "views": 10140,
-    "forwards": 1
+    "views": 19456,
+    "forwards": 26
   },
   {
     "title": "Sumyshchyna: BpLA in the direction of Niziv from the northeast.",
@@ -86,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53584",
     "score": 5.0,
-    "views": 1532,
-    "forwards": 3
+    "views": 1656,
+    "forwards": 4
   },
   {
     "title": "Kyiv: Ukraine war latest: Kyiv recaptures more territory than it loses in...",
@@ -104,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53582",
     "score": 5.0,
-    "views": 1713,
-    "forwards": 7
+    "views": 1810,
+    "forwards": 8
   },
   {
     "title": "Air defense active",
@@ -122,7 +140,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48541",
     "score": 12.5,
-    "views": 35,
+    "views": 36,
     "forwards": 0
   },
   {
@@ -158,7 +176,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48539",
     "score": 15.0,
-    "views": 33,
+    "views": 34,
     "forwards": 0
   },
   {
@@ -266,7 +284,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23555",
     "score": 11.5,
-    "views": 119516,
+    "views": 121307,
     "forwards": 401
   },
   {
@@ -284,44 +302,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9272",
     "score": 10.0,
-    "views": 778,
+    "views": 779,
     "forwards": 11
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "UAV in the Kharkiv region in the direction of Stary Saltov from the northeast.",
-    "description_en": "UAV in the Kharkiv region in the direction of Stary Saltov from the northeast.",
-    "description_uk": "БпЛА на Харківщині в напрямку Старого Салтова з північного сходу.",
-    "time": "",
-    "pubDate": "2026-06-08T11:47:25+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64480",
-    "score": 6.0,
-    "views": 21238,
-    "forwards": 0
-  },
-  {
-    "title": "UAV from Sumy Oblast headed for Poltava Oblast (vector - Hadyach).",
-    "title_en": "UAV from Sumy Oblast headed for Poltava Oblast (vector - Hadyach).",
-    "title_uk": "БПЛА із Сумської області взяв курс на Полтавську область (напрямок – Гадяч).",
-    "description": "UAV from Sumy Oblast headed for Poltava Oblast (vector - Hadyach).",
-    "description_en": "UAV from Sumy Oblast headed for Poltava Oblast (vector - Hadyach).",
-    "description_uk": "БпЛА з Сумщини курсом на Полтавщину (вектор -Гадяч).",
-    "time": "",
-    "pubDate": "2026-06-08T11:38:24+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64479",
-    "score": 5.0,
-    "views": 33347,
-    "forwards": 1
   },
   {
     "title": "Kyiv: 155 drones intercepted",
@@ -410,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9268",
     "score": 10.5,
-    "views": 1197,
+    "views": 1198,
     "forwards": 7
   },
   {
@@ -428,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19413",
     "score": 22.0,
-    "views": 320755,
+    "views": 321145,
     "forwards": 669
   }
 ]
