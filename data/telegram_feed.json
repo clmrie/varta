@@ -1,5 +1,41 @@
 [
   {
+    "title": "Dnipro: High-speed destination in the direction of Dnipropetrovsk region from...",
+    "title_en": "Dnipro: High-speed destination in the direction of Dnipropetrovsk region from...",
+    "title_uk": "Дніпро: Швидкісний напрямок у напрямку Дніпропетровської області від...",
+    "description": "High-speed destination in the direction of Dnipropetrovsk region from Donetsk region",
+    "description_en": "High-speed destination in the direction of Dnipropetrovsk region from Donetsk region",
+    "description_uk": "Швидкісна ціль у напрямку Дніпропетровщини із Донеччини",
+    "time": "",
+    "pubDate": "2026-06-09T21:50:56+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64672",
+    "score": 11.5,
+    "views": 12159,
+    "forwards": 69
+  },
+  {
+    "title": "Zaporizhzhia: BpLA from the Pavlograd district ➡️ in the direction of Pavlograd 🛵...",
+    "title_en": "Zaporizhzhia: BpLA from the Pavlograd district ➡️ in the direction of Pavlograd 🛵...",
+    "title_uk": "Запоріжжя: БпЛА з Павлоградського району ➡️ в напрямку Павлограда 🛵...",
+    "description": "BpLA from the Pavlograd district ➡️ in the direction of Pavlograd 🛵 BpLA from the south ➡️ to Zaporizhzhia",
+    "description_en": "BpLA from the Pavlograd district ➡️ in the direction of Pavlograd 🛵 BpLA from the south ➡️ to Zaporizhzhia",
+    "description_uk": "БпЛА із Павлоградського району ➡️ у напрямку Павлограда 🛵 БпЛА із півдня ➡️ на Запоріжжя",
+    "time": "",
+    "pubDate": "2026-06-09T21:41:29+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64670",
+    "score": 6.0,
+    "views": 17237,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Харків: Дрон вхід",
@@ -32,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53603",
     "score": 10.0,
-    "views": 863,
-    "forwards": 2
+    "views": 1353,
+    "forwards": 3
   },
   {
     "title": "Drone incoming",
@@ -68,7 +104,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48590",
     "score": 13.5,
-    "views": 25,
+    "views": 33,
     "forwards": 0
   },
   {
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53601",
     "score": 8.0,
-    "views": 1603,
+    "views": 1906,
     "forwards": 1
   },
   {
@@ -122,7 +158,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48587",
     "score": 5.0,
-    "views": 24,
+    "views": 27,
     "forwards": 0
   },
   {
@@ -158,8 +194,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9287",
     "score": 5.0,
-    "views": 611,
-    "forwards": 7
+    "views": 644,
+    "forwards": 8
   },
   {
     "title": "Kyiv: Russia's Starlink rival loses one of its first operational...",
@@ -284,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19439",
     "score": 5.5,
-    "views": 42101,
+    "views": 43647,
     "forwards": 76
   },
   {
@@ -378,24 +414,6 @@
     "forwards": 3
   },
   {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "The threat of attack UAVs in the north and east of Sumy Oblast.",
-    "description_en": "The threat of attack UAVs in the north and east of Sumy Oblast.",
-    "description_uk": "Загроза ударних БпЛА на півночі та сході Сумщини.",
-    "time": "",
-    "pubDate": "2026-06-09T10:01:37+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64594",
-    "score": 5.0,
-    "views": 22191,
-    "forwards": 0
-  },
-  {
     "title": "Kherson: Utility worker injured by Russian mine in central Kherson A...",
     "title_en": "Kherson: Utility worker injured by Russian mine in central Kherson A...",
     "title_uk": "Херсон: у центрі Херсона на російській міні постраждав комунальник...",
@@ -430,23 +448,5 @@
     "score": 18.0,
     "views": 814,
     "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Casualties reported",
-    "title_en": "Kharkiv: Casualties reported",
-    "title_uk": "Харків: повідомляється про постраждалих",
-    "description": "💬 Minister of Foreign Affairs Andriy Sybiga commented on Russia's ongoing terror against civilians: \"Having not achieved its goals on the battlefield, Russia is intensifying terror against civilians. The world cannot turn a blind eye to its scale. At least three people died, including a pregnant 22-year-old woman, in Chuguyev as a result of Russia's nighttime terrorist attacks on Kharkiv and the region. In Zaporizhzhia, Russian strikes killed...",
-    "description_en": "💬 Minister of Foreign Affairs Andriy Sybiga commented on Russia's ongoing terror against civilians: \"Having not achieved its goals on the battlefield, Russia is intensifying terror against civilians. The world cannot turn a blind eye to its scale. At least three people died, including a pregnant 22-year-old woman, in Chuguyev as a result of Russia's nighttime terrorist attacks on Kharkiv and the region. In Zaporizhzhia, Russian strikes killed...",
-    "description_uk": "💬 Міністр закордонних справ Андрій Сибіга прокоментував триваючий терор Росії проти цивільних: \"Не досягнувши своїх цілей на полі бою, Росія посилює терор проти цивільних. Світ не може закривати очі на його масштаби. Щонайменше троє людей загинули, серед них вагітна 22-річна жінка, у Чугуєві внаслідок нічних терористичних атак Росії на Харків та область. У Запоріжжі російські удари вбили...",
-    "time": "",
-    "pubDate": "2026-06-09T08:36:16+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kharkiv",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9276",
-    "score": 6.0,
-    "views": 746,
-    "forwards": 5
   }
 ]
