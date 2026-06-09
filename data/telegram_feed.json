@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "UAV from the east of Kharkiv Oblast ➡️ in the direction of Balaklia",
+    "description_en": "UAV from the east of Kharkiv Oblast ➡️ in the direction of Balaklia",
+    "description_uk": "БпЛА зі сходу Харківщини ➡️ у напрямку Балаклії",
+    "time": "",
+    "pubDate": "2026-06-09T20:20:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64652",
+    "score": 6.0,
+    "views": 8087,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Missile strike",
+    "title_en": "Kyiv: Missile strike",
+    "title_uk": "Київ: Ракетний удар",
+    "description": "Update: Russian military official killed in car bombing outside Moscow, media reports. The victim of a car bombing outside Moscow has been identified as Damir Davydov, a Russian military official responsible for missile and artillery ammunition supplies, according to Russian investigative outlet The Insider.",
+    "description_en": "Update: Russian military official killed in car bombing outside Moscow, media reports. The victim of a car bombing outside Moscow has been identified as Damir Davydov, a Russian military official responsible for missile and artillery ammunition supplies, according to Russian investigative outlet The Insider.",
+    "description_uk": "Update: Russian military official killed in car bombing outside Moscow, media reports. The victim of a car bombing outside Moscow has been identified as Damir Davydov, a Russian military official responsible for missile and artillery ammunition supplies, according to Russian investigative outlet The Insider.",
+    "time": "",
+    "pubDate": "2026-06-09T19:17:51+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53603",
+    "score": 10.0,
+    "views": 863,
+    "forwards": 2
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -32,7 +68,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48590",
     "score": 13.5,
-    "views": 11,
+    "views": 25,
     "forwards": 0
   },
   {
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53601",
     "score": 8.0,
-    "views": 957,
+    "views": 1603,
     "forwards": 1
   },
   {
@@ -86,7 +122,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48587",
     "score": 5.0,
-    "views": 15,
+    "views": 24,
     "forwards": 0
   },
   {
@@ -122,8 +158,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9287",
     "score": 5.0,
-    "views": 499,
-    "forwards": 6
+    "views": 611,
+    "forwards": 7
   },
   {
     "title": "Kyiv: Russia's Starlink rival loses one of its first operational...",
@@ -248,7 +284,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19439",
     "score": 5.5,
-    "views": 38439,
+    "views": 42101,
     "forwards": 76
   },
   {
@@ -267,24 +303,6 @@
     "link": "https://t.me/KyivIndependent_official/53596",
     "score": 4.0,
     "views": 301,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "UAV from the east of Kharkiv Oblast ➡️ in the direction of Chuguyev",
-    "description_en": "UAV from the east of Kharkiv Oblast ➡️ in the direction of Chuguyev",
-    "description_uk": "БпЛА зі сходу Харківщини ➡️ у напрямку Чугуєва",
-    "time": "",
-    "pubDate": "2026-06-09T12:58:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64606",
-    "score": 6.0,
-    "views": 28289,
     "forwards": 0
   },
   {
@@ -428,25 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9276",
     "score": 6.0,
-    "views": 726,
+    "views": 746,
     "forwards": 5
-  },
-  {
-    "title": "Chernihiv: Drone attack",
-    "title_en": "Chernihiv: Drone attack",
-    "title_uk": "Чернігів: Атака безпілотників",
-    "description": "Russians attack bread delivery lorry in Chernihiv Oblast, injuring driver A Russian FPV drone has struck a vehicle delivering bread in the border village of Semenivka in Chernihiv Oblast, injuring the driver. Read the full article on our website",
-    "description_en": "Russians attack bread delivery lorry in Chernihiv Oblast, injuring driver A Russian FPV drone has struck a vehicle delivering bread in the border village of Semenivka in Chernihiv Oblast, injuring the driver. Read the full article on our website",
-    "description_uk": "Russians attack bread delivery lorry in Chernihiv Oblast, injuring driver A Russian FPV drone has struck a vehicle delivering bread in the border village of Semenivka in Chernihiv Oblast, injuring the driver. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-09T08:34:05+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Chernihiv",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48561",
-    "score": 10.0,
-    "views": 20,
-    "forwards": 0
   }
 ]
