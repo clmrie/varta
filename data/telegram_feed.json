@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Київ: повідомляється про постраждалих",
+    "description": "Security Council officials condemn attacks on civilians at emergency UN session. The United Nations Security Council convened on June 8 to discuss Russia's recent large-scale attacks on Ukraine, as U.N. officials warned that civilian casualties and destruction have reached some of the highest levels seen in the war in recent months.",
+    "description_en": "Security Council officials condemn attacks on civilians at emergency UN session. The United Nations Security Council convened on June 8 to discuss Russia's recent large-scale attacks on Ukraine, as U.N. officials warned that civilian casualties and destruction have reached some of the highest levels seen in the war in recent months.",
+    "description_uk": "Security Council officials condemn attacks on civilians at emergency UN session. The United Nations Security Council convened on June 8 to discuss Russia's recent large-scale attacks on Ukraine, as U.N. officials warned that civilian casualties and destruction have reached some of the highest levels seen in the war in recent months.",
+    "time": "",
+    "pubDate": "2026-06-09T01:06:03+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53588",
+    "score": 9.0,
+    "views": 387,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV in the north of Sumy Oblast in the west/southwest direction.",
+    "description_en": "UAV in the north of Sumy Oblast in the west/southwest direction.",
+    "description_uk": "БпЛА на півночі Сумщини в західному/південно-західному напрямку.",
+    "time": "",
+    "pubDate": "2026-06-09T00:16:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64556",
+    "score": 5.0,
+    "views": 19802,
+    "forwards": 1
+  },
+  {
+    "title": "BpLA past Khotyn in the direction of Sumy.",
+    "title_en": "BpLA past Khotyn in the direction of Sumy.",
+    "title_uk": "БпЛА повз Хотин в напрямку Сум.",
+    "description": "BpLA past Khotyn in the direction of Sumy.",
+    "description_en": "BpLA past Khotyn in the direction of Sumy.",
+    "description_uk": "БпЛА повз Хотінь в напрямку Сум.",
+    "time": "",
+    "pubDate": "2026-06-09T00:08:33+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64555",
+    "score": 5.0,
+    "views": 19412,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: Kharkiv region: BpLA in the direction of Kharkiv and Chuguyev.",
     "title_en": "Kharkiv: Kharkiv region: BpLA in the direction of Kharkiv and Chuguyev.",
     "title_uk": "Харків: Харківська обл.: БпЛА в напрямку Харкова та Чугуєва.",
@@ -54,24 +108,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV in Sumy Oblast on/past Lypova Dolyna heading for Poltava Oblast.",
-    "description_en": "UAV in Sumy Oblast on/past Lypova Dolyna heading for Poltava Oblast.",
-    "description_uk": "БпЛА на Сумщині на/повз Липову Долину курсом на Полтавщину.",
-    "time": "",
-    "pubDate": "2026-06-08T21:02:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64542",
-    "score": 5.0,
-    "views": 1,
-    "forwards": 0
-  },
-  {
     "title": "Mykolaiv: Sumyshchyna: BpLA on/past Mykolayivka/Ulyanivka from the north.",
     "title_en": "Mykolaiv: Sumyshchyna: BpLA on/past Mykolayivka/Ulyanivka from the north.",
     "title_uk": "Миколаїв: Сумщина: БпЛА на/повз Миколаївку/Ульянівку з півночі.",
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53584",
     "score": 5.0,
-    "views": 1656,
+    "views": 1888,
     "forwards": 4
   },
   {
@@ -140,7 +176,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48541",
     "score": 12.5,
-    "views": 36,
+    "views": 37,
     "forwards": 0
   },
   {
@@ -176,7 +212,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48539",
     "score": 15.0,
-    "views": 34,
+    "views": 35,
     "forwards": 0
   },
   {
@@ -284,8 +320,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23555",
     "score": 11.5,
-    "views": 121307,
-    "forwards": 401
+    "views": 124869,
+    "forwards": 407
   },
   {
     "title": "🇬🇧 Within the framework of the visit of the President of Ukraine...",
@@ -302,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9272",
     "score": 10.0,
-    "views": 779,
+    "views": 781,
     "forwards": 11
   },
   {
@@ -392,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9268",
     "score": 10.5,
-    "views": 1198,
+    "views": 1199,
     "forwards": 7
   },
   {
@@ -410,7 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19413",
     "score": 22.0,
-    "views": 321145,
-    "forwards": 669
+    "views": 321730,
+    "forwards": 670
   }
 ]
