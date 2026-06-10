@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "A group of attack UAVs in the north of Sumy Oblast",
+    "description_en": "A group of attack UAVs in the north of Sumy Oblast",
+    "description_uk": "Група ударних БпЛА на півночі Сумщини",
+    "time": "",
+    "pubDate": "2026-06-10T21:44:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64792",
+    "score": 5.0,
+    "views": 6105,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Strike UAV from the north in the direction of Kharkiv",
+    "description_en": "Strike UAV from the north in the direction of Kharkiv",
+    "description_uk": "Ударний БпЛА з півночі в напрямку Харкова",
+    "time": "",
+    "pubDate": "2026-06-10T21:06:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64791",
+    "score": 5.0,
+    "views": 22350,
+    "forwards": 0
+  },
+  {
+    "title": "Cruise missile heading inbound",
+    "title_en": "Cruise missile heading inbound",
+    "title_uk": "Крилата ракета наближається",
+    "description": "The launcher of the \"Neptune\" cruise missile was adapted to launch the new Areion drone missiles. For your understanding, the Areion drone missile is a modification of the good old \"Palyanitsa\". According to the characteristics: 📌 Range: 600 km; 📌 BCH: 100-120 kg; 📌 Speed: 900 km/h. More cotton for God's sake.",
+    "description_en": "The launcher of the \"Neptune\" cruise missile was adapted to launch the new Areion drone missiles. For your understanding, the Areion drone missile is a modification of the good old \"Palyanitsa\". According to the characteristics: 📌 Range: 600 km; 📌 BCH: 100-120 kg; 📌 Speed: 900 km/h. More cotton for God's sake.",
+    "description_uk": "Пусковую установку крылатой ракеты \"Нептун\" адаптировали для запуска новых ракет-дронов Areion Для понимания, ракета-дрон Areion, это модификация старой-доброй \"Паляницы\". По характеристикам: 📌 Дальность: 600 км; 📌 БЧ: 100-120 кг; 📌 Скорость: 900 км/ч. Больше бавовны богу бавовны.",
+    "time": "",
+    "pubDate": "2026-06-10T20:19:22+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/193465",
+    "score": 8.5,
+    "views": 57064,
+    "forwards": 109
+  },
+  {
     "title": "Mariupol: Attack attack",
     "title_en": "Mariupol: Attack attack",
     "title_uk": "Маріуполь: Обстріл",
@@ -14,25 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53618",
     "score": 5.0,
-    "views": 628,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV from the Black Sea area heading for Odesa (in the Zatoka region)",
-    "description_en": "UAV from the Black Sea area heading for Odesa (in the Zatoka region)",
-    "description_uk": "БпЛА з акваторії Чорного моря курсом на Одещину (в район Затоки )",
-    "time": "",
-    "pubDate": "2026-06-10T19:04:14+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64779",
-    "score": 5.0,
-    "views": 50563,
+    "views": 1336,
     "forwards": 0
   },
   {
@@ -68,26 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19456",
     "score": 4.0,
-    "views": 20152,
-    "forwards": 19
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "Russian forces attack two ships in Ukrainian maritime corridor Russian forces launched drone attacks on two dry cargo vessels sailing under the flags of Barbados and Panama in the Black Sea on 10 June. The ships were sailing through the Ukrainian maritime corridor. Read the full article on our website",
-    "description_en": "Russian forces attack two ships in Ukrainian maritime corridor Russian forces launched drone attacks on two dry cargo vessels sailing under the flags of Barbados and Panama in the Black Sea on 10 June. The ships were sailing through the Ukrainian maritime corridor. Read the full article on our website",
-    "description_uk": "Russian forces attack two ships in Ukrainian maritime corridor Russian forces launched drone attacks on two dry cargo vessels sailing under the flags of Barbados and Panama in the Black Sea on 10 June. The ships were sailing through the Ukrainian maritime corridor. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-10T17:31:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48633",
-    "score": 8.0,
-    "views": 15,
-    "forwards": 0
+    "views": 27805,
+    "forwards": 34
   },
   {
     "title": "BpLA in Sumy Oblast ➡️ heading for Konotop.",
@@ -158,7 +176,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48629",
     "score": 6.0,
-    "views": 18,
+    "views": 21,
     "forwards": 0
   },
   {
@@ -176,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193454",
     "score": 13.5,
-    "views": 122001,
-    "forwards": 252
+    "views": 142756,
+    "forwards": 288
   },
   {
     "title": "Kyiv: Ukraine should not reject associate EU membership “As long as...",
@@ -194,8 +212,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53617",
     "score": 5.0,
-    "views": 1572,
-    "forwards": 4
+    "views": 1993,
+    "forwards": 5
   },
   {
     "title": "In Sumy, the downed Shahed crashed onto the railway platform when...",
@@ -392,26 +410,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39771",
     "score": 4.0,
-    "views": 20431,
+    "views": 21324,
     "forwards": 69
-  },
-  {
-    "title": "Evacuation ordered",
-    "title_en": "Evacuation ordered",
-    "title_uk": "Наказано евакуацію",
-    "description": "Ukrainian defence ministry reports over 50,000 ground drone missions since start of year The Ukrainian military has carried out more than 50,000 logistics and evacuation missions using ground robotic systems between January and early June 2026. Read the full article on our website",
-    "description_en": "Ukrainian defence ministry reports over 50,000 ground drone missions since start of year The Ukrainian military has carried out more than 50,000 logistics and evacuation missions using ground robotic systems between January and early June 2026. Read the full article on our website",
-    "description_uk": "Ukrainian defence ministry reports over 50,000 ground drone missions since start of year The Ukrainian military has carried out more than 50,000 logistics and evacuation missions using ground robotic systems between January and early June 2026. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-10T09:12:46+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48608",
-    "score": 5.0,
-    "views": 11,
-    "forwards": 0
   },
   {
     "title": "Drone strike",
@@ -428,25 +428,25 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19444",
     "score": 4.5,
-    "views": 225679,
-    "forwards": 1043
+    "views": 232823,
+    "forwards": 1064
   },
   {
-    "title": "Kyiv: Energy infrastructure hit",
-    "title_en": "Kyiv: Energy infrastructure hit",
-    "title_uk": "Київ: удар по енергетичній інфраструктурі",
-    "description": "Ukraine's race to winter: a 5.4-billion-euro plan, and a problem paying for it As Russian drones and missiles continue to pound Ukraine's war-damaged energy infrastructure, Kyiv is struggling to find funding for a 5.4 billion euro ($6.2 billion) \"energy resilience plan\" first announced in spring. While financing talks are ongoing with international partners, including the EU, Ukraine’s government...",
-    "description_en": "Ukraine's race to winter: a 5.4-billion-euro plan, and a problem paying for it As Russian drones and missiles continue to pound Ukraine's war-damaged energy infrastructure, Kyiv is struggling to find funding for a 5.4 billion euro ($6.2 billion) \"energy resilience plan\" first announced in spring. While financing talks are ongoing with international partners, including the EU, Ukraine’s government...",
-    "description_uk": "Ukraine's race to winter: a 5.4-billion-euro plan, and a problem paying for it As Russian drones and missiles continue to pound Ukraine's war-damaged energy infrastructure, Kyiv is struggling to find funding for a 5.4 billion euro ($6.2 billion) \"energy resilience plan\" first announced in spring. While financing talks are ongoing with international partners, including the EU, Ukraine’s government...",
+    "title": "Minister of Foreign Affairs of Ukraine Andriy Sybiga: \"Bosnia and...",
+    "title_en": "Minister of Foreign Affairs of Ukraine Andriy Sybiga: \"Bosnia and...",
+    "title_uk": "Міністр закордонних справ України Андрій Сибіга: «Боснія і...",
+    "description": "Minister of Foreign Affairs of Ukraine Andriy Sybiga: \"Bosnia and Herzegovina will become the 50th member of the International Coalition for the Return of Ukrainian Children\" Bosnia and Herzegovina has officially confirmed its intention to join the International Coalition for the Return of Ukrainian Children. With its accession, the number of states participating in the initiative reached 50. Andrii Sybiga expressed his gratitude to Bosnia and...",
+    "description_en": "Minister of Foreign Affairs of Ukraine Andriy Sybiga: \"Bosnia and Herzegovina will become the 50th member of the International Coalition for the Return of Ukrainian Children\" Bosnia and Herzegovina has officially confirmed its intention to join the International Coalition for the Return of Ukrainian Children. With its accession, the number of states participating in the initiative reached 50. Andrii Sybiga expressed his gratitude to Bosnia and...",
+    "description_uk": "Міністр закордонних справ України Андрій Сибіга: \"Боснія і Герцеговина стане 50-м учасником Міжнародної коаліції за повернення українських дітей\" Боснія і Герцеговина офіційно підтвердила свій намір приєднатися до Міжнародної коаліції за повернення українських дітей. З її приєднанням кількість держав-учасниць ініціативи досягнула позначки – 50. Андрій Сибіга висловив вдячність Боснії і...",
     "time": "",
-    "pubDate": "2026-06-10T08:13:55+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53610",
-    "score": 8.5,
-    "views": 1015,
-    "forwards": 3
+    "pubDate": "2026-06-09T15:58:37+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9287",
+    "score": 5.0,
+    "views": 1063,
+    "forwards": 10
   }
 ]
