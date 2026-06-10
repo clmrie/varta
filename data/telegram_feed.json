@@ -1,39 +1,57 @@
 [
   {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "A group of attack UAVs in the north of Sumy Oblast",
-    "description_en": "A group of attack UAVs in the north of Sumy Oblast",
-    "description_uk": "Група ударних БпЛА на півночі Сумщини",
+    "title": "Kyiv: Attack attack",
+    "title_en": "Kyiv: Attack attack",
+    "title_uk": "Київ: Атака",
+    "description": "Major oil refinery in southern Russia ablaze after Ukrainian attack, locals say. A fire broke out at the Afipsky Oil Refinery in Russia's Krasnodar Krai overnight on June 11, amid a massive Ukrainian attack, eyewitnesses claimed.",
+    "description_en": "Major oil refinery in southern Russia ablaze after Ukrainian attack, locals say. A fire broke out at the Afipsky Oil Refinery in Russia's Krasnodar Krai overnight on June 11, amid a massive Ukrainian attack, eyewitnesses claimed.",
+    "description_uk": "Major oil refinery in southern Russia ablaze after Ukrainian attack, locals say. A fire broke out at the Afipsky Oil Refinery in Russia's Krasnodar Krai overnight on June 11, amid a massive Ukrainian attack, eyewitnesses claimed.",
     "time": "",
-    "pubDate": "2026-06-10T21:44:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64792",
-    "score": 5.0,
-    "views": 6105,
+    "pubDate": "2026-06-10T23:15:54+00:00",
+    "category": "alert",
+    "severity": "medium",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53623",
+    "score": 4.0,
+    "views": 87,
     "forwards": 0
   },
   {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
-    "description": "Strike UAV from the north in the direction of Kharkiv",
-    "description_en": "Strike UAV from the north in the direction of Kharkiv",
-    "description_uk": "Ударний БпЛА з півночі в напрямку Харкова",
+    "description": "UAV from the waters of the Black Sea, heading for Odesa (Bilhorod-Dnistrovsky district).",
+    "description_en": "UAV from the waters of the Black Sea, heading for Odesa (Bilhorod-Dnistrovsky district).",
+    "description_uk": "БпЛА з акваторії Чорного моря, курсом на Одещину (Білгород-Дністровський район).",
     "time": "",
-    "pubDate": "2026-06-10T21:06:27+00:00",
+    "pubDate": "2026-06-10T23:14:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64796",
+    "score": 5.0,
+    "views": 3972,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "UAV in the Kharkiv region in the direction of Chuguyev from the east",
+    "description_en": "UAV in the Kharkiv region in the direction of Chuguyev from the east",
+    "description_uk": "БпЛА на Харківщині в напрямку Чугуєва зі сходу",
+    "time": "",
+    "pubDate": "2026-06-10T22:53:45+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Kharkiv",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64791",
-    "score": 5.0,
-    "views": 22350,
-    "forwards": 0
+    "link": "https://t.me/kpszsu/64795",
+    "score": 6.0,
+    "views": 8822,
+    "forwards": 1
   },
   {
     "title": "Cruise missile heading inbound",
@@ -50,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193465",
     "score": 8.5,
-    "views": 57064,
-    "forwards": 109
+    "views": 69425,
+    "forwards": 125
   },
   {
     "title": "Mariupol: Attack attack",
@@ -68,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53618",
     "score": 5.0,
-    "views": 1336,
+    "views": 1574,
     "forwards": 0
   },
   {
@@ -104,8 +122,26 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19456",
     "score": 4.0,
-    "views": 27805,
+    "views": 29451,
     "forwards": 34
+  },
+  {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "Russian forces attack two ships in Ukrainian maritime corridor Russian forces launched drone attacks on two dry cargo vessels sailing under the flags of Barbados and Panama in the Black Sea on 10 June. The ships were sailing through the Ukrainian maritime corridor. Read the full article on our website",
+    "description_en": "Russian forces attack two ships in Ukrainian maritime corridor Russian forces launched drone attacks on two dry cargo vessels sailing under the flags of Barbados and Panama in the Black Sea on 10 June. The ships were sailing through the Ukrainian maritime corridor. Read the full article on our website",
+    "description_uk": "Russian forces attack two ships in Ukrainian maritime corridor Russian forces launched drone attacks on two dry cargo vessels sailing under the flags of Barbados and Panama in the Black Sea on 10 June. The ships were sailing through the Ukrainian maritime corridor. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-06-10T17:31:47+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48633",
+    "score": 8.0,
+    "views": 20,
+    "forwards": 0
   },
   {
     "title": "BpLA in Sumy Oblast ➡️ heading for Konotop.",
@@ -194,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193454",
     "score": 13.5,
-    "views": 142756,
-    "forwards": 288
+    "views": 147455,
+    "forwards": 314
   },
   {
     "title": "Kyiv: Ukraine should not reject associate EU membership “As long as...",
@@ -342,24 +378,6 @@
     "forwards": 0
   },
   {
-    "title": "Kyiv: Kyiv region: BpLA in the direction of Yagotyn, Berezani.",
-    "title_en": "Kyiv: Kyiv region: BpLA in the direction of Yagotyn, Berezani.",
-    "title_uk": "Київ: Київська область: БпЛА в напрямку Яготин, Березані.",
-    "description": "Kyiv region: BpLA in the direction of Yagotyn, Berezani.",
-    "description_en": "Kyiv region: BpLA in the direction of Yagotyn, Berezani.",
-    "description_uk": "Київщина: БпЛА в напрямку Яготина, Березані.",
-    "time": "",
-    "pubDate": "2026-06-10T10:32:20+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64742",
-    "score": 6.0,
-    "views": 9109,
-    "forwards": 1
-  },
-  {
     "title": "High-speed target in the direction of Odeshchyna.",
     "title_en": "High-speed target in the direction of Odeshchyna.",
     "title_uk": "Швидкісна ціль у напрямку Одещини.",
@@ -410,7 +428,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39771",
     "score": 4.0,
-    "views": 21324,
+    "views": 21479,
     "forwards": 69
   },
   {
@@ -428,25 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19444",
     "score": 4.5,
-    "views": 232823,
-    "forwards": 1064
-  },
-  {
-    "title": "Minister of Foreign Affairs of Ukraine Andriy Sybiga: \"Bosnia and...",
-    "title_en": "Minister of Foreign Affairs of Ukraine Andriy Sybiga: \"Bosnia and...",
-    "title_uk": "Міністр закордонних справ України Андрій Сибіга: «Боснія і...",
-    "description": "Minister of Foreign Affairs of Ukraine Andriy Sybiga: \"Bosnia and Herzegovina will become the 50th member of the International Coalition for the Return of Ukrainian Children\" Bosnia and Herzegovina has officially confirmed its intention to join the International Coalition for the Return of Ukrainian Children. With its accession, the number of states participating in the initiative reached 50. Andrii Sybiga expressed his gratitude to Bosnia and...",
-    "description_en": "Minister of Foreign Affairs of Ukraine Andriy Sybiga: \"Bosnia and Herzegovina will become the 50th member of the International Coalition for the Return of Ukrainian Children\" Bosnia and Herzegovina has officially confirmed its intention to join the International Coalition for the Return of Ukrainian Children. With its accession, the number of states participating in the initiative reached 50. Andrii Sybiga expressed his gratitude to Bosnia and...",
-    "description_uk": "Міністр закордонних справ України Андрій Сибіга: \"Боснія і Герцеговина стане 50-м учасником Міжнародної коаліції за повернення українських дітей\" Боснія і Герцеговина офіційно підтвердила свій намір приєднатися до Міжнародної коаліції за повернення українських дітей. З її приєднанням кількість держав-учасниць ініціативи досягнула позначки – 50. Андрій Сибіга висловив вдячність Боснії і...",
-    "time": "",
-    "pubDate": "2026-06-09T15:58:37+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9287",
-    "score": 5.0,
-    "views": 1063,
-    "forwards": 10
+    "views": 234723,
+    "forwards": 1071
   }
 ]
