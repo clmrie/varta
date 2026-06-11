@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea, heading for Odesa.",
+    "description_en": "UAV from the Black Sea, heading for Odesa.",
+    "description_uk": "БпЛА з акваторії Чорного моря, курсом на Одещину.",
+    "time": "",
+    "pubDate": "2026-06-11T01:55:38+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64821",
+    "score": 5.0,
+    "views": 2033,
+    "forwards": 0
+  },
+  {
+    "title": "Attack attack",
+    "title_en": "Attack attack",
+    "title_uk": "Атака нападу",
+    "description": "Strike BpLA in the district. n.p. Aviatorske in the direction of Dnipro.",
+    "description_en": "Strike BpLA in the district. n.p. Aviatorske in the direction of Dnipro.",
+    "description_uk": "Ударний БпЛА в р-ні. н.п. Авіаторське у напрямку Дніпра.",
+    "time": "",
+    "pubDate": "2026-06-11T01:53:57+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64820",
+    "score": 5.0,
+    "views": 3050,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Attack attack",
     "title_en": "Kyiv: Attack attack",
     "title_uk": "Київ: Атака",
@@ -14,26 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53623",
     "score": 4.0,
-    "views": 87,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV from the waters of the Black Sea, heading for Odesa (Bilhorod-Dnistrovsky district).",
-    "description_en": "UAV from the waters of the Black Sea, heading for Odesa (Bilhorod-Dnistrovsky district).",
-    "description_uk": "БпЛА з акваторії Чорного моря, курсом на Одещину (Білгород-Дністровський район).",
-    "time": "",
-    "pubDate": "2026-06-10T23:14:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64796",
-    "score": 5.0,
-    "views": 3972,
-    "forwards": 0
+    "views": 609,
+    "forwards": 2
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -68,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193465",
     "score": 8.5,
-    "views": 69425,
-    "forwards": 125
+    "views": 84788,
+    "forwards": 137
   },
   {
     "title": "Mariupol: Attack attack",
@@ -86,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53618",
     "score": 5.0,
-    "views": 1574,
+    "views": 1803,
     "forwards": 0
   },
   {
@@ -122,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19456",
     "score": 4.0,
-    "views": 29451,
-    "forwards": 34
+    "views": 31270,
+    "forwards": 35
   },
   {
     "title": "Drone attack",
@@ -140,7 +158,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48633",
     "score": 8.0,
-    "views": 20,
+    "views": 21,
     "forwards": 0
   },
   {
@@ -212,7 +230,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48629",
     "score": 6.0,
-    "views": 21,
+    "views": 22,
     "forwards": 0
   },
   {
@@ -230,8 +248,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193454",
     "score": 13.5,
-    "views": 147455,
-    "forwards": 314
+    "views": 153310,
+    "forwards": 326
   },
   {
     "title": "Kyiv: Ukraine should not reject associate EU membership “As long as...",
@@ -268,114 +286,6 @@
     "score": 6.5,
     "views": 135954,
     "forwards": 363
-  },
-  {
-    "title": "Explosions reported",
-    "title_en": "Explosions reported",
-    "title_uk": "Повідомляється про вибухи",
-    "description": "Ukraine approves NEO-1 bomb disposal robot capable of detecting mines and grenades The NEO-1, a robotic hardware and software system for remote detection of explosive devices, has been officially approved for service in Ukraine's defence forces. Read the full article on our website",
-    "description_en": "Ukraine approves NEO-1 bomb disposal robot capable of detecting mines and grenades The NEO-1, a robotic hardware and software system for remote detection of explosive devices, has been officially approved for service in Ukraine's defence forces. Read the full article on our website",
-    "description_uk": "Ukraine approves NEO-1 bomb disposal robot capable of detecting mines and grenades The NEO-1, a robotic hardware and software system for remote detection of explosive devices, has been officially approved for service in Ukraine's defence forces. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-10T13:46:04+00:00",
-    "category": "shelling",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48619",
-    "score": 4.0,
-    "views": 6,
-    "forwards": 0
-  },
-  {
-    "title": "Moscow is still protected by a missile defense system with nuclear...",
-    "title_en": "Moscow is still protected by a missile defense system with nuclear...",
-    "title_uk": "Москву досі захищає система ПРО з ядерним...",
-    "description": "Moscow is still protected by a missile defense system with nuclear warheads, — Defense Express The capital of the Russian Federation remains the only region covered by a full-fledged A-135 \"Amur\" strategic missile defense system since the time of the USSR. It was created for decades with one goal — to protect Moscow and the top leadership of the country in the event of a nuclear war. The most unusual thing in this system is anti-missile missiles with nuclear warheads....",
-    "description_en": "Moscow is still protected by a missile defense system with nuclear warheads, — Defense Express The capital of the Russian Federation remains the only region covered by a full-fledged A-135 \"Amur\" strategic missile defense system since the time of the USSR. It was created for decades with one goal — to protect Moscow and the top leadership of the country in the event of a nuclear war. The most unusual thing in this system is anti-missile missiles with nuclear warheads....",
-    "description_uk": "москву до сих пор защищает система ПРО с ядерными боеголовками, — Defense Express Столица рф остается единственным регионом, который еще со времен СССР прикрывает полноценная система стратегической ПРО А-135 «Амур». Ее создавали десятилетиями с одной целью — защитить москву и высшее руководство страны в случае ядерной войны. Самое необычное в этой системе — противоракеты с ядерными боеголовками....",
-    "time": "",
-    "pubDate": "2026-06-10T13:20:58+00:00",
-    "category": "missile",
-    "severity": "medium",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/193439",
-    "score": 3.5,
-    "views": 41981,
-    "forwards": 177
-  },
-  {
-    "title": "Mariupol: Power outage reported",
-    "title_en": "Mariupol: Power outage reported",
-    "title_uk": "Маріуполь: повідомляється про відключення електроенергії",
-    "description": "Russian-occupied Mariupol port no longer operational after Ukrainian strikes, Azov says. As a result of the attack, the port was left without power, significantly disrupting Russian military logistics in occupied southern Ukraine, the Azov Corps said.",
-    "description_en": "Russian-occupied Mariupol port no longer operational after Ukrainian strikes, Azov says. As a result of the attack, the port was left without power, significantly disrupting Russian military logistics in occupied southern Ukraine, the Azov Corps said.",
-    "description_uk": "Russian-occupied Mariupol port no longer operational after Ukrainian strikes, Azov says. As a result of the attack, the port was left without power, significantly disrupting Russian military logistics in occupied southern Ukraine, the Azov Corps said.",
-    "time": "",
-    "pubDate": "2026-06-10T13:19:22+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Mariupol",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53615",
-    "score": 4.5,
-    "views": 1686,
-    "forwards": 6
-  },
-  {
-    "title": "Kherson: Attack attack",
-    "title_en": "Kherson: Attack attack",
-    "title_uk": "Херсон: Напад",
-    "description": "Update: Chonhar Bridge connecting occupied Kherson Oblast and Crimea destroyed, official says. Andrii Kovalenko, head of Ukraine’s Center for Countering Disinformation, reported on June 10 that the strategic bridge was destroyed following a June 9 strike. Satellite imagery published by Radio Free Europe/Radio Liberty’s “Schemes” project also confirmed damage from a previous attack on June 7,...",
-    "description_en": "Update: Chonhar Bridge connecting occupied Kherson Oblast and Crimea destroyed, official says. Andrii Kovalenko, head of Ukraine’s Center for Countering Disinformation, reported on June 10 that the strategic bridge was destroyed following a June 9 strike. Satellite imagery published by Radio Free Europe/Radio Liberty’s “Schemes” project also confirmed damage from a previous attack on June 7,...",
-    "description_uk": "Update: Chonhar Bridge connecting occupied Kherson Oblast and Crimea destroyed, official says. Andrii Kovalenko, head of Ukraine’s Center for Countering Disinformation, reported on June 10 that the strategic bridge was destroyed following a June 9 strike. Satellite imagery published by Radio Free Europe/Radio Liberty’s “Schemes” project also confirmed damage from a previous attack on June 7,...",
-    "time": "",
-    "pubDate": "2026-06-10T12:35:30+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kherson",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53614",
-    "score": 5.0,
-    "views": 993,
-    "forwards": 7
-  },
-  {
-    "title": "Chernihiv: Chernihiv region: BpLA near Horodnia, heading for Chernihiv.",
-    "title_en": "Chernihiv: Chernihiv region: BpLA near Horodnia, heading for Chernihiv.",
-    "title_uk": "Чернігів: Чернігівська область: БпЛА біля Городні, курс на Чернігів.",
-    "description": "Chernihiv region: BpLA near Horodnia, heading for Chernihiv.",
-    "description_en": "Chernihiv region: BpLA near Horodnia, heading for Chernihiv.",
-    "description_uk": "Чернігівщина: БпЛА повз Городню, курсом на Чернігів.",
-    "time": "",
-    "pubDate": "2026-06-10T12:26:41+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64749",
-    "score": 6.0,
-    "views": 59640,
-    "forwards": 0
-  },
-  {
-    "title": "Crimea: Attack attack",
-    "title_en": "Crimea: Attack attack",
-    "title_uk": "Крим: Напад",
-    "description": "Satellite images show damage to Chonhar Bridge in Crimea Satellite images of the Chonhar Bridge show dark marks left by Ukrainian strikes on the structure. Read the full article on our website",
-    "description_en": "Satellite images show damage to Chonhar Bridge in Crimea Satellite images of the Chonhar Bridge show dark marks left by Ukrainian strikes on the structure. Read the full article on our website",
-    "description_uk": "Satellite images show damage to Chonhar Bridge in Crimea Satellite images of the Chonhar Bridge show dark marks left by Ukrainian strikes on the structure. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-10T11:46:30+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Crimea",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48615",
-    "score": 5.0,
-    "views": 20,
-    "forwards": 0
   },
   {
     "title": "High-speed target in the direction of Odeshchyna.",
@@ -428,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39771",
     "score": 4.0,
-    "views": 21479,
+    "views": 21647,
     "forwards": 69
   },
   {
@@ -446,7 +356,43 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19444",
     "score": 4.5,
-    "views": 234723,
-    "forwards": 1071
+    "views": 238091,
+    "forwards": 1074
+  },
+  {
+    "title": "Minister of Foreign Affairs of Ukraine Andriy Sybiga: \"Bosnia and...",
+    "title_en": "Minister of Foreign Affairs of Ukraine Andriy Sybiga: \"Bosnia and...",
+    "title_uk": "Міністр закордонних справ України Андрій Сибіга: «Боснія і...",
+    "description": "Minister of Foreign Affairs of Ukraine Andriy Sybiga: \"Bosnia and Herzegovina will become the 50th member of the International Coalition for the Return of Ukrainian Children\" Bosnia and Herzegovina has officially confirmed its intention to join the International Coalition for the Return of Ukrainian Children. With its accession, the number of states participating in the initiative reached 50. Andrii Sybiga expressed his gratitude to Bosnia and...",
+    "description_en": "Minister of Foreign Affairs of Ukraine Andriy Sybiga: \"Bosnia and Herzegovina will become the 50th member of the International Coalition for the Return of Ukrainian Children\" Bosnia and Herzegovina has officially confirmed its intention to join the International Coalition for the Return of Ukrainian Children. With its accession, the number of states participating in the initiative reached 50. Andrii Sybiga expressed his gratitude to Bosnia and...",
+    "description_uk": "Міністр закордонних справ України Андрій Сибіга: \"Боснія і Герцеговина стане 50-м учасником Міжнародної коаліції за повернення українських дітей\" Боснія і Герцеговина офіційно підтвердила свій намір приєднатися до Міжнародної коаліції за повернення українських дітей. З її приєднанням кількість держав-учасниць ініціативи досягнула позначки – 50. Андрій Сибіга висловив вдячність Боснії і...",
+    "time": "",
+    "pubDate": "2026-06-09T15:58:37+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9287",
+    "score": 5.0,
+    "views": 1067,
+    "forwards": 10
+  },
+  {
+    "title": "Kharkiv: Casualties reported",
+    "title_en": "Kharkiv: Casualties reported",
+    "title_uk": "Харків: повідомляється про постраждалих",
+    "description": "💬 Minister of Foreign Affairs Andriy Sybiga commented on Russia's ongoing terror against civilians: \"Having not achieved its goals on the battlefield, Russia is intensifying terror against civilians. The world cannot turn a blind eye to its scale. At least three people died, including a pregnant 22-year-old woman, in Chuguyev as a result of Russia's nighttime terrorist attacks on Kharkiv and the region. In Zaporizhzhia, Russian strikes killed...",
+    "description_en": "💬 Minister of Foreign Affairs Andriy Sybiga commented on Russia's ongoing terror against civilians: \"Having not achieved its goals on the battlefield, Russia is intensifying terror against civilians. The world cannot turn a blind eye to its scale. At least three people died, including a pregnant 22-year-old woman, in Chuguyev as a result of Russia's nighttime terrorist attacks on Kharkiv and the region. In Zaporizhzhia, Russian strikes killed...",
+    "description_uk": "💬 Міністр закордонних справ Андрій Сибіга прокоментував триваючий терор Росії проти цивільних: \"Не досягнувши своїх цілей на полі бою, Росія посилює терор проти цивільних. Світ не може закривати очі на його масштаби. Щонайменше троє людей загинули, серед них вагітна 22-річна жінка, у Чугуєві внаслідок нічних терористичних атак Росії на Харків та область. У Запоріжжі російські удари вбили...",
+    "time": "",
+    "pubDate": "2026-06-09T08:36:16+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kharkiv",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9276",
+    "score": 6.0,
+    "views": 861,
+    "forwards": 5
   }
 ]
