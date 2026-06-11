@@ -1,5 +1,59 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "A group of UAVs from the Black Sea area heading for the Mykolaiv Oblast (Ochakiv)",
+    "description_en": "A group of UAVs from the Black Sea area heading for the Mykolaiv Oblast (Ochakiv)",
+    "description_uk": "Група БпЛА з акваторії Чорного моря курсом на Миколаївщину (Очаків)",
+    "time": "",
+    "pubDate": "2026-06-11T22:07:46+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64883",
+    "score": 6.0,
+    "views": 10963,
+    "forwards": 10
+  },
+  {
+    "title": "Zaporizhzhia: BpLA heading to Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA heading to Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: BpLA прямує до Запоріжжя з півдня.",
+    "description": "BpLA heading to Zaporozhye from the south.",
+    "description_en": "BpLA heading to Zaporozhye from the south.",
+    "description_uk": "БпЛА курсом на м.Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-06-11T21:13:49+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64881",
+    "score": 6.0,
+    "views": 33348,
+    "forwards": 11
+  },
+  {
+    "title": "Crimea: Attack attack",
+    "title_en": "Crimea: Attack attack",
+    "title_uk": "Крим: Напад",
+    "description": "Ukraine confirms strike on Crimea's Armiansk bridge that hit 50 Russian military vehicles. Ukraine confirmed a strike that destroyed 50 military vehicles on the Russian-occupied Armiansk bridge linking Crimea with mainland Ukraine, the 1st Separate Assault Regiment Da Vinci reported June 11.",
+    "description_en": "Ukraine confirms strike on Crimea's Armiansk bridge that hit 50 Russian military vehicles. Ukraine confirmed a strike that destroyed 50 military vehicles on the Russian-occupied Armiansk bridge linking Crimea with mainland Ukraine, the 1st Separate Assault Regiment Da Vinci reported June 11.",
+    "description_uk": "Ukraine confirms strike on Crimea's Armiansk bridge that hit 50 Russian military vehicles. Ukraine confirmed a strike that destroyed 50 military vehicles on the Russian-occupied Armiansk bridge linking Crimea with mainland Ukraine, the 1st Separate Assault Regiment Da Vinci reported June 11.",
+    "time": "",
+    "pubDate": "2026-06-11T20:41:51+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Crimea",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53643",
+    "score": 5.0,
+    "views": 1068,
+    "forwards": 4
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -18,24 +72,6 @@
     "forwards": 104
   },
   {
-    "title": "Zaporizhzhia: BpLA heading to Zaporozhye from the south.",
-    "title_en": "Zaporizhzhia: BpLA heading to Zaporozhye from the south.",
-    "title_uk": "Запоріжжя: BpLA прямує до Запоріжжя з півдня.",
-    "description": "BpLA heading to Zaporozhye from the south.",
-    "description_en": "BpLA heading to Zaporozhye from the south.",
-    "description_uk": "БпЛА курсом на м.Запоріжжя з півдня.",
-    "time": "",
-    "pubDate": "2026-06-11T19:50:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64873",
-    "score": 6.0,
-    "views": 83204,
-    "forwards": 1
-  },
-  {
     "title": "Attack attack",
     "title_en": "Attack attack",
     "title_uk": "Атака нападу",
@@ -50,7 +86,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48673",
     "score": 4.0,
-    "views": 16,
+    "views": 26,
     "forwards": 0
   },
   {
@@ -68,7 +104,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48670",
     "score": 8.0,
-    "views": 14,
+    "views": 18,
     "forwards": 0
   },
   {
@@ -104,8 +140,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39830",
     "score": 8.0,
-    "views": 3078,
-    "forwards": 5
+    "views": 3383,
+    "forwards": 6
   },
   {
     "title": "330 drones launched",
@@ -122,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193534",
     "score": 7.5,
-    "views": 108259,
-    "forwards": 108
+    "views": 123579,
+    "forwards": 143
   },
   {
     "title": "Zaporizhzhia: BpLA in the direction of Zaporozhye",
@@ -176,8 +212,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193531",
     "score": 5.5,
-    "views": 122329,
-    "forwards": 152
+    "views": 134986,
+    "forwards": 178
   },
   {
     "title": "Kyiv: Russia’s war on Ukraine: the new, the old, and the immutable “The...",
@@ -194,8 +230,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53637",
     "score": 4.0,
-    "views": 1441,
-    "forwards": 3
+    "views": 1706,
+    "forwards": 5
   },
   {
     "title": "Kyiv: Ukraine’s drone advantage over Russia grows as nearly 180,000...",
@@ -302,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19458",
     "score": 9.0,
-    "views": 72692,
-    "forwards": 162
+    "views": 75677,
+    "forwards": 166
   },
   {
     "title": "Kharkiv: BpLA in the direction of the city of Kharkiv from the north",
@@ -342,24 +378,6 @@
     "forwards": 0
   },
   {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "A jet UAV from the waters of the Black Sea heading for Mykolaiv Oblast.",
-    "description_en": "A jet UAV from the waters of the Black Sea heading for Mykolaiv Oblast.",
-    "description_uk": "Реактивний БпЛА з акваторії Чорного моря курсом на Миколаївщину.",
-    "time": "",
-    "pubDate": "2026-06-11T10:48:19+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64850",
-    "score": 6.0,
-    "views": 62843,
-    "forwards": 30
-  },
-  {
     "title": "Sumy: Casualties reported",
     "title_en": "Sumy: Casualties reported",
     "title_uk": "Суми: повідомляється про постраждалих",
@@ -396,42 +414,6 @@
     "forwards": 0
   },
   {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "UAV in the waters of the Black Sea, heading for Odesa. 🛸 Reconnaissance UAVs in the north of Chernihiv Oblast and Sumy Oblast.",
-    "description_en": "UAV in the waters of the Black Sea, heading for Odesa. 🛸 Reconnaissance UAVs in the north of Chernihiv Oblast and Sumy Oblast.",
-    "description_uk": "БпЛА в акваторії Чорного моря, курсом на Одещину. 🛸 Розвідувальні БпЛА на півночі Чернігівщини та Сумщини.",
-    "time": "",
-    "pubDate": "2026-06-11T09:57:15+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64849",
-    "score": 6.0,
-    "views": 55027,
-    "forwards": 11
-  },
-  {
-    "title": "Shooting down enemy drones with Ukrainian weapons. Combat work of...",
-    "title_en": "Shooting down enemy drones with Ukrainian weapons. Combat work of...",
-    "title_uk": "Збивання ворожих безпілотників українською зброєю. Бойова робота...",
-    "description": "Shooting down enemy drones with Ukrainian weapons. Combat work of units of the Unmanned Systems Forces of the Armed Forces of Ukraine. \"Chaklun\" UAV is used. #СылиОбороныУкраины #ЗСУ #УкраїнськаЗброя #СБС",
-    "description_en": "Shooting down enemy drones with Ukrainian weapons. Combat work of units of the Unmanned Systems Forces of the Armed Forces of Ukraine. \"Chaklun\" UAV is used. #СылиОбороныУкраины #ЗСУ #УкраїнськаЗброя #СБС",
-    "description_uk": "Збиття ворожих дронів українською зброєю. Бойова робота підрозділів Сил безпілотних систем ЗСУ. Застосовується БпЛА \"Чаклун\". #СилиОборониУкраїни #ЗСУ #УкраїнськаЗброя #СБС",
-    "time": "",
-    "pubDate": "2026-06-11T08:43:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/39803",
-    "score": 9.0,
-    "views": 3709,
-    "forwards": 17
-  },
-  {
     "title": "Today, for the first time, we celebrate the Day of the Forces of...",
     "title_en": "Today, for the first time, we celebrate the Day of the Forces of...",
     "title_uk": "Сьогодні ми вперше відзначаємо День Збройних Сил...",
@@ -448,5 +430,23 @@
     "score": 9.5,
     "views": 381262,
     "forwards": 734
+  },
+  {
+    "title": "⚔️ On June 10, 2026, the full-scale war of the Katsaps against...",
+    "title_en": "⚔️ On June 10, 2026, the full-scale war of the Katsaps against...",
+    "title_uk": "⚔️ 10 червня 2026 року розпочалася повномасштабна війна кацапів проти...",
+    "description": "⚔️ On June 10, 2026, the full-scale war of the Katsaps against Ukraine equaled the duration of the First World War 📊 According to various estimates, the latter claimed up to 20 million lives. More than 38 states were involved in the war and about 70 million soldiers were mobilized. ▶️ In the First World War, as well as in the Second, Ukrainians were divided between the armies of different parties, defending the interests of others. Up to 4 million Ukrainians fought in...",
+    "description_en": "⚔️ On June 10, 2026, the full-scale war of the Katsaps against Ukraine equaled the duration of the First World War 📊 According to various estimates, the latter claimed up to 20 million lives. More than 38 states were involved in the war and about 70 million soldiers were mobilized. ▶️ In the First World War, as well as in the Second, Ukrainians were divided between the armies of different parties, defending the interests of others. Up to 4 million Ukrainians fought in...",
+    "description_uk": "⚔️ 10 червня 2026 року повномасштабна війна кацапів проти України зрівнялася по тривалості з Першою світовою війною 📊 Остання за різними оцінками забрала до 20 млн життів. Більше 38 держав було втягнуто у війну та близько 70 млн солдат було мобілізовано. ▶️ В Першій світовій, як і у Другій, українці були розділені між арміями різних сторін, відстоюючи чужі інтереси. До 4 млн українців воювало в...",
+    "time": "",
+    "pubDate": "2026-06-11T05:56:02+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23571",
+    "score": 6.5,
+    "views": 144734,
+    "forwards": 325
   }
 ]
