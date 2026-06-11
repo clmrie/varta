@@ -1,5 +1,59 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons",
+    "description_en": "☄️ The threat of using ballistic weapons",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння",
+    "time": "",
+    "pubDate": "2026-06-11T20:31:35+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64875",
+    "score": 5.5,
+    "views": 64796,
+    "forwards": 104
+  },
+  {
+    "title": "Zaporizhzhia: BpLA heading to Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA heading to Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: BpLA прямує до Запоріжжя з півдня.",
+    "description": "BpLA heading to Zaporozhye from the south.",
+    "description_en": "BpLA heading to Zaporozhye from the south.",
+    "description_uk": "БпЛА курсом на м.Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-06-11T19:50:49+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64873",
+    "score": 6.0,
+    "views": 83204,
+    "forwards": 1
+  },
+  {
+    "title": "Attack attack",
+    "title_en": "Attack attack",
+    "title_uk": "Атака нападу",
+    "description": "Ukraine confirms strike on Afipsky refinery in Russia's Krasnodar Krai Units of Ukraine's defence forces struck a number of military, logistics and industrial facilities of the Russian forces on 10 and 11 June. Read the full article on our website",
+    "description_en": "Ukraine confirms strike on Afipsky refinery in Russia's Krasnodar Krai Units of Ukraine's defence forces struck a number of military, logistics and industrial facilities of the Russian forces on 10 and 11 June. Read the full article on our website",
+    "description_uk": "Ukraine confirms strike on Afipsky refinery in Russia's Krasnodar Krai Units of Ukraine's defence forces struck a number of military, logistics and industrial facilities of the Russian forces on 10 and 11 June. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-06-11T19:21:19+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48673",
+    "score": 4.0,
+    "views": 16,
+    "forwards": 0
+  },
+  {
     "title": "Sevastopol: Missile attack",
     "title_en": "Sevastopol: Missile attack",
     "title_uk": "Севастополь: Ракетний обстріл",
@@ -14,7 +68,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48670",
     "score": 8.0,
-    "views": 5,
+    "views": 14,
     "forwards": 0
   },
   {
@@ -50,8 +104,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39830",
     "score": 8.0,
-    "views": 1360,
-    "forwards": 4
+    "views": 3078,
+    "forwards": 5
   },
   {
     "title": "330 drones launched",
@@ -67,9 +121,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193534",
-    "score": 7.0,
-    "views": 46602,
-    "forwards": 36
+    "score": 7.5,
+    "views": 108259,
+    "forwards": 108
   },
   {
     "title": "Zaporizhzhia: BpLA in the direction of Zaporozhye",
@@ -122,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193531",
     "score": 5.5,
-    "views": 80288,
-    "forwards": 115
+    "views": 122329,
+    "forwards": 152
   },
   {
     "title": "Kyiv: Russia’s war on Ukraine: the new, the old, and the immutable “The...",
@@ -140,8 +194,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53637",
     "score": 4.0,
-    "views": 961,
-    "forwards": 1
+    "views": 1441,
+    "forwards": 3
   },
   {
     "title": "Kyiv: Ukraine’s drone advantage over Russia grows as nearly 180,000...",
@@ -158,8 +212,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53636",
     "score": 8.0,
-    "views": 1374,
-    "forwards": 4
+    "views": 1707,
+    "forwards": 5
   },
   {
     "title": "A jet UAV from the Black Sea to the south of Odesa",
@@ -248,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19458",
     "score": 9.0,
-    "views": 66411,
-    "forwards": 156
+    "views": 72692,
+    "forwards": 162
   },
   {
     "title": "Kharkiv: BpLA in the direction of the city of Kharkiv from the north",
@@ -394,59 +448,5 @@
     "score": 9.5,
     "views": 381262,
     "forwards": 734
-  },
-  {
-    "title": "Sumy: Power outage reported",
-    "title_en": "Sumy: Power outage reported",
-    "title_uk": "Суми: Повідомлено про відключення електроенергії",
-    "description": "Russians attack Konotop in morning strike: city left without power and water, gas supply disrupted Russian forces attacked civilian infrastructure facilities in Konotop in Sumy Oblast on the morning of 11 June, causing power and water outages and disrupting gas supplies. Read the full article on our website",
-    "description_en": "Russians attack Konotop in morning strike: city left without power and water, gas supply disrupted Russian forces attacked civilian infrastructure facilities in Konotop in Sumy Oblast on the morning of 11 June, causing power and water outages and disrupting gas supplies. Read the full article on our website",
-    "description_uk": "Russians attack Konotop in morning strike: city left without power and water, gas supply disrupted Russian forces attacked civilian infrastructure facilities in Konotop in Sumy Oblast on the morning of 11 June, causing power and water outages and disrupting gas supplies. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-11T06:45:24+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48644",
-    "score": 4.5,
-    "views": 6,
-    "forwards": 0
-  },
-  {
-    "title": "Kryvyi Rih: BpLA headed for Kryvyi Rih from the eastern direction.",
-    "title_en": "Kryvyi Rih: BpLA headed for Kryvyi Rih from the eastern direction.",
-    "title_uk": "Кривий Ріг: БпЛА прямувала на Кривий Ріг зі східного напрямку.",
-    "description": "BpLA headed for Kryvyi Rih from the eastern direction.",
-    "description_en": "BpLA headed for Kryvyi Rih from the eastern direction.",
-    "description_uk": "БпЛА курсом на Кривий Ріг зі східного напрямку.",
-    "time": "",
-    "pubDate": "2026-06-11T06:22:22+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64842",
-    "score": 6.0,
-    "views": 32336,
-    "forwards": 0
-  },
-  {
-    "title": "⚔️ On June 10, 2026, the full-scale war of the Katsaps against...",
-    "title_en": "⚔️ On June 10, 2026, the full-scale war of the Katsaps against...",
-    "title_uk": "⚔️ 10 червня 2026 року розпочалася повномасштабна війна кацапів проти...",
-    "description": "⚔️ On June 10, 2026, the full-scale war of the Katsaps against Ukraine equaled the duration of the First World War 📊 According to various estimates, the latter claimed up to 20 million lives. More than 38 states were involved in the war and about 70 million soldiers were mobilized. ▶️ In the First World War, as well as in the Second, Ukrainians were divided between the armies of different parties, defending the interests of others. Up to 4 million Ukrainians fought in...",
-    "description_en": "⚔️ On June 10, 2026, the full-scale war of the Katsaps against Ukraine equaled the duration of the First World War 📊 According to various estimates, the latter claimed up to 20 million lives. More than 38 states were involved in the war and about 70 million soldiers were mobilized. ▶️ In the First World War, as well as in the Second, Ukrainians were divided between the armies of different parties, defending the interests of others. Up to 4 million Ukrainians fought in...",
-    "description_uk": "⚔️ 10 червня 2026 року повномасштабна війна кацапів проти України зрівнялася по тривалості з Першою світовою війною 📊 Остання за різними оцінками забрала до 20 млн життів. Більше 38 держав було втягнуто у війну та близько 70 млн солдат було мобілізовано. ▶️ В Першій світовій, як і у Другій, українці були розділені між арміями різних сторін, відстоюючи чужі інтереси. До 4 млн українців воювало в...",
-    "time": "",
-    "pubDate": "2026-06-11T05:56:02+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "DeepState",
-    "link": "https://t.me/DeepStateUA/23571",
-    "score": 6.5,
-    "views": 130853,
-    "forwards": 317
   }
 ]
