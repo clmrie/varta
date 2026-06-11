@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ Threat of using ballistic weapons from Bryansk.",
+    "description_en": "☄️ Threat of using ballistic weapons from Bryansk.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння з Брянська.",
+    "time": "",
+    "pubDate": "2026-06-11T23:48:29+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64890",
+    "score": 5.0,
+    "views": 6707,
+    "forwards": 34
+  },
+  {
+    "title": "Kharkiv: Jet UAV over the city of Kharkiv",
+    "title_en": "Kharkiv: Jet UAV over the city of Kharkiv",
+    "title_uk": "Харків: Реактивний БПЛА над м. Харковом",
+    "description": "Jet UAV over the city of Kharkiv",
+    "description_en": "Jet UAV over the city of Kharkiv",
+    "description_uk": "Реактивний БпЛА над м.Харків",
+    "time": "",
+    "pubDate": "2026-06-11T23:29:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64889",
+    "score": 6.0,
+    "views": 10247,
+    "forwards": 0
+  },
+  {
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Миколаїв: Дрон вхід",
@@ -50,26 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53643",
     "score": 5.0,
-    "views": 1068,
-    "forwards": 4
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons",
-    "description_en": "☄️ The threat of using ballistic weapons",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння",
-    "time": "",
-    "pubDate": "2026-06-11T20:31:35+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64875",
-    "score": 5.5,
-    "views": 64796,
-    "forwards": 104
+    "views": 1319,
+    "forwards": 6
   },
   {
     "title": "Attack attack",
@@ -86,7 +104,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48673",
     "score": 4.0,
-    "views": 26,
+    "views": 28,
     "forwards": 0
   },
   {
@@ -104,7 +122,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48670",
     "score": 8.0,
-    "views": 18,
+    "views": 19,
     "forwards": 0
   },
   {
@@ -140,7 +158,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39830",
     "score": 8.0,
-    "views": 3383,
+    "views": 3469,
     "forwards": 6
   },
   {
@@ -158,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193534",
     "score": 7.5,
-    "views": 123579,
-    "forwards": 143
+    "views": 127980,
+    "forwards": 145
   },
   {
     "title": "Zaporizhzhia: BpLA in the direction of Zaporozhye",
@@ -212,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193531",
     "score": 5.5,
-    "views": 134986,
-    "forwards": 178
+    "views": 138429,
+    "forwards": 179
   },
   {
     "title": "Kyiv: Russia’s war on Ukraine: the new, the old, and the immutable “The...",
@@ -230,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53637",
     "score": 4.0,
-    "views": 1706,
+    "views": 1806,
     "forwards": 5
   },
   {
@@ -338,26 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19458",
     "score": 9.0,
-    "views": 75677,
+    "views": 76302,
     "forwards": 166
-  },
-  {
-    "title": "Kharkiv: BpLA in the direction of the city of Kharkiv from the north",
-    "title_en": "Kharkiv: BpLA in the direction of the city of Kharkiv from the north",
-    "title_uk": "Харків: БпЛА в напрямку м. Харкова з півн",
-    "description": "BpLA in the direction of the city of Kharkiv from the north",
-    "description_en": "BpLA in the direction of the city of Kharkiv from the north",
-    "description_uk": "БпЛА в напрямку м.Харків з півночі",
-    "time": "",
-    "pubDate": "2026-06-11T11:47:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64852",
-    "score": 6.0,
-    "views": 86466,
-    "forwards": 0
   },
   {
     "title": "Sevastopol: Air defense active",
@@ -396,24 +396,6 @@
     "forwards": 0
   },
   {
-    "title": "Crimea: Ukrainian forces hit Russian convoy of about 50 fuel and ammunition...",
-    "title_en": "Crimea: Ukrainian forces hit Russian convoy of about 50 fuel and ammunition...",
-    "title_uk": "Крим: українські війська завдали ударів по російському конвою з близько 50 одиниць пального та боєприпасів...",
-    "description": "Ukrainian forces hit Russian convoy of about 50 fuel and ammunition lorries near Armiansk in Crimea Ukrainian forces have struck a Russian convoy of about 50 lorries carrying fuel and ammunition near Armiansk in Crimea, destroying some of the vehicles. Read the full article on our website",
-    "description_en": "Ukrainian forces hit Russian convoy of about 50 fuel and ammunition lorries near Armiansk in Crimea Ukrainian forces have struck a Russian convoy of about 50 lorries carrying fuel and ammunition near Armiansk in Crimea, destroying some of the vehicles. Read the full article on our website",
-    "description_uk": "Ukrainian forces hit Russian convoy of about 50 fuel and ammunition lorries near Armiansk in Crimea Ukrainian forces have struck a Russian convoy of about 50 lorries carrying fuel and ammunition near Armiansk in Crimea, destroying some of the vehicles. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-11T10:32:53+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Crimea",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48656",
-    "score": 5.0,
-    "views": 20,
-    "forwards": 0
-  },
-  {
     "title": "Today, for the first time, we celebrate the Day of the Forces of...",
     "title_en": "Today, for the first time, we celebrate the Day of the Forces of...",
     "title_uk": "Сьогодні ми вперше відзначаємо День Збройних Сил...",
@@ -446,7 +428,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23571",
     "score": 6.5,
-    "views": 144734,
-    "forwards": 325
+    "views": 145652,
+    "forwards": 328
   }
 ]
