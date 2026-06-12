@@ -1,5 +1,77 @@
 [
   {
+    "title": "Zaporizhzhia: Casualties reported",
+    "title_en": "Zaporizhzhia: Casualties reported",
+    "title_uk": "Запоріжжя: повідомляється про постраждалих",
+    "description": "Russian forces strike Zaporizhzhia Oblast more than 900 times, people killed and injured Russian forces attacked 44 settlements across Zaporizhzhia Oblast over the past 24 hours, killing two people, injuring three and damaging civilian infrastructure facilities. Read the full article on our website",
+    "description_en": "Russian forces strike Zaporizhzhia Oblast more than 900 times, people killed and injured Russian forces attacked 44 settlements across Zaporizhzhia Oblast over the past 24 hours, killing two people, injuring three and damaging civilian infrastructure facilities. Read the full article on our website",
+    "description_uk": "Russian forces strike Zaporizhzhia Oblast more than 900 times, people killed and injured Russian forces attacked 44 settlements across Zaporizhzhia Oblast over the past 24 hours, killing two people, injuring three and damaging civilian infrastructure facilities. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-06-12T04:37:53+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48675",
+    "score": 10.0,
+    "views": 5,
+    "forwards": 0
+  },
+  {
+    "title": "Kryvyi Rih: BpLA headed for Kryvyi Rih from the south.",
+    "title_en": "Kryvyi Rih: BpLA headed for Kryvyi Rih from the south.",
+    "title_uk": "Кривий Ріг: BpLA прямувала на Кривий Ріг з півдня.",
+    "description": "BpLA headed for Kryvyi Rih from the south.",
+    "description_en": "BpLA headed for Kryvyi Rih from the south.",
+    "description_uk": "БпЛА курсом на Кривий Ріг з південного напрямку.",
+    "time": "",
+    "pubDate": "2026-06-12T04:33:47+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64902",
+    "score": 6.0,
+    "views": 8080,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Drone attack",
+    "title_en": "Kyiv: Drone attack",
+    "title_uk": "Київ: Атака безпілотників",
+    "description": "Russian petrochemical plants reportedly struck by Ukrainian drones hundreds of kilometers from front line. Ukraine's military reportedly carried out drone attacks on various regions overnight on June 12, striking multiple Russian petrochemical plants as far as over 1,200 kilometers (620 miles) from the Russia-Ukraine border, Russian Telegram media channels reported.",
+    "description_en": "Russian petrochemical plants reportedly struck by Ukrainian drones hundreds of kilometers from front line. Ukraine's military reportedly carried out drone attacks on various regions overnight on June 12, striking multiple Russian petrochemical plants as far as over 1,200 kilometers (620 miles) from the Russia-Ukraine border, Russian Telegram media channels reported.",
+    "description_uk": "Russian petrochemical plants reportedly struck by Ukrainian drones hundreds of kilometers from front line. Ukraine's military reportedly carried out drone attacks on various regions overnight on June 12, striking multiple Russian petrochemical plants as far as over 1,200 kilometers (620 miles) from the Russia-Ukraine border, Russian Telegram media channels reported.",
+    "time": "",
+    "pubDate": "2026-06-12T03:55:52+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53646",
+    "score": 8.0,
+    "views": 349,
+    "forwards": 0
+  },
+  {
+    "title": "BpLA in Odesa region, heading for n.p. Sarata.",
+    "title_en": "BpLA in Odesa region, heading for n.p. Sarata.",
+    "title_uk": "БпЛА в Одеській області, прямуючи до н.п. Сарата.",
+    "description": "BpLA in Odesa region, heading for n.p. Sarata.",
+    "description_en": "BpLA in Odesa region, heading for n.p. Sarata.",
+    "description_uk": "БпЛА на Одещині, курсом на н.п. Сарата.",
+    "time": "",
+    "pubDate": "2026-06-12T01:20:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/64896",
+    "score": 5.0,
+    "views": 53659,
+    "forwards": 10
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -86,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53643",
     "score": 5.0,
-    "views": 1319,
-    "forwards": 6
+    "views": 1946,
+    "forwards": 9
   },
   {
     "title": "Attack attack",
@@ -104,7 +176,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48673",
     "score": 4.0,
-    "views": 28,
+    "views": 37,
     "forwards": 0
   },
   {
@@ -158,7 +230,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39830",
     "score": 8.0,
-    "views": 3469,
+    "views": 4207,
     "forwards": 6
   },
   {
@@ -176,8 +248,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193534",
     "score": 7.5,
-    "views": 127980,
-    "forwards": 145
+    "views": 147685,
+    "forwards": 160
   },
   {
     "title": "Zaporizhzhia: BpLA in the direction of Zaporozhye",
@@ -230,26 +302,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193531",
     "score": 5.5,
-    "views": 138429,
-    "forwards": 179
-  },
-  {
-    "title": "Kyiv: Russia’s war on Ukraine: the new, the old, and the immutable “The...",
-    "title_en": "Kyiv: Russia’s war on Ukraine: the new, the old, and the immutable “The...",
-    "title_uk": "Київ: Війна Росії проти України: нове, старе, незмінне «В...",
-    "description": "Russia’s war on Ukraine: the new, the old, and the immutable “The Russian Federation remains the world’s largest unrepentant colonizer,” writes Andrew Chakhoyan, an academic director at the University of Amsterdam, in this op-ed. “What makes this voracious, predatory empire invisible to an unquestioning observer is the saltwater fallacy, the refusal of the Western mind to grasp that colonies...",
-    "description_en": "Russia’s war on Ukraine: the new, the old, and the immutable “The Russian Federation remains the world’s largest unrepentant colonizer,” writes Andrew Chakhoyan, an academic director at the University of Amsterdam, in this op-ed. “What makes this voracious, predatory empire invisible to an unquestioning observer is the saltwater fallacy, the refusal of the Western mind to grasp that colonies...",
-    "description_uk": "Russia’s war on Ukraine: the new, the old, and the immutable “The Russian Federation remains the world’s largest unrepentant colonizer,” writes Andrew Chakhoyan, an academic director at the University of Amsterdam, in this op-ed. “What makes this voracious, predatory empire invisible to an unquestioning observer is the saltwater fallacy, the refusal of the Western mind to grasp that colonies...",
-    "time": "",
-    "pubDate": "2026-06-11T16:23:49+00:00",
-    "category": "alert",
-    "severity": "medium",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53637",
-    "score": 4.0,
-    "views": 1806,
-    "forwards": 5
+    "views": 152913,
+    "forwards": 180
   },
   {
     "title": "Kyiv: Ukraine’s drone advantage over Russia grows as nearly 180,000...",
@@ -268,24 +322,6 @@
     "score": 8.0,
     "views": 1707,
     "forwards": 5
-  },
-  {
-    "title": "A jet UAV from the Black Sea to the south of Odesa",
-    "title_en": "A jet UAV from the Black Sea to the south of Odesa",
-    "title_uk": "Реактивний БПЛА з Чорного моря на південь від Одеси",
-    "description": "A jet UAV from the Black Sea to the south of Odesa",
-    "description_en": "A jet UAV from the Black Sea to the south of Odesa",
-    "description_uk": "Реактивний БпЛА з акваторії Чорного моря на південь Одещини",
-    "time": "",
-    "pubDate": "2026-06-11T14:40:03+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64858",
-    "score": 5.0,
-    "views": 21212,
-    "forwards": 0
   },
   {
     "title": "Kyiv: Explosions reported",
@@ -356,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19458",
     "score": 9.0,
-    "views": 76302,
+    "views": 78755,
     "forwards": 166
   },
   {
@@ -412,23 +448,5 @@
     "score": 9.5,
     "views": 381262,
     "forwards": 734
-  },
-  {
-    "title": "⚔️ On June 10, 2026, the full-scale war of the Katsaps against...",
-    "title_en": "⚔️ On June 10, 2026, the full-scale war of the Katsaps against...",
-    "title_uk": "⚔️ 10 червня 2026 року розпочалася повномасштабна війна кацапів проти...",
-    "description": "⚔️ On June 10, 2026, the full-scale war of the Katsaps against Ukraine equaled the duration of the First World War 📊 According to various estimates, the latter claimed up to 20 million lives. More than 38 states were involved in the war and about 70 million soldiers were mobilized. ▶️ In the First World War, as well as in the Second, Ukrainians were divided between the armies of different parties, defending the interests of others. Up to 4 million Ukrainians fought in...",
-    "description_en": "⚔️ On June 10, 2026, the full-scale war of the Katsaps against Ukraine equaled the duration of the First World War 📊 According to various estimates, the latter claimed up to 20 million lives. More than 38 states were involved in the war and about 70 million soldiers were mobilized. ▶️ In the First World War, as well as in the Second, Ukrainians were divided between the armies of different parties, defending the interests of others. Up to 4 million Ukrainians fought in...",
-    "description_uk": "⚔️ 10 червня 2026 року повномасштабна війна кацапів проти України зрівнялася по тривалості з Першою світовою війною 📊 Остання за різними оцінками забрала до 20 млн життів. Більше 38 держав було втягнуто у війну та близько 70 млн солдат було мобілізовано. ▶️ В Першій світовій, як і у Другій, українці були розділені між арміями різних сторін, відстоюючи чужі інтереси. До 4 млн українців воювало в...",
-    "time": "",
-    "pubDate": "2026-06-11T05:56:02+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "DeepState",
-    "link": "https://t.me/DeepStateUA/23571",
-    "score": 6.5,
-    "views": 145652,
-    "forwards": 328
   }
 ]
