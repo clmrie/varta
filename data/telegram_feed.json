@@ -1,5 +1,59 @@
 [
   {
+    "title": "Zaporizhzhia: BpLA heading to Zaporozhye from the west.",
+    "title_en": "Zaporizhzhia: BpLA heading to Zaporozhye from the west.",
+    "title_uk": "Запоріжжя: BpLA прямує до Запоріжжя із заходу.",
+    "description": "BpLA heading to Zaporozhye from the west.",
+    "description_en": "BpLA heading to Zaporozhye from the west.",
+    "description_uk": "БпЛА курсом на м.Запоріжжя із заходу.",
+    "time": "",
+    "pubDate": "2026-06-13T21:55:47+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65099",
+    "score": 6.0,
+    "views": 2037,
+    "forwards": 0
+  },
+  {
+    "title": "BpLA in the direction of Poltava from the northeast.",
+    "title_en": "BpLA in the direction of Poltava from the northeast.",
+    "title_uk": "БпЛА в напрямку Полтави з пн.-сх.",
+    "description": "BpLA in the direction of Poltava from the northeast.",
+    "description_en": "BpLA in the direction of Poltava from the northeast.",
+    "description_uk": "БпЛА в напрямку Полтави з північного сходу.",
+    "time": "",
+    "pubDate": "2026-06-13T21:26:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65097",
+    "score": 5.0,
+    "views": 21284,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Air defense active",
+    "title_en": "Kyiv: Air defense active",
+    "title_uk": "Київ: ППО діюча",
+    "description": "Sweden intercepts Russian fighter jets near its airspace over Baltic Sea. Sweden scrambled fighter jets to intercept Russian military aircraft operating near its airspace over the Baltic Sea in two separate incidents, authorities said June 13.",
+    "description_en": "Sweden intercepts Russian fighter jets near its airspace over Baltic Sea. Sweden scrambled fighter jets to intercept Russian military aircraft operating near its airspace over the Baltic Sea in two separate incidents, authorities said June 13.",
+    "description_uk": "Sweden intercepts Russian fighter jets near its airspace over Baltic Sea. Sweden scrambled fighter jets to intercept Russian military aircraft operating near its airspace over the Baltic Sea in two separate incidents, authorities said June 13.",
+    "time": "",
+    "pubDate": "2026-06-13T20:55:21+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53676",
+    "score": 5.0,
+    "views": 692,
+    "forwards": 2
+  },
+  {
     "title": "Dnipro: Dnipropetrovsk region: BpLA in the west of the region passes Shiroke...",
     "title_en": "Dnipro: Dnipropetrovsk region: BpLA in the west of the region passes Shiroke...",
     "title_uk": "Дніпро: Дніпропетровська область: БпЛА на заході області проходить Широке...",
@@ -86,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193662",
     "score": 3.5,
-    "views": 90852,
-    "forwards": 75
+    "views": 105673,
+    "forwards": 98
   },
   {
     "title": "Dnipro: BpLA in Synelniky district in Dnipropetrovsk region ➡️ in the...",
@@ -122,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193660",
     "score": 6.5,
-    "views": 116644,
-    "forwards": 218
+    "views": 128175,
+    "forwards": 263
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -212,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53673",
     "score": 9.0,
-    "views": 2132,
+    "views": 2330,
     "forwards": 8
   },
   {
@@ -393,60 +447,6 @@
     "link": "https://t.me/pravda_eng/48737",
     "score": 6.0,
     "views": 6,
-    "forwards": 0
-  },
-  {
-    "title": "Casualties reported",
-    "title_en": "Casualties reported",
-    "title_uk": "Повідомляється про постраждалих",
-    "description": "May 2026 became the deadliest month for civilians in Ukraine in four years — UN In the past month, more civilians were killed and injured in Ukraine than in any other month in the past four years, the UN Monitoring Mission on Human Rights in Ukraine reported. The IMPCHU confirmed that as a result of the war unleashed by Russia, at least 274 people died in Ukraine in May, there were...",
-    "description_en": "May 2026 became the deadliest month for civilians in Ukraine in four years — UN In the past month, more civilians were killed and injured in Ukraine than in any other month in the past four years, the UN Monitoring Mission on Human Rights in Ukraine reported. The IMPCHU confirmed that as a result of the war unleashed by Russia, at least 274 people died in Ukraine in May, there were...",
-    "description_uk": "Май 2026 года стал самым смертоносным месяцем для мирных жителей Украины за четыре года — ООН В прошлом месяце в Украине погибло и было ранено больше мирных жителей, чем в любой другой месяц за последние четыре года, сообщили в Мониторинговой миссии ООН по правам человека в Украине. ММПЧУ подтвердила, что в результате развязанной Россией войны, в мае в Украине погибли по меньшей мере 274, были...",
-    "time": "",
-    "pubDate": "2026-06-13T09:36:01+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/193634",
-    "score": 5.5,
-    "views": 103749,
-    "forwards": 145
-  },
-  {
-    "title": "Mykolaiv: Dnipropetrovsk Region: BpLA past Kamianske in the direction of...",
-    "title_en": "Mykolaiv: Dnipropetrovsk Region: BpLA past Kamianske in the direction of...",
-    "title_uk": "Миколаїв: Дніпропетровська область: БпЛА повз Кам'янське в напрямку...",
-    "description": "Dnipropetrovsk Region: BpLA past Kamianske in the direction of Novomykolaivka.",
-    "description_en": "Dnipropetrovsk Region: BpLA past Kamianske in the direction of Novomykolaivka.",
-    "description_uk": "Дніпропетровщина: БпЛА повз Кам'янське в напрямку н.п.Новомиколаївка.",
-    "time": "",
-    "pubDate": "2026-06-13T09:20:27+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65006",
-    "score": 6.0,
-    "views": 12140,
-    "forwards": 0
-  },
-  {
-    "title": "Dnipro: Attack attack on infrastructure",
-    "title_en": "Dnipro: Attack attack on infrastructure",
-    "title_uk": "Дніпро: Атака на інфраструктуру",
-    "description": "Nine injured as Russians strike market in Dnipropetrovsk Oblast A market in the Synelnykove district in Dnipropetrovsk Oblast was attacked, leaving nine people injured. Six are in hospital, with one in a critical condition. Read the full article on our website",
-    "description_en": "Nine injured as Russians strike market in Dnipropetrovsk Oblast A market in the Synelnykove district in Dnipropetrovsk Oblast was attacked, leaving nine people injured. Six are in hospital, with one in a critical condition. Read the full article on our website",
-    "description_uk": "Nine injured as Russians strike market in Dnipropetrovsk Oblast A market in the Synelnykove district in Dnipropetrovsk Oblast was attacked, leaving nine people injured. Six are in hospital, with one in a critical condition. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-13T07:18:48+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Dnipro",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48734",
-    "score": 6.0,
-    "views": 19,
     "forwards": 0
   }
 ]
