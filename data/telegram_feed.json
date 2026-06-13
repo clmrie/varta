@@ -1,5 +1,41 @@
 [
   {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на східному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-06-13T22:36:43+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65106",
+    "score": 5.0,
+    "views": 11356,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: 🛸 Enemy UAV, probably reconnaissance, west of Dnipro. Whipping tools...",
+    "title_en": "Dnipro: 🛸 Enemy UAV, probably reconnaissance, west of Dnipro. Whipping tools...",
+    "title_uk": "Дніпро: 🛸 БПЛА противника, ймовірно, розвідка, на захід від Дніпра. Інструменти для збивання...",
+    "description": "🛸 Enemy UAV, probably reconnaissance, west of Dnipro. Whipping tools are involved.",
+    "description_en": "🛸 Enemy UAV, probably reconnaissance, west of Dnipro. Whipping tools are involved.",
+    "description_uk": "🛸 Ворожий БпЛА, ймовірно, розвідувальний, на заході від м.Дніпро. Залучено засоби для збиття.",
+    "time": "",
+    "pubDate": "2026-06-13T22:35:53+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65105",
+    "score": 10.0,
+    "views": 11972,
+    "forwards": 0
+  },
+  {
     "title": "Zaporizhzhia: BpLA heading to Zaporozhye from the west.",
     "title_en": "Zaporizhzhia: BpLA heading to Zaporozhye from the west.",
     "title_uk": "Запоріжжя: BpLA прямує до Запоріжжя із заходу.",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53676",
     "score": 5.0,
-    "views": 692,
+    "views": 966,
     "forwards": 2
   },
   {
@@ -140,7 +176,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193662",
     "score": 3.5,
-    "views": 105673,
+    "views": 113435,
     "forwards": 98
   },
   {
@@ -176,8 +212,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193660",
     "score": 6.5,
-    "views": 128175,
-    "forwards": 263
+    "views": 134183,
+    "forwards": 264
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -266,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53673",
     "score": 9.0,
-    "views": 2330,
+    "views": 2427,
     "forwards": 8
   },
   {
@@ -393,42 +429,6 @@
     "link": "https://t.me/pravda_eng/48741",
     "score": 6.0,
     "views": 5,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: BpLA from the south ➡️ in the direction of the city of Zaporizhzhia",
-    "title_en": "Zaporizhzhia: BpLA from the south ➡️ in the direction of the city of Zaporizhzhia",
-    "title_uk": "Запоріжжя: БпЛА з півдня ➡️ в напрямку м. Запоріжжя",
-    "description": "BpLA from the south ➡️ in the direction of the city of Zaporizhzhia",
-    "description_en": "BpLA from the south ➡️ in the direction of the city of Zaporizhzhia",
-    "description_uk": "БпЛА із півдня ➡️ у напрямку міста Запоріжжя",
-    "time": "",
-    "pubDate": "2026-06-13T10:42:11+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65014",
-    "score": 6.0,
-    "views": 30387,
-    "forwards": 0
-  },
-  {
-    "title": "BpLA from the Belgorod region, Russian Federation ➡️ in the direction...",
-    "title_en": "BpLA from the Belgorod region, Russian Federation ➡️ in the direction...",
-    "title_uk": "BpLA з Білгородської області, РФ ➡️ в напрямку...",
-    "description": "BpLA from the Belgorod region, Russian Federation ➡️ in the direction of Bogodukhov",
-    "description_en": "BpLA from the Belgorod region, Russian Federation ➡️ in the direction of Bogodukhov",
-    "description_uk": "БпЛА із Бєлгородської обл., рф ➡️ у напрямку Богодухова",
-    "time": "",
-    "pubDate": "2026-06-13T10:40:15+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65013",
-    "score": 5.0,
-    "views": 32399,
     "forwards": 0
   },
   {
