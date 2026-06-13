@@ -1,5 +1,77 @@
 [
   {
+    "title": "Mykolaiv: Dnipropetrovsk Region: BpLA past Kamianske in the direction of...",
+    "title_en": "Mykolaiv: Dnipropetrovsk Region: BpLA past Kamianske in the direction of...",
+    "title_uk": "Миколаїв: Дніпропетровська область: БпЛА повз Кам'янське в напрямку...",
+    "description": "Dnipropetrovsk Region: BpLA past Kamianske in the direction of Novomykolaivka.",
+    "description_en": "Dnipropetrovsk Region: BpLA past Kamianske in the direction of Novomykolaivka.",
+    "description_uk": "Дніпропетровщина: БпЛА повз Кам'янське в напрямку н.п.Новомиколаївка.",
+    "time": "",
+    "pubDate": "2026-06-13T09:20:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65006",
+    "score": 6.0,
+    "views": 12140,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "A group of UAVs in the direction of Dnipro/ Kamianske from the southwest.",
+    "description_en": "A group of UAVs in the direction of Dnipro/ Kamianske from the southwest.",
+    "description_uk": "Група БпЛА в напрямку м.Дніпро/ Кам'янське з південного заходу.",
+    "time": "",
+    "pubDate": "2026-06-13T08:40:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65004",
+    "score": 6.0,
+    "views": 32371,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: Attack attack on infrastructure",
+    "title_en": "Dnipro: Attack attack on infrastructure",
+    "title_uk": "Дніпро: Атака на інфраструктуру",
+    "description": "Nine injured as Russians strike market in Dnipropetrovsk Oblast A market in the Synelnykove district in Dnipropetrovsk Oblast was attacked, leaving nine people injured. Six are in hospital, with one in a critical condition. Read the full article on our website",
+    "description_en": "Nine injured as Russians strike market in Dnipropetrovsk Oblast A market in the Synelnykove district in Dnipropetrovsk Oblast was attacked, leaving nine people injured. Six are in hospital, with one in a critical condition. Read the full article on our website",
+    "description_uk": "Nine injured as Russians strike market in Dnipropetrovsk Oblast A market in the Synelnykove district in Dnipropetrovsk Oblast was attacked, leaving nine people injured. Six are in hospital, with one in a critical condition. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-06-13T07:18:48+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Dnipro",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48734",
+    "score": 6.0,
+    "views": 19,
+    "forwards": 0
+  },
+  {
+    "title": "118 drones intercepted",
+    "title_en": "118 drones intercepted",
+    "title_uk": "Перехоплено 118 безпілотників",
+    "description": "Russia attacks Ukraine with 118 drones Russia launched 118 UAVs on the night of 12-13 June. Ukrainian forces shot down or jammed 110 drones, with the attack still ongoing. Read the full article on our website",
+    "description_en": "Russia attacks Ukraine with 118 drones Russia launched 118 UAVs on the night of 12-13 June. Ukrainian forces shot down or jammed 110 drones, with the attack still ongoing. Read the full article on our website",
+    "description_uk": "Russia attacks Ukraine with 118 drones Russia launched 118 UAVs on the night of 12-13 June. Ukrainian forces shot down or jammed 110 drones, with the attack still ongoing. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-06-13T06:24:45+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48731",
+    "score": 12.0,
+    "views": 17,
+    "forwards": 0
+  },
+  {
     "title": "Kherson: Missile attack",
     "title_en": "Kherson: Missile attack",
     "title_uk": "Херсон: Ракетний обстріл",
@@ -13,9 +85,9 @@
     "location": "Kherson",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193620",
-    "score": 5.0,
-    "views": 2127,
-    "forwards": 1
+    "score": 5.5,
+    "views": 115993,
+    "forwards": 145
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -104,8 +176,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53665",
     "score": 8.5,
-    "views": 1141,
-    "forwards": 3
+    "views": 1941,
+    "forwards": 5
   },
   {
     "title": "Kharkiv: BpLA on Kharkiv from the north.",
@@ -194,8 +266,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53664",
     "score": 6.0,
-    "views": 1365,
-    "forwards": 3
+    "views": 2055,
+    "forwards": 4
   },
   {
     "title": "A group of BpLA in the north of Zhytomyr Oblast ➡️ heading for Ovruch.",
@@ -248,26 +320,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193617",
     "score": 5.5,
-    "views": 141160,
-    "forwards": 120
-  },
-  {
-    "title": "📝 The IMF revealed the tariff change plan that Ukraine needs for a...",
-    "title_en": "📝 The IMF revealed the tariff change plan that Ukraine needs for a...",
-    "title_uk": "📝 МВФ розкрив план зміни тарифів, який потрібен Україні для...",
-    "description": "📝 The IMF revealed the tariff change plan that Ukraine needs for a new tranche of $690 million Ukraine and the IMF reached an agreement on the next revision of the financing program. After its approval, Kyiv will be able to receive a new tranche in the amount of about $690 million. One of the conditions was the preparation of a roadmap for energy market reform. It provides for a gradual change in tariffs for the population after...",
-    "description_en": "📝 The IMF revealed the tariff change plan that Ukraine needs for a new tranche of $690 million Ukraine and the IMF reached an agreement on the next revision of the financing program. After its approval, Kyiv will be able to receive a new tranche in the amount of about $690 million. One of the conditions was the preparation of a roadmap for energy market reform. It provides for a gradual change in tariffs for the population after...",
-    "description_uk": "📝 МВФ раскрыл план изменения тарифов, который нужен Украине для нового транша на $690 млн Украина и МВФ достигли соглашения по очередному пересмотру программы финансирования. После его утверждения Киев сможет получить новый транш в размере около $690 млн. Одним из условий стала подготовка дорожной карты реформы энергорынка. Она предусматривает постепенное изменение тарифов для населения после...",
-    "time": "",
-    "pubDate": "2026-06-12T21:00:59+00:00",
-    "category": "shelling",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/193617",
-    "score": 5.5,
-    "views": 50780,
-    "forwards": 63
+    "views": 180845,
+    "forwards": 121
   },
   {
     "title": "300 drones launched",
@@ -286,78 +340,6 @@
     "score": 9.5,
     "views": 89343,
     "forwards": 341
-  },
-  {
-    "title": "Russia deployed five launch sites for \"Shakhedov\" on the border with...",
-    "title_en": "Russia deployed five launch sites for \"Shakhedov\" on the border with...",
-    "title_uk": "Росія розгорнула п'ять пускових майданчиків для \"Шахедова\" на кордоні з...",
-    "description": "Russia deployed five launch sites for \"Shakhedov\" on the border with Belarus, - \"Radio Svaboda\" Journalists found at least five such facilities in the Bryansk, Oryol and Smolensk regions of the Russian Federation. Most were built or expanded after the summer of 2024. From there, drones are launched over Kyiv and the western regions of Ukraine. They often fly along Belarus or enter its airspace, which complicates...",
-    "description_en": "Russia deployed five launch sites for \"Shakhedov\" on the border with Belarus, - \"Radio Svaboda\" Journalists found at least five such facilities in the Bryansk, Oryol and Smolensk regions of the Russian Federation. Most were built or expanded after the summer of 2024. From there, drones are launched over Kyiv and the western regions of Ukraine. They often fly along Belarus or enter its airspace, which complicates...",
-    "description_uk": "россия развернула пять пусковых площадок для \"Шахедов\" у границы с Беларусью, - \"Радыё Свабода\" Журналисты нашли минимум пять таких объектов в Брянской, Орловской и Смоленской областях рф. Большинство построили или расширили после лета 2024 года. Оттуда дроны запускают по Киеву и западным областям Украины. Они часто летят вдоль Беларуси или заходят в ее воздушное пространство, что усложняет...",
-    "time": "",
-    "pubDate": "2026-06-12T19:46:18+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/193614",
-    "score": 5.5,
-    "views": 26681,
-    "forwards": 74
-  },
-  {
-    "title": "Zaporizhzhia: Several groups of BpLA ➡️ in the direction of Zaporizhzhia.",
-    "title_en": "Zaporizhzhia: Several groups of BpLA ➡️ in the direction of Zaporizhzhia.",
-    "title_uk": "Запоріжжя: кілька груп БПЛА ➡️ в напрямку Запоріжжя.",
-    "description": "Several groups of BpLA ➡️ in the direction of Zaporizhzhia.",
-    "description_en": "Several groups of BpLA ➡️ in the direction of Zaporizhzhia.",
-    "description_uk": "Декілька груп БпЛА ➡️ в напрямку Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-06-12T19:38:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64943",
-    "score": 6.0,
-    "views": 33400,
-    "forwards": 0
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons from the south!",
-    "description_en": "☄️ The threat of using ballistic weapons from the south!",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння з півдня!",
-    "time": "",
-    "pubDate": "2026-06-12T19:11:10+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/64940",
-    "score": 5.5,
-    "views": 96081,
-    "forwards": 70
-  },
-  {
-    "title": "Putin's war is already costing Russia 65 billion rubles a day Russian...",
-    "title_en": "Putin's war is already costing Russia 65 billion rubles a day Russian...",
-    "title_uk": "Війна Путіна вже обходиться Росії в 65 мільярдів рублів на день Російський...",
-    "description": "Putin's war is already costing Russia 65 billion rubles a day Russian military spending in the first quarter of 2026 reached a record 5.9 trillion rubles, according to Janis Kluge, a researcher at the German Institute for International Security Problems, based on data from the Ministry of Finance. This is already 46% of the entire Russian budget. Simply put, almost every second ruble goes to the army and weapons production. On average, war...",
-    "description_en": "Putin's war is already costing Russia 65 billion rubles a day Russian military spending in the first quarter of 2026 reached a record 5.9 trillion rubles, according to Janis Kluge, a researcher at the German Institute for International Security Problems, based on data from the Ministry of Finance. This is already 46% of the entire Russian budget. Simply put, almost every second ruble goes to the army and weapons production. On average, war...",
-    "description_uk": "Путинская война обходится россиюшке уже в 65 млрд рублей в день Военные расходы рф в первом квартале 2026 года достигли рекордных 5,9 трлн рублей, подсчитал исследователь германского Института проблем международной безопасности Янис Клюге на основе данных Минфина. Это уже 46% всего российского бюджета. Проще говоря, почти каждый второй рубль уходит на армию и производство оружия. В среднем война...",
-    "time": "",
-    "pubDate": "2026-06-12T18:37:33+00:00",
-    "category": "political",
-    "severity": "medium",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/193612",
-    "score": 4.5,
-    "views": 84623,
-    "forwards": 348
   },
   {
     "title": "Dnipro: Drone strike near civilians",
@@ -396,24 +378,6 @@
     "forwards": 2
   },
   {
-    "title": "🔹We are opening the market for recruiting foreigners to strengthen...",
-    "title_en": "🔹We are opening the market for recruiting foreigners to strengthen...",
-    "title_uk": "🔹Ми відкриваємо ринок для набору іноземців для посилення...",
-    "description": "🔹We are opening the market for recruiting foreigners to strengthen combat units and save the lives of Ukrainian soldiers. Our goal is to fill up to 30–50% of the positions of stormtroopers and infantrymen with foreigners. 🔹One more key question. Justice for those who have been in the Defense Forces the longest and have spent the most time in combat. For them, by the end of the year, we will begin gradual dismissal from service. This is just the first stage...",
-    "description_en": "🔹We are opening the market for recruiting foreigners to strengthen combat units and save the lives of Ukrainian soldiers. Our goal is to fill up to 30–50% of the positions of stormtroopers and infantrymen with foreigners. 🔹One more key question. Justice for those who have been in the Defense Forces the longest and have spent the most time in combat. For them, by the end of the year, we will begin gradual dismissal from service. This is just the first stage...",
-    "description_uk": "🔹Відкриваємо ринок рекрутингу іноземців для підсилення бойових підрозділів та збереження життів українських військових. Наша мета — до 30–50% посад штурмовиків та піхотинців заповнити іноземцями. 🔹⁠Ще одне ключове питання. Справедливість для тих, хто найдовше в Силах оборони та провів найбільше часу на бойових. Для них до кінця року починаємо поступове звільнення зі служби. Це лише перший етап...",
-    "time": "",
-    "pubDate": "2026-06-12T14:26:36+00:00",
-    "category": "shelling",
-    "severity": "medium",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/39861",
-    "score": 3.0,
-    "views": 5374,
-    "forwards": 22
-  },
-  {
     "title": "He honored the soldiers of the Unmanned Systems Forces of the...",
     "title_en": "He honored the soldiers of the Unmanned Systems Forces of the...",
     "title_uk": "Він вшанував бійців Військ безпілотних систем...",
@@ -428,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19460",
     "score": 9.5,
-    "views": 221597,
-    "forwards": 265
+    "views": 223606,
+    "forwards": 266
   },
   {
     "title": "Today we present the first results of \"Millennium\". The feedback we...",
@@ -446,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19458",
     "score": 9.0,
-    "views": 94810,
+    "views": 95522,
     "forwards": 168
   }
 ]
