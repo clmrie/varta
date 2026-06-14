@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "Strike UAV in the north of Chernihiv Oblast heading southeast.",
+    "description_en": "Strike UAV in the north of Chernihiv Oblast heading southeast.",
+    "description_uk": "Ударний БпЛА на півночі Чернігівщини курсом на південний схід.",
+    "time": "",
+    "pubDate": "2026-06-14T12:36:26+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65156",
+    "score": 6.0,
+    "views": 28356,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: BpLA in the direction of Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA in the direction of Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: БпЛА в напрямку Запоріжжя з півд.",
+    "description": "BpLA in the direction of Zaporozhye from the south.",
+    "description_en": "BpLA in the direction of Zaporozhye from the south.",
+    "description_uk": "БпЛА у напрямку м. Запоріжжя з південного напрямку.",
+    "time": "",
+    "pubDate": "2026-06-14T11:46:03+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65155",
+    "score": 6.0,
+    "views": 45889,
+    "forwards": 12
+  },
+  {
     "title": "Zaporizhzhia: Attack attack on residential area",
     "title_en": "Zaporizhzhia: Attack attack on residential area",
     "title_uk": "Запоріжжя: обстріл житлового кварталу",
@@ -14,7 +50,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48772",
     "score": 6.0,
-    "views": 6,
+    "views": 17,
     "forwards": 0
   },
   {
@@ -32,7 +68,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48771",
     "score": 6.0,
-    "views": 6,
+    "views": 17,
     "forwards": 0
   },
   {
@@ -68,7 +104,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9308",
     "score": 4.0,
-    "views": 316,
+    "views": 487,
     "forwards": 5
   },
   {
@@ -93,8 +129,8 @@
     "title": "Explosions reported",
     "title_en": "Explosions reported",
     "title_uk": "Повідомляється про вибухи",
-    "description": "Ukraine continues long-range sanctions in response to Russia's refusal to end this war — President Zelensky confirmed the strike on an oil facility in the Yaroslavl region, which is of strategic importance for Russia's reserves. It is located more than 700 km from the border of Ukraine. The \"Azot\" plant in the Tula Region was also hit. Russia's ability to produce explosives depends on its work.",
-    "description_en": "Ukraine continues long-range sanctions in response to Russia's refusal to end this war — President Zelensky confirmed the strike on an oil facility in the Yaroslavl region, which is of strategic importance for Russia's reserves. It is located more than 700 km from the border of Ukraine. The \"Azot\" plant in the Tula Region was also hit. Russia's ability to produce explosives depends on its work.",
+    "description": "Ukraine continues long-range sanctions in response to Russia's refusal to end this war — President Zelensky confirmed the strike on an oil facility in the Yaroslavl region, which is strategically important for Russian reserves. It is located more than 700 km from the border of Ukraine. The \"Azot\" plant in the Tula Region was also hit. Russia's ability to produce explosives depends on its work.",
+    "description_en": "Ukraine continues long-range sanctions in response to Russia's refusal to end this war — President Zelensky confirmed the strike on an oil facility in the Yaroslavl region, which is strategically important for Russian reserves. It is located more than 700 km from the border of Ukraine. The \"Azot\" plant in the Tula Region was also hit. Russia's ability to produce explosives depends on its work.",
     "description_uk": "Украина продолжает дальнобойные санкции в ответ на отказ россии завершить эту войну, — Зеленский Президент подтвердил удар по нефтяному объекту в Ярославской области, который имеет стратегическое значение для резервов рф. Он находится более чем в 700 км от границы Украины. Также под удар попал завод «Азот» в Тульской области. От его работы зависят возможности рф по производству взрывчатых веществ.",
     "time": "",
     "pubDate": "2026-06-14T08:01:09+00:00",
@@ -104,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193690",
     "score": 5.5,
-    "views": 110893,
-    "forwards": 329
+    "views": 132799,
+    "forwards": 365
   },
   {
     "title": "Kharkiv: Unmanned aerial vehicle in the Bogodukhiv district of the Kharkiv...",
@@ -176,7 +212,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39929",
     "score": 10.0,
-    "views": 4801,
+    "views": 4960,
     "forwards": 14
   },
   {
@@ -212,44 +248,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53678",
     "score": 8.0,
-    "views": 1928,
+    "views": 2209,
     "forwards": 3
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "UAV on the border of Sumy Oblast and Kharkiv Oblast ➡️ heading for Poltava Oblast.",
-    "description_en": "UAV on the border of Sumy Oblast and Kharkiv Oblast ➡️ heading for Poltava Oblast.",
-    "description_uk": "БпЛА на межі Сумщини і Харківщини ➡️ курсом на Полтавщину.",
-    "time": "",
-    "pubDate": "2026-06-13T23:52:57+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65115",
-    "score": 6.0,
-    "views": 6631,
-    "forwards": 0
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "UAV in Chernihiv Oblast in the direction of Desna/Oster from the south.",
-    "description_en": "UAV in Chernihiv Oblast in the direction of Desna/Oster from the south.",
-    "description_uk": "БпЛА на Чернігівщині в напрямку Десни/Остера з півдня.",
-    "time": "",
-    "pubDate": "2026-06-13T23:41:21+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65114",
-    "score": 6.0,
-    "views": 9630,
-    "forwards": 0
   },
   {
     "title": "Kyiv: 763 injured",
@@ -268,23 +268,5 @@
     "score": 9.0,
     "views": 2488,
     "forwards": 8
-  },
-  {
-    "title": "Crimea: Attack attack",
-    "title_en": "Crimea: Attack attack",
-    "title_uk": "Крим: Напад",
-    "description": "Ukraine reports new strikes on bridges linking Crimea with mainland. Ukrainian forces struck bridges linking occupied Crimea with Russian-held territory in mainland Ukraine overnight on June 13, a Ukrainian military unit confirmed.",
-    "description_en": "Ukraine reports new strikes on bridges linking Crimea with mainland. Ukrainian forces struck bridges linking occupied Crimea with Russian-held territory in mainland Ukraine overnight on June 13, a Ukrainian military unit confirmed.",
-    "description_uk": "Ukraine reports new strikes on bridges linking Crimea with mainland. Ukrainian forces struck bridges linking occupied Crimea with Russian-held territory in mainland Ukraine overnight on June 13, a Ukrainian military unit confirmed.",
-    "time": "",
-    "pubDate": "2026-06-13T11:34:08+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Crimea",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53670",
-    "score": 8.0,
-    "views": 2204,
-    "forwards": 4
   }
 ]
