@@ -1,5 +1,41 @@
 [
   {
+    "title": "Monitors write about the takeoff of two Tu-160s from the Ukrainka...",
+    "title_en": "Monitors write about the takeoff of two Tu-160s from the Ukrainka...",
+    "title_uk": "Монітори пишуть про зліт двох Ту-160 з Українки...",
+    "description": "Monitors write about the takeoff of two Tu-160s from the Ukrainka airfield in the Far East. The sortie is probably a combat sortie. Earlier, the Russians launched UAVs from five points.",
+    "description_en": "Monitors write about the takeoff of two Tu-160s from the Ukrainka airfield in the Far East. The sortie is probably a combat sortie. Earlier, the Russians launched UAVs from five points.",
+    "description_uk": "Мониторы пишут о взлете двух Ту-160 с аэродрома \"Украинка\" на Дальнем Востоке. Вылет, вероятно, боевой. Ранее россияне запустили БПЛА с пяти точек.",
+    "time": "",
+    "pubDate": "2026-06-14T17:55:46+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/193731",
+    "score": 5.5,
+    "views": 23623,
+    "forwards": 104
+  },
+  {
+    "title": "Zaporizhzhia: Casualties reported",
+    "title_en": "Zaporizhzhia: Casualties reported",
+    "title_uk": "Запоріжжя: повідомляється про постраждалих",
+    "description": "One killed and teenager injured due to Russian strike near bus stop in Zaporizhzhia Oblast Russia has struck a bus stop in the Zaporizhzhia district with a drone, killing a man and injuring a 17-year-old boy. Read the full article on our website",
+    "description_en": "One killed and teenager injured due to Russian strike near bus stop in Zaporizhzhia Oblast Russia has struck a bus stop in the Zaporizhzhia district with a drone, killing a man and injuring a 17-year-old boy. Read the full article on our website",
+    "description_uk": "One killed and teenager injured due to Russian strike near bus stop in Zaporizhzhia Oblast Russia has struck a bus stop in the Zaporizhzhia district with a drone, killing a man and injuring a 17-year-old boy. Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-06-14T17:01:39+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48783",
+    "score": 13.0,
+    "views": 18,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: 17 missiles + 000 drones",
     "title_en": "Kyiv: 17 missiles + 000 drones",
     "title_uk": "Київ: 17 ракет + 000 безпілотників",
@@ -14,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53685",
     "score": 4.0,
-    "views": 543,
+    "views": 1119,
     "forwards": 1
   },
   {
@@ -32,8 +68,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/65167",
     "score": 6.0,
-    "views": 38455,
-    "forwards": 34
+    "views": 75401,
+    "forwards": 47
   },
   {
     "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
@@ -50,8 +86,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/65166",
     "score": 6.0,
-    "views": 45535,
-    "forwards": 0
+    "views": 78323,
+    "forwards": 10
   },
   {
     "title": "Kyiv: Drone strike near civilians",
@@ -68,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53683",
     "score": 6.0,
-    "views": 1206,
-    "forwards": 2
+    "views": 1590,
+    "forwards": 3
   },
   {
     "title": "Drone strike",
@@ -86,7 +122,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48778",
     "score": 4.0,
-    "views": 15,
+    "views": 21,
     "forwards": 0
   },
   {
@@ -105,24 +141,6 @@
     "link": "https://t.me/kpszsu/65160",
     "score": 5.0,
     "views": 29567,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: Casualties reported",
-    "title_en": "Zaporizhzhia: Casualties reported",
-    "title_uk": "Запоріжжя: повідомляється про постраждалих",
-    "description": "One killed and four injured in Russian drone strike on car in Zaporizhzhia Oblast – photo Russian forces have struck a car with an FPV drone in Bilenke, the Zaporizhzhia district, killing one woman and injuring four people. Read the full article on our website",
-    "description_en": "One killed and four injured in Russian drone strike on car in Zaporizhzhia Oblast – photo Russian forces have struck a car with an FPV drone in Bilenke, the Zaporizhzhia district, killing one woman and injuring four people. Read the full article on our website",
-    "description_uk": "One killed and four injured in Russian drone strike on car in Zaporizhzhia Oblast – photo Russian forces have struck a car with an FPV drone in Bilenke, the Zaporizhzhia district, killing one woman and injuring four people. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-14T14:12:52+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48777",
-    "score": 10.0,
-    "views": 20,
     "forwards": 0
   },
   {
@@ -230,8 +248,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9308",
     "score": 4.0,
-    "views": 660,
-    "forwards": 5
+    "views": 701,
+    "forwards": 6
   },
   {
     "title": "Explosions reported",
@@ -250,42 +268,6 @@
     "score": 5.5,
     "views": 132799,
     "forwards": 365
-  },
-  {
-    "title": "Kharkiv: Unmanned aerial vehicle in the Bogodukhiv district of the Kharkiv...",
-    "title_en": "Kharkiv: Unmanned aerial vehicle in the Bogodukhiv district of the Kharkiv...",
-    "title_uk": "Харків: БПЛА в Богодухівському районі Харківської...",
-    "description": "Unmanned aerial vehicle in the Bogodukhiv district of the Kharkiv region on a south-westerly course",
-    "description_en": "Unmanned aerial vehicle in the Bogodukhiv district of the Kharkiv region on a south-westerly course",
-    "description_uk": "БпЛА у Богодухівському районі на Харківщині південно-західним курсом",
-    "time": "",
-    "pubDate": "2026-06-14T05:55:37+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65148",
-    "score": 6.0,
-    "views": 81242,
-    "forwards": 0
-  },
-  {
-    "title": "Sumyshchyna: BpLA ➡️ course to Krolevets from the east.",
-    "title_en": "Sumyshchyna: BpLA ➡️ course to Krolevets from the east.",
-    "title_uk": "Сумщина: BpLA ➡️ курс на Кролевець зі сходу.",
-    "description": "Sumyshchyna: BpLA ➡️ course to Krolevets from the east.",
-    "description_en": "Sumyshchyna: BpLA ➡️ course to Krolevets from the east.",
-    "description_uk": "Сумщина: БпЛА ➡️ курсом на Кролевець зі сходу.",
-    "time": "",
-    "pubDate": "2026-06-14T05:40:06+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65146",
-    "score": 5.0,
-    "views": 65903,
-    "forwards": 0
   },
   {
     "title": "Trump is 80. Now he is the oldest sitting president in the history of...",
@@ -320,26 +302,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/39929",
     "score": 10.0,
-    "views": 5296,
-    "forwards": 14
-  },
-  {
-    "title": "Sumyshchyna; The UAV is south of Shostka on a westerly course.",
-    "title_en": "Sumyshchyna; The UAV is south of Shostka on a westerly course.",
-    "title_uk": "Сумщина; БПЛА знаходиться на південь від Шостки на західному курсі.",
-    "description": "Sumyshchyna; The UAV is south of Shostka on a westerly course.",
-    "description_en": "Sumyshchyna; The UAV is south of Shostka on a westerly course.",
-    "description_uk": "Сумщина; БпЛА на півдні від Шостки західним курсом.",
-    "time": "",
-    "pubDate": "2026-06-14T04:56:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65142",
-    "score": 5.0,
-    "views": 11093,
-    "forwards": 0
+    "views": 5371,
+    "forwards": 15
   },
   {
     "title": "Kyiv: Attack attack",
