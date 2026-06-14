@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "UAV on the border of Sumy Oblast and Kharkiv Oblast ➡️ heading for Poltava Oblast.",
+    "description_en": "UAV on the border of Sumy Oblast and Kharkiv Oblast ➡️ heading for Poltava Oblast.",
+    "description_uk": "БпЛА на межі Сумщини і Харківщини ➡️ курсом на Полтавщину.",
+    "time": "",
+    "pubDate": "2026-06-13T23:52:57+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65115",
+    "score": 6.0,
+    "views": 6631,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "UAV in Chernihiv Oblast in the direction of Desna/Oster from the south.",
+    "description_en": "UAV in Chernihiv Oblast in the direction of Desna/Oster from the south.",
+    "description_uk": "БпЛА на Чернігівщині в напрямку Десни/Остера з півдня.",
+    "time": "",
+    "pubDate": "2026-06-13T23:41:21+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65114",
+    "score": 6.0,
+    "views": 9630,
+    "forwards": 0
+  },
+  {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
     "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
     "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на східному...",
@@ -86,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53676",
     "score": 5.0,
-    "views": 966,
-    "forwards": 2
+    "views": 1118,
+    "forwards": 3
   },
   {
     "title": "Dnipro: Dnipropetrovsk region: BpLA in the west of the region passes Shiroke...",
@@ -176,8 +212,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193662",
     "score": 3.5,
-    "views": 113435,
-    "forwards": 98
+    "views": 118447,
+    "forwards": 99
   },
   {
     "title": "Dnipro: BpLA in Synelniky district in Dnipropetrovsk region ➡️ in the...",
@@ -212,26 +248,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193660",
     "score": 6.5,
-    "views": 134183,
-    "forwards": 264
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "Reactive UAV in the Nizhyn district of Chernihiv Oblast ➡️ in the direction of Nizhyn from the northwest",
-    "description_en": "Reactive UAV in the Nizhyn district of Chernihiv Oblast ➡️ in the direction of Nizhyn from the northwest",
-    "description_uk": "Реактивний БпЛА у Ніжинському районі на Чернігівщині ➡️ у напрямку Ніжина із північного заходу",
-    "time": "",
-    "pubDate": "2026-06-13T17:40:23+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65049",
-    "score": 6.0,
-    "views": 23249,
-    "forwards": 0
+    "views": 138165,
+    "forwards": 275
   },
   {
     "title": "BpLA in Sumy Oblast from the northeast ➡️ course to Putivl",
@@ -302,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53673",
     "score": 9.0,
-    "views": 2427,
+    "views": 2488,
     "forwards": 8
   },
   {
@@ -375,24 +393,6 @@
     "link": "https://t.me/kpszsu/65018",
     "score": 6.0,
     "views": 31361,
-    "forwards": 0
-  },
-  {
-    "title": "Attack attack",
-    "title_en": "Attack attack",
-    "title_uk": "Атака нападу",
-    "description": "Ukraine's security service reports hit on oil and gas terminal in Russia's Krasnodar Krai Special Group Alpha, part of the Security Service of Ukraine (SSU), working with Special Operations Forces (SOF) and Defence Intelligence of Ukraine (DIU), has carried out successful strikes on the Tamannaftogas oil and gas terminal in Russia's Krasnodar Krai. Read the full article on our website",
-    "description_en": "Ukraine's security service reports hit on oil and gas terminal in Russia's Krasnodar Krai Special Group Alpha, part of the Security Service of Ukraine (SSU), working with Special Operations Forces (SOF) and Defence Intelligence of Ukraine (DIU), has carried out successful strikes on the Tamannaftogas oil and gas terminal in Russia's Krasnodar Krai. Read the full article on our website",
-    "description_uk": "Ukraine's security service reports hit on oil and gas terminal in Russia's Krasnodar Krai Special Group Alpha, part of the Security Service of Ukraine (SSU), working with Special Operations Forces (SOF) and Defence Intelligence of Ukraine (DIU), has carried out successful strikes on the Tamannaftogas oil and gas terminal in Russia's Krasnodar Krai. Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-06-13T12:13:35+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48744",
-    "score": 4.0,
-    "views": 9,
     "forwards": 0
   },
   {
