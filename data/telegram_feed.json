@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: Attack attack",
+    "title_en": "Kyiv: Attack attack",
+    "title_uk": "Київ: Атака",
+    "description": "BpLA shock groups continue to attack Kyiv from various directions.",
+    "description_en": "BpLA shock groups continue to attack Kyiv from various directions.",
+    "description_uk": "Групи ударних БпЛа продовжують атакувати Київ з різних напрямків.",
+    "time": "",
+    "pubDate": "2026-06-14T22:18:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65199",
+    "score": 6.0,
+    "views": 17161,
+    "forwards": 1
+  },
+  {
+    "title": "Attack attack",
+    "title_en": "Attack attack",
+    "title_uk": "Атака нападу",
+    "description": "Attack BpLA on Pavlograd.",
+    "description_en": "Attack BpLA on Pavlograd.",
+    "description_uk": "Ударні БпЛА на Павлоград.",
+    "time": "",
+    "pubDate": "2026-06-14T22:15:53+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65198",
+    "score": 5.0,
+    "views": 32304,
+    "forwards": 34
+  },
+  {
+    "title": "Kyiv: Explosions reported",
+    "title_en": "Kyiv: Explosions reported",
+    "title_uk": "Київ: повідомлення про вибухи",
+    "description": "Explosions heard in Kyiv. Explosions were reported in Kyiv around 1 a.m. local time, according to a Kyiv Independent journalist on the ground. Ukrainian officials have warned of the threat of a large-scale missile and drone attack on Kyiv overnight.",
+    "description_en": "Explosions heard in Kyiv. Explosions were reported in Kyiv around 1 a.m. local time, according to a Kyiv Independent journalist on the ground. Ukrainian officials have warned of the threat of a large-scale missile and drone attack on Kyiv overnight.",
+    "description_uk": "Explosions heard in Kyiv. Explosions were reported in Kyiv around 1 a.m. local time, according to a Kyiv Independent journalist on the ground. Ukrainian officials have warned of the threat of a large-scale missile and drone attack on Kyiv overnight.",
+    "time": "",
+    "pubDate": "2026-06-14T22:09:35+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53690",
+    "score": 13.0,
+    "views": 320,
+    "forwards": 3
+  },
+  {
     "title": "BpLA passes by Kamianets, heading for Kropyvnytskyi.",
     "title_en": "BpLA passes by Kamianets, heading for Kropyvnytskyi.",
     "title_uk": "BpLA проходить повз Кам'янець, прямуючи на Кропивницький.",
@@ -50,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53687",
     "score": 11.0,
-    "views": 1330,
-    "forwards": 5
+    "views": 1808,
+    "forwards": 6
   },
   {
     "title": "Kherson: Casualties reported",
@@ -68,7 +122,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48787",
     "score": 6.0,
-    "views": 24,
+    "views": 28,
     "forwards": 0
   },
   {
@@ -86,7 +140,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48786",
     "score": 10.0,
-    "views": 24,
+    "views": 28,
     "forwards": 0
   },
   {
@@ -104,7 +158,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193731",
     "score": 6.5,
-    "views": 132611,
+    "views": 142589,
     "forwards": 245
   },
   {
@@ -320,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9308",
     "score": 4.0,
-    "views": 784,
+    "views": 810,
     "forwards": 6
   },
   {
@@ -358,23 +412,5 @@
     "score": 10.0,
     "views": 5371,
     "forwards": 15
-  },
-  {
-    "title": "Kyiv: Attack attack",
-    "title_en": "Kyiv: Attack attack",
-    "title_uk": "Київ: Атака",
-    "description": "Update: Russian chemical plant, oil depot set ablaze following reported Ukrainian strikes. Ukraine struck a chemical plant in Russia's Tula Oblast and an oil depot in Yaroslavl Oblast overnight on June 14, social media channels reported.",
-    "description_en": "Update: Russian chemical plant, oil depot set ablaze following reported Ukrainian strikes. Ukraine struck a chemical plant in Russia's Tula Oblast and an oil depot in Yaroslavl Oblast overnight on June 14, social media channels reported.",
-    "description_uk": "Update: Russian chemical plant, oil depot set ablaze following reported Ukrainian strikes. Ukraine struck a chemical plant in Russia's Tula Oblast and an oil depot in Yaroslavl Oblast overnight on June 14, social media channels reported.",
-    "time": "",
-    "pubDate": "2026-06-14T03:25:33+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53678",
-    "score": 8.0,
-    "views": 2506,
-    "forwards": 3
   }
 ]
