@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A group of UAVs in the direction of Kyiv from the east.",
+    "description_en": "A group of UAVs in the direction of Kyiv from the east.",
+    "description_uk": "Група БпЛА в напрямку Києва зі сходу.",
+    "time": "",
+    "pubDate": "2026-06-15T01:35:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65241",
+    "score": 5.5,
+    "views": 31398,
+    "forwards": 102
+  },
+  {
+    "title": "Kyiv: 17 injured",
+    "title_en": "Kyiv: 17 injured",
+    "title_uk": "Київ: 17 постраждалих",
+    "description": "Update: 17 injured in Kyiv amid ongoing large-scale Russian attack. At least 17 people have been injured in Kyiv as Russian missiles and drones continue to target Ukraine's capital in Moscow's latest large-scale attack. Among the targets of the attack is the historic Assumption Cathedral within the Kyiv Pechersk Lavra, which suffered a direct strike, officials reported.",
+    "description_en": "Update: 17 injured in Kyiv amid ongoing large-scale Russian attack. At least 17 people have been injured in Kyiv as Russian missiles and drones continue to target Ukraine's capital in Moscow's latest large-scale attack. Among the targets of the attack is the historic Assumption Cathedral within the Kyiv Pechersk Lavra, which suffered a direct strike, officials reported.",
+    "description_uk": "Update: 17 injured in Kyiv amid ongoing large-scale Russian attack. At least 17 people have been injured in Kyiv as Russian missiles and drones continue to target Ukraine's capital in Moscow's latest large-scale attack. Among the targets of the attack is the historic Assumption Cathedral within the Kyiv Pechersk Lavra, which suffered a direct strike, officials reported.",
+    "time": "",
+    "pubDate": "2026-06-15T01:00:17+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53694",
+    "score": 9.0,
+    "views": 577,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: 6 injured",
+    "title_en": "Kyiv: 6 injured",
+    "title_uk": "Київ: 6 постраждалих",
+    "description": "Update: At least 6 injured in Kyiv as Russia strikes residential buildings, historic Pechersk Lavra. At least six people have been injured in Kyiv amid a large-scale Russian attack, as a fire continues to burn at the historic Dormition Cathedral in the Kyiv Pechersk Lavra. 📷 Archbishop Yevstratiy Zoria",
+    "description_en": "Update: At least 6 injured in Kyiv as Russia strikes residential buildings, historic Pechersk Lavra. At least six people have been injured in Kyiv amid a large-scale Russian attack, as a fire continues to burn at the historic Dormition Cathedral in the Kyiv Pechersk Lavra. 📷 Archbishop Yevstratiy Zoria",
+    "description_uk": "Update: At least 6 injured in Kyiv as Russia strikes residential buildings, historic Pechersk Lavra. At least six people have been injured in Kyiv amid a large-scale Russian attack, as a fire continues to burn at the historic Dormition Cathedral in the Kyiv Pechersk Lavra. 📷 Archbishop Yevstratiy Zoria",
+    "time": "",
+    "pubDate": "2026-06-15T00:03:07+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53693",
+    "score": 9.0,
+    "views": 965,
+    "forwards": 7
+  },
+  {
     "title": "One of the arrivals was at \"Novaya Pochta\" in Zhulyany, - SMI",
     "title_en": "One of the arrivals was at \"Novaya Pochta\" in Zhulyany, - SMI",
     "title_uk": "Одне з надходжень було на \"Нову пошту\" в Жулянах, - ДІУ",
@@ -13,9 +67,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193768",
-    "score": 4.5,
-    "views": 11381,
-    "forwards": 137
+    "score": 5.5,
+    "views": 58124,
+    "forwards": 209
   },
   {
     "title": "Chernihiv: A rocket from the Bryansk region through the Chernihiv region in the...",
@@ -50,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193767",
     "score": 4.5,
-    "views": 24069,
-    "forwards": 431
+    "views": 64445,
+    "forwards": 591
   },
   {
     "title": "Chernihiv: More rockets from the Bryansk region through the Chernihiv region in...",
@@ -212,7 +266,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48787",
     "score": 6.0,
-    "views": 37,
+    "views": 39,
     "forwards": 0
   },
   {
@@ -230,7 +284,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48786",
     "score": 10.0,
-    "views": 37,
+    "views": 39,
     "forwards": 0
   },
   {
@@ -360,42 +414,6 @@
     "forwards": 0
   },
   {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "Strike UAV in the north of Chernihiv Oblast heading southeast.",
-    "description_en": "Strike UAV in the north of Chernihiv Oblast heading southeast.",
-    "description_uk": "Ударний БпЛА на півночі Чернігівщини курсом на південний схід.",
-    "time": "",
-    "pubDate": "2026-06-14T12:36:26+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65156",
-    "score": 6.0,
-    "views": 28356,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: BpLA in the direction of Zaporozhye from the south.",
-    "title_en": "Zaporizhzhia: BpLA in the direction of Zaporozhye from the south.",
-    "title_uk": "Запоріжжя: БпЛА в напрямку Запоріжжя з півд.",
-    "description": "BpLA in the direction of Zaporozhye from the south.",
-    "description_en": "BpLA in the direction of Zaporozhye from the south.",
-    "description_uk": "БпЛА у напрямку м. Запоріжжя з південного напрямку.",
-    "time": "",
-    "pubDate": "2026-06-14T11:46:03+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65155",
-    "score": 6.0,
-    "views": 45889,
-    "forwards": 12
-  },
-  {
     "title": "Zaporizhzhia: Attack attack on residential area",
     "title_en": "Zaporizhzhia: Attack attack on residential area",
     "title_uk": "Запоріжжя: обстріл житлового кварталу",
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 17,
     "forwards": 0
-  },
-  {
-    "title": "Air defense active",
-    "title_en": "Air defense active",
-    "title_uk": "Активна ППО",
-    "description": "Minister of Foreign Affairs of Ukraine Andriy Sybiga regarding the interception of one of the Russian sanctioned ships in the English Channel by the British Armed Forces: 💬 \"Thankful to Yvette Cooper for the leadership and decisive actions of Great Britain. Russia's shadow fleet is a tool of war. Every such vessel stopped means less money for the Russian war machine. Blocking these revenues helps reduce Russia's ability...",
-    "description_en": "Minister of Foreign Affairs of Ukraine Andriy Sybiga regarding the interception of one of the Russian sanctioned ships in the English Channel by the British Armed Forces: 💬 \"Thankful to Yvette Cooper for the leadership and decisive actions of Great Britain. Russia's shadow fleet is a tool of war. Every such vessel stopped means less money for the Russian war machine. Blocking these revenues helps reduce Russia's ability...",
-    "description_uk": "Міністр закордонних справ України Андрій Сибіга щодо перехоплення одного із санкційних кораблів Росії в Ла-Манші Збройними силами Великобританії: 💬 \"Вдячний Іветт Купер за лідерство та рішучі дії Великої Британії. Тіньовий флот Росії – це інструмент війни. Кожне зупинене таке судно означає менше грошей для російської воєнної машини. Перекриття цих доходів допомагає зменшити здатність Росії...",
-    "time": "",
-    "pubDate": "2026-06-14T10:31:56+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9308",
-    "score": 4.0,
-    "views": 863,
-    "forwards": 6
   }
 ]
