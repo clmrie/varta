@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV in the direction of Sumy from the north.",
+    "description_en": "UAV in the direction of Sumy from the north.",
+    "description_uk": "БпЛА в напрямку Сум з півночі.",
+    "time": "",
+    "pubDate": "2026-06-17T03:40:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65404",
+    "score": 5.0,
+    "views": 11141,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: Dnipropetrovsk region: BpLA in the direction of Krynychok.",
+    "title_en": "Dnipro: Dnipropetrovsk region: BpLA in the direction of Krynychok.",
+    "title_uk": "Дніпро: Дніпропетровська область: БпЛА в напрямку Криничок.",
+    "description": "Dnipropetrovsk region: BpLA in the direction of Krynychok.",
+    "description_en": "Dnipropetrovsk region: BpLA in the direction of Krynychok.",
+    "description_uk": "Дніпропетровщина: БпЛА в напрямку Криничок.",
+    "time": "",
+    "pubDate": "2026-06-17T03:01:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65403",
+    "score": 6.0,
+    "views": 24297,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: 1 killed, 7 injured",
+    "title_en": "Zaporizhzhia: 1 killed, 7 injured",
+    "title_uk": "Запоріжжя: 1 загиблий, 7 поранених",
+    "description": "1 killed, 7 injured as Russia launches drone strikes on Zaporizhzhia. According to Zaporizhzhia Oblast Governor Ivan Fedorov, Russia carried out five strikes on the city, sparking fires and damaging civilian infrastructure.",
+    "description_en": "1 killed, 7 injured as Russia launches drone strikes on Zaporizhzhia. According to Zaporizhzhia Oblast Governor Ivan Fedorov, Russia carried out five strikes on the city, sparking fires and damaging civilian infrastructure.",
+    "description_uk": "1 killed, 7 injured as Russia launches drone strikes on Zaporizhzhia. According to Zaporizhzhia Oblast Governor Ivan Fedorov, Russia carried out five strikes on the city, sparking fires and damaging civilian infrastructure.",
+    "time": "",
+    "pubDate": "2026-06-16T23:59:13+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Zaporizhzhia",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53733",
+    "score": 15.0,
+    "views": 734,
+    "forwards": 2
+  },
+  {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
     "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
     "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
@@ -68,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53732",
     "score": 5.0,
-    "views": 717,
-    "forwards": 4
+    "views": 1231,
+    "forwards": 5
   },
   {
     "title": "Chernihiv: BpLA from Sumy Oblast to Chernihiv Oblast, direction Novgorod-Siversky",
@@ -105,24 +159,6 @@
     "link": "https://t.me/kpszsu/65375",
     "score": 6.0,
     "views": 10114,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A jet UAV from the Black Sea in the direction of Chornomorsk.",
-    "description_en": "A jet UAV from the Black Sea in the direction of Chornomorsk.",
-    "description_uk": "Реактивний БпЛА з акваторії Чорного моря в напрямку м.Чорноморськ.",
-    "time": "",
-    "pubDate": "2026-06-16T19:40:09+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65374",
-    "score": 5.0,
-    "views": 42548,
     "forwards": 0
   },
   {
@@ -194,7 +230,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193924",
     "score": 8.5,
-    "views": 152644,
+    "views": 164488,
     "forwards": 173
   },
   {
@@ -216,42 +252,6 @@
     "forwards": 3
   },
   {
-    "title": "Kramatorsk: Dnipropetrovsk region: BpLA in the direction of Apostolovy from the...",
-    "title_en": "Kramatorsk: Dnipropetrovsk region: BpLA in the direction of Apostolovy from the...",
-    "title_uk": "Краматорськ: Дніпропетровська область: БпЛА в напрямку Апостолового від...",
-    "description": "Dnipropetrovsk region: BpLA in the direction of Apostolovy from the southeast; 🛵 Kharkiv region: BpLA in the direction of Izyum from the east; 🛵 Donetsk region: BpLA in the direction of Kramatorsk from the northeast.",
-    "description_en": "Dnipropetrovsk region: BpLA in the direction of Apostolovy from the southeast; 🛵 Kharkiv region: BpLA in the direction of Izyum from the east; 🛵 Donetsk region: BpLA in the direction of Kramatorsk from the northeast.",
-    "description_uk": "Дніпропетровщина: БпЛА в напрямку Апостолового з південного сходу; 🛵 Харківщина: БпЛА в напрямку Ізюму зі сходу; 🛵 Донеччина: БпЛА в напрямку Краматорська з північного сходу.",
-    "time": "",
-    "pubDate": "2026-06-16T15:55:13+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kramatorsk",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65361",
-    "score": 6.0,
-    "views": 60760,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Missile launch detected",
-    "title_en": "Kyiv: Missile launch detected",
-    "title_uk": "Київ: Зафіксовано пуск ракети",
-    "description": "Ukrainian Armor, AviaNera launch partnership on missile, drone engines. The agreement covers the development and supply of engines for Ukrainian missile and drone platforms as Kyiv works to expand domestic weapons production.",
-    "description_en": "Ukrainian Armor, AviaNera launch partnership on missile, drone engines. The agreement covers the development and supply of engines for Ukrainian missile and drone platforms as Kyiv works to expand domestic weapons production.",
-    "description_uk": "Ukrainian Armor, AviaNera launch partnership on missile, drone engines. The agreement covers the development and supply of engines for Ukrainian missile and drone platforms as Kyiv works to expand domestic weapons production.",
-    "time": "",
-    "pubDate": "2026-06-16T15:16:23+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53727",
-    "score": 6.0,
-    "views": 1179,
-    "forwards": 1
-  },
-  {
     "title": "Grateful to Canada for the new package of sanctions against more than...",
     "title_en": "Grateful to Canada for the new package of sanctions against more than...",
     "title_uk": "Вдячні Канаді за новий пакет санкцій проти понад...",
@@ -266,26 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19510",
     "score": 4.0,
-    "views": 72647,
-    "forwards": 147
-  },
-  {
-    "title": "Chernihiv: Unmanned aerial vehicle in the west of Chernihiv region along the...",
-    "title_en": "Chernihiv: Unmanned aerial vehicle in the west of Chernihiv region along the...",
-    "title_uk": "Чернігів: БПЛА на заході Чернігівської області по...",
-    "description": "Unmanned aerial vehicle in the west of Chernihiv region along the border with Belarus ➡️ in the southern direction.",
-    "description_en": "Unmanned aerial vehicle in the west of Chernihiv region along the border with Belarus ➡️ in the southern direction.",
-    "description_uk": "БпЛА на заході Чернігівщини уздовж кордону з Білоруссю ➡️ в південному напрямку.",
-    "time": "",
-    "pubDate": "2026-06-16T12:14:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65334",
-    "score": 6.0,
-    "views": 14134,
-    "forwards": 0
+    "views": 74623,
+    "forwards": 148
   },
   {
     "title": "Donetsk: The Moscow Refinery, control points and enemy warehouses were hit...",
@@ -356,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19501",
     "score": 4.0,
-    "views": 83303,
+    "views": 83752,
     "forwards": 147
   },
   {
@@ -392,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9315",
     "score": 10.0,
-    "views": 1101,
+    "views": 1105,
     "forwards": 18
   },
   {
@@ -410,7 +392,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23578",
     "score": 5.5,
-    "views": 167265,
+    "views": 168652,
     "forwards": 172
   }
 ]
