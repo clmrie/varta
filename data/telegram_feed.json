@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kharkiv: Drone attack",
+    "title_en": "Kharkiv: Drone attack",
+    "title_uk": "Харків: Атака безпілотників",
+    "description": "Attack UAVs on Sumy and on the border of Sumy and Kharkiv regions",
+    "description_en": "Attack UAVs on Sumy and on the border of Sumy and Kharkiv regions",
+    "description_uk": "Ударні БпЛА на Суми та на кордоні Сумської та Харківської областей",
+    "time": "",
+    "pubDate": "2026-06-17T22:46:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65483",
+    "score": 6.0,
+    "views": 34375,
+    "forwards": 35
+  },
+  {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "Explosions reported in Kyiv amid ballistic missile threat. Explosions were heard in Kyiv around 1:30 a.m. local time, according to a Kyiv Independent journalist on the ground. Earlier, Ukraine's Air Force had issued a warning of a ballistic missile threat targeting the capital.",
+    "description_en": "Explosions reported in Kyiv amid ballistic missile threat. Explosions were heard in Kyiv around 1:30 a.m. local time, according to a Kyiv Independent journalist on the ground. Earlier, Ukraine's Air Force had issued a warning of a ballistic missile threat targeting the capital.",
+    "description_uk": "Explosions reported in Kyiv amid ballistic missile threat. Explosions were heard in Kyiv around 1:30 a.m. local time, according to a Kyiv Independent journalist on the ground. Earlier, Ukraine's Air Force had issued a warning of a ballistic missile threat targeting the capital.",
+    "time": "",
+    "pubDate": "2026-06-17T22:41:59+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53750",
+    "score": 10.0,
+    "views": 333,
+    "forwards": 1
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "Ballistics Threat (North)",
+    "description_en": "Ballistics Threat (North)",
+    "description_uk": "Загроза балістики (північ)",
+    "time": "",
+    "pubDate": "2026-06-17T22:22:28+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65479",
+    "score": 5.5,
+    "views": 119276,
+    "forwards": 70
+  },
+  {
     "title": "Drone attack",
     "title_en": "Drone attack",
     "title_uk": "Атака безпілотників",
@@ -104,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193989",
     "score": 6.5,
-    "views": 151050,
-    "forwards": 395
+    "views": 157208,
+    "forwards": 412
   },
   {
     "title": "Kyiv: Ukrainian, French defense firms to receive $23 million in grants...",
@@ -122,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53738",
     "score": 6.0,
-    "views": 2114,
+    "views": 2243,
     "forwards": 5
   },
   {
@@ -266,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19510",
     "score": 4.0,
-    "views": 86453,
+    "views": 87011,
     "forwards": 155
   },
   {
@@ -284,7 +338,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48856",
     "score": 3.5,
-    "views": 64,
+    "views": 66,
     "forwards": 0
   }
 ]
