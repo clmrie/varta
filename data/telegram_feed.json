@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "Attack UAVs are approaching Chornomorsk.",
+    "description_en": "Attack UAVs are approaching Chornomorsk.",
+    "description_uk": "Ударні БпЛА наближаються до Чорноморська.",
+    "time": "",
+    "pubDate": "2026-06-17T18:11:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65459",
+    "score": 5.0,
+    "views": 57658,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A group of attack UAVs in the south of Sumy Oblast heading for Poltava Oblast",
+    "description_en": "A group of attack UAVs in the south of Sumy Oblast heading for Poltava Oblast",
+    "description_uk": "Група ударних БпЛА на півдні Сумщини курсом на Полтавщину",
+    "time": "",
+    "pubDate": "2026-06-17T18:04:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65458",
+    "score": 5.0,
+    "views": 62670,
+    "forwards": 3
+  },
+  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Харків: Дрон вхід",
@@ -50,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193989",
     "score": 6.5,
-    "views": 77868,
-    "forwards": 252
+    "views": 128291,
+    "forwards": 323
   },
   {
     "title": "Kyiv: Ukrainian, French defense firms to receive $23 million in grants...",
@@ -68,26 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53738",
     "score": 6.0,
-    "views": 1411,
-    "forwards": 4
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "Good old partisanship in Crimea: local people on mopeds ride the streets during drone attacks so that the occupiers cannot determine by the sound where exactly the drone is flying 🤣",
-    "description_en": "Good old partisanship in Crimea: local people on mopeds ride the streets during drone attacks so that the occupiers cannot determine by the sound where exactly the drone is flying 🤣",
-    "description_uk": "Старая добрая партизанщина в Крыму: местные на мопедах ездят по улицам во время атак дронов, чтобы оккупанты не могли по звуку определить, где именно летит дрон 🤣",
-    "time": "",
-    "pubDate": "2026-06-17T13:06:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Crimea",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/193982",
-    "score": 6.5,
-    "views": 119778,
-    "forwards": 400
+    "views": 1874,
+    "forwards": 5
   },
   {
     "title": "Chernihiv: Unmanned aerial vehicle in the north of Chernihiv region, in a...",
@@ -140,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53735",
     "score": 14.0,
-    "views": 2261,
-    "forwards": 2
+    "views": 2519,
+    "forwards": 4
   },
   {
     "title": "Zaporizhzhia: BpLA in the direction of Zaporizhzhia from the south.",
@@ -252,42 +270,6 @@
     "forwards": 5
   },
   {
-    "title": "Khmelnytskyi: Casualties reported",
-    "title_en": "Khmelnytskyi: Casualties reported",
-    "title_uk": "Хмельницький: повідомляється про постраждалих",
-    "description": "Ukrainian Su-24 bomber crashes in Khmelnytskyi Oblast, killing pilots, Air Force confirms. The cause and circumstances of the crash are currently under investigation, Ukraine's Air Force said. Rescue crews and law enforcement are currently working at the site, and no civilian casualties have been reported.",
-    "description_en": "Ukrainian Su-24 bomber crashes in Khmelnytskyi Oblast, killing pilots, Air Force confirms. The cause and circumstances of the crash are currently under investigation, Ukraine's Air Force said. Rescue crews and law enforcement are currently working at the site, and no civilian casualties have been reported.",
-    "description_uk": "Ukrainian Su-24 bomber crashes in Khmelnytskyi Oblast, killing pilots, Air Force confirms. The cause and circumstances of the crash are currently under investigation, Ukraine's Air Force said. Rescue crews and law enforcement are currently working at the site, and no civilian casualties have been reported.",
-    "time": "",
-    "pubDate": "2026-06-16T18:25:45+00:00",
-    "category": "shelling",
-    "severity": "critical",
-    "location": "Khmelnytskyi",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53731",
-    "score": 6.0,
-    "views": 1941,
-    "forwards": 3
-  },
-  {
-    "title": "Kyiv: Drone strike",
-    "title_en": "Kyiv: Drone strike",
-    "title_uk": "Київ: Дрон-удар",
-    "description": "Update: Drone strike knocks Moscow oil refinery completely out of action, Reuters reports. The June 16 Ukrainian drone strike on the Moscow Oil Refinery has forced a total halt in its operations, Reuters reported, citing Russian industry sources. The attack sparked a fire and severely damaged a primary refining unit responsible for over half of the plant’s capacity, contradicting claims by local...",
-    "description_en": "Update: Drone strike knocks Moscow oil refinery completely out of action, Reuters reports. The June 16 Ukrainian drone strike on the Moscow Oil Refinery has forced a total halt in its operations, Reuters reported, citing Russian industry sources. The attack sparked a fire and severely damaged a primary refining unit responsible for over half of the plant’s capacity, contradicting claims by local...",
-    "description_uk": "Update: Drone strike knocks Moscow oil refinery completely out of action, Reuters reports. The June 16 Ukrainian drone strike on the Moscow Oil Refinery has forced a total halt in its operations, Reuters reported, citing Russian industry sources. The attack sparked a fire and severely damaged a primary refining unit responsible for over half of the plant’s capacity, contradicting claims by local...",
-    "time": "",
-    "pubDate": "2026-06-16T17:43:21+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53730",
-    "score": 5.0,
-    "views": 1409,
-    "forwards": 3
-  },
-  {
     "title": "Grateful to Canada for the new package of sanctions against more than...",
     "title_en": "Grateful to Canada for the new package of sanctions against more than...",
     "title_uk": "Вдячні Канаді за новий пакет санкцій проти понад...",
@@ -302,7 +284,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19510",
     "score": 4.0,
-    "views": 83817,
+    "views": 85021,
     "forwards": 154
   },
   {
@@ -320,7 +302,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19501",
     "score": 4.0,
-    "views": 86502,
+    "views": 87033,
     "forwards": 148
   },
   {
