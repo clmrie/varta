@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Attack attack",
+    "title_en": "Kharkiv: Attack attack",
+    "title_uk": "Харків: Напад",
+    "description": "Enemy strike BpLA in the district. n.p. Lebedyn and Okhtyrka (Sumshchyna) on the way to Kharkiv Oblast.",
+    "description_en": "Enemy strike BpLA in the district. n.p. Lebedyn and Okhtyrka (Sumshchyna) on the way to Kharkiv Oblast.",
+    "description_uk": "Ворожі ударні БпЛА в р-ні. н.п. Лебедин та Охтирка (Сумщина) курсом на Харківщину.",
+    "time": "",
+    "pubDate": "2026-06-18T00:13:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65488",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: The BpLA group in the district. n.p. Kakhovka movement vector...",
+    "title_en": "Zaporizhzhia: The BpLA group in the district. n.p. Kakhovka movement vector...",
+    "title_uk": "Запоріжжя: Група BpLA в районі. п.п. Каховський вектор руху...",
+    "description": "The BpLA group in the district. n.p. Kakhovka movement vector Nikopol/Zaporizhia.",
+    "description_en": "The BpLA group in the district. n.p. Kakhovka movement vector Nikopol/Zaporizhia.",
+    "description_uk": "Група БпЛА в р-ні. н.п. Каховка вектор руху Нікополь/Запоріжжя.",
+    "time": "",
+    "pubDate": "2026-06-18T00:12:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65487",
+    "score": 6.0,
+    "views": 1206,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: Drone attack",
     "title_en": "Kharkiv: Drone attack",
     "title_uk": "Харків: Атака безпілотників",
@@ -32,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53750",
     "score": 10.0,
-    "views": 333,
-    "forwards": 1
+    "views": 697,
+    "forwards": 3
   },
   {
     "title": "Ballistic missile launch detected",
@@ -158,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/193989",
     "score": 6.5,
-    "views": 157208,
-    "forwards": 412
+    "views": 159533,
+    "forwards": 413
   },
   {
     "title": "Kyiv: Ukrainian, French defense firms to receive $23 million in grants...",
@@ -176,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53738",
     "score": 6.0,
-    "views": 2243,
+    "views": 2310,
     "forwards": 5
   },
   {
@@ -288,24 +324,6 @@
     "forwards": 20
   },
   {
-    "title": "Zaporizhzhia: 1 killed, 7 injured",
-    "title_en": "Zaporizhzhia: 1 killed, 7 injured",
-    "title_uk": "Запоріжжя: 1 загиблий, 7 поранених",
-    "description": "1 killed, 7 injured as Russia launches drone strikes on Zaporizhzhia. According to Zaporizhzhia Oblast Governor Ivan Fedorov, Russia carried out five strikes on the city, sparking fires and damaging civilian infrastructure.",
-    "description_en": "1 killed, 7 injured as Russia launches drone strikes on Zaporizhzhia. According to Zaporizhzhia Oblast Governor Ivan Fedorov, Russia carried out five strikes on the city, sparking fires and damaging civilian infrastructure.",
-    "description_uk": "1 killed, 7 injured as Russia launches drone strikes on Zaporizhzhia. According to Zaporizhzhia Oblast Governor Ivan Fedorov, Russia carried out five strikes on the city, sparking fires and damaging civilian infrastructure.",
-    "time": "",
-    "pubDate": "2026-06-16T23:59:13+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Zaporizhzhia",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53733",
-    "score": 15.0,
-    "views": 2546,
-    "forwards": 5
-  },
-  {
     "title": "Grateful to Canada for the new package of sanctions against more than...",
     "title_en": "Grateful to Canada for the new package of sanctions against more than...",
     "title_uk": "Вдячні Канаді за новий пакет санкцій проти понад...",
@@ -320,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19510",
     "score": 4.0,
-    "views": 87011,
-    "forwards": 155
+    "views": 87370,
+    "forwards": 156
   },
   {
     "title": "Airstrike attack on residential area",
