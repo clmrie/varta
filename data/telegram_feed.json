@@ -1,5 +1,59 @@
 [
   {
+    "title": "Crimea: Drone strike",
+    "title_en": "Crimea: Drone strike",
+    "title_uk": "Крим: удар безпілотника",
+    "description": "Ukrainian drones hit gas storage facility in occupied Crimea, footage shows, power plant reportedly struck. Ukraine's Unmanned Systems Forces (USF) continued their drone campaign over occupied Crimea on June 19 and overnight into June 20, striking energy facilites on the peninsula, Ukrainian officials and Russian Telegram media channels reported.",
+    "description_en": "Ukrainian drones hit gas storage facility in occupied Crimea, footage shows, power plant reportedly struck. Ukraine's Unmanned Systems Forces (USF) continued their drone campaign over occupied Crimea on June 19 and overnight into June 20, striking energy facilites on the peninsula, Ukrainian officials and Russian Telegram media channels reported.",
+    "description_uk": "Ukrainian drones hit gas storage facility in occupied Crimea, footage shows, power plant reportedly struck. Ukraine's Unmanned Systems Forces (USF) continued their drone campaign over occupied Crimea on June 19 and overnight into June 20, striking energy facilites on the peninsula, Ukrainian officials and Russian Telegram media channels reported.",
+    "time": "",
+    "pubDate": "2026-06-19T22:34:50+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Crimea",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53793",
+    "score": 11.5,
+    "views": 75,
+    "forwards": 1
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "Groups of attack UAVs in the Kharkiv region in the direction of Barvinkovo.",
+    "description_en": "Groups of attack UAVs in the Kharkiv region in the direction of Barvinkovo.",
+    "description_uk": "Групи ударних БпЛА на Харківщині в напрямку Барвінкове.",
+    "time": "",
+    "pubDate": "2026-06-19T22:13:47+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65633",
+    "score": 6.0,
+    "views": 10671,
+    "forwards": 10
+  },
+  {
+    "title": "Kharkiv: A group of BpLA in the north of the Kharkiv region ➡️ heading for...",
+    "title_en": "Kharkiv: A group of BpLA in the north of the Kharkiv region ➡️ heading for...",
+    "title_uk": "Харків: Група BpLA на півночі Харківської області ➡️ прямує на...",
+    "description": "A group of BpLA in the north of the Kharkiv region ➡️ heading for n.p. Old Merchyk.",
+    "description_en": "A group of BpLA in the north of the Kharkiv region ➡️ heading for n.p. Old Merchyk.",
+    "description_uk": "Група БпЛА на півночі Харківщини ➡️ курсом на н.п. Старий Мерчик.",
+    "time": "",
+    "pubDate": "2026-06-19T20:56:25+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65632",
+    "score": 6.0,
+    "views": 38020,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: A group of BpLA in the north of Kharkiv Oblast ➡️ on a course to n.p....",
     "title_en": "Kharkiv: A group of BpLA in the north of Kharkiv Oblast ➡️ on a course to n.p....",
     "title_uk": "Харків: Група БПЛА на півночі Харківської області ➡️ на курсі на н.п....",
@@ -50,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53792",
     "score": 13.0,
-    "views": 933,
+    "views": 1154,
     "forwards": 3
   },
   {
@@ -176,26 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19559",
     "score": 6.5,
-    "views": 58226,
-    "forwards": 369
-  },
-  {
-    "title": "Crimea: Drone strike",
-    "title_en": "Crimea: Drone strike",
-    "title_uk": "Крим: удар безпілотника",
-    "description": "Moscow Oil Refinery halts operations after largest-ever drone attack on Russian capital, General Staff says. The strike damaged a combined oil processing unit, three RVS-10000 oil storage tanks, and one RVS-30000 tank at the Moscow Oil Refinery. The facility has suspended oil processing for an indefinite period.",
-    "description_en": "Moscow Oil Refinery halts operations after largest-ever drone attack on Russian capital, General Staff says. The strike damaged a combined oil processing unit, three RVS-10000 oil storage tanks, and one RVS-30000 tank at the Moscow Oil Refinery. The facility has suspended oil processing for an indefinite period.",
-    "description_uk": "Moscow Oil Refinery halts operations after largest-ever drone attack on Russian capital, General Staff says. The strike damaged a combined oil processing unit, three RVS-10000 oil storage tanks, and one RVS-30000 tank at the Moscow Oil Refinery. The facility has suspended oil processing for an indefinite period.",
-    "time": "",
-    "pubDate": "2026-06-19T16:30:56+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Crimea",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53788",
-    "score": 8.0,
-    "views": 1284,
-    "forwards": 5
+    "views": 60097,
+    "forwards": 375
   },
   {
     "title": "Zaporizhzhia: Zaporozhye - in the direction of the city, enemy anti-aircraft fire...",
@@ -248,8 +284,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194147",
     "score": 5.5,
-    "views": 160025,
-    "forwards": 108
+    "views": 165429,
+    "forwards": 136
   },
   {
     "title": "Honduran President Nasri Asfura began his first visit to Ukraine by...",
@@ -266,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19557",
     "score": 6.5,
-    "views": 79238,
-    "forwards": 271
+    "views": 80449,
+    "forwards": 275
   },
   {
     "title": "Dnipro: Dnipropetrovsk region: BpLA in the direction of Apostolovoy from the...",
@@ -302,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40167",
     "score": 6.5,
-    "views": 39945,
+    "views": 40568,
     "forwards": 127
   },
   {
@@ -396,24 +432,6 @@
     "forwards": 2
   },
   {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "UAV heading to Kharkiv from the west.",
-    "description_en": "UAV heading to Kharkiv from the west.",
-    "description_uk": "БпЛА курсом на Харків з західного напрямку.",
-    "time": "",
-    "pubDate": "2026-06-19T11:05:56+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65586",
-    "score": 6.0,
-    "views": 36929,
-    "forwards": 0
-  },
-  {
     "title": "Drone attack",
     "title_en": "Drone attack",
     "title_uk": "Атака безпілотників",
@@ -430,23 +448,5 @@
     "score": 6.5,
     "views": 162193,
     "forwards": 215
-  },
-  {
-    "title": "The Ministry of Foreign Affairs of Ukraine took into account the...",
-    "title_en": "The Ministry of Foreign Affairs of Ukraine took into account the...",
-    "title_uk": "Міністерство закордонних справ України врахувало...",
-    "description": "The Ministry of Foreign Affairs of Ukraine took into account the published report of the UN Secretary General \"Children and Armed Conflicts\" for the year 2025, which once again records large-scale war crimes and gross violations of children's rights committed by the occupying forces of Russia on the territory of Ukraine. Among the key findings regarding Ukraine is an increase in the number of gross violations committed by the Russian armed forces,...",
-    "description_en": "The Ministry of Foreign Affairs of Ukraine took into account the published report of the UN Secretary General \"Children and Armed Conflicts\" for the year 2025, which once again records large-scale war crimes and gross violations of children's rights committed by the occupying forces of Russia on the territory of Ukraine. Among the key findings regarding Ukraine is an increase in the number of gross violations committed by the Russian armed forces,...",
-    "description_uk": "Міністерство закордонних справ України взяло до уваги оприлюднену доповідь Генерального секретаря ООН \"Діти та збройні конфлікти\" за 2025 рік, яка вчергове фіксує масштабні воєнні злочини та грубі порушення прав дітей, скоєні окупаційними військами Росії на території України. Серед ключових висновків щодо України – зростання кількості грубих порушень, вчинених російськими збройними силами,...",
-    "time": "",
-    "pubDate": "2026-06-18T16:55:56+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9331",
-    "score": 18.5,
-    "views": 875,
-    "forwards": 5
   }
 ]
