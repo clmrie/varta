@@ -1,5 +1,77 @@
 [
   {
+    "title": "Kyiv: Air defense active",
+    "title_en": "Kyiv: Air defense active",
+    "title_uk": "Київ: ППО діюча",
+    "description": "Ukraine war latest: Kyiv targets Moscow for second day in a row following record drone assault Moscow came under attack by Ukrainian drones for the second day a row, with Mayor Sergey Sobyanin reporting 37 unmanned aerial vehicles (UAVs) shot down by the city's air defense the afternoon of June 19. In addition, Ukraine's General Staff on June 19 confirmed damage to the Moscow Oil Refinery...",
+    "description_en": "Ukraine war latest: Kyiv targets Moscow for second day in a row following record drone assault Moscow came under attack by Ukrainian drones for the second day a row, with Mayor Sergey Sobyanin reporting 37 unmanned aerial vehicles (UAVs) shot down by the city's air defense the afternoon of June 19. In addition, Ukraine's General Staff on June 19 confirmed damage to the Moscow Oil Refinery...",
+    "description_uk": "Ukraine war latest: Kyiv targets Moscow for second day in a row following record drone assault Moscow came under attack by Ukrainian drones for the second day a row, with Mayor Sergey Sobyanin reporting 37 unmanned aerial vehicles (UAVs) shot down by the city's air defense the afternoon of June 19. In addition, Ukraine's General Staff on June 19 confirmed damage to the Moscow Oil Refinery...",
+    "time": "",
+    "pubDate": "2026-06-19T20:11:58+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53792",
+    "score": 13.0,
+    "views": 286,
+    "forwards": 2
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons.",
+    "description_en": "☄️ The threat of using ballistic weapons.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння.",
+    "time": "",
+    "pubDate": "2026-06-19T20:04:45+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65626",
+    "score": 5.0,
+    "views": 41534,
+    "forwards": 36
+  },
+  {
+    "title": "Mykolaiv: BpLA in the direction to/past Snigurivka (Mykolaiv Oblast).",
+    "title_en": "Mykolaiv: BpLA in the direction to/past Snigurivka (Mykolaiv Oblast).",
+    "title_uk": "Миколаїв: BpLA в напрямку/повз Снігурівка (Миколаївська обл.).",
+    "description": "BpLA in the direction to/past Snigurivka (Mykolaiv Oblast).",
+    "description_en": "BpLA in the direction to/past Snigurivka (Mykolaiv Oblast).",
+    "description_uk": "БпЛА в напрямку на/повз Снігурівку (Миколаївщина).",
+    "time": "",
+    "pubDate": "2026-06-19T19:33:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65624",
+    "score": 6.0,
+    "views": 63741,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Polish president strips Zelensky of honorary title over military unit...",
+    "title_en": "Kyiv: Polish president strips Zelensky of honorary title over military unit...",
+    "title_uk": "Київ: Президент Польщі позбавив Зеленського почесного звання над військовою частиною...",
+    "description": "Polish president strips Zelensky of honorary title over military unit controversy, as Kyiv calls decision 'strategic mistake.' Polish President Karol Nawrocki stripped President Volodymyr Zelensky of the country's honorary Order of the White Eagle title on June 19 following public outcry over Zelensky's decision to name a serving Ukrainian military unit after the Ukrainian Insurgent Army (UPA).",
+    "description_en": "Polish president strips Zelensky of honorary title over military unit controversy, as Kyiv calls decision 'strategic mistake.' Polish President Karol Nawrocki stripped President Volodymyr Zelensky of the country's honorary Order of the White Eagle title on June 19 following public outcry over Zelensky's decision to name a serving Ukrainian military unit after the Ukrainian Insurgent Army (UPA).",
+    "description_uk": "Polish president strips Zelensky of honorary title over military unit controversy, as Kyiv calls decision 'strategic mistake.' Polish President Karol Nawrocki stripped President Volodymyr Zelensky of the country's honorary Order of the White Eagle title on June 19 following public outcry over Zelensky's decision to name a serving Ukrainian military unit after the Ukrainian Insurgent Army (UPA).",
+    "time": "",
+    "pubDate": "2026-06-19T19:09:24+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53791",
+    "score": 10.0,
+    "views": 934,
+    "forwards": 5
+  },
+  {
     "title": "Kharkiv: BpLA from Donetsk region heading for Kharkiv region past...",
     "title_en": "Kharkiv: BpLA from Donetsk region heading for Kharkiv region past...",
     "title_uk": "Харків: BpLA з Донецької області прямує до Харківської області повз...",
@@ -68,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19559",
     "score": 6.5,
-    "views": 34638,
-    "forwards": 269
+    "views": 51871,
+    "forwards": 333
   },
   {
     "title": "Crimea: Drone strike",
@@ -140,26 +212,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194147",
     "score": 5.5,
-    "views": 120012,
+    "views": 146946,
     "forwards": 108
-  },
-  {
-    "title": "Kyiv: Air defense active",
-    "title_en": "Kyiv: Air defense active",
-    "title_uk": "Київ: ППО діюча",
-    "description": "Moscow repels dozens of Ukrainian drones in daytime attack, mayor says. The drones were intercepted over the span of two hours between 12:10 p.m. and 2:12 p.m. local time, Moscow Mayor Sergey Sobyanin reported.",
-    "description_en": "Moscow repels dozens of Ukrainian drones in daytime attack, mayor says. The drones were intercepted over the span of two hours between 12:10 p.m. and 2:12 p.m. local time, Moscow Mayor Sergey Sobyanin reported.",
-    "description_uk": "Moscow repels dozens of Ukrainian drones in daytime attack, mayor says. The drones were intercepted over the span of two hours between 12:10 p.m. and 2:12 p.m. local time, Moscow Mayor Sergey Sobyanin reported.",
-    "time": "",
-    "pubDate": "2026-06-19T15:31:18+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53786",
-    "score": 8.0,
-    "views": 972,
-    "forwards": 1
   },
   {
     "title": "Honduran President Nasri Asfura began his first visit to Ukraine by...",
@@ -176,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19557",
     "score": 6.5,
-    "views": 66345,
-    "forwards": 259
+    "views": 75449,
+    "forwards": 269
   },
   {
     "title": "Dnipro: Dnipropetrovsk region: BpLA in the direction of Apostolovoy from the...",
@@ -212,8 +266,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40167",
     "score": 6.5,
-    "views": 29666,
-    "forwards": 122
+    "views": 37677,
+    "forwards": 127
   },
   {
     "title": "Zaporizhzhia: Zaporozhye - in the area of ​​the city, an enemy anti-aircraft...",
@@ -342,24 +396,6 @@
     "forwards": 215
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "Europe will build its own anti-ballistic defense, this is an urgent issue. Ukraine does not give up, so we will definitely press it. This is our initiative, which we implement together with our partners. Putin wants everything to burn in our country, and he is a madman - this is what the partners feel. Ukraine is ready for negotiations with him, despite this. But Europe must fully participate in order for us to have a strong position. Get fully involved in sanctions -...",
-    "description_en": "Europe will build its own anti-ballistic defense, this is an urgent issue. Ukraine does not give up, so we will definitely press it. This is our initiative, which we implement together with our partners. Putin wants everything to burn in our country, and he is a madman - this is what the partners feel. Ukraine is ready for negotiations with him, despite this. But Europe must fully participate in order for us to have a strong position. Get fully involved in sanctions -...",
-    "description_uk": "Європа побудує свою антибалістику, це актуальне питання. Україна не здається, тому ми точно це дотиснемо. Це наша ініціатива, яку ми реалізуємо разом із партнерами. Путін хоче, щоб у нас все горіло, і він безумець – це партнери відчувають. Україна готова до перемовин із ним, незважаючи на це. Але Європа повинна включитися на повну, щоб у нас була сильна позиція. Включитися на повну по санкціях –...",
-    "time": "",
-    "pubDate": "2026-06-19T09:27:36+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19545",
-    "score": 5.5,
-    "views": 87134,
-    "forwards": 102
-  },
-  {
     "title": "The Ministry of Foreign Affairs of Ukraine took into account the...",
     "title_en": "The Ministry of Foreign Affairs of Ukraine took into account the...",
     "title_uk": "Міністерство закордонних справ України врахувало...",
@@ -374,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9331",
     "score": 18.5,
-    "views": 848,
+    "views": 869,
     "forwards": 5
   },
   {
@@ -392,7 +428,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23586",
     "score": 5.5,
-    "views": 132088,
+    "views": 133915,
     "forwards": 149
   }
 ]
