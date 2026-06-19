@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: A group of BpLA in the north of Kharkiv Oblast ➡️ on a course to n.p....",
+    "title_en": "Kharkiv: A group of BpLA in the north of Kharkiv Oblast ➡️ on a course to n.p....",
+    "title_uk": "Харків: Група БПЛА на півночі Харківської області ➡️ на курсі на н.п....",
+    "description": "A group of BpLA in the north of Kharkiv Oblast ➡️ on a course to n.p. Old Merchyk.",
+    "description_en": "A group of BpLA in the north of Kharkiv Oblast ➡️ on a course to n.p. Old Merchyk.",
+    "description_uk": "Група БпЛА на півночі Харківщини ➡️ курсом на н.п. Старий Мерчик.",
+    "time": "",
+    "pubDate": "2026-06-19T20:56:25+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65632",
+    "score": 6.0,
+    "views": 26703,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "🛸 UAV in the direction of Komyshuvakha (Zaporizhia region).",
+    "description_en": "🛸 UAV in the direction of Komyshuvakha (Zaporizhia region).",
+    "description_uk": "🛸 БпЛА в напрямку Комишувахи (Запорізька обл.).",
+    "time": "",
+    "pubDate": "2026-06-19T20:55:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65631",
+    "score": 5.0,
+    "views": 27679,
+    "forwards": 1
+  },
+  {
     "title": "Kyiv: Air defense active",
     "title_en": "Kyiv: Air defense active",
     "title_uk": "Київ: ППО діюча",
@@ -14,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53792",
     "score": 13.0,
-    "views": 286,
-    "forwards": 2
+    "views": 933,
+    "forwards": 3
   },
   {
     "title": "Ballistic missile launch detected",
@@ -68,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53791",
     "score": 10.0,
-    "views": 934,
-    "forwards": 5
+    "views": 1371,
+    "forwards": 6
   },
   {
     "title": "Kharkiv: BpLA from Donetsk region heading for Kharkiv region past...",
@@ -140,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19559",
     "score": 6.5,
-    "views": 51871,
-    "forwards": 333
+    "views": 58226,
+    "forwards": 369
   },
   {
     "title": "Crimea: Drone strike",
@@ -212,7 +248,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194147",
     "score": 5.5,
-    "views": 146946,
+    "views": 160025,
     "forwards": 108
   },
   {
@@ -230,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19557",
     "score": 6.5,
-    "views": 75449,
-    "forwards": 269
+    "views": 79238,
+    "forwards": 271
   },
   {
     "title": "Dnipro: Dnipropetrovsk region: BpLA in the direction of Apostolovoy from the...",
@@ -266,7 +302,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40167",
     "score": 6.5,
-    "views": 37677,
+    "views": 39945,
     "forwards": 127
   },
   {
@@ -410,25 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9331",
     "score": 18.5,
-    "views": 869,
+    "views": 875,
     "forwards": 5
-  },
-  {
-    "title": "🇸🇪 Sweden allocates 108 million dollars to support Ukraine through...",
-    "title_en": "🇸🇪 Sweden allocates 108 million dollars to support Ukraine through...",
-    "title_uk": "🇸🇪 Швеція виділяє 108 мільйонів доларів на підтримку України через...",
-    "description": "🇸🇪 Sweden allocates 108 million dollars to support Ukraine through the PURL initiative 👥 The Swedish government announced a contribution of 108 million dollars to the American initiative Prioritized Ukraine Requirements List (PURL). These funds are part of the previously announced support package for Ukraine administered by NATO. This is Sweden's fourth contribution to this initiative. The total amount of Swedish...",
-    "description_en": "🇸🇪 Sweden allocates 108 million dollars to support Ukraine through the PURL initiative 👥 The Swedish government announced a contribution of 108 million dollars to the American initiative Prioritized Ukraine Requirements List (PURL). These funds are part of the previously announced support package for Ukraine administered by NATO. This is Sweden's fourth contribution to this initiative. The total amount of Swedish...",
-    "description_uk": "🇸🇪 Швеція виділяє 108 мільйонів доларів на підтримку України через ініціативу PURL 👥 Уряд Швеції оголосив про внесок у розмірі 108 мільйонів доларів до американської ініціативи Prioritised Ukraine Requirements List (PURL). Ці кошти є частиною раніше оголошеного пакету підтримки України, що адмініструється НАТО. Це вже четвертий внесок Швеції в рамках цієї ініціативи. Загальна сума шведської...",
-    "time": "",
-    "pubDate": "2026-06-18T15:57:16+00:00",
-    "category": "political",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "DeepState",
-    "link": "https://t.me/DeepStateUA/23586",
-    "score": 5.5,
-    "views": 133915,
-    "forwards": 149
   }
 ]
