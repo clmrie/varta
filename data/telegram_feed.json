@@ -1,5 +1,41 @@
 [
   {
+    "title": "Dnipro: Yampil, Krolevets. 🛵 BpLA in the east of Dnipropetrovsk region ➡️...",
+    "title_en": "Dnipro: Yampil, Krolevets. 🛵 BpLA in the east of Dnipropetrovsk region ➡️...",
+    "title_uk": "Дніпро: Ямпіль, Кролевець. 🛵 BpLA на сході Дніпропетровської області ➡️...",
+    "description": "Yampil, Krolevets. 🛵 BpLA in the east of Dnipropetrovsk region ➡️ heading for Pavlograd, Chapline.",
+    "description_en": "Yampil, Krolevets. 🛵 BpLA in the east of Dnipropetrovsk region ➡️ heading for Pavlograd, Chapline.",
+    "description_uk": "Ямпіль, Кролевець. 🛵 БпЛА на сході Дніпропетровщини ➡️ курсом на Павлоград, Чаплине.",
+    "time": "",
+    "pubDate": "2026-06-19T23:38:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65635",
+    "score": 6.0,
+    "views": 2753,
+    "forwards": 0
+  },
+  {
+    "title": "BpLA from Sumy Oblast ➡️ to Poltava Oblast, heading for Gadyach.",
+    "title_en": "BpLA from Sumy Oblast ➡️ to Poltava Oblast, heading for Gadyach.",
+    "title_uk": "BpLA із Сумської області ➡️ до Полтавської області, курсом на Гадяч.",
+    "description": "BpLA from Sumy Oblast ➡️ to Poltava Oblast, heading for Gadyach.",
+    "description_en": "BpLA from Sumy Oblast ➡️ to Poltava Oblast, heading for Gadyach.",
+    "description_uk": "БпЛА із Сумщини ➡️ на Полтавщину, курсом на Гадяч.",
+    "time": "",
+    "pubDate": "2026-06-19T22:48:17+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65634",
+    "score": 5.0,
+    "views": 13167,
+    "forwards": 0
+  },
+  {
     "title": "Crimea: Drone strike",
     "title_en": "Crimea: Drone strike",
     "title_uk": "Крим: удар безпілотника",
@@ -14,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53793",
     "score": 11.5,
-    "views": 75,
+    "views": 456,
     "forwards": 1
   },
   {
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53792",
     "score": 13.0,
-    "views": 1154,
+    "views": 1374,
     "forwards": 3
   },
   {
@@ -230,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19559",
     "score": 6.5,
-    "views": 60097,
-    "forwards": 375
+    "views": 61551,
+    "forwards": 379
   },
   {
     "title": "Zaporizhzhia: Zaporozhye - in the direction of the city, enemy anti-aircraft fire...",
@@ -284,7 +320,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194147",
     "score": 5.5,
-    "views": 165429,
+    "views": 168473,
     "forwards": 136
   },
   {
@@ -302,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19557",
     "score": 6.5,
-    "views": 80449,
-    "forwards": 275
+    "views": 81261,
+    "forwards": 276
   },
   {
     "title": "Dnipro: Dnipropetrovsk region: BpLA in the direction of Apostolovoy from the...",
@@ -338,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40167",
     "score": 6.5,
-    "views": 40568,
+    "views": 40902,
     "forwards": 127
   },
   {
@@ -396,24 +432,6 @@
     "forwards": 3
   },
   {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-06-19T11:26:41+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65587",
-    "score": 5.0,
-    "views": 21207,
-    "forwards": 0
-  },
-  {
     "title": "Odesa: 90 drones launched",
     "title_en": "Odesa: 90 drones launched",
     "title_uk": "Одеса: запущено 90 дронів",
@@ -430,23 +448,5 @@
     "score": 18.0,
     "views": 443,
     "forwards": 2
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "Ukraine has already reached the Russian pace of long-range attacks, - expert According to the aviation expert Bohdan Dolyntse, now Ukraine has already matched the Russian Federation in the volume of production of long-range UAVs, and perhaps even surpassed it: \"Since the last attack, a period comparable to the Russian one has passed. This is approximately 10–14 days. The period of time during which Ukraine can already support attacks similar to how it is...",
-    "description_en": "Ukraine has already reached the Russian pace of long-range attacks, - expert According to the aviation expert Bohdan Dolyntse, now Ukraine has already matched the Russian Federation in the volume of production of long-range UAVs, and perhaps even surpassed it: \"Since the last attack, a period comparable to the Russian one has passed. This is approximately 10–14 days. The period of time during which Ukraine can already support attacks similar to how it is...",
-    "description_uk": "Украина уже вышла на российский темп дальнобойных атак, — эксперт По словам авиационного эксперта Богдана Долинце, сейчас Украина уже сравнялась с рф по объемам производства дальнобойных БпЛА, а возможно, и опередила ее: «От последней атаки прошел сопоставимый с российским срок. Это примерно 10–14 дней. Тот период времени, за который Украина уже может поддерживать атаки аналогично тому, как это...",
-    "time": "",
-    "pubDate": "2026-06-19T10:59:22+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/194130",
-    "score": 6.5,
-    "views": 162193,
-    "forwards": 215
   }
 ]
