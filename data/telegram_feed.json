@@ -1,5 +1,59 @@
 [
   {
+    "title": "Unmanned aerial vehicle from Zhytomyr region to the north-east of...",
+    "title_en": "Unmanned aerial vehicle from Zhytomyr region to the north-east of...",
+    "title_uk": "Безпілотний літальний апарат із Житомирської області на північний схід від...",
+    "description": "Unmanned aerial vehicle from Zhytomyr region to the north-east of Rivne region in a westerly direction.",
+    "description_en": "Unmanned aerial vehicle from Zhytomyr region to the north-east of Rivne region in a westerly direction.",
+    "description_uk": "БпЛА з Житомирщини на північний схід Рівненщини у західному напрямку.",
+    "time": "",
+    "pubDate": "2026-06-20T23:29:03+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zhytomyr",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65762",
+    "score": 5.0,
+    "views": 8409,
+    "forwards": 7
+  },
+  {
+    "title": "Crimea: Attack attack on residential area",
+    "title_en": "Crimea: Attack attack on residential area",
+    "title_uk": "Крим: обстріл житлового кварталу",
+    "description": "Ukraine reportedly strikes oil terminal in occupied Crimea. Ukraine's military reportedly struck an oil terminal in occupied Crimea overnight on June 21, Telegram media channels reported, citing resident accounts.",
+    "description_en": "Ukraine reportedly strikes oil terminal in occupied Crimea. Ukraine's military reportedly struck an oil terminal in occupied Crimea overnight on June 21, Telegram media channels reported, citing resident accounts.",
+    "description_uk": "Ukraine reportedly strikes oil terminal in occupied Crimea. Ukraine's military reportedly struck an oil terminal in occupied Crimea overnight on June 21, Telegram media channels reported, citing resident accounts.",
+    "time": "",
+    "pubDate": "2026-06-20T23:23:55+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Crimea",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53807",
+    "score": 8.0,
+    "views": 225,
+    "forwards": 1
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Groups of attack UAVs in the Black Sea area continue to move in the direction of Vylkove (Odessia).",
+    "description_en": "Groups of attack UAVs in the Black Sea area continue to move in the direction of Vylkove (Odessia).",
+    "description_uk": "Групи ударних БпЛА в акваторії Чорного моря продовжують рух у напрямку Вилкове (Одещина).",
+    "time": "",
+    "pubDate": "2026-06-20T23:10:37+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65761",
+    "score": 5.0,
+    "views": 16462,
+    "forwards": 0
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -86,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53806",
     "score": 5.0,
-    "views": 1585,
+    "views": 1792,
     "forwards": 7
   },
   {
@@ -122,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19565",
     "score": 13.0,
-    "views": 42772,
-    "forwards": 55
+    "views": 44391,
+    "forwards": 57
   },
   {
     "title": "Chernihiv: Drone strike",
@@ -180,24 +234,6 @@
     "forwards": 4
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV in the direction of Kharkiv from the northwest.",
-    "description_en": "UAV in the direction of Kharkiv from the northwest.",
-    "description_uk": "БпЛА в напрямку Харкова з північного заходу.",
-    "time": "",
-    "pubDate": "2026-06-20T17:17:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65728",
-    "score": 5.0,
-    "views": 86894,
-    "forwards": 0
-  },
-  {
     "title": "Dnipro: BpLA in the west of Dnipropetrovsk region at/past Apostolovo in the...",
     "title_en": "Dnipro: BpLA in the west of Dnipropetrovsk region at/past Apostolovo in the...",
     "title_uk": "Дніпро: BpLA на заході Дніпропетровської області на/за Апостолово в...",
@@ -230,8 +266,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194197",
     "score": 4.5,
-    "views": 165303,
-    "forwards": 322
+    "views": 169373,
+    "forwards": 323
   },
   {
     "title": "Drone strike",
@@ -248,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19564",
     "score": 13.0,
-    "views": 316380,
-    "forwards": 732
+    "views": 322170,
+    "forwards": 740
   },
   {
     "title": "BpLA past Bogodukhiv, Vilshany ➡️ in the direction of Kharkiv.",
@@ -320,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9346",
     "score": 5.0,
-    "views": 616,
+    "views": 625,
     "forwards": 11
   },
   {
@@ -338,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40219",
     "score": 3.5,
-    "views": 21502,
+    "views": 21638,
     "forwards": 81
   },
   {
@@ -360,24 +396,6 @@
     "forwards": 0
   },
   {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Дрон вхід",
-    "description": "Strike UAVs in the Kyiv region are partially moving in a western direction in the direction of Zhytomyr region, the other part in the direction of Kyiv from the north.",
-    "description_en": "Strike UAVs in the Kyiv region are partially moving in a western direction in the direction of Zhytomyr region, the other part in the direction of Kyiv from the north.",
-    "description_uk": "Ударні БпЛА на Київщині частково рухаються західним курсом у напрямку Житомирщини, інша частина у напрямку Києва з півночі.",
-    "time": "",
-    "pubDate": "2026-06-20T11:35:39+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65688",
-    "score": 6.5,
-    "views": 23277,
-    "forwards": 69
-  },
-  {
     "title": "Great Britain is developing new long-range missiles for Ukraine...",
     "title_en": "Great Britain is developing new long-range missiles for Ukraine...",
     "title_uk": "Велика Британія розробляє для України нові ракети великої дальності...",
@@ -394,23 +412,5 @@
     "score": 3.5,
     "views": 125450,
     "forwards": 192
-  },
-  {
-    "title": "BpLA on/past Kropyvnytskyi on a north-westerly course.",
-    "title_en": "BpLA on/past Kropyvnytskyi on a north-westerly course.",
-    "title_uk": "BpLA на/повз Кропивницький у північно-західному напрямку.",
-    "description": "BpLA on/past Kropyvnytskyi on a north-westerly course.",
-    "description_en": "BpLA on/past Kropyvnytskyi on a north-westerly course.",
-    "description_uk": "БпЛА на/повз Кропивницький північно-західним курсом.",
-    "time": "",
-    "pubDate": "2026-06-20T11:04:24+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kropyvnytskyi",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65686",
-    "score": 5.0,
-    "views": 54588,
-    "forwards": 34
   }
 ]
