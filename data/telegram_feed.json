@@ -2,20 +2,56 @@
   {
     "title": "Kyiv: Drone incoming",
     "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Drone incoming",
-    "description": "UAVs in the Kyiv region in the direction of Obukhov/Ukraine from the south.",
-    "description_en": "UAVs in the Kyiv region in the direction of Obukhov/Ukraine from the south.",
-    "description_uk": "БпЛА на Київщині в напрямку Обухова/Українки з півдня.",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "Strike UAVs in the Kyiv region are partially moving in a western direction in the direction of Zhytomyr region, the other part in the direction of Kyiv from the north.",
+    "description_en": "Strike UAVs in the Kyiv region are partially moving in a western direction in the direction of Zhytomyr region, the other part in the direction of Kyiv from the north.",
+    "description_uk": "Ударні БпЛА на Київщині частково рухаються західним курсом у напрямку Житомирщини, інша частина у напрямку Києва з півночі.",
     "time": "",
-    "pubDate": "2026-06-20T09:42:03+00:00",
+    "pubDate": "2026-06-20T11:35:39+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Kyiv",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65674",
-    "score": 6.0,
-    "views": 5057,
-    "forwards": 1
+    "link": "https://t.me/kpszsu/65688",
+    "score": 6.5,
+    "views": 23277,
+    "forwards": 69
+  },
+  {
+    "title": "Great Britain is developing new long-range missiles for Ukraine...",
+    "title_en": "Great Britain is developing new long-range missiles for Ukraine...",
+    "title_uk": "Велика Британія розробляє для України нові ракети великої дальності...",
+    "description": "Great Britain is developing new long-range missiles for Ukraine without American components. As part of the Brakestop project, three British companies are creating cheaper analogues of Storm Shadow. The systems, developed by the British companies MBDA UK, MGI Engineering and Rotron Aerospace, successfully passed the tests that took place in the spring. The new missiles will be able to hit targets at a distance of more than 500 km and carry...",
+    "description_en": "Great Britain is developing new long-range missiles for Ukraine without American components. As part of the Brakestop project, three British companies are creating cheaper analogues of Storm Shadow. The systems, developed by the British companies MBDA UK, MGI Engineering and Rotron Aerospace, successfully passed the tests that took place in the spring. The new missiles will be able to hit targets at a distance of more than 500 km and carry...",
+    "description_uk": "Великобритания разрабатывает для Украины новые дальнобойные ракеты без американских компонентов В рамках проекта Brakestop три британские компании создают более дешевые аналоги Storm Shadow. Cистемы, разработанные британскими компаниями MBDA UK, MGI Engineering и Rotron Aerospace, успешно прошли испытания, состоявшиеся весной. Новые ракеты смогут поражать цели на расстоянии более 500 км и нести...",
+    "time": "",
+    "pubDate": "2026-06-20T11:32:01+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/194181",
+    "score": 3.5,
+    "views": 19342,
+    "forwards": 72
+  },
+  {
+    "title": "BpLA on/past Kropyvnytskyi on a north-westerly course.",
+    "title_en": "BpLA on/past Kropyvnytskyi on a north-westerly course.",
+    "title_uk": "BpLA на/повз Кропивницький у північно-західному напрямку.",
+    "description": "BpLA on/past Kropyvnytskyi on a north-westerly course.",
+    "description_en": "BpLA on/past Kropyvnytskyi on a north-westerly course.",
+    "description_uk": "БпЛА на/повз Кропивницький північно-західним курсом.",
+    "time": "",
+    "pubDate": "2026-06-20T11:04:24+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kropyvnytskyi",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65686",
+    "score": 5.0,
+    "views": 54588,
+    "forwards": 34
   },
   {
     "title": "Chernihiv: Chernihiv region: BpLA in the direction of Koropa; 🛵 Poltavshchyna:...",
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53795",
     "score": 4.5,
-    "views": 1488,
+    "views": 1881,
     "forwards": 2
   },
   {
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53794",
     "score": 6.0,
-    "views": 1665,
+    "views": 2014,
     "forwards": 4
   },
   {
@@ -144,42 +180,6 @@
     "forwards": 2
   },
   {
-    "title": "Dnipro: Yampil, Krolevets. 🛵 BpLA in the east of Dnipropetrovsk region ➡️...",
-    "title_en": "Dnipro: Yampil, Krolevets. 🛵 BpLA in the east of Dnipropetrovsk region ➡️...",
-    "title_uk": "Дніпро: Ямпіль, Кролевець. 🛵 BpLA на сході Дніпропетровської області ➡️...",
-    "description": "Yampil, Krolevets. 🛵 BpLA in the east of Dnipropetrovsk region ➡️ heading for Pavlograd, Chapline.",
-    "description_en": "Yampil, Krolevets. 🛵 BpLA in the east of Dnipropetrovsk region ➡️ heading for Pavlograd, Chapline.",
-    "description_uk": "Ямпіль, Кролевець. 🛵 БпЛА на сході Дніпропетровщини ➡️ курсом на Павлоград, Чаплине.",
-    "time": "",
-    "pubDate": "2026-06-19T23:38:40+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65635",
-    "score": 6.0,
-    "views": 2753,
-    "forwards": 0
-  },
-  {
-    "title": "BpLA from Sumy Oblast ➡️ to Poltava Oblast, heading for Gadyach.",
-    "title_en": "BpLA from Sumy Oblast ➡️ to Poltava Oblast, heading for Gadyach.",
-    "title_uk": "BpLA із Сумської області ➡️ до Полтавської області, курсом на Гадяч.",
-    "description": "BpLA from Sumy Oblast ➡️ to Poltava Oblast, heading for Gadyach.",
-    "description_en": "BpLA from Sumy Oblast ➡️ to Poltava Oblast, heading for Gadyach.",
-    "description_uk": "БпЛА із Сумщини ➡️ на Полтавщину, курсом на Гадяч.",
-    "time": "",
-    "pubDate": "2026-06-19T22:48:17+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65634",
-    "score": 5.0,
-    "views": 13167,
-    "forwards": 0
-  },
-  {
     "title": "Crimea: Drone strike",
     "title_en": "Crimea: Drone strike",
     "title_uk": "Крим: удар безпілотника",
@@ -196,24 +196,6 @@
     "score": 11.5,
     "views": 761,
     "forwards": 1
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "Groups of attack UAVs in the Kharkiv region in the direction of Barvinkovo.",
-    "description_en": "Groups of attack UAVs in the Kharkiv region in the direction of Barvinkovo.",
-    "description_uk": "Групи ударних БпЛА на Харківщині в напрямку Барвінкове.",
-    "time": "",
-    "pubDate": "2026-06-19T22:13:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65633",
-    "score": 6.0,
-    "views": 10671,
-    "forwards": 10
   },
   {
     "title": "Kyiv: Air defense active",
@@ -248,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19559",
     "score": 6.5,
-    "views": 84546,
-    "forwards": 433
+    "views": 87772,
+    "forwards": 441
   },
   {
     "title": "Honduran President Nasri Asfura began his first visit to Ukraine by...",
@@ -266,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19557",
     "score": 6.5,
-    "views": 92431,
-    "forwards": 279
+    "views": 94328,
+    "forwards": 280
   },
   {
     "title": "Kyiv: Why Ukraine’s nuclear corruption cleanup is taking so long Kyiv vowed...",
@@ -288,24 +270,6 @@
     "forwards": 3
   },
   {
-    "title": "Odesa: 90 drones launched",
-    "title_en": "Odesa: 90 drones launched",
-    "title_uk": "Одеса: запущено 90 дронів",
-    "description": "11 killed, 63 injured in Russian strikes across Ukraine over past day as drones target foreign ships in Odesa Oblast. Ukraine’s Air Force said Russia launched 90 Shahed-type attack drones overnight on June 19. Air defenses downed 79 drones, while nine hit targets across eight locations.",
-    "description_en": "11 killed, 63 injured in Russian strikes across Ukraine over past day as drones target foreign ships in Odesa Oblast. Ukraine’s Air Force said Russia launched 90 Shahed-type attack drones overnight on June 19. Air defenses downed 79 drones, while nine hit targets across eight locations.",
-    "description_uk": "11 killed, 63 injured in Russian strikes across Ukraine over past day as drones target foreign ships in Odesa Oblast. Ukraine’s Air Force said Russia launched 90 Shahed-type attack drones overnight on June 19. Air defenses downed 79 drones, while nine hit targets across eight locations.",
-    "time": "",
-    "pubDate": "2026-06-19T11:09:42+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Odesa",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53779",
-    "score": 18.0,
-    "views": 443,
-    "forwards": 2
-  },
-  {
     "title": "The Ministry of Foreign Affairs of Ukraine took into account the...",
     "title_en": "The Ministry of Foreign Affairs of Ukraine took into account the...",
     "title_uk": "Міністерство закордонних справ України врахувало...",
@@ -320,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9331",
     "score": 18.5,
-    "views": 922,
+    "views": 925,
     "forwards": 5
   },
   {
@@ -338,7 +302,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23586",
     "score": 5.5,
-    "views": 155489,
-    "forwards": 152
+    "views": 162292,
+    "forwards": 155
   }
 ]
