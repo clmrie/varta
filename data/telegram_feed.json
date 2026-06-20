@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sumy: BpLA headed for Sumy from the north.",
+    "title_en": "Sumy: BpLA headed for Sumy from the north.",
+    "title_uk": "Суми: BpLA прямувала на Суми з півночі.",
+    "description": "BpLA headed for Sumy from the north.",
+    "description_en": "BpLA headed for Sumy from the north.",
+    "description_uk": "БпЛА курсом на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-06-20T00:43:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65638",
+    "score": 6.0,
+    "views": 11471,
+    "forwards": 3
+  },
+  {
+    "title": "Dnipro: Dnipropetrovsk: BpLA in the area of ​​Zarichny ➡️ south-west course.",
+    "title_en": "Dnipro: Dnipropetrovsk: BpLA in the area of ​​Zarichny ➡️ south-west course.",
+    "title_uk": "Дніпро: Дніпропетровськ: BpLA в районі Зарічного ➡️ південно-західного курсу.",
+    "description": "Dnipropetrovsk: BpLA in the area of ​​Zarichny ➡️ south-west course.",
+    "description_en": "Dnipropetrovsk: BpLA in the area of ​​Zarichny ➡️ south-west course.",
+    "description_uk": "Дніпропетровщина: БпЛА в районі Зарічного ➡️ південно-західним курсом.",
+    "time": "",
+    "pubDate": "2026-06-19T23:58:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65637",
+    "score": 6.0,
+    "views": 17813,
+    "forwards": 2
+  },
+  {
     "title": "Dnipro: Yampil, Krolevets. 🛵 BpLA in the east of Dnipropetrovsk region ➡️...",
     "title_en": "Dnipro: Yampil, Krolevets. 🛵 BpLA in the east of Dnipropetrovsk region ➡️...",
     "title_uk": "Дніпро: Ямпіль, Кролевець. 🛵 BpLA на сході Дніпропетровської області ➡️...",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53793",
     "score": 11.5,
-    "views": 456,
+    "views": 761,
     "forwards": 1
   },
   {
@@ -140,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53792",
     "score": 13.0,
-    "views": 1374,
+    "views": 1599,
     "forwards": 3
   },
   {
@@ -266,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19559",
     "score": 6.5,
-    "views": 61551,
-    "forwards": 379
+    "views": 63612,
+    "forwards": 386
   },
   {
     "title": "Zaporizhzhia: Zaporozhye - in the direction of the city, enemy anti-aircraft fire...",
@@ -320,8 +356,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194147",
     "score": 5.5,
-    "views": 168473,
-    "forwards": 136
+    "views": 172912,
+    "forwards": 137
   },
   {
     "title": "Honduran President Nasri Asfura began his first visit to Ukraine by...",
@@ -338,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19557",
     "score": 6.5,
-    "views": 81261,
-    "forwards": 276
+    "views": 82302,
+    "forwards": 277
   },
   {
     "title": "Dnipro: Dnipropetrovsk region: BpLA in the direction of Apostolovoy from the...",
@@ -374,26 +410,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40167",
     "score": 6.5,
-    "views": 40902,
+    "views": 41435,
     "forwards": 127
-  },
-  {
-    "title": "Zaporizhzhia: Zaporozhye - in the area of ​​the city, an enemy anti-aircraft...",
-    "title_en": "Zaporizhzhia: Zaporozhye - in the area of ​​the city, an enemy anti-aircraft...",
-    "title_uk": "Запоріжжя: Запоріжжя - в районі міста ворожий зенітний...",
-    "description": "Zaporozhye - in the area of ​​the city, an enemy anti-aircraft missile. Stay in shelters.",
-    "description_en": "Zaporozhye - in the area of ​​the city, an enemy anti-aircraft missile. Stay in shelters.",
-    "description_uk": "Запоріжжя - в районі міста ворожий БпЛА. Перебувайте в укриттях.",
-    "time": "",
-    "pubDate": "2026-06-19T13:49:29+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65596",
-    "score": 11.0,
-    "views": 34587,
-    "forwards": 0
   },
   {
     "title": "Kyiv: Why Ukraine’s nuclear corruption cleanup is taking so long Kyiv vowed...",
@@ -411,24 +429,6 @@
     "link": "https://t.me/KyivIndependent_official/53782",
     "score": 9.5,
     "views": 793,
-    "forwards": 3
-  },
-  {
-    "title": "Kyiv: Ukrainians’ trust in EU reaches record high, corruption seen as top...",
-    "title_en": "Kyiv: Ukrainians’ trust in EU reaches record high, corruption seen as top...",
-    "title_uk": "Київ: Довіра українців до ЄС сягнула рекорду, корупція – лідер...",
-    "description": "Ukrainians’ trust in EU reaches record high, corruption seen as top obstacle to membership, survey finds. Around 65% of Ukrainians support the country’s accession to the bloc, according to a survey by the EU Neighbors East program.",
-    "description_en": "Ukrainians’ trust in EU reaches record high, corruption seen as top obstacle to membership, survey finds. Around 65% of Ukrainians support the country’s accession to the bloc, according to a survey by the EU Neighbors East program.",
-    "description_uk": "Ukrainians’ trust in EU reaches record high, corruption seen as top obstacle to membership, survey finds. Around 65% of Ukrainians support the country’s accession to the bloc, according to a survey by the EU Neighbors East program.",
-    "time": "",
-    "pubDate": "2026-06-19T13:17:34+00:00",
-    "category": "political",
-    "severity": "medium",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53781",
-    "score": 4.0,
-    "views": 842,
     "forwards": 3
   },
   {
