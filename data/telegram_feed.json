@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Drone incoming",
+    "description": "UAVs in the Kyiv region in the direction of Obukhov/Ukraine from the south.",
+    "description_en": "UAVs in the Kyiv region in the direction of Obukhov/Ukraine from the south.",
+    "description_uk": "БпЛА на Київщині в напрямку Обухова/Українки з півдня.",
+    "time": "",
+    "pubDate": "2026-06-20T09:42:03+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65674",
+    "score": 6.0,
+    "views": 5057,
+    "forwards": 1
+  },
+  {
+    "title": "Chernihiv: Chernihiv region: BpLA in the direction of Koropa; 🛵 Poltavshchyna:...",
+    "title_en": "Chernihiv: Chernihiv region: BpLA in the direction of Koropa; 🛵 Poltavshchyna:...",
+    "title_uk": "Чернігів: Чернігівська область: БпЛА в напрямку Коропа; 🛵 Полтавщина:...",
+    "description": "Chernihiv region: BpLA in the direction of Koropa; 🛵 Poltavshchyna: BpLA past Zavodskoe on a western course.",
+    "description_en": "Chernihiv region: BpLA in the direction of Koropa; 🛵 Poltavshchyna: BpLA past Zavodskoe on a western course.",
+    "description_uk": "Чернігівщина: БпЛА в напрямку Коропа; 🛵 Полтавщина: БпЛА повз Заводське західним курсом.",
+    "time": "",
+    "pubDate": "2026-06-20T09:37:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65673",
+    "score": 6.0,
+    "views": 12124,
+    "forwards": 0
+  },
+  {
     "title": "BpLA headed for Poltava from the east.",
     "title_en": "BpLA headed for Poltava from the east.",
     "title_uk": "БпЛА прямувала на Полтаву зі сходу.",
@@ -32,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53795",
     "score": 4.5,
-    "views": 543,
-    "forwards": 1
+    "views": 1488,
+    "forwards": 2
   },
   {
     "title": "Drone incoming",
@@ -68,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53794",
     "score": 6.0,
-    "views": 838,
-    "forwards": 1
+    "views": 1665,
+    "forwards": 4
   },
   {
     "title": "Sumy: BpLA headed for Sumy from the north.",
@@ -180,42 +216,6 @@
     "forwards": 10
   },
   {
-    "title": "Kharkiv: A group of BpLA in the north of the Kharkiv region ➡️ heading for...",
-    "title_en": "Kharkiv: A group of BpLA in the north of the Kharkiv region ➡️ heading for...",
-    "title_uk": "Харків: Група BpLA на півночі Харківської області ➡️ прямує на...",
-    "description": "A group of BpLA in the north of the Kharkiv region ➡️ heading for n.p. Old Merchyk.",
-    "description_en": "A group of BpLA in the north of the Kharkiv region ➡️ heading for n.p. Old Merchyk.",
-    "description_uk": "Група БпЛА на півночі Харківщини ➡️ курсом на н.п. Старий Мерчик.",
-    "time": "",
-    "pubDate": "2026-06-19T20:56:25+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65632",
-    "score": 6.0,
-    "views": 38020,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: A group of BpLA in the north of Kharkiv Oblast ➡️ on a course to n.p....",
-    "title_en": "Kharkiv: A group of BpLA in the north of Kharkiv Oblast ➡️ on a course to n.p....",
-    "title_uk": "Харків: Група БПЛА на півночі Харківської області ➡️ на курсі на н.п....",
-    "description": "A group of BpLA in the north of Kharkiv Oblast ➡️ on a course to n.p. Old Merchyk.",
-    "description_en": "A group of BpLA in the north of Kharkiv Oblast ➡️ on a course to n.p. Old Merchyk.",
-    "description_uk": "Група БпЛА на півночі Харківщини ➡️ курсом на н.п. Старий Мерчик.",
-    "time": "",
-    "pubDate": "2026-06-19T20:56:25+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65632",
-    "score": 6.0,
-    "views": 26703,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Air defense active",
     "title_en": "Kyiv: Air defense active",
     "title_uk": "Київ: ППО діюча",
@@ -234,78 +234,6 @@
     "forwards": 3
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons.",
-    "description_en": "☄️ The threat of using ballistic weapons.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння.",
-    "time": "",
-    "pubDate": "2026-06-19T20:04:45+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65626",
-    "score": 5.0,
-    "views": 41534,
-    "forwards": 36
-  },
-  {
-    "title": "Mykolaiv: BpLA in the direction to/past Snigurivka (Mykolaiv Oblast).",
-    "title_en": "Mykolaiv: BpLA in the direction to/past Snigurivka (Mykolaiv Oblast).",
-    "title_uk": "Миколаїв: BpLA в напрямку/повз Снігурівка (Миколаївська обл.).",
-    "description": "BpLA in the direction to/past Snigurivka (Mykolaiv Oblast).",
-    "description_en": "BpLA in the direction to/past Snigurivka (Mykolaiv Oblast).",
-    "description_uk": "БпЛА в напрямку на/повз Снігурівку (Миколаївщина).",
-    "time": "",
-    "pubDate": "2026-06-19T19:33:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65624",
-    "score": 6.0,
-    "views": 63741,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Polish president strips Zelensky of honorary title over military unit...",
-    "title_en": "Kyiv: Polish president strips Zelensky of honorary title over military unit...",
-    "title_uk": "Київ: Президент Польщі позбавив Зеленського почесного звання над військовою частиною...",
-    "description": "Polish president strips Zelensky of honorary title over military unit controversy, as Kyiv calls decision 'strategic mistake.' Polish President Karol Nawrocki stripped President Volodymyr Zelensky of the country's honorary Order of the White Eagle title on June 19 following public outcry over Zelensky's decision to name a serving Ukrainian military unit after the Ukrainian Insurgent Army (UPA).",
-    "description_en": "Polish president strips Zelensky of honorary title over military unit controversy, as Kyiv calls decision 'strategic mistake.' Polish President Karol Nawrocki stripped President Volodymyr Zelensky of the country's honorary Order of the White Eagle title on June 19 following public outcry over Zelensky's decision to name a serving Ukrainian military unit after the Ukrainian Insurgent Army (UPA).",
-    "description_uk": "Polish president strips Zelensky of honorary title over military unit controversy, as Kyiv calls decision 'strategic mistake.' Polish President Karol Nawrocki stripped President Volodymyr Zelensky of the country's honorary Order of the White Eagle title on June 19 following public outcry over Zelensky's decision to name a serving Ukrainian military unit after the Ukrainian Insurgent Army (UPA).",
-    "time": "",
-    "pubDate": "2026-06-19T19:09:24+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53791",
-    "score": 10.0,
-    "views": 1371,
-    "forwards": 6
-  },
-  {
-    "title": "Kharkiv: BpLA from Donetsk region heading for Kharkiv region past...",
-    "title_en": "Kharkiv: BpLA from Donetsk region heading for Kharkiv region past...",
-    "title_uk": "Харків: BpLA з Донецької області прямує до Харківської області повз...",
-    "description": "BpLA from Donetsk region heading for Kharkiv region past Oleksandrivka.",
-    "description_en": "BpLA from Donetsk region heading for Kharkiv region past Oleksandrivka.",
-    "description_uk": "БпЛА із Донеччини курсом на Харківщину повз Олександрівку.",
-    "time": "",
-    "pubDate": "2026-06-19T18:54:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65617",
-    "score": 6.0,
-    "views": 5072,
-    "forwards": 0
-  },
-  {
     "title": "Casualties reported",
     "title_en": "Casualties reported",
     "title_uk": "Повідомляється про постраждалих",
@@ -320,26 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19559",
     "score": 6.5,
-    "views": 76468,
-    "forwards": 402
-  },
-  {
-    "title": "Drone strike",
-    "title_en": "Drone strike",
-    "title_uk": "Безпілотний удар",
-    "description": "Ukrainian strikes on oil bases of the Russian Federation are already disrupting major fuel contracts, - The Moscow Times As the publication found out based on court materials, Russian companies are increasingly losing fuel after Ukrainian drone attacks and cannot fulfill their obligations to customers. In one of the cases, more than 150 tons of gasoline and diesel burned after an attack on an oil terminal in occupied Crimea. In the second -...",
-    "description_en": "Ukrainian strikes on oil bases of the Russian Federation are already disrupting major fuel contracts, - The Moscow Times As the publication found out based on court materials, Russian companies are increasingly losing fuel after Ukrainian drone attacks and cannot fulfill their obligations to customers. In one of the cases, more than 150 tons of gasoline and diesel burned after an attack on an oil terminal in occupied Crimea. In the second -...",
-    "description_uk": "Украинские удары по нефтебазам рф уже срывают крупные топливные контракты, - The Moscow Times Как выяснило издание на основе судебных материалов, российские компании все чаще теряют топливо после атак украинских дронов и не могут выполнить обязательства перед клиентами. В одном из случаев после удара по нефтяному терминалу в оккупированном Крыму сгорели более 150 тонн бензина и дизеля. В другом -...",
-    "time": "",
-    "pubDate": "2026-06-19T16:02:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Crimea",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/194147",
-    "score": 5.5,
-    "views": 194945,
-    "forwards": 137
+    "views": 84546,
+    "forwards": 433
   },
   {
     "title": "Honduran President Nasri Asfura began his first visit to Ukraine by...",
@@ -356,7 +266,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19557",
     "score": 6.5,
-    "views": 88024,
+    "views": 92431,
     "forwards": 279
   },
   {
@@ -410,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9331",
     "score": 18.5,
-    "views": 907,
+    "views": 922,
     "forwards": 5
   },
   {
@@ -428,7 +338,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23586",
     "score": 5.5,
-    "views": 138764,
-    "forwards": 151
+    "views": 155489,
+    "forwards": 152
   }
 ]
