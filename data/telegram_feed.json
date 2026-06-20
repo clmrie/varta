@@ -3,19 +3,37 @@
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons!",
-    "description_en": "☄️ The threat of using ballistic weapons!",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння!",
+    "description": "☄️ The threat of using ballistic weapons (from the south)!",
+    "description_en": "☄️ The threat of using ballistic weapons (from the south)!",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння (з півдня)!",
     "time": "",
-    "pubDate": "2026-06-20T20:41:30+00:00",
+    "pubDate": "2026-06-20T22:35:29+00:00",
     "category": "missile",
     "severity": "high",
     "location": "Ukraine",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65749",
-    "score": 5.5,
-    "views": 45537,
-    "forwards": 71
+    "link": "https://t.me/kpszsu/65756",
+    "score": 5.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: The rocket passed through the Kyiv region in the direction of...",
+    "title_en": "Kyiv: The rocket passed through the Kyiv region in the direction of...",
+    "title_uk": "Київ: Ракета пролетіла Київською областю в напрямку...",
+    "description": "The rocket passed through the Kyiv region in the direction of Zhytomyr.",
+    "description_en": "The rocket passed through the Kyiv region in the direction of Zhytomyr.",
+    "description_uk": "Ракета пройшла через Київщину у напрямку Житомира.",
+    "time": "",
+    "pubDate": "2026-06-20T21:57:10+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65754",
+    "score": 7.5,
+    "views": 81151,
+    "forwards": 208
   },
   {
     "title": "CAB in Zaporozhye in the direction of the city",
@@ -68,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53806",
     "score": 5.0,
-    "views": 1210,
-    "forwards": 5
+    "views": 1585,
+    "forwards": 7
   },
   {
     "title": "Jet UAVs on Kropyvnytskyi.",
@@ -103,9 +121,9 @@
     "location": "Zhytomyr",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19565",
-    "score": 12.5,
-    "views": 37720,
-    "forwards": 49
+    "score": 13.0,
+    "views": 42772,
+    "forwards": 55
   },
   {
     "title": "Chernihiv: Drone strike",
@@ -140,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53805",
     "score": 9.0,
-    "views": 1594,
+    "views": 1902,
     "forwards": 6
   },
   {
@@ -212,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194197",
     "score": 4.5,
-    "views": 153950,
-    "forwards": 284
+    "views": 165303,
+    "forwards": 322
   },
   {
     "title": "Drone strike",
@@ -230,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19564",
     "score": 13.0,
-    "views": 289097,
-    "forwards": 716
+    "views": 316380,
+    "forwards": 732
   },
   {
     "title": "BpLA past Bogodukhiv, Vilshany ➡️ in the direction of Kharkiv.",
@@ -302,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9346",
     "score": 5.0,
-    "views": 589,
+    "views": 616,
     "forwards": 11
   },
   {
@@ -320,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40219",
     "score": 3.5,
-    "views": 20909,
+    "views": 21502,
     "forwards": 81
   },
   {
@@ -394,41 +412,5 @@
     "score": 5.0,
     "views": 54588,
     "forwards": 34
-  },
-  {
-    "title": "Chernihiv: Chernihiv region: BpLA in the direction of Koropa; 🛵 Poltavshchyna:...",
-    "title_en": "Chernihiv: Chernihiv region: BpLA in the direction of Koropa; 🛵 Poltavshchyna:...",
-    "title_uk": "Чернігів: Чернігівська область: БпЛА в напрямку Коропа; 🛵 Полтавщина:...",
-    "description": "Chernihiv region: BpLA in the direction of Koropa; 🛵 Poltavshchyna: BpLA past Zavodskoe on a western course.",
-    "description_en": "Chernihiv region: BpLA in the direction of Koropa; 🛵 Poltavshchyna: BpLA past Zavodskoe on a western course.",
-    "description_uk": "Чернігівщина: БпЛА в напрямку Коропа; 🛵 Полтавщина: БпЛА повз Заводське західним курсом.",
-    "time": "",
-    "pubDate": "2026-06-20T09:37:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65673",
-    "score": 6.0,
-    "views": 12124,
-    "forwards": 0
-  },
-  {
-    "title": "Crimea: Drone strike",
-    "title_en": "Crimea: Drone strike",
-    "title_uk": "Крим: удар безпілотника",
-    "description": "Ukrainian drones hit gas storage facility in occupied Crimea, footage shows, power plant reportedly struck. Ukraine's Unmanned Systems Forces (USF) continued their drone campaign over occupied Crimea on June 19 and overnight into June 20, striking energy facilites on the peninsula, Ukrainian officials and Russian Telegram media channels reported.",
-    "description_en": "Ukrainian drones hit gas storage facility in occupied Crimea, footage shows, power plant reportedly struck. Ukraine's Unmanned Systems Forces (USF) continued their drone campaign over occupied Crimea on June 19 and overnight into June 20, striking energy facilites on the peninsula, Ukrainian officials and Russian Telegram media channels reported.",
-    "description_uk": "Ukrainian drones hit gas storage facility in occupied Crimea, footage shows, power plant reportedly struck. Ukraine's Unmanned Systems Forces (USF) continued their drone campaign over occupied Crimea on June 19 and overnight into June 20, striking energy facilites on the peninsula, Ukrainian officials and Russian Telegram media channels reported.",
-    "time": "",
-    "pubDate": "2026-06-19T22:34:50+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Crimea",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53793",
-    "score": 11.5,
-    "views": 761,
-    "forwards": 1
   }
 ]
