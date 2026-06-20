@@ -1,5 +1,77 @@
 [
   {
+    "title": "Chernihiv: Drone strike",
+    "title_en": "Chernihiv: Drone strike",
+    "title_uk": "Чернігів: Дрон-удар",
+    "description": "Strike drones in the north of Sumy Oblast headed for Chernihiv Oblast.",
+    "description_en": "Strike drones in the north of Sumy Oblast headed for Chernihiv Oblast.",
+    "description_uk": "Ударні БпЛА на півночі Сумщини курсом на Чернігівщину.",
+    "time": "",
+    "pubDate": "2026-06-20T18:03:46+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65734",
+    "score": 6.0,
+    "views": 9079,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Air raid alert",
+    "title_en": "Kyiv: Air raid alert",
+    "title_uk": "Київ: Повітряна тривога",
+    "description": "Russia preparing 'new massive strike,' Zelensky warns. \"Tonight and in the coming hours, we must pay particularly close attention to air raid alerts,\" President Volodymyr Zelensky told Ukrainians in his evening address on June 20.",
+    "description_en": "Russia preparing 'new massive strike,' Zelensky warns. \"Tonight and in the coming hours, we must pay particularly close attention to air raid alerts,\" President Volodymyr Zelensky told Ukrainians in his evening address on June 20.",
+    "description_uk": "Russia preparing 'new massive strike,' Zelensky warns. \"Tonight and in the coming hours, we must pay particularly close attention to air raid alerts,\" President Volodymyr Zelensky told Ukrainians in his evening address on June 20.",
+    "time": "",
+    "pubDate": "2026-06-20T18:01:22+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53805",
+    "score": 9.0,
+    "views": 184,
+    "forwards": 3
+  },
+  {
+    "title": "Zaporizhzhia: 5 killed, 10 injured",
+    "title_en": "Zaporizhzhia: 5 killed, 10 injured",
+    "title_uk": "Запоріжжя: 5 загиблих, 10 поранених",
+    "description": "At least 5 dead, 10 injured in Russian bombing in Zaporizhzhia. Russian forces launched nine glide bombs on the regional capital, according to preliminary information, Governor Ivan Fedorov said. One victim's body was recovered from the rubble of a destroyed home. Five people have been killed, and at least 10 injured. Photos: Ivan Fedorov / Telegram",
+    "description_en": "At least 5 dead, 10 injured in Russian bombing in Zaporizhzhia. Russian forces launched nine glide bombs on the regional capital, according to preliminary information, Governor Ivan Fedorov said. One victim's body was recovered from the rubble of a destroyed home. Five people have been killed, and at least 10 injured. Photos: Ivan Fedorov / Telegram",
+    "description_uk": "At least 5 dead, 10 injured in Russian bombing in Zaporizhzhia. Russian forces launched nine glide bombs on the regional capital, according to preliminary information, Governor Ivan Fedorov said. One victim's body was recovered from the rubble of a destroyed home. Five people have been killed, and at least 10 injured. Photos: Ivan Fedorov / Telegram",
+    "time": "",
+    "pubDate": "2026-06-20T17:19:38+00:00",
+    "category": "shelling",
+    "severity": "critical",
+    "location": "Zaporizhzhia",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53801",
+    "score": 15.0,
+    "views": 658,
+    "forwards": 4
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV in the direction of Kharkiv from the northwest.",
+    "description_en": "UAV in the direction of Kharkiv from the northwest.",
+    "description_uk": "БпЛА в напрямку Харкова з північного заходу.",
+    "time": "",
+    "pubDate": "2026-06-20T17:17:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65728",
+    "score": 5.0,
+    "views": 86894,
+    "forwards": 0
+  },
+  {
     "title": "Dnipro: BpLA in the west of Dnipropetrovsk region at/past Apostolovo in the...",
     "title_en": "Dnipro: BpLA in the west of Dnipropetrovsk region at/past Apostolovo in the...",
     "title_uk": "Дніпро: BpLA на заході Дніпропетровської області на/за Апостолово в...",
@@ -49,9 +121,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194197",
-    "score": 3.0,
-    "views": 16133,
-    "forwards": 37
+    "score": 4.5,
+    "views": 83970,
+    "forwards": 214
   },
   {
     "title": "Drone strike",
@@ -68,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19564",
     "score": 13.0,
-    "views": 56622,
-    "forwards": 311
+    "views": 152179,
+    "forwards": 518
   },
   {
     "title": "BpLA past Bogodukhiv, Vilshany ➡️ in the direction of Kharkiv.",
@@ -140,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19562",
     "score": 6.5,
-    "views": 313767,
-    "forwards": 3435
+    "views": 381381,
+    "forwards": 3712
   },
   {
     "title": "Moscow Refinery today. Photo ✅The factory has stopped processing. The...",
@@ -158,8 +230,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40219",
     "score": 3.5,
-    "views": 16405,
-    "forwards": 72
+    "views": 18042,
+    "forwards": 75
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -178,24 +250,6 @@
     "score": 5.0,
     "views": 39472,
     "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAVs in Zhytomyr region are heading in the western direction and to Zhytomyr from the north.",
-    "description_en": "UAVs in Zhytomyr region are heading in the western direction and to Zhytomyr from the north.",
-    "description_uk": "БпЛА на Житомирщині прямують у західному напрямку та на Житомир з півночі.",
-    "time": "",
-    "pubDate": "2026-06-20T12:02:51+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zhytomyr",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65690",
-    "score": 5.5,
-    "views": 81974,
-    "forwards": 139
   },
   {
     "title": "Kyiv: Drone incoming",
@@ -270,42 +324,6 @@
     "forwards": 0
   },
   {
-    "title": "BpLA headed for Poltava from the east.",
-    "title_en": "BpLA headed for Poltava from the east.",
-    "title_uk": "БпЛА прямувала на Полтаву зі сходу.",
-    "description": "BpLA headed for Poltava from the east.",
-    "description_en": "BpLA headed for Poltava from the east.",
-    "description_uk": "БпЛА курсом на Полтаву зі сходу.",
-    "time": "",
-    "pubDate": "2026-06-20T05:33:24+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65651",
-    "score": 5.0,
-    "views": 27343,
-    "forwards": 1
-  },
-  {
-    "title": "Kyiv: Pro-Ukrainian partisans sabotage electric substation powering...",
-    "title_en": "Kyiv: Pro-Ukrainian partisans sabotage electric substation powering...",
-    "title_uk": "Київ: проукраїнські партизани саботують електропідстанцію...",
-    "description": "Pro-Ukrainian partisans sabotage electric substation powering military plant in southern Russia, Atesh group claims. Pro-Ukrainian partisans sabotaged an electric substation supplying a military plant in the southern Russian city of Taganrog, the Atesh group claimed June 20.",
-    "description_en": "Pro-Ukrainian partisans sabotage electric substation powering military plant in southern Russia, Atesh group claims. Pro-Ukrainian partisans sabotaged an electric substation supplying a military plant in the southern Russian city of Taganrog, the Atesh group claimed June 20.",
-    "description_uk": "Pro-Ukrainian partisans sabotage electric substation powering military plant in southern Russia, Atesh group claims. Pro-Ukrainian partisans sabotaged an electric substation supplying a military plant in the southern Russian city of Taganrog, the Atesh group claimed June 20.",
-    "time": "",
-    "pubDate": "2026-06-20T05:10:19+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53795",
-    "score": 4.5,
-    "views": 2587,
-    "forwards": 3
-  },
-  {
     "title": "Crimea: Drone strike",
     "title_en": "Crimea: Drone strike",
     "title_uk": "Крим: удар безпілотника",
@@ -340,41 +358,5 @@
     "score": 13.0,
     "views": 1599,
     "forwards": 3
-  },
-  {
-    "title": "Casualties reported",
-    "title_en": "Casualties reported",
-    "title_uk": "Повідомляється про постраждалих",
-    "description": "Regarding Belarus. When full-scale war broke out, we were attacked by rockets that killed children and adults. And Oleksandr Lukashenko knows it. A large number of missiles flew from Belarus. Then he called, apologized and said he had no control over it. I don't believe it, but he already talked about it. Now Russia will continue to push him into this war. Now he understands that Ukraine will be responsible. No need for extra...",
-    "description_en": "Regarding Belarus. When full-scale war broke out, we were attacked by rockets that killed children and adults. And Oleksandr Lukashenko knows it. A large number of missiles flew from Belarus. Then he called, apologized and said he had no control over it. I don't believe it, but he already talked about it. Now Russia will continue to push him into this war. Now he understands that Ukraine will be responsible. No need for extra...",
-    "description_uk": "Щодо Білорусі. Коли почалася повномасштабна війна, нас атакували ракети, які вбивали дітей і дорослих. І Олександр Лукашенко це знає. Велика кількість ракет летіла з Білорусі. Тоді він дзвонив, вибачався і казав, що це не контролював. Я в це не вірю, але він про це вже говорив. Зараз Росія буде його продовжувати штовхати в цю війну. Зараз він розуміє, що Україна буде відповідати. Не треба зайвих...",
-    "time": "",
-    "pubDate": "2026-06-19T17:44:08+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19559",
-    "score": 6.5,
-    "views": 95582,
-    "forwards": 462
-  },
-  {
-    "title": "The Ministry of Foreign Affairs of Ukraine took into account the...",
-    "title_en": "The Ministry of Foreign Affairs of Ukraine took into account the...",
-    "title_uk": "Міністерство закордонних справ України врахувало...",
-    "description": "The Ministry of Foreign Affairs of Ukraine took into account the published report of the UN Secretary General \"Children and Armed Conflicts\" for the year 2025, which once again records large-scale war crimes and gross violations of children's rights committed by the occupying forces of Russia on the territory of Ukraine. Among the key findings regarding Ukraine is an increase in the number of gross violations committed by the Russian armed forces,...",
-    "description_en": "The Ministry of Foreign Affairs of Ukraine took into account the published report of the UN Secretary General \"Children and Armed Conflicts\" for the year 2025, which once again records large-scale war crimes and gross violations of children's rights committed by the occupying forces of Russia on the territory of Ukraine. Among the key findings regarding Ukraine is an increase in the number of gross violations committed by the Russian armed forces,...",
-    "description_uk": "Міністерство закордонних справ України взяло до уваги оприлюднену доповідь Генерального секретаря ООН \"Діти та збройні конфлікти\" за 2025 рік, яка вчергове фіксує масштабні воєнні злочини та грубі порушення прав дітей, скоєні окупаційними військами Росії на території України. Серед ключових висновків щодо України – зростання кількості грубих порушень, вчинених російськими збройними силами,...",
-    "time": "",
-    "pubDate": "2026-06-18T16:55:56+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9331",
-    "score": 18.5,
-    "views": 937,
-    "forwards": 5
   }
 ]
