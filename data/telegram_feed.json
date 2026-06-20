@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons!",
+    "description_en": "☄️ The threat of using ballistic weapons!",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння!",
+    "time": "",
+    "pubDate": "2026-06-20T20:41:30+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65749",
+    "score": 5.5,
+    "views": 45537,
+    "forwards": 71
+  },
+  {
+    "title": "CAB in Zaporozhye in the direction of the city",
+    "title_en": "CAB in Zaporozhye in the direction of the city",
+    "title_uk": "САБ у Запоріжжі в напрямку м",
+    "description": "CAB in Zaporozhye in the direction of the city",
+    "description_en": "CAB in Zaporozhye in the direction of the city",
+    "description_uk": "КАБи на Запоріжжі у напрямку міста",
+    "time": "",
+    "pubDate": "2026-06-20T20:24:54+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65747",
+    "score": 5.0,
+    "views": 60709,
+    "forwards": 34
+  },
+  {
     "title": "Kharkiv: Drone strike",
     "title_en": "Kharkiv: Drone strike",
     "title_uk": "Харків: Дрон-удар",
@@ -32,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53806",
     "score": 5.0,
-    "views": 683,
-    "forwards": 3
+    "views": 1210,
+    "forwards": 5
   },
   {
     "title": "Jet UAVs on Kropyvnytskyi.",
@@ -68,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19565",
     "score": 12.5,
-    "views": 29378,
-    "forwards": 36
+    "views": 37720,
+    "forwards": 49
   },
   {
     "title": "Chernihiv: Drone strike",
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53805",
     "score": 9.0,
-    "views": 1217,
+    "views": 1594,
     "forwards": 6
   },
   {
@@ -162,24 +198,6 @@
     "forwards": 0
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons!",
-    "description_en": "☄️ The threat of using ballistic weapons!",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння!",
-    "time": "",
-    "pubDate": "2026-06-20T16:49:03+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/65718",
-    "score": 5.0,
-    "views": 29284,
-    "forwards": 34
-  },
-  {
     "title": "Attack attack on residential area",
     "title_en": "Attack attack on residential area",
     "title_uk": "Напад на житловий квартал",
@@ -194,8 +212,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194197",
     "score": 4.5,
-    "views": 133391,
-    "forwards": 249
+    "views": 153950,
+    "forwards": 284
   },
   {
     "title": "Drone strike",
@@ -212,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19564",
     "score": 13.0,
-    "views": 251501,
-    "forwards": 663
+    "views": 289097,
+    "forwards": 716
   },
   {
     "title": "BpLA past Bogodukhiv, Vilshany ➡️ in the direction of Kharkiv.",
@@ -284,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9346",
     "score": 5.0,
-    "views": 547,
+    "views": 589,
     "forwards": 11
   },
   {
@@ -302,8 +320,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40219",
     "score": 3.5,
-    "views": 20049,
-    "forwards": 80
+    "views": 20909,
+    "forwards": 81
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -412,23 +430,5 @@
     "score": 11.5,
     "views": 761,
     "forwards": 1
-  },
-  {
-    "title": "Kyiv: Air defense active",
-    "title_en": "Kyiv: Air defense active",
-    "title_uk": "Київ: ППО діюча",
-    "description": "Ukraine war latest: Kyiv targets Moscow for second day in a row following record drone assault Moscow came under attack by Ukrainian drones for the second day a row, with Mayor Sergey Sobyanin reporting 37 unmanned aerial vehicles (UAVs) shot down by the city's air defense the afternoon of June 19. In addition, Ukraine's General Staff on June 19 confirmed damage to the Moscow Oil Refinery...",
-    "description_en": "Ukraine war latest: Kyiv targets Moscow for second day in a row following record drone assault Moscow came under attack by Ukrainian drones for the second day a row, with Mayor Sergey Sobyanin reporting 37 unmanned aerial vehicles (UAVs) shot down by the city's air defense the afternoon of June 19. In addition, Ukraine's General Staff on June 19 confirmed damage to the Moscow Oil Refinery...",
-    "description_uk": "Ukraine war latest: Kyiv targets Moscow for second day in a row following record drone assault Moscow came under attack by Ukrainian drones for the second day a row, with Mayor Sergey Sobyanin reporting 37 unmanned aerial vehicles (UAVs) shot down by the city's air defense the afternoon of June 19. In addition, Ukraine's General Staff on June 19 confirmed damage to the Moscow Oil Refinery...",
-    "time": "",
-    "pubDate": "2026-06-19T20:11:58+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53792",
-    "score": 13.0,
-    "views": 1599,
-    "forwards": 3
   }
 ]
