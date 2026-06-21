@@ -1,5 +1,77 @@
 [
   {
+    "title": "Kyiv: Former Polish lawmaker returns state honor in protest over Zelensky's...",
+    "title_en": "Kyiv: Former Polish lawmaker returns state honor in protest over Zelensky's...",
+    "title_uk": "Київ: колишній польський депутат повернув державну честь на знак протесту проти Зеленського...",
+    "description": "Former Polish lawmaker returns state honor in protest over Zelensky's award revocation. Former Polish lawmaker Piotr Fogler said on June 20 that he had returned his state honor, the Golden Cross of Merit, in protest over Polish President Karol Nawrocki's decision to strip President Volodymyr Zelensky of the Order of the White Eagle.",
+    "description_en": "Former Polish lawmaker returns state honor in protest over Zelensky's award revocation. Former Polish lawmaker Piotr Fogler said on June 20 that he had returned his state honor, the Golden Cross of Merit, in protest over Polish President Karol Nawrocki's decision to strip President Volodymyr Zelensky of the Order of the White Eagle.",
+    "description_uk": "Former Polish lawmaker returns state honor in protest over Zelensky's award revocation. Former Polish lawmaker Piotr Fogler said on June 20 that he had returned his state honor, the Golden Cross of Merit, in protest over Polish President Karol Nawrocki's decision to strip President Volodymyr Zelensky of the Order of the White Eagle.",
+    "time": "",
+    "pubDate": "2026-06-21T16:46:27+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53816",
+    "score": 5.0,
+    "views": 131,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "A group of UAVs on Kharkiv from the north.",
+    "description_en": "A group of UAVs on Kharkiv from the north.",
+    "description_uk": "Група БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-06-21T16:28:37+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65919",
+    "score": 6.0,
+    "views": 22259,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: BpLA on Sumy from the north. 🛵 BpLA to Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA on Sumy from the north. 🛵 BpLA to Kharkiv from the north.",
+    "title_uk": "Харків: БпЛА на Сумській з півночі. 🛵 BpLA до Харкова з півночі.",
+    "description": "BpLA on Sumy from the north. 🛵 BpLA to Kharkiv from the north.",
+    "description_en": "BpLA on Sumy from the north. 🛵 BpLA to Kharkiv from the north.",
+    "description_uk": "БпЛА на Суми з півночі. 🛵 БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-06-21T15:52:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/65918",
+    "score": 6.0,
+    "views": 43525,
+    "forwards": 0
+  },
+  {
+    "title": "Attack attack",
+    "title_en": "Attack attack",
+    "title_uk": "Атака нападу",
+    "description": "The riot in Crimea continues: there is a traffic jam of about 700 cars on the Krymsky bridge from the Kerch side, - the media reports. Also, the attacks on Russian logistics are not abating: trucks and gasoline trucks were flown in on the routes Rostov-Mariupol (3rd video) and Melitopol-Berdyansk (4th video).",
+    "description_en": "The riot in Crimea continues: there is a traffic jam of about 700 cars on the Krymsky bridge from the Kerch side, - the media reports. Also, the attacks on Russian logistics are not abating: trucks and gasoline trucks were flown in on the routes Rostov-Mariupol (3rd video) and Melitopol-Berdyansk (4th video).",
+    "description_uk": "Гойда в Крыму продолжается: на Крымском мосту со стороны Керчи затор из около 700 автомобилей, - пишут роспаблики Также не утихают удары по руснявой логистике: были прилеты по фурам и бензовозам на трассах Ростов-Мариуполь (3-е видео) и Мелитополь-Бердянск (4-е видео).",
+    "time": "",
+    "pubDate": "2026-06-21T15:44:01+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Melitopol",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/194267",
+    "score": 5.5,
+    "views": 77720,
+    "forwards": 434
+  },
+  {
     "title": "BpLA in the north of Sumy Oblast ➡️ heading for Krolevets, Konotop.",
     "title_en": "BpLA in the north of Sumy Oblast ➡️ heading for Krolevets, Konotop.",
     "title_uk": "BpLA на півночі Сумської області ➡️ в напрямку Кролевець, Конотоп.",
@@ -50,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53815",
     "score": 4.0,
-    "views": 390,
-    "forwards": 3
+    "views": 1229,
+    "forwards": 5
   },
   {
     "title": "12 missiles launched",
@@ -68,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194256",
     "score": 13.5,
-    "views": 118719,
-    "forwards": 284
+    "views": 150185,
+    "forwards": 356
   },
   {
     "title": "Mykolaiv: BpLA in the north of the Kherson region ➡️ heading for Arkhangelsk. 🛵...",
@@ -176,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19568",
     "score": 6.5,
-    "views": 245799,
-    "forwards": 376
+    "views": 268718,
+    "forwards": 399
   },
   {
     "title": "Dear defenders! Happy Father's Day. Being a father is a...",
@@ -194,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40250",
     "score": 5.0,
-    "views": 6512,
+    "views": 6859,
     "forwards": 16
   },
   {
@@ -248,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40247",
     "score": 13.0,
-    "views": 7101,
+    "views": 7432,
     "forwards": 20
   },
   {
@@ -320,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19565",
     "score": 13.0,
-    "views": 72458,
-    "forwards": 84
+    "views": 73555,
+    "forwards": 85
   },
   {
     "title": "Zaporizhzhia: 5 killed, 10 injured",
@@ -356,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9346",
     "score": 5.0,
-    "views": 750,
+    "views": 758,
     "forwards": 12
   }
 ]
