@@ -1,5 +1,59 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons from the east..",
+    "description_en": "☄️ The threat of using ballistic weapons from the east..",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння зі сходу..",
+    "time": "",
+    "pubDate": "2026-06-23T21:57:10+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66112",
+    "score": 5.0,
+    "views": 10135,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "Strike drones on the Dnipro from the east.",
+    "description_en": "Strike drones on the Dnipro from the east.",
+    "description_uk": "Ударні БпЛА на Дніпро зв сходу.",
+    "time": "",
+    "pubDate": "2026-06-23T21:51:25+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66111",
+    "score": 6.0,
+    "views": 14806,
+    "forwards": 9
+  },
+  {
+    "title": "Crimea: Energy infrastructure hit",
+    "title_en": "Crimea: Energy infrastructure hit",
+    "title_uk": "Крим: пошкодження енергетичної інфраструктури",
+    "description": "Half of Crimea without electricity after Ukrainian strikes, Russian proxy claims. \"We are seeing almost daily attacks on Crimea's energy infrastructure,\" occupation authority spokesperson Oleg Kryuchkov said.",
+    "description_en": "Half of Crimea without electricity after Ukrainian strikes, Russian proxy claims. \"We are seeing almost daily attacks on Crimea's energy infrastructure,\" occupation authority spokesperson Oleg Kryuchkov said.",
+    "description_uk": "Half of Crimea without electricity after Ukrainian strikes, Russian proxy claims. \"We are seeing almost daily attacks on Crimea's energy infrastructure,\" occupation authority spokesperson Oleg Kryuchkov said.",
+    "time": "",
+    "pubDate": "2026-06-23T20:37:27+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Crimea",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53862",
+    "score": 4.5,
+    "views": 941,
+    "forwards": 5
+  },
+  {
     "title": "Rocket in Vinnytsia in the direction of Voronovytsia.",
     "title_en": "Rocket in Vinnytsia in the direction of Voronovytsia.",
     "title_uk": "Ракета у Вінниці в напрямку Вороновиці.",
@@ -32,7 +86,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9378",
     "score": 10.0,
-    "views": 492,
+    "views": 596,
     "forwards": 4
   },
   {
@@ -68,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194426",
     "score": 6.5,
-    "views": 109292,
-    "forwards": 260
+    "views": 135706,
+    "forwards": 333
   },
   {
     "title": "Kyiv: Explosions reported",
@@ -86,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53859",
     "score": 5.0,
-    "views": 1372,
+    "views": 1780,
     "forwards": 4
   },
   {
@@ -122,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19600",
     "score": 5.5,
-    "views": 47652,
-    "forwards": 82
+    "views": 51300,
+    "forwards": 84
   },
   {
     "title": "Kyiv: Ukraine detains suspected intermediary in alleged Russian-backed plot...",
@@ -212,7 +266,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194417",
     "score": 7.0,
-    "views": 152337,
+    "views": 166618,
     "forwards": 182
   },
   {
@@ -248,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19598",
     "score": 8.5,
-    "views": 129121,
-    "forwards": 148
+    "views": 136133,
+    "forwards": 161
   },
   {
     "title": "Kharkiv: Kharkiv region - BpLA near the n.p. Blyznyuki, Oleksandrivka.",
@@ -394,59 +448,5 @@
     "score": 6.0,
     "views": 1,
     "forwards": 0
-  },
-  {
-    "title": "Poltava region: BpLA ➡️ in the direction of Kotelva.",
-    "title_en": "Poltava region: BpLA ➡️ in the direction of Kotelva.",
-    "title_uk": "Полтавська область: БпЛА ➡️ в напрямку Котельви.",
-    "description": "Poltava region: BpLA ➡️ in the direction of Kotelva.",
-    "description_en": "Poltava region: BpLA ➡️ in the direction of Kotelva.",
-    "description_uk": "Полтавщина: БпЛА ➡️ у напрямку Котельви.",
-    "time": "",
-    "pubDate": "2026-06-23T11:21:11+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66070",
-    "score": 5.0,
-    "views": 14144,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Exclusive: Ukraine believes it secured Trump’s backing to act ‘more...",
-    "title_en": "Kyiv: Exclusive: Ukraine believes it secured Trump’s backing to act ‘more...",
-    "title_uk": "Київ: Ексклюзив: Україна вважає, що заручилася підтримкою Трампа, щоб діяти «більше...",
-    "description": "Exclusive: Ukraine believes it secured Trump’s backing to act ‘more boldly’ toward Russia. Ukraine now believes it has secured White House backing for a campaign aimed at forcing Russia into meaningful negotiations, the Kyiv Independent has learned. U.S. President Donald Trump privately told President Volodymyr Zelensky to act “more boldly,” a senior Ukrainian official briefed on the recent...",
-    "description_en": "Exclusive: Ukraine believes it secured Trump’s backing to act ‘more boldly’ toward Russia. Ukraine now believes it has secured White House backing for a campaign aimed at forcing Russia into meaningful negotiations, the Kyiv Independent has learned. U.S. President Donald Trump privately told President Volodymyr Zelensky to act “more boldly,” a senior Ukrainian official briefed on the recent...",
-    "description_uk": "Exclusive: Ukraine believes it secured Trump’s backing to act ‘more boldly’ toward Russia. Ukraine now believes it has secured White House backing for a campaign aimed at forcing Russia into meaningful negotiations, the Kyiv Independent has learned. U.S. President Donald Trump privately told President Volodymyr Zelensky to act “more boldly,” a senior Ukrainian official briefed on the recent...",
-    "time": "",
-    "pubDate": "2026-06-23T09:30:24+00:00",
-    "category": "political",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53843",
-    "score": 5.0,
-    "views": 1903,
-    "forwards": 11
-  },
-  {
-    "title": "Kursk: Drone incoming",
-    "title_en": "Kursk: Drone incoming",
-    "title_uk": "Курськ: Дрон входить",
-    "description": "118 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of June 23 (from 18:00 on June 22), the enemy attacked 135 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and imitation drones of the \"Parody\" type from the directions: Orel, Kursk, Bryansk, Primorsko-Akhtarsk, Millerovo - Russian Federation The air attack was repulsed by aviation, anti-aircraft missile forces, EW and unmanned systems units, mobile fire...",
-    "description_en": "118 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of June 23 (from 18:00 on June 22), the enemy attacked 135 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and imitation drones of the \"Parody\" type from the directions: Orel, Kursk, Bryansk, Primorsko-Akhtarsk, Millerovo - Russian Federation The air attack was repulsed by aviation, anti-aircraft missile forces, EW and unmanned systems units, mobile fire...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 118 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 23 червня (з 18:00 22 червня) противник атакував 135 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків: Орел, Курськ, Брянськ, Приморсько-Ахтарськ, Міллерово – рф. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем, мобільні вогневі...",
-    "time": "",
-    "pubDate": "2026-06-23T05:04:18+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kursk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/40330",
-    "score": 13.0,
-    "views": 9268,
-    "forwards": 24
   }
 ]
