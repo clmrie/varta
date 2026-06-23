@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Strike drones in the direction of the Dnipro from the north.",
+    "description_en": "Strike drones in the direction of the Dnipro from the north.",
+    "description_uk": "Ударні БпЛА у напрямку Дніпра з півночі.",
+    "time": "",
+    "pubDate": "2026-06-23T23:03:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66119",
+    "score": 5.0,
+    "views": 5836,
+    "forwards": 1
+  },
+  {
+    "title": "Chernihiv: BpLA in Chernihiv region heading for Kyiv region",
+    "title_en": "Chernihiv: BpLA in Chernihiv region heading for Kyiv region",
+    "title_uk": "Чернігів: БпЛА в Чернігівській області в напрямку Київської області",
+    "description": "BpLA in Chernihiv region heading for Kyiv region",
+    "description_en": "BpLA in Chernihiv region heading for Kyiv region",
+    "description_uk": "БпЛА на Чернігівщині курсом на Київщину",
+    "time": "",
+    "pubDate": "2026-06-23T22:45:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66116",
+    "score": 6.0,
+    "views": 13220,
+    "forwards": 2
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53862",
     "score": 4.5,
-    "views": 941,
-    "forwards": 5
+    "views": 1378,
+    "forwards": 6
   },
   {
     "title": "Rocket in Vinnytsia in the direction of Voronovytsia.",
@@ -86,7 +122,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9378",
     "score": 10.0,
-    "views": 596,
+    "views": 625,
     "forwards": 4
   },
   {
@@ -122,13 +158,13 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194426",
     "score": 6.5,
-    "views": 135706,
-    "forwards": 333
+    "views": 143510,
+    "forwards": 345
   },
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомлення про вибухи",
+    "title_uk": "Київ: Повідомляється про вибухи",
     "description": "Russia working to stop Ukraine's EU accession, report finds. Russia \"seek(s) to exploit fears related to corruption, security, identity, and economic costs\" through online disinformation campaigns, according to a report published by Ukraine and the EU.",
     "description_en": "Russia working to stop Ukraine's EU accession, report finds. Russia \"seek(s) to exploit fears related to corruption, security, identity, and economic costs\" through online disinformation campaigns, according to a report published by Ukraine and the EU.",
     "description_uk": "Russia working to stop Ukraine's EU accession, report finds. Russia \"seek(s) to exploit fears related to corruption, security, identity, and economic costs\" through online disinformation campaigns, according to a report published by Ukraine and the EU.",
@@ -140,8 +176,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53859",
     "score": 5.0,
-    "views": 1780,
-    "forwards": 4
+    "views": 2008,
+    "forwards": 5
   },
   {
     "title": "Kyiv: Ukraine brings back 42 children from Russian-occupied territory in 2...",
@@ -176,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19600",
     "score": 5.5,
-    "views": 51300,
-    "forwards": 84
+    "views": 52507,
+    "forwards": 85
   },
   {
     "title": "Kyiv: Ukraine detains suspected intermediary in alleged Russian-backed plot...",
@@ -252,6 +288,24 @@
     "forwards": 0
   },
   {
+    "title": "The fuel crisis reached the main oil region of the Russian...",
+    "title_en": "The fuel crisis reached the main oil region of the Russian...",
+    "title_uk": "Паливна криза дісталася до головного нафтового регіону Росії...",
+    "description": "The fuel crisis reached the main oil region of the Russian Federation, - rosSMY In the Khanty-Mansiysk Autonomous Okrug, where about 40% of Russian oil is produced, restrictions on the sale of fuel were introduced. At gas stations of one of the largest chains, they now dispense no more than 40 liters of gasoline and 80 liters of diesel per person. Similar measures are already in place in more than 50 regions of the Russian Federation, including Omsk, Irkutsk,...",
+    "description_en": "The fuel crisis reached the main oil region of the Russian Federation, - rosSMY In the Khanty-Mansiysk Autonomous Okrug, where about 40% of Russian oil is produced, restrictions on the sale of fuel were introduced. At gas stations of one of the largest chains, they now dispense no more than 40 liters of gasoline and 80 liters of diesel per person. Similar measures are already in place in more than 50 regions of the Russian Federation, including Omsk, Irkutsk,...",
+    "description_uk": "Топливный кризис добрался до главного нефтяного региона рф, - росСМИ В Ханты-Мансийском автономном округе, где добывается около 40% российской нефти, ввели ограничения на продажу топлива. На заправках одной из крупнейших сетей теперь отпускают не более 40 литров бензина и 80 литров дизеля на человека. Аналогичные меры уже действуют более чем в 50 регионах рф, включая Омскую, Иркутскую,...",
+    "time": "",
+    "pubDate": "2026-06-23T16:38:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/194417",
+    "score": 7.0,
+    "views": 171809,
+    "forwards": 197
+  },
+  {
     "title": "The fuel crisis has reached the main oil region of the Russian...",
     "title_en": "The fuel crisis has reached the main oil region of the Russian...",
     "title_uk": "Паливна криза дісталася до головного нафтового регіону Росії...",
@@ -270,24 +324,6 @@
     "forwards": 182
   },
   {
-    "title": "The fuel crisis reached the main oil region of the Russian...",
-    "title_en": "The fuel crisis reached the main oil region of the Russian...",
-    "title_uk": "Паливна криза дісталася до головного нафтового регіону Росії...",
-    "description": "The fuel crisis reached the main oil region of the Russian Federation, - rosSMY In the Khanty-Mansiysk Autonomous Okrug, where about 40% of Russian oil is produced, restrictions on the sale of fuel were introduced. At gas stations of one of the largest chains, they now dispense no more than 40 liters of gasoline and 80 liters of diesel per person. Similar measures are already in place in more than 50 regions of the Russian Federation, including Omsk, Irkutsk,...",
-    "description_en": "The fuel crisis reached the main oil region of the Russian Federation, - rosSMY In the Khanty-Mansiysk Autonomous Okrug, where about 40% of Russian oil is produced, restrictions on the sale of fuel were introduced. At gas stations of one of the largest chains, they now dispense no more than 40 liters of gasoline and 80 liters of diesel per person. Similar measures are already in place in more than 50 regions of the Russian Federation, including Omsk, Irkutsk,...",
-    "description_uk": "Топливный кризис добрался до главного нефтяного региона рф, - росСМИ В Ханты-Мансийском автономном округе, где добывается около 40% российской нефти, ввели ограничения на продажу топлива. На заправках одной из крупнейших сетей теперь отпускают не более 40 литров бензина и 80 литров дизеля на человека. Аналогичные меры уже действуют более чем в 50 регионах рф, включая Омскую, Иркутскую,...",
-    "time": "",
-    "pubDate": "2026-06-23T16:38:58+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/194417",
-    "score": 7.0,
-    "views": 98910,
-    "forwards": 146
-  },
-  {
     "title": "Today is the 32nd anniversary of the Special Operations Center...",
     "title_en": "Today is the 32nd anniversary of the Special Operations Center...",
     "title_uk": "Сьогодні виповнюється 32 роки Центру спеціальних операцій...",
@@ -302,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19598",
     "score": 8.5,
-    "views": 136133,
-    "forwards": 161
+    "views": 138043,
+    "forwards": 163
   },
   {
     "title": "Kharkiv: Kharkiv region - BpLA near the n.p. Blyznyuki, Oleksandrivka.",
@@ -411,42 +447,6 @@
     "link": "https://t.me/kpszsu/66080",
     "score": 6.0,
     "views": 44479,
-    "forwards": 0
-  },
-  {
-    "title": "BpLA from Sumy Oblast to Poltava Oblast, heading for Kotelva/Opishna.",
-    "title_en": "BpLA from Sumy Oblast to Poltava Oblast, heading for Kotelva/Opishna.",
-    "title_uk": "BpLA із Сумської області до Полтавської, прямуючи на Котельву/Опішну.",
-    "description": "BpLA from Sumy Oblast to Poltava Oblast, heading for Kotelva/Opishna.",
-    "description_en": "BpLA from Sumy Oblast to Poltava Oblast, heading for Kotelva/Opishna.",
-    "description_uk": "БпЛА із Сумщини на Полтавщину, курсом на Котельву/Опішню.",
-    "time": "",
-    "pubDate": "2026-06-23T13:13:19+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66079",
-    "score": 5.0,
-    "views": 51550,
-    "forwards": 0
-  },
-  {
-    "title": "Dnipro: BpLA in the north of Dnipropetrovsk region in the direction of...",
-    "title_en": "Dnipro: BpLA in the north of Dnipropetrovsk region in the direction of...",
-    "title_uk": "Дніпро: БпЛА на півночі Дніпропетровської області в напрямку...",
-    "description": "BpLA in the north of Dnipropetrovsk region in the direction of Magdalinivka.",
-    "description_en": "BpLA in the north of Dnipropetrovsk region in the direction of Magdalinivka.",
-    "description_uk": "БпЛА на півночі Дніпропетровщини в напрямку Магдалинівки.",
-    "time": "",
-    "pubDate": "2026-06-23T11:27:21+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66071",
-    "score": 6.0,
-    "views": 1,
     "forwards": 0
   }
 ]
