@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "A group of UAVs from the north of Sumy Oblast ➡️ to Chernihiv Oblast, heading for Ponornytsia, Kholmy.",
+    "description_en": "A group of UAVs from the north of Sumy Oblast ➡️ to Chernihiv Oblast, heading for Ponornytsia, Kholmy.",
+    "description_uk": "Група БпЛА з півночі Сумщини ➡️ на Чернігівщину, курсом на Понорницю, Холми.",
+    "time": "",
+    "pubDate": "2026-06-24T00:14:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66123",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Poltava region: BpLA heading for Shishaky.",
+    "title_en": "Poltava region: BpLA heading for Shishaky.",
+    "title_uk": "Полтавська область: BpLA прямує на Шишаки.",
+    "description": "Poltava region: BpLA heading for Shishaky.",
+    "description_en": "Poltava region: BpLA heading for Shishaky.",
+    "description_uk": "Полтавщина: БпЛА курсом на Шишаки.",
+    "time": "",
+    "pubDate": "2026-06-24T00:12:34+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66122",
+    "score": 5.0,
+    "views": 909,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -86,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53862",
     "score": 4.5,
-    "views": 1378,
+    "views": 1535,
     "forwards": 6
   },
   {
@@ -122,7 +158,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9378",
     "score": 10.0,
-    "views": 625,
+    "views": 643,
     "forwards": 4
   },
   {
@@ -158,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194426",
     "score": 6.5,
-    "views": 143510,
-    "forwards": 345
+    "views": 147212,
+    "forwards": 346
   },
   {
     "title": "Kyiv: Explosions reported",
@@ -176,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53859",
     "score": 5.0,
-    "views": 2008,
+    "views": 2119,
     "forwards": 5
   },
   {
@@ -212,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19600",
     "score": 5.5,
-    "views": 52507,
-    "forwards": 85
+    "views": 53135,
+    "forwards": 86
   },
   {
     "title": "Kyiv: Ukraine detains suspected intermediary in alleged Russian-backed plot...",
@@ -288,6 +324,24 @@
     "forwards": 0
   },
   {
+    "title": "The fuel crisis has reached the main oil region of the Russian...",
+    "title_en": "The fuel crisis has reached the main oil region of the Russian...",
+    "title_uk": "Паливна криза дісталася до головного нафтового регіону Росії...",
+    "description": "The fuel crisis has reached the main oil region of the Russian Federation, - rosSMY In the Khanty-Mansiysk Autonomous Okrug, where about 40% of Russian oil is produced, restrictions on the sale of fuel have been introduced. At gas stations of one of the largest chains, they now dispense no more than 40 liters of gasoline and 80 liters of diesel per person. Similar measures are already in place in more than 50 regions of the Russian Federation, including Omsk, Irkutsk,...",
+    "description_en": "The fuel crisis has reached the main oil region of the Russian Federation, - rosSMY In the Khanty-Mansiysk Autonomous Okrug, where about 40% of Russian oil is produced, restrictions on the sale of fuel have been introduced. At gas stations of one of the largest chains, they now dispense no more than 40 liters of gasoline and 80 liters of diesel per person. Similar measures are already in place in more than 50 regions of the Russian Federation, including Omsk, Irkutsk,...",
+    "description_uk": "Топливный кризис добрался до главного нефтяного региона рф, - росСМИ В Ханты-Мансийском автономном округе, где добывается около 40% российской нефти, ввели ограничения на продажу топлива. На заправках одной из крупнейших сетей теперь отпускают не более 40 литров бензина и 80 литров дизеля на человека. Аналогичные меры уже действуют более чем в 50 регионах рф, включая Омскую, Иркутскую,...",
+    "time": "",
+    "pubDate": "2026-06-23T16:38:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/194417",
+    "score": 7.0,
+    "views": 174134,
+    "forwards": 197
+  },
+  {
     "title": "The fuel crisis reached the main oil region of the Russian...",
     "title_en": "The fuel crisis reached the main oil region of the Russian...",
     "title_uk": "Паливна криза дісталася до головного нафтового регіону Росії...",
@@ -306,24 +360,6 @@
     "forwards": 197
   },
   {
-    "title": "The fuel crisis has reached the main oil region of the Russian...",
-    "title_en": "The fuel crisis has reached the main oil region of the Russian...",
-    "title_uk": "Паливна криза дісталася до головного нафтового регіону Росії...",
-    "description": "The fuel crisis has reached the main oil region of the Russian Federation, - rosSMY In the Khanty-Mansiysk Autonomous Okrug, where about 40% of Russian oil is produced, restrictions on the sale of fuel have been introduced. At gas stations of one of the largest chains, they now dispense no more than 40 liters of gasoline and 80 liters of diesel per person. Similar measures are already in place in more than 50 regions of the Russian Federation, including Omsk, Irkutsk,...",
-    "description_en": "The fuel crisis has reached the main oil region of the Russian Federation, - rosSMY In the Khanty-Mansiysk Autonomous Okrug, where about 40% of Russian oil is produced, restrictions on the sale of fuel have been introduced. At gas stations of one of the largest chains, they now dispense no more than 40 liters of gasoline and 80 liters of diesel per person. Similar measures are already in place in more than 50 regions of the Russian Federation, including Omsk, Irkutsk,...",
-    "description_uk": "Топливный кризис добрался до главного нефтяного региона рф, - росСМИ В Ханты-Мансийском автономном округе, где добывается около 40% российской нефти, ввели ограничения на продажу топлива. На заправках одной из крупнейших сетей теперь отпускают не более 40 литров бензина и 80 литров дизеля на человека. Аналогичные меры уже действуют более чем в 50 регионах рф, включая Омскую, Иркутскую,...",
-    "time": "",
-    "pubDate": "2026-06-23T16:38:58+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/194417",
-    "score": 7.0,
-    "views": 166618,
-    "forwards": 182
-  },
-  {
     "title": "Today is the 32nd anniversary of the Special Operations Center...",
     "title_en": "Today is the 32nd anniversary of the Special Operations Center...",
     "title_uk": "Сьогодні виповнюється 32 роки Центру спеціальних операцій...",
@@ -338,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19598",
     "score": 8.5,
-    "views": 138043,
-    "forwards": 163
+    "views": 138952,
+    "forwards": 164
   },
   {
     "title": "Kharkiv: Kharkiv region - BpLA near the n.p. Blyznyuki, Oleksandrivka.",
@@ -412,41 +448,5 @@
     "score": 18.0,
     "views": 1406,
     "forwards": 2
-  },
-  {
-    "title": "👀 The Russians are throwing up new targets for good drones: from June...",
-    "title_en": "👀 The Russians are throwing up new targets for good drones: from June...",
-    "title_uk": "👀 Росіяни підкидають нові мішені для хороших дронів: з червня...",
-    "description": "👀 The Russians are throwing up new targets for good drones: from June 23, they will be allowed to transport up to 200 liters of fuel in one car along the Krymsky bridge, - reports the occupation headquarters. The guest of the broadcast is the chairman of the Mejlis of the Crimean Tatar people Refat Chubarov. connect",
-    "description_en": "👀 The Russians are throwing up new targets for good drones: from June 23, they will be allowed to transport up to 200 liters of fuel in one car along the Krymsky bridge, - reports the occupation headquarters. The guest of the broadcast is the chairman of the Mejlis of the Crimean Tatar people Refat Chubarov. connect",
-    "description_uk": "👀 Россияне подкидывают новые цели для добрых дронов: с 23 июня по Крымскому мосту разрешат перевозить до 200 литров топлива в одной машине, - сообщает оккупационный оперштаб ▶️ К слову, прямо сейчас на нашем YouTube-канале идет эфир об изоляции Крыма, Крымском мосте и логистике полуострова. Гость эфира - председатель Меджлиса крымскотатарского народа Рефат Чубаров. Подключайтесь.",
-    "time": "",
-    "pubDate": "2026-06-23T13:22:37+00:00",
-    "category": "drone",
-    "severity": "medium",
-    "location": "Crimea",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/194407",
-    "score": 3.5,
-    "views": 159158,
-    "forwards": 139
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "UAV in the north of Chernihiv Oblast in the direction of Koryukivka",
-    "description_en": "UAV in the north of Chernihiv Oblast in the direction of Koryukivka",
-    "description_uk": "БпЛА на півночі Чернігівщини у напрямку Корюківки",
-    "time": "",
-    "pubDate": "2026-06-23T13:20:56+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66080",
-    "score": 6.0,
-    "views": 44479,
-    "forwards": 0
   }
 ]
