@@ -1,5 +1,23 @@
 [
   {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "A jet UAV in the direction of the city of Dnipro from the southwest.",
+    "description_en": "A jet UAV in the direction of the city of Dnipro from the southwest.",
+    "description_uk": "Реактивний БпЛА в напрямку м.Дніпро з південного заходу.",
+    "time": "",
+    "pubDate": "2026-06-24T13:16:31+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66209",
+    "score": 6.0,
+    "views": 23221,
+    "forwards": 0
+  },
+  {
     "title": "Pokrovsk: Reactive BpLA from Donetsk region ➡️ to Dnipropetrovsk region,...",
     "title_en": "Pokrovsk: Reactive BpLA from Donetsk region ➡️ to Dnipropetrovsk region,...",
     "title_uk": "Покровськ: Reactive BpLA з Донецької області ➡️ на Дніпропетровську область,...",
@@ -50,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53872",
     "score": 8.5,
-    "views": 441,
-    "forwards": 1
+    "views": 1288,
+    "forwards": 3
   },
   {
     "title": "Attack attack",
@@ -68,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194453",
     "score": 5.5,
-    "views": 95187,
-    "forwards": 354
+    "views": 140987,
+    "forwards": 463
   },
   {
     "title": "Kyiv: Overlooked by the Western canon: Why Mykhailo Kotsiubynskyi matters...",
@@ -86,13 +104,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53868",
     "score": 4.5,
-    "views": 1173,
+    "views": 1650,
     "forwards": 6
   },
   {
     "title": "The SBU hit airfields and air defense systems in Crimea. The...",
     "title_en": "The SBU hit airfields and air defense systems in Crimea. The...",
-    "title_uk": "СБУ завдала ударів по аеродромах і системах ППО в Криму. ...",
+    "title_uk": "СБУ завдала ударів по аеродромах і системам ППО в Криму. ...",
     "description": "The SBU hit airfields and air defense systems in Crimea. The airfields \"Saki\" and \"Gvardeyskoe\" were hit, as well as Russian air defense systems in the Kerch Strait area. According to preliminary data, four aircraft hangars, two S-400 installations and two Pantsir-S1 complexes were hit.",
     "description_en": "The SBU hit airfields and air defense systems in Crimea. The airfields \"Saki\" and \"Gvardeyskoe\" were hit, as well as Russian air defense systems in the Kerch Strait area. According to preliminary data, four aircraft hangars, two S-400 installations and two Pantsir-S1 complexes were hit.",
     "description_uk": "СБУ ударила по аэродромам и системам ПВО в Крыму Под удар попали аэродромы «Саки» и «Гвардейское», а также российские системы ПВО в районе Керченского пролива. По предварительным данным, поражены четыре ангара с авиатехникой, две установки С-400 и два комплекса «Панцирь-С1».",
@@ -104,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194447",
     "score": 5.5,
-    "views": 131832,
-    "forwards": 312
+    "views": 160302,
+    "forwards": 349
   },
   {
     "title": "Kharkiv: BpLA groups ➡️ course to Kharkiv from the east.",
@@ -158,8 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40366",
     "score": 5.0,
-    "views": 4108,
-    "forwards": 5
+    "views": 4377,
+    "forwards": 6
   },
   {
     "title": "Putin is blackmailing Lukashenko, demanding that Belarus be drawn...",
@@ -194,8 +212,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40364",
     "score": 13.0,
-    "views": 4497,
-    "forwards": 8
+    "views": 4768,
+    "forwards": 9
   },
   {
     "title": "Sevastopol: \"This is an interesting war\": at night, drones arranged a rich...",
@@ -288,42 +306,6 @@
     "forwards": 4
   },
   {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "A group of UAVs from the north of Sumy Oblast ➡️ to Chernihiv Oblast, heading for Ponornytsia, Kholmy.",
-    "description_en": "A group of UAVs from the north of Sumy Oblast ➡️ to Chernihiv Oblast, heading for Ponornytsia, Kholmy.",
-    "description_uk": "Група БпЛА з півночі Сумщини ➡️ на Чернігівщину, курсом на Понорницю, Холми.",
-    "time": "",
-    "pubDate": "2026-06-24T00:14:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66123",
-    "score": 6.0,
-    "views": 1,
-    "forwards": 0
-  },
-  {
-    "title": "Poltava region: BpLA heading for Shishaky.",
-    "title_en": "Poltava region: BpLA heading for Shishaky.",
-    "title_uk": "Полтавська область: BpLA прямує на Шишаки.",
-    "description": "Poltava region: BpLA heading for Shishaky.",
-    "description_en": "Poltava region: BpLA heading for Shishaky.",
-    "description_uk": "Полтавщина: БпЛА курсом на Шишаки.",
-    "time": "",
-    "pubDate": "2026-06-24T00:12:34+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66122",
-    "score": 5.0,
-    "views": 909,
-    "forwards": 0
-  },
-  {
     "title": "Minister Andriy Sybiga congratulated Svitlana Ilchuk, a Ukrainian...",
     "title_en": "Minister Andriy Sybiga congratulated Svitlana Ilchuk, a Ukrainian...",
     "title_uk": "Міністр Андрій Сибіга привітав українку Світлану Ільчук...",
@@ -338,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9378",
     "score": 10.0,
-    "views": 977,
+    "views": 1032,
     "forwards": 4
   },
   {
@@ -374,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19600",
     "score": 5.5,
-    "views": 65535,
-    "forwards": 95
+    "views": 68948,
+    "forwards": 96
   },
   {
     "title": "Kyiv: At least 26 noncombat deaths, alleged abuse reported in Skelia...",
@@ -410,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19598",
     "score": 8.5,
-    "views": 166556,
-    "forwards": 170
+    "views": 170270,
+    "forwards": 172
   },
   {
     "title": "The situation in the Liman area ℹ️ Recently, there have been many...",
@@ -428,7 +410,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23589",
     "score": 4.5,
-    "views": 196558,
-    "forwards": 332
+    "views": 197679,
+    "forwards": 333
   }
 ]
