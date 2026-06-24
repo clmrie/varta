@@ -1,5 +1,77 @@
 [
   {
+    "title": "Drone strike",
+    "title_en": "Drone strike",
+    "title_uk": "Безпілотний удар",
+    "description": "👀 After Zelensky's ultimatum, Russian drones stopped flying along the border of Belarus and Ukraine, \"Flagshtok\" Belarusian publication reports that since June 21, it has stopped recording flights of Russian attack UAVs along the Belarusian-Ukrainian border. The last such drone was seen in the Gomel and Brest regions on the morning of June 21. At the same time, the strikes on the Chernihiv region continue, but now the drones...",
+    "description_en": "👀 After Zelensky's ultimatum, Russian drones stopped flying along the border of Belarus and Ukraine, \"Flagshtok\" Belarusian publication reports that since June 21, it has stopped recording flights of Russian attack UAVs along the Belarusian-Ukrainian border. The last such drone was seen in the Gomel and Brest regions on the morning of June 21. At the same time, the strikes on the Chernihiv region continue, but now the drones...",
+    "description_uk": "👀 После ультиматума Зеленского российские дроны перестали летать вдоль границы Беларуси и Украины, - \"Флагшток\" Беларуское издание сообщает, что с 21 июня не фиксирует полеты российских ударных БПЛА вдоль беларуско-украинской границы. Последний такой дрон был замечен в Гомельской и Брестской областях утром 21 июня. При этом удары по Черниговской области продолжаются, однако теперь беспилотники...",
+    "time": "",
+    "pubDate": "2026-06-24T15:34:35+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/194473",
+    "score": 8.5,
+    "views": 30266,
+    "forwards": 111
+  },
+  {
+    "title": "Zaporizhzhia: BpLA in the direction of the city of Zaporozhye from the southeast.",
+    "title_en": "Zaporizhzhia: BpLA in the direction of the city of Zaporozhye from the southeast.",
+    "title_uk": "Запоріжжя: БпЛА в напрямку м. Запоріжжя з пд.-сх.",
+    "description": "BpLA in the direction of the city of Zaporozhye from the southeast.",
+    "description_en": "BpLA in the direction of the city of Zaporozhye from the southeast.",
+    "description_uk": "БпЛА в напрямку м.Запоріжжя з південного сходу.",
+    "time": "",
+    "pubDate": "2026-06-24T15:25:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66231",
+    "score": 6.0,
+    "views": 25337,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "UAVs in Kharkiv region on/past Bogodukhiv from the north.",
+    "description_en": "UAVs in Kharkiv region on/past Bogodukhiv from the north.",
+    "description_uk": "БпЛА на Харківщині на/повз Богодухів з півночі.",
+    "time": "",
+    "pubDate": "2026-06-24T14:47:18+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66230",
+    "score": 6.0,
+    "views": 44539,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Skelia assault regiment under investigation following report of 26...",
+    "title_en": "Kyiv: Skelia assault regiment under investigation following report of 26...",
+    "title_uk": "Київ: десантно-штурмовий полк «Скеля» розслідується за повідомленням 26...",
+    "description": "Skelia assault regiment under investigation following report of 26 noncombat deaths, alleged abuse. According to the investigation, at least 26 service members died between late 2025 and spring 2026, many shortly after mobilization and training.",
+    "description_en": "Skelia assault regiment under investigation following report of 26 noncombat deaths, alleged abuse. According to the investigation, at least 26 service members died between late 2025 and spring 2026, many shortly after mobilization and training.",
+    "description_uk": "Skelia assault regiment under investigation following report of 26 noncombat deaths, alleged abuse. According to the investigation, at least 26 service members died between late 2025 and spring 2026, many shortly after mobilization and training.",
+    "time": "",
+    "pubDate": "2026-06-24T14:28:06+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53874",
+    "score": 6.0,
+    "views": 964,
+    "forwards": 1
+  },
+  {
     "title": "Dnipro: Drone incoming",
     "title_en": "Dnipro: Drone incoming",
     "title_uk": "Дніпро: Дрон вхід",
@@ -36,24 +108,6 @@
     "forwards": 0
   },
   {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "UAV in the north of Kharkiv Oblast ➡️ heading for Chuguiv.",
-    "description_en": "UAV in the north of Kharkiv Oblast ➡️ heading for Chuguiv.",
-    "description_uk": "БпЛА на півночі Харківщини ➡️ курсом на Чугуїв.",
-    "time": "",
-    "pubDate": "2026-06-24T10:58:58+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66182",
-    "score": 6.0,
-    "views": 22222,
-    "forwards": 0
-  },
-  {
     "title": "Crimea: Airstrike attack on infrastructure",
     "title_en": "Crimea: Airstrike attack on infrastructure",
     "title_uk": "Крим: авіаудар по інфраструктурі",
@@ -68,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53872",
     "score": 8.5,
-    "views": 1288,
-    "forwards": 3
+    "views": 1893,
+    "forwards": 5
   },
   {
     "title": "Attack attack",
@@ -176,7 +230,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40366",
     "score": 5.0,
-    "views": 4377,
+    "views": 4569,
     "forwards": 6
   },
   {
@@ -212,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40364",
     "score": 13.0,
-    "views": 4768,
+    "views": 4990,
     "forwards": 9
   },
   {
@@ -270,24 +324,6 @@
     "forwards": 0
   },
   {
-    "title": "BpLA from Sumy Oblast to Poltava Oblast, heading for Kotelva/Opishna.",
-    "title_en": "BpLA from Sumy Oblast to Poltava Oblast, heading for Kotelva/Opishna.",
-    "title_uk": "BpLA із Сумської області до Полтавської, прямуючи на Котельву/Опішну.",
-    "description": "BpLA from Sumy Oblast to Poltava Oblast, heading for Kotelva/Opishna.",
-    "description_en": "BpLA from Sumy Oblast to Poltava Oblast, heading for Kotelva/Opishna.",
-    "description_uk": "БпЛА із Сумщини на Полтавщину, курсом на Котельву/Опішню.",
-    "time": "",
-    "pubDate": "2026-06-24T03:49:16+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66139",
-    "score": 5.0,
-    "views": 30334,
-    "forwards": 0
-  },
-  {
     "title": "Crimea: Power outage reported",
     "title_en": "Crimea: Power outage reported",
     "title_uk": "Крим: повідомляється про відключення електроенергії",
@@ -320,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9378",
     "score": 10.0,
-    "views": 1032,
+    "views": 1065,
     "forwards": 4
   },
   {
@@ -356,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19600",
     "score": 5.5,
-    "views": 68948,
+    "views": 70469,
     "forwards": 96
   },
   {
@@ -392,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19598",
     "score": 8.5,
-    "views": 170270,
+    "views": 173352,
     "forwards": 172
   },
   {
@@ -410,7 +446,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23589",
     "score": 4.5,
-    "views": 197679,
-    "forwards": 333
+    "views": 198743,
+    "forwards": 336
   }
 ]
