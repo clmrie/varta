@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAV ➡️ heading for Poltava.",
+    "description_en": "Jet UAV ➡️ heading for Poltava.",
+    "description_uk": "Реактивний БпЛА ➡️ курсом на Полтаву.",
+    "time": "",
+    "pubDate": "2026-06-24T21:33:20+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66252",
+    "score": 5.0,
+    "views": 23785,
+    "forwards": 34
+  },
+  {
+    "title": "Poltava region: jet UAV ➡️ on Reshetylivka.",
+    "title_en": "Poltava region: jet UAV ➡️ on Reshetylivka.",
+    "title_uk": "Полтавська область: реактивний БПЛА ➡️ на Решетилівці.",
+    "description": "Poltava region: jet UAV ➡️ on Reshetylivka.",
+    "description_en": "Poltava region: jet UAV ➡️ on Reshetylivka.",
+    "description_uk": "Полтавщина: реактивний БпЛА ➡️ на Решетилівку.",
+    "time": "",
+    "pubDate": "2026-06-24T21:23:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66251",
+    "score": 5.0,
+    "views": 29197,
+    "forwards": 27
+  },
+  {
     "title": "Sumyshchyna: BpLA ➡️ in the direction of Terniv.",
     "title_en": "Sumyshchyna: BpLA ➡️ in the direction of Terniv.",
     "title_uk": "Сумщина: БпЛА ➡️ в напрямку Тернів.",
@@ -38,7 +74,7 @@
   {
     "title": "Kyiv: 24 injured",
     "title_en": "Kyiv: 24 injured",
-    "title_uk": "Київ: 24 поранених",
+    "title_uk": "Київ: 24 постраждалих",
     "description": "Russian drone strikes across Sumy Oblast injure 15. A series of Russian drone strikes across Sumy Oblast on June 24 injured at least 15 civilians, including three children, regional authorities reported.",
     "description_en": "Russian drone strikes across Sumy Oblast injure 15. A series of Russian drone strikes across Sumy Oblast on June 24 injured at least 15 civilians, including three children, regional authorities reported.",
     "description_uk": "Russian drone strikes across Sumy Oblast injure 15. A series of Russian drone strikes across Sumy Oblast on June 24 injured at least 15 civilians, including three children, regional authorities reported.",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53885",
     "score": 9.0,
-    "views": 756,
-    "forwards": 1
+    "views": 1239,
+    "forwards": 2
   },
   {
     "title": "Sumy: Drone incoming",
@@ -86,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53882",
     "score": 5.0,
-    "views": 1511,
-    "forwards": 2
+    "views": 1776,
+    "forwards": 3
   },
   {
     "title": "Kursk: A new group of jet UAVs from the Kursk region, Russian Federation ➡️...",
@@ -158,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194473",
     "score": 9.5,
-    "views": 167068,
-    "forwards": 395
+    "views": 174896,
+    "forwards": 418
   },
   {
     "title": "Zaporizhzhia: BpLA in the direction of the city of Zaporozhye from the southeast.",
@@ -270,24 +306,6 @@
     "forwards": 5
   },
   {
-    "title": "Attack attack",
-    "title_en": "Attack attack",
-    "title_uk": "Атака нападу",
-    "description": "The strike on the Dubna space communications center was painful as hell 😱 The General Staff writes that the strike hit the hardware-module complex of the 32-meter MARK-IV antenna, which is used for satellite communications, as well as the technical building next to it. In addition, the defeat of the main production and administrative building, where the central equipment of line communication is located, has been confirmed...",
-    "description_en": "The strike on the Dubna space communications center was painful as hell 😱 The General Staff writes that the strike hit the hardware-module complex of the 32-meter MARK-IV antenna, which is used for satellite communications, as well as the technical building next to it. In addition, the defeat of the main production and administrative building, where the central equipment of line communication is located, has been confirmed...",
-    "description_uk": "Удар по центру космической связи «Дубна» оказался чертовски болезненным 😱 Генштаб пишет, что ударом был поражен аппаратно-модульный комплекс 32-метровой антенны MARK-IV, которая используется для спутниковой связи, а также техническое здание рядом с ней. Кроме того, подтверждено поражение главного производственно-административного корпуса, где расположены центральная аппаратура линий связи,...",
-    "time": "",
-    "pubDate": "2026-06-24T09:40:40+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/194453",
-    "score": 5.5,
-    "views": 140987,
-    "forwards": 463
-  },
-  {
     "title": "Made another working trip to the area of ​​active hostilities. Worked...",
     "title_en": "Made another working trip to the area of ​​active hostilities. Worked...",
     "title_uk": "Здійснив чергову робочу поїздку в район активних бойових дій. Працював...",
@@ -302,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40366",
     "score": 5.0,
-    "views": 4901,
+    "views": 4932,
     "forwards": 6
   },
   {
@@ -320,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40364",
     "score": 13.0,
-    "views": 5288,
+    "views": 5327,
     "forwards": 12
   },
   {
@@ -392,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9378",
     "score": 10.0,
-    "views": 1097,
+    "views": 1101,
     "forwards": 4
   },
   {
@@ -410,8 +428,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19600",
     "score": 5.5,
-    "views": 75294,
-    "forwards": 98
+    "views": 75777,
+    "forwards": 99
   },
   {
     "title": "Today is the 32nd anniversary of the Special Operations Center...",
@@ -428,7 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19598",
     "score": 8.5,
-    "views": 179067,
+    "views": 179926,
     "forwards": 173
   }
 ]
