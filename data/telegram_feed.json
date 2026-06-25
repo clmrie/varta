@@ -3,19 +3,91 @@
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
-    "description": "UAV from the Black Sea in the direction of Odesa (Chornomorsk)",
-    "description_en": "UAV from the Black Sea in the direction of Odesa (Chornomorsk)",
-    "description_uk": "БпЛА з акваторії Чорного моря в напрямку Одещини (Чорноморськ)",
+    "description": "UAV in the direction of Sumy from the east",
+    "description_en": "UAV in the direction of Sumy from the east",
+    "description_uk": "БпЛА у напрямку Сум зі сходу",
     "time": "",
-    "pubDate": "2026-06-25T14:44:41+00:00",
+    "pubDate": "2026-06-25T17:07:42+00:00",
     "category": "drone",
     "severity": "high",
-    "location": "Odesa",
+    "location": "Sumy",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66352",
+    "link": "https://t.me/kpszsu/66361",
     "score": 5.0,
-    "views": 10105,
+    "views": 1,
     "forwards": 0
+  },
+  {
+    "title": "Dnipro: Unmanned aerial vehicle in the direction of Synelnikov in...",
+    "title_en": "Dnipro: Unmanned aerial vehicle in the direction of Synelnikov in...",
+    "title_uk": "Дніпро: БПЛА в напрямку Синельникова в...",
+    "description": "Unmanned aerial vehicle in the direction of Synelnikov in Dnipropetrovsk region from the northeast",
+    "description_en": "Unmanned aerial vehicle in the direction of Synelnikov in Dnipropetrovsk region from the northeast",
+    "description_uk": "БпЛА у напрямку Синельникова на Дніпропетровщині з північного сходу",
+    "time": "",
+    "pubDate": "2026-06-25T16:53:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66360",
+    "score": 6.0,
+    "views": 16194,
+    "forwards": 0
+  },
+  {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "Report of the Minister of Internal Affairs Ihor Klymenko. I am grateful for the prompt work to eliminate the consequences of the Russian attack on the Lavra. Conservation work on the Assumption Cathedral, which was the most damaged by Russian drones, has already been completed. The roof of the cathedral is covered so that the condition of the building does not deteriorate due to weather conditions. We are preparing to restore the cathedral, and this is already the responsibility, in particular, of the Ministry...",
+    "description_en": "Report of the Minister of Internal Affairs Ihor Klymenko. I am grateful for the prompt work to eliminate the consequences of the Russian attack on the Lavra. Conservation work on the Assumption Cathedral, which was the most damaged by Russian drones, has already been completed. The roof of the cathedral is covered so that the condition of the building does not deteriorate due to weather conditions. We are preparing to restore the cathedral, and this is already the responsibility, in particular, of the Ministry...",
+    "description_uk": "Доповідь міністра внутрішніх справ Ігоря Клименка. Вдячний за оперативну роботу з ліквідацією наслідків російського удару по Лаврі. Вже завершені роботи по консервації Успенського собору, який був найбільше пошкоджений російськими дронами. Дах собору перекритий, щоб стан будівлі не погіршився через погодні умови. Готуємо відновлення собору, і це вже відповідальність, зокрема, Міністерства...",
+    "time": "",
+    "pubDate": "2026-06-25T16:13:19+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/19612",
+    "score": 7.5,
+    "views": 27587,
+    "forwards": 77
+  },
+  {
+    "title": "Crimea: Power outage reported",
+    "title_en": "Crimea: Power outage reported",
+    "title_uk": "Крим: повідомляється про відключення електроенергії",
+    "description": "Update: Ukrainian strikes hit energy, oil infrastructure in Russian-occupied Crimea as power outages continue, military confirms. The targets included the Tavriya Thermal Power Plant in Simferopol, an oil depot in Dzhankoi, two gas compressor stations, two electrical substations, three coastal radar stations, and a ZU-23-2 anti-aircraft twin-barreled autocannon, according to Robert \"Madyar\"...",
+    "description_en": "Update: Ukrainian strikes hit energy, oil infrastructure in Russian-occupied Crimea as power outages continue, military confirms. The targets included the Tavriya Thermal Power Plant in Simferopol, an oil depot in Dzhankoi, two gas compressor stations, two electrical substations, three coastal radar stations, and a ZU-23-2 anti-aircraft twin-barreled autocannon, according to Robert \"Madyar\"...",
+    "description_uk": "Update: Ukrainian strikes hit energy, oil infrastructure in Russian-occupied Crimea as power outages continue, military confirms. The targets included the Tavriya Thermal Power Plant in Simferopol, an oil depot in Dzhankoi, two gas compressor stations, two electrical substations, three coastal radar stations, and a ZU-23-2 anti-aircraft twin-barreled autocannon, according to Robert \"Madyar\"...",
+    "time": "",
+    "pubDate": "2026-06-25T15:45:10+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Crimea",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53902",
+    "score": 8.5,
+    "views": 902,
+    "forwards": 4
+  },
+  {
+    "title": "Kherson: Drone attack",
+    "title_en": "Kherson: Drone attack",
+    "title_uk": "Херсон: атака безпілотників",
+    "description": "The Ukrainian flag was dropped from a drone on the Kinburn spit, - DeepState Analysts, following the Navy, clarify that there is no attack by the Defense Forces on the Kinburn spit now, and the appearance of the Ukrainian flag does not mean the withdrawal of the Russians. The flag was indeed on a slant, but it was dropped from the drone. In DeepState they call this a pleasant fact, but they emphasize that there is no confirmed exit of the occupiers from this territory....",
+    "description_en": "The Ukrainian flag was dropped from a drone on the Kinburn spit, - DeepState Analysts, following the Navy, clarify that there is no attack by the Defense Forces on the Kinburn spit now, and the appearance of the Ukrainian flag does not mean the withdrawal of the Russians. The flag was indeed on a slant, but it was dropped from the drone. In DeepState they call this a pleasant fact, but they emphasize that there is no confirmed exit of the occupiers from this territory....",
+    "description_uk": "Украинский флаг на Кинбурнскую косу сбросили с дрона, - DeepState Аналитики вслед за ВМС уточняют, что наступления Сил обороны на Кинбурнской косе сейчас нет, а появление украинского флага не означает отход россиян. Флаг действительно оказался на косе, но его сбросили с дрона. В DeepState называют это приятным фактом, однако подчеркивают, что подтверждений выхода оккупантов с этой территории нет....",
+    "time": "",
+    "pubDate": "2026-06-25T15:22:56+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/194551",
+    "score": 7.5,
+    "views": 101839,
+    "forwards": 214
   },
   {
     "title": "Sumy: BpLA in the direction of the city of Sumy from the north.",
@@ -50,8 +122,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23595",
     "score": 7.5,
-    "views": 57283,
-    "forwards": 754
+    "views": 138061,
+    "forwards": 1327
   },
   {
     "title": "Kyiv: Attack attack on energy grid",
@@ -68,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53899",
     "score": 4.5,
-    "views": 791,
-    "forwards": 5
+    "views": 1633,
+    "forwards": 8
   },
   {
     "title": "Zaporizhzhia: BpLA to Zaporizhzhia from the south 🛵 BpLA in the direction of...",
@@ -140,8 +212,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23593",
     "score": 5.5,
-    "views": 99142,
-    "forwards": 130
+    "views": 117054,
+    "forwards": 137
   },
   {
     "title": "Mykolaiv: Evacuation ordered",
@@ -176,8 +248,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40399",
     "score": 8.0,
-    "views": 14081,
-    "forwards": 90
+    "views": 16569,
+    "forwards": 96
   },
   {
     "title": "Kyiv: Apple removes Russia's biggest social network from App Store....",
@@ -212,8 +284,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40398",
     "score": 5.5,
-    "views": 28213,
-    "forwards": 132
+    "views": 32542,
+    "forwards": 136
   },
   {
     "title": "Attack attack",
@@ -230,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19606",
     "score": 5.5,
-    "views": 130975,
-    "forwards": 361
+    "views": 147720,
+    "forwards": 378
   },
   {
     "title": "BpLA in the west of Sumy region ➡️ heading for Konotop.",
@@ -342,42 +414,6 @@
     "forwards": 185
   },
   {
-    "title": "Kyiv: Attack attack on infrastructure",
-    "title_en": "Kyiv: Attack attack on infrastructure",
-    "title_uk": "Київ: Атака на інфраструктуру",
-    "description": "Oil depot reportedly set ablaze in Russia's Krasnodar Krai following Ukrainian strike. Ukraine's military reportedly carried out an attack on Russian oil infrastructure overnight on June 25, striking an oil depot in Russia's Krasnodar Krai, officials said.",
-    "description_en": "Oil depot reportedly set ablaze in Russia's Krasnodar Krai following Ukrainian strike. Ukraine's military reportedly carried out an attack on Russian oil infrastructure overnight on June 25, striking an oil depot in Russia's Krasnodar Krai, officials said.",
-    "description_uk": "Oil depot reportedly set ablaze in Russia's Krasnodar Krai following Ukrainian strike. Ukraine's military reportedly carried out an attack on Russian oil infrastructure overnight on June 25, striking an oil depot in Russia's Krasnodar Krai, officials said.",
-    "time": "",
-    "pubDate": "2026-06-25T03:56:33+00:00",
-    "category": "alert",
-    "severity": "medium",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53889",
-    "score": 4.0,
-    "views": 1779,
-    "forwards": 4
-  },
-  {
-    "title": "Crimea: Power outage reported",
-    "title_en": "Crimea: Power outage reported",
-    "title_uk": "Крим: повідомляється про відключення електроенергії",
-    "description": "Fresh Ukrainian strikes reportedly hit energy infrastructure in occupied Crimea as power outages continue. Ukraine's military launched a drone attack on Russian-occupied Crimea overnight on June 25, reportedly striking energy infrastructure on the peninsula, Russian Telegram media channels reported.",
-    "description_en": "Fresh Ukrainian strikes reportedly hit energy infrastructure in occupied Crimea as power outages continue. Ukraine's military launched a drone attack on Russian-occupied Crimea overnight on June 25, reportedly striking energy infrastructure on the peninsula, Russian Telegram media channels reported.",
-    "description_uk": "Fresh Ukrainian strikes reportedly hit energy infrastructure in occupied Crimea as power outages continue. Ukraine's military launched a drone attack on Russian-occupied Crimea overnight on June 25, reportedly striking energy infrastructure on the peninsula, Russian Telegram media channels reported.",
-    "time": "",
-    "pubDate": "2026-06-25T02:08:04+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Crimea",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53888",
-    "score": 16.5,
-    "views": 1992,
-    "forwards": 3
-  },
-  {
     "title": "Kyiv: 24 injured",
     "title_en": "Kyiv: 24 injured",
     "title_uk": "Київ: 24 постраждалих",
@@ -410,25 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9378",
     "score": 10.0,
-    "views": 1138,
+    "views": 1144,
     "forwards": 4
-  },
-  {
-    "title": "He held a meeting with the Secretary General of the Organization for...",
-    "title_en": "He held a meeting with the Secretary General of the Organization for...",
-    "title_uk": "Він провів зустріч з Генеральним секретарем Організації з...",
-    "description": "He held a meeting with the Secretary General of the Organization for Economic Cooperation and Development Mathias Korman. Ukraine's membership in the OECD is very important for us. And today we are taking a step in this direction: the Prime Minister handed over to the OECD the official renewed application of Ukraine for membership. We hope to receive the status of a candidate country already this fall. The next stage is the road map to membership in the OECD. Discussed...",
-    "description_en": "He held a meeting with the Secretary General of the Organization for Economic Cooperation and Development Mathias Korman. Ukraine's membership in the OECD is very important for us. And today we are taking a step in this direction: the Prime Minister handed over to the OECD the official renewed application of Ukraine for membership. We hope to receive the status of a candidate country already this fall. The next stage is the road map to membership in the OECD. Discussed...",
-    "description_uk": "Провів зустріч із генеральним секретарем Організації економічного співробітництва та розвитку Матіасом Корманом. Членство України в ОЕСР для нас дуже важливе. І сьогодні робимо крок в цьому напрямі: Прем’єр-міністр передала ОЕСР офіційну поновлену заявку України на членство. Сподіваємось отримати статус країни-кандидата вже цієї осені. Наступний етап – дорожня карта до членства в ОЕСР. Обговорили...",
-    "time": "",
-    "pubDate": "2026-06-23T17:36:59+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19600",
-    "score": 5.5,
-    "views": 79693,
-    "forwards": 100
   }
 ]
