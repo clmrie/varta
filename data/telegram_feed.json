@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A jet UAV in Zhytomyr Oblast in the direction of Korosten from the northeast.",
+    "description_en": "A jet UAV in Zhytomyr Oblast in the direction of Korosten from the northeast.",
+    "description_uk": "Реактивний БпЛА на Житомирщині в напрямку Коростеня з північного сходу.",
+    "time": "",
+    "pubDate": "2026-06-25T01:39:25+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zhytomyr",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66269",
+    "score": 5.0,
+    "views": 3380,
+    "forwards": 0
+  },
+  {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-06-25T01:23:45+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66265",
+    "score": 5.0,
+    "views": 7238,
+    "forwards": 2
+  },
+  {
     "title": "Chernihiv: Chernihiv region: BpLA ➡️ heading for Slavutych.",
     "title_en": "Chernihiv: Chernihiv region: BpLA ➡️ heading for Slavutych.",
     "title_uk": "Чернігів: Чернігівська обл.: BpLA ➡️ курс на Славутич.",
@@ -16,24 +52,6 @@
     "score": 6.0,
     "views": 10438,
     "forwards": 5
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAV ➡️ heading for Poltava.",
-    "description_en": "Jet UAV ➡️ heading for Poltava.",
-    "description_uk": "Реактивний БпЛА ➡️ курсом на Полтаву.",
-    "time": "",
-    "pubDate": "2026-06-24T21:33:20+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66252",
-    "score": 5.0,
-    "views": 31508,
-    "forwards": 34
   },
   {
     "title": "Poltava region: jet UAV ➡️ on Reshetylivka.",
@@ -92,7 +110,7 @@
   {
     "title": "Kyiv: 24 injured",
     "title_en": "Kyiv: 24 injured",
-    "title_uk": "Київ: 24 поранених",
+    "title_uk": "Київ: 24 постраждалих",
     "description": "Russian drone strikes across Sumy Oblast injure 15. A series of Russian drone strikes across Sumy Oblast on June 24 injured at least 15 civilians, including three children, regional authorities reported.",
     "description_en": "Russian drone strikes across Sumy Oblast injure 15. A series of Russian drone strikes across Sumy Oblast on June 24 injured at least 15 civilians, including three children, regional authorities reported.",
     "description_uk": "Russian drone strikes across Sumy Oblast injure 15. A series of Russian drone strikes across Sumy Oblast on June 24 injured at least 15 civilians, including three children, regional authorities reported.",
@@ -104,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53885",
     "score": 9.0,
-    "views": 1409,
-    "forwards": 2
+    "views": 1604,
+    "forwards": 4
   },
   {
     "title": "Sumy: Drone incoming",
@@ -140,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53882",
     "score": 5.0,
-    "views": 1885,
-    "forwards": 3
+    "views": 1999,
+    "forwards": 4
   },
   {
     "title": "Kursk: A new group of jet UAVs from the Kursk region, Russian Federation ➡️...",
@@ -212,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194473",
     "score": 9.5,
-    "views": 177501,
-    "forwards": 418
+    "views": 180883,
+    "forwards": 421
   },
   {
     "title": "Zaporizhzhia: BpLA in the direction of the city of Zaporozhye from the southeast.",
@@ -270,24 +288,6 @@
     "forwards": 1
   },
   {
-    "title": "Dnipro: Drone incoming",
-    "title_en": "Dnipro: Drone incoming",
-    "title_uk": "Дніпро: Дрон вхід",
-    "description": "A jet UAV in the direction of the city of Dnipro from the southwest.",
-    "description_en": "A jet UAV in the direction of the city of Dnipro from the southwest.",
-    "description_uk": "Реактивний БпЛА в напрямку м.Дніпро з південного заходу.",
-    "time": "",
-    "pubDate": "2026-06-24T13:16:31+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66209",
-    "score": 6.0,
-    "views": 23221,
-    "forwards": 0
-  },
-  {
     "title": "Made another working trip to the area of ​​active hostilities. Worked...",
     "title_en": "Made another working trip to the area of ​​active hostilities. Worked...",
     "title_uk": "Здійснив чергову робочу поїздку в район активних бойових дій. Працював...",
@@ -302,7 +302,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40366",
     "score": 5.0,
-    "views": 4939,
+    "views": 4961,
     "forwards": 6
   },
   {
@@ -320,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40364",
     "score": 13.0,
-    "views": 5336,
+    "views": 5356,
     "forwards": 12
   },
   {
@@ -392,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9378",
     "score": 10.0,
-    "views": 1102,
+    "views": 1104,
     "forwards": 4
   },
   {
@@ -410,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19600",
     "score": 5.5,
-    "views": 75980,
+    "views": 76186,
     "forwards": 99
   },
   {
@@ -428,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19598",
     "score": 8.5,
-    "views": 180131,
+    "views": 180443,
     "forwards": 173
   }
 ]
