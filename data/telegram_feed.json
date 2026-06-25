@@ -1,5 +1,77 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea in the direction of Odesa (Chornomorsk)",
+    "description_en": "UAV from the Black Sea in the direction of Odesa (Chornomorsk)",
+    "description_uk": "БпЛА з акваторії Чорного моря в напрямку Одещини (Чорноморськ)",
+    "time": "",
+    "pubDate": "2026-06-25T14:44:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66352",
+    "score": 5.0,
+    "views": 10105,
+    "forwards": 0
+  },
+  {
+    "title": "Sumy: BpLA in the direction of the city of Sumy from the north.",
+    "title_en": "Sumy: BpLA in the direction of the city of Sumy from the north.",
+    "title_uk": "Суми: БпЛА в напрямку м. Суми з пн.",
+    "description": "BpLA in the direction of the city of Sumy from the north.",
+    "description_en": "BpLA in the direction of the city of Sumy from the north.",
+    "description_uk": "БпЛА в напрямку м.Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-06-25T14:22:20+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66351",
+    "score": 6.0,
+    "views": 27292,
+    "forwards": 0
+  },
+  {
+    "title": "Kherson: Drone incoming",
+    "title_en": "Kherson: Drone incoming",
+    "title_uk": "Херсон: Дрон вхід",
+    "description": "The Kinburn Spit, the offensive of the Armed Forces and the retreat of the Muscovites 🌐 There is a heated discussion on the Internet today about the events on the Kinburn Spit, but this discussion is overgrown with irrelevant facts. 🚫 To date, there is no confirmation about the active departure of katsaps from the spit. Moreover, the enemy continues to use the terrain for launching \"Molniya\" UAVs in the direction of Mykolaiv and Kherson and has other means in the form of EW and...",
+    "description_en": "The Kinburn Spit, the offensive of the Armed Forces and the retreat of the Muscovites 🌐 There is a heated discussion on the Internet today about the events on the Kinburn Spit, but this discussion is overgrown with irrelevant facts. 🚫 To date, there is no confirmation about the active departure of katsaps from the spit. Moreover, the enemy continues to use the terrain for launching \"Molniya\" UAVs in the direction of Mykolaiv and Kherson and has other means in the form of EW and...",
+    "description_uk": "Кінбурнська коса, наступ ЗСУ та відступ московитів 🌐 В мережі сьогодні йде палке обговорення подій на Кінбурнській косі, але це обговорення обросло невідповідними фактами. 🚫 На сьогоднішній день немає жодних підтверджень про активний відхід кацапів з коси. Більш того, ворог продовжує застосовувати місцевість для пусків БПЛА \"Молнія\" в бік Миколаєва та Херсону та має інші засоби у вигляді РЕБ та...",
+    "time": "",
+    "pubDate": "2026-06-25T14:06:43+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23595",
+    "score": 7.5,
+    "views": 57283,
+    "forwards": 754
+  },
+  {
+    "title": "Kyiv: Attack attack on energy grid",
+    "title_en": "Kyiv: Attack attack on energy grid",
+    "title_uk": "Київ: Атака на енергомережі",
+    "description": "Ukraine faces possible daily 5-hour power cuts in July–August if Russian attacks continue, Ukrenergo says. \"We understand that we will meet daytime demand through nuclear power, imports, distributed generation, and renewable energy, but unfortunately, we will have to rely on consumers to balance evening peaks,\" Vitaliy Zaichenko, CEO of state grid operator Ukrenergo, said.",
+    "description_en": "Ukraine faces possible daily 5-hour power cuts in July–August if Russian attacks continue, Ukrenergo says. \"We understand that we will meet daytime demand through nuclear power, imports, distributed generation, and renewable energy, but unfortunately, we will have to rely on consumers to balance evening peaks,\" Vitaliy Zaichenko, CEO of state grid operator Ukrenergo, said.",
+    "description_uk": "Ukraine faces possible daily 5-hour power cuts in July–August if Russian attacks continue, Ukrenergo says. \"We understand that we will meet daytime demand through nuclear power, imports, distributed generation, and renewable energy, but unfortunately, we will have to rely on consumers to balance evening peaks,\" Vitaliy Zaichenko, CEO of state grid operator Ukrenergo, said.",
+    "time": "",
+    "pubDate": "2026-06-25T13:46:57+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53899",
+    "score": 4.5,
+    "views": 791,
+    "forwards": 5
+  },
+  {
     "title": "Zaporizhzhia: BpLA to Zaporizhzhia from the south 🛵 BpLA in the direction of...",
     "title_en": "Zaporizhzhia: BpLA to Zaporizhzhia from the south 🛵 BpLA in the direction of...",
     "title_uk": "Запоріжжя: БпЛА на Запоріжжя з півдня 🛵 БпЛА в напрямку...",
@@ -50,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194531",
     "score": 3.5,
-    "views": 49440,
-    "forwards": 72
+    "views": 128345,
+    "forwards": 144
   },
   {
     "title": "😈 The Defense Forces continue to impose sanctions against Moscow: for...",
@@ -68,8 +140,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23593",
     "score": 5.5,
-    "views": 43511,
-    "forwards": 75
+    "views": 99142,
+    "forwards": 130
   },
   {
     "title": "Mykolaiv: Evacuation ordered",
@@ -86,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53893",
     "score": 6.0,
-    "views": 766,
-    "forwards": 3
+    "views": 1663,
+    "forwards": 6
   },
   {
     "title": "The results of the damage to the \"Vladimir\" CCS and the Orenburg GPP...",
@@ -104,8 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40399",
     "score": 8.0,
-    "views": 7271,
-    "forwards": 69
+    "views": 14081,
+    "forwards": 90
   },
   {
     "title": "Kyiv: Apple removes Russia's biggest social network from App Store....",
@@ -140,8 +212,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40398",
     "score": 5.5,
-    "views": 18295,
-    "forwards": 112
+    "views": 28213,
+    "forwards": 132
   },
   {
     "title": "Attack attack",
@@ -158,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19606",
     "score": 5.5,
-    "views": 94918,
-    "forwards": 305
+    "views": 130975,
+    "forwards": 361
   },
   {
     "title": "BpLA in the west of Sumy region ➡️ heading for Konotop.",
@@ -306,42 +378,6 @@
     "forwards": 3
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A jet UAV in Zhytomyr Oblast in the direction of Korosten from the northeast.",
-    "description_en": "A jet UAV in Zhytomyr Oblast in the direction of Korosten from the northeast.",
-    "description_uk": "Реактивний БпЛА на Житомирщині в напрямку Коростеня з північного сходу.",
-    "time": "",
-    "pubDate": "2026-06-25T01:39:25+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zhytomyr",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66269",
-    "score": 5.0,
-    "views": 3380,
-    "forwards": 0
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-06-25T01:23:45+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66265",
-    "score": 5.0,
-    "views": 7238,
-    "forwards": 2
-  },
-  {
     "title": "Kyiv: 24 injured",
     "title_en": "Kyiv: 24 injured",
     "title_uk": "Київ: 24 постраждалих",
@@ -360,24 +396,6 @@
     "forwards": 4
   },
   {
-    "title": "Kyiv: Skelia assault regiment under investigation following report of 26...",
-    "title_en": "Kyiv: Skelia assault regiment under investigation following report of 26...",
-    "title_uk": "Київ: десантно-штурмовий полк «Скеля» розслідується за повідомленням 26...",
-    "description": "Skelia assault regiment under investigation following report of 26 noncombat deaths, alleged abuse. According to the investigation, at least 26 service members died between late 2025 and spring 2026, many shortly after mobilization and training.",
-    "description_en": "Skelia assault regiment under investigation following report of 26 noncombat deaths, alleged abuse. According to the investigation, at least 26 service members died between late 2025 and spring 2026, many shortly after mobilization and training.",
-    "description_uk": "Skelia assault regiment under investigation following report of 26 noncombat deaths, alleged abuse. According to the investigation, at least 26 service members died between late 2025 and spring 2026, many shortly after mobilization and training.",
-    "time": "",
-    "pubDate": "2026-06-24T14:28:06+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53874",
-    "score": 6.0,
-    "views": 1527,
-    "forwards": 1
-  },
-  {
     "title": "Minister Andriy Sybiga congratulated Svitlana Ilchuk, a Ukrainian...",
     "title_en": "Minister Andriy Sybiga congratulated Svitlana Ilchuk, a Ukrainian...",
     "title_uk": "Міністр Андрій Сибіга привітав українку Світлану Ільчук...",
@@ -392,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9378",
     "score": 10.0,
-    "views": 1132,
+    "views": 1138,
     "forwards": 4
   },
   {
@@ -410,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19600",
     "score": 5.5,
-    "views": 78828,
+    "views": 79693,
     "forwards": 100
   }
 ]
