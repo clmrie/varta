@@ -1,5 +1,23 @@
 [
   {
+    "title": "Poltava: Ballistic missile launch detected",
+    "title_en": "Poltava: Ballistic missile launch detected",
+    "title_uk": "Полтава: виявлено пуск балістичної ракети",
+    "description": "Russia launches fresh ballistic missile attack against Kyiv. At least two people in the capital have been injured and a fire broke out in the Darnytskyi district, Kyiv Mayor Vitali Klitschko reported. Explosions have also been heard in Kremenchuk, Poltava Oblast, during Russia's attack. Photo: Ukraine's State Emergency Service / Telegram",
+    "description_en": "Russia launches fresh ballistic missile attack against Kyiv. At least two people in the capital have been injured and a fire broke out in the Darnytskyi district, Kyiv Mayor Vitali Klitschko reported. Explosions have also been heard in Kremenchuk, Poltava Oblast, during Russia's attack. Photo: Ukraine's State Emergency Service / Telegram",
+    "description_uk": "Russia launches fresh ballistic missile attack against Kyiv. At least two people in the capital have been injured and a fire broke out in the Darnytskyi district, Kyiv Mayor Vitali Klitschko reported. Explosions have also been heard in Kremenchuk, Poltava Oblast, during Russia's attack. Photo: Ukraine's State Emergency Service / Telegram",
+    "time": "",
+    "pubDate": "2026-06-25T22:33:11+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Poltava",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53911",
+    "score": 15.0,
+    "views": 209,
+    "forwards": 1
+  },
+  {
     "title": "BpLA in Poltava region heading for Kremenchuk.",
     "title_en": "BpLA in Poltava region heading for Kremenchuk.",
     "title_uk": "BpLA в Полтавській області прямує до Кременчука.",
@@ -7,15 +25,51 @@
     "description_en": "BpLA in Poltava region heading for Kremenchuk.",
     "description_uk": "БпЛА на Полтавщині курсом на м.Кременчук.",
     "time": "",
-    "pubDate": "2026-06-25T20:47:56+00:00",
+    "pubDate": "2026-06-25T22:11:33+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Poltava",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66403",
+    "link": "https://t.me/kpszsu/66410",
+    "score": 5.0,
+    "views": 45581,
+    "forwards": 35
+  },
+  {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Київ: Дрон-удар",
+    "description": "Russia's 4th-largest oil refinery shuts down after Ukrainian drone strike. The Lukoil-Nizhegorodorgsintez refinery in Kstovo, Nizhny Novgorod Oblast, is Russia's fourth-largest oil refinery and second-largest producer of gasoline. The facility went offline on June 24 after a drone strike, two industry sources told Reuters.",
+    "description_en": "Russia's 4th-largest oil refinery shuts down after Ukrainian drone strike. The Lukoil-Nizhegorodorgsintez refinery in Kstovo, Nizhny Novgorod Oblast, is Russia's fourth-largest oil refinery and second-largest producer of gasoline. The facility went offline on June 24 after a drone strike, two industry sources told Reuters.",
+    "description_uk": "Russia's 4th-largest oil refinery shuts down after Ukrainian drone strike. The Lukoil-Nizhegorodorgsintez refinery in Kstovo, Nizhny Novgorod Oblast, is Russia's fourth-largest oil refinery and second-largest producer of gasoline. The facility went offline on June 24 after a drone strike, two industry sources told Reuters.",
+    "time": "",
+    "pubDate": "2026-06-25T21:57:41+00:00",
+    "category": "drone",
+    "severity": "medium",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53910",
+    "score": 4.0,
+    "views": 640,
+    "forwards": 0
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ Ballistics Threat (Northeast)",
+    "description_en": "☄️ Ballistics Threat (Northeast)",
+    "description_uk": "☄️ Загроза балістики (північний схід)",
+    "time": "",
+    "pubDate": "2026-06-25T21:51:16+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66406",
     "score": 5.5,
-    "views": 24316,
-    "forwards": 102
+    "views": 83070,
+    "forwards": 70
   },
   {
     "title": "Kyiv: Ukraine's SBU to wage 40-day pressure campaign against Russia,...",
@@ -104,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194569",
     "score": 10.5,
-    "views": 109720,
-    "forwards": 246
+    "views": 130300,
+    "forwards": 280
   },
   {
     "title": "Kharkiv: BpLA headed for the city of Kharkiv from the northeast.",
@@ -200,7 +254,7 @@
   {
     "title": "Drone attack",
     "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
+    "title_uk": "Атака дронов",
     "description": "Report of the Minister of Internal Affairs Ihor Klymenko. I am grateful for the prompt work to eliminate the consequences of the Russian attack on the Lavra. Conservation work on the Assumption Cathedral, which was the most damaged by Russian drones, has already been completed. The roof of the cathedral is covered so that the condition of the building does not deteriorate due to weather conditions. We are preparing to restore the cathedral, and this is already the responsibility, in particular, of the Ministry...",
     "description_en": "Report of the Minister of Internal Affairs Ihor Klymenko. I am grateful for the prompt work to eliminate the consequences of the Russian attack on the Lavra. Conservation work on the Assumption Cathedral, which was the most damaged by Russian drones, has already been completed. The roof of the cathedral is covered so that the condition of the building does not deteriorate due to weather conditions. We are preparing to restore the cathedral, and this is already the responsibility, in particular, of the Ministry...",
     "description_uk": "Доповідь міністра внутрішніх справ Ігоря Клименка. Вдячний за оперативну роботу з ліквідацією наслідків російського удару по Лаврі. Вже завершені роботи по консервації Успенського собору, який був найбільше пошкоджений російськими дронами. Дах собору перекритий, щоб стан будівлі не погіршився через погодні умови. Готуємо відновлення собору, і це вже відповідальність, зокрема, Міністерства...",
@@ -212,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19612",
     "score": 7.5,
-    "views": 70156,
-    "forwards": 102
+    "views": 74444,
+    "forwards": 104
   },
   {
     "title": "Crimea: Power outage reported",
@@ -273,8 +327,8 @@
     "title": "Kherson: Drone incoming",
     "title_en": "Kherson: Drone incoming",
     "title_uk": "Херсон: Дрон вхід",
-    "description": "The Kinburn Spit, the offensive of the Armed Forces and the retreat of the Muscovites 🌐 There is a heated discussion on the Internet today about the events on the Kinburn Spit, but this discussion is overgrown with irrelevant facts. 🚫 To date, there is no confirmation about the active departure of katsaps from the spit. Moreover, the enemy continues to use the terrain for launching \"Molniya\" UAVs in the direction of Mykolaiv and Kherson and has other means in the form of EW and...",
-    "description_en": "The Kinburn Spit, the offensive of the Armed Forces and the retreat of the Muscovites 🌐 There is a heated discussion on the Internet today about the events on the Kinburn Spit, but this discussion is overgrown with irrelevant facts. 🚫 To date, there is no confirmation about the active departure of katsaps from the spit. Moreover, the enemy continues to use the terrain for launching \"Molniya\" UAVs in the direction of Mykolaiv and Kherson and has other means in the form of EW and...",
+    "description": "The Kinburn Spit, the offensive of the Armed Forces and the retreat of the Muscovites 🌐 There is an ardent discussion of the events on the Kinburn Spit on the Internet today, but this discussion is overgrown with irrelevant facts. 🚫 To date, there is no confirmation about the active departure of katsaps from the spit. Moreover, the enemy continues to use the terrain for launching \"Molniya\" UAVs in the direction of Mykolaiv and Kherson and has other means in the form of EW and...",
+    "description_en": "The Kinburn Spit, the offensive of the Armed Forces and the retreat of the Muscovites 🌐 There is an ardent discussion of the events on the Kinburn Spit on the Internet today, but this discussion is overgrown with irrelevant facts. 🚫 To date, there is no confirmation about the active departure of katsaps from the spit. Moreover, the enemy continues to use the terrain for launching \"Molniya\" UAVs in the direction of Mykolaiv and Kherson and has other means in the form of EW and...",
     "description_uk": "Кінбурнська коса, наступ ЗСУ та відступ московитів 🌐 В мережі сьогодні йде палке обговорення подій на Кінбурнській косі, але це обговорення обросло невідповідними фактами. 🚫 На сьогоднішній день немає жодних підтверджень про активний відхід кацапів з коси. Більш того, ворог продовжує застосовувати місцевість для пусків БПЛА \"Молнія\" в бік Миколаєва та Херсону та має інші засоби у вигляді РЕБ та...",
     "time": "",
     "pubDate": "2026-06-25T14:06:43+00:00",
@@ -284,8 +338,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23595",
     "score": 7.5,
-    "views": 211048,
-    "forwards": 1624
+    "views": 219205,
+    "forwards": 1645
   },
   {
     "title": "Kyiv: Attack attack on energy grid",
@@ -374,8 +428,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23593",
     "score": 5.5,
-    "views": 138149,
-    "forwards": 165
+    "views": 141386,
+    "forwards": 166
   },
   {
     "title": "Mykolaiv: Evacuation ordered",
@@ -394,59 +448,5 @@
     "score": 6.0,
     "views": 1663,
     "forwards": 6
-  },
-  {
-    "title": "The results of the damage to the \"Vladimir\" CCS and the Orenburg GPP...",
-    "title_en": "The results of the damage to the \"Vladimir\" CCS and the Orenburg GPP...",
-    "title_uk": "Результати пошкодження ЦКС «Володимир» і Оренбурзького ГПЗ...",
-    "description": "The results of the damage to the \"Vladimir\" CCS and the Orenburg GPP ⚡️In the course of data analysis, the results of the damage on the night of June 22 by units of the Defense Forces of Ukraine of the \"Vladimir\" Space Communications Center (CSC) in the Gus-Khrustalny district of the Vladimir region of the Russian Federation were confirmed. ✅Yes, the main antenna of the complex (25-meter parabolic antenna) and the antenna on the roof of the Main Hardware and Software...",
-    "description_en": "The results of the damage to the \"Vladimir\" CCS and the Orenburg GPP ⚡️In the course of data analysis, the results of the damage on the night of June 22 by units of the Defense Forces of Ukraine of the \"Vladimir\" Space Communications Center (CSC) in the Gus-Khrustalny district of the Vladimir region of the Russian Federation were confirmed. ✅Yes, the main antenna of the complex (25-meter parabolic antenna) and the antenna on the roof of the Main Hardware and Software...",
-    "description_uk": "Результати уражень ЦКС \"Владимир\" та Оренбурзького ГПЗ ⚡️У ході аналізу даних підтверджено результати ураження у ніч на 22 червня підрозділами Сил оборони України Центру космічного зв'язку (ЦКС) \"Владимир\" у районі Гусь-Хрустального Владімірської області рф. ✅Так, критично ушкоджено головну антену комплексу (25-метрова параболічна антена) та антену на даху Головного апаратно-програмного...",
-    "time": "",
-    "pubDate": "2026-06-25T11:08:29+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/40399",
-    "score": 8.0,
-    "views": 21971,
-    "forwards": 101
-  },
-  {
-    "title": "Kyiv: Apple removes Russia's biggest social network from App Store....",
-    "title_en": "Kyiv: Apple removes Russia's biggest social network from App Store....",
-    "title_uk": "Київ: Apple видалила найбільшу соцмережу Росії з App Store....",
-    "description": "Apple removes Russia's biggest social network from App Store. Russia's largest social media platform, VK, is a major channel for information distribution and state-backed narratives.",
-    "description_en": "Apple removes Russia's biggest social network from App Store. Russia's largest social media platform, VK, is a major channel for information distribution and state-backed narratives.",
-    "description_uk": "Apple removes Russia's biggest social network from App Store. Russia's largest social media platform, VK, is a major channel for information distribution and state-backed narratives.",
-    "time": "",
-    "pubDate": "2026-06-25T10:38:27+00:00",
-    "category": "alert",
-    "severity": "medium",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53892",
-    "score": 4.0,
-    "views": 1029,
-    "forwards": 3
-  },
-  {
-    "title": "Donetsk: Oil depot in Krasnodar Krai, bridges and Skala-M radar complex hit...",
-    "title_en": "Donetsk: Oil depot in Krasnodar Krai, bridges and Skala-M radar complex hit...",
-    "title_uk": "Донецьк: нафтобаза в Краснодарському краї, уражені мости і РЛС \"Скала-М\"...",
-    "description": "Oil depot in Krasnodar Krai, bridges and Skala-M radar complex hit ⚡️As part of reducing the military and economic potential of the Russian aggressor, on the night of June 25 units of the Defense Forces of Ukraine hit the Poltavska oil depot in Krasnodar Krai, Russian Federation. 🔥Fire has been recorded on the territory of the enterprise. The object is involved in the provision of Russian troops in the occupied territories of Ukraine....",
-    "description_en": "Oil depot in Krasnodar Krai, bridges and Skala-M radar complex hit ⚡️As part of reducing the military and economic potential of the Russian aggressor, on the night of June 25 units of the Defense Forces of Ukraine hit the Poltavska oil depot in Krasnodar Krai, Russian Federation. 🔥Fire has been recorded on the territory of the enterprise. The object is involved in the provision of Russian troops in the occupied territories of Ukraine....",
-    "description_uk": "Уражено нафтобазу в Краснодарському краї, мости та радіолокаційний комплекс “Скала-М” ⚡️В рамках зниження воєнно-економічного потенціалу російського агресора у ніч на 25 червня підрозділи Сил оборони України уразили нафтобазу “Полтавська” у Краснодарському краї, рф. 🔥Зафіксовано пожежу на території підприємства. Об’єкт задіяний у забезпеченні російських військ на окупованих територіях України....",
-    "time": "",
-    "pubDate": "2026-06-25T09:31:57+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/40398",
-    "score": 5.5,
-    "views": 39477,
-    "forwards": 142
   }
 ]
