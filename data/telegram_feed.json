@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Drone attack",
+    "title_en": "Kharkiv: Drone attack",
+    "title_uk": "Харків: Атака безпілотників",
+    "description": "Attack drones on Kharkiv region from Donetsk region and Sumy region.",
+    "description_en": "Attack drones on Kharkiv region from Donetsk region and Sumy region.",
+    "description_uk": "Ударні БпЛА на Харківщину з Донеччини та Сумщини.",
+    "time": "",
+    "pubDate": "2026-06-26T23:34:20+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66533",
+    "score": 6.0,
+    "views": 924,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: Attack attack",
+    "title_en": "Kharkiv: Attack attack",
+    "title_uk": "Харків: Напад",
+    "description": "Strike BpLA in the district. n.p. Slobozhanske (Kharkiv region) heading south",
+    "description_en": "Strike BpLA in the district. n.p. Slobozhanske (Kharkiv region) heading south",
+    "description_uk": "Ударний БпЛА в р-ні. н.п. Слобожанське (Харківщина) курсом на південь",
+    "time": "",
+    "pubDate": "2026-06-26T23:03:21+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66532",
+    "score": 6.0,
+    "views": 10707,
+    "forwards": 0
+  },
+  {
     "title": "High-speed goal through Sumyshchyna in the direction of Poltava.",
     "title_en": "High-speed goal through Sumyshchyna in the direction of Poltava.",
     "title_uk": "Швидкісний гол через Сумщину в напрямку Полтави.",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53933",
     "score": 13.0,
-    "views": 842,
-    "forwards": 2
+    "views": 1193,
+    "forwards": 3
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -122,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53930",
     "score": 13.0,
-    "views": 1523,
+    "views": 1717,
     "forwards": 1
   },
   {
@@ -212,8 +248,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194637",
     "score": 8.5,
-    "views": 164102,
-    "forwards": 147
+    "views": 168793,
+    "forwards": 148
   },
   {
     "title": "Zaporizhzhia: A group of BpLA in Zaporozhye from the south and east.",
@@ -302,8 +338,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194633",
     "score": 6.5,
-    "views": 169749,
-    "forwards": 979
+    "views": 173109,
+    "forwards": 993
   },
   {
     "title": "The moment when the Russian \"Shakhed\" hit a multi-story building in...",
@@ -342,42 +378,6 @@
     "forwards": 0
   },
   {
-    "title": "Kherson: BpLA on Kherson from the south.",
-    "title_en": "Kherson: BpLA on Kherson from the south.",
-    "title_uk": "Херсон: БпЛА на Херсон з півд.",
-    "description": "BpLA on Kherson from the south.",
-    "description_en": "BpLA on Kherson from the south.",
-    "description_uk": "БпЛА на Херсон з півдня.",
-    "time": "",
-    "pubDate": "2026-06-26T11:06:28+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kherson",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66472",
-    "score": 6.0,
-    "views": 10097,
-    "forwards": 0
-  },
-  {
-    "title": "BpLA on Okhtyrka from the east.",
-    "title_en": "BpLA on Okhtyrka from the east.",
-    "title_uk": "БпЛА на Охтирку зі сх.",
-    "description": "BpLA on Okhtyrka from the east.",
-    "description_en": "BpLA on Okhtyrka from the east.",
-    "description_uk": "БпЛА на Охтирку зі сходу.",
-    "time": "",
-    "pubDate": "2026-06-26T11:04:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66471",
-    "score": 5.0,
-    "views": 12121,
-    "forwards": 0
-  },
-  {
     "title": "🙄Three more Polish politicians are returning state awards to Ukraine....",
     "title_en": "🙄Three more Polish politicians are returning state awards to Ukraine....",
     "title_uk": "🙄Ще троє польських політиків повертають Україні державні нагороди....",
@@ -410,7 +410,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23598",
     "score": 4.5,
-    "views": 105354,
+    "views": 106467,
     "forwards": 157
   },
   {
