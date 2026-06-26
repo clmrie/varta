@@ -1,5 +1,41 @@
 [
   {
+    "title": "High-speed goal through Sumyshchyna in the direction of Poltava.",
+    "title_en": "High-speed goal through Sumyshchyna in the direction of Poltava.",
+    "title_uk": "Швидкісний гол через Сумщину в напрямку Полтави.",
+    "description": "High-speed goal through Sumyshchyna in the direction of Poltava.",
+    "description_en": "High-speed goal through Sumyshchyna in the direction of Poltava.",
+    "description_uk": "Швидкісна ціль через Сумщину у напрямку Полтави.",
+    "time": "",
+    "pubDate": "2026-06-26T22:04:16+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66531",
+    "score": 10.5,
+    "views": 11154,
+    "forwards": 68
+  },
+  {
+    "title": "Chernihiv: Drone attack",
+    "title_en": "Chernihiv: Drone attack",
+    "title_uk": "Чернігів: Атака безпілотників",
+    "description": "The threat of using attack UAVs for Chernihiv, Sumy, Kharkiv and Zaporizhzhia regions.",
+    "description_en": "The threat of using attack UAVs for Chernihiv, Sumy, Kharkiv and Zaporizhzhia regions.",
+    "description_uk": "Загроза застосування ударних БпЛА для Чернігівської, Сумської, Харківської та Запорізької областей.",
+    "time": "",
+    "pubDate": "2026-06-26T21:57:38+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66530",
+    "score": 6.0,
+    "views": 15231,
+    "forwards": 0
+  },
+  {
     "title": "Nikopol: Casualties reported",
     "title_en": "Nikopol: Casualties reported",
     "title_uk": "Нікополь: повідомляється про постраждалих",
@@ -14,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53933",
     "score": 13.0,
-    "views": 364,
-    "forwards": 1
+    "views": 842,
+    "forwards": 2
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -86,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53930",
     "score": 13.0,
-    "views": 1287,
+    "views": 1523,
     "forwards": 1
   },
   {
@@ -176,8 +212,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194637",
     "score": 8.5,
-    "views": 155356,
-    "forwards": 146
+    "views": 164102,
+    "forwards": 147
   },
   {
     "title": "Zaporizhzhia: A group of BpLA in Zaporozhye from the south and east.",
@@ -266,8 +302,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194633",
     "score": 6.5,
-    "views": 163024,
-    "forwards": 919
+    "views": 169749,
+    "forwards": 979
   },
   {
     "title": "The moment when the Russian \"Shakhed\" hit a multi-story building in...",
@@ -342,24 +378,6 @@
     "forwards": 0
   },
   {
-    "title": "Large-scale changes in the work of the TCC and the rules of...",
-    "title_en": "Large-scale changes in the work of the TCC and the rules of...",
-    "title_uk": "Масштабні зміни в роботі ТКС і правилах...",
-    "description": "Large-scale changes in the work of the TCC and the rules of mobilization are planned to be launched already in July - NV source in the Ministry of Defense Now the Ministry of Defense is working on the second stage of the large-scale army reform. The launch is expected already in July, although the dates may still be adjusted.",
-    "description_en": "Large-scale changes in the work of the TCC and the rules of mobilization are planned to be launched already in July - NV source in the Ministry of Defense Now the Ministry of Defense is working on the second stage of the large-scale army reform. The launch is expected already in July, although the dates may still be adjusted.",
-    "description_uk": "Масштабные изменения в работе ТЦК и правилах мобилизации планируют запустить уже в июле, — источник NV в Минобороны Сейчас в Минобороны продолжается работа над вторым этапом масштабной армейской реформы. Запуск ожидается уже в июле, хотя сроки еще могут быть скорректированы.",
-    "time": "",
-    "pubDate": "2026-06-26T09:54:23+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/194606",
-    "score": 5.5,
-    "views": 77204,
-    "forwards": 71
-  },
-  {
     "title": "🙄Three more Polish politicians are returning state awards to Ukraine....",
     "title_en": "🙄Three more Polish politicians are returning state awards to Ukraine....",
     "title_uk": "🙄Ще троє польських політиків повертають Україні державні нагороди....",
@@ -392,7 +410,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23598",
     "score": 4.5,
-    "views": 103245,
+    "views": 105354,
     "forwards": 157
   },
   {
@@ -430,23 +448,5 @@
     "score": 16.5,
     "views": 2395,
     "forwards": 4
-  },
-  {
-    "title": "Kyiv: Update: Skelia spox confirms noncombat deaths of 25 servicemembers...",
-    "title_en": "Kyiv: Update: Skelia spox confirms noncombat deaths of 25 servicemembers...",
-    "title_uk": "Київ: Оновлення: Skelia spox підтвердила небойову загибель 25 військовослужбовців...",
-    "description": "Update: Skelia spox confirms noncombat deaths of 25 servicemembers amid investigation. The Skelia assault unit, which has reportedly suffered higher-than-average battlefield losses, came under scrutiny this week after an investigation by Ukrainian news outlet Babel published on June 23 shed light on allegations of abuse within the unit and at least 26 noncombat deaths among recruits. Skelia press...",
-    "description_en": "Update: Skelia spox confirms noncombat deaths of 25 servicemembers amid investigation. The Skelia assault unit, which has reportedly suffered higher-than-average battlefield losses, came under scrutiny this week after an investigation by Ukrainian news outlet Babel published on June 23 shed light on allegations of abuse within the unit and at least 26 noncombat deaths among recruits. Skelia press...",
-    "description_uk": "Update: Skelia spox confirms noncombat deaths of 25 servicemembers amid investigation. The Skelia assault unit, which has reportedly suffered higher-than-average battlefield losses, came under scrutiny this week after an investigation by Ukrainian news outlet Babel published on June 23 shed light on allegations of abuse within the unit and at least 26 noncombat deaths among recruits. Skelia press...",
-    "time": "",
-    "pubDate": "2026-06-25T23:19:59+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53912",
-    "score": 6.0,
-    "views": 338,
-    "forwards": 0
   }
 ]
