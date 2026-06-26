@@ -1,21 +1,57 @@
 [
   {
+    "title": "Nikopol: Casualties reported",
+    "title_en": "Nikopol: Casualties reported",
+    "title_uk": "Нікополь: повідомляється про постраждалих",
+    "description": "Russian drone targets civilian minibus in Nikopol, killing 2, injuring at least 12. A Russian drone struck a civilian minibus in Ukraine's Dnipropetrovsk Oblast on June 26, killing two people and injuring at least 12 others, including two children.",
+    "description_en": "Russian drone targets civilian minibus in Nikopol, killing 2, injuring at least 12. A Russian drone struck a civilian minibus in Ukraine's Dnipropetrovsk Oblast on June 26, killing two people and injuring at least 12 others, including two children.",
+    "description_uk": "Russian drone targets civilian minibus in Nikopol, killing 2, injuring at least 12. A Russian drone struck a civilian minibus in Ukraine's Dnipropetrovsk Oblast on June 26, killing two people and injuring at least 12 others, including two children.",
+    "time": "",
+    "pubDate": "2026-06-26T20:34:57+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Nikopol",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53933",
+    "score": 13.0,
+    "views": 364,
+    "forwards": 1
+  },
+  {
     "title": "Zaporizhzhia: Drone incoming",
     "title_en": "Zaporizhzhia: Drone incoming",
     "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "Groups of attack UAVs from the southwest in the city of Zaporizhzhia.",
-    "description_en": "Groups of attack UAVs from the southwest in the city of Zaporizhzhia.",
-    "description_uk": "Групи ударних БпЛА з південного заходу на м. Запоріжжя.",
+    "description": "Strike drones attack Zaporozhye from the east and south.",
+    "description_en": "Strike drones attack Zaporozhye from the east and south.",
+    "description_uk": "Ударні БпЛА на Запоріжжя зі сходу та півдня.",
     "time": "",
-    "pubDate": "2026-06-26T19:07:38+00:00",
+    "pubDate": "2026-06-26T20:08:22+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Zaporizhzhia",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66524",
+    "link": "https://t.me/kpszsu/66526",
     "score": 6.0,
-    "views": 7072,
+    "views": 39515,
     "forwards": 0
+  },
+  {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "Strike UAV on the border of Chernihiv and Sumy regions heading for Poltava region.",
+    "description_en": "Strike UAV on the border of Chernihiv and Sumy regions heading for Poltava region.",
+    "description_uk": "Ударний БпЛА на межі Чернігівської та Сумської областей курсом на Полтавщину.",
+    "time": "",
+    "pubDate": "2026-06-26T19:55:37+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66525",
+    "score": 6.0,
+    "views": 52675,
+    "forwards": 1
   },
   {
     "title": "Drone incoming",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53930",
     "score": 13.0,
-    "views": 736,
+    "views": 1287,
     "forwards": 1
   },
   {
@@ -140,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194637",
     "score": 8.5,
-    "views": 130574,
-    "forwards": 112
+    "views": 155356,
+    "forwards": 146
   },
   {
     "title": "Zaporizhzhia: A group of BpLA in Zaporozhye from the south and east.",
@@ -230,8 +266,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194633",
     "score": 6.5,
-    "views": 144796,
-    "forwards": 841
+    "views": 163024,
+    "forwards": 919
   },
   {
     "title": "The moment when the Russian \"Shakhed\" hit a multi-story building in...",
@@ -356,44 +392,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23598",
     "score": 4.5,
-    "views": 98346,
-    "forwards": 152
-  },
-  {
-    "title": "Kharkiv: BpLA on Kharkiv, Velikiy Burluk from the north.",
-    "title_en": "Kharkiv: BpLA on Kharkiv, Velikiy Burluk from the north.",
-    "title_uk": "Харків: БпЛА на Харків, Великий Бурлук з півночі.",
-    "description": "BpLA on Kharkiv, Velikiy Burluk from the north.",
-    "description_en": "BpLA on Kharkiv, Velikiy Burluk from the north.",
-    "description_uk": "БпЛА на Харків, Великий Бурлук з півночі.",
-    "time": "",
-    "pubDate": "2026-06-26T08:03:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66461",
-    "score": 6.0,
-    "views": 1,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
-    "description": "BpLA on Zaporozhye from the south.",
-    "description_en": "BpLA on Zaporozhye from the south.",
-    "description_uk": "БпЛА на Запоріжжя з півдня.",
-    "time": "",
-    "pubDate": "2026-06-26T07:47:41+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66457",
-    "score": 6.0,
-    "views": 23248,
-    "forwards": 0
+    "views": 103245,
+    "forwards": 157
   },
   {
     "title": "Donetsk: Drone incoming",
