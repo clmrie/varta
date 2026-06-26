@@ -1,5 +1,59 @@
 [
   {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "Groups of attack UAVs from the southwest in the city of Zaporizhzhia.",
+    "description_en": "Groups of attack UAVs from the southwest in the city of Zaporizhzhia.",
+    "description_uk": "Групи ударних БпЛА з південного заходу на м. Запоріжжя.",
+    "time": "",
+    "pubDate": "2026-06-26T19:07:38+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66524",
+    "score": 6.0,
+    "views": 7072,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A jet UAV on Bogodukhiv from the north.",
+    "description_en": "A jet UAV on Bogodukhiv from the north.",
+    "description_uk": "Реактивний БпЛА на Богодухів з півночі.",
+    "time": "",
+    "pubDate": "2026-06-26T18:42:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66522",
+    "score": 5.0,
+    "views": 35420,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: It is official: thanks to readers around the world, we have just hit...",
+    "title_en": "Kyiv: It is official: thanks to readers around the world, we have just hit...",
+    "title_uk": "Київ: Офіційно: завдяки читачам у всьому світі ми щойно потрапили...",
+    "description": "It is official: thanks to readers around the world, we have just hit our biggest membership goal yet. In May, the Kyiv Independent launched its largest membership drive to date, aiming to bring 4,000 new readers into its community. That target has now been met. We've crossed the finish line worldwide, but not yet in the US — and the last stretch counts more than ever. Not yet a member? Join us or...",
+    "description_en": "It is official: thanks to readers around the world, we have just hit our biggest membership goal yet. In May, the Kyiv Independent launched its largest membership drive to date, aiming to bring 4,000 new readers into its community. That target has now been met. We've crossed the finish line worldwide, but not yet in the US — and the last stretch counts more than ever. Not yet a member? Join us or...",
+    "description_uk": "It is official: thanks to readers around the world, we have just hit our biggest membership goal yet. In May, the Kyiv Independent launched its largest membership drive to date, aiming to bring 4,000 new readers into its community. That target has now been met. We've crossed the finish line worldwide, but not yet in the US — and the last stretch counts more than ever. Not yet a member? Join us or...",
+    "time": "",
+    "pubDate": "2026-06-26T18:04:51+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53930",
+    "score": 13.0,
+    "views": 736,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_uk": "Харків: БпЛА на Харків з півночі.",
@@ -50,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53927",
     "score": 6.0,
-    "views": 438,
+    "views": 1147,
     "forwards": 1
   },
   {
@@ -86,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194637",
     "score": 8.5,
-    "views": 87472,
-    "forwards": 74
+    "views": 130574,
+    "forwards": 112
   },
   {
     "title": "Zaporizhzhia: A group of BpLA in Zaporozhye from the south and east.",
@@ -176,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194633",
     "score": 6.5,
-    "views": 119002,
-    "forwards": 690
+    "views": 144796,
+    "forwards": 841
   },
   {
     "title": "The moment when the Russian \"Shakhed\" hit a multi-story building in...",
@@ -302,8 +356,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23598",
     "score": 4.5,
-    "views": 92334,
-    "forwards": 140
+    "views": 98346,
+    "forwards": 152
   },
   {
     "title": "Kharkiv: BpLA on Kharkiv, Velikiy Burluk from the north.",
@@ -394,59 +448,5 @@
     "score": 6.0,
     "views": 338,
     "forwards": 0
-  },
-  {
-    "title": "Poltava: Ballistic missile launch detected",
-    "title_en": "Poltava: Ballistic missile launch detected",
-    "title_uk": "Полтава: виявлено пуск балістичної ракети",
-    "description": "Russia launches fresh ballistic missile attack against Kyiv. At least two people in the capital have been injured and a fire broke out in the Darnytskyi district, Kyiv Mayor Vitali Klitschko reported. Explosions have also been heard in Kremenchuk, Poltava Oblast, during Russia's attack. Photo: Ukraine's State Emergency Service / Telegram",
-    "description_en": "Russia launches fresh ballistic missile attack against Kyiv. At least two people in the capital have been injured and a fire broke out in the Darnytskyi district, Kyiv Mayor Vitali Klitschko reported. Explosions have also been heard in Kremenchuk, Poltava Oblast, during Russia's attack. Photo: Ukraine's State Emergency Service / Telegram",
-    "description_uk": "Russia launches fresh ballistic missile attack against Kyiv. At least two people in the capital have been injured and a fire broke out in the Darnytskyi district, Kyiv Mayor Vitali Klitschko reported. Explosions have also been heard in Kremenchuk, Poltava Oblast, during Russia's attack. Photo: Ukraine's State Emergency Service / Telegram",
-    "time": "",
-    "pubDate": "2026-06-25T22:33:11+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Poltava",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53911",
-    "score": 15.0,
-    "views": 692,
-    "forwards": 4
-  },
-  {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
-    "description": "Ukraine's wartime action thriller 'Killhouse' reaches global audience on Netflix Few scenes hit as hard in \"Killhouse\" as when Ukrainian soldiers decide to launch a high-risk mission to rescue a near-death civilian from the gray zone, a territory sandwiched between Ukrainian and Russian lines. As Russia's war against Ukraine rages on, and as Ukrainians are forced to make difficult choices and...",
-    "description_en": "Ukraine's wartime action thriller 'Killhouse' reaches global audience on Netflix Few scenes hit as hard in \"Killhouse\" as when Ukrainian soldiers decide to launch a high-risk mission to rescue a near-death civilian from the gray zone, a territory sandwiched between Ukrainian and Russian lines. As Russia's war against Ukraine rages on, and as Ukrainians are forced to make difficult choices and...",
-    "description_uk": "Ukraine's wartime action thriller 'Killhouse' reaches global audience on Netflix Few scenes hit as hard in \"Killhouse\" as when Ukrainian soldiers decide to launch a high-risk mission to rescue a near-death civilian from the gray zone, a territory sandwiched between Ukrainian and Russian lines. As Russia's war against Ukraine rages on, and as Ukrainians are forced to make difficult choices and...",
-    "time": "",
-    "pubDate": "2026-06-25T20:11:37+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53908",
-    "score": 23.5,
-    "views": 792,
-    "forwards": 3
-  },
-  {
-    "title": "Energy infrastructure hit",
-    "title_en": "Energy infrastructure hit",
-    "title_uk": "Поразка енергетичної інфраструктури",
-    "description": "The largest refinery \"Lukoil\" stopped after the attack of drones, - Reuters The agency reports with reference to two sources in the industry that NORSY in the Nizhny Novgorod region stopped oil processing after the attack of Ukrainian UAVs. This is the fourth refinery in Russia in terms of capacity and the second in terms of gasoline production. After the attack, the primary processing plant, which provides about a quarter of the power, was damaged there...",
-    "description_en": "The largest refinery \"Lukoil\" stopped after the attack of drones, - Reuters The agency reports with reference to two sources in the industry that NORSY in the Nizhny Novgorod region stopped oil processing after the attack of Ukrainian UAVs. This is the fourth refinery in Russia in terms of capacity and the second in terms of gasoline production. After the attack, the primary processing plant, which provides about a quarter of the power, was damaged there...",
-    "description_uk": "Крупнейший НПЗ \"Лукойла\" остановился после атаки дронов, - Reuters Агентство со ссылкой на два источника в отрасли сообщает, что НОРСИ в Нижегородской области остановил переработку нефти после удара украинских БПЛА. Это четвертый по мощности НПЗ в россии и второй по производству бензина. После атаки там повреждена установка первичной переработки, которая обеспечивает около четверти мощности...",
-    "time": "",
-    "pubDate": "2026-06-25T19:10:12+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/194569",
-    "score": 10.5,
-    "views": 172980,
-    "forwards": 318
   }
 ]
