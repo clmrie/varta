@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kharkiv: BpLA on Kharkiv, Velikiy Burluk from the north.",
+    "title_en": "Kharkiv: BpLA on Kharkiv, Velikiy Burluk from the north.",
+    "title_uk": "Харків: БпЛА на Харків, Великий Бурлук з півночі.",
+    "description": "BpLA on Kharkiv, Velikiy Burluk from the north.",
+    "description_en": "BpLA on Kharkiv, Velikiy Burluk from the north.",
+    "description_uk": "БпЛА на Харків, Великий Бурлук з півночі.",
+    "time": "",
+    "pubDate": "2026-06-26T08:03:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66461",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
+    "description": "BpLA on Zaporozhye from the south.",
+    "description_en": "BpLA on Zaporozhye from the south.",
+    "description_uk": "БпЛА на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-06-26T07:47:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66457",
+    "score": 6.0,
+    "views": 23248,
+    "forwards": 0
+  },
+  {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "177 TARGETS DOWN/SUPPRESSED On the night of June 26 (from 18:00 on June 25), the enemy attacked with 7 Iskander-M ballistic missiles (in Kyiv region and Poltava region) from Bryansk, Kursk region, Russian Federation, and 189 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and simulator drones of the type \"Parody\" from the directions: Kursk, Orel, Bryansk, Primorsko-Akhtarsk - Russian Federation, Donetsk - TOT, Gvardiyske - TOT AR Crimea...",
+    "description_en": "177 TARGETS DOWN/SUPPRESSED On the night of June 26 (from 18:00 on June 25), the enemy attacked with 7 Iskander-M ballistic missiles (in Kyiv region and Poltava region) from Bryansk, Kursk region, Russian Federation, and 189 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and simulator drones of the type \"Parody\" from the directions: Kursk, Orel, Bryansk, Primorsko-Akhtarsk - Russian Federation, Donetsk - TOT, Gvardiyske - TOT AR Crimea...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 177 ЦІЛЕЙ У ніч на 26 червня (з 18:00 25 червня) противник атакував 7 балістичними ракетами Іскандер-М (по Київщині та Полтавщині) з Брянської, Курської обл., рф, та 189 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас, та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Орел, Брянськ, Приморсько-Ахтарськ – рф., Донецьк – ТОТ, Гвардійське – ТОТ АР Крим....",
+    "time": "",
+    "pubDate": "2026-06-26T06:13:32+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/40419",
+    "score": 13.0,
+    "views": 3813,
+    "forwards": 12
+  },
+  {
     "title": "Kyiv: Drone attack on infrastructure",
     "title_en": "Kyiv: Drone attack on infrastructure",
     "title_uk": "Київ: атака безпілотників на інфраструктуру",
@@ -14,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53915",
     "score": 16.5,
-    "views": 272,
-    "forwards": 1
+    "views": 1524,
+    "forwards": 4
   },
   {
     "title": "Sumy: BpLA on Sumy from the northeast",
@@ -68,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53913",
     "score": 9.0,
-    "views": 852,
-    "forwards": 1
+    "views": 1878,
+    "forwards": 4
   },
   {
     "title": "Zaporizhzhia: BpLA in Zaporozhye from the south.",
@@ -234,24 +288,6 @@
     "forwards": 3
   },
   {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на південному сході...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-06-25T19:12:06+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66392",
-    "score": 5.0,
-    "views": 13146,
-    "forwards": 1
-  },
-  {
     "title": "Energy infrastructure hit",
     "title_en": "Energy infrastructure hit",
     "title_uk": "Поразка енергетичної інфраструктури",
@@ -270,96 +306,6 @@
     "forwards": 318
   },
   {
-    "title": "Kharkiv: BpLA headed for the city of Kharkiv from the northeast.",
-    "title_en": "Kharkiv: BpLA headed for the city of Kharkiv from the northeast.",
-    "title_uk": "Харків: BpLA прямувала на м. Харків з північного сходу.",
-    "description": "BpLA headed for the city of Kharkiv from the northeast.",
-    "description_en": "BpLA headed for the city of Kharkiv from the northeast.",
-    "description_uk": "БпЛА курсом на м.Харків з північного сходу.",
-    "time": "",
-    "pubDate": "2026-06-25T19:06:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66389",
-    "score": 6.0,
-    "views": 27334,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Attack attack",
-    "title_en": "Kyiv: Attack attack",
-    "title_uk": "Київ: Атака",
-    "description": "Top 5 Ukrainian deep strikes inside Russia in May — And how they're making Russians doubt Putin \"In May alone, Ukraine carried out 16 strikes on Russian oil refineries — a monthly record since the start of the full-scale war, Bloomberg calculated,\" writes Liubov Tsybulska, Director of Join Ukraine, in her op-ed. \"These strikes alone will not change the regime or stop the war. But they are...",
-    "description_en": "Top 5 Ukrainian deep strikes inside Russia in May — And how they're making Russians doubt Putin \"In May alone, Ukraine carried out 16 strikes on Russian oil refineries — a monthly record since the start of the full-scale war, Bloomberg calculated,\" writes Liubov Tsybulska, Director of Join Ukraine, in her op-ed. \"These strikes alone will not change the regime or stop the war. But they are...",
-    "description_uk": "Top 5 Ukrainian deep strikes inside Russia in May — And how they're making Russians doubt Putin \"In May alone, Ukraine carried out 16 strikes on Russian oil refineries — a monthly record since the start of the full-scale war, Bloomberg calculated,\" writes Liubov Tsybulska, Director of Join Ukraine, in her op-ed. \"These strikes alone will not change the regime or stop the war. But they are...",
-    "time": "",
-    "pubDate": "2026-06-25T18:26:03+00:00",
-    "category": "political",
-    "severity": "medium",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53905",
-    "score": 4.0,
-    "views": 789,
-    "forwards": 4
-  },
-  {
-    "title": "Crimea: Drone strike",
-    "title_en": "Crimea: Drone strike",
-    "title_uk": "Крим: удар безпілотника",
-    "description": "Ukraine turns to strangling Russian logistics in Crimea — and it's working Crimea is under an effective siege as Ukraine has been systematically isolating the occupied peninsula with a multipronged campaign of drone strikes. \"Hell is beginning,\" Ukrainian Defense Minister Mykhailo Fedorov said in a June 17 interview. Ukrainian strikes on Crimea are not new, but the current campaign marks a shift...",
-    "description_en": "Ukraine turns to strangling Russian logistics in Crimea — and it's working Crimea is under an effective siege as Ukraine has been systematically isolating the occupied peninsula with a multipronged campaign of drone strikes. \"Hell is beginning,\" Ukrainian Defense Minister Mykhailo Fedorov said in a June 17 interview. Ukrainian strikes on Crimea are not new, but the current campaign marks a shift...",
-    "description_uk": "Ukraine turns to strangling Russian logistics in Crimea — and it's working Crimea is under an effective siege as Ukraine has been systematically isolating the occupied peninsula with a multipronged campaign of drone strikes. \"Hell is beginning,\" Ukrainian Defense Minister Mykhailo Fedorov said in a June 17 interview. Ukrainian strikes on Crimea are not new, but the current campaign marks a shift...",
-    "time": "",
-    "pubDate": "2026-06-25T17:37:30+00:00",
-    "category": "drone",
-    "severity": "medium",
-    "location": "Crimea",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53904",
-    "score": 4.0,
-    "views": 1132,
-    "forwards": 4
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV in the direction of Sumy from the east",
-    "description_en": "UAV in the direction of Sumy from the east",
-    "description_uk": "БпЛА у напрямку Сум зі сходу",
-    "time": "",
-    "pubDate": "2026-06-25T17:07:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66361",
-    "score": 5.0,
-    "views": 1,
-    "forwards": 0
-  },
-  {
-    "title": "Dnipro: Unmanned aerial vehicle in the direction of Synelnikov in...",
-    "title_en": "Dnipro: Unmanned aerial vehicle in the direction of Synelnikov in...",
-    "title_uk": "Дніпро: БПЛА в напрямку Синельникова в...",
-    "description": "Unmanned aerial vehicle in the direction of Synelnikov in Dnipropetrovsk region from the northeast",
-    "description_en": "Unmanned aerial vehicle in the direction of Synelnikov in Dnipropetrovsk region from the northeast",
-    "description_uk": "БпЛА у напрямку Синельникова на Дніпропетровщині з північного сходу",
-    "time": "",
-    "pubDate": "2026-06-25T16:53:58+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66360",
-    "score": 6.0,
-    "views": 16194,
-    "forwards": 0
-  },
-  {
     "title": "Drone attack",
     "title_en": "Drone attack",
     "title_uk": "Атака безпілотників",
@@ -374,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19612",
     "score": 7.5,
-    "views": 80539,
-    "forwards": 106
+    "views": 89515,
+    "forwards": 113
   },
   {
     "title": "Kherson: Drone incoming",
@@ -392,8 +338,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23595",
     "score": 7.5,
-    "views": 230146,
-    "forwards": 1681
+    "views": 243596,
+    "forwards": 1734
   },
   {
     "title": "😈 The Defense Forces continue to impose sanctions against Moscow: for...",
@@ -410,26 +356,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23593",
     "score": 5.5,
-    "views": 146168,
-    "forwards": 167
-  },
-  {
-    "title": "The results of the damage to the \"Vladimir\" CCS and the Orenburg GPP...",
-    "title_en": "The results of the damage to the \"Vladimir\" CCS and the Orenburg GPP...",
-    "title_uk": "Результати пошкодження ЦКС «Володимир» і Оренбурзького ГПЗ...",
-    "description": "The results of the damage to the \"Vladimir\" CCS and the Orenburg GPP ⚡️In the course of data analysis, the results of the damage on the night of June 22 by units of the Defense Forces of Ukraine of the \"Vladimir\" Space Communications Center (CSC) in the Gus-Khrustalny district of the Vladimir region of the Russian Federation were confirmed. ✅Yes, the main antenna of the complex (25-meter parabolic antenna) and the antenna on the roof of the Main Hardware and Software...",
-    "description_en": "The results of the damage to the \"Vladimir\" CCS and the Orenburg GPP ⚡️In the course of data analysis, the results of the damage on the night of June 22 by units of the Defense Forces of Ukraine of the \"Vladimir\" Space Communications Center (CSC) in the Gus-Khrustalny district of the Vladimir region of the Russian Federation were confirmed. ✅Yes, the main antenna of the complex (25-meter parabolic antenna) and the antenna on the roof of the Main Hardware and Software...",
-    "description_uk": "Результати уражень ЦКС \"Владимир\" та Оренбурзького ГПЗ ⚡️У ході аналізу даних підтверджено результати ураження у ніч на 22 червня підрозділами Сил оборони України Центру космічного зв'язку (ЦКС) \"Владимир\" у районі Гусь-Хрустального Владімірської області рф. ✅Так, критично ушкоджено головну антену комплексу (25-метрова параболічна антена) та антену на даху Головного апаратно-програмного...",
-    "time": "",
-    "pubDate": "2026-06-25T11:08:29+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/40399",
-    "score": 8.0,
-    "views": 23936,
-    "forwards": 103
+    "views": 152237,
+    "forwards": 170
   },
   {
     "title": "Donetsk: Oil depot in Krasnodar Krai, bridges and Skala-M radar complex hit...",
@@ -448,5 +376,23 @@
     "score": 5.5,
     "views": 41669,
     "forwards": 143
+  },
+  {
+    "title": "Attack attack",
+    "title_en": "Attack attack",
+    "title_uk": "Атака нападу",
+    "description": "Our long-range operations are consistent, accurate responses to Russia's protracted war and strikes on Ukrainian cities and communities. Tonight, units of the Defense Forces hit the \"Poltavska\" oil depot in the Krasnodar region. The distance to the target is about 300 kilometers from the front line. In the morning, the SBU hit two refineries in Ufa - \"Bashneft-Ufaneftekhim\" and \"Bashneft-Novoil\". It is 1500 kilometers from...",
+    "description_en": "Our long-range operations are consistent, accurate responses to Russia's protracted war and strikes on Ukrainian cities and communities. Tonight, units of the Defense Forces hit the \"Poltavska\" oil depot in the Krasnodar region. The distance to the target is about 300 kilometers from the front line. In the morning, the SBU hit two refineries in Ufa - \"Bashneft-Ufaneftekhim\" and \"Bashneft-Novoil\". It is 1500 kilometers from...",
+    "description_uk": "Наші далекобійні операції – це послідовні точні відповіді на затягування Росією війни та удари по українських містах і громадах. Сьогодні вночі підрозділи Сил оборони уразили нафтобазу «Полтавська» у Краснодарському регіоні. Відстань до цілі – близько 300 кілометрів від лінії фронту. Вранці було влучання СБУ по двох НПЗ в Уфі – «Башнефть-Уфанефтехим» і «Башнефть-Новойл». Це 1500 кілометрів від...",
+    "time": "",
+    "pubDate": "2026-06-25T09:14:02+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/19606",
+    "score": 5.5,
+    "views": 180144,
+    "forwards": 410
   }
 ]
