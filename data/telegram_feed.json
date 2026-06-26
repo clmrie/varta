@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_uk": "Харків: БпЛА на Харків з півночі.",
+    "description": "BpLA on Kharkiv from the north.",
+    "description_en": "BpLA on Kharkiv from the north.",
+    "description_uk": "БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-06-26T13:07:31+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66485",
+    "score": 6.0,
+    "views": 21212,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "Jet UAV from Zaporizhzhya region ➡️ to Dnipropetrovsk region, heading to Krynychki, Kamianske.",
+    "description_en": "Jet UAV from Zaporizhzhya region ➡️ to Dnipropetrovsk region, heading to Krynychki, Kamianske.",
+    "description_uk": "Реактивний БпЛА із Запорізької області ➡️ на Дніпропетровщину, курсом на Кринички, Кам’янське.",
+    "time": "",
+    "pubDate": "2026-06-26T13:07:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66484",
+    "score": 6.0,
+    "views": 22225,
+    "forwards": 0
+  },
+  {
     "title": "Kherson: BpLA on Kherson from the south.",
     "title_en": "Kherson: BpLA on Kherson from the south.",
     "title_uk": "Херсон: БпЛА на Херсон з півд.",
@@ -86,8 +122,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23598",
     "score": 4.5,
-    "views": 61714,
-    "forwards": 91
+    "views": 76475,
+    "forwards": 109
   },
   {
     "title": "Kharkiv: BpLA on Kharkiv, Velikiy Burluk from the north.",
@@ -158,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53915",
     "score": 16.5,
-    "views": 2111,
+    "views": 2395,
     "forwards": 4
   },
   {
@@ -212,44 +248,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53913",
     "score": 9.0,
-    "views": 2332,
+    "views": 2530,
     "forwards": 4
-  },
-  {
-    "title": "Zaporizhzhia: BpLA in Zaporozhye from the south.",
-    "title_en": "Zaporizhzhia: BpLA in Zaporozhye from the south.",
-    "title_uk": "Запоріжжя: БпЛА в Запоріжжі з півд.",
-    "description": "BpLA in Zaporozhye from the south.",
-    "description_en": "BpLA in Zaporozhye from the south.",
-    "description_uk": "БпЛА на м.Запоріжжя з півдня.",
-    "time": "",
-    "pubDate": "2026-06-25T23:57:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66417",
-    "score": 6.0,
-    "views": 14115,
-    "forwards": 0
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ Ballistics Threat (Northeast)",
-    "description_en": "☄️ Ballistics Threat (Northeast)",
-    "description_uk": "☄️ Загроза балістики (північний схід)",
-    "time": "",
-    "pubDate": "2026-06-25T23:53:59+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66416",
-    "score": 5.0,
-    "views": 27657,
-    "forwards": 23
   },
   {
     "title": "Kyiv: Update: Skelia spox confirms noncombat deaths of 25 servicemembers...",
@@ -338,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19612",
     "score": 7.5,
-    "views": 94235,
+    "views": 98282,
     "forwards": 114
   },
   {
@@ -356,8 +356,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23595",
     "score": 7.5,
-    "views": 250789,
-    "forwards": 1761
+    "views": 253912,
+    "forwards": 1774
   },
   {
     "title": "Attack attack",
@@ -374,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19606",
     "score": 5.5,
-    "views": 183373,
-    "forwards": 414
+    "views": 185433,
+    "forwards": 416
   }
 ]
