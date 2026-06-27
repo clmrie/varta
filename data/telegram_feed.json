@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zaporizhzhia: Drone strike near civilians",
+    "title_en": "Zaporizhzhia: Drone strike near civilians",
+    "title_uk": "Запоріжжя: обстріл безпілотників поблизу мирних жителів",
+    "description": "During this week, 15 of our regions were attacked by Russia. Almost daily shelling of Kherson, Zaporizhzhia, Kharkiv and Sumy. The Russians use various types of weapons to attack people, ordinary residential buildings, and our civil infrastructure. Unfortunately, almost every day there are victims of this terror. And the threat of these Russian attacks remains constant. During the week alone, there were about 1,400 strike drones, almost 1,500...",
+    "description_en": "During this week, 15 of our regions were attacked by Russia. Almost daily shelling of Kherson, Zaporizhzhia, Kharkiv and Sumy. The Russians use various types of weapons to attack people, ordinary residential buildings, and our civil infrastructure. Unfortunately, almost every day there are victims of this terror. And the threat of these Russian attacks remains constant. During the week alone, there were about 1,400 strike drones, almost 1,500...",
+    "description_uk": "За цей тиждень 15 наших областей були під ударами Росії. Практично щоденні обстріли Херсона, Запоріжжя, Харкова та Сум. Різними типами зброї росіяни бʼють по людях, звичайних житлових будинках, по нашій цивільній інфраструктурі. На жаль, майже щодня є постраждалі від цього терору. І загроза цих російських атак залишається постійною. Лише впродовж тижня було близько 1400 ударних дронів, майже 1500...",
+    "time": "",
+    "pubDate": "2026-06-27T09:01:24+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Zaporizhzhia",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/19650",
+    "score": 9.5,
+    "views": 54963,
+    "forwards": 140
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAV ➡️ heading for Myrhorod/Veliky Sorochyntsi.",
+    "description_en": "Jet UAV ➡️ heading for Myrhorod/Veliky Sorochyntsi.",
+    "description_uk": "Реактивний БпЛА ➡️ курсом на Миргород/Великі Сорочинці.",
+    "time": "",
+    "pubDate": "2026-06-27T08:37:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66564",
+    "score": 5.0,
+    "views": 55637,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Missile attack on residential area",
     "title_en": "Kyiv: Missile attack on residential area",
     "title_uk": "Київ: Ракетний обстріл житлового кварталу",
@@ -14,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53938",
     "score": 5.0,
-    "views": 223,
-    "forwards": 1
+    "views": 1016,
+    "forwards": 3
   },
   {
     "title": "Drone strike",
@@ -31,9 +67,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194664",
-    "score": 4.5,
-    "views": 34357,
-    "forwards": 145
+    "score": 5.5,
+    "views": 112742,
+    "forwards": 286
   },
   {
     "title": "Missile launch detected",
@@ -50,8 +86,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19649",
     "score": 5.5,
-    "views": 58198,
-    "forwards": 312
+    "views": 168269,
+    "forwards": 590
   },
   {
     "title": "The head of the Polish Foreign Ministry said that Nawrocki's decision...",
@@ -68,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194663",
     "score": 5.5,
-    "views": 40860,
-    "forwards": 76
+    "views": 112785,
+    "forwards": 155
   },
   {
     "title": "Poltava region: jet UAV ➡️ course to Myrhorod/Veliky Sorochyntsi.",
@@ -90,24 +126,6 @@
     "forwards": 34
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAV through Sumy Region ➡️ in the direction of Poltava Region.",
-    "description_en": "Jet UAV through Sumy Region ➡️ in the direction of Poltava Region.",
-    "description_uk": "Реактивний БпЛА через Сумщину ➡️ у напрямку Полтавщини.",
-    "time": "",
-    "pubDate": "2026-06-27T07:26:25+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66559",
-    "score": 5.0,
-    "views": 33386,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Київ: виявлено пуск балістичної ракети",
@@ -122,15 +140,15 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53936",
     "score": 6.0,
-    "views": 623,
-    "forwards": 1
+    "views": 1198,
+    "forwards": 3
   },
   {
     "title": "Donetsk: Drone incoming",
     "title_en": "Donetsk: Drone incoming",
     "title_uk": "Донецьк: Дрон вхід",
-    "description": "113 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of June 27 (from 18:00 on June 26), the enemy attacked 129 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and Parody type drones from the directions: Kursk, Bryansk, Millerovo, Orel, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT Autonomous Republic of Crimea, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile forces, units of the Reb...",
-    "description_en": "113 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of June 27 (from 18:00 on June 26), the enemy attacked 129 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and Parody type drones from the directions: Kursk, Bryansk, Millerovo, Orel, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT Autonomous Republic of Crimea, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile forces, units of the Reb...",
+    "description": "113 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of June 27 (from 18:00 on June 26), the enemy attacked 129 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and parody drones of the \"Parody\" type from the directions: Kursk, Bryansk, Millerovo, Orel, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT Autonomous Republic of Crimea, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile troops, units of the Reb...",
+    "description_en": "113 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of June 27 (from 18:00 on June 26), the enemy attacked 129 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and parody drones of the \"Parody\" type from the directions: Kursk, Bryansk, Millerovo, Orel, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT Autonomous Republic of Crimea, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile troops, units of the Reb...",
     "description_uk": "ЗБИТО/ПОДАВЛЕНО 113 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 27 червня (з 18:00 26 червня) противник атакував 129 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Брянськ, Міллерово, Орел, Приморсько-Ахтарськ – рф, Гвардійське – ТОТ АР Крим, ТОТ Донецьк. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ...",
     "time": "",
     "pubDate": "2026-06-27T05:43:11+00:00",
@@ -140,8 +158,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40468",
     "score": 10.0,
-    "views": 4681,
-    "forwards": 12
+    "views": 6389,
+    "forwards": 16
   },
   {
     "title": "😳 The death toll after the earthquake in Venezuela exceeded 900...",
@@ -306,24 +324,6 @@
     "forwards": 68
   },
   {
-    "title": "Chernihiv: Drone attack",
-    "title_en": "Chernihiv: Drone attack",
-    "title_uk": "Чернігів: Атака безпілотників",
-    "description": "The threat of using attack UAVs for Chernihiv, Sumy, Kharkiv and Zaporizhzhia regions.",
-    "description_en": "The threat of using attack UAVs for Chernihiv, Sumy, Kharkiv and Zaporizhzhia regions.",
-    "description_uk": "Загроза застосування ударних БпЛА для Чернігівської, Сумської, Харківської та Запорізької областей.",
-    "time": "",
-    "pubDate": "2026-06-26T21:57:38+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66530",
-    "score": 6.0,
-    "views": 15231,
-    "forwards": 0
-  },
-  {
     "title": "Nikopol: Casualties reported",
     "title_en": "Nikopol: Casualties reported",
     "title_uk": "Нікополь: повідомляється про постраждалих",
@@ -414,24 +414,6 @@
     "forwards": 186
   },
   {
-    "title": "🙄Three more Polish politicians are returning state awards to Ukraine....",
-    "title_en": "🙄Three more Polish politicians are returning state awards to Ukraine....",
-    "title_uk": "🙄Ще троє польських політиків повертають Україні державні нагороди....",
-    "description": "🙄Three more Polish politicians are returning state awards to Ukraine. These are former Marshal of the Sejm Marek Kuchcinski, ex-Minister of Defense Mariusz Blaszczak, and former Head of the Ministry of Foreign Affairs Zbigniew Rau. They explained their decision as \"respect for the victims of the Volyn tragedy\", support for the President of Poland, Karol Nawrocki, and protest against the actions of Ukrainian political elites.",
-    "description_en": "🙄Three more Polish politicians are returning state awards to Ukraine. These are former Marshal of the Sejm Marek Kuchcinski, ex-Minister of Defense Mariusz Blaszczak, and former Head of the Ministry of Foreign Affairs Zbigniew Rau. They explained their decision as \"respect for the victims of the Volyn tragedy\", support for the President of Poland, Karol Nawrocki, and protest against the actions of Ukrainian political elites.",
-    "description_uk": "🙄Еще трое польских политиков возвращают Украине государственные награды Речь идет о бывшем маршале Сейма Мареке Кухциньском, экс-министре обороны Мариуше Блащаке и бывшем главе МИД Збигневе Рау. Свое решение они объяснили «уважением к жертвам Волынской трагедии», поддержкой президента Польши Кароля Навроцкого и протестом против действий украинских политических элит.",
-    "time": "",
-    "pubDate": "2026-06-26T09:28:44+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/194604",
-    "score": 5.5,
-    "views": 92097,
-    "forwards": 149
-  },
-  {
     "title": "🐴 BBS \"STRIX\" 47 OMBr destroys the enemy SZV BM-21 \"Grad\" near DKU 🔥...",
     "title_en": "🐴 BBS \"STRIX\" 47 OMBr destroys the enemy SZV BM-21 \"Grad\" near DKU 🔥...",
     "title_uk": "🐴 ББС «СТРИКС» 47 ОМБр знищує ворожу СЗВ БМ-21 «Град» біля ДКУ 🔥...",
@@ -446,7 +428,25 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23598",
     "score": 4.5,
-    "views": 115363,
-    "forwards": 164
+    "views": 117954,
+    "forwards": 165
+  },
+  {
+    "title": "Kherson: Drone incoming",
+    "title_en": "Kherson: Drone incoming",
+    "title_uk": "Херсон: Дрон вхід",
+    "description": "The Kinburn Spit, the offensive of the Armed Forces and the retreat of the Muscovites 🌐 There is a heated discussion on the Internet today about the events on the Kinburn Spit, but this discussion is overgrown with irrelevant facts. 🚫 To date, there is no confirmation about the active departure of katsaps from the spit. Moreover, the enemy continues to use the terrain for launching \"Molniya\" UAVs in the direction of Mykolaiv and Kherson and has other means in the form of EW and...",
+    "description_en": "The Kinburn Spit, the offensive of the Armed Forces and the retreat of the Muscovites 🌐 There is a heated discussion on the Internet today about the events on the Kinburn Spit, but this discussion is overgrown with irrelevant facts. 🚫 To date, there is no confirmation about the active departure of katsaps from the spit. Moreover, the enemy continues to use the terrain for launching \"Molniya\" UAVs in the direction of Mykolaiv and Kherson and has other means in the form of EW and...",
+    "description_uk": "Кінбурнська коса, наступ ЗСУ та відступ московитів 🌐 В мережі сьогодні йде палке обговорення подій на Кінбурнській косі, але це обговорення обросло невідповідними фактами. 🚫 На сьогоднішній день немає жодних підтверджень про активний відхід кацапів з коси. Більш того, ворог продовжує застосовувати місцевість для пусків БПЛА \"Молнія\" в бік Миколаєва та Херсону та має інші засоби у вигляді РЕБ та...",
+    "time": "",
+    "pubDate": "2026-06-25T14:06:43+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23595",
+    "score": 7.5,
+    "views": 266750,
+    "forwards": 1810
   }
 ]
