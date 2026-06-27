@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Kharkiv region: a group of BpLA ➡️ heading for Stary Merchyk from the...",
+    "title_en": "Kharkiv: Kharkiv region: a group of BpLA ➡️ heading for Stary Merchyk from the...",
+    "title_uk": "Харків: Харківська область: група BpLA ➡️ прямує на Старий Мерчик з...",
+    "description": "Kharkiv region: a group of BpLA ➡️ heading for Stary Merchyk from the north.",
+    "description_en": "Kharkiv region: a group of BpLA ➡️ heading for Stary Merchyk from the north.",
+    "description_uk": "Харківщина: група БпЛА ➡️ курсом на Старий Мерчик з півночі.",
+    "time": "",
+    "pubDate": "2026-06-27T21:05:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66595",
+    "score": 6.0,
+    "views": 2,
+    "forwards": 0
+  },
+  {
+    "title": "Attack attack",
+    "title_en": "Attack attack",
+    "title_uk": "Атака нападу",
+    "description": "Footage of the aftermath of the attack on the Titan-Barricade plant in Volgograd, Russia, is published online. Beautiful.",
+    "description_en": "Footage of the aftermath of the attack on the Titan-Barricade plant in Volgograd, Russia, is published online. Beautiful.",
+    "description_uk": "В сети публикуют кадры последствий прилетов по заводу \"Титан-Баррикады\" в российском Волгограде Красиво.",
+    "time": "",
+    "pubDate": "2026-06-27T20:33:01+00:00",
+    "category": "shelling",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/194707",
+    "score": 4.5,
+    "views": 37289,
+    "forwards": 108
+  },
+  {
     "title": "BpLA ➡️ heading for Kropyvnytskyi!",
     "title_en": "BpLA ➡️ heading for Kropyvnytskyi!",
     "title_uk": "BpLA ➡️ прямує до Кропивницького!",
@@ -14,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/66594",
     "score": 5.0,
-    "views": 20204,
-    "forwards": 34
+    "views": 48630,
+    "forwards": 35
   },
   {
     "title": "Zaporizhzhia: BpLA ➡️ in the direction of Zaporizhzhia.",
@@ -86,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53945",
     "score": 5.0,
-    "views": 1304,
-    "forwards": 3
+    "views": 1649,
+    "forwards": 6
   },
   {
     "title": "Several UAVs over Chernihiv!",
@@ -140,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53944",
     "score": 8.0,
-    "views": 1704,
+    "views": 1972,
     "forwards": 3
   },
   {
@@ -284,26 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19650",
     "score": 10.5,
-    "views": 172814,
-    "forwards": 257
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAV ➡️ heading for Myrhorod/Veliky Sorochyntsi.",
-    "description_en": "Jet UAV ➡️ heading for Myrhorod/Veliky Sorochyntsi.",
-    "description_uk": "Реактивний БпЛА ➡️ курсом на Миргород/Великі Сорочинці.",
-    "time": "",
-    "pubDate": "2026-06-27T08:37:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66564",
-    "score": 5.0,
-    "views": 84069,
-    "forwards": 0
+    "views": 179168,
+    "forwards": 258
   },
   {
     "title": "Drone strike",
@@ -338,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19649",
     "score": 5.5,
-    "views": 287143,
-    "forwards": 797
+    "views": 293510,
+    "forwards": 817
   },
   {
     "title": "The head of the Polish Foreign Ministry said that Nawrocki's decision...",
@@ -374,7 +392,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40468",
     "score": 10.0,
-    "views": 8631,
+    "views": 8715,
     "forwards": 21
   },
   {
@@ -428,7 +446,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23598",
     "score": 4.5,
-    "views": 127513,
+    "views": 128654,
     "forwards": 178
   }
 ]
