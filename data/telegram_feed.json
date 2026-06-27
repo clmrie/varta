@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: Drone attack",
+    "title_en": "Kyiv: Drone attack",
+    "title_uk": "Київ: Атака безпілотників",
+    "description": "Oil refinery burns in Russia's Krasnodar Krai following reported Ukrainian drone attack. Ukraine's military reportedly carried out a drone attack against an oil refinery in the Russian city of Slavyansk-na-Kubani overnight on June 28, Russian Telegram media channels reported.",
+    "description_en": "Oil refinery burns in Russia's Krasnodar Krai following reported Ukrainian drone attack. Ukraine's military reportedly carried out a drone attack against an oil refinery in the Russian city of Slavyansk-na-Kubani overnight on June 28, Russian Telegram media channels reported.",
+    "description_uk": "Oil refinery burns in Russia's Krasnodar Krai following reported Ukrainian drone attack. Ukraine's military reportedly carried out a drone attack against an oil refinery in the Russian city of Slavyansk-na-Kubani overnight on June 28, Russian Telegram media channels reported.",
+    "time": "",
+    "pubDate": "2026-06-27T23:06:57+00:00",
+    "category": "drone",
+    "severity": "medium",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53950",
+    "score": 4.0,
+    "views": 321,
+    "forwards": 3
+  },
+  {
+    "title": "Kyiv: Explosions reported",
+    "title_en": "Kyiv: Explosions reported",
+    "title_uk": "Київ: Повідомляється про вибухи",
+    "description": "Explosions heard in Kyiv. Explosions were reported in Kyiv just before 2 a.m. local time, according to a Kyiv Independent journalist on the ground. Ukraine's Air Force warned of the threat of several Russian missiles flying towards the capital.",
+    "description_en": "Explosions heard in Kyiv. Explosions were reported in Kyiv just before 2 a.m. local time, according to a Kyiv Independent journalist on the ground. Ukraine's Air Force warned of the threat of several Russian missiles flying towards the capital.",
+    "description_uk": "Explosions heard in Kyiv. Explosions were reported in Kyiv just before 2 a.m. local time, according to a Kyiv Independent journalist on the ground. Ukraine's Air Force warned of the threat of several Russian missiles flying towards the capital.",
+    "time": "",
+    "pubDate": "2026-06-27T23:02:48+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53949",
+    "score": 10.0,
+    "views": 430,
+    "forwards": 1
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons from the north!",
+    "description_en": "☄️ The threat of using ballistic weapons from the north!",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння з півночі!",
+    "time": "",
+    "pubDate": "2026-06-27T22:57:03+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66598",
+    "score": 5.0,
+    "views": 57696,
+    "forwards": 1
+  },
+  {
     "title": "Dnipro: BpLA group ➡️ heading for the Dnipro!",
     "title_en": "Dnipro: BpLA group ➡️ heading for the Dnipro!",
     "title_uk": "Дніпро: група BpLA ➡️ їде на Дніпро!",
@@ -14,8 +68,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/66597",
     "score": 6.0,
-    "views": 11191,
-    "forwards": 0
+    "views": 72570,
+    "forwards": 34
   },
   {
     "title": "Kharkiv: A group of BpLA from Kharkiv Oblast ➡️ heading for Dnipropetrovsk...",
@@ -68,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194707",
     "score": 4.5,
-    "views": 68322,
-    "forwards": 146
+    "views": 87656,
+    "forwards": 163
   },
   {
     "title": "BpLA ➡️ heading for Kropyvnytskyi!",
@@ -356,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19650",
     "score": 10.5,
-    "views": 181982,
+    "views": 185525,
     "forwards": 260
   },
   {
@@ -392,61 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19649",
     "score": 5.5,
-    "views": 297402,
-    "forwards": 828
-  },
-  {
-    "title": "The head of the Polish Foreign Ministry said that Nawrocki's decision...",
-    "title_en": "The head of the Polish Foreign Ministry said that Nawrocki's decision...",
-    "title_uk": "Глава польського МЗС заявив, що рішення Навроцького...",
-    "description": "The head of the Polish Foreign Ministry said that Nawrocki's decision to withdraw the Order of the White Eagle was an \"inadequate reaction\" because it \"personally humiliated the president of Ukraine.\" \"If President Nawrocki had asked my opinion, I would have advised, for example, to name the airport in Jasenko in honor of the victims of the UPA, and then everything would be fine,\" said the head of the Polish MFA.",
-    "description_en": "The head of the Polish Foreign Ministry said that Nawrocki's decision to withdraw the Order of the White Eagle was an \"inadequate reaction\" because it \"personally humiliated the president of Ukraine.\" \"If President Nawrocki had asked my opinion, I would have advised, for example, to name the airport in Jasenko in honor of the victims of the UPA, and then everything would be fine,\" said the head of the Polish MFA.",
-    "description_uk": "Глава МИД Польши заявил, что решение Навроцкого забрать орден Белого Орла было \"неадекватной реакцией\", поскольку оно \"лично унизило президента Украины\" \"Если бы президент Навроцкий спросил моего мнения, я бы посоветовал, например, назвать аэропорт в Ясенке в честь жертв УПА, и тогда всё было бы в порядке\", - сказал глава польского МИД.",
-    "time": "",
-    "pubDate": "2026-06-27T07:37:54+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/194663",
-    "score": 6.5,
-    "views": 154311,
-    "forwards": 231
-  },
-  {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "113 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of June 27 (from 18:00 on June 26), the enemy attacked 129 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and Parody type drones from the directions: Kursk, Bryansk, Millerovo, Orel, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT Autonomous Republic of Crimea, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile forces, units of the Reb...",
-    "description_en": "113 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of June 27 (from 18:00 on June 26), the enemy attacked 129 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and Parody type drones from the directions: Kursk, Bryansk, Millerovo, Orel, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT Autonomous Republic of Crimea, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile forces, units of the Reb...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 113 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 27 червня (з 18:00 26 червня) противник атакував 129 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Брянськ, Міллерово, Орел, Приморсько-Ахтарськ – рф, Гвардійське – ТОТ АР Крим, ТОТ Донецьк. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ...",
-    "time": "",
-    "pubDate": "2026-06-27T05:43:11+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/40468",
-    "score": 10.0,
-    "views": 8783,
-    "forwards": 21
-  },
-  {
-    "title": "😳 The death toll after the earthquake in Venezuela exceeded 900...",
-    "title_en": "😳 The death toll after the earthquake in Venezuela exceeded 900...",
-    "title_uk": "😳 Кількість жертв землетрусу у Венесуелі перевищила 900...",
-    "description": "😳 The death toll after the earthquake in Venezuela exceeded 900 people, - Reuters According to the latest data, 920 people became victims of the natural disaster, and another 3,360 were injured. 172 people remain under the rubble, and more than 50 thousand are considered missing. Reuters also reports that on Friday Venezuela was again shaken by an earthquake of magnitude 4.9, which was felt in Caracas and nearby areas....",
-    "description_en": "😳 The death toll after the earthquake in Venezuela exceeded 900 people, - Reuters According to the latest data, 920 people became victims of the natural disaster, and another 3,360 were injured. 172 people remain under the rubble, and more than 50 thousand are considered missing. Reuters also reports that on Friday Venezuela was again shaken by an earthquake of magnitude 4.9, which was felt in Caracas and nearby areas....",
-    "description_uk": "😳 Число погибших после землетрясений в Венесуэле превысило 900 человек, - Reuters По последним данным, жертвами стихии стали 920 человек, еще 3 360 получили ранения. Под завалами остаются 172 человека, а более 50 тысяч считаются пропавшими без вести. Reuters также сообщает, что в пятницу Венесуэлу вновь потрясло землетрясение магнитудой 4,9, которое ощущалось в Каракасе и близлежащих районах....",
-    "time": "",
-    "pubDate": "2026-06-27T05:34:16+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/194659",
-    "score": 5.0,
-    "views": 2,
-    "forwards": 0
+    "views": 299980,
+    "forwards": 829
   }
 ]
