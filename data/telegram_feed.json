@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: Evacuation ordered",
+    "title_en": "Kyiv: Evacuation ordered",
+    "title_uk": "Київ: Наказано евакуацію",
+    "description": "Ukrainian MiG-29 crashes during combat mission, Air Force says, pilot ejects safely. The pilot successfully ejected and was located by a search-and-rescue team, which evacuated him to a medical facility.",
+    "description_en": "Ukrainian MiG-29 crashes during combat mission, Air Force says, pilot ejects safely. The pilot successfully ejected and was located by a search-and-rescue team, which evacuated him to a medical facility.",
+    "description_uk": "Ukrainian MiG-29 crashes during combat mission, Air Force says, pilot ejects safely. The pilot successfully ejected and was located by a search-and-rescue team, which evacuated him to a medical facility.",
+    "time": "",
+    "pubDate": "2026-06-27T11:12:59+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53940",
+    "score": 11.0,
+    "views": 539,
+    "forwards": 1
+  },
+  {
+    "title": "MiG-29 IS LOST, THE PILOT CATAPULTED ➖➖➖➖➖➖➖➖➖➖ We inform you that on...",
+    "title_en": "MiG-29 IS LOST, THE PILOT CATAPULTED ➖➖➖➖➖➖➖➖➖➖ We inform you that on...",
+    "title_uk": "МіГ-29 ВТРАЧЕН, ЛІОТЧИК КАТАПУЛЬТУВАНИЙ ➖➖➖➖➖➖➖➖➖➖ Повідомляємо, що на...",
+    "description": "MiG-29 IS LOST, THE PILOT CATAPULTED ➖➖➖➖➖➖➖➖➖➖ We inform you that on the night of June 27, 2026, contact was lost with the MiG-29 fighter of the Air Force of the Armed Forces of Ukraine, which was performing a combat mission in the Poltava region. We confirm the loss of the aircraft, but the Ukrainian pilot ejected successfully, contacted the search and rescue team and was promptly transported to a medical facility for...",
+    "description_en": "MiG-29 IS LOST, THE PILOT CATAPULTED ➖➖➖➖➖➖➖➖➖➖ We inform you that on the night of June 27, 2026, contact was lost with the MiG-29 fighter of the Air Force of the Armed Forces of Ukraine, which was performing a combat mission in the Poltava region. We confirm the loss of the aircraft, but the Ukrainian pilot ejected successfully, contacted the search and rescue team and was promptly transported to a medical facility for...",
+    "description_uk": "ВТРАЧЕНО МіГ-29, ПІЛОТ КАТАПУЛЬТУВАВСЯ ➖➖➖➖➖➖➖➖➖➖ Повідомляємо, що уночі 27 червня 2026 року було втрачено зв’язок із винищувачем МіГ-29 Повітряних Сил Збройних Сил України, який виконував бойове завдання на Полтавщині. Підтверджуємо втрату літака, однак український пілот успішно катапультувався, зв’язався з пошуково-рятувальною командою та оперативно був доставлений до медичного закладу для...",
+    "time": "",
+    "pubDate": "2026-06-27T10:54:16+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66567",
+    "score": 6.5,
+    "views": 415150,
+    "forwards": 2820
+  },
+  {
     "title": "Zaporizhzhia: Drone strike near civilians",
     "title_en": "Zaporizhzhia: Drone strike near civilians",
     "title_uk": "Запоріжжя: обстріл безпілотників поблизу мирних жителів",
@@ -14,8 +50,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19650",
     "score": 9.5,
-    "views": 54963,
-    "forwards": 140
+    "views": 89805,
+    "forwards": 180
   },
   {
     "title": "Drone incoming",
@@ -32,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/66564",
     "score": 5.0,
-    "views": 55637,
+    "views": 84069,
     "forwards": 0
   },
   {
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53938",
     "score": 5.0,
-    "views": 1016,
-    "forwards": 3
+    "views": 1465,
+    "forwards": 4
   },
   {
     "title": "Drone strike",
@@ -68,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194664",
     "score": 5.5,
-    "views": 112742,
-    "forwards": 286
+    "views": 137774,
+    "forwards": 322
   },
   {
     "title": "Missile launch detected",
@@ -86,8 +122,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19649",
     "score": 5.5,
-    "views": 168269,
-    "forwards": 590
+    "views": 202976,
+    "forwards": 652
   },
   {
     "title": "The head of the Polish Foreign Ministry said that Nawrocki's decision...",
@@ -104,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194663",
     "score": 5.5,
-    "views": 112785,
-    "forwards": 155
+    "views": 136775,
+    "forwards": 192
   },
   {
     "title": "Poltava region: jet UAV ➡️ course to Myrhorod/Veliky Sorochyntsi.",
@@ -147,8 +183,8 @@
     "title": "Donetsk: Drone incoming",
     "title_en": "Donetsk: Drone incoming",
     "title_uk": "Донецьк: Дрон вхід",
-    "description": "113 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of June 27 (from 18:00 on June 26), the enemy attacked 129 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and parody drones of the \"Parody\" type from the directions: Kursk, Bryansk, Millerovo, Orel, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT Autonomous Republic of Crimea, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile troops, units of the Reb...",
-    "description_en": "113 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of June 27 (from 18:00 on June 26), the enemy attacked 129 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and parody drones of the \"Parody\" type from the directions: Kursk, Bryansk, Millerovo, Orel, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT Autonomous Republic of Crimea, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile troops, units of the Reb...",
+    "description": "113 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of June 27 (from 18:00 on June 26), the enemy attacked 129 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and Parody type drones from the directions: Kursk, Bryansk, Millerovo, Orel, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT Autonomous Republic of Crimea, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile troops, units of the Reb...",
+    "description_en": "113 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of June 27 (from 18:00 on June 26), the enemy attacked 129 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and Parody type drones from the directions: Kursk, Bryansk, Millerovo, Orel, Primorsko-Akhtarsk - Russian Federation, Gvardiyske - TOT Autonomous Republic of Crimea, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile troops, units of the Reb...",
     "description_uk": "ЗБИТО/ПОДАВЛЕНО 113 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 27 червня (з 18:00 26 червня) противник атакував 129 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Брянськ, Міллерово, Орел, Приморсько-Ахтарськ – рф, Гвардійське – ТОТ АР Крим, ТОТ Донецьк. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ...",
     "time": "",
     "pubDate": "2026-06-27T05:43:11+00:00",
@@ -158,8 +194,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40468",
     "score": 10.0,
-    "views": 6389,
-    "forwards": 16
+    "views": 7009,
+    "forwards": 18
   },
   {
     "title": "😳 The death toll after the earthquake in Venezuela exceeded 900...",
@@ -268,42 +304,6 @@
     "score": 6.0,
     "views": 14999,
     "forwards": 2
-  },
-  {
-    "title": "Kharkiv: Drone attack",
-    "title_en": "Kharkiv: Drone attack",
-    "title_uk": "Харків: Атака безпілотників",
-    "description": "Attack drones on Kharkiv region from Donetsk region and Sumy region.",
-    "description_en": "Attack drones on Kharkiv region from Donetsk region and Sumy region.",
-    "description_uk": "Ударні БпЛА на Харківщину з Донеччини та Сумщини.",
-    "time": "",
-    "pubDate": "2026-06-26T23:34:20+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66533",
-    "score": 6.0,
-    "views": 924,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Attack attack",
-    "title_en": "Kharkiv: Attack attack",
-    "title_uk": "Харків: Напад",
-    "description": "Strike BpLA in the district. n.p. Slobozhanske (Kharkiv region) heading south",
-    "description_en": "Strike BpLA in the district. n.p. Slobozhanske (Kharkiv region) heading south",
-    "description_uk": "Ударний БпЛА в р-ні. н.п. Слобожанське (Харківщина) курсом на південь",
-    "time": "",
-    "pubDate": "2026-06-26T23:03:21+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66532",
-    "score": 6.0,
-    "views": 10707,
-    "forwards": 0
   },
   {
     "title": "High-speed goal through Sumyshchyna in the direction of Poltava.",
@@ -428,8 +428,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23598",
     "score": 4.5,
-    "views": 117954,
-    "forwards": 165
+    "views": 119431,
+    "forwards": 166
   },
   {
     "title": "Kherson: Drone incoming",
@@ -446,7 +446,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23595",
     "score": 7.5,
-    "views": 266750,
-    "forwards": 1810
+    "views": 267352,
+    "forwards": 1811
   }
 ]
