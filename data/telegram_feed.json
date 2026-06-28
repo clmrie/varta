@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "UAV in the Kharkiv region in the direction of the town of Vilshany/Peresichne.",
+    "description_en": "UAV in the Kharkiv region in the direction of the town of Vilshany/Peresichne.",
+    "description_uk": "БпЛА на Харківщині в напрямку н.п.Вільшани/Пересічне.",
+    "time": "",
+    "pubDate": "2026-06-28T17:37:31+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66679",
+    "score": 6.0,
+    "views": 19218,
+    "forwards": 0
+  },
+  {
+    "title": "Urgent. The most powerful blow to the national security of Russia was...",
+    "title_en": "Urgent. The most powerful blow to the national security of Russia was...",
+    "title_uk": "Терміново. Найпотужнішим ударом по національній безпеці Росії було...",
+    "description": "Urgent. The most powerful blow to the national security of Russia was inflicted by the proverb \"Language will lead to Kiev\" The family is in danger. Call riot police!",
+    "description_en": "Urgent. The most powerful blow to the national security of Russia was inflicted by the proverb \"Language will lead to Kiev\" The family is in danger. Call riot police!",
+    "description_uk": "Срочно. Мощнейший удар по национальной безопасности россии был нанесен поговоркой «Язык до Киева доведет» Родина в опасности. Вызывайте ОМОН!",
+    "time": "",
+    "pubDate": "2026-06-28T17:12:07+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/194748",
+    "score": 5.5,
+    "views": 60404,
+    "forwards": 398
+  },
+  {
+    "title": "Chernihiv: Chernihiv region: BpLA in the village of Kholmy.",
+    "title_en": "Chernihiv: Chernihiv region: BpLA in the village of Kholmy.",
+    "title_uk": "Чернігів: Чернігівська обл.: БпЛА в с.Холми.",
+    "description": "Chernihiv region: BpLA in the village of Kholmy.",
+    "description_en": "Chernihiv region: BpLA in the village of Kholmy.",
+    "description_uk": "Чернігівщина: БпЛА в р-ні н.п.Холми.",
+    "time": "",
+    "pubDate": "2026-06-28T17:02:10+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66678",
+    "score": 6.0,
+    "views": 45485,
+    "forwards": 0
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -50,8 +104,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9414",
     "score": 5.0,
-    "views": 267,
-    "forwards": 6
+    "views": 477,
+    "forwards": 8
   },
   {
     "title": "Chernihiv: BpLA in the north of Chernihiv Oblast ➡️ heading for Snovsk.",
@@ -104,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194740",
     "score": 6.5,
-    "views": 86442,
-    "forwards": 224
+    "views": 119783,
+    "forwards": 263
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -122,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19672",
     "score": 6.5,
-    "views": 53842,
-    "forwards": 98
+    "views": 71852,
+    "forwards": 119
   },
   {
     "title": "Jet UAV in the city of Pavlograd.",
@@ -212,8 +266,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40508",
     "score": 8.5,
-    "views": 26611,
-    "forwards": 116
+    "views": 30129,
+    "forwards": 119
   },
   {
     "title": "Mariupol: Attack attack",
@@ -230,7 +284,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19666",
     "score": 6.5,
-    "views": 45925,
+    "views": 48235,
     "forwards": 135
   },
   {
@@ -248,26 +302,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53957",
     "score": 11.0,
-    "views": 2098,
+    "views": 2221,
     "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "UAV in the direction of the city of Kharkiv from the east",
-    "description_en": "UAV in the direction of the city of Kharkiv from the east",
-    "description_uk": "БпЛА в напрямку м.Харків зі сходу",
-    "time": "",
-    "pubDate": "2026-06-28T10:28:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66657",
-    "score": 6.0,
-    "views": 51546,
-    "forwards": 10
   },
   {
     "title": "Kyiv: Biden accuses Trump of 'destroying NATO,' 'choosing Putin over...",
@@ -284,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53955",
     "score": 5.0,
-    "views": 2205,
+    "views": 2304,
     "forwards": 8
   },
   {
@@ -392,7 +428,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40503",
     "score": 13.0,
-    "views": 5090,
+    "views": 5170,
     "forwards": 18
   },
   {
