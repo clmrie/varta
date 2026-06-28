@@ -1,20 +1,56 @@
 [
   {
+    "title": "Kyiv: Energy infrastructure hit",
+    "title_en": "Kyiv: Energy infrastructure hit",
+    "title_uk": "Київ: удар по енергетичній інфраструктурі",
+    "description": "Putin acknowledges gas station queues, fuel shortages amid Ukrainian strikes as Russia works to stabilize supply. Russian President Vladimir Putin on June 28 acknowledged gas station queues in Russia and shortages of various fuel types as Ukrainian strikes continue to increase pressure on Moscow's energy resources.",
+    "description_en": "Putin acknowledges gas station queues, fuel shortages amid Ukrainian strikes as Russia works to stabilize supply. Russian President Vladimir Putin on June 28 acknowledged gas station queues in Russia and shortages of various fuel types as Ukrainian strikes continue to increase pressure on Moscow's energy resources.",
+    "description_uk": "Putin acknowledges gas station queues, fuel shortages amid Ukrainian strikes as Russia works to stabilize supply. Russian President Vladimir Putin on June 28 acknowledged gas station queues in Russia and shortages of various fuel types as Ukrainian strikes continue to increase pressure on Moscow's energy resources.",
+    "time": "",
+    "pubDate": "2026-06-28T19:08:58+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53964",
+    "score": 4.5,
+    "views": 101,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A jet UAV in the Sumy region, heading for Terny.",
+    "description_en": "A jet UAV in the Sumy region, heading for Terny.",
+    "description_uk": "Реактивний БпЛА на Сумщині, курсом на Терни.",
+    "time": "",
+    "pubDate": "2026-06-28T18:52:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66684",
+    "score": 5.0,
+    "views": 25296,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Харків: Дрон вхід",
-    "description": "UAV in the Kharkiv region in the direction of the town of Vilshany/Peresichne.",
-    "description_en": "UAV in the Kharkiv region in the direction of the town of Vilshany/Peresichne.",
-    "description_uk": "БпЛА на Харківщині в напрямку н.п.Вільшани/Пересічне.",
+    "description": "UAV in the direction of the city of Kharkiv from the east",
+    "description_en": "UAV in the direction of the city of Kharkiv from the east",
+    "description_uk": "БпЛА в напрямку м.Харків зі сходу",
     "time": "",
-    "pubDate": "2026-06-28T17:37:31+00:00",
+    "pubDate": "2026-06-28T18:34:44+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Kharkiv",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66679",
+    "link": "https://t.me/kpszsu/66683",
     "score": 6.0,
-    "views": 19218,
+    "views": 39509,
     "forwards": 0
   },
   {
@@ -32,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194748",
     "score": 5.5,
-    "views": 60404,
-    "forwards": 398
+    "views": 116358,
+    "forwards": 690
   },
   {
     "title": "Chernihiv: Chernihiv region: BpLA in the village of Kholmy.",
@@ -104,8 +140,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9414",
     "score": 5.0,
-    "views": 477,
-    "forwards": 8
+    "views": 597,
+    "forwards": 9
   },
   {
     "title": "Chernihiv: BpLA in the north of Chernihiv Oblast ➡️ heading for Snovsk.",
@@ -158,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194740",
     "score": 6.5,
-    "views": 119783,
-    "forwards": 263
+    "views": 145596,
+    "forwards": 265
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -176,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19672",
     "score": 6.5,
-    "views": 71852,
-    "forwards": 119
+    "views": 86537,
+    "forwards": 130
   },
   {
     "title": "Jet UAV in the city of Pavlograd.",
@@ -266,8 +302,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40508",
     "score": 8.5,
-    "views": 30129,
-    "forwards": 119
+    "views": 32846,
+    "forwards": 122
   },
   {
     "title": "Mariupol: Attack attack",
@@ -284,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19666",
     "score": 6.5,
-    "views": 48235,
-    "forwards": 135
+    "views": 50832,
+    "forwards": 146
   },
   {
     "title": "Zaporizhzhia: Missile attack",
@@ -302,8 +338,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53957",
     "score": 11.0,
-    "views": 2221,
-    "forwards": 0
+    "views": 2347,
+    "forwards": 1
   },
   {
     "title": "Kyiv: Biden accuses Trump of 'destroying NATO,' 'choosing Putin over...",
@@ -412,41 +448,5 @@
     "score": 3.5,
     "views": 165567,
     "forwards": 109
-  },
-  {
-    "title": "Donetsk: 142 drones launched",
-    "title_en": "Donetsk: 142 drones launched",
-    "title_uk": "Донецьк: запущено 142 безпілотника",
-    "description": "132 ENEMY TARGETS DESTROYED On the night of June 28 (from 18:00 on June 27), the enemy attacked with two Zircon/Onyx anti-ship missiles from the Kursk region, six Iskander-M/S-400 ballistic missiles from the Bryansk region, and 142 Shahed type UAVs (including jet ones), Gerbera, Italmas and imitation drones of the \"Parody\" type from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation,...",
-    "description_en": "132 ENEMY TARGETS DESTROYED On the night of June 28 (from 18:00 on June 27), the enemy attacked with two Zircon/Onyx anti-ship missiles from the Kursk region, six Iskander-M/S-400 ballistic missiles from the Bryansk region, and 142 Shahed type UAVs (including jet ones), Gerbera, Italmas and imitation drones of the \"Parody\" type from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation,...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 132 ЦІЛІ ПРОТИВНИКА У ніч на 28 червня (з 18:00 27 червня) противник атакував двома протикорабельними ракетами Циркон/Онікс із Курської обл., шістьма балістичними ракетами Іскандер-М/С-400 із Брянської обл., та 142 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Орел, Міллерово, Приморсько-Ахтарськ – рф.,...",
-    "time": "",
-    "pubDate": "2026-06-28T05:48:55+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/40503",
-    "score": 13.0,
-    "views": 5170,
-    "forwards": 18
-  },
-  {
-    "title": "Kyiv: Explosions reported",
-    "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомлення про вибухи",
-    "description": "Explosions again reported in Kyiv amid Russian missile attack. Explosions were again reported in the capital around 2:35 a.m. local time, amid a barrage of incoming Russian missiles. Tymur Tkachenko, the head of the Kyiv City Military Administration, said that at least one person was injured in the Darnytskyi district of the city amid the attack.",
-    "description_en": "Explosions again reported in Kyiv amid Russian missile attack. Explosions were again reported in the capital around 2:35 a.m. local time, amid a barrage of incoming Russian missiles. Tymur Tkachenko, the head of the Kyiv City Military Administration, said that at least one person was injured in the Darnytskyi district of the city amid the attack.",
-    "description_uk": "Explosions again reported in Kyiv amid Russian missile attack. Explosions were again reported in the capital around 2:35 a.m. local time, amid a barrage of incoming Russian missiles. Tymur Tkachenko, the head of the Kyiv City Military Administration, said that at least one person was injured in the Darnytskyi district of the city amid the attack.",
-    "time": "",
-    "pubDate": "2026-06-27T23:50:17+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53951",
-    "score": 10.0,
-    "views": 2066,
-    "forwards": 3
   }
 ]
