@@ -1,5 +1,23 @@
 [
   {
+    "title": "WARNING! 🛫 The activity of enemy tactical aviation in the...",
+    "title_en": "WARNING! 🛫 The activity of enemy tactical aviation in the...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника в...",
+    "description": "WARNING! 🛫 The activity of enemy tactical aviation in the north-eastern directions! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 The activity of enemy tactical aviation in the north-eastern directions! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямках! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-06-28T23:36:06+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66696",
+    "score": 5.0,
+    "views": 4661,
+    "forwards": 4
+  },
+  {
     "title": "BpLA heading for the city of Pavlograd.",
     "title_en": "BpLA heading for the city of Pavlograd.",
     "title_uk": "BpLA курсує на місто Павлоград.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/66694",
     "score": 5.0,
-    "views": 11362,
+    "views": 21807,
     "forwards": 3
   },
   {
@@ -86,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53964",
     "score": 4.5,
-    "views": 1657,
+    "views": 1787,
     "forwards": 3
   },
   {
@@ -140,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194748",
     "score": 5.5,
-    "views": 169023,
-    "forwards": 908
+    "views": 172347,
+    "forwards": 909
   },
   {
     "title": "Chernihiv: Chernihiv region: BpLA in the village of Kholmy.",
@@ -212,7 +230,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9414",
     "score": 5.0,
-    "views": 752,
+    "views": 764,
     "forwards": 10
   },
   {
@@ -284,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19672",
     "score": 6.5,
-    "views": 106062,
-    "forwards": 151
+    "views": 107346,
+    "forwards": 152
   },
   {
     "title": "Jet UAV in the city of Pavlograd.",
@@ -374,7 +392,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40508",
     "score": 8.5,
-    "views": 36834,
+    "views": 36988,
     "forwards": 124
   },
   {
@@ -392,8 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19666",
     "score": 6.5,
-    "views": 54975,
-    "forwards": 153
+    "views": 55157,
+    "forwards": 154
   },
   {
     "title": "Zaporizhzhia: Missile attack",
@@ -410,7 +428,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53957",
     "score": 11.0,
-    "views": 2711,
+    "views": 2755,
     "forwards": 1
   },
   {
@@ -430,23 +448,5 @@
     "score": 18.0,
     "views": 1066,
     "forwards": 1
-  },
-  {
-    "title": "Attack attack",
-    "title_en": "Attack attack",
-    "title_uk": "Атака нападу",
-    "description": "In June, Ukraine struck a record number of times against the Russian military-industrial complex, \"Agentstvo\" Izdanie counted no less than 13 strikes against Russian defense plants and objects in the occupied territories in the incomplete June. This is more than in any other month of the year. Enterprises of the rocket, electronics, chemical and shipbuilding industries, including plants in Volgograd, Tambov, Ryazan, Samara,...",
-    "description_en": "In June, Ukraine struck a record number of times against the Russian military-industrial complex, \"Agentstvo\" Izdanie counted no less than 13 strikes against Russian defense plants and objects in the occupied territories in the incomplete June. This is more than in any other month of the year. Enterprises of the rocket, electronics, chemical and shipbuilding industries, including plants in Volgograd, Tambov, Ryazan, Samara,...",
-    "description_uk": "В июне Украина рекордно часто била по российскому ВПК, - \"Агентство\" Издание насчитало не менее 13 ударов по оборонным заводам рф и объектам на оккупированных территориях за неполный июнь. Это больше, чем в любой другой месяц года. Под атаки попали предприятия ракетной, электронной, химической и судостроительной промышленности, включая заводы в Волгоградской, Тамбовской, Рязанской, Самарской,...",
-    "time": "",
-    "pubDate": "2026-06-28T06:45:22+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/194717",
-    "score": 3.5,
-    "views": 165567,
-    "forwards": 109
   }
 ]
