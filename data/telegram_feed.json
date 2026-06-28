@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sumy: BpLA headed for Sumy from the north.",
+    "title_en": "Sumy: BpLA headed for Sumy from the north.",
+    "title_uk": "Суми: BpLA прямувала на Суми з півночі.",
+    "description": "BpLA headed for Sumy from the north.",
+    "description_en": "BpLA headed for Sumy from the north.",
+    "description_uk": "БпЛА курсом на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-06-28T04:29:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66635",
+    "score": 6.0,
+    "views": 15190,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA headed for Kharkiv from the north.",
+    "title_uk": "Харків: BpLA прямувала на Харків з півночі.",
+    "description": "BpLA headed for Kharkiv from the north.",
+    "description_en": "BpLA headed for Kharkiv from the north.",
+    "description_uk": "БпЛА курсом на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-06-28T03:57:43+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66633",
+    "score": 6.0,
+    "views": 29380,
+    "forwards": 0
+  },
+  {
     "title": "Chernihiv: Chernihiv region: jet UAV ➡️ course to Mena.",
     "title_en": "Chernihiv: Chernihiv region: jet UAV ➡️ course to Mena.",
     "title_uk": "Чернігів: Чернігівська область: реактивний БПЛА ➡️ курс на Мену.",
@@ -38,7 +74,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
+    "title_uk": "Київ: повідомлення про вибухи",
     "description": "Explosions again reported in Kyiv amid Russian missile attack. Explosions were again reported in the capital around 2:35 a.m. local time, amid a barrage of incoming Russian missiles. Tymur Tkachenko, the head of the Kyiv City Military Administration, said that at least one person was injured in the Darnytskyi district of the city amid the attack.",
     "description_en": "Explosions again reported in Kyiv amid Russian missile attack. Explosions were again reported in the capital around 2:35 a.m. local time, amid a barrage of incoming Russian missiles. Tymur Tkachenko, the head of the Kyiv City Military Administration, said that at least one person was injured in the Darnytskyi district of the city amid the attack.",
     "description_uk": "Explosions again reported in Kyiv amid Russian missile attack. Explosions were again reported in the capital around 2:35 a.m. local time, amid a barrage of incoming Russian missiles. Tymur Tkachenko, the head of the Kyiv City Military Administration, said that at least one person was injured in the Darnytskyi district of the city amid the attack.",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53951",
     "score": 10.0,
-    "views": 344,
-    "forwards": 1
+    "views": 1166,
+    "forwards": 2
   },
   {
     "title": "Kyiv: Drone attack",
@@ -68,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53950",
     "score": 4.0,
-    "views": 766,
-    "forwards": 4
+    "views": 1490,
+    "forwards": 6
   },
   {
     "title": "Ballistic missile launch detected",
@@ -158,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194707",
     "score": 4.5,
-    "views": 97649,
-    "forwards": 179
+    "views": 155959,
+    "forwards": 200
   },
   {
     "title": "BpLA ➡️ heading for Kropyvnytskyi!",
@@ -270,24 +306,6 @@
     "forwards": 0
   },
   {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "A jet UAV from the waters of the Black Sea, heading for Mykolaiv Oblast. 🛵 BpLA heading to Chernihiv from the north.",
-    "description_en": "A jet UAV from the waters of the Black Sea, heading for Mykolaiv Oblast. 🛵 BpLA heading to Chernihiv from the north.",
-    "description_uk": "Реактивний БпЛА з акваторії Чорного моря, курсом на Миколаївщину. 🛵 БпЛА курсом на Чернігів з півночі.",
-    "time": "",
-    "pubDate": "2026-06-27T16:38:21+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66582",
-    "score": 6.0,
-    "views": 38417,
-    "forwards": 0
-  },
-  {
     "title": "Crimea: Explosions reported",
     "title_en": "Crimea: Explosions reported",
     "title_uk": "Крим: повідомляється про вибухи",
@@ -306,24 +324,6 @@
     "forwards": 3
   },
   {
-    "title": "BpLA group ➡️ in the direction of Pavlograd.",
-    "title_en": "BpLA group ➡️ in the direction of Pavlograd.",
-    "title_uk": "Група BpLA ➡️ в напрямку Павлограда.",
-    "description": "BpLA group ➡️ in the direction of Pavlograd.",
-    "description_en": "BpLA group ➡️ in the direction of Pavlograd.",
-    "description_uk": "Група БпЛА ➡️ в напрямку Павлограда.",
-    "time": "",
-    "pubDate": "2026-06-27T15:54:57+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66579",
-    "score": 5.0,
-    "views": 16892,
-    "forwards": 30
-  },
-  {
     "title": "Crimea: Energy infrastructure hit",
     "title_en": "Crimea: Energy infrastructure hit",
     "title_uk": "Крим: пошкодження енергетичної інфраструктури",
@@ -340,60 +340,6 @@
     "score": 12.5,
     "views": 967,
     "forwards": 1
-  },
-  {
-    "title": "Mykolaiv: A new group of BpLA ➡️ heading for Mykolaiv Oblast.",
-    "title_en": "Mykolaiv: A new group of BpLA ➡️ heading for Mykolaiv Oblast.",
-    "title_uk": "Миколаїв: Нова група BpLA ➡️ прямує до Миколаївської області.",
-    "description": "A new group of BpLA ➡️ heading for Mykolaiv Oblast.",
-    "description_en": "A new group of BpLA ➡️ heading for Mykolaiv Oblast.",
-    "description_uk": "Нова група БпЛА ➡️ курсом на Миколаївщину.",
-    "time": "",
-    "pubDate": "2026-06-27T14:04:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66573",
-    "score": 6.0,
-    "views": 60877,
-    "forwards": 34
-  },
-  {
-    "title": "Mykolaiv: BpLA group ➡️ course to Mykolaiv Oblast",
-    "title_en": "Mykolaiv: BpLA group ➡️ course to Mykolaiv Oblast",
-    "title_uk": "Миколаїв: BpLA group ➡️ курс до Миколаївської обл",
-    "description": "BpLA group ➡️ course to Mykolaiv Oblast",
-    "description_en": "BpLA group ➡️ course to Mykolaiv Oblast",
-    "description_uk": "Група БпЛА ➡️ курсом на Миколаївщину",
-    "time": "",
-    "pubDate": "2026-06-27T12:58:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66571",
-    "score": 6.0,
-    "views": 21277,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: BpLA group ➡️ heading for Zaporozhye.",
-    "title_en": "Zaporizhzhia: BpLA group ➡️ heading for Zaporozhye.",
-    "title_uk": "Запоріжжя: BpLA group ➡️ прямує до Запоріжжя.",
-    "description": "BpLA group ➡️ heading for Zaporozhye.",
-    "description_en": "BpLA group ➡️ heading for Zaporozhye.",
-    "description_uk": "Група БпЛА ➡️ курсом на Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-06-27T12:28:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66569",
-    "score": 6.0,
-    "views": 37485,
-    "forwards": 0
   },
   {
     "title": "Kyiv: Evacuation ordered",
@@ -446,7 +392,43 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19650",
     "score": 10.5,
-    "views": 188302,
-    "forwards": 260
+    "views": 201911,
+    "forwards": 274
+  },
+  {
+    "title": "Missile launch detected",
+    "title_en": "Missile launch detected",
+    "title_uk": "Виявлено запуск ракети",
+    "description": "Every Russian defense facility working to wage war against Ukraine is a fair target for our long-range sanctions. Tonight, FP-5 Flamingo missiles successfully hit the Titan-Barricades plant in Volgograd. This is a large industrial complex where the enemy manufactures artillery systems and special military equipment, including elements of missile launchers for strikes against our...",
+    "description_en": "Every Russian defense facility working to wage war against Ukraine is a fair target for our long-range sanctions. Tonight, FP-5 Flamingo missiles successfully hit the Titan-Barricades plant in Volgograd. This is a large industrial complex where the enemy manufactures artillery systems and special military equipment, including elements of missile launchers for strikes against our...",
+    "description_uk": "Кожен російський оборонний об’єкт, який працює на війну проти України, – це справедлива ціль для наших далекобійних санкцій. Сьогодні вночі ракети FP-5 «Фламінго» успішно уразили підприємство «Титан-Барикади» у Волгограді. Це великий промисловий комплекс, де ворог виготовляє артилерійські системи та спеціальну військову техніку, зокрема елементи пускових ракетних установок для ударів по наших...",
+    "time": "",
+    "pubDate": "2026-06-27T07:41:45+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/19649",
+    "score": 5.5,
+    "views": 313791,
+    "forwards": 837
+  },
+  {
+    "title": "🐴 BBS \"STRIX\" 47 OMBr destroys the enemy SZV BM-21 \"Grad\" near DKU 🔥...",
+    "title_en": "🐴 BBS \"STRIX\" 47 OMBr destroys the enemy SZV BM-21 \"Grad\" near DKU 🔥...",
+    "title_uk": "🐴 ББС «СТРИКС» 47 ОМБр знищує ворожу СЗВ БМ-21 «Град» біля ДКУ 🔥...",
+    "description": "🐴 BBS \"STRIX\" 47 OMBr destroys the enemy SZV BM-21 \"Grad\" near DKU 🔥 The hit happened at the very moment of the salvo. 📍 Location — the vicinity of strength Map🛑Blog🛑Write to us🛑ZSUHelp🛑Support us",
+    "description_en": "🐴 BBS \"STRIX\" 47 OMBr destroys the enemy SZV BM-21 \"Grad\" near DKU 🔥 The hit happened at the very moment of the salvo. 📍 Location — the vicinity of strength Map🛑Blog🛑Write to us🛑ZSUHelp🛑Support us",
+    "description_uk": "🐴 ББС \"СТРІКС\" 47 ОМБр знищує ворожий СЗВ БМ-21 \"Град\" поблизу ДКУ 🔥 Влучання прийшлося на сам момент залпу. 📍 Локація — околиці н.п. Снагость. Мапа🛑Блог🛑Написати нам🛑 ЗСУHelp🛑Підтримати нас",
+    "time": "",
+    "pubDate": "2026-06-26T08:36:42+00:00",
+    "category": "shelling",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23598",
+    "score": 4.5,
+    "views": 149612,
+    "forwards": 180
   }
 ]
