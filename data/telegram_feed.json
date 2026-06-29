@@ -1,5 +1,41 @@
 [
   {
+    "title": "BpLA is approaching Kremenchuk from the north.",
+    "title_en": "BpLA is approaching Kremenchuk from the north.",
+    "title_uk": "BpLA наближається до Кременчука з півночі.",
+    "description": "BpLA is approaching Kremenchuk from the north.",
+    "description_en": "BpLA is approaching Kremenchuk from the north.",
+    "description_uk": "БпЛА наближається до Кременчука з півночі.",
+    "time": "",
+    "pubDate": "2026-06-29T21:07:06+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66835",
+    "score": 5.0,
+    "views": 28373,
+    "forwards": 35
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "A group of attack UAVs north of Pavlograd on the border of Dnipropetrovsk and Kharkiv regions in the direction of Poltava region.",
+    "description_en": "A group of attack UAVs north of Pavlograd on the border of Dnipropetrovsk and Kharkiv regions in the direction of Poltava region.",
+    "description_uk": "Група ударних БпЛА північніше Павлограду на межі Дніпропетровської та Харківської областей у напрямку Полтавщини.",
+    "time": "",
+    "pubDate": "2026-06-29T20:24:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66831",
+    "score": 6.0,
+    "views": 51662,
+    "forwards": 1
+  },
+  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Київ: виявлено пуск балістичної ракети",
@@ -14,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53975",
     "score": 9.0,
-    "views": 109,
-    "forwards": 0
+    "views": 1095,
+    "forwards": 1
   },
   {
     "title": "🇧🇾 Lukashenka will enter the war only if he is confident of a quick...",
@@ -31,9 +67,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194834",
-    "score": 5.0,
-    "views": 47484,
-    "forwards": 37
+    "score": 5.5,
+    "views": 96939,
+    "forwards": 72
   },
   {
     "title": "Energodar: Drone attack",
@@ -140,7 +176,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40553",
     "score": 14.0,
-    "views": 36587,
+    "views": 38589,
     "forwards": 159
   },
   {
@@ -212,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19673",
     "score": 20.0,
-    "views": 181361,
-    "forwards": 342
+    "views": 185823,
+    "forwards": 343
   },
   {
     "title": "Casualties reported",
@@ -266,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53964",
     "score": 4.5,
-    "views": 3608,
+    "views": 3668,
     "forwards": 3
   },
   {
@@ -284,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9414",
     "score": 5.0,
-    "views": 1385,
+    "views": 1388,
     "forwards": 13
   },
   {
@@ -302,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19672",
     "score": 6.5,
-    "views": 164444,
+    "views": 165644,
     "forwards": 191
   }
 ]
