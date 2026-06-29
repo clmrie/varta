@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Strike drones attack Kremenchuk from the north.",
+    "description_en": "Strike drones attack Kremenchuk from the north.",
+    "description_uk": "Ударні БпЛА на Кременчук з півночі.",
+    "time": "",
+    "pubDate": "2026-06-29T22:31:26+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66840",
+    "score": 5.0,
+    "views": 6988,
+    "forwards": 29
+  },
+  {
+    "title": "Kyiv: Update: French media reports identity of Monaco blast victim. A...",
+    "title_en": "Kyiv: Update: French media reports identity of Monaco blast victim. A...",
+    "title_uk": "Київ: Оновлення: французькі ЗМІ повідомляють про особу жертви вибуху в Монако. А...",
+    "description": "Update: French media reports identity of Monaco blast victim. A source close to the investigation told the news outlet BFM TV that the male victim was Vadym Yermolaiev, a wealthy Ukrainian businessman. Photo: Valery Hache / AFP via Getty Images",
+    "description_en": "Update: French media reports identity of Monaco blast victim. A source close to the investigation told the news outlet BFM TV that the male victim was Vadym Yermolaiev, a wealthy Ukrainian businessman. Photo: Valery Hache / AFP via Getty Images",
+    "description_uk": "Update: French media reports identity of Monaco blast victim. A source close to the investigation told the news outlet BFM TV that the male victim was Vadym Yermolaiev, a wealthy Ukrainian businessman. Photo: Valery Hache / AFP via Getty Images",
+    "time": "",
+    "pubDate": "2026-06-29T22:27:43+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53979",
+    "score": 13.0,
+    "views": 290,
+    "forwards": 5
+  },
+  {
+    "title": "Kyiv: Explosions reported",
+    "title_en": "Kyiv: Explosions reported",
+    "title_uk": "Київ: повідомлення про вибухи",
+    "description": "Massive explosion in Monaco injures Ukrainian family, media reports. Authorities in Monaco said the blast was \"likely an attack.\" The explosion injured a 13-year-old girl and her parents, who are both in critical condition.",
+    "description_en": "Massive explosion in Monaco injures Ukrainian family, media reports. Authorities in Monaco said the blast was \"likely an attack.\" The explosion injured a 13-year-old girl and her parents, who are both in critical condition.",
+    "description_uk": "Massive explosion in Monaco injures Ukrainian family, media reports. Authorities in Monaco said the blast was \"likely an attack.\" The explosion injured a 13-year-old girl and her parents, who are both in critical condition.",
+    "time": "",
+    "pubDate": "2026-06-29T21:57:30+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53978",
+    "score": 13.0,
+    "views": 645,
+    "forwards": 7
+  },
+  {
     "title": "BpLA is approaching Kremenchuk from the north.",
     "title_en": "BpLA is approaching Kremenchuk from the north.",
     "title_uk": "BpLA наближається до Кременчука з півночі.",
@@ -36,24 +90,6 @@
     "forwards": 1
   },
   {
-    "title": "Kyiv: Ballistic missile launch detected",
-    "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
-    "description": "Ukraine, Denmark discuss drone deal, joint anti-ballistic capabilities. President Volodymyr Zelensky and Danish Defense Minister Jeppe Bruus discussed a potential drone cooperation agreement and expanded efforts to strengthen anti-ballistic capabilities during a June 29 meeting.",
-    "description_en": "Ukraine, Denmark discuss drone deal, joint anti-ballistic capabilities. President Volodymyr Zelensky and Danish Defense Minister Jeppe Bruus discussed a potential drone cooperation agreement and expanded efforts to strengthen anti-ballistic capabilities during a June 29 meeting.",
-    "description_uk": "Ukraine, Denmark discuss drone deal, joint anti-ballistic capabilities. President Volodymyr Zelensky and Danish Defense Minister Jeppe Bruus discussed a potential drone cooperation agreement and expanded efforts to strengthen anti-ballistic capabilities during a June 29 meeting.",
-    "time": "",
-    "pubDate": "2026-06-29T20:03:03+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53975",
-    "score": 9.0,
-    "views": 1095,
-    "forwards": 1
-  },
-  {
     "title": "🇧🇾 Lukashenka will enter the war only if he is confident of a quick...",
     "title_en": "🇧🇾 Lukashenka will enter the war only if he is confident of a quick...",
     "title_uk": "🇧🇾 Лукашенко вступить у війну, лише якщо буде впевнений у швидкому...",
@@ -68,7 +104,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194834",
     "score": 5.5,
-    "views": 96939,
+    "views": 105949,
     "forwards": 72
   },
   {
@@ -144,24 +180,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A jet UAV in the direction of Gadyach in the Poltava region from the north",
-    "description_en": "A jet UAV in the direction of Gadyach in the Poltava region from the north",
-    "description_uk": "Реактивний БпЛА у напрямку Гадяча на Полтавщині з півночі",
-    "time": "",
-    "pubDate": "2026-06-29T15:28:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66807",
-    "score": 5.0,
-    "views": 15147,
-    "forwards": 0
-  },
-  {
     "title": "Luhansk: Three bridges, a warehouse of material and technical means and enemy...",
     "title_en": "Luhansk: Three bridges, a warehouse of material and technical means and enemy...",
     "title_uk": "Луганськ: Три мости, склад матеріально-технічних засобів та ворожий...",
@@ -176,8 +194,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40553",
     "score": 14.0,
-    "views": 38589,
-    "forwards": 159
+    "views": 38970,
+    "forwards": 161
   },
   {
     "title": "Kole Tyschenko received a \"greeting\" from NABU: the people's deputy...",
@@ -196,6 +214,24 @@
     "score": 4.5,
     "views": 103450,
     "forwards": 146
+  },
+  {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "Hypersonic or quasi-ballistic? Inside Russia's Zircon missiles terrorising Kyiv Read the full article on our website",
+    "description_en": "Hypersonic or quasi-ballistic? Inside Russia's Zircon missiles terrorising Kyiv Read the full article on our website",
+    "description_uk": "Hypersonic or quasi-ballistic? Inside Russia's Zircon missiles terrorising Kyiv Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-06-29T11:58:28+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48862",
+    "score": 6.0,
+    "views": 61,
+    "forwards": 0
   },
   {
     "title": "Nikopol: Jet UAVs in the Nikopol district of the Dnipropetrovsk region ➡️...",
@@ -248,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19673",
     "score": 20.0,
-    "views": 185823,
-    "forwards": 343
+    "views": 186863,
+    "forwards": 344
   },
   {
     "title": "Casualties reported",
@@ -288,24 +324,6 @@
     "forwards": 13
   },
   {
-    "title": "Kyiv: Energy infrastructure hit",
-    "title_en": "Kyiv: Energy infrastructure hit",
-    "title_uk": "Київ: удар по енергетичній інфраструктурі",
-    "description": "Putin acknowledges gas station queues, fuel shortages amid Ukrainian strikes as Russia works to stabilize supply. Russian President Vladimir Putin on June 28 acknowledged gas station queues in Russia and shortages of various fuel types as Ukrainian strikes continue to increase pressure on Moscow's energy resources.",
-    "description_en": "Putin acknowledges gas station queues, fuel shortages amid Ukrainian strikes as Russia works to stabilize supply. Russian President Vladimir Putin on June 28 acknowledged gas station queues in Russia and shortages of various fuel types as Ukrainian strikes continue to increase pressure on Moscow's energy resources.",
-    "description_uk": "Putin acknowledges gas station queues, fuel shortages amid Ukrainian strikes as Russia works to stabilize supply. Russian President Vladimir Putin on June 28 acknowledged gas station queues in Russia and shortages of various fuel types as Ukrainian strikes continue to increase pressure on Moscow's energy resources.",
-    "time": "",
-    "pubDate": "2026-06-28T19:08:58+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/53964",
-    "score": 4.5,
-    "views": 3668,
-    "forwards": 3
-  },
-  {
     "title": "Spokesman of the Ministry of Foreign Affairs Georgy Tykhy in X: POV:...",
     "title_en": "Spokesman of the Ministry of Foreign Affairs Georgy Tykhy in X: POV:...",
     "title_uk": "Речник МЗС Георгій Тихий в X:POV:...",
@@ -320,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9414",
     "score": 5.0,
-    "views": 1388,
+    "views": 1391,
     "forwards": 13
   },
   {
@@ -338,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19672",
     "score": 6.5,
-    "views": 165644,
+    "views": 165882,
     "forwards": 191
   }
 ]
