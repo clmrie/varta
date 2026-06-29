@@ -3,19 +3,37 @@
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
-    "description": "Strike drones attack Kremenchuk from the north.",
-    "description_en": "Strike drones attack Kremenchuk from the north.",
-    "description_uk": "Ударні БпЛА на Кременчук з півночі.",
+    "description": "Strike drones on Kremenchuk from the northeast.",
+    "description_en": "Strike drones on Kremenchuk from the northeast.",
+    "description_uk": "Ударні БпЛА на Кременчук з північного сходу.",
     "time": "",
-    "pubDate": "2026-06-29T22:31:26+00:00",
+    "pubDate": "2026-06-29T23:34:25+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Ukraine",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66840",
+    "link": "https://t.me/kpszsu/66845",
     "score": 5.0,
-    "views": 6988,
-    "forwards": 29
+    "views": 6081,
+    "forwards": 1
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "Groups of attack UAVs through the north of Kharkiv region in the direction of Poltava region.",
+    "description_en": "Groups of attack UAVs through the north of Kharkiv region in the direction of Poltava region.",
+    "description_uk": "Групи ударних БпЛА через північ Харківщини у напрямку Полтавщини.",
+    "time": "",
+    "pubDate": "2026-06-29T23:13:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66844",
+    "score": 6.0,
+    "views": 14157,
+    "forwards": 36
   },
   {
     "title": "Kyiv: Update: French media reports identity of Monaco blast victim. A...",
@@ -32,13 +50,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53979",
     "score": 13.0,
-    "views": 290,
-    "forwards": 5
+    "views": 674,
+    "forwards": 9
   },
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомлення про вибухи",
+    "title_uk": "Київ: Повідомляється про вибухи",
     "description": "Massive explosion in Monaco injures Ukrainian family, media reports. Authorities in Monaco said the blast was \"likely an attack.\" The explosion injured a 13-year-old girl and her parents, who are both in critical condition.",
     "description_en": "Massive explosion in Monaco injures Ukrainian family, media reports. Authorities in Monaco said the blast was \"likely an attack.\" The explosion injured a 13-year-old girl and her parents, who are both in critical condition.",
     "description_uk": "Massive explosion in Monaco injures Ukrainian family, media reports. Authorities in Monaco said the blast was \"likely an attack.\" The explosion injured a 13-year-old girl and her parents, who are both in critical condition.",
@@ -50,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53978",
     "score": 13.0,
-    "views": 645,
-    "forwards": 7
+    "views": 956,
+    "forwards": 8
   },
   {
     "title": "BpLA is approaching Kremenchuk from the north.",
@@ -72,24 +90,6 @@
     "forwards": 35
   },
   {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "A group of attack UAVs north of Pavlograd on the border of Dnipropetrovsk and Kharkiv regions in the direction of Poltava region.",
-    "description_en": "A group of attack UAVs north of Pavlograd on the border of Dnipropetrovsk and Kharkiv regions in the direction of Poltava region.",
-    "description_uk": "Група ударних БпЛА північніше Павлограду на межі Дніпропетровської та Харківської областей у напрямку Полтавщини.",
-    "time": "",
-    "pubDate": "2026-06-29T20:24:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66831",
-    "score": 6.0,
-    "views": 51662,
-    "forwards": 1
-  },
-  {
     "title": "🇧🇾 Lukashenka will enter the war only if he is confident of a quick...",
     "title_en": "🇧🇾 Lukashenka will enter the war only if he is confident of a quick...",
     "title_uk": "🇧🇾 Лукашенко вступить у війну, лише якщо буде впевнений у швидкому...",
@@ -104,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194834",
     "score": 5.5,
-    "views": 105949,
-    "forwards": 72
+    "views": 112094,
+    "forwards": 90
   },
   {
     "title": "Energodar: Drone attack",
@@ -194,7 +194,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40553",
     "score": 14.0,
-    "views": 38970,
+    "views": 39179,
     "forwards": 161
   },
   {
@@ -218,7 +218,7 @@
   {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "title_uk": "Київ: Зафіксовано пуск балістичної ракети",
     "description": "Hypersonic or quasi-ballistic? Inside Russia's Zircon missiles terrorising Kyiv Read the full article on our website",
     "description_en": "Hypersonic or quasi-ballistic? Inside Russia's Zircon missiles terrorising Kyiv Read the full article on our website",
     "description_uk": "Hypersonic or quasi-ballistic? Inside Russia's Zircon missiles terrorising Kyiv Read the full article on our website",
@@ -284,7 +284,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19673",
     "score": 20.0,
-    "views": 186863,
+    "views": 187472,
     "forwards": 344
   },
   {
@@ -327,8 +327,8 @@
     "title": "Spokesman of the Ministry of Foreign Affairs Georgy Tykhy in X: POV:...",
     "title_en": "Spokesman of the Ministry of Foreign Affairs Georgy Tykhy in X: POV:...",
     "title_uk": "Речник МЗС Георгій Тихий в X:POV:...",
-    "description": "Spokesman of the Ministry of Foreign Affairs Georgy Tykhy in X: POV: you sound like you are about to win the war (for the fifth year in a row) RIL: started an aggressive war, hoping for a quick victory; failed to achieve any goal after losing 1.4 million people in over 4 years; your slow advances stop; war returns to your territory. Looks like a winner!",
-    "description_en": "Spokesman of the Ministry of Foreign Affairs Georgy Tykhy in X: POV: you sound like you are about to win the war (for the fifth year in a row) RIL: started an aggressive war, hoping for a quick victory; failed to achieve any goal after losing 1.4 million people in over 4 years; your slow advances stop; war returns to your territory. Looks like a winner!",
+    "description": "Spokesman of the Ministry of Foreign Affairs Georgy Tykhy in X: POV: you sound like you are about to win the war (for the fifth year in a row) RIL: started an aggressive war, hoping for a quick victory; failed to achieve any objective after losing 1.4 million people in over 4 years; your slow advances stop; war returns to your territory. Looks like a winner!",
+    "description_en": "Spokesman of the Ministry of Foreign Affairs Georgy Tykhy in X: POV: you sound like you are about to win the war (for the fifth year in a row) RIL: started an aggressive war, hoping for a quick victory; failed to achieve any objective after losing 1.4 million people in over 4 years; your slow advances stop; war returns to your territory. Looks like a winner!",
     "description_uk": "Речник МЗС Георгій Тихий у Х: ПОВ: звучиш так, ніби ось-ось виграєш війну (п’ятий рік поспіль) РІЛ: розпочав агресивну війну, сподіваючись на швидку перемогу; не досяг жодної мети після втрати 1,4 мільйона людей за понад 4 роки; твої повільні просування зупиняються; війна повертається на твою територію. Виглядає переможно!",
     "time": "",
     "pubDate": "2026-06-28T16:26:12+00:00",
@@ -338,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9414",
     "score": 5.0,
-    "views": 1391,
+    "views": 1392,
     "forwards": 13
   },
   {
@@ -356,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19672",
     "score": 6.5,
-    "views": 165882,
+    "views": 166058,
     "forwards": 191
   }
 ]
