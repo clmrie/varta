@@ -1,5 +1,41 @@
 [
   {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern and south-eastern directions! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern and south-eastern directions! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному та південно-східному напрямках! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-06-29T17:53:07+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66823",
+    "score": 5.0,
+    "views": 15180,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "Strike drones from the south on the city of Zaporizhzhia",
+    "description_en": "Strike drones from the south on the city of Zaporizhzhia",
+    "description_uk": "Ударні БпЛА з півдня на м. Запоріжжя",
+    "time": "",
+    "pubDate": "2026-06-29T17:52:17+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66822",
+    "score": 6.0,
+    "views": 15184,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -32,8 +68,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40553",
     "score": 14.0,
-    "views": 16247,
-    "forwards": 129
+    "views": 30475,
+    "forwards": 152
   },
   {
     "title": "Kole Tyschenko received a \"greeting\" from NABU: the people's deputy...",
@@ -56,7 +92,7 @@
   {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: Зафіксовано пуск балістичної ракети",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
     "description": "Hypersonic or quasi-ballistic? Inside Russia's Zircon missiles terrorising Kyiv Read the full article on our website",
     "description_en": "Hypersonic or quasi-ballistic? Inside Russia's Zircon missiles terrorising Kyiv Read the full article on our website",
     "description_uk": "Hypersonic or quasi-ballistic? Inside Russia's Zircon missiles terrorising Kyiv Read the full article on our website",
@@ -68,7 +104,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48862",
     "score": 6.0,
-    "views": 35,
+    "views": 47,
     "forwards": 0
   },
   {
@@ -122,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19673",
     "score": 20.0,
-    "views": 141001,
-    "forwards": 311
+    "views": 165135,
+    "forwards": 321
   },
   {
     "title": "Casualties reported",
@@ -194,15 +230,15 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53964",
     "score": 4.5,
-    "views": 3409,
+    "views": 3529,
     "forwards": 3
   },
   {
     "title": "Spokesman of the Ministry of Foreign Affairs Georgy Tykhy in X: POV:...",
     "title_en": "Spokesman of the Ministry of Foreign Affairs Georgy Tykhy in X: POV:...",
     "title_uk": "Речник МЗС Георгій Тихий в X:POV:...",
-    "description": "Spokesman of the Ministry of Foreign Affairs Georgy Tykhy in X: POV: you sound like you are about to win the war (for the fifth year in a row) RIL: started an aggressive war, hoping for a quick victory; failed to achieve any objective after losing 1.4 million people in over 4 years; your slow advances stop; war returns to your territory. Looks like a winner!",
-    "description_en": "Spokesman of the Ministry of Foreign Affairs Georgy Tykhy in X: POV: you sound like you are about to win the war (for the fifth year in a row) RIL: started an aggressive war, hoping for a quick victory; failed to achieve any objective after losing 1.4 million people in over 4 years; your slow advances stop; war returns to your territory. Looks like a winner!",
+    "description": "Spokesman of the Ministry of Foreign Affairs Georgy Tykhy in X: POV: you sound like you are about to win the war (for the fifth year in a row) RIL: started an aggressive war, hoping for a quick victory; failed to achieve any goal after losing 1.4 million people in over 4 years; your slow advances stop; war returns to your territory. Looks like a winner!",
+    "description_en": "Spokesman of the Ministry of Foreign Affairs Georgy Tykhy in X: POV: you sound like you are about to win the war (for the fifth year in a row) RIL: started an aggressive war, hoping for a quick victory; failed to achieve any goal after losing 1.4 million people in over 4 years; your slow advances stop; war returns to your territory. Looks like a winner!",
     "description_uk": "Речник МЗС Георгій Тихий у Х: ПОВ: звучиш так, ніби ось-ось виграєш війну (п’ятий рік поспіль) РІЛ: розпочав агресивну війну, сподіваючись на швидку перемогу; не досяг жодної мети після втрати 1,4 мільйона людей за понад 4 роки; твої повільні просування зупиняються; війна повертається на твою територію. Виглядає переможно!",
     "time": "",
     "pubDate": "2026-06-28T16:26:12+00:00",
@@ -212,7 +248,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9414",
     "score": 5.0,
-    "views": 1359,
+    "views": 1376,
     "forwards": 13
   },
   {
@@ -230,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19672",
     "score": 6.5,
-    "views": 156519,
-    "forwards": 181
+    "views": 161393,
+    "forwards": 191
   },
   {
     "title": "Zaporizhzhia: Missile attack",
@@ -248,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53957",
     "score": 11.0,
-    "views": 3258,
+    "views": 3318,
     "forwards": 1
   }
 ]
