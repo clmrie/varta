@@ -1,5 +1,77 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "A jet UAV in the direction of Berezneguvaty in the Mykolayiv region from the south",
+    "description_en": "A jet UAV in the direction of Berezneguvaty in the Mykolayiv region from the south",
+    "description_uk": "Реактивний БпЛА у напрямку Березнегуватого на Миколаївщині із півдня",
+    "time": "",
+    "pubDate": "2026-06-30T05:51:17+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66893",
+    "score": 6.0,
+    "views": 20217,
+    "forwards": 0
+  },
+  {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "138 TARGETS DESTROYED/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of June 30 (from 18:00 on June 29), the enemy attacked 154 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones from the directions: Kursk, Orel - Russian Federation, Donetsk - TOT, Gvardiyske - TOT of the Republic of Crimea. The air attack was repelled by aviation, anti-aircraft missile forces, EW and unmanned systems units, mobile fire groups...",
+    "description_en": "138 TARGETS DESTROYED/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of June 30 (from 18:00 on June 29), the enemy attacked 154 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones from the directions: Kursk, Orel - Russian Federation, Donetsk - TOT, Gvardiyske - TOT of the Republic of Crimea. The air attack was repelled by aviation, anti-aircraft missile forces, EW and unmanned systems units, mobile fire groups...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 138 ЦІЛЕЙ ➖➖➖➖➖➖➖➖➖➖ У ніч на 30 червня (з 18:00 29 червня) противник атакував 154 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Орел – рф., Донецьк – ТОТ, Гвардійське – ТОТ АР Крим. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем, мобільні вогневі групи...",
+    "time": "",
+    "pubDate": "2026-06-30T05:38:14+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66892",
+    "score": 13.5,
+    "views": 40452,
+    "forwards": 69
+  },
+  {
+    "title": "And here are the first arrivals",
+    "title_en": "And here are the first arrivals",
+    "title_uk": "І ось перші надходження",
+    "description": "And here are the first arrivals",
+    "description_en": "And here are the first arrivals",
+    "description_uk": "А вот и первые прилеты",
+    "time": "",
+    "pubDate": "2026-06-30T04:41:01+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/194844",
+    "score": 4.5,
+    "views": 87770,
+    "forwards": 111
+  },
+  {
+    "title": "50 drones intercepted",
+    "title_en": "50 drones intercepted",
+    "title_uk": "Перехоплено 50 безпілотників",
+    "description": "Drones massively attack Moscow and the region The mayor of Moscow says that Russian air defense has already shot down 50 UAVs. And how many did not go astray? 😏",
+    "description_en": "Drones massively attack Moscow and the region The mayor of Moscow says that Russian air defense has already shot down 50 UAVs. And how many did not go astray? 😏",
+    "description_uk": "Дроны массово атакуют Москву и область Мэр Москвы заявляет, что руснявое ПВО якобы сбило уже 50 БПЛА. А сколько не сбило?😏",
+    "time": "",
+    "pubDate": "2026-06-30T03:55:05+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/194842",
+    "score": 9.5,
+    "views": 115621,
+    "forwards": 218
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -86,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53979",
     "score": 13.0,
-    "views": 1047,
-    "forwards": 12
+    "views": 1914,
+    "forwards": 13
   },
   {
     "title": "Kyiv: Explosions reported",
@@ -104,8 +176,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53978",
     "score": 13.0,
-    "views": 1280,
-    "forwards": 8
+    "views": 1971,
+    "forwards": 9
   },
   {
     "title": "BpLA is approaching Kremenchuk from the north.",
@@ -180,60 +252,6 @@
     "forwards": 0
   },
   {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern and south-eastern directions! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern and south-eastern directions! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному та південно-східному напрямках! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-06-29T17:53:07+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66823",
-    "score": 5.0,
-    "views": 15180,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "Strike drones from the south on the city of Zaporizhzhia",
-    "description_en": "Strike drones from the south on the city of Zaporizhzhia",
-    "description_uk": "Ударні БпЛА з півдня на м. Запоріжжя",
-    "time": "",
-    "pubDate": "2026-06-29T17:52:17+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66822",
-    "score": 6.0,
-    "views": 15184,
-    "forwards": 0
-  },
-  {
-    "title": "Luhansk: Three bridges, a warehouse of material and technical means and enemy...",
-    "title_en": "Luhansk: Three bridges, a warehouse of material and technical means and enemy...",
-    "title_uk": "Луганськ: Три мости, склад матеріально-технічних засобів та ворожий...",
-    "description": "Three bridges, a warehouse of material and technical means and enemy control points were hit ⚡️On June 28 and on the night of June 29, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged a number of important military targets of the enemy. ⚡️Yes, a road bridge in the Novoazovsk region of the Donetsk region was affected, as well as two railway bridges on...",
-    "description_en": "Three bridges, a warehouse of material and technical means and enemy control points were hit ⚡️On June 28 and on the night of June 29, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged a number of important military targets of the enemy. ⚡️Yes, a road bridge in the Novoazovsk region of the Donetsk region was affected, as well as two railway bridges on...",
-    "description_uk": "Уражено три мости, склад матеріально-технічних засобів та пункти управління противника ⚡️28 червня та в ніч на 29 червня в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України завдали ураження низці важливих військових цілей противника. ⚡️Так, уражено автомобільний міст у районі Новоазовська Донецької області, а також два залізничні мости на...",
-    "time": "",
-    "pubDate": "2026-06-29T13:52:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Luhansk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/40553",
-    "score": 14.0,
-    "views": 39501,
-    "forwards": 161
-  },
-  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Київ: виявлено пуск балістичної ракети",
@@ -248,7 +266,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48862",
     "score": 6.0,
-    "views": 61,
+    "views": 67,
     "forwards": 0
   },
   {
@@ -266,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19673",
     "score": 20.0,
-    "views": 188388,
-    "forwards": 345
+    "views": 195750,
+    "forwards": 351
   },
   {
     "title": "Casualties reported",
@@ -288,24 +306,6 @@
     "forwards": 435
   },
   {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "82 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of June 29 (from 18:00 on June 28), the enemy attacked 108 attack UAVs of the Shahed, Gerbera, Italmas type and imitation drones of the \"Parody\" type from the directions of Bryansk, Kursk, Millerovo, Orel, Primorsko-Akhtarsk - Russian Federation, TOT of the Donetsk region; Chauda, ​​Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
-    "description_en": "82 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of June 29 (from 18:00 on June 28), the enemy attacked 108 attack UAVs of the Shahed, Gerbera, Italmas type and imitation drones of the \"Parody\" type from the directions of Bryansk, Kursk, Millerovo, Orel, Primorsko-Akhtarsk - Russian Federation, TOT of the Donetsk region; Chauda, ​​Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 82 ВОРОЖИХ БПЛА У ніч на 29 червня (з 18:00 28 червня) противник атакував 108 ударними БпЛА типу Shahed, Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків Брянськ, Курськ, Міллєрово, Орел, Приморсько-Ахтарськ – рф., ТОТ Донецької обл.; Чауда, Гвардійське – ТОТ АР Крим. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних...",
-    "time": "",
-    "pubDate": "2026-06-29T05:22:05+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/40534",
-    "score": 13.0,
-    "views": 8539,
-    "forwards": 13
-  },
-  {
     "title": "Spokesman of the Ministry of Foreign Affairs Georgy Tykhy in X: POV:...",
     "title_en": "Spokesman of the Ministry of Foreign Affairs Georgy Tykhy in X: POV:...",
     "title_uk": "Речник МЗС Георгій Тихий в X:POV:...",
@@ -320,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9414",
     "score": 5.0,
-    "views": 1392,
+    "views": 1417,
     "forwards": 13
   },
   {
@@ -338,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19672",
     "score": 6.5,
-    "views": 166295,
-    "forwards": 191
+    "views": 167737,
+    "forwards": 192
   }
 ]
