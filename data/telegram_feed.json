@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea area heading for Odesa (Zatoka)",
+    "description_en": "UAV from the Black Sea area heading for Odesa (Zatoka)",
+    "description_uk": "БпЛА з акваторії Чорного моря курсом на Одещину (н.п.Затока)",
+    "time": "",
+    "pubDate": "2026-06-30T14:18:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/66924",
+    "score": 5.0,
+    "views": 36359,
+    "forwards": 0
+  },
+  {
+    "title": "Crimea: Ex-Russian proxy minister in occupied Crimea arrested in Kyiv, SBU...",
+    "title_en": "Crimea: Ex-Russian proxy minister in occupied Crimea arrested in Kyiv, SBU...",
+    "title_uk": "Крим: у Києві заарештували екс-довіреного міністра РФ в окупованому Криму, – СБУ...",
+    "description": "Ex-Russian proxy minister in occupied Crimea arrested in Kyiv, SBU says. The suspect helped Russia take control of Crimea’s energy infrastructure in 2014, the Security Service of Ukraine (SBU) said.",
+    "description_en": "Ex-Russian proxy minister in occupied Crimea arrested in Kyiv, SBU says. The suspect helped Russia take control of Crimea’s energy infrastructure in 2014, the Security Service of Ukraine (SBU) said.",
+    "description_uk": "Ex-Russian proxy minister in occupied Crimea arrested in Kyiv, SBU says. The suspect helped Russia take control of Crimea’s energy infrastructure in 2014, the Security Service of Ukraine (SBU) said.",
+    "time": "",
+    "pubDate": "2026-06-30T13:04:17+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Crimea",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/53990",
+    "score": 4.5,
+    "views": 1048,
+    "forwards": 2
+  },
+  {
     "title": "Air defense active",
     "title_en": "Air defense active",
     "title_uk": "Активна ППО",
@@ -13,9 +49,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194876",
-    "score": 5.0,
-    "views": 7441,
-    "forwards": 2
+    "score": 5.5,
+    "views": 107823,
+    "forwards": 108
   },
   {
     "title": "BpLA from Sumy region to Poltava region.",
@@ -32,8 +68,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/66919",
     "score": 5.0,
-    "views": 13118,
-    "forwards": 0
+    "views": 88969,
+    "forwards": 1
   },
   {
     "title": "Kyiv: How Ukraine's ultimatum changed the equation for Belarus The relay...",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/53987",
     "score": 7.5,
-    "views": 642,
+    "views": 1563,
     "forwards": 4
   },
   {
@@ -68,8 +104,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40586",
     "score": 10.5,
-    "views": 5081,
-    "forwards": 103
+    "views": 17410,
+    "forwards": 144
   },
   {
     "title": "Sumy: BpLA headed for the city of Sumy from the northeast.",
@@ -176,8 +212,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40580",
     "score": 13.0,
-    "views": 5111,
-    "forwards": 13
+    "views": 5574,
+    "forwards": 14
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -234,42 +270,6 @@
     "forwards": 218
   },
   {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "Reactive UAVs in the Prylutsky District of Chernihiv Oblast ➡️ in the southern direction",
-    "description_en": "Reactive UAVs in the Prylutsky District of Chernihiv Oblast ➡️ in the southern direction",
-    "description_uk": "Реактивні БпЛА у Прилуцькому районі на Чернігівщині ➡️ у південному напрямку",
-    "time": "",
-    "pubDate": "2026-06-30T01:34:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66858",
-    "score": 6.0,
-    "views": 4274,
-    "forwards": 1
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern and...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern and...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на східному та...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern and southeastern directions! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern and southeastern directions! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на східному та південно-східному напрямках! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-06-30T01:31:44+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66856",
-    "score": 5.0,
-    "views": 5189,
-    "forwards": 1
-  },
-  {
     "title": "Kyiv: Update: French media reports identity of Monaco blast victim. A...",
     "title_en": "Kyiv: Update: French media reports identity of Monaco blast victim. A...",
     "title_uk": "Київ: Оновлення: французькі ЗМІ повідомляють про особу жертви вибуху в Монако. А...",
@@ -320,7 +320,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48862",
     "score": 6.0,
-    "views": 75,
+    "views": 82,
     "forwards": 0
   },
   {
@@ -338,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19673",
     "score": 20.0,
-    "views": 204649,
+    "views": 207517,
     "forwards": 352
   },
   {
@@ -356,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9414",
     "score": 5.0,
-    "views": 1457,
+    "views": 1464,
     "forwards": 13
   },
   {
@@ -374,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19672",
     "score": 6.5,
-    "views": 170477,
+    "views": 171831,
     "forwards": 192
   }
 ]
