@@ -1,21 +1,57 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAVs headed for Brovary from the north.",
+    "description_en": "Jet UAVs headed for Brovary from the north.",
+    "description_uk": "Реактивні БпЛА курсом на Бровари з півночі.",
+    "time": "",
+    "pubDate": "2026-07-01T19:37:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Brovary",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67009",
+    "score": 5.0,
+    "views": 33365,
+    "forwards": 34
+  },
+  {
     "title": "Kyiv: Drone incoming",
     "title_en": "Kyiv: Drone incoming",
     "title_uk": "Київ: Дрон вхід",
-    "description": "A jet UAV heading towards Kyiv from the east.",
-    "description_en": "A jet UAV heading towards Kyiv from the east.",
-    "description_uk": "Реактивний БпЛА курсом на Київ зі сходу.",
+    "description": "Jet UAVs headed for Kyiv from the north.",
+    "description_en": "Jet UAVs headed for Kyiv from the north.",
+    "description_uk": "Реактивні БпЛА курсом на Київ з півночі.",
     "time": "",
-    "pubDate": "2026-07-01T17:29:29+00:00",
+    "pubDate": "2026-07-01T19:22:13+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Kyiv",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67003",
-    "score": 6.0,
-    "views": 44485,
-    "forwards": 35
+    "link": "https://t.me/kpszsu/67008",
+    "score": 6.5,
+    "views": 66751,
+    "forwards": 107
+  },
+  {
+    "title": "Air defense active",
+    "title_en": "Air defense active",
+    "title_uk": "Активна ППО",
+    "description": "Ukraine began testing laser air defense, - Fedorov, the Minister of Defense reported that Ukrainian laser systems are already being tested and are showing first results. Details have not yet been disclosed. In addition, according to him, during the last attack on Kyiv, they managed to shoot down 95% of Russian drones, and interceptor drones destroyed almost 7 thousand \"Shakhedov\" and \"Gerber\" in May. Also in Ukraine now...",
+    "description_en": "Ukraine began testing laser air defense, - Fedorov, the Minister of Defense reported that Ukrainian laser systems are already being tested and are showing first results. Details have not yet been disclosed. In addition, according to him, during the last attack on Kyiv, they managed to shoot down 95% of Russian drones, and interceptor drones destroyed almost 7 thousand \"Shakhedov\" and \"Gerber\" in May. Also in Ukraine now...",
+    "description_uk": "Украина начала испытания лазерного ПВО, - Федоров Министр обороны сообщил, что украинские лазерные системы уже проходят испытания и показывают первые результаты. Подробности пока не раскрываются. Кроме того, по его словам, во время последней атаки на Киев удалось сбить 95% российских беспилотников, а в мае дроны-перехватчики уничтожили почти 7 тысяч \"Шахедов\" и \"Гербер\". Также в Украине сейчас...",
+    "time": "",
+    "pubDate": "2026-07-01T18:01:12+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/194980",
+    "score": 6.5,
+    "views": 128348,
+    "forwards": 432
   },
   {
     "title": "Kyiv: Jet UAV headed for Vyshneve/Kyiv.",
@@ -50,8 +86,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19706",
     "score": 15.5,
-    "views": 124964,
-    "forwards": 1055
+    "views": 265796,
+    "forwards": 1506
   },
   {
     "title": "💬 Minister of Foreign Affairs of Ukraine Andrii Sybiga expressed his...",
@@ -68,7 +104,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9454",
     "score": 5.0,
-    "views": 438,
+    "views": 596,
     "forwards": 2
   },
   {
@@ -86,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40644",
     "score": 3.5,
-    "views": 4925,
-    "forwards": 73
+    "views": 8005,
+    "forwards": 84
   },
   {
     "title": "Drone attack on energy grid",
@@ -104,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194973",
     "score": 4.0,
-    "views": 93666,
-    "forwards": 109
+    "views": 138729,
+    "forwards": 146
   },
   {
     "title": "BpLA headed for Myrhorod from the southwest.",
@@ -182,7 +218,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
+    "title_uk": "Київ: повідомлення про вибухи",
     "description": "Military training should be mandatory for everyone, says Ukrainian female soldier The Kyiv Independent’s Kate Tsurkan speaks with Ukrainian author and soldier Kateryna Zarembo about her decision to join Ukraine’s military, the realities of serving as a combat medic, and how Russia’s full-scale invasion has reshaped her relationship with writing. The conversation explores women’s roles in...",
     "description_en": "Military training should be mandatory for everyone, says Ukrainian female soldier The Kyiv Independent’s Kate Tsurkan speaks with Ukrainian author and soldier Kateryna Zarembo about her decision to join Ukraine’s military, the realities of serving as a combat medic, and how Russia’s full-scale invasion has reshaped her relationship with writing. The conversation explores women’s roles in...",
     "description_uk": "Military training should be mandatory for everyone, says Ukrainian female soldier The Kyiv Independent’s Kate Tsurkan speaks with Ukrainian author and soldier Kateryna Zarembo about her decision to join Ukraine’s military, the realities of serving as a combat medic, and how Russia’s full-scale invasion has reshaped her relationship with writing. The conversation explores women’s roles in...",
@@ -194,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54008",
     "score": 5.0,
-    "views": 1609,
+    "views": 1986,
     "forwards": 12
   },
   {
@@ -212,8 +248,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40638",
     "score": 5.0,
-    "views": 4426,
-    "forwards": 6
+    "views": 4895,
+    "forwards": 7
   },
   {
     "title": "Dnipro: BpLA heading for the Dnipro from the south.",
@@ -338,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9440",
     "score": 3.5,
-    "views": 5763,
+    "views": 6237,
     "forwards": 20
   },
   {
@@ -356,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19693",
     "score": 4.5,
-    "views": 240596,
-    "forwards": 781
+    "views": 249364,
+    "forwards": 791
   },
   {
     "title": "🇯🇵 Minister of Foreign Affairs of Ukraine Andriy Sybiga met with JICA...",
@@ -394,42 +430,6 @@
     "score": 18.0,
     "views": 890,
     "forwards": 3
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-07-01T06:00:33+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66968",
-    "score": 5.0,
-    "views": 29282,
-    "forwards": 1
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons",
-    "description_en": "☄️ The threat of using ballistic weapons",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння",
-    "time": "",
-    "pubDate": "2026-07-01T05:56:28+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66966",
-    "score": 5.0,
-    "views": 39391,
-    "forwards": 2
   },
   {
     "title": "Casualties reported",
