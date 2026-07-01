@@ -1,5 +1,23 @@
 [
   {
+    "title": "Rockets in the west of Kirovohrad region in the direction of...",
+    "title_en": "Rockets in the west of Kirovohrad region in the direction of...",
+    "title_uk": "Ракети на заході Кіровоградської області в напрямку...",
+    "description": "Rockets in the west of Kirovohrad region in the direction of Vinnytsia region.",
+    "description_en": "Rockets in the west of Kirovohrad region in the direction of Vinnytsia region.",
+    "description_uk": "Ракети на заході Кіровоградщини у напрямку Вінниччини.",
+    "time": "",
+    "pubDate": "2026-07-01T23:57:20+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Vinnytsia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67055",
+    "score": 5.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Drone incoming",
     "title_en": "Kyiv: Drone incoming",
     "title_uk": "Київ: Дрон вхід",
@@ -7,15 +25,33 @@
     "description_en": "A jet UAV on Kyiv from the north.",
     "description_uk": "Реактивний БпЛА на Київ з півночі.",
     "time": "",
-    "pubDate": "2026-07-01T22:19:36+00:00",
+    "pubDate": "2026-07-01T23:46:28+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Kyiv",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67027",
+    "link": "https://t.me/kpszsu/67052",
     "score": 6.0,
-    "views": 38543,
+    "views": 50530,
     "forwards": 36
+  },
+  {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "Update: At least 5 people injured in Russia's ballistic missile attack on Kyiv. An apartment building in the city center has been \"destroyed\" and at least five people have been injured in Russia's ongoing missile and drone attack on Kyiv, authorities said.",
+    "description_en": "Update: At least 5 people injured in Russia's ballistic missile attack on Kyiv. An apartment building in the city center has been \"destroyed\" and at least five people have been injured in Russia's ongoing missile and drone attack on Kyiv, authorities said.",
+    "description_uk": "Update: At least 5 people injured in Russia's ballistic missile attack on Kyiv. An apartment building in the city center has been \"destroyed\" and at least five people have been injured in Russia's ongoing missile and drone attack on Kyiv, authorities said.",
+    "time": "",
+    "pubDate": "2026-07-01T23:32:23+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54022",
+    "score": 15.0,
+    "views": 484,
+    "forwards": 1
   },
   {
     "title": "Ballistic missile launch detected",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54018",
     "score": 13.0,
-    "views": 989,
-    "forwards": 9
+    "views": 1545,
+    "forwards": 10
   },
   {
     "title": "Drone incoming",
@@ -86,15 +122,15 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194993",
     "score": 5.5,
-    "views": 74144,
-    "forwards": 109
+    "views": 93864,
+    "forwards": 110
   },
   {
     "title": "Missile launch detected",
     "title_en": "Missile launch detected",
     "title_uk": "Виявлено запуск ракети",
-    "description": "About 10 strategic aircraft of the Russian Federation have already taken to the air - \"Nikolaevskiy Vanek\". Depending on what launch lines they will go to, the missiles can enter the airspace of Ukraine from approximately 02:00 to 05:00.",
-    "description_en": "About 10 strategic aircraft of the Russian Federation have already taken to the air - \"Nikolaevskiy Vanek\". Depending on what launch lines they will go to, the missiles can enter the airspace of Ukraine from approximately 02:00 to 05:00.",
+    "description": "About 10 strategic aircraft of the Russian Federation, \"Nikolaevsky Vanek\", have already taken to the air. Depending on what launch lines they are headed for, the missiles can enter the airspace of Ukraine from approximately 02:00 to 05:00.",
+    "description_en": "About 10 strategic aircraft of the Russian Federation, \"Nikolaevsky Vanek\", have already taken to the air. Depending on what launch lines they are headed for, the missiles can enter the airspace of Ukraine from approximately 02:00 to 05:00.",
     "description_uk": "В воздух поднялись уже около 10 бортов стратегической авиации рф, - \"Николаевский Ванек\" В зависимости от того, на какие пусковые рубежи они направятся, ракеты могут войти в воздушное пространство Украины примерно с 02:00 до 05:00.",
     "time": "",
     "pubDate": "2026-07-01T20:42:12+00:00",
@@ -104,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/194992",
     "score": 4.5,
-    "views": 83711,
-    "forwards": 334
+    "views": 102057,
+    "forwards": 345
   },
   {
     "title": "Jet UAVs in the center and east of Kyiv.",
@@ -194,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19706",
     "score": 15.5,
-    "views": 338446,
-    "forwards": 1630
+    "views": 349866,
+    "forwards": 1653
   },
   {
     "title": "💬 Minister of Foreign Affairs of Ukraine Andrii Sybiga expressed his...",
@@ -212,7 +248,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9454",
     "score": 5.0,
-    "views": 781,
+    "views": 820,
     "forwards": 2
   },
   {
@@ -230,8 +266,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40644",
     "score": 3.5,
-    "views": 9361,
-    "forwards": 85
+    "views": 9608,
+    "forwards": 86
   },
   {
     "title": "Drone attack on energy grid",
@@ -338,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40638",
     "score": 5.0,
-    "views": 5134,
+    "views": 5184,
     "forwards": 7
   },
   {
@@ -357,24 +393,6 @@
     "link": "https://t.me/kpszsu/66985",
     "score": 6.0,
     "views": 59616,
-    "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: BpLA heading for Mykolaiv from the south. 🛵 BpLA in Dnipropetrovsk...",
-    "title_en": "Mykolaiv: BpLA heading for Mykolaiv from the south. 🛵 BpLA in Dnipropetrovsk...",
-    "title_uk": "Миколаїв: BpLA прямує на Миколаїв з півдня. 🛵 BpLA в Дніпропетровську...",
-    "description": "BpLA heading for Mykolaiv from the south. 🛵 BpLA in Dnipropetrovsk region, heading for Synelnikovo. 🛵 BpLA heading to Kharkiv from the north. 🛵 BpLA heading for Sumy from the north.",
-    "description_en": "BpLA heading for Mykolaiv from the south. 🛵 BpLA in Dnipropetrovsk region, heading for Synelnikovo. 🛵 BpLA heading to Kharkiv from the north. 🛵 BpLA heading for Sumy from the north.",
-    "description_uk": "БпЛА курсом на Миколаїв з півдня. 🛵 БпЛА на Дніпропетровщині, курсом на Синельникове. 🛵 БпЛА курсом на Харків з півночі. 🛵 БпЛА курсом на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-07-01T10:55:35+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/66983",
-    "score": 6.0,
-    "views": 88989,
     "forwards": 0
   },
   {
@@ -430,23 +448,5 @@
     "score": 13.5,
     "views": 39497,
     "forwards": 193
-  },
-  {
-    "title": "🇯🇵 Minister of Foreign Affairs of Ukraine Andriy Sybiga met with...",
-    "title_en": "🇯🇵 Minister of Foreign Affairs of Ukraine Andriy Sybiga met with...",
-    "title_uk": "🇯🇵 Міністр закордонних справ України Андрій Сибіга зустрівся з...",
-    "description": "🇯🇵 Minister of Foreign Affairs of Ukraine Andriy Sybiga met with Minister of Economy, Trade and Industry of Japan Ryosei Akazawa. The parties discussed the issues of strengthening economic cooperation between Ukraine and Japan, energy sustainability of Ukraine, as well as the important role of the Japanese government in the restoration of Ukraine. 💬 \"I am sure that our close cooperation will accelerate the modernization of Ukraine and contribute to...",
-    "description_en": "🇯🇵 Minister of Foreign Affairs of Ukraine Andriy Sybiga met with Minister of Economy, Trade and Industry of Japan Ryosei Akazawa. The parties discussed the issues of strengthening economic cooperation between Ukraine and Japan, energy sustainability of Ukraine, as well as the important role of the Japanese government in the restoration of Ukraine. 💬 \"I am sure that our close cooperation will accelerate the modernization of Ukraine and contribute to...",
-    "description_uk": "🇯🇵 Міністр закордонних справ України Андрій Сибіга зустрівся з міністром економіки, торгівлі та промисловості Японії Рьосей Акадзава. Сторони обговорили питання посилення економічного співробітництва між Україною та Японією, енергетичну стійкість України, а також важливу роль уряду Японії у відновленні України. 💬 \"Я впевнений, що наша тісна співпраця прискорить модернізацію України та сприятиме...",
-    "time": "",
-    "pubDate": "2026-07-01T07:00:45+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9440",
-    "score": 3.5,
-    "views": 6566,
-    "forwards": 20
   }
 ]
