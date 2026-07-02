@@ -1,5 +1,59 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "New groups of UAVs through Sumy Oblast past Lebedyn/Romny ➡️ in the direction of Chernihiv Oblast.",
+    "description_en": "New groups of UAVs through Sumy Oblast past Lebedyn/Romny ➡️ in the direction of Chernihiv Oblast.",
+    "description_uk": "Нові групи БпЛА через Сумщину повз Лебедин/Ромни ➡️ у напрямку Чернігівщини.",
+    "time": "",
+    "pubDate": "2026-07-02T22:09:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67156",
+    "score": 6.0,
+    "views": 2444,
+    "forwards": 10
+  },
+  {
+    "title": "Rivne: 4 killed, 11 injured",
+    "title_en": "Rivne: 4 killed, 11 injured",
+    "title_uk": "Рівне: 4 загиблих, 11 поранених",
+    "description": "Update: 4 dead, 11 injured after train collides with minibus in Rivne Oblast. Three of the injured victims are children, Governor Oleksandr Koval reported. The circumstances of the accident are being investigated. Photo: Oleksandr Koval / Telegram",
+    "description_en": "Update: 4 dead, 11 injured after train collides with minibus in Rivne Oblast. Three of the injured victims are children, Governor Oleksandr Koval reported. The circumstances of the accident are being investigated. Photo: Oleksandr Koval / Telegram",
+    "description_uk": "Update: 4 dead, 11 injured after train collides with minibus in Rivne Oblast. Three of the injured victims are children, Governor Oleksandr Koval reported. The circumstances of the accident are being investigated. Photo: Oleksandr Koval / Telegram",
+    "time": "",
+    "pubDate": "2026-07-02T21:32:48+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Rivne",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54041",
+    "score": 6.0,
+    "views": 475,
+    "forwards": 1
+  },
+  {
+    "title": "Sumyshchyna: BpLA passes Lebedyn ➡️ course to Poltava region.",
+    "title_en": "Sumyshchyna: BpLA passes Lebedyn ➡️ course to Poltava region.",
+    "title_uk": "Сумщина: BpLA передає курс Лебедин ➡️ на Полтавщину.",
+    "description": "Sumyshchyna: BpLA passes Lebedyn ➡️ course to Poltava region.",
+    "description_en": "Sumyshchyna: BpLA passes Lebedyn ➡️ course to Poltava region.",
+    "description_uk": "Сумщина: БпЛА повз Лебедин ➡️ курсом на Полтавщину.",
+    "time": "",
+    "pubDate": "2026-07-02T21:22:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67155",
+    "score": 5.0,
+    "views": 21135,
+    "forwards": 4
+  },
+  {
     "title": "Mykolaiv: Mykolaiv region: BpLA from the sea ➡️ in the direction of Ochakov.",
     "title_en": "Mykolaiv: Mykolaiv region: BpLA from the sea ➡️ in the direction of Ochakov.",
     "title_uk": "Миколаїв: Миколаївська область: БпЛА з моря ➡️ в напрямку Очакова.",
@@ -32,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54039",
     "score": 13.0,
-    "views": 841,
-    "forwards": 5
+    "views": 1323,
+    "forwards": 7
   },
   {
     "title": "Zaporizhzhia: 'Moscow will fall' — 13 Russian power stations shut down across...",
@@ -86,7 +140,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195091",
     "score": 4.5,
-    "views": 106660,
+    "views": 123392,
     "forwards": 357
   },
   {
@@ -122,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195088",
     "score": 9.5,
-    "views": 128044,
-    "forwards": 362
+    "views": 142420,
+    "forwards": 396
   },
   {
     "title": "Sumyshchyna: BpLA heading for Konotop.",
@@ -194,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19720",
     "score": 3.5,
-    "views": 58232,
-    "forwards": 96
+    "views": 60964,
+    "forwards": 98
   },
   {
     "title": "22 killed",
@@ -284,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9468",
     "score": 3.5,
-    "views": 5264,
+    "views": 5422,
     "forwards": 13
   },
   {
@@ -394,59 +448,5 @@
     "score": 6.0,
     "views": 2,
     "forwards": 0
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern,...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern,...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному,...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern, eastern and south-eastern directions! 🚀🚀 The threat of using aviation means of destruction for front-line areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern, eastern and south-eastern directions! 🚀🚀 The threat of using aviation means of destruction for front-line areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному, східному та південно-східному напрямках! 🚀🚀 Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-07-02T12:15:48+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67119",
-    "score": 5.0,
-    "views": 11113,
-    "forwards": 0
-  },
-  {
-    "title": "20 killed",
-    "title_en": "20 killed",
-    "title_uk": "20 убитих",
-    "description": "Already 20 dead: the number of victims of today's attack continues to grow, — KGVA According to preliminary data, another 10 people may be under the rubble.",
-    "description_en": "Already 20 dead: the number of victims of today's attack continues to grow, — KGVA According to preliminary data, another 10 people may be under the rubble.",
-    "description_uk": "Уже 20 погибших: число жертв сегодняшней атаки продолжает расти, — КГВА По предварительным данным, под завалами могут быть еще 10 человек.",
-    "time": "",
-    "pubDate": "2026-07-02T11:44:56+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195056",
-    "score": 5.5,
-    "views": 50282,
-    "forwards": 182
-  },
-  {
-    "title": "Russia used drones to monitor nuclear facilities in Europe for 18...",
-    "title_en": "Russia used drones to monitor nuclear facilities in Europe for 18...",
-    "title_uk": "Росія використовувала безпілотники для спостереження за ядерними об'єктами в Європі протягом 18...",
-    "description": "Russia used drones to monitor nuclear facilities in Europe for 18 months, — The Guardian IISS analysts counted 144 suspicious incidents in more than ten European countries. Among the targets were the British air base RAF Lakenheath, the French nuclear submarine base Île Longue, as well as facilities in Belgium and the Netherlands where American nuclear weapons are stored. It is assumed that drones could...",
-    "description_en": "Russia used drones to monitor nuclear facilities in Europe for 18 months, — The Guardian IISS analysts counted 144 suspicious incidents in more than ten European countries. Among the targets were the British air base RAF Lakenheath, the French nuclear submarine base Île Longue, as well as facilities in Belgium and the Netherlands where American nuclear weapons are stored. It is assumed that drones could...",
-    "description_uk": "россия 18 месяцев следила за ядерными объектами Европы с помощью дронов, — The Guardian Аналитики IISS насчитали 144 подозрительных инцидента более чем в десяти странах Европы. Среди целей были британская авиабаза RAF Lakenheath, французская база атомных подлодок Île Longue, а также объекты в Бельгии и Нидерландах, где хранится американское ядерное оружие. Предполагается, что беспилотники могли...",
-    "time": "",
-    "pubDate": "2026-07-02T11:08:29+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195049",
-    "score": 5.5,
-    "views": 82463,
-    "forwards": 111
   }
 ]
