@@ -1,5 +1,23 @@
 [
   {
+    "title": "Mykolaiv: Mykolaiv region: BpLA from the sea ➡️ in the direction of Ochakov.",
+    "title_en": "Mykolaiv: Mykolaiv region: BpLA from the sea ➡️ in the direction of Ochakov.",
+    "title_uk": "Миколаїв: Миколаївська область: БпЛА з моря ➡️ в напрямку Очакова.",
+    "description": "Mykolaiv region: BpLA from the sea ➡️ in the direction of Ochakov.",
+    "description_en": "Mykolaiv region: BpLA from the sea ➡️ in the direction of Ochakov.",
+    "description_uk": "Миколаївщина: БпЛА із моря ➡️ у напрямку Очакова.",
+    "time": "",
+    "pubDate": "2026-07-02T20:33:36+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67154",
+    "score": 6.0,
+    "views": 21152,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Casualties reported",
     "title_en": "Kyiv: Casualties reported",
     "title_uk": "Київ: повідомляється про постраждалих",
@@ -14,8 +32,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54039",
     "score": 13.0,
-    "views": 124,
-    "forwards": 0
+    "views": 841,
+    "forwards": 5
   },
   {
     "title": "Zaporizhzhia: 'Moscow will fall' — 13 Russian power stations shut down across...",
@@ -32,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54038",
     "score": 4.5,
-    "views": 459,
+    "views": 1075,
     "forwards": 1
   },
   {
@@ -50,8 +68,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/67152",
     "score": 5.5,
-    "views": 37406,
-    "forwards": 69
+    "views": 65082,
+    "forwards": 86
   },
   {
     "title": "Attack attack",
@@ -68,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195091",
     "score": 4.5,
-    "views": 71789,
-    "forwards": 281
+    "views": 106660,
+    "forwards": 357
   },
   {
     "title": "Kharkiv: Several groups of BpLA on the border of Donetsk region and Kharkiv...",
@@ -104,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195088",
     "score": 9.5,
-    "views": 101885,
-    "forwards": 324
+    "views": 128044,
+    "forwards": 362
   },
   {
     "title": "Sumyshchyna: BpLA heading for Konotop.",
@@ -176,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19720",
     "score": 3.5,
-    "views": 52310,
-    "forwards": 93
+    "views": 58232,
+    "forwards": 96
   },
   {
     "title": "22 killed",
@@ -266,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9468",
     "score": 3.5,
-    "views": 5024,
+    "views": 5264,
     "forwards": 13
   },
   {
@@ -430,23 +448,5 @@
     "score": 5.5,
     "views": 82463,
     "forwards": 111
-  },
-  {
-    "title": "Kyiv: 86 injured",
-    "title_en": "Kyiv: 86 injured",
-    "title_uk": "Київ: 86 постраждалих",
-    "description": "Update: Death toll rises to 18, with 86 injured in massive Kyiv attack. At least 18 people were killed and 86 injured after a massive Russian missile and drone attack hit Kyiv overnight on July 2, local authorities reported. Search and rescue operations are ongoing at several sites, including a partially collapsed high-rise residential building in the Darnitskyi District.",
-    "description_en": "Update: Death toll rises to 18, with 86 injured in massive Kyiv attack. At least 18 people were killed and 86 injured after a massive Russian missile and drone attack hit Kyiv overnight on July 2, local authorities reported. Search and rescue operations are ongoing at several sites, including a partially collapsed high-rise residential building in the Darnitskyi District.",
-    "description_uk": "Update: Death toll rises to 18, with 86 injured in massive Kyiv attack. At least 18 people were killed and 86 injured after a massive Russian missile and drone attack hit Kyiv overnight on July 2, local authorities reported. Search and rescue operations are ongoing at several sites, including a partially collapsed high-rise residential building in the Darnitskyi District.",
-    "time": "",
-    "pubDate": "2026-07-02T10:44:23+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54029",
-    "score": 13.0,
-    "views": 1088,
-    "forwards": 1
   }
 ]
