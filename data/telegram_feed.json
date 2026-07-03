@@ -1,5 +1,77 @@
 [
   {
+    "title": "Kryvyi Rih: Drone incoming",
+    "title_en": "Kryvyi Rih: Drone incoming",
+    "title_uk": "Кривий Ріг: Дрон вхід",
+    "description": "Reactive UAV ➡️ to/past Kryvyi Rih in the north direction.",
+    "description_en": "Reactive UAV ➡️ to/past Kryvyi Rih in the north direction.",
+    "description_uk": "Реактивний БпЛА ➡️ на/повз Кривий Ріг в північному напрямку.",
+    "time": "",
+    "pubDate": "2026-07-03T16:45:04+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67257",
+    "score": 6.0,
+    "views": 13127,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: BpLA ➡️ course to Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA ➡️ course to Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: BpLA ➡️ курс на Запоріжжя з півдня.",
+    "description": "BpLA ➡️ course to Zaporozhye from the south.",
+    "description_en": "BpLA ➡️ course to Zaporozhye from the south.",
+    "description_uk": "БпЛА ➡️ курсом на м.Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-07-03T16:39:25+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67256",
+    "score": 6.0,
+    "views": 18169,
+    "forwards": 0
+  },
+  {
+    "title": "Donetsk: A very sincere conversation with Oleg Lyashko - the commander of the...",
+    "title_en": "Donetsk: A very sincere conversation with Oleg Lyashko - the commander of the...",
+    "title_uk": "Донецьк: Дуже щира розмова з командиром Олегом Ляшком...",
+    "description": "A very sincere conversation with Oleg Lyashko - the commander of the 432nd separate regiment of unmanned systems of the 11th Army Corps. The unit protects our Donetsk region, and it is important to hear what requests of the army are the most important now and what political steps of the state can add motivation to our military. Unity matters, and there should be no reason to fragment our society. Thank you! Glory to Ukraine!",
+    "description_en": "A very sincere conversation with Oleg Lyashko - the commander of the 432nd separate regiment of unmanned systems of the 11th Army Corps. The unit protects our Donetsk region, and it is important to hear what requests of the army are the most important now and what political steps of the state can add motivation to our military. Unity matters, and there should be no reason to fragment our society. Thank you! Glory to Ukraine!",
+    "description_uk": "Дуже щира розмова з Олегом Ляшком – із командиром 432-го окремого полку безпілотних систем 11-го армійського корпусу. Підрозділ захищає нашу Донецьку область, і важливо почути, які запити армії найбільш вагомі зараз та які політичні кроки держави можуть додати мотивації нашим військовим. Єдність має значення, і не повинно бути приводів для розпорошення нашого суспільства. Дякую! Слава Україні!",
+    "time": "",
+    "pubDate": "2026-07-03T15:33:31+00:00",
+    "category": "alert",
+    "severity": "medium",
+    "location": "Donetsk",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/19745",
+    "score": 5.5,
+    "views": 54951,
+    "forwards": 730
+  },
+  {
+    "title": "Crimea: Drone strike",
+    "title_en": "Crimea: Drone strike",
+    "title_uk": "Крим: удар безпілотника",
+    "description": "Ukraine strikes Russia's Saky air base in occupied Crimea for second time in a week, SBU says. According to the SBU, Ukrainian drones struck seven hangars at the Saky air base where Russia stores Su-30SM, Su-30, and Su-24 fighter and bomber aircraft.",
+    "description_en": "Ukraine strikes Russia's Saky air base in occupied Crimea for second time in a week, SBU says. According to the SBU, Ukrainian drones struck seven hangars at the Saky air base where Russia stores Su-30SM, Su-30, and Su-24 fighter and bomber aircraft.",
+    "description_uk": "Ukraine strikes Russia's Saky air base in occupied Crimea for second time in a week, SBU says. According to the SBU, Ukrainian drones struck seven hangars at the Saky air base where Russia stores Su-30SM, Su-30, and Su-24 fighter and bomber aircraft.",
+    "time": "",
+    "pubDate": "2026-07-03T15:26:58+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Crimea",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54058",
+    "score": 8.0,
+    "views": 902,
+    "forwards": 5
+  },
+  {
     "title": "BpLA ➡️ in the direction of Sumy from the north.",
     "title_en": "BpLA ➡️ in the direction of Sumy from the north.",
     "title_uk": "БпЛА ➡️ в напрямку Сум з півночі.",
@@ -50,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40706",
     "score": 14.0,
-    "views": 7122,
-    "forwards": 79
+    "views": 14685,
+    "forwards": 106
   },
   {
     "title": "Kyiv: Russia continues producing dozens of missiles every month despite...",
@@ -68,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54055",
     "score": 4.0,
-    "views": 607,
-    "forwards": 2
+    "views": 1142,
+    "forwards": 4
   },
   {
     "title": "Strike confirmed",
@@ -86,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195150",
     "score": 8.5,
-    "views": 88493,
-    "forwards": 109
+    "views": 115588,
+    "forwards": 143
   },
   {
     "title": "Kyiv: Airstrike attack on residential area",
@@ -122,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195147",
     "score": 5.5,
-    "views": 98123,
-    "forwards": 246
+    "views": 120931,
+    "forwards": 282
   },
   {
     "title": "Kyiv: Airstrike attack",
@@ -248,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19733",
     "score": 19.5,
-    "views": 72303,
+    "views": 79618,
     "forwards": 114
   },
   {
@@ -266,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40696",
     "score": 5.0,
-    "views": 4707,
+    "views": 4908,
     "forwards": 6
   },
   {
@@ -376,77 +448,5 @@
     "score": 19.0,
     "views": 41294,
     "forwards": 188
-  },
-  {
-    "title": "30 killed",
-    "title_en": "30 killed",
-    "title_uk": "30 убитих",
-    "description": "Today, Kyiv declared a day of mourning in memory of the victims of the Russian attack on July 2. As of now, it is known about 30 dead. Dozens of people were injured. We express our condolences to the relatives and friends of those whose lives were cruelly cut short by Russia. As a result of this attack, destruction was recorded in almost all districts of Kyiv. More than 20 residential buildings, an ambulance station, cars were damaged...",
-    "description_en": "Today, Kyiv declared a day of mourning in memory of the victims of the Russian attack on July 2. As of now, it is known about 30 dead. Dozens of people were injured. We express our condolences to the relatives and friends of those whose lives were cruelly cut short by Russia. As a result of this attack, destruction was recorded in almost all districts of Kyiv. More than 20 residential buildings, an ambulance station, cars were damaged...",
-    "description_uk": "Сьогодні в Києві оголошено День жалоби в пам'ять за жертвами російської атаки 2 липня. Станом на зараз відомо про 30 загиблих. Десятки людей зазнали поранень. Висловлюємо співчуття рідним і близьким тих, чиї життя жорстоко обірвала Росія. Внаслідок цієї атаки руйнування було зафіксовано майже в усіх районах Києва. Пошкоджено понад 20 житлових будинків, станцію швидкої допомоги, автомобілі...",
-    "time": "",
-    "pubDate": "2026-07-03T06:00:55+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9482",
-    "score": 9.0,
-    "views": 1131,
-    "forwards": 6
-  },
-  {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "DOWN/SUPPRESSED 83 TARGETS On the night of July 3 (from 18:00 on July 2), the enemy attacked with two Kh-59/69 guided air missiles from the TOT of the Zaporizhzhya region and 105 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and Parody-type simulator drones from the directions: Kursk, Orel, Bryansk, Primorsko-Akhtarsk, Millerov - Russian Federation, Donetsk - TOT. The air attack was repulsed by aviation, anti-aircraft...",
-    "description_en": "DOWN/SUPPRESSED 83 TARGETS On the night of July 3 (from 18:00 on July 2), the enemy attacked with two Kh-59/69 guided air missiles from the TOT of the Zaporizhzhya region and 105 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and Parody-type simulator drones from the directions: Kursk, Orel, Bryansk, Primorsko-Akhtarsk, Millerov - Russian Federation, Donetsk - TOT. The air attack was repulsed by aviation, anti-aircraft...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 83 ЦІЛІ У ніч на 3 липня (з 18:00 2 липня) противник атакував двома керованими авіаційними ракетами Х-59/69 із ТОТ Запорізької області та 105 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Орел, Брянськ, Приморсько-Ахтарськ, Міллерове – рф., Донецьк – ТОТ. Повітряний напад відбивали авіація, зенітні...",
-    "time": "",
-    "pubDate": "2026-07-03T05:50:13+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/40693",
-    "score": 13.0,
-    "views": 3600,
-    "forwards": 14
-  },
-  {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
-    "description": "Update: At least 30 people killed in Kyiv following Russia's July 2 large-scale attack. The death toll in Russia's July 2 large-scale missile and drone attack on Kyiv has grown to 30 people, after three more bodies were recovered in the rubble, Ukraine's State Emergency Service said.",
-    "description_en": "Update: At least 30 people killed in Kyiv following Russia's July 2 large-scale attack. The death toll in Russia's July 2 large-scale missile and drone attack on Kyiv has grown to 30 people, after three more bodies were recovered in the rubble, Ukraine's State Emergency Service said.",
-    "description_uk": "Update: At least 30 people killed in Kyiv following Russia's July 2 large-scale attack. The death toll in Russia's July 2 large-scale missile and drone attack on Kyiv has grown to 30 people, after three more bodies were recovered in the rubble, Ukraine's State Emergency Service said.",
-    "time": "",
-    "pubDate": "2026-07-03T04:26:43+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54045",
-    "score": 13.0,
-    "views": 1983,
-    "forwards": 6
-  },
-  {
-    "title": "Sloviansk: Unmanned aerial vehicle in the direction of Sloviansk in Donetsk...",
-    "title_en": "Sloviansk: Unmanned aerial vehicle in the direction of Sloviansk in Donetsk...",
-    "title_uk": "Слов'янськ: БПЛА в напрямку Слов'янська на Донеччині...",
-    "description": "Unmanned aerial vehicle in the direction of Sloviansk in Donetsk region from the southwest",
-    "description_en": "Unmanned aerial vehicle in the direction of Sloviansk in Donetsk region from the southwest",
-    "description_uk": "БпЛА у напрямку Слов'янська на Донеччині з південного заходу",
-    "time": "",
-    "pubDate": "2026-07-03T04:25:07+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sloviansk",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67180",
-    "score": 6.0,
-    "views": 23265,
-    "forwards": 0
   }
 ]
