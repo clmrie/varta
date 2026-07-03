@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Київ: Дрон-удар",
+    "description": "Major Russian oil refinery suspends operations again after Ukrainian drone strike. The Lukoil-Nizhegorodorgsintez plant is the fourth-largest oil refinery in Russia, second-largest producer of gasoline, and Lukoil's largest refinery.",
+    "description_en": "Major Russian oil refinery suspends operations again after Ukrainian drone strike. The Lukoil-Nizhegorodorgsintez plant is the fourth-largest oil refinery in Russia, second-largest producer of gasoline, and Lukoil's largest refinery.",
+    "description_uk": "Major Russian oil refinery suspends operations again after Ukrainian drone strike. The Lukoil-Nizhegorodorgsintez plant is the fourth-largest oil refinery in Russia, second-largest producer of gasoline, and Lukoil's largest refinery.",
+    "time": "",
+    "pubDate": "2026-07-03T20:44:08+00:00",
+    "category": "drone",
+    "severity": "medium",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54061",
+    "score": 4.0,
+    "views": 58,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporozhye was also struck. People are under the rubble. One woman...",
+    "title_en": "Zaporozhye was also struck. People are under the rubble. One woman...",
+    "title_uk": "Удару зазнало і Запоріжжя. Під завалами знаходяться люди. Одна жінка...",
+    "description": "Zaporozhye was also struck. People are under the rubble. One woman was injured, OVA reported.",
+    "description_en": "Zaporozhye was also struck. People are under the rubble. One woman was injured, OVA reported.",
+    "description_uk": "Также был нанесен удар по Запорожью. Под завалами люди. Одна женщина получила ранение, сообщили в ОВА.",
+    "time": "",
+    "pubDate": "2026-07-03T20:12:29+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195186",
+    "score": 4.5,
+    "views": 40005,
+    "forwards": 73
+  },
+  {
     "title": "Drone attack",
     "title_en": "Drone attack",
     "title_uk": "Атака безпілотників",
@@ -14,8 +50,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195181",
     "score": 8.5,
-    "views": 35415,
-    "forwards": 108
+    "views": 81881,
+    "forwards": 179
   },
   {
     "title": "Sumy: BpLA in the direction of the city of Sumy from the north.",
@@ -32,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/67271",
     "score": 6.0,
-    "views": 39458,
+    "views": 65837,
     "forwards": 0
   },
   {
@@ -50,7 +86,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/67268",
     "score": 5.0,
-    "views": 66783,
+    "views": 85031,
     "forwards": 1
   },
   {
@@ -140,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19745",
     "score": 5.5,
-    "views": 104297,
-    "forwards": 954
+    "views": 112898,
+    "forwards": 975
   },
   {
     "title": "Crimea: Drone strike",
@@ -158,8 +194,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54058",
     "score": 8.0,
-    "views": 1682,
-    "forwards": 6
+    "views": 1875,
+    "forwards": 7
   },
   {
     "title": "BpLA ➡️ in the direction of Sumy from the north.",
@@ -212,8 +248,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40706",
     "score": 14.0,
-    "views": 22417,
-    "forwards": 128
+    "views": 23761,
+    "forwards": 131
   },
   {
     "title": "Kyiv: Russia continues producing dozens of missiles every month despite...",
@@ -410,43 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19733",
     "score": 19.5,
-    "views": 87597,
+    "views": 89205,
     "forwards": 126
-  },
-  {
-    "title": "The Medical Forces of the Ukrainian Armed Forces increase their...",
-    "title_en": "The Medical Forces of the Ukrainian Armed Forces increase their...",
-    "title_uk": "Медичні сили ЗСУ збільшують...",
-    "description": "The Medical Forces of the Ukrainian Armed Forces increase their competence in the field of hemodialysis Representatives of the Medical Forces of the Armed Forces of Ukraine took part in the workshop \"Advanced Achievements in Hemodialysis\", which took place in Bydgoszcz (Republic of Poland). During the event, the participants got acquainted with modern technologies and international protocols of hemodialysis therapy and extracorporeal detoxification. The participants also exchanged experiences with...",
-    "description_en": "The Medical Forces of the Ukrainian Armed Forces increase their competence in the field of hemodialysis Representatives of the Medical Forces of the Armed Forces of Ukraine took part in the workshop \"Advanced Achievements in Hemodialysis\", which took place in Bydgoszcz (Republic of Poland). During the event, the participants got acquainted with modern technologies and international protocols of hemodialysis therapy and extracorporeal detoxification. The participants also exchanged experiences with...",
-    "description_uk": "Медичні сили ЗСУ підвищують компетенції у сфері гемодіалізу Представники Медичних сил Збройних Сил України взяли участь у воркшопі \"Передові досягнення в гемодіалізі\", який відбувся у м. Бидгощ (Республіка Польща). Під час заходу учасники ознайомилися з сучасними технологіями та міжнародними протоколами гемодіалізної терапії й екстракорпоральної детоксикації. Також учасники обмінялися досвідом із...",
-    "time": "",
-    "pubDate": "2026-07-03T09:01:39+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/40696",
-    "score": 5.0,
-    "views": 5075,
-    "forwards": 6
-  },
-  {
-    "title": "Kyiv: Monaco identifies suspect behind bombing that injured Ukraine-born...",
-    "title_en": "Kyiv: Monaco identifies suspect behind bombing that injured Ukraine-born...",
-    "title_uk": "Київ: Монако встановило підозрюваного у вибуху, в результаті якого постраждали українці...",
-    "description": "Monaco identifies suspect behind bombing that injured Ukraine-born businessman, media reports. The suspect is a woman \"around age 30, blonde, and likely from Eastern Europe,\" reports Monaco-Matin.",
-    "description_en": "Monaco identifies suspect behind bombing that injured Ukraine-born businessman, media reports. The suspect is a woman \"around age 30, blonde, and likely from Eastern Europe,\" reports Monaco-Matin.",
-    "description_uk": "Monaco identifies suspect behind bombing that injured Ukraine-born businessman, media reports. The suspect is a woman \"around age 30, blonde, and likely from Eastern Europe,\" reports Monaco-Matin.",
-    "time": "",
-    "pubDate": "2026-07-03T08:21:17+00:00",
-    "category": "shelling",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54048",
-    "score": 6.0,
-    "views": 1918,
-    "forwards": 7
   }
 ]
