@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "Attacks on refineries cost the Russian budget more than 1 trillion rubles ($13 billion) in just three months. From April to June, the state paid oil companies a record 1.03 trillion rubles in subsidies against the background of the shutdown of oil refineries after UAV attacks. As a result, oil and gas revenues of the federal budget fell by 23% in the first half of the year, to the lowest level since 2020, data show...",
+    "description_en": "Attacks on refineries cost the Russian budget more than 1 trillion rubles ($13 billion) in just three months. From April to June, the state paid oil companies a record 1.03 trillion rubles in subsidies against the background of the shutdown of oil refineries after UAV attacks. As a result, oil and gas revenues of the federal budget fell by 23% in the first half of the year, to the lowest level since 2020, data show...",
+    "description_uk": "Удары по НПЗ обошлись бюджету России более чем в 1 трлн рублей ($13 млрд) всего за за три месяца С апреля по июнь государство выплатило нефтяным компаниям рекордные 1,03 трлн рублей субсидий на фоне остановок нефтеперерабатывающих заводов после атак БПЛА. В результате нефтегазовые доходы федерального бюджета за первое полугодие обвалились на 23%, до минимума с 2020 года, свидетельствуют данные...",
+    "time": "",
+    "pubDate": "2026-07-03T19:23:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195181",
+    "score": 8.5,
+    "views": 35415,
+    "forwards": 108
+  },
+  {
+    "title": "Sumy: BpLA in the direction of the city of Sumy from the north.",
+    "title_en": "Sumy: BpLA in the direction of the city of Sumy from the north.",
+    "title_uk": "Суми: БпЛА в напрямку м. Суми з пн.",
+    "description": "BpLA in the direction of the city of Sumy from the north.",
+    "description_en": "BpLA in the direction of the city of Sumy from the north.",
+    "description_uk": "БпЛА в напрямку м.Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-07-03T19:10:10+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67271",
+    "score": 6.0,
+    "views": 39458,
+    "forwards": 0
+  },
+  {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-07-03T18:29:16+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67268",
+    "score": 5.0,
+    "views": 66783,
+    "forwards": 1
+  },
+  {
     "title": "Zaporizhzhia: Drone incoming",
     "title_en": "Zaporizhzhia: Drone incoming",
     "title_uk": "Запоріжжя: Дрон вхід",
@@ -86,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19745",
     "score": 5.5,
-    "views": 79487,
-    "forwards": 824
+    "views": 104297,
+    "forwards": 954
   },
   {
     "title": "Crimea: Drone strike",
@@ -104,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54058",
     "score": 8.0,
-    "views": 1283,
-    "forwards": 5
+    "views": 1682,
+    "forwards": 6
   },
   {
     "title": "BpLA ➡️ in the direction of Sumy from the north.",
@@ -158,8 +212,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40706",
     "score": 14.0,
-    "views": 18135,
-    "forwards": 119
+    "views": 22417,
+    "forwards": 128
   },
   {
     "title": "Kyiv: Russia continues producing dozens of missiles every month despite...",
@@ -176,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54055",
     "score": 4.0,
-    "views": 1396,
+    "views": 1687,
     "forwards": 4
   },
   {
@@ -356,8 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19733",
     "score": 19.5,
-    "views": 82840,
-    "forwards": 114
+    "views": 87597,
+    "forwards": 126
   },
   {
     "title": "The Medical Forces of the Ukrainian Armed Forces increase their...",
@@ -394,59 +448,5 @@
     "score": 6.0,
     "views": 1918,
     "forwards": 7
-  },
-  {
-    "title": "Shooting down enemy drones with Ukrainian weapons. Combat work of...",
-    "title_en": "Shooting down enemy drones with Ukrainian weapons. Combat work of...",
-    "title_uk": "Збивання ворожих безпілотників українською зброєю. Бойова робота...",
-    "description": "Shooting down enemy drones with Ukrainian weapons. Combat work of units of the Unmanned Systems Forces of the Armed Forces of Ukraine. \"Chaklun\" UAV is used. #СылиОбороныУкраины #ЗСУ #УкраїнськаЗброя #СБС",
-    "description_en": "Shooting down enemy drones with Ukrainian weapons. Combat work of units of the Unmanned Systems Forces of the Armed Forces of Ukraine. \"Chaklun\" UAV is used. #СылиОбороныУкраины #ЗСУ #УкраїнськаЗброя #СБС",
-    "description_uk": "Збиття ворожих дронів українською зброєю. Бойова робота підрозділів Сил безпілотних систем ЗСУ. Застосовується БпЛА \"Чаклун\". #СилиОборониУкраїни #ЗСУ #УкраїнськаЗброя #СБС",
-    "time": "",
-    "pubDate": "2026-07-03T08:08:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/40695",
-    "score": 9.0,
-    "views": 4637,
-    "forwards": 16
-  },
-  {
-    "title": "Chernihiv: BpLA ➡️ course to/past Konotop in the direction of Chernihiv Oblast.",
-    "title_en": "Chernihiv: BpLA ➡️ course to/past Konotop in the direction of Chernihiv Oblast.",
-    "title_uk": "Чернігів: BpLA ➡️ курс на/повз Конотоп в напрямку Чернігівської області.",
-    "description": "BpLA ➡️ course to/past Konotop in the direction of Chernihiv Oblast.",
-    "description_en": "BpLA ➡️ course to/past Konotop in the direction of Chernihiv Oblast.",
-    "description_uk": "БпЛА ➡️ курсом на/повз Конотоп в напрямку Чернігівщини.",
-    "time": "",
-    "pubDate": "2026-07-03T08:02:55+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67202",
-    "score": 6.0,
-    "views": 16125,
-    "forwards": 0
-  },
-  {
-    "title": "Drone attack on infrastructure",
-    "title_en": "Drone attack on infrastructure",
-    "title_uk": "Атака безпілотників на інфраструктуру",
-    "description": "The USA has warned Poland about a possible provocation from Russia, — The Telegraph According to the publication's sources, Washington has repeatedly warned Warsaw about different scenarios. We are not talking about a full-scale invasion, but about a local provocation: for example, an attack on infrastructure, the launch of drones, or a limited invasion of the Russian or Belarusian military on Polish territory from the outside...",
-    "description_en": "The USA has warned Poland about a possible provocation from Russia, — The Telegraph According to the publication's sources, Washington has repeatedly warned Warsaw about different scenarios. We are not talking about a full-scale invasion, but about a local provocation: for example, an attack on infrastructure, the launch of drones, or a limited invasion of the Russian or Belarusian military on Polish territory from the outside...",
-    "description_uk": "США предупредили Польшу о возможной провокации со стороны россии, — The Telegraph По данным источников издания, Вашингтон неоднократно предупреждал Варшаву о разных сценариях. Речь идет не о полномасштабном вторжении, а о локальной провокации: например, ударе по инфраструктуре, запуске дронов или ограниченном вторжении российских либо белорусских военных на польскую территорию со стороны...",
-    "time": "",
-    "pubDate": "2026-07-03T07:39:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195115",
-    "score": 5.5,
-    "views": 46987,
-    "forwards": 186
   }
 ]
