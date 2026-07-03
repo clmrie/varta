@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: BpLA in the direction of Chernihiv from the north.",
+    "title_en": "Chernihiv: BpLA in the direction of Chernihiv from the north.",
+    "title_uk": "Чернігів: БпЛА в напрямку Чернігова з півн.",
+    "description": "BpLA in the direction of Chernihiv from the north.",
+    "description_en": "BpLA in the direction of Chernihiv from the north.",
+    "description_uk": "БпЛА в напрямку м.Чернігів з півночі.",
+    "time": "",
+    "pubDate": "2026-07-03T22:30:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67277",
+    "score": 6.0,
+    "views": 6741,
+    "forwards": 10
+  },
+  {
+    "title": "Kharkiv: Casualties reported",
+    "title_en": "Kharkiv: Casualties reported",
+    "title_uk": "Харків: повідомляється про постраждалих",
+    "description": "Liquidation of the consequences of the Russian airstrike continues in Sumy. The Russians used guided aerial bombs just against ordinary people in the center of the city. There may still be people under the rubble of a high-rise building. Unfortunately, as of now, it is known about four dead, among them - a child. My condolences to family and friends. Another 27 people were injured, six of whom were children. Many have serious injuries. During the day...",
+    "description_en": "Liquidation of the consequences of the Russian airstrike continues in Sumy. The Russians used guided aerial bombs just against ordinary people in the center of the city. There may still be people under the rubble of a high-rise building. Unfortunately, as of now, it is known about four dead, among them - a child. My condolences to family and friends. Another 27 people were injured, six of whom were children. Many have serious injuries. During the day...",
+    "description_uk": "У Сумах триває ліквідація наслідків російського авіаудару. Росіяни застосували керовані авіабомби просто проти звичайних людей у центрі міста. Під завалами багатоповерхівки ще можуть бути люди. На жаль, станом на зараз відомо про чотирьох загиблих, серед них – дитина. Мої співчуття рідним і близьким. Ще 27 людей зазнали поранень, з яких шестеро – діти. У багатьох – важкі поранення. Упродовж дня...",
+    "time": "",
+    "pubDate": "2026-07-03T22:00:44+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kharkiv",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/19747",
+    "score": 10.0,
+    "views": 17966,
+    "forwards": 133
+  },
+  {
     "title": "Sumy: Sumy: BpLA in the direction of the city of Sumy from the north",
     "title_en": "Sumy: Sumy: BpLA in the direction of the city of Sumy from the north",
     "title_uk": "Суми: Суми: БпЛА в напрямку м. Суми з півн",
@@ -14,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/67276",
     "score": 6.0,
-    "views": 22401,
-    "forwards": 0
+    "views": 32556,
+    "forwards": 11
   },
   {
     "title": "Kharkiv: BpLA in the direction of the city of Kharkiv from the north.",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54061",
     "score": 4.0,
-    "views": 716,
+    "views": 971,
     "forwards": 1
   },
   {
@@ -68,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195186",
     "score": 4.5,
-    "views": 71834,
-    "forwards": 75
+    "views": 84172,
+    "forwards": 110
   },
   {
     "title": "Drone attack",
@@ -85,9 +121,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195181",
-    "score": 8.5,
-    "views": 102715,
-    "forwards": 180
+    "score": 9.5,
+    "views": 111801,
+    "forwards": 224
   },
   {
     "title": "Sumy: BpLA in the direction of the city of Sumy from the north.",
@@ -212,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19745",
     "score": 5.5,
-    "views": 117873,
-    "forwards": 990
+    "views": 121796,
+    "forwards": 993
   },
   {
     "title": "Crimea: Drone strike",
@@ -230,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54058",
     "score": 8.0,
-    "views": 2099,
+    "views": 2204,
     "forwards": 7
   },
   {
@@ -284,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40706",
     "score": 14.0,
-    "views": 24494,
+    "views": 24811,
     "forwards": 132
   },
   {
@@ -412,41 +448,5 @@
     "score": 3.5,
     "views": 101148,
     "forwards": 180
-  },
-  {
-    "title": "Zaporizhzhia: 🛸 BpLA in the city of Zaporozhye from the southeast.",
-    "title_en": "Zaporizhzhia: 🛸 BpLA in the city of Zaporozhye from the southeast.",
-    "title_uk": "Запоріжжя: 🛸 BpLA в м. Запоріжжя з південного сходу.",
-    "description": "🛸 BpLA in the city of Zaporozhye from the southeast.",
-    "description_en": "🛸 BpLA in the city of Zaporozhye from the southeast.",
-    "description_uk": "🛸 БпЛА на м. Запоріжжя з південного сходу.",
-    "time": "",
-    "pubDate": "2026-07-03T10:25:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67220",
-    "score": 6.0,
-    "views": 78174,
-    "forwards": 0
-  },
-  {
-    "title": "7 Russian aircraft were destroyed or damaged: the SBU blew up the...",
-    "title_en": "7 Russian aircraft were destroyed or damaged: the SBU blew up the...",
-    "title_uk": "Знищено або пошкоджено 7 російських літаків: СБУ підірвала...",
-    "description": "7 Russian aircraft were destroyed or damaged: the SBU blew up the Saki airfield in Crimea for the second time in a week. According to preliminary data, at least seven Russian planes were destroyed or damaged, the SBU reports. And at the \"Gvardeyskoye\" airfield, it flew through the hangars where the \"Shakheds\" and aviation...",
-    "description_en": "7 Russian aircraft were destroyed or damaged: the SBU blew up the Saki airfield in Crimea for the second time in a week. According to preliminary data, at least seven Russian planes were destroyed or damaged, the SBU reports. And at the \"Gvardeyskoye\" airfield, it flew through the hangars where the \"Shakheds\" and aviation...",
-    "description_uk": "Уничтожены или повреждены 7 самолетов русни: СБУ второй раз за неделю разнесла аэродром «Саки» в Крыму Поражены семь ангаров, где находились истребители Су-30СМ, Су-30 и фронтовые бомбардировщики Су-24. По предварительным данным, уничтожены или повреждены как минимум семь российских самолетов, сообщает СБУ. А на аэродроме «Гвардейское» прилетело по ангарам, где хранились «Шахеды» и авиационное...",
-    "time": "",
-    "pubDate": "2026-07-03T10:02:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Crimea",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195134",
-    "score": 10.5,
-    "views": 65336,
-    "forwards": 215
   }
 ]
