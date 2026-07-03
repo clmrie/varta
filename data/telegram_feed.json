@@ -1,5 +1,59 @@
 [
   {
+    "title": "An FPV drone flew over a gas station in the center of Kharkiv, local...",
+    "title_en": "An FPV drone flew over a gas station in the center of Kharkiv, local...",
+    "title_uk": "Над автозаправкою в центрі Харкова пролетів безпілотник FPV, місцеві...",
+    "description": "An FPV drone flew over a gas station in the center of Kharkiv, local media reported",
+    "description_en": "An FPV drone flew over a gas station in the center of Kharkiv, local media reported",
+    "description_uk": "FPV-дрон прилетел по АЗС в центре Харькова, — местные паблики",
+    "time": "",
+    "pubDate": "2026-07-03T13:00:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195147",
+    "score": 4.5,
+    "views": 7538,
+    "forwards": 69
+  },
+  {
+    "title": "Kyiv: Airstrike attack",
+    "title_en": "Kyiv: Airstrike attack",
+    "title_uk": "Київ: Авіаційна атака",
+    "description": "Update: Monaco issues arrest warrant for Ukrainian woman suspected of bomb attack that injured Ukraine-born businessman. Monaco issued an Interpol \"red notice\" — an international arrest warrant — for a 39-year-old Ukrainian woman named Anastasiia Berezovska.",
+    "description_en": "Update: Monaco issues arrest warrant for Ukrainian woman suspected of bomb attack that injured Ukraine-born businessman. Monaco issued an Interpol \"red notice\" — an international arrest warrant — for a 39-year-old Ukrainian woman named Anastasiia Berezovska.",
+    "description_uk": "Update: Monaco issues arrest warrant for Ukrainian woman suspected of bomb attack that injured Ukraine-born businessman. Monaco issued an Interpol \"red notice\" — an international arrest warrant — for a 39-year-old Ukrainian woman named Anastasiia Berezovska.",
+    "time": "",
+    "pubDate": "2026-07-03T12:03:45+00:00",
+    "category": "shelling",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54052",
+    "score": 6.0,
+    "views": 772,
+    "forwards": 4
+  },
+  {
+    "title": "Zaporizhzhia: BpLA in Zaporozhye from the south",
+    "title_en": "Zaporizhzhia: BpLA in Zaporozhye from the south",
+    "title_uk": "Запоріжжя: БпЛА в Запоріжжі з півд",
+    "description": "BpLA in Zaporozhye from the south",
+    "description_en": "BpLA in Zaporozhye from the south",
+    "description_uk": "БпЛА на м.Запоріжжя з півдня",
+    "time": "",
+    "pubDate": "2026-07-03T11:58:21+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67223",
+    "score": 6.0,
+    "views": 53562,
+    "forwards": 0
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -13,9 +67,9 @@
     "location": "Kyiv",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195137",
-    "score": 3.0,
-    "views": 14876,
-    "forwards": 37
+    "score": 3.5,
+    "views": 101148,
+    "forwards": 180
   },
   {
     "title": "Zaporizhzhia: 🛸 BpLA in the city of Zaporozhye from the southeast.",
@@ -32,7 +86,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/67220",
     "score": 6.0,
-    "views": 28312,
+    "views": 78174,
     "forwards": 0
   },
   {
@@ -86,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19733",
     "score": 19.5,
-    "views": 34665,
-    "forwards": 81
+    "views": 60950,
+    "forwards": 82
   },
   {
     "title": "The Medical Forces of the Ukrainian Armed Forces increase their...",
@@ -104,7 +158,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40696",
     "score": 5.0,
-    "views": 2917,
+    "views": 4109,
     "forwards": 5
   },
   {
@@ -122,8 +176,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54048",
     "score": 6.0,
-    "views": 1317,
-    "forwards": 6
+    "views": 1918,
+    "forwards": 7
   },
   {
     "title": "Shooting down enemy drones with Ukrainian weapons. Combat work of...",
@@ -140,8 +194,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40695",
     "score": 9.0,
-    "views": 3788,
-    "forwards": 15
+    "views": 4637,
+    "forwards": 16
   },
   {
     "title": "Chernihiv: BpLA ➡️ course to/past Konotop in the direction of Chernihiv Oblast.",
@@ -230,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9482",
     "score": 9.0,
-    "views": 958,
+    "views": 1059,
     "forwards": 6
   },
   {
@@ -340,60 +394,6 @@
     "score": 5.0,
     "views": 43481,
     "forwards": 0
-  },
-  {
-    "title": "Kharkiv: BpLA on Lozova in Kharkiv Oblast from the south",
-    "title_en": "Kharkiv: BpLA on Lozova in Kharkiv Oblast from the south",
-    "title_uk": "Харків: БпЛА на Лозовій Харківської області з пд",
-    "description": "BpLA on Lozova in Kharkiv Oblast from the south",
-    "description_en": "BpLA on Lozova in Kharkiv Oblast from the south",
-    "description_uk": "БпЛА на Лозову на Харківщині з півдня",
-    "time": "",
-    "pubDate": "2026-07-03T00:32:38+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67162",
-    "score": 6.0,
-    "views": 8842,
-    "forwards": 1
-  },
-  {
-    "title": "Mykolaiv: BpLA in the direction of Novomykolaivka, Zaporizhzhia region, from...",
-    "title_en": "Mykolaiv: BpLA in the direction of Novomykolaivka, Zaporizhzhia region, from...",
-    "title_uk": "Миколаїв: БпЛА в напрямку Новомиколаївки Запорізької області від...",
-    "description": "BpLA in the direction of Novomykolaivka, Zaporizhzhia region, from the south",
-    "description_en": "BpLA in the direction of Novomykolaivka, Zaporizhzhia region, from the south",
-    "description_uk": "БпЛА у напрямку Новомиколаївки Запорізької області із півдня",
-    "time": "",
-    "pubDate": "2026-07-03T00:11:10+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67160",
-    "score": 6.0,
-    "views": 12196,
-    "forwards": 1
-  },
-  {
-    "title": "Dnipro: BpLA in the east of Dnipropetrovsk region ➡️ heading for Shakhtarsk.",
-    "title_en": "Dnipro: BpLA in the east of Dnipropetrovsk region ➡️ heading for Shakhtarsk.",
-    "title_uk": "Дніпро: BpLA на сході Дніпропетровської області ➡️ в напрямку Шахтарська.",
-    "description": "BpLA in the east of Dnipropetrovsk region ➡️ heading for Shakhtarsk.",
-    "description_en": "BpLA in the east of Dnipropetrovsk region ➡️ heading for Shakhtarsk.",
-    "description_uk": "БпЛА на сході Дніпропетровщини ➡️ курсом на Шахтарське.",
-    "time": "",
-    "pubDate": "2026-07-02T23:16:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67157",
-    "score": 6.0,
-    "views": 4731,
-    "forwards": 4
   },
   {
     "title": "Rivne: 4 killed, 11 injured",
