@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "UAV in the direction of Zaporozhye from the southwest.",
+    "description_en": "UAV in the direction of Zaporozhye from the southwest.",
+    "description_uk": "БпЛА в напрямку м.Запоріжжя з південного заходу.",
+    "time": "",
+    "pubDate": "2026-07-03T18:00:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67265",
+    "score": 6.0,
+    "views": 18154,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: High-speed target in Mykolaiv Oblast past Bashtanka in the direction...",
+    "title_en": "Mykolaiv: High-speed target in Mykolaiv Oblast past Bashtanka in the direction...",
+    "title_uk": "Миколаїв: Швидкісна мета в Миколаївській області повз Баштанку в напрямку...",
+    "description": "High-speed target in Mykolaiv Oblast past Bashtanka in the direction of Kirovohrad Oblast.",
+    "description_en": "High-speed target in Mykolaiv Oblast past Bashtanka in the direction of Kirovohrad Oblast.",
+    "description_uk": "Швидкісна ціль на Миколаївщині повз Баштанку в напрямку Кіровоградщини.",
+    "time": "",
+    "pubDate": "2026-07-03T17:56:28+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67264",
+    "score": 6.5,
+    "views": 51559,
+    "forwards": 137
+  },
+  {
     "title": "Kryvyi Rih: Drone incoming",
     "title_en": "Kryvyi Rih: Drone incoming",
     "title_uk": "Кривий Ріг: Дрон вхід",
@@ -50,8 +86,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19745",
     "score": 5.5,
-    "views": 54951,
-    "forwards": 730
+    "views": 79487,
+    "forwards": 824
   },
   {
     "title": "Crimea: Drone strike",
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54058",
     "score": 8.0,
-    "views": 902,
+    "views": 1283,
     "forwards": 5
   },
   {
@@ -122,8 +158,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40706",
     "score": 14.0,
-    "views": 14685,
-    "forwards": 106
+    "views": 18135,
+    "forwards": 119
   },
   {
     "title": "Kyiv: Russia continues producing dozens of missiles every month despite...",
@@ -140,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54055",
     "score": 4.0,
-    "views": 1142,
+    "views": 1396,
     "forwards": 4
   },
   {
@@ -158,7 +194,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195150",
     "score": 8.5,
-    "views": 115588,
+    "views": 131696,
     "forwards": 143
   },
   {
@@ -320,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19733",
     "score": 19.5,
-    "views": 79618,
+    "views": 82840,
     "forwards": 114
   },
   {
@@ -338,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40696",
     "score": 5.0,
-    "views": 4908,
+    "views": 5075,
     "forwards": 6
   },
   {
@@ -396,24 +432,6 @@
     "forwards": 0
   },
   {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "Zaporizhzhia region: UAV in the direction of Zaporizhzhia from the southwest.",
-    "description_en": "Zaporizhzhia region: UAV in the direction of Zaporizhzhia from the southwest.",
-    "description_uk": "Запорізька область: БпЛА в напрямку Запоріжжя з південного заходу.",
-    "time": "",
-    "pubDate": "2026-07-03T07:55:55+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67201",
-    "score": 6.0,
-    "views": 25208,
-    "forwards": 0
-  },
-  {
     "title": "Drone attack on infrastructure",
     "title_en": "Drone attack on infrastructure",
     "title_uk": "Атака безпілотників на інфраструктуру",
@@ -430,23 +448,5 @@
     "score": 5.5,
     "views": 46987,
     "forwards": 186
-  },
-  {
-    "title": "Kryvyi Rih: Attack attack",
-    "title_en": "Kryvyi Rih: Attack attack",
-    "title_uk": "Кривий Ріг: Напад",
-    "description": "Emergency and rescue operations are still continuing in Kyiv at the three locations of last night's Russian strikes. Rescuers have already been able to dismantle a significant part of the debris, but another 10 people cannot be contacted. The search operation will continue as long as necessary. As of now, it is known that 30 people died as a result of yesterday's attack on Kyiv. My condolences to all relatives and friends. Almost a hundred...",
-    "description_en": "Emergency and rescue operations are still continuing in Kyiv at the three locations of last night's Russian strikes. Rescuers have already been able to dismantle a significant part of the debris, but another 10 people cannot be contacted. The search operation will continue as long as necessary. As of now, it is known that 30 people died as a result of yesterday's attack on Kyiv. My condolences to all relatives and friends. Almost a hundred...",
-    "description_uk": "Зараз у Києві ще продовжуються аварійно-рятувальні роботи на трьох локаціях російських ударів минулої ночі. Значну частину завалів уже змогли розібрати рятувальники, але ще 10 людей не виходять на зв’язок. Пошукова операція буде продовжуватись стільки, скільки буде потрібно. Станом на зараз відомо, що через учорашній удар по Києву загинуло 30 людей. Мої співчуття всім рідним і близьким. Майже сто...",
-    "time": "",
-    "pubDate": "2026-07-03T07:28:33+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kryvyi Rih",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19722",
-    "score": 19.0,
-    "views": 41294,
-    "forwards": 188
   }
 ]
