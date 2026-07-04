@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kherson: Drone incoming",
+    "title_en": "Kherson: Drone incoming",
+    "title_uk": "Херсон: Дрон вхід",
+    "description": "Strike drones north of Kherson in the direction of Mykolaiv.",
+    "description_en": "Strike drones north of Kherson in the direction of Mykolaiv.",
+    "description_uk": "Ударні БпЛА північніше Херсону у напрямку Миколаєва.",
+    "time": "",
+    "pubDate": "2026-07-04T21:34:34+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67344",
+    "score": 6.0,
+    "views": 8107,
+    "forwards": 0
+  },
+  {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "Strike UAVs in the Black Sea as a vector of movement towards Tatarbunary.",
+    "description_en": "Strike UAVs in the Black Sea as a vector of movement towards Tatarbunary.",
+    "description_uk": "Ударні БпЛА у Чорному морі вектором руху на Татарбунари.",
+    "time": "",
+    "pubDate": "2026-07-04T21:21:46+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67343",
+    "score": 5.0,
+    "views": 18220,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -50,7 +86,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195239",
     "score": 5.5,
-    "views": 115648,
+    "views": 127770,
     "forwards": 148
   },
   {
@@ -68,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54074",
     "score": 10.0,
-    "views": 1215,
-    "forwards": 4
+    "views": 1400,
+    "forwards": 5
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54073",
     "score": 6.0,
-    "views": 1414,
+    "views": 1574,
     "forwards": 6
   },
   {
@@ -121,9 +157,9 @@
     "location": "Mykolaiv",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19779",
-    "score": 6.5,
-    "views": 47064,
-    "forwards": 199
+    "score": 7.5,
+    "views": 50366,
+    "forwards": 210
   },
   {
     "title": "Mykolaiv: Mykolaiv - BpLA in the direction of the city.",
@@ -176,7 +212,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19777",
     "score": 4.5,
-    "views": 63054,
+    "views": 65346,
     "forwards": 113
   },
   {
@@ -230,8 +266,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23620",
     "score": 8.0,
-    "views": 99872,
-    "forwards": 203
+    "views": 104063,
+    "forwards": 210
   },
   {
     "title": "🇸 The Ukrainian Air Force extends its heartfelt congratulations to...",
@@ -266,8 +302,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195229",
     "score": 6.5,
-    "views": 159641,
-    "forwards": 402
+    "views": 166169,
+    "forwards": 403
   },
   {
     "title": "Attack attack",
@@ -302,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9496",
     "score": 15.0,
-    "views": 735,
+    "views": 757,
     "forwards": 3
   },
   {
@@ -320,44 +356,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9495",
     "score": 10.0,
-    "views": 719,
+    "views": 735,
     "forwards": 3
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "GUR destroyed a Russian MiG-29 at the airfield \"Belbek\" in Crimea with a UAV strike. Also, an airfield launcher was destroyed. Losses are estimated in millions of dollars.",
-    "description_en": "GUR destroyed a Russian MiG-29 at the airfield \"Belbek\" in Crimea with a UAV strike. Also, an airfield launcher was destroyed. Losses are estimated in millions of dollars.",
-    "description_uk": "ГУР ударом БПЛА уничтожило российский МиГ-29 на аэродроме \"Бельбек\" в Крыму Также уничтожена аэродромная пусковая установка. Потери оцениваются в миллионы долларов.",
-    "time": "",
-    "pubDate": "2026-07-04T11:07:03+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Crimea",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195218",
-    "score": 8.5,
-    "views": 116577,
-    "forwards": 182
-  },
-  {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "Strike UAV in the direction of Zaporozhye from the southeast.",
-    "description_en": "Strike UAV in the direction of Zaporozhye from the southeast.",
-    "description_uk": "Ударний БпЛА у напрямку м. Запоріжжя з південного сходу.",
-    "time": "",
-    "pubDate": "2026-07-04T08:52:14+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67321",
-    "score": 6.0,
-    "views": 81494,
-    "forwards": 17
   },
   {
     "title": "Ukrainian UAVs have disabled 42.7% of Russia's oil refining capacity,...",
