@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Strike drones in the direction of the Dnipro from the southeast.",
+    "description_en": "Strike drones in the direction of the Dnipro from the southeast.",
+    "description_uk": "Ударні БпЛА у напрямку Дніпра з південного сходу.",
+    "time": "",
+    "pubDate": "2026-07-04T20:40:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67342",
+    "score": 5.0,
+    "views": 12146,
+    "forwards": 35
+  },
+  {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на південному сході...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-07-04T19:58:32+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67339",
+    "score": 5.0,
+    "views": 47900,
+    "forwards": 1
+  },
+  {
     "title": "Air defense active",
     "title_en": "Air defense active",
     "title_uk": "Активна ППО",
@@ -14,8 +50,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195239",
     "score": 5.5,
-    "views": 89583,
-    "forwards": 113
+    "views": 115648,
+    "forwards": 148
   },
   {
     "title": "Kyiv: 31 killed, 102 injured",
@@ -32,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54074",
     "score": 10.0,
-    "views": 914,
-    "forwards": 1
+    "views": 1215,
+    "forwards": 4
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -68,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54073",
     "score": 6.0,
-    "views": 1143,
-    "forwards": 4
+    "views": 1414,
+    "forwards": 6
   },
   {
     "title": "Mykolaiv: I visited our soldiers in Odesa, who are undergoing treatment and...",
@@ -86,8 +122,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19779",
     "score": 6.5,
-    "views": 41006,
-    "forwards": 178
+    "views": 47064,
+    "forwards": 199
   },
   {
     "title": "Mykolaiv: Mykolaiv - BpLA in the direction of the city.",
@@ -140,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19777",
     "score": 4.5,
-    "views": 58301,
-    "forwards": 112
+    "views": 63054,
+    "forwards": 113
   },
   {
     "title": "Mykolaiv: Casualties reported",
@@ -160,24 +196,6 @@
     "score": 11.0,
     "views": 894,
     "forwards": 1
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Strike drones in the direction of Kremenchuk and Kamianskyi from the south.",
-    "description_en": "Strike drones in the direction of Kremenchuk and Kamianskyi from the south.",
-    "description_uk": "Ударні БпЛА у напрямку Кременчука та Кам'янського з півдня.",
-    "time": "",
-    "pubDate": "2026-07-04T15:43:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67330",
-    "score": 5.5,
-    "views": 38081,
-    "forwards": 103
   },
   {
     "title": "A high-speed target from the Black Sea in the direction of...",
@@ -211,9 +229,9 @@
     "location": "Ukraine",
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23620",
-    "score": 7.0,
-    "views": 92784,
-    "forwards": 183
+    "score": 8.0,
+    "views": 99872,
+    "forwards": 203
   },
   {
     "title": "🇸 The Ukrainian Air Force extends its heartfelt congratulations to...",
@@ -248,8 +266,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195229",
     "score": 6.5,
-    "views": 148901,
-    "forwards": 364
+    "views": 159641,
+    "forwards": 402
   },
   {
     "title": "Attack attack",
@@ -284,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9496",
     "score": 15.0,
-    "views": 706,
+    "views": 735,
     "forwards": 3
   },
   {
@@ -302,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9495",
     "score": 10.0,
-    "views": 699,
+    "views": 719,
     "forwards": 3
   },
   {
