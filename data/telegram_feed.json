@@ -1,5 +1,77 @@
 [
   {
+    "title": "Air defense active",
+    "title_en": "Air defense active",
+    "title_uk": "Активна ППО",
+    "description": "Ukraine will create a line of defense in the sea with interceptor drones, - Zelensky According to the president, drones will be launched from various platforms, including from sea drones. The defense line should protect Odessa and the entire region from air attacks. The future fleet will combine ships, aircraft, surface and underwater drones.",
+    "description_en": "Ukraine will create a line of defense in the sea with interceptor drones, - Zelensky According to the president, drones will be launched from various platforms, including from sea drones. The defense line should protect Odessa and the entire region from air attacks. The future fleet will combine ships, aircraft, surface and underwater drones.",
+    "description_uk": "Украина создаст в море линию обороны с дронами-перехватчиками, - Зеленский По словам президента, дроны будут запускать с различных платформ, в том числе с морских беспилотников. Линия обороны должна будет защитить Одессу и весь регион от воздушных атак. Будущий флот будет объединять корабли, авиацию, надводные и подводные дроны.",
+    "time": "",
+    "pubDate": "2026-07-04T18:14:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195239",
+    "score": 5.5,
+    "views": 32379,
+    "forwards": 72
+  },
+  {
+    "title": "Kyiv: 31 killed, 102 injured",
+    "title_en": "Kyiv: 31 killed, 102 injured",
+    "title_uk": "Київ: 31 загинув, 102 поранені",
+    "description": "Update: Search and rescue operations end in Kyiv with 31 dead, 102 injured. Search and rescue operations at the site of a Russian strike on a residential building in Kyiv's Darnytskyi district concluded on July 4, Ukraine's State Emergency Service (DSNS) said. The death toll from Russia's July 2 mass attack on the capital rose to 31, with 102 people reported injured.",
+    "description_en": "Update: Search and rescue operations end in Kyiv with 31 dead, 102 injured. Search and rescue operations at the site of a Russian strike on a residential building in Kyiv's Darnytskyi district concluded on July 4, Ukraine's State Emergency Service (DSNS) said. The death toll from Russia's July 2 mass attack on the capital rose to 31, with 102 people reported injured.",
+    "description_uk": "Update: Search and rescue operations end in Kyiv with 31 dead, 102 injured. Search and rescue operations at the site of a Russian strike on a residential building in Kyiv's Darnytskyi district concluded on July 4, Ukraine's State Emergency Service (DSNS) said. The death toll from Russia's July 2 mass attack on the capital rose to 31, with 102 people reported injured.",
+    "time": "",
+    "pubDate": "2026-07-04T18:13:32+00:00",
+    "category": "shelling",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54074",
+    "score": 10.0,
+    "views": 391,
+    "forwards": 1
+  },
+  {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "Jet UAVs in Zaporizhzhia - heading for Dnipropetrovsk region (Tomakivka/Manganets).",
+    "description_en": "Jet UAVs in Zaporizhzhia - heading for Dnipropetrovsk region (Tomakivka/Manganets).",
+    "description_uk": "Реактивні БпЛА на Запоріжжі - курсом на Дніпропетровщину (Томаківка/Марганець).",
+    "time": "",
+    "pubDate": "2026-07-04T17:54:33+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67334",
+    "score": 6.0,
+    "views": 32370,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Kremlin proposes temporary Kostiantynivka ceasefire and handover of...",
+    "title_en": "Kyiv: Kremlin proposes temporary Kostiantynivka ceasefire and handover of...",
+    "title_uk": "Київ: Кремль пропонує тимчасове припинення вогню в Костянтинівці та передачу...",
+    "description": "Kremlin proposes temporary Kostiantynivka ceasefire and handover of bodies to Ukraine, calls for talks in Moscow. Russia proposed a temporary ceasefire in the front-line city of Kostiantynivka to facilitate a handover of fallen Ukrainian service members' bodies, and the Kremlin said that President Volodymyr Zelensky should travel to Moscow for talks with Russian President Vladimir Putin instead...",
+    "description_en": "Kremlin proposes temporary Kostiantynivka ceasefire and handover of bodies to Ukraine, calls for talks in Moscow. Russia proposed a temporary ceasefire in the front-line city of Kostiantynivka to facilitate a handover of fallen Ukrainian service members' bodies, and the Kremlin said that President Volodymyr Zelensky should travel to Moscow for talks with Russian President Vladimir Putin instead...",
+    "description_uk": "Kremlin proposes temporary Kostiantynivka ceasefire and handover of bodies to Ukraine, calls for talks in Moscow. Russia proposed a temporary ceasefire in the front-line city of Kostiantynivka to facilitate a handover of fallen Ukrainian service members' bodies, and the Kremlin said that President Volodymyr Zelensky should travel to Moscow for talks with Russian President Vladimir Putin instead...",
+    "time": "",
+    "pubDate": "2026-07-04T17:45:01+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54073",
+    "score": 6.0,
+    "views": 727,
+    "forwards": 4
+  },
+  {
     "title": "Mykolaiv: I visited our soldiers in Odesa, who are undergoing treatment and...",
     "title_en": "Mykolaiv: I visited our soldiers in Odesa, who are undergoing treatment and...",
     "title_uk": "Миколаїв: відвідав наших бійців в Одесі, які проходять лікування та...",
@@ -13,9 +85,9 @@
     "location": "Mykolaiv",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19779",
-    "score": 6.0,
-    "views": 963,
-    "forwards": 1
+    "score": 6.5,
+    "views": 28903,
+    "forwards": 141
   },
   {
     "title": "Mykolaiv: Mykolaiv - BpLA in the direction of the city.",
@@ -32,7 +104,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/67333",
     "score": 6.0,
-    "views": 12142,
+    "views": 45554,
     "forwards": 0
   },
   {
@@ -68,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19777",
     "score": 4.5,
-    "views": 35342,
-    "forwards": 79
+    "views": 48250,
+    "forwards": 90
   },
   {
     "title": "Mykolaiv: Casualties reported",
@@ -128,7 +200,7 @@
   {
     "title": "🖥 Russia itself has created the world's largest open database of its...",
     "title_en": "🖥 Russia itself has created the world's largest open database of its...",
-    "title_uk": "🖥 Росія сама створила найбільшу у світі відкриту базу своїх...",
+    "title_uk": "🖥 Росія сама створила найбільшу у світі відкриту базу даних своїх...",
     "description": "🖥 Russia itself has created the world's largest open database of its own Western equipment. 💭 Any modern production or scientific research is impossible without means of measurement. Instrumentation remains one of the few industries in which the West still maintains technological leadership. For the Russian military-industrial complex, modern Western equipment means higher productivity, better product quality and...",
     "description_en": "🖥 Russia itself has created the world's largest open database of its own Western equipment. 💭 Any modern production or scientific research is impossible without means of measurement. Instrumentation remains one of the few industries in which the West still maintains technological leadership. For the Russian military-industrial complex, modern Western equipment means higher productivity, better product quality and...",
     "description_uk": "🖥 росія сама створила найбільшу у світі відкриту базу даних власного західного обладнання. 💭 Будь-яке сучасне виробництво чи наукове дослідження неможливе без засобів вимірювання. Приладобудування залишається однією з небагатьох галузей, у яких Захід досі зберігає технологічне лідерство. Для російського ВПК сучасне західне обладнання означає вищу продуктивність, кращу якість продукції та...",
@@ -140,8 +212,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23620",
     "score": 7.0,
-    "views": 68102,
-    "forwards": 132
+    "views": 80711,
+    "forwards": 155
   },
   {
     "title": "🇸 The Ukrainian Air Force extends its heartfelt congratulations to...",
@@ -176,8 +248,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195229",
     "score": 6.5,
-    "views": 115662,
-    "forwards": 291
+    "views": 132793,
+    "forwards": 327
   },
   {
     "title": "Attack attack",
@@ -212,15 +284,15 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9496",
     "score": 15.0,
-    "views": 620,
+    "views": 662,
     "forwards": 2
   },
   {
     "title": "Evacuation ordered",
     "title_en": "Evacuation ordered",
     "title_uk": "Наказано евакуацію",
-    "description": "Happy National Police Day of Ukraine! 🇺🇦 Every day, police officers help victims of Russian attacks and are among the first to arrive at the sites of attacks together with rescuers, evacuate civilians from frontline communities, fight crime and perform many important tasks. Thousands of policemen are part of combat units, where they protect our freedom with weapons in their hands. Thank you...",
-    "description_en": "Happy National Police Day of Ukraine! 🇺🇦 Every day, police officers help victims of Russian attacks and are among the first to arrive at the sites of attacks together with rescuers, evacuate civilians from frontline communities, fight crime and perform many important tasks. Thousands of policemen are part of combat units, where they protect our freedom with weapons in their hands. Thank you...",
+    "description": "Happy National Police Day of Ukraine! 🇺🇦 Every day, police officers help victims of Russian attacks and are among the first to arrive at the sites of attacks together with rescuers, carry out the evacuation of civilians from frontline communities, fight crime and perform many important tasks. Thousands of policemen are part of combat units, where they protect our freedom with weapons in their hands. Thank you...",
+    "description_en": "Happy National Police Day of Ukraine! 🇺🇦 Every day, police officers help victims of Russian attacks and are among the first to arrive at the sites of attacks together with rescuers, carry out the evacuation of civilians from frontline communities, fight crime and perform many important tasks. Thousands of policemen are part of combat units, where they protect our freedom with weapons in their hands. Thank you...",
     "description_uk": "З Днем Національної поліції України! 🇺🇦 Щодня поліцейські допомагають постраждалим від російських атак і одними з перших прибувають на місця ударів разом із рятувальниками, здійснюють евакуацію цивільних із прифронтових громад, протидіють злочинності та виконують безліч важливих завдань. Тисячі поліцейських – у складі бойових підрозділів, де захищають нашу свободу зі зброєю в руках. Дякуємо...",
     "time": "",
     "pubDate": "2026-07-04T11:34:15+00:00",
@@ -230,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9495",
     "score": 10.0,
-    "views": 647,
+    "views": 675,
     "forwards": 3
   },
   {
@@ -360,24 +432,6 @@
     "forwards": 525
   },
   {
-    "title": "Kyiv: Drone attack",
-    "title_en": "Kyiv: Drone attack",
-    "title_uk": "Київ: Атака безпілотників",
-    "description": "St. Petersburg oil terminal reportedly struck by Ukrainian drones. Ukraine's military reportedly carried out an attack on St. Petersburg in the early hours of July 4, striking an oil terminal in the city, Russian Telegram media channels reported.",
-    "description_en": "St. Petersburg oil terminal reportedly struck by Ukrainian drones. Ukraine's military reportedly carried out an attack on St. Petersburg in the early hours of July 4, striking an oil terminal in the city, Russian Telegram media channels reported.",
-    "description_uk": "St. Petersburg oil terminal reportedly struck by Ukrainian drones. Ukraine's military reportedly carried out an attack on St. Petersburg in the early hours of July 4, striking an oil terminal in the city, Russian Telegram media channels reported.",
-    "time": "",
-    "pubDate": "2026-07-04T04:11:21+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54067",
-    "score": 5.0,
-    "views": 2923,
-    "forwards": 6
-  },
-  {
     "title": "Kyiv: Missile launch detected",
     "title_en": "Kyiv: Missile launch detected",
     "title_uk": "Київ: Зафіксовано пуск ракети",
@@ -394,59 +448,5 @@
     "score": 12.5,
     "views": 418,
     "forwards": 3
-  },
-  {
-    "title": "Kharkiv: Casualties reported",
-    "title_en": "Kharkiv: Casualties reported",
-    "title_uk": "Харків: повідомляється про постраждалих",
-    "description": "Liquidation of the consequences of the Russian airstrike continues in Sumy. The Russians used guided aerial bombs just against ordinary people in the center of the city. There may still be people under the rubble of a high-rise building. Unfortunately, as of now, it is known about four dead, among them - a child. My condolences to family and friends. Another 27 people were injured, six of whom were children. Many have serious injuries. During the day...",
-    "description_en": "Liquidation of the consequences of the Russian airstrike continues in Sumy. The Russians used guided aerial bombs just against ordinary people in the center of the city. There may still be people under the rubble of a high-rise building. Unfortunately, as of now, it is known about four dead, among them - a child. My condolences to family and friends. Another 27 people were injured, six of whom were children. Many have serious injuries. During the day...",
-    "description_uk": "У Сумах триває ліквідація наслідків російського авіаудару. Росіяни застосували керовані авіабомби просто проти звичайних людей у центрі міста. Під завалами багатоповерхівки ще можуть бути люди. На жаль, станом на зараз відомо про чотирьох загиблих, серед них – дитина. Мої співчуття рідним і близьким. Ще 27 людей зазнали поранень, з яких шестеро – діти. У багатьох – важкі поранення. Упродовж дня...",
-    "time": "",
-    "pubDate": "2026-07-03T22:00:44+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kharkiv",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19747",
-    "score": 11.0,
-    "views": 113222,
-    "forwards": 285
-  },
-  {
-    "title": "Zaporozhye was also struck. People are under the rubble. One woman...",
-    "title_en": "Zaporozhye was also struck. People are under the rubble. One woman...",
-    "title_uk": "Удару зазнало і Запоріжжя. Під завалами знаходяться люди. Одна жінка...",
-    "description": "Zaporozhye was also struck. People are under the rubble. One woman was injured, OVA reported.",
-    "description_en": "Zaporozhye was also struck. People are under the rubble. One woman was injured, OVA reported.",
-    "description_uk": "Также был нанесен удар по Запорожью. Под завалами люди. Одна женщина получила ранение, сообщили в ОВА.",
-    "time": "",
-    "pubDate": "2026-07-03T20:12:29+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195186",
-    "score": 4.5,
-    "views": 187642,
-    "forwards": 121
-  },
-  {
-    "title": "Mykolaiv: High-speed target in Mykolaiv Oblast past Bashtanka in the direction...",
-    "title_en": "Mykolaiv: High-speed target in Mykolaiv Oblast past Bashtanka in the direction...",
-    "title_uk": "Миколаїв: Швидкісна мета в Миколаївській області повз Баштанку в напрямку...",
-    "description": "High-speed target in Mykolaiv Oblast past Bashtanka in the direction of Kirovohrad Oblast.",
-    "description_en": "High-speed target in Mykolaiv Oblast past Bashtanka in the direction of Kirovohrad Oblast.",
-    "description_uk": "Швидкісна ціль на Миколаївщині повз Баштанку в напрямку Кіровоградщини.",
-    "time": "",
-    "pubDate": "2026-07-03T17:56:28+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67264",
-    "score": 6.5,
-    "views": 51559,
-    "forwards": 137
   }
 ]
