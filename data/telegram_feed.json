@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "Strike UAV in the Black Sea as a vector of movement to Tatarbunary.",
+    "description_en": "Strike UAV in the Black Sea as a vector of movement to Tatarbunary.",
+    "description_uk": "Ударний БпЛА у Чорному морі вектором руху на Татарбунари.",
+    "time": "",
+    "pubDate": "2026-07-04T23:42:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67346",
+    "score": 5.0,
+    "views": 1194,
+    "forwards": 2
+  },
+  {
     "title": "Air defense systems in the district. Bays.",
     "title_en": "Air defense systems in the district. Bays.",
     "title_uk": "Системи ППО в районі. затоки.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/67345",
     "score": 5.0,
-    "views": 11629,
+    "views": 19207,
     "forwards": 11
   },
   {
@@ -33,24 +51,6 @@
     "link": "https://t.me/kpszsu/67344",
     "score": 6.0,
     "views": 25348,
-    "forwards": 0
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "Strike UAVs in the Black Sea as a vector of movement towards Tatarbunary.",
-    "description_en": "Strike UAVs in the Black Sea as a vector of movement towards Tatarbunary.",
-    "description_uk": "Ударні БпЛА у Чорному морі вектором руху на Татарбунари.",
-    "time": "",
-    "pubDate": "2026-07-04T21:21:46+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67343",
-    "score": 5.0,
-    "views": 18220,
     "forwards": 0
   },
   {
@@ -104,7 +104,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195239",
     "score": 5.5,
-    "views": 136316,
+    "views": 141362,
     "forwards": 170
   },
   {
@@ -122,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54074",
     "score": 10.0,
-    "views": 1634,
+    "views": 1799,
     "forwards": 5
   },
   {
@@ -158,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54073",
     "score": 6.0,
-    "views": 1777,
+    "views": 1913,
     "forwards": 6
   },
   {
@@ -176,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19779",
     "score": 7.5,
-    "views": 52367,
-    "forwards": 211
+    "views": 53304,
+    "forwards": 213
   },
   {
     "title": "Mykolaiv: Mykolaiv - BpLA in the direction of the city.",
@@ -230,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19777",
     "score": 4.5,
-    "views": 66403,
-    "forwards": 113
+    "views": 67365,
+    "forwards": 115
   },
   {
     "title": "Mykolaiv: Casualties reported",
@@ -272,7 +272,7 @@
   {
     "title": "🖥 Russia itself has created the world's largest open database of its...",
     "title_en": "🖥 Russia itself has created the world's largest open database of its...",
-    "title_uk": "🖥 Росія сама створила найбільшу у світі відкриту базу своїх...",
+    "title_uk": "🖥 Росія сама створила найбільшу у світі відкриту базу даних своїх...",
     "description": "🖥 Russia itself has created the world's largest open database of its own Western equipment. 💭 Any modern production or scientific research is impossible without means of measurement. Instrumentation remains one of the few industries in which the West still maintains technological leadership. For the Russian military-industrial complex, modern Western equipment means higher productivity, better product quality and...",
     "description_en": "🖥 Russia itself has created the world's largest open database of its own Western equipment. 💭 Any modern production or scientific research is impossible without means of measurement. Instrumentation remains one of the few industries in which the West still maintains technological leadership. For the Russian military-industrial complex, modern Western equipment means higher productivity, better product quality and...",
     "description_uk": "🖥 росія сама створила найбільшу у світі відкриту базу даних власного західного обладнання. 💭 Будь-яке сучасне виробництво чи наукове дослідження неможливе без засобів вимірювання. Приладобудування залишається однією з небагатьох галузей, у яких Захід досі зберігає технологічне лідерство. Для російського ВПК сучасне західне обладнання означає вищу продуктивність, кращу якість продукції та...",
@@ -284,8 +284,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23620",
     "score": 8.0,
-    "views": 106750,
-    "forwards": 218
+    "views": 108444,
+    "forwards": 221
   },
   {
     "title": "🇸 The Ukrainian Air Force extends its heartfelt congratulations to...",
@@ -320,7 +320,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195229",
     "score": 6.5,
-    "views": 169945,
+    "views": 172610,
     "forwards": 425
   },
   {
@@ -356,15 +356,15 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9496",
     "score": 15.0,
-    "views": 769,
+    "views": 776,
     "forwards": 3
   },
   {
     "title": "Evacuation ordered",
     "title_en": "Evacuation ordered",
     "title_uk": "Наказано евакуацію",
-    "description": "Happy National Police Day of Ukraine! 🇺🇦 Every day, police officers help victims of Russian attacks and are among the first to arrive at the sites of attacks together with rescuers, evacuate civilians from frontline communities, fight crime and perform many important tasks. Thousands of policemen are part of combat units, where they protect our freedom with weapons in their hands. Thank you...",
-    "description_en": "Happy National Police Day of Ukraine! 🇺🇦 Every day, police officers help victims of Russian attacks and are among the first to arrive at the sites of attacks together with rescuers, evacuate civilians from frontline communities, fight crime and perform many important tasks. Thousands of policemen are part of combat units, where they protect our freedom with weapons in their hands. Thank you...",
+    "description": "Happy National Police Day of Ukraine! 🇺🇦 Every day, police officers help victims of Russian attacks and are among the first to arrive at the sites of attacks together with rescuers, carry out the evacuation of civilians from frontline communities, fight crime and perform many important tasks. Thousands of policemen are part of combat units, where they protect our freedom with weapons in their hands. Thank you...",
+    "description_en": "Happy National Police Day of Ukraine! 🇺🇦 Every day, police officers help victims of Russian attacks and are among the first to arrive at the sites of attacks together with rescuers, carry out the evacuation of civilians from frontline communities, fight crime and perform many important tasks. Thousands of policemen are part of combat units, where they protect our freedom with weapons in their hands. Thank you...",
     "description_uk": "З Днем Національної поліції України! 🇺🇦 Щодня поліцейські допомагають постраждалим від російських атак і одними з перших прибувають на місця ударів разом із рятувальниками, здійснюють евакуацію цивільних із прифронтових громад, протидіють злочинності та виконують безліч важливих завдань. Тисячі поліцейських – у складі бойових підрозділів, де захищають нашу свободу зі зброєю в руках. Дякуємо...",
     "time": "",
     "pubDate": "2026-07-04T11:34:15+00:00",
@@ -374,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9495",
     "score": 10.0,
-    "views": 742,
+    "views": 745,
     "forwards": 3
   },
   {
