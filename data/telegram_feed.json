@@ -1,10 +1,64 @@
 [
   {
+    "title": "Attack attack",
+    "title_en": "Attack attack",
+    "title_uk": "Атака нападу",
+    "description": "The situation is really difficult. So much so that now we have to paint locomotives with camouflage paint. The second video shows the consequences of the Geranyu attack on a locomotive in the Dnipropetrovsk region.",
+    "description_en": "The situation is really difficult. So much so that now we have to paint locomotives with camouflage paint. The second video shows the consequences of the Geranyu attack on a locomotive in the Dnipropetrovsk region.",
+    "description_uk": "Ситуация действительно непростая. Настолько, что нам теперь приходится наносить на тепловозы камуфляжную раскраску. На втором видео - последствия удара \"Геранью\" по локомотиву в Днепропетровской области.",
+    "time": "",
+    "pubDate": "2026-07-04T14:03:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195227",
+    "score": 5.0,
+    "views": 19492,
+    "forwards": 39
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Strike UAV in the direction of Kremenchuk from the south.",
+    "description_en": "Strike UAV in the direction of Kremenchuk from the south.",
+    "description_uk": "Ударний БпЛА у напрямку Кременчука з півдня.",
+    "time": "",
+    "pubDate": "2026-07-04T13:58:20+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67323",
+    "score": 5.0,
+    "views": 17698,
+    "forwards": 20
+  },
+  {
+    "title": "Sumy: Casualties reported",
+    "title_en": "Sumy: Casualties reported",
+    "title_uk": "Суми: повідомляється про постраждалих",
+    "description": "Minister of Foreign Affairs of Ukraine Andriy Sybiga commented on the Russian attack on the city of Sumy, calling on partners to resolutely react and strengthen support for Ukraine. 💬 \"Tonight, Russia dropped an aerial bomb on the center of the city of Sumy. At least four civilians were killed, among them a child. Another 33 people were injured, including seven children. Moscow stopped even pretending to distinguish...",
+    "description_en": "Minister of Foreign Affairs of Ukraine Andriy Sybiga commented on the Russian attack on the city of Sumy, calling on partners to resolutely react and strengthen support for Ukraine. 💬 \"Tonight, Russia dropped an aerial bomb on the center of the city of Sumy. At least four civilians were killed, among them a child. Another 33 people were injured, including seven children. Moscow stopped even pretending to distinguish...",
+    "description_uk": "Міністр закордонних справ України Андрій Сибіга прокоментував російську атаку по місту Суми, закликавши партнерів до рішучої реакції та посилення підтримки України. 💬 \"Сьогодні вночі Росія скинула авіабомбу на центр міста Суми. Щонайменше четверо мирних жителів загинули, серед них – дитина. Ще 33 людини дістали поранення, зокрема семеро дітей. Москва давно перестала навіть удавати, що розрізняє...",
+    "time": "",
+    "pubDate": "2026-07-04T13:29:44+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Sumy",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9496",
+    "score": 15.0,
+    "views": 320,
+    "forwards": 2
+  },
+  {
     "title": "Evacuation ordered",
     "title_en": "Evacuation ordered",
     "title_uk": "Наказано евакуацію",
-    "description": "Happy National Police Day of Ukraine! 🇺🇦 Every day, police officers help victims of Russian attacks and are among the first to arrive at the sites of attacks together with rescuers, carry out the evacuation of civilians from frontline communities, fight crime and perform many important tasks. Thousands of policemen are part of combat units, where they protect our freedom with weapons in their hands. Thank you...",
-    "description_en": "Happy National Police Day of Ukraine! 🇺🇦 Every day, police officers help victims of Russian attacks and are among the first to arrive at the sites of attacks together with rescuers, carry out the evacuation of civilians from frontline communities, fight crime and perform many important tasks. Thousands of policemen are part of combat units, where they protect our freedom with weapons in their hands. Thank you...",
+    "description": "Happy National Police Day of Ukraine! 🇺🇦 Every day, police officers help victims of Russian attacks and are among the first to arrive at the sites of attacks together with rescuers, evacuate civilians from frontline communities, fight crime and perform many important tasks. Thousands of policemen are part of combat units, where they protect our freedom with weapons in their hands. Thank you...",
+    "description_en": "Happy National Police Day of Ukraine! 🇺🇦 Every day, police officers help victims of Russian attacks and are among the first to arrive at the sites of attacks together with rescuers, evacuate civilians from frontline communities, fight crime and perform many important tasks. Thousands of policemen are part of combat units, where they protect our freedom with weapons in their hands. Thank you...",
     "description_uk": "З Днем Національної поліції України! 🇺🇦 Щодня поліцейські допомагають постраждалим від російських атак і одними з перших прибувають на місця ударів разом із рятувальниками, здійснюють евакуацію цивільних із прифронтових громад, протидіють злочинності та виконують безліч важливих завдань. Тисячі поліцейських – у складі бойових підрозділів, де захищають нашу свободу зі зброєю в руках. Дякуємо...",
     "time": "",
     "pubDate": "2026-07-04T11:34:15+00:00",
@@ -14,7 +68,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9495",
     "score": 10.0,
-    "views": 294,
+    "views": 475,
     "forwards": 3
   },
   {
@@ -32,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195218",
     "score": 8.5,
-    "views": 80652,
-    "forwards": 145
+    "views": 116577,
+    "forwards": 182
   },
   {
     "title": "Mykolaiv: Casualties reported",
@@ -50,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19766",
     "score": 7.5,
-    "views": 126440,
-    "forwards": 1046
+    "views": 145801,
+    "forwards": 1131
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -68,26 +122,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/67321",
     "score": 6.0,
-    "views": 60926,
+    "views": 81494,
     "forwards": 17
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Strike drone in the direction of Kharkiv from the south.",
-    "description_en": "Strike drone in the direction of Kharkiv from the south.",
-    "description_uk": "Ударний БпЛА у напрямку Харкова з півдня.",
-    "time": "",
-    "pubDate": "2026-07-04T08:45:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67320",
-    "score": 5.0,
-    "views": 64504,
-    "forwards": 0
   },
   {
     "title": "Ukrainian UAVs have disabled 42.7% of Russia's oil refining capacity,...",
@@ -122,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19764",
     "score": 5.5,
-    "views": 223485,
-    "forwards": 436
+    "views": 243858,
+    "forwards": 471
   },
   {
     "title": "Dnipro: A quick target on the Dnipro",
@@ -176,7 +212,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40736",
     "score": 13.0,
-    "views": 4737,
+    "views": 5004,
     "forwards": 8
   },
   {
@@ -194,8 +230,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40735",
     "score": 8.5,
-    "views": 118847,
-    "forwards": 502
+    "views": 125087,
+    "forwards": 518
   },
   {
     "title": "Dear employees of the National Police of Ukraine! I sincerely...",
@@ -230,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54067",
     "score": 5.0,
-    "views": 2332,
+    "views": 2566,
     "forwards": 6
   },
   {
@@ -284,26 +320,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54066",
     "score": 4.0,
-    "views": 2411,
+    "views": 2604,
     "forwards": 6
-  },
-  {
-    "title": "Kharkiv: Kharkiv region: BpLA ➡️ in the direction of Lozova/Blyznyuky from the...",
-    "title_en": "Kharkiv: Kharkiv region: BpLA ➡️ in the direction of Lozova/Blyznyuky from the...",
-    "title_uk": "Харків: Харківська область: BpLA ➡️ в напрямку Лозової/Близнюки від...",
-    "description": "Kharkiv region: BpLA ➡️ in the direction of Lozova/Blyznyuky from the southeast.",
-    "description_en": "Kharkiv region: BpLA ➡️ in the direction of Lozova/Blyznyuky from the southeast.",
-    "description_uk": "Харківщина: БпЛА ➡️ в напрямку Лозової/Близнюків з південного сходу.",
-    "time": "",
-    "pubDate": "2026-07-04T01:00:11+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67290",
-    "score": 6.0,
-    "views": 3991,
-    "forwards": 0
   },
   {
     "title": "Kyiv: Missile launch detected",
@@ -394,41 +412,5 @@
     "score": 8.0,
     "views": 2204,
     "forwards": 7
-  },
-  {
-    "title": "Strike confirmed",
-    "title_en": "Strike confirmed",
-    "title_uk": "Страйк підтверджено",
-    "description": "The enemy began to use new tactics: one of the \"innovations\" is the mass use of reactive UAVs. Probably, this is the first time when they were used in such a quantity, notes the monitoring public eRadar. Reactive UAVs are almost cruise missiles in speed, up to 600 km/h, which makes them difficult targets for small arms and mobile air defense fire groups. On the video - the moment of impact as...",
-    "description_en": "The enemy began to use new tactics: one of the \"innovations\" is the mass use of reactive UAVs. Probably, this is the first time when they were used in such a quantity, notes the monitoring public eRadar. Reactive UAVs are almost cruise missiles in speed, up to 600 km/h, which makes them difficult targets for small arms and mobile air defense fire groups. On the video - the moment of impact as...",
-    "description_uk": "Враг начал применять новую тактику: одним из \"нововведений\" является массовое использование реактивных БПЛА Вероятно, это первый случай, когда их задействовали в таком количестве, отмечает мониторинговый паблик єРадар. Реактивные БПЛА - по скорости почти крылатая ракета, до 600 км/ч, что делает их сложными целями для стрелкового оружия и мобильных огневых групп ПВО. На видео - момент удара как...",
-    "time": "",
-    "pubDate": "2026-07-03T13:27:26+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195150",
-    "score": 8.5,
-    "views": 131696,
-    "forwards": 143
-  },
-  {
-    "title": "30 killed",
-    "title_en": "30 killed",
-    "title_uk": "30 убитих",
-    "description": "Today, Kyiv declared a day of mourning in memory of the victims of the Russian attack on July 2. As of now, it is known about 30 dead. Dozens of people were injured. We express our condolences to the relatives and friends of those whose lives were cruelly cut short by Russia. As a result of this attack, destruction was recorded in almost all districts of Kyiv. More than 20 residential buildings, an ambulance station, cars were damaged...",
-    "description_en": "Today, Kyiv declared a day of mourning in memory of the victims of the Russian attack on July 2. As of now, it is known about 30 dead. Dozens of people were injured. We express our condolences to the relatives and friends of those whose lives were cruelly cut short by Russia. As a result of this attack, destruction was recorded in almost all districts of Kyiv. More than 20 residential buildings, an ambulance station, cars were damaged...",
-    "description_uk": "Сьогодні в Києві оголошено День жалоби в пам'ять за жертвами російської атаки 2 липня. Станом на зараз відомо про 30 загиблих. Десятки людей зазнали поранень. Висловлюємо співчуття рідним і близьким тих, чиї життя жорстоко обірвала Росія. Внаслідок цієї атаки руйнування було зафіксовано майже в усіх районах Києва. Пошкоджено понад 20 житлових будинків, станцію швидкої допомоги, автомобілі...",
-    "time": "",
-    "pubDate": "2026-07-03T06:00:55+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9482",
-    "score": 9.0,
-    "views": 1451,
-    "forwards": 6
   }
 ]
