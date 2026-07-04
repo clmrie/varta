@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "GUR destroyed a Russian MiG-29 at the airfield \"Belbek\" in Crimea with a UAV strike. Also, an airfield launcher was destroyed. Losses are estimated in millions of dollars.",
+    "description_en": "GUR destroyed a Russian MiG-29 at the airfield \"Belbek\" in Crimea with a UAV strike. Also, an airfield launcher was destroyed. Losses are estimated in millions of dollars.",
+    "description_uk": "ГУР ударом БПЛА уничтожило российский МиГ-29 на аэродроме \"Бельбек\" в Крыму Также уничтожена аэродромная пусковая установка. Потери оцениваются в миллионы долларов.",
+    "time": "",
+    "pubDate": "2026-07-04T11:07:03+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Crimea",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195218",
+    "score": 8.5,
+    "views": 21442,
+    "forwards": 73
+  },
+  {
     "title": "Mykolaiv: Casualties reported",
     "title_en": "Mykolaiv: Casualties reported",
     "title_uk": "Миколаїв: повідомляється про постраждалих",
@@ -14,8 +32,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19766",
     "score": 7.5,
-    "views": 53796,
-    "forwards": 693
+    "views": 104282,
+    "forwards": 937
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -32,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/67321",
     "score": 6.0,
-    "views": 34125,
-    "forwards": 0
+    "views": 50858,
+    "forwards": 17
   },
   {
     "title": "Drone incoming",
@@ -50,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/67320",
     "score": 5.0,
-    "views": 39245,
+    "views": 55038,
     "forwards": 0
   },
   {
@@ -86,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19764",
     "score": 5.5,
-    "views": 159359,
-    "forwards": 394
+    "views": 200848,
+    "forwards": 433
   },
   {
     "title": "Dnipro: A quick target on the Dnipro",
@@ -140,7 +158,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40736",
     "score": 13.0,
-    "views": 3897,
+    "views": 4475,
     "forwards": 8
   },
   {
@@ -158,8 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40735",
     "score": 8.5,
-    "views": 99339,
-    "forwards": 431
+    "views": 111356,
+    "forwards": 481
   },
   {
     "title": "Dear employees of the National Police of Ukraine! I sincerely...",
@@ -194,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54067",
     "score": 5.0,
-    "views": 1776,
+    "views": 2090,
     "forwards": 3
   },
   {
@@ -248,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54066",
     "score": 4.0,
-    "views": 1911,
+    "views": 2198,
     "forwards": 5
   },
   {
@@ -304,42 +322,6 @@
     "score": 12.5,
     "views": 418,
     "forwards": 3
-  },
-  {
-    "title": "Kyiv: Missile attack on infrastructure",
-    "title_en": "Kyiv: Missile attack on infrastructure",
-    "title_uk": "Київ: Ракетний удар по інфраструктурі",
-    "description": "Russia's mass missile attacks on Ukraine 'must continue,' Putin says. \"I note that massive, coordinated strikes against the infrastructure of Ukraine's military-industrial complex and the facilities supporting its operation must continue,\" Russian President Vladimir Putin said.",
-    "description_en": "Russia's mass missile attacks on Ukraine 'must continue,' Putin says. \"I note that massive, coordinated strikes against the infrastructure of Ukraine's military-industrial complex and the facilities supporting its operation must continue,\" Russian President Vladimir Putin said.",
-    "description_uk": "Russia's mass missile attacks on Ukraine 'must continue,' Putin says. \"I note that massive, coordinated strikes against the infrastructure of Ukraine's military-industrial complex and the facilities supporting its operation must continue,\" Russian President Vladimir Putin said.",
-    "time": "",
-    "pubDate": "2026-07-03T22:56:37+00:00",
-    "category": "missile",
-    "severity": "medium",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54063",
-    "score": 4.0,
-    "views": 683,
-    "forwards": 2
-  },
-  {
-    "title": "Chernihiv: BpLA in the direction of Chernihiv from the north.",
-    "title_en": "Chernihiv: BpLA in the direction of Chernihiv from the north.",
-    "title_uk": "Чернігів: БпЛА в напрямку Чернігова з півн.",
-    "description": "BpLA in the direction of Chernihiv from the north.",
-    "description_en": "BpLA in the direction of Chernihiv from the north.",
-    "description_uk": "БпЛА в напрямку м.Чернігів з півночі.",
-    "time": "",
-    "pubDate": "2026-07-03T22:30:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67277",
-    "score": 6.0,
-    "views": 19535,
-    "forwards": 10
   },
   {
     "title": "Kharkiv: Casualties reported",
@@ -448,5 +430,23 @@
     "score": 6.0,
     "views": 772,
     "forwards": 4
+  },
+  {
+    "title": "30 killed",
+    "title_en": "30 killed",
+    "title_uk": "30 убитих",
+    "description": "Today, Kyiv declared a day of mourning in memory of the victims of the Russian attack on July 2. As of now, it is known about 30 dead. Dozens of people were injured. We express our condolences to the relatives and friends of those whose lives were cruelly cut short by Russia. As a result of this attack, destruction was recorded in almost all districts of Kyiv. More than 20 residential buildings, an ambulance station, cars were damaged...",
+    "description_en": "Today, Kyiv declared a day of mourning in memory of the victims of the Russian attack on July 2. As of now, it is known about 30 dead. Dozens of people were injured. We express our condolences to the relatives and friends of those whose lives were cruelly cut short by Russia. As a result of this attack, destruction was recorded in almost all districts of Kyiv. More than 20 residential buildings, an ambulance station, cars were damaged...",
+    "description_uk": "Сьогодні в Києві оголошено День жалоби в пам'ять за жертвами російської атаки 2 липня. Станом на зараз відомо про 30 загиблих. Десятки людей зазнали поранень. Висловлюємо співчуття рідним і близьким тих, чиї життя жорстоко обірвала Росія. Внаслідок цієї атаки руйнування було зафіксовано майже в усіх районах Києва. Пошкоджено понад 20 житлових будинків, станцію швидкої допомоги, автомобілі...",
+    "time": "",
+    "pubDate": "2026-07-03T06:00:55+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9482",
+    "score": 9.0,
+    "views": 1437,
+    "forwards": 6
   }
 ]
