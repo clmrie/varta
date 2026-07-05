@@ -1,5 +1,41 @@
 [
   {
+    "title": "Air raid alert",
+    "title_en": "Air raid alert",
+    "title_uk": "Повітряна тривога",
+    "description": "WARNING! ✈ The takeoff of several Tu-95MS aircraft from the \"Olenya\" airfield (Murmansk region, Russian Federation) was recorded! Follow our messages! In the event of an air alert, head to the shelter!",
+    "description_en": "WARNING! ✈ The takeoff of several Tu-95MS aircraft from the \"Olenya\" airfield (Murmansk region, Russian Federation) was recorded! Follow our messages! In the event of an air alert, head to the shelter!",
+    "description_uk": "Увага! ✈ Зафіксовано зліт кількох бортів Ту-95МС з аеродрому \"Оленья\" (Мурманська область, рф)! Слідкуйте за нашими повідомленнями! У разі оголошення повітряної тривоги – прямуйте в укриття!",
+    "time": "",
+    "pubDate": "2026-07-05T20:58:50+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67440",
+    "score": 6.5,
+    "views": 40595,
+    "forwards": 348
+  },
+  {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "Dnipropetrovsk region: several groups of UAVs ➡️ on Apostolovo from the south.",
+    "description_en": "Dnipropetrovsk region: several groups of UAVs ➡️ on Apostolovo from the south.",
+    "description_uk": "Дніпропетровщина: декілька груп БПЛА ➡️ на Апостолове з півдня.",
+    "time": "",
+    "pubDate": "2026-07-05T20:40:35+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67439",
+    "score": 6.0,
+    "views": 50697,
+    "forwards": 0
+  },
+  {
     "title": "Mykolaiv: Mykolayiv region: BpLA past Ochakiv ➡️ heading north.",
     "title_en": "Mykolaiv: Mykolayiv region: BpLA past Ochakiv ➡️ heading north.",
     "title_uk": "Миколаїв: Миколаївська область: BpLA повз Очаків ➡️ на північ.",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54082",
     "score": 4.0,
-    "views": 756,
+    "views": 1387,
     "forwards": 2
   },
   {
@@ -176,7 +212,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195285",
     "score": 4.5,
-    "views": 149451,
+    "views": 164606,
     "forwards": 1081
   },
   {
@@ -194,8 +230,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23622",
     "score": 5.5,
-    "views": 110753,
-    "forwards": 471
+    "views": 118983,
+    "forwards": 486
   },
   {
     "title": "New groups of UAVs from Kurshchyna to Konotopsky district of...",
@@ -230,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54081",
     "score": 11.5,
-    "views": 2056,
+    "views": 2415,
     "forwards": 4
   },
   {
@@ -338,26 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19802",
     "score": 8.5,
-    "views": 76525,
-    "forwards": 62
-  },
-  {
-    "title": "Dnipro: Drone incoming",
-    "title_en": "Dnipro: Drone incoming",
-    "title_uk": "Дніпро: Дрон вхід",
-    "description": "Dnipropetrovsk region: jet UAV ➡️ in the direction of Synelnikovo/Dnipro.",
-    "description_en": "Dnipropetrovsk region: jet UAV ➡️ in the direction of Synelnikovo/Dnipro.",
-    "description_uk": "Дніпропетровщина: реактивний БпЛА ➡️ у напрямку Синельникового/Дніпра.",
-    "time": "",
-    "pubDate": "2026-07-05T10:58:46+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67398",
-    "score": 6.0,
-    "views": 47548,
-    "forwards": 0
+    "views": 78569,
+    "forwards": 73
   },
   {
     "title": "Poltava region: BpLA ➡️ in the direction of Kotelvy, Myrhorod.",
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 34350,
     "forwards": 36
-  },
-  {
-    "title": "Donetsk: The airfield in Crimea, ammunition warehouses and bridges were hit...",
-    "title_en": "Donetsk: The airfield in Crimea, ammunition warehouses and bridges were hit...",
-    "title_uk": "Донецьк: уражені аеродром у Криму, склади боєприпасів і мости...",
-    "description": "The airfield in Crimea, ammunition warehouses and bridges were hit ⚡️On the night of July 5, as part of reducing the offensive potential of the Russian aggressor, units of the Defense Forces of Ukraine hit the \"Gvardiyske\" airfield in the temporarily occupied Crimea. The extent of the damage is being clarified. \"Gvardiyske\" airfield is one of the key military airfields of the Russian Federation in the temporarily occupied Crimea...",
-    "description_en": "The airfield in Crimea, ammunition warehouses and bridges were hit ⚡️On the night of July 5, as part of reducing the offensive potential of the Russian aggressor, units of the Defense Forces of Ukraine hit the \"Gvardiyske\" airfield in the temporarily occupied Crimea. The extent of the damage is being clarified. \"Gvardiyske\" airfield is one of the key military airfields of the Russian Federation in the temporarily occupied Crimea...",
-    "description_uk": "Уражено аеродром у Криму, склади боєприпасів та мости ⚡️У ніч на 5 липня в рамках зниження наступального потенціалу російського агресора підрозділи Сил оборони України уразили аеродром \"Гвардійське\" у тимчасово окупованому Криму. Ступінь завданих збитків уточнюється. Аеродром \"Гвардійське\" є одним із ключових військових аеродромів російської федерації на тимчасово окупованому Кримському...",
-    "time": "",
-    "pubDate": "2026-07-05T09:23:49+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/40787",
-    "score": 5.5,
-    "views": 26778,
-    "forwards": 167
   }
 ]
