@@ -1,5 +1,77 @@
 [
   {
+    "title": "Zaporizhzhia: BpLA group ➡️ heading for Zaporozhye.",
+    "title_en": "Zaporizhzhia: BpLA group ➡️ heading for Zaporozhye.",
+    "title_uk": "Запоріжжя: BpLA group ➡️ прямує до Запоріжжя.",
+    "description": "BpLA group ➡️ heading for Zaporozhye.",
+    "description_en": "BpLA group ➡️ heading for Zaporozhye.",
+    "description_uk": "Група БпЛА ➡️ курсом на Запоріжжя.",
+    "time": "",
+    "pubDate": "2026-07-05T10:28:21+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67394",
+    "score": 6.0,
+    "views": 13151,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Drone incoming",
+    "description": "Kyiv region: jet UAV ➡️ heading for Boryspil.",
+    "description_en": "Kyiv region: jet UAV ➡️ heading for Boryspil.",
+    "description_uk": "Київщина: реактивний БпЛА ➡️ курсом на Бориспіль.",
+    "time": "",
+    "pubDate": "2026-07-05T09:59:54+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67393",
+    "score": 6.0,
+    "views": 34350,
+    "forwards": 36
+  },
+  {
+    "title": "Donetsk: The airfield in Crimea, ammunition warehouses and bridges were hit...",
+    "title_en": "Donetsk: The airfield in Crimea, ammunition warehouses and bridges were hit...",
+    "title_uk": "Донецьк: уражені аеродром у Криму, склади боєприпасів і мости...",
+    "description": "The airfield in Crimea, ammunition warehouses and bridges were hit ⚡️On the night of July 5, as part of reducing the offensive potential of the Russian aggressor, units of the Defense Forces of Ukraine hit the \"Gvardiyske\" airfield in the temporarily occupied Crimea. The extent of the damage is being clarified. \"Gvardiyske\" airfield is one of the key military airfields of the Russian Federation in the temporarily occupied Crimea...",
+    "description_en": "The airfield in Crimea, ammunition warehouses and bridges were hit ⚡️On the night of July 5, as part of reducing the offensive potential of the Russian aggressor, units of the Defense Forces of Ukraine hit the \"Gvardiyske\" airfield in the temporarily occupied Crimea. The extent of the damage is being clarified. \"Gvardiyske\" airfield is one of the key military airfields of the Russian Federation in the temporarily occupied Crimea...",
+    "description_uk": "Уражено аеродром у Криму, склади боєприпасів та мости ⚡️У ніч на 5 липня в рамках зниження наступального потенціалу російського агресора підрозділи Сил оборони України уразили аеродром \"Гвардійське\" у тимчасово окупованому Криму. Ступінь завданих збитків уточнюється. Аеродром \"Гвардійське\" є одним із ключових військових аеродромів російської федерації на тимчасово окупованому Кримському...",
+    "time": "",
+    "pubDate": "2026-07-05T09:23:49+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/40787",
+    "score": 5.5,
+    "views": 6556,
+    "forwards": 116
+  },
+  {
+    "title": "Dear servicemen, workers and veterans of the Naval Forces of the...",
+    "title_en": "Dear servicemen, workers and veterans of the Naval Forces of the...",
+    "title_uk": "Шановні військовослужбовці, працівники та ветерани Військово-Морських Сил...",
+    "description": "Dear servicemen, workers and veterans of the Naval Forces of the Armed Forces of Ukraine! I sincerely congratulate you on the professional holiday of military sailors! Ukraine was, is and will be a maritime state. Today, the soldiers of our Naval Forces defend this right every day with weapons in their hands. From the beginning of the large-scale aggression, Russia sought to deprive Ukraine of access to the sea, destroy our fleet and establish...",
+    "description_en": "Dear servicemen, workers and veterans of the Naval Forces of the Armed Forces of Ukraine! I sincerely congratulate you on the professional holiday of military sailors! Ukraine was, is and will be a maritime state. Today, the soldiers of our Naval Forces defend this right every day with weapons in their hands. From the beginning of the large-scale aggression, Russia sought to deprive Ukraine of access to the sea, destroy our fleet and establish...",
+    "description_uk": "Шановні військовослужбовці, працівники та ветерани Військово-Морських Сил Збройних Сил України! Щиро вітаю вас із професійним святом військових моряків! Україна була, є і буде морською державою. Сьогодні це право щодня зі зброєю в руках відстоюють воїни наших Військово-Морських Сил. Від початку широкомасштабної агресії росія прагнула позбавити Україну виходу до моря, знищити наш флот і встановити...",
+    "time": "",
+    "pubDate": "2026-07-05T08:40:54+00:00",
+    "category": "political",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/40781",
+    "score": 5.0,
+    "views": 2842,
+    "forwards": 9
+  },
+  {
     "title": "Kharkiv: Kharkiv region: a new group of BpLA near Bogodukhiv ➡️ heading south.",
     "title_en": "Kharkiv: Kharkiv region: a new group of BpLA near Bogodukhiv ➡️ heading south.",
     "title_uk": "Харків: Харківська область: нове угруповання BpLA біля Богодухова ➡️ прямує на південь.",
@@ -67,9 +139,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195249",
-    "score": 3.5,
-    "views": 125430,
-    "forwards": 147
+    "score": 4.5,
+    "views": 157685,
+    "forwards": 221
   },
   {
     "title": "Drone incoming",
@@ -158,13 +230,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54078",
     "score": 11.5,
-    "views": 1376,
+    "views": 1854,
     "forwards": 4
   },
   {
     "title": "Odesa: Zelensky meets wounded soldiers, veterans in visit to Odesa....",
     "title_en": "Odesa: Zelensky meets wounded soldiers, veterans in visit to Odesa....",
-    "title_uk": "Одеса: в Одесі Зеленський зустрівся з пораненими бійцями, ветеранами...",
+    "title_uk": "Одеса: в Одесі Зеленський зустрівся з пораненими бійцями, ветеранами....",
     "description": "Zelensky meets wounded soldiers, veterans in visit to Odesa. President Volodymyr Zelensky met wounded soldiers and veterans in Odesa on July 4, visiting a medical facility and attending a separate event.",
     "description_en": "Zelensky meets wounded soldiers, veterans in visit to Odesa. President Volodymyr Zelensky met wounded soldiers and veterans in Odesa on July 4, visiting a medical facility and attending a separate event.",
     "description_uk": "Zelensky meets wounded soldiers, veterans in visit to Odesa. President Volodymyr Zelensky met wounded soldiers and veterans in Odesa on July 4, visiting a medical facility and attending a separate event.",
@@ -176,8 +248,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54077",
     "score": 6.0,
-    "views": 1641,
-    "forwards": 1
+    "views": 2036,
+    "forwards": 2
   },
   {
     "title": "Sumy: Sumy - BpLA in the direction of the city.",
@@ -234,42 +306,6 @@
     "forwards": 2
   },
   {
-    "title": "Air defense systems in the district. Bays.",
-    "title_en": "Air defense systems in the district. Bays.",
-    "title_uk": "Системи ППО в районі. затоки.",
-    "description": "Air defense systems in the district. Bays.",
-    "description_en": "Air defense systems in the district. Bays.",
-    "description_uk": "Ударні БпЛА в р-ні. Затоки.",
-    "time": "",
-    "pubDate": "2026-07-04T22:12:11+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67345",
-    "score": 5.0,
-    "views": 19207,
-    "forwards": 11
-  },
-  {
-    "title": "Kherson: Drone incoming",
-    "title_en": "Kherson: Drone incoming",
-    "title_uk": "Херсон: Дрон вхід",
-    "description": "Strike drones north of Kherson in the direction of Mykolaiv.",
-    "description_en": "Strike drones north of Kherson in the direction of Mykolaiv.",
-    "description_uk": "Ударні БпЛА північніше Херсону у напрямку Миколаєва.",
-    "time": "",
-    "pubDate": "2026-07-04T21:34:34+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kherson",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67344",
-    "score": 6.0,
-    "views": 25348,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: 31 killed, 102 injured",
     "title_en": "Kyiv: 31 killed, 102 injured",
     "title_uk": "Київ: 31 загинув, 102 поранені",
@@ -324,24 +360,6 @@
     "forwards": 238
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "He addressed the participants of the session of the Parliamentary Assembly of the Organization for Security and Cooperation in Europe. Russia is using ballistic missiles as its last argument to continue this war. This is exactly what they are betting on. They want ballistic missiles to break our resistance and the will of the Ukrainian people. That is why we need more air defense. It is about the daily protection of life. Ukraine is critical...",
-    "description_en": "He addressed the participants of the session of the Parliamentary Assembly of the Organization for Security and Cooperation in Europe. Russia is using ballistic missiles as its last argument to continue this war. This is exactly what they are betting on. They want ballistic missiles to break our resistance and the will of the Ukrainian people. That is why we need more air defense. It is about the daily protection of life. Ukraine is critical...",
-    "description_uk": "Звернувся до учасників сесії Парламентської асамблеї Організації з безпеки і співробітництва в Європі. Росія використовує балістичні ракети як свій останній аргумент, щоб продовжувати цю війну. Саме на це вони роблять ставку. Вони хочуть, щоб балістичні ракети зламали наш спротив і волю Українського народу. Саме тому нам потрібно більше ППО. Мова йде про щоденний захист життя. Україна критично...",
-    "time": "",
-    "pubDate": "2026-07-04T16:10:52+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19777",
-    "score": 4.5,
-    "views": 85740,
-    "forwards": 130
-  },
-  {
     "title": "Mykolaiv: Casualties reported",
     "title_en": "Mykolaiv: Casualties reported",
     "title_uk": "Миколаїв: повідомляється про постраждалих",
@@ -380,7 +398,7 @@
   {
     "title": "🖥 Russia itself has created the world's largest open database of its...",
     "title_en": "🖥 Russia itself has created the world's largest open database of its...",
-    "title_uk": "🖥 Росія сама створила найбільшу у світі відкриту базу даних своїх...",
+    "title_uk": "🖥 Росія сама створила найбільшу у світі відкриту базу своїх...",
     "description": "🖥 Russia itself has created the world's largest open database of its own Western equipment. 💭 Any modern production or scientific research is impossible without means of measurement. Instrumentation remains one of the few industries in which the West still maintains technological leadership. For the Russian military-industrial complex, modern Western equipment means higher productivity, better product quality and...",
     "description_en": "🖥 Russia itself has created the world's largest open database of its own Western equipment. 💭 Any modern production or scientific research is impossible without means of measurement. Instrumentation remains one of the few industries in which the West still maintains technological leadership. For the Russian military-industrial complex, modern Western equipment means higher productivity, better product quality and...",
     "description_uk": "🖥 росія сама створила найбільшу у світі відкриту базу даних власного західного обладнання. 💭 Будь-яке сучасне виробництво чи наукове дослідження неможливе без засобів вимірювання. Приладобудування залишається однією з небагатьох галузей, у яких Захід досі зберігає технологічне лідерство. Для російського ВПК сучасне західне обладнання означає вищу продуктивність, кращу якість продукції та...",
@@ -392,8 +410,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23620",
     "score": 8.0,
-    "views": 131719,
-    "forwards": 253
+    "views": 138654,
+    "forwards": 266
   },
   {
     "title": "Sumy: Casualties reported",
@@ -410,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9496",
     "score": 15.0,
-    "views": 836,
+    "views": 864,
     "forwards": 3
   },
   {
@@ -428,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9495",
     "score": 10.0,
-    "views": 793,
+    "views": 815,
     "forwards": 3
   }
 ]
