@@ -1,5 +1,41 @@
 [
   {
+    "title": "In the direction of Novy Bug/Bashtanka!",
+    "title_en": "In the direction of Novy Bug/Bashtanka!",
+    "title_uk": "В сторону Новий Буг/Баштанка!",
+    "description": "In the direction of Novy Bug/Bashtanka!",
+    "description_en": "In the direction of Novy Bug/Bashtanka!",
+    "description_uk": "У напрямку Новий Буг/Баштанка!",
+    "time": "",
+    "pubDate": "2026-07-05T22:14:50+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67445",
+    "score": 5.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: New UAV groups ➡️ in the north of Sumy Oblast and Chernihiv Oblast.",
+    "title_en": "Chernihiv: New UAV groups ➡️ in the north of Sumy Oblast and Chernihiv Oblast.",
+    "title_uk": "Чернігів: Нові групи БПЛА ➡️ на півночі Сумщини та Чернігівщини.",
+    "description": "New UAV groups ➡️ in the north of Sumy Oblast and Chernihiv Oblast.",
+    "description_en": "New UAV groups ➡️ in the north of Sumy Oblast and Chernihiv Oblast.",
+    "description_uk": "Нові групи БПЛА ➡️ на півночі Сумщини та Чернігівщини.",
+    "time": "",
+    "pubDate": "2026-07-05T22:04:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67443",
+    "score": 6.5,
+    "views": 37496,
+    "forwards": 71
+  },
+  {
     "title": "Air raid alert",
     "title_en": "Air raid alert",
     "title_uk": "Повітряна тривога",
@@ -86,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54082",
     "score": 4.0,
-    "views": 1387,
+    "views": 1665,
     "forwards": 2
   },
   {
@@ -212,7 +248,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195285",
     "score": 4.5,
-    "views": 164606,
+    "views": 170079,
     "forwards": 1081
   },
   {
@@ -230,8 +266,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23622",
     "score": 5.5,
-    "views": 118983,
-    "forwards": 486
+    "views": 123011,
+    "forwards": 500
   },
   {
     "title": "New groups of UAVs from Kurshchyna to Konotopsky district of...",
@@ -266,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54081",
     "score": 11.5,
-    "views": 2415,
+    "views": 2583,
     "forwards": 4
   },
   {
@@ -374,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19802",
     "score": 8.5,
-    "views": 78569,
+    "views": 80192,
     "forwards": 73
   },
   {
@@ -412,41 +448,5 @@
     "score": 5.5,
     "views": 71881,
     "forwards": 110
-  },
-  {
-    "title": "Zaporizhzhia: BpLA group ➡️ heading for Zaporozhye.",
-    "title_en": "Zaporizhzhia: BpLA group ➡️ heading for Zaporozhye.",
-    "title_uk": "Запоріжжя: BpLA group ➡️ прямує до Запоріжжя.",
-    "description": "BpLA group ➡️ heading for Zaporozhye.",
-    "description_en": "BpLA group ➡️ heading for Zaporozhye.",
-    "description_uk": "Група БпЛА ➡️ курсом на Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-07-05T10:28:21+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67394",
-    "score": 6.0,
-    "views": 13151,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Drone incoming",
-    "description": "Kyiv region: jet UAV ➡️ heading for Boryspil.",
-    "description_en": "Kyiv region: jet UAV ➡️ heading for Boryspil.",
-    "description_uk": "Київщина: реактивний БпЛА ➡️ курсом на Бориспіль.",
-    "time": "",
-    "pubDate": "2026-07-05T09:59:54+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67393",
-    "score": 6.0,
-    "views": 34350,
-    "forwards": 36
   }
 ]
