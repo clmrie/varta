@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A jet UAV from the east in the direction of the Dnipro.",
+    "description_en": "A jet UAV from the east in the direction of the Dnipro.",
+    "description_uk": "Реактивний БпЛА зі сходу в напрямку Дніпра.",
+    "time": "",
+    "pubDate": "2026-07-06T17:52:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67571",
+    "score": 5.0,
+    "views": 47570,
+    "forwards": 0
+  },
+  {
+    "title": "Launch of the KAB in Sumy Oblast and jet UAVs in the north of Sumy...",
+    "title_en": "Launch of the KAB in Sumy Oblast and jet UAVs in the north of Sumy...",
+    "title_uk": "Пуск КАБ у Сумській області та реактивних БПЛА на півночі Сум...",
+    "description": "Launch of the KAB in Sumy Oblast and jet UAVs in the north of Sumy Oblast.",
+    "description_en": "Launch of the KAB in Sumy Oblast and jet UAVs in the north of Sumy Oblast.",
+    "description_uk": "Пуск КАБ на Сумщину та реактивні БпЛА на північ Сумської області.",
+    "time": "",
+    "pubDate": "2026-07-06T17:48:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67570",
+    "score": 5.0,
+    "views": 52633,
+    "forwards": 1
+  },
+  {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south",
     "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south",
     "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54098",
     "score": 21.5,
-    "views": 519,
-    "forwards": 12
+    "views": 1451,
+    "forwards": 19
   },
   {
     "title": "Kyiv: Attack attack",
@@ -68,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54097",
     "score": 8.0,
-    "views": 1285,
-    "forwards": 3
+    "views": 1858,
+    "forwards": 5
   },
   {
     "title": "Kharkiv: BpLA on Kharkiv from the north",
@@ -140,8 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40828",
     "score": 7.5,
-    "views": 29251,
-    "forwards": 194
+    "views": 32764,
+    "forwards": 199
   },
   {
     "title": "More shots of the aftermath of the flight from Vishnevo.",
@@ -178,24 +214,6 @@
     "score": 5.0,
     "views": 1771,
     "forwards": 3
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV in the direction of Zatoka in Odesa from the Black Sea",
-    "description_en": "UAV in the direction of Zatoka in Odesa from the Black Sea",
-    "description_uk": "БпЛА у напрямку Затоки на Одещині з акваторії Чорного моря",
-    "time": "",
-    "pubDate": "2026-07-06T09:27:22+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67525",
-    "score": 5.0,
-    "views": 20235,
-    "forwards": 1
   },
   {
     "title": "More footage from the correspondent of UNIAN: this Podol, between...",
@@ -266,8 +284,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40811",
     "score": 4.0,
-    "views": 5415,
-    "forwards": 19
+    "views": 5627,
+    "forwards": 21
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -304,42 +322,6 @@
     "score": 13.0,
     "views": 7646,
     "forwards": 39
-  },
-  {
-    "title": "BpLA on Brovary from the east.",
-    "title_en": "BpLA on Brovary from the east.",
-    "title_uk": "БпЛА на Бровари зі сх.",
-    "description": "BpLA on Brovary from the east.",
-    "description_en": "BpLA on Brovary from the east.",
-    "description_uk": "БпЛА на Бровари зі сходу.",
-    "time": "",
-    "pubDate": "2026-07-06T05:33:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Brovary",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67504",
-    "score": 5.0,
-    "views": 16136,
-    "forwards": 0
-  },
-  {
-    "title": "Sumy: Drone incoming",
-    "title_en": "Sumy: Drone incoming",
-    "title_uk": "Суми: Дрон вхід",
-    "description": "A jet UAV on Sumy from the northwest.",
-    "description_en": "A jet UAV on Sumy from the northwest.",
-    "description_uk": "Реактивний БпЛА на Суми з північного заходу.",
-    "time": "",
-    "pubDate": "2026-07-06T05:22:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67503",
-    "score": 6.0,
-    "views": 36386,
-    "forwards": 0
   },
   {
     "title": "Casualties reported",
@@ -448,5 +430,23 @@
     "score": 13.0,
     "views": 888,
     "forwards": 9
+  },
+  {
+    "title": "🇵🇱 Poland will declassify data on all military aid to Ukraine 👥...",
+    "title_en": "🇵🇱 Poland will declassify data on all military aid to Ukraine 👥...",
+    "title_uk": "🇵🇱 Польща розсекретить дані про всю військову допомогу Україні 👥...",
+    "description": "🇵🇱 Poland will declassify data on all military aid to Ukraine 👥 Minister of Defense of Poland Władysław Kosiniak-Kamysh instructed to declassify data on military aid to Ukraine for the years 2022-2026. The decision was made after consultation with Prime Minister Donald Tusk. In addition, the Polish Military Counterintelligence Service (SKW) will investigate the disclosure of state secrets. 🖋 The process of transferring equipment to Ukraine...",
+    "description_en": "🇵🇱 Poland will declassify data on all military aid to Ukraine 👥 Minister of Defense of Poland Władysław Kosiniak-Kamysh instructed to declassify data on military aid to Ukraine for the years 2022-2026. The decision was made after consultation with Prime Minister Donald Tusk. In addition, the Polish Military Counterintelligence Service (SKW) will investigate the disclosure of state secrets. 🖋 The process of transferring equipment to Ukraine...",
+    "description_uk": "🇵🇱 Польща розсекретить дані про всю військову допомогу Україні 👥 Міністр оборони Польщі Владислав Косіняк-Камиш доручив розсекретити дані про військову допомогу Україні за 2022–2026 роки. Рішення ухвалене після консультації з прем’єр-міністром Дональдом Туском. Крім того, польська Служба військової контррозвідки (SKW) розслідуватиме розкриття державної таємниці. 🖋 Процес передачі техніки Україні...",
+    "time": "",
+    "pubDate": "2026-07-05T15:24:53+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23622",
+    "score": 5.5,
+    "views": 174114,
+    "forwards": 606
   }
 ]
