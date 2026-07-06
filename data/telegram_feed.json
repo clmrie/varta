@@ -1,20 +1,38 @@
 [
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV in the direction of Sumy from the north.",
-    "description_en": "UAV in the direction of Sumy from the north.",
-    "description_uk": "БпЛА в напрямку Сум з півночі.",
+    "title": "Sumy: BpLA on Sumy from the north.",
+    "title_en": "Sumy: BpLA on Sumy from the north.",
+    "title_uk": "Суми: БпЛА на Суми з півн.",
+    "description": "BpLA on Sumy from the north.",
+    "description_en": "BpLA on Sumy from the north.",
+    "description_uk": "БпЛА на Суми з півночі.",
     "time": "",
-    "pubDate": "2026-07-06T20:57:31+00:00",
+    "pubDate": "2026-07-06T22:58:29+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Sumy",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67595",
+    "link": "https://t.me/kpszsu/67606",
+    "score": 6.0,
+    "views": 2058,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A new group of UAVs from the Black Sea in the direction of Odesa. 🛸 Reconnaissance drone in the Zatoky area.",
+    "description_en": "A new group of UAVs from the Black Sea in the direction of Odesa. 🛸 Reconnaissance drone in the Zatoky area.",
+    "description_uk": "Нова група БпЛА з Чорного моря в напрямку Одещини. 🛸 Розвідувальний безпілотник в районі Затоки.",
+    "time": "",
+    "pubDate": "2026-07-06T22:57:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67605",
     "score": 5.0,
-    "views": 34987,
+    "views": 3066,
     "forwards": 0
   },
   {
@@ -50,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195422",
     "score": 3.5,
-    "views": 59151,
-    "forwards": 69
+    "views": 74928,
+    "forwards": 85
   },
   {
     "title": "Dnipro: Launch of the KAB in the south-eastern direction of Dnipropetrovsk...",
@@ -72,27 +90,9 @@
     "forwards": 0
   },
   {
-    "title": "Sumy: BpLA on Sumy from the north.",
-    "title_en": "Sumy: BpLA on Sumy from the north.",
-    "title_uk": "Суми: БпЛА на Суми з півн.",
-    "description": "BpLA on Sumy from the north.",
-    "description_en": "BpLA on Sumy from the north.",
-    "description_uk": "БпЛА на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-07-06T20:16:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67591",
-    "score": 6.0,
-    "views": 23302,
-    "forwards": 1
-  },
-  {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомляється про вибухи",
+    "title_uk": "Київ: повідомлення про вибухи",
     "description": "'Everything just kept detonating' — Devastating Russian attack hits quiet Kyiv suburb of Vyshneve Residents of the small town of Vyshneve, on Kyiv's western edge, have described scenes of terror amid Russia's latest devastating missile and drone attack on the capital, as they found themselves fleeing a series of massive explosions after a strike on the town. \"A huge mushroom cloud rose into the...",
     "description_en": "'Everything just kept detonating' — Devastating Russian attack hits quiet Kyiv suburb of Vyshneve Residents of the small town of Vyshneve, on Kyiv's western edge, have described scenes of terror amid Russia's latest devastating missile and drone attack on the capital, as they found themselves fleeing a series of massive explosions after a strike on the town. \"A huge mushroom cloud rose into the...",
     "description_uk": "'Everything just kept detonating' — Devastating Russian attack hits quiet Kyiv suburb of Vyshneve Residents of the small town of Vyshneve, on Kyiv's western edge, have described scenes of terror amid Russia's latest devastating missile and drone attack on the capital, as they found themselves fleeing a series of massive explosions after a strike on the town. \"A huge mushroom cloud rose into the...",
@@ -104,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54100",
     "score": 8.0,
-    "views": 1364,
-    "forwards": 10
+    "views": 1581,
+    "forwards": 11
   },
   {
     "title": "More footage of a large-scale fire in Samara after the arrival of...",
@@ -121,9 +121,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195418",
-    "score": 9.5,
-    "views": 119652,
-    "forwards": 182
+    "score": 10.5,
+    "views": 128847,
+    "forwards": 216
   },
   {
     "title": "Attack attack",
@@ -212,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54098",
     "score": 21.5,
-    "views": 2426,
+    "views": 2550,
     "forwards": 20
   },
   {
@@ -302,26 +302,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40828",
     "score": 8.5,
-    "views": 36576,
+    "views": 36915,
     "forwards": 206
-  },
-  {
-    "title": "More shots of the aftermath of the flight from Vishnevo.",
-    "title_en": "More shots of the aftermath of the flight from Vishnevo.",
-    "title_uk": "Більше кадрів наслідків рейсу з Вишневого.",
-    "description": "More shots of the aftermath of the flight from Vishnevo.",
-    "description_en": "More shots of the aftermath of the flight from Vishnevo.",
-    "description_uk": "Еще кадры последствий прилетов из Вишневого.",
-    "time": "",
-    "pubDate": "2026-07-06T10:57:23+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195377",
-    "score": 5.5,
-    "views": 122095,
-    "forwards": 500
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -428,7 +410,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23622",
     "score": 5.5,
-    "views": 189047,
+    "views": 189875,
     "forwards": 608
   },
   {
@@ -446,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19802",
     "score": 8.5,
-    "views": 97557,
+    "views": 97701,
     "forwards": 73
   }
 ]
