@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kharkiv: High-speed in Kharkiv Oblast!",
+    "title_en": "Kharkiv: High-speed in Kharkiv Oblast!",
+    "title_uk": "Харків: Швидка в Харківській області!",
+    "description": "High-speed in Kharkiv Oblast!",
+    "description_en": "High-speed in Kharkiv Oblast!",
+    "description_uk": "Швидкісна на Харківщині!",
+    "time": "",
+    "pubDate": "2026-07-07T22:42:15+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67685",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Reactive UAV in the Desna district of Kyiv region!",
+    "title_en": "Kyiv: Reactive UAV in the Desna district of Kyiv region!",
+    "title_uk": "Київ: Реактивний БПЛА в районі Десни Київської області!",
+    "description": "Reactive UAV in the Desna district of Kyiv region!",
+    "description_en": "Reactive UAV in the Desna district of Kyiv region!",
+    "description_uk": "Реактивний БпЛА у районі Десна на Київщині!",
+    "time": "",
+    "pubDate": "2026-07-07T22:30:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67684",
+    "score": 6.5,
+    "views": 32444,
+    "forwards": 70
+  },
+  {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "Explosions heard in Kyiv before air raid alarm activation. Explosions were reported in Kyiv around 12:30 a.m. local time, according to Kyiv Independent journalists on the ground. Ukraine's Air Force warned of the threat of Russian ballistic missiles flying towards the capital.",
+    "description_en": "Explosions heard in Kyiv before air raid alarm activation. Explosions were reported in Kyiv around 12:30 a.m. local time, according to Kyiv Independent journalists on the ground. Ukraine's Air Force warned of the threat of Russian ballistic missiles flying towards the capital.",
+    "description_uk": "Explosions heard in Kyiv before air raid alarm activation. Explosions were reported in Kyiv around 12:30 a.m. local time, according to Kyiv Independent journalists on the ground. Ukraine's Air Force warned of the threat of Russian ballistic missiles flying towards the capital.",
+    "time": "",
+    "pubDate": "2026-07-07T21:44:24+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54121",
+    "score": 10.0,
+    "views": 1023,
+    "forwards": 10
+  },
+  {
     "title": "A group of BpLA in Odesa region, Tatarbunary district - in the...",
     "title_en": "A group of BpLA in Odesa region, Tatarbunary district - in the...",
     "title_uk": "Група БПЛА в Одеській області, Татарбунарському районі - в...",
@@ -32,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195495",
     "score": 9.5,
-    "views": 84567,
-    "forwards": 280
+    "views": 102576,
+    "forwards": 314
   },
   {
     "title": "Zaporizhzhia: Zaporizhzhia - BpLA on the outskirts of the city.",
@@ -72,24 +126,6 @@
     "forwards": 1
   },
   {
-    "title": "Kyiv: Ballistic missile launch detected",
-    "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
-    "description": "Update: Ukraine signs drone cooperation deal with Denmark. President Volodymyr Zelensky and Danish Prime Minister Mette Frederiksen also discussed strengthening air defenses and building a European anti-ballistic system - an increasingly urgent topic as Kyiv faces critical shortages of Patriot missiles.",
-    "description_en": "Update: Ukraine signs drone cooperation deal with Denmark. President Volodymyr Zelensky and Danish Prime Minister Mette Frederiksen also discussed strengthening air defenses and building a European anti-ballistic system - an increasingly urgent topic as Kyiv faces critical shortages of Patriot missiles.",
-    "description_uk": "Update: Ukraine signs drone cooperation deal with Denmark. President Volodymyr Zelensky and Danish Prime Minister Mette Frederiksen also discussed strengthening air defenses and building a European anti-ballistic system - an increasingly urgent topic as Kyiv faces critical shortages of Patriot missiles.",
-    "time": "",
-    "pubDate": "2026-07-07T17:39:31+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54116",
-    "score": 11.0,
-    "views": 1762,
-    "forwards": 3
-  },
-  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -104,7 +140,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19836",
     "score": 5.5,
-    "views": 63642,
+    "views": 67141,
     "forwards": 116
   },
   {
@@ -158,7 +194,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48865",
     "score": 5.0,
-    "views": 47,
+    "views": 48,
     "forwards": 0
   },
   {
@@ -284,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40858",
     "score": 9.0,
-    "views": 27255,
+    "views": 27570,
     "forwards": 168
   },
   {
@@ -302,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9504",
     "score": 6.0,
-    "views": 1303,
+    "views": 1359,
     "forwards": 3
   },
   {
