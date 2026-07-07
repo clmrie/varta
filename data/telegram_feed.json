@@ -1,5 +1,77 @@
 [
   {
+    "title": "Kyiv: Explosions reported",
+    "title_en": "Kyiv: Explosions reported",
+    "title_uk": "Київ: повідомлення про вибухи",
+    "description": "2 defense industry enterprises hit in Russia’s Bryansk Oblast, oil depot in Belgorod Oblast, General Staff says. The microelectronics manufacturer Kremniy El produces microchips, power semiconductor devices, and electronic warfare systems for Russia, along with other products, while the Bryansk Chemical Plant produces gunpowder, explosives, and rocket fuel components, according to the General...",
+    "description_en": "2 defense industry enterprises hit in Russia’s Bryansk Oblast, oil depot in Belgorod Oblast, General Staff says. The microelectronics manufacturer Kremniy El produces microchips, power semiconductor devices, and electronic warfare systems for Russia, along with other products, while the Bryansk Chemical Plant produces gunpowder, explosives, and rocket fuel components, according to the General...",
+    "description_uk": "2 defense industry enterprises hit in Russia’s Bryansk Oblast, oil depot in Belgorod Oblast, General Staff says. The microelectronics manufacturer Kremniy El produces microchips, power semiconductor devices, and electronic warfare systems for Russia, along with other products, while the Bryansk Chemical Plant produces gunpowder, explosives, and rocket fuel components, according to the General...",
+    "time": "",
+    "pubDate": "2026-07-07T12:46:07+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54110",
+    "score": 8.5,
+    "views": 522,
+    "forwards": 2
+  },
+  {
+    "title": "BpLA in Sumy Oblast - heading for Poltava Oblast.",
+    "title_en": "BpLA in Sumy Oblast - heading for Poltava Oblast.",
+    "title_uk": "BpLA в Сумській області - курс на Полтавську область.",
+    "description": "BpLA in Sumy Oblast - heading for Poltava Oblast.",
+    "description_en": "BpLA in Sumy Oblast - heading for Poltava Oblast.",
+    "description_uk": "БпЛА на Сумщині - курсом на Полтавщину.",
+    "time": "",
+    "pubDate": "2026-07-07T12:40:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67656",
+    "score": 5.0,
+    "views": 38428,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Sumyshchyna - jet UAVs heading for Konotop/Baturin.",
+    "description_en": "Sumyshchyna - jet UAVs heading for Konotop/Baturin.",
+    "description_uk": "Сумщина - реактивні БпЛА курсом на Конотоп/Батурин.",
+    "time": "",
+    "pubDate": "2026-07-07T12:27:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67653",
+    "score": 5.0,
+    "views": 47826,
+    "forwards": 0
+  },
+  {
+    "title": "When he went to the garden in Vyshnev after his arrival.",
+    "title_en": "When he went to the garden in Vyshnev after his arrival.",
+    "title_uk": "Коли пішов після приїзду на город у Вишневі.",
+    "description": "When he went to the garden in Vyshnev after his arrival.",
+    "description_en": "When he went to the garden in Vyshnev after his arrival.",
+    "description_uk": "Когда вышел на огород в Вишневом после прилета.",
+    "time": "",
+    "pubDate": "2026-07-07T12:22:13+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195464",
+    "score": 5.5,
+    "views": 70943,
+    "forwards": 719
+  },
+  {
     "title": "Kyiv: Drone strike",
     "title_en": "Kyiv: Drone strike",
     "title_uk": "Київ: Дрон-удар",
@@ -104,26 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40858",
     "score": 9.0,
-    "views": 12661,
-    "forwards": 136
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAVs to Odesa from the Black Sea. A drone on the village of Kilia from the east.",
-    "description_en": "Jet UAVs to Odesa from the Black Sea. A drone on the village of Kilia from the east.",
-    "description_uk": "Реактивні БпЛА на Одещину з акваторії Чорного моря. Безпілотник на н.п.Кілія зі сходу.",
-    "time": "",
-    "pubDate": "2026-07-07T07:13:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67644",
-    "score": 5.0,
-    "views": 35385,
-    "forwards": 0
+    "views": 15950,
+    "forwards": 149
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -140,7 +194,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9504",
     "score": 6.0,
-    "views": 670,
+    "views": 1063,
     "forwards": 3
   },
   {
@@ -176,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19819",
     "score": 5.0,
-    "views": 57467,
-    "forwards": 121
+    "views": 65686,
+    "forwards": 137
   },
   {
     "title": "This war is changing. Today, peace and victory go to whoever is...",
@@ -194,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19818",
     "score": 5.5,
-    "views": 70197,
-    "forwards": 149
+    "views": 79828,
+    "forwards": 157
   },
   {
     "title": "Donetsk: Drone incoming",
@@ -212,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40846",
     "score": 13.0,
-    "views": 6896,
+    "views": 7605,
     "forwards": 16
   },
   {
@@ -252,24 +306,6 @@
     "forwards": 0
   },
   {
-    "title": "Sumy: BpLA on Sumy from the north.",
-    "title_en": "Sumy: BpLA on Sumy from the north.",
-    "title_uk": "Суми: БпЛА на Суми з півн.",
-    "description": "BpLA on Sumy from the north.",
-    "description_en": "BpLA on Sumy from the north.",
-    "description_uk": "БпЛА на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-07-06T23:41:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67609",
-    "score": 6.0,
-    "views": 7677,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Power outage reported",
     "title_en": "Kyiv: Power outage reported",
     "title_uk": "Київ: Повідомлено про відключення електроенергії",
@@ -286,24 +322,6 @@
     "score": 11.5,
     "views": 2336,
     "forwards": 5
-  },
-  {
-    "title": "Kyiv: Explosions reported",
-    "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомляється про вибухи",
-    "description": "'Everything just kept detonating' — Devastating Russian attack hits quiet Kyiv suburb of Vyshneve Residents of the small town of Vyshneve, on Kyiv's western edge, have described scenes of terror amid Russia's latest devastating missile and drone attack on the capital, as they found themselves fleeing a series of massive explosions after a strike on the town. \"A huge mushroom cloud rose into the...",
-    "description_en": "'Everything just kept detonating' — Devastating Russian attack hits quiet Kyiv suburb of Vyshneve Residents of the small town of Vyshneve, on Kyiv's western edge, have described scenes of terror amid Russia's latest devastating missile and drone attack on the capital, as they found themselves fleeing a series of massive explosions after a strike on the town. \"A huge mushroom cloud rose into the...",
-    "description_uk": "'Everything just kept detonating' — Devastating Russian attack hits quiet Kyiv suburb of Vyshneve Residents of the small town of Vyshneve, on Kyiv's western edge, have described scenes of terror amid Russia's latest devastating missile and drone attack on the capital, as they found themselves fleeing a series of massive explosions after a strike on the town. \"A huge mushroom cloud rose into the...",
-    "time": "",
-    "pubDate": "2026-07-06T19:50:43+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54100",
-    "score": 8.0,
-    "views": 2165,
-    "forwards": 13
   },
   {
     "title": "More footage of a large-scale fire in Samara after the arrival of...",
@@ -360,42 +378,6 @@
     "forwards": 5
   },
   {
-    "title": "Airstrike attack",
-    "title_en": "Airstrike attack",
-    "title_uk": "Авіаційна атака",
-    "description": "Russia is preparing to launch another massive combined strike against Ukraine already this week, monitors report. Earlier, the speaker of the Air Force Ignat said that the Russian Federation is ready for a new massive strike, it could happen at least tomorrow.",
-    "description_en": "Russia is preparing to launch another massive combined strike against Ukraine already this week, monitors report. Earlier, the speaker of the Air Force Ignat said that the Russian Federation is ready for a new massive strike, it could happen at least tomorrow.",
-    "description_uk": "Россия готовится нанести ещё один массированный комбинированный удар по Украине уже на этой неделе, сообщают мониторы. Ранее спикер Воздушных сил Игнат заявил, что рф уже готова к новому массированному удару, он может произойти хоть завтра.",
-    "time": "",
-    "pubDate": "2026-07-06T12:38:36+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195384",
-    "score": 5.5,
-    "views": 69450,
-    "forwards": 316
-  },
-  {
-    "title": "The Omsk Refinery was affected. The distance from the state border of...",
-    "title_en": "The Omsk Refinery was affected. The distance from the state border of...",
-    "title_uk": "Постраждав Омський НПЗ. Відстань від державного кордону...",
-    "description": "The Omsk Refinery was affected. The distance from the state border of Ukraine is almost 2,500 km ⚡️Today, units of the Special Operations Forces of the Armed Forces of Ukraine hit the Omsk Oil Refinery (Omsk region), which is located at a distance of almost 2,500 km from the state border of Ukraine. ✅This is the last of the 11 largest producers of gasoline in the Russian Federation, which was struck by Ukrainian soldiers. It is the most powerful oil refinery...",
-    "description_en": "The Omsk Refinery was affected. The distance from the state border of Ukraine is almost 2,500 km ⚡️Today, units of the Special Operations Forces of the Armed Forces of Ukraine hit the Omsk Oil Refinery (Omsk region), which is located at a distance of almost 2,500 km from the state border of Ukraine. ✅This is the last of the 11 largest producers of gasoline in the Russian Federation, which was struck by Ukrainian soldiers. It is the most powerful oil refinery...",
-    "description_uk": "Уражено Омський НПЗ. Відстань від держкордону України - майже 2,5 тисячі км ⚡️Сьогодні підрозділи Сил спеціальних операцій Збройних Сил України уразили Омський нафтопереробний завод (Омська область), який знаходиться на відстані майже 2 500 км від державного кордону України. ✅Це останній з 11-ти найбільших виробників бензину в рф, який уразили українські воїни. Він є найпотужнішим нафтопереробним...",
-    "time": "",
-    "pubDate": "2026-07-06T12:35:26+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/40828",
-    "score": 8.5,
-    "views": 38304,
-    "forwards": 206
-  },
-  {
     "title": "🇵🇱 Poland will declassify data on all military aid to Ukraine 👥...",
     "title_en": "🇵🇱 Poland will declassify data on all military aid to Ukraine 👥...",
     "title_uk": "🇵🇱 Польща розсекретить дані про всю військову допомогу Україні 👥...",
@@ -410,7 +392,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23622",
     "score": 5.5,
-    "views": 199771,
-    "forwards": 613
+    "views": 201176,
+    "forwards": 615
   }
 ]
