@@ -7,33 +7,51 @@
     "description_en": "BpLA on Sumy from the north.",
     "description_uk": "БпЛА на Суми з півночі.",
     "time": "",
-    "pubDate": "2026-07-06T22:58:29+00:00",
+    "pubDate": "2026-07-06T23:41:49+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Sumy",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67606",
+    "link": "https://t.me/kpszsu/67609",
     "score": 6.0,
-    "views": 2058,
+    "views": 7677,
     "forwards": 0
   },
   {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
-    "description": "A new group of UAVs from the Black Sea in the direction of Odesa. 🛸 Reconnaissance drone in the Zatoky area.",
-    "description_en": "A new group of UAVs from the Black Sea in the direction of Odesa. 🛸 Reconnaissance drone in the Zatoky area.",
-    "description_uk": "Нова група БпЛА з Чорного моря в напрямку Одещини. 🛸 Розвідувальний безпілотник в районі Затоки.",
+    "description": "Jet UAV in the direction of Kryvyi Rih.",
+    "description_en": "Jet UAV in the direction of Kryvyi Rih.",
+    "description_uk": "Реактивний БпЛА в напрямку Кривого Рогу.",
     "time": "",
-    "pubDate": "2026-07-06T22:57:48+00:00",
+    "pubDate": "2026-07-06T23:35:07+00:00",
     "category": "drone",
     "severity": "high",
-    "location": "Odesa",
+    "location": "Kryvyi Rih",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67605",
+    "link": "https://t.me/kpszsu/67608",
     "score": 5.0,
-    "views": 3066,
-    "forwards": 0
+    "views": 10112,
+    "forwards": 20
+  },
+  {
+    "title": "Kyiv: Power outage reported",
+    "title_en": "Kyiv: Power outage reported",
+    "title_uk": "Київ: Повідомлено про відключення електроенергії",
+    "description": "Ukrainian missiles strike Russian airport, blackout reported in bordering Belgorod Oblast. Ukrainian missiles struck Belgorod Airport, and a blackout was recorded in Belgorod Oblast amid an overnight attack on July 7, local authorities and social media channels reported.",
+    "description_en": "Ukrainian missiles strike Russian airport, blackout reported in bordering Belgorod Oblast. Ukrainian missiles struck Belgorod Airport, and a blackout was recorded in Belgorod Oblast amid an overnight attack on July 7, local authorities and social media channels reported.",
+    "description_uk": "Ukrainian missiles strike Russian airport, blackout reported in bordering Belgorod Oblast. Ukrainian missiles struck Belgorod Airport, and a blackout was recorded in Belgorod Oblast amid an overnight attack on July 7, local authorities and social media channels reported.",
+    "time": "",
+    "pubDate": "2026-07-06T23:13:14+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54102",
+    "score": 11.5,
+    "views": 407,
+    "forwards": 3
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -57,18 +75,18 @@
     "title": "Ukraine can still receive MiG-29 fighters from Poland Defense...",
     "title_en": "Ukraine can still receive MiG-29 fighters from Poland Defense...",
     "title_uk": "Україна ще може отримати винищувачі МіГ-29 від Міноборони Польщі...",
-    "description": "Ukraine can still receive MiG-29 fighters from Poland Defense Minister Vladyslav Kosyniak-Kamysh said that the question still remains open. According to him, Warsaw is considering Kiev's request: \"Such a possibility is realistic, but it should be an exchange, not just a one-way transfer from Poland.\" We are talking about the transfer of Ukrainian drone technologies in exchange for aircraft. Earlier...",
-    "description_en": "Ukraine can still receive MiG-29 fighters from Poland Defense Minister Vladyslav Kosyniak-Kamysh said that the question still remains open. According to him, Warsaw is considering Kiev's request: \"Such a possibility is realistic, but it should be an exchange, not just a one-way transfer from Poland.\" We are talking about the transfer of Ukrainian drone technologies in exchange for aircraft. Earlier...",
+    "description": "Ukraine can still receive MiG-29 fighters from Poland Defense Minister Vladyslav Kosyniak-Kamysh said that the question still remains open. According to him, Warsaw is considering Kyiv's request: \"Such a possibility is realistic, but it should be an exchange, not just a one-way transfer from Poland.\" We are talking about the transfer of Ukrainian drone technologies in exchange for aircraft. Earlier...",
+    "description_en": "Ukraine can still receive MiG-29 fighters from Poland Defense Minister Vladyslav Kosyniak-Kamysh said that the question still remains open. According to him, Warsaw is considering Kyiv's request: \"Such a possibility is realistic, but it should be an exchange, not just a one-way transfer from Poland.\" We are talking about the transfer of Ukrainian drone technologies in exchange for aircraft. Earlier...",
     "description_uk": "Украина все же может получить от Польши истребители МиГ-29 Министр обороны Владислав Косиняк-Камыш заявил, что вопрос все еще остается открытым. По его словам, Варшава рассматривает запрос Киева: «Такая возможность реалистична, но это должен быть именно обмен, а не просто односторонняя передача со стороны Польши». Речь идет о передаче украинских дроновых технологий взамен на самолеты. Ранее...",
     "time": "",
     "pubDate": "2026-07-06T20:43:56+00:00",
     "category": "drone",
     "severity": "medium",
-    "location": "Ukraine",
+    "location": "Kyiv",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195422",
     "score": 3.5,
-    "views": 74928,
+    "views": 83859,
     "forwards": 85
   },
   {
@@ -92,7 +110,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомлення про вибухи",
+    "title_uk": "Київ: повідомляється про вибухи",
     "description": "'Everything just kept detonating' — Devastating Russian attack hits quiet Kyiv suburb of Vyshneve Residents of the small town of Vyshneve, on Kyiv's western edge, have described scenes of terror amid Russia's latest devastating missile and drone attack on the capital, as they found themselves fleeing a series of massive explosions after a strike on the town. \"A huge mushroom cloud rose into the...",
     "description_en": "'Everything just kept detonating' — Devastating Russian attack hits quiet Kyiv suburb of Vyshneve Residents of the small town of Vyshneve, on Kyiv's western edge, have described scenes of terror amid Russia's latest devastating missile and drone attack on the capital, as they found themselves fleeing a series of massive explosions after a strike on the town. \"A huge mushroom cloud rose into the...",
     "description_uk": "'Everything just kept detonating' — Devastating Russian attack hits quiet Kyiv suburb of Vyshneve Residents of the small town of Vyshneve, on Kyiv's western edge, have described scenes of terror amid Russia's latest devastating missile and drone attack on the capital, as they found themselves fleeing a series of massive explosions after a strike on the town. \"A huge mushroom cloud rose into the...",
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54100",
     "score": 8.0,
-    "views": 1581,
+    "views": 1730,
     "forwards": 11
   },
   {
@@ -122,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195418",
     "score": 10.5,
-    "views": 128847,
-    "forwards": 216
+    "views": 134777,
+    "forwards": 217
   },
   {
     "title": "Attack attack",
@@ -302,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40828",
     "score": 8.5,
-    "views": 36915,
+    "views": 37176,
     "forwards": 206
   },
   {
@@ -410,7 +428,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23622",
     "score": 5.5,
-    "views": 189875,
+    "views": 190375,
     "forwards": 608
   },
   {
@@ -428,7 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19802",
     "score": 8.5,
-    "views": 97701,
+    "views": 97783,
     "forwards": 73
   }
 ]
