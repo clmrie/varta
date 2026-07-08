@@ -1,5 +1,77 @@
 [
   {
+    "title": "Air defense active",
+    "title_en": "Air defense active",
+    "title_uk": "Активна ППО",
+    "description": "CONFIRMED! On July 8, 2026, a Russian Cu-35 multipurpose fighter was shot down in the eastern direction! 🇺🇦 Glory to Ukraine! ✊ Together to victory!",
+    "description_en": "CONFIRMED! On July 8, 2026, a Russian Cu-35 multipurpose fighter was shot down in the eastern direction! 🇺🇦 Glory to Ukraine! ✊ Together to victory!",
+    "description_uk": "ПІДТВЕРДЖЕНО! 8 липня 2026 року на східному напрямку збито російський багатоцільовий винищувач Cу-35! 🇺🇦 Слава Україні! ✊ Разом до перемоги!",
+    "time": "",
+    "pubDate": "2026-07-08T12:36:54+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67758",
+    "score": 10.5,
+    "views": 190121,
+    "forwards": 1333
+  },
+  {
+    "title": "Dnipro: BpLA in the direction of Dnipro",
+    "title_en": "Dnipro: BpLA in the direction of Dnipro",
+    "title_uk": "Дніпро: БпЛА в напрямку Дніпра",
+    "description": "BpLA in the direction of Dnipro",
+    "description_en": "BpLA in the direction of Dnipro",
+    "description_uk": "БпЛА в напрямку м.Дніпро",
+    "time": "",
+    "pubDate": "2026-07-08T12:32:18+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67757",
+    "score": 6.0,
+    "views": 47588,
+    "forwards": 1
+  },
+  {
+    "title": "Kharkiv: Casualties reported",
+    "title_en": "Kharkiv: Casualties reported",
+    "title_uk": "Харків: повідомляється про постраждалих",
+    "description": "Kharkiv residents say Russian strikes are becoming ‘less predictable’ as attacks kill 7, injure 121 across Ukraine. Russian forces struck the Nemyshlianskyi district of Kharkiv, the regional capital of northeastern Kharkiv Oblast, hitting a five-story residential building.",
+    "description_en": "Kharkiv residents say Russian strikes are becoming ‘less predictable’ as attacks kill 7, injure 121 across Ukraine. Russian forces struck the Nemyshlianskyi district of Kharkiv, the regional capital of northeastern Kharkiv Oblast, hitting a five-story residential building.",
+    "description_uk": "Kharkiv residents say Russian strikes are becoming ‘less predictable’ as attacks kill 7, injure 121 across Ukraine. Russian forces struck the Nemyshlianskyi district of Kharkiv, the regional capital of northeastern Kharkiv Oblast, hitting a five-story residential building.",
+    "time": "",
+    "pubDate": "2026-07-08T12:14:00+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kharkiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54129",
+    "score": 10.0,
+    "views": 786,
+    "forwards": 3
+  },
+  {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "They made an attack on the sacred, bastards: the UAV flew near the Troeshchynsky market in Kyiv",
+    "description_en": "They made an attack on the sacred, bastards: the UAV flew near the Troeshchynsky market in Kyiv",
+    "description_uk": "На святое замахнулись, сволочи: БпЛА прилетел возле Троещинского рынка в Киеве",
+    "time": "",
+    "pubDate": "2026-07-08T12:02:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195541",
+    "score": 10.5,
+    "views": 71822,
+    "forwards": 317
+  },
+  {
     "title": "Chernihiv: Jet UAVs in the area of ​​Goncharivske village (Chernihiv region).",
     "title_en": "Chernihiv: Jet UAVs in the area of ​​Goncharivske village (Chernihiv region).",
     "title_uk": "Чернігів: реактивні БПЛА в районі смт Гончарівське (Чернігівська область).",
@@ -50,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40902",
     "score": 5.0,
-    "views": 2066,
-    "forwards": 4
+    "views": 3342,
+    "forwards": 5
   },
   {
     "title": "Crimea: 'Moscow will fall' — Another 9 Russian shadow fleet tankers hit in...",
@@ -68,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54127",
     "score": 8.5,
-    "views": 1156,
+    "views": 1762,
     "forwards": 4
   },
   {
@@ -85,9 +157,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195531",
-    "score": 4.5,
-    "views": 97256,
-    "forwards": 141
+    "score": 5.5,
+    "views": 133119,
+    "forwards": 212
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -140,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9527",
     "score": 5.0,
-    "views": 519,
+    "views": 614,
     "forwards": 5
   },
   {
@@ -194,7 +266,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19840",
     "score": 15.5,
-    "views": 65829,
+    "views": 76279,
     "forwards": 168
   },
   {
@@ -212,8 +284,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40901",
     "score": 7.5,
-    "views": 36316,
-    "forwards": 184
+    "views": 43474,
+    "forwards": 197
   },
   {
     "title": "Airstrike attack",
@@ -230,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9523",
     "score": 9.0,
-    "views": 733,
+    "views": 801,
     "forwards": 9
   },
   {
@@ -375,78 +447,6 @@
     "link": "https://t.me/kpszsu/67690",
     "score": 5.0,
     "views": 2767,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: High-speed in Kharkiv Oblast!",
-    "title_en": "Kharkiv: High-speed in Kharkiv Oblast!",
-    "title_uk": "Харків: Швидка в Харківській області!",
-    "description": "High-speed in Kharkiv Oblast!",
-    "description_en": "High-speed in Kharkiv Oblast!",
-    "description_uk": "Швидкісна на Харківщині!",
-    "time": "",
-    "pubDate": "2026-07-07T22:42:15+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67685",
-    "score": 6.5,
-    "views": 43453,
-    "forwards": 87
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "We appreciate Germany's leadership in strengthening our air defense - bilateral support and significant contributions to the PURL program. Thanks to this, we have the opportunity to purchase scarce anti-ballistic missiles. And this is very important now, when Russia expects that it is brutal ballistic strikes that will give it the opportunity to continue the war. We are also preparing a Drone Deal with Germany and working on creating a joint European...",
-    "description_en": "We appreciate Germany's leadership in strengthening our air defense - bilateral support and significant contributions to the PURL program. Thanks to this, we have the opportunity to purchase scarce anti-ballistic missiles. And this is very important now, when Russia expects that it is brutal ballistic strikes that will give it the opportunity to continue the war. We are also preparing a Drone Deal with Germany and working on creating a joint European...",
-    "description_uk": "Цінуємо лідерство Німеччини в зміцненні нашої ППО – двосторонню підтримку та вагомі внески у програму PURL. Завдяки цьому у нас є можливість закуповувати дефіцитні антибалістичні ракети. І це дуже важливо зараз, коли Росія розраховує, що саме жорстокі балістичні удари дадуть їй можливість продовжувати війну. Також готуємо Drone Deal із Німеччиною та працюємо над створенням спільної європейської...",
-    "time": "",
-    "pubDate": "2026-07-07T17:02:23+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19836",
-    "score": 5.5,
-    "views": 86239,
-    "forwards": 135
-  },
-  {
-    "title": "Strike confirmed on infrastructure",
-    "title_en": "Strike confirmed on infrastructure",
-    "title_uk": "Підтверджено страйк на інфраструктурі",
-    "description": "Russia's largest oil refinery stopped working after the attack of Ukrainian drones, - Reuters After the attack, the Omsk oil refinery - the largest in Russia and the main producer of gasoline - completely stopped. The agency's sources report that the impact damaged a plant providing about 38% of the company's capacity, and another key plant was also stopped due to damaged infrastructure....",
-    "description_en": "Russia's largest oil refinery stopped working after the attack of Ukrainian drones, - Reuters After the attack, the Omsk oil refinery - the largest in Russia and the main producer of gasoline - completely stopped. The agency's sources report that the impact damaged a plant providing about 38% of the company's capacity, and another key plant was also stopped due to damaged infrastructure....",
-    "description_uk": "Крупнейший НПЗ россии остановил работу после удара украинских дронов, - Reuters После атаки полностью остановился Омский нефтеперерабатывающий завод - крупнейший в россии и главный производитель бензина. Источники агентства сообщают, что удар повредил установку, обеспечивающую около 38% мощности предприятия, а еще одна ключевая установка также была остановлена из-за повреждений инфраструктуры....",
-    "time": "",
-    "pubDate": "2026-07-07T15:10:08+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195477",
-    "score": 5.5,
-    "views": 117486,
-    "forwards": 467
-  },
-  {
-    "title": "A few thoughts on death Read the full article on our website",
-    "title_en": "A few thoughts on death Read the full article on our website",
-    "title_uk": "Кілька думок про смерть Читайте повну статтю на нашому сайті",
-    "description": "A few thoughts on death Read the full article on our website",
-    "description_en": "A few thoughts on death Read the full article on our website",
-    "description_uk": "A few thoughts on death Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-07-07T14:26:18+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48865",
-    "score": 5.0,
-    "views": 68,
     "forwards": 0
   }
 ]
