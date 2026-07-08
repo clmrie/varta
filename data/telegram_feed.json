@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "A group of jet UAVs in Chernihiv region, heading for Kyiv region.",
+    "description_en": "A group of jet UAVs in Chernihiv region, heading for Kyiv region.",
+    "description_uk": "Група реактивних БпЛА на Чернігівщині, курсом на Київщину.",
+    "time": "",
+    "pubDate": "2026-07-08T01:06:46+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67691",
+    "score": 6.0,
+    "views": 1541,
+    "forwards": 10
+  },
+  {
+    "title": "Odeshchyna - BpLA on Vylkovo.",
+    "title_en": "Odeshchyna - BpLA on Vylkovo.",
+    "title_uk": "Одещина - БпЛА на Вилкове.",
+    "description": "Odeshchyna - BpLA on Vylkovo.",
+    "description_en": "Odeshchyna - BpLA on Vylkovo.",
+    "description_uk": "Одещина - БпЛА на Вилкове.",
+    "time": "",
+    "pubDate": "2026-07-08T01:04:54+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67690",
+    "score": 5.0,
+    "views": 2767,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: High-speed in Kharkiv Oblast!",
     "title_en": "Kharkiv: High-speed in Kharkiv Oblast!",
     "title_uk": "Харків: Швидка в Харківській області!",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54121",
     "score": 10.0,
-    "views": 1283,
+    "views": 1520,
     "forwards": 10
   },
   {
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195495",
     "score": 9.5,
-    "views": 110559,
-    "forwards": 315
+    "views": 118736,
+    "forwards": 335
   },
   {
     "title": "Zaporizhzhia: Zaporizhzhia - BpLA on the outskirts of the city.",
@@ -140,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19836",
     "score": 5.5,
-    "views": 68156,
-    "forwards": 116
+    "views": 69025,
+    "forwards": 117
   },
   {
     "title": "In Ukraine, they are investigating a possible scheme for the purchase...",
@@ -194,80 +230,8 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48865",
     "score": 5.0,
-    "views": 48,
+    "views": 50,
     "forwards": 0
-  },
-  {
-    "title": "Kyiv: Explosions reported",
-    "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомлення про вибухи",
-    "description": "2 defense industry enterprises hit in Russia’s Bryansk Oblast, oil depot in Belgorod Oblast, General Staff says. The microelectronics manufacturer Kremniy El produces microchips, power semiconductor devices, and electronic warfare systems for Russia, along with other products, while the Bryansk Chemical Plant produces gunpowder, explosives, and rocket fuel components, according to the General...",
-    "description_en": "2 defense industry enterprises hit in Russia’s Bryansk Oblast, oil depot in Belgorod Oblast, General Staff says. The microelectronics manufacturer Kremniy El produces microchips, power semiconductor devices, and electronic warfare systems for Russia, along with other products, while the Bryansk Chemical Plant produces gunpowder, explosives, and rocket fuel components, according to the General...",
-    "description_uk": "2 defense industry enterprises hit in Russia’s Bryansk Oblast, oil depot in Belgorod Oblast, General Staff says. The microelectronics manufacturer Kremniy El produces microchips, power semiconductor devices, and electronic warfare systems for Russia, along with other products, while the Bryansk Chemical Plant produces gunpowder, explosives, and rocket fuel components, according to the General...",
-    "time": "",
-    "pubDate": "2026-07-07T12:46:07+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54110",
-    "score": 8.5,
-    "views": 2290,
-    "forwards": 4
-  },
-  {
-    "title": "BpLA in Sumy Oblast - heading for Poltava Oblast.",
-    "title_en": "BpLA in Sumy Oblast - heading for Poltava Oblast.",
-    "title_uk": "BpLA в Сумській області - курс на Полтавську область.",
-    "description": "BpLA in Sumy Oblast - heading for Poltava Oblast.",
-    "description_en": "BpLA in Sumy Oblast - heading for Poltava Oblast.",
-    "description_uk": "БпЛА на Сумщині - курсом на Полтавщину.",
-    "time": "",
-    "pubDate": "2026-07-07T12:40:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67656",
-    "score": 5.0,
-    "views": 75196,
-    "forwards": 21
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Sumyshchyna - jet UAVs heading for Konotop/Baturin.",
-    "description_en": "Sumyshchyna - jet UAVs heading for Konotop/Baturin.",
-    "description_uk": "Сумщина - реактивні БпЛА курсом на Конотоп/Батурин.",
-    "time": "",
-    "pubDate": "2026-07-07T12:27:28+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67653",
-    "score": 5.0,
-    "views": 81450,
-    "forwards": 0
-  },
-  {
-    "title": "When he went to the garden in Vyshnev after his arrival.",
-    "title_en": "When he went to the garden in Vyshnev after his arrival.",
-    "title_uk": "Коли пішов після приїзду на город у Вишневі.",
-    "description": "When he went to the garden in Vyshnev after his arrival.",
-    "description_en": "When he went to the garden in Vyshnev after his arrival.",
-    "description_uk": "Когда вышел на огород в Вишневом после прилета.",
-    "time": "",
-    "pubDate": "2026-07-07T12:22:13+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195464",
-    "score": 5.5,
-    "views": 70943,
-    "forwards": 719
   },
   {
     "title": "Kyiv: Drone strike",
@@ -320,7 +284,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40858",
     "score": 9.0,
-    "views": 27655,
+    "views": 27731,
     "forwards": 168
   },
   {
@@ -338,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9504",
     "score": 6.0,
-    "views": 1363,
+    "views": 1366,
     "forwards": 4
   },
   {
