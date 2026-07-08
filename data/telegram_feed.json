@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: BpLA headed for the city of Kharkiv from the north",
+    "title_en": "Kharkiv: BpLA headed for the city of Kharkiv from the north",
+    "title_uk": "Харків: BpLA прямувала на м. Харків з півночі",
+    "description": "BpLA headed for the city of Kharkiv from the north",
+    "description_en": "BpLA headed for the city of Kharkiv from the north",
+    "description_uk": "БпЛА курсом на м.Харків з півночі",
+    "time": "",
+    "pubDate": "2026-07-08T23:15:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67806",
+    "score": 6.0,
+    "views": 8701,
+    "forwards": 11
+  },
+  {
+    "title": "Zaporizhzhia: BpLA heading to Zaporozhye from the south",
+    "title_en": "Zaporizhzhia: BpLA heading to Zaporozhye from the south",
+    "title_uk": "Запоріжжя: BpLA прямує до Запоріжжя з півдня",
+    "description": "BpLA heading to Zaporozhye from the south",
+    "description_en": "BpLA heading to Zaporozhye from the south",
+    "description_uk": "БпЛА курсом на м.Запоріжжя з півдня",
+    "time": "",
+    "pubDate": "2026-07-08T23:09:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67805",
+    "score": 6.0,
+    "views": 10740,
+    "forwards": 20
+  },
+  {
     "title": "Dnipro: BpLA course to Dnipro",
     "title_en": "Dnipro: BpLA course to Dnipro",
     "title_uk": "Дніпро: Курс BpLA до Дніпра",
@@ -104,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54141",
     "score": 5.0,
-    "views": 1705,
-    "forwards": 2
+    "views": 1883,
+    "forwards": 3
   },
   {
     "title": "Drone incoming",
@@ -122,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19856",
     "score": 5.5,
-    "views": 77290,
-    "forwards": 101
+    "views": 79263,
+    "forwards": 102
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -176,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54137",
     "score": 6.0,
-    "views": 2040,
+    "views": 2149,
     "forwards": 13
   },
   {
@@ -338,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40910",
     "score": 9.0,
-    "views": 6570,
+    "views": 6596,
     "forwards": 33
   },
   {
@@ -396,42 +432,6 @@
     "forwards": 317
   },
   {
-    "title": "Chernihiv: Jet UAVs in the area of ​​Goncharivske village (Chernihiv region).",
-    "title_en": "Chernihiv: Jet UAVs in the area of ​​Goncharivske village (Chernihiv region).",
-    "title_uk": "Чернігів: реактивні БПЛА в районі смт Гончарівське (Чернігівська область).",
-    "description": "Jet UAVs in the area of ​​Goncharivske village (Chernihiv region).",
-    "description_en": "Jet UAVs in the area of ​​Goncharivske village (Chernihiv region).",
-    "description_uk": "Реактивні БпЛА в районі н.п.Гончарівське (Чернігівщина).",
-    "time": "",
-    "pubDate": "2026-07-08T10:47:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67750",
-    "score": 6.0,
-    "views": 63836,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: 🛸 BpLA ➡️ course to Zaporozhye from the south.",
-    "title_en": "Zaporizhzhia: 🛸 BpLA ➡️ course to Zaporozhye from the south.",
-    "title_uk": "Запоріжжя: 🛸 BpLA ➡️ курс на Запоріжжя з півдня.",
-    "description": "🛸 BpLA ➡️ course to Zaporozhye from the south.",
-    "description_en": "🛸 BpLA ➡️ course to Zaporozhye from the south.",
-    "description_uk": "🛸 БпЛА ➡️ курсом на м.Запоріжжя з півдня.",
-    "time": "",
-    "pubDate": "2026-07-08T10:45:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67748",
-    "score": 6.0,
-    "views": 66877,
-    "forwards": 0
-  },
-  {
     "title": "Casualties reported",
     "title_en": "Casualties reported",
     "title_uk": "Повідомляється про постраждалих",
@@ -446,7 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40902",
     "score": 5.0,
-    "views": 4816,
+    "views": 4829,
     "forwards": 5
   }
 ]
