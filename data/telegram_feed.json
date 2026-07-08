@@ -1,5 +1,59 @@
 [
   {
+    "title": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city. 🛵 Zhytomyr region -...",
+    "title_en": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city. 🛵 Zhytomyr region -...",
+    "title_uk": "Запоріжжя: Запоріжжя – БпЛА в напрямку м. 🛵 Житомирська область -...",
+    "description": "Zaporizhzhia - BpLA in the direction of the city. 🛵 Zhytomyr region - BpLA heading west.",
+    "description_en": "Zaporizhzhia - BpLA in the direction of the city. 🛵 Zhytomyr region - BpLA heading west.",
+    "description_uk": "Запоріжжя - БпЛА в напрямку міста. 🛵 Житомирщина- БпЛА курсом на захід.",
+    "time": "",
+    "pubDate": "2026-07-08T04:17:39+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67707",
+    "score": 6.0,
+    "views": 24255,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Drone incoming",
+    "description": "Kyiv - jet UAV in the direction of the city.",
+    "description_en": "Kyiv - jet UAV in the direction of the city.",
+    "description_uk": "Київ - реактивний БпЛА в напрямку міста.",
+    "time": "",
+    "pubDate": "2026-07-08T03:04:38+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67704",
+    "score": 6.0,
+    "views": 73844,
+    "forwards": 2
+  },
+  {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Київ: Дрон-удар",
+    "description": "Ukrainian drones reportedly strike Russia's Saratov Oil Refinery. Ukrainian drones struck Russia's Saratov Oil Refinery overnight on July 8, monitoring channels reported.",
+    "description_en": "Ukrainian drones reportedly strike Russia's Saratov Oil Refinery. Ukrainian drones struck Russia's Saratov Oil Refinery overnight on July 8, monitoring channels reported.",
+    "description_uk": "Ukrainian drones reportedly strike Russia's Saratov Oil Refinery. Ukrainian drones struck Russia's Saratov Oil Refinery overnight on July 8, monitoring channels reported.",
+    "time": "",
+    "pubDate": "2026-07-08T01:29:59+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54123",
+    "score": 8.0,
+    "views": 1043,
+    "forwards": 3
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -86,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54121",
     "score": 10.0,
-    "views": 1520,
+    "views": 2120,
     "forwards": 10
   },
   {
@@ -122,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195495",
     "score": 9.5,
-    "views": 118736,
-    "forwards": 335
+    "views": 166284,
+    "forwards": 345
   },
   {
     "title": "Zaporizhzhia: Zaporizhzhia - BpLA on the outskirts of the city.",
@@ -176,26 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19836",
     "score": 5.5,
-    "views": 69025,
-    "forwards": 117
-  },
-  {
-    "title": "In Ukraine, they are investigating a possible scheme for the purchase...",
-    "title_en": "In Ukraine, they are investigating a possible scheme for the purchase...",
-    "title_uk": "В Україні розслідують можливу схему закупівлі...",
-    "description": "In Ukraine, they are investigating a possible scheme for the purchase of drones for almost 7 billion UAH. The OGP reports that law enforcement officers are investigating a possible theft of budget money during the supply of UAVs for the Defense Forces for 6.95 billion UAH. According to the investigation, the cost of drones could be artificially inflated, and fictitious FOPs and companies could be used to withdraw money. Doubtful operations are estimated at more than UAH 197 million. During...",
-    "description_en": "In Ukraine, they are investigating a possible scheme for the purchase of drones for almost 7 billion UAH. The OGP reports that law enforcement officers are investigating a possible theft of budget money during the supply of UAVs for the Defense Forces for 6.95 billion UAH. According to the investigation, the cost of drones could be artificially inflated, and fictitious FOPs and companies could be used to withdraw money. Doubtful operations are estimated at more than UAH 197 million. During...",
-    "description_uk": "В Украине расследуют возможную схему на закупке дронов почти на 7 млрд грн ОГП сообщает, что правоохранители проверяют возможное хищение бюджетных денег при поставке БПЛА для Сил обороны на 6,95 млрд грн. По версии следствия, стоимость дронов могли искусственно завышать, а для вывода денег использовать фиктивные ФОПы и компании. Сомнительные операции оценивают более чем в 197 млн грн. Во время...",
-    "time": "",
-    "pubDate": "2026-07-07T15:26:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195478",
-    "score": 9.5,
-    "views": 150601,
-    "forwards": 296
+    "views": 75076,
+    "forwards": 119
   },
   {
     "title": "Strike confirmed on infrastructure",
@@ -230,25 +266,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48865",
     "score": 5.0,
-    "views": 50,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Drone strike",
-    "title_en": "Kyiv: Drone strike",
-    "title_uk": "Київ: Дрон-удар",
-    "description": "‘Industrial scale results’ — 8 Russian shadow fleet tankers hit in Azov Sea, Ukraine’s ‘Madyar’ says. Claiming that the overnight aerial naval battle reached “industrial-scale results,” Brovdi reported that the Ukrainian drones also hit a dry cargo ship and a ferry, alongside a convoy of eight fuel tankers. He claimed that the fuel tankers were “badly damaged and on fire.”",
-    "description_en": "‘Industrial scale results’ — 8 Russian shadow fleet tankers hit in Azov Sea, Ukraine’s ‘Madyar’ says. Claiming that the overnight aerial naval battle reached “industrial-scale results,” Brovdi reported that the Ukrainian drones also hit a dry cargo ship and a ferry, alongside a convoy of eight fuel tankers. He claimed that the fuel tankers were “badly damaged and on fire.”",
-    "description_uk": "‘Industrial scale results’ — 8 Russian shadow fleet tankers hit in Azov Sea, Ukraine’s ‘Madyar’ says. Claiming that the overnight aerial naval battle reached “industrial-scale results,” Brovdi reported that the Ukrainian drones also hit a dry cargo ship and a ferry, alongside a convoy of eight fuel tankers. He claimed that the fuel tankers were “badly damaged and on fire.”",
-    "time": "",
-    "pubDate": "2026-07-07T10:28:27+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54106",
-    "score": 8.0,
-    "views": 498,
+    "views": 54,
     "forwards": 0
   },
   {
@@ -270,24 +288,6 @@
     "forwards": 39
   },
   {
-    "title": "Donetsk: Two military industrial complex enterprises in Bryansk region, the...",
-    "title_en": "Donetsk: Two military industrial complex enterprises in Bryansk region, the...",
-    "title_uk": "Донецьк: Два підприємства ВПК Брянської області,...",
-    "description": "Two military industrial complex enterprises in Bryansk region, the Belhorod airfield oil base, bridges and other enemy objects were hit ⚡️On the night of July 7, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy objects. ⚡️Yes, JSC Kremny EL Group in Bryansk was damaged. 🔥 The degree of damage and the results of the damage are being clarified. JSC...",
-    "description_en": "Two military industrial complex enterprises in Bryansk region, the Belhorod airfield oil base, bridges and other enemy objects were hit ⚡️On the night of July 7, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy objects. ⚡️Yes, JSC Kremny EL Group in Bryansk was damaged. 🔥 The degree of damage and the results of the damage are being clarified. JSC...",
-    "description_uk": "Уражено два підприємства ВПК у Брянській області, нафтобазу аеродрому \"Бєлгород\", мости та інші об'єкти ворога ⚡️У ніч на 7 липня в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України били по низці важливих об'єктів противника. ⚡️Так, завдано ураження АТ \"Группа Кремний ЕЛ\" у Брянську. 🔥 Ступінь завданих збитків та результати ураження уточнюються. АТ...",
-    "time": "",
-    "pubDate": "2026-07-07T08:06:29+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/40858",
-    "score": 9.0,
-    "views": 27731,
-    "forwards": 168
-  },
-  {
     "title": "Kyiv: Casualties reported",
     "title_en": "Kyiv: Casualties reported",
     "title_uk": "Київ: повідомляється про постраждалих",
@@ -302,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9504",
     "score": 6.0,
-    "views": 1366,
+    "views": 1385,
     "forwards": 4
   },
   {
