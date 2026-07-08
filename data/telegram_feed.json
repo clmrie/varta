@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zaporizhzhia: BpLA from Zaporizhzhia heading for Dnipropetrovsk region (movement...",
+    "title_en": "Zaporizhzhia: BpLA from Zaporizhzhia heading for Dnipropetrovsk region (movement...",
+    "title_uk": "Запоріжжя: BpLA із Запоріжжя прямує до Дніпропетровської області (рух...",
+    "description": "BpLA from Zaporizhzhia heading for Dnipropetrovsk region (movement vector of Dnipro)",
+    "description_en": "BpLA from Zaporizhzhia heading for Dnipropetrovsk region (movement vector of Dnipro)",
+    "description_uk": "БпЛА з Запоріжжя курсом на Дніпропетровщину (вектор руху м.Дніпро)",
+    "time": "",
+    "pubDate": "2026-07-08T21:13:46+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67803",
+    "score": 6.0,
+    "views": 11181,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: BpLA in Zaporizhzhia, past the village of Novomykolaivka heading west",
+    "title_en": "Mykolaiv: BpLA in Zaporizhzhia, past the village of Novomykolaivka heading west",
+    "title_uk": "Миколаїв: BpLA в Запоріжжі, повз село Новомиколаївка на захід",
+    "description": "BpLA in Zaporizhzhia, past the village of Novomykolaivka heading west",
+    "description_en": "BpLA in Zaporizhzhia, past the village of Novomykolaivka heading west",
+    "description_uk": "БпЛА на Запоріжжі, повз н.п.Новомиколаївка курсом на захід",
+    "time": "",
+    "pubDate": "2026-07-08T21:01:26+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67802",
+    "score": 6.0,
+    "views": 23675,
+    "forwards": 3
+  },
+  {
     "title": "Zaporizhzhia: BpLA heading to Zaporozhye from the east.",
     "title_en": "Zaporizhzhia: BpLA heading to Zaporozhye from the east.",
     "title_uk": "Запоріжжя: BpLA прямує на Запоріжжя зі сходу.",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54141",
     "score": 5.0,
-    "views": 1034,
-    "forwards": 1
+    "views": 1469,
+    "forwards": 2
   },
   {
     "title": "Drone incoming",
@@ -68,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19856",
     "score": 5.5,
-    "views": 60709,
-    "forwards": 87
+    "views": 72909,
+    "forwards": 99
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -122,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54137",
     "score": 6.0,
-    "views": 1659,
+    "views": 1898,
     "forwards": 12
   },
   {
@@ -284,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40910",
     "score": 9.0,
-    "views": 6262,
+    "views": 6485,
     "forwards": 33
   },
   {
@@ -392,7 +428,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40902",
     "score": 5.0,
-    "views": 4697,
+    "views": 4787,
     "forwards": 5
   },
   {
@@ -412,41 +448,5 @@
     "score": 8.5,
     "views": 1762,
     "forwards": 4
-  },
-  {
-    "title": "Strike confirmed",
-    "title_en": "Strike confirmed",
-    "title_uk": "Страйк підтверджено",
-    "description": "And this is how beautiful \"Nizhnekamskneftekhim\" is after the impact 🤩 The flight was in the second industrial zone of the enterprise - one of the key areas where petrochemical production facilities are located. Queues for gas stations are already forming in the city.",
-    "description_en": "And this is how beautiful \"Nizhnekamskneftekhim\" is after the impact 🤩 The flight was in the second industrial zone of the enterprise - one of the key areas where petrochemical production facilities are located. Queues for gas stations are already forming in the city.",
-    "description_uk": "А это как никогда прекрасный «Нижнекамскнефтехим» после удара 🤩 Прилет был по второй промышленной зоне предприятия — одной из ключевых площадок, где расположены установки по производству нефтехимии. В городе уже собираются очереди на заправки.",
-    "time": "",
-    "pubDate": "2026-07-08T09:43:19+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195531",
-    "score": 5.5,
-    "views": 133119,
-    "forwards": 212
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "UAV in Chernihiv Oblast in the direction of Pryluk.",
-    "description_en": "UAV in Chernihiv Oblast in the direction of Pryluk.",
-    "description_uk": "БпЛА на Чернігівщині в напрямку Прилук.",
-    "time": "",
-    "pubDate": "2026-07-08T08:58:07+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67737",
-    "score": 6.0,
-    "views": 55546,
-    "forwards": 0
   }
 ]
