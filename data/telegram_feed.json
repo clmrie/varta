@@ -1,21 +1,57 @@
 [
   {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "Jet UAV ➡️ heading for Zaporozhye.",
+    "description_en": "Jet UAV ➡️ heading for Zaporozhye.",
+    "description_uk": "Реактивний БПЛА ➡️ курсом на Запоріжжя.",
+    "time": "",
+    "pubDate": "2026-07-09T16:18:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67888",
+    "score": 6.0,
+    "views": 25391,
+    "forwards": 0
+  },
+  {
     "title": "Drone attack",
     "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "The fuel crisis in the Russian Federation has already affected about 50 million Russians, - FT Izdanie writes that Ukrainian drones disabled from 20% to 40% of Russian oil processing. Key refineries, including the largest plant in Omsk, came under attack. By June 25, restrictions on the sale of fuel were introduced in almost 50 regions. About 35% of the population of the Russian Federation directly felt queues at gas stations, limits and shortages. One of the top managers...",
-    "description_en": "The fuel crisis in the Russian Federation has already affected about 50 million Russians, - FT Izdanie writes that Ukrainian drones disabled from 20% to 40% of Russian oil processing. Key refineries, including the largest plant in Omsk, came under attack. By June 25, restrictions on the sale of fuel were introduced in almost 50 regions. About 35% of the population of the Russian Federation directly felt queues at gas stations, limits and shortages. One of the top managers...",
-    "description_uk": "Топливный кризис в рф уже затронул около 50 млн россиян, - FT Издание пишет, что украинские дроны вывели из строя от 20% до 40% российской нефтепереработки. Под ударами оказались ключевые НПЗ, включая крупнейший завод в Омске. К 25 июня ограничения на продажу топлива ввели почти 50 регионов. Очереди на АЗС, лимиты и дефицит напрямую почувствовали около 35% населения рф. Один из топ-менеджеров...",
+    "title_uk": "Атака дронов",
+    "description": "Saratov Oil Refinery has completely stopped work after the attack of Ukrainian drones - Reuters According to the agency, Rosneft's Saratov Oil Refinery has stopped oil processing after the attack by Ukrainian UAVs on July 8. The only primary processing plant was damaged and caught fire, the repair of which may take up to two weeks. The plant has already stopped selling oil products on the stock exchange. Last year, he processed 5.8...",
+    "description_en": "Saratov Oil Refinery has completely stopped work after the attack of Ukrainian drones - Reuters According to the agency, Rosneft's Saratov Oil Refinery has stopped oil processing after the attack by Ukrainian UAVs on July 8. The only primary processing plant was damaged and caught fire, the repair of which may take up to two weeks. The plant has already stopped selling oil products on the stock exchange. Last year, he processed 5.8...",
+    "description_uk": "После удара украинских дронов Саратовский НПЗ полностью остановил работу, - Reuters Как пишет агентство, Саратовский НПЗ \"Роснефти\" прекратил переработку нефти после атаки украинских БПЛА 8 июля. Повреждена и загорелась единственная установка первичной переработки, ремонт которой может занять до двух недель. Завод уже остановил продажу нефтепродуктов на бирже. В прошлом году он переработал 5,8...",
     "time": "",
-    "pubDate": "2026-07-09T14:10:26+00:00",
+    "pubDate": "2026-07-09T15:30:32+00:00",
     "category": "drone",
-    "severity": "medium",
+    "severity": "high",
     "location": "Ukraine",
     "source": "UNIAN",
-    "link": "https://t.me/uniannet/195633",
-    "score": 3.0,
-    "views": 1065,
-    "forwards": 1
+    "link": "https://t.me/uniannet/195638",
+    "score": 5.5,
+    "views": 72481,
+    "forwards": 107
+  },
+  {
+    "title": "Rusnia continues to hit Ukrainian gas stations: there was a flight to...",
+    "title_en": "Rusnia continues to hit Ukrainian gas stations: there was a flight to...",
+    "title_uk": "Русня продовжує бити по українських АЗС: був рейс на...",
+    "description": "Rusnia continues to hit Ukrainian gas stations: there was a flight to refuel in Zaporozhye, local media",
+    "description_en": "Rusnia continues to hit Ukrainian gas stations: there was a flight to refuel in Zaporozhye, local media",
+    "description_uk": "Русня продолжает бить по украинским АЗС: был прилет по заправке в Запорожье, - местные паблики",
+    "time": "",
+    "pubDate": "2026-07-09T14:50:21+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195635",
+    "score": 4.5,
+    "views": 94012,
+    "forwards": 140
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -32,8 +68,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/67886",
     "score": 6.0,
-    "views": 21201,
-    "forwards": 34
+    "views": 81503,
+    "forwards": 48
   },
   {
     "title": "Zaporizhzhia: BpLA group ➡️ heading for Zaporozhye.",
@@ -68,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54152",
     "score": 6.0,
-    "views": 764,
-    "forwards": 1
+    "views": 1539,
+    "forwards": 3
   },
   {
     "title": "Casualties reported",
@@ -86,8 +122,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23627",
     "score": 13.5,
-    "views": 44951,
-    "forwards": 122
+    "views": 76887,
+    "forwards": 188
   },
   {
     "title": "👀 The production of Patriot missiles in Ukraine can start in the...",
@@ -194,44 +230,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40937",
     "score": 13.0,
-    "views": 5738,
+    "views": 6169,
     "forwards": 15
-  },
-  {
-    "title": "Kharkiv: The UAV flew past Savyntsi in the Kharkiv region on a west/southwest...",
-    "title_en": "Kharkiv: The UAV flew past Savyntsi in the Kharkiv region on a west/southwest...",
-    "title_uk": "Харків: БПЛА пролетів повз Савинці Харківської області на захід/південний...",
-    "description": "The UAV flew past Savyntsi in the Kharkiv region on a west/southwest course.",
-    "description_en": "The UAV flew past Savyntsi in the Kharkiv region on a west/southwest course.",
-    "description_uk": "БпЛА повз Савинці на Харківщині західним/південно-західним курсом.",
-    "time": "",
-    "pubDate": "2026-07-09T04:30:58+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67857",
-    "score": 6.0,
-    "views": 28332,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: BpLA course to Zaporozhye.",
-    "title_en": "Zaporizhzhia: BpLA course to Zaporozhye.",
-    "title_uk": "Запоріжжя: Курс BpLA до Запоріжжя.",
-    "description": "BpLA course to Zaporozhye.",
-    "description_en": "BpLA course to Zaporozhye.",
-    "description_uk": "БпЛА курсом на м.Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-07-09T04:22:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67856",
-    "score": 6.0,
-    "views": 35410,
-    "forwards": 0
   },
   {
     "title": "Kyiv: Drone strike",
@@ -248,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54146",
     "score": 4.0,
-    "views": 2789,
+    "views": 2929,
     "forwards": 5
   },
   {
@@ -266,44 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19856",
     "score": 5.5,
-    "views": 132727,
-    "forwards": 121
-  },
-  {
-    "title": "In the Desnyan district of the capital, a Katsap UAV hit a 25-story...",
-    "title_en": "In the Desnyan district of the capital, a Katsap UAV hit a 25-story...",
-    "title_uk": "У Деснянському районі столиці БПЛА Кацап врізався в 25-поверхову...",
-    "description": "In the Desnyan district of the capital, a Katsap UAV hit a 25-story residential building at the level of the 16th floor",
-    "description_en": "In the Desnyan district of the capital, a Katsap UAV hit a 25-story residential building at the level of the 16th floor",
-    "description_uk": "В Деснянском районе столицы кацапский БПЛА попал в 25-этажный жилой дом на уровне 16-го этажа",
-    "time": "",
-    "pubDate": "2026-07-08T14:33:53+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195565",
-    "score": 8.5,
-    "views": 140945,
-    "forwards": 177
-  },
-  {
-    "title": "Kyiv: Minister of Foreign Affairs of Ukraine Andriy Sybiga held a meeting...",
-    "title_en": "Kyiv: Minister of Foreign Affairs of Ukraine Andriy Sybiga held a meeting...",
-    "title_uk": "Київ: Міністр закордонних справ України Андрій Сибіга провів зустріч...",
-    "description": "Minister of Foreign Affairs of Ukraine Andriy Sybiga held a meeting with Federal Minister of Foreign Affairs of Germany Johann Wadeful 🇺🇦🇩🇪 The parties confirmed the strength of the Ukrainian-German strategic partnership, which is of fundamental importance for peace and security in Europe. 💬 \"I thanked Germany for its real leadership in supporting Ukraine, which should encourage others to do more. We...",
-    "description_en": "Minister of Foreign Affairs of Ukraine Andriy Sybiga held a meeting with Federal Minister of Foreign Affairs of Germany Johann Wadeful 🇺🇦🇩🇪 The parties confirmed the strength of the Ukrainian-German strategic partnership, which is of fundamental importance for peace and security in Europe. 💬 \"I thanked Germany for its real leadership in supporting Ukraine, which should encourage others to do more. We...",
-    "description_uk": "Міністр закордонних справ України Андрій Сибіга провів зустріч з федеральним міністром закордонних справ Німеччини Йоганном Вадефулем 🇺🇦🇩🇪 Сторони підтвердили міцність українсько-німецького стратегічного партнерства, яке має фундаментальне значення для миру та безпеки в Європі. 💬 \"Я подякував Німеччині за справжнє лідерство у підтримці України, яке має спонукати інших робити більше. Ми...",
-    "time": "",
-    "pubDate": "2026-07-08T08:56:07+00:00",
-    "category": "political",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9527",
-    "score": 5.0,
-    "views": 835,
-    "forwards": 5
+    "views": 135376,
+    "forwards": 122
   },
   {
     "title": "Kherson: Ballistic missile launch detected",
@@ -320,25 +284,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19840",
     "score": 16.5,
-    "views": 106445,
+    "views": 107226,
     "forwards": 209
-  },
-  {
-    "title": "A few thoughts on death Read the full article on our website",
-    "title_en": "A few thoughts on death Read the full article on our website",
-    "title_uk": "Кілька думок про смерть Читайте повну статтю на нашому сайті",
-    "description": "A few thoughts on death Read the full article on our website",
-    "description_en": "A few thoughts on death Read the full article on our website",
-    "description_uk": "A few thoughts on death Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-07-07T14:26:18+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48865",
-    "score": 5.0,
-    "views": 91,
-    "forwards": 0
   }
 ]
