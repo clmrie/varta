@@ -1,5 +1,59 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "A new group of jet UAVs ➡️ heading for Mykolaiv/Voskresenske from the south.",
+    "description_en": "A new group of jet UAVs ➡️ heading for Mykolaiv/Voskresenske from the south.",
+    "description_uk": "Нова група реактивних БпЛА ➡️ курсом на Миколаїв/Воскресенське з півдня.",
+    "time": "",
+    "pubDate": "2026-07-09T08:38:53+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67875",
+    "score": 6.0,
+    "views": 18145,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "Dnipropetrovsk region: a group of jet UAVs ➡️ heading for Pavlograd.",
+    "description_en": "Dnipropetrovsk region: a group of jet UAVs ➡️ heading for Pavlograd.",
+    "description_uk": "Дніпропетровщина: група реактивних БпЛА ➡️ курсом на Павлоград.",
+    "time": "",
+    "pubDate": "2026-07-09T08:35:17+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67874",
+    "score": 6.0,
+    "views": 25227,
+    "forwards": 36
+  },
+  {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "72 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of July 09 (from 18:00 on July 8), the enemy attacked with two Iskander-M ballistic missiles from TOT AR Crimea and 94 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones from the directions: Bryansk, Millerovo, Orel - Russian Federation, Gvardiyske - TOT AR Crimea, Donetsk - TOT. The air attack was repulsed by aviation, anti-aircraft...",
+    "description_en": "72 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of July 09 (from 18:00 on July 8), the enemy attacked with two Iskander-M ballistic missiles from TOT AR Crimea and 94 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones from the directions: Bryansk, Millerovo, Orel - Russian Federation, Gvardiyske - TOT AR Crimea, Donetsk - TOT. The air attack was repulsed by aviation, anti-aircraft...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 72 ЦІЛІ ПРОТИВНИКА ➖➖➖➖➖➖➖➖➖➖ У ніч на 09 липня (з 18:00 08 липня) противник атакував двома балістичними ракетами Іскандер-М із ТОТ АР Крим та 94 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу “Пародія” із напрямків: Брянськ, Міллєрово, Орел – рф,, Гвардійське – ТОТ АР Крим, Донецьк -ТОТ. Повітряний напад відбивали авіація, зенітні...",
+    "time": "",
+    "pubDate": "2026-07-09T06:32:06+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/40937",
+    "score": 13.0,
+    "views": 3731,
+    "forwards": 14
+  },
+  {
     "title": "Kharkiv: The UAV flew past Savyntsi in the Kharkiv region on a west/southwest...",
     "title_en": "Kharkiv: The UAV flew past Savyntsi in the Kharkiv region on a west/southwest...",
     "title_uk": "Харків: БПЛА пролетів повз Савинці Харківської області на захід/південний...",
@@ -50,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54146",
     "score": 4.0,
-    "views": 1048,
-    "forwards": 1
+    "views": 1973,
+    "forwards": 4
   },
   {
     "title": "BpLA ➡️ on/past Sinelnikovo from the east.",
@@ -180,42 +234,6 @@
     "forwards": 3
   },
   {
-    "title": "Zaporizhzhia: BpLA heading to Zaporozhye from the east.",
-    "title_en": "Zaporizhzhia: BpLA heading to Zaporozhye from the east.",
-    "title_uk": "Запоріжжя: BpLA прямує на Запоріжжя зі сходу.",
-    "description": "BpLA heading to Zaporozhye from the east.",
-    "description_en": "BpLA heading to Zaporozhye from the east.",
-    "description_uk": "БпЛА курсом на м.Запоріжжя зі сходу.",
-    "time": "",
-    "pubDate": "2026-07-08T19:33:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67799",
-    "score": 6.0,
-    "views": 47644,
-    "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: BpLA in Mykolaiv Oblast, Ochakiv",
-    "title_en": "Mykolaiv: BpLA in Mykolaiv Oblast, Ochakiv",
-    "title_uk": "Миколаїв: БпЛА в Миколаївській обл., Очаків",
-    "description": "BpLA in Mykolaiv Oblast, Ochakiv",
-    "description_en": "BpLA in Mykolaiv Oblast, Ochakiv",
-    "description_uk": "БпЛА на Миколаївщині, Очаків",
-    "time": "",
-    "pubDate": "2026-07-08T18:59:44+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67797",
-    "score": 6.0,
-    "views": 96403,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Attack attack on residential area",
     "title_en": "Kyiv: Attack attack on residential area",
     "title_uk": "Київ: обстріл житлового кварталу",
@@ -230,8 +248,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54141",
     "score": 5.0,
-    "views": 2383,
-    "forwards": 4
+    "views": 2656,
+    "forwards": 6
   },
   {
     "title": "Drone incoming",
@@ -248,44 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19856",
     "score": 5.5,
-    "views": 102514,
-    "forwards": 116
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-07-08T17:46:28+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67792",
-    "score": 5.0,
-    "views": 56690,
-    "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: BpLA in the Mykolayiv region heading for Ochakiv",
-    "title_en": "Mykolaiv: BpLA in the Mykolayiv region heading for Ochakiv",
-    "title_uk": "Миколаїв: BpLA в Миколаївській області прямує на Очаків",
-    "description": "BpLA in the Mykolayiv region heading for Ochakiv",
-    "description_en": "BpLA in the Mykolayiv region heading for Ochakiv",
-    "description_uk": "БпЛА на Миколаївщині курсом на Очаків",
-    "time": "",
-    "pubDate": "2026-07-08T17:35:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67791",
-    "score": 6.0,
-    "views": 86164,
-    "forwards": 0
+    "views": 121960,
+    "forwards": 119
   },
   {
     "title": "In the Desnyan district of the capital, a Katsap UAV hit a 25-story...",
@@ -374,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9527",
     "score": 5.0,
-    "views": 801,
+    "views": 811,
     "forwards": 5
   },
   {
@@ -392,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19840",
     "score": 16.5,
-    "views": 102042,
-    "forwards": 208
+    "views": 104218,
+    "forwards": 209
   },
   {
     "title": "Airstrike attack",
@@ -410,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9523",
     "score": 9.0,
-    "views": 958,
+    "views": 970,
     "forwards": 9
   },
   {
@@ -428,7 +410,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48865",
     "score": 5.0,
-    "views": 79,
+    "views": 83,
     "forwards": 0
   }
 ]
