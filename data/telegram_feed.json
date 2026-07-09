@@ -1,26 +1,80 @@
 [
   {
+    "title": "Crimea: The Ministry of Foreign Affairs of Ukraine notes the importance of...",
+    "title_en": "Crimea: The Ministry of Foreign Affairs of Ukraine notes the importance of...",
+    "title_uk": "Крим: МЗС України відзначає важливість...",
+    "description": "The Ministry of Foreign Affairs of Ukraine notes the importance of the published report of the Mission of Experts of the OSCE Moscow Mechanism \"Report on violations and abuses of international humanitarian and criminal law and international law in the field of human rights, related to the militarization and indoctrination of Ukrainian children by the Russian Federation.\" The Ministry of Foreign Affairs of Ukraine expresses its gratitude to 41 OSCE participating states,...",
+    "description_en": "The Ministry of Foreign Affairs of Ukraine notes the importance of the published report of the Mission of Experts of the OSCE Moscow Mechanism \"Report on violations and abuses of international humanitarian and criminal law and international law in the field of human rights, related to the militarization and indoctrination of Ukrainian children by the Russian Federation.\" The Ministry of Foreign Affairs of Ukraine expresses its gratitude to 41 OSCE participating states,...",
+    "description_uk": "Міністерство закордонних справ України відзначає важливість оприлюдненої доповіді Місії експертів Московського механізму ОБСЄ \"Звіт про порушення та зловживання міжнародним гуманітарним і кримінальним правом та міжнародним правом у сфері прав людини, пов’язані із мілітаризацією та індоктринацією українських дітей Російською Федерацією\". МЗС України висловлює вдячність 41 державі-учасниці ОБСЄ,...",
+    "time": "",
+    "pubDate": "2026-07-09T18:28:11+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Crimea",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9554",
+    "score": 6.0,
+    "views": 73,
+    "forwards": 0
+  },
+  {
     "title": "Zaporizhzhia: Drone incoming",
     "title_en": "Zaporizhzhia: Drone incoming",
     "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "Jet UAV ➡️ heading for Zaporozhye.",
-    "description_en": "Jet UAV ➡️ heading for Zaporozhye.",
-    "description_uk": "Реактивний БПЛА ➡️ курсом на Запоріжжя.",
+    "description": "Another jet UAV ➡️ heading for Zaporozhye.",
+    "description_en": "Another jet UAV ➡️ heading for Zaporozhye.",
+    "description_uk": "Ще один реактивний БПЛА ➡️ курсом на Запоріжжя.",
     "time": "",
-    "pubDate": "2026-07-09T16:18:00+00:00",
+    "pubDate": "2026-07-09T18:03:19+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Zaporizhzhia",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67888",
+    "link": "https://t.me/kpszsu/67890",
     "score": 6.0,
-    "views": 25391,
+    "views": 28304,
     "forwards": 0
+  },
+  {
+    "title": "BpLA ➡️ to the Black Sea/Southern Sea!",
+    "title_en": "BpLA ➡️ to the Black Sea/Southern Sea!",
+    "title_uk": "BpLA ➡️ до Чорного/Південного моря!",
+    "description": "BpLA ➡️ to the Black Sea/Southern Sea!",
+    "description_en": "BpLA ➡️ to the Black Sea/Southern Sea!",
+    "description_uk": "БпЛА ➡️ на Чорноморське/Південне!",
+    "time": "",
+    "pubDate": "2026-07-09T18:02:06+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67889",
+    "score": 5.0,
+    "views": 30897,
+    "forwards": 0
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "👀 Zelensky announced \"Freya\" - a new European anti-ballistic system, which should become a cheaper alternative to Patriot. The President of Ukraine said that Ukraine, together with European partners, is launching the \"Freya\" project - a new anti-ballistic system, which should be an analogue of Patriot, but at the same time it will be cheaper and designed for mass production. According to Zelenskyi, the rocket will be...",
+    "description_en": "👀 Zelensky announced \"Freya\" - a new European anti-ballistic system, which should become a cheaper alternative to Patriot. The President of Ukraine said that Ukraine, together with European partners, is launching the \"Freya\" project - a new anti-ballistic system, which should be an analogue of Patriot, but at the same time it will be cheaper and designed for mass production. According to Zelenskyi, the rocket will be...",
+    "description_uk": "👀 Зеленский анонсировал \"Фрею\" - новую европейскую систему ПРО, которая должна стать более дешевой альтернативой Patriot Президент Украины рассказал, что Украина вместе с европейскими партнерами запускает проект \"Фрея\" - новую антибаллистическую систему, которая должна стать аналогом Patriot, но при этом будет дешевле и рассчитана на массовое производство. По словам Зеленского, ракета будет...",
+    "time": "",
+    "pubDate": "2026-07-09T17:41:20+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195647",
+    "score": 5.5,
+    "views": 58133,
+    "forwards": 144
   },
   {
     "title": "Drone attack",
     "title_en": "Drone attack",
-    "title_uk": "Атака дронов",
+    "title_uk": "Атака безпілотників",
     "description": "Saratov Oil Refinery has completely stopped work after the attack of Ukrainian drones - Reuters According to the agency, Rosneft's Saratov Oil Refinery has stopped oil processing after the attack by Ukrainian UAVs on July 8. The only primary processing plant was damaged and caught fire, the repair of which may take up to two weeks. The plant has already stopped selling oil products on the stock exchange. Last year, he processed 5.8...",
     "description_en": "Saratov Oil Refinery has completely stopped work after the attack of Ukrainian drones - Reuters According to the agency, Rosneft's Saratov Oil Refinery has stopped oil processing after the attack by Ukrainian UAVs on July 8. The only primary processing plant was damaged and caught fire, the repair of which may take up to two weeks. The plant has already stopped selling oil products on the stock exchange. Last year, he processed 5.8...",
     "description_uk": "После удара украинских дронов Саратовский НПЗ полностью остановил работу, - Reuters Как пишет агентство, Саратовский НПЗ \"Роснефти\" прекратил переработку нефти после атаки украинских БПЛА 8 июля. Повреждена и загорелась единственная установка первичной переработки, ремонт которой может занять до двух недель. Завод уже остановил продажу нефтепродуктов на бирже. В прошлом году он переработал 5,8...",
@@ -32,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195638",
     "score": 5.5,
-    "views": 72481,
-    "forwards": 107
+    "views": 118655,
+    "forwards": 143
   },
   {
     "title": "Rusnia continues to hit Ukrainian gas stations: there was a flight to...",
@@ -104,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54152",
     "score": 6.0,
-    "views": 1539,
+    "views": 1839,
     "forwards": 3
   },
   {
@@ -121,9 +175,9 @@
     "location": "Ukraine",
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23627",
-    "score": 13.5,
-    "views": 76887,
-    "forwards": 188
+    "score": 14.5,
+    "views": 88517,
+    "forwards": 209
   },
   {
     "title": "👀 The production of Patriot missiles in Ukraine can start in the...",
@@ -230,7 +284,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40937",
     "score": 13.0,
-    "views": 6169,
+    "views": 6362,
     "forwards": 15
   },
   {
@@ -248,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54146",
     "score": 4.0,
-    "views": 2929,
+    "views": 3023,
     "forwards": 5
   },
   {
@@ -266,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19856",
     "score": 5.5,
-    "views": 135376,
+    "views": 137820,
     "forwards": 122
   },
   {
@@ -284,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19840",
     "score": 16.5,
-    "views": 107226,
+    "views": 107817,
     "forwards": 209
   }
 ]
