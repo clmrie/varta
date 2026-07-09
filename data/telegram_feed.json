@@ -1,5 +1,41 @@
 [
   {
+    "title": "BpLA ➡️ on/past Sinelnikovo from the east.",
+    "title_en": "BpLA ➡️ on/past Sinelnikovo from the east.",
+    "title_uk": "BpLA ➡️ на/повз Синельникове зі сх.",
+    "description": "BpLA ➡️ on/past Sinelnikovo from the east.",
+    "description_en": "BpLA ➡️ on/past Sinelnikovo from the east.",
+    "description_uk": "БпЛА ➡️ на/повз Синельникове зі сходу.",
+    "time": "",
+    "pubDate": "2026-07-09T01:19:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67827",
+    "score": 5.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: Dnipropetrovsk region: BpLA ➡️ in the direction of Vasylkivka from...",
+    "title_en": "Dnipro: Dnipropetrovsk region: BpLA ➡️ in the direction of Vasylkivka from...",
+    "title_uk": "Дніпро: Дніпропетровська область: BpLA ➡️ в напрямку Васильківки від...",
+    "description": "Dnipropetrovsk region: BpLA ➡️ in the direction of Vasylkivka from the east.",
+    "description_en": "Dnipropetrovsk region: BpLA ➡️ in the direction of Vasylkivka from the east.",
+    "description_uk": "Дніпропетровщина: БпЛА ➡️ в напрямку Васильківки зі сходу.",
+    "time": "",
+    "pubDate": "2026-07-09T01:11:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67824",
+    "score": 6.0,
+    "views": 3065,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: BpLA headed for the city of Kharkiv from the north",
     "title_en": "Kharkiv: BpLA headed for the city of Kharkiv from the north",
     "title_uk": "Харків: BpLA прямувала на м. Харків з півночі",
@@ -140,8 +176,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54141",
     "score": 5.0,
-    "views": 1883,
-    "forwards": 3
+    "views": 2036,
+    "forwards": 4
   },
   {
     "title": "Drone incoming",
@@ -158,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19856",
     "score": 5.5,
-    "views": 79263,
-    "forwards": 102
+    "views": 81521,
+    "forwards": 107
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -212,8 +248,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54137",
     "score": 6.0,
-    "views": 2149,
-    "forwards": 13
+    "views": 2241,
+    "forwards": 15
   },
   {
     "title": "Black Sea! In shelter!",
@@ -374,26 +410,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40910",
     "score": 9.0,
-    "views": 6596,
+    "views": 6625,
     "forwards": 33
-  },
-  {
-    "title": "Dnipro: BpLA in the direction of Dnipro",
-    "title_en": "Dnipro: BpLA in the direction of Dnipro",
-    "title_uk": "Дніпро: БпЛА в напрямку Дніпра",
-    "description": "BpLA in the direction of Dnipro",
-    "description_en": "BpLA in the direction of Dnipro",
-    "description_uk": "БпЛА в напрямку м.Дніпро",
-    "time": "",
-    "pubDate": "2026-07-08T12:32:18+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67757",
-    "score": 6.0,
-    "views": 47588,
-    "forwards": 1
   },
   {
     "title": "Kharkiv: Casualties reported",
@@ -414,24 +432,6 @@
     "forwards": 3
   },
   {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "They made an attack on the sacred, bastards: the UAV flew near the Troeshchynsky market in Kyiv",
-    "description_en": "They made an attack on the sacred, bastards: the UAV flew near the Troeshchynsky market in Kyiv",
-    "description_uk": "На святое замахнулись, сволочи: БпЛА прилетел возле Троещинского рынка в Киеве",
-    "time": "",
-    "pubDate": "2026-07-08T12:02:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195541",
-    "score": 10.5,
-    "views": 71822,
-    "forwards": 317
-  },
-  {
     "title": "Casualties reported",
     "title_en": "Casualties reported",
     "title_uk": "Повідомляється про постраждалих",
@@ -446,7 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40902",
     "score": 5.0,
-    "views": 4829,
+    "views": 4847,
     "forwards": 5
   }
 ]
