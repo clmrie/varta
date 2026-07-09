@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons from the south-eastern direction!",
+    "description_en": "☄️ The threat of using ballistic weapons from the south-eastern direction!",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння з південно-східного напрямку!",
+    "time": "",
+    "pubDate": "2026-07-09T22:31:55+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67904",
+    "score": 5.5,
+    "views": 21413,
+    "forwards": 57
+  },
+  {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "Anti-ballistic coalition to meet in France to support Ukraine's homegrown 'Freya' air defense project. Ukrainian officials and a coalition of eight European partners will soon hold their first meeting dedicated to the joint development of Kyiv's \"Freya\" anti-ballistic missile systems, President Volodymyr Zelensky said on July 9. \"Our first meeting on this matter will take place in France. It will...",
+    "description_en": "Anti-ballistic coalition to meet in France to support Ukraine's homegrown 'Freya' air defense project. Ukrainian officials and a coalition of eight European partners will soon hold their first meeting dedicated to the joint development of Kyiv's \"Freya\" anti-ballistic missile systems, President Volodymyr Zelensky said on July 9. \"Our first meeting on this matter will take place in France. It will...",
+    "description_uk": "Anti-ballistic coalition to meet in France to support Ukraine's homegrown 'Freya' air defense project. Ukrainian officials and a coalition of eight European partners will soon hold their first meeting dedicated to the joint development of Kyiv's \"Freya\" anti-ballistic missile systems, President Volodymyr Zelensky said on July 9. \"Our first meeting on this matter will take place in France. It will...",
+    "time": "",
+    "pubDate": "2026-07-09T22:13:51+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54166",
+    "score": 6.0,
+    "views": 496,
+    "forwards": 2
+  },
+  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Харків: Дрон вхід",
@@ -14,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/67903",
     "score": 6.0,
-    "views": 9160,
-    "forwards": 0
+    "views": 34599,
+    "forwards": 26
   },
   {
     "title": "Dnipro: Dnipropetrovsk region: a new group of BpLA ➡️ heading for Synelnikovo...",
@@ -38,7 +74,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомлення про вибухи",
+    "title_uk": "Київ: Повідомляється про вибухи",
     "description": "Zelensky reveals details about massive explosions in Kyiv suburb, promises dismissals at Ukraine's largest defense company. The ammunition warehouse that detonated in Vyshneve during Russia's mass attack on Kyiv July 6 belonged to state-owned weapons giant Ukroboronprom, Zelensky said.",
     "description_en": "Zelensky reveals details about massive explosions in Kyiv suburb, promises dismissals at Ukraine's largest defense company. The ammunition warehouse that detonated in Vyshneve during Russia's mass attack on Kyiv July 6 belonged to state-owned weapons giant Ukroboronprom, Zelensky said.",
     "description_uk": "Zelensky reveals details about massive explosions in Kyiv suburb, promises dismissals at Ukraine's largest defense company. The ammunition warehouse that detonated in Vyshneve during Russia's mass attack on Kyiv July 6 belonged to state-owned weapons giant Ukroboronprom, Zelensky said.",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54164",
     "score": 8.0,
-    "views": 1304,
+    "views": 1614,
     "forwards": 5
   },
   {
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195658",
     "score": 8.5,
-    "views": 91448,
-    "forwards": 109
+    "views": 101815,
+    "forwards": 122
   },
   {
     "title": "Crimea: The Ministry of Foreign Affairs of Ukraine notes the importance of...",
@@ -104,7 +140,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9554",
     "score": 6.0,
-    "views": 559,
+    "views": 583,
     "forwards": 2
   },
   {
@@ -124,24 +160,6 @@
     "score": 5.0,
     "views": 30897,
     "forwards": 0
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "👀 Zelensky announced \"Freya\" - a new European anti-ballistic system, which should become a cheaper alternative to Patriot. The President of Ukraine said that Ukraine, together with European partners, is launching the \"Freya\" project - a new anti-ballistic system, which should be an analogue of Patriot, but at the same time it will be cheaper and designed for mass production. According to Zelenskyi, the rocket will be...",
-    "description_en": "👀 Zelensky announced \"Freya\" - a new European anti-ballistic system, which should become a cheaper alternative to Patriot. The President of Ukraine said that Ukraine, together with European partners, is launching the \"Freya\" project - a new anti-ballistic system, which should be an analogue of Patriot, but at the same time it will be cheaper and designed for mass production. According to Zelenskyi, the rocket will be...",
-    "description_uk": "👀 Зеленский анонсировал \"Фрею\" - новую европейскую систему ПРО, которая должна стать более дешевой альтернативой Patriot Президент Украины рассказал, что Украина вместе с европейскими партнерами запускает проект \"Фрея\" - новую антибаллистическую систему, которая должна стать аналогом Patriot, но при этом будет дешевле и рассчитана на массовое производство. По словам Зеленского, ракета будет...",
-    "time": "",
-    "pubDate": "2026-07-09T17:41:20+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195647",
-    "score": 6.5,
-    "views": 132848,
-    "forwards": 248
   },
   {
     "title": "Drone attack",
@@ -248,8 +266,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23627",
     "score": 14.5,
-    "views": 122684,
-    "forwards": 243
+    "views": 125691,
+    "forwards": 247
   },
   {
     "title": "👀 The production of Patriot missiles in Ukraine can start in the...",
@@ -338,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40937",
     "score": 13.0,
-    "views": 6643,
+    "views": 6751,
     "forwards": 15
   },
   {
@@ -356,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19856",
     "score": 5.5,
-    "views": 141250,
-    "forwards": 123
+    "views": 141694,
+    "forwards": 124
   },
   {
     "title": "Kherson: Ballistic missile launch detected",
@@ -374,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19840",
     "score": 16.5,
-    "views": 108848,
+    "views": 109002,
     "forwards": 209
   }
 ]
