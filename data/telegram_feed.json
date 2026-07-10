@@ -1,5 +1,59 @@
 [
   {
+    "title": "Attack attack",
+    "title_en": "Attack attack",
+    "title_uk": "Атака нападу",
+    "description": "Polishinel's secret is revealed: in Russia, for the first time, it was recognized that the shortage of gasoline is the result of attacks on refineries. Russian Deputy Prime Minister Alexander Novak said that the lack of fuel is due to the fact that oil refineries are out of order after the attacks. In the past, Russians were convinced that traffickers and speculators were to blame. And in general, everything is \"under control.\" But it seems that the version about \"themselves to blame\" is no longer valid.",
+    "description_en": "Polishinel's secret is revealed: in Russia, for the first time, it was recognized that the shortage of gasoline is the result of attacks on refineries. Russian Deputy Prime Minister Alexander Novak said that the lack of fuel is due to the fact that oil refineries are out of order after the attacks. In the past, Russians were convinced that traffickers and speculators were to blame. And in general, everything is \"under control.\" But it seems that the version about \"themselves to blame\" is no longer valid.",
+    "description_uk": "Секрет Полишинеля раскрыт: в россии впервые признали, что дефицит бензина — результат ударов по НПЗ Вице-премьер рф Александр Новак заявил, что нехватка топлива связана с тем, что нефтеперерабатывающие заводы выходят из строя после прилетов. Раньше россиян убеждали, что виноваты перекупщики и спекулянты. И вообще все «под контролем». Но, похоже, версия про «сами виноваты» уже не проходит.",
+    "time": "",
+    "pubDate": "2026-07-10T10:22:58+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195700",
+    "score": 4.0,
+    "views": 35318,
+    "forwards": 39
+  },
+  {
+    "title": "Kharkiv: Kharkiv - BpLA in the direction of the city.",
+    "title_en": "Kharkiv: Kharkiv - BpLA in the direction of the city.",
+    "title_uk": "Харків: Харків – БпЛА в напрямку м.",
+    "description": "Kharkiv - BpLA in the direction of the city.",
+    "description_en": "Kharkiv - BpLA in the direction of the city.",
+    "description_uk": "Харків - БпЛА в напрямку міста.",
+    "time": "",
+    "pubDate": "2026-07-10T10:19:37+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67941",
+    "score": 6.0,
+    "views": 25520,
+    "forwards": 0
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "FREYA. This is our Ukrainian anti-ballistics. This project is an anti-ballistic system, which should be an analogue of the Patriot in terms of hitting ballistic targets, but a more mass-produced and cheaper system. This is a European model. Our first meeting in this direction will be in France, and it will be in the near future. Our task was to gather leaders, companies, national security advisers and present...",
+    "description_en": "FREYA. This is our Ukrainian anti-ballistics. This project is an anti-ballistic system, which should be an analogue of the Patriot in terms of hitting ballistic targets, but a more mass-produced and cheaper system. This is a European model. Our first meeting in this direction will be in France, and it will be in the near future. Our task was to gather leaders, companies, national security advisers and present...",
+    "description_uk": "FREYA. Це наша українська антибалістика. Цей проєкт – це антибалістична система, яка повинна бути аналогом Patriot щодо збиття балістичних цілей, але більш масового виробництва і більш дешевою системою. Це європейська модель. Перша наша зустріч у цьому напрямку буде у Франції, і це буде найближчим часом. Нашим завданням було зібрати лідерів, компанії, радників з питань нацбезпеки і представити...",
+    "time": "",
+    "pubDate": "2026-07-10T09:15:05+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/19859",
+    "score": 14.5,
+    "views": 42596,
+    "forwards": 191
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -50,8 +104,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40972",
     "score": 13.0,
-    "views": 2616,
-    "forwards": 11
+    "views": 4329,
+    "forwards": 12
   },
   {
     "title": "Evacuation ordered",
@@ -104,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54169",
     "score": 8.0,
-    "views": 1489,
+    "views": 2031,
     "forwards": 2
   },
   {
@@ -122,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54168",
     "score": 5.0,
-    "views": 1577,
+    "views": 2071,
     "forwards": 2
   },
   {
@@ -180,42 +234,6 @@
     "forwards": 3
   },
   {
-    "title": "Kyiv: Ballistic missile launch detected",
-    "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
-    "description": "Anti-ballistic coalition to meet in France to support Ukraine's homegrown 'Freya' air defense project. Ukrainian officials and a coalition of eight European partners will soon hold their first meeting dedicated to the joint development of Kyiv's \"Freya\" anti-ballistic missile systems, President Volodymyr Zelensky said on July 9. \"Our first meeting on this matter will take place in France. It will...",
-    "description_en": "Anti-ballistic coalition to meet in France to support Ukraine's homegrown 'Freya' air defense project. Ukrainian officials and a coalition of eight European partners will soon hold their first meeting dedicated to the joint development of Kyiv's \"Freya\" anti-ballistic missile systems, President Volodymyr Zelensky said on July 9. \"Our first meeting on this matter will take place in France. It will...",
-    "description_uk": "Anti-ballistic coalition to meet in France to support Ukraine's homegrown 'Freya' air defense project. Ukrainian officials and a coalition of eight European partners will soon hold their first meeting dedicated to the joint development of Kyiv's \"Freya\" anti-ballistic missile systems, President Volodymyr Zelensky said on July 9. \"Our first meeting on this matter will take place in France. It will...",
-    "time": "",
-    "pubDate": "2026-07-09T22:13:51+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54166",
-    "score": 6.0,
-    "views": 733,
-    "forwards": 2
-  },
-  {
-    "title": "Dnipro: Dnipropetrovsk region: a new group of BpLA ➡️ heading for Synelnikovo...",
-    "title_en": "Dnipro: Dnipropetrovsk region: a new group of BpLA ➡️ heading for Synelnikovo...",
-    "title_uk": "Дніпро: Дніпропетровська область: нова група BpLA ➡️ прямує на Синельникове...",
-    "description": "Dnipropetrovsk region: a new group of BpLA ➡️ heading for Synelnikovo from the south.",
-    "description_en": "Dnipropetrovsk region: a new group of BpLA ➡️ heading for Synelnikovo from the south.",
-    "description_uk": "Дніпропетровщина: нова група БпЛА ➡️ курсом на Синельникове з півдня.",
-    "time": "",
-    "pubDate": "2026-07-09T20:14:46+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67897",
-    "score": 6.0,
-    "views": 14169,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
     "title_uk": "Київ: Повідомляється про вибухи",
@@ -266,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9554",
     "score": 6.0,
-    "views": 767,
+    "views": 831,
     "forwards": 2
   },
   {
@@ -302,26 +320,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23627",
     "score": 14.5,
-    "views": 149460,
-    "forwards": 261
-  },
-  {
-    "title": "🤭It seems that the Su-35 fell victim to Russian maps. According to...",
-    "title_en": "🤭It seems that the Su-35 fell victim to Russian maps. According to...",
-    "title_uk": "🤭Схоже, Су-35 став жертвою російських карт. Згідно...",
-    "description": "🤭It seems that the Su-35 fell victim to Russian maps. According to OSINT analysts, the fighter jet fell only 42 km from the front. It is assumed that the pilot could be sure that he was far from the line of hostilities, orienting himself on the maps of the Ministry of Defense of the Russian Federation. And there, as you know, they like to \"finish\" new captured territories and pass off what they want as real.",
-    "description_en": "🤭It seems that the Su-35 fell victim to Russian maps. According to OSINT analysts, the fighter jet fell only 42 km from the front. It is assumed that the pilot could be sure that he was far from the line of hostilities, orienting himself on the maps of the Ministry of Defense of the Russian Federation. And there, as you know, they like to \"finish\" new captured territories and pass off what they want as real.",
-    "description_uk": "🤭Похоже, Су-35 стал жертвой российских карт По данным OSINT-аналитиков, истребитель упал всего в 42 км от фронта. Предполагают, что пилот мог быть уверен, что находится далеко от линии боевых действий, ориентируясь по картам минобороны рф. А там, как известно, любят «дорисовывать» новые захваченные территории и выдавать желаемое за действительное.",
-    "time": "",
-    "pubDate": "2026-07-09T09:59:51+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195619",
-    "score": 5.5,
-    "views": 92225,
-    "forwards": 187
+    "views": 154673,
+    "forwards": 263
   },
   {
     "title": "Drone incoming",
@@ -338,25 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19856",
     "score": 5.5,
-    "views": 145511,
-    "forwards": 125
-  },
-  {
-    "title": "Kherson: Ballistic missile launch detected",
-    "title_en": "Kherson: Ballistic missile launch detected",
-    "title_uk": "Херсон: виявлено пуск балістичної ракети",
-    "description": "He met with the Chairman of the Council of Ministers of Italy Giorgia Maloni. It's an important conversation. Informed about the situation in Ukraine. Russia does not stop shelling our cities and communities. Today there were ballistic strikes again, and attack drones were launched. Unfortunately, there are casualties in Kyiv, Kharkiv and Kherson. Russia took the lives of five people. My condolences to family and friends. We discussed the prospects of joint work in Europe on...",
-    "description_en": "He met with the Chairman of the Council of Ministers of Italy Giorgia Maloni. It's an important conversation. Informed about the situation in Ukraine. Russia does not stop shelling our cities and communities. Today there were ballistic strikes again, and attack drones were launched. Unfortunately, there are casualties in Kyiv, Kharkiv and Kherson. Russia took the lives of five people. My condolences to family and friends. We discussed the prospects of joint work in Europe on...",
-    "description_uk": "Зустрівся з Головою Ради міністрів Італії Джорджею Мелоні. Важлива розмова. Поінформував про ситуацію в Україні. Росія не припиняє обстрілів наших міст і громад. Сьогодні знову були удари балістикою, запускали й ударні дрони. На жаль, є загиблі у Києві, Харкові та Херсоні. Росія забрала життя п’ятьох людей. Мої співчуття рідним і близьким. Ми обговорили перспективи спільної роботи в Європі над...",
-    "time": "",
-    "pubDate": "2026-07-08T08:21:34+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kherson",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19840",
-    "score": 16.5,
-    "views": 110421,
-    "forwards": 209
+    "views": 149630,
+    "forwards": 126
   }
 ]
