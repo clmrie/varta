@@ -1,5 +1,41 @@
 [
   {
+    "title": "Strike confirmed",
+    "title_en": "Strike confirmed",
+    "title_uk": "Страйк підтверджено",
+    "description": "Today, I signed a decree establishing a special command within the Armed Forces – a command for long-range, effectively global, impact on Russia over this war. This command must concentrate 100% of the available resources on degrading Russia’s warfighting potential even more. The commander in charge of this direction will be strong and certainly highly experienced. The second point. The assault...",
+    "description_en": "Today, I signed a decree establishing a special command within the Armed Forces – a command for long-range, effectively global, impact on Russia over this war. This command must concentrate 100% of the available resources on degrading Russia’s warfighting potential even more. The commander in charge of this direction will be strong and certainly highly experienced. The second point. The assault...",
+    "description_uk": "Today, I signed a decree establishing a special command within the Armed Forces – a command for long-range, effectively global, impact on Russia over this war. This command must concentrate 100% of the available resources on degrading Russia’s warfighting potential even more. The commander in charge of this direction will be strong and certainly highly experienced. The second point. The assault...",
+    "time": "",
+    "pubDate": "2026-07-10T19:51:48+00:00",
+    "category": "shelling",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/19865",
+    "score": 4.0,
+    "views": 11912,
+    "forwards": 12
+  },
+  {
+    "title": "Air defense active",
+    "title_en": "Air defense active",
+    "title_uk": "Активна ППО",
+    "description": "Missiles for the Patriot will probably be produced in Germany, not on the territory of Ukraine, writes Reuters Agency sources familiar with the discussions said that the new interceptor missiles will probably be produced in Germany or another European country, where it is safer, and production can be transferred to Ukraine after the end of the war. At the same time, even in this case it is not worth...",
+    "description_en": "Missiles for the Patriot will probably be produced in Germany, not on the territory of Ukraine, writes Reuters Agency sources familiar with the discussions said that the new interceptor missiles will probably be produced in Germany or another European country, where it is safer, and production can be transferred to Ukraine after the end of the war. At the same time, even in this case it is not worth...",
+    "description_uk": "Ракеты для Patriot, вероятно, будут производиться в Германии, а не на территории Украины, пишет Reuters Источники агентства, знакомые с обсуждениями, сообщили, что новые ракеты-перехватчики, вероятно, будут произведены в Германии или другой европейской стране, где это безопаснее, а производство может быть перенесено на Украину после окончания войны. В то же время, даже в этом случае не стоит...",
+    "time": "",
+    "pubDate": "2026-07-10T19:22:44+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195735",
+    "score": 3.5,
+    "views": 62834,
+    "forwards": 107
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -14,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/67967",
     "score": 5.0,
-    "views": 28354,
+    "views": 64186,
     "forwards": 0
   },
   {
@@ -32,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54183",
     "score": 5.0,
-    "views": 823,
+    "views": 1293,
     "forwards": 4
   },
   {
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54182",
     "score": 4.0,
-    "views": 853,
+    "views": 1333,
     "forwards": 4
   },
   {
@@ -68,7 +104,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/67963",
     "score": 6.0,
-    "views": 69841,
+    "views": 93943,
     "forwards": 0
   },
   {
@@ -122,7 +158,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195720",
     "score": 5.5,
-    "views": 128406,
+    "views": 144560,
     "forwards": 145
   },
   {
@@ -252,24 +288,6 @@
     "forwards": 2
   },
   {
-    "title": "Air defense active",
-    "title_en": "Air defense active",
-    "title_uk": "Активна ППО",
-    "description": "The Russian Federation can produce about 1,400 Iskanders before Ukraine produces the first Patriot interceptor, expert According to military analyst Julian Repke, starting the production of Patriot interceptor missiles in Ukraine is not a matter of months, but at least a few years. After Trump's announcement, there are still long negotiations, agreement of contracts and issues of technology transfer. Repke notes that...",
-    "description_en": "The Russian Federation can produce about 1,400 Iskanders before Ukraine produces the first Patriot interceptor, expert According to military analyst Julian Repke, starting the production of Patriot interceptor missiles in Ukraine is not a matter of months, but at least a few years. After Trump's announcement, there are still long negotiations, agreement of contracts and issues of technology transfer. Repke notes that...",
-    "description_uk": "рф может выпустить около 1400 «Искандеров» до того, как Украина изготовит первый перехватчик Patriot, — эксперт По словам военного аналитика Юлиана Репке, запуск производства ракет-перехватчиков Patriot в Украине — вопрос не месяцев, а как минимум нескольких лет. После заявления Трампа еще предстоят длительные переговоры, согласование контрактов и вопросы передачи технологий. Репке отмечает, что...",
-    "time": "",
-    "pubDate": "2026-07-10T11:11:43+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195703",
-    "score": 5.5,
-    "views": 88313,
-    "forwards": 109
-  },
-  {
     "title": "Attack attack",
     "title_en": "Attack attack",
     "title_uk": "Атака нападу",
@@ -320,26 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19859",
     "score": 15.5,
-    "views": 80955,
-    "forwards": 231
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southern...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southern...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на південному...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the southern direction!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southern direction!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на південному напрямку!",
-    "time": "",
-    "pubDate": "2026-07-10T07:09:48+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67930",
-    "score": 5.0,
-    "views": 52545,
-    "forwards": 1
+    "views": 83993,
+    "forwards": 244
   },
   {
     "title": "Donetsk: Drone incoming",
@@ -356,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40972",
     "score": 13.0,
-    "views": 6318,
+    "views": 6491,
     "forwards": 13
   },
   {
@@ -396,42 +396,6 @@
     "forwards": 2
   },
   {
-    "title": "Kyiv: Explosions reported",
-    "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
-    "description": "Zelensky reveals details about massive explosions in Kyiv suburb, promises dismissals at Ukraine's largest defense company. The ammunition warehouse that detonated in Vyshneve during Russia's mass attack on Kyiv July 6 belonged to state-owned weapons giant Ukroboronprom, Zelensky said.",
-    "description_en": "Zelensky reveals details about massive explosions in Kyiv suburb, promises dismissals at Ukraine's largest defense company. The ammunition warehouse that detonated in Vyshneve during Russia's mass attack on Kyiv July 6 belonged to state-owned weapons giant Ukroboronprom, Zelensky said.",
-    "description_uk": "Zelensky reveals details about massive explosions in Kyiv suburb, promises dismissals at Ukraine's largest defense company. The ammunition warehouse that detonated in Vyshneve during Russia's mass attack on Kyiv July 6 belonged to state-owned weapons giant Ukroboronprom, Zelensky said.",
-    "time": "",
-    "pubDate": "2026-07-09T19:42:59+00:00",
-    "category": "political",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54164",
-    "score": 8.0,
-    "views": 1747,
-    "forwards": 5
-  },
-  {
-    "title": "000 missiles intercepted",
-    "title_en": "000 missiles intercepted",
-    "title_uk": "000 перехоплених ракет",
-    "description": "In June, the Ukrainian Air Defense Forces shot down only 40% of ballistic missiles, but about 90% of drones and cruise missiles, - the Ministry of Defense The Ministry of Defense reported that Russia fired almost 6,000 missiles over Ukraine in a month. drones and missiles. Air defense forces destroyed almost 5.3 thousand goals Shaheds, Gerbers, Italmas and cruise missiles were the best shot down - about 90%. It is more difficult with ballistics: out of 114 missiles, only 45 were intercepted. For them...",
-    "description_en": "In June, the Ukrainian Air Defense Forces shot down only 40% of ballistic missiles, but about 90% of drones and cruise missiles, - the Ministry of Defense The Ministry of Defense reported that Russia fired almost 6,000 missiles over Ukraine in a month. drones and missiles. Air defense forces destroyed almost 5.3 thousand goals Shaheds, Gerbers, Italmas and cruise missiles were the best shot down - about 90%. It is more difficult with ballistics: out of 114 missiles, only 45 were intercepted. For them...",
-    "description_uk": "Украинская ПВО в июне сбила лишь 40% баллистических ракет, но около 90% дронов и крылатых ракет, - Минобороны Минобороны сообщило, что за месяц россия выпустила по Украине почти 6 тыс. дронов и ракет. Силы ПВО уничтожили почти 5,3 тыс. целей. Лучше всего сбивали \"Шахеды\", \"Герберы\", \"Италмасы\" и крылатые ракеты - около 90%. С баллистикой сложнее: из 114 ракет удалось перехватить только 45. Для их...",
-    "time": "",
-    "pubDate": "2026-07-09T19:33:26+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195658",
-    "score": 8.5,
-    "views": 149452,
-    "forwards": 133
-  },
-  {
     "title": "Crimea: The Ministry of Foreign Affairs of Ukraine notes the importance of...",
     "title_en": "Crimea: The Ministry of Foreign Affairs of Ukraine notes the importance of...",
     "title_uk": "Крим: МЗС України відзначає важливість...",
@@ -446,7 +410,25 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9554",
     "score": 6.0,
-    "views": 915,
+    "views": 997,
     "forwards": 3
+  },
+  {
+    "title": "Casualties reported",
+    "title_en": "Casualties reported",
+    "title_uk": "Повідомляється про постраждалих",
+    "description": "🤖 NRK performed more than 16,600 missions at the front in a month 👥 Units of the Defense Forces of Ukraine performed more than 16,600 logistical and evacuation missions with the help of ground robotic complexes in June. Ground drones continue to replace the military in the most difficult areas of the front: delivering ammunition and food, as well as evacuating the wounded and dead. 🗒 Dynamics of missions by month: 🟡January – 7...",
+    "description_en": "🤖 NRK performed more than 16,600 missions at the front in a month 👥 Units of the Defense Forces of Ukraine performed more than 16,600 logistical and evacuation missions with the help of ground robotic complexes in June. Ground drones continue to replace the military in the most difficult areas of the front: delivering ammunition and food, as well as evacuating the wounded and dead. 🗒 Dynamics of missions by month: 🟡January – 7...",
+    "description_uk": "🤖 НРК виконали понад 16 600 місій на фронті за місяць 👥 Підрозділи Сил оборони України у червні виконали за допомогою наземних роботизованих комплексів понад 16 600 логістичних та евакуаційних місій. Наземні дрони продовжують заміняти військових на найскладніших ділянках фронту: доставляють боєприпаси й харчування, а також евакуюють поранених та полеглих. 🗒 Динаміка місій по місяцях: 🟡січень – 7...",
+    "time": "",
+    "pubDate": "2026-07-09T13:18:44+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23627",
+    "score": 14.5,
+    "views": 173239,
+    "forwards": 286
   }
 ]
