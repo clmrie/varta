@@ -1,5 +1,41 @@
 [
   {
+    "title": "Odesa: Odesa - BpLA in the direction of the city.",
+    "title_en": "Odesa: Odesa - BpLA in the direction of the city.",
+    "title_uk": "Одеса: Одеса – БпЛА в напрямку м.",
+    "description": "Odesa - BpLA in the direction of the city.",
+    "description_en": "Odesa - BpLA in the direction of the city.",
+    "description_uk": "Одеса - БпЛА в напрямку міста.",
+    "time": "",
+    "pubDate": "2026-07-10T22:12:43+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67972",
+    "score": 6.0,
+    "views": 13825,
+    "forwards": 15
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A group of UAVs in the waters of the Black Sea - heading for Odesa (Chornomorsk, Ovidiopol).",
+    "description_en": "A group of UAVs in the waters of the Black Sea - heading for Odesa (Chornomorsk, Ovidiopol).",
+    "description_uk": "Група БпЛА в акваторії Чорного моря - курсом на Одещину (Чорноморськ, Овідіополь).",
+    "time": "",
+    "pubDate": "2026-07-10T21:35:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67971",
+    "score": 5.0,
+    "views": 31061,
+    "forwards": 33
+  },
+  {
     "title": "Drone attack",
     "title_en": "Drone attack",
     "title_uk": "Атака безпілотників",
@@ -14,8 +50,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195741",
     "score": 3.5,
-    "views": 34236,
-    "forwards": 145
+    "views": 56148,
+    "forwards": 197
   },
   {
     "title": "Strike confirmed",
@@ -32,8 +68,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19865",
     "score": 4.0,
-    "views": 20582,
-    "forwards": 21
+    "views": 23806,
+    "forwards": 23
   },
   {
     "title": "Air defense active",
@@ -50,26 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195735",
     "score": 3.5,
-    "views": 91389,
-    "forwards": 108
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A group of UAVs in the waters of the Black Sea - heading for Odesa (Dnistrovsky district).",
-    "description_en": "A group of UAVs in the waters of the Black Sea - heading for Odesa (Dnistrovsky district).",
-    "description_uk": "Група БпЛА в акваторії Чорного моря - курсом на Одещину (Дністровський р-н).",
-    "time": "",
-    "pubDate": "2026-07-10T18:36:27+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67967",
-    "score": 5.0,
-    "views": 81635,
-    "forwards": 1
+    "views": 102695,
+    "forwards": 143
   },
   {
     "title": "Kyiv: US Senator Graham claims White House backing for Russia sanctions...",
@@ -86,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54183",
     "score": 5.0,
-    "views": 1577,
-    "forwards": 5
+    "views": 1759,
+    "forwards": 6
   },
   {
     "title": "Kyiv: Moldova to receive largest-ever EU air defense support package,...",
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54182",
     "score": 4.0,
-    "views": 1608,
+    "views": 1788,
     "forwards": 4
   },
   {
@@ -288,42 +306,6 @@
     "forwards": 2
   },
   {
-    "title": "Attack attack",
-    "title_en": "Attack attack",
-    "title_uk": "Атака нападу",
-    "description": "Polishinel's secret is revealed: in Russia, for the first time, it was recognized that the shortage of gasoline is the result of attacks on refineries. Russian Deputy Prime Minister Alexander Novak said that the lack of fuel is due to the fact that oil refineries are out of order after the attacks. In the past, Russians were convinced that traffickers and speculators were to blame. And in general, everything is \"under control.\" But it seems that the version about \"themselves to blame\" is no longer valid.",
-    "description_en": "Polishinel's secret is revealed: in Russia, for the first time, it was recognized that the shortage of gasoline is the result of attacks on refineries. Russian Deputy Prime Minister Alexander Novak said that the lack of fuel is due to the fact that oil refineries are out of order after the attacks. In the past, Russians were convinced that traffickers and speculators were to blame. And in general, everything is \"under control.\" But it seems that the version about \"themselves to blame\" is no longer valid.",
-    "description_uk": "Секрет Полишинеля раскрыт: в россии впервые признали, что дефицит бензина — результат ударов по НПЗ Вице-премьер рф Александр Новак заявил, что нехватка топлива связана с тем, что нефтеперерабатывающие заводы выходят из строя после прилетов. Раньше россиян убеждали, что виноваты перекупщики и спекулянты. И вообще все «под контролем». Но, похоже, версия про «сами виноваты» уже не проходит.",
-    "time": "",
-    "pubDate": "2026-07-10T10:22:58+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195700",
-    "score": 4.5,
-    "views": 108745,
-    "forwards": 145
-  },
-  {
-    "title": "Kharkiv: Kharkiv - BpLA in the direction of the city.",
-    "title_en": "Kharkiv: Kharkiv - BpLA in the direction of the city.",
-    "title_uk": "Харків: Харків – БпЛА в напрямку м.",
-    "description": "Kharkiv - BpLA in the direction of the city.",
-    "description_en": "Kharkiv - BpLA in the direction of the city.",
-    "description_uk": "Харків - БпЛА в напрямку міста.",
-    "time": "",
-    "pubDate": "2026-07-10T10:19:37+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67941",
-    "score": 6.0,
-    "views": 25520,
-    "forwards": 0
-  },
-  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -338,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19859",
     "score": 15.5,
-    "views": 85693,
-    "forwards": 244
+    "views": 86433,
+    "forwards": 245
   },
   {
     "title": "Donetsk: Drone incoming",
@@ -356,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40972",
     "score": 13.0,
-    "views": 6568,
+    "views": 6605,
     "forwards": 13
   },
   {
@@ -410,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9554",
     "score": 6.0,
-    "views": 1016,
+    "views": 1021,
     "forwards": 3
   },
   {
@@ -428,7 +410,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23627",
     "score": 14.5,
-    "views": 174200,
+    "views": 174802,
     "forwards": 286
   }
 ]
