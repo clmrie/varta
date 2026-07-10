@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "Meanwhile, hundreds of our drones are attacking Russia. In total, about 270 good drones were sent. We are waiting for good results and beautiful videos in the morning.",
+    "description_en": "Meanwhile, hundreds of our drones are attacking Russia. In total, about 270 good drones were sent. We are waiting for good results and beautiful videos in the morning.",
+    "description_uk": "Тем временем Россию атакуют сотни наших дронов. Всего отправлено около 270 добрых дронов. Утром ждем хороших результатов и красивых видео.",
+    "time": "",
+    "pubDate": "2026-07-10T20:54:15+00:00",
+    "category": "drone",
+    "severity": "medium",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195741",
+    "score": 3.5,
+    "views": 34236,
+    "forwards": 145
+  },
+  {
     "title": "Strike confirmed",
     "title_en": "Strike confirmed",
     "title_uk": "Страйк підтверджено",
@@ -14,8 +32,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19865",
     "score": 4.0,
-    "views": 11912,
-    "forwards": 12
+    "views": 20582,
+    "forwards": 21
   },
   {
     "title": "Air defense active",
@@ -32,8 +50,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195735",
     "score": 3.5,
-    "views": 62834,
-    "forwards": 107
+    "views": 91389,
+    "forwards": 108
   },
   {
     "title": "Drone incoming",
@@ -50,8 +68,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/67967",
     "score": 5.0,
-    "views": 64186,
-    "forwards": 0
+    "views": 81635,
+    "forwards": 1
   },
   {
     "title": "Kyiv: US Senator Graham claims White House backing for Russia sanctions...",
@@ -68,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54183",
     "score": 5.0,
-    "views": 1293,
-    "forwards": 4
+    "views": 1577,
+    "forwards": 5
   },
   {
     "title": "Kyiv: Moldova to receive largest-ever EU air defense support package,...",
@@ -86,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54182",
     "score": 4.0,
-    "views": 1333,
+    "views": 1608,
     "forwards": 4
   },
   {
@@ -104,7 +122,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/67963",
     "score": 6.0,
-    "views": 93943,
+    "views": 105385,
     "forwards": 0
   },
   {
@@ -178,24 +196,6 @@
     "score": 6.0,
     "views": 55622,
     "forwards": 0
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака дронов",
-    "description": "Russia circumvents the protection of Ukrainian substations with the help of cheap fiber-optic drones, - Reuters Such drones are immune to radio electronic warfare and are capable of penetrating the concrete protective structures with which Ukraine covered transformers after previous Russian attacks. According to CIR (Centre for Information Resilience) investigator Joshua Scriven, the occupiers first...",
-    "description_en": "Russia circumvents the protection of Ukrainian substations with the help of cheap fiber-optic drones, - Reuters Such drones are immune to radio electronic warfare and are capable of penetrating the concrete protective structures with which Ukraine covered transformers after previous Russian attacks. According to CIR (Centre for Information Resilience) investigator Joshua Scriven, the occupiers first...",
-    "description_uk": "Россия обходит защиту украинских подстанций с помощью дешёвых дронов на оптоволокне, - Reuters Такие беспилотники невосприимчивы к средствам радиоэлектронной борьбы и способны проникать внутрь бетонных защитных сооружений, которыми Украина накрыла трансформаторы после предыдущих российских атак. По словам следователя CIR (Centre for Information Resilience) Джошуа Скривена, оккупанты сначала...",
-    "time": "",
-    "pubDate": "2026-07-10T14:03:25+00:00",
-    "category": "drone",
-    "severity": "medium",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195718",
-    "score": 3.5,
-    "views": 132812,
-    "forwards": 148
   },
   {
     "title": "Kyiv: French billionaire Xavier Niel, owner of Ukraine’s Lifecell, becomes...",
@@ -338,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19859",
     "score": 15.5,
-    "views": 83993,
+    "views": 85693,
     "forwards": 244
   },
   {
@@ -356,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40972",
     "score": 13.0,
-    "views": 6491,
+    "views": 6568,
     "forwards": 13
   },
   {
@@ -410,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9554",
     "score": 6.0,
-    "views": 997,
+    "views": 1016,
     "forwards": 3
   },
   {
@@ -428,7 +428,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23627",
     "score": 14.5,
-    "views": 173239,
+    "views": 174200,
     "forwards": 286
   }
 ]
