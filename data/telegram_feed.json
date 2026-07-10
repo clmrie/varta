@@ -1,5 +1,95 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "A group of jet UAVs in Chernihiv Oblast, heading for Kyiv Oblast/Cherka Oblast. 🛵 BpLA group in Dnipropetrovsk region - in the direction of Kryvyi Rih. 🛵 BpLA group in Kharkiv Oblast - heading south.",
+    "description_en": "A group of jet UAVs in Chernihiv Oblast, heading for Kyiv Oblast/Cherka Oblast. 🛵 BpLA group in Dnipropetrovsk region - in the direction of Kryvyi Rih. 🛵 BpLA group in Kharkiv Oblast - heading south.",
+    "description_uk": "Група реактивних БпЛА на Чернігівщині, курсом на Київщину/Черкащину. 🛵 Група БпЛА на Дніпропетровщині - в напрямку Кривого Рогу. 🛵 Група БпЛА на Харківщині - курсом на південь.",
+    "time": "",
+    "pubDate": "2026-07-10T07:26:21+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67931",
+    "score": 6.0,
+    "views": 37370,
+    "forwards": 37
+  },
+  {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на південному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the southern direction!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southern direction!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на південному напрямку!",
+    "time": "",
+    "pubDate": "2026-07-10T07:09:48+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67930",
+    "score": 5.0,
+    "views": 52545,
+    "forwards": 1
+  },
+  {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "114 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of July 10 (from 18:00 on July 9), the enemy attacked 137 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, Barrage munitions \"Banderol\" and imitation drones of the \"Parody\" type from the directions: Orel, Bryansk, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile forces, units...",
+    "description_en": "114 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of July 10 (from 18:00 on July 9), the enemy attacked 137 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, Barrage munitions \"Banderol\" and imitation drones of the \"Parody\" type from the directions: Orel, Bryansk, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile forces, units...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 114 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 10 липня (з 18:00 09 липня) противник атакував 137 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас, баражуючими боєприпасами \"Бандероль\" та дронами-імітаторами типу «Пародія» із напрямків: Орел, Брянськ, Міллерово, Приморсько-Ахтарськ – рф., ТОТ Донецьк. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи...",
+    "time": "",
+    "pubDate": "2026-07-10T06:43:37+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/40972",
+    "score": 13.0,
+    "views": 2616,
+    "forwards": 11
+  },
+  {
+    "title": "Evacuation ordered",
+    "title_en": "Evacuation ordered",
+    "title_uk": "Наказано евакуацію",
+    "description": "Taganrog packs suitcases: after arrival, local authorities announced evacuation from the \"danger zone\"",
+    "description_en": "Taganrog packs suitcases: after arrival, local authorities announced evacuation from the \"danger zone\"",
+    "description_uk": "Таганрог пакует чемоданы: после прилетов местные власти объявили эвакуацию из «опасной зоны»",
+    "time": "",
+    "pubDate": "2026-07-10T06:17:35+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195678",
+    "score": 4.5,
+    "views": 86633,
+    "forwards": 181
+  },
+  {
+    "title": "Drone strike",
+    "title_en": "Drone strike",
+    "title_uk": "Безпілотний удар",
+    "description": "Ukrainian drones have reached Siberia, and this may be the last straw for Putin, — WSJ After the attack on the largest oil refinery in Omsk, not only the European part of Russia was under threat. According to the publication, new Ukrainian drones are capable of hitting targets at a distance of up to 3,400 km. This means that now the oil and gas facilities of Western Siberia, pipelines, military plants and...",
+    "description_en": "Ukrainian drones have reached Siberia, and this may be the last straw for Putin, — WSJ After the attack on the largest oil refinery in Omsk, not only the European part of Russia was under threat. According to the publication, new Ukrainian drones are capable of hitting targets at a distance of up to 3,400 km. This means that now the oil and gas facilities of Western Siberia, pipelines, military plants and...",
+    "description_uk": "Украинские дроны добрались до Сибири, и это может стать для путина последней каплей, — WSJ После удара по крупнейшему НПЗ в Омске под угрозой оказалась уже не только европейская часть россии. По данным издания, новые украинские дроны способны поражать цели на расстоянии до 3400 км. Это означает, что теперь защищать придется нефтегазовые объекты Западной Сибири, трубопроводы, военные заводы и...",
+    "time": "",
+    "pubDate": "2026-07-10T05:45:10+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195676",
+    "score": 3.5,
+    "views": 101737,
+    "forwards": 183
+  },
+  {
     "title": "Kyiv: Attack attack",
     "title_en": "Kyiv: Attack attack",
     "title_uk": "Київ: Атака",
@@ -14,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54169",
     "score": 8.0,
-    "views": 305,
-    "forwards": 0
+    "views": 1489,
+    "forwards": 2
   },
   {
     "title": "Kyiv: Drone strike",
@@ -32,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54168",
     "score": 5.0,
-    "views": 487,
-    "forwards": 0
+    "views": 1577,
+    "forwards": 2
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -144,24 +234,6 @@
     "forwards": 5
   },
   {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "Kharkiv region: jet UAVs ➡️ heading for Guti. 🛵 BpLA groups ➡️ course to Zaporizhzhia.",
-    "description_en": "Kharkiv region: jet UAVs ➡️ heading for Guti. 🛵 BpLA groups ➡️ course to Zaporizhzhia.",
-    "description_uk": "Харківщина: реактивні БпЛА ➡️ курсом на Гути. 🛵 Групи БпЛА ➡️ курсом на Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-07-09T19:41:45+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67896",
-    "score": 6.0,
-    "views": 40504,
-    "forwards": 0
-  },
-  {
     "title": "000 missiles intercepted",
     "title_en": "000 missiles intercepted",
     "title_uk": "000 перехоплених ракет",
@@ -194,44 +266,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9554",
     "score": 6.0,
-    "views": 649,
+    "views": 767,
     "forwards": 2
-  },
-  {
-    "title": "BpLA ➡️ to the Black Sea/Southern Sea!",
-    "title_en": "BpLA ➡️ to the Black Sea/Southern Sea!",
-    "title_uk": "BpLA ➡️ до Чорного/Південного моря!",
-    "description": "BpLA ➡️ to the Black Sea/Southern Sea!",
-    "description_en": "BpLA ➡️ to the Black Sea/Southern Sea!",
-    "description_uk": "БпЛА ➡️ на Чорноморське/Південне!",
-    "time": "",
-    "pubDate": "2026-07-09T18:02:06+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67889",
-    "score": 5.0,
-    "views": 30897,
-    "forwards": 0
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "👀 Zelensky announced \"Freya\" - a new European anti-ballistic system, which should become a cheaper alternative to Patriot. The President of Ukraine said that Ukraine, together with European partners, is launching the \"Freya\" project - a new anti-ballistic system, which should be an analogue of Patriot, but at the same time it will be cheaper and designed for mass production. According to Zelenskyi, the rocket will be...",
-    "description_en": "👀 Zelensky announced \"Freya\" - a new European anti-ballistic system, which should become a cheaper alternative to Patriot. The President of Ukraine said that Ukraine, together with European partners, is launching the \"Freya\" project - a new anti-ballistic system, which should be an analogue of Patriot, but at the same time it will be cheaper and designed for mass production. According to Zelenskyi, the rocket will be...",
-    "description_uk": "👀 Зеленский анонсировал \"Фрею\" - новую европейскую систему ПРО, которая должна стать более дешевой альтернативой Patriot Президент Украины рассказал, что Украина вместе с европейскими партнерами запускает проект \"Фрея\" - новую антибаллистическую систему, которая должна стать аналогом Patriot, но при этом будет дешевле и рассчитана на массовое производство. По словам Зеленского, ракета будет...",
-    "time": "",
-    "pubDate": "2026-07-09T17:41:20+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195647",
-    "score": 6.5,
-    "views": 142681,
-    "forwards": 268
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -266,8 +302,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23627",
     "score": 14.5,
-    "views": 136246,
-    "forwards": 254
+    "views": 149460,
+    "forwards": 261
   },
   {
     "title": "🤭It seems that the Su-35 fell victim to Russian maps. According to...",
@@ -288,24 +324,6 @@
     "forwards": 187
   },
   {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "72 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of July 09 (from 18:00 on July 8), the enemy attacked with two Iskander-M ballistic missiles from TOT AR Crimea and 94 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones from the directions: Bryansk, Millerovo, Orel - Russian Federation, Gvardiyske - TOT AR Crimea, Donetsk - TOT. The air attack was repulsed by aviation, anti-aircraft...",
-    "description_en": "72 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of July 09 (from 18:00 on July 8), the enemy attacked with two Iskander-M ballistic missiles from TOT AR Crimea and 94 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones from the directions: Bryansk, Millerovo, Orel - Russian Federation, Gvardiyske - TOT AR Crimea, Donetsk - TOT. The air attack was repulsed by aviation, anti-aircraft...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 72 ЦІЛІ ПРОТИВНИКА ➖➖➖➖➖➖➖➖➖➖ У ніч на 09 липня (з 18:00 08 липня) противник атакував двома балістичними ракетами Іскандер-М із ТОТ АР Крим та 94 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу “Пародія” із напрямків: Брянськ, Міллєрово, Орел – рф,, Гвардійське – ТОТ АР Крим, Донецьк -ТОТ. Повітряний напад відбивали авіація, зенітні...",
-    "time": "",
-    "pubDate": "2026-07-09T06:32:06+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/40937",
-    "score": 13.0,
-    "views": 7161,
-    "forwards": 15
-  },
-  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -320,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19856",
     "score": 5.5,
-    "views": 143141,
-    "forwards": 124
+    "views": 145511,
+    "forwards": 125
   },
   {
     "title": "Kherson: Ballistic missile launch detected",
@@ -338,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19840",
     "score": 16.5,
-    "views": 109537,
+    "views": 110421,
     "forwards": 209
   }
 ]
