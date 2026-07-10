@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: Attack attack",
+    "title_en": "Kyiv: Attack attack",
+    "title_uk": "Київ: Атака",
+    "description": "Ukraine reportedly strikes oil terminal in Russia's Rostov Oblast. Black smoke was purportedly seen billowing over the Russian city of Taganrog overnight on July 10 amid reports of a Ukrainian strike on the city port's oil terminal.",
+    "description_en": "Ukraine reportedly strikes oil terminal in Russia's Rostov Oblast. Black smoke was purportedly seen billowing over the Russian city of Taganrog overnight on July 10 amid reports of a Ukrainian strike on the city port's oil terminal.",
+    "description_uk": "Ukraine reportedly strikes oil terminal in Russia's Rostov Oblast. Black smoke was purportedly seen billowing over the Russian city of Taganrog overnight on July 10 amid reports of a Ukrainian strike on the city port's oil terminal.",
+    "time": "",
+    "pubDate": "2026-07-10T03:40:19+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54169",
+    "score": 8.0,
+    "views": 305,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Київ: Дрон-удар",
+    "description": "Key Russian oil refinery halts production following Ukrainian attack, Reuters reports. A key Russian oil refinery in the city of Saratov halted processing on July 8 following a Ukrainian drone strike on the facility, Reuters reported on July 9, citing undisclosed sources.",
+    "description_en": "Key Russian oil refinery halts production following Ukrainian attack, Reuters reports. A key Russian oil refinery in the city of Saratov halted processing on July 8 following a Ukrainian drone strike on the facility, Reuters reported on July 9, citing undisclosed sources.",
+    "description_uk": "Key Russian oil refinery halts production following Ukrainian attack, Reuters reports. A key Russian oil refinery in the city of Saratov halted processing on July 8 following a Ukrainian drone strike on the facility, Reuters reported on July 9, citing undisclosed sources.",
+    "time": "",
+    "pubDate": "2026-07-10T02:59:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54168",
+    "score": 5.0,
+    "views": 487,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "A jet UAV headed for Kharkiv from the north.",
+    "description_en": "A jet UAV headed for Kharkiv from the north.",
+    "description_uk": "Реактивний БпЛА курсом на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-07-10T02:44:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67918",
+    "score": 6.0,
+    "views": 43441,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
     "title_en": "Kharkiv: BpLA headed for Kharkiv from the north.",
     "title_uk": "Харків: BpLA прямувала на Харків з півночі.",
@@ -52,24 +106,6 @@
     "score": 6.0,
     "views": 733,
     "forwards": 2
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "Kharkiv region: jet UAV ➡️ heading for Valky.",
-    "description_en": "Kharkiv region: jet UAV ➡️ heading for Valky.",
-    "description_uk": "Харківщина: реактивний БпЛА ➡️ курсом на Валки.",
-    "time": "",
-    "pubDate": "2026-07-09T21:45:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67903",
-    "score": 6.0,
-    "views": 34599,
-    "forwards": 26
   },
   {
     "title": "Dnipro: Dnipropetrovsk region: a new group of BpLA ➡️ heading for Synelnikovo...",
@@ -140,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195658",
     "score": 8.5,
-    "views": 107180,
-    "forwards": 122
+    "views": 149452,
+    "forwards": 133
   },
   {
     "title": "Crimea: The Ministry of Foreign Affairs of Ukraine notes the importance of...",
@@ -158,7 +194,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9554",
     "score": 6.0,
-    "views": 591,
+    "views": 649,
     "forwards": 2
   },
   {
@@ -198,78 +234,6 @@
     "forwards": 268
   },
   {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "Saratov Oil Refinery has completely stopped work after the attack of Ukrainian drones - Reuters According to the agency, Rosneft's Saratov Oil Refinery has stopped oil processing after the attack by Ukrainian UAVs on July 8. The only primary processing plant was damaged and caught fire, the repair of which may take up to two weeks. The plant has already stopped selling oil products on the stock exchange. Last year, he processed 5.8...",
-    "description_en": "Saratov Oil Refinery has completely stopped work after the attack of Ukrainian drones - Reuters According to the agency, Rosneft's Saratov Oil Refinery has stopped oil processing after the attack by Ukrainian UAVs on July 8. The only primary processing plant was damaged and caught fire, the repair of which may take up to two weeks. The plant has already stopped selling oil products on the stock exchange. Last year, he processed 5.8...",
-    "description_uk": "После удара украинских дронов Саратовский НПЗ полностью остановил работу, - Reuters Как пишет агентство, Саратовский НПЗ \"Роснефти\" прекратил переработку нефти после атаки украинских БПЛА 8 июля. Повреждена и загорелась единственная установка первичной переработки, ремонт которой может занять до двух недель. Завод уже остановил продажу нефтепродуктов на бирже. В прошлом году он переработал 5,8...",
-    "time": "",
-    "pubDate": "2026-07-09T15:30:32+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195638",
-    "score": 5.5,
-    "views": 118655,
-    "forwards": 143
-  },
-  {
-    "title": "Rusnia continues to hit Ukrainian gas stations: there was a flight to...",
-    "title_en": "Rusnia continues to hit Ukrainian gas stations: there was a flight to...",
-    "title_uk": "Русня продовжує бити по українських АЗС: був рейс на...",
-    "description": "Rusnia continues to hit Ukrainian gas stations: there was a flight to refuel in Zaporozhye, local media",
-    "description_en": "Rusnia continues to hit Ukrainian gas stations: there was a flight to refuel in Zaporozhye, local media",
-    "description_uk": "Русня продолжает бить по украинским АЗС: был прилет по заправке в Запорожье, - местные паблики",
-    "time": "",
-    "pubDate": "2026-07-09T14:50:21+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195635",
-    "score": 4.5,
-    "views": 94012,
-    "forwards": 140
-  },
-  {
-    "title": "Dnipro: Drone incoming",
-    "title_en": "Dnipro: Drone incoming",
-    "title_uk": "Дніпро: Дрон вхід",
-    "description": "Dnipropetrovsk region: a group of jet UAVs ➡️ heading for Sinelnikovo.",
-    "description_en": "Dnipropetrovsk region: a group of jet UAVs ➡️ heading for Sinelnikovo.",
-    "description_uk": "Дніпропетровщина: група реактивних БпЛА ➡️ курсом на Синельникове.",
-    "time": "",
-    "pubDate": "2026-07-09T13:55:39+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67886",
-    "score": 6.0,
-    "views": 81503,
-    "forwards": 48
-  },
-  {
-    "title": "Zaporizhzhia: BpLA group ➡️ heading for Zaporozhye.",
-    "title_en": "Zaporizhzhia: BpLA group ➡️ heading for Zaporozhye.",
-    "title_uk": "Запоріжжя: BpLA group ➡️ прямує до Запоріжжя.",
-    "description": "BpLA group ➡️ heading for Zaporozhye.",
-    "description_en": "BpLA group ➡️ heading for Zaporozhye.",
-    "description_uk": "Група БпЛА ➡️ курсом на Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-07-09T13:23:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67885",
-    "score": 6.0,
-    "views": 43466,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Casualties reported",
     "title_en": "Kyiv: Casualties reported",
     "title_uk": "Київ: повідомляється про постраждалих",
@@ -302,26 +266,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23627",
     "score": 14.5,
-    "views": 127122,
-    "forwards": 249
-  },
-  {
-    "title": "👀 The production of Patriot missiles in Ukraine can start in the...",
-    "title_en": "👀 The production of Patriot missiles in Ukraine can start in the...",
-    "title_uk": "👀 Виробництво ракет Patriot в Україні може початися в...",
-    "description": "👀 The production of Patriot missiles in Ukraine can start in the coming weeks, - Ministry of Defense of Poland Polish Minister of Defense Władysław Kosyniak-Kamysh said that the start of production will be possible with the participation of Poland, which received the status of one of the four NATO centers for the transfer of technologies and maintenance of Patriot missiles.",
-    "description_en": "👀 The production of Patriot missiles in Ukraine can start in the coming weeks, - Ministry of Defense of Poland Polish Minister of Defense Władysław Kosyniak-Kamysh said that the start of production will be possible with the participation of Poland, which received the status of one of the four NATO centers for the transfer of technologies and maintenance of Patriot missiles.",
-    "description_uk": "👀 Производство ракет Patriot в Украине может начаться уже в ближайшие недели, - Минобороны Польши Министр обороны Польши Владислав Косиняк-Камыш заявил, что запуск производства станет возможен при участии Польши, которая получила статус одного из четырех центров НАТО по передаче технологий и обслуживанию ракет Patriot.",
-    "time": "",
-    "pubDate": "2026-07-09T13:01:12+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195629",
-    "score": 5.5,
-    "views": 72096,
-    "forwards": 145
+    "views": 136246,
+    "forwards": 254
   },
   {
     "title": "🤭It seems that the Su-35 fell victim to Russian maps. According to...",
@@ -356,7 +302,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40937",
     "score": 13.0,
-    "views": 6837,
+    "views": 7161,
     "forwards": 15
   },
   {
@@ -374,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19856",
     "score": 5.5,
-    "views": 141940,
+    "views": 143141,
     "forwards": 124
   },
   {
@@ -392,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19840",
     "score": 16.5,
-    "views": 109085,
+    "views": 109537,
     "forwards": 209
   }
 ]
