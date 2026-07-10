@@ -1,21 +1,39 @@
 [
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons from the south-eastern direction!",
-    "description_en": "☄️ The threat of using ballistic weapons from the south-eastern direction!",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння з південно-східного напрямку!",
+    "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA headed for Kharkiv from the north.",
+    "title_uk": "Харків: BpLA прямувала на Харків з півночі.",
+    "description": "BpLA headed for Kharkiv from the north.",
+    "description_en": "BpLA headed for Kharkiv from the north.",
+    "description_uk": "БпЛА курсом на Харків з півночі.",
     "time": "",
-    "pubDate": "2026-07-09T22:31:55+00:00",
-    "category": "missile",
+    "pubDate": "2026-07-10T00:05:48+00:00",
+    "category": "drone",
     "severity": "high",
-    "location": "Ukraine",
+    "location": "Kharkiv",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67904",
-    "score": 5.5,
-    "views": 21413,
-    "forwards": 57
+    "link": "https://t.me/kpszsu/67909",
+    "score": 6.0,
+    "views": 2765,
+    "forwards": 0
+  },
+  {
+    "title": "BpLA in the north of Sumy Region ➡️ heading for Shostka.",
+    "title_en": "BpLA in the north of Sumy Region ➡️ heading for Shostka.",
+    "title_uk": "BpLA на півночі Сумської області ➡️ прямує на Шостку.",
+    "description": "BpLA in the north of Sumy Region ➡️ heading for Shostka.",
+    "description_en": "BpLA in the north of Sumy Region ➡️ heading for Shostka.",
+    "description_uk": "БпЛА на півночі Сумщини ➡️ курсом на Шостку.",
+    "time": "",
+    "pubDate": "2026-07-10T00:00:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67908",
+    "score": 5.0,
+    "views": 3773,
+    "forwards": 3
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -32,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54166",
     "score": 6.0,
-    "views": 496,
+    "views": 733,
     "forwards": 2
   },
   {
@@ -86,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54164",
     "score": 8.0,
-    "views": 1614,
+    "views": 1747,
     "forwards": 5
   },
   {
@@ -122,7 +140,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195658",
     "score": 8.5,
-    "views": 101815,
+    "views": 107180,
     "forwards": 122
   },
   {
@@ -140,7 +158,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9554",
     "score": 6.0,
-    "views": 583,
+    "views": 591,
     "forwards": 2
   },
   {
@@ -160,6 +178,24 @@
     "score": 5.0,
     "views": 30897,
     "forwards": 0
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "👀 Zelensky announced \"Freya\" - a new European anti-ballistic system, which should become a cheaper alternative to Patriot. The President of Ukraine said that Ukraine, together with European partners, is launching the \"Freya\" project - a new anti-ballistic system, which should be an analogue of Patriot, but at the same time it will be cheaper and designed for mass production. According to Zelenskyi, the rocket will be...",
+    "description_en": "👀 Zelensky announced \"Freya\" - a new European anti-ballistic system, which should become a cheaper alternative to Patriot. The President of Ukraine said that Ukraine, together with European partners, is launching the \"Freya\" project - a new anti-ballistic system, which should be an analogue of Patriot, but at the same time it will be cheaper and designed for mass production. According to Zelenskyi, the rocket will be...",
+    "description_uk": "👀 Зеленский анонсировал \"Фрею\" - новую европейскую систему ПРО, которая должна стать более дешевой альтернативой Patriot Президент Украины рассказал, что Украина вместе с европейскими партнерами запускает проект \"Фрея\" - новую антибаллистическую систему, которая должна стать аналогом Patriot, но при этом будет дешевле и рассчитана на массовое производство. По словам Зеленского, ракета будет...",
+    "time": "",
+    "pubDate": "2026-07-09T17:41:20+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195647",
+    "score": 6.5,
+    "views": 142681,
+    "forwards": 268
   },
   {
     "title": "Drone attack",
@@ -266,8 +302,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23627",
     "score": 14.5,
-    "views": 125691,
-    "forwards": 247
+    "views": 127122,
+    "forwards": 249
   },
   {
     "title": "👀 The production of Patriot missiles in Ukraine can start in the...",
@@ -286,42 +322,6 @@
     "score": 5.5,
     "views": 72096,
     "forwards": 145
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "A group of jet UAVs ➡️ heading for Mykolaiv.",
-    "description_en": "A group of jet UAVs ➡️ heading for Mykolaiv.",
-    "description_uk": "Група реактивних БпЛА ➡️ курсом на Миколаїв.",
-    "time": "",
-    "pubDate": "2026-07-09T11:15:25+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67880",
-    "score": 6.5,
-    "views": 46554,
-    "forwards": 69
-  },
-  {
-    "title": "Zaporizhzhia: BpLA ➡️ course to Zaporizhzhia, Mykolaiv.",
-    "title_en": "Zaporizhzhia: BpLA ➡️ course to Zaporizhzhia, Mykolaiv.",
-    "title_uk": "Запоріжжя: BpLA ➡️ курс на Запоріжжя, Миколаїв.",
-    "description": "BpLA ➡️ course to Zaporizhzhia, Mykolaiv.",
-    "description_en": "BpLA ➡️ course to Zaporizhzhia, Mykolaiv.",
-    "description_uk": "БпЛА ➡️ курсом на Запоріжжя, Миколаїв.",
-    "time": "",
-    "pubDate": "2026-07-09T11:09:16+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67879",
-    "score": 6.0,
-    "views": 32333,
-    "forwards": 0
   },
   {
     "title": "🤭It seems that the Su-35 fell victim to Russian maps. According to...",
@@ -356,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40937",
     "score": 13.0,
-    "views": 6751,
+    "views": 6837,
     "forwards": 15
   },
   {
@@ -374,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19856",
     "score": 5.5,
-    "views": 141694,
+    "views": 141940,
     "forwards": 124
   },
   {
@@ -392,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19840",
     "score": 16.5,
-    "views": 109002,
+    "views": 109085,
     "forwards": 209
   }
 ]
