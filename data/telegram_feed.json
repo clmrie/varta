@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A group of UAVs in the waters of the Black Sea - heading for Odesa (Chornomorsk, Ovidiopol).",
+    "description_en": "A group of UAVs in the waters of the Black Sea - heading for Odesa (Chornomorsk, Ovidiopol).",
+    "description_uk": "Група БпЛА в акваторії Чорного моря - курсом на Одещину (Чорноморськ, Овідіополь).",
+    "time": "",
+    "pubDate": "2026-07-10T23:33:56+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67974",
+    "score": 5.0,
+    "views": 488,
+    "forwards": 2
+  },
+  {
+    "title": "Zaporizhzhia: Zaporizhzhia - BpLA near the city.",
+    "title_en": "Zaporizhzhia: Zaporizhzhia - BpLA near the city.",
+    "title_uk": "Запоріжжя: Запоріжжя – БпЛА біля міста.",
+    "description": "Zaporizhzhia - BpLA near the city.",
+    "description_en": "Zaporizhzhia - BpLA near the city.",
+    "description_uk": "Запоріжжя - БпЛА поблизу міста.",
+    "time": "",
+    "pubDate": "2026-07-10T22:38:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67973",
+    "score": 6.0,
+    "views": 17717,
+    "forwards": 1
+  },
+  {
     "title": "Odesa: Odesa - BpLA in the direction of the city.",
     "title_en": "Odesa: Odesa - BpLA in the direction of the city.",
     "title_uk": "Одеса: Одеса – БпЛА в напрямку м.",
@@ -18,24 +54,6 @@
     "forwards": 15
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A group of UAVs in the waters of the Black Sea - heading for Odesa (Chornomorsk, Ovidiopol).",
-    "description_en": "A group of UAVs in the waters of the Black Sea - heading for Odesa (Chornomorsk, Ovidiopol).",
-    "description_uk": "Група БпЛА в акваторії Чорного моря - курсом на Одещину (Чорноморськ, Овідіополь).",
-    "time": "",
-    "pubDate": "2026-07-10T21:35:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67971",
-    "score": 5.0,
-    "views": 31061,
-    "forwards": 33
-  },
-  {
     "title": "Drone attack",
     "title_en": "Drone attack",
     "title_uk": "Атака безпілотників",
@@ -49,9 +67,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195741",
-    "score": 3.5,
-    "views": 56148,
-    "forwards": 197
+    "score": 4.5,
+    "views": 65486,
+    "forwards": 217
   },
   {
     "title": "Strike confirmed",
@@ -68,8 +86,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19865",
     "score": 4.0,
-    "views": 23806,
-    "forwards": 23
+    "views": 25195,
+    "forwards": 27
   },
   {
     "title": "Air defense active",
@@ -86,7 +104,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195735",
     "score": 3.5,
-    "views": 102695,
+    "views": 108389,
     "forwards": 143
   },
   {
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54183",
     "score": 5.0,
-    "views": 1759,
+    "views": 1870,
     "forwards": 6
   },
   {
@@ -122,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54182",
     "score": 4.0,
-    "views": 1788,
+    "views": 1898,
     "forwards": 4
   },
   {
@@ -320,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19859",
     "score": 15.5,
-    "views": 86433,
-    "forwards": 245
+    "views": 86742,
+    "forwards": 246
   },
   {
     "title": "Donetsk: Drone incoming",
@@ -338,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40972",
     "score": 13.0,
-    "views": 6605,
+    "views": 6628,
     "forwards": 13
   },
   {
@@ -392,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9554",
     "score": 6.0,
-    "views": 1021,
+    "views": 1025,
     "forwards": 3
   },
   {
@@ -410,7 +428,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23627",
     "score": 14.5,
-    "views": 174802,
+    "views": 175084,
     "forwards": 286
   }
 ]
