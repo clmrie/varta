@@ -1,5 +1,95 @@
 [
   {
+    "title": "Kyiv: Moscow Oil Refinery reportedly on fire again. Smoke and a fire were...",
+    "title_en": "Kyiv: Moscow Oil Refinery reportedly on fire again. Smoke and a fire were...",
+    "title_uk": "Київ: знову сталася пожежа на Московському НПЗ. Був дим і вогонь...",
+    "description": "Moscow Oil Refinery reportedly on fire again. Smoke and a fire were reported near Moscow’s oil refinery on July 10, according to Telegram monitoring channels, though the cause of the blaze has not been confirmed.",
+    "description_en": "Moscow Oil Refinery reportedly on fire again. Smoke and a fire were reported near Moscow’s oil refinery on July 10, according to Telegram monitoring channels, though the cause of the blaze has not been confirmed.",
+    "description_uk": "Moscow Oil Refinery reportedly on fire again. Smoke and a fire were reported near Moscow’s oil refinery on July 10, according to Telegram monitoring channels, though the cause of the blaze has not been confirmed.",
+    "time": "",
+    "pubDate": "2026-07-10T12:53:06+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54176",
+    "score": 5.0,
+    "views": 222,
+    "forwards": 3
+  },
+  {
+    "title": "Zaporizhzhia: Another KAB in the direction of Zaporozhye.",
+    "title_en": "Zaporizhzhia: Another KAB in the direction of Zaporozhye.",
+    "title_uk": "Запоріжжя: Ще один КАБ у напрямку Запоріжжя.",
+    "description": "Another KAB in the direction of Zaporozhye.",
+    "description_en": "Another KAB in the direction of Zaporozhye.",
+    "description_uk": "Ще КАБи у напрямку м. Запоріжжя.",
+    "time": "",
+    "pubDate": "2026-07-10T12:52:30+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67950",
+    "score": 6.0,
+    "views": 13134,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: KAB in the direction of Zaporozhye.",
+    "title_en": "Zaporizhzhia: KAB in the direction of Zaporozhye.",
+    "title_uk": "Запоріжжя: КАБ у напрямку Запоріжжя.",
+    "description": "KAB in the direction of Zaporozhye.",
+    "description_en": "KAB in the direction of Zaporozhye.",
+    "description_uk": "КАБи у напрямку м. Запоріжжя.",
+    "time": "",
+    "pubDate": "2026-07-10T12:43:30+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67949",
+    "score": 6.0,
+    "views": 22255,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Air defense active",
+    "title_en": "Kyiv: Air defense active",
+    "title_uk": "Київ: ППО діюча",
+    "description": "Polish defense minister fends off criticism over sending Patriot missiles to Ukraine. “I’d rather those missiles intercept projectiles over Ukraine than have Russian missiles ever reach Poland,” Polish Defense Minister Wladyslaw Kosiniak-Kamysz said.",
+    "description_en": "Polish defense minister fends off criticism over sending Patriot missiles to Ukraine. “I’d rather those missiles intercept projectiles over Ukraine than have Russian missiles ever reach Poland,” Polish Defense Minister Wladyslaw Kosiniak-Kamysz said.",
+    "description_uk": "Polish defense minister fends off criticism over sending Patriot missiles to Ukraine. “I’d rather those missiles intercept projectiles over Ukraine than have Russian missiles ever reach Poland,” Polish Defense Minister Wladyslaw Kosiniak-Kamysz said.",
+    "time": "",
+    "pubDate": "2026-07-10T12:38:56+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54175",
+    "score": 5.0,
+    "views": 460,
+    "forwards": 2
+  },
+  {
+    "title": "Air defense active",
+    "title_en": "Air defense active",
+    "title_uk": "Активна ППО",
+    "description": "The Russian Federation can produce about 1,400 Iskanders before Ukraine produces the first Patriot interceptor, expert According to military analyst Julian Repke, starting the production of Patriot interceptor missiles in Ukraine is not a matter of months, but at least a few years. After Trump's announcement, there are still long negotiations, agreement of contracts and issues of technology transfer. Repke notes that...",
+    "description_en": "The Russian Federation can produce about 1,400 Iskanders before Ukraine produces the first Patriot interceptor, expert According to military analyst Julian Repke, starting the production of Patriot interceptor missiles in Ukraine is not a matter of months, but at least a few years. After Trump's announcement, there are still long negotiations, agreement of contracts and issues of technology transfer. Repke notes that...",
+    "description_uk": "рф может выпустить около 1400 «Искандеров» до того, как Украина изготовит первый перехватчик Patriot, — эксперт По словам военного аналитика Юлиана Репке, запуск производства ракет-перехватчиков Patriot в Украине — вопрос не месяцев, а как минимум нескольких лет. После заявления Трампа еще предстоят длительные переговоры, согласование контрактов и вопросы передачи технологий. Репке отмечает, что...",
+    "time": "",
+    "pubDate": "2026-07-10T11:11:43+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195703",
+    "score": 5.5,
+    "views": 88313,
+    "forwards": 109
+  },
+  {
     "title": "Attack attack",
     "title_en": "Attack attack",
     "title_uk": "Атака нападу",
@@ -13,9 +103,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195700",
-    "score": 4.0,
-    "views": 35318,
-    "forwards": 39
+    "score": 4.5,
+    "views": 108745,
+    "forwards": 145
   },
   {
     "title": "Kharkiv: Kharkiv - BpLA in the direction of the city.",
@@ -49,9 +139,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19859",
-    "score": 14.5,
-    "views": 42596,
-    "forwards": 191
+    "score": 15.5,
+    "views": 58188,
+    "forwards": 212
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -104,7 +194,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40972",
     "score": 13.0,
-    "views": 4329,
+    "views": 5014,
     "forwards": 12
   },
   {
@@ -198,42 +288,6 @@
     "forwards": 0
   },
   {
-    "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA headed for Kharkiv from the north.",
-    "title_uk": "Харків: BpLA прямувала на Харків з півночі.",
-    "description": "BpLA headed for Kharkiv from the north.",
-    "description_en": "BpLA headed for Kharkiv from the north.",
-    "description_uk": "БпЛА курсом на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-07-10T00:05:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67909",
-    "score": 6.0,
-    "views": 2765,
-    "forwards": 0
-  },
-  {
-    "title": "BpLA in the north of Sumy Region ➡️ heading for Shostka.",
-    "title_en": "BpLA in the north of Sumy Region ➡️ heading for Shostka.",
-    "title_uk": "BpLA на півночі Сумської області ➡️ прямує на Шостку.",
-    "description": "BpLA in the north of Sumy Region ➡️ heading for Shostka.",
-    "description_en": "BpLA in the north of Sumy Region ➡️ heading for Shostka.",
-    "description_uk": "БпЛА на півночі Сумщини ➡️ курсом на Шостку.",
-    "time": "",
-    "pubDate": "2026-07-10T00:00:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67908",
-    "score": 5.0,
-    "views": 3773,
-    "forwards": 3
-  },
-  {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
     "title_uk": "Київ: Повідомляється про вибухи",
@@ -284,8 +338,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9554",
     "score": 6.0,
-    "views": 831,
-    "forwards": 2
+    "views": 862,
+    "forwards": 3
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -320,8 +374,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23627",
     "score": 14.5,
-    "views": 154673,
-    "forwards": 263
+    "views": 157614,
+    "forwards": 269
   },
   {
     "title": "Drone incoming",
@@ -338,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19856",
     "score": 5.5,
-    "views": 149630,
+    "views": 150669,
     "forwards": 126
   }
 ]
