@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "Jet UAV ➡️ heading for Chernihiv.",
+    "description_en": "Jet UAV ➡️ heading for Chernihiv.",
+    "description_uk": "Реактивний БпЛА ➡️ курсом на Чернігів.",
+    "time": "",
+    "pubDate": "2026-07-11T15:36:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68073",
+    "score": 6.0,
+    "views": 2007,
+    "forwards": 0
+  },
+  {
+    "title": "Jet UAV from the Black Sea ➡️ course to Odesa (Ovidiopol/ Chornomorsk)",
+    "title_en": "Jet UAV from the Black Sea ➡️ course to Odesa (Ovidiopol/ Chornomorsk)",
+    "title_uk": "Реактивний БПЛА з Чорного моря ➡️ курс до Одеси (Овідіополь/Чорноморськ)",
+    "description": "Jet UAV from the Black Sea ➡️ course to Odesa (Ovidiopol/ Chornomorsk)",
+    "description_en": "Jet UAV from the Black Sea ➡️ course to Odesa (Ovidiopol/ Chornomorsk)",
+    "description_uk": "Реактивний БпЛА з акваторії Чорного моря ➡️ курсом на Одещину (Овідіополь/ Чорноморськ)",
+    "time": "",
+    "pubDate": "2026-07-11T15:29:14+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68072",
+    "score": 5.0,
+    "views": 13154,
+    "forwards": 1
+  },
+  {
     "title": "Kyiv: 🇵🇱 Between memory and politics: Volyn in two dimensions 👥 On the...",
     "title_en": "Kyiv: 🇵🇱 Between memory and politics: Volyn in two dimensions 👥 On the...",
     "title_uk": "Київ: 🇵🇱 Між пам’яттю та політикою: Волинь у двох вимірах 👥 На...",
@@ -13,27 +49,9 @@
     "location": "Kyiv",
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23631",
-    "score": 6.0,
-    "views": 8566,
-    "forwards": 33
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "A jet UAV on Kholmy in Chernihiv Oblast from the southwest",
-    "description_en": "A jet UAV on Kholmy in Chernihiv Oblast from the southwest",
-    "description_uk": "Реактивний БпЛА на Холми на Чернігівщині з південного заходу",
-    "time": "",
-    "pubDate": "2026-07-11T14:34:46+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68069",
-    "score": 6.0,
-    "views": 8078,
-    "forwards": 0
+    "score": 6.5,
+    "views": 51152,
+    "forwards": 120
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -68,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195781",
     "score": 8.5,
-    "views": 42165,
-    "forwards": 109
+    "views": 73709,
+    "forwards": 143
   },
   {
     "title": "Drone incoming",
@@ -140,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54196",
     "score": 8.0,
-    "views": 1323,
+    "views": 1604,
     "forwards": 3
   },
   {
@@ -176,7 +194,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9561",
     "score": 5.0,
-    "views": 548,
+    "views": 614,
     "forwards": 3
   },
   {
@@ -212,7 +230,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41001",
     "score": 18.0,
-    "views": 3725,
+    "views": 3857,
     "forwards": 2
   },
   {
@@ -230,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54194",
     "score": 18.0,
-    "views": 1942,
+    "views": 2130,
     "forwards": 2
   },
   {
@@ -248,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19866",
     "score": 19.5,
-    "views": 114617,
-    "forwards": 291
+    "views": 119054,
+    "forwards": 296
   },
   {
     "title": "Kharkiv: Let's go to the northeast of Kharkiv region! 🛵 BpLA to Kharkiv from...",
@@ -338,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19865",
     "score": 4.0,
-    "views": 54810,
+    "views": 55405,
     "forwards": 34
   },
   {
@@ -356,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9554",
     "score": 6.0,
-    "views": 1106,
+    "views": 1107,
     "forwards": 3
   }
 ]
