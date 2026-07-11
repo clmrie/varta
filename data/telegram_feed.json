@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Groups of UAVs in the waters of the Black Sea heading for Odesa.",
+    "description_en": "Groups of UAVs in the waters of the Black Sea heading for Odesa.",
+    "description_uk": "Групи БпЛА в акваторії Чорного моря курсом на Одещину.",
+    "time": "",
+    "pubDate": "2026-07-11T04:20:55+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68001",
+    "score": 5.0,
+    "views": 2007,
+    "forwards": 0
+  },
+  {
+    "title": "🛫 Activity of enemy tactical aviation in the south! 🚀The threat of...",
+    "title_en": "🛫 Activity of enemy tactical aviation in the south! 🚀The threat of...",
+    "title_uk": "🛫 Активність тактичної авіації противника на півдні! 🚀Загроза...",
+    "description": "🛫 Activity of enemy tactical aviation in the south! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "🛫 Activity of enemy tactical aviation in the south! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "🛫 Активність ворожої тактичної авіації на півдні! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-07-11T04:13:50+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68000",
+    "score": 5.0,
+    "views": 10087,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: Зафіксовано пуск балістичної ракети",
+    "description": "Update: The number of people injured in Russia's ballistic missile attack on Kyiv has risen to eight. The injured include an 11-year-old boy. Kyiv Mayor Vitali Klitschko said four of the injured were hospitalized, while the others received medical treatment at the scene.",
+    "description_en": "Update: The number of people injured in Russia's ballistic missile attack on Kyiv has risen to eight. The injured include an 11-year-old boy. Kyiv Mayor Vitali Klitschko said four of the injured were hospitalized, while the others received medical treatment at the scene.",
+    "description_uk": "Update: The number of people injured in Russia's ballistic missile attack on Kyiv has risen to eight. The injured include an 11-year-old boy. Kyiv Mayor Vitali Klitschko said four of the injured were hospitalized, while the others received medical treatment at the scene.",
+    "time": "",
+    "pubDate": "2026-07-11T03:34:14+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54192",
+    "score": 15.0,
+    "views": 344,
+    "forwards": 2
+  },
+  {
     "title": "Kyiv: High-speed target for Kyiv!",
     "title_en": "Kyiv: High-speed target for Kyiv!",
     "title_uk": "Київ: Швидкісна ціль для Києва!",
@@ -18,24 +72,6 @@
     "forwards": 104
   },
   {
-    "title": "Kyiv: Ballistic missile launch detected",
-    "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
-    "description": "Explosions reported in Kyiv amid missile threat. Kyiv Independent journalists on the ground reported explosions in the capital at around 3:40 a.m. local time as Ukraine's Air Force warned of the threat of Russian ballistic missiles heading toward Kyiv.",
-    "description_en": "Explosions reported in Kyiv amid missile threat. Kyiv Independent journalists on the ground reported explosions in the capital at around 3:40 a.m. local time as Ukraine's Air Force warned of the threat of Russian ballistic missiles heading toward Kyiv.",
-    "description_uk": "Explosions reported in Kyiv amid missile threat. Kyiv Independent journalists on the ground reported explosions in the capital at around 3:40 a.m. local time as Ukraine's Air Force warned of the threat of Russian ballistic missiles heading toward Kyiv.",
-    "time": "",
-    "pubDate": "2026-07-11T00:50:34+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54188",
-    "score": 10.0,
-    "views": 343,
-    "forwards": 1
-  },
-  {
     "title": "A group of UAVs from the Black Sea to the south of Odesa, vector -...",
     "title_en": "A group of UAVs from the Black Sea to the south of Odesa, vector -...",
     "title_uk": "Група БПЛА з Чорного моря на південь від Одеси, вектор -...",
@@ -52,24 +88,6 @@
     "score": 5.0,
     "views": 66321,
     "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A group of UAVs in the waters of the Black Sea - heading for Odesa (Chornomorsk, Ovidiopol).",
-    "description_en": "A group of UAVs in the waters of the Black Sea - heading for Odesa (Chornomorsk, Ovidiopol).",
-    "description_uk": "Група БпЛА в акваторії Чорного моря - курсом на Одещину (Чорноморськ, Овідіополь).",
-    "time": "",
-    "pubDate": "2026-07-10T23:33:56+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67974",
-    "score": 5.0,
-    "views": 488,
-    "forwards": 2
   },
   {
     "title": "Zaporizhzhia: Zaporizhzhia - BpLA near the city.",
@@ -110,7 +128,7 @@
   {
     "title": "Drone attack",
     "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
+    "title_uk": "Атака дронов",
     "description": "Meanwhile, hundreds of our drones are attacking Russia. In total, about 270 good drones were sent. We are waiting for good results and beautiful videos in the morning.",
     "description_en": "Meanwhile, hundreds of our drones are attacking Russia. In total, about 270 good drones were sent. We are waiting for good results and beautiful videos in the morning.",
     "description_uk": "Тем временем Россию атакуют сотни наших дронов. Всего отправлено около 270 добрых дронов. Утром ждем хороших результатов и красивых видео.",
@@ -122,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195741",
     "score": 4.5,
-    "views": 85739,
-    "forwards": 227
+    "views": 134175,
+    "forwards": 260
   },
   {
     "title": "Strike confirmed",
@@ -140,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19865",
     "score": 4.0,
-    "views": 28517,
-    "forwards": 27
+    "views": 34557,
+    "forwards": 29
   },
   {
     "title": "Air defense active",
@@ -158,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195735",
     "score": 3.5,
-    "views": 116352,
-    "forwards": 143
+    "views": 145453,
+    "forwards": 155
   },
   {
     "title": "Kyiv: US Senator Graham claims White House backing for Russia sanctions...",
@@ -234,78 +252,6 @@
     "forwards": 0
   },
   {
-    "title": "Dnipro: Dnipropetrovsk region: BpLA ➡️ heading for Synelnikovo.",
-    "title_en": "Dnipro: Dnipropetrovsk region: BpLA ➡️ heading for Synelnikovo.",
-    "title_uk": "Дніпро: Дніпропетровська область: BpLA ➡️ курс на Синельникове.",
-    "description": "Dnipropetrovsk region: BpLA ➡️ heading for Synelnikovo.",
-    "description_en": "Dnipropetrovsk region: BpLA ➡️ heading for Synelnikovo.",
-    "description_uk": "Дніпропетровщина: БпЛА ➡️ курсом на Синельникове.",
-    "time": "",
-    "pubDate": "2026-07-10T14:34:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67957",
-    "score": 6.0,
-    "views": 52602,
-    "forwards": 0
-  },
-  {
-    "title": "German companies launch serial production of Gereon unmanned ground...",
-    "title_en": "German companies launch serial production of Gereon unmanned ground...",
-    "title_uk": "Німецькі компанії запускають серійне виробництво безпілотних наземних літаків Gereon...",
-    "description": "German companies launch serial production of Gereon unmanned ground systems for deliveries to Ukraine \"In order to supply Gereon to Ukraine, we are ramping up production at our plant in Ulm. Thus, the strategic partnership with ARX Robotics makes a significant contribution to strengthening European defense policy by supporting Ukraine,\" said the general director of the DEUTZ defense division Gerre.",
-    "description_en": "German companies launch serial production of Gereon unmanned ground systems for deliveries to Ukraine \"In order to supply Gereon to Ukraine, we are ramping up production at our plant in Ulm. Thus, the strategic partnership with ARX Robotics makes a significant contribution to strengthening European defense policy by supporting Ukraine,\" said the general director of the DEUTZ defense division Gerre.",
-    "description_uk": "Немецкие компании запускают серийное производство беспилотных наземных систем Gereon для поставок Украине \"Чтобы поставить Gereon Украине, мы наращиваем производство на нашем заводе в Ульме. Таким образом, стратегическое партнерство с ARX Robotics вносит весомый вклад в укрепление европейской оборонной политики путем поддержки Украины\", - заявил гендиректор оборонного подразделения DEUTZ Герре.",
-    "time": "",
-    "pubDate": "2026-07-10T14:30:49+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195720",
-    "score": 5.5,
-    "views": 144560,
-    "forwards": 145
-  },
-  {
-    "title": "Kryvyi Rih: BpLA to Kryvyi Rih from the north.",
-    "title_en": "Kryvyi Rih: BpLA to Kryvyi Rih from the north.",
-    "title_uk": "Кривий Ріг: БпЛА до Кривого Рогу з півн.",
-    "description": "BpLA to Kryvyi Rih from the north.",
-    "description_en": "BpLA to Kryvyi Rih from the north.",
-    "description_uk": "БпЛА на Кривий Ріг з півночі.",
-    "time": "",
-    "pubDate": "2026-07-10T14:30:36+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67956",
-    "score": 6.0,
-    "views": 55622,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: French billionaire Xavier Niel, owner of Ukraine’s Lifecell, becomes...",
-    "title_en": "Kyiv: French billionaire Xavier Niel, owner of Ukraine’s Lifecell, becomes...",
-    "title_uk": "Київ: французький мільярдер Ксав’є Ньель, власник українського Lifecell, стає...",
-    "description": "French billionaire Xavier Niel, owner of Ukraine’s Lifecell, becomes Vodafone’s largest shareholder. Xavier Niel, the French billionaire and owner of Ukraine’s third-largest telecom operator, has become the largest shareholder of the Vodafone Group after buying a 16.2% stake in the company, Niel’s investment vehicle Vega announced on July 10.",
-    "description_en": "French billionaire Xavier Niel, owner of Ukraine’s Lifecell, becomes Vodafone’s largest shareholder. Xavier Niel, the French billionaire and owner of Ukraine’s third-largest telecom operator, has become the largest shareholder of the Vodafone Group after buying a 16.2% stake in the company, Niel’s investment vehicle Vega announced on July 10.",
-    "description_uk": "French billionaire Xavier Niel, owner of Ukraine’s Lifecell, becomes Vodafone’s largest shareholder. Xavier Niel, the French billionaire and owner of Ukraine’s third-largest telecom operator, has become the largest shareholder of the Vodafone Group after buying a 16.2% stake in the company, Niel’s investment vehicle Vega announced on July 10.",
-    "time": "",
-    "pubDate": "2026-07-10T13:12:13+00:00",
-    "category": "alert",
-    "severity": "medium",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54177",
-    "score": 4.0,
-    "views": 1816,
-    "forwards": 7
-  },
-  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -320,7 +266,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19859",
     "score": 15.5,
-    "views": 87898,
+    "views": 90224,
     "forwards": 246
   },
   {
@@ -338,7 +284,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40972",
     "score": 13.0,
-    "views": 6672,
+    "views": 6855,
     "forwards": 13
   },
   {
@@ -360,24 +306,6 @@
     "forwards": 183
   },
   {
-    "title": "Kyiv: Attack attack",
-    "title_en": "Kyiv: Attack attack",
-    "title_uk": "Київ: Атака",
-    "description": "Ukraine reportedly strikes oil terminal in Russia's Rostov Oblast. Black smoke was purportedly seen billowing over the Russian city of Taganrog overnight on July 10 amid reports of a Ukrainian strike on the city port's oil terminal.",
-    "description_en": "Ukraine reportedly strikes oil terminal in Russia's Rostov Oblast. Black smoke was purportedly seen billowing over the Russian city of Taganrog overnight on July 10 amid reports of a Ukrainian strike on the city port's oil terminal.",
-    "description_uk": "Ukraine reportedly strikes oil terminal in Russia's Rostov Oblast. Black smoke was purportedly seen billowing over the Russian city of Taganrog overnight on July 10 amid reports of a Ukrainian strike on the city port's oil terminal.",
-    "time": "",
-    "pubDate": "2026-07-10T03:40:19+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54169",
-    "score": 8.0,
-    "views": 2031,
-    "forwards": 2
-  },
-  {
     "title": "Crimea: The Ministry of Foreign Affairs of Ukraine notes the importance of...",
     "title_en": "Crimea: The Ministry of Foreign Affairs of Ukraine notes the importance of...",
     "title_uk": "Крим: МЗС України відзначає важливість...",
@@ -392,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9554",
     "score": 6.0,
-    "views": 1040,
+    "views": 1054,
     "forwards": 3
   },
   {
@@ -410,7 +338,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23627",
     "score": 14.5,
-    "views": 175810,
-    "forwards": 286
+    "views": 177300,
+    "forwards": 288
   }
 ]
