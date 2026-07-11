@@ -3,24 +3,78 @@
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
-    "description": "A group of jet UAVs ➡️ in the direction of Borzna/Nizhyn.",
-    "description_en": "A group of jet UAVs ➡️ in the direction of Borzna/Nizhyn.",
-    "description_uk": "Група реактивних БпЛА ➡️ у напрямку Борзни/Ніжина.",
+    "description": "Sumyshchyna: jet UAV ➡️ heading for Krolevets.",
+    "description_en": "Sumyshchyna: jet UAV ➡️ heading for Krolevets.",
+    "description_uk": "Сумщина: реактивний БпЛА ➡️ курсом на Кролевець.",
     "time": "",
-    "pubDate": "2026-07-11T08:04:41+00:00",
+    "pubDate": "2026-07-11T09:52:36+00:00",
     "category": "drone",
     "severity": "high",
-    "location": "Ukraine",
+    "location": "Sumy",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68030",
+    "link": "https://t.me/kpszsu/68040",
     "score": 5.0,
-    "views": 29311,
+    "views": 6071,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: A group of jet UAVs ➡️ in Chernihiv.",
+    "title_en": "Chernihiv: A group of jet UAVs ➡️ in Chernihiv.",
+    "title_uk": "Чернігів: Група реактивних БПЛА ➡️ у Чернігові.",
+    "description": "A group of jet UAVs ➡️ in Chernihiv.",
+    "description_en": "A group of jet UAVs ➡️ in Chernihiv.",
+    "description_uk": "Група реактивних БпЛА ➡️ на Чернігів.",
+    "time": "",
+    "pubDate": "2026-07-11T09:28:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68039",
+    "score": 6.0,
+    "views": 28296,
     "forwards": 34
+  },
+  {
+    "title": "Donetsk: 69 missiles intercepted",
+    "title_en": "Donetsk: 69 missiles intercepted",
+    "title_uk": "Донецьк: перехоплено 69 ракет",
+    "description": "2 X-59/69 MISSILES AND 111 ENEMY UAVS WERE SHOT DOWN/SUPPRESSED On the night of July 11 (from 18:00 on July 10), the enemy attacked with 6 Iskander-M/S-400 ballistic missiles from the Bryansk region of the Russian Federation, 4 X-59/69 guided air missiles from the airspace of the TOT of the Republic of Crimea, 2 Kh-31 anti-radar missiles from the Black Sea and 121 strike UAVs of the Shahed, Gerbera, Italmas and...",
+    "description_en": "2 X-59/69 MISSILES AND 111 ENEMY UAVS WERE SHOT DOWN/SUPPRESSED On the night of July 11 (from 18:00 on July 10), the enemy attacked with 6 Iskander-M/S-400 ballistic missiles from the Bryansk region of the Russian Federation, 4 X-59/69 guided air missiles from the airspace of the TOT of the Republic of Crimea, 2 Kh-31 anti-radar missiles from the Black Sea and 121 strike UAVs of the Shahed, Gerbera, Italmas and...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 2 РАКЕТИ Х-59/69 ТА 111 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 11 липня (з 18:00 10 липня) противник атакував 6 балістичними ракетами Іскандер-М/С-400 із Брянської області рф, 4 керованими авіаційними ракетами Х-59/69 із повітряного простору ТОТ АР Криму, 2 протирадіолокаційними ракетами Х-31 з акваторії Чорного моря та 121 ударним БпЛА типу Shahed, Гербера, Італмас та...",
+    "time": "",
+    "pubDate": "2026-07-11T08:35:29+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41001",
+    "score": 18.0,
+    "views": 1994,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "Update: The number of people injured in Russia’s ballistic missile attack on Kyiv has risen to 11. President Volodymyr Zelensky noted that air defenses were unable to stop the ballistic missiles: “Most of the targets were shot down by our defenders, but not the ballistic missiles.” He urged partners to quickly deliver on promised air defense packages, Patriot licenses, and the joint European...",
+    "description_en": "Update: The number of people injured in Russia’s ballistic missile attack on Kyiv has risen to 11. President Volodymyr Zelensky noted that air defenses were unable to stop the ballistic missiles: “Most of the targets were shot down by our defenders, but not the ballistic missiles.” He urged partners to quickly deliver on promised air defense packages, Patriot licenses, and the joint European...",
+    "description_uk": "Update: The number of people injured in Russia’s ballistic missile attack on Kyiv has risen to 11. President Volodymyr Zelensky noted that air defenses were unable to stop the ballistic missiles: “Most of the targets were shot down by our defenders, but not the ballistic missiles.” He urged partners to quickly deliver on promised air defense packages, Patriot licenses, and the joint European...",
+    "time": "",
+    "pubDate": "2026-07-11T08:32:15+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54194",
+    "score": 18.0,
+    "views": 786,
+    "forwards": 1
   },
   {
     "title": "Chernihiv: Shelling near civilians",
     "title_en": "Chernihiv: Shelling near civilians",
-    "title_uk": "Чернігів: Обстріли поблизу мирних жителів",
+    "title_uk": "Chernihiv: Shelling near civilians",
     "description": "Eleven people were injured in Kyiv during a nighttime Russian attack, including a child. Even before the announcement of the air alert, there were hits on civilian infrastructure. Operational services are working on the ground: residential buildings, offices, theological seminary were damaged in the capital. The liquidation of the consequences of shelling continues in Odesa, Sumy, Kharkiv and Chernihiv regions. Russia used...",
     "description_en": "Eleven people were injured in Kyiv during a nighttime Russian attack, including a child. Even before the announcement of the air alert, there were hits on civilian infrastructure. Operational services are working on the ground: residential buildings, offices, theological seminary were damaged in the capital. The liquidation of the consequences of shelling continues in Odesa, Sumy, Kharkiv and Chernihiv regions. Russia used...",
     "description_uk": "Одинадцять людей поранено у Києві під час нічної російської атаки, серед них дитина. Ще до оголошення повітряної тривоги були влучання по цивільній інфраструктурі. На місцях працюють оперативні служби: житлові будинки, офіси, богословська семінарія були пошкоджені у столиці. Триває ліквідація наслідків обстрілу і в Одеській, Сумській, Харківській та Чернігівській областях. Росія застосувала...",
@@ -31,9 +85,9 @@
     "location": "Chernihiv",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19866",
-    "score": 18.5,
-    "views": 39706,
-    "forwards": 137
+    "score": 19.5,
+    "views": 73805,
+    "forwards": 247
   },
   {
     "title": "Kharkiv: Let's go to the northeast of Kharkiv region! 🛵 BpLA to Kharkiv from...",
@@ -88,24 +142,6 @@
     "score": 5.0,
     "views": 10087,
     "forwards": 0
-  },
-  {
-    "title": "Kyiv: Ballistic missile launch detected",
-    "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: Зафіксовано пуск балістичної ракети",
-    "description": "Update: The number of people injured in Russia's ballistic missile attack on Kyiv has risen to eight. The injured include an 11-year-old boy. Kyiv Mayor Vitali Klitschko said four of the injured were hospitalized, while the others received medical treatment at the scene.",
-    "description_en": "Update: The number of people injured in Russia's ballistic missile attack on Kyiv has risen to eight. The injured include an 11-year-old boy. Kyiv Mayor Vitali Klitschko said four of the injured were hospitalized, while the others received medical treatment at the scene.",
-    "description_uk": "Update: The number of people injured in Russia's ballistic missile attack on Kyiv has risen to eight. The injured include an 11-year-old boy. Kyiv Mayor Vitali Klitschko said four of the injured were hospitalized, while the others received medical treatment at the scene.",
-    "time": "",
-    "pubDate": "2026-07-11T03:34:14+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54192",
-    "score": 15.0,
-    "views": 1642,
-    "forwards": 3
   },
   {
     "title": "Kyiv: High-speed target for Kyiv!",
@@ -180,24 +216,6 @@
     "forwards": 15
   },
   {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака дронов",
-    "description": "Meanwhile, hundreds of our drones are attacking Russia. In total, about 270 good drones were sent. We are waiting for good results and beautiful videos in the morning.",
-    "description_en": "Meanwhile, hundreds of our drones are attacking Russia. In total, about 270 good drones were sent. We are waiting for good results and beautiful videos in the morning.",
-    "description_uk": "Тем временем Россию атакуют сотни наших дронов. Всего отправлено около 270 добрых дронов. Утром ждем хороших результатов и красивых видео.",
-    "time": "",
-    "pubDate": "2026-07-10T20:54:15+00:00",
-    "category": "drone",
-    "severity": "medium",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195741",
-    "score": 4.5,
-    "views": 177834,
-    "forwards": 261
-  },
-  {
     "title": "Strike confirmed",
     "title_en": "Strike confirmed",
     "title_uk": "Страйк підтверджено",
@@ -212,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19865",
     "score": 4.0,
-    "views": 47386,
-    "forwards": 32
+    "views": 50186,
+    "forwards": 33
   },
   {
     "title": "Air defense active",
@@ -234,24 +252,6 @@
     "forwards": 155
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "FREYA. This is our Ukrainian anti-ballistics. This project is an anti-ballistic system, which should be an analogue of the Patriot in terms of hitting ballistic targets, but a more mass-produced and cheaper system. This is a European model. Our first meeting in this direction will be in France, and it will be in the near future. Our task was to gather leaders, companies, national security advisers and present...",
-    "description_en": "FREYA. This is our Ukrainian anti-ballistics. This project is an anti-ballistic system, which should be an analogue of the Patriot in terms of hitting ballistic targets, but a more mass-produced and cheaper system. This is a European model. Our first meeting in this direction will be in France, and it will be in the near future. Our task was to gather leaders, companies, national security advisers and present...",
-    "description_uk": "FREYA. Це наша українська антибалістика. Цей проєкт – це антибалістична система, яка повинна бути аналогом Patriot щодо збиття балістичних цілей, але більш масового виробництва і більш дешевою системою. Це європейська модель. Перша наша зустріч у цьому напрямку буде у Франції, і це буде найближчим часом. Нашим завданням було зібрати лідерів, компанії, радників з питань нацбезпеки і представити...",
-    "time": "",
-    "pubDate": "2026-07-10T09:15:05+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19859",
-    "score": 15.5,
-    "views": 91822,
-    "forwards": 247
-  },
-  {
     "title": "Donetsk: Drone incoming",
     "title_en": "Donetsk: Drone incoming",
     "title_uk": "Донецьк: Дрон вхід",
@@ -266,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40972",
     "score": 13.0,
-    "views": 7118,
+    "views": 7200,
     "forwards": 13
   },
   {
@@ -284,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9554",
     "score": 6.0,
-    "views": 1077,
+    "views": 1082,
     "forwards": 3
   },
   {
@@ -302,7 +302,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23627",
     "score": 14.5,
-    "views": 180410,
-    "forwards": 288
+    "views": 181278,
+    "forwards": 289
   }
 ]
