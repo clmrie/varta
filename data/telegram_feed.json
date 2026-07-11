@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAVs at Bogodukhiv from the west",
+    "description_en": "Jet UAVs at Bogodukhiv from the west",
+    "description_uk": "Реактивні БпЛА на Богодухів із заходу",
+    "time": "",
+    "pubDate": "2026-07-11T13:43:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68058",
+    "score": 5.0,
+    "views": 8082,
+    "forwards": 0
+  },
+  {
+    "title": "🛫 Activity of enemy tactical aviation in the southern and...",
+    "title_en": "🛫 Activity of enemy tactical aviation in the southern and...",
+    "title_uk": "🛫 Активність тактичної авіації противника на півдні та...",
+    "description": "🛫 Activity of enemy tactical aviation in the southern and southeastern directions! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "🛫 Activity of enemy tactical aviation in the southern and southeastern directions! 🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "🛫 Активність ворожої тактичної авіації на південному та південно-східному напрямках! 🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-07-11T13:42:30+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68057",
+    "score": 5.0,
+    "views": 10118,
+    "forwards": 0
+  },
+  {
     "title": "Air defense active",
     "title_en": "Air defense active",
     "title_uk": "Активна ППО",
@@ -14,8 +50,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195774",
     "score": 5.5,
-    "views": 20462,
-    "forwards": 75
+    "views": 88675,
+    "forwards": 184
   },
   {
     "title": "Kyiv: Drone strike",
@@ -32,15 +68,15 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54196",
     "score": 8.0,
-    "views": 336,
-    "forwards": 0
+    "views": 1025,
+    "forwards": 3
   },
   {
     "title": "The characteristics of the new Russian Geran-4 Syker drone, which is...",
     "title_en": "The characteristics of the new Russian Geran-4 Syker drone, which is...",
     "title_uk": "Характеристики нового російського безпілотника Геран-4 Сайкер, який...",
-    "description": "The characteristics of the new Russian Geran-4 Syker drone, which is a modernization of the Shaheda, have appeared. The Russians claim that the flight range of the new drone is 550 km, and the weight of the warhead reaches 50 kg. Thanks to the turbojet power plant, the device has a higher speed compared to drones of the same class, which is 300 km/h. Главная...",
-    "description_en": "The characteristics of the new Russian Geran-4 Syker drone, which is a modernization of the Shaheda, have appeared. The Russians claim that the flight range of the new drone is 550 km, and the weight of the warhead reaches 50 kg. Thanks to the turbojet power plant, the device has a higher speed compared to drones of the same class, which is 300 km/h. Главная...",
+    "description": "The characteristics of the new Russian Geran-4 Syker drone, which is a modernization of the Shaheda, have appeared. The Russians claim that the flight range of the new drone is 550 km, and the weight of the warhead reaches 50 kg. Thanks to the turbojet power plant, the device has a higher speed compared to drones of the same class, which is 300 km/h. Main...",
+    "description_en": "The characteristics of the new Russian Geran-4 Syker drone, which is a modernization of the Shaheda, have appeared. The Russians claim that the flight range of the new drone is 550 km, and the weight of the warhead reaches 50 kg. Thanks to the turbojet power plant, the device has a higher speed compared to drones of the same class, which is 300 km/h. Main...",
     "description_uk": "Появились характеристики нового руснявого дрона \"Герань-4 Сикер\", который является модернизацией \"Шахеда\" Россияне заявляют, что дальность полета нового дрона составляет 550 км, а масса боевой части достигает 50 кг. Благодаря турбореактивной силовой установке аппарат отличается более высокой по сравнению с беспилотниками аналогичного класса скоростью, которая составляет 300 км/ч. Главная...",
     "time": "",
     "pubDate": "2026-07-11T11:40:01+00:00",
@@ -49,9 +85,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195773",
-    "score": 8.0,
-    "views": 25805,
-    "forwards": 39
+    "score": 8.5,
+    "views": 87616,
+    "forwards": 112
   },
   {
     "title": "Ballistic missile launch detected",
@@ -68,26 +104,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9561",
     "score": 5.0,
-    "views": 351,
+    "views": 454,
     "forwards": 2
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A group of jet UAVs ➡️ in the direction of Chernihiv.",
-    "description_en": "A group of jet UAVs ➡️ in the direction of Chernihiv.",
-    "description_uk": "Група реактивних БпЛА ➡️ у напрямку Чернігова.",
-    "time": "",
-    "pubDate": "2026-07-11T10:22:41+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68042",
-    "score": 5.5,
-    "views": 54629,
-    "forwards": 68
   },
   {
     "title": "Chernihiv: A group of jet UAVs ➡️ in Chernihiv.",
@@ -122,7 +140,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41001",
     "score": 18.0,
-    "views": 3121,
+    "views": 3573,
     "forwards": 2
   },
   {
@@ -140,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54194",
     "score": 18.0,
-    "views": 1408,
+    "views": 1779,
     "forwards": 2
   },
   {
@@ -158,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19866",
     "score": 19.5,
-    "views": 96911,
-    "forwards": 273
+    "views": 109599,
+    "forwards": 282
   },
   {
     "title": "Kharkiv: Let's go to the northeast of Kharkiv region! 🛵 BpLA to Kharkiv from...",
@@ -234,24 +252,6 @@
     "forwards": 104
   },
   {
-    "title": "A group of UAVs from the Black Sea to the south of Odesa, vector -...",
-    "title_en": "A group of UAVs from the Black Sea to the south of Odesa, vector -...",
-    "title_uk": "Група БПЛА з Чорного моря на південь від Одеси, вектор -...",
-    "description": "A group of UAVs from the Black Sea to the south of Odesa, vector - Tatarbunary/Sarata.",
-    "description_en": "A group of UAVs from the Black Sea to the south of Odesa, vector - Tatarbunary/Sarata.",
-    "description_uk": "Група БпЛА з акваторії Чорного моря на південь Одещини, вектор - Татарбунари/Сарата.",
-    "time": "",
-    "pubDate": "2026-07-11T00:23:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67980",
-    "score": 5.0,
-    "views": 66321,
-    "forwards": 0
-  },
-  {
     "title": "Strike confirmed",
     "title_en": "Strike confirmed",
     "title_uk": "Страйк підтверджено",
@@ -266,7 +266,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19865",
     "score": 4.0,
-    "views": 52488,
+    "views": 54178,
     "forwards": 33
   },
   {
@@ -284,25 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9554",
     "score": 6.0,
-    "views": 1099,
+    "views": 1101,
     "forwards": 3
-  },
-  {
-    "title": "Casualties reported",
-    "title_en": "Casualties reported",
-    "title_uk": "Повідомляється про постраждалих",
-    "description": "🤖 NRK performed more than 16,600 missions at the front in a month 👥 Units of the Defense Forces of Ukraine performed more than 16,600 logistical and evacuation missions with the help of ground robotic complexes in June. Ground drones continue to replace the military in the most difficult areas of the front: delivering ammunition and food, as well as evacuating the wounded and dead. 🗒 Dynamics of missions by month: 🟡January – 7...",
-    "description_en": "🤖 NRK performed more than 16,600 missions at the front in a month 👥 Units of the Defense Forces of Ukraine performed more than 16,600 logistical and evacuation missions with the help of ground robotic complexes in June. Ground drones continue to replace the military in the most difficult areas of the front: delivering ammunition and food, as well as evacuating the wounded and dead. 🗒 Dynamics of missions by month: 🟡January – 7...",
-    "description_uk": "🤖 НРК виконали понад 16 600 місій на фронті за місяць 👥 Підрозділи Сил оборони України у червні виконали за допомогою наземних роботизованих комплексів понад 16 600 логістичних та евакуаційних місій. Наземні дрони продовжують заміняти військових на найскладніших ділянках фронту: доставляють боєприпаси й харчування, а також евакуюють поранених та полеглих. 🗒 Динаміка місій по місяцях: 🟡січень – 7...",
-    "time": "",
-    "pubDate": "2026-07-09T13:18:44+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "DeepState",
-    "link": "https://t.me/DeepStateUA/23627",
-    "score": 14.5,
-    "views": 182318,
-    "forwards": 290
   }
 ]
