@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A group of jet UAVs ➡️ in the direction of Borzna/Nizhyn.",
+    "description_en": "A group of jet UAVs ➡️ in the direction of Borzna/Nizhyn.",
+    "description_uk": "Група реактивних БпЛА ➡️ у напрямку Борзни/Ніжина.",
+    "time": "",
+    "pubDate": "2026-07-11T08:04:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68030",
+    "score": 5.0,
+    "views": 29311,
+    "forwards": 34
+  },
+  {
+    "title": "Chernihiv: Shelling near civilians",
+    "title_en": "Chernihiv: Shelling near civilians",
+    "title_uk": "Чернігів: Обстріли поблизу мирних жителів",
+    "description": "Eleven people were injured in Kyiv during a nighttime Russian attack, including a child. Even before the announcement of the air alert, there were hits on civilian infrastructure. Operational services are working on the ground: residential buildings, offices, theological seminary were damaged in the capital. The liquidation of the consequences of shelling continues in Odesa, Sumy, Kharkiv and Chernihiv regions. Russia used...",
+    "description_en": "Eleven people were injured in Kyiv during a nighttime Russian attack, including a child. Even before the announcement of the air alert, there were hits on civilian infrastructure. Operational services are working on the ground: residential buildings, offices, theological seminary were damaged in the capital. The liquidation of the consequences of shelling continues in Odesa, Sumy, Kharkiv and Chernihiv regions. Russia used...",
+    "description_uk": "Одинадцять людей поранено у Києві під час нічної російської атаки, серед них дитина. Ще до оголошення повітряної тривоги були влучання по цивільній інфраструктурі. На місцях працюють оперативні служби: житлові будинки, офіси, богословська семінарія були пошкоджені у столиці. Триває ліквідація наслідків обстрілу і в Одеській, Сумській, Харківській та Чернігівській областях. Росія застосувала...",
+    "time": "",
+    "pubDate": "2026-07-11T07:39:16+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Chernihiv",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/19866",
+    "score": 18.5,
+    "views": 39706,
+    "forwards": 137
+  },
+  {
     "title": "Kharkiv: Let's go to the northeast of Kharkiv region! 🛵 BpLA to Kharkiv from...",
     "title_en": "Kharkiv: Let's go to the northeast of Kharkiv region! 🛵 BpLA to Kharkiv from...",
     "title_uk": "Харків: Їдемо на північний схід Харківщини! 🛵 BpLA до Харкова з...",
@@ -36,24 +72,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Groups of UAVs in the waters of the Black Sea heading for Odesa.",
-    "description_en": "Groups of UAVs in the waters of the Black Sea heading for Odesa.",
-    "description_uk": "Групи БпЛА в акваторії Чорного моря курсом на Одещину.",
-    "time": "",
-    "pubDate": "2026-07-11T04:20:55+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68001",
-    "score": 5.0,
-    "views": 2007,
-    "forwards": 0
-  },
-  {
     "title": "🛫 Activity of enemy tactical aviation in the south! 🚀The threat of...",
     "title_en": "🛫 Activity of enemy tactical aviation in the south! 🚀The threat of...",
     "title_uk": "🛫 Активність тактичної авіації противника на півдні! 🚀Загроза...",
@@ -86,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54192",
     "score": 15.0,
-    "views": 1083,
-    "forwards": 2
+    "views": 1642,
+    "forwards": 3
   },
   {
     "title": "Kyiv: High-speed target for Kyiv!",
@@ -194,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19865",
     "score": 4.0,
-    "views": 40337,
-    "forwards": 30
+    "views": 47386,
+    "forwards": 32
   },
   {
     "title": "Air defense active",
@@ -248,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40972",
     "score": 13.0,
-    "views": 7054,
+    "views": 7118,
     "forwards": 13
   },
   {
@@ -266,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9554",
     "score": 6.0,
-    "views": 1068,
+    "views": 1077,
     "forwards": 3
   },
   {
@@ -284,7 +302,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23627",
     "score": 14.5,
-    "views": 179070,
+    "views": 180410,
     "forwards": 288
   }
 ]
