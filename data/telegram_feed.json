@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kherson: BpLA groups from the Kherson region ➡️ in the direction of Kryvyi Rih.",
+    "title_en": "Kherson: BpLA groups from the Kherson region ➡️ in the direction of Kryvyi Rih.",
+    "title_uk": "Херсон: групи BpLA з Херсонської області ➡️ в напрямку Кривого Рогу.",
+    "description": "BpLA groups from the Kherson region ➡️ in the direction of Kryvyi Rih.",
+    "description_en": "BpLA groups from the Kherson region ➡️ in the direction of Kryvyi Rih.",
+    "description_uk": "Групи БпЛА із Херсонщини ➡️ у напрямку Кривого Рогу.",
+    "time": "",
+    "pubDate": "2026-07-11T21:27:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68105",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
     "title": "Casualties reported",
     "title_en": "Casualties reported",
     "title_uk": "Повідомляється про постраждалих",
@@ -14,8 +32,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195804",
     "score": 5.5,
-    "views": 56215,
-    "forwards": 110
+    "views": 83624,
+    "forwards": 147
   },
   {
     "title": "Sumyshchyna: BpLA in the direction of Shostka, Krasnopillya.",
@@ -68,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54204",
     "score": 6.0,
-    "views": 1181,
-    "forwards": 5
+    "views": 1508,
+    "forwards": 6
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -104,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195800",
     "score": 4.5,
-    "views": 103573,
-    "forwards": 70
+    "views": 119981,
+    "forwards": 105
   },
   {
     "title": "Kyiv: 'Expressly prohibited' — Ukraine's largest defense firm illegally...",
@@ -122,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54203",
     "score": 8.0,
-    "views": 1369,
-    "forwards": 5
+    "views": 1641,
+    "forwards": 7
   },
   {
     "title": "Drone incoming",
@@ -176,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19875",
     "score": 6.5,
-    "views": 173582,
-    "forwards": 548
+    "views": 190858,
+    "forwards": 567
   },
   {
     "title": "Evacuation ordered",
@@ -230,8 +248,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23634",
     "score": 10.5,
-    "views": 88305,
-    "forwards": 247
+    "views": 94116,
+    "forwards": 268
   },
   {
     "title": "Zaporizhzhia: BpLA ➡️ course to Zaporizhzhia.",
@@ -284,8 +302,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23631",
     "score": 6.5,
-    "views": 110751,
-    "forwards": 166
+    "views": 114387,
+    "forwards": 171
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -392,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9561",
     "score": 5.0,
-    "views": 725,
+    "views": 750,
     "forwards": 3
   },
   {
@@ -428,25 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41001",
     "score": 18.0,
-    "views": 4441,
-    "forwards": 2
-  },
-  {
-    "title": "Kyiv: Ballistic missile launch detected",
-    "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
-    "description": "Update: The number of people injured in Russia’s ballistic missile attack on Kyiv has risen to 11. President Volodymyr Zelensky noted that air defenses were unable to stop the ballistic missiles: “Most of the targets were shot down by our defenders, but not the ballistic missiles.” He urged partners to quickly deliver on promised air defense packages, Patriot licenses, and the joint European...",
-    "description_en": "Update: The number of people injured in Russia’s ballistic missile attack on Kyiv has risen to 11. President Volodymyr Zelensky noted that air defenses were unable to stop the ballistic missiles: “Most of the targets were shot down by our defenders, but not the ballistic missiles.” He urged partners to quickly deliver on promised air defense packages, Patriot licenses, and the joint European...",
-    "description_uk": "Update: The number of people injured in Russia’s ballistic missile attack on Kyiv has risen to 11. President Volodymyr Zelensky noted that air defenses were unable to stop the ballistic missiles: “Most of the targets were shot down by our defenders, but not the ballistic missiles.” He urged partners to quickly deliver on promised air defense packages, Patriot licenses, and the joint European...",
-    "time": "",
-    "pubDate": "2026-07-11T08:32:15+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54194",
-    "score": 18.0,
-    "views": 2241,
+    "views": 4496,
     "forwards": 2
   }
 ]
