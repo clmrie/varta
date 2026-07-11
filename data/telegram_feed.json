@@ -1,10 +1,100 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "Chernihiv region: jet UAVs in the direction of Mena, Bakhmach from the north.",
+    "description_en": "Chernihiv region: jet UAVs in the direction of Mena, Bakhmach from the north.",
+    "description_uk": "Чернігівщина: реактивні БпЛА у напрямку Мени, Бахмача з півночі.",
+    "time": "",
+    "pubDate": "2026-07-11T18:19:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68092",
+    "score": 6.0,
+    "views": 17201,
+    "forwards": 0
+  },
+  {
+    "title": "Airstrike attack",
+    "title_en": "Airstrike attack",
+    "title_uk": "Авіаційна атака",
+    "description": "And here are the consequences of yesterday's airstrikes on the Ilsk Refinery in the Krasnodar region of the Russian Federation. Damage to tanks, technical overpasses and the ELOU-AVT-5 installation was recorded on satellite images. It is worth noting that the Ilsk Refinery is one of the largest private oil refining enterprises in the region.",
+    "description_en": "And here are the consequences of yesterday's airstrikes on the Ilsk Refinery in the Krasnodar region of the Russian Federation. Damage to tanks, technical overpasses and the ELOU-AVT-5 installation was recorded on satellite images. It is worth noting that the Ilsk Refinery is one of the largest private oil refining enterprises in the region.",
+    "description_uk": "А вот и последствия вчерашних прилетов по Ильскому НПЗ, что в краснодарском крае рф На спутниковых снимках зафиксированы повреждения резервуаров, технических эстакад и установки ЭЛОУ-АВТ-5. Стоит отметить, что Ильский НПЗ - одно из крупнейших частных нефтеперерабатывающих предприятий в регионе.",
+    "time": "",
+    "pubDate": "2026-07-11T18:19:01+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195800",
+    "score": 4.0,
+    "views": 20432,
+    "forwards": 35
+  },
+  {
+    "title": "Kyiv: 'Expressly prohibited' — Ukraine's largest defense firm illegally...",
+    "title_en": "Kyiv: 'Expressly prohibited' — Ukraine's largest defense firm illegally...",
+    "title_uk": "Київ: «Категорично заборонено» — найбільша оборонна компанія України незаконно...",
+    "description": "'Expressly prohibited' — Ukraine's largest defense firm illegally stored weapons near civilian targets in Vyshneve, Zelensky says. \"There are designated locations in Ukraine for storing weapons and ammunition — all of which are specified to be located away from residential buildings,\" Zelensky said on July 11. The storage of ammunitions in the Kyiv suburb of Vyshneve led to disaster on July 6,...",
+    "description_en": "'Expressly prohibited' — Ukraine's largest defense firm illegally stored weapons near civilian targets in Vyshneve, Zelensky says. \"There are designated locations in Ukraine for storing weapons and ammunition — all of which are specified to be located away from residential buildings,\" Zelensky said on July 11. The storage of ammunitions in the Kyiv suburb of Vyshneve led to disaster on July 6,...",
+    "description_uk": "'Expressly prohibited' — Ukraine's largest defense firm illegally stored weapons near civilian targets in Vyshneve, Zelensky says. \"There are designated locations in Ukraine for storing weapons and ammunition — all of which are specified to be located away from residential buildings,\" Zelensky said on July 11. The storage of ammunitions in the Kyiv suburb of Vyshneve led to disaster on July 6,...",
+    "time": "",
+    "pubDate": "2026-07-11T18:09:31+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54203",
+    "score": 8.0,
+    "views": 382,
+    "forwards": 2
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV in the direction of Okhtyrka in Sumy Oblast from the northeast",
+    "description_en": "UAV in the direction of Okhtyrka in Sumy Oblast from the northeast",
+    "description_uk": "БпЛА у напрямку Охтирки на Сумщині з північного сходу",
+    "time": "",
+    "pubDate": "2026-07-11T18:04:35+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68090",
+    "score": 5.0,
+    "views": 31359,
+    "forwards": 0
+  },
+  {
+    "title": "Odessa. Rusnyavye \"shahedy\" fly directly over the beaches 😡",
+    "title_en": "Odessa. Rusnyavye \"shahedy\" fly directly over the beaches 😡",
+    "title_uk": "Одеса. Русняві \"шахеди\" літають прямо над пляжами😡",
+    "description": "Odessa. Rusnyavye \"shahedy\" fly directly over the beaches 😡",
+    "description_en": "Odessa. Rusnyavye \"shahedy\" fly directly over the beaches 😡",
+    "description_uk": "Одесса. Руснявые \"шахеды\" летают прямо над пляжами 😡",
+    "time": "",
+    "pubDate": "2026-07-11T17:57:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195799",
+    "score": 5.5,
+    "views": 42997,
+    "forwards": 176
+  },
+  {
     "title": "Crimea: Explosions reported",
     "title_en": "Crimea: Explosions reported",
     "title_uk": "Крим: повідомляється про вибухи",
-    "description": "There have just been detailed reports on the situation in the city of Vyshneve - after an explosion in warehouses and a fire caused by the impact of Russian missiles. The Security Service of Ukraine and the Prosecutor General's Office are investigating all the circumstances of the tragedy as part of the criminal proceedings. Today, SBU Major General Poklad reported the first results: who and in which positions in Ukroboronprom admitted, unfortunately, that the warehouses with weapons were in Vyshnevo....",
-    "description_en": "There have just been detailed reports on the situation in the city of Vyshneve - after an explosion in warehouses and a fire caused by the impact of Russian missiles. The Security Service of Ukraine and the Prosecutor General's Office are investigating all the circumstances of the tragedy as part of the criminal proceedings. Today, SBU Major General Poklad reported the first results: who and in which positions in Ukroboronprom admitted, unfortunately, that the warehouses with weapons were in Vyshnevo....",
+    "description": "There have just been detailed reports on the situation in the city of Vyshneve - after an explosion in warehouses and a fire caused by the impact of Russian missiles. The Security Service of Ukraine and the Prosecutor General's Office are investigating all the circumstances of the tragedy as part of the criminal proceedings. Today, Major General of the SBU Poklad reported the first results: who and in what positions in Ukroboronprom admitted, unfortunately, that the warehouses with weapons were in Vyshnevo....",
+    "description_en": "There have just been detailed reports on the situation in the city of Vyshneve - after an explosion in warehouses and a fire caused by the impact of Russian missiles. The Security Service of Ukraine and the Prosecutor General's Office are investigating all the circumstances of the tragedy as part of the criminal proceedings. Today, Major General of the SBU Poklad reported the first results: who and in what positions in Ukroboronprom admitted, unfortunately, that the warehouses with weapons were in Vyshnevo....",
     "description_uk": "Щойно були детальні доповіді по ситуації у місті Вишневе – після вибуху на складах і пожежі від удару російських ракет. Служба безпеки України та Офіс Генерального прокурора в межах кримінального провадження перевіряють всі обставини трагедії. Сьогодні генерал-майор СБУ Поклад доповів перші результати: хто і на яких посадах в Укроборонпромі допустив, на жаль, що склади зі зброєю були у Вишневому....",
     "time": "",
     "pubDate": "2026-07-11T17:29:49+00:00",
@@ -13,27 +103,9 @@
     "location": "Crimea",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19875",
-    "score": 5.5,
-    "views": 16095,
-    "forwards": 159
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV in the direction of Ovidiopol/Bilhorod-Dnistrovskyi in Odesa from the Black Sea",
-    "description_en": "UAV in the direction of Ovidiopol/Bilhorod-Dnistrovskyi in Odesa from the Black Sea",
-    "description_uk": "БпЛА у напрямку Овідіополя/Білгород-Дністровського на Одещині з акваторії Чорного моря",
-    "time": "",
-    "pubDate": "2026-07-11T17:13:18+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68085",
-    "score": 5.0,
-    "views": 27302,
-    "forwards": 0
+    "score": 6.5,
+    "views": 84976,
+    "forwards": 387
   },
   {
     "title": "Evacuation ordered",
@@ -68,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54199",
     "score": 6.0,
-    "views": 544,
+    "views": 897,
     "forwards": 3
   },
   {
@@ -85,9 +157,9 @@
     "location": "Ukraine",
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23634",
-    "score": 9.5,
-    "views": 48273,
-    "forwards": 166
+    "score": 10.5,
+    "views": 64732,
+    "forwards": 205
   },
   {
     "title": "Zaporizhzhia: BpLA ➡️ course to Zaporizhzhia.",
@@ -105,24 +177,6 @@
     "link": "https://t.me/kpszsu/68075",
     "score": 6.0,
     "views": 20222,
-    "forwards": 0
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "Jet UAV ➡️ heading for Chernihiv.",
-    "description_en": "Jet UAV ➡️ heading for Chernihiv.",
-    "description_uk": "Реактивний БпЛА ➡️ курсом на Чернігів.",
-    "time": "",
-    "pubDate": "2026-07-11T15:36:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68073",
-    "score": 6.0,
-    "views": 2007,
     "forwards": 0
   },
   {
@@ -158,8 +212,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23631",
     "score": 6.5,
-    "views": 90167,
-    "forwards": 158
+    "views": 98113,
+    "forwards": 161
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -266,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9561",
     "score": 5.0,
-    "views": 665,
+    "views": 686,
     "forwards": 3
   },
   {
@@ -302,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41001",
     "score": 18.0,
-    "views": 4092,
+    "views": 4172,
     "forwards": 2
   },
   {
@@ -338,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19866",
     "score": 19.5,
-    "views": 128961,
-    "forwards": 305
+    "views": 134738,
+    "forwards": 306
   },
   {
     "title": "Kharkiv: Let's go to the northeast of Kharkiv region! 🛵 BpLA to Kharkiv from...",
@@ -360,24 +414,6 @@
     "forwards": 0
   },
   {
-    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south",
-    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south",
-    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд",
-    "description": "BpLA on Zaporozhye from the south",
-    "description_en": "BpLA on Zaporozhye from the south",
-    "description_uk": "БпЛА на Запоріжжя з півдня",
-    "time": "",
-    "pubDate": "2026-07-11T06:21:04+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68017",
-    "score": 6.0,
-    "views": 13150,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: High-speed target for Kyiv!",
     "title_en": "Kyiv: High-speed target for Kyiv!",
     "title_uk": "Київ: Швидкісна ціль для Києва!",
@@ -394,23 +430,5 @@
     "score": 6.5,
     "views": 47527,
     "forwards": 104
-  },
-  {
-    "title": "Crimea: The Ministry of Foreign Affairs of Ukraine notes the importance of...",
-    "title_en": "Crimea: The Ministry of Foreign Affairs of Ukraine notes the importance of...",
-    "title_uk": "Крим: МЗС України відзначає важливість...",
-    "description": "The Ministry of Foreign Affairs of Ukraine notes the importance of the published report of the Mission of Experts of the OSCE Moscow Mechanism \"Report on violations and abuses of international humanitarian and criminal law and international law in the field of human rights, related to the militarization and indoctrination of Ukrainian children by the Russian Federation.\" The Ministry of Foreign Affairs of Ukraine expresses its gratitude to 41 OSCE participating states,...",
-    "description_en": "The Ministry of Foreign Affairs of Ukraine notes the importance of the published report of the Mission of Experts of the OSCE Moscow Mechanism \"Report on violations and abuses of international humanitarian and criminal law and international law in the field of human rights, related to the militarization and indoctrination of Ukrainian children by the Russian Federation.\" The Ministry of Foreign Affairs of Ukraine expresses its gratitude to 41 OSCE participating states,...",
-    "description_uk": "Міністерство закордонних справ України відзначає важливість оприлюдненої доповіді Місії експертів Московського механізму ОБСЄ \"Звіт про порушення та зловживання міжнародним гуманітарним і кримінальним правом та міжнародним правом у сфері прав людини, пов’язані із мілітаризацією та індоктринацією українських дітей Російською Федерацією\". МЗС України висловлює вдячність 41 державі-учасниці ОБСЄ,...",
-    "time": "",
-    "pubDate": "2026-07-09T18:28:11+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Crimea",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9554",
-    "score": 6.0,
-    "views": 1109,
-    "forwards": 3
   }
 ]
