@@ -1,21 +1,39 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "💬 Minister of Foreign Affairs of Ukraine Andriy Sybiga: \"At night, Russia again struck Kyiv with ballistic missiles. Eleven people were injured, including a child. Putin is betting on ballistic terror. As was discussed during our negotiations with our allies in Ankara, the main goal now is to deprive Moscow of this last advantage. The steps for this are clear. But we need to act now, not later. We...",
+    "description_en": "💬 Minister of Foreign Affairs of Ukraine Andriy Sybiga: \"At night, Russia again struck Kyiv with ballistic missiles. Eleven people were injured, including a child. Putin is betting on ballistic terror. As was discussed during our negotiations with our allies in Ankara, the main goal now is to deprive Moscow of this last advantage. The steps for this are clear. But we need to act now, not later. We...",
+    "description_uk": "💬 Міністр закордонних справ України Андрій Сибіга: \"Уночі Росія знову завдала удару по Києву балістичними ракетами. Поранено одинадцять людей, серед них – дитина. Путін робить ставку на балістичний терор. Як йшлося під час наших переговорів із союзниками в Анкарі, головна мета зараз – позбавити Москву цієї останньої переваги. Кроки для цього зрозумілі. Але діяти потрібно зараз, а не пізніше. Ми...",
+    "time": "",
+    "pubDate": "2026-07-11T10:35:25+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9561",
+    "score": 5.0,
+    "views": 205,
+    "forwards": 2
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
-    "description": "Sumyshchyna: jet UAV ➡️ heading for Krolevets.",
-    "description_en": "Sumyshchyna: jet UAV ➡️ heading for Krolevets.",
-    "description_uk": "Сумщина: реактивний БпЛА ➡️ курсом на Кролевець.",
+    "description": "A group of jet UAVs ➡️ in the direction of Chernihiv.",
+    "description_en": "A group of jet UAVs ➡️ in the direction of Chernihiv.",
+    "description_uk": "Група реактивних БпЛА ➡️ у напрямку Чернігова.",
     "time": "",
-    "pubDate": "2026-07-11T09:52:36+00:00",
+    "pubDate": "2026-07-11T10:22:41+00:00",
     "category": "drone",
     "severity": "high",
-    "location": "Sumy",
+    "location": "Chernihiv",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68040",
-    "score": 5.0,
-    "views": 6071,
-    "forwards": 0
+    "link": "https://t.me/kpszsu/68042",
+    "score": 5.5,
+    "views": 30348,
+    "forwards": 68
   },
   {
     "title": "Chernihiv: A group of jet UAVs ➡️ in Chernihiv.",
@@ -50,8 +68,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41001",
     "score": 18.0,
-    "views": 1994,
-    "forwards": 1
+    "views": 2783,
+    "forwards": 2
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -68,13 +86,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54194",
     "score": 18.0,
-    "views": 786,
+    "views": 1098,
     "forwards": 1
   },
   {
     "title": "Chernihiv: Shelling near civilians",
     "title_en": "Chernihiv: Shelling near civilians",
-    "title_uk": "Chernihiv: Shelling near civilians",
+    "title_uk": "Чернігів: Обстріли поблизу мирних жителів",
     "description": "Eleven people were injured in Kyiv during a nighttime Russian attack, including a child. Even before the announcement of the air alert, there were hits on civilian infrastructure. Operational services are working on the ground: residential buildings, offices, theological seminary were damaged in the capital. The liquidation of the consequences of shelling continues in Odesa, Sumy, Kharkiv and Chernihiv regions. Russia used...",
     "description_en": "Eleven people were injured in Kyiv during a nighttime Russian attack, including a child. Even before the announcement of the air alert, there were hits on civilian infrastructure. Operational services are working on the ground: residential buildings, offices, theological seminary were damaged in the capital. The liquidation of the consequences of shelling continues in Odesa, Sumy, Kharkiv and Chernihiv regions. Russia used...",
     "description_uk": "Одинадцять людей поранено у Києві під час нічної російської атаки, серед них дитина. Ще до оголошення повітряної тривоги були влучання по цивільній інфраструктурі. На місцях працюють оперативні служби: житлові будинки, офіси, богословська семінарія були пошкоджені у столиці. Триває ліквідація наслідків обстрілу і в Одеській, Сумській, Харківській та Чернігівській областях. Росія застосувала...",
@@ -86,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19866",
     "score": 19.5,
-    "views": 73805,
-    "forwards": 247
+    "views": 87740,
+    "forwards": 259
   },
   {
     "title": "Kharkiv: Let's go to the northeast of Kharkiv region! 🛵 BpLA to Kharkiv from...",
@@ -180,42 +198,6 @@
     "forwards": 0
   },
   {
-    "title": "Zaporizhzhia: Zaporizhzhia - BpLA near the city.",
-    "title_en": "Zaporizhzhia: Zaporizhzhia - BpLA near the city.",
-    "title_uk": "Запоріжжя: Запоріжжя – БпЛА біля міста.",
-    "description": "Zaporizhzhia - BpLA near the city.",
-    "description_en": "Zaporizhzhia - BpLA near the city.",
-    "description_uk": "Запоріжжя - БпЛА поблизу міста.",
-    "time": "",
-    "pubDate": "2026-07-10T22:38:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67973",
-    "score": 6.0,
-    "views": 17717,
-    "forwards": 1
-  },
-  {
-    "title": "Odesa: Odesa - BpLA in the direction of the city.",
-    "title_en": "Odesa: Odesa - BpLA in the direction of the city.",
-    "title_uk": "Одеса: Одеса – БпЛА в напрямку м.",
-    "description": "Odesa - BpLA in the direction of the city.",
-    "description_en": "Odesa - BpLA in the direction of the city.",
-    "description_uk": "Одеса - БпЛА в напрямку міста.",
-    "time": "",
-    "pubDate": "2026-07-10T22:12:43+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67972",
-    "score": 6.0,
-    "views": 13825,
-    "forwards": 15
-  },
-  {
     "title": "Strike confirmed",
     "title_en": "Strike confirmed",
     "title_uk": "Страйк підтверджено",
@@ -230,7 +212,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19865",
     "score": 4.0,
-    "views": 50186,
+    "views": 51549,
     "forwards": 33
   },
   {
@@ -252,24 +234,6 @@
     "forwards": 155
   },
   {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "114 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of July 10 (from 18:00 on July 9), the enemy attacked 137 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, Barrage munitions \"Banderol\" and imitation drones of the \"Parody\" type from the directions: Orel, Bryansk, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile forces, units...",
-    "description_en": "114 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of July 10 (from 18:00 on July 9), the enemy attacked 137 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, Barrage munitions \"Banderol\" and imitation drones of the \"Parody\" type from the directions: Orel, Bryansk, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile forces, units...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 114 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 10 липня (з 18:00 09 липня) противник атакував 137 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас, баражуючими боєприпасами \"Бандероль\" та дронами-імітаторами типу «Пародія» із напрямків: Орел, Брянськ, Міллерово, Приморсько-Ахтарськ – рф., ТОТ Донецьк. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи...",
-    "time": "",
-    "pubDate": "2026-07-10T06:43:37+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/40972",
-    "score": 13.0,
-    "views": 7200,
-    "forwards": 13
-  },
-  {
     "title": "Crimea: The Ministry of Foreign Affairs of Ukraine notes the importance of...",
     "title_en": "Crimea: The Ministry of Foreign Affairs of Ukraine notes the importance of...",
     "title_uk": "Крим: МЗС України відзначає важливість...",
@@ -284,7 +248,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9554",
     "score": 6.0,
-    "views": 1082,
+    "views": 1094,
     "forwards": 3
   },
   {
@@ -302,7 +266,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23627",
     "score": 14.5,
-    "views": 181278,
-    "forwards": 289
+    "views": 181848,
+    "forwards": 290
   }
 ]
