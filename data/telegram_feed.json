@@ -1,5 +1,77 @@
 [
   {
+    "title": "Casualties reported",
+    "title_en": "Casualties reported",
+    "title_uk": "Повідомляється про постраждалих",
+    "description": "The former commander of the 155th OMBr, Stanislav Luchanov, was charged with kidnapping and murder of two civilians in the Kyiv region. He himself is in the Northwest Territories. Earlier, the mass media reported that Luchanov, probably because of a domestic conflict, ordered subordinates to deal with two people, after which the military kidnapped two brothers from the village of Kalinovka, took them to the Poltava region and killed them. The bodies of the victims...",
+    "description_en": "The former commander of the 155th OMBr, Stanislav Luchanov, was charged with kidnapping and murder of two civilians in the Kyiv region. He himself is in the Northwest Territories. Earlier, the mass media reported that Luchanov, probably because of a domestic conflict, ordered subordinates to deal with two people, after which the military kidnapped two brothers from the village of Kalinovka, took them to the Poltava region and killed them. The bodies of the victims...",
+    "description_uk": "Бывшему командиру 155-й ОМБр Станиславу Лучанову было предъявлено подозрение по делу о похищении и убийстве двух гражданских лиц в Киевской области. Сам он находится в СЗЧ. Ранее СМИ сообщали, что Лучанов, вероятно, из-за бытового конфликта приказал подчинённым расправиться с двумя людьми, после чего военные похитили двух братьев из села Калиновка, вывезли в Полтавскую область и убили. Тела жертв...",
+    "time": "",
+    "pubDate": "2026-07-11T19:39:45+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Poltava",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195804",
+    "score": 5.0,
+    "views": 15126,
+    "forwards": 38
+  },
+  {
+    "title": "Sumyshchyna: BpLA in the direction of Shostka, Krasnopillya.",
+    "title_en": "Sumyshchyna: BpLA in the direction of Shostka, Krasnopillya.",
+    "title_uk": "Сумщина: БпЛА в напрямку Шостка, Краснопілля.",
+    "description": "Sumyshchyna: BpLA in the direction of Shostka, Krasnopillya.",
+    "description_en": "Sumyshchyna: BpLA in the direction of Shostka, Krasnopillya.",
+    "description_uk": "Сумщина: БпЛА у напрямку Шостки, Краснопілля.",
+    "time": "",
+    "pubDate": "2026-07-11T18:59:53+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68095",
+    "score": 5.0,
+    "views": 50636,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: Kharkiv region: a group of BpLA in the Stary Saltov district.",
+    "title_en": "Kharkiv: Kharkiv region: a group of BpLA in the Stary Saltov district.",
+    "title_uk": "Харків : Харківська область : група БпЛА у Старосалтівському районі.",
+    "description": "Kharkiv region: a group of BpLA in the Stary Saltov district.",
+    "description_en": "Kharkiv region: a group of BpLA in the Stary Saltov district.",
+    "description_uk": "Харківщина: група БпЛА в районі Старого Салтова.",
+    "time": "",
+    "pubDate": "2026-07-11T18:43:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68094",
+    "score": 6.0,
+    "views": 62744,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Update: Zelensky announces accelerated exhumations of Volyn massacre...",
+    "title_en": "Kyiv: Update: Zelensky announces accelerated exhumations of Volyn massacre...",
+    "title_uk": "Київ: Оновлення: Зеленський анонсує прискорені ексгумації Волинської різанини...",
+    "description": "Update: Zelensky announces accelerated exhumations of Volyn massacre victims. \"Exhumation operations will begin in two days in the villages of Ostrivky and Volia Ostrovetska,\" Zelensky said on July 11, Poland's National Day of Remembrance for victims of the Volyn massacres.",
+    "description_en": "Update: Zelensky announces accelerated exhumations of Volyn massacre victims. \"Exhumation operations will begin in two days in the villages of Ostrivky and Volia Ostrovetska,\" Zelensky said on July 11, Poland's National Day of Remembrance for victims of the Volyn massacres.",
+    "description_uk": "Update: Zelensky announces accelerated exhumations of Volyn massacre victims. \"Exhumation operations will begin in two days in the villages of Ostrivky and Volia Ostrovetska,\" Zelensky said on July 11, Poland's National Day of Remembrance for victims of the Volyn massacres.",
+    "time": "",
+    "pubDate": "2026-07-11T18:41:04+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54204",
+    "score": 6.0,
+    "views": 837,
+    "forwards": 4
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -31,9 +103,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195800",
-    "score": 4.0,
-    "views": 20432,
-    "forwards": 35
+    "score": 4.5,
+    "views": 83995,
+    "forwards": 70
   },
   {
     "title": "Kyiv: 'Expressly prohibited' — Ukraine's largest defense firm illegally...",
@@ -50,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54203",
     "score": 8.0,
-    "views": 382,
-    "forwards": 2
+    "views": 1077,
+    "forwards": 3
   },
   {
     "title": "Drone incoming",
@@ -93,8 +165,8 @@
     "title": "Crimea: Explosions reported",
     "title_en": "Crimea: Explosions reported",
     "title_uk": "Крим: повідомляється про вибухи",
-    "description": "There have just been detailed reports on the situation in the city of Vyshneve - after an explosion in warehouses and a fire caused by the impact of Russian missiles. The Security Service of Ukraine and the Prosecutor General's Office are investigating all the circumstances of the tragedy as part of the criminal proceedings. Today, Major General of the SBU Poklad reported the first results: who and in what positions in Ukroboronprom admitted, unfortunately, that the warehouses with weapons were in Vyshnevo....",
-    "description_en": "There have just been detailed reports on the situation in the city of Vyshneve - after an explosion in warehouses and a fire caused by the impact of Russian missiles. The Security Service of Ukraine and the Prosecutor General's Office are investigating all the circumstances of the tragedy as part of the criminal proceedings. Today, Major General of the SBU Poklad reported the first results: who and in what positions in Ukroboronprom admitted, unfortunately, that the warehouses with weapons were in Vyshnevo....",
+    "description": "There have just been detailed reports on the situation in the city of Vyshneve - after an explosion in warehouses and a fire caused by the impact of Russian missiles. The Security Service of Ukraine and the Prosecutor General's Office are investigating all the circumstances of the tragedy as part of the criminal proceedings. Today, SBU Major General Poklad reported the first results: who and in which positions in Ukroboronprom admitted, unfortunately, that the warehouses with weapons were in Vyshnevo....",
+    "description_en": "There have just been detailed reports on the situation in the city of Vyshneve - after an explosion in warehouses and a fire caused by the impact of Russian missiles. The Security Service of Ukraine and the Prosecutor General's Office are investigating all the circumstances of the tragedy as part of the criminal proceedings. Today, SBU Major General Poklad reported the first results: who and in which positions in Ukroboronprom admitted, unfortunately, that the warehouses with weapons were in Vyshnevo....",
     "description_uk": "Щойно були детальні доповіді по ситуації у місті Вишневе – після вибуху на складах і пожежі від удару російських ракет. Служба безпеки України та Офіс Генерального прокурора в межах кримінального провадження перевіряють всі обставини трагедії. Сьогодні генерал-майор СБУ Поклад доповів перші результати: хто і на яких посадах в Укроборонпромі допустив, на жаль, що склади зі зброєю були у Вишневому....",
     "time": "",
     "pubDate": "2026-07-11T17:29:49+00:00",
@@ -104,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19875",
     "score": 6.5,
-    "views": 84976,
-    "forwards": 387
+    "views": 150887,
+    "forwards": 515
   },
   {
     "title": "Evacuation ordered",
@@ -158,8 +230,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23634",
     "score": 10.5,
-    "views": 64732,
-    "forwards": 205
+    "views": 81406,
+    "forwards": 232
   },
   {
     "title": "Zaporizhzhia: BpLA ➡️ course to Zaporizhzhia.",
@@ -212,8 +284,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23631",
     "score": 6.5,
-    "views": 98113,
-    "forwards": 161
+    "views": 106785,
+    "forwards": 164
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -320,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9561",
     "score": 5.0,
-    "views": 686,
+    "views": 703,
     "forwards": 3
   },
   {
@@ -356,7 +428,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41001",
     "score": 18.0,
-    "views": 4172,
+    "views": 4342,
     "forwards": 2
   },
   {
@@ -376,59 +448,5 @@
     "score": 18.0,
     "views": 2241,
     "forwards": 2
-  },
-  {
-    "title": "Chernihiv: Shelling near civilians",
-    "title_en": "Chernihiv: Shelling near civilians",
-    "title_uk": "Чернігів: Обстріли поблизу мирних жителів",
-    "description": "Eleven people were injured in Kyiv during a nighttime Russian attack, including a child. Even before the announcement of the air alert, there were hits on civilian infrastructure. Operational services are working on the ground: residential buildings, offices, theological seminary were damaged in the capital. The liquidation of the consequences of shelling continues in Odesa, Sumy, Kharkiv and Chernihiv regions. Russia used...",
-    "description_en": "Eleven people were injured in Kyiv during a nighttime Russian attack, including a child. Even before the announcement of the air alert, there were hits on civilian infrastructure. Operational services are working on the ground: residential buildings, offices, theological seminary were damaged in the capital. The liquidation of the consequences of shelling continues in Odesa, Sumy, Kharkiv and Chernihiv regions. Russia used...",
-    "description_uk": "Одинадцять людей поранено у Києві під час нічної російської атаки, серед них дитина. Ще до оголошення повітряної тривоги були влучання по цивільній інфраструктурі. На місцях працюють оперативні служби: житлові будинки, офіси, богословська семінарія були пошкоджені у столиці. Триває ліквідація наслідків обстрілу і в Одеській, Сумській, Харківській та Чернігівській областях. Росія застосувала...",
-    "time": "",
-    "pubDate": "2026-07-11T07:39:16+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Chernihiv",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19866",
-    "score": 19.5,
-    "views": 134738,
-    "forwards": 306
-  },
-  {
-    "title": "Kharkiv: Let's go to the northeast of Kharkiv region! 🛵 BpLA to Kharkiv from...",
-    "title_en": "Kharkiv: Let's go to the northeast of Kharkiv region! 🛵 BpLA to Kharkiv from...",
-    "title_uk": "Харків: Їдемо на північний схід Харківщини! 🛵 BpLA до Харкова з...",
-    "description": "Let's go to the northeast of Kharkiv region! 🛵 BpLA to Kharkiv from the north",
-    "description_en": "Let's go to the northeast of Kharkiv region! 🛵 BpLA to Kharkiv from the north",
-    "description_uk": "КАБи на північний схід Харківщини! 🛵 БпЛА на Харків із півночі",
-    "time": "",
-    "pubDate": "2026-07-11T06:31:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68018",
-    "score": 6.0,
-    "views": 2007,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: High-speed target for Kyiv!",
-    "title_en": "Kyiv: High-speed target for Kyiv!",
-    "title_uk": "Київ: Швидкісна ціль для Києва!",
-    "description": "High-speed target for Kyiv!",
-    "description_en": "High-speed target for Kyiv!",
-    "description_uk": "Швидкісна ціль на Київ!",
-    "time": "",
-    "pubDate": "2026-07-11T00:52:55+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67982",
-    "score": 6.5,
-    "views": 47527,
-    "forwards": 104
   }
 ]
