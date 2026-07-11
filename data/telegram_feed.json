@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: High-speed target for Kyiv!",
+    "title_en": "Kyiv: High-speed target for Kyiv!",
+    "title_uk": "Київ: Швидкісна ціль для Києва!",
+    "description": "High-speed target for Kyiv!",
+    "description_en": "High-speed target for Kyiv!",
+    "description_uk": "Швидкісна ціль на Київ!",
+    "time": "",
+    "pubDate": "2026-07-11T00:52:55+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67982",
+    "score": 6.5,
+    "views": 47527,
+    "forwards": 104
+  },
+  {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "Explosions reported in Kyiv amid missile threat. Kyiv Independent journalists on the ground reported explosions in the capital at around 3:40 a.m. local time as Ukraine's Air Force warned of the threat of Russian ballistic missiles heading toward Kyiv.",
+    "description_en": "Explosions reported in Kyiv amid missile threat. Kyiv Independent journalists on the ground reported explosions in the capital at around 3:40 a.m. local time as Ukraine's Air Force warned of the threat of Russian ballistic missiles heading toward Kyiv.",
+    "description_uk": "Explosions reported in Kyiv amid missile threat. Kyiv Independent journalists on the ground reported explosions in the capital at around 3:40 a.m. local time as Ukraine's Air Force warned of the threat of Russian ballistic missiles heading toward Kyiv.",
+    "time": "",
+    "pubDate": "2026-07-11T00:50:34+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54188",
+    "score": 10.0,
+    "views": 343,
+    "forwards": 1
+  },
+  {
+    "title": "A group of UAVs from the Black Sea to the south of Odesa, vector -...",
+    "title_en": "A group of UAVs from the Black Sea to the south of Odesa, vector -...",
+    "title_uk": "Група БПЛА з Чорного моря на південь від Одеси, вектор -...",
+    "description": "A group of UAVs from the Black Sea to the south of Odesa, vector - Tatarbunary/Sarata.",
+    "description_en": "A group of UAVs from the Black Sea to the south of Odesa, vector - Tatarbunary/Sarata.",
+    "description_uk": "Група БпЛА з акваторії Чорного моря на південь Одещини, вектор - Татарбунари/Сарата.",
+    "time": "",
+    "pubDate": "2026-07-11T00:23:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/67980",
+    "score": 5.0,
+    "views": 66321,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -68,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195741",
     "score": 4.5,
-    "views": 65486,
-    "forwards": 217
+    "views": 85739,
+    "forwards": 227
   },
   {
     "title": "Strike confirmed",
@@ -86,7 +140,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19865",
     "score": 4.0,
-    "views": 25195,
+    "views": 28517,
     "forwards": 27
   },
   {
@@ -104,7 +158,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195735",
     "score": 3.5,
-    "views": 108389,
+    "views": 116352,
     "forwards": 143
   },
   {
@@ -122,8 +176,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54183",
     "score": 5.0,
-    "views": 1870,
-    "forwards": 6
+    "views": 2041,
+    "forwards": 7
   },
   {
     "title": "Kyiv: Moldova to receive largest-ever EU air defense support package,...",
@@ -252,78 +306,6 @@
     "forwards": 7
   },
   {
-    "title": "Kyiv: Moscow Oil Refinery reportedly on fire again. Smoke and a fire were...",
-    "title_en": "Kyiv: Moscow Oil Refinery reportedly on fire again. Smoke and a fire were...",
-    "title_uk": "Київ: знову сталася пожежа на Московському НПЗ. Був дим і вогонь...",
-    "description": "Moscow Oil Refinery reportedly on fire again. Smoke and a fire were reported near Moscow’s oil refinery on July 10, according to Telegram monitoring channels, though the cause of the blaze has not been confirmed.",
-    "description_en": "Moscow Oil Refinery reportedly on fire again. Smoke and a fire were reported near Moscow’s oil refinery on July 10, according to Telegram monitoring channels, though the cause of the blaze has not been confirmed.",
-    "description_uk": "Moscow Oil Refinery reportedly on fire again. Smoke and a fire were reported near Moscow’s oil refinery on July 10, according to Telegram monitoring channels, though the cause of the blaze has not been confirmed.",
-    "time": "",
-    "pubDate": "2026-07-10T12:53:06+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54176",
-    "score": 5.0,
-    "views": 1876,
-    "forwards": 4
-  },
-  {
-    "title": "Zaporizhzhia: Another KAB in the direction of Zaporozhye.",
-    "title_en": "Zaporizhzhia: Another KAB in the direction of Zaporozhye.",
-    "title_uk": "Запоріжжя: Ще один КАБ у напрямку Запоріжжя.",
-    "description": "Another KAB in the direction of Zaporozhye.",
-    "description_en": "Another KAB in the direction of Zaporozhye.",
-    "description_uk": "Ще КАБи у напрямку м. Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-07-10T12:52:30+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67950",
-    "score": 6.0,
-    "views": 13134,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: KAB in the direction of Zaporozhye.",
-    "title_en": "Zaporizhzhia: KAB in the direction of Zaporozhye.",
-    "title_uk": "Запоріжжя: КАБ у напрямку Запоріжжя.",
-    "description": "KAB in the direction of Zaporozhye.",
-    "description_en": "KAB in the direction of Zaporozhye.",
-    "description_uk": "КАБи у напрямку м. Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-07-10T12:43:30+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/67949",
-    "score": 6.0,
-    "views": 22255,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Air defense active",
-    "title_en": "Kyiv: Air defense active",
-    "title_uk": "Київ: ППО діюча",
-    "description": "Polish defense minister fends off criticism over sending Patriot missiles to Ukraine. “I’d rather those missiles intercept projectiles over Ukraine than have Russian missiles ever reach Poland,” Polish Defense Minister Wladyslaw Kosiniak-Kamysz said.",
-    "description_en": "Polish defense minister fends off criticism over sending Patriot missiles to Ukraine. “I’d rather those missiles intercept projectiles over Ukraine than have Russian missiles ever reach Poland,” Polish Defense Minister Wladyslaw Kosiniak-Kamysz said.",
-    "description_uk": "Polish defense minister fends off criticism over sending Patriot missiles to Ukraine. “I’d rather those missiles intercept projectiles over Ukraine than have Russian missiles ever reach Poland,” Polish Defense Minister Wladyslaw Kosiniak-Kamysz said.",
-    "time": "",
-    "pubDate": "2026-07-10T12:38:56+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54175",
-    "score": 5.0,
-    "views": 460,
-    "forwards": 2
-  },
-  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -338,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19859",
     "score": 15.5,
-    "views": 86742,
+    "views": 87898,
     "forwards": 246
   },
   {
@@ -356,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/40972",
     "score": 13.0,
-    "views": 6628,
+    "views": 6672,
     "forwards": 13
   },
   {
@@ -410,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9554",
     "score": 6.0,
-    "views": 1025,
+    "views": 1040,
     "forwards": 3
   },
   {
@@ -428,7 +410,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23627",
     "score": 14.5,
-    "views": 175084,
+    "views": 175810,
     "forwards": 286
   }
 ]
