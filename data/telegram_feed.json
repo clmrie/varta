@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "🛸 UAV in the direction of Sumy from the southeast.",
+    "description_en": "🛸 UAV in the direction of Sumy from the southeast.",
+    "description_uk": "🛸 БпЛА в напрямку Сум з південного сходу.",
+    "time": "",
+    "pubDate": "2026-07-12T16:11:47+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68214",
+    "score": 5.0,
+    "views": 5045,
+    "forwards": 1
+  },
+  {
+    "title": "BpLA ➡️ in the direction of Kharkiv from the east.",
+    "title_en": "BpLA ➡️ in the direction of Kharkiv from the east.",
+    "title_uk": "BpLA ➡️ в напрямку Харкова зі сх.",
+    "description": "BpLA ➡️ in the direction of Kharkiv from the east.",
+    "description_en": "BpLA ➡️ in the direction of Kharkiv from the east.",
+    "description_uk": "БпЛА ➡️ в напрямку Харкова зі сходу.",
+    "time": "",
+    "pubDate": "2026-07-12T15:48:37+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68212",
+    "score": 5.0,
+    "views": 26332,
+    "forwards": 0
+  },
+  {
+    "title": "🎙 Zelensky announced personnel reshuffles in the state 🔎 The...",
+    "title_en": "🎙 Zelensky announced personnel reshuffles in the state 🔎 The...",
+    "title_uk": "🎙 Зеленський анонсував кадрові перестановки в державі 🔎 У...",
+    "description": "🎙 Zelensky announced personnel reshuffles in the state 🔎 The President discussed the details with Prime Minister Yulia Svyridenko: the implementation of the updated strategy requires an update of the Cabinet of Ministers. Zelensky thanked her for her clear, stable and effective work and offered to lead a new direction in relations with a key partner. There will also be changes in the composition of the heads of law enforcement...",
+    "description_en": "🎙 Zelensky announced personnel reshuffles in the state 🔎 The President discussed the details with Prime Minister Yulia Svyridenko: the implementation of the updated strategy requires an update of the Cabinet of Ministers. Zelensky thanked her for her clear, stable and effective work and offered to lead a new direction in relations with a key partner. There will also be changes in the composition of the heads of law enforcement...",
+    "description_uk": "🎙 Зеленський оголосив про кадрові перестановки в державі 🔎 Президент обговорив деталі з Прем’єр-міністром Юлією Свириденко: для реалізації оновленої стратегії потрібне оновлення Кабінету Міністрів. Зеленський подякував їй за чітку, стабільну й ефективну роботу та запропонував очолити новий напрямок у відносинах із ключовим партнером. Також відбудуться зміни у складі керівників правоохоронних...",
+    "time": "",
+    "pubDate": "2026-07-12T15:41:09+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23635",
+    "score": 9.0,
+    "views": 38211,
+    "forwards": 103
+  },
+  {
     "title": "UAV from the Black Sea area ➡️ course to Odesa (Lymanka/Chornomorsk,...",
     "title_en": "UAV from the Black Sea area ➡️ course to Odesa (Lymanka/Chornomorsk,...",
     "title_uk": "БПЛА з акваторії Чорного моря ➡️ курс на Одесу (Лиманка/Чорноморськ,...",
@@ -50,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195850",
     "score": 3.5,
-    "views": 46494,
-    "forwards": 74
+    "views": 82202,
+    "forwards": 109
   },
   {
     "title": "Kharkiv: A high-speed target for Kharkiv region from Donetsk region!",
@@ -86,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195848",
     "score": 4.5,
-    "views": 77835,
-    "forwards": 248
+    "views": 101666,
+    "forwards": 283
   },
   {
     "title": "Chernihiv: Chernihiv region: BpLA ➡️ in the direction of Mena/Sosnytsia.",
@@ -122,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19882",
     "score": 6.5,
-    "views": 80953,
-    "forwards": 316
+    "views": 90796,
+    "forwards": 334
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -158,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19880",
     "score": 4.0,
-    "views": 49377,
-    "forwards": 190
+    "views": 53327,
+    "forwards": 192
   },
   {
     "title": "Serhii Koretskyi's report. I am grateful for the effective work at...",
@@ -356,8 +410,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41056",
     "score": 13.0,
-    "views": 7944,
-    "forwards": 19
+    "views": 8167,
+    "forwards": 20
   },
   {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south",
@@ -378,24 +432,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A jet UAV in the direction of Kryvyi Rih from the north",
-    "description_en": "A jet UAV in the direction of Kryvyi Rih from the north",
-    "description_uk": "Реактивний БпЛА у напрямку Кривого Рогу з півночі",
-    "time": "",
-    "pubDate": "2026-07-12T04:28:23+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68144",
-    "score": 5.0,
-    "views": 5052,
-    "forwards": 0
-  },
-  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Харків: Дрон вхід",
@@ -412,41 +448,5 @@
     "score": 6.0,
     "views": 12130,
     "forwards": 0
-  },
-  {
-    "title": "Kyiv: Attack attack",
-    "title_en": "Kyiv: Attack attack",
-    "title_uk": "Київ: Атака",
-    "description": "Key Russian oil refinery struck in Ukrainian attack. Ukraine's military reportedly struck a major Russian oil refinery in the city of Syzran in Samara Oblast overnight on July 12, Russian Telegram media channels reported.",
-    "description_en": "Key Russian oil refinery struck in Ukrainian attack. Ukraine's military reportedly struck a major Russian oil refinery in the city of Syzran in Samara Oblast overnight on July 12, Russian Telegram media channels reported.",
-    "description_uk": "Key Russian oil refinery struck in Ukrainian attack. Ukraine's military reportedly struck a major Russian oil refinery in the city of Syzran in Samara Oblast overnight on July 12, Russian Telegram media channels reported.",
-    "time": "",
-    "pubDate": "2026-07-12T02:43:59+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54208",
-    "score": 8.0,
-    "views": 2746,
-    "forwards": 3
-  },
-  {
-    "title": "Casualties reported",
-    "title_en": "Casualties reported",
-    "title_uk": "Повідомляється про постраждалих",
-    "description": "The former commander of the 155th OMBr, Stanislav Luchanov, was charged with kidnapping and murder of two civilians in the Kyiv region. He himself is in the Northwest Territories. Earlier, the mass media reported that Luchanov, probably because of a domestic conflict, ordered subordinates to deal with two people, after which the military kidnapped two brothers from the village of Kalinovka, took them to the Poltava region and killed them. The bodies of the victims...",
-    "description_en": "The former commander of the 155th OMBr, Stanislav Luchanov, was charged with kidnapping and murder of two civilians in the Kyiv region. He himself is in the Northwest Territories. Earlier, the mass media reported that Luchanov, probably because of a domestic conflict, ordered subordinates to deal with two people, after which the military kidnapped two brothers from the village of Kalinovka, took them to the Poltava region and killed them. The bodies of the victims...",
-    "description_uk": "Бывшему командиру 155-й ОМБр Станиславу Лучанову было предъявлено подозрение по делу о похищении и убийстве двух гражданских лиц в Киевской области. Сам он находится в СЗЧ. Ранее СМИ сообщали, что Лучанов, вероятно, из-за бытового конфликта приказал подчинённым расправиться с двумя людьми, после чего военные похитили двух братьев из села Калиновка, вывезли в Полтавскую область и убили. Тела жертв...",
-    "time": "",
-    "pubDate": "2026-07-11T19:39:45+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Poltava",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195804",
-    "score": 6.5,
-    "views": 183735,
-    "forwards": 213
   }
 ]
