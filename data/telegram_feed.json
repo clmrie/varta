@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kyiv: Explosions reported",
+    "title_en": "Kyiv: Explosions reported",
+    "title_uk": "Київ: повідомлення про вибухи",
+    "description": "Ukraine's state defense firm dismisses officials after deadly Vyshneve depot explosion. Ukroboronprom dismissed two officials on July 12 following an investigation into a deadly explosion at one of its ammunition depots during a Russian attack on the Kyiv suburb of Vyshneve.",
+    "description_en": "Ukraine's state defense firm dismisses officials after deadly Vyshneve depot explosion. Ukroboronprom dismissed two officials on July 12 following an investigation into a deadly explosion at one of its ammunition depots during a Russian attack on the Kyiv suburb of Vyshneve.",
+    "description_uk": "Ukraine's state defense firm dismisses officials after deadly Vyshneve depot explosion. Ukroboronprom dismissed two officials on July 12 following an investigation into a deadly explosion at one of its ammunition depots during a Russian attack on the Kyiv suburb of Vyshneve.",
+    "time": "",
+    "pubDate": "2026-07-12T18:17:40+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54217",
+    "score": 10.0,
+    "views": 237,
+    "forwards": 0
+  },
+  {
     "title": "Dnipro: BpLA in the Kryvorizka district of the Dnipropetrovsk region, heading...",
     "title_en": "Dnipro: BpLA in the Kryvorizka district of the Dnipropetrovsk region, heading...",
     "title_uk": "Дніпро: БпЛА у Криворізькому районі Дніпропетровської області, заголовок...",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/68217",
     "score": 6.0,
-    "views": 1,
+    "views": 48603,
     "forwards": 0
   },
   {
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/68216",
     "score": 5.0,
-    "views": 18218,
+    "views": 58721,
     "forwards": 0
   },
   {
@@ -68,8 +86,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23635",
     "score": 9.0,
-    "views": 68616,
-    "forwards": 152
+    "views": 88742,
+    "forwards": 165
   },
   {
     "title": "UAV from the Black Sea area ➡️ course to Odesa (Lymanka/Chornomorsk,...",
@@ -122,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195850",
     "score": 3.5,
-    "views": 110301,
-    "forwards": 113
+    "views": 128511,
+    "forwards": 148
   },
   {
     "title": "Kharkiv: A high-speed target for Kharkiv region from Donetsk region!",
@@ -158,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195848",
     "score": 4.5,
-    "views": 123266,
-    "forwards": 284
+    "views": 138277,
+    "forwards": 318
   },
   {
     "title": "Chernihiv: Chernihiv region: BpLA ➡️ in the direction of Mena/Sosnytsia.",
@@ -194,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19882",
     "score": 6.5,
-    "views": 100486,
-    "forwards": 345
+    "views": 106656,
+    "forwards": 352
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -230,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19880",
     "score": 4.0,
-    "views": 57391,
-    "forwards": 197
+    "views": 60168,
+    "forwards": 199
   },
   {
     "title": "Serhii Koretskyi's report. I am grateful for the effective work at...",
@@ -428,25 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41056",
     "score": 13.0,
-    "views": 8364,
+    "views": 8519,
     "forwards": 20
-  },
-  {
-    "title": "Kyiv: Attack attack",
-    "title_en": "Kyiv: Attack attack",
-    "title_uk": "Київ: Атака",
-    "description": "Key Russian oil refinery struck in Ukrainian attack. Ukraine's military reportedly struck a major Russian oil refinery in the city of Syzran in Samara Oblast overnight on July 12, Russian Telegram media channels reported.",
-    "description_en": "Key Russian oil refinery struck in Ukrainian attack. Ukraine's military reportedly struck a major Russian oil refinery in the city of Syzran in Samara Oblast overnight on July 12, Russian Telegram media channels reported.",
-    "description_uk": "Key Russian oil refinery struck in Ukrainian attack. Ukraine's military reportedly struck a major Russian oil refinery in the city of Syzran in Samara Oblast overnight on July 12, Russian Telegram media channels reported.",
-    "time": "",
-    "pubDate": "2026-07-12T02:43:59+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54208",
-    "score": 8.0,
-    "views": 2883,
-    "forwards": 3
   }
 ]
