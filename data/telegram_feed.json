@@ -3,18 +3,36 @@
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
-    "description": "Jet UAVs from the Black Sea area ➡️ in the direction of Chornomorsk.",
-    "description_en": "Jet UAVs from the Black Sea area ➡️ in the direction of Chornomorsk.",
-    "description_uk": "Реактивні БпЛА з акваторії Чорного моря ➡️ в напрямку Чорноморська.",
+    "description": "UAV from the Black Sea area ➡️ in the direction of Chornomorsk.",
+    "description_en": "UAV from the Black Sea area ➡️ in the direction of Chornomorsk.",
+    "description_uk": "БпЛА з акваторії Чорного моря ➡️ в напрямку Чорноморська.",
     "time": "",
-    "pubDate": "2026-07-12T21:06:49+00:00",
+    "pubDate": "2026-07-12T22:06:50+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Ukraine",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68241",
+    "link": "https://t.me/kpszsu/68250",
     "score": 5.0,
-    "views": 15184,
+    "views": 3042,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: A high-speed target in the Kharkiv region in the direction of Stary...",
+    "title_en": "Kharkiv: A high-speed target in the Kharkiv region in the direction of Stary...",
+    "title_uk": "Харків: Швидкісна ціль у Харківській області в напрямку Старого...",
+    "description": "A high-speed target in the Kharkiv region in the direction of Stary Saltov from the north.",
+    "description_en": "A high-speed target in the Kharkiv region in the direction of Stary Saltov from the north.",
+    "description_uk": "Швидкісна ціль на Харківщині в напрямку Старого Салтова з півночі.",
+    "time": "",
+    "pubDate": "2026-07-12T22:05:17+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68249",
+    "score": 6.0,
+    "views": 5051,
     "forwards": 0
   },
   {
@@ -50,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195874",
     "score": 4.5,
-    "views": 40380,
-    "forwards": 280
+    "views": 60391,
+    "forwards": 350
   },
   {
     "title": "🤬 In Odessa, a Russian UAV flew into a residential building, local...",
@@ -68,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195867",
     "score": 6.5,
-    "views": 78221,
-    "forwards": 211
+    "views": 91583,
+    "forwards": 249
   },
   {
     "title": "🤬 In Odessa, a Russian UAV flew into a residential building, the...",
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54217",
     "score": 10.0,
-    "views": 1444,
+    "views": 1628,
     "forwards": 2
   },
   {
@@ -212,8 +230,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23635",
     "score": 9.0,
-    "views": 113459,
-    "forwards": 177
+    "views": 116345,
+    "forwards": 178
   },
   {
     "title": "UAV from the Black Sea area ➡️ course to Odesa (Lymanka/Chornomorsk,...",
@@ -338,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19882",
     "score": 6.5,
-    "views": 119994,
+    "views": 121584,
     "forwards": 365
   },
   {
@@ -374,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19880",
     "score": 5.0,
-    "views": 66842,
-    "forwards": 211
+    "views": 67733,
+    "forwards": 212
   },
   {
     "title": "Serhii Koretskyi's report. I am grateful for the effective work at...",
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 17181,
     "forwards": 35
-  },
-  {
-    "title": "Ukraine is changing its political strategy. Each priority foreign...",
-    "title_en": "Ukraine is changing its political strategy. Each priority foreign...",
-    "title_uk": "Україна змінює політичну стратегію. Кожен пріоритет іноземний...",
-    "description": "Ukraine is changing its political strategy. Each priority foreign policy area will be responsible for a specific person with significant experience who is able to implement what we agree on at the level of leaders and what the Ukrainian people expect. Among such directions, the most prominent are the United States and our agreements on licenses for the production of \"patriots\" and other bilateral security...",
-    "description_en": "Ukraine is changing its political strategy. Each priority foreign policy area will be responsible for a specific person with significant experience who is able to implement what we agree on at the level of leaders and what the Ukrainian people expect. Among such directions, the most prominent are the United States and our agreements on licenses for the production of \"patriots\" and other bilateral security...",
-    "description_uk": "Україна змінює свою політичну стратегію. За кожен пріоритетний зовнішньополітичний напрямок відповідатиме конкретна людина зі значним досвідом, яка здатна реалізувати те, про що ми домовляємось на рівні лідерів і що очікує Український народ. Серед таких напрямків найбільш визначні – Сполучені Штати й наші домовленості щодо ліцензій на виробництво «петріотів» та інша двостороння безпекова...",
-    "time": "",
-    "pubDate": "2026-07-12T11:13:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19878",
-    "score": 9.5,
-    "views": 31566,
-    "forwards": 444
   }
 ]
