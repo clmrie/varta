@@ -1,5 +1,41 @@
 [
   {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "102 TARGETS DESTROYED ➖➖➖➖➖➖➖➖➖ On the night of July 12 (from 18:00 on July 11), the enemy attacked with 9 Kh-59/69 guided air missiles and 4 Kh-31 anti-radar missiles from the southern direction, as well as 115 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and by imitation drones of the \"Parody\" type from the directions: Kursk, Orel, Primorsko-Akhtarsk, Millerovo - Russian Federation, Donetsk - TOT,...",
+    "description_en": "102 TARGETS DESTROYED ➖➖➖➖➖➖➖➖➖ On the night of July 12 (from 18:00 on July 11), the enemy attacked with 9 Kh-59/69 guided air missiles and 4 Kh-31 anti-radar missiles from the southern direction, as well as 115 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and by imitation drones of the \"Parody\" type from the directions: Kursk, Orel, Primorsko-Akhtarsk, Millerovo - Russian Federation, Donetsk - TOT,...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 102 ЦІЛІ ➖➖➖➖➖➖➖➖➖➖ У ніч на 12 липня (з 18:00 11 липня) противник атакував 9 керованими авіаційними ракетами Х-59/69 та 4 протирадіолокаційними ракетами Х-31 з південного напрямку, а також 115 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас, та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Орел, Приморсько-Ахтарськ, Міллерово – рф, Донецьк – ТОТ,...",
+    "time": "",
+    "pubDate": "2026-07-12T07:05:26+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41056",
+    "score": 13.0,
+    "views": 733,
+    "forwards": 2
+  },
+  {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд",
+    "description": "BpLA on Zaporozhye from the south",
+    "description_en": "BpLA on Zaporozhye from the south",
+    "description_uk": "БпЛА на Запоріжжя з півдня",
+    "time": "",
+    "pubDate": "2026-07-12T05:15:20+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68148",
+    "score": 6.0,
+    "views": 49618,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54208",
     "score": 8.0,
-    "views": 498,
-    "forwards": 0
+    "views": 1209,
+    "forwards": 2
   },
   {
     "title": "Sumy: BpLA on Sumy from the north",
@@ -69,24 +105,6 @@
     "link": "https://t.me/kpszsu/68123",
     "score": 6.0,
     "views": 1022,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south",
-    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south",
-    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд",
-    "description": "BpLA on Zaporozhye from the south",
-    "description_en": "BpLA on Zaporozhye from the south",
-    "description_uk": "БпЛА на Запоріжжя з півдня",
-    "time": "",
-    "pubDate": "2026-07-12T00:47:35+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68122",
-    "score": 6.0,
-    "views": 4070,
     "forwards": 0
   },
   {
@@ -158,44 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195804",
     "score": 6.5,
-    "views": 146656,
-    "forwards": 212
-  },
-  {
-    "title": "Sumyshchyna: BpLA in the direction of Shostka, Krasnopillya.",
-    "title_en": "Sumyshchyna: BpLA in the direction of Shostka, Krasnopillya.",
-    "title_uk": "Сумщина: БпЛА в напрямку Шостка, Краснопілля.",
-    "description": "Sumyshchyna: BpLA in the direction of Shostka, Krasnopillya.",
-    "description_en": "Sumyshchyna: BpLA in the direction of Shostka, Krasnopillya.",
-    "description_uk": "Сумщина: БпЛА у напрямку Шостки, Краснопілля.",
-    "time": "",
-    "pubDate": "2026-07-11T18:59:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68095",
-    "score": 5.0,
-    "views": 79997,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Kharkiv region: a group of BpLA in the Stary Saltov district.",
-    "title_en": "Kharkiv: Kharkiv region: a group of BpLA in the Stary Saltov district.",
-    "title_uk": "Харків : Харківська область : група БпЛА у Старосалтівському районі.",
-    "description": "Kharkiv region: a group of BpLA in the Stary Saltov district.",
-    "description_en": "Kharkiv region: a group of BpLA in the Stary Saltov district.",
-    "description_uk": "Харківщина: група БпЛА в районі Старого Салтова.",
-    "time": "",
-    "pubDate": "2026-07-11T18:43:27+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68094",
-    "score": 6.0,
-    "views": 86068,
-    "forwards": 0
+    "views": 183735,
+    "forwards": 213
   },
   {
     "title": "Kyiv: Update: Zelensky announces accelerated exhumations of Volyn massacre...",
@@ -212,26 +194,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54204",
     "score": 6.0,
-    "views": 2427,
-    "forwards": 8
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "Chernihiv region: jet UAVs in the direction of Mena, Bakhmach from the north.",
-    "description_en": "Chernihiv region: jet UAVs in the direction of Mena, Bakhmach from the north.",
-    "description_uk": "Чернігівщина: реактивні БпЛА у напрямку Мени, Бахмача з півночі.",
-    "time": "",
-    "pubDate": "2026-07-11T18:19:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68092",
-    "score": 6.0,
-    "views": 17201,
-    "forwards": 0
+    "views": 2686,
+    "forwards": 9
   },
   {
     "title": "Airstrike attack",
@@ -248,7 +212,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195800",
     "score": 4.5,
-    "views": 160969,
+    "views": 187772,
     "forwards": 132
   },
   {
@@ -270,29 +234,11 @@
     "forwards": 7
   },
   {
-    "title": "Odessa. Rusnyavye \"shahedy\" fly directly over the beaches 😡",
-    "title_en": "Odessa. Rusnyavye \"shahedy\" fly directly over the beaches 😡",
-    "title_uk": "Одеса. Русняві \"шахеди\" літають прямо над пляжами😡",
-    "description": "Odessa. Rusnyavye \"shahedy\" fly directly over the beaches 😡",
-    "description_en": "Odessa. Rusnyavye \"shahedy\" fly directly over the beaches 😡",
-    "description_uk": "Одесса. Руснявые \"шахеды\" летают прямо над пляжами 😡",
-    "time": "",
-    "pubDate": "2026-07-11T17:57:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195799",
-    "score": 5.5,
-    "views": 42997,
-    "forwards": 176
-  },
-  {
     "title": "Crimea: Explosions reported",
     "title_en": "Crimea: Explosions reported",
     "title_uk": "Крим: повідомляється про вибухи",
-    "description": "There have just been detailed reports on the situation in the city of Vyshneve - after an explosion in warehouses and a fire caused by the impact of Russian missiles. The Security Service of Ukraine and the Prosecutor General's Office are investigating all the circumstances of the tragedy as part of the criminal proceedings. Today, SBU Major General Poklad reported the first results: who and in which positions in Ukroboronprom admitted, unfortunately, that the warehouses with weapons were in Vyshnevo....",
-    "description_en": "There have just been detailed reports on the situation in the city of Vyshneve - after an explosion in warehouses and a fire caused by the impact of Russian missiles. The Security Service of Ukraine and the Prosecutor General's Office are investigating all the circumstances of the tragedy as part of the criminal proceedings. Today, SBU Major General Poklad reported the first results: who and in which positions in Ukroboronprom admitted, unfortunately, that the warehouses with weapons were in Vyshnevo....",
+    "description": "There have just been detailed reports on the situation in the city of Vyshneve - after an explosion in warehouses and a fire caused by the impact of Russian missiles. The Security Service of Ukraine and the Prosecutor General's Office are investigating all the circumstances of the tragedy as part of the criminal proceedings. Today, Major General of the SBU Poklad reported the first results: who and in what positions in Ukroboronprom admitted, unfortunately, that the warehouses with weapons were in Vyshnevo....",
+    "description_en": "There have just been detailed reports on the situation in the city of Vyshneve - after an explosion in warehouses and a fire caused by the impact of Russian missiles. The Security Service of Ukraine and the Prosecutor General's Office are investigating all the circumstances of the tragedy as part of the criminal proceedings. Today, Major General of the SBU Poklad reported the first results: who and in what positions in Ukroboronprom admitted, unfortunately, that the warehouses with weapons were in Vyshnevo....",
     "description_uk": "Щойно були детальні доповіді по ситуації у місті Вишневе – після вибуху на складах і пожежі від удару російських ракет. Служба безпеки України та Офіс Генерального прокурора в межах кримінального провадження перевіряють всі обставини трагедії. Сьогодні генерал-майор СБУ Поклад доповів перші результати: хто і на яких посадах в Укроборонпромі допустив, на жаль, що склади зі зброєю були у Вишневому....",
     "time": "",
     "pubDate": "2026-07-11T17:29:49+00:00",
@@ -302,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19875",
     "score": 6.5,
-    "views": 235042,
-    "forwards": 602
+    "views": 270297,
+    "forwards": 628
   },
   {
     "title": "Evacuation ordered",
@@ -356,8 +302,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23634",
     "score": 10.5,
-    "views": 108017,
-    "forwards": 288
+    "views": 119826,
+    "forwards": 358
   },
   {
     "title": "Kyiv: 🇵🇱 Between memory and politics: Volyn in two dimensions 👥 On the...",
@@ -374,8 +320,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23631",
     "score": 6.5,
-    "views": 123098,
-    "forwards": 177
+    "views": 130244,
+    "forwards": 180
   },
   {
     "title": "Kyiv: Drone strike",
@@ -410,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9561",
     "score": 5.0,
-    "views": 776,
+    "views": 794,
     "forwards": 3
   },
   {
@@ -446,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19866",
     "score": 19.5,
-    "views": 151513,
-    "forwards": 321
+    "views": 156395,
+    "forwards": 322
   }
 ]
