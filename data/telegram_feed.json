@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV in the waters of the Black Sea - heading for Odesa (Bilhorod-Dnistrovsky district).",
+    "description_en": "UAV in the waters of the Black Sea - heading for Odesa (Bilhorod-Dnistrovsky district).",
+    "description_uk": "БпЛА в акваторії Чорного моря - курсом на Одещину (Білгород-Дністровський р-н).",
+    "time": "",
+    "pubDate": "2026-07-13T22:51:52+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68364",
+    "score": 5.0,
+    "views": 26627,
+    "forwards": 0
+  },
+  {
     "title": "BpLA groups in Odesa - heading for Bilhorod-Dnistrovsky, a group of...",
     "title_en": "BpLA groups in Odesa - heading for Bilhorod-Dnistrovsky, a group of...",
     "title_uk": "Групи BpLA в Одесі - прямують на Білгород-Дністровський, група...",
@@ -18,24 +36,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A group of UAVs in the waters of the Black Sea - heading for Odesa (Bilhorod-Dnistrovsky district).",
-    "description_en": "A group of UAVs in the waters of the Black Sea - heading for Odesa (Bilhorod-Dnistrovsky district).",
-    "description_uk": "Група БпЛА в акваторії Чорного моря - курсом на Одещину (Білгород-Дністровський р-н).",
-    "time": "",
-    "pubDate": "2026-07-13T21:57:18+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68361",
-    "score": 5.0,
-    "views": 41637,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Київ: Зафіксовано пуск балістичної ракети",
@@ -50,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54236",
     "score": 10.0,
-    "views": 820,
+    "views": 1055,
     "forwards": 2
   },
   {
@@ -68,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195950",
     "score": 4.5,
-    "views": 66427,
-    "forwards": 316
+    "views": 76188,
+    "forwards": 354
   },
   {
     "title": "Kyiv: Zelensky urges allies to provide 300 Patriot missiles ahead of...",
@@ -86,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54235",
     "score": 4.0,
-    "views": 1274,
+    "views": 1471,
     "forwards": 4
   },
   {
@@ -140,8 +140,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9594",
     "score": 4.0,
-    "views": 529,
-    "forwards": 1
+    "views": 537,
+    "forwards": 2
   },
   {
     "title": "Ballistic missile launch detected",
@@ -158,7 +158,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19913",
     "score": 5.5,
-    "views": 52464,
+    "views": 53210,
     "forwards": 88
   },
   {
@@ -212,8 +212,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195939",
     "score": 4.5,
-    "views": 145621,
-    "forwards": 298
+    "views": 149298,
+    "forwards": 326
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -248,7 +248,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23638",
     "score": 5.5,
-    "views": 94543,
+    "views": 96147,
     "forwards": 152
   },
   {
@@ -360,24 +360,6 @@
     "forwards": 0
   },
   {
-    "title": "Kyiv: Latest EU sanctions package hits snag over fish, ships, and oil....",
-    "title_en": "Kyiv: Latest EU sanctions package hits snag over fish, ships, and oil....",
-    "title_uk": "Київ: Останній пакет санкцій ЄС торкається риби, кораблів і нафти....",
-    "description": "Latest EU sanctions package hits snag over fish, ships, and oil. \"Every time we make a sanctions pact, it gets a little harder,\" said Danish Foreign Minister Lars Lokke Rasmussen.",
-    "description_en": "Latest EU sanctions package hits snag over fish, ships, and oil. \"Every time we make a sanctions pact, it gets a little harder,\" said Danish Foreign Minister Lars Lokke Rasmussen.",
-    "description_uk": "Latest EU sanctions package hits snag over fish, ships, and oil. \"Every time we make a sanctions pact, it gets a little harder,\" said Danish Foreign Minister Lars Lokke Rasmussen.",
-    "time": "",
-    "pubDate": "2026-07-13T11:20:26+00:00",
-    "category": "political",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54224",
-    "score": 5.0,
-    "views": 1633,
-    "forwards": 3
-  },
-  {
     "title": "Kyiv: Missile launch detected",
     "title_en": "Kyiv: Missile launch detected",
     "title_uk": "Київ: Зафіксовано пуск ракети",
@@ -446,7 +428,25 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41088",
     "score": 13.0,
-    "views": 6607,
+    "views": 6622,
     "forwards": 19
+  },
+  {
+    "title": "🎙 Zelensky announced personnel reshuffles in the state 🔎 The...",
+    "title_en": "🎙 Zelensky announced personnel reshuffles in the state 🔎 The...",
+    "title_uk": "🎙 Зеленський анонсував кадрові перестановки в державі 🔎 У...",
+    "description": "🎙 Zelensky announced personnel reshuffles in the state 🔎 The President discussed the details with Prime Minister Yulia Svyridenko: the implementation of the updated strategy requires an update of the Cabinet of Ministers. Zelensky thanked her for her clear, stable and effective work and offered to lead a new direction in relations with a key partner. There will also be changes in the composition of the heads of law enforcement...",
+    "description_en": "🎙 Zelensky announced personnel reshuffles in the state 🔎 The President discussed the details with Prime Minister Yulia Svyridenko: the implementation of the updated strategy requires an update of the Cabinet of Ministers. Zelensky thanked her for her clear, stable and effective work and offered to lead a new direction in relations with a key partner. There will also be changes in the composition of the heads of law enforcement...",
+    "description_uk": "🎙 Зеленський оголосив про кадрові перестановки в державі 🔎 Президент обговорив деталі з Прем’єр-міністром Юлією Свириденко: для реалізації оновленої стратегії потрібне оновлення Кабінету Міністрів. Зеленський подякував їй за чітку, стабільну й ефективну роботу та запропонував очолити новий напрямок у відносинах із ключовим партнером. Також відбудуться зміни у складі керівників правоохоронних...",
+    "time": "",
+    "pubDate": "2026-07-12T15:41:09+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23635",
+    "score": 10.0,
+    "views": 170119,
+    "forwards": 214
   }
 ]
