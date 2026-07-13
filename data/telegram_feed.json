@@ -1,5 +1,59 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "Jet UAV in the south of Chernihiv Oblast ➡️ in the south direction.",
+    "description_en": "Jet UAV in the south of Chernihiv Oblast ➡️ in the south direction.",
+    "description_uk": "Реактивний БпЛА на півдні Чернігівщини ➡️ в південному напрямку.",
+    "time": "",
+    "pubDate": "2026-07-12T23:54:54+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68258",
+    "score": 6.0,
+    "views": 6104,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Attack attack",
+    "title_en": "Kyiv: Attack attack",
+    "title_uk": "Київ: Атака",
+    "description": "Ukraine reportedly strikes Russian oil depot in Stavropol Krai. Ukraine struck an oil depot in the southern Russian city of Mikhailovsk, Stavropol Krai, overnight on July 13, monitoring channels reported.",
+    "description_en": "Ukraine reportedly strikes Russian oil depot in Stavropol Krai. Ukraine struck an oil depot in the southern Russian city of Mikhailovsk, Stavropol Krai, overnight on July 13, monitoring channels reported.",
+    "description_uk": "Ukraine reportedly strikes Russian oil depot in Stavropol Krai. Ukraine struck an oil depot in the southern Russian city of Mikhailovsk, Stavropol Krai, overnight on July 13, monitoring channels reported.",
+    "time": "",
+    "pubDate": "2026-07-12T23:48:17+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54218",
+    "score": 8.0,
+    "views": 170,
+    "forwards": 1
+  },
+  {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-07-12T23:46:43+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68257",
+    "score": 5.0,
+    "views": 9365,
+    "forwards": 11
+  },
+  {
     "title": "Kharkiv: Kharkiv region: BpLA passes by Vilshany in the south ➡️ on a...",
     "title_en": "Kharkiv: Kharkiv region: BpLA passes by Vilshany in the south ➡️ on a...",
     "title_uk": "Харків: Харківська область: BpLA проходить повз Вільшани на півдні ➡️ по...",
@@ -104,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195874",
     "score": 4.5,
-    "views": 70801,
-    "forwards": 367
+    "views": 77158,
+    "forwards": 379
   },
   {
     "title": "🤬 In Odessa, a Russian UAV flew into a residential building, local...",
@@ -122,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195867",
     "score": 6.5,
-    "views": 99296,
-    "forwards": 250
+    "views": 104326,
+    "forwards": 251
   },
   {
     "title": "🤬 In Odessa, a Russian UAV flew into a residential building, the...",
@@ -200,7 +254,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
+    "title_uk": "Київ: повідомлення про вибухи",
     "description": "Ukraine's state defense firm dismisses officials after deadly Vyshneve depot explosion. Ukroboronprom dismissed two officials on July 12 following an investigation into a deadly explosion at one of its ammunition depots during a Russian attack on the Kyiv suburb of Vyshneve.",
     "description_en": "Ukraine's state defense firm dismisses officials after deadly Vyshneve depot explosion. Ukroboronprom dismissed two officials on July 12 following an investigation into a deadly explosion at one of its ammunition depots during a Russian attack on the Kyiv suburb of Vyshneve.",
     "description_uk": "Ukraine's state defense firm dismisses officials after deadly Vyshneve depot explosion. Ukroboronprom dismissed two officials on July 12 following an investigation into a deadly explosion at one of its ammunition depots during a Russian attack on the Kyiv suburb of Vyshneve.",
@@ -212,8 +266,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54217",
     "score": 10.0,
-    "views": 1741,
-    "forwards": 2
+    "views": 1868,
+    "forwards": 3
   },
   {
     "title": "Dnipro: BpLA in the Kryvorizka district of the Dnipropetrovsk region, heading...",
@@ -266,8 +320,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23635",
     "score": 9.0,
-    "views": 117699,
-    "forwards": 179
+    "views": 118631,
+    "forwards": 181
   },
   {
     "title": "UAV from the Black Sea area ➡️ course to Odesa (Lymanka/Chornomorsk,...",
@@ -392,61 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19882",
     "score": 6.5,
-    "views": 122412,
-    "forwards": 365
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "Jet UAVs in the north of Chernihiv Oblast along the border with Belarus in the western direction; 🛵 Chernihiv region: BpLA in the direction of Koryukivka.",
-    "description_en": "Jet UAVs in the north of Chernihiv Oblast along the border with Belarus in the western direction; 🛵 Chernihiv region: BpLA in the direction of Koryukivka.",
-    "description_uk": "Реактивні БпЛА на півночі Чернігівщини уздовж кордону з Білоруссю у західному напрямку; 🛵 Чернігівщина: БпЛА у напрямку Корюківки.",
-    "time": "",
-    "pubDate": "2026-07-12T12:31:25+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68182",
-    "score": 6.0,
-    "views": 12114,
-    "forwards": 0
-  },
-  {
-    "title": "Denis Shmyhal's report. We discussed that right now, new and more...",
-    "title_en": "Denis Shmyhal's report. We discussed that right now, new and more...",
-    "title_uk": "Звіт Дениса Шмигаля. Ми обговорювали це прямо зараз, нове та багато іншого...",
-    "description": "Denis Shmyhal's report. We discussed that right now, new and more decisive steps are needed to protect our energy industry, our strategic infrastructure facilities throughout the territory of Ukraine. Implementation of plans for the stability of Ukrainian regions and communities must be of the same quality, and lagging behind in one or another region means a threat to people's lives. It is important that at the intergovernmental level we have...",
-    "description_en": "Denis Shmyhal's report. We discussed that right now, new and more decisive steps are needed to protect our energy industry, our strategic infrastructure facilities throughout the territory of Ukraine. Implementation of plans for the stability of Ukrainian regions and communities must be of the same quality, and lagging behind in one or another region means a threat to people's lives. It is important that at the intergovernmental level we have...",
-    "description_uk": "Доповідь Дениса Шмигаля. Ми обговорили, що саме зараз потребує нових і більш рішучих кроків для захисту нашої енергетики, наших стратегічних інфраструктурних обʼєктів по всій території України. Виконання планів стійкості українських областей і громад повинно відбуватись однаково якісно, і відставання в тому чи іншому регіоні означає загрозу для життя людей. Важливо, що на міжурядовому рівні маємо...",
-    "time": "",
-    "pubDate": "2026-07-12T12:22:58+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19880",
-    "score": 5.0,
-    "views": 68222,
-    "forwards": 212
-  },
-  {
-    "title": "Serhii Koretskyi's report. I am grateful for the effective work at...",
-    "title_en": "Serhii Koretskyi's report. I am grateful for the effective work at...",
-    "title_uk": "Доповідь Сергія Корецького. Я вдячний за ефективну роботу в...",
-    "description": "Serhii Koretskyi's report. I am grateful for the effective work at the head of strategic Ukrainian state companies - Ukrnafta and Naftogaz. This is an extremely complex area with a large overlap of interests, and it is important that Serhiy ensured that the national interests of Ukraine were respected in the activities of these companies. Both Ukrnafta and Naftogaz reached the specified indicators of national results. Now there are new challenges...",
-    "description_en": "Serhii Koretskyi's report. I am grateful for the effective work at the head of strategic Ukrainian state companies - Ukrnafta and Naftogaz. This is an extremely complex area with a large overlap of interests, and it is important that Serhiy ensured that the national interests of Ukraine were respected in the activities of these companies. Both Ukrnafta and Naftogaz reached the specified indicators of national results. Now there are new challenges...",
-    "description_uk": "Доповідь Сергія Корецького. Вдячний за ефективну роботу на чолі стратегічних українських державних компаній – Укрнафти та Нафтогазу. Це надзвичайно складна сфера з великим перетином інтересів, і важливо, що Сергій забезпечив дотримання національних інтересів України у діяльності цих компаній. Як Укрнафта, так і Нафтогаз вийшли на визначені показники національних результатів. Зараз є нові виклики...",
-    "time": "",
-    "pubDate": "2026-07-12T11:44:02+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19879",
-    "score": 4.0,
-    "views": 2542,
-    "forwards": 74
+    "views": 123009,
+    "forwards": 367
   }
 ]
