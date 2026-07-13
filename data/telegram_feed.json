@@ -1,5 +1,59 @@
 [
   {
+    "title": "BpLA groups in Odesa - heading for Bilhorod-Dnistrovsky, a group of...",
+    "title_en": "BpLA groups in Odesa - heading for Bilhorod-Dnistrovsky, a group of...",
+    "title_uk": "Групи BpLA в Одесі - прямують на Білгород-Дністровський, група...",
+    "description": "BpLA groups in Odesa - heading for Bilhorod-Dnistrovsky, a group of BpLA heading for Serhiyivka.",
+    "description_en": "BpLA groups in Odesa - heading for Bilhorod-Dnistrovsky, a group of BpLA heading for Serhiyivka.",
+    "description_uk": "Групи БпЛА на Одещині - курсом на Білгород-Дністровський, група БпЛА курсом на Сергіївку.",
+    "time": "",
+    "pubDate": "2026-07-13T22:14:26+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68363",
+    "score": 5.0,
+    "views": 13193,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A group of UAVs in the waters of the Black Sea - heading for Odesa (Bilhorod-Dnistrovsky district).",
+    "description_en": "A group of UAVs in the waters of the Black Sea - heading for Odesa (Bilhorod-Dnistrovsky district).",
+    "description_uk": "Група БпЛА в акваторії Чорного моря - курсом на Одещину (Білгород-Дністровський р-н).",
+    "time": "",
+    "pubDate": "2026-07-13T21:57:18+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68361",
+    "score": 5.0,
+    "views": 41637,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: Зафіксовано пуск балістичної ракети",
+    "description": "Explosions reported in Kyiv amid missile threat. Kyiv Independent journalists on the ground reported explosions in the capital at around 12:15 a.m. local time as Ukraine's Air Force warned of the threat of Russian ballistic missiles heading toward Kyiv.",
+    "description_en": "Explosions reported in Kyiv amid missile threat. Kyiv Independent journalists on the ground reported explosions in the capital at around 12:15 a.m. local time as Ukraine's Air Force warned of the threat of Russian ballistic missiles heading toward Kyiv.",
+    "description_uk": "Explosions reported in Kyiv amid missile threat. Kyiv Independent journalists on the ground reported explosions in the capital at around 12:15 a.m. local time as Ukraine's Air Force warned of the threat of Russian ballistic missiles heading toward Kyiv.",
+    "time": "",
+    "pubDate": "2026-07-13T21:30:54+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54236",
+    "score": 10.0,
+    "views": 820,
+    "forwards": 2
+  },
+  {
     "title": "400 drones",
     "title_en": "400 drones",
     "title_uk": "400 дронів",
@@ -14,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195950",
     "score": 4.5,
-    "views": 37472,
-    "forwards": 246
+    "views": 66427,
+    "forwards": 316
   },
   {
     "title": "Kyiv: Zelensky urges allies to provide 300 Patriot missiles ahead of...",
@@ -32,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54235",
     "score": 4.0,
-    "views": 751,
-    "forwards": 3
+    "views": 1274,
+    "forwards": 4
   },
   {
     "title": "🛫 Activity of enemy tactical aviation in the southern direction!",
@@ -86,7 +140,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9594",
     "score": 4.0,
-    "views": 473,
+    "views": 529,
     "forwards": 1
   },
   {
@@ -104,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19913",
     "score": 5.5,
-    "views": 50058,
-    "forwards": 87
+    "views": 52464,
+    "forwards": 88
   },
   {
     "title": "Mykolaiv: Reactive BpLA on the Mykolayiv region from the south.",
@@ -158,8 +212,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195939",
     "score": 4.5,
-    "views": 136942,
-    "forwards": 294
+    "views": 145621,
+    "forwards": 298
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -194,8 +248,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23638",
     "score": 5.5,
-    "views": 90175,
-    "forwards": 147
+    "views": 94543,
+    "forwards": 152
   },
   {
     "title": "Jet UAV on Pivdenne (Odeszine)",
@@ -250,24 +304,6 @@
     "score": 6.0,
     "views": 49590,
     "forwards": 0
-  },
-  {
-    "title": "Kyiv: Ballistic missile launch detected",
-    "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
-    "description": "Ukraine, 9 European partners launch anti-ballistic missile coalition to support Freya air defense project. Denmark, France, Germany, Italy, the Netherlands, Norway, Spain, Sweden, and the U.K. are joining Kyiv in an effort to “build a shared anti-ballistic missile capacity for Europe,” the French presidency said.",
-    "description_en": "Ukraine, 9 European partners launch anti-ballistic missile coalition to support Freya air defense project. Denmark, France, Germany, Italy, the Netherlands, Norway, Spain, Sweden, and the U.K. are joining Kyiv in an effort to “build a shared anti-ballistic missile capacity for Europe,” the French presidency said.",
-    "description_uk": "Ukraine, 9 European partners launch anti-ballistic missile coalition to support Freya air defense project. Denmark, France, Germany, Italy, the Netherlands, Norway, Spain, Sweden, and the U.K. are joining Kyiv in an effort to “build a shared anti-ballistic missile capacity for Europe,” the French presidency said.",
-    "time": "",
-    "pubDate": "2026-07-13T15:58:59+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54231",
-    "score": 6.0,
-    "views": 1804,
-    "forwards": 5
   },
   {
     "title": "Dnipro: BpLA on the Dnipro from the west.",
@@ -378,42 +414,6 @@
     "forwards": 20
   },
   {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "A group of UAVs in the direction of Zaporizhzhia.",
-    "description_en": "A group of UAVs in the direction of Zaporizhzhia.",
-    "description_uk": "Група БпЛА в напрямку Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-07-13T10:01:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68303",
-    "score": 6.0,
-    "views": 4,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: EU, UK impose first-ever joint sanctions against Russian cyber-war...",
-    "title_en": "Kyiv: EU, UK impose first-ever joint sanctions against Russian cyber-war...",
-    "title_uk": "Київ: ЄС і Великобританія вперше в історії запровадили спільні санкції проти російської кібервійни...",
-    "description": "EU, UK impose first-ever joint sanctions against Russian cyber-war complex. The new sanctions are part of the EU's largest-ever package of measures, and the first time Romania has proposed specific restrictions against Russia.",
-    "description_en": "EU, UK impose first-ever joint sanctions against Russian cyber-war complex. The new sanctions are part of the EU's largest-ever package of measures, and the first time Romania has proposed specific restrictions against Russia.",
-    "description_uk": "EU, UK impose first-ever joint sanctions against Russian cyber-war complex. The new sanctions are part of the EU's largest-ever package of measures, and the first time Romania has proposed specific restrictions against Russia.",
-    "time": "",
-    "pubDate": "2026-07-13T09:31:17+00:00",
-    "category": "political",
-    "severity": "medium",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54220",
-    "score": 4.0,
-    "views": 481,
-    "forwards": 1
-  },
-  {
     "title": "Kharkiv: Today, the Russians once again \"defeated\" completely civilian objects...",
     "title_en": "Kharkiv: Today, the Russians once again \"defeated\" completely civilian objects...",
     "title_uk": "Харків: Сьогодні росіяни знову \"розгромили\" цілком цивільні об'єкти...",
@@ -446,7 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41088",
     "score": 13.0,
-    "views": 6577,
+    "views": 6607,
     "forwards": 19
   }
 ]
