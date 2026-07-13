@@ -1,5 +1,41 @@
 [
   {
+    "title": "Dnipro: BpLA on the Dnipro from the west.",
+    "title_en": "Dnipro: BpLA on the Dnipro from the west.",
+    "title_uk": "Дніпро: БпЛА на Дніпрі із зах.",
+    "description": "BpLA on the Dnipro from the west.",
+    "description_en": "BpLA on the Dnipro from the west.",
+    "description_uk": "БпЛА на Дніпро із заходу.",
+    "time": "",
+    "pubDate": "2026-07-13T15:22:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68332",
+    "score": 6.0,
+    "views": 16154,
+    "forwards": 0
+  },
+  {
+    "title": "BpLA heading for Kamianske.",
+    "title_en": "BpLA heading for Kamianske.",
+    "title_uk": "BpLA прямує на Кам'янське.",
+    "description": "BpLA heading for Kamianske.",
+    "description_en": "BpLA heading for Kamianske.",
+    "description_uk": "БпЛА курсом на Кам'янське.",
+    "time": "",
+    "pubDate": "2026-07-13T15:19:21+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68331",
+    "score": 5.0,
+    "views": 21210,
+    "forwards": 0
+  },
+  {
     "title": "🛫 Activity of enemy tactical aviation in the southern direction!",
     "title_en": "🛫 Activity of enemy tactical aviation in the southern direction!",
     "title_uk": "🛫 Активність тактичної авіації противника на південному напрямку!",
@@ -50,8 +86,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19896",
     "score": 6.5,
-    "views": 62175,
-    "forwards": 228
+    "views": 128647,
+    "forwards": 306
   },
   {
     "title": "Kyiv: Latest EU sanctions package hits snag over fish, ships, and oil....",
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54224",
     "score": 5.0,
-    "views": 912,
+    "views": 1633,
     "forwards": 3
   },
   {
@@ -86,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54221",
     "score": 14.0,
-    "views": 1334,
+    "views": 1882,
     "forwards": 4
   },
   {
@@ -104,8 +140,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9576",
     "score": 5.0,
-    "views": 2280,
-    "forwards": 18
+    "views": 4431,
+    "forwards": 20
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -212,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19885",
     "score": 7.5,
-    "views": 183199,
-    "forwards": 339
+    "views": 204633,
+    "forwards": 360
   },
   {
     "title": "Zaporizhzhia: BpLA in Zaporozhye from the south.",
@@ -248,8 +284,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41088",
     "score": 13.0,
-    "views": 5409,
-    "forwards": 14
+    "views": 5899,
+    "forwards": 17
   },
   {
     "title": "Explosions reported",
@@ -304,24 +340,6 @@
     "score": 6.0,
     "views": 19189,
     "forwards": 34
-  },
-  {
-    "title": "Mykolaiv: BpLA in the Mykolaiv region, heading for the Voznesensky district.",
-    "title_en": "Mykolaiv: BpLA in the Mykolaiv region, heading for the Voznesensky district.",
-    "title_uk": "Миколаїв: БпЛА в Миколаївській області, прямуючи до Вознесенського району.",
-    "description": "BpLA in the Mykolaiv region, heading for the Voznesensky district.",
-    "description_en": "BpLA in the Mykolaiv region, heading for the Voznesensky district.",
-    "description_uk": "БпЛА на Миколаївщині, курсом на Вознесенський район.",
-    "time": "",
-    "pubDate": "2026-07-13T03:21:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68271",
-    "score": 6.0,
-    "views": 23264,
-    "forwards": 0
   },
   {
     "title": "Kyiv: Attack attack",
@@ -392,26 +410,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23635",
     "score": 10.0,
-    "views": 151770,
-    "forwards": 204
-  },
-  {
-    "title": "Kharkiv: A high-speed target for Kharkiv region from Donetsk region!",
-    "title_en": "Kharkiv: A high-speed target for Kharkiv region from Donetsk region!",
-    "title_uk": "Харків: Швидкісна ціль на Харківщину з Донецької області!",
-    "description": "A high-speed target for Kharkiv region from Donetsk region!",
-    "description_en": "A high-speed target for Kharkiv region from Donetsk region!",
-    "description_uk": "Швидкісна ціль на Харківщину з Донеччини!",
-    "time": "",
-    "pubDate": "2026-07-12T14:06:42+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68195",
-    "score": 6.0,
-    "views": 12091,
-    "forwards": 0
+    "views": 158436,
+    "forwards": 210
   },
   {
     "title": "Air defense active",
@@ -428,7 +428,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23634",
     "score": 10.5,
-    "views": 182201,
-    "forwards": 486
+    "views": 184228,
+    "forwards": 487
   }
 ]
