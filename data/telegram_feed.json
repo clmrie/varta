@@ -1,5 +1,59 @@
 [
   {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the east and south.",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the east and south.",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі зі сходу та півдня.",
+    "description": "BpLA on Zaporozhye from the east and south.",
+    "description_en": "BpLA on Zaporozhye from the east and south.",
+    "description_uk": "БпЛА на Запоріжжя зі сходу та півдня.",
+    "time": "",
+    "pubDate": "2026-07-14T19:49:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68477",
+    "score": 6.0,
+    "views": 9111,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea, heading south of Odesa.",
+    "description_en": "UAV from the Black Sea, heading south of Odesa.",
+    "description_uk": "БпЛА з акваторії Чорного моря, курсом на південь Одещини.",
+    "time": "",
+    "pubDate": "2026-07-14T19:16:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68472",
+    "score": 5.0,
+    "views": 56658,
+    "forwards": 34
+  },
+  {
+    "title": "Crimea: As pressure on Crimea heats up, Sea of Azov enters Ukraine’s...",
+    "title_en": "Crimea: As pressure on Crimea heats up, Sea of Azov enters Ukraine’s...",
+    "title_uk": "Крим: тиск на Крим посилюється, Азовське море входить в Україну...",
+    "description": "As pressure on Crimea heats up, Sea of Azov enters Ukraine’s crosshairs Over the past nine days, Ukraine has launched a sustained drone campaign against Russian shipping in the Sea of Azov, opening a new front in its effort to “isolate Crimea” and disrupt Moscow’s military logistics and export routes. Photo: YouTube / Robert “Madyar” Brovdi.",
+    "description_en": "As pressure on Crimea heats up, Sea of Azov enters Ukraine’s crosshairs Over the past nine days, Ukraine has launched a sustained drone campaign against Russian shipping in the Sea of Azov, opening a new front in its effort to “isolate Crimea” and disrupt Moscow’s military logistics and export routes. Photo: YouTube / Robert “Madyar” Brovdi.",
+    "description_uk": "As pressure on Crimea heats up, Sea of Azov enters Ukraine’s crosshairs Over the past nine days, Ukraine has launched a sustained drone campaign against Russian shipping in the Sea of Azov, opening a new front in its effort to “isolate Crimea” and disrupt Moscow’s military logistics and export routes. Photo: YouTube / Robert “Madyar” Brovdi.",
+    "time": "",
+    "pubDate": "2026-07-14T18:42:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Crimea",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54257",
+    "score": 6.0,
+    "views": 879,
+    "forwards": 2
+  },
+  {
     "title": "Flirting with AI bots is also treason. Scientists from Canada...",
     "title_en": "Flirting with AI bots is also treason. Scientists from Canada...",
     "title_uk": "Загравання з ботами ШІ також є зрадою. Вчені з Канади...",
@@ -13,9 +67,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196014",
-    "score": 4.0,
-    "views": 12914,
-    "forwards": 40
+    "score": 4.5,
+    "views": 84853,
+    "forwards": 115
   },
   {
     "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
@@ -50,8 +104,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23642",
     "score": 3.5,
-    "views": 40005,
-    "forwards": 76
+    "views": 73095,
+    "forwards": 98
   },
   {
     "title": "Sumy: Speed ​​target on Sumy.",
@@ -86,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54254",
     "score": 9.0,
-    "views": 720,
-    "forwards": 4
+    "views": 1212,
+    "forwards": 5
   },
   {
     "title": "The new Geran-3 and Geran-4 jets represent a serious challenge to...",
@@ -104,26 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196010",
     "score": 5.5,
-    "views": 84012,
-    "forwards": 108
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAV in the direction of Kryvyi Rih from the east.",
-    "description_en": "Jet UAV in the direction of Kryvyi Rih from the east.",
-    "description_uk": "Реактивний БпЛА в напрямку Кривого Рогу зі сходу.",
-    "time": "",
-    "pubDate": "2026-07-14T16:42:57+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68461",
-    "score": 5.0,
-    "views": 32407,
-    "forwards": 0
+    "views": 117296,
+    "forwards": 144
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -412,41 +448,5 @@
     "score": 5.5,
     "views": 94416,
     "forwards": 54
-  },
-  {
-    "title": "During this night, Ukrainian UAVs defeated 11 Katsap ships, -...",
-    "title_en": "During this night, Ukrainian UAVs defeated 11 Katsap ships, -...",
-    "title_uk": "За цю ніч українські БПЛА знищили 11 кораблів Кацапа, -...",
-    "description": "During this night, Ukrainian UAVs defeated 11 Katsap ships, - \"Magyar\" These are tankers, bulk carriers, and a tugboat. In total, over the past 9 days, friendly drones disabled 116 vessels.",
-    "description_en": "During this night, Ukrainian UAVs defeated 11 Katsap ships, - \"Magyar\" These are tankers, bulk carriers, and a tugboat. In total, over the past 9 days, friendly drones disabled 116 vessels.",
-    "description_uk": "За эту ночь украинские БПЛА поразили 11 кацапских судов, - \"Мадяр\" Это танкеры, сухогрузы, буксир. Всего за последние 9 суток любезные дроны вывели из строя 116 судов.",
-    "time": "",
-    "pubDate": "2026-07-14T07:59:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195969",
-    "score": 9.5,
-    "views": 123317,
-    "forwards": 252
-  },
-  {
-    "title": "Donetsk: 7 missiles intercepted",
-    "title_en": "Donetsk: 7 missiles intercepted",
-    "title_uk": "Донецьк: перехоплено 7 ракет",
-    "description": "7 MISSILES AND 108 ENEMY UAVS WERE SHOT DOWN/SUPPRESSED On the night of July 14 (from 18:00 on July 13), the enemy attacked with 8 Iskander-M/S-400 ballistic missiles from the Bryna region, 2 Kh-59/69 guided air missiles (launching area - air space of TOT AR Crimea) and 135 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, Banderol barrage ammunition and simulator drones...",
-    "description_en": "7 MISSILES AND 108 ENEMY UAVS WERE SHOT DOWN/SUPPRESSED On the night of July 14 (from 18:00 on July 13), the enemy attacked with 8 Iskander-M/S-400 ballistic missiles from the Bryna region, 2 Kh-59/69 guided air missiles (launching area - air space of TOT AR Crimea) and 135 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, Banderol barrage ammunition and simulator drones...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 7 РАКЕТ ТА 108 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 14 липня (з 18:00 13 липня) противник атакував 8 балістичними ракетами Іскандер-М/С-400 із Бринської області, 2 керованими авіаційними ракетами Х-59/69 (район пуску – повітряний простір ТОТ АР Крим) та 135 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас, баражуючими боєприпасами \"Бандероль\" та дронами-імітаторами...",
-    "time": "",
-    "pubDate": "2026-07-14T06:17:14+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41114",
-    "score": 13.0,
-    "views": 7690,
-    "forwards": 35
   }
 ]
