@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sumy: BpLA on Sumy from the north.",
+    "title_en": "Sumy: BpLA on Sumy from the north.",
+    "title_uk": "Суми: БпЛА на Суми з півн.",
+    "description": "BpLA on Sumy from the north.",
+    "description_en": "BpLA on Sumy from the north.",
+    "description_uk": "БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-07-14T21:17:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68487",
+    "score": 6.0,
+    "views": 19340,
+    "forwards": 0
+  },
+  {
+    "title": "BpLA at Zavodske village in Poltava region from the north. 🛵 BpLA in...",
+    "title_en": "BpLA at Zavodske village in Poltava region from the north. 🛵 BpLA in...",
+    "title_uk": "БпЛА в селі Заводське Полтавської області з півночі. 🛵 BpLA в...",
+    "description": "BpLA at Zavodske village in Poltava region from the north. 🛵 BpLA in the direction of Kharkiv from the north.",
+    "description_en": "BpLA at Zavodske village in Poltava region from the north. 🛵 BpLA in the direction of Kharkiv from the north.",
+    "description_uk": "БпЛА на н.п.Заводське на Полтавщині з півночі. 🛵 БпЛА в напрямку Харкова з півночі.",
+    "time": "",
+    "pubDate": "2026-07-14T21:15:23+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68486",
+    "score": 5.0,
+    "views": 21374,
+    "forwards": 0
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -13,17 +49,17 @@
     "location": "Kyiv",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196027",
-    "score": 9.0,
-    "views": 5368,
-    "forwards": 2
+    "score": 9.5,
+    "views": 49483,
+    "forwards": 109
   },
   {
     "title": "Airstrike attack",
     "title_en": "Airstrike attack",
     "title_uk": "Авіаційна атака",
-    "description": "Russia left key military facilities in the Far North without anti-aircraft defense. This happened against the background of an intensifying campaign of attacks from Ukraine, Radio Svoboda publishes satellite images, which show that the systems were removed from several strategic objects that were previously under the protection of S-300 and S-400. The photos from July 6 show that the Rogachevo Air Base on Novaya...",
-    "description_en": "Russia left key military facilities in the Far North without anti-aircraft defense. This happened against the background of an intensifying campaign of attacks from Ukraine, Radio Svoboda publishes satellite images, which show that the systems were removed from several strategic objects that were previously under the protection of S-300 and S-400. The photos from July 6 show that the Rogachevo Air Base on Novaya...",
-    "description_uk": "россия оставила ключевые военные объекты на Крайнем Севере без средств противовоздушной обороны. Это произошло на фоне усиливающейся кампании атак со стороны Украины \"Радио Свобода\" публикует спутниковые снимки, на которых видно, что системы были сняты с нескольких стратегических объектов, ранее находившихся под охраной С-300 и С-400. На снимках от 6 июля видно, что авиабаза Рогачево на Новой...",
+    "description": "Russia left key military facilities in the Far North without anti-aircraft defense. This happened against the background of an intensifying campaign of attacks by our guys. \"Radio Svoboda\" publishes satellite images, which show that the systems were removed from several strategic objects that were previously under the protection of S-300 and S-400. The photos from July 6 show that the Rogachevo Air Base is on Novaya Zemlya...",
+    "description_en": "Russia left key military facilities in the Far North without anti-aircraft defense. This happened against the background of an intensifying campaign of attacks by our guys. \"Radio Svoboda\" publishes satellite images, which show that the systems were removed from several strategic objects that were previously under the protection of S-300 and S-400. The photos from July 6 show that the Rogachevo Air Base is on Novaya Zemlya...",
+    "description_uk": "россия оставила ключевые военные объекты на Крайнем Севере без средств противовоздушной обороны. Это произошло на фоне усиливающейся кампании атак наших ребят. \"Радио Свобода\" публикует спутниковые снимки, на которых видно, что системы были сняты с нескольких стратегических объектов, ранее находившихся под охраной С-300 и С-400. На снимках от 6 июля видно, что авиабаза Рогачево на Новой Земле...",
     "time": "",
     "pubDate": "2026-07-14T20:37:01+00:00",
     "category": "missile",
@@ -32,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196024",
     "score": 3.5,
-    "views": 22792,
-    "forwards": 79
+    "views": 59220,
+    "forwards": 118
   },
   {
     "title": "UAV to Odesa from the Black Sea.",
@@ -92,7 +128,7 @@
   {
     "title": "Crimea: As pressure on Crimea heats up, Sea of Azov enters Ukraine’s...",
     "title_en": "Crimea: As pressure on Crimea heats up, Sea of Azov enters Ukraine’s...",
-    "title_uk": "Крим: тиск на Крим посилюється, Азовське море входить в Україну...",
+    "title_uk": "Крим: у міру посилення тиску на Крим Азовське море входить в Україну...",
     "description": "As pressure on Crimea heats up, Sea of Azov enters Ukraine’s crosshairs Over the past nine days, Ukraine has launched a sustained drone campaign against Russian shipping in the Sea of Azov, opening a new front in its effort to “isolate Crimea” and disrupt Moscow’s military logistics and export routes. Photo: YouTube / Robert “Madyar” Brovdi.",
     "description_en": "As pressure on Crimea heats up, Sea of Azov enters Ukraine’s crosshairs Over the past nine days, Ukraine has launched a sustained drone campaign against Russian shipping in the Sea of Azov, opening a new front in its effort to “isolate Crimea” and disrupt Moscow’s military logistics and export routes. Photo: YouTube / Robert “Madyar” Brovdi.",
     "description_uk": "As pressure on Crimea heats up, Sea of Azov enters Ukraine’s crosshairs Over the past nine days, Ukraine has launched a sustained drone campaign against Russian shipping in the Sea of Azov, opening a new front in its effort to “isolate Crimea” and disrupt Moscow’s military logistics and export routes. Photo: YouTube / Robert “Madyar” Brovdi.",
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54257",
     "score": 6.0,
-    "views": 1246,
+    "views": 1453,
     "forwards": 2
   },
   {
@@ -158,8 +194,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23642",
     "score": 3.5,
-    "views": 85431,
-    "forwards": 110
+    "views": 92057,
+    "forwards": 117
   },
   {
     "title": "Sumy: Speed ​​target on Sumy.",
@@ -194,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54254",
     "score": 9.0,
-    "views": 1458,
+    "views": 1612,
     "forwards": 5
   },
   {
@@ -412,41 +448,5 @@
     "score": 3.5,
     "views": 74103,
     "forwards": 182
-  },
-  {
-    "title": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_uk": "Харків: БпЛА на Харків з півночі.",
-    "description": "BpLA on Kharkiv from the north.",
-    "description_en": "BpLA on Kharkiv from the north.",
-    "description_uk": "БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-07-14T11:01:31+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68422",
-    "score": 6.0,
-    "views": 24266,
-    "forwards": 0
-  },
-  {
-    "title": "Nikopol: Drone incoming",
-    "title_en": "Nikopol: Drone incoming",
-    "title_uk": "Нікополь: наліт дрон",
-    "description": "Dnipropetrovsk region: a group of jet UAVs pass Nikopol district in the direction of Kryvyi Rih.",
-    "description_en": "Dnipropetrovsk region: a group of jet UAVs pass Nikopol district in the direction of Kryvyi Rih.",
-    "description_uk": "Дніпропетровщина: група реактивних БпЛА повз Нікопольський район у напрямку Кривого Рогу.",
-    "time": "",
-    "pubDate": "2026-07-14T10:40:38+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Nikopol",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68421",
-    "score": 6.0,
-    "views": 47509,
-    "forwards": 35
   }
 ]
