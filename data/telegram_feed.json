@@ -1,5 +1,77 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A jet UAV in the direction of Odessa from the water area.",
+    "description_en": "A jet UAV in the direction of Odessa from the water area.",
+    "description_uk": "Реактивний БпЛА у напрямку Одеси з акваторії.",
+    "time": "",
+    "pubDate": "2026-07-14T05:54:03+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68394",
+    "score": 5.0,
+    "views": 1017,
+    "forwards": 0
+  },
+  {
+    "title": "🛫 Activity of enemy tactical aviation in the eastern direction! 🚀🚀The...",
+    "title_en": "🛫 Activity of enemy tactical aviation in the eastern direction! 🚀🚀The...",
+    "title_uk": "🛫 Активність тактичної авіації противника на східному напрямку! 🚀🚀...",
+    "description": "🛫 Activity of enemy tactical aviation in the eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "🛫 Activity of enemy tactical aviation in the eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "🛫 Активність ворожої тактичної авіації на східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-07-14T05:51:04+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68393",
+    "score": 5.0,
+    "views": 10092,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Explosions reported",
+    "title_en": "Kyiv: Explosions reported",
+    "title_uk": "Київ: Повідомляється про вибухи",
+    "description": "Drones attack major oil refinery in Russia's Bashkortostan. Drones reportedly attacked a major oil refinery in Russia's Republic of Bashkortostan on July 14, causing explosions and sending plumes of smoke over the facility.",
+    "description_en": "Drones attack major oil refinery in Russia's Bashkortostan. Drones reportedly attacked a major oil refinery in Russia's Republic of Bashkortostan on July 14, causing explosions and sending plumes of smoke over the facility.",
+    "description_uk": "Drones attack major oil refinery in Russia's Bashkortostan. Drones reportedly attacked a major oil refinery in Russia's Republic of Bashkortostan on July 14, causing explosions and sending plumes of smoke over the facility.",
+    "time": "",
+    "pubDate": "2026-07-14T04:09:48+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54239",
+    "score": 8.0,
+    "views": 790,
+    "forwards": 1
+  },
+  {
+    "title": "Attack attack",
+    "title_en": "Attack attack",
+    "title_uk": "Атака нападу",
+    "description": "The Gazprom Neftekhim Salavat refinery is on fire in Bashkortostan, they report numerous flights The Afip refinery in the Krasnodar region was also attacked (last photo)",
+    "description_en": "The Gazprom Neftekhim Salavat refinery is on fire in Bashkortostan, they report numerous flights The Afip refinery in the Krasnodar region was also attacked (last photo)",
+    "description_uk": "В Башкортостане горит НПЗ Газпром Нефтехим Салават, сообщают о многочисленных прилетах Также атакован Афипский НПЗ в Краснодарском крае (последнее фото)",
+    "time": "",
+    "pubDate": "2026-07-14T03:55:08+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195953",
+    "score": 5.5,
+    "views": 103598,
+    "forwards": 503
+  },
+  {
     "title": "Zaporizhzhia: Zaporizhzhia: BpLA heading for Vilniansk from the south.",
     "title_en": "Zaporizhzhia: Zaporizhzhia: BpLA heading for Vilniansk from the south.",
     "title_uk": "Запоріжжя: Запоріжжя: BpLA в напрямку Вільнянська з півдня.",
@@ -54,24 +126,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A group of jet UAVs in Sumy Oblast - heading for Poltava Oblast.",
-    "description_en": "A group of jet UAVs in Sumy Oblast - heading for Poltava Oblast.",
-    "description_uk": "Група реактивних БпЛА на Сумщині - курсом на Полтавщину.",
-    "time": "",
-    "pubDate": "2026-07-13T23:38:37+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68368",
-    "score": 5.0,
-    "views": 11913,
-    "forwards": 11
-  },
-  {
     "title": "BpLA groups in Odesa - heading for Bilhorod-Dnistrovsky, a group of...",
     "title_en": "BpLA groups in Odesa - heading for Bilhorod-Dnistrovsky, a group of...",
     "title_uk": "Групи BpLA в Одесі - прямують на Білгород-Дністровський, група...",
@@ -104,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54236",
     "score": 10.0,
-    "views": 1673,
-    "forwards": 2
+    "views": 2147,
+    "forwards": 3
   },
   {
     "title": "400 drones",
@@ -122,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195950",
     "score": 4.5,
-    "views": 124440,
-    "forwards": 377
+    "views": 183066,
+    "forwards": 412
   },
   {
     "title": "Kyiv: Zelensky urges allies to provide 300 Patriot missiles ahead of...",
@@ -194,7 +248,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9594",
     "score": 4.0,
-    "views": 569,
+    "views": 636,
     "forwards": 2
   },
   {
@@ -212,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19913",
     "score": 5.5,
-    "views": 57255,
-    "forwards": 89
+    "views": 61950,
+    "forwards": 94
   },
   {
     "title": "Mykolaiv: Reactive BpLA on the Mykolayiv region from the south.",
@@ -252,24 +306,6 @@
     "forwards": 0
   },
   {
-    "title": "Ukraine will receive French Rafale fighters in 2028-2029, - Macron....",
-    "title_en": "Ukraine will receive French Rafale fighters in 2028-2029, - Macron....",
-    "title_uk": "Україна отримає французькі винищувачі Rafale у 2028-2029 роках, - Макрон.",
-    "description": "Ukraine will receive French Rafale fighters in 2028-2029, - Macron. In addition, France will grant us licenses for the production of Aster-30 anti-aircraft missiles for the SAMP/T air defense system, AASM Hammer air bombs and SCALP cruise missiles. Let the asses of the Russians burn!",
-    "description_en": "Ukraine will receive French Rafale fighters in 2028-2029, - Macron. In addition, France will grant us licenses for the production of Aster-30 anti-aircraft missiles for the SAMP/T air defense system, AASM Hammer air bombs and SCALP cruise missiles. Let the asses of the Russians burn!",
-    "description_uk": "Украина получит французские истребители Rafale в 2028-2029 годах, — Макрон Кроме того, Франция предоставит нам лицензии на производство зенитных ракет Aster-30 для ЗРК SAMP/T, авиабомб AASM Hammer и крылатых ракет SCALP. Да сгорят же жопы русни!",
-    "time": "",
-    "pubDate": "2026-07-13T17:53:16+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195939",
-    "score": 4.5,
-    "views": 168182,
-    "forwards": 337
-  },
-  {
     "title": "Kyiv: Casualties reported",
     "title_en": "Kyiv: Casualties reported",
     "title_uk": "Київ: повідомляється про постраждалих",
@@ -302,62 +338,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23638",
     "score": 5.5,
-    "views": 102366,
-    "forwards": 157
-  },
-  {
-    "title": "Jet UAV on Pivdenne (Odeszine)",
-    "title_en": "Jet UAV on Pivdenne (Odeszine)",
-    "title_uk": "Реактивний БПЛА на Південному (Одещина)",
-    "description": "Jet UAV on Pivdenne (Odeszine)",
-    "description_en": "Jet UAV on Pivdenne (Odeszine)",
-    "description_uk": "Реактивний БпЛА на Південне (Одещина)",
-    "time": "",
-    "pubDate": "2026-07-13T16:56:16+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68337",
-    "score": 5.0,
-    "views": 34417,
-    "forwards": 0
-  },
-  {
-    "title": "100 drones launched",
-    "title_en": "100 drones launched",
-    "title_uk": "Запущено 100 дронів",
-    "description": "In a few months, Russia will be able to launch more than 100 Shahedov jets in one attack, says aviation expert Bohdan Dolyntse. According to him, the production of Geran-3 jet drones in the Russian Federation is gradually increasing. If earlier it was about experimental samples, now the Russians have already switched to small-scale production. The main difference of such drones is speed. If the usual \"Shakhed\" flies about 200...",
-    "description_en": "In a few months, Russia will be able to launch more than 100 Shahedov jets in one attack, says aviation expert Bohdan Dolyntse. According to him, the production of Geran-3 jet drones in the Russian Federation is gradually increasing. If earlier it was about experimental samples, now the Russians have already switched to small-scale production. The main difference of such drones is speed. If the usual \"Shakhed\" flies about 200...",
-    "description_uk": "россия уже через несколько месяцев сможет запускать более 100 реактивных «Шахедов» за одну атаку, — авиаэксперт Богдан Долинце По его словам, производство реактивных дронов «Герань-3» в рф постепенно растет. Если раньше речь шла об экспериментальных образцах, то сейчас россияне уже перешли к мелкосерийному выпуску. Главное отличие таких дронов — скорость. Если обычный «Шахед» летит около 200...",
-    "time": "",
-    "pubDate": "2026-07-13T16:55:27+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195936",
-    "score": 8.5,
-    "views": 137689,
-    "forwards": 179
-  },
-  {
-    "title": "Mykolaiv: Sumy - BpLA in the direction of the city from the north. 🛵 Mykolayiv...",
-    "title_en": "Mykolaiv: Sumy - BpLA in the direction of the city from the north. 🛵 Mykolayiv...",
-    "title_uk": "Миколаїв: Суми – БпЛА в напрямку міста з півночі. 🛵 Миколаїв...",
-    "description": "Sumy - BpLA in the direction of the city from the north. 🛵 Mykolayiv region - BpLA in the northern direction.",
-    "description_en": "Sumy - BpLA in the direction of the city from the north. 🛵 Mykolayiv region - BpLA in the northern direction.",
-    "description_uk": "Суми - БпЛА в напрямку міста з півночі. 🛵 Миколаївщина - БпЛА в північному напрямку.",
-    "time": "",
-    "pubDate": "2026-07-13T16:27:04+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68336",
-    "score": 6.0,
-    "views": 49590,
-    "forwards": 0
+    "views": 111925,
+    "forwards": 161
   },
   {
     "title": "Kyiv: Missile launch detected",
@@ -446,7 +428,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23635",
     "score": 10.0,
-    "views": 171172,
-    "forwards": 214
+    "views": 172947,
+    "forwards": 215
   }
 ]
