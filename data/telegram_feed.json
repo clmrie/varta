@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "UAV at the village of Pryluky in Chernihiv Oblast from the east.",
+    "description_en": "UAV at the village of Pryluky in Chernihiv Oblast from the east.",
+    "description_uk": "БпЛА на н.п.Прилуки на Чернігівщині зі сходу.",
+    "time": "",
+    "pubDate": "2026-07-14T23:44:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68498",
+    "score": 6.0,
+    "views": 1003,
+    "forwards": 0
+  },
+  {
+    "title": "Unmanned aerial vehicle at Chornomorske from the Black Sea.",
+    "title_en": "Unmanned aerial vehicle at Chornomorske from the Black Sea.",
+    "title_uk": "Безпілотний літальний апарат Чорноморське з боку Чорного моря.",
+    "description": "Unmanned aerial vehicle at Chornomorske from the Black Sea.",
+    "description_en": "Unmanned aerial vehicle at Chornomorske from the Black Sea.",
+    "description_uk": "БпЛА на н.п.Чорноморське з акваторії Чорного моря.",
+    "time": "",
+    "pubDate": "2026-07-14T23:34:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68497",
+    "score": 5.0,
+    "views": 5487,
+    "forwards": 0
+  },
+  {
     "title": "Sumy: BpLA on Sumy from the north.",
     "title_en": "Sumy: BpLA on Sumy from the north.",
     "title_uk": "Суми: БпЛА на Суми з півн.",
@@ -50,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196027",
     "score": 9.5,
-    "views": 63357,
-    "forwards": 129
+    "views": 70342,
+    "forwards": 139
   },
   {
     "title": "Airstrike attack",
@@ -68,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196024",
     "score": 3.5,
-    "views": 71631,
-    "forwards": 138
+    "views": 77942,
+    "forwards": 148
   },
   {
     "title": "UAV to Odesa from the Black Sea.",
@@ -140,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54257",
     "score": 6.0,
-    "views": 1644,
+    "views": 1728,
     "forwards": 2
   },
   {
@@ -194,8 +230,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23642",
     "score": 3.5,
-    "views": 95012,
-    "forwards": 120
+    "views": 96594,
+    "forwards": 121
   },
   {
     "title": "Sumy: Speed ​​target on Sumy.",
@@ -230,8 +266,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54254",
     "score": 9.0,
-    "views": 1695,
-    "forwards": 5
+    "views": 1773,
+    "forwards": 6
   },
   {
     "title": "The new Geran-3 and Geran-4 jets represent a serious challenge to...",
@@ -412,41 +448,5 @@
     "score": 5.0,
     "views": 15995,
     "forwards": 35
-  },
-  {
-    "title": "Dnipro: KAB to Donetsk region, to the south-eastern direction of...",
-    "title_en": "Dnipro: KAB to Donetsk region, to the south-eastern direction of...",
-    "title_uk": "Дніпро: КАБ в Донецьку область, в південно-східному напрямку від...",
-    "description": "KAB to Donetsk region, to the south-eastern direction of Dnipropetrovsk region.",
-    "description_en": "KAB to Donetsk region, to the south-eastern direction of Dnipropetrovsk region.",
-    "description_uk": "КАБи на Донеччину, на південно-східний напрямок Дніпропетровщини.",
-    "time": "",
-    "pubDate": "2026-07-14T12:37:22+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68431",
-    "score": 6.0,
-    "views": 20176,
-    "forwards": 0
-  },
-  {
-    "title": "Casualties reported",
-    "title_en": "Casualties reported",
-    "title_uk": "Повідомляється про постраждалих",
-    "description": "The Russians have lost one more ship: the Ukrainian Navy announced the destruction of the FSB border ship \"Izumrud\". It is reported that there are dead and wounded among the crew. \"Izumrud\" participated in the attack on Ukrainian ships in the Kerch Strait in 2018.",
-    "description_en": "The Russians have lost one more ship: the Ukrainian Navy announced the destruction of the FSB border ship \"Izumrud\". It is reported that there are dead and wounded among the crew. \"Izumrud\" participated in the attack on Ukrainian ships in the Kerch Strait in 2018.",
-    "description_uk": "У россиян минус еще один кораблик: ВМС Украины заявили об уничтожении пограничного корабля ФСБ \"Изумруд\" По данным ВМС ВСУ, судно уничтожили морским безэкипажным дроном Sargan-3000 возле Новороссийска. Сообщается, что среди экипажа есть погибшие и раненые. \"Изумруд\" участвовал в нападении на украинские корабли в Керченском проливе в 2018 году.",
-    "time": "",
-    "pubDate": "2026-07-14T11:29:02+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/195984",
-    "score": 3.5,
-    "views": 74103,
-    "forwards": 182
   }
 ]
