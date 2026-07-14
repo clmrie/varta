@@ -1,5 +1,95 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAVs in the direction of Kryvyi Rih from the east.",
+    "description_en": "Jet UAVs in the direction of Kryvyi Rih from the east.",
+    "description_uk": "Реактивні БпЛА в напрямку Кривого Рогу зі сходу.",
+    "time": "",
+    "pubDate": "2026-07-14T12:43:20+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68433",
+    "score": 5.0,
+    "views": 10108,
+    "forwards": 34
+  },
+  {
+    "title": "Kyiv: EU's von der Leyen to visit Kyiv on July 15, reportedly with defense...",
+    "title_en": "Kyiv: EU's von der Leyen to visit Kyiv on July 15, reportedly with defense...",
+    "title_uk": "Київ: ЄС фон дер Ляєн відвідає Київ 15 липня, як повідомляється, з обороною...",
+    "description": "EU's von der Leyen to visit Kyiv on July 15, reportedly with defense agenda. The European Commission is preparing a combined support package for Ukraine worth up to 18 billion euros ($21 billion), with announcements on this expected during von der Leyen's visit, TVP World reported.",
+    "description_en": "EU's von der Leyen to visit Kyiv on July 15, reportedly with defense agenda. The European Commission is preparing a combined support package for Ukraine worth up to 18 billion euros ($21 billion), with announcements on this expected during von der Leyen's visit, TVP World reported.",
+    "description_uk": "EU's von der Leyen to visit Kyiv on July 15, reportedly with defense agenda. The European Commission is preparing a combined support package for Ukraine worth up to 18 billion euros ($21 billion), with announcements on this expected during von der Leyen's visit, TVP World reported.",
+    "time": "",
+    "pubDate": "2026-07-14T12:39:18+00:00",
+    "category": "alert",
+    "severity": "medium",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54249",
+    "score": 4.0,
+    "views": 182,
+    "forwards": 0
+  },
+  {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "In Odesa, a ship caught fire after the attack by the Shahed rockets, local media claim. There have been no official comments yet.",
+    "description_en": "In Odesa, a ship caught fire after the attack by the Shahed rockets, local media claim. There have been no official comments yet.",
+    "description_uk": "В Одессе загорелось судно после атаки реактивными \"Шахедами\", - утверждают местные паблики Официальных комментариев пока не было.",
+    "time": "",
+    "pubDate": "2026-07-14T12:37:48+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195991",
+    "score": 5.0,
+    "views": 15995,
+    "forwards": 35
+  },
+  {
+    "title": "Dnipro: KAB to Donetsk region, to the south-eastern direction of...",
+    "title_en": "Dnipro: KAB to Donetsk region, to the south-eastern direction of...",
+    "title_uk": "Дніпро: КАБ в Донецьку область, в південно-східному напрямку від...",
+    "description": "KAB to Donetsk region, to the south-eastern direction of Dnipropetrovsk region.",
+    "description_en": "KAB to Donetsk region, to the south-eastern direction of Dnipropetrovsk region.",
+    "description_uk": "КАБи на Донеччину, на південно-східний напрямок Дніпропетровщини.",
+    "time": "",
+    "pubDate": "2026-07-14T12:37:22+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68431",
+    "score": 6.0,
+    "views": 20176,
+    "forwards": 0
+  },
+  {
+    "title": "Casualties reported",
+    "title_en": "Casualties reported",
+    "title_uk": "Повідомляється про постраждалих",
+    "description": "The Russians have lost one more ship: the Ukrainian Navy announced the destruction of the FSB border ship \"Izumrud\". It is reported that there are dead and wounded among the crew. \"Izumrud\" participated in the attack on Ukrainian ships in the Kerch Strait in 2018.",
+    "description_en": "The Russians have lost one more ship: the Ukrainian Navy announced the destruction of the FSB border ship \"Izumrud\". It is reported that there are dead and wounded among the crew. \"Izumrud\" participated in the attack on Ukrainian ships in the Kerch Strait in 2018.",
+    "description_uk": "У россиян минус еще один кораблик: ВМС Украины заявили об уничтожении пограничного корабля ФСБ \"Изумруд\" По данным ВМС ВСУ, судно уничтожили морским безэкипажным дроном Sargan-3000 возле Новороссийска. Сообщается, что среди экипажа есть погибшие и раненые. \"Изумруд\" участвовал в нападении на украинские корабли в Керченском проливе в 2018 году.",
+    "time": "",
+    "pubDate": "2026-07-14T11:29:02+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/195984",
+    "score": 3.5,
+    "views": 74103,
+    "forwards": 182
+  },
+  {
     "title": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_uk": "Харків: БпЛА на Харків з півночі.",
@@ -108,24 +198,6 @@
     "forwards": 252
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV from the Black Sea in the direction of Odesa.",
-    "description_en": "UAV from the Black Sea in the direction of Odesa.",
-    "description_uk": "БпЛА з Чорного моря в напрямку Одещини.",
-    "time": "",
-    "pubDate": "2026-07-14T07:28:58+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68409",
-    "score": 5.0,
-    "views": 28281,
-    "forwards": 0
-  },
-  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Харків: Дрон вхід",
@@ -158,7 +230,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41114",
     "score": 13.0,
-    "views": 6265,
+    "views": 6675,
     "forwards": 34
   },
   {
@@ -194,8 +266,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54239",
     "score": 8.0,
-    "views": 2107,
-    "forwards": 1
+    "views": 2304,
+    "forwards": 2
   },
   {
     "title": "Zaporizhzhia: Zaporizhzhia: BpLA heading for Vilniansk from the south.",
@@ -234,24 +306,6 @@
     "forwards": 0
   },
   {
-    "title": "🛫 Activity of enemy tactical aviation in the eastern and...",
-    "title_en": "🛫 Activity of enemy tactical aviation in the eastern and...",
-    "title_uk": "🛫 Активність тактичної авіації противника на східному та...",
-    "description": "🛫 Activity of enemy tactical aviation in the eastern and north-eastern directions! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "🛫 Activity of enemy tactical aviation in the eastern and north-eastern directions! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "🛫 Активність ворожої тактичної авіації на східному та північно-східному напрямках! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-07-14T00:08:21+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68370",
-    "score": 5.0,
-    "views": 2756,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Київ: Зафіксовано пуск балістичної ракети",
@@ -272,7 +326,7 @@
   {
     "title": "🇳 Minister Andriy Sybiga: \"Together with the First Lady of Ukraine,...",
     "title_en": "🇳 Minister Andriy Sybiga: \"Together with the First Lady of Ukraine,...",
-    "title_uk": "🇳 Міністр Андрій Сибіга: «Разом із Першою леді України,...",
+    "title_uk": "🇳 Міністр Андрій Сибіга: «Разом з першою леді України...",
     "description": "🇳 Minister Andriy Sybiga: \"Together with the First Lady of Ukraine, Olena Zelenska, we held a fruitful meeting with UNESCO Director General Khaled El-Enani. We discussed expanding cooperation to protect education, culture, science, and freedom of expression in the face of ongoing Russian aggression.\" The minister expressed his gratitude to UNESCO for the initiatives to support and preserve the common cultural heritage....",
     "description_en": "🇳 Minister Andriy Sybiga: \"Together with the First Lady of Ukraine, Olena Zelenska, we held a fruitful meeting with UNESCO Director General Khaled El-Enani. We discussed expanding cooperation to protect education, culture, science, and freedom of expression in the face of ongoing Russian aggression.\" The minister expressed his gratitude to UNESCO for the initiatives to support and preserve the common cultural heritage....",
     "description_uk": "🇳 Міністр Андрій Сибіга: \"Разом із Першою леді України Оленою Зеленською провели плідну зустріч із генеральним директором ЮНЕСКО Халедом Ель-Енані. Ми обговорили розширення співпраці задля захисту освіти, культури, науки та свободи вираження поглядів в умовах триваючої російської агресії\". Міністр висловив вдячність ЮНЕСКО за ініціативи з підтримки та збереження спільної культурної спадщини....",
@@ -284,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9594",
     "score": 4.0,
-    "views": 874,
+    "views": 894,
     "forwards": 2
   },
   {
@@ -302,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19913",
     "score": 5.5,
-    "views": 68510,
+    "views": 69207,
     "forwards": 96
   },
   {
@@ -356,7 +410,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23638",
     "score": 5.5,
-    "views": 126119,
+    "views": 138944,
     "forwards": 178
   },
   {
@@ -374,7 +428,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23635",
     "score": 10.0,
-    "views": 175764,
+    "views": 177539,
     "forwards": 217
   }
 ]
