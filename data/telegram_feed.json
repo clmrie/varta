@@ -3,19 +3,55 @@
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
-    "description": "A jet UAV in the direction of Odessa from the water area.",
-    "description_en": "A jet UAV in the direction of Odessa from the water area.",
-    "description_uk": "Реактивний БпЛА у напрямку Одеси з акваторії.",
+    "description": "UAV from the Black Sea in the direction of Odesa.",
+    "description_en": "UAV from the Black Sea in the direction of Odesa.",
+    "description_uk": "БпЛА з Чорного моря в напрямку Одещини.",
     "time": "",
-    "pubDate": "2026-07-14T05:54:03+00:00",
+    "pubDate": "2026-07-14T07:28:58+00:00",
     "category": "drone",
     "severity": "high",
-    "location": "Ukraine",
+    "location": "Odesa",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68394",
+    "link": "https://t.me/kpszsu/68409",
     "score": 5.0,
-    "views": 1017,
+    "views": 28281,
     "forwards": 0
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "UAV in the direction of Chuguiv village in Kharkiv region from the east.",
+    "description_en": "UAV in the direction of Chuguiv village in Kharkiv region from the east.",
+    "description_uk": "БпЛА в напрямку н.п.Чугуїв на Харківщині зі сходу.",
+    "time": "",
+    "pubDate": "2026-07-14T07:00:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68405",
+    "score": 6.0,
+    "views": 49533,
+    "forwards": 0
+  },
+  {
+    "title": "Donetsk: 7 missiles intercepted",
+    "title_en": "Donetsk: 7 missiles intercepted",
+    "title_uk": "Донецьк: перехоплено 7 ракет",
+    "description": "7 MISSILES AND 108 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of July 14 (from 6:00 p.m. on July 13), the enemy attacked with 8 Iskander-M/S-400 ballistic missiles from the Bryna region, 2 Kh-59/69 guided air missiles (launching area - air space of TOT AR Crimea) and 135 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, Banderol barrage ammunition and simulator drones...",
+    "description_en": "7 MISSILES AND 108 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of July 14 (from 6:00 p.m. on July 13), the enemy attacked with 8 Iskander-M/S-400 ballistic missiles from the Bryna region, 2 Kh-59/69 guided air missiles (launching area - air space of TOT AR Crimea) and 135 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, Banderol barrage ammunition and simulator drones...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 7 РАКЕТ ТА 108 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 14 липня (з 18:00 13 липня) противник атакував 8 балістичними ракетами Іскандер-М/С-400 із Бринської області, 2 керованими авіаційними ракетами Х-59/69 (район пуску – повітряний простір ТОТ АР Крим) та 135 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас, баражуючими боєприпасами \"Бандероль\" та дронами-імітаторами...",
+    "time": "",
+    "pubDate": "2026-07-14T06:17:14+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41114",
+    "score": 13.0,
+    "views": 4313,
+    "forwards": 23
   },
   {
     "title": "🛫 Activity of enemy tactical aviation in the eastern direction! 🚀🚀The...",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54239",
     "score": 8.0,
-    "views": 790,
+    "views": 1482,
     "forwards": 1
   },
   {
@@ -68,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195953",
     "score": 5.5,
-    "views": 103598,
-    "forwards": 503
+    "views": 157205,
+    "forwards": 647
   },
   {
     "title": "Zaporizhzhia: Zaporizhzhia: BpLA heading for Vilniansk from the south.",
@@ -158,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54236",
     "score": 10.0,
-    "views": 2147,
+    "views": 2526,
     "forwards": 3
   },
   {
@@ -176,7 +212,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/195950",
     "score": 4.5,
-    "views": 183066,
+    "views": 209857,
     "forwards": 412
   },
   {
@@ -248,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9594",
     "score": 4.0,
-    "views": 636,
+    "views": 715,
     "forwards": 2
   },
   {
@@ -266,26 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19913",
     "score": 5.5,
-    "views": 61950,
-    "forwards": 94
-  },
-  {
-    "title": "Mykolaiv: Reactive BpLA on the Mykolayiv region from the south.",
-    "title_en": "Mykolaiv: Reactive BpLA on the Mykolayiv region from the south.",
-    "title_uk": "Миколаїв: Реактивний BpLA на Миколаївщині з півдня.",
-    "description": "Reactive BpLA on the Mykolayiv region from the south.",
-    "description_en": "Reactive BpLA on the Mykolayiv region from the south.",
-    "description_uk": "Реактивний БпЛА на Миколаївщину з півдня.",
-    "time": "",
-    "pubDate": "2026-07-13T18:25:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68345",
-    "score": 6.0,
-    "views": 65854,
-    "forwards": 0
+    "views": 64352,
+    "forwards": 96
   },
   {
     "title": "Kharkiv: Kharkiv region - high-speed south course - Slobozhanske.",
@@ -338,8 +356,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23638",
     "score": 5.5,
-    "views": 111925,
-    "forwards": 161
+    "views": 118750,
+    "forwards": 172
   },
   {
     "title": "Kyiv: Missile launch detected",
@@ -378,42 +396,6 @@
     "forwards": 20
   },
   {
-    "title": "Kharkiv: Today, the Russians once again \"defeated\" completely civilian objects...",
-    "title_en": "Kharkiv: Today, the Russians once again \"defeated\" completely civilian objects...",
-    "title_uk": "Харків: Сьогодні росіяни знову \"розгромили\" цілком цивільні об'єкти...",
-    "description": "Today, the Russians once again \"defeated\" completely civilian objects - ordinary passenger buses in Odesa, ordinary residential buildings in Zaporizhzhia, an ordinary hospital in Kharkiv region. Every day of Russia's war against life only proves the correctness of supporting Ukraine from all points of view: defensive, political and simply human. And everyone in the world sees it - they see that Ukraine needs more air defense, more...",
-    "description_en": "Today, the Russians once again \"defeated\" completely civilian objects - ordinary passenger buses in Odesa, ordinary residential buildings in Zaporizhzhia, an ordinary hospital in Kharkiv region. Every day of Russia's war against life only proves the correctness of supporting Ukraine from all points of view: defensive, political and simply human. And everyone in the world sees it - they see that Ukraine needs more air defense, more...",
-    "description_uk": "Сьогодні росіяни знову «перемогли» абсолютно цивільні об’єкти – звичайні пасажирські автобуси в Одесі, звичайні житлові будинки в Запоріжжі, звичайну лікарню на Харківщині. Кожен день такої війни Росії проти життя лише доводить правильність підтримки України з усіх точок зору: оборонної, політичної та просто людської. І всі у світі це бачать – бачать, що Україні потрібно більше ППО, більше...",
-    "time": "",
-    "pubDate": "2026-07-13T06:42:43+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kharkiv",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19885",
-    "score": 7.5,
-    "views": 204633,
-    "forwards": 360
-  },
-  {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "126 adversary targets were shot down/suppressed. On the night of July 13 (from 18:00 on July 12), the enemy attacked with 3 Kh-59/69 guided air missiles from the airspace of the TOT AR of Crimea and 134 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and imitator drones of the type \"Parody\" from the directions: Kursk, Orel, Millerovo - Russian Federation, TOT Donetsk, Gvardiyske, Chauda - TOT Autonomous Republic of Crimea. Air...",
-    "description_en": "126 adversary targets were shot down/suppressed. On the night of July 13 (from 18:00 on July 12), the enemy attacked with 3 Kh-59/69 guided air missiles from the airspace of the TOT AR of Crimea and 134 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and imitator drones of the type \"Parody\" from the directions: Kursk, Orel, Millerovo - Russian Federation, TOT Donetsk, Gvardiyske, Chauda - TOT Autonomous Republic of Crimea. Air...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 126 ЦІЛЕЙ ПРОТИВНИКА ➖➖➖➖➖➖➖➖➖➖ У ніч на 13 липня (з 18:00 12 липня) противник атакував 3 керованими авіаційними ракетами Х-59/69 із повітряного простору ТОТ АР Крим та 134 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Орел, Міллерово – рф., ТОТ Донецьк, Гвардійське, Чауда – ТОТ АР Крим. Повітряний...",
-    "time": "",
-    "pubDate": "2026-07-13T06:29:08+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41088",
-    "score": 13.0,
-    "views": 6695,
-    "forwards": 19
-  },
-  {
     "title": "🎙 Zelensky announced personnel reshuffles in the state 🔎 The...",
     "title_en": "🎙 Zelensky announced personnel reshuffles in the state 🔎 The...",
     "title_uk": "🎙 Зеленський анонсував кадрові перестановки в державі 🔎 У...",
@@ -428,7 +410,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23635",
     "score": 10.0,
-    "views": 172947,
-    "forwards": 215
+    "views": 174158,
+    "forwards": 216
   }
 ]
