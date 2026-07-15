@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAV ➡️ in the direction of Kropyvnytskyi. 🛵 BpLA ➡️ course to Kamianske.",
+    "description_en": "Jet UAV ➡️ in the direction of Kropyvnytskyi. 🛵 BpLA ➡️ course to Kamianske.",
+    "description_uk": "Реактивний БпЛА ➡️ в напрямку Кропивницького. 🛵 БпЛА ➡️ курсом на Кам'янське.",
+    "time": "",
+    "pubDate": "2026-07-15T23:17:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kropyvnytskyi",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68619",
+    "score": 5.0,
+    "views": 14183,
+    "forwards": 35
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons from the southeast!",
+    "description_en": "☄️ The threat of using ballistic weapons from the southeast!",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння з південного сходу!",
+    "time": "",
+    "pubDate": "2026-07-15T22:58:00+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68617",
+    "score": 5.5,
+    "views": 35480,
+    "forwards": 102
+  },
+  {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "Russia hits Kyiv with ballistic missiles as Ukraine reels from latest political shock. Explosions rocked Kyiv shortly before 1 a.m. local time, according to Kyiv Independent journalists on the ground. Tymur Tkachenko, head of the Kyv City Military Administration, reported that Russia was attacking the city with ballistic missiles.",
+    "description_en": "Russia hits Kyiv with ballistic missiles as Ukraine reels from latest political shock. Explosions rocked Kyiv shortly before 1 a.m. local time, according to Kyiv Independent journalists on the ground. Tymur Tkachenko, head of the Kyv City Military Administration, reported that Russia was attacking the city with ballistic missiles.",
+    "description_uk": "Russia hits Kyiv with ballistic missiles as Ukraine reels from latest political shock. Explosions rocked Kyiv shortly before 1 a.m. local time, according to Kyiv Independent journalists on the ground. Tymur Tkachenko, head of the Kyv City Military Administration, reported that Russia was attacking the city with ballistic missiles.",
+    "time": "",
+    "pubDate": "2026-07-15T22:37:45+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54289",
+    "score": 10.0,
+    "views": 613,
+    "forwards": 0
+  },
+  {
     "title": "Dnipro: Drone incoming",
     "title_en": "Dnipro: Drone incoming",
     "title_uk": "Дніпро: Дрон вхід",
@@ -50,26 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196104",
     "score": 5.0,
-    "views": 35272,
-    "forwards": 36
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Several groups of UAVs from the Black Sea area ➡️ in the direction of Zatoka (Odeszine).",
-    "description_en": "Several groups of UAVs from the Black Sea area ➡️ in the direction of Zatoka (Odeszine).",
-    "description_uk": "Декілька груп БпЛА з акваторїї Чорного моря ➡️ у напрямку Затоки (Одещина).",
-    "time": "",
-    "pubDate": "2026-07-15T21:28:27+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68598",
-    "score": 5.0,
-    "views": 11169,
-    "forwards": 0
+    "views": 50016,
+    "forwards": 47
   },
   {
     "title": "🛬 Activity of enemy tactical aviation in the south! 🚀The threat of...",
@@ -140,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54286",
     "score": 4.5,
-    "views": 2018,
+    "views": 2223,
     "forwards": 6
   },
   {
@@ -176,8 +212,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196092",
     "score": 6.5,
-    "views": 131737,
-    "forwards": 290
+    "views": 137224,
+    "forwards": 307
   },
   {
     "title": "🇻🇦 Minister of Foreign Affairs of Ukraine Andrii Sybiga held a...",
@@ -194,7 +230,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9618",
     "score": 14.0,
-    "views": 619,
+    "views": 636,
     "forwards": 9
   },
   {
@@ -308,7 +344,7 @@
   {
     "title": "Every year on July 15, Ukraine also celebrates the Day of Ukrainian...",
     "title_en": "Every year on July 15, Ukraine also celebrates the Day of Ukrainian...",
-    "title_uk": "Щороку 15 липня в Україні також відзначають День українського...",
+    "title_uk": "Щороку 15 липня в Україні також відзначається День українського...",
     "description": "Every year on July 15, Ukraine also celebrates the Day of Ukrainian Peacekeepers 🇺🇦 Shortly after regaining independence, Ukraine joined peacekeeping operations, demonstrating its readiness to take responsibility for global security and act as a reliable international partner. Since 1992, more than 45,000 Ukrainian servicemen have participated in operations to support peace and security. Ukrainian...",
     "description_en": "Every year on July 15, Ukraine also celebrates the Day of Ukrainian Peacekeepers 🇺🇦 Shortly after regaining independence, Ukraine joined peacekeeping operations, demonstrating its readiness to take responsibility for global security and act as a reliable international partner. Since 1992, more than 45,000 Ukrainian servicemen have participated in operations to support peace and security. Ukrainian...",
     "description_uk": "Щороку 15 липня Україна також відзначає День українських миротворців 🇺🇦 Невдовзі після відновлення незалежності Україна долучилася до операцій з підтримки миру, продемонструвавши готовність брати відповідальність за глобальну безпеку та діяти як надійний міжнародний партнер. З 1992 року понад 45 тисяч українських військовослужбовців брали участь у операціях з підтримки миру та безпеки. Українські...",
@@ -320,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9617",
     "score": 5.0,
-    "views": 5477,
+    "views": 5623,
     "forwards": 7
   },
   {
@@ -374,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19952",
     "score": 3.5,
-    "views": 54689,
+    "views": 56012,
     "forwards": 74
   },
   {
@@ -412,41 +448,5 @@
     "score": 6.0,
     "views": 3047,
     "forwards": 0
-  },
-  {
-    "title": "Kyiv: Ballistic missile launch detected",
-    "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
-    "description": "Ukraine is building its own ballistics and deep strikes for the first time. And these are not just developments, but a real force that is already working and that overcomes distances that were previously unreachable. 2884 kilometers. This is the distance from here to the Omsk Refinery. Historical distance, historical accuracy. And unlike Russia, which is at war with residential buildings, schools and churches, Ukraine is hitting Putin's \"sponsors\" in this war and the tools that help him...",
-    "description_en": "Ukraine is building its own ballistics and deep strikes for the first time. And these are not just developments, but a real force that is already working and that overcomes distances that were previously unreachable. 2884 kilometers. This is the distance from here to the Omsk Refinery. Historical distance, historical accuracy. And unlike Russia, which is at war with residential buildings, schools and churches, Ukraine is hitting Putin's \"sponsors\" in this war and the tools that help him...",
-    "description_uk": "Україна вперше будує свою балістику й дипстрайки. І це не просто розробки, а реальна сила, яка вже працює і яка долає відстані, недосяжні раніше. 2884 кілометри. Це відстань звідси до Омського НПЗ. Історична дистанція, історична точність. І на відміну від Росії, яка воює з житловими будинками, школами і храмами, Україна б’є по «спонсорах» Путіна у цій війні та інструментах, які допомагають йому...",
-    "time": "",
-    "pubDate": "2026-07-15T12:35:25+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19949",
-    "score": 6.5,
-    "views": 67479,
-    "forwards": 122
-  },
-  {
-    "title": "Crimea: Power outage reported",
-    "title_en": "Crimea: Power outage reported",
-    "title_uk": "Крим: повідомляється про відключення електроенергії",
-    "description": "Total blackout in Kerch, Crimea after Ukrainian drone attack. The city of Kerch in occupied Crimea was plunged into darkness overnight after Ukrainian drone strikes caused a total blackout, Russian authorities have said.",
-    "description_en": "Total blackout in Kerch, Crimea after Ukrainian drone attack. The city of Kerch in occupied Crimea was plunged into darkness overnight after Ukrainian drone strikes caused a total blackout, Russian authorities have said.",
-    "description_uk": "Total blackout in Kerch, Crimea after Ukrainian drone attack. The city of Kerch in occupied Crimea was plunged into darkness overnight after Ukrainian drone strikes caused a total blackout, Russian authorities have said.",
-    "time": "",
-    "pubDate": "2026-07-15T12:12:52+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Crimea",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54274",
-    "score": 7.5,
-    "views": 1852,
-    "forwards": 4
   }
 ]
