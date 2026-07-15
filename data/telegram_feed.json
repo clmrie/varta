@@ -1,5 +1,59 @@
 [
   {
+    "title": "Jet UAVs in Zhytomyr Oblast, headed for Korosten.",
+    "title_en": "Jet UAVs in Zhytomyr Oblast, headed for Korosten.",
+    "title_uk": "Реактивні БПЛА в Житомирській області прямували до Коростеня.",
+    "description": "Jet UAVs in Zhytomyr Oblast, headed for Korosten.",
+    "description_en": "Jet UAVs in Zhytomyr Oblast, headed for Korosten.",
+    "description_uk": "Реактивні БпЛА на Житомирщині, курсом на Коростень.",
+    "time": "",
+    "pubDate": "2026-07-15T04:00:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zhytomyr",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68518",
+    "score": 5.0,
+    "views": 15141,
+    "forwards": 0
+  },
+  {
+    "title": "High-speed targets in the waters of the Black Sea, in the direction...",
+    "title_en": "High-speed targets in the waters of the Black Sea, in the direction...",
+    "title_uk": "Швидкісні цілі в акваторії Чорного моря, в напрямку...",
+    "description": "High-speed targets in the waters of the Black Sea, in the direction of Odessa.",
+    "description_en": "High-speed targets in the waters of the Black Sea, in the direction of Odessa.",
+    "description_uk": "Швидкісні цілі в акваторії Чорного моря, в напрямку Одеси.",
+    "time": "",
+    "pubDate": "2026-07-15T03:57:33+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68516",
+    "score": 5.0,
+    "views": 25214,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "'A missile reaches Kyiv in 2-4 minutes' — official explains air alarm lag during Russian ballistic strikes. \"All information about launches or launch preparations comes to us from our partners. ... No system can be perfect, so failures do occur, and the alert may be delayed,\" Defense Ministry Advisor Serhii Beskrestnov said.",
+    "description_en": "'A missile reaches Kyiv in 2-4 minutes' — official explains air alarm lag during Russian ballistic strikes. \"All information about launches or launch preparations comes to us from our partners. ... No system can be perfect, so failures do occur, and the alert may be delayed,\" Defense Ministry Advisor Serhii Beskrestnov said.",
+    "description_uk": "'A missile reaches Kyiv in 2-4 minutes' — official explains air alarm lag during Russian ballistic strikes. \"All information about launches or launch preparations comes to us from our partners. ... No system can be perfect, so failures do occur, and the alert may be delayed,\" Defense Ministry Advisor Serhii Beskrestnov said.",
+    "time": "",
+    "pubDate": "2026-07-15T01:56:49+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54263",
+    "score": 6.0,
+    "views": 674,
+    "forwards": 3
+  },
+  {
     "title": "BpLA in the direction of Kharkiv from the north.",
     "title_en": "BpLA in the direction of Kharkiv from the north.",
     "title_uk": "БпЛА в напрямку Харкова з півн.",
@@ -104,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196027",
     "score": 9.5,
-    "views": 77814,
-    "forwards": 142
+    "views": 130625,
+    "forwards": 153
   },
   {
     "title": "Airstrike attack",
@@ -122,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196024",
     "score": 3.5,
-    "views": 84944,
-    "forwards": 158
+    "views": 134289,
+    "forwards": 160
   },
   {
     "title": "UAV to Odesa from the Black Sea.",
@@ -194,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54257",
     "score": 6.0,
-    "views": 1832,
+    "views": 2079,
     "forwards": 2
   },
   {
@@ -248,8 +302,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23642",
     "score": 3.5,
-    "views": 98110,
-    "forwards": 123
+    "views": 107842,
+    "forwards": 128
   },
   {
     "title": "Sumy: Speed ​​target on Sumy.",
@@ -324,60 +378,6 @@
     "forwards": 0
   },
   {
-    "title": "Jet UAVs to Odessa from the Black Sea.",
-    "title_en": "Jet UAVs to Odessa from the Black Sea.",
-    "title_uk": "Реактивні БПЛА до Одеси з Чорного моря.",
-    "description": "Jet UAVs to Odessa from the Black Sea.",
-    "description_en": "Jet UAVs to Odessa from the Black Sea.",
-    "description_uk": "Реактивні БпЛА на Одесу з Чорного моря.",
-    "time": "",
-    "pubDate": "2026-07-14T15:53:56+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68457",
-    "score": 5.0,
-    "views": 10119,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "Reactive UAV on Bogodukhiv district in Kharkiv region from the north.",
-    "description_en": "Reactive UAV on Bogodukhiv district in Kharkiv region from the north.",
-    "description_uk": "Реактивний БпЛА на Богодухівський район на Харківщині з півночі.",
-    "time": "",
-    "pubDate": "2026-07-14T15:34:16+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68455",
-    "score": 6.0,
-    "views": 34388,
-    "forwards": 0
-  },
-  {
-    "title": "120 missiles",
-    "title_en": "120 missiles",
-    "title_uk": "120 ракет",
-    "description": "\"Banderol\" is a budget missile that the enemy will not be able to launch in large quantities - adviser to the Minister of Defense Sergey \"Flash\" Beskrestnov According to him, the production plan for this year is 120 missiles per month, which means that the enemy will be able to launch only 4 such missiles every day. According to his estimates, the plant has not yet reached the planned production rate. \"The missile has an OFBCH-150 s 50 kg warhead...",
-    "description_en": "\"Banderol\" is a budget missile that the enemy will not be able to launch in large quantities - adviser to the Minister of Defense Sergey \"Flash\" Beskrestnov According to him, the production plan for this year is 120 missiles per month, which means that the enemy will be able to launch only 4 such missiles every day. According to his estimates, the plant has not yet reached the planned production rate. \"The missile has an OFBCH-150 s 50 kg warhead...",
-    "description_uk": "\"Бандероль\" - бюджетная ракета, которую враг не сможет запускать в больших количествах, - советник министра обороны Сергей \"Флэш\" Бескрестнов По его словам, план производства на этот год - 120 ракет в месяц, что означает, что ежедневно противник сможет запускать только 4 таких ракеты. По его оценкам, завод ещё не достиг планового показателя производства. \"Ракета имеет боеголовку ОФБЧ-150 с 50 кг...",
-    "time": "",
-    "pubDate": "2026-07-14T15:12:01+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196004",
-    "score": 8.5,
-    "views": 92935,
-    "forwards": 108
-  },
-  {
     "title": "Ukrainian pilots no longer need to be in the immediate vicinity of...",
     "title_en": "Ukrainian pilots no longer need to be in the immediate vicinity of...",
     "title_uk": "Українським пілотам більше не потрібно перебувати в безпосередній близькості від...",
@@ -394,24 +394,6 @@
     "score": 13.5,
     "views": 82968,
     "forwards": 112
-  },
-  {
-    "title": "30 missiles",
-    "title_en": "30 missiles",
-    "title_uk": "30 ракет",
-    "description": "Zelensky spoke about the results of the meeting with French President Macron: ✅ Ukraine receives licenses for the production of SCALP missiles, AASM bombs and, together with Italy, also Aster 30 missiles; ✅ France will cooperate with us and other partners also within the FREYJA anti-ballistic program; ✅ Ukraine will be the first to receive the new improved Franco-Italian SAMP/T NG systems. France also...",
-    "description_en": "Zelensky spoke about the results of the meeting with French President Macron: ✅ Ukraine receives licenses for the production of SCALP missiles, AASM bombs and, together with Italy, also Aster 30 missiles; ✅ France will cooperate with us and other partners also within the FREYJA anti-ballistic program; ✅ Ukraine will be the first to receive the new improved Franco-Italian SAMP/T NG systems. France also...",
-    "description_uk": "Зеленский рассказал об итогах встречи с президентом Франции Макроном: ✅ Украина получает лицензии на производство ракет SCALP, бомб AASM и, совместно с Италией, также ракет Aster 30; ✅ Франция будет сотрудничать с нами и другими партнерами также в рамках антибаллистической программы FREYJA; ✅ Украина первой получит новые усовершенствованные франко-итальянские системы SAMP/T NG. Франция также...",
-    "time": "",
-    "pubDate": "2026-07-14T14:01:44+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196000",
-    "score": 3.0,
-    "views": 35617,
-    "forwards": 38
   },
   {
     "title": "Kyiv: Explosions reported",
@@ -446,7 +428,25 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41114",
     "score": 13.0,
-    "views": 8074,
+    "views": 8243,
     "forwards": 35
+  },
+  {
+    "title": "🇳 Minister Andriy Sybiga: \"Together with the First Lady of Ukraine,...",
+    "title_en": "🇳 Minister Andriy Sybiga: \"Together with the First Lady of Ukraine,...",
+    "title_uk": "🇳 Міністр Андрій Сибіга: «Разом з першою леді України...",
+    "description": "🇳 Minister Andriy Sybiga: \"Together with the First Lady of Ukraine, Olena Zelenska, we held a fruitful meeting with UNESCO Director General Khaled El-Enani. We discussed expanding cooperation to protect education, culture, science, and freedom of expression in the face of ongoing Russian aggression.\" The minister expressed his gratitude to UNESCO for the initiatives to support and preserve the common cultural heritage....",
+    "description_en": "🇳 Minister Andriy Sybiga: \"Together with the First Lady of Ukraine, Olena Zelenska, we held a fruitful meeting with UNESCO Director General Khaled El-Enani. We discussed expanding cooperation to protect education, culture, science, and freedom of expression in the face of ongoing Russian aggression.\" The minister expressed his gratitude to UNESCO for the initiatives to support and preserve the common cultural heritage....",
+    "description_uk": "🇳 Міністр Андрій Сибіга: \"Разом із Першою леді України Оленою Зеленською провели плідну зустріч із генеральним директором ЮНЕСКО Халедом Ель-Енані. Ми обговорили розширення співпраці задля захисту освіти, культури, науки та свободи вираження поглядів в умовах триваючої російської агресії\". Міністр висловив вдячність ЮНЕСКО за ініціативи з підтримки та збереження спільної культурної спадщини....",
+    "time": "",
+    "pubDate": "2026-07-13T18:39:56+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9594",
+    "score": 4.0,
+    "views": 947,
+    "forwards": 2
   }
 ]
