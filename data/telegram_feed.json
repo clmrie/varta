@@ -1,5 +1,23 @@
 [
   {
+    "title": "Zaporizhzhia: BpLA in the direction of Zaporozhye from the south",
+    "title_en": "Zaporizhzhia: BpLA in the direction of Zaporozhye from the south",
+    "title_uk": "Запоріжжя: БпЛА в напрямку Запоріжжя з півд",
+    "description": "BpLA in the direction of Zaporozhye from the south",
+    "description_en": "BpLA in the direction of Zaporozhye from the south",
+    "description_uk": "БпЛА в напрямку м.Запоріжжя з півдня",
+    "time": "",
+    "pubDate": "2026-07-16T20:41:11+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68785",
+    "score": 6.0,
+    "views": 35596,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: BpLA in the direction of the city of Kharkiv from the north",
     "title_en": "Kharkiv: BpLA in the direction of the city of Kharkiv from the north",
     "title_uk": "Харків: БпЛА в напрямку м. Харкова з півн",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/68780",
     "score": 6.0,
-    "views": 63788,
+    "views": 79056,
     "forwards": 1
   },
   {
@@ -50,8 +68,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19988",
     "score": 3.5,
-    "views": 35490,
-    "forwards": 23
+    "views": 41296,
+    "forwards": 24
   },
   {
     "title": "👀 The US Army will annually check the testosterone level of military...",
@@ -67,9 +85,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196191",
-    "score": 5.5,
-    "views": 98978,
-    "forwards": 185
+    "score": 6.5,
+    "views": 115640,
+    "forwards": 223
   },
   {
     "title": "Zaporizhzhia: BpLA in the direction of Zaporozhye from the east.",
@@ -122,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54314",
     "score": 8.0,
-    "views": 1387,
-    "forwards": 2
+    "views": 1726,
+    "forwards": 3
   },
   {
     "title": "Kharkiv: Unmanned aerial vehicle in the Kharkiv district in the south and...",
@@ -176,7 +194,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48872",
     "score": 5.0,
-    "views": 53,
+    "views": 60,
     "forwards": 1
   },
   {
@@ -230,8 +248,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54311",
     "score": 6.0,
-    "views": 1905,
-    "forwards": 4
+    "views": 2084,
+    "forwards": 5
   },
   {
     "title": "Drone incoming",
@@ -266,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9627",
     "score": 12.0,
-    "views": 788,
+    "views": 802,
     "forwards": 6
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.5,
     "views": 101014,
     "forwards": 289
-  },
-  {
-    "title": "Kyiv: Drone strike",
-    "title_en": "Kyiv: Drone strike",
-    "title_uk": "Київ: Дрон-удар",
-    "description": "2 Russian shadow fleet tankers hit by drones in Black Sea, SBU says. According to the Security Service of Ukraine (SBU), the two vessels hit were the tankers Louise 1 and Banda.",
-    "description_en": "2 Russian shadow fleet tankers hit by drones in Black Sea, SBU says. According to the Security Service of Ukraine (SBU), the two vessels hit were the tankers Louise 1 and Banda.",
-    "description_uk": "2 Russian shadow fleet tankers hit by drones in Black Sea, SBU says. According to the Security Service of Ukraine (SBU), the two vessels hit were the tankers Louise 1 and Banda.",
-    "time": "",
-    "pubDate": "2026-07-16T09:10:52+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54298",
-    "score": 5.0,
-    "views": 2121,
-    "forwards": 2
   }
 ]
