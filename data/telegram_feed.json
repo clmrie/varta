@@ -1,5 +1,59 @@
 [
   {
+    "title": "Jet UAV ➡️ on/past Stepanivka.",
+    "title_en": "Jet UAV ➡️ on/past Stepanivka.",
+    "title_uk": "Реактивний БПЛА ➡️ на/мимо Степанівки.",
+    "description": "Jet UAV ➡️ on/past Stepanivka.",
+    "description_en": "Jet UAV ➡️ on/past Stepanivka.",
+    "description_uk": "Реактивний БпЛА ➡️ на/повз Степанівку.",
+    "time": "",
+    "pubDate": "2026-07-16T16:03:50+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68740",
+    "score": 5.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Reactive BpLA ➡️ in the direction of Kharkiv from the south.",
+    "title_en": "Reactive BpLA ➡️ in the direction of Kharkiv from the south.",
+    "title_uk": "Реактивний BpLA ➡️ в напрямку Харкова з півдня.",
+    "description": "Reactive BpLA ➡️ in the direction of Kharkiv from the south.",
+    "description_en": "Reactive BpLA ➡️ in the direction of Kharkiv from the south.",
+    "description_uk": "Реактивний БпЛА ➡️ в напрямку Харкова з півдня.",
+    "time": "",
+    "pubDate": "2026-07-16T15:54:39+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68739",
+    "score": 5.0,
+    "views": 15148,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Київ: повідомляється про постраждалих",
+    "description": "Iermolaiev accuses Ukrainian intelligence officers of trying to kill him in Monaco. Ukraine's Prosecutor General's Office and the Security Service of Ukraine (SBU) said previously that the suspects were operating without the knowledge of HUR's leadership, and that the investigation was being conducted with the personal assistance of Military Intelligence Chief Oleh Ivashchenko.",
+    "description_en": "Iermolaiev accuses Ukrainian intelligence officers of trying to kill him in Monaco. Ukraine's Prosecutor General's Office and the Security Service of Ukraine (SBU) said previously that the suspects were operating without the knowledge of HUR's leadership, and that the investigation was being conducted with the personal assistance of Military Intelligence Chief Oleh Ivashchenko.",
+    "description_uk": "Iermolaiev accuses Ukrainian intelligence officers of trying to kill him in Monaco. Ukraine's Prosecutor General's Office and the Security Service of Ukraine (SBU) said previously that the suspects were operating without the knowledge of HUR's leadership, and that the investigation was being conducted with the personal assistance of Military Intelligence Chief Oleh Ivashchenko.",
+    "time": "",
+    "pubDate": "2026-07-16T15:43:03+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54311",
+    "score": 6.0,
+    "views": 465,
+    "forwards": 1
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -32,7 +86,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9627",
     "score": 12.0,
-    "views": 355,
+    "views": 607,
     "forwards": 5
   },
   {
@@ -68,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54308",
     "score": 6.0,
-    "views": 700,
+    "views": 1328,
     "forwards": 1
   },
   {
@@ -86,7 +140,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196163",
     "score": 8.5,
-    "views": 89407,
+    "views": 113197,
     "forwards": 147
   },
   {
@@ -194,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19981",
     "score": 6.5,
-    "views": 82207,
-    "forwards": 275
+    "views": 89368,
+    "forwards": 276
   },
   {
     "title": "Kyiv: Drone strike",
@@ -234,24 +288,6 @@
     "forwards": 0
   },
   {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
-    "description": "Ukraine’s Air Force Deputy Commander announces resignation over Fedorov’s dismissal. Colonel Pavlo Yelizarov warned in his resignation letter that the dismissal would cause more casualties and destruction in Ukraine from Russian missile and drone attacks.",
-    "description_en": "Ukraine’s Air Force Deputy Commander announces resignation over Fedorov’s dismissal. Colonel Pavlo Yelizarov warned in his resignation letter that the dismissal would cause more casualties and destruction in Ukraine from Russian missile and drone attacks.",
-    "description_uk": "Ukraine’s Air Force Deputy Commander announces resignation over Fedorov’s dismissal. Colonel Pavlo Yelizarov warned in his resignation letter that the dismissal would cause more casualties and destruction in Ukraine from Russian missile and drone attacks.",
-    "time": "",
-    "pubDate": "2026-07-16T08:01:13+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54296",
-    "score": 6.0,
-    "views": 1973,
-    "forwards": 6
-  },
-  {
     "title": "Mykolaiv: Drone strike near civilians",
     "title_en": "Mykolaiv: Drone strike near civilians",
     "title_uk": "Миколаїв: удар безпілотників поблизу мирних жителів",
@@ -266,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19971",
     "score": 23.0,
-    "views": 179083,
-    "forwards": 238
+    "views": 185303,
+    "forwards": 240
   },
   {
     "title": "Ukrainian drones have already rewritten the rules of war, but they...",
@@ -320,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41166",
     "score": 13.0,
-    "views": 5943,
+    "views": 6088,
     "forwards": 28
   },
   {
@@ -378,24 +414,6 @@
     "forwards": 4
   },
   {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Дрон вхід",
-    "description": "Jet UAVs in the north of Kyiv region ➡️ in the southwest direction",
-    "description_en": "Jet UAVs in the north of Kyiv region ➡️ in the southwest direction",
-    "description_uk": "Реактивні БпЛА на півночі Київщині ➡️ у південно-західному напрямку",
-    "time": "",
-    "pubDate": "2026-07-16T03:43:51+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68655",
-    "score": 6.0,
-    "views": 36361,
-    "forwards": 1
-  },
-  {
     "title": "Kyiv: 'Looking forward to welcoming them back' — International Handball...",
     "title_en": "Kyiv: 'Looking forward to welcoming them back' — International Handball...",
     "title_uk": "Київ: «З нетерпінням чекаю їх повернення» — International Handball...",
@@ -428,25 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9618",
     "score": 14.0,
-    "views": 1016,
+    "views": 1026,
     "forwards": 10
-  },
-  {
-    "title": "Every year on July 15, Ukraine also celebrates the Day of Ukrainian...",
-    "title_en": "Every year on July 15, Ukraine also celebrates the Day of Ukrainian...",
-    "title_uk": "Щороку 15 липня в Україні також відзначають День українського...",
-    "description": "Every year on July 15, Ukraine also celebrates the Day of Ukrainian Peacekeepers 🇺🇦 Shortly after regaining independence, Ukraine joined peacekeeping operations, demonstrating its readiness to take responsibility for global security and act as a reliable international partner. Since 1992, more than 45,000 Ukrainian servicemen have participated in operations to support peace and security. Ukrainian...",
-    "description_en": "Every year on July 15, Ukraine also celebrates the Day of Ukrainian Peacekeepers 🇺🇦 Shortly after regaining independence, Ukraine joined peacekeeping operations, demonstrating its readiness to take responsibility for global security and act as a reliable international partner. Since 1992, more than 45,000 Ukrainian servicemen have participated in operations to support peace and security. Ukrainian...",
-    "description_uk": "Щороку 15 липня Україна також відзначає День українських миротворців 🇺🇦 Невдовзі після відновлення незалежності Україна долучилася до операцій з підтримки миру, продемонструвавши готовність брати відповідальність за глобальну безпеку та діяти як надійний міжнародний партнер. З 1992 року понад 45 тисяч українських військовослужбовців брали участь у операціях з підтримки миру та безпеки. Українські...",
-    "time": "",
-    "pubDate": "2026-07-15T16:16:33+00:00",
-    "category": "political",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9617",
-    "score": 5.0,
-    "views": 7422,
-    "forwards": 8
   }
 ]
