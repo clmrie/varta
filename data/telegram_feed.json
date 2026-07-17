@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA headed for Kharkiv from the north.",
+    "title_uk": "Харків: BpLA прямувала на Харків з півночі.",
+    "description": "BpLA headed for Kharkiv from the north.",
+    "description_en": "BpLA headed for Kharkiv from the north.",
+    "description_uk": "БпЛА курсом на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-07-17T17:14:56+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68915",
+    "score": 6.0,
+    "views": 25258,
+    "forwards": 0
+  },
+  {
+    "title": "Cruise missile heading inbound",
+    "title_en": "Cruise missile heading inbound",
+    "title_uk": "Крилата ракета наближається",
+    "description": "Ukraine already produces up to three Flamingo cruise missiles per day and about 200 long-range drones daily, - chief designer of Fire Point Shtilerman. According to him, the Flamingo is launched from a truck and has a range of about 3 thousand. km - this is about twice as much as the American Tomahawk cruise missile (about 1.6 thousand km in modern versions), carries a more powerful warhead and costs about twice as much...",
+    "description_en": "Ukraine already produces up to three Flamingo cruise missiles per day and about 200 long-range drones daily, - chief designer of Fire Point Shtilerman. According to him, the Flamingo is launched from a truck and has a range of about 3 thousand. km - this is about twice as much as the American Tomahawk cruise missile (about 1.6 thousand km in modern versions), carries a more powerful warhead and costs about twice as much...",
+    "description_uk": "Украина уже выпускает до трех крылатых ракет Flamingo в день и около 200 дальнобойных дронов ежедневно, - главный конструктор Fire Point Штилерман По его словам, Flamingo запускается с грузовика, имеет дальность около 3 тыс. км - это примерно вдвое больше, чем у американской крылатой ракеты Tomahawk (около 1,6 тыс. км в современных версиях), несет более мощную боевую часть и стоит примерно вдвое...",
+    "time": "",
+    "pubDate": "2026-07-17T17:12:02+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/196251",
+    "score": 8.5,
+    "views": 29138,
+    "forwards": 148
+  },
+  {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "A jet UAV heading towards the Dnipro from the east.",
+    "description_en": "A jet UAV heading towards the Dnipro from the east.",
+    "description_uk": "Реактивний БпЛА курсом на Дніпро зі сходу.",
+    "time": "",
+    "pubDate": "2026-07-17T17:09:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68914",
+    "score": 6.0,
+    "views": 31328,
+    "forwards": 0
+  },
+  {
     "title": "Sumy: BpLA on Sumy from the north.",
     "title_en": "Sumy: BpLA on Sumy from the north.",
     "title_uk": "Суми: БпЛА на Суми з півн.",
@@ -50,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54335",
     "score": 8.0,
-    "views": 695,
+    "views": 1141,
     "forwards": 1
   },
   {
@@ -68,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54334",
     "score": 9.0,
-    "views": 859,
+    "views": 1239,
     "forwards": 1
   },
   {
@@ -122,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20014",
     "score": 4.5,
-    "views": 77710,
-    "forwards": 495
+    "views": 111490,
+    "forwards": 565
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -194,7 +248,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9632",
     "score": 5.0,
-    "views": 673,
+    "views": 758,
     "forwards": 5
   },
   {
@@ -249,24 +303,6 @@
     "link": "https://t.me/KyivIndependent_official/54328",
     "score": 5.0,
     "views": 1425,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA headed for Kharkiv from the north.",
-    "title_uk": "Харків: BpLA прямувала на Харків з півночі.",
-    "description": "BpLA headed for Kharkiv from the north.",
-    "description_en": "BpLA headed for Kharkiv from the north.",
-    "description_uk": "БпЛА курсом на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-07-17T11:27:40+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68869",
-    "score": 6.0,
-    "views": 30342,
     "forwards": 0
   },
   {
@@ -338,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20001",
     "score": 4.5,
-    "views": 231014,
-    "forwards": 559
+    "views": 247931,
+    "forwards": 593
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -374,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9631",
     "score": 13.0,
-    "views": 796,
+    "views": 832,
     "forwards": 5
   },
   {
@@ -412,41 +448,5 @@
     "score": 6.5,
     "views": 91993,
     "forwards": 280
-  },
-  {
-    "title": "Crimea: Drone strike",
-    "title_en": "Crimea: Drone strike",
-    "title_uk": "Крим: удар безпілотника",
-    "description": "Update: Ukrainian drones strike 12 Russian 'shadow fleet' vessels in Black Sea as Crimea comes under large-scale attack. Nine dry cargo ships, one oil tanker, one gas carrier, and one tugboat were hit in the Black Sea during the attack, Robert Brovdi, commander of Ukraine's Unmanned",
-    "description_en": "Update: Ukrainian drones strike 12 Russian 'shadow fleet' vessels in Black Sea as Crimea comes under large-scale attack. Nine dry cargo ships, one oil tanker, one gas carrier, and one tugboat were hit in the Black Sea during the attack, Robert Brovdi, commander of Ukraine's Unmanned",
-    "description_uk": "Update: Ukrainian drones strike 12 Russian 'shadow fleet' vessels in Black Sea as Crimea comes under large-scale attack. Nine dry cargo ships, one oil tanker, one gas carrier, and one tugboat were hit in the Black Sea during the attack, Robert Brovdi, commander of Ukraine's Unmanned",
-    "time": "",
-    "pubDate": "2026-07-17T07:53:16+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Crimea",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54322",
-    "score": 8.0,
-    "views": 1555,
-    "forwards": 2
-  },
-  {
-    "title": "‼️StopRussianRecruiters.org starts publishing profiles of people who...",
-    "title_en": "‼️StopRussianRecruiters.org starts publishing profiles of people who...",
-    "title_uk": "‼️StopRussianRecruiters.org починає публікувати профілі людей, які...",
-    "description": "‼️StopRussianRecruiters.org starts publishing profiles of people who carry out \"predatory\" recruitment of foreigners into the Russian army. On the information resource StopRussianRecruiters.org, created by the Coordination Headquarters together with the Ministry of Foreign Affairs of Ukraine, a new section has been launched, dedicated to people who are involved in \"predatory\" recruitment of foreign citizens for the war against Ukraine. ➡️In the section...",
-    "description_en": "‼️StopRussianRecruiters.org starts publishing profiles of people who carry out \"predatory\" recruitment of foreigners into the Russian army. On the information resource StopRussianRecruiters.org, created by the Coordination Headquarters together with the Ministry of Foreign Affairs of Ukraine, a new section has been launched, dedicated to people who are involved in \"predatory\" recruitment of foreign citizens for the war against Ukraine. ➡️In the section...",
-    "description_uk": "‼️StopRussianRecruiters.org розпочинає публікацію профілів осіб, які здійснюють “хижацький” рекрутинг іноземців до армії рф На інформаційному ресурсі StopRussianRecruiters.org, створеному Координаційним штабом спільно з Міністерством закордонних справ України, стартувала нова рубрика, присвячена особам, які задіяні в “хижацькому” рекрутингу іноземних громадян на війну проти України. ➡️У розділі...",
-    "time": "",
-    "pubDate": "2026-07-17T07:35:45+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9630",
-    "score": 5.0,
-    "views": 690,
-    "forwards": 1
   }
 ]
