@@ -1,5 +1,59 @@
 [
   {
+    "title": "Sumy: BpLA headed for Sumy from the north.",
+    "title_en": "Sumy: BpLA headed for Sumy from the north.",
+    "title_uk": "Суми: BpLA прямувала на Суми з півночі.",
+    "description": "BpLA headed for Sumy from the north.",
+    "description_en": "BpLA headed for Sumy from the north.",
+    "description_uk": "БпЛА курсом на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-07-17T15:01:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68898",
+    "score": 6.0,
+    "views": 2041,
+    "forwards": 0
+  },
+  {
+    "title": "A high-speed target in the waters of the Black Sea, headed for...",
+    "title_en": "A high-speed target in the waters of the Black Sea, headed for...",
+    "title_uk": "Швидкісна ціль у водах Чорного моря прямує до...",
+    "description": "A high-speed target in the waters of the Black Sea, headed for Chornomorsk!",
+    "description_en": "A high-speed target in the waters of the Black Sea, headed for Chornomorsk!",
+    "description_uk": "Швидкісна ціль в акваторії Чорного моря, курсом на Чорноморськ!",
+    "time": "",
+    "pubDate": "2026-07-17T14:49:32+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68896",
+    "score": 5.0,
+    "views": 27277,
+    "forwards": 34
+  },
+  {
+    "title": "A meeting with Serhii Beskrestnov - Flash. We discussed in great...",
+    "title_en": "A meeting with Serhii Beskrestnov - Flash. We discussed in great...",
+    "title_uk": "Зустріч із Сергієм Бескрестновим - Flash. Ми чудово обговорили...",
+    "description": "A meeting with Serhii Beskrestnov - Flash. We discussed in great detail all that is currently the most relevant in the technological components of our defense. It is technology that saves the lives of our soldiers and brings this war back home - to Russia. It is also important to respond in a timely manner to military innovations that occur with the forces and means of the aggressor's army, based on the principle: we know the details, therefore, accurately...",
+    "description_en": "A meeting with Serhii Beskrestnov - Flash. We discussed in great detail all that is currently the most relevant in the technological components of our defense. It is technology that saves the lives of our soldiers and brings this war back home - to Russia. It is also important to respond in a timely manner to military innovations that occur with the forces and means of the aggressor's army, based on the principle: we know the details, therefore, accurately...",
+    "description_uk": "Зустріч із Сергієм Бескрестновим – Флешем. Дуже детально обговорили все те, що зараз найбільш актуальне в технологічних складових нашої оборони. Саме технологічність рятує життя наших воїнів і повертає цю війну додому – в Росію. Важливо також і завжди вчасно реагувати на військові інновації, які відбуваються із силами й засобами армії агресора, на основі принципу: знаємо деталі, отже, влучно...",
+    "time": "",
+    "pubDate": "2026-07-17T14:42:35+00:00",
+    "category": "alert",
+    "severity": "medium",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20014",
+    "score": 4.5,
+    "views": 28269,
+    "forwards": 353
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -50,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196235",
     "score": 3.5,
-    "views": 39796,
-    "forwards": 74
+    "views": 83281,
+    "forwards": 109
   },
   {
     "title": "Casualties reported",
@@ -68,7 +122,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9632",
     "score": 5.0,
-    "views": 434,
+    "views": 579,
     "forwards": 5
   },
   {
@@ -86,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54329",
     "score": 6.0,
-    "views": 987,
-    "forwards": 3
+    "views": 1474,
+    "forwards": 4
   },
   {
     "title": "🐷In Russia, everything is ready for a new mobilization - the only...",
@@ -104,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196230",
     "score": 6.5,
-    "views": 78666,
-    "forwards": 344
+    "views": 103801,
+    "forwards": 414
   },
   {
     "title": "Kyiv: Airstrike attack on infrastructure",
@@ -122,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54328",
     "score": 5.0,
-    "views": 1042,
+    "views": 1425,
     "forwards": 0
   },
   {
@@ -212,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20001",
     "score": 4.5,
-    "views": 188285,
-    "forwards": 557
+    "views": 215158,
+    "forwards": 558
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -266,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9631",
     "score": 13.0,
-    "views": 678,
+    "views": 738,
     "forwards": 5
   },
   {
@@ -394,59 +448,5 @@
     "score": 11.5,
     "views": 168145,
     "forwards": 245
-  },
-  {
-    "title": "\"No more nerves! We are being smashed to the hilt by airplanes! And...",
-    "title_en": "\"No more nerves! We are being smashed to the hilt by airplanes! And...",
-    "title_uk": "«Немає більше нервів! Нас трощать вщент літаки! І...",
-    "description": "\"No more nerves! We are being smashed to the hilt by airplanes! And we have Sarmatians, Poseidons, Loshariks, Huyariks, Zircons 🤣 Russian propagandist Arutyunov hysterically reports on the situation at the front. As it turned out, loud stories about \"super weapons\" do not really help from regular drone flights.",
-    "description_en": "\"No more nerves! We are being smashed to the hilt by airplanes! And we have Sarmatians, Poseidons, Loshariks, Huyariks, Zircons 🤣 Russian propagandist Arutyunov hysterically reports on the situation at the front. As it turned out, loud stories about \"super weapons\" do not really help from regular drone flights.",
-    "description_uk": "«Нервов уже нет! Нас разьебывают к хуям самолетиками! А у нас «Сарматы, «Посейдоны», лошарики, хуярики, «Цирконы» 🤣 Российский пропагандист Арутюнов в истерике докладывает о ситуации на фронте. Как оказалось, громкие рассказы о «супероружии» не очень помогают от регулярных прилетов дронов.",
-    "time": "",
-    "pubDate": "2026-07-17T06:15:07+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196208",
-    "score": 5.5,
-    "views": 136305,
-    "forwards": 510
-  },
-  {
-    "title": "Kharkiv: Kharkiv region: BpLA ➡️ to/past Sakhnov region in the western...",
-    "title_en": "Kharkiv: Kharkiv region: BpLA ➡️ to/past Sakhnov region in the western...",
-    "title_uk": "Харків: Харківська область: BpLA ➡️ до/повз Сахновщину в зах....",
-    "description": "Kharkiv region: BpLA ➡️ to/past Sakhnov region in the western direction.",
-    "description_en": "Kharkiv region: BpLA ➡️ to/past Sakhnov region in the western direction.",
-    "description_uk": "Харківщина: БпЛА ➡️ на/повз Сахновщину у західному напрямку.",
-    "time": "",
-    "pubDate": "2026-07-17T05:44:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68843",
-    "score": 6.0,
-    "views": 58631,
-    "forwards": 0
-  },
-  {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "120 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of July 17 (from 18:00 on July 16), the enemy attacked with one Kh-31P anti-radar missile from the TOT of the Crimean Autonomous Republic, 7 guided air missiles Kh-59/69 from the TOT of the Autonomous Republic of Crimea and 130 strike UAVs of the Shahed type (including jet ones), Gerber, Italmas and parody drones from the directions: Primorsko-Akhtarsk, Millerovo, Orel - Russian Federation, Donetsk...",
-    "description_en": "120 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of July 17 (from 18:00 on July 16), the enemy attacked with one Kh-31P anti-radar missile from the TOT of the Crimean Autonomous Republic, 7 guided air missiles Kh-59/69 from the TOT of the Autonomous Republic of Crimea and 130 strike UAVs of the Shahed type (including jet ones), Gerber, Italmas and parody drones from the directions: Primorsko-Akhtarsk, Millerovo, Orel - Russian Federation, Donetsk...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 120 ЦІЛЕЙ ПРОТИВНИКА ➖➖➖➖➖➖➖➖➖➖ У ніч на 17 липня (з 18:00 16 липня) противник атакував однією протирадіолокаційною ракетою Х-31П із ТОТ АР Крим, 7 керованими авіаційними ракетами Х-59/69 із ТОТ АР Крим та 130 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу “Пародія” із напрямків: Приморсько-Ахтарськ, Міллєрово, Орел – рф,, Донецьк...",
-    "time": "",
-    "pubDate": "2026-07-17T05:30:29+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41192",
-    "score": 13.0,
-    "views": 9215,
-    "forwards": 23
   }
 ]
