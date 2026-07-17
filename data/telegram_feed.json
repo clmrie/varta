@@ -1,5 +1,77 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "Ballistics on Rybakivka!",
+    "description_en": "Ballistics on Rybakivka!",
+    "description_uk": "Балістика на Рибаківку!",
+    "time": "",
+    "pubDate": "2026-07-17T18:19:08+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68919",
+    "score": 5.5,
+    "views": 36383,
+    "forwards": 68
+  },
+  {
+    "title": "Crimea: Ballistic missile launch detected",
+    "title_en": "Crimea: Ballistic missile launch detected",
+    "title_uk": "Крим: виявлено пуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons from Crimea.",
+    "description_en": "☄️ The threat of using ballistic weapons from Crimea.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння з Криму.",
+    "time": "",
+    "pubDate": "2026-07-17T18:15:32+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Crimea",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68918",
+    "score": 6.0,
+    "views": 47489,
+    "forwards": 35
+  },
+  {
+    "title": "Air defense active",
+    "title_en": "Air defense active",
+    "title_uk": "Активна ППО",
+    "description": "👀 A new Ukrainian interceptor drone \"Cyklop\" appeared in the Armed Forces of Ukraine. The Ministry of Defense codified the complex and allowed it to be used. Various modifications of the \"Cyclops\" are intended for defeating ground targets, low-flying drones and high-speed Shahed at high altitude. The department said that \"Cyclops V2\" has already destroyed more than 100 air targets. He also shot down the Russian Shahed over the Kursk region for the first time.",
+    "description_en": "👀 A new Ukrainian interceptor drone \"Cyklop\" appeared in the Armed Forces of Ukraine. The Ministry of Defense codified the complex and allowed it to be used. Various modifications of the \"Cyclops\" are intended for defeating ground targets, low-flying drones and high-speed Shahed at high altitude. The department said that \"Cyclops V2\" has already destroyed more than 100 air targets. He also shot down the Russian Shahed over the Kursk region for the first time.",
+    "description_uk": "👀 У ВСУ появился новый украинский дрон-перехватчик \"Циклоп\" Минобороны кодифицировало комплекс и допустило его к эксплуатации. Разные модификации \"Циклопа\" предназначены для поражения наземных целей, низколетящих дронов и скоростных Shahed на большой высоте. В ведомстве заявили, что \"Циклоп V2\" уже уничтожил более 100 воздушных целей. Он также впервые сбил российский Shahed над Курской областью.",
+    "time": "",
+    "pubDate": "2026-07-17T18:11:14+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kursk",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/196259",
+    "score": 5.5,
+    "views": 35442,
+    "forwards": 106
+  },
+  {
+    "title": "Oleksiy Sobolev will join the economic direction of work in the...",
+    "title_en": "Oleksiy Sobolev will join the economic direction of work in the...",
+    "title_uk": "Олексій Соболєв долучиться до економічного напрямку роботи в...",
+    "description": "Oleksiy Sobolev will join the economic direction of work in the Office of the President. Together with Kyryll Budanov, we determined the necessary tasks. The key is to support the Ukrainian manufacturer at all levels of government and implement agreements with partners fully and as quickly as possible. Oleksiy's experience allows him to participate in the formation of economic policy and effectively interact with the government and...",
+    "description_en": "Oleksiy Sobolev will join the economic direction of work in the Office of the President. Together with Kyryll Budanov, we determined the necessary tasks. The key is to support the Ukrainian manufacturer at all levels of government and implement agreements with partners fully and as quickly as possible. Oleksiy's experience allows him to participate in the formation of economic policy and effectively interact with the government and...",
+    "description_uk": "Олексій Соболев приєднається до економічного напрямку роботи в Офісі Президента. Разом із Кирилом Будановим визначили необхідні завдання. Ключове – на всіх рівнях державної влади підтримувати українського виробника та повністю і максимально оперативно реалізовувати домовленості з партнерами. Досвід Олексія дозволяє брати участь у формуванні економічної політики та ефективно взаємодіяти з урядом і...",
+    "time": "",
+    "pubDate": "2026-07-17T17:36:18+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20021",
+    "score": 5.5,
+    "views": 31814,
+    "forwards": 75
+  },
+  {
     "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
     "title_en": "Kharkiv: BpLA headed for Kharkiv from the north.",
     "title_uk": "Харків: BpLA прямувала на Харків з півночі.",
@@ -31,9 +103,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196251",
-    "score": 8.5,
-    "views": 29138,
-    "forwards": 148
+    "score": 9.5,
+    "views": 72257,
+    "forwards": 219
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -104,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54335",
     "score": 8.0,
-    "views": 1141,
+    "views": 1401,
     "forwards": 1
   },
   {
@@ -122,8 +194,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54334",
     "score": 9.0,
-    "views": 1239,
-    "forwards": 1
+    "views": 1453,
+    "forwards": 2
   },
   {
     "title": "Sumy: BpLA headed for Sumy from the north.",
@@ -176,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20014",
     "score": 4.5,
-    "views": 111490,
-    "forwards": 565
+    "views": 125249,
+    "forwards": 566
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -248,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9632",
     "score": 5.0,
-    "views": 758,
+    "views": 785,
     "forwards": 5
   },
   {
@@ -376,77 +448,5 @@
     "score": 4.5,
     "views": 247931,
     "forwards": 593
-  },
-  {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "UAV in the direction of Zaporizhzhia from the east.",
-    "description_en": "UAV in the direction of Zaporizhzhia from the east.",
-    "description_uk": "БпЛА в напрямку Запоріжжя зі сходу.",
-    "time": "",
-    "pubDate": "2026-07-17T10:35:06+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68867",
-    "score": 6.0,
-    "views": 10108,
-    "forwards": 0
-  },
-  {
-    "title": "Donetsk: Air defense active",
-    "title_en": "Donetsk: Air defense active",
-    "title_uk": "Донецьк: Активна ППО",
-    "description": "Today marks 12 years since the downing of Malaysia Airlines flight MH17 in the sky over the temporarily occupied part of the Donetsk region of Ukraine. On July 17, 2014, Russian servicemen and persons under their direct control shot down a civilian passenger plane with a Buk anti-aircraft missile system (Buk-TELAR) delivered from the territory of the Russian Federation. The victims of this act...",
-    "description_en": "Today marks 12 years since the downing of Malaysia Airlines flight MH17 in the sky over the temporarily occupied part of the Donetsk region of Ukraine. On July 17, 2014, Russian servicemen and persons under their direct control shot down a civilian passenger plane with a Buk anti-aircraft missile system (Buk-TELAR) delivered from the territory of the Russian Federation. The victims of this act...",
-    "description_uk": "Сьогодні минає 12 років від дня збиття літака рейсу MH17 \"Малайзійських авіаліній\" у небі над тимчасово окупованою частиною Донецької області України. 17 липня 2014 року російські військовослужбовці та особи під їхнім безпосереднім контролем збили цивільний пасажирський літак із зенітно-ракетного комплексу \"Бук\" (Buk-TELAR), доставленого з території Російської Федерації. Жертвами цього акту...",
-    "time": "",
-    "pubDate": "2026-07-17T09:56:46+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9631",
-    "score": 13.0,
-    "views": 832,
-    "forwards": 5
-  },
-  {
-    "title": "Kyiv: Lindsey Graham's revised Russia sanctions bill gains filibuster-proof...",
-    "title_en": "Kyiv: Lindsey Graham's revised Russia sanctions bill gains filibuster-proof...",
-    "title_uk": "Київ: доопрацьований законопроект Ліндсі Грема про санкції проти Росії стає стійким до п'єси...",
-    "description": "Lindsey Graham's revised Russia sanctions bill gains filibuster-proof Senate support More than 60 U.S. senators introduced a revised Russia sanctions bill on July 16 that would impose tariffs on countries purchasing Russian oil and gas, seeking to deprive Moscow of revenue for its war against Ukraine. The bill has been stalled in Congress since April 2025 amid U.S. President Donald Trump's...",
-    "description_en": "Lindsey Graham's revised Russia sanctions bill gains filibuster-proof Senate support More than 60 U.S. senators introduced a revised Russia sanctions bill on July 16 that would impose tariffs on countries purchasing Russian oil and gas, seeking to deprive Moscow of revenue for its war against Ukraine. The bill has been stalled in Congress since April 2025 amid U.S. President Donald Trump's...",
-    "description_uk": "Lindsey Graham's revised Russia sanctions bill gains filibuster-proof Senate support More than 60 U.S. senators introduced a revised Russia sanctions bill on July 16 that would impose tariffs on countries purchasing Russian oil and gas, seeking to deprive Moscow of revenue for its war against Ukraine. The bill has been stalled in Congress since April 2025 amid U.S. President Donald Trump's...",
-    "time": "",
-    "pubDate": "2026-07-17T09:32:40+00:00",
-    "category": "political",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54324",
-    "score": 6.0,
-    "views": 1216,
-    "forwards": 4
-  },
-  {
-    "title": "Drone strike near civilians",
-    "title_en": "Drone strike near civilians",
-    "title_uk": "Удар безпілотників поблизу мирних жителів",
-    "description": "Katsapy will intensify drone strikes on civilian cars, buses and gas stations, GUR According to Ukrainian intelligence, the Russian command has ordered to intensify drone strikes on civilian infrastructure in front-line and border areas. Gas stations, trucks, buses and cars are under the sights. They plan to use \"Lightning\", \"Lancet\", \"Gerbera\", \"Geranium\" and other drones for attacks...",
-    "description_en": "Katsapy will intensify drone strikes on civilian cars, buses and gas stations, GUR According to Ukrainian intelligence, the Russian command has ordered to intensify drone strikes on civilian infrastructure in front-line and border areas. Gas stations, trucks, buses and cars are under the sights. They plan to use \"Lightning\", \"Lancet\", \"Gerbera\", \"Geranium\" and other drones for attacks...",
-    "description_uk": "Кацапы усилят удары дронами по гражданским авто, автобусам и заправкам, — ГУР По данным украинской разведки, российское командование приказало усилить удары беспилотниками по гражданской инфраструктуре в прифронтовых районах и приграничье. Под прицелом — автозаправки, грузовики, автобусы и легковые автомобили. Для атак планируют использовать дроны «Молния», «Ланцет», «Гербера», «Герань» и другие...",
-    "time": "",
-    "pubDate": "2026-07-17T08:43:16+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196216",
-    "score": 6.5,
-    "views": 91993,
-    "forwards": 280
   }
 ]
