@@ -1,5 +1,59 @@
 [
   {
+    "title": "Sumy: BpLA ➡️ in the direction of Stepanika/Sum from the north.",
+    "title_en": "Sumy: BpLA ➡️ in the direction of Stepanika/Sum from the north.",
+    "title_uk": "Суми: BpLA ➡️ в напрямку Степаника/Сум з півночі.",
+    "description": "Sumy: BpLA ➡️ in the direction of Stepanika/Sum from the north.",
+    "description_en": "Sumy: BpLA ➡️ in the direction of Stepanika/Sum from the north.",
+    "description_uk": "Сумщина: БпЛА ➡️ у напрямку Степаніки/Сум з півночі.",
+    "time": "",
+    "pubDate": "2026-07-17T00:56:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68802",
+    "score": 5.0,
+    "views": 3989,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: Kharkiv region: BpLA ➡️ in the direction of Balaklia, Savintsiv.",
+    "title_en": "Kharkiv: Kharkiv region: BpLA ➡️ in the direction of Balaklia, Savintsiv.",
+    "title_uk": "Харків: Харківська область: БпЛА ➡️ в напрямку Балаклії, Савинців.",
+    "description": "Kharkiv region: BpLA ➡️ in the direction of Balaklia, Savintsiv.",
+    "description_en": "Kharkiv region: BpLA ➡️ in the direction of Balaklia, Savintsiv.",
+    "description_uk": "Харківщина: БпЛА ➡️ у напрямку Балаклії, Савинців.",
+    "time": "",
+    "pubDate": "2026-07-17T00:34:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68799",
+    "score": 6.0,
+    "views": 7361,
+    "forwards": 0
+  },
+  {
+    "title": "Odesa: Missile launch detected",
+    "title_en": "Odesa: Missile launch detected",
+    "title_uk": "Одеса: виявлено пуск ракети",
+    "description": "2 killed, 8 injured in Russian missile attack on Odesa. Russia launched a missile strike on the southern city of Odesa on the evening of July 16, killing two people and injuring at least eight others, including children, local officials reported.",
+    "description_en": "2 killed, 8 injured in Russian missile attack on Odesa. Russia launched a missile strike on the southern city of Odesa on the evening of July 16, killing two people and injuring at least eight others, including children, local officials reported.",
+    "description_uk": "2 killed, 8 injured in Russian missile attack on Odesa. Russia launched a missile strike on the southern city of Odesa on the evening of July 16, killing two people and injuring at least eight others, including children, local officials reported.",
+    "time": "",
+    "pubDate": "2026-07-17T00:13:34+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Odesa",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54319",
+    "score": 18.0,
+    "views": 312,
+    "forwards": 2
+  },
+  {
     "title": "Kyiv: Hungary opens investigation into former FM Szijjarto's Russia ties....",
     "title_en": "Kyiv: Hungary opens investigation into former FM Szijjarto's Russia ties....",
     "title_uk": "Київ: Угорщина почала розслідування зв'язків екс-міністра Сійярто з Росією.",
@@ -14,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54318",
     "score": 6.0,
-    "views": 555,
-    "forwards": 1
+    "views": 829,
+    "forwards": 4
   },
   {
     "title": "Zaporizhzhia: BpLA in the direction of Zaporozhye from the south",
@@ -86,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19988",
     "score": 3.5,
-    "views": 45581,
-    "forwards": 27
+    "views": 47009,
+    "forwards": 29
   },
   {
     "title": "👀 The US Army will annually check the testosterone level of military...",
@@ -104,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196191",
     "score": 6.5,
-    "views": 126536,
-    "forwards": 233
+    "views": 131929,
+    "forwards": 234
   },
   {
     "title": "Zaporizhzhia: BpLA in the direction of Zaporozhye from the east.",
@@ -212,7 +266,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48872",
     "score": 5.0,
-    "views": 65,
+    "views": 66,
     "forwards": 1
   },
   {
@@ -302,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9627",
     "score": 12.0,
-    "views": 821,
+    "views": 826,
     "forwards": 6
   },
   {
@@ -340,60 +394,6 @@
     "score": 6.0,
     "views": 1694,
     "forwards": 4
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "The British are developing a new ballistic missile specifically for Ukraine — Bloomberg London has signed contracts with several defense companies as part of the Nightfall project and expects to deliver the first missiles to Ukraine at the end of 2027. According to Bloomberg, in order to speed up the program, the British Ministry of Defense even simplified part of the technical requirements. The first test runs must...",
-    "description_en": "The British are developing a new ballistic missile specifically for Ukraine — Bloomberg London has signed contracts with several defense companies as part of the Nightfall project and expects to deliver the first missiles to Ukraine at the end of 2027. According to Bloomberg, in order to speed up the program, the British Ministry of Defense even simplified part of the technical requirements. The first test runs must...",
-    "description_uk": "Британцы разрабатывают новую баллистическую ракету специально для Украины, — Bloomberg Лондон подписал контракты с несколькими оборонными компаниями в рамках проекта Nightfall и рассчитывает передать первые ракеты Украине уже в конце 2027 года. По данным Bloomberg, ради ускорения программы британское Минобороны даже упростило часть технических требований. Первые испытательные пуски должны...",
-    "time": "",
-    "pubDate": "2026-07-16T12:50:13+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196163",
-    "score": 8.5,
-    "views": 113197,
-    "forwards": 147
-  },
-  {
-    "title": "Kharkiv: BpLA from Kharkiv Oblast headed for Poltava Oblast.",
-    "title_en": "Kharkiv: BpLA from Kharkiv Oblast headed for Poltava Oblast.",
-    "title_uk": "Харків: BpLA з Харківської області прямує до Полтавської області.",
-    "description": "BpLA from Kharkiv Oblast headed for Poltava Oblast.",
-    "description_en": "BpLA from Kharkiv Oblast headed for Poltava Oblast.",
-    "description_uk": "БпЛА з Харківщини курсом на Полтавщину.",
-    "time": "",
-    "pubDate": "2026-07-16T12:20:27+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68715",
-    "score": 6.0,
-    "views": 27311,
-    "forwards": 0
-  },
-  {
-    "title": "Chernihiv: BpLA in Chernihiv region, past the village of Koryukivka, heading...",
-    "title_en": "Chernihiv: BpLA in Chernihiv region, past the village of Koryukivka, heading...",
-    "title_uk": "Чернігів: БпЛА в Чернігівській обл., повз с.Корюківка, курс...",
-    "description": "BpLA in Chernihiv region, past the village of Koryukivka, heading south.",
-    "description_en": "BpLA in Chernihiv region, past the village of Koryukivka, heading south.",
-    "description_uk": "БпЛА на Чернігівщині, повз н.п.Корюківка, курсом на південь.",
-    "time": "",
-    "pubDate": "2026-07-16T12:15:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68714",
-    "score": 6.0,
-    "views": 32372,
-    "forwards": 0
   },
   {
     "title": "🤬Katsapidors continue to fight with parcels: KAB flew to the \"New...",
