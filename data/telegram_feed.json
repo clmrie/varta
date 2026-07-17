@@ -1,5 +1,77 @@
 [
   {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "UAV in the direction of Zaporizhzhia from the east.",
+    "description_en": "UAV in the direction of Zaporizhzhia from the east.",
+    "description_uk": "БпЛА в напрямку Запоріжжя зі сходу.",
+    "time": "",
+    "pubDate": "2026-07-17T10:35:06+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68867",
+    "score": 6.0,
+    "views": 10108,
+    "forwards": 0
+  },
+  {
+    "title": "Sumy: BpLA on Sumy from the north.",
+    "title_en": "Sumy: BpLA on Sumy from the north.",
+    "title_uk": "Суми: БпЛА на Суми з півн.",
+    "description": "BpLA on Sumy from the north.",
+    "description_en": "BpLA on Sumy from the north.",
+    "description_uk": "БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-07-17T10:33:04+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68866",
+    "score": 6.0,
+    "views": 13145,
+    "forwards": 0
+  },
+  {
+    "title": "Donetsk: Air defense active",
+    "title_en": "Donetsk: Air defense active",
+    "title_uk": "Донецьк: Активна ППО",
+    "description": "Today marks 12 years since the downing of Malaysia Airlines flight MH17 in the sky over the temporarily occupied part of the Donetsk region of Ukraine. On July 17, 2014, Russian servicemen and persons under their direct control shot down a civilian passenger plane with a Buk anti-aircraft missile system (Buk-TELAR) delivered from the territory of the Russian Federation. The victims of this act...",
+    "description_en": "Today marks 12 years since the downing of Malaysia Airlines flight MH17 in the sky over the temporarily occupied part of the Donetsk region of Ukraine. On July 17, 2014, Russian servicemen and persons under their direct control shot down a civilian passenger plane with a Buk anti-aircraft missile system (Buk-TELAR) delivered from the territory of the Russian Federation. The victims of this act...",
+    "description_uk": "Сьогодні минає 12 років від дня збиття літака рейсу MH17 \"Малайзійських авіаліній\" у небі над тимчасово окупованою частиною Донецької області України. 17 липня 2014 року російські військовослужбовці та особи під їхнім безпосереднім контролем збили цивільний пасажирський літак із зенітно-ракетного комплексу \"Бук\" (Buk-TELAR), доставленого з території Російської Федерації. Жертвами цього акту...",
+    "time": "",
+    "pubDate": "2026-07-17T09:56:46+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9631",
+    "score": 13.0,
+    "views": 336,
+    "forwards": 4
+  },
+  {
+    "title": "Kyiv: Lindsey Graham's revised Russia sanctions bill gains filibuster-proof...",
+    "title_en": "Kyiv: Lindsey Graham's revised Russia sanctions bill gains filibuster-proof...",
+    "title_uk": "Київ: доопрацьований законопроект Ліндсі Грема про санкції проти Росії стає стійким до п'єси...",
+    "description": "Lindsey Graham's revised Russia sanctions bill gains filibuster-proof Senate support More than 60 U.S. senators introduced a revised Russia sanctions bill on July 16 that would impose tariffs on countries purchasing Russian oil and gas, seeking to deprive Moscow of revenue for its war against Ukraine. The bill has been stalled in Congress since April 2025 amid U.S. President Donald Trump's...",
+    "description_en": "Lindsey Graham's revised Russia sanctions bill gains filibuster-proof Senate support More than 60 U.S. senators introduced a revised Russia sanctions bill on July 16 that would impose tariffs on countries purchasing Russian oil and gas, seeking to deprive Moscow of revenue for its war against Ukraine. The bill has been stalled in Congress since April 2025 amid U.S. President Donald Trump's...",
+    "description_uk": "Lindsey Graham's revised Russia sanctions bill gains filibuster-proof Senate support More than 60 U.S. senators introduced a revised Russia sanctions bill on July 16 that would impose tariffs on countries purchasing Russian oil and gas, seeking to deprive Moscow of revenue for its war against Ukraine. The bill has been stalled in Congress since April 2025 amid U.S. President Donald Trump's...",
+    "time": "",
+    "pubDate": "2026-07-17T09:32:40+00:00",
+    "category": "political",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54324",
+    "score": 6.0,
+    "views": 816,
+    "forwards": 3
+  },
+  {
     "title": "Drone strike near civilians",
     "title_en": "Drone strike near civilians",
     "title_uk": "Удар безпілотників поблизу мирних жителів",
@@ -13,9 +85,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196216",
-    "score": 5.5,
-    "views": 18054,
-    "forwards": 105
+    "score": 6.5,
+    "views": 91993,
+    "forwards": 280
   },
   {
     "title": "Crimea: Drone strike",
@@ -32,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54322",
     "score": 8.0,
-    "views": 630,
+    "views": 1291,
     "forwards": 1
   },
   {
@@ -50,7 +122,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9630",
     "score": 5.0,
-    "views": 433,
+    "views": 634,
     "forwards": 1
   },
   {
@@ -103,9 +175,9 @@
     "location": "Chernihiv",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19989",
-    "score": 10.5,
-    "views": 109357,
-    "forwards": 197
+    "score": 11.5,
+    "views": 141356,
+    "forwards": 223
   },
   {
     "title": "\"No more nerves! We are being smashed to the hilt by airplanes! And...",
@@ -122,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196208",
     "score": 5.5,
-    "views": 110330,
-    "forwards": 438
+    "views": 136305,
+    "forwards": 510
   },
   {
     "title": "Kharkiv: Kharkiv region: BpLA ➡️ to/past Sakhnov region in the western...",
@@ -158,8 +230,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41192",
     "score": 13.0,
-    "views": 7019,
-    "forwards": 20
+    "views": 8201,
+    "forwards": 22
   },
   {
     "title": "Reactive BpLA ➡️ in the direction of Mykolaiv from the southeast.",
@@ -252,24 +324,6 @@
     "forwards": 3
   },
   {
-    "title": "Kyiv: Hungary opens investigation into former FM Szijjarto's Russia ties....",
-    "title_en": "Kyiv: Hungary opens investigation into former FM Szijjarto's Russia ties....",
-    "title_uk": "Київ: Угорщина почала розслідування зв'язків екс-міністра Сійярто з Росією.",
-    "description": "Hungary opens investigation into former FM Szijjarto's Russia ties. Hungarian Prime Minister Peter Magyar said on July 16 that authorities have launched an official investigation into former Foreign Minister Peter Szijjarto's close relations with Russia.",
-    "description_en": "Hungary opens investigation into former FM Szijjarto's Russia ties. Hungarian Prime Minister Peter Magyar said on July 16 that authorities have launched an official investigation into former Foreign Minister Peter Szijjarto's close relations with Russia.",
-    "description_uk": "Hungary opens investigation into former FM Szijjarto's Russia ties. Hungarian Prime Minister Peter Magyar said on July 16 that authorities have launched an official investigation into former Foreign Minister Peter Szijjarto's close relations with Russia.",
-    "time": "",
-    "pubDate": "2026-07-16T22:20:43+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54318",
-    "score": 6.0,
-    "views": 829,
-    "forwards": 4
-  },
-  {
     "title": "Energy infrastructure hit",
     "title_en": "Energy infrastructure hit",
     "title_uk": "Поразка енергетичної інфраструктури",
@@ -284,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/19988",
     "score": 3.5,
-    "views": 70948,
-    "forwards": 34
+    "views": 75552,
+    "forwards": 35
   },
   {
     "title": "Drone strike",
@@ -302,7 +356,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48872",
     "score": 5.0,
-    "views": 77,
+    "views": 78,
     "forwards": 1
   },
   {
@@ -394,41 +448,5 @@
     "score": 5.5,
     "views": 31325,
     "forwards": 69
-  },
-  {
-    "title": "Tributes were paid to the fallen Ukrainian soldiers together with the...",
-    "title_en": "Tributes were paid to the fallen Ukrainian soldiers together with the...",
-    "title_uk": "Вшанували загиблих українських воїнів разом із...",
-    "description": "Tributes were paid to the fallen Ukrainian soldiers together with the Prime Minister of Great Britain, Keir Starmer. Thank you to Cyrus and Great Britain for the constant respect for our soldiers, for all those who gave their all for the defense of Ukraine and the whole of Europe. It is important to always remember the feat of all our people who defended Ukraine. Eternal gratitude to everyone who defended Ukraine from Russian aggression.",
-    "description_en": "Tributes were paid to the fallen Ukrainian soldiers together with the Prime Minister of Great Britain, Keir Starmer. Thank you to Cyrus and Great Britain for the constant respect for our soldiers, for all those who gave their all for the defense of Ukraine and the whole of Europe. It is important to always remember the feat of all our people who defended Ukraine. Eternal gratitude to everyone who defended Ukraine from Russian aggression.",
-    "description_uk": "Віддали шану загиблим українським воїнам разом із Прем’єр-міністром Великої Британії Кіром Стармером. Дякую Кіру та Великій Британії за незмінну повагу до наших воїнів, до всіх, хто віддав найдорожче заради захисту України і всієї Європи. Важливо завжди пам’ятати про подвиг усіх наших людей, які захищали Україну. Вічна вдячність кожному й кожній, хто боронив Україну від російської агресії.",
-    "time": "",
-    "pubDate": "2026-07-16T10:01:31+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/19981",
-    "score": 6.5,
-    "views": 101014,
-    "forwards": 289
-  },
-  {
-    "title": "Currently, there are active discussions about candidates for...",
-    "title_en": "Currently, there are active discussions about candidates for...",
-    "title_uk": "Наразі точаться активні дискусії щодо кандидатів на...",
-    "description": "Currently, there are active discussions about candidates for positions in the government, in particular, there are consultations with the President 🤐 And the least mention on the network is about the Ministry of Social Policy. But it is not surprising, because his work was not heard about all year. (there are serious doubts that Ukrainians even know the name of the current minister). 🔴As we have already noted, according to our sources, many people's deputies...",
-    "description_en": "Currently, there are active discussions about candidates for positions in the government, in particular, there are consultations with the President 🤐 And the least mention on the network is about the Ministry of Social Policy. But it is not surprising, because his work was not heard about all year. (there are serious doubts that Ukrainians even know the name of the current minister). 🔴As we have already noted, according to our sources, many people's deputies...",
-    "description_uk": "Наразі тривають активні обговорення щодо кандидатів на посади в уряді, зокрема, проходять консультації з Президентом 🤐 І найменше згадок в мережі — про Міністерство соціальної політики. Але воно не дивно, адже про його роботу не було чутно весь рік. (є великі сумніви, що українці навіть знають прізвище чинного міністра). 🔴Як ми вже зазначали, за нашими джерелам багато народних депутатів...",
-    "time": "",
-    "pubDate": "2026-07-15T10:37:07+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "DeepState",
-    "link": "https://t.me/DeepStateUA/23643",
-    "score": 4.5,
-    "views": 179815,
-    "forwards": 73
   }
 ]
