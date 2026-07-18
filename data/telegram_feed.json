@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "A jet UAV passes by Sedniv ➡️ heading for Chernihiv.",
+    "description_en": "A jet UAV passes by Sedniv ➡️ heading for Chernihiv.",
+    "description_uk": "Реактивний БпЛА повз Седнів ➡️ курсом на Чернігів.",
+    "time": "",
+    "pubDate": "2026-07-18T11:34:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69015",
+    "score": 6.0,
+    "views": 9109,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "Dnipropetrovsk region: jet UAV ➡️ heading for Bozhedarivka.",
+    "description_en": "Dnipropetrovsk region: jet UAV ➡️ heading for Bozhedarivka.",
+    "description_uk": "Дніпропетровщина: реактивний БпЛА ➡️ курсом на Божедарівку.",
+    "time": "",
+    "pubDate": "2026-07-18T11:26:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69014",
+    "score": 6.0,
+    "views": 17194,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Russia bolsters 'shadow fleet' defenses at expense of front-line...",
     "title_en": "Kyiv: Russia bolsters 'shadow fleet' defenses at expense of front-line...",
     "title_uk": "Київ: Росія зміцнює оборону «тіньового флоту» за рахунок передової...",
@@ -14,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54347",
     "score": 5.0,
-    "views": 525,
+    "views": 831,
     "forwards": 1
   },
   {
@@ -50,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196305",
     "score": 5.5,
-    "views": 59894,
-    "forwards": 144
+    "views": 85752,
+    "forwards": 184
   },
   {
     "title": "Zaporizhzhia: New UAV groups ➡️ in Zaporizhzhia, Sumy.",
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196300",
     "score": 6.5,
-    "views": 69530,
-    "forwards": 358
+    "views": 92201,
+    "forwards": 464
   },
   {
     "title": "Chernihiv: Sumyshchyna: a group of BpLA passes by Shostka ➡️ heading for...",
@@ -194,7 +230,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41238",
     "score": 13.0,
-    "views": 5211,
+    "views": 5576,
     "forwards": 20
   },
   {
@@ -234,24 +270,6 @@
     "forwards": 0
   },
   {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "A jet UAV from Chernihiv region, heading for Kyiv region.",
-    "description_en": "A jet UAV from Chernihiv region, heading for Kyiv region.",
-    "description_uk": "Реактивний БпЛА з Чернігівщини, курсом на Київщину.",
-    "time": "",
-    "pubDate": "2026-07-18T02:33:45+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68976",
-    "score": 6.0,
-    "views": 22247,
-    "forwards": 1
-  },
-  {
     "title": "Kyiv: Drone attack on infrastructure",
     "title_en": "Kyiv: Drone attack on infrastructure",
     "title_uk": "Київ: атака безпілотників на інфраструктуру",
@@ -266,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54343",
     "score": 13.0,
-    "views": 2080,
+    "views": 2196,
     "forwards": 6
   },
   {
@@ -338,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20021",
     "score": 5.5,
-    "views": 94048,
-    "forwards": 136
+    "views": 95745,
+    "forwards": 137
   },
   {
     "title": "High-speed target in the direction of Odeshchyna.",
@@ -410,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20014",
     "score": 4.5,
-    "views": 176938,
+    "views": 178341,
     "forwards": 629
   },
   {
@@ -428,25 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9632",
     "score": 5.0,
-    "views": 969,
-    "forwards": 5
-  },
-  {
-    "title": "Donetsk: Air defense active",
-    "title_en": "Donetsk: Air defense active",
-    "title_uk": "Донецьк: Активна ППО",
-    "description": "Today marks 12 years since the downing of Malaysia Airlines flight MH17 in the sky over the temporarily occupied part of the Donetsk region of Ukraine. On July 17, 2014, Russian servicemen and persons under their direct control shot down a civilian passenger plane with a Buk anti-aircraft missile system (Buk-TELAR) delivered from the territory of the Russian Federation. The victims of this act...",
-    "description_en": "Today marks 12 years since the downing of Malaysia Airlines flight MH17 in the sky over the temporarily occupied part of the Donetsk region of Ukraine. On July 17, 2014, Russian servicemen and persons under their direct control shot down a civilian passenger plane with a Buk anti-aircraft missile system (Buk-TELAR) delivered from the territory of the Russian Federation. The victims of this act...",
-    "description_uk": "Сьогодні минає 12 років від дня збиття літака рейсу MH17 \"Малайзійських авіаліній\" у небі над тимчасово окупованою частиною Донецької області України. 17 липня 2014 року російські військовослужбовці та особи під їхнім безпосереднім контролем збили цивільний пасажирський літак із зенітно-ракетного комплексу \"Бук\" (Buk-TELAR), доставленого з території Російської Федерації. Жертвами цього акту...",
-    "time": "",
-    "pubDate": "2026-07-17T09:56:46+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9631",
-    "score": 13.0,
-    "views": 941,
+    "views": 972,
     "forwards": 5
   }
 ]
