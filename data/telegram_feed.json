@@ -1,5 +1,41 @@
 [
   {
+    "title": "300 drones",
+    "title_en": "300 drones",
+    "title_uk": "300 дронів",
+    "description": "About 300 drones flew to burn new Russian warehouses",
+    "description_en": "About 300 drones flew to burn new Russian warehouses",
+    "description_uk": "Около 300 дронов полетели сжигать новые российские склады",
+    "time": "",
+    "pubDate": "2026-07-18T19:46:57+00:00",
+    "category": "drone",
+    "severity": "medium",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/196347",
+    "score": 4.5,
+    "views": 43307,
+    "forwards": 247
+  },
+  {
+    "title": "Drone strike near civilians",
+    "title_en": "Drone strike near civilians",
+    "title_uk": "Удар безпілотників поблизу мирних жителів",
+    "description": "This is what we need: engineers have created a 40-gram autonomous microdrone, which for the first time was able to shoot down an insect directly in flight. Developers from Tornyol Systems call it a step towards \"complete eradication of mosquitoes.\" While the first officially confirmed victim of the drone was a moth, however, the system is already able to recognize mosquitoes by the characteristic sound of flapping wings and will hit them at a distance of up to 8 meters. Now...",
+    "description_en": "This is what we need: engineers have created a 40-gram autonomous microdrone, which for the first time was able to shoot down an insect directly in flight. Developers from Tornyol Systems call it a step towards \"complete eradication of mosquitoes.\" While the first officially confirmed victim of the drone was a moth, however, the system is already able to recognize mosquitoes by the characteristic sound of flapping wings and will hit them at a distance of up to 8 meters. Now...",
+    "description_uk": "Это нам нужно: инженеры создали 40-граммовый автономный микродрон, который впервые смог сбить насекомое прямо в полете Разработчики из Tornyol Systems называют это шагом к \"полному искоренению комаров\". Пока первой официально подтвержденной жертвой дрона стала моль, однако система уже умеет распознавать комаров по характерному звуку взмахов крыльев и поражать их на расстоянии до 8 метров. Сейчас...",
+    "time": "",
+    "pubDate": "2026-07-18T19:30:01+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/196346",
+    "score": 6.5,
+    "views": 58453,
+    "forwards": 258
+  },
+  {
     "title": "Zaporizhzhia: BpLA ➡️ to Zaporizhzhia from the south.",
     "title_en": "Zaporizhzhia: BpLA ➡️ to Zaporizhzhia from the south.",
     "title_uk": "Запоріжжя: BpLA ➡️ до Запоріжжя з півдня.",
@@ -14,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/69074",
     "score": 6.0,
-    "views": 15145,
+    "views": 49582,
     "forwards": 0
   },
   {
@@ -32,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/69073",
     "score": 5.0,
-    "views": 36348,
+    "views": 63705,
     "forwards": 0
   },
   {
@@ -176,8 +212,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54348",
     "score": 13.0,
-    "views": 2064,
-    "forwards": 1
+    "views": 2148,
+    "forwards": 2
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -212,8 +248,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54347",
     "score": 5.0,
-    "views": 2296,
-    "forwards": 2
+    "views": 2363,
+    "forwards": 3
   },
   {
     "title": "Missile attack",
@@ -306,42 +342,6 @@
     "forwards": 110
   },
   {
-    "title": "And now the video arrived, take it without hesitation, we are good...",
-    "title_en": "And now the video arrived, take it without hesitation, we are good...",
-    "title_uk": "А ось відео прийшло, беріть без вагань, у нас все добре...",
-    "description": "And now the video arrived, take it without hesitation, we are good today 😉 This is how Domodedovo in the Moscow Region looks now, where smoke hung from the burning oil depot in Noginsk, which was also visited by UAVs early in the morning.",
-    "description_en": "And now the video arrived, take it without hesitation, we are good today 😉 This is how Domodedovo in the Moscow Region looks now, where smoke hung from the burning oil depot in Noginsk, which was also visited by UAVs early in the morning.",
-    "description_uk": "А вот и видео подъехало, забирайте без вотерки, мы сегодня добрые 😉 Так сейчас выглядит Домодедово в Подмосковье, где навис дым от горящей нефтебазы в Ногинске, в который ранним утром также прилетели БПЛА.",
-    "time": "",
-    "pubDate": "2026-07-18T08:00:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196293",
-    "score": 9.0,
-    "views": 4314,
-    "forwards": 41
-  },
-  {
-    "title": "Kramatorsk: BpLA on Kramatorsk in Donetsk region from the south and southwest",
-    "title_en": "Kramatorsk: BpLA on Kramatorsk in Donetsk region from the south and southwest",
-    "title_uk": "Краматорськ: BpLA на Краматорськ Донецької області з півдня та південного заходу",
-    "description": "BpLA on Kramatorsk in Donetsk region from the south and southwest",
-    "description_en": "BpLA on Kramatorsk in Donetsk region from the south and southwest",
-    "description_uk": "БпЛА на Краматорськ на Донеччині з півдня та південного заходу",
-    "time": "",
-    "pubDate": "2026-07-18T07:41:31+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kramatorsk",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69002",
-    "score": 6.0,
-    "views": 22241,
-    "forwards": 0
-  },
-  {
     "title": "Donetsk: Ballistic missile launch detected",
     "title_en": "Donetsk: Ballistic missile launch detected",
     "title_uk": "Донецьк: виявлено пуск балістичної ракети",
@@ -410,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20021",
     "score": 5.5,
-    "views": 107123,
+    "views": 108687,
     "forwards": 148
   },
   {
@@ -428,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9632",
     "score": 5.0,
-    "views": 1005,
+    "views": 1006,
     "forwards": 5
   },
   {
@@ -446,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9631",
     "score": 13.0,
-    "views": 961,
+    "views": 962,
     "forwards": 5
   }
 ]
