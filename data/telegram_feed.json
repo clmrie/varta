@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zaporizhzhia: BpLA ➡️ to Zaporizhzhia from the south.",
+    "title_en": "Zaporizhzhia: BpLA ➡️ to Zaporizhzhia from the south.",
+    "title_uk": "Запоріжжя: BpLA ➡️ до Запоріжжя з півдня.",
+    "description": "BpLA ➡️ to Zaporizhzhia from the south.",
+    "description_en": "BpLA ➡️ to Zaporizhzhia from the south.",
+    "description_uk": "БпЛА ➡️ на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-07-18T19:20:25+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69074",
+    "score": 6.0,
+    "views": 15145,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A jet UAV in the direction of southern Odesa from the Black Sea.",
+    "description_en": "A jet UAV in the direction of southern Odesa from the Black Sea.",
+    "description_uk": "Реактивний БпЛА у напрямку півдня Одещини з Чорного моря.",
+    "time": "",
+    "pubDate": "2026-07-18T19:02:31+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69073",
+    "score": 5.0,
+    "views": 36348,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: BpLA ➡️ course to Kharkiv.",
     "title_en": "Kharkiv: BpLA ➡️ course to Kharkiv.",
     "title_uk": "Харків: BpLA ➡️ курс до Харкова.",
@@ -51,24 +87,6 @@
     "link": "https://t.me/kpszsu/69066",
     "score": 6.0,
     "views": 18185,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAV in the direction of Odessa from the Black Sea",
-    "description_en": "Jet UAV in the direction of Odessa from the Black Sea",
-    "description_uk": "Реактивний БпЛА у напрямку Одеси з Чорного моря",
-    "time": "",
-    "pubDate": "2026-07-18T16:01:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69054",
-    "score": 5.0,
-    "views": 13100,
     "forwards": 0
   },
   {
@@ -158,8 +176,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54348",
     "score": 13.0,
-    "views": 1912,
-    "forwards": 0
+    "views": 2064,
+    "forwards": 1
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -194,8 +212,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54347",
     "score": 5.0,
-    "views": 2171,
-    "forwards": 1
+    "views": 2296,
+    "forwards": 2
   },
   {
     "title": "Missile attack",
@@ -324,24 +342,6 @@
     "forwards": 0
   },
   {
-    "title": "Explosions reported",
-    "title_en": "Explosions reported",
-    "title_uk": "Повідомляється про вибухи",
-    "description": "Ahah, they knew something 😁 Wildberries will not compensate sellers for losses for goods from attacked warehouses, since they changed the contract literally a week ago. On July 7, the marketplace renewed the contract with sellers — now compensation is not paid for goods damaged as a result of shelling, explosions or UAVs falling into warehouses. Such factors are prescribed by the company as force majeure, liberating...",
-    "description_en": "Ahah, they knew something 😁 Wildberries will not compensate sellers for losses for goods from attacked warehouses, since they changed the contract literally a week ago. On July 7, the marketplace renewed the contract with sellers — now compensation is not paid for goods damaged as a result of shelling, explosions or UAVs falling into warehouses. Such factors are prescribed by the company as force majeure, liberating...",
-    "description_uk": "Ахах, они что-то знали 😁 Wildberries не будет компенсировать продавцам потери за товары с атакованных складов, поскольку изменили договор буквально неделю назад. 7 июля маркетплейс обновил договор с продавцами — теперь за товары, повреждённые в результате обстрелов, взрывов или падения БПЛА на склады, компенсация не выплачивается. Такие факторы прописаны компанией как форс-мажоры, освобождающие...",
-    "time": "",
-    "pubDate": "2026-07-18T06:54:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196285",
-    "score": 6.5,
-    "views": 73698,
-    "forwards": 538
-  },
-  {
     "title": "Donetsk: Ballistic missile launch detected",
     "title_en": "Donetsk: Ballistic missile launch detected",
     "title_uk": "Донецьк: виявлено пуск балістичної ракети",
@@ -410,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20021",
     "score": 5.5,
-    "views": 104884,
+    "views": 107123,
     "forwards": 148
   },
   {
@@ -428,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9632",
     "score": 5.0,
-    "views": 1000,
+    "views": 1005,
     "forwards": 5
   },
   {
@@ -446,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9631",
     "score": 13.0,
-    "views": 958,
+    "views": 961,
     "forwards": 5
   }
 ]
