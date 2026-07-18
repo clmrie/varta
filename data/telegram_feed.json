@@ -1,5 +1,59 @@
 [
   {
+    "title": "24 injured",
+    "title_en": "24 injured",
+    "title_uk": "24 поранених",
+    "description": "In addition to Elektrostal, the Wildberries warehouse was also attacked in the city of Kotovsk, Tambov region. As reported by the regional governor Yevgeny Pervyshov, seven people were killed and 24 wounded. Just read what this hypocritical jerk writes: \"On this night, the criminal Kyiv regime carried out an inhumane terrorist attack on the city of Kotovsk, and the drones that struck the Wildberries warehouse were...",
+    "description_en": "In addition to Elektrostal, the Wildberries warehouse was also attacked in the city of Kotovsk, Tambov region. As reported by the regional governor Yevgeny Pervyshov, seven people were killed and 24 wounded. Just read what this hypocritical jerk writes: \"On this night, the criminal Kyiv regime carried out an inhumane terrorist attack on the city of Kotovsk, and the drones that struck the Wildberries warehouse were...",
+    "description_uk": "Кроме Электростали, был также атакован склад Wildberries и в городе Котовске Тамбовской области Как сообщил губернатор региона Евгений Первышов, семь человек погибли, 24 ранены. Только почитайте, что пишет этот лицемерный придурок: \"В эту ночь преступный киевский режим осуществил бесчеловечную террористическую атаку на город Котовск, а дроны, которые нанесли удар по складу Wildberries, были...",
+    "time": "",
+    "pubDate": "2026-07-18T05:44:44+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/196281",
+    "score": 9.5,
+    "views": 22331,
+    "forwards": 107
+  },
+  {
+    "title": "Chernihiv: Unmanned aerial vehicle in the north of Chernihiv region, in a...",
+    "title_en": "Chernihiv: Unmanned aerial vehicle in the north of Chernihiv region, in a...",
+    "title_uk": "Чернігів: безпілотний літальний апарат на півночі Чернігівської області, в...",
+    "description": "Unmanned aerial vehicle in the north of Chernihiv region, in a south-eastern direction.",
+    "description_en": "Unmanned aerial vehicle in the north of Chernihiv region, in a south-eastern direction.",
+    "description_uk": "БпЛА на півночі Чернігівщини, на південно-східний напрямок.",
+    "time": "",
+    "pubDate": "2026-07-18T05:35:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68984",
+    "score": 6.0,
+    "views": 18205,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea, heading to the South.",
+    "description_en": "UAV from the Black Sea, heading to the South.",
+    "description_uk": "БпЛА з акваторії Чорного моря, курсом на Південне.",
+    "time": "",
+    "pubDate": "2026-07-18T05:19:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68983",
+    "score": 5.0,
+    "views": 29331,
+    "forwards": 1
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -32,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54343",
     "score": 13.0,
-    "views": 374,
+    "views": 967,
     "forwards": 2
   },
   {
@@ -68,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54342",
     "score": 4.0,
-    "views": 786,
+    "views": 1273,
     "forwards": 1
   },
   {
@@ -87,24 +141,6 @@
     "link": "https://t.me/kpszsu/68965",
     "score": 5.0,
     "views": 9506,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAVs in the direction of Sumy and Chernihiv from the north.",
-    "description_en": "UAVs in the direction of Sumy and Chernihiv from the north.",
-    "description_uk": "БпЛА в напрямку Сум та Чернігова з півночі.",
-    "time": "",
-    "pubDate": "2026-07-17T23:18:24+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68960",
-    "score": 5.0,
-    "views": 2015,
     "forwards": 0
   },
   {
@@ -194,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196266",
     "score": 3.5,
-    "views": 123869,
-    "forwards": 188
+    "views": 161561,
+    "forwards": 189
   },
   {
     "title": "Ballistic missile launch detected",
@@ -266,44 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20021",
     "score": 5.5,
-    "views": 72312,
-    "forwards": 132
-  },
-  {
-    "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA headed for Kharkiv from the north.",
-    "title_uk": "Харків: BpLA прямувала на Харків з півночі.",
-    "description": "BpLA headed for Kharkiv from the north.",
-    "description_en": "BpLA headed for Kharkiv from the north.",
-    "description_uk": "БпЛА курсом на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-07-17T17:14:56+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68915",
-    "score": 6.0,
-    "views": 25258,
-    "forwards": 0
-  },
-  {
-    "title": "Cruise missile heading inbound",
-    "title_en": "Cruise missile heading inbound",
-    "title_uk": "Крилата ракета наближається",
-    "description": "Ukraine already produces up to three Flamingo cruise missiles per day and about 200 long-range drones daily, - chief designer of Fire Point Shtilerman. According to him, the Flamingo is launched from a truck and has a range of about 3 thousand. km - this is about twice as much as the American Tomahawk cruise missile (about 1.6 thousand km in modern versions), carries a more powerful warhead and costs about twice as much...",
-    "description_en": "Ukraine already produces up to three Flamingo cruise missiles per day and about 200 long-range drones daily, - chief designer of Fire Point Shtilerman. According to him, the Flamingo is launched from a truck and has a range of about 3 thousand. km - this is about twice as much as the American Tomahawk cruise missile (about 1.6 thousand km in modern versions), carries a more powerful warhead and costs about twice as much...",
-    "description_uk": "Украина уже выпускает до трех крылатых ракет Flamingo в день и около 200 дальнобойных дронов ежедневно, - главный конструктор Fire Point Штилерман По его словам, Flamingo запускается с грузовика, имеет дальность около 3 тыс. км - это примерно вдвое больше, чем у американской крылатой ракеты Tomahawk (около 1,6 тыс. км в современных версиях), несет более мощную боевую часть и стоит примерно вдвое...",
-    "time": "",
-    "pubDate": "2026-07-17T17:12:02+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196251",
-    "score": 9.5,
-    "views": 101208,
-    "forwards": 253
+    "views": 78146,
+    "forwards": 133
   },
   {
     "title": "High-speed target in the direction of Odeshchyna.",
@@ -374,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20014",
     "score": 4.5,
-    "views": 161160,
-    "forwards": 626
+    "views": 166280,
+    "forwards": 628
   },
   {
     "title": "Casualties reported",
@@ -392,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9632",
     "score": 5.0,
-    "views": 927,
+    "views": 936,
     "forwards": 5
   },
   {
@@ -410,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9631",
     "score": 13.0,
-    "views": 920,
+    "views": 927,
     "forwards": 5
   },
   {
