@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAV from the sea area ➡️ heading for Odessa/Black Sea.",
+    "description_en": "Jet UAV from the sea area ➡️ heading for Odessa/Black Sea.",
+    "description_uk": "Реактивний БПЛА з акваторії моря ➡️ курсом на Одесу/Чорноморське.",
+    "time": "",
+    "pubDate": "2026-07-18T12:19:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69025",
+    "score": 5.0,
+    "views": 18195,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Київ: Дрон-удар",
+    "description": "2 Russian logistics centers, oil depot hit as Kyiv launches hundreds of drones towards Moscow. The latest attack on oil infrastructure in Russia's capital region comes exactly one month after Ukrainian forces launched their largest-ever drone attack on Moscow, striking the Moscow Oil Refinery on June 18.",
+    "description_en": "2 Russian logistics centers, oil depot hit as Kyiv launches hundreds of drones towards Moscow. The latest attack on oil infrastructure in Russia's capital region comes exactly one month after Ukrainian forces launched their largest-ever drone attack on Moscow, striking the Moscow Oil Refinery on June 18.",
+    "description_uk": "2 Russian logistics centers, oil depot hit as Kyiv launches hundreds of drones towards Moscow. The latest attack on oil infrastructure in Russia's capital region comes exactly one month after Ukrainian forces launched their largest-ever drone attack on Moscow, striking the Moscow Oil Refinery on June 18.",
+    "time": "",
+    "pubDate": "2026-07-18T12:10:00+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54348",
+    "score": 13.0,
+    "views": 446,
+    "forwards": 0
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -50,26 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54347",
     "score": 5.0,
-    "views": 831,
+    "views": 1188,
     "forwards": 1
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAVs ➡️ in the direction of the South/Black Sea from the Black Sea.",
-    "description_en": "Jet UAVs ➡️ in the direction of the South/Black Sea from the Black Sea.",
-    "description_uk": "Реактивні БпЛА ➡️ у напрямку Південного/Чорноморського з акваторії Чорного моря.",
-    "time": "",
-    "pubDate": "2026-07-18T09:57:45+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69012",
-    "score": 5.0,
-    "views": 35383,
-    "forwards": 0
   },
   {
     "title": "Missile attack",
@@ -85,9 +103,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196305",
-    "score": 5.5,
-    "views": 85752,
-    "forwards": 184
+    "score": 6.5,
+    "views": 107422,
+    "forwards": 222
   },
   {
     "title": "Zaporizhzhia: New UAV groups ➡️ in Zaporizhzhia, Sumy.",
@@ -122,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196300",
     "score": 6.5,
-    "views": 92201,
-    "forwards": 464
+    "views": 111780,
+    "forwards": 535
   },
   {
     "title": "Chernihiv: Sumyshchyna: a group of BpLA passes by Shostka ➡️ heading for...",
@@ -230,7 +248,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41238",
     "score": 13.0,
-    "views": 5576,
+    "views": 5911,
     "forwards": 20
   },
   {
@@ -306,42 +324,6 @@
     "forwards": 0
   },
   {
-    "title": "Kyiv: Drone attack",
-    "title_en": "Kyiv: Drone attack",
-    "title_uk": "Київ: Атака безпілотників",
-    "description": "Ukrainian drones reportedly attack Russia's Tambov Oblast, online retailer's warehouse set ablaze. Ukrainian drones targeted the town of Kotovsk in Russia's Tambov Oblast overnight on July 18, resulting in a fire at a Russian online retailer's warehouse, monitoring channels reported.",
-    "description_en": "Ukrainian drones reportedly attack Russia's Tambov Oblast, online retailer's warehouse set ablaze. Ukrainian drones targeted the town of Kotovsk in Russia's Tambov Oblast overnight on July 18, resulting in a fire at a Russian online retailer's warehouse, monitoring channels reported.",
-    "description_uk": "Ukrainian drones reportedly attack Russia's Tambov Oblast, online retailer's warehouse set ablaze. Ukrainian drones targeted the town of Kotovsk in Russia's Tambov Oblast overnight on July 18, resulting in a fire at a Russian online retailer's warehouse, monitoring channels reported.",
-    "time": "",
-    "pubDate": "2026-07-18T00:09:48+00:00",
-    "category": "drone",
-    "severity": "medium",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54342",
-    "score": 4.0,
-    "views": 2094,
-    "forwards": 3
-  },
-  {
-    "title": "BpLA in Sumy Oblast at n.p. Nedrigailiv",
-    "title_en": "BpLA in Sumy Oblast at n.p. Nedrigailiv",
-    "title_uk": "БпЛА в Сумській області за адресою н.п. Недригайлів",
-    "description": "BpLA in Sumy Oblast at n.p. Nedrigailiv",
-    "description_en": "BpLA in Sumy Oblast at n.p. Nedrigailiv",
-    "description_uk": "БпЛА на Сумщині на н.п. Недригайлів.",
-    "time": "",
-    "pubDate": "2026-07-18T00:00:19+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68965",
-    "score": 5.0,
-    "views": 9506,
-    "forwards": 0
-  },
-  {
     "title": "Oleksiy Sobolev will join the economic direction of work in the...",
     "title_en": "Oleksiy Sobolev will join the economic direction of work in the...",
     "title_uk": "Олексій Соболєв долучиться до економічного напрямку роботи в...",
@@ -356,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20021",
     "score": 5.5,
-    "views": 95745,
+    "views": 97903,
     "forwards": 137
   },
   {
@@ -428,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20014",
     "score": 4.5,
-    "views": 178341,
+    "views": 179462,
     "forwards": 629
   },
   {
@@ -446,7 +428,25 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9632",
     "score": 5.0,
-    "views": 972,
+    "views": 974,
+    "forwards": 5
+  },
+  {
+    "title": "Donetsk: Air defense active",
+    "title_en": "Donetsk: Air defense active",
+    "title_uk": "Донецьк: Активна ППО",
+    "description": "Today marks 12 years since the downing of Malaysia Airlines flight MH17 in the sky over the temporarily occupied part of the Donetsk region of Ukraine. On July 17, 2014, Russian servicemen and persons under their direct control shot down a civilian passenger plane with a Buk anti-aircraft missile system (Buk-TELAR) delivered from the territory of the Russian Federation. The victims of this act...",
+    "description_en": "Today marks 12 years since the downing of Malaysia Airlines flight MH17 in the sky over the temporarily occupied part of the Donetsk region of Ukraine. On July 17, 2014, Russian servicemen and persons under their direct control shot down a civilian passenger plane with a Buk anti-aircraft missile system (Buk-TELAR) delivered from the territory of the Russian Federation. The victims of this act...",
+    "description_uk": "Сьогодні минає 12 років від дня збиття літака рейсу MH17 \"Малайзійських авіаліній\" у небі над тимчасово окупованою частиною Донецької області України. 17 липня 2014 року російські військовослужбовці та особи під їхнім безпосереднім контролем збили цивільний пасажирський літак із зенітно-ракетного комплексу \"Бук\" (Buk-TELAR), доставленого з території Російської Федерації. Жертвами цього акту...",
+    "time": "",
+    "pubDate": "2026-07-17T09:56:46+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9631",
+    "score": 13.0,
+    "views": 944,
     "forwards": 5
   }
 ]
