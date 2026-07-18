@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: Russia bolsters 'shadow fleet' defenses at expense of front-line...",
+    "title_en": "Kyiv: Russia bolsters 'shadow fleet' defenses at expense of front-line...",
+    "title_uk": "Київ: Росія зміцнює оборону «тіньового флоту» за рахунок передової...",
+    "description": "Russia bolsters 'shadow fleet' defenses at expense of front-line drone units, military says. Ukrainian forces struck 13 more Russian vessels over the past day, Robert Brovdi, commander of Ukraine's Unmanned Systems Forces, said on July 18.",
+    "description_en": "Russia bolsters 'shadow fleet' defenses at expense of front-line drone units, military says. Ukrainian forces struck 13 more Russian vessels over the past day, Robert Brovdi, commander of Ukraine's Unmanned Systems Forces, said on July 18.",
+    "description_uk": "Russia bolsters 'shadow fleet' defenses at expense of front-line drone units, military says. Ukrainian forces struck 13 more Russian vessels over the past day, Robert Brovdi, commander of Ukraine's Unmanned Systems Forces, said on July 18.",
+    "time": "",
+    "pubDate": "2026-07-18T09:58:48+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54347",
+    "score": 5.0,
+    "views": 525,
+    "forwards": 1
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAVs ➡️ in the direction of the South/Black Sea from the Black Sea.",
+    "description_en": "Jet UAVs ➡️ in the direction of the South/Black Sea from the Black Sea.",
+    "description_uk": "Реактивні БпЛА ➡️ у напрямку Південного/Чорноморського з акваторії Чорного моря.",
+    "time": "",
+    "pubDate": "2026-07-18T09:57:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69012",
+    "score": 5.0,
+    "views": 35383,
+    "forwards": 0
+  },
+  {
+    "title": "Missile attack",
+    "title_en": "Missile attack",
+    "title_uk": "Ракетна атака",
+    "description": "Young Ukrainian gymnast Oleksandra Pascal performed the \"Dance of Freedom\" in the heart of Paris 10-year-old Oleksandra Pascal began her world tour with a performance near the Arc de Triomphe. Her dance became a symbol of the indomitability of Ukrainian children, the strength of spirit and life, which cannot be broken by war. In 2022, as a result of a Russian missile attack on Oleksandra Bay, she lost her leg. Despite the injury and prosthetics, she...",
+    "description_en": "Young Ukrainian gymnast Oleksandra Pascal performed the \"Dance of Freedom\" in the heart of Paris 10-year-old Oleksandra Pascal began her world tour with a performance near the Arc de Triomphe. Her dance became a symbol of the indomitability of Ukrainian children, the strength of spirit and life, which cannot be broken by war. In 2022, as a result of a Russian missile attack on Oleksandra Bay, she lost her leg. Despite the injury and prosthetics, she...",
+    "description_uk": "Юна українська гімнастка Олександра Паскаль виконала «Танець свободи» у серці Парижа 10-річна Олександра Паскаль розпочала світове турне виступом біля Тріумфальної арки. Її танець став символом незламності українських дітей, сили духу та життя, яке неможливо зламати війною. У 2022 році внаслідок російського ракетного удару по Затоці Олександра втратила ногу. Попри травму та протезування, вона...",
+    "time": "",
+    "pubDate": "2026-07-18T09:50:21+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/196305",
+    "score": 5.5,
+    "views": 59894,
+    "forwards": 144
+  },
+  {
     "title": "Zaporizhzhia: New UAV groups ➡️ in Zaporizhzhia, Sumy.",
     "title_en": "Zaporizhzhia: New UAV groups ➡️ in Zaporizhzhia, Sumy.",
     "title_uk": "Запоріжжя: Нові групи БПЛА ➡️ в Запоріжжі, Сумах.",
@@ -14,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/69011",
     "score": 6.0,
-    "views": 8091,
+    "views": 45482,
     "forwards": 0
   },
   {
@@ -31,9 +85,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196300",
-    "score": 5.5,
-    "views": 12895,
-    "forwards": 108
+    "score": 6.5,
+    "views": 69530,
+    "forwards": 358
   },
   {
     "title": "Chernihiv: Sumyshchyna: a group of BpLA passes by Shostka ➡️ heading for...",
@@ -90,24 +144,6 @@
     "forwards": 41
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A jet UAV in the direction of the Black Sea from the Black Sea",
-    "description_en": "A jet UAV in the direction of the Black Sea from the Black Sea",
-    "description_uk": "Реактивний БпЛА у напрямку Чорноморського з акваторії Чорного моря",
-    "time": "",
-    "pubDate": "2026-07-18T07:51:09+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69003",
-    "score": 5.0,
-    "views": 13139,
-    "forwards": 0
-  },
-  {
     "title": "Kramatorsk: BpLA on Kramatorsk in Donetsk region from the south and southwest",
     "title_en": "Kramatorsk: BpLA on Kramatorsk in Donetsk region from the south and southwest",
     "title_uk": "Краматорськ: BpLA на Краматорськ Донецької області з півдня та південного заходу",
@@ -158,8 +194,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41238",
     "score": 13.0,
-    "views": 4337,
-    "forwards": 19
+    "views": 5211,
+    "forwards": 20
   },
   {
     "title": "24 injured",
@@ -230,8 +266,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54343",
     "score": 13.0,
-    "views": 1882,
-    "forwards": 4
+    "views": 2080,
+    "forwards": 6
   },
   {
     "title": "Sumy: BpLA on Sumy from the north.",
@@ -288,42 +324,6 @@
     "forwards": 0
   },
   {
-    "title": "BpLA in the direction of the Dnipro from the south.",
-    "title_en": "BpLA in the direction of the Dnipro from the south.",
-    "title_uk": "БпЛА в напрямку Дніпра з півд.",
-    "description": "BpLA in the direction of the Dnipro from the south.",
-    "description_en": "BpLA in the direction of the Dnipro from the south.",
-    "description_uk": "БпЛА в напрямку Дніпра з півдня.",
-    "time": "",
-    "pubDate": "2026-07-17T22:01:45+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68949",
-    "score": 5.0,
-    "views": 27352,
-    "forwards": 1
-  },
-  {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "UAV in the direction of Zaporizhzhia from the north-eastern direction.",
-    "description_en": "UAV in the direction of Zaporizhzhia from the north-eastern direction.",
-    "description_uk": "БпЛА в напрямку Запоріжжя з північно-східного напрямку.",
-    "time": "",
-    "pubDate": "2026-07-17T21:54:32+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68948",
-    "score": 6.0,
-    "views": 46563,
-    "forwards": 0
-  },
-  {
     "title": "Oleksiy Sobolev will join the economic direction of work in the...",
     "title_en": "Oleksiy Sobolev will join the economic direction of work in the...",
     "title_uk": "Олексій Соболєв долучиться до економічного напрямку роботи в...",
@@ -338,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20021",
     "score": 5.5,
-    "views": 90863,
+    "views": 94048,
     "forwards": 136
   },
   {
@@ -410,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20014",
     "score": 4.5,
-    "views": 175020,
+    "views": 176938,
     "forwards": 629
   },
   {
@@ -428,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9632",
     "score": 5.0,
-    "views": 964,
+    "views": 969,
     "forwards": 5
   },
   {
@@ -446,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9631",
     "score": 13.0,
-    "views": 939,
+    "views": 941,
     "forwards": 5
   }
 ]
