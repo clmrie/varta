@@ -1,20 +1,38 @@
 [
   {
+    "title": "BpLA in Shostkinsky District in Sumy Oblast ➡️ south course",
+    "title_en": "BpLA in Shostkinsky District in Sumy Oblast ➡️ south course",
+    "title_uk": "BpLA в Шосткинському районі Сумської області ➡️ південний курс",
+    "description": "BpLA in Shostkinsky District in Sumy Oblast ➡️ south course",
+    "description_en": "BpLA in Shostkinsky District in Sumy Oblast ➡️ south course",
+    "description_uk": "БпЛА у Шосткинському районі на Сумщині ➡️ південним курсом",
+    "time": "",
+    "pubDate": "2026-07-18T17:04:50+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69067",
+    "score": 5.0,
+    "views": 11112,
+    "forwards": 0
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
-    "description": "Jet UAV on Chernihiv from the east",
-    "description_en": "Jet UAV on Chernihiv from the east",
-    "description_uk": "Реактивний БпЛА на Чернігів зі сходу",
+    "description": "A jet UAV on Chernihiv from the north",
+    "description_en": "A jet UAV on Chernihiv from the north",
+    "description_uk": "Реактивний БпЛА на Чернігів з півночі",
     "time": "",
-    "pubDate": "2026-07-18T16:05:54+00:00",
+    "pubDate": "2026-07-18T17:00:56+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Chernihiv",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69055",
+    "link": "https://t.me/kpszsu/69066",
     "score": 6.0,
-    "views": 5034,
+    "views": 18185,
     "forwards": 0
   },
   {
@@ -122,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54348",
     "score": 13.0,
-    "views": 1592,
+    "views": 1761,
     "forwards": 0
   },
   {
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54347",
     "score": 5.0,
-    "views": 1936,
+    "views": 2066,
     "forwards": 1
   },
   {
@@ -320,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41238",
     "score": 13.0,
-    "views": 6595,
+    "views": 6758,
     "forwards": 22
   },
   {
@@ -392,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20021",
     "score": 5.5,
-    "views": 102605,
+    "views": 103581,
     "forwards": 148
   },
   {
@@ -410,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20014",
     "score": 4.5,
-    "views": 183784,
+    "views": 184454,
     "forwards": 629
   },
   {
@@ -428,25 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9632",
     "score": 5.0,
-    "views": 992,
-    "forwards": 5
-  },
-  {
-    "title": "Donetsk: Air defense active",
-    "title_en": "Donetsk: Air defense active",
-    "title_uk": "Донецьк: Активна ППО",
-    "description": "Today marks 12 years since the downing of Malaysia Airlines flight MH17 in the sky over the temporarily occupied part of the Donetsk region of Ukraine. On July 17, 2014, Russian servicemen and persons under their direct control shot down a civilian passenger plane with a Buk anti-aircraft missile system (Buk-TELAR) delivered from the territory of the Russian Federation. The victims of this act...",
-    "description_en": "Today marks 12 years since the downing of Malaysia Airlines flight MH17 in the sky over the temporarily occupied part of the Donetsk region of Ukraine. On July 17, 2014, Russian servicemen and persons under their direct control shot down a civilian passenger plane with a Buk anti-aircraft missile system (Buk-TELAR) delivered from the territory of the Russian Federation. The victims of this act...",
-    "description_uk": "Сьогодні минає 12 років від дня збиття літака рейсу MH17 \"Малайзійських авіаліній\" у небі над тимчасово окупованою частиною Донецької області України. 17 липня 2014 року російські військовослужбовці та особи під їхнім безпосереднім контролем збили цивільний пасажирський літак із зенітно-ракетного комплексу \"Бук\" (Buk-TELAR), доставленого з території Російської Федерації. Жертвами цього акту...",
-    "time": "",
-    "pubDate": "2026-07-17T09:56:46+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9631",
-    "score": 13.0,
-    "views": 953,
+    "views": 996,
     "forwards": 5
   }
 ]
