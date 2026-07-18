@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "A jet UAV from Chernihiv region, heading for Kyiv region.",
+    "description_en": "A jet UAV from Chernihiv region, heading for Kyiv region.",
+    "description_uk": "Реактивний БпЛА з Чернігівщини, курсом на Київщину.",
+    "time": "",
+    "pubDate": "2026-07-18T02:33:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/68976",
+    "score": 6.0,
+    "views": 22247,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Drone attack on infrastructure",
+    "title_en": "Kyiv: Drone attack on infrastructure",
+    "title_uk": "Київ: атака безпілотників на інфраструктуру",
+    "description": "Oil depot, warehouse in Moscow Oblast reportedly set ablaze by Ukrainian drones. Photos and videos posted to social media by local residents purport to show thick black smoke rising from an oil depot in the city of Noginsk, located approximately 50 kilometers (31 miles) east of the Kremlin. The latest attack on oil infrastructure in Russia's capital region comes exactly one month after Ukrainian...",
+    "description_en": "Oil depot, warehouse in Moscow Oblast reportedly set ablaze by Ukrainian drones. Photos and videos posted to social media by local residents purport to show thick black smoke rising from an oil depot in the city of Noginsk, located approximately 50 kilometers (31 miles) east of the Kremlin. The latest attack on oil infrastructure in Russia's capital region comes exactly one month after Ukrainian...",
+    "description_uk": "Oil depot, warehouse in Moscow Oblast reportedly set ablaze by Ukrainian drones. Photos and videos posted to social media by local residents purport to show thick black smoke rising from an oil depot in the city of Noginsk, located approximately 50 kilometers (31 miles) east of the Kremlin. The latest attack on oil infrastructure in Russia's capital region comes exactly one month after Ukrainian...",
+    "time": "",
+    "pubDate": "2026-07-18T02:29:37+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54343",
+    "score": 13.0,
+    "views": 374,
+    "forwards": 2
+  },
+  {
     "title": "Sumy: BpLA on Sumy from the north.",
     "title_en": "Sumy: BpLA on Sumy from the north.",
     "title_uk": "Суми: БпЛА на Суми з півн.",
@@ -7,15 +43,15 @@
     "description_en": "BpLA on Sumy from the north.",
     "description_uk": "БпЛА на Суми з півночі.",
     "time": "",
-    "pubDate": "2026-07-18T00:44:42+00:00",
+    "pubDate": "2026-07-18T01:59:52+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Sumy",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68967",
+    "link": "https://t.me/kpszsu/68973",
     "score": 6.0,
-    "views": 1846,
-    "forwards": 1
+    "views": 27687,
+    "forwards": 0
   },
   {
     "title": "Kyiv: Drone attack",
@@ -32,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54342",
     "score": 4.0,
-    "views": 261,
-    "forwards": 0
+    "views": 786,
+    "forwards": 1
   },
   {
     "title": "BpLA in Sumy Oblast at n.p. Nedrigailiv",
@@ -158,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196266",
     "score": 3.5,
-    "views": 95523,
-    "forwards": 176
+    "views": 123869,
+    "forwards": 188
   },
   {
     "title": "Ballistic missile launch detected",
@@ -211,9 +247,9 @@
     "location": "Kursk",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196259",
-    "score": 5.5,
-    "views": 133548,
-    "forwards": 191
+    "score": 6.5,
+    "views": 148562,
+    "forwards": 202
   },
   {
     "title": "Oleksiy Sobolev will join the economic direction of work in the...",
@@ -230,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20021",
     "score": 5.5,
-    "views": 68694,
-    "forwards": 129
+    "views": 72312,
+    "forwards": 132
   },
   {
     "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
@@ -306,42 +342,6 @@
     "forwards": 1
   },
   {
-    "title": "Kyiv: Drone strike",
-    "title_en": "Kyiv: Drone strike",
-    "title_uk": "Київ: Дрон-удар",
-    "description": "Ukrainian drone units strike over 1 million targets since start of 2026, including nearly 200,000 Russian troops, ministry says. Ukrainian forces are using unmanned aerial vehicles (UAVs) to strike around 90% of Russian targets, according to the Defense Ministry.",
-    "description_en": "Ukrainian drone units strike over 1 million targets since start of 2026, including nearly 200,000 Russian troops, ministry says. Ukrainian forces are using unmanned aerial vehicles (UAVs) to strike around 90% of Russian targets, according to the Defense Ministry.",
-    "description_uk": "Ukrainian drone units strike over 1 million targets since start of 2026, including nearly 200,000 Russian troops, ministry says. Ukrainian forces are using unmanned aerial vehicles (UAVs) to strike around 90% of Russian targets, according to the Defense Ministry.",
-    "time": "",
-    "pubDate": "2026-07-17T15:08:40+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54334",
-    "score": 9.0,
-    "views": 2049,
-    "forwards": 3
-  },
-  {
-    "title": "Sumy: BpLA headed for Sumy from the north.",
-    "title_en": "Sumy: BpLA headed for Sumy from the north.",
-    "title_uk": "Суми: BpLA прямувала на Суми з півночі.",
-    "description": "BpLA headed for Sumy from the north.",
-    "description_en": "BpLA headed for Sumy from the north.",
-    "description_uk": "БпЛА курсом на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-07-17T15:01:32+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68898",
-    "score": 6.0,
-    "views": 2041,
-    "forwards": 0
-  },
-  {
     "title": "A high-speed target in the waters of the Black Sea, headed for...",
     "title_en": "A high-speed target in the waters of the Black Sea, headed for...",
     "title_uk": "Швидкісна ціль у водах Чорного моря прямує до...",
@@ -374,62 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20014",
     "score": 4.5,
-    "views": 157588,
-    "forwards": 625
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "Jet UAV on Chernihiv from the east. 🛵 Jet UAV in the direction of the Dnipro from the east.",
-    "description_en": "Jet UAV on Chernihiv from the east. 🛵 Jet UAV in the direction of the Dnipro from the east.",
-    "description_uk": "Реактивний БпЛА на Чернігів зі сходу. 🛵 Реактивний БпЛА в напрямку Дніпра зі сходу.",
-    "time": "",
-    "pubDate": "2026-07-17T13:30:29+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68887",
-    "score": 6.0,
-    "views": 24248,
-    "forwards": 0
-  },
-  {
-    "title": "BpLA in the direction of Kharkiv from the north.",
-    "title_en": "BpLA in the direction of Kharkiv from the north.",
-    "title_uk": "БпЛА в напрямку Харкова з півн.",
-    "description": "BpLA in the direction of Kharkiv from the north.",
-    "description_en": "BpLA in the direction of Kharkiv from the north.",
-    "description_uk": "БпЛА в напрямку Харкова з півночі.",
-    "time": "",
-    "pubDate": "2026-07-17T13:23:28+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/68885",
-    "score": 5.0,
-    "views": 30335,
-    "forwards": 0
-  },
-  {
-    "title": "2 missiles",
-    "title_en": "2 missiles",
-    "title_uk": "2 ракети",
-    "description": "Allies are persuading Greece to give Ukraine missiles for Patriot, — media According to Greek media, NATO and EU allies have increased pressure on Athens, seeking the transfer of missiles for Patriot systems to Ukraine. We are talking about 200 PAC-2 missiles, which have been in service with the Greek army for more than 20 years. Earlier, the transfer of Patriot batteries to Ukraine was discussed, but then Greece refused. Now it's about...",
-    "description_en": "Allies are persuading Greece to give Ukraine missiles for Patriot, — media According to Greek media, NATO and EU allies have increased pressure on Athens, seeking the transfer of missiles for Patriot systems to Ukraine. We are talking about 200 PAC-2 missiles, which have been in service with the Greek army for more than 20 years. Earlier, the transfer of Patriot batteries to Ukraine was discussed, but then Greece refused. Now it's about...",
-    "description_uk": "Союзники уговаривают Грецию отдать Украине ракеты для Patriot, — СМИ По данным греческих СМИ, союзники по НАТО и ЕС усилили давление на Афины, добиваясь передачи Украине ракет для систем Patriot. Речь идет примерно о 200 ракетах PAC-2, которые уже более 20 лет стоят на вооружении греческой армии. Ранее обсуждалась передача Украине батарей Patriot, но тогда Греция отказалась. Теперь речь идет...",
-    "time": "",
-    "pubDate": "2026-07-17T13:15:09+00:00",
-    "category": "missile",
-    "severity": "medium",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196235",
-    "score": 3.5,
-    "views": 108287,
-    "forwards": 145
+    "views": 161160,
+    "forwards": 626
   },
   {
     "title": "Casualties reported",
@@ -446,7 +392,43 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9632",
     "score": 5.0,
-    "views": 915,
+    "views": 927,
     "forwards": 5
+  },
+  {
+    "title": "Donetsk: Air defense active",
+    "title_en": "Donetsk: Air defense active",
+    "title_uk": "Донецьк: Активна ППО",
+    "description": "Today marks 12 years since the downing of Malaysia Airlines flight MH17 in the sky over the temporarily occupied part of the Donetsk region of Ukraine. On July 17, 2014, Russian servicemen and persons under their direct control shot down a civilian passenger plane with a Buk anti-aircraft missile system (Buk-TELAR) delivered from the territory of the Russian Federation. The victims of this act...",
+    "description_en": "Today marks 12 years since the downing of Malaysia Airlines flight MH17 in the sky over the temporarily occupied part of the Donetsk region of Ukraine. On July 17, 2014, Russian servicemen and persons under their direct control shot down a civilian passenger plane with a Buk anti-aircraft missile system (Buk-TELAR) delivered from the territory of the Russian Federation. The victims of this act...",
+    "description_uk": "Сьогодні минає 12 років від дня збиття літака рейсу MH17 \"Малайзійських авіаліній\" у небі над тимчасово окупованою частиною Донецької області України. 17 липня 2014 року російські військовослужбовці та особи під їхнім безпосереднім контролем збили цивільний пасажирський літак із зенітно-ракетного комплексу \"Бук\" (Buk-TELAR), доставленого з території Російської Федерації. Жертвами цього акту...",
+    "time": "",
+    "pubDate": "2026-07-17T09:56:46+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9631",
+    "score": 13.0,
+    "views": 920,
+    "forwards": 5
+  },
+  {
+    "title": "Drone strike",
+    "title_en": "Drone strike",
+    "title_uk": "Безпілотний удар",
+    "description": "Reaching Moscow: how Ukrainian drones are making oil facility strikes possible and wiping out Shahed operator Read the full article on our website",
+    "description_en": "Reaching Moscow: how Ukrainian drones are making oil facility strikes possible and wiping out Shahed operator Read the full article on our website",
+    "description_uk": "Reaching Moscow: how Ukrainian drones are making oil facility strikes possible and wiping out Shahed operator Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-07-16T16:45:31+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48872",
+    "score": 5.0,
+    "views": 91,
+    "forwards": 1
   }
 ]
