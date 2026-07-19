@@ -3,37 +3,37 @@
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons from the north, east and southeast remains!",
-    "description_en": "☄️ The threat of using ballistic weapons from the north, east and southeast remains!",
-    "description_uk": "☄️ Зберігається загроза застосування балістичного озброєння з півночі, сходу та південного сходу!",
+    "description": "More ballistics from Bryansk!",
+    "description_en": "More ballistics from Bryansk!",
+    "description_uk": "Ще балістика з Брянська!",
     "time": "",
-    "pubDate": "2026-07-18T23:05:32+00:00",
+    "pubDate": "2026-07-18T23:40:54+00:00",
     "category": "missile",
     "severity": "high",
     "location": "Ukraine",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69105",
+    "link": "https://t.me/kpszsu/69112",
     "score": 5.5,
-    "views": 32396,
-    "forwards": 104
+    "views": 56807,
+    "forwards": 139
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
-    "description": "Ballistics from Poltava region to Kyiv!",
-    "description_en": "Ballistics from Poltava region to Kyiv!",
-    "description_uk": "Балістика із Полтавщини на Київ!",
+    "title_uk": "Київ: Зафіксовано пуск балістичної ракети",
+    "description": "More ballistics with a northerly course to Kyiv!",
+    "description_en": "More ballistics with a northerly course to Kyiv!",
+    "description_uk": "Ще балістика з півночі курсом на Київ!",
     "time": "",
-    "pubDate": "2026-07-18T22:51:40+00:00",
+    "pubDate": "2026-07-18T23:14:19+00:00",
     "category": "missile",
     "severity": "high",
     "location": "Kyiv",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69101",
+    "link": "https://t.me/kpszsu/69109",
     "score": 7.5,
-    "views": 80008,
-    "forwards": 311
+    "views": 89291,
+    "forwards": 274
   },
   {
     "title": "Zaporizhzhia: BpLA group ➡️ on Zaporozhye from the east.",
@@ -86,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196347",
     "score": 4.5,
-    "views": 108783,
-    "forwards": 388
+    "views": 118625,
+    "forwards": 389
   },
   {
     "title": "Drone strike near civilians",
@@ -104,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196346",
     "score": 6.5,
-    "views": 115147,
-    "forwards": 373
+    "views": 122887,
+    "forwards": 410
   },
   {
     "title": "Zaporizhzhia: BpLA ➡️ to Zaporizhzhia from the south.",
@@ -284,26 +284,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54348",
     "score": 13.0,
-    "views": 2360,
+    "views": 2436,
     "forwards": 2
-  },
-  {
-    "title": "Dnipro: Drone incoming",
-    "title_en": "Dnipro: Drone incoming",
-    "title_uk": "Дніпро: Дрон вхід",
-    "description": "Dnipropetrovsk region: jet UAV ➡️ heading for Bozhedarivka.",
-    "description_en": "Dnipropetrovsk region: jet UAV ➡️ heading for Bozhedarivka.",
-    "description_uk": "Дніпропетровщина: реактивний БпЛА ➡️ курсом на Божедарівку.",
-    "time": "",
-    "pubDate": "2026-07-18T11:26:51+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69014",
-    "score": 6.0,
-    "views": 17194,
-    "forwards": 0
   },
   {
     "title": "Kyiv: Russia bolsters 'shadow fleet' defenses at expense of front-line...",
@@ -428,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20021",
     "score": 5.5,
-    "views": 110473,
+    "views": 110991,
     "forwards": 148
   },
   {
@@ -446,7 +428,25 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9632",
     "score": 5.0,
-    "views": 1017,
+    "views": 1020,
+    "forwards": 5
+  },
+  {
+    "title": "Donetsk: Air defense active",
+    "title_en": "Donetsk: Air defense active",
+    "title_uk": "Донецьк: Активна ППО",
+    "description": "Today marks 12 years since the downing of Malaysia Airlines flight MH17 in the sky over the temporarily occupied part of the Donetsk region of Ukraine. On July 17, 2014, Russian servicemen and persons under their direct control shot down a civilian passenger plane with a Buk anti-aircraft missile system (Buk-TELAR) delivered from the territory of the Russian Federation. The victims of this act...",
+    "description_en": "Today marks 12 years since the downing of Malaysia Airlines flight MH17 in the sky over the temporarily occupied part of the Donetsk region of Ukraine. On July 17, 2014, Russian servicemen and persons under their direct control shot down a civilian passenger plane with a Buk anti-aircraft missile system (Buk-TELAR) delivered from the territory of the Russian Federation. The victims of this act...",
+    "description_uk": "Сьогодні минає 12 років від дня збиття літака рейсу MH17 \"Малайзійських авіаліній\" у небі над тимчасово окупованою частиною Донецької області України. 17 липня 2014 року російські військовослужбовці та особи під їхнім безпосереднім контролем збили цивільний пасажирський літак із зенітно-ракетного комплексу \"Бук\" (Buk-TELAR), доставленого з території Російської Федерації. Жертвами цього акту...",
+    "time": "",
+    "pubDate": "2026-07-17T09:56:46+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9631",
+    "score": 13.0,
+    "views": 971,
     "forwards": 5
   }
 ]
