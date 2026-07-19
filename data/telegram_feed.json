@@ -1,5 +1,77 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV in the direction of Odesa from the Black Sea.",
+    "description_en": "UAV in the direction of Odesa from the Black Sea.",
+    "description_uk": "БпЛА в напрямку Одещини з Чорного моря.",
+    "time": "",
+    "pubDate": "2026-07-19T11:24:57+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69189",
+    "score": 5.0,
+    "views": 10102,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "Update: Ukraine strikes 3 Russian shadow fleet tankers on Black Sea, Zelensky says. \"We continue to respond to Russian strikes in a fully justified and accurate manner,\" President Volodymyr Zelensky said on X, shortly after Russia launched one of its heaviest ballistic missile strikes on Kyiv.",
+    "description_en": "Update: Ukraine strikes 3 Russian shadow fleet tankers on Black Sea, Zelensky says. \"We continue to respond to Russian strikes in a fully justified and accurate manner,\" President Volodymyr Zelensky said on X, shortly after Russia launched one of its heaviest ballistic missile strikes on Kyiv.",
+    "description_uk": "Update: Ukraine strikes 3 Russian shadow fleet tankers on Black Sea, Zelensky says. \"We continue to respond to Russian strikes in a fully justified and accurate manner,\" President Volodymyr Zelensky said on X, shortly after Russia launched one of its heaviest ballistic missile strikes on Kyiv.",
+    "time": "",
+    "pubDate": "2026-07-19T11:04:39+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54366",
+    "score": 10.0,
+    "views": 434,
+    "forwards": 0
+  },
+  {
+    "title": "Sumy: BpLA on Sumy from the north.",
+    "title_en": "Sumy: BpLA on Sumy from the north.",
+    "title_uk": "Суми: БпЛА на Суми з півн.",
+    "description": "BpLA on Sumy from the north.",
+    "description_en": "BpLA on Sumy from the north.",
+    "description_uk": "БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-07-19T10:51:38+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69185",
+    "score": 6.0,
+    "views": 36418,
+    "forwards": 0
+  },
+  {
+    "title": "Casualties reported",
+    "title_en": "Casualties reported",
+    "title_uk": "Повідомляється про постраждалих",
+    "description": "MARCH. Stress test. Conditions close to reality — medical classes for operators of the 3rd SSO regiment. Tactical medicine is a skill that must become a reflex. For SSO operators, mastering the MARCH protocol is the basis on which life depends. In real combat, there will be no time to think, so we create conditions where decisions are made automatically. That's why we conduct these stress tests. A tight dark space,...",
+    "description_en": "MARCH. Stress test. Conditions close to reality — medical classes for operators of the 3rd SSO regiment. Tactical medicine is a skill that must become a reflex. For SSO operators, mastering the MARCH protocol is the basis on which life depends. In real combat, there will be no time to think, so we create conditions where decisions are made automatically. That's why we conduct these stress tests. A tight dark space,...",
+    "description_uk": "MARCH. Стрес-тест. Умови, наближені до реальності — заняття з медицини операторів 3 полку ССО. Тактична медицина — це навичка, що має стати рефлексом. Для операторів ССО опанування протоколу MARCH є базою, від якої залежить життя. У реальному бою не буде часу на роздуми, тому ми створюємо умови, де рішення ухвалюються автоматично. Саме для цього ми проводимо ці стрес-тести. Тісний темний простір,...",
+    "time": "",
+    "pubDate": "2026-07-19T10:27:04+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41289",
+    "score": 5.0,
+    "views": 2204,
+    "forwards": 4
+  },
+  {
     "title": "Kharkiv: Kharkiv region: BpLA ➡️ in the direction of Kharkiv from the...",
     "title_en": "Kharkiv: Kharkiv region: BpLA ➡️ in the direction of Kharkiv from the...",
     "title_uk": "Харків: Харківська область: BpLA ➡️ в напрямку Харкова від...",
@@ -49,9 +121,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20046",
-    "score": 4.5,
-    "views": 66815,
-    "forwards": 143
+    "score": 5.5,
+    "views": 110978,
+    "forwards": 206
   },
   {
     "title": "Kyiv: Drone attack",
@@ -68,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54365",
     "score": 8.0,
-    "views": 952,
-    "forwards": 2
+    "views": 1419,
+    "forwards": 3
   },
   {
     "title": "Kyiv: 41 missiles + 125 drones launched",
@@ -140,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20036",
     "score": 19.5,
-    "views": 222745,
-    "forwards": 578
+    "views": 244760,
+    "forwards": 611
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -183,8 +255,8 @@
     "title": "18 missiles + 108 drones launched",
     "title_en": "18 missiles + 108 drones launched",
     "title_uk": "Запущено 18 ракет + 108 безпілотників",
-    "description": "Russia launched 41 rockets and 125 BpLa this night, — Air Force Among them: 10 \"Zirkonov\", 25 ballistic \"Iskanderov-M\"/S-400, three \"Onyx\" and three X-59/69. The main direction of the attack was Kyiv. Air defense managed to neutralize 18 missiles and 108 drones. At the same time, 23 missiles and 10 strike drones were hit at 20 locations.",
-    "description_en": "Russia launched 41 rockets and 125 BpLa this night, — Air Force Among them: 10 \"Zirkonov\", 25 ballistic \"Iskanderov-M\"/S-400, three \"Onyx\" and three X-59/69. The main direction of the attack was Kyiv. Air defense managed to neutralize 18 missiles and 108 drones. At the same time, 23 missiles and 10 strike drones were hit at 20 locations.",
+    "description": "41 rockets and 125 BpLa were launched by Russia this night, — Air Force Among them: 10 \"Zirkonov\", 25 ballistic \"Iskanderov-M\"/S-400, three \"Onyx\" and three X-59/69. The main direction of the attack was Kyiv. Air defense managed to neutralize 18 missiles and 108 drones. At the same time, 23 missiles and 10 strike drones were hit at 20 locations.",
+    "description_en": "41 rockets and 125 BpLa were launched by Russia this night, — Air Force Among them: 10 \"Zirkonov\", 25 ballistic \"Iskanderov-M\"/S-400, three \"Onyx\" and three X-59/69. The main direction of the attack was Kyiv. Air defense managed to neutralize 18 missiles and 108 drones. At the same time, 23 missiles and 10 strike drones were hit at 20 locations.",
     "description_uk": "41 ракету и 125 БпЛа запустила русня этой ночью, — Воздушные Силы Среди них: 10 «Цирконов», 25 баллистических «Искандеров-М»/С-400, три «Оникса» и три Х-59/69. Основным направлением удара стал Киев. ПВО удалось обезвредить 18 ракет и 108 беспилотников. При этом зафиксированы попадания 23 ракет и 10 ударных дронов на 20 локациях.",
     "time": "",
     "pubDate": "2026-07-19T05:47:56+00:00",
@@ -194,8 +266,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196384",
     "score": 9.5,
-    "views": 173014,
-    "forwards": 212
+    "views": 187213,
+    "forwards": 247
   },
   {
     "title": "Kursk: 18 missiles + 125 drones launched",
@@ -212,26 +284,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41286",
     "score": 13.0,
-    "views": 6565,
-    "forwards": 27
-  },
-  {
-    "title": "Kyiv: Ballistic missile launch detected",
-    "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
-    "description": "Update: At least 1 killed, 13 injured after major Russian attack rocks Kyiv with ballistic missiles, damages residential buildings. Local residents have begun cleaning the debris in the Shevchenkivskyi district's Lukianivska neighbourhood. Eleonora Belei, 30, stood in front of the apartment block where she has been living for five years now. She described this night as \"the scariest night of...",
-    "description_en": "Update: At least 1 killed, 13 injured after major Russian attack rocks Kyiv with ballistic missiles, damages residential buildings. Local residents have begun cleaning the debris in the Shevchenkivskyi district's Lukianivska neighbourhood. Eleonora Belei, 30, stood in front of the apartment block where she has been living for five years now. She described this night as \"the scariest night of...",
-    "description_uk": "Update: At least 1 killed, 13 injured after major Russian attack rocks Kyiv with ballistic missiles, damages residential buildings. Local residents have begun cleaning the debris in the Shevchenkivskyi district's Lukianivska neighbourhood. Eleonora Belei, 30, stood in front of the apartment block where she has been living for five years now. She described this night as \"the scariest night of...",
-    "time": "",
-    "pubDate": "2026-07-19T04:47:03+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54360",
-    "score": 18.0,
-    "views": 728,
-    "forwards": 2
+    "views": 7052,
+    "forwards": 29
   },
   {
     "title": "Kharkiv: BpLA on Kharkiv from the north",
@@ -340,23 +394,5 @@
     "score": 13.0,
     "views": 2436,
     "forwards": 2
-  },
-  {
-    "title": "Casualties reported",
-    "title_en": "Casualties reported",
-    "title_uk": "Повідомляється про постраждалих",
-    "description": "The Ministry of Foreign Affairs of Ukraine took note of the adoption by the Sejm of the Republic of Poland of another resolution on the occasion of the anniversary of the tragic events in Volyn in 1943-1944. We remind you that on July 11, the Ukrainian side at the highest level paid tribute to all the victims of the Volyn tragedy. Ukrainian and Polish high-ranking officials honored the memory of innocently killed Ukrainians and Poles both on the territory of Ukraine and on the territory of Poland....",
-    "description_en": "The Ministry of Foreign Affairs of Ukraine took note of the adoption by the Sejm of the Republic of Poland of another resolution on the occasion of the anniversary of the tragic events in Volyn in 1943-1944. We remind you that on July 11, the Ukrainian side at the highest level paid tribute to all the victims of the Volyn tragedy. Ukrainian and Polish high-ranking officials honored the memory of innocently killed Ukrainians and Poles both on the territory of Ukraine and on the territory of Poland....",
-    "description_uk": "МЗС України взяло до відома ухвалення Сеймом Республіки Польща чергової постанови з нагоди річниці трагічних подій на Волині 1943–1944 років. Нагадуємо, що 11 липня українська сторона на найвищому рівні віддала шану всім жертвам Волинської трагедії. Українські та польські високопосадовці вшанували пам’ять невинно вбитих українців та поляків як на території України, так і на території Польщі....",
-    "time": "",
-    "pubDate": "2026-07-17T13:04:19+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9632",
-    "score": 5.0,
-    "views": 1059,
-    "forwards": 5
   }
 ]
