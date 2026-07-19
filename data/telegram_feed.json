@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons from the north-eastern direction.",
+    "description_en": "☄️ The threat of using ballistic weapons from the north-eastern direction.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння з північно-східного напрямку.",
+    "time": "",
+    "pubDate": "2026-07-19T12:18:00+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69197",
+    "score": 5.5,
+    "views": 54635,
+    "forwards": 69
+  },
+  {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
+    "description": "BpLA on Zaporozhye from the south.",
+    "description_en": "BpLA on Zaporozhye from the south.",
+    "description_uk": "БпЛА на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-07-19T12:07:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69196",
+    "score": 6.0,
+    "views": 57656,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -32,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54366",
     "score": 10.0,
-    "views": 434,
+    "views": 929,
     "forwards": 0
   },
   {
@@ -68,7 +104,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41289",
     "score": 5.0,
-    "views": 2204,
+    "views": 3084,
     "forwards": 4
   },
   {
@@ -122,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20046",
     "score": 5.5,
-    "views": 110978,
-    "forwards": 206
+    "views": 136462,
+    "forwards": 208
   },
   {
     "title": "Kyiv: Drone attack",
@@ -140,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54365",
     "score": 8.0,
-    "views": 1419,
+    "views": 1703,
     "forwards": 3
   },
   {
@@ -212,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20036",
     "score": 19.5,
-    "views": 244760,
-    "forwards": 611
+    "views": 259598,
+    "forwards": 613
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -284,8 +320,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41286",
     "score": 13.0,
-    "views": 7052,
-    "forwards": 29
+    "views": 7256,
+    "forwards": 31
   },
   {
     "title": "Kharkiv: BpLA on Kharkiv from the north",
@@ -342,24 +378,6 @@
     "forwards": 3
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "More ballistics from Bryansk!",
-    "description_en": "More ballistics from Bryansk!",
-    "description_uk": "Ще балістика з Брянська!",
-    "time": "",
-    "pubDate": "2026-07-18T23:40:54+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69112",
-    "score": 5.5,
-    "views": 56807,
-    "forwards": 139
-  },
-  {
     "title": "Drone strike near civilians",
     "title_en": "Drone strike near civilians",
     "title_uk": "Удар безпілотників поблизу мирних жителів",
@@ -376,23 +394,5 @@
     "score": 6.5,
     "views": 122887,
     "forwards": 410
-  },
-  {
-    "title": "Kyiv: Drone strike",
-    "title_en": "Kyiv: Drone strike",
-    "title_uk": "Київ: Дрон-удар",
-    "description": "2 Russian logistics centers, oil depot hit as Kyiv launches hundreds of drones towards Moscow. The latest attack on oil infrastructure in Russia's capital region comes exactly one month after Ukrainian forces launched their largest-ever drone attack on Moscow, striking the Moscow Oil Refinery on June 18.",
-    "description_en": "2 Russian logistics centers, oil depot hit as Kyiv launches hundreds of drones towards Moscow. The latest attack on oil infrastructure in Russia's capital region comes exactly one month after Ukrainian forces launched their largest-ever drone attack on Moscow, striking the Moscow Oil Refinery on June 18.",
-    "description_uk": "2 Russian logistics centers, oil depot hit as Kyiv launches hundreds of drones towards Moscow. The latest attack on oil infrastructure in Russia's capital region comes exactly one month after Ukrainian forces launched their largest-ever drone attack on Moscow, striking the Moscow Oil Refinery on June 18.",
-    "time": "",
-    "pubDate": "2026-07-18T12:10:00+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54348",
-    "score": 13.0,
-    "views": 2436,
-    "forwards": 2
   }
 ]
