@@ -1,5 +1,59 @@
 [
   {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
+    "description": "BpLA on Zaporozhye from the south.",
+    "description_en": "BpLA on Zaporozhye from the south.",
+    "description_uk": "БпЛА на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-07-19T22:22:29+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69274",
+    "score": 6.0,
+    "views": 318,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Attack attack",
+    "title_en": "Kyiv: Attack attack",
+    "title_uk": "Київ: Атака",
+    "description": "Russia's large-scale attack destroys nearly 250,000 Ukrainian books. The latest Russian attack on Kyiv overnight on July 19 destroyed nearly 250,000 books in Knyholove's inventory, the Ukrainian publishing house reported.",
+    "description_en": "Russia's large-scale attack destroys nearly 250,000 Ukrainian books. The latest Russian attack on Kyiv overnight on July 19 destroyed nearly 250,000 books in Knyholove's inventory, the Ukrainian publishing house reported.",
+    "description_uk": "Russia's large-scale attack destroys nearly 250,000 Ukrainian books. The latest Russian attack on Kyiv overnight on July 19 destroyed nearly 250,000 books in Knyholove's inventory, the Ukrainian publishing house reported.",
+    "time": "",
+    "pubDate": "2026-07-19T22:09:05+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54372",
+    "score": 8.0,
+    "views": 344,
+    "forwards": 0
+  },
+  {
+    "title": "Sumy: BpLA on Sumy from the north.",
+    "title_en": "Sumy: BpLA on Sumy from the north.",
+    "title_uk": "Суми: БпЛА на Суми з півн.",
+    "description": "BpLA on Sumy from the north.",
+    "description_en": "BpLA on Sumy from the north.",
+    "description_uk": "БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-07-19T21:31:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69271",
+    "score": 6.0,
+    "views": 45251,
+    "forwards": 0
+  },
+  {
     "title": "UAV to Odesa from the Black Sea.",
     "title_en": "UAV to Odesa from the Black Sea.",
     "title_uk": "БПЛА до Одеси з Чорного моря.",
@@ -50,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54371",
     "score": 13.0,
-    "views": 561,
+    "views": 1100,
     "forwards": 1
   },
   {
@@ -68,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196444",
     "score": 9.5,
-    "views": 40313,
-    "forwards": 213
+    "views": 69792,
+    "forwards": 309
   },
   {
     "title": "Dnipro: KAB to Donetsk region, to the south-eastern direction of...",
@@ -122,7 +176,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9653",
     "score": 4.0,
-    "views": 5154,
+    "views": 5648,
     "forwards": 16
   },
   {
@@ -140,7 +194,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196434",
     "score": 4.5,
-    "views": 132507,
+    "views": 142007,
     "forwards": 282
   },
   {
@@ -378,24 +432,6 @@
     "forwards": 470
   },
   {
-    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
-    "description": "BpLA on Zaporozhye from the south.",
-    "description_en": "BpLA on Zaporozhye from the south.",
-    "description_uk": "БпЛА на Запоріжжя з півдня.",
-    "time": "",
-    "pubDate": "2026-07-19T12:07:51+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69196",
-    "score": 6.0,
-    "views": 57656,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Київ: виявлено пуск балістичної ракети",
@@ -412,41 +448,5 @@
     "score": 10.0,
     "views": 3759,
     "forwards": 1
-  },
-  {
-    "title": "Sumy: BpLA on Sumy from the north.",
-    "title_en": "Sumy: BpLA on Sumy from the north.",
-    "title_uk": "Суми: БпЛА на Суми з півн.",
-    "description": "BpLA on Sumy from the north.",
-    "description_en": "BpLA on Sumy from the north.",
-    "description_uk": "БпЛА на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-07-19T10:51:38+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69185",
-    "score": 6.0,
-    "views": 36418,
-    "forwards": 0
-  },
-  {
-    "title": "Casualties reported",
-    "title_en": "Casualties reported",
-    "title_uk": "Повідомляється про постраждалих",
-    "description": "MARCH. Stress test. Conditions close to reality — medical classes for operators of the 3rd SSO regiment. Tactical medicine is a skill that must become a reflex. For SSO operators, mastering the MARCH protocol is the basis on which life depends. In real combat, there will be no time to think, so we create conditions where decisions are made automatically. That's why we conduct these stress tests. A tight dark space,...",
-    "description_en": "MARCH. Stress test. Conditions close to reality — medical classes for operators of the 3rd SSO regiment. Tactical medicine is a skill that must become a reflex. For SSO operators, mastering the MARCH protocol is the basis on which life depends. In real combat, there will be no time to think, so we create conditions where decisions are made automatically. That's why we conduct these stress tests. A tight dark space,...",
-    "description_uk": "MARCH. Стрес-тест. Умови, наближені до реальності — заняття з медицини операторів 3 полку ССО. Тактична медицина — це навичка, що має стати рефлексом. Для операторів ССО опанування протоколу MARCH є базою, від якої залежить життя. У реальному бою не буде часу на роздуми, тому ми створюємо умови, де рішення ухвалюються автоматично. Саме для цього ми проводимо ці стрес-тести. Тісний темний простір,...",
-    "time": "",
-    "pubDate": "2026-07-19T10:27:04+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41289",
-    "score": 5.0,
-    "views": 5492,
-    "forwards": 8
   }
 ]
