@@ -1,5 +1,23 @@
 [
   {
+    "title": "Shelling near civilians",
+    "title_en": "Shelling near civilians",
+    "title_uk": "Обстріл поблизу мирних жителів",
+    "description": "Andrii Sybiga commented on the attack on a civilian ship in the Black Sea: 💬 \"While the world community is still reacting to the brutal night shelling of Kyiv by the Russian Federation, Moscow continues its terrorist campaign during the day. Now Russia has struck a civilian ship that was moving through the Ukrainian maritime corridor. The crew included citizens of Syria and India. The Ukrainian pilot was killed, as well as...",
+    "description_en": "Andrii Sybiga commented on the attack on a civilian ship in the Black Sea: 💬 \"While the world community is still reacting to the brutal night shelling of Kyiv by the Russian Federation, Moscow continues its terrorist campaign during the day. Now Russia has struck a civilian ship that was moving through the Ukrainian maritime corridor. The crew included citizens of Syria and India. The Ukrainian pilot was killed, as well as...",
+    "description_uk": "Андрій Сибіга прокоментував удар по цивільному судну в Чорному морі: 💬 \"Тоді як світова спільнота все ще реагує на жорстокий нічний обстріл Києва з боку РФ, Москва протягом доби продовжує свою терористичну кампанію. Тепер Росія завдала удару по цивільному судну, яке рухалося українським морським коридором. До складу екіпажу входили громадяни Сирії та Індії. Загинув лоцман українець, а також...",
+    "time": "",
+    "pubDate": "2026-07-19T18:44:20+00:00",
+    "category": "shelling",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9653",
+    "score": 4.0,
+    "views": 1031,
+    "forwards": 8
+  },
+  {
     "title": "Strike confirmed",
     "title_en": "Strike confirmed",
     "title_uk": "Страйк підтверджено",
@@ -13,9 +31,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196434",
-    "score": 3.5,
-    "views": 24725,
-    "forwards": 106
+    "score": 4.5,
+    "views": 94453,
+    "forwards": 213
   },
   {
     "title": "Chernihiv: Chernihiv region: BpLA ➡️ in the area of ​​n.p. Snovsk and Koryukivka.",
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/69250",
     "score": 6.0,
-    "views": 30330,
+    "views": 81948,
     "forwards": 0
   },
   {
@@ -50,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/69249",
     "score": 5.0,
-    "views": 40476,
+    "views": 85017,
     "forwards": 0
   },
   {
@@ -302,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54366",
     "score": 10.0,
-    "views": 3140,
+    "views": 3447,
     "forwards": 1
   },
   {
@@ -338,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41289",
     "score": 5.0,
-    "views": 5038,
+    "views": 5316,
     "forwards": 8
   },
   {
@@ -392,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20046",
     "score": 5.5,
-    "views": 185495,
+    "views": 191143,
     "forwards": 265
   },
   {
@@ -410,7 +428,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54365",
     "score": 8.0,
-    "views": 2629,
+    "views": 2791,
     "forwards": 3
   },
   {
@@ -430,23 +448,5 @@
     "score": 18.0,
     "views": 1431,
     "forwards": 9
-  },
-  {
-    "title": "Zaporizhzhia: High-speed target in the direction of Zaporizhzhia.",
-    "title_en": "Zaporizhzhia: High-speed target in the direction of Zaporizhzhia.",
-    "title_uk": "Запоріжжя: Швидкісна ціль у напрямку Запоріжжя.",
-    "description": "High-speed target in the direction of Zaporizhzhia.",
-    "description_en": "High-speed target in the direction of Zaporizhzhia.",
-    "description_uk": "Швидкісна ціль в напрямку Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-07-19T07:21:02+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69164",
-    "score": 6.0,
-    "views": 62768,
-    "forwards": 35
   }
 ]
