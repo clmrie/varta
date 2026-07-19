@@ -1,5 +1,59 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "A jet UAV in Chernihiv region in the direction of Bakhmach village from the north.",
+    "description_en": "A jet UAV in Chernihiv region in the direction of Bakhmach village from the north.",
+    "description_uk": "Реактивний БпЛА на Чернігівщині в напрямку н.п.Бахмач з півночі.",
+    "time": "",
+    "pubDate": "2026-07-19T15:01:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69228",
+    "score": 6.0,
+    "views": 15181,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "🛸 UAV ➡️ in the direction of the South from the Black Sea.",
+    "description_en": "🛸 UAV ➡️ in the direction of the South from the Black Sea.",
+    "description_uk": "🛸 БпЛА ➡️ в напрямку Південного з акваторії Чорного моря.",
+    "time": "",
+    "pubDate": "2026-07-19T14:58:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69227",
+    "score": 5.0,
+    "views": 21248,
+    "forwards": 0
+  },
+  {
+    "title": "There was a video of a burning ship off the coast of Odessa. Monitors...",
+    "title_en": "There was a video of a burning ship off the coast of Odessa. Monitors...",
+    "title_uk": "З'явилося відео палаючого корабля біля берегів Одеси. Монітори...",
+    "description": "There was a video of a burning ship off the coast of Odessa. Monitors write that in the last hour and a half, the Russians hit the city and the region with approximately 20 rockets.",
+    "description_en": "There was a video of a burning ship off the coast of Odessa. Monitors write that in the last hour and a half, the Russians hit the city and the region with approximately 20 rockets.",
+    "description_uk": "Появились видео горящего судна у берегов Одессы Мониторы пишут, что за последние час-полтора рашисты ударили по городу и области примерно 20 ракетами.",
+    "time": "",
+    "pubDate": "2026-07-19T14:22:23+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/196415",
+    "score": 3.5,
+    "views": 59311,
+    "forwards": 147
+  },
+  {
     "title": "Jet UAV to Odesa from the Black Sea.",
     "title_en": "Jet UAV to Odesa from the Black Sea.",
     "title_uk": "Реактивний БПЛА до Одеси з Чорного моря.",
@@ -32,7 +86,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196411",
     "score": 5.5,
-    "views": 58090,
+    "views": 95975,
     "forwards": 71
   },
   {
@@ -68,8 +122,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9649",
     "score": 5.0,
-    "views": 412,
-    "forwards": 7
+    "views": 496,
+    "forwards": 8
   },
   {
     "title": "🫠Scientists have discovered another \"side effect\" of COVID: the...",
@@ -108,27 +162,9 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV in the direction of Odesa from the Black Sea.",
-    "description_en": "UAV in the direction of Odesa from the Black Sea.",
-    "description_uk": "БпЛА в напрямку Одещини з Чорного моря.",
-    "time": "",
-    "pubDate": "2026-07-19T11:24:57+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69189",
-    "score": 5.0,
-    "views": 10102,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: Зафіксовано пуск балістичної ракети",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
     "description": "Update: Ukraine strikes 3 Russian shadow fleet tankers on Black Sea, Zelensky says. \"We continue to respond to Russian strikes in a fully justified and accurate manner,\" President Volodymyr Zelensky said on X, shortly after Russia launched one of its heaviest ballistic missile strikes on Kyiv.",
     "description_en": "Update: Ukraine strikes 3 Russian shadow fleet tankers on Black Sea, Zelensky says. \"We continue to respond to Russian strikes in a fully justified and accurate manner,\" President Volodymyr Zelensky said on X, shortly after Russia launched one of its heaviest ballistic missile strikes on Kyiv.",
     "description_uk": "Update: Ukraine strikes 3 Russian shadow fleet tankers on Black Sea, Zelensky says. \"We continue to respond to Russian strikes in a fully justified and accurate manner,\" President Volodymyr Zelensky said on X, shortly after Russia launched one of its heaviest ballistic missile strikes on Kyiv.",
@@ -140,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54366",
     "score": 10.0,
-    "views": 1919,
+    "views": 2352,
     "forwards": 1
   },
   {
@@ -176,7 +212,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41289",
     "score": 5.0,
-    "views": 3983,
+    "views": 4353,
     "forwards": 6
   },
   {
@@ -230,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20046",
     "score": 5.5,
-    "views": 161477,
-    "forwards": 242
+    "views": 170307,
+    "forwards": 255
   },
   {
     "title": "Kyiv: Drone attack",
@@ -248,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54365",
     "score": 8.0,
-    "views": 2114,
+    "views": 2266,
     "forwards": 3
   },
   {
@@ -320,26 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20036",
     "score": 19.5,
-    "views": 274740,
-    "forwards": 644
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "Jet UAVs in the direction of Ponornytsia in Chernihiv Oblast ➡️ south-west course",
-    "description_en": "Jet UAVs in the direction of Ponornytsia in Chernihiv Oblast ➡️ south-west course",
-    "description_uk": "Реактивні БпЛА у напрямку Понорниці на Чернігівщині ➡️ південно-західним курсом",
-    "time": "",
-    "pubDate": "2026-07-19T06:08:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69149",
-    "score": 6.0,
-    "views": 14142,
-    "forwards": 0
+    "views": 281491,
+    "forwards": 646
   },
   {
     "title": "UAV to Odesa from the Black Sea",
@@ -392,7 +410,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41286",
     "score": 13.0,
-    "views": 7547,
+    "views": 7723,
     "forwards": 32
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 22222,
     "forwards": 0
-  },
-  {
-    "title": "Luhansk: Attack attack",
-    "title_en": "Luhansk: Attack attack",
-    "title_uk": "Луганськ: Обстріл",
-    "description": "Ukraine reportedly strikes Russian oil depot in Stavropol Krai, hits targets in occupied Crimea, Luhansk. Ukrainian forces struck an oil depot in Russia's Stavropol Krai and hit several targets in the occupied territories overnight on July 19, monitoring channels reported.",
-    "description_en": "Ukraine reportedly strikes Russian oil depot in Stavropol Krai, hits targets in occupied Crimea, Luhansk. Ukrainian forces struck an oil depot in Russia's Stavropol Krai and hit several targets in the occupied territories overnight on July 19, monitoring channels reported.",
-    "description_uk": "Ukraine reportedly strikes Russian oil depot in Stavropol Krai, hits targets in occupied Crimea, Luhansk. Ukrainian forces struck an oil depot in Russia's Stavropol Krai and hit several targets in the occupied territories overnight on July 19, monitoring channels reported.",
-    "time": "",
-    "pubDate": "2026-07-19T02:38:10+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Luhansk",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54358",
-    "score": 8.0,
-    "views": 1291,
-    "forwards": 3
   }
 ]
