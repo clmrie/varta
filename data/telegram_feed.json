@@ -1,5 +1,41 @@
 [
   {
+    "title": "Dnipro: KAB to Donetsk region, to the south-eastern direction of...",
+    "title_en": "Dnipro: KAB to Donetsk region, to the south-eastern direction of...",
+    "title_uk": "Дніпро: КАБ в Донецьку область, в південно-східному напрямку від...",
+    "description": "KAB to Donetsk region, to the south-eastern direction of Dnipropetrovsk region.",
+    "description_en": "KAB to Donetsk region, to the south-eastern direction of Dnipropetrovsk region.",
+    "description_uk": "КАБи на Донеччину, на південно-східний напрямок Дніпропетровщини.",
+    "time": "",
+    "pubDate": "2026-07-19T20:21:07+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69258",
+    "score": 6.0,
+    "views": 8117,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "A jet UAV in the direction of Zaporizhzhia from the south.",
+    "description_en": "A jet UAV in the direction of Zaporizhzhia from the south.",
+    "description_uk": "Реактивний БпЛА в напрямку Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-07-19T20:02:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69257",
+    "score": 6.0,
+    "views": 29377,
+    "forwards": 0
+  },
+  {
     "title": "Shelling near civilians",
     "title_en": "Shelling near civilians",
     "title_uk": "Обстріл поблизу мирних жителів",
@@ -14,8 +50,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9653",
     "score": 4.0,
-    "views": 1031,
-    "forwards": 8
+    "views": 4164,
+    "forwards": 14
   },
   {
     "title": "Strike confirmed",
@@ -32,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196434",
     "score": 4.5,
-    "views": 94453,
-    "forwards": 213
+    "views": 118359,
+    "forwards": 282
   },
   {
     "title": "Chernihiv: Chernihiv region: BpLA ➡️ in the area of ​​n.p. Snovsk and Koryukivka.",
@@ -105,24 +141,6 @@
     "link": "https://t.me/kpszsu/69246",
     "score": 5.0,
     "views": 14121,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "Jet UAVs in the east of Zaporozhye, in a southwesterly direction.",
-    "description_en": "Jet UAVs in the east of Zaporozhye, in a southwesterly direction.",
-    "description_uk": "Реактивні БпЛА на сході Запоріжжя, на південно-західний напрямок.",
-    "time": "",
-    "pubDate": "2026-07-19T16:07:35+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69240",
-    "score": 6.0,
-    "views": 9093,
     "forwards": 0
   },
   {
@@ -320,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54366",
     "score": 10.0,
-    "views": 3447,
+    "views": 3611,
     "forwards": 1
   },
   {
@@ -356,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41289",
     "score": 5.0,
-    "views": 5316,
+    "views": 5424,
     "forwards": 8
   },
   {
@@ -410,8 +428,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20046",
     "score": 5.5,
-    "views": 191143,
-    "forwards": 265
+    "views": 193710,
+    "forwards": 275
   },
   {
     "title": "Kyiv: Drone attack",
@@ -428,25 +446,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54365",
     "score": 8.0,
-    "views": 2791,
+    "views": 2873,
     "forwards": 3
-  },
-  {
-    "title": "Kyiv: 41 missiles + 125 drones launched",
-    "title_en": "Kyiv: 41 missiles + 125 drones launched",
-    "title_uk": "Київ: запущено 41 ракету + 125 безпілотників",
-    "description": "Update: Kyiv faces one of heaviest ballistic missile strikes as Russia launches 125 drones, 41 missiles at Ukraine. At least one person was killed, and 16 were injured in Kyiv and the surrounding region because of the attack, according to officials.",
-    "description_en": "Update: Kyiv faces one of heaviest ballistic missile strikes as Russia launches 125 drones, 41 missiles at Ukraine. At least one person was killed, and 16 were injured in Kyiv and the surrounding region because of the attack, according to officials.",
-    "description_uk": "Update: Kyiv faces one of heaviest ballistic missile strikes as Russia launches 125 drones, 41 missiles at Ukraine. At least one person was killed, and 16 were injured in Kyiv and the surrounding region because of the attack, according to officials.",
-    "time": "",
-    "pubDate": "2026-07-19T07:27:47+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54361",
-    "score": 18.0,
-    "views": 1431,
-    "forwards": 9
   }
 ]
