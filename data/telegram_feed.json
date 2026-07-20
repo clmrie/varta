@@ -1,5 +1,77 @@
 [
   {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-07-20T12:04:46+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69378",
+    "score": 5.0,
+    "views": 42454,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAVs in the direction of Mykolaiv from the east.",
+    "description_en": "Jet UAVs in the direction of Mykolaiv from the east.",
+    "description_uk": "Реактивні БпЛА у напрямку Миколаєва зі сходу.",
+    "time": "",
+    "pubDate": "2026-07-20T11:52:11+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69377",
+    "score": 5.0,
+    "views": 56643,
+    "forwards": 34
+  },
+  {
+    "title": "Kyiv: Missile attack on residential area",
+    "title_en": "Kyiv: Missile attack on residential area",
+    "title_uk": "Київ: Ракетний обстріл житлового кварталу",
+    "description": "🇻🇦 The head of the Ministry of Foreign Affairs Andrii Sybiga held a meeting with the Secretary of the Holy See for relations with states, Archbishop Paul Richard Gallagher, and thanked him for his visit to Ukraine at a time when Russia continues to increase terror against civilians. During his visit, Kyiv suffered another massive Russian missile and drone attack. No briefing can convey the reality of this war...",
+    "description_en": "🇻🇦 The head of the Ministry of Foreign Affairs Andrii Sybiga held a meeting with the Secretary of the Holy See for relations with states, Archbishop Paul Richard Gallagher, and thanked him for his visit to Ukraine at a time when Russia continues to increase terror against civilians. During his visit, Kyiv suffered another massive Russian missile and drone attack. No briefing can convey the reality of this war...",
+    "description_uk": "🇻🇦 Очільник МЗС Андрій Сибіга провів зустріч з Секретарем Святого Престолу з питань відносин з державами, Архієпископом Полом Річардом Галахером, та подякував йому за візит до України в той час, коли Росія продовжує посилювати терор проти цивільних громадян. Під час його візиту Київ зазнав чергової масованої російської ракетно-дронової атаки. Жоден брифінг не здатен передати реальність цієї війни...",
+    "time": "",
+    "pubDate": "2026-07-20T10:38:01+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9656",
+    "score": 10.0,
+    "views": 444,
+    "forwards": 4
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "From July 1 to July 19, the Russian army used two-thirds of the planned yearly production of Zircons for attacks on Ukraine. At the same time, the total number of ballistic missiles used by the Russian Federation exceeded the total monthly volume of their production, reported the Ukrainian profile publication \"Milytarny\". So, according to the calculations of the authors of the publication, taking into account the massive strike on the night of July 19, Russia since the beginning of the month...",
+    "description_en": "From July 1 to July 19, the Russian army used two-thirds of the planned yearly production of Zircons for attacks on Ukraine. At the same time, the total number of ballistic missiles used by the Russian Federation exceeded the total monthly volume of their production, reported the Ukrainian profile publication \"Milytarny\". So, according to the calculations of the authors of the publication, taking into account the massive strike on the night of July 19, Russia since the beginning of the month...",
+    "description_uk": "С 1 по 19 июля армия РФ использовала для ударов по Украине две трети запланированного годового производства \"Цирконов\" При этом общее количество примененных РФ баллистических ракет превысило совокупный месячный объем их производства, сообщило украинское профильное издание \"Милитарный\". Так, по подсчетам авторов издания, с учетом массированного удара в ночь на 19 июля, Россия с начала месяца...",
+    "time": "",
+    "pubDate": "2026-07-20T10:34:58+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/196478",
+    "score": 3.5,
+    "views": 103061,
+    "forwards": 105
+  },
+  {
     "title": "Kyiv: Von der Leyen focuses on Ukraine’s EU reforms, defense cooperation in...",
     "title_en": "Kyiv: Von der Leyen focuses on Ukraine’s EU reforms, defense cooperation in...",
     "title_uk": "Київ: Фон дер Ляєн зосередилася на реформах України в ЄС, оборонній співпраці в...",
@@ -14,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54384",
     "score": 4.5,
-    "views": 315,
+    "views": 1306,
     "forwards": 0
   },
   {
@@ -32,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54383",
     "score": 11.5,
-    "views": 326,
+    "views": 1285,
     "forwards": 0
   },
   {
@@ -54,24 +126,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A jet UAV from the Black Sea in the direction of Chornomorsk/Odessa.",
-    "description_en": "A jet UAV from the Black Sea in the direction of Chornomorsk/Odessa.",
-    "description_uk": "Реактивний БпЛА з акваторії Чорного моря в напрямку Чорноморська/Одеси.",
-    "time": "",
-    "pubDate": "2026-07-20T10:04:04+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69370",
-    "score": 5.0,
-    "views": 30294,
-    "forwards": 1
-  },
-  {
     "title": "Missile strike",
     "title_en": "Missile strike",
     "title_uk": "Ракетний удар",
@@ -86,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20056",
     "score": 8.5,
-    "views": 94985,
-    "forwards": 270
+    "views": 134105,
+    "forwards": 315
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -158,8 +212,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41311",
     "score": 13.0,
-    "views": 7072,
-    "forwards": 11
+    "views": 7678,
+    "forwards": 12
   },
   {
     "title": "Dnipro: Dnipropetrovsk region: BpLA ➡️ to/past Pavlograd; 🛵 Poltava region:...",
@@ -360,24 +414,6 @@
     "forwards": 219
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "Moldova will fight against Russian \"Shaheds\": the country will purchase systems for detecting and intercepting drones, — Infotag Since the beginning of the full-scale war of the Russian Federation against Ukraine, 34 incidents with drones and even ballistic missiles have already been recorded in the airspace of Moldova. The EU allocated a package of €120 million to the country to strengthen its defense. At the same time, Moldova is working with NATO to strengthen anti-drone...",
-    "description_en": "Moldova will fight against Russian \"Shaheds\": the country will purchase systems for detecting and intercepting drones, — Infotag Since the beginning of the full-scale war of the Russian Federation against Ukraine, 34 incidents with drones and even ballistic missiles have already been recorded in the airspace of Moldova. The EU allocated a package of €120 million to the country to strengthen its defense. At the same time, Moldova is working with NATO to strengthen anti-drone...",
-    "description_uk": "Молдова будет бороться с российскими «Шахедами»: страна закупит системы обнаружения и перехвата дронов, — Infotag С начала полномасштабной войны рф против Украины в воздушном пространстве Молдовы зафиксировали уже 34 инцидента с беспилотниками и даже баллистическими ракетами. На усиление обороны ЕС выделил стране пакет на €120 млн. Параллельно Молдова работает с НАТО над усилением противодронной...",
-    "time": "",
-    "pubDate": "2026-07-19T13:20:11+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196411",
-    "score": 5.5,
-    "views": 119736,
-    "forwards": 72
-  },
-  {
     "title": "Attack attack",
     "title_en": "Attack attack",
     "title_uk": "Атака нападу",
@@ -410,7 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20046",
     "score": 5.5,
-    "views": 215226,
-    "forwards": 286
+    "views": 218167,
+    "forwards": 287
   }
 ]
