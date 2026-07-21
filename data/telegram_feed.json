@@ -1,5 +1,59 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "UAV in the direction of Novomykolaivka, Zaporizhzhia region, from the southeast",
+    "description_en": "UAV in the direction of Novomykolaivka, Zaporizhzhia region, from the southeast",
+    "description_uk": "БпЛА у напрямку Новомиколаївки Запорізької області з південного сходу",
+    "time": "",
+    "pubDate": "2026-07-21T06:38:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69462",
+    "score": 6.0,
+    "views": 7063,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV in the direction of Vilniansk, Zaporizhzhia region from the southeast 🛵 UAV to the south of Odesa from the Black Sea",
+    "description_en": "UAV in the direction of Vilniansk, Zaporizhzhia region from the southeast 🛵 UAV to the south of Odesa from the Black Sea",
+    "description_uk": "БпЛА у напрямку Вільнянська Запорізької області з південного сходу 🛵 БпЛА на південь Одещини з акваторії Чорного моря",
+    "time": "",
+    "pubDate": "2026-07-21T06:14:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69458",
+    "score": 5.0,
+    "views": 30300,
+    "forwards": 0
+  },
+  {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "46 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of July 21 (from 18:00 on July 20), the enemy attacked 58 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, barrage ammunition \"Banderol\" and imitation drones of the \"Parody\" type from the directions of Kursk, Orel - Russian Federation, Donetsk - TOT, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, units of the Reb...",
+    "description_en": "46 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of July 21 (from 18:00 on July 20), the enemy attacked 58 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, barrage ammunition \"Banderol\" and imitation drones of the \"Parody\" type from the directions of Kursk, Orel - Russian Federation, Donetsk - TOT, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, units of the Reb...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 46 ЦІЛЕЙ ПРОТИВНИКА ➖➖➖➖➖➖➖➖➖➖ У ніч на 21 липня (з 18:00 20 липня) противник атакував 58 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас, баражуючими боєприпасами “Бандероль” та дронами-імітаторами типу “Пародія” із напрямків Курськ, Орел – рф,, Донецьк - ТОТ, Гвардійське - ТОТ АР Крим. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ...",
+    "time": "",
+    "pubDate": "2026-07-21T05:35:52+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41348",
+    "score": 10.0,
+    "views": 3263,
+    "forwards": 16
+  },
+  {
     "title": "Sumy: Drone incoming",
     "title_en": "Sumy: Drone incoming",
     "title_uk": "Суми: Дрон вхід",
@@ -32,26 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54404",
     "score": 7.5,
-    "views": 237,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAVs in the direction of Chernihiv.",
-    "description_en": "Jet UAVs in the direction of Chernihiv.",
-    "description_uk": "Реактивні БпЛА у напрямку Чернігова.",
-    "time": "",
-    "pubDate": "2026-07-21T03:18:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69451",
-    "score": 5.0,
-    "views": 32335,
-    "forwards": 0
+    "views": 1114,
+    "forwards": 1
   },
   {
     "title": "Kharkiv: BpLA on Kharkiv from the north.",
@@ -108,24 +144,6 @@
     "forwards": 10
   },
   {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "UAV from the Black Sea area heading for Mykolaiv Oblast (Ochakiv)",
-    "description_en": "UAV from the Black Sea area heading for Mykolaiv Oblast (Ochakiv)",
-    "description_uk": "БпЛА з акваторії Чоного моря курсом на Миколаївщину (Очаків)",
-    "time": "",
-    "pubDate": "2026-07-20T22:23:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69429",
-    "score": 6.0,
-    "views": 16328,
-    "forwards": 1
-  },
-  {
     "title": "Zaporizhzhia: BpLA in the direction of Zaporozhye from the south.",
     "title_en": "Zaporizhzhia: BpLA in the direction of Zaporozhye from the south.",
     "title_uk": "Запоріжжя: БпЛА в напрямку Запоріжжя з півд.",
@@ -176,8 +194,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54401",
     "score": 8.0,
-    "views": 1964,
-    "forwards": 2
+    "views": 2399,
+    "forwards": 3
   },
   {
     "title": "Belgorod residents master the new charms of ESVEO: a drone broke...",
@@ -194,8 +212,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196525",
     "score": 9.5,
-    "views": 145164,
-    "forwards": 250
+    "views": 187665,
+    "forwards": 319
   },
   {
     "title": "Kyiv: A decade after journalist Pavel Sheremet’s murder, justice remains...",
@@ -229,9 +247,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196519",
-    "score": 5.5,
-    "views": 155816,
-    "forwards": 172
+    "score": 6.5,
+    "views": 188680,
+    "forwards": 206
   },
   {
     "title": "Jet UAV on Tatarbunary.",
@@ -270,83 +288,11 @@
     "forwards": 0
   },
   {
-    "title": "🛫 Activity of enemy tactical aviation in the north-eastern direction!...",
-    "title_en": "🛫 Activity of enemy tactical aviation in the north-eastern direction!...",
-    "title_uk": "🛫 Активність тактичної авіації противника на північно-східному напрямку!...",
-    "description": "🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-07-20T18:00:41+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69412",
-    "score": 5.0,
-    "views": 36418,
-    "forwards": 0
-  },
-  {
-    "title": "Sumy: Sumy - the threat of anti-aircraft fire remains.",
-    "title_en": "Sumy: Sumy - the threat of anti-aircraft fire remains.",
-    "title_uk": "Суми: Суми – загроза зенітного вогню зберігається.",
-    "description": "Sumy - the threat of anti-aircraft fire remains.",
-    "description_en": "Sumy - the threat of anti-aircraft fire remains.",
-    "description_uk": "Суми - зберігається загроза по БпЛА.",
-    "time": "",
-    "pubDate": "2026-07-20T17:51:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69411",
-    "score": 6.0,
-    "views": 44495,
-    "forwards": 0
-  },
-  {
-    "title": "🛰Russia did launch a new set of satellites for its \"analog Starlink\"...",
-    "title_en": "🛰Russia did launch a new set of satellites for its \"analog Starlink\"...",
-    "title_uk": "🛰Росія таки запустила новий набір супутників для свого \"аналога Starlink\"...",
-    "description": "🛰Russia did launch a new set of satellites for its \"analog Starlink\" Russian \"Bureau 1440\" reported on the second launch of the devices of the low-orbital communication system \"Rassvet\". The company does not disclose how many satellites were sent into orbit this time. As a reminder, the first full batch of 16 satellites was launched back in March. After that, there is practically no news about the deployment of the system...",
-    "description_en": "🛰Russia did launch a new set of satellites for its \"analog Starlink\" Russian \"Bureau 1440\" reported on the second launch of the devices of the low-orbital communication system \"Rassvet\". The company does not disclose how many satellites were sent into orbit this time. As a reminder, the first full batch of 16 satellites was launched back in March. After that, there is practically no news about the deployment of the system...",
-    "description_uk": "🛰русня таки запустила новую пачку спутников для своего «аналоговнетного Starlink» российское «Бюро 1440» отчиталось о втором запуске аппаратов низкоорбитальной системы связи «Рассвет». Сколько именно спутников отправили на орбиту в этот раз компания не раскрывает. Напомним, первую полноценную партию из 16 спутников запустили еще в марте. После этого новостей о развертывании системы практически не...",
-    "time": "",
-    "pubDate": "2026-07-20T16:18:01+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196508",
-    "score": 6.5,
-    "views": 137553,
-    "forwards": 248
-  },
-  {
-    "title": "🇸 🇬🇧 🇺🇦 The maritime phase of Exercise Sea Breeze exercises continues...",
-    "title_en": "🇸 🇬🇧 🇺🇦 The maritime phase of Exercise Sea Breeze exercises continues...",
-    "title_uk": "🇸 🇬🇧 🇺🇦 Продовжується морський етап навчань Sea Breeze...",
-    "description": "🇸 🇬🇧 🇺🇦 The maritime phase of Exercise Sea Breeze exercises continues in Great Britain: ship crews and staff officers practiced mine countermeasures at sea In Portland (Great Britain), the active phase of the maritime component of the annual Sea Breeze exercises continues. While the ships are carrying out the task of searching for and identifying dangerous objects at sea, the officers of the headquarters worked in parallel...",
-    "description_en": "🇸 🇬🇧 🇺🇦 The maritime phase of Exercise Sea Breeze exercises continues in Great Britain: ship crews and staff officers practiced mine countermeasures at sea In Portland (Great Britain), the active phase of the maritime component of the annual Sea Breeze exercises continues. While the ships are carrying out the task of searching for and identifying dangerous objects at sea, the officers of the headquarters worked in parallel...",
-    "description_uk": "🇸 🇬🇧 🇺🇦 У Великій Британії триває морська фаза навчань Exercise Sea Breeze: екіпажі кораблів та офіцери штабу відпрацьовували заходи з протимінної діяльності на морі У Портланді (Велика Британія) триває активна фаза морської складової щорічних навчань Sea Breeze. Поки кораблі виконують у морі завдання з пошуку та ідентифікації небезпечних об'єктів, офіцери штабу паралельно відпрацьовували...",
-    "time": "",
-    "pubDate": "2026-07-20T15:10:46+00:00",
-    "category": "political",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41321",
-    "score": 5.0,
-    "views": 18064,
-    "forwards": 18
-  },
-  {
     "title": "🇬🇧 Andy Burnham became the new head of His Majesty's government, Keir...",
     "title_en": "🇬🇧 Andy Burnham became the new head of His Majesty's government, Keir...",
     "title_uk": "🇬🇧 Енді Бернем став новим головою уряду Його Величності Кейра...",
-    "description": "🇬🇧 Andy Burnham became the new head of His Majesty's government, Keir Starmer officially left the post of Prime Minister of Great Britain 👥 King Charles III accepted Starmer's resignation and officially appointed Burnham as the head of the government. 💬 Earlier, Burnham stated that he would maintain the current level of support for Ukraine. He also stressed that Great Britain lives in an increasingly dangerous world",
-    "description_en": "🇬🇧 Andy Burnham became the new head of His Majesty's government, Keir Starmer officially left the post of Prime Minister of Great Britain 👥 King Charles III accepted Starmer's resignation and officially appointed Burnham as the head of the government. 💬 Earlier, Burnham stated that he would maintain the current level of support for Ukraine. He also stressed that Great Britain lives in an increasingly dangerous world",
+    "description": "🇬🇧 Andy Burnham became the new head of His Majesty's government, Keir Starmer officially left the post of Prime Minister of Great Britain 👥 King Charles III accepted Starmer's resignation and officially appointed Burnham as the head of the government. 💬 Earlier, Burnham stated that he would maintain the current level of support for Ukraine. He also emphasized that Great Britain lives in an increasingly dangerous world",
+    "description_en": "🇬🇧 Andy Burnham became the new head of His Majesty's government, Keir Starmer officially left the post of Prime Minister of Great Britain 👥 King Charles III accepted Starmer's resignation and officially appointed Burnham as the head of the government. 💬 Earlier, Burnham stated that he would maintain the current level of support for Ukraine. He also emphasized that Great Britain lives in an increasingly dangerous world",
     "description_uk": "🇬🇧 Новим головою уряду Його Величності став Енді Бернем, Кір Стармер офіційно залишив посаду прем’єр-міністра Великої Британії 👥 Король Чарльз III прийняв відставку Стармера та офіційно призначив Бернема главою уряду. 💬 Раніше Бернем заявив, що збереже нинішній рівень підтримки України. Він також наголошував, що Велика Британія живе у дедалі небезпечнішому світі",
     "time": "",
     "pubDate": "2026-07-20T12:55:01+00:00",
@@ -356,8 +302,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23669",
     "score": 9.0,
-    "views": 148560,
-    "forwards": 138
+    "views": 160485,
+    "forwards": 141
   },
   {
     "title": "Kyiv: Missile attack on residential area",
@@ -374,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9656",
     "score": 10.0,
-    "views": 807,
+    "views": 846,
     "forwards": 4
   },
   {
@@ -392,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9654",
     "score": 5.0,
-    "views": 1133,
+    "views": 1143,
     "forwards": 6
   }
 ]
