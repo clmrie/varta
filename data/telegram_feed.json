@@ -1,5 +1,113 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "A group of UAVs in Chernihiv region: in the direction of Mena and in the direction of Borzna from the northeast",
+    "description_en": "A group of UAVs in Chernihiv region: in the direction of Mena and in the direction of Borzna from the northeast",
+    "description_uk": "Група БпЛА на Чернігівщині: у напрямку Мени та у напрямку Борзни з північного сходу",
+    "time": "",
+    "pubDate": "2026-07-21T14:59:29+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69509",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: Reactive UAV in the Berestyn district of the Kharkiv region ➡️...",
+    "title_en": "Kharkiv: Reactive UAV in the Berestyn district of the Kharkiv region ➡️...",
+    "title_uk": "Харків: реактивний БПЛА в Берестинському районі Харківської області ➡️...",
+    "description": "Reactive UAV in the Berestyn district of the Kharkiv region ➡️ north-west course",
+    "description_en": "Reactive UAV in the Berestyn district of the Kharkiv region ➡️ north-west course",
+    "description_uk": "Реактивний БпЛА у Берестинському районі на Харківщині ➡️ північно-західним курсом",
+    "time": "",
+    "pubDate": "2026-07-21T14:57:50+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69508",
+    "score": 6.0,
+    "views": 4038,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: 🇬🇧 The head of the Ministry of Foreign Affairs of Ukraine Andriy...",
+    "title_en": "Kyiv: 🇬🇧 The head of the Ministry of Foreign Affairs of Ukraine Andriy...",
+    "title_uk": "Київ: 🇬🇧 Глава МЗС України Андрій...",
+    "description": "🇬🇧 The head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga held the first telephone conversation with the newly appointed Secretary of State for Foreign Affairs of Great Britain Ed Miliband. Andriy Sybiga congratulated him on his appointment and thanked Great Britain for its steadfast support of Ukraine since the first days of the full-scale invasion of Russia, in particular for military, energy, humanitarian, economic and sanctions...",
+    "description_en": "🇬🇧 The head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga held the first telephone conversation with the newly appointed Secretary of State for Foreign Affairs of Great Britain Ed Miliband. Andriy Sybiga congratulated him on his appointment and thanked Great Britain for its steadfast support of Ukraine since the first days of the full-scale invasion of Russia, in particular for military, energy, humanitarian, economic and sanctions...",
+    "description_uk": "🇬🇧 Очільник МЗС України Андрій Сибіга провів першу телефонну розмову з новопризначеним державним секретарем у закордонних справах Великої Британії Едом Мілібендом. Андрій Сибіга привітав його з призначенням на посаду та подякував Великій Британії за непохитну підтримку України з перших днів повномасштабного вторгнення Росії, зокрема за військову, енергетичну, гуманітарну, економічну та санкційну...",
+    "time": "",
+    "pubDate": "2026-07-21T14:40:22+00:00",
+    "category": "political",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9666",
+    "score": 4.5,
+    "views": 246,
+    "forwards": 4
+  },
+  {
+    "title": "Air defense active",
+    "title_en": "Air defense active",
+    "title_uk": "Активна ППО",
+    "description": "Almost half of the Russian \"Lightning\" drones were destroyed by the interceptors of the \"General Chereshnia\" company in June. In June 2026, the interceptor drones of the Ukrainian company \"General Chereshnia\" destroyed more than 13 thousand Russian \"Lightning\" drones, which is 43% of all the confirmed defeats of these drones in a month. It follows that almost every second destroyed \"Lightning\" drone was intercepted precisely...",
+    "description_en": "Almost half of the Russian \"Lightning\" drones were destroyed by the interceptors of the \"General Chereshnia\" company in June. In June 2026, the interceptor drones of the Ukrainian company \"General Chereshnia\" destroyed more than 13 thousand Russian \"Lightning\" drones, which is 43% of all the confirmed defeats of these drones in a month. It follows that almost every second destroyed \"Lightning\" drone was intercepted precisely...",
+    "description_uk": "Почти половину российских дронов \"Молния\" в июне уничтожили перехватчики компании \"Генерал Черешня\" Дроны-перехватчики украинской компании \"Генерал Черешня\" в июне 2026 года уничтожили более 13 тысяч российских беспилотников \"Молния\", что составляет 43% от всех подтвержденных поражений этих дронов за месяц. Из этого следует, что почти каждый второй уничтоженный дрон \"Молния\" был перехвачен именно...",
+    "time": "",
+    "pubDate": "2026-07-21T13:27:01+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/196567",
+    "score": 8.0,
+    "views": 78710,
+    "forwards": 41
+  },
+  {
+    "title": "In Chernihiv, a Shahed rocket hit the TCC building. A number of...",
+    "title_en": "In Chernihiv, a Shahed rocket hit the TCC building. A number of...",
+    "title_uk": "У Чернігові в будівлю ТЦК влучила ракета \"Шахед\". Ряд...",
+    "description": "In Chernihiv, a Shahed rocket hit the TCC building. A number of floors were destroyed in the building, windows were broken, and a fire broke out.",
+    "description_en": "In Chernihiv, a Shahed rocket hit the TCC building. A number of floors were destroyed in the building, windows were broken, and a fire broke out.",
+    "description_uk": "В Чернигове реактивный Шахед ударил по зданию ТЦК В здании разрушен ряд этажей, выбиты окна, возник пожар.",
+    "time": "",
+    "pubDate": "2026-07-21T12:57:05+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/196561",
+    "score": 6.5,
+    "views": 93714,
+    "forwards": 354
+  },
+  {
+    "title": "Striking oil facilities, ports and arms factories: the combat record...",
+    "title_en": "Striking oil facilities, ports and arms factories: the combat record...",
+    "title_uk": "Удари по нафтовим об'єктам, портам і збройовим заводам: бойовий рекорд...",
+    "description": "Striking oil facilities, ports and arms factories: the combat record of Ukraine's Neptune cruise missiles Read the full article on our website",
+    "description_en": "Striking oil facilities, ports and arms factories: the combat record of Ukraine's Neptune cruise missiles Read the full article on our website",
+    "description_uk": "Striking oil facilities, ports and arms factories: the combat record of Ukraine's Neptune cruise missiles Read the full article on our website",
+    "time": "",
+    "pubDate": "2026-07-21T12:55:10+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainska Pravda",
+    "link": "https://t.me/pravda_eng/48875",
+    "score": 8.0,
+    "views": 25,
+    "forwards": 0
+  },
+  {
     "title": "Airstrike attack",
     "title_en": "Airstrike attack",
     "title_uk": "Авіаційна атака",
@@ -14,8 +122,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9665",
     "score": 5.0,
-    "views": 149,
-    "forwards": 3
+    "views": 572,
+    "forwards": 6
   },
   {
     "title": "Chernihiv: Chernihiv region: BpLA group ➡️ heading for Novgorod-Siverskyi.",
@@ -68,8 +176,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23671",
     "score": 5.5,
-    "views": 79262,
-    "forwards": 848
+    "views": 109729,
+    "forwards": 990
   },
   {
     "title": "Casualties reported",
@@ -122,8 +230,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41360",
     "score": 6.5,
-    "views": 9705,
-    "forwards": 85
+    "views": 13045,
+    "forwards": 88
   },
   {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
@@ -248,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41348",
     "score": 10.0,
-    "views": 6729,
+    "views": 7134,
     "forwards": 25
   },
   {
@@ -284,7 +392,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54404",
     "score": 7.5,
-    "views": 2348,
+    "views": 2641,
     "forwards": 2
   },
   {
@@ -302,7 +410,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54401",
     "score": 8.0,
-    "views": 2924,
+    "views": 3053,
     "forwards": 3
   },
   {
@@ -338,7 +446,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23669",
     "score": 9.0,
-    "views": 178507,
-    "forwards": 145
+    "views": 182447,
+    "forwards": 146
   }
 ]
