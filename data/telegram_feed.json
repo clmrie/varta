@@ -1,20 +1,38 @@
 [
   {
+    "title": "Sumy: Drone incoming",
+    "title_en": "Sumy: Drone incoming",
+    "title_uk": "Суми: Дрон вхід",
+    "description": "New UAVs ➡️ heading for Sumy.",
+    "description_en": "New UAVs ➡️ heading for Sumy.",
+    "description_uk": "Нові БпЛА ➡️ курсом на Суми.",
+    "time": "",
+    "pubDate": "2026-07-21T16:30:16+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69533",
+    "score": 6.0,
+    "views": 10021,
+    "forwards": 0
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
-    "description": "A group of UAVs in Chernihiv region: in the direction of Mena and in the direction of Borzna from the northeast",
-    "description_en": "A group of UAVs in Chernihiv region: in the direction of Mena and in the direction of Borzna from the northeast",
-    "description_uk": "Група БпЛА на Чернігівщині: у напрямку Мени та у напрямку Борзни з північного сходу",
+    "description": "Jet UAV on Chernihiv from the northwest",
+    "description_en": "Jet UAV on Chernihiv from the northwest",
+    "description_uk": "Реактивний БпЛА на Чернігів із північного заходу",
     "time": "",
-    "pubDate": "2026-07-21T14:59:29+00:00",
+    "pubDate": "2026-07-21T16:16:07+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Chernihiv",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69509",
+    "link": "https://t.me/kpszsu/69531",
     "score": 6.0,
-    "views": 1,
+    "views": 33358,
     "forwards": 0
   },
   {
@@ -50,8 +68,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9666",
     "score": 4.5,
-    "views": 246,
-    "forwards": 4
+    "views": 451,
+    "forwards": 5
   },
   {
     "title": "Air defense active",
@@ -68,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196567",
     "score": 8.0,
-    "views": 78710,
-    "forwards": 41
+    "views": 112225,
+    "forwards": 42
   },
   {
     "title": "In Chernihiv, a Shahed rocket hit the TCC building. A number of...",
@@ -86,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196561",
     "score": 6.5,
-    "views": 93714,
-    "forwards": 354
+    "views": 122852,
+    "forwards": 388
   },
   {
     "title": "Striking oil facilities, ports and arms factories: the combat record...",
@@ -104,15 +122,15 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48875",
     "score": 8.0,
-    "views": 25,
+    "views": 35,
     "forwards": 0
   },
   {
     "title": "Airstrike attack",
     "title_en": "Airstrike attack",
     "title_uk": "Авіаційна атака",
-    "description": "💬 The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to Russia's attack on the Gas Lisbon vessel near Romania: \"Russian war threatens not only Ukraine, but also poses a direct threat to freedom of navigation, maritime security in the Black Sea and NATO's eastern flank. The deliberate attack on the LPG tanker Gas Lisbon, which was headed for Ukraine and was attacked near the coast of Romania, is another example of Russian...",
-    "description_en": "💬 The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to Russia's attack on the Gas Lisbon vessel near Romania: \"Russian war threatens not only Ukraine, but also poses a direct threat to freedom of navigation, maritime security in the Black Sea and NATO's eastern flank. The deliberate attack on the LPG tanker Gas Lisbon, which was headed for Ukraine and was attacked near the coast of Romania, is another example of Russian...",
+    "description": "💬 The head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga reacted to Russia's attack on the Gas Lisbon vessel near Romania: \"Russian war threatens not only Ukraine, but also poses a direct threat to freedom of navigation, maritime security in the Black Sea and NATO's eastern flank. The deliberate attack on the LPG tanker Gas Lisbon, which was headed to Ukraine and was attacked near the coast of Romania, is another example of Russian...",
+    "description_en": "💬 The head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga reacted to Russia's attack on the Gas Lisbon vessel near Romania: \"Russian war threatens not only Ukraine, but also poses a direct threat to freedom of navigation, maritime security in the Black Sea and NATO's eastern flank. The deliberate attack on the LPG tanker Gas Lisbon, which was headed to Ukraine and was attacked near the coast of Romania, is another example of Russian...",
     "description_uk": "💬 Очільник МЗС України Андрій Сибіга відреагував на удар Росії по судну Gas Lisbon неподалік Румунії: \"Російська війна загрожує не лише України, але й становить пряму загрозу свободі судноплавства, морській безпеці в Чорному морі та східному флангу НАТО. Навмисний напад на LPG-танкер Gas Lisbon, який прямував до України й був атакований поблизу узбережжя Румунії, є черговим прикладом російського...",
     "time": "",
     "pubDate": "2026-07-21T12:46:15+00:00",
@@ -122,7 +140,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9665",
     "score": 5.0,
-    "views": 572,
+    "views": 672,
     "forwards": 6
   },
   {
@@ -164,7 +182,7 @@
   {
     "title": "🤨 Very interesting and \"apolitical\" publication of the Logistics...",
     "title_en": "🤨 Very interesting and \"apolitical\" publication of the Logistics...",
-    "title_uk": "🤨 Дуже цікава та \"аполітична\" публікація Логістики...",
+    "title_uk": "🤨 Дуже цікава та «аполітична» публікація Логістики...",
     "description": "🤨 Very interesting and \"apolitical\" publication of the Logistics Forces Command of the Armed Forces of Ukraine towards the Ministry of Defense 😏 Yesterday, so far, Commander-in-Chief Sirskyi said that President Zelenskyi lied about their conflict with Fedorov. And today, the KSL of the Armed Forces of Ukraine comes out of his submission and thanks the Supreme Commander-in-Chief for his assistance in the resignation of Fedorov. 🪟 The window of opportunity to seize the initiative in war can...",
     "description_en": "🤨 Very interesting and \"apolitical\" publication of the Logistics Forces Command of the Armed Forces of Ukraine towards the Ministry of Defense 😏 Yesterday, so far, Commander-in-Chief Sirskyi said that President Zelenskyi lied about their conflict with Fedorov. And today, the KSL of the Armed Forces of Ukraine comes out of his submission and thanks the Supreme Commander-in-Chief for his assistance in the resignation of Fedorov. 🪟 The window of opportunity to seize the initiative in war can...",
     "description_uk": "🤨 Дуже цікава і \"аполітична\" публікація Командування Сил логістики ЗСУ в бік Міністерства оборони 😏 Учора поки що головнокомандувач Сирський заявив, що президент Зеленський збрехав про їхній конфлікт із Федоровим. А сьогодні з його ж подачі виходить КСЛ ЗСУ й дякує верховному головнокомандувачу за сприяння у відставці Федорова. 🪟 Вікно можливостей для перехоплення ініціативи у війні може...",
@@ -176,8 +194,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23671",
     "score": 5.5,
-    "views": 109729,
-    "forwards": 990
+    "views": 123866,
+    "forwards": 1048
   },
   {
     "title": "Casualties reported",
@@ -230,8 +248,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41360",
     "score": 6.5,
-    "views": 13045,
-    "forwards": 88
+    "views": 14756,
+    "forwards": 91
   },
   {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
@@ -356,26 +374,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41348",
     "score": 10.0,
-    "views": 7134,
+    "views": 7423,
     "forwards": 25
-  },
-  {
-    "title": "Sumy: Drone incoming",
-    "title_en": "Sumy: Drone incoming",
-    "title_uk": "Суми: Дрон вхід",
-    "description": "Jet UAV on Sumy from the south.",
-    "description_en": "Jet UAV on Sumy from the south.",
-    "description_uk": "Реактивний БпЛА на Суми з півдня.",
-    "time": "",
-    "pubDate": "2026-07-21T04:06:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69452",
-    "score": 6.0,
-    "views": 8080,
-    "forwards": 0
   },
   {
     "title": "Kyiv: Attack attack on energy grid",
@@ -392,7 +392,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54404",
     "score": 7.5,
-    "views": 2641,
+    "views": 2797,
     "forwards": 2
   },
   {
@@ -410,8 +410,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54401",
     "score": 8.0,
-    "views": 3053,
-    "forwards": 3
+    "views": 3122,
+    "forwards": 4
   },
   {
     "title": "Kyiv: A decade after journalist Pavel Sheremet’s murder, justice remains...",
@@ -446,7 +446,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23669",
     "score": 9.0,
-    "views": 182447,
+    "views": 184544,
     "forwards": 146
   }
 ]
