@@ -1,20 +1,38 @@
 [
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAV from the Black Sea in the direction of Chornomorsk",
-    "description_en": "Jet UAV from the Black Sea in the direction of Chornomorsk",
-    "description_uk": "Реактивний БпЛА з Чорного моря в напрямку Чорноморська",
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на східному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
     "time": "",
-    "pubDate": "2026-07-22T11:28:20+00:00",
-    "category": "drone",
+    "pubDate": "2026-07-22T12:38:48+00:00",
+    "category": "alert",
     "severity": "high",
     "location": "Ukraine",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69641",
+    "link": "https://t.me/kpszsu/69646",
     "score": 5.0,
-    "views": 1,
+    "views": 27258,
+    "forwards": 34
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAV from the Black Sea in the direction of the South, as well as to the south of Odesa",
+    "description_en": "Jet UAV from the Black Sea in the direction of the South, as well as to the south of Odesa",
+    "description_uk": "Реактивний БпЛА з Чорного моря в напрямку Південного, а також на південь Одещини",
+    "time": "",
+    "pubDate": "2026-07-22T12:15:20+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69645",
+    "score": 5.0,
+    "views": 43420,
     "forwards": 0
   },
   {
@@ -50,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54422",
     "score": 5.0,
-    "views": 915,
-    "forwards": 1
+    "views": 1484,
+    "forwards": 2
   },
   {
     "title": "The order of further steps was determined. Decisions regarding the...",
@@ -68,8 +86,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20103",
     "score": 6.5,
-    "views": 161533,
-    "forwards": 889
+    "views": 210073,
+    "forwards": 978
   },
   {
     "title": "Sumy: BpLA in the direction of the city of Sumy from the north",
@@ -140,8 +158,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41380",
     "score": 13.0,
-    "views": 6251,
-    "forwards": 15
+    "views": 6940,
+    "forwards": 16
   },
   {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south",
@@ -212,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54420",
     "score": 7.5,
-    "views": 2513,
+    "views": 2751,
     "forwards": 3
   },
   {
@@ -284,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9666",
     "score": 4.5,
-    "views": 777,
+    "views": 780,
     "forwards": 7
   },
   {
@@ -320,15 +338,15 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48875",
     "score": 8.0,
-    "views": 76,
+    "views": 79,
     "forwards": 0
   },
   {
     "title": "Airstrike attack",
     "title_en": "Airstrike attack",
     "title_uk": "Авіаційна атака",
-    "description": "💬 The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to Russia's attack on the Gas Lisbon vessel near Romania: \"Russian war threatens not only Ukraine, but also poses a direct threat to freedom of navigation, maritime security in the Black Sea and NATO's eastern flank. The deliberate attack on the LPG tanker Gas Lisbon, which was headed for Ukraine and was attacked near the coast of Romania, is another example of Russian...",
-    "description_en": "💬 The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to Russia's attack on the Gas Lisbon vessel near Romania: \"Russian war threatens not only Ukraine, but also poses a direct threat to freedom of navigation, maritime security in the Black Sea and NATO's eastern flank. The deliberate attack on the LPG tanker Gas Lisbon, which was headed for Ukraine and was attacked near the coast of Romania, is another example of Russian...",
+    "description": "💬 The head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga reacted to Russia's attack on the Gas Lisbon vessel near Romania: \"Russian war threatens not only Ukraine, but also poses a direct threat to freedom of navigation, maritime security in the Black Sea and NATO's eastern flank. The deliberate attack on the LPG tanker Gas Lisbon, which was headed to Ukraine and was attacked near the coast of Romania, is another example of Russian...",
+    "description_en": "💬 The head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga reacted to Russia's attack on the Gas Lisbon vessel near Romania: \"Russian war threatens not only Ukraine, but also poses a direct threat to freedom of navigation, maritime security in the Black Sea and NATO's eastern flank. The deliberate attack on the LPG tanker Gas Lisbon, which was headed to Ukraine and was attacked near the coast of Romania, is another example of Russian...",
     "description_uk": "💬 Очільник МЗС України Андрій Сибіга відреагував на удар Росії по судну Gas Lisbon неподалік Румунії: \"Російська війна загрожує не лише України, але й становить пряму загрозу свободі судноплавства, морській безпеці в Чорному морі та східному флангу НАТО. Навмисний напад на LPG-танкер Gas Lisbon, який прямував до України й був атакований поблизу узбережжя Румунії, є черговим прикладом російського...",
     "time": "",
     "pubDate": "2026-07-21T12:46:15+00:00",
@@ -338,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9665",
     "score": 5.0,
-    "views": 903,
+    "views": 909,
     "forwards": 7
   },
   {
@@ -356,25 +374,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23671",
     "score": 5.5,
-    "views": 205212,
-    "forwards": 1182
-  },
-  {
-    "title": "🇬🇧 Andy Burnham became the new head of His Majesty's government, Keir...",
-    "title_en": "🇬🇧 Andy Burnham became the new head of His Majesty's government, Keir...",
-    "title_uk": "🇬🇧 Енді Бернем став новим головою уряду Його Величності Кейра...",
-    "description": "🇬🇧 Andy Burnham became the new head of His Majesty's government, Keir Starmer officially left the post of Prime Minister of Great Britain 👥 King Charles III accepted Starmer's resignation and officially appointed Burnham as the head of the government. 💬 Earlier, Burnham stated that he would maintain the current level of support for Ukraine. He also stressed that Great Britain lives in an increasingly dangerous world",
-    "description_en": "🇬🇧 Andy Burnham became the new head of His Majesty's government, Keir Starmer officially left the post of Prime Minister of Great Britain 👥 King Charles III accepted Starmer's resignation and officially appointed Burnham as the head of the government. 💬 Earlier, Burnham stated that he would maintain the current level of support for Ukraine. He also stressed that Great Britain lives in an increasingly dangerous world",
-    "description_uk": "🇬🇧 Новим головою уряду Його Величності став Енді Бернем, Кір Стармер офіційно залишив посаду прем’єр-міністра Великої Британії 👥 Король Чарльз III прийняв відставку Стармера та офіційно призначив Бернема главою уряду. 💬 Раніше Бернем заявив, що збереже нинішній рівень підтримки України. Він також наголошував, що Велика Британія живе у дедалі небезпечнішому світі",
-    "time": "",
-    "pubDate": "2026-07-20T12:55:01+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "DeepState",
-    "link": "https://t.me/DeepStateUA/23669",
-    "score": 9.0,
-    "views": 209280,
-    "forwards": 149
+    "views": 207425,
+    "forwards": 1194
   }
 ]
