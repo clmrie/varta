@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAV from the Black Sea in the direction of Chornomorsk",
+    "description_en": "Jet UAV from the Black Sea in the direction of Chornomorsk",
+    "description_uk": "Реактивний БпЛА з Чорного моря в напрямку Чорноморська",
+    "time": "",
+    "pubDate": "2026-07-22T11:28:20+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69641",
+    "score": 5.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "A high-speed target for Odeshchyna",
+    "title_en": "A high-speed target for Odeshchyna",
+    "title_uk": "Швидкісна ціль для Одещини",
+    "description": "A high-speed target for Odeshchyna",
+    "description_en": "A high-speed target for Odeshchyna",
+    "description_uk": "Швидкісна ціль на Одещину",
+    "time": "",
+    "pubDate": "2026-07-22T10:55:36+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69637",
+    "score": 5.0,
+    "views": 63601,
+    "forwards": 36
+  },
+  {
+    "title": "Kyiv: 13 more Russian shadow fleet vessels struck in Azov Sea and Black Sea...",
+    "title_en": "Kyiv: 13 more Russian shadow fleet vessels struck in Azov Sea and Black Sea...",
+    "title_uk": "Київ: в Азовському та Чорному морях завдано ударів по ще 13 кораблям російського тіньового флоту...",
+    "description": "13 more Russian shadow fleet vessels struck in Azov Sea and Black Sea over last 2 days, Ukraine says. The 13 vessels that were struck over July 21-22 included 10 dry cargo ships, two tugboats, and a tanker, according to Brovdi.",
+    "description_en": "13 more Russian shadow fleet vessels struck in Azov Sea and Black Sea over last 2 days, Ukraine says. The 13 vessels that were struck over July 21-22 included 10 dry cargo ships, two tugboats, and a tanker, according to Brovdi.",
+    "description_uk": "13 more Russian shadow fleet vessels struck in Azov Sea and Black Sea over last 2 days, Ukraine says. The 13 vessels that were struck over July 21-22 included 10 dry cargo ships, two tugboats, and a tanker, according to Brovdi.",
+    "time": "",
+    "pubDate": "2026-07-22T10:20:04+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54422",
+    "score": 5.0,
+    "views": 915,
+    "forwards": 1
+  },
+  {
     "title": "The order of further steps was determined. Decisions regarding the...",
     "title_en": "The order of further steps was determined. Decisions regarding the...",
     "title_uk": "Визначено порядок подальших дій. Рішення щодо...",
@@ -13,9 +67,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20103",
-    "score": 5.5,
-    "views": 2195,
-    "forwards": 54
+    "score": 6.5,
+    "views": 161533,
+    "forwards": 889
   },
   {
     "title": "Sumy: BpLA in the direction of the city of Sumy from the north",
@@ -54,24 +108,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAV in the direction of Chornomorsk/Odessa from the Black Sea",
-    "description_en": "Jet UAV in the direction of Chornomorsk/Odessa from the Black Sea",
-    "description_uk": "Реактивний БпЛА у напрямку Чорноморська/Одеси з Чорного моря",
-    "time": "",
-    "pubDate": "2026-07-22T07:07:36+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69616",
-    "score": 5.0,
-    "views": 10078,
-    "forwards": 0
-  },
-  {
     "title": "Sumy: BpLA in the city of Sumy from the north",
     "title_en": "Sumy: BpLA in the city of Sumy from the north",
     "title_uk": "Суми: БпЛА в м. Суми з півн",
@@ -104,8 +140,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41380",
     "score": 13.0,
-    "views": 5270,
-    "forwards": 13
+    "views": 6251,
+    "forwards": 15
   },
   {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south",
@@ -176,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54420",
     "score": 7.5,
-    "views": 2118,
+    "views": 2513,
     "forwards": 3
   },
   {
@@ -216,42 +252,6 @@
     "forwards": 1
   },
   {
-    "title": "Poltava region: BpLA ➡️ to Poltava, Romodan/Lubny.",
-    "title_en": "Poltava region: BpLA ➡️ to Poltava, Romodan/Lubny.",
-    "title_uk": "Полтавська область: BpLA ➡️ до Полтави, Ромодан/Лубни.",
-    "description": "Poltava region: BpLA ➡️ to Poltava, Romodan/Lubny.",
-    "description_en": "Poltava region: BpLA ➡️ to Poltava, Romodan/Lubny.",
-    "description_uk": "Полтавщина: БпЛА ➡️ на Полтаву, Ромодан/Лубни.",
-    "time": "",
-    "pubDate": "2026-07-21T23:02:20+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69557",
-    "score": 5.0,
-    "views": 11054,
-    "forwards": 10
-  },
-  {
-    "title": "Zaporizhzhia: Sumy: BpLA ➡️ to Sumy, Shostka, Romny. 🛵 Chernihiv region: BpLA ➡️...",
-    "title_en": "Zaporizhzhia: Sumy: BpLA ➡️ to Sumy, Shostka, Romny. 🛵 Chernihiv region: BpLA ➡️...",
-    "title_uk": "Запоріжжя: Суми: BpLA ➡️ до Сум, Шостки, Ромнів. 🛵 Чернігівська область: BpLA ➡️...",
-    "description": "Sumy: BpLA ➡️ to Sumy, Shostka, Romny. 🛵 Chernihiv region: BpLA ➡️ course to Nizhyn. 🛵 Poltava region: BpLA ➡️ to Kremenchuk. 🛵 BpLA ➡️ course to Zaporizhzhia.",
-    "description_en": "Sumy: BpLA ➡️ to Sumy, Shostka, Romny. 🛵 Chernihiv region: BpLA ➡️ course to Nizhyn. 🛵 Poltava region: BpLA ➡️ to Kremenchuk. 🛵 BpLA ➡️ course to Zaporizhzhia.",
-    "description_uk": "Сумщина: БпЛА ➡️ на Суми, Шостку, Ромни. 🛵 Чернігівщина: БпЛА ➡️ курсом на Ніжин. 🛵 Полтавщина: БпЛА ➡️ на Кременчук. 🛵 БпЛА ➡️ курсом на Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-07-21T22:24:58+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69556",
-    "score": 6.0,
-    "views": 20807,
-    "forwards": 22
-  },
-  {
     "title": "Crimea: Casualties reported",
     "title_en": "Crimea: Casualties reported",
     "title_uk": "Крим: повідомляється про постраждалих",
@@ -284,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9666",
     "score": 4.5,
-    "views": 772,
+    "views": 777,
     "forwards": 7
   },
   {
@@ -327,8 +327,8 @@
     "title": "Airstrike attack",
     "title_en": "Airstrike attack",
     "title_uk": "Авіаційна атака",
-    "description": "💬 The head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga reacted to Russia's attack on the Gas Lisbon vessel near Romania: \"Russian war threatens not only Ukraine, but also poses a direct threat to freedom of navigation, maritime security in the Black Sea and NATO's eastern flank. The deliberate attack on the LPG tanker Gas Lisbon, which was headed to Ukraine and was attacked near the coast of Romania, is another example of Russian...",
-    "description_en": "💬 The head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga reacted to Russia's attack on the Gas Lisbon vessel near Romania: \"Russian war threatens not only Ukraine, but also poses a direct threat to freedom of navigation, maritime security in the Black Sea and NATO's eastern flank. The deliberate attack on the LPG tanker Gas Lisbon, which was headed to Ukraine and was attacked near the coast of Romania, is another example of Russian...",
+    "description": "💬 The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to Russia's attack on the Gas Lisbon vessel near Romania: \"Russian war threatens not only Ukraine, but also poses a direct threat to freedom of navigation, maritime security in the Black Sea and NATO's eastern flank. The deliberate attack on the LPG tanker Gas Lisbon, which was headed for Ukraine and was attacked near the coast of Romania, is another example of Russian...",
+    "description_en": "💬 The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to Russia's attack on the Gas Lisbon vessel near Romania: \"Russian war threatens not only Ukraine, but also poses a direct threat to freedom of navigation, maritime security in the Black Sea and NATO's eastern flank. The deliberate attack on the LPG tanker Gas Lisbon, which was headed for Ukraine and was attacked near the coast of Romania, is another example of Russian...",
     "description_uk": "💬 Очільник МЗС України Андрій Сибіга відреагував на удар Росії по судну Gas Lisbon неподалік Румунії: \"Російська війна загрожує не лише України, але й становить пряму загрозу свободі судноплавства, морській безпеці в Чорному морі та східному флангу НАТО. Навмисний напад на LPG-танкер Gas Lisbon, який прямував до України й був атакований поблизу узбережжя Румунії, є черговим прикладом російського...",
     "time": "",
     "pubDate": "2026-07-21T12:46:15+00:00",
@@ -338,13 +338,13 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9665",
     "score": 5.0,
-    "views": 897,
+    "views": 903,
     "forwards": 7
   },
   {
     "title": "🤨 Very interesting and \"apolitical\" publication of the Logistics...",
     "title_en": "🤨 Very interesting and \"apolitical\" publication of the Logistics...",
-    "title_uk": "🤨 Дуже цікава та «аполітична» публікація Логістики...",
+    "title_uk": "🤨 Дуже цікава та \"аполітична\" публікація Логістики...",
     "description": "🤨 Very interesting and \"apolitical\" publication of the Logistics Forces Command of the Armed Forces of Ukraine towards the Ministry of Defense 😏 Yesterday, so far, Commander-in-Chief Sirskyi said that President Zelenskyi lied about their conflict with Fedorov. And today, the KSL of the Armed Forces of Ukraine comes out of his submission and thanks the Supreme Commander-in-Chief for his assistance in the resignation of Fedorov. 🪟 The window of opportunity to seize the initiative in war can...",
     "description_en": "🤨 Very interesting and \"apolitical\" publication of the Logistics Forces Command of the Armed Forces of Ukraine towards the Ministry of Defense 😏 Yesterday, so far, Commander-in-Chief Sirskyi said that President Zelenskyi lied about their conflict with Fedorov. And today, the KSL of the Armed Forces of Ukraine comes out of his submission and thanks the Supreme Commander-in-Chief for his assistance in the resignation of Fedorov. 🪟 The window of opportunity to seize the initiative in war can...",
     "description_uk": "🤨 Дуже цікава і \"аполітична\" публікація Командування Сил логістики ЗСУ в бік Міністерства оборони 😏 Учора поки що головнокомандувач Сирський заявив, що президент Зеленський збрехав про їхній конфлікт із Федоровим. А сьогодні з його ж подачі виходить КСЛ ЗСУ й дякує верховному головнокомандувачу за сприяння у відставці Федорова. 🪟 Вікно можливостей для перехоплення ініціативи у війні може...",
@@ -356,26 +356,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23671",
     "score": 5.5,
-    "views": 201571,
+    "views": 205212,
     "forwards": 1182
-  },
-  {
-    "title": "Casualties reported",
-    "title_en": "Casualties reported",
-    "title_uk": "Повідомляється про постраждалих",
-    "description": "In Ukraine, a new generation of \"pisyuns\" will soon appear that will be able to intercept jet Shaheds. According to Reuters, the SkyFall company presented a new version of the interceptor drone \"P1-Sun\" against jet Shaheds at the air show in Great Britain. The P1-SUN JetKiller has a speed of up to 370 km/h, has already passed combat tests and destroyed more than a dozen Shahed jets. According to Reuters,...",
-    "description_en": "In Ukraine, a new generation of \"pisyuns\" will soon appear that will be able to intercept jet Shaheds. According to Reuters, the SkyFall company presented a new version of the interceptor drone \"P1-Sun\" against jet Shaheds at the air show in Great Britain. The P1-SUN JetKiller has a speed of up to 370 km/h, has already passed combat tests and destroyed more than a dozen Shahed jets. According to Reuters,...",
-    "description_uk": "В Украине скоро появится новое поколение \"писюнов\", которые смогут перехватывать реактивные шахеды Как сообщает Reuters, компания SkyFall представила на авиасалоне в Великобритании новую версию дрона-перехватчика \"P1-Sun\" против реактивных \"Шахедов\". P1-SUN JetKiller развивает скорость до 370 км/ч, уже прошел боевые испытания и уничтожил более десятка реактивных Shahed. По данным Reuters,...",
-    "time": "",
-    "pubDate": "2026-07-21T10:53:26+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196555",
-    "score": 14.5,
-    "views": 97834,
-    "forwards": 288
   },
   {
     "title": "🇬🇧 Andy Burnham became the new head of His Majesty's government, Keir...",
@@ -392,7 +374,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23669",
     "score": 9.0,
-    "views": 207814,
+    "views": 209280,
     "forwards": 149
   }
 ]
