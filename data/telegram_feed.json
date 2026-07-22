@@ -1,5 +1,59 @@
 [
   {
+    "title": "The order of further steps was determined. Decisions regarding the...",
+    "title_en": "The order of further steps was determined. Decisions regarding the...",
+    "title_uk": "Визначено порядок подальших дій. Рішення щодо...",
+    "description": "The order of further steps was determined. Decisions regarding the replacement of the leadership of the Armed Forces of Ukraine will be formalized today - relevant decrees are being prepared. Together with Mykhailo Drapaty and Yevgeny Khmara, they determined that the new Chief of the General Staff of the Armed Forces of Ukraine will be Major General Ihor Skybyuk - a very experienced military man, with whom the new Commander-in-Chief defended Ukraine side by side. Importantly,...",
+    "description_en": "The order of further steps was determined. Decisions regarding the replacement of the leadership of the Armed Forces of Ukraine will be formalized today - relevant decrees are being prepared. Together with Mykhailo Drapaty and Yevgeny Khmara, they determined that the new Chief of the General Staff of the Armed Forces of Ukraine will be Major General Ihor Skybyuk - a very experienced military man, with whom the new Commander-in-Chief defended Ukraine side by side. Importantly,...",
+    "description_uk": "Визначили порядок подальших кроків. Сьогодні будуть формалізовані рішення щодо заміни керівництва Збройних Сил України – відповідні укази готуються. Разом із Михайлом Драпатим та Євгенієм Хмарою визначили, що новим начальником Генерального штабу Збройних Сил України стане генерал-майор Ігор Скибюк – дуже досвідчений військовий, із яким новий Головнокомандувач пліч-о-пліч захищав Україну. Важливо,...",
+    "time": "",
+    "pubDate": "2026-07-22T09:38:35+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20103",
+    "score": 5.5,
+    "views": 2195,
+    "forwards": 54
+  },
+  {
+    "title": "Sumy: BpLA in the direction of the city of Sumy from the north",
+    "title_en": "Sumy: BpLA in the direction of the city of Sumy from the north",
+    "title_uk": "Суми: БпЛА в напрямку м. Суми з пн",
+    "description": "BpLA in the direction of the city of Sumy from the north",
+    "description_en": "BpLA in the direction of the city of Sumy from the north",
+    "description_uk": "БпЛА в напрямку м.Суми з півночі",
+    "time": "",
+    "pubDate": "2026-07-22T09:31:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69632",
+    "score": 6.0,
+    "views": 13116,
+    "forwards": 0
+  },
+  {
+    "title": "Odesa: Drone incoming",
+    "title_en": "Odesa: Drone incoming",
+    "title_uk": "Одеса: Дрон вхід",
+    "description": "UAV from the Black Sea in the direction of Odessa",
+    "description_en": "UAV from the Black Sea in the direction of Odessa",
+    "description_uk": "БпЛА з Чорного моря в напрямку м.Одеса",
+    "time": "",
+    "pubDate": "2026-07-22T09:28:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69631",
+    "score": 6.0,
+    "views": 17151,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -50,8 +104,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41380",
     "score": 13.0,
-    "views": 3413,
-    "forwards": 8
+    "views": 5270,
+    "forwards": 13
   },
   {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south",
@@ -122,8 +176,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54420",
     "score": 7.5,
-    "views": 1610,
-    "forwards": 2
+    "views": 2118,
+    "forwards": 3
   },
   {
     "title": "Kyiv: Drone incoming",
@@ -198,78 +252,6 @@
     "forwards": 22
   },
   {
-    "title": "BpLA ➡️ heading for Kremenchuk.",
-    "title_en": "BpLA ➡️ heading for Kremenchuk.",
-    "title_uk": "BpLA ➡️ прямує до Кременчука.",
-    "description": "BpLA ➡️ heading for Kremenchuk.",
-    "description_en": "BpLA ➡️ heading for Kremenchuk.",
-    "description_uk": "БпЛА ➡️ курсом на Кременчук.",
-    "time": "",
-    "pubDate": "2026-07-21T21:34:41+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69555",
-    "score": 5.5,
-    "views": 28033,
-    "forwards": 60
-  },
-  {
-    "title": "Kharkiv: Reactive UAVs ➡️ to Odesa/Chornomorsk. 🛵 BpLA groups ➡️ course to...",
-    "title_en": "Kharkiv: Reactive UAVs ➡️ to Odesa/Chornomorsk. 🛵 BpLA groups ➡️ course to...",
-    "title_uk": "Харків: реактивні БПЛА ➡️ до Одеси/Чорноморська. 🛵 BpLA групи ➡️ курс до...",
-    "description": "Reactive UAVs ➡️ to Odesa/Chornomorsk. 🛵 BpLA groups ➡️ course to Kharkiv.",
-    "description_en": "Reactive UAVs ➡️ to Odesa/Chornomorsk. 🛵 BpLA groups ➡️ course to Kharkiv.",
-    "description_uk": "Реактивні БпЛА ➡️ на Одесу/Чорноморськ. 🛵 Групи БпЛА ➡️ курсом на Харків.",
-    "time": "",
-    "pubDate": "2026-07-21T20:43:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69553",
-    "score": 6.0,
-    "views": 46652,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Kyiv region: BpLA ➡️ course to Vyshhorod.",
-    "title_en": "Kyiv: Kyiv region: BpLA ➡️ course to Vyshhorod.",
-    "title_uk": "Київ: Київська область: BpLA ➡️ курс на Вишгород.",
-    "description": "Kyiv region: BpLA ➡️ course to Vyshhorod.",
-    "description_en": "Kyiv region: BpLA ➡️ course to Vyshhorod.",
-    "description_uk": "Київщина : БпЛА ➡️ курсом на Вишгород.",
-    "time": "",
-    "pubDate": "2026-07-21T20:24:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69551",
-    "score": 6.0,
-    "views": 20263,
-    "forwards": 36
-  },
-  {
-    "title": "Sumy: BpLA groups ➡️ heading for Sumy.",
-    "title_en": "Sumy: BpLA groups ➡️ heading for Sumy.",
-    "title_uk": "Суми: групи BpLA ➡️ прямують на Суми.",
-    "description": "BpLA groups ➡️ heading for Sumy.",
-    "description_en": "BpLA groups ➡️ heading for Sumy.",
-    "description_uk": "Групи БпЛА ➡️ курсом на Суми.",
-    "time": "",
-    "pubDate": "2026-07-21T19:49:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69550",
-    "score": 6.0,
-    "views": 48606,
-    "forwards": 0
-  },
-  {
     "title": "Crimea: Casualties reported",
     "title_en": "Crimea: Casualties reported",
     "title_uk": "Крим: повідомляється про постраждалих",
@@ -284,8 +266,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54413",
     "score": 6.0,
-    "views": 3015,
-    "forwards": 6
+    "views": 3149,
+    "forwards": 7
   },
   {
     "title": "Kyiv: 🇬🇧 The head of the Ministry of Foreign Affairs of Ukraine Andriy...",
@@ -302,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9666",
     "score": 4.5,
-    "views": 753,
+    "views": 772,
     "forwards": 7
   },
   {
@@ -338,7 +320,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48875",
     "score": 8.0,
-    "views": 69,
+    "views": 76,
     "forwards": 0
   },
   {
@@ -356,13 +338,13 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9665",
     "score": 5.0,
-    "views": 880,
+    "views": 897,
     "forwards": 7
   },
   {
     "title": "🤨 Very interesting and \"apolitical\" publication of the Logistics...",
     "title_en": "🤨 Very interesting and \"apolitical\" publication of the Logistics...",
-    "title_uk": "🤨 Дуже цікава та \"аполітична\" публікація Логістики...",
+    "title_uk": "🤨 Дуже цікава та «аполітична» публікація Логістики...",
     "description": "🤨 Very interesting and \"apolitical\" publication of the Logistics Forces Command of the Armed Forces of Ukraine towards the Ministry of Defense 😏 Yesterday, so far, Commander-in-Chief Sirskyi said that President Zelenskyi lied about their conflict with Fedorov. And today, the KSL of the Armed Forces of Ukraine comes out of his submission and thanks the Supreme Commander-in-Chief for his assistance in the resignation of Fedorov. 🪟 The window of opportunity to seize the initiative in war can...",
     "description_en": "🤨 Very interesting and \"apolitical\" publication of the Logistics Forces Command of the Armed Forces of Ukraine towards the Ministry of Defense 😏 Yesterday, so far, Commander-in-Chief Sirskyi said that President Zelenskyi lied about their conflict with Fedorov. And today, the KSL of the Armed Forces of Ukraine comes out of his submission and thanks the Supreme Commander-in-Chief for his assistance in the resignation of Fedorov. 🪟 The window of opportunity to seize the initiative in war can...",
     "description_uk": "🤨 Дуже цікава і \"аполітична\" публікація Командування Сил логістики ЗСУ в бік Міністерства оборони 😏 Учора поки що головнокомандувач Сирський заявив, що президент Зеленський збрехав про їхній конфлікт із Федоровим. А сьогодні з його ж подачі виходить КСЛ ЗСУ й дякує верховному головнокомандувачу за сприяння у відставці Федорова. 🪟 Вікно можливостей для перехоплення ініціативи у війні може...",
@@ -374,8 +356,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23671",
     "score": 5.5,
-    "views": 197492,
-    "forwards": 1179
+    "views": 201571,
+    "forwards": 1182
   },
   {
     "title": "Casualties reported",
@@ -399,8 +381,8 @@
     "title": "🇬🇧 Andy Burnham became the new head of His Majesty's government, Keir...",
     "title_en": "🇬🇧 Andy Burnham became the new head of His Majesty's government, Keir...",
     "title_uk": "🇬🇧 Енді Бернем став новим головою уряду Його Величності Кейра...",
-    "description": "🇬🇧 Andy Burnham became the new head of His Majesty's government, Keir Starmer officially left the post of Prime Minister of Great Britain 👥 King Charles III accepted Starmer's resignation and officially appointed Burnham as the head of the government. 💬 Earlier, Burnham stated that he would maintain the current level of support for Ukraine. He also emphasized that Great Britain lives in an increasingly dangerous world",
-    "description_en": "🇬🇧 Andy Burnham became the new head of His Majesty's government, Keir Starmer officially left the post of Prime Minister of Great Britain 👥 King Charles III accepted Starmer's resignation and officially appointed Burnham as the head of the government. 💬 Earlier, Burnham stated that he would maintain the current level of support for Ukraine. He also emphasized that Great Britain lives in an increasingly dangerous world",
+    "description": "🇬🇧 Andy Burnham became the new head of His Majesty's government, Keir Starmer officially left the post of Prime Minister of Great Britain 👥 King Charles III accepted Starmer's resignation and officially appointed Burnham as the head of the government. 💬 Earlier, Burnham stated that he would maintain the current level of support for Ukraine. He also stressed that Great Britain lives in an increasingly dangerous world",
+    "description_en": "🇬🇧 Andy Burnham became the new head of His Majesty's government, Keir Starmer officially left the post of Prime Minister of Great Britain 👥 King Charles III accepted Starmer's resignation and officially appointed Burnham as the head of the government. 💬 Earlier, Burnham stated that he would maintain the current level of support for Ukraine. He also stressed that Great Britain lives in an increasingly dangerous world",
     "description_uk": "🇬🇧 Новим головою уряду Його Величності став Енді Бернем, Кір Стармер офіційно залишив посаду прем’єр-міністра Великої Британії 👥 Король Чарльз III прийняв відставку Стармера та офіційно призначив Бернема главою уряду. 💬 Раніше Бернем заявив, що збереже нинішній рівень підтримки України. Він також наголошував, що Велика Британія живе у дедалі небезпечнішому світі",
     "time": "",
     "pubDate": "2026-07-20T12:55:01+00:00",
@@ -410,7 +392,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23669",
     "score": 9.0,
-    "views": 206429,
+    "views": 207814,
     "forwards": 149
   }
 ]
