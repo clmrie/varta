@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "A jet UAV is heading towards Kyiv from the east",
+    "description_en": "A jet UAV is heading towards Kyiv from the east",
+    "description_uk": "Реактивний БпЛА прямує на Київ зі сходу",
+    "time": "",
+    "pubDate": "2026-07-22T01:03:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69573",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: BpLA on Kharkiv from the north",
+    "title_en": "Kharkiv: BpLA on Kharkiv from the north",
+    "title_uk": "Харків: БпЛА на Харків з півночі",
+    "description": "BpLA on Kharkiv from the north",
+    "description_en": "BpLA on Kharkiv from the north",
+    "description_uk": "БпЛА на Харків з півночі",
+    "time": "",
+    "pubDate": "2026-07-22T01:02:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69572",
+    "score": 6.0,
+    "views": 7069,
+    "forwards": 1
+  },
+  {
     "title": "Poltava region: BpLA ➡️ to Poltava, Romodan/Lubny.",
     "title_en": "Poltava region: BpLA ➡️ to Poltava, Romodan/Lubny.",
     "title_uk": "Полтавська область: BpLA ➡️ до Полтави, Ромодан/Лубни.",
@@ -194,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54413",
     "score": 6.0,
-    "views": 2488,
+    "views": 2580,
     "forwards": 5
   },
   {
@@ -212,8 +248,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196580",
     "score": 6.5,
-    "views": 156822,
-    "forwards": 480
+    "views": 160732,
+    "forwards": 481
   },
   {
     "title": "Sumy: Drone incoming",
@@ -306,24 +342,6 @@
     "forwards": 43
   },
   {
-    "title": "In Chernihiv, a Shahed rocket hit the TCC building. A number of...",
-    "title_en": "In Chernihiv, a Shahed rocket hit the TCC building. A number of...",
-    "title_uk": "У Чернігові в будівлю ТЦК влучила ракета \"Шахед\". Ряд...",
-    "description": "In Chernihiv, a Shahed rocket hit the TCC building. A number of floors were destroyed in the building, windows were broken, and a fire broke out.",
-    "description_en": "In Chernihiv, a Shahed rocket hit the TCC building. A number of floors were destroyed in the building, windows were broken, and a fire broke out.",
-    "description_uk": "В Чернигове реактивный Шахед ударил по зданию ТЦК В здании разрушен ряд этажей, выбиты окна, возник пожар.",
-    "time": "",
-    "pubDate": "2026-07-21T12:57:05+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196561",
-    "score": 6.5,
-    "views": 122852,
-    "forwards": 388
-  },
-  {
     "title": "Striking oil facilities, ports and arms factories: the combat record...",
     "title_en": "Striking oil facilities, ports and arms factories: the combat record...",
     "title_uk": "Удари по нафтовим об'єктам, портам і збройовим заводам: бойовий рекорд...",
@@ -338,7 +356,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48875",
     "score": 8.0,
-    "views": 60,
+    "views": 64,
     "forwards": 0
   },
   {
@@ -360,42 +378,6 @@
     "forwards": 7
   },
   {
-    "title": "Chernihiv: Chernihiv region: BpLA group ➡️ heading for Novgorod-Siverskyi.",
-    "title_en": "Chernihiv: Chernihiv region: BpLA group ➡️ heading for Novgorod-Siverskyi.",
-    "title_uk": "Чернігів: Чернігівська область: BpLA group ➡️ прямує на Новгород-Сіверський.",
-    "description": "Chernihiv region: BpLA group ➡️ heading for Novgorod-Siverskyi.",
-    "description_en": "Chernihiv region: BpLA group ➡️ heading for Novgorod-Siverskyi.",
-    "description_uk": "Чернігівщина: група БпЛА ➡️ курсом на Новгород-Сіверський.",
-    "time": "",
-    "pubDate": "2026-07-21T12:22:19+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69486",
-    "score": 6.0,
-    "views": 30303,
-    "forwards": 0
-  },
-  {
-    "title": "Sumyshchyna: BpLA ➡️ heading for Konotop, Buryn.",
-    "title_en": "Sumyshchyna: BpLA ➡️ heading for Konotop, Buryn.",
-    "title_uk": "Сумщина: BpLA ➡️ курс на Конотоп, Буринь.",
-    "description": "Sumyshchyna: BpLA ➡️ heading for Konotop, Buryn.",
-    "description_en": "Sumyshchyna: BpLA ➡️ heading for Konotop, Buryn.",
-    "description_uk": "Сумщина: БпЛА ➡️ курсом на Конотоп, Буринь.",
-    "time": "",
-    "pubDate": "2026-07-21T11:52:36+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69484",
-    "score": 5.0,
-    "views": 45460,
-    "forwards": 0
-  },
-  {
     "title": "🤨 Very interesting and \"apolitical\" publication of the Logistics...",
     "title_en": "🤨 Very interesting and \"apolitical\" publication of the Logistics...",
     "title_uk": "🤨 Дуже цікава та \"аполітична\" публікація Логістики...",
@@ -410,8 +392,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23671",
     "score": 5.5,
-    "views": 181360,
-    "forwards": 1158
+    "views": 182809,
+    "forwards": 1160
   },
   {
     "title": "Casualties reported",
@@ -448,5 +430,23 @@
     "score": 10.5,
     "views": 60835,
     "forwards": 191
+  },
+  {
+    "title": "Zaporizhzhia: The radar station \"Bussol-S\", warehouses, control points of UAVs and...",
+    "title_en": "Zaporizhzhia: The radar station \"Bussol-S\", warehouses, control points of UAVs and...",
+    "title_uk": "Запоріжжя: РЛС «Буссоль-С», склади, пункти управління БПЛА та...",
+    "description": "The radar station \"Bussol-S\", warehouses, control points of UAVs and other military objects of the enemy were hit ⚡️ On July 20 and on the night of July 21, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged a number of important military targets of the enemy. ⚡️Yes, the radar station \"Bussol-S\" in the Khorli district of the Kherson region was affected....",
+    "description_en": "The radar station \"Bussol-S\", warehouses, control points of UAVs and other military objects of the enemy were hit ⚡️ On July 20 and on the night of July 21, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged a number of important military targets of the enemy. ⚡️Yes, the radar station \"Bussol-S\" in the Khorli district of the Kherson region was affected....",
+    "description_uk": "Уражено радіолокаційну станцію «Буссоль-С», склади, пункти управління БпЛА та інші військові об'єкти противника ⚡️20 липня та у ніч на 21 липня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України завдали ураження низці важливих воєнних цілей противника. ⚡️Так, уражено радіолокаційну станцію «Буссоль-С» у районі Хорлів Херсонської області....",
+    "time": "",
+    "pubDate": "2026-07-21T10:23:47+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41360",
+    "score": 6.5,
+    "views": 24931,
+    "forwards": 99
   }
 ]
