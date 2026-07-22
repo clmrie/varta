@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kharkiv: BpLA in the direction of the city of Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA in the direction of the city of Kharkiv from the north.",
+    "title_uk": "Харків: БпЛА в напрямку м. Харкова з півн.",
+    "description": "BpLA in the direction of the city of Kharkiv from the north.",
+    "description_en": "BpLA in the direction of the city of Kharkiv from the north.",
+    "description_uk": "БпЛА в напрямку м.Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-07-22T21:39:11+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69727",
+    "score": 6.0,
+    "views": 2011,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV to Odesa from the west (Lymanka)",
+    "description_en": "UAV to Odesa from the west (Lymanka)",
+    "description_uk": "БпЛА на Одесу з заходу (Лиманка)",
+    "time": "",
+    "pubDate": "2026-07-22T21:34:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69726",
+    "score": 5.0,
+    "views": 6088,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Київ: повідомляється про постраждалих",
+    "description": "'Russia is holding global food security hostage' — Ukraine calls emergency UN session as Moscow bombs Black Sea ports. \"No country has the right to starve the world,\" Foreign Minister Andrii Sybiha said on July 22. \"Global pressure can stop Russian terror.\" Sybiha requested the U.N. Security Council convene an emergency meeting on July 27 due to Russia's recent deadly strikes on civilian vessels...",
+    "description_en": "'Russia is holding global food security hostage' — Ukraine calls emergency UN session as Moscow bombs Black Sea ports. \"No country has the right to starve the world,\" Foreign Minister Andrii Sybiha said on July 22. \"Global pressure can stop Russian terror.\" Sybiha requested the U.N. Security Council convene an emergency meeting on July 27 due to Russia's recent deadly strikes on civilian vessels...",
+    "description_uk": "'Russia is holding global food security hostage' — Ukraine calls emergency UN session as Moscow bombs Black Sea ports. \"No country has the right to starve the world,\" Foreign Minister Andrii Sybiha said on July 22. \"Global pressure can stop Russian terror.\" Sybiha requested the U.N. Security Council convene an emergency meeting on July 27 due to Russia's recent deadly strikes on civilian vessels...",
+    "time": "",
+    "pubDate": "2026-07-22T21:33:19+00:00",
+    "category": "shelling",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54437",
+    "score": 6.0,
+    "views": 181,
+    "forwards": 2
+  },
+  {
     "title": "Zaporizhzhia: BpLA in the city of Zaporozhye from the west.",
     "title_en": "Zaporizhzhia: BpLA in the city of Zaporozhye from the west.",
     "title_uk": "Запоріжжя: БпЛА в м. Запоріжжя із зах.",
@@ -15,24 +69,6 @@
     "link": "https://t.me/kpszsu/69719",
     "score": 6.0,
     "views": 16190,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
-    "description": "Ukrainian defense firm Skyfall unveils new 'JetKiller' interceptor drone. The P1-SUN JetKiller is designed to hunt and destroy Russia's jet-powered Shahed-type drones. Skyfall says the interceptor will enter serial production in August 2026.",
-    "description_en": "Ukrainian defense firm Skyfall unveils new 'JetKiller' interceptor drone. The P1-SUN JetKiller is designed to hunt and destroy Russia's jet-powered Shahed-type drones. Skyfall says the interceptor will enter serial production in August 2026.",
-    "description_uk": "Ukrainian defense firm Skyfall unveils new 'JetKiller' interceptor drone. The P1-SUN JetKiller is designed to hunt and destroy Russia's jet-powered Shahed-type drones. Skyfall says the interceptor will enter serial production in August 2026.",
-    "time": "",
-    "pubDate": "2026-07-22T20:12:08+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54436",
-    "score": 21.5,
-    "views": 380,
     "forwards": 0
   },
   {
@@ -67,9 +103,9 @@
     "location": "Sumy",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196662",
-    "score": 4.5,
-    "views": 68032,
-    "forwards": 177
+    "score": 5.5,
+    "views": 94351,
+    "forwards": 212
   },
   {
     "title": "Dnipro: BpLA in Dnipropetrovsk region, direction Tokmakivka",
@@ -122,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196658",
     "score": 10.5,
-    "views": 103243,
-    "forwards": 426
+    "views": 120867,
+    "forwards": 465
   },
   {
     "title": "Zaporizhzhia: Sumyshchyna: BpLA passed Gluhiv on a south-western course and in the...",
@@ -194,7 +230,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9682",
     "score": 4.0,
-    "views": 517,
+    "views": 548,
     "forwards": 4
   },
   {
@@ -214,24 +250,6 @@
     "score": 6.5,
     "views": 67831,
     "forwards": 212
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAV ➡️ in the direction of Poltava.",
-    "description_en": "Jet UAV ➡️ in the direction of Poltava.",
-    "description_uk": "Реактивний БпЛА ➡️ у напрямку Полтави.",
-    "time": "",
-    "pubDate": "2026-07-22T16:40:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69685",
-    "score": 5.0,
-    "views": 23219,
-    "forwards": 0
   },
   {
     "title": "Sumyshchyna: BpLA in the direction of Putivlia, Voronezh from the...",
@@ -410,8 +428,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20107",
     "score": 5.5,
-    "views": 105140,
-    "forwards": 234
+    "views": 107762,
+    "forwards": 235
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
@@ -430,23 +448,5 @@
     "score": 5.0,
     "views": 27258,
     "forwards": 34
-  },
-  {
-    "title": "A high-speed target for Odeshchyna",
-    "title_en": "A high-speed target for Odeshchyna",
-    "title_uk": "Швидкісна ціль для Одещини",
-    "description": "A high-speed target for Odeshchyna",
-    "description_en": "A high-speed target for Odeshchyna",
-    "description_uk": "Швидкісна ціль на Одещину",
-    "time": "",
-    "pubDate": "2026-07-22T10:55:36+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69637",
-    "score": 5.0,
-    "views": 63601,
-    "forwards": 36
   }
 ]
