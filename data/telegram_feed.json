@@ -1,5 +1,77 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A jet UAV in the direction of Poltava from the southeast.",
+    "description_en": "A jet UAV in the direction of Poltava from the southeast.",
+    "description_uk": "Реактивний БпЛА у напрямку Полтави з південного сходу.",
+    "time": "",
+    "pubDate": "2026-07-23T15:17:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69829",
+    "score": 5.0,
+    "views": 8070,
+    "forwards": 0
+  },
+  {
+    "title": "BpLA ➡️ course to Zhytomyr.",
+    "title_en": "BpLA ➡️ course to Zhytomyr.",
+    "title_uk": "Курс BpLA ➡️ в Житомир.",
+    "description": "BpLA ➡️ course to Zhytomyr.",
+    "description_en": "BpLA ➡️ course to Zhytomyr.",
+    "description_uk": "БпЛА ➡️ курсом на Житомир.",
+    "time": "",
+    "pubDate": "2026-07-23T15:10:53+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zhytomyr",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69828",
+    "score": 5.5,
+    "views": 26265,
+    "forwards": 103
+  },
+  {
+    "title": "The story of the Russian Su-57 destroyed near Moscow turned out to be...",
+    "title_en": "The story of the Russian Su-57 destroyed near Moscow turned out to be...",
+    "title_uk": "Історія зі знищеним під Москвою російським Су-57 виявилася...",
+    "description": "The story of the Russian Su-57 destroyed near Moscow turned out to be much more interesting than it seemed. InformNapalm said that the Russian air defense system was actually used against its own aircraft. What is the essence: earlier the intelligence community got access to materials about the preparation of calculations of \"BARS Moscow\" - a division that is supposed to protect the Russian capital from Ukrainian...",
+    "description_en": "The story of the Russian Su-57 destroyed near Moscow turned out to be much more interesting than it seemed. InformNapalm said that the Russian air defense system was actually used against its own aircraft. What is the essence: earlier the intelligence community got access to materials about the preparation of calculations of \"BARS Moscow\" - a division that is supposed to protect the Russian capital from Ukrainian...",
+    "description_uk": "История с уничтоженным в Подмосковье российским Су-57 оказалась куда интереснее, чем казалось В InformNapalm заявили, что российскую систему ПВО фактически удалось использовать против собственного самолета. В чем суть: ранее разведывательное сообщество получило доступ к материалам о подготовке расчетов «БАРС Москва» — подразделения, которое должно защищать российскую столицу от украинских...",
+    "time": "",
+    "pubDate": "2026-07-23T14:00:17+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/196704",
+    "score": 4.5,
+    "views": 73284,
+    "forwards": 357
+  },
+  {
+    "title": "Kyiv: Russian Su-57 fighter jet reportedly crashes during training flight...",
+    "title_en": "Kyiv: Russian Su-57 fighter jet reportedly crashes during training flight...",
+    "title_uk": "Київ: російський винищувач Су-57 розбився під час тренувального польоту...",
+    "description": "Russian Su-57 fighter jet reportedly crashes during training flight in Moscow Oblast. The aircraft went down during takeoff in a remote area, but caused no damage as the pilot reportedly ejected, according to Russian state news agency TASS.",
+    "description_en": "Russian Su-57 fighter jet reportedly crashes during training flight in Moscow Oblast. The aircraft went down during takeoff in a remote area, but caused no damage as the pilot reportedly ejected, according to Russian state news agency TASS.",
+    "description_uk": "Russian Su-57 fighter jet reportedly crashes during training flight in Moscow Oblast. The aircraft went down during takeoff in a remote area, but caused no damage as the pilot reportedly ejected, according to Russian state news agency TASS.",
+    "time": "",
+    "pubDate": "2026-07-23T12:35:30+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54444",
+    "score": 5.0,
+    "views": 1511,
+    "forwards": 3
+  },
+  {
     "title": "Kyiv: Russia's Su-57 fighter jet reportedly crashes during training flight...",
     "title_en": "Kyiv: Russia's Su-57 fighter jet reportedly crashes during training flight...",
     "title_uk": "Київ: російський винищувач Су-57 розбився під час тренувального польоту...",
@@ -68,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20114",
     "score": 14.5,
-    "views": 69747,
-    "forwards": 333
+    "views": 99975,
+    "forwards": 381
   },
   {
     "title": "Odesa: BpLA heading for Zatok/Sergiyivka from the water area.",
@@ -122,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20113",
     "score": 5.5,
-    "views": 77179,
-    "forwards": 132
+    "views": 95560,
+    "forwards": 133
   },
   {
     "title": "Chernihiv: Sumyshchyna: BpLA ➡️ in the direction of Konotop. 🛵 Chernihiv region:...",
@@ -194,26 +266,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9688",
     "score": 5.0,
-    "views": 816,
+    "views": 897,
     "forwards": 15
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Odesa: UAV heading towards the Gulf from the water area.",
-    "description_en": "Odesa: UAV heading towards the Gulf from the water area.",
-    "description_uk": "Одещина: БпЛА курсом на Затоку з акваторії.",
-    "time": "",
-    "pubDate": "2026-07-23T06:40:26+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69794",
-    "score": 5.0,
-    "views": 29313,
-    "forwards": 0
   },
   {
     "title": "Drone strike",
@@ -248,7 +302,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41405",
     "score": 13.0,
-    "views": 7774,
+    "views": 8358,
     "forwards": 25
   },
   {
@@ -302,7 +356,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54439",
     "score": 5.0,
-    "views": 2471,
+    "views": 2695,
     "forwards": 3
   },
   {
@@ -338,25 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9682",
     "score": 4.0,
-    "views": 703,
+    "views": 717,
     "forwards": 5
-  },
-  {
-    "title": "Air defense active",
-    "title_en": "Air defense active",
-    "title_uk": "Активна ППО",
-    "description": "I am pleased to welcome US Ambassador to NATO Matthew Whitaker to Kyiv again - this time together with the commander of the NATO Special Mission for Security Assistance and Training for Ukraine, Lt. Gen. Curtis Buzzard. A good conversation, primarily about how to protect Ukrainian skies by increasing the supply of interceptors for the Patriots within PURL. Now this is a key priority, because massive Russian strikes...",
-    "description_en": "I am pleased to welcome US Ambassador to NATO Matthew Whitaker to Kyiv again - this time together with the commander of the NATO Special Mission for Security Assistance and Training for Ukraine, Lt. Gen. Curtis Buzzard. A good conversation, primarily about how to protect Ukrainian skies by increasing the supply of interceptors for the Patriots within PURL. Now this is a key priority, because massive Russian strikes...",
-    "description_uk": "Радий знову вітати в Києві Посла США при НАТО Метью Вітакера – цього разу разом із командувачем Спеціальної місії НАТО з безпекової допомоги та підготовки для України генерал-лейтенантом Кертісом Баззардом. Хороша розмова, передусім про те як захистити українське небо через збільшення постачання перехоплювачів для Patriotʼів у межах PURL. Зараз це ключовий пріоритет, бо масовані російські удари...",
-    "time": "",
-    "pubDate": "2026-07-22T14:45:11+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20107",
-    "score": 5.5,
-    "views": 124186,
-    "forwards": 240
   }
 ]
