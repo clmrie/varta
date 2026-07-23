@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Jet UAVs in the Kharkiv region past Bogodukhiv ➡️ on a...",
+    "title_en": "Kharkiv: Jet UAVs in the Kharkiv region past Bogodukhiv ➡️ on a...",
+    "title_uk": "Харків: реактивні БПЛА на Харківщині повз Богодухів ➡️ на...",
+    "description": "Jet UAVs in the Kharkiv region past Bogodukhiv ➡️ on a south/southeast course.",
+    "description_en": "Jet UAVs in the Kharkiv region past Bogodukhiv ➡️ on a south/southeast course.",
+    "description_uk": "Реактивні БпЛА на Харківщині повз Богодухів ➡️ південним/південно-східним курсом.",
+    "time": "",
+    "pubDate": "2026-07-23T01:04:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69754",
+    "score": 6.0,
+    "views": 3060,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea area ➡️ in the direction of Sanzhiyka/Black Sea.",
+    "description_en": "UAV from the Black Sea area ➡️ in the direction of Sanzhiyka/Black Sea.",
+    "description_uk": "БпЛА з акваторії Чорного моря ➡️ у напрямку Санжійки/Чорноморського.",
+    "time": "",
+    "pubDate": "2026-07-23T00:50:20+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69753",
+    "score": 5.0,
+    "views": 7080,
+    "forwards": 0
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -72,24 +108,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV to Odesa from the west (Lymanka)",
-    "description_en": "UAV to Odesa from the west (Lymanka)",
-    "description_uk": "БпЛА на Одесу з заходу (Лиманка)",
-    "time": "",
-    "pubDate": "2026-07-22T21:34:22+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69726",
-    "score": 5.0,
-    "views": 6088,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Casualties reported",
     "title_en": "Kyiv: Casualties reported",
     "title_uk": "Київ: повідомляється про постраждалих",
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54437",
     "score": 6.0,
-    "views": 859,
+    "views": 1033,
     "forwards": 4
   },
   {
@@ -158,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196662",
     "score": 5.5,
-    "views": 111803,
-    "forwards": 239
+    "views": 119139,
+    "forwards": 249
   },
   {
     "title": "Dnipro: BpLA in Dnipropetrovsk region, direction Tokmakivka",
@@ -212,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196658",
     "score": 10.5,
-    "views": 133937,
-    "forwards": 497
+    "views": 139761,
+    "forwards": 507
   },
   {
     "title": "Zaporizhzhia: Sumyshchyna: BpLA passed Gluhiv on a south-western course and in the...",
@@ -284,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9682",
     "score": 4.0,
-    "views": 566,
+    "views": 569,
     "forwards": 4
   },
   {
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/69671",
     "score": 5.0,
     "views": 13149,
-    "forwards": 0
-  },
-  {
-    "title": "The goal is past Putivl in the Sumy Oblast in the southwest direction!",
-    "title_en": "The goal is past Putivl in the Sumy Oblast in the southwest direction!",
-    "title_uk": "Ціль за Путивлем Сумської області в південно-західному напрямку!",
-    "description": "The goal is past Putivl in the Sumy Oblast in the southwest direction!",
-    "description_en": "The goal is past Putivl in the Sumy Oblast in the southwest direction!",
-    "description_uk": "Ціль повз Путивль на Сумщині у південно-західному напрямку!",
-    "time": "",
-    "pubDate": "2026-07-22T15:02:23+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69670",
-    "score": 5.0,
-    "views": 18200,
     "forwards": 0
   }
 ]
