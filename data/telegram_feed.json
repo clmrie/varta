@@ -1,5 +1,77 @@
 [
   {
+    "title": "Odesa: BpLA heading for Zatok/Sergiyivka from the water area.",
+    "title_en": "Odesa: BpLA heading for Zatok/Sergiyivka from the water area.",
+    "title_uk": "Одеса: BpLA курс на Заток/Сергіївку з акваторії.",
+    "description": "Odesa: BpLA heading for Zatok/Sergiyivka from the water area.",
+    "description_en": "Odesa: BpLA heading for Zatok/Sergiyivka from the water area.",
+    "description_uk": "Одещина: БпЛА курсом на Затоку/Сергіївку з акваторії.",
+    "time": "",
+    "pubDate": "2026-07-23T11:16:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69813",
+    "score": 5.0,
+    "views": 18624,
+    "forwards": 10
+  },
+  {
+    "title": "At night in Voronezh, another Wildberries warehouse arrived",
+    "title_en": "At night in Voronezh, another Wildberries warehouse arrived",
+    "title_uk": "Вночі до Воронежа прибув ще один склад Wildberries",
+    "description": "At night in Voronezh, another Wildberries warehouse arrived",
+    "description_en": "At night in Voronezh, another Wildberries warehouse arrived",
+    "description_uk": "Ночью в Воронеже был прилет по очередному складу Wildberries",
+    "time": "",
+    "pubDate": "2026-07-23T10:42:10+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/196687",
+    "score": 5.5,
+    "views": 58917,
+    "forwards": 353
+  },
+  {
+    "title": "We appreciate Ireland's continued respect for our people. Today,...",
+    "title_en": "We appreciate Ireland's continued respect for our people. Today,...",
+    "title_uk": "Ми цінуємо постійну повагу Ірландії до нашого народу. Сьогодні,...",
+    "description": "We appreciate Ireland's continued respect for our people. Today, Irish Prime Minister Michal Martin began his visit to Ukraine by honoring the memory of our fallen soldiers. In the same way, Ireland began its presidency of the Council of the EU - out of respect for those who today protect the whole of Europe, for the Ukrainian people. We thank Ireland for this solidarity with Ukraine and our people. Eternal respect to all our...",
+    "description_en": "We appreciate Ireland's continued respect for our people. Today, Irish Prime Minister Michal Martin began his visit to Ukraine by honoring the memory of our fallen soldiers. In the same way, Ireland began its presidency of the Council of the EU - out of respect for those who today protect the whole of Europe, for the Ukrainian people. We thank Ireland for this solidarity with Ukraine and our people. Eternal respect to all our...",
+    "description_uk": "Цінуємо незмінну повагу Ірландії до наших людей. Сьогодні свій візит до України Прем’єр-міністр Ірландії Мікхол Мартін розпочав із вшанування пам’яті наших загиблих воїнів. Так само Ірландія розпочала й своє головування в Раді ЄС – із шани до тих, хто сьогодні захищає всю Європу, до Українського народу. Дякуємо Ірландії за цю солідарність з Україною та нашими людьми. Вічна шана всім нашим...",
+    "time": "",
+    "pubDate": "2026-07-23T09:55:17+00:00",
+    "category": "political",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20113",
+    "score": 5.5,
+    "views": 53012,
+    "forwards": 106
+  },
+  {
+    "title": "Chernihiv: Sumyshchyna: BpLA ➡️ in the direction of Konotop. 🛵 Chernihiv region:...",
+    "title_en": "Chernihiv: Sumyshchyna: BpLA ➡️ in the direction of Konotop. 🛵 Chernihiv region:...",
+    "title_uk": "Чернігів: Сумщина: БпЛА ➡️ в напрямку Конотопа. 🛵 Чернігівська область:...",
+    "description": "Sumyshchyna: BpLA ➡️ in the direction of Konotop. 🛵 Chernihiv region: BpLA ➡️ in the direction of Korop. 🛵 Kyiv region: BpLA ➡️ course to Rzhyshchiv.",
+    "description_en": "Sumyshchyna: BpLA ➡️ in the direction of Konotop. 🛵 Chernihiv region: BpLA ➡️ in the direction of Korop. 🛵 Kyiv region: BpLA ➡️ course to Rzhyshchiv.",
+    "description_uk": "Сумщина: БпЛА ➡️ в напрямку Конотопа. 🛵 Чернігівщина: БпЛА ➡️ в напрямку Коропа. 🛵 Київщина: БпЛА ➡️ курсом на Ржищів.",
+    "time": "",
+    "pubDate": "2026-07-23T09:39:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69812",
+    "score": 6.0,
+    "views": 55765,
+    "forwards": 15
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -50,8 +122,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9688",
     "score": 5.0,
-    "views": 630,
-    "forwards": 10
+    "views": 735,
+    "forwards": 15
   },
   {
     "title": "Drone incoming",
@@ -86,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196673",
     "score": 5.5,
-    "views": 150978,
-    "forwards": 282
+    "views": 172808,
+    "forwards": 318
   },
   {
     "title": "Donetsk: Drone incoming",
@@ -104,8 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41405",
     "score": 13.0,
-    "views": 6585,
-    "forwards": 21
+    "views": 7234,
+    "forwards": 24
   },
   {
     "title": "Reactive BpLA ➡️ in the direction of Mykolaiv.",
@@ -158,8 +230,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54439",
     "score": 5.0,
-    "views": 1938,
-    "forwards": 1
+    "views": 2247,
+    "forwards": 3
   },
   {
     "title": "Kharkiv: Jet UAVs in the Kharkiv region past Bogodukhiv ➡️ on a...",
@@ -180,60 +252,6 @@
     "forwards": 0
   },
   {
-    "title": "Sumy: BpLA in the direction of the city of Sumy from the north.",
-    "title_en": "Sumy: BpLA in the direction of the city of Sumy from the north.",
-    "title_uk": "Суми: БпЛА в напрямку м. Суми з пн.",
-    "description": "BpLA in the direction of the city of Sumy from the north.",
-    "description_en": "BpLA in the direction of the city of Sumy from the north.",
-    "description_uk": "БпЛА в напрямку м.Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-07-22T23:22:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69731",
-    "score": 6.0,
-    "views": 9998,
-    "forwards": 1
-  },
-  {
-    "title": "Odesa: Odesa: BpLA over the city. Stay in shelters.",
-    "title_en": "Odesa: Odesa: BpLA over the city. Stay in shelters.",
-    "title_uk": "Одеса: Одеса: БпЛА над містом. Перебувати в притулках.",
-    "description": "Odesa: BpLA over the city. Stay in shelters.",
-    "description_en": "Odesa: BpLA over the city. Stay in shelters.",
-    "description_uk": "Одеса: БпЛА над містом.Перебувайте в укриттях.",
-    "time": "",
-    "pubDate": "2026-07-22T21:55:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69729",
-    "score": 11.0,
-    "views": 17454,
-    "forwards": 27
-  },
-  {
-    "title": "Kharkiv: BpLA in the direction of the city of Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA in the direction of the city of Kharkiv from the north.",
-    "title_uk": "Харків: БпЛА в напрямку м. Харкова з півн.",
-    "description": "BpLA in the direction of the city of Kharkiv from the north.",
-    "description_en": "BpLA in the direction of the city of Kharkiv from the north.",
-    "description_uk": "БпЛА в напрямку м.Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-07-22T21:39:11+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69727",
-    "score": 6.0,
-    "views": 24430,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Casualties reported",
     "title_en": "Kyiv: Casualties reported",
     "title_uk": "Київ: повідомляється про постраждалих",
@@ -248,8 +266,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54437",
     "score": 6.0,
-    "views": 2558,
-    "forwards": 7
+    "views": 2759,
+    "forwards": 8
   },
   {
     "title": "During the 48th session of the UNESCO World Heritage Committee held...",
@@ -266,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9682",
     "score": 4.0,
-    "views": 674,
+    "views": 689,
     "forwards": 5
   },
   {
@@ -284,26 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20107",
     "score": 5.5,
-    "views": 121976,
+    "views": 124186,
     "forwards": 240
-  },
-  {
-    "title": "The order of further steps was determined. Decisions regarding the...",
-    "title_en": "The order of further steps was determined. Decisions regarding the...",
-    "title_uk": "Визначено порядок подальших дій. Рішення щодо...",
-    "description": "The order of further steps was determined. Decisions regarding the replacement of the leadership of the Armed Forces of Ukraine will be formalized today - relevant decrees are being prepared. Together with Mykhailo Drapaty and Yevgeny Khmara, they determined that the new Chief of the General Staff of the Armed Forces of Ukraine would be Major General Ihor Skybyuk - a very experienced military man, with whom the new Commander-in-Chief defended Ukraine side by side. Importantly,...",
-    "description_en": "The order of further steps was determined. Decisions regarding the replacement of the leadership of the Armed Forces of Ukraine will be formalized today - relevant decrees are being prepared. Together with Mykhailo Drapaty and Yevgeny Khmara, they determined that the new Chief of the General Staff of the Armed Forces of Ukraine would be Major General Ihor Skybyuk - a very experienced military man, with whom the new Commander-in-Chief defended Ukraine side by side. Importantly,...",
-    "description_uk": "Визначили порядок подальших кроків. Сьогодні будуть формалізовані рішення щодо заміни керівництва Збройних Сил України – відповідні укази готуються. Разом із Михайлом Драпатим та Євгенієм Хмарою визначили, що новим начальником Генерального штабу Збройних Сил України стане генерал-майор Ігор Скибюк – дуже досвідчений військовий, із яким новий Головнокомандувач пліч-о-пліч захищав Україну. Важливо,...",
-    "time": "",
-    "pubDate": "2026-07-22T09:38:35+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20103",
-    "score": 6.5,
-    "views": 331554,
-    "forwards": 1090
   },
   {
     "title": "Striking oil facilities, ports and arms factories: the combat record...",
@@ -320,25 +320,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48875",
     "score": 8.0,
-    "views": 98,
+    "views": 101,
     "forwards": 0
-  },
-  {
-    "title": "🤨 Very interesting and \"apolitical\" publication of the Logistics...",
-    "title_en": "🤨 Very interesting and \"apolitical\" publication of the Logistics...",
-    "title_uk": "🤨 Дуже цікава та \"аполітична\" публікація Логістики...",
-    "description": "🤨 Very interesting and \"apolitical\" publication of the Logistics Forces Command of the Armed Forces of Ukraine towards the Ministry of Defense 😏 Yesterday, so far, Commander-in-Chief Sirskyi said that President Zelenskyi lied about their conflict with Fedorov. And today, the KSL of the Armed Forces of Ukraine comes out of his submission and thanks the Supreme Commander-in-Chief for his assistance in the resignation of Fedorov. 🪟 The window of opportunity to seize the initiative in war can...",
-    "description_en": "🤨 Very interesting and \"apolitical\" publication of the Logistics Forces Command of the Armed Forces of Ukraine towards the Ministry of Defense 😏 Yesterday, so far, Commander-in-Chief Sirskyi said that President Zelenskyi lied about their conflict with Fedorov. And today, the KSL of the Armed Forces of Ukraine comes out of his submission and thanks the Supreme Commander-in-Chief for his assistance in the resignation of Fedorov. 🪟 The window of opportunity to seize the initiative in war can...",
-    "description_uk": "🤨 Дуже цікава і \"аполітична\" публікація Командування Сил логістики ЗСУ в бік Міністерства оборони 😏 Учора поки що головнокомандувач Сирський заявив, що президент Зеленський збрехав про їхній конфлікт із Федоровим. А сьогодні з його ж подачі виходить КСЛ ЗСУ й дякує верховному головнокомандувачу за сприяння у відставці Федорова. 🪟 Вікно можливостей для перехоплення ініціативи у війні може...",
-    "time": "",
-    "pubDate": "2026-07-21T11:23:06+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "DeepState",
-    "link": "https://t.me/DeepStateUA/23671",
-    "score": 5.5,
-    "views": 216700,
-    "forwards": 1205
   }
 ]
