@@ -1,5 +1,59 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons from the north!",
+    "description_en": "☄️ The threat of using ballistic weapons from the north!",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння з півночі!",
+    "time": "",
+    "pubDate": "2026-07-23T08:37:42+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69810",
+    "score": 5.0,
+    "views": 61716,
+    "forwards": 34
+  },
+  {
+    "title": "Mykolaiv: A group of jet UAVs ➡️ in Mykolaiv.",
+    "title_en": "Mykolaiv: A group of jet UAVs ➡️ in Mykolaiv.",
+    "title_uk": "Миколаїв: Група реактивних БПЛА ➡️ у Миколаєві.",
+    "description": "A group of jet UAVs ➡️ in Mykolaiv.",
+    "description_en": "A group of jet UAVs ➡️ in Mykolaiv.",
+    "description_uk": "Група реактивних БПЛА ➡️ на Миколаїв.",
+    "time": "",
+    "pubDate": "2026-07-23T08:36:35+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69809",
+    "score": 6.0,
+    "views": 82972,
+    "forwards": 34
+  },
+  {
+    "title": "Kherson: 🇳 Andriy Sybiga: UNESCO included the world heritage site - \"The...",
+    "title_en": "Kherson: 🇳 Andriy Sybiga: UNESCO included the world heritage site - \"The...",
+    "title_uk": "Херсон: 🇳 Андрій Сибіга: ЮНЕСКО внесло об’єкт всесвітньої спадщини – «...",
+    "description": "🇳 Andriy Sybiga: UNESCO included the world heritage site - \"The ancient city of Tavrian Chersonesus and its choir\" - on the List of World Heritage Sites in Danger. The decision was taken today by UNESCO's World Heritage Committee at its 48th Session (48WHC). 💬 \"We welcome this decision. This facility, located in the Ukrainian Crimea, which is temporarily occupied by Russia,...",
+    "description_en": "🇳 Andriy Sybiga: UNESCO included the world heritage site - \"The ancient city of Tavrian Chersonesus and its choir\" - on the List of World Heritage Sites in Danger. The decision was taken today by UNESCO's World Heritage Committee at its 48th Session (48WHC). 💬 \"We welcome this decision. This facility, located in the Ukrainian Crimea, which is temporarily occupied by Russia,...",
+    "description_uk": "🇳 Андрій Сибіга: ЮНЕСКО внесла об'єкт всесвітньої спадщини – \"Стародавнє місто Таврійський Херсонес та його хору\" – до Списку об'єктів всесвітньої спадщини, що перебувають під загрозою. Рішення було прийнято сьогодні в рамках Комітету всесвітньої спадщини ЮНЕСКО на своїй 48-й сесії (48WHC). 💬 \"Ми вітаємо це рішення. Цей об'єкт, розташований в українському Криму, який тимчасово окупований Росією,...",
+    "time": "",
+    "pubDate": "2026-07-23T07:34:45+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9688",
+    "score": 5.0,
+    "views": 630,
+    "forwards": 10
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -18,24 +72,6 @@
     "forwards": 0
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons from the south.",
-    "description_en": "☄️ The threat of using ballistic weapons from the south.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння з півдня.",
-    "time": "",
-    "pubDate": "2026-07-23T06:31:48+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69792",
-    "score": 5.0,
-    "views": 50553,
-    "forwards": 34
-  },
-  {
     "title": "Drone strike",
     "title_en": "Drone strike",
     "title_uk": "Безпілотний удар",
@@ -50,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196673",
     "score": 5.5,
-    "views": 99452,
-    "forwards": 212
+    "views": 150978,
+    "forwards": 282
   },
   {
     "title": "Donetsk: Drone incoming",
@@ -68,8 +104,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41405",
     "score": 13.0,
-    "views": 4855,
-    "forwards": 18
+    "views": 6585,
+    "forwards": 21
   },
   {
     "title": "Reactive BpLA ➡️ in the direction of Mykolaiv.",
@@ -122,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54439",
     "score": 5.0,
-    "views": 1405,
+    "views": 1938,
     "forwards": 1
   },
   {
@@ -212,62 +248,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54437",
     "score": 6.0,
-    "views": 2206,
+    "views": 2558,
     "forwards": 7
-  },
-  {
-    "title": "Zaporizhzhia: BpLA in the city of Zaporozhye from the west.",
-    "title_en": "Zaporizhzhia: BpLA in the city of Zaporozhye from the west.",
-    "title_uk": "Запоріжжя: БпЛА в м. Запоріжжя із зах.",
-    "description": "BpLA in the city of Zaporozhye from the west.",
-    "description_en": "BpLA in the city of Zaporozhye from the west.",
-    "description_uk": "БпЛА на м.Запоріжжя з заходу.",
-    "time": "",
-    "pubDate": "2026-07-22T20:18:54+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69719",
-    "score": 6.0,
-    "views": 16190,
-    "forwards": 0
-  },
-  {
-    "title": "BpLA from Poltava region heading for Cherkasy region 🛵 BpLA in the...",
-    "title_en": "BpLA from Poltava region heading for Cherkasy region 🛵 BpLA in the...",
-    "title_uk": "BpLA з Полтавщини прямує на Черкащину 🛵 BpLA в...",
-    "description": "BpLA from Poltava region heading for Cherkasy region 🛵 BpLA in the direction of Shostka",
-    "description_en": "BpLA from Poltava region heading for Cherkasy region 🛵 BpLA in the direction of Shostka",
-    "description_uk": "БпЛА з Полтавщини курсом на Черкащину 🛵 БпЛА в напрямку Шостки",
-    "time": "",
-    "pubDate": "2026-07-22T19:37:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Cherkasy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69714",
-    "score": 5.0,
-    "views": 53645,
-    "forwards": 0
-  },
-  {
-    "title": "🤬Russia knocks out a gas station in Sumy: two gas stations were hit...",
-    "title_en": "🤬Russia knocks out a gas station in Sumy: two gas stations were hit...",
-    "title_uk": "🤬Росія вибила з ладу АЗС у Сумах: потрапили дві АЗС...",
-    "description": "🤬Russia knocks out a gas station in Sumy: two gas stations were hit in a short time - local channels",
-    "description_en": "🤬Russia knocks out a gas station in Sumy: two gas stations were hit in a short time - local channels",
-    "description_uk": "🤬русня выбивает АЗС в Сумах: за час под удар попали две автозаправки, — местные каналы",
-    "time": "",
-    "pubDate": "2026-07-22T19:35:01+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196662",
-    "score": 5.5,
-    "views": 199242,
-    "forwards": 261
   },
   {
     "title": "During the 48th session of the UNESCO World Heritage Committee held...",
@@ -284,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9682",
     "score": 4.0,
-    "views": 627,
+    "views": 674,
     "forwards": 5
   },
   {
@@ -302,15 +284,15 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20107",
     "score": 5.5,
-    "views": 118888,
-    "forwards": 239
+    "views": 121976,
+    "forwards": 240
   },
   {
     "title": "The order of further steps was determined. Decisions regarding the...",
     "title_en": "The order of further steps was determined. Decisions regarding the...",
     "title_uk": "Визначено порядок подальших дій. Рішення щодо...",
-    "description": "The order of further steps was determined. Decisions regarding the replacement of the leadership of the Armed Forces of Ukraine will be formalized today - relevant decrees are being prepared. Together with Mykhailo Drapaty and Yevgeny Khmara, they determined that the new Chief of the General Staff of the Armed Forces of Ukraine will be Major General Ihor Skybyuk - a very experienced military man, with whom the new Commander-in-Chief defended Ukraine side by side. Importantly,...",
-    "description_en": "The order of further steps was determined. Decisions regarding the replacement of the leadership of the Armed Forces of Ukraine will be formalized today - relevant decrees are being prepared. Together with Mykhailo Drapaty and Yevgeny Khmara, they determined that the new Chief of the General Staff of the Armed Forces of Ukraine will be Major General Ihor Skybyuk - a very experienced military man, with whom the new Commander-in-Chief defended Ukraine side by side. Importantly,...",
+    "description": "The order of further steps was determined. Decisions regarding the replacement of the leadership of the Armed Forces of Ukraine will be formalized today - relevant decrees are being prepared. Together with Mykhailo Drapaty and Yevgeny Khmara, they determined that the new Chief of the General Staff of the Armed Forces of Ukraine would be Major General Ihor Skybyuk - a very experienced military man, with whom the new Commander-in-Chief defended Ukraine side by side. Importantly,...",
+    "description_en": "The order of further steps was determined. Decisions regarding the replacement of the leadership of the Armed Forces of Ukraine will be formalized today - relevant decrees are being prepared. Together with Mykhailo Drapaty and Yevgeny Khmara, they determined that the new Chief of the General Staff of the Armed Forces of Ukraine would be Major General Ihor Skybyuk - a very experienced military man, with whom the new Commander-in-Chief defended Ukraine side by side. Importantly,...",
     "description_uk": "Визначили порядок подальших кроків. Сьогодні будуть формалізовані рішення щодо заміни керівництва Збройних Сил України – відповідні укази готуються. Разом із Михайлом Драпатим та Євгенієм Хмарою визначили, що новим начальником Генерального штабу Збройних Сил України стане генерал-майор Ігор Скибюк – дуже досвідчений військовий, із яким новий Головнокомандувач пліч-о-пліч захищав Україну. Важливо,...",
     "time": "",
     "pubDate": "2026-07-22T09:38:35+00:00",
@@ -320,26 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20103",
     "score": 6.5,
-    "views": 324693,
-    "forwards": 1087
-  },
-  {
-    "title": "Kyiv: 🇬🇧 The head of the Ministry of Foreign Affairs of Ukraine Andriy...",
-    "title_en": "Kyiv: 🇬🇧 The head of the Ministry of Foreign Affairs of Ukraine Andriy...",
-    "title_uk": "Київ: 🇬🇧 Глава МЗС України Андрій...",
-    "description": "🇬🇧 The head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga held the first telephone conversation with the newly appointed Secretary of State for Foreign Affairs of Great Britain Ed Miliband. Andriy Sybiga congratulated him on his appointment and thanked Great Britain for its steadfast support of Ukraine since the first days of the full-scale invasion of Russia, in particular for military, energy, humanitarian, economic and sanctions...",
-    "description_en": "🇬🇧 The head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga held the first telephone conversation with the newly appointed Secretary of State for Foreign Affairs of Great Britain Ed Miliband. Andriy Sybiga congratulated him on his appointment and thanked Great Britain for its steadfast support of Ukraine since the first days of the full-scale invasion of Russia, in particular for military, energy, humanitarian, economic and sanctions...",
-    "description_uk": "🇬🇧 Очільник МЗС України Андрій Сибіга провів першу телефонну розмову з новопризначеним державним секретарем у закордонних справах Великої Британії Едом Мілібендом. Андрій Сибіга привітав його з призначенням на посаду та подякував Великій Британії за непохитну підтримку України з перших днів повномасштабного вторгнення Росії, зокрема за військову, енергетичну, гуманітарну, економічну та санкційну...",
-    "time": "",
-    "pubDate": "2026-07-21T14:40:22+00:00",
-    "category": "political",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9666",
-    "score": 4.5,
-    "views": 876,
-    "forwards": 7
+    "views": 331554,
+    "forwards": 1090
   },
   {
     "title": "Striking oil facilities, ports and arms factories: the combat record...",
@@ -356,7 +320,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48875",
     "score": 8.0,
-    "views": 95,
+    "views": 98,
     "forwards": 0
   },
   {
@@ -374,7 +338,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23671",
     "score": 5.5,
-    "views": 215800,
-    "forwards": 1204
+    "views": 216700,
+    "forwards": 1205
   }
 ]
