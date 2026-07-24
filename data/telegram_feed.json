@@ -1,5 +1,59 @@
 [
   {
+    "title": "Sumy: BpLA on Sumy from the north.",
+    "title_en": "Sumy: BpLA on Sumy from the north.",
+    "title_uk": "Суми: БпЛА на Суми з півн.",
+    "description": "BpLA on Sumy from the north.",
+    "description_en": "BpLA on Sumy from the north.",
+    "description_uk": "БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-07-24T17:19:25+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69983",
+    "score": 6.0,
+    "views": 8077,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAVs on Romny from the west in Sumy Oblast.",
+    "description_en": "Jet UAVs on Romny from the west in Sumy Oblast.",
+    "description_uk": "Реактивні БпЛА на Ромни із заходу на Сумщині.",
+    "time": "",
+    "pubDate": "2026-07-24T16:50:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/69982",
+    "score": 5.0,
+    "views": 34377,
+    "forwards": 34
+  },
+  {
+    "title": "Ukraine is preparing the largest drone deal with the United States,...",
+    "title_en": "Ukraine is preparing the largest drone deal with the United States,...",
+    "title_uk": "Україна готує найбільшу угоду про безпілотники з США,...",
+    "description": "Ukraine is preparing the largest drone deal with the United States, and the range of Ukrainian UAVs may reach 10,000 km already next year, — Zelensky. In an interview with blogger Laura Loomer, the president said that Ukraine is already transferring to the Americans unique combat experience in the use of sea, air and long-range drones: \"Now the Russians and we already have drones with a range of more than 3,000 kilometers. In this...",
+    "description_en": "Ukraine is preparing the largest drone deal with the United States, and the range of Ukrainian UAVs may reach 10,000 km already next year, — Zelensky. In an interview with blogger Laura Loomer, the president said that Ukraine is already transferring to the Americans unique combat experience in the use of sea, air and long-range drones: \"Now the Russians and we already have drones with a range of more than 3,000 kilometers. In this...",
+    "description_uk": "Украина готовит крупнейшую сделку по дронам с США, а дальность украинских БПЛА может достичь 10 тысяч км уже в следующем году, — Зеленский В интервью блогерше Лоре Лумер президент рассказал, что Украина уже передает американцам уникальный боевой опыт применения морских, воздушных и дальнобойных беспилотников: «Сейчас у россиян и у нас уже есть дроны с дальностью более 3 тысяч километров. В этом...",
+    "time": "",
+    "pubDate": "2026-07-24T15:59:47+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/196808",
+    "score": 8.5,
+    "views": 80849,
+    "forwards": 143
+  },
+  {
     "title": "Sloviansk: 5 killed, 9 injured",
     "title_en": "Sloviansk: 5 killed, 9 injured",
     "title_uk": "Слов'янськ: 5 загиблих, 9 поранених",
@@ -14,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54464",
     "score": 11.0,
-    "views": 207,
+    "views": 950,
     "forwards": 2
   },
   {
@@ -50,26 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196805",
     "score": 5.5,
-    "views": 22476,
-    "forwards": 71
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAVs in the direction of the north of Sumy Oblast from the Glushkovo district of the Russian Federation.",
-    "description_en": "Jet UAVs in the direction of the north of Sumy Oblast from the Glushkovo district of the Russian Federation.",
-    "description_uk": "Реактивні БпЛА в напрямку півночі Сумщини з району глушково рф.",
-    "time": "",
-    "pubDate": "2026-07-24T15:23:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69974",
-    "score": 5.0,
-    "views": 45499,
-    "forwards": 0
+    "views": 89276,
+    "forwards": 143
   },
   {
     "title": "Sloviansk: Airstrike attack on residential area",
@@ -86,8 +122,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9707",
     "score": 6.0,
-    "views": 370,
-    "forwards": 7
+    "views": 546,
+    "forwards": 8
   },
   {
     "title": "Chernihiv: A group of jet UAVs in Sumy Oblast - headed for Chernihiv Oblast.",
@@ -122,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20136",
     "score": 4.5,
-    "views": 106009,
-    "forwards": 341
+    "views": 126248,
+    "forwards": 393
   },
   {
     "title": "Ballistic missile launch detected",
@@ -140,8 +176,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23682",
     "score": 11.5,
-    "views": 109172,
-    "forwards": 589
+    "views": 122838,
+    "forwards": 635
   },
   {
     "title": "New footage from the place of arrival in Kyiv appeared on the network",
@@ -194,8 +230,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54463",
     "score": 18.0,
-    "views": 1860,
-    "forwards": 13
+    "views": 2179,
+    "forwards": 14
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
@@ -284,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20127",
     "score": 7.5,
-    "views": 282283,
-    "forwards": 1695
+    "views": 298747,
+    "forwards": 1726
   },
   {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
@@ -320,7 +356,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48878",
     "score": 5.0,
-    "views": 40,
+    "views": 45,
     "forwards": 0
   },
   {
@@ -339,24 +375,6 @@
     "link": "https://t.me/kpszsu/69931",
     "score": 6.0,
     "views": 22209,
-    "forwards": 1
-  },
-  {
-    "title": "Sumy: BpLA on Sumy from the north.",
-    "title_en": "Sumy: BpLA on Sumy from the north.",
-    "title_uk": "Суми: БпЛА на Суми з півн.",
-    "description": "BpLA on Sumy from the north.",
-    "description_en": "BpLA on Sumy from the north.",
-    "description_uk": "БпЛА на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-07-24T09:12:17+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69930",
-    "score": 6.0,
-    "views": 36350,
     "forwards": 1
   },
   {
@@ -392,7 +410,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41444",
     "score": 5.0,
-    "views": 5392,
+    "views": 5666,
     "forwards": 7
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.5,
     "views": 144449,
     "forwards": 351
-  },
-  {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "164 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of July 24 (from 18:00 on July 23), the enemy attacked with five Kh-59/69 guided air missiles from the airspace over the Black Sea and 180 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and simulator drones of the type \"Parody\" from the directions of Bryansk, Kursk, Orel, Primorsko-Akhtarsk - Russian Federation, Donetsk - TOT,...",
-    "description_en": "164 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of July 24 (from 18:00 on July 23), the enemy attacked with five Kh-59/69 guided air missiles from the airspace over the Black Sea and 180 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and simulator drones of the type \"Parody\" from the directions of Bryansk, Kursk, Orel, Primorsko-Akhtarsk - Russian Federation, Donetsk - TOT,...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 164 ЦІЛІ ПРОТИВНИКА ➖➖➖➖➖➖➖➖➖➖ У ніч на 24 липня (з 18:00 23 липня) противник атакував п’ятьма керованими авіаційними ракетами Х-59/69 із повітряного простору над акваторією Чорного моря та 180 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу “Пародія” із напрямків Брянськ, Курськ, Орел, Приморсько-Ахтарськ – рф, Донецьк - ТОТ,...",
-    "time": "",
-    "pubDate": "2026-07-24T05:12:11+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41442",
-    "score": 13.0,
-    "views": 8282,
-    "forwards": 21
   }
 ]
