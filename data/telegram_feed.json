@@ -1,5 +1,23 @@
 [
   {
+    "title": "Izmail: BpLA on Izmail from the north in Odeshchyna.",
+    "title_en": "Izmail: BpLA on Izmail from the north in Odeshchyna.",
+    "title_uk": "Ізмаїл: BpLA на Ізмаїл з півночі на Одещині.",
+    "description": "BpLA on Izmail from the north in Odeshchyna.",
+    "description_en": "BpLA on Izmail from the north in Odeshchyna.",
+    "description_uk": "БпЛА на Ізмаїл з півночі на Одещині.",
+    "time": "",
+    "pubDate": "2026-07-24T22:34:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Izmail",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70015",
+    "score": 6.0,
+    "views": 3041,
+    "forwards": 0
+  },
+  {
     "title": "Sumy: BpLA on Sumy from the north.",
     "title_en": "Sumy: BpLA on Sumy from the north.",
     "title_uk": "Суми: БпЛА на Суми з півн.",
@@ -7,14 +25,14 @@
     "description_en": "BpLA on Sumy from the north.",
     "description_uk": "БпЛА на Суми з півночі.",
     "time": "",
-    "pubDate": "2026-07-24T21:28:25+00:00",
+    "pubDate": "2026-07-24T22:29:28+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Sumy",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70004",
+    "link": "https://t.me/kpszsu/70014",
     "score": 6.0,
-    "views": 3040,
+    "views": 7085,
     "forwards": 0
   },
   {
@@ -50,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54468",
     "score": 9.0,
-    "views": 1017,
+    "views": 1341,
     "forwards": 3
   },
   {
@@ -86,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196824",
     "score": 9.5,
-    "views": 74724,
-    "forwards": 641
+    "views": 91706,
+    "forwards": 732
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -122,7 +140,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9710",
     "score": 5.0,
-    "views": 545,
+    "views": 592,
     "forwards": 4
   },
   {
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54466",
     "score": 14.0,
-    "views": 1731,
+    "views": 1938,
     "forwards": 0
   },
   {
@@ -176,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20148",
     "score": 4.5,
-    "views": 280626,
-    "forwards": 900
+    "views": 299270,
+    "forwards": 914
   },
   {
     "title": "Drone incoming",
@@ -284,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9707",
     "score": 6.0,
-    "views": 742,
+    "views": 750,
     "forwards": 10
   },
   {
@@ -320,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20136",
     "score": 4.5,
-    "views": 156344,
+    "views": 158869,
     "forwards": 415
   },
   {
@@ -338,8 +356,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23682",
     "score": 11.5,
-    "views": 147720,
-    "forwards": 699
+    "views": 150135,
+    "forwards": 705
   },
   {
     "title": "New footage from the place of arrival in Kyiv appeared on the network",
@@ -430,23 +448,5 @@
     "score": 18.0,
     "views": 1654,
     "forwards": 6
-  },
-  {
-    "title": "Bucha: Attack attack",
-    "title_en": "Bucha: Attack attack",
-    "title_uk": "Буча: Атака",
-    "description": "The Kyiv OVA also confirmed the Russian attack on a private training ground in the Buchansky district. At the time of the attack, events were taking place on the territory. Emergency services are working on the spot, information about the consequences is being clarified.",
-    "description_en": "The Kyiv OVA also confirmed the Russian attack on a private training ground in the Buchansky district. At the time of the attack, events were taking place on the territory. Emergency services are working on the spot, information about the consequences is being clarified.",
-    "description_uk": "В Киевской ОВА также подтвердили российский удар по частному полигону в Бучанском районе В момент атаки на территории проходили мероприятия. На месте работают экстренные службы, информация о последствиях уточняется.",
-    "time": "",
-    "pubDate": "2026-07-24T11:29:15+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Bucha",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196776",
-    "score": 5.5,
-    "views": 126867,
-    "forwards": 177
   }
 ]
