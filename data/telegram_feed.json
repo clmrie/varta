@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_uk": "Харків: БпЛА на Харків з півночі.",
+    "description": "BpLA on Kharkiv from the north.",
+    "description_en": "BpLA on Kharkiv from the north.",
+    "description_uk": "БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-07-24T23:33:31+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70019",
+    "score": 6.0,
+    "views": 23260,
+    "forwards": 0
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons in areas where an air alert has been declared.",
+    "description_en": "☄️ The threat of using ballistic weapons in areas where an air alert has been declared.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння в областях де оголошена повітряна тривога.",
+    "time": "",
+    "pubDate": "2026-07-24T23:26:31+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70018",
+    "score": 5.0,
+    "views": 39590,
+    "forwards": 46
+  },
+  {
+    "title": "Kyiv: Energy infrastructure hit",
+    "title_en": "Kyiv: Energy infrastructure hit",
+    "title_uk": "Київ: удар по енергетичній інфраструктурі",
+    "description": "Ukrainian drones reportedly strike warehouses, energy infrastructure in mass attack on Russia's Belgorod. Ukrainian drones struck warehouses and energy infrastructure in the Russian city of Belgorod overnight on July 25, monitoring channels reported.",
+    "description_en": "Ukrainian drones reportedly strike warehouses, energy infrastructure in mass attack on Russia's Belgorod. Ukrainian drones struck warehouses and energy infrastructure in the Russian city of Belgorod overnight on July 25, monitoring channels reported.",
+    "description_uk": "Ukrainian drones reportedly strike warehouses, energy infrastructure in mass attack on Russia's Belgorod. Ukrainian drones struck warehouses and energy infrastructure in the Russian city of Belgorod overnight on July 25, monitoring channels reported.",
+    "time": "",
+    "pubDate": "2026-07-24T22:40:59+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54469",
+    "score": 11.5,
+    "views": 542,
+    "forwards": 1
+  },
+  {
     "title": "Izmail: BpLA on Izmail from the north in Odeshchyna.",
     "title_en": "Izmail: BpLA on Izmail from the north in Odeshchyna.",
     "title_uk": "Ізмаїл: BpLA на Ізмаїл з півночі на Одещині.",
@@ -56,7 +110,7 @@
   {
     "title": "Kyiv: Missile launch detected",
     "title_en": "Kyiv: Missile launch detected",
-    "title_uk": "Київ: виявлено пуск ракети",
+    "title_uk": "Київ: Зафіксовано пуск ракети",
     "description": "Zelensky warns of another Russian mass missile attack, says Moscow preparing for 'significant' wave of mobilization. Russia plans to launch a massive missile attack against Ukraine within the next 48 hours and is preparing for a \"significant\" wave of mobilization in the fall, President Volodymyr Zelensky said July 24.",
     "description_en": "Zelensky warns of another Russian mass missile attack, says Moscow preparing for 'significant' wave of mobilization. Russia plans to launch a massive missile attack against Ukraine within the next 48 hours and is preparing for a \"significant\" wave of mobilization in the fall, President Volodymyr Zelensky said July 24.",
     "description_uk": "Zelensky warns of another Russian mass missile attack, says Moscow preparing for 'significant' wave of mobilization. Russia plans to launch a massive missile attack against Ukraine within the next 48 hours and is preparing for a \"significant\" wave of mobilization in the fall, President Volodymyr Zelensky said July 24.",
@@ -68,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54468",
     "score": 9.0,
-    "views": 1341,
+    "views": 1623,
     "forwards": 3
   },
   {
@@ -104,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196824",
     "score": 9.5,
-    "views": 91706,
-    "forwards": 732
+    "views": 101252,
+    "forwards": 752
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -140,7 +194,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9710",
     "score": 5.0,
-    "views": 592,
+    "views": 629,
     "forwards": 4
   },
   {
@@ -194,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20148",
     "score": 4.5,
-    "views": 299270,
-    "forwards": 914
+    "views": 315702,
+    "forwards": 924
   },
   {
     "title": "Drone incoming",
@@ -291,8 +345,8 @@
     "title": "Sloviansk: Airstrike attack on residential area",
     "title_en": "Sloviansk: Airstrike attack on residential area",
     "title_uk": "Слов'янськ: авіаудар по житловому кварталу",
-    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to the Russian attack by the KAB on the Honorary Consulate of Latvia in Sloviansk: 💬 \"Another terrible news. The Honorary Consulate of Latvia in Sloviansk, Donetsk region, was hit by a Russian guided aerial bomb. This is another example of Russia's flagrant violation of the norms of international law and neglect of the protection of civilian and consular premises. We immediately...",
-    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to the Russian attack by the KAB on the Honorary Consulate of Latvia in Sloviansk: 💬 \"Another terrible news. The Honorary Consulate of Latvia in Sloviansk, Donetsk region, was hit by a Russian guided aerial bomb. This is another example of Russia's flagrant violation of the norms of international law and neglect of the protection of civilian and consular premises. We immediately...",
+    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to the Russian attack by the KAB on the Honorary Consulate of Latvia in Slovyansk: 💬 \"Another terrible news. The Honorary Consulate of Latvia in Slovyansk, Donetsk region, was hit by a Russian-guided aerial bomb. This is another example of Russia's flagrant violation of international law and neglect of the protection of civilian and consular premises. We immediately...",
+    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to the Russian attack by the KAB on the Honorary Consulate of Latvia in Slovyansk: 💬 \"Another terrible news. The Honorary Consulate of Latvia in Slovyansk, Donetsk region, was hit by a Russian-guided aerial bomb. This is another example of Russia's flagrant violation of international law and neglect of the protection of civilian and consular premises. We immediately...",
     "description_uk": "Очільник МЗС України Андрій Сибіга відреагував на російський удар КАБом по Почесному консульству Латвії у Словʼянську: 💬 \"Ще одна жахлива новина. Почесне консульство Латвії у Слов'янську Донецької області зазнало удару російською керованою авіабомбою. Це черговий приклад кричущого порушення Росією норм міжнародного права та нехтування захистом цивільних і консульських приміщень. Ми негайно...",
     "time": "",
     "pubDate": "2026-07-24T15:01:04+00:00",
@@ -302,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9707",
     "score": 6.0,
-    "views": 750,
+    "views": 755,
     "forwards": 10
   },
   {
@@ -327,8 +381,8 @@
     "title": "Attack attack on infrastructure",
     "title_en": "Attack attack on infrastructure",
     "title_uk": "Атака на інфраструктуру",
-    "description": "Report of Mykhailo Drapaty, Yevhenii Khmara and Pavel Palisa. The Commander-in-Chief of the Armed Forces reported on the situation at the front as a whole. We went through in detail those directions and tasks that require the most attention and operational solutions. In particular, we determined the order of our actions in response to Russian attacks on the infrastructure of our country, namely in response to Russian terror against our cities and communities...",
-    "description_en": "Report of Mykhailo Drapaty, Yevhenii Khmara and Pavel Palisa. The Commander-in-Chief of the Armed Forces reported on the situation at the front as a whole. We went through in detail those directions and tasks that require the most attention and operational solutions. In particular, we determined the order of our actions in response to Russian attacks on the infrastructure of our country, namely in response to Russian terror against our cities and communities...",
+    "description": "The report of Mykhailo Drapaty, Yevhenii Khmara and Pavel Palisa. The Commander-in-Chief of the Armed Forces reported on the situation at the front as a whole. We went through in detail those directions and tasks that require the most attention and operational solutions. In particular, we determined the order of our actions in response to Russian attacks on the infrastructure of our country, namely in response to Russian terror against our cities and communities...",
+    "description_en": "The report of Mykhailo Drapaty, Yevhenii Khmara and Pavel Palisa. The Commander-in-Chief of the Armed Forces reported on the situation at the front as a whole. We went through in detail those directions and tasks that require the most attention and operational solutions. In particular, we determined the order of our actions in response to Russian attacks on the infrastructure of our country, namely in response to Russian terror against our cities and communities...",
     "description_uk": "Доповідь Михайла Драпатого, Євгенія Хмари і Павла Паліси. Головнокомандувач ЗСУ доповів по ситуації на фронті в цілому. Детально пройшлися по тих напрямках і завданнях, які потребують найбільшої уваги й оперативних рішень. Зокрема, визначили порядок наших дій у відповідь на російські удари по інфраструктурі нашої країни, а саме у відповідь на російський терор проти наших міст і громад...",
     "time": "",
     "pubDate": "2026-07-24T13:51:34+00:00",
@@ -338,26 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20136",
     "score": 4.5,
-    "views": 158869,
-    "forwards": 415
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "A terrible tragedy happened today - the enemy launched a ballistic attack on an event organized by a private association of manufacturers 🚫 Brave1 was not an organizer or partner of the event. But this is a big loss for the industry. 🕯 We sincerely sympathize with every family that has lost loved ones. And we wish all the wounded a speedy recovery and strength to return to life. ✈️ Defense technology manufacturers are a constant target...",
-    "description_en": "A terrible tragedy happened today - the enemy launched a ballistic attack on an event organized by a private association of manufacturers 🚫 Brave1 was not an organizer or partner of the event. But this is a big loss for the industry. 🕯 We sincerely sympathize with every family that has lost loved ones. And we wish all the wounded a speedy recovery and strength to return to life. ✈️ Defense technology manufacturers are a constant target...",
-    "description_uk": "Сьогодні сталася жахлива трагедія - ворог завдав удару балістикою по заходу, який організувала приватна асоціація виробників 🚫 Brave1 не був організатором чи партнером заходу. Але це велика втрата для індустрії. 🕯 Щиро співчуваємо кожній родині, яка втратила близьких. А усім пораненим бажаємо якнайшвидшого одужання та сил повернутися до життя. ✈️ Виробники оборонних технологій - це постійна ціль...",
-    "time": "",
-    "pubDate": "2026-07-24T12:54:39+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "DeepState",
-    "link": "https://t.me/DeepStateUA/23682",
-    "score": 11.5,
-    "views": 150135,
-    "forwards": 705
+    "views": 160510,
+    "forwards": 417
   },
   {
     "title": "New footage from the place of arrival in Kyiv appeared on the network",
@@ -412,41 +448,5 @@
     "score": 18.0,
     "views": 2179,
     "forwards": 14
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на східному...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-07-24T12:13:07+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69952",
-    "score": 5.0,
-    "views": 53604,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
-    "description": "Military factory in Russia's Kirov in flames after reported Flamingo attack, local authorities report casualties. A major factory producing missile and aviation parts in the Russian city of Kirov was damaged in a Ukrainian Flamingo cruise missile strike that left six dead and dozens more injured, Russian and Ukrainian authorities as well as local media reported on July 24.",
-    "description_en": "Military factory in Russia's Kirov in flames after reported Flamingo attack, local authorities report casualties. A major factory producing missile and aviation parts in the Russian city of Kirov was damaged in a Ukrainian Flamingo cruise missile strike that left six dead and dozens more injured, Russian and Ukrainian authorities as well as local media reported on July 24.",
-    "description_uk": "Military factory in Russia's Kirov in flames after reported Flamingo attack, local authorities report casualties. A major factory producing missile and aviation parts in the Russian city of Kirov was damaged in a Ukrainian Flamingo cruise missile strike that left six dead and dozens more injured, Russian and Ukrainian authorities as well as local media reported on July 24.",
-    "time": "",
-    "pubDate": "2026-07-24T11:40:45+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54462",
-    "score": 18.0,
-    "views": 1654,
-    "forwards": 6
   }
 ]
