@@ -1,21 +1,57 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Strike UAVs in the east of Sumy Oblast in a southerly course in the direction of Poltava Oblast.",
+    "description_en": "Strike UAVs in the east of Sumy Oblast in a southerly course in the direction of Poltava Oblast.",
+    "description_uk": "Ударні БпЛА на сході Сумщини південним курсом у напрямку Полтавщини.",
+    "time": "",
+    "pubDate": "2026-07-25T22:30:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70111",
+    "score": 5.0,
+    "views": 2562,
+    "forwards": 1
+  },
+  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Київ: виявлено пуск балістичної ракети",
-    "description": "Multiple explosions reported in Kyiv. Multiple explosions were heard in Kyiv at 12:23 a.m. local time, according to Kyiv Independent journalists on the ground. Moments prior, Ukraine's Air Force warned of the incoming threat of ballistic missile strikes on the capital.",
-    "description_en": "Multiple explosions reported in Kyiv. Multiple explosions were heard in Kyiv at 12:23 a.m. local time, according to Kyiv Independent journalists on the ground. Moments prior, Ukraine's Air Force warned of the incoming threat of ballistic missile strikes on the capital.",
-    "description_uk": "Multiple explosions reported in Kyiv. Multiple explosions were heard in Kyiv at 12:23 a.m. local time, according to Kyiv Independent journalists on the ground. Moments prior, Ukraine's Air Force warned of the incoming threat of ballistic missile strikes on the capital.",
+    "description": "Residential building struck in Kyiv as Russia launches ballistic missiles towards capital. Kyiv Mayor Vitali Klitschko reported that missile debris fell onto an 18-story residential building in Kyiv amid Russia's latest overnight missile attack on the capital, leading to a fire between the 7th and 8th floors.",
+    "description_en": "Residential building struck in Kyiv as Russia launches ballistic missiles towards capital. Kyiv Mayor Vitali Klitschko reported that missile debris fell onto an 18-story residential building in Kyiv amid Russia's latest overnight missile attack on the capital, leading to a fire between the 7th and 8th floors.",
+    "description_uk": "Residential building struck in Kyiv as Russia launches ballistic missiles towards capital. Kyiv Mayor Vitali Klitschko reported that missile debris fell onto an 18-story residential building in Kyiv amid Russia's latest overnight missile attack on the capital, leading to a fire between the 7th and 8th floors.",
     "time": "",
-    "pubDate": "2026-07-25T21:25:29+00:00",
+    "pubDate": "2026-07-25T22:01:30+00:00",
     "category": "missile",
     "severity": "critical",
     "location": "Kyiv",
     "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54476",
-    "score": 10.0,
-    "views": 394,
-    "forwards": 3
+    "link": "https://t.me/KyivIndependent_official/54477",
+    "score": 13.0,
+    "views": 608,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: Speed ​​goal in Chernihiv Oblast.",
+    "title_en": "Chernihiv: Speed ​​goal in Chernihiv Oblast.",
+    "title_uk": "Чернігів: Спідгол у Чернігівській області.",
+    "description": "Speed ​​goal in Chernihiv Oblast.",
+    "description_en": "Speed ​​goal in Chernihiv Oblast.",
+    "description_uk": "Швидкісна ціль на Чернігівщині.",
+    "time": "",
+    "pubDate": "2026-07-25T21:53:43+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70109",
+    "score": 6.0,
+    "views": 53824,
+    "forwards": 34
   },
   {
     "title": "Chernihiv: Ballistic missile launch detected",
@@ -36,24 +72,6 @@
     "forwards": 104
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons from the north.",
-    "description_en": "☄️ The threat of using ballistic weapons from the north.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння з півночі.",
-    "time": "",
-    "pubDate": "2026-07-25T21:21:21+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70107",
-    "score": 5.0,
-    "views": 50824,
-    "forwards": 11
-  },
-  {
     "title": "Drone strike near civilians",
     "title_en": "Drone strike near civilians",
     "title_uk": "Удар безпілотників поблизу мирних жителів",
@@ -68,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196894",
     "score": 6.5,
-    "views": 47438,
-    "forwards": 213
+    "views": 72640,
+    "forwards": 288
   },
   {
     "title": "Kharkiv: A group of BpLA in Sumy Oblast - heading for Kharkiv Oblast. 🛵 BpLA...",
@@ -104,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196892",
     "score": 5.5,
-    "views": 73512,
-    "forwards": 74
+    "views": 91105,
+    "forwards": 110
   },
   {
     "title": "Jet UAV to the south of Odesa.",
@@ -194,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20162",
     "score": 4.5,
-    "views": 48593,
-    "forwards": 63
+    "views": 51743,
+    "forwards": 64
   },
   {
     "title": "BpLA in the direction of Pavlograd from the south",
@@ -230,7 +248,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9724",
     "score": 4.0,
-    "views": 563,
+    "views": 623,
     "forwards": 7
   },
   {
@@ -320,8 +338,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41474",
     "score": 6.5,
-    "views": 32194,
-    "forwards": 72
+    "views": 33538,
+    "forwards": 73
   },
   {
     "title": "People who watch short videos for 5-7 hours a day are more likely to...",
@@ -340,24 +358,6 @@
     "score": 6.5,
     "views": 116947,
     "forwards": 740
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A group of UAVs in the direction of Kryvyi Rih.",
-    "description_en": "A group of UAVs in the direction of Kryvyi Rih.",
-    "description_uk": "Група БпЛА в напрямку Кривого Рогу.",
-    "time": "",
-    "pubDate": "2026-07-25T11:14:29+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70076",
-    "score": 5.0,
-    "views": 65813,
-    "forwards": 34
   },
   {
     "title": "KAB launches in the direction of Chornomorsk.",
@@ -392,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20150",
     "score": 19.5,
-    "views": 140246,
-    "forwards": 201
+    "views": 142547,
+    "forwards": 203
   },
   {
     "title": "Donetsk: Drone incoming",
@@ -410,7 +410,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41459",
     "score": 13.0,
-    "views": 9468,
+    "views": 9592,
     "forwards": 30
   },
   {
