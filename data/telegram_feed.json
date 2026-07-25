@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons from the north.",
+    "description_en": "☄️ The threat of using ballistic weapons from the north.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння з півночі.",
+    "time": "",
+    "pubDate": "2026-07-25T16:27:55+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70091",
+    "score": 5.0,
+    "views": 4040,
+    "forwards": 0
+  },
+  {
+    "title": "Chornomorsk - BpLA in the direction of the city.",
+    "title_en": "Chornomorsk - BpLA in the direction of the city.",
+    "title_uk": "Чорноморськ – БпЛА в напрямку м.",
+    "description": "Chornomorsk - BpLA in the direction of the city.",
+    "description_en": "Chornomorsk - BpLA in the direction of the city.",
+    "description_uk": "Чорноморськ - БпЛА в напрямку міста.",
+    "time": "",
+    "pubDate": "2026-07-25T16:21:35+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70090",
+    "score": 5.0,
+    "views": 10669,
+    "forwards": 0
+  },
+  {
     "title": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
     "title_en": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
     "title_uk": "Запоріжжя: Запоріжжя – БпЛА в напрямку м.",
@@ -68,8 +104,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41474",
     "score": 6.5,
-    "views": 16674,
-    "forwards": 64
+    "views": 18388,
+    "forwards": 67
   },
   {
     "title": "People who watch short videos for 5-7 hours a day are more likely to...",
@@ -176,7 +212,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20150",
     "score": 18.5,
-    "views": 115177,
+    "views": 118403,
     "forwards": 183
   },
   {
@@ -266,44 +302,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41459",
     "score": 13.0,
-    "views": 8446,
-    "forwards": 29
-  },
-  {
-    "title": "Kherson: Drone incoming",
-    "title_en": "Kherson: Drone incoming",
-    "title_uk": "Херсон: Дрон вхід",
-    "description": "Groups of jet UAVs from Zaporizhzhya TOT in the direction of Kherson region, also a group of jet drones is approaching Sumy Oblast (one drone on the outskirts of Sumy)",
-    "description_en": "Groups of jet UAVs from Zaporizhzhya TOT in the direction of Kherson region, also a group of jet drones is approaching Sumy Oblast (one drone on the outskirts of Sumy)",
-    "description_uk": "Групи реактивних БпЛА із ТОТ Запорізької у напрямку Херсонської обл, також група реактивних дронів наближається до Сумщини (один дрон на околицях Сум)",
-    "time": "",
-    "pubDate": "2026-07-25T04:18:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kherson",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70047",
-    "score": 6.0,
-    "views": 11086,
-    "forwards": 0
-  },
-  {
-    "title": "Assault UAV groups in Sumy Oblast (Khotyn, Ughrody), as well as Odesa...",
-    "title_en": "Assault UAV groups in Sumy Oblast (Khotyn, Ughrody), as well as Odesa...",
-    "title_uk": "Штурмові групи БПЛА в Сумській області (Хотин, Угороди), а також Одеській...",
-    "description": "Assault UAV groups in Sumy Oblast (Khotyn, Ughrody), as well as Odesa Odesa in the area of ​​Zmiiny Island",
-    "description_en": "Assault UAV groups in Sumy Oblast (Khotyn, Ughrody), as well as Odesa Odesa in the area of ​​Zmiiny Island",
-    "description_uk": "Групи ударних БпЛА на Сумщині (Хотінь, Угроди), а також на Одещині в районі о.Зміїний",
-    "time": "",
-    "pubDate": "2026-07-25T04:11:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70046",
-    "score": 5.0,
-    "views": 19203,
-    "forwards": 0
+    "views": 8647,
+    "forwards": 30
   },
   {
     "title": "Kyiv: Explosions reported",
@@ -320,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54471",
     "score": 11.5,
-    "views": 2814,
+    "views": 2898,
     "forwards": 3
   },
   {
@@ -338,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54470",
     "score": 4.0,
-    "views": 2796,
+    "views": 2882,
     "forwards": 4
   },
   {
@@ -392,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9710",
     "score": 5.0,
-    "views": 979,
+    "views": 986,
     "forwards": 6
   },
   {
@@ -428,25 +428,25 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20148",
     "score": 4.5,
-    "views": 490011,
+    "views": 492518,
     "forwards": 980
   },
   {
-    "title": "Sloviansk: 5 killed, 9 injured",
-    "title_en": "Sloviansk: 5 killed, 9 injured",
-    "title_uk": "Слов'янськ: 5 загиблих, 9 поранених",
-    "description": "5 killed, 9 injured as Russian forces bombard Sloviansk with glide bombs. Two air-dropped bombs were used in the morning attack, said regional governor Vadym Filashkin, repeating calls for the remaining residents of the city to evacuate to safer areas.",
-    "description_en": "5 killed, 9 injured as Russian forces bombard Sloviansk with glide bombs. Two air-dropped bombs were used in the morning attack, said regional governor Vadym Filashkin, repeating calls for the remaining residents of the city to evacuate to safer areas.",
-    "description_uk": "5 killed, 9 injured as Russian forces bombard Sloviansk with glide bombs. Two air-dropped bombs were used in the morning attack, said regional governor Vadym Filashkin, repeating calls for the remaining residents of the city to evacuate to safer areas.",
+    "title": "Sloviansk: Airstrike attack on residential area",
+    "title_en": "Sloviansk: Airstrike attack on residential area",
+    "title_uk": "Слов'янськ: авіаудар по житловому кварталу",
+    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to the Russian attack by the KAB on the Honorary Consulate of Latvia in Slovyansk: 💬 \"Another terrible news. The Honorary Consulate of Latvia in Slovyansk, Donetsk region, was hit by a Russian-guided aerial bomb. This is another example of Russia's flagrant violation of international law and neglect of the protection of civilian and consular premises. We immediately...",
+    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to the Russian attack by the KAB on the Honorary Consulate of Latvia in Slovyansk: 💬 \"Another terrible news. The Honorary Consulate of Latvia in Slovyansk, Donetsk region, was hit by a Russian-guided aerial bomb. This is another example of Russia's flagrant violation of international law and neglect of the protection of civilian and consular premises. We immediately...",
+    "description_uk": "Очільник МЗС України Андрій Сибіга відреагував на російський удар КАБом по Почесному консульству Латвії у Словʼянську: 💬 \"Ще одна жахлива новина. Почесне консульство Латвії у Слов'янську Донецької області зазнало удару російською керованою авіабомбою. Це черговий приклад кричущого порушення Росією норм міжнародного права та нехтування захистом цивільних і консульських приміщень. Ми негайно...",
     "time": "",
-    "pubDate": "2026-07-24T15:47:55+00:00",
+    "pubDate": "2026-07-24T15:01:04+00:00",
     "category": "shelling",
-    "severity": "critical",
+    "severity": "high",
     "location": "Sloviansk",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54464",
-    "score": 11.0,
-    "views": 1522,
-    "forwards": 3
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9707",
+    "score": 6.0,
+    "views": 865,
+    "forwards": 10
   }
 ]
