@@ -1,20 +1,56 @@
 [
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons from the north.",
-    "description_en": "☄️ The threat of using ballistic weapons from the north.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння з півночі.",
+    "title": "BpLA in the direction of Pavlograd from the south",
+    "title_en": "BpLA in the direction of Pavlograd from the south",
+    "title_uk": "БпЛА в напрямку Павлограда з півд",
+    "description": "BpLA in the direction of Pavlograd from the south",
+    "description_en": "BpLA in the direction of Pavlograd from the south",
+    "description_uk": "БпЛА у напрямку Павлограду з півдня",
     "time": "",
-    "pubDate": "2026-07-25T16:27:55+00:00",
-    "category": "missile",
+    "pubDate": "2026-07-25T17:22:41+00:00",
+    "category": "drone",
     "severity": "high",
     "location": "Ukraine",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70091",
+    "link": "https://t.me/kpszsu/70095",
     "score": 5.0,
-    "views": 4040,
+    "views": 15343,
+    "forwards": 10
+  },
+  {
+    "title": "In Kyiv, in front of the building of the Ministry of Foreign Affairs...",
+    "title_en": "In Kyiv, in front of the building of the Ministry of Foreign Affairs...",
+    "title_uk": "У Києві перед будівлею Міністерства закордонних справ...",
+    "description": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Sai, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
+    "description_en": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Sai, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
+    "description_uk": "У Києві перед будівлею Міністерства закордонних справ України встановили \"Фенікса\" – восьмиметрову сталеву скульптуру українського художника Олексія Сая, створену для Burning Man 2023. Робота у формі птаха відсилає до українського тризуба й символізує стійкість, трансформацію та здатність українців проходити крізь вогонь, не втрачаючи себе. На Burning Man скульптура була в дерев’яному коробі,...",
+    "time": "",
+    "pubDate": "2026-07-25T17:05:58+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9724",
+    "score": 4.0,
+    "views": 207,
+    "forwards": 4
+  },
+  {
+    "title": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
+    "title_en": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
+    "title_uk": "Запоріжжя: Запоріжжя – БпЛА в напрямку м.",
+    "description": "Zaporizhzhia - BpLA in the direction of the city.",
+    "description_en": "Zaporizhzhia - BpLA in the direction of the city.",
+    "description_uk": "Запоріжжя - БпЛА в напрямку міста.",
+    "time": "",
+    "pubDate": "2026-07-25T16:33:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70094",
+    "score": 6.0,
+    "views": 47407,
     "forwards": 0
   },
   {
@@ -33,24 +69,6 @@
     "link": "https://t.me/kpszsu/70090",
     "score": 5.0,
     "views": 10669,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
-    "title_en": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
-    "title_uk": "Запоріжжя: Запоріжжя – БпЛА в напрямку м.",
-    "description": "Zaporizhzhia - BpLA in the direction of the city.",
-    "description_en": "Zaporizhzhia - BpLA in the direction of the city.",
-    "description_uk": "Запоріжжя - БпЛА в напрямку міста.",
-    "time": "",
-    "pubDate": "2026-07-25T15:08:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70089",
-    "score": 6.0,
-    "views": 19250,
     "forwards": 0
   },
   {
@@ -104,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41474",
     "score": 6.5,
-    "views": 18388,
-    "forwards": 67
+    "views": 21831,
+    "forwards": 69
   },
   {
     "title": "People who watch short videos for 5-7 hours a day are more likely to...",
@@ -201,8 +219,8 @@
     "title": "Mykolaiv: Drone strike near civilians",
     "title_en": "Mykolaiv: Drone strike near civilians",
     "title_uk": "Миколаїв: обстріл безпілотників поблизу мирних жителів",
-    "description": "More than ten ordinary residential buildings were damaged during the Russian shelling of Sloviansk in the evening. Unfortunately, three people died. In Sumy, the Russians also killed three people with a \"shaheda\" strike and a repeat FPV drone strike at the New Post office. My condolences to the relatives and friends of the deceased. They could not help but know that all these are civilian objects. A high-rise building was hit by a drone in Kharkiv. They burned...",
-    "description_en": "More than ten ordinary residential buildings were damaged during the Russian shelling of Sloviansk in the evening. Unfortunately, three people died. In Sumy, the Russians also killed three people with a \"shaheda\" strike and a repeat FPV drone strike at the New Post office. My condolences to the relatives and friends of the deceased. They could not help but know that all these are civilian objects. A high-rise building was hit by a drone in Kharkiv. They burned...",
+    "description": "More than ten ordinary residential buildings were damaged during the Russian shelling of Sloviansk in the evening. Unfortunately, three people died. In Sumy, the Russians also killed three people with a \"shaheda\" strike and a repeat FPV-drone strike at the New Post office. My condolences to the relatives and friends of the deceased. They could not help but know that all these are civilian objects. A high-rise building was hit by a drone in Kharkiv. They burned...",
+    "description_en": "More than ten ordinary residential buildings were damaged during the Russian shelling of Sloviansk in the evening. Unfortunately, three people died. In Sumy, the Russians also killed three people with a \"shaheda\" strike and a repeat FPV-drone strike at the New Post office. My condolences to the relatives and friends of the deceased. They could not help but know that all these are civilian objects. A high-rise building was hit by a drone in Kharkiv. They burned...",
     "description_uk": "Більше десяти звичайних житлових будинків було пошкоджено під час російського обстрілу Слов’янська ввечері. На жаль, троє людей загинуло. В Сумах ударом «шахеда» та повторним ударом FPV-дрона по відділенню Нової пошти росіяни також убили трьох людей. Мої співчуття рідним та близьким загиблих. Не могли не знати, що все це – цивільні об’єкти. У Харкові вдарили дроном по багатоповерхівці. Спалили...",
     "time": "",
     "pubDate": "2026-07-25T08:14:58+00:00",
@@ -212,7 +230,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20150",
     "score": 18.5,
-    "views": 118403,
+    "views": 123189,
     "forwards": 183
   },
   {
@@ -270,24 +288,6 @@
     "forwards": 0
   },
   {
-    "title": "Belgorod, Engels, Luhansk, and other Russian or occupied cities also...",
-    "title_en": "Belgorod, Engels, Luhansk, and other Russian or occupied cities also...",
-    "title_uk": "Білгород, Енгельс, Луганськ та інші російські чи окуповані міста також...",
-    "description": "Belgorod, Engels, Luhansk, and other Russian or occupied cities also grabbed their drones this night. They say that they flew to Belgorod through logistics warehouses, and to Engels - through barracks.",
-    "description_en": "Belgorod, Engels, Luhansk, and other Russian or occupied cities also grabbed their drones this night. They say that they flew to Belgorod through logistics warehouses, and to Engels - through barracks.",
-    "description_uk": "Белгород, Энгельс, Луганск и другие российские или оккупированные города этой ночью тоже отхватили свою пачку дронов Пишут, что в Белгороде прилетело по логистическим складам, а в Энгельсе - по казармам.",
-    "time": "",
-    "pubDate": "2026-07-25T05:09:21+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Luhansk",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196826",
-    "score": 5.5,
-    "views": 138274,
-    "forwards": 290
-  },
-  {
     "title": "Donetsk: Drone incoming",
     "title_en": "Donetsk: Drone incoming",
     "title_uk": "Донецьк: Дрон вхід",
@@ -302,13 +302,13 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41459",
     "score": 13.0,
-    "views": 8647,
+    "views": 8809,
     "forwards": 30
   },
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
+    "title_uk": "Київ: повідомлення про вибухи",
     "description": "Update: Explosions, fires reported in Belgorod, Rostov oblasts as Ukraine's blitz on Russian logistics enters 6th night. Regional authorities reported that a mass Ukrainian drone attack damaged a residential building, a gas pipe, and unspecified \"commercial property\" in Belgorod. While the facility was not identified, the report follows a string of Ukrainian strikes on logistics centers serving...",
     "description_en": "Update: Explosions, fires reported in Belgorod, Rostov oblasts as Ukraine's blitz on Russian logistics enters 6th night. Regional authorities reported that a mass Ukrainian drone attack damaged a residential building, a gas pipe, and unspecified \"commercial property\" in Belgorod. While the facility was not identified, the report follows a string of Ukrainian strikes on logistics centers serving...",
     "description_uk": "Update: Explosions, fires reported in Belgorod, Rostov oblasts as Ukraine's blitz on Russian logistics enters 6th night. Regional authorities reported that a mass Ukrainian drone attack damaged a residential building, a gas pipe, and unspecified \"commercial property\" in Belgorod. While the facility was not identified, the report follows a string of Ukrainian strikes on logistics centers serving...",
@@ -320,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54471",
     "score": 11.5,
-    "views": 2898,
+    "views": 2962,
     "forwards": 3
   },
   {
@@ -338,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54470",
     "score": 4.0,
-    "views": 2882,
+    "views": 2945,
     "forwards": 4
   },
   {
@@ -392,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9710",
     "score": 5.0,
-    "views": 986,
+    "views": 990,
     "forwards": 6
   },
   {
@@ -428,25 +428,25 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20148",
     "score": 4.5,
-    "views": 492518,
+    "views": 496267,
     "forwards": 980
   },
   {
-    "title": "Sloviansk: Airstrike attack on residential area",
-    "title_en": "Sloviansk: Airstrike attack on residential area",
-    "title_uk": "Слов'янськ: авіаудар по житловому кварталу",
-    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to the Russian attack by the KAB on the Honorary Consulate of Latvia in Slovyansk: 💬 \"Another terrible news. The Honorary Consulate of Latvia in Slovyansk, Donetsk region, was hit by a Russian-guided aerial bomb. This is another example of Russia's flagrant violation of international law and neglect of the protection of civilian and consular premises. We immediately...",
-    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to the Russian attack by the KAB on the Honorary Consulate of Latvia in Slovyansk: 💬 \"Another terrible news. The Honorary Consulate of Latvia in Slovyansk, Donetsk region, was hit by a Russian-guided aerial bomb. This is another example of Russia's flagrant violation of international law and neglect of the protection of civilian and consular premises. We immediately...",
-    "description_uk": "Очільник МЗС України Андрій Сибіга відреагував на російський удар КАБом по Почесному консульству Латвії у Словʼянську: 💬 \"Ще одна жахлива новина. Почесне консульство Латвії у Слов'янську Донецької області зазнало удару російською керованою авіабомбою. Це черговий приклад кричущого порушення Росією норм міжнародного права та нехтування захистом цивільних і консульських приміщень. Ми негайно...",
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "A terrible tragedy happened today - the enemy launched a ballistic attack on an event organized by a private association of manufacturers 🚫 Brave1 was not an organizer or partner of the event. But this is a big loss for the industry. 🕯 We sincerely sympathize with every family that has lost loved ones. And we wish all the wounded a speedy recovery and strength to return to life. ✈️ Defense technology manufacturers are a constant target...",
+    "description_en": "A terrible tragedy happened today - the enemy launched a ballistic attack on an event organized by a private association of manufacturers 🚫 Brave1 was not an organizer or partner of the event. But this is a big loss for the industry. 🕯 We sincerely sympathize with every family that has lost loved ones. And we wish all the wounded a speedy recovery and strength to return to life. ✈️ Defense technology manufacturers are a constant target...",
+    "description_uk": "Сьогодні сталася жахлива трагедія - ворог завдав удару балістикою по заходу, який організувала приватна асоціація виробників 🚫 Brave1 не був організатором чи партнером заходу. Але це велика втрата для індустрії. 🕯 Щиро співчуваємо кожній родині, яка втратила близьких. А усім пораненим бажаємо якнайшвидшого одужання та сил повернутися до життя. ✈️ Виробники оборонних технологій - це постійна ціль...",
     "time": "",
-    "pubDate": "2026-07-24T15:01:04+00:00",
-    "category": "shelling",
-    "severity": "high",
-    "location": "Sloviansk",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9707",
-    "score": 6.0,
-    "views": 865,
-    "forwards": 10
+    "pubDate": "2026-07-24T12:54:39+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23682",
+    "score": 11.5,
+    "views": 186617,
+    "forwards": 749
   }
 ]
