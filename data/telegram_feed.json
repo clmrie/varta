@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A group of UAVs in the direction of Kryvyi Rih.",
+    "description_en": "A group of UAVs in the direction of Kryvyi Rih.",
+    "description_uk": "Група БпЛА в напрямку Кривого Рогу.",
+    "time": "",
+    "pubDate": "2026-07-25T11:14:29+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70076",
+    "score": 5.0,
+    "views": 25314,
+    "forwards": 34
+  },
+  {
+    "title": "KAB launches in the direction of Chornomorsk.",
+    "title_en": "KAB launches in the direction of Chornomorsk.",
+    "title_uk": "КАБ стартує в напрямку Чорноморська.",
+    "description": "KAB launches in the direction of Chornomorsk.",
+    "description_en": "KAB launches in the direction of Chornomorsk.",
+    "description_uk": "Пуски КАБ у напрямку Чорноморська.",
+    "time": "",
+    "pubDate": "2026-07-25T10:39:41+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70075",
+    "score": 5.5,
+    "views": 46448,
+    "forwards": 138
+  },
+  {
     "title": "BpLA from Poltava region heading for Cherkasy region.",
     "title_en": "BpLA from Poltava region heading for Cherkasy region.",
     "title_uk": "BpLA з Полтавщини прямує на Черкащину.",
@@ -50,13 +86,13 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20150",
     "score": 18.5,
-    "views": 71860,
-    "forwards": 147
+    "views": 90547,
+    "forwards": 167
   },
   {
     "title": "Drone attack",
     "title_en": "Drone attack",
-    "title_uk": "Атака дронов",
+    "title_uk": "Атака безпілотників",
     "description": "Helpful drones continue to fly: there was an attack on the oil refinery in Tyumen",
     "description_en": "Helpful drones continue to fly: there was an attack on the oil refinery in Tyumen",
     "description_uk": "Услужливые дрончики продолжают летать: был удар по НПЗ в Тюмени",
@@ -68,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196843",
     "score": 5.5,
-    "views": 100712,
-    "forwards": 252
+    "views": 127737,
+    "forwards": 286
   },
   {
     "title": "Poltava region - BpLA to Myrhorod.",
@@ -140,8 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41459",
     "score": 13.0,
-    "views": 6941,
-    "forwards": 27
+    "views": 7431,
+    "forwards": 28
   },
   {
     "title": "Kherson: Drone incoming",
@@ -194,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54471",
     "score": 11.5,
-    "views": 2111,
+    "views": 2295,
     "forwards": 3
   },
   {
@@ -212,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54470",
     "score": 4.0,
-    "views": 2136,
+    "views": 2317,
     "forwards": 4
   },
   {
@@ -252,24 +288,6 @@
     "forwards": 1
   },
   {
-    "title": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_uk": "Харків: БпЛА на Харків з півночі.",
-    "description": "BpLA on Kharkiv from the north.",
-    "description_en": "BpLA on Kharkiv from the north.",
-    "description_uk": "БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-07-24T23:33:31+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70019",
-    "score": 6.0,
-    "views": 23260,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Energy infrastructure hit",
     "title_en": "Kyiv: Energy infrastructure hit",
     "title_uk": "Київ: удар по енергетичній інфраструктурі",
@@ -286,42 +304,6 @@
     "score": 11.5,
     "views": 850,
     "forwards": 1
-  },
-  {
-    "title": "Izmail: BpLA on Izmail from the north in Odeshchyna.",
-    "title_en": "Izmail: BpLA on Izmail from the north in Odeshchyna.",
-    "title_uk": "Ізмаїл: BpLA на Ізмаїл з півночі на Одещині.",
-    "description": "BpLA on Izmail from the north in Odeshchyna.",
-    "description_en": "BpLA on Izmail from the north in Odeshchyna.",
-    "description_uk": "БпЛА на Ізмаїл з півночі на Одещині.",
-    "time": "",
-    "pubDate": "2026-07-24T22:34:51+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Izmail",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70015",
-    "score": 6.0,
-    "views": 3041,
-    "forwards": 0
-  },
-  {
-    "title": "Sumy: BpLA on Sumy from the north.",
-    "title_en": "Sumy: BpLA on Sumy from the north.",
-    "title_uk": "Суми: БпЛА на Суми з півн.",
-    "description": "BpLA on Sumy from the north.",
-    "description_en": "BpLA on Sumy from the north.",
-    "description_uk": "БпЛА на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-07-24T22:29:28+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70014",
-    "score": 6.0,
-    "views": 7085,
-    "forwards": 0
   },
   {
     "title": "Explosions reported",
@@ -356,8 +338,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9710",
     "score": 5.0,
-    "views": 922,
-    "forwards": 5
+    "views": 943,
+    "forwards": 6
   },
   {
     "title": "Sloviansk: Ballistic missile launch detected",
@@ -392,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20148",
     "score": 4.5,
-    "views": 467904,
+    "views": 475702,
     "forwards": 979
   },
   {
@@ -435,8 +417,8 @@
     "title": "Sloviansk: Airstrike attack on residential area",
     "title_en": "Sloviansk: Airstrike attack on residential area",
     "title_uk": "Слов'янськ: авіаудар по житловому кварталу",
-    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to the Russian attack by the KAB on the Honorary Consulate of Latvia in Slovyansk: 💬 \"Another terrible news. The Honorary Consulate of Latvia in Slovyansk, Donetsk region, was hit by a Russian-guided aerial bomb. This is another example of Russia's flagrant violation of international law and neglect of the protection of civilian and consular premises. We immediately...",
-    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to the Russian attack by the KAB on the Honorary Consulate of Latvia in Slovyansk: 💬 \"Another terrible news. The Honorary Consulate of Latvia in Slovyansk, Donetsk region, was hit by a Russian-guided aerial bomb. This is another example of Russia's flagrant violation of international law and neglect of the protection of civilian and consular premises. We immediately...",
+    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to the Russian attack by the KAB on the Honorary Consulate of Latvia in Sloviansk: 💬 \"Another terrible news. The Honorary Consulate of Latvia in Sloviansk, Donetsk region, was hit by a Russian guided aerial bomb. This is another example of Russia's flagrant violation of the norms of international law and neglect of the protection of civilian and consular premises. We immediately...",
+    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to the Russian attack by the KAB on the Honorary Consulate of Latvia in Sloviansk: 💬 \"Another terrible news. The Honorary Consulate of Latvia in Sloviansk, Donetsk region, was hit by a Russian guided aerial bomb. This is another example of Russia's flagrant violation of the norms of international law and neglect of the protection of civilian and consular premises. We immediately...",
     "description_uk": "Очільник МЗС України Андрій Сибіга відреагував на російський удар КАБом по Почесному консульству Латвії у Словʼянську: 💬 \"Ще одна жахлива новина. Почесне консульство Латвії у Слов'янську Донецької області зазнало удару російською керованою авіабомбою. Це черговий приклад кричущого порушення Росією норм міжнародного права та нехтування захистом цивільних і консульських приміщень. Ми негайно...",
     "time": "",
     "pubDate": "2026-07-24T15:01:04+00:00",
@@ -446,7 +428,25 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9707",
     "score": 6.0,
-    "views": 829,
+    "views": 837,
     "forwards": 10
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "A terrible tragedy happened today - the enemy launched a ballistic attack on an event organized by a private association of manufacturers 🚫 Brave1 was not an organizer or partner of the event. But this is a big loss for the industry. 🕯 We sincerely sympathize with every family that has lost loved ones. And we wish all the wounded a speedy recovery and strength to return to life. ✈️ Defense technology manufacturers are a constant target...",
+    "description_en": "A terrible tragedy happened today - the enemy launched a ballistic attack on an event organized by a private association of manufacturers 🚫 Brave1 was not an organizer or partner of the event. But this is a big loss for the industry. 🕯 We sincerely sympathize with every family that has lost loved ones. And we wish all the wounded a speedy recovery and strength to return to life. ✈️ Defense technology manufacturers are a constant target...",
+    "description_uk": "Сьогодні сталася жахлива трагедія - ворог завдав удару балістикою по заходу, який організувала приватна асоціація виробників 🚫 Brave1 не був організатором чи партнером заходу. Але це велика втрата для індустрії. 🕯 Щиро співчуваємо кожній родині, яка втратила близьких. А усім пораненим бажаємо якнайшвидшого одужання та сил повернутися до життя. ✈️ Виробники оборонних технологій - це постійна ціль...",
+    "time": "",
+    "pubDate": "2026-07-24T12:54:39+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23682",
+    "score": 11.5,
+    "views": 174560,
+    "forwards": 739
   }
 ]
