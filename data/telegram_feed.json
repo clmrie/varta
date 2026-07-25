@@ -1,5 +1,77 @@
 [
   {
+    "title": "Chornomorsk in shelter!",
+    "title_en": "Chornomorsk in shelter!",
+    "title_uk": "Чорноморськ в притулку!",
+    "description": "Chornomorsk in shelter!",
+    "description_en": "Chornomorsk in shelter!",
+    "description_uk": "Чорноморськ в укриття!",
+    "time": "",
+    "pubDate": "2026-07-25T08:28:19+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70069",
+    "score": 5.0,
+    "views": 15145,
+    "forwards": 0
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons from the south.",
+    "description_en": "☄️ The threat of using ballistic weapons from the south.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння з півдня.",
+    "time": "",
+    "pubDate": "2026-07-25T08:24:17+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70067",
+    "score": 5.0,
+    "views": 28278,
+    "forwards": 35
+  },
+  {
+    "title": "Mykolaiv: Drone strike near civilians",
+    "title_en": "Mykolaiv: Drone strike near civilians",
+    "title_uk": "Миколаїв: обстріл безпілотників поблизу мирних жителів",
+    "description": "More than ten ordinary residential buildings were damaged during the Russian shelling of Sloviansk in the evening. Unfortunately, three people died. In Sumy, the Russians also killed three people with a \"shaheda\" strike and a repeat FPV-drone strike at the New Post office. My condolences to the relatives and friends of the deceased. They could not help but know that all these are civilian objects. A high-rise building was hit by a drone in Kharkiv. They burned...",
+    "description_en": "More than ten ordinary residential buildings were damaged during the Russian shelling of Sloviansk in the evening. Unfortunately, three people died. In Sumy, the Russians also killed three people with a \"shaheda\" strike and a repeat FPV-drone strike at the New Post office. My condolences to the relatives and friends of the deceased. They could not help but know that all these are civilian objects. A high-rise building was hit by a drone in Kharkiv. They burned...",
+    "description_uk": "Більше десяти звичайних житлових будинків було пошкоджено під час російського обстрілу Слов’янська ввечері. На жаль, троє людей загинуло. В Сумах ударом «шахеда» та повторним ударом FPV-дрона по відділенню Нової пошти росіяни також убили трьох людей. Мої співчуття рідним та близьким загиблих. Не могли не знати, що все це – цивільні об’єкти. У Харкові вдарили дроном по багатоповерхівці. Спалили...",
+    "time": "",
+    "pubDate": "2026-07-25T08:14:58+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Mykolaiv",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20150",
+    "score": 18.5,
+    "views": 29114,
+    "forwards": 76
+  },
+  {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "Helpful drones continue to fly: there was an attack on the oil refinery in Tyumen",
+    "description_en": "Helpful drones continue to fly: there was an attack on the oil refinery in Tyumen",
+    "description_uk": "Услужливые дрончики продолжают летать: был удар по НПЗ в Тюмени",
+    "time": "",
+    "pubDate": "2026-07-25T08:00:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/196843",
+    "score": 4.5,
+    "views": 40619,
+    "forwards": 146
+  },
+  {
     "title": "Poltava region - BpLA to Myrhorod.",
     "title_en": "Poltava region - BpLA to Myrhorod.",
     "title_uk": "Полтавська область - БпЛА до Миргорода.",
@@ -49,9 +121,9 @@
     "location": "Luhansk",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196826",
-    "score": 4.5,
-    "views": 85551,
-    "forwards": 180
+    "score": 5.5,
+    "views": 138274,
+    "forwards": 290
   },
   {
     "title": "Donetsk: Drone incoming",
@@ -68,8 +140,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41459",
     "score": 13.0,
-    "views": 3608,
-    "forwards": 17
+    "views": 6068,
+    "forwards": 26
   },
   {
     "title": "Kherson: Drone incoming",
@@ -122,8 +194,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54471",
     "score": 11.5,
-    "views": 1324,
-    "forwards": 1
+    "views": 1815,
+    "forwards": 3
   },
   {
     "title": "Kyiv: Drone strike",
@@ -140,8 +212,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54470",
     "score": 4.0,
-    "views": 1354,
-    "forwards": 1
+    "views": 1847,
+    "forwards": 4
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -252,60 +324,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "Strike UAV over Sumy.",
-    "description_en": "Strike UAV over Sumy.",
-    "description_uk": "Ударний БпЛА над Сумами.",
-    "time": "",
-    "pubDate": "2026-07-24T20:59:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70002",
-    "score": 5.0,
-    "views": 27377,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Missile launch detected",
-    "title_en": "Kyiv: Missile launch detected",
-    "title_uk": "Київ: Зафіксовано пуск ракети",
-    "description": "Zelensky warns of another Russian mass missile attack, says Moscow preparing for 'significant' wave of mobilization. Russia plans to launch a massive missile attack against Ukraine within the next 48 hours and is preparing for a \"significant\" wave of mobilization in the fall, President Volodymyr Zelensky said July 24.",
-    "description_en": "Zelensky warns of another Russian mass missile attack, says Moscow preparing for 'significant' wave of mobilization. Russia plans to launch a massive missile attack against Ukraine within the next 48 hours and is preparing for a \"significant\" wave of mobilization in the fall, President Volodymyr Zelensky said July 24.",
-    "description_uk": "Zelensky warns of another Russian mass missile attack, says Moscow preparing for 'significant' wave of mobilization. Russia plans to launch a massive missile attack against Ukraine within the next 48 hours and is preparing for a \"significant\" wave of mobilization in the fall, President Volodymyr Zelensky said July 24.",
-    "time": "",
-    "pubDate": "2026-07-24T20:13:01+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54468",
-    "score": 9.0,
-    "views": 1823,
-    "forwards": 3
-  },
-  {
-    "title": "Kharkiv: Drone strike",
-    "title_en": "Kharkiv: Drone strike",
-    "title_uk": "Харків: Дрон-удар",
-    "description": "Strike drones in the Kharkiv region - in the area of ​​Bogoduhova-Krasnokutska-Sharivka",
-    "description_en": "Strike drones in the Kharkiv region - in the area of ​​Bogoduhova-Krasnokutska-Sharivka",
-    "description_uk": "Ударні БпЛА на Харківщині - в районі Богодухова-Краснокутська-Шарівки",
-    "time": "",
-    "pubDate": "2026-07-24T20:12:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69997",
-    "score": 6.0,
-    "views": 9080,
-    "forwards": 0
-  },
-  {
     "title": "Explosions reported",
     "title_en": "Explosions reported",
     "title_uk": "Повідомляється про вибухи",
@@ -324,24 +342,6 @@
     "forwards": 1014
   },
   {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "Strike UAV to the west of Zaporizhzhia in the direction of the city",
-    "description_en": "Strike UAV to the west of Zaporizhzhia in the direction of the city",
-    "description_uk": "Ударний БпЛА західніше Запоріжжя у напрямку міста",
-    "time": "",
-    "pubDate": "2026-07-24T19:56:16+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69994",
-    "score": 6.0,
-    "views": 32382,
-    "forwards": 0
-  },
-  {
     "title": "Andrii Sybiga: \"We condemn the Russian drone's violation of the...",
     "title_en": "Andrii Sybiga: \"We condemn the Russian drone's violation of the...",
     "title_uk": "Андрій Сибіга: «Ми засуджуємо порушення російським безпілотником...",
@@ -356,8 +356,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9710",
     "score": 5.0,
-    "views": 809,
-    "forwards": 4
+    "views": 890,
+    "forwards": 5
   },
   {
     "title": "Sloviansk: Ballistic missile launch detected",
@@ -392,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20148",
     "score": 4.5,
-    "views": 427971,
-    "forwards": 960
+    "views": 454585,
+    "forwards": 968
   },
   {
     "title": "Sloviansk: 5 killed, 9 injured",
@@ -435,8 +435,8 @@
     "title": "Sloviansk: Airstrike attack on residential area",
     "title_en": "Sloviansk: Airstrike attack on residential area",
     "title_uk": "Слов'янськ: авіаудар по житловому кварталу",
-    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to the Russian attack by the KAB on the Honorary Consulate of Latvia in Slovyansk: 💬 \"Another terrible news. The Honorary Consulate of Latvia in Slovyansk, Donetsk region, was hit by a Russian-guided aerial bomb. This is another example of Russia's flagrant violation of international law and neglect of the protection of civilian and consular premises. We immediately...",
-    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to the Russian attack by the KAB on the Honorary Consulate of Latvia in Slovyansk: 💬 \"Another terrible news. The Honorary Consulate of Latvia in Slovyansk, Donetsk region, was hit by a Russian-guided aerial bomb. This is another example of Russia's flagrant violation of international law and neglect of the protection of civilian and consular premises. We immediately...",
+    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to the Russian attack by the KAB on the Honorary Consulate of Latvia in Sloviansk: 💬 \"Another terrible news. The Honorary Consulate of Latvia in Sloviansk, Donetsk region, was hit by a Russian guided aerial bomb. This is another example of Russia's flagrant violation of the norms of international law and neglect of the protection of civilian and consular premises. We immediately...",
+    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, reacted to the Russian attack by the KAB on the Honorary Consulate of Latvia in Sloviansk: 💬 \"Another terrible news. The Honorary Consulate of Latvia in Sloviansk, Donetsk region, was hit by a Russian guided aerial bomb. This is another example of Russia's flagrant violation of the norms of international law and neglect of the protection of civilian and consular premises. We immediately...",
     "description_uk": "Очільник МЗС України Андрій Сибіга відреагував на російський удар КАБом по Почесному консульству Латвії у Словʼянську: 💬 \"Ще одна жахлива новина. Почесне консульство Латвії у Слов'янську Донецької області зазнало удару російською керованою авіабомбою. Це черговий приклад кричущого порушення Росією норм міжнародного права та нехтування захистом цивільних і консульських приміщень. Ми негайно...",
     "time": "",
     "pubDate": "2026-07-24T15:01:04+00:00",
@@ -446,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9707",
     "score": 6.0,
-    "views": 785,
+    "views": 817,
     "forwards": 10
   }
 ]
