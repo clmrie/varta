@@ -1,5 +1,23 @@
 [
   {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-07-25T23:31:20+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70112",
+    "score": 5.0,
+    "views": 4889,
+    "forwards": 11
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/70111",
     "score": 5.0,
-    "views": 2562,
-    "forwards": 1
+    "views": 30945,
+    "forwards": 32
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -32,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54477",
     "score": 13.0,
-    "views": 608,
-    "forwards": 0
+    "views": 1046,
+    "forwards": 2
   },
   {
     "title": "Chernihiv: Speed ​​goal in Chernihiv Oblast.",
@@ -86,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196894",
     "score": 6.5,
-    "views": 72640,
-    "forwards": 288
+    "views": 82987,
+    "forwards": 309
   },
   {
     "title": "Kharkiv: A group of BpLA in Sumy Oblast - heading for Kharkiv Oblast. 🛵 BpLA...",
@@ -122,7 +140,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196892",
     "score": 5.5,
-    "views": 91105,
+    "views": 99183,
     "forwards": 110
   },
   {
@@ -212,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20162",
     "score": 4.5,
-    "views": 51743,
-    "forwards": 64
+    "views": 52661,
+    "forwards": 65
   },
   {
     "title": "BpLA in the direction of Pavlograd from the south",
@@ -248,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9724",
     "score": 4.0,
-    "views": 623,
+    "views": 634,
     "forwards": 7
   },
   {
@@ -338,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41474",
     "score": 6.5,
-    "views": 33538,
+    "views": 33815,
     "forwards": 73
   },
   {
@@ -360,24 +378,6 @@
     "forwards": 740
   },
   {
-    "title": "KAB launches in the direction of Chornomorsk.",
-    "title_en": "KAB launches in the direction of Chornomorsk.",
-    "title_uk": "КАБ стартує в напрямку Чорноморська.",
-    "description": "KAB launches in the direction of Chornomorsk.",
-    "description_en": "KAB launches in the direction of Chornomorsk.",
-    "description_uk": "Пуски КАБ у напрямку Чорноморська.",
-    "time": "",
-    "pubDate": "2026-07-25T10:39:41+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70075",
-    "score": 5.5,
-    "views": 76833,
-    "forwards": 172
-  },
-  {
     "title": "Mykolaiv: Drone strike near civilians",
     "title_en": "Mykolaiv: Drone strike near civilians",
     "title_uk": "Миколаїв: обстріл безпілотників поблизу мирних жителів",
@@ -392,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20150",
     "score": 19.5,
-    "views": 142547,
+    "views": 143123,
     "forwards": 203
   },
   {
@@ -410,7 +410,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41459",
     "score": 13.0,
-    "views": 9592,
+    "views": 9628,
     "forwards": 30
   },
   {
@@ -432,21 +432,21 @@
     "forwards": 3
   },
   {
-    "title": "Kyiv: Energy infrastructure hit",
-    "title_en": "Kyiv: Energy infrastructure hit",
-    "title_uk": "Київ: удар по енергетичній інфраструктурі",
-    "description": "Ukrainian drones reportedly strike warehouses, energy infrastructure in mass attack on Russia's Belgorod. Ukrainian drones struck warehouses and energy infrastructure in the Russian city of Belgorod overnight on July 25, monitoring channels reported.",
-    "description_en": "Ukrainian drones reportedly strike warehouses, energy infrastructure in mass attack on Russia's Belgorod. Ukrainian drones struck warehouses and energy infrastructure in the Russian city of Belgorod overnight on July 25, monitoring channels reported.",
-    "description_uk": "Ukrainian drones reportedly strike warehouses, energy infrastructure in mass attack on Russia's Belgorod. Ukrainian drones struck warehouses and energy infrastructure in the Russian city of Belgorod overnight on July 25, monitoring channels reported.",
+    "title": "Andrii Sybiga: \"We condemn the Russian drone's violation of the...",
+    "title_en": "Andrii Sybiga: \"We condemn the Russian drone's violation of the...",
+    "title_uk": "Андрій Сибіга: «Ми засуджуємо порушення російським безпілотником...",
+    "description": "Andrii Sybiga: \"We condemn the Russian drone's violation of the airspace of Romania 🇷🇴 - the sovereign territory of an EU member state and a NATO ally.\" 💬 \"This is yet another evidence of the Kremlin's complete disregard for international law, national sovereignty and the security of Europe. Russia constantly tests the West's resolve, tests our collective reaction and prepares the ground for further hybrid aggression....",
+    "description_en": "Andrii Sybiga: \"We condemn the Russian drone's violation of the airspace of Romania 🇷🇴 - the sovereign territory of an EU member state and a NATO ally.\" 💬 \"This is yet another evidence of the Kremlin's complete disregard for international law, national sovereignty and the security of Europe. Russia constantly tests the West's resolve, tests our collective reaction and prepares the ground for further hybrid aggression....",
+    "description_uk": "Андрій Сибіга: \"Засуджуємо порушення російським безпілотником повітряного простору Румунії 🇷🇴 – суверенної території держави-члена ЄС і союзника по НАТО\". 💬 \"Це чергове свідчення повного зневажання Кремлем міжнародного права, національного суверенітету та безпеки Європи. Росія постійно випробовує рішучість Заходу, перевіряє нашу колективну реакцію та готує ґрунт для подальшої гібридної агресії....",
     "time": "",
-    "pubDate": "2026-07-24T22:40:59+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54469",
-    "score": 11.5,
-    "views": 850,
-    "forwards": 1
+    "pubDate": "2026-07-24T19:21:46+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9710",
+    "score": 5.0,
+    "views": 1009,
+    "forwards": 6
   }
 ]
