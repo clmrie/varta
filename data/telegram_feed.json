@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "Strike UAVs in Chernihiv Oblast (Ichnia) heading south UAVs in Kharkiv Oblast in the direction of N.P. Slobozhanske",
+    "description_en": "Strike UAVs in Chernihiv Oblast (Ichnia) heading south UAVs in Kharkiv Oblast in the direction of N.P. Slobozhanske",
+    "description_uk": "Ударні БпЛА на Чернігівщині (Ічня) курсом на південь БпЛА на Харківщині у напрямку н.п. Слобожанське",
+    "time": "",
+    "pubDate": "2026-07-25T01:07:04+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70033",
+    "score": 6.0,
+    "views": 3008,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: Assault BpLA heading for Snigurivka (Mykolaiv Oblast)",
+    "title_en": "Mykolaiv: Assault BpLA heading for Snigurivka (Mykolaiv Oblast)",
+    "title_uk": "Миколаїв: Штурмовий БПЛА прямує на Снігурівку (Миколаївська область)",
+    "description": "Assault BpLA heading for Snigurivka (Mykolaiv Oblast)",
+    "description_en": "Assault BpLA heading for Snigurivka (Mykolaiv Oblast)",
+    "description_uk": "Ударні БпЛА курсом на Снігурівку (Миколаївщина)",
+    "time": "",
+    "pubDate": "2026-07-25T01:02:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70031",
+    "score": 6.0,
+    "views": 8103,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_uk": "Харків: БпЛА на Харків з півночі.",
@@ -18,24 +54,6 @@
     "forwards": 0
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons in areas where an air alert has been declared.",
-    "description_en": "☄️ The threat of using ballistic weapons in areas where an air alert has been declared.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння в областях де оголошена повітряна тривога.",
-    "time": "",
-    "pubDate": "2026-07-24T23:26:31+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70018",
-    "score": 5.0,
-    "views": 39590,
-    "forwards": 46
-  },
-  {
     "title": "Kyiv: Energy infrastructure hit",
     "title_en": "Kyiv: Energy infrastructure hit",
     "title_uk": "Київ: удар по енергетичній інфраструктурі",
@@ -50,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54469",
     "score": 11.5,
-    "views": 542,
+    "views": 850,
     "forwards": 1
   },
   {
@@ -122,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54468",
     "score": 9.0,
-    "views": 1623,
+    "views": 1823,
     "forwards": 3
   },
   {
@@ -158,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196824",
     "score": 9.5,
-    "views": 101252,
-    "forwards": 752
+    "views": 111915,
+    "forwards": 795
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -194,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9710",
     "score": 5.0,
-    "views": 629,
+    "views": 659,
     "forwards": 4
   },
   {
@@ -248,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20148",
     "score": 4.5,
-    "views": 315702,
-    "forwards": 924
+    "views": 331769,
+    "forwards": 929
   },
   {
     "title": "Drone incoming",
@@ -356,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9707",
     "score": 6.0,
-    "views": 755,
+    "views": 758,
     "forwards": 10
   },
   {
@@ -392,44 +410,26 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20136",
     "score": 4.5,
-    "views": 160510,
-    "forwards": 417
+    "views": 162182,
+    "forwards": 420
   },
   {
-    "title": "New footage from the place of arrival in Kyiv appeared on the network",
-    "title_en": "New footage from the place of arrival in Kyiv appeared on the network",
-    "title_uk": "У мережі з'явилися нові кадри з місця прибуття в Києві",
-    "description": "New footage from the place of arrival in Kyiv appeared on the network",
-    "description_en": "New footage from the place of arrival in Kyiv appeared on the network",
-    "description_uk": "В сети появились новые кадры с места прилета на Киевщине",
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "A terrible tragedy happened today - the enemy launched a ballistic attack on an event organized by a private association of manufacturers 🚫 Brave1 was not an organizer or partner of the event. But this is a big loss for the industry. 🕯 We sincerely sympathize with every family that has lost loved ones. And we wish all the wounded a speedy recovery and strength to return to life. ✈️ Defense technology manufacturers are a constant target...",
+    "description_en": "A terrible tragedy happened today - the enemy launched a ballistic attack on an event organized by a private association of manufacturers 🚫 Brave1 was not an organizer or partner of the event. But this is a big loss for the industry. 🕯 We sincerely sympathize with every family that has lost loved ones. And we wish all the wounded a speedy recovery and strength to return to life. ✈️ Defense technology manufacturers are a constant target...",
+    "description_uk": "Сьогодні сталася жахлива трагедія - ворог завдав удару балістикою по заходу, який організувала приватна асоціація виробників 🚫 Brave1 не був організатором чи партнером заходу. Але це велика втрата для індустрії. 🕯 Щиро співчуваємо кожній родині, яка втратила близьких. А усім пораненим бажаємо якнайшвидшого одужання та сил повернутися до життя. ✈️ Виробники оборонних технологій - це постійна ціль...",
     "time": "",
-    "pubDate": "2026-07-24T12:28:01+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196780",
-    "score": 5.5,
-    "views": 116888,
-    "forwards": 248
-  },
-  {
-    "title": "Kharkiv: Situation according to BpLA: - in the direction of Kryvyi Rih,...",
-    "title_en": "Kharkiv: Situation according to BpLA: - in the direction of Kryvyi Rih,...",
-    "title_uk": "Харків: Ситуація за BpLA: - в напрямку Кривого Рогу,...",
-    "description": "Situation according to BpLA: - in the direction of Kryvyi Rih, Kherson from the east; - to Sumy from the north. 🚀 KAB to the east of Kharkiv Oblast.",
-    "description_en": "Situation according to BpLA: - in the direction of Kryvyi Rih, Kherson from the east; - to Sumy from the north. 🚀 KAB to the east of Kharkiv Oblast.",
-    "description_uk": "Ситуація по БпЛА : - в напрямку Кривого Рогу Херсону зі сходу; - на Суми з півночі. 🚀 КАБи на схід Харківщини.",
-    "time": "",
-    "pubDate": "2026-07-24T12:18:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/69953",
-    "score": 6.0,
-    "views": 45511,
-    "forwards": 0
+    "pubDate": "2026-07-24T12:54:39+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23682",
+    "score": 11.5,
+    "views": 153204,
+    "forwards": 712
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
