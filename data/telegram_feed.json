@@ -1,5 +1,41 @@
 [
   {
+    "title": "KAB launches in the direction of Chornomorsk/Ovidiopol.",
+    "title_en": "KAB launches in the direction of Chornomorsk/Ovidiopol.",
+    "title_uk": "КАБ стартує в напрямку Чорноморськ/Овідіополь.",
+    "description": "KAB launches in the direction of Chornomorsk/Ovidiopol.",
+    "description_en": "KAB launches in the direction of Chornomorsk/Ovidiopol.",
+    "description_uk": "Пуски КАБ у напрямку Чорноморська/Овідіополя.",
+    "time": "",
+    "pubDate": "2026-07-25T14:09:40+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70088",
+    "score": 5.0,
+    "views": 14175,
+    "forwards": 34
+  },
+  {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "Zaporizhzhia - jet UAV in the direction of the city.",
+    "description_en": "Zaporizhzhia - jet UAV in the direction of the city.",
+    "description_uk": "Запоріжжя - реактивний БпЛА в напрямку міста.",
+    "time": "",
+    "pubDate": "2026-07-25T13:59:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70087",
+    "score": 6.0,
+    "views": 23263,
+    "forwards": 0
+  },
+  {
     "title": "Donetsk: The early detection radar, ammunition warehouse, UAV control points...",
     "title_en": "Donetsk: The early detection radar, ammunition warehouse, UAV control points...",
     "title_uk": "Донецьк: РЛС раннього виявлення, склад боєприпасів, пункти управління БПЛА...",
@@ -13,9 +49,9 @@
     "location": "Donetsk",
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41474",
-    "score": 6.0,
-    "views": 6831,
-    "forwards": 47
+    "score": 6.5,
+    "views": 14114,
+    "forwards": 62
   },
   {
     "title": "People who watch short videos for 5-7 hours a day are more likely to...",
@@ -32,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196857",
     "score": 6.5,
-    "views": 50666,
-    "forwards": 398
+    "views": 96281,
+    "forwards": 661
   },
   {
     "title": "Drone incoming",
@@ -122,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20150",
     "score": 18.5,
-    "views": 100406,
-    "forwards": 169
+    "views": 110017,
+    "forwards": 183
   },
   {
     "title": "Drone attack",
@@ -212,7 +248,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41459",
     "score": 13.0,
-    "views": 7813,
+    "views": 8223,
     "forwards": 28
   },
   {
@@ -254,7 +290,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомлення про вибухи",
+    "title_uk": "Київ: Повідомляється про вибухи",
     "description": "Update: Explosions, fires reported in Belgorod, Rostov oblasts as Ukraine's blitz on Russian logistics enters 6th night. Regional authorities reported that a mass Ukrainian drone attack damaged a residential building, a gas pipe, and unspecified \"commercial property\" in Belgorod. While the facility was not identified, the report follows a string of Ukrainian strikes on logistics centers serving...",
     "description_en": "Update: Explosions, fires reported in Belgorod, Rostov oblasts as Ukraine's blitz on Russian logistics enters 6th night. Regional authorities reported that a mass Ukrainian drone attack damaged a residential building, a gas pipe, and unspecified \"commercial property\" in Belgorod. While the facility was not identified, the report follows a string of Ukrainian strikes on logistics centers serving...",
     "description_uk": "Update: Explosions, fires reported in Belgorod, Rostov oblasts as Ukraine's blitz on Russian logistics enters 6th night. Regional authorities reported that a mass Ukrainian drone attack damaged a residential building, a gas pipe, and unspecified \"commercial property\" in Belgorod. While the facility was not identified, the report follows a string of Ukrainian strikes on logistics centers serving...",
@@ -266,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54471",
     "score": 11.5,
-    "views": 2411,
+    "views": 2679,
     "forwards": 3
   },
   {
@@ -284,44 +320,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54470",
     "score": 4.0,
-    "views": 2430,
+    "views": 2677,
     "forwards": 4
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "Strike UAVs in Chernihiv Oblast (Ichnia) heading south UAVs in Kharkiv Oblast in the direction of N.P. Slobozhanske",
-    "description_en": "Strike UAVs in Chernihiv Oblast (Ichnia) heading south UAVs in Kharkiv Oblast in the direction of N.P. Slobozhanske",
-    "description_uk": "Ударні БпЛА на Чернігівщині (Ічня) курсом на південь БпЛА на Харківщині у напрямку н.п. Слобожанське",
-    "time": "",
-    "pubDate": "2026-07-25T01:07:04+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70033",
-    "score": 6.0,
-    "views": 3008,
-    "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: Assault BpLA heading for Snigurivka (Mykolaiv Oblast)",
-    "title_en": "Mykolaiv: Assault BpLA heading for Snigurivka (Mykolaiv Oblast)",
-    "title_uk": "Миколаїв: Штурмовий БПЛА прямує на Снігурівку (Миколаївська область)",
-    "description": "Assault BpLA heading for Snigurivka (Mykolaiv Oblast)",
-    "description_en": "Assault BpLA heading for Snigurivka (Mykolaiv Oblast)",
-    "description_uk": "Ударні БпЛА курсом на Снігурівку (Миколаївщина)",
-    "time": "",
-    "pubDate": "2026-07-25T01:02:51+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70031",
-    "score": 6.0,
-    "views": 8103,
-    "forwards": 1
   },
   {
     "title": "Kyiv: Energy infrastructure hit",
@@ -374,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9710",
     "score": 5.0,
-    "views": 949,
+    "views": 957,
     "forwards": 6
   },
   {
@@ -410,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20148",
     "score": 4.5,
-    "views": 480611,
+    "views": 486253,
     "forwards": 980
   },
   {
