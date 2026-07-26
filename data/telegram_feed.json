@@ -1,5 +1,77 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "UAV on Kharkiv from the east.",
+    "description_en": "UAV on Kharkiv from the east.",
+    "description_uk": "БпЛА на Харків зі сходу.",
+    "time": "",
+    "pubDate": "2026-07-26T07:12:35+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70150",
+    "score": 6.0,
+    "views": 15138,
+    "forwards": 0
+  },
+  {
+    "title": "Sumy: BpLA on Sumy from the north.",
+    "title_en": "Sumy: BpLA on Sumy from the north.",
+    "title_uk": "Суми: БпЛА на Суми з півн.",
+    "description": "BpLA on Sumy from the north.",
+    "description_en": "BpLA on Sumy from the north.",
+    "description_uk": "БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-07-26T07:11:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70149",
+    "score": 6.0,
+    "views": 16181,
+    "forwards": 0
+  },
+  {
+    "title": "Drone strike near civilians",
+    "title_en": "Drone strike near civilians",
+    "title_uk": "Удар безпілотників поблизу мирних жителів",
+    "description": "The moment of the arrival of the second \"Shakhed\" at the \"Epicenter\" in Kryvyi Rih Meanwhile, a Russian drone hit a private house in Kharkov. One person died, six others were injured, OVA reports.",
+    "description_en": "The moment of the arrival of the second \"Shakhed\" at the \"Epicenter\" in Kryvyi Rih Meanwhile, a Russian drone hit a private house in Kharkov. One person died, six others were injured, OVA reports.",
+    "description_uk": "Момент прилета второго «Шахеда» по «Эпицентру» в Кривом Роге Тем временем русня ударила дроном по частному дому в Харькове. Один человек погиб, еще шестеро пострадали, сообщает ОВА.",
+    "time": "",
+    "pubDate": "2026-07-26T06:45:01+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kryvyi Rih",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/196913",
+    "score": 9.5,
+    "views": 50156,
+    "forwards": 74
+  },
+  {
+    "title": "Donetsk: Ballistic missile launch detected",
+    "title_en": "Donetsk: Ballistic missile launch detected",
+    "title_uk": "Донецьк: виявлено пуск балістичної ракети",
+    "description": "110 ENEMY TARGETS WERE BROKEN DOWN/SUPPRESSED On the night of July 26 (from 18:00 on July 25), the enemy attacked with a Kh-59/69 guided air missile from the airspace over the Black Sea, 7 Iskander-M/S-400 ballistic missiles, launch areas - Bryansk, Kursk, Voronezh region. Russian Federation, and 136 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and simulator drones of the type...",
+    "description_en": "110 ENEMY TARGETS WERE BROKEN DOWN/SUPPRESSED On the night of July 26 (from 18:00 on July 25), the enemy attacked with a Kh-59/69 guided air missile from the airspace over the Black Sea, 7 Iskander-M/S-400 ballistic missiles, launch areas - Bryansk, Kursk, Voronezh region. Russian Federation, and 136 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and simulator drones of the type...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 110 ЦІЛЕЙ ПРОТИВНИКА ➖➖➖➖➖➖➖➖➖➖ У ніч на 26 липня (з 18:00 25 липня) противник атакував керованою авіаційною ракетою Х-59/69 із повітряного простору над акваторією Чорного моря, 7 балістичними ракетами Іскандер-М/С-400, райони пуску – Брянська, Курська, Воронезька обл., рф., та 136 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу...",
+    "time": "",
+    "pubDate": "2026-07-26T06:01:52+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41490",
+    "score": 13.0,
+    "views": 3092,
+    "forwards": 13
+  },
+  {
     "title": "Kryvyi Rih: Drone incoming",
     "title_en": "Kryvyi Rih: Drone incoming",
     "title_uk": "Кривий Ріг: Дрон вхід",
@@ -122,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54477",
     "score": 13.0,
-    "views": 1881,
+    "views": 2475,
     "forwards": 2
   },
   {
@@ -160,24 +232,6 @@
     "score": 6.5,
     "views": 49638,
     "forwards": 104
-  },
-  {
-    "title": "Drone strike near civilians",
-    "title_en": "Drone strike near civilians",
-    "title_uk": "Удар безпілотників поблизу мирних жителів",
-    "description": "In Russia, they began to build protective structures for private houses. This is what a special metal frame looks like with an anti-drone net and a reinforced perimeter to protect the owner from UAV strikes. How beautiful the country has become under the Kremlin mole. And in general, a great idea. It is necessary to scale to the entire territory from Belgorod to Vladivostok. And then pour concrete. For reliability.",
-    "description_en": "In Russia, they began to build protective structures for private houses. This is what a special metal frame looks like with an anti-drone net and a reinforced perimeter to protect the owner from UAV strikes. How beautiful the country has become under the Kremlin mole. And in general, a great idea. It is necessary to scale to the entire territory from Belgorod to Vladivostok. And then pour concrete. For reliability.",
-    "description_uk": "В России начали строить защитные сооружения для частных домов Так выглядит специальный металлический каркас с противодроновой сетью и усиленным периметром для защиты владений от удара БПЛА. Как же похорошела страна при кремлевской моли. А вообще отличная идея. Надо масштабировать на всю территорию от Белгорода до Владивостока. И бетоном потом залить. Для надежности.",
-    "time": "",
-    "pubDate": "2026-07-25T20:45:20+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196894",
-    "score": 6.5,
-    "views": 136125,
-    "forwards": 364
   },
   {
     "title": "Kharkiv: A group of BpLA in Sumy Oblast - heading for Kharkiv Oblast. 🛵 BpLA...",
@@ -270,24 +324,6 @@
     "forwards": 253
   },
   {
-    "title": "Chernihiv: Unmanned aerial vehicle in the west of Chernihiv Oblast heading for...",
-    "title_en": "Chernihiv: Unmanned aerial vehicle in the west of Chernihiv Oblast heading for...",
-    "title_uk": "Чернігів: безпілотник на заході Чернігівської області прямує до...",
-    "description": "Unmanned aerial vehicle in the west of Chernihiv Oblast heading for Kyiv Oblast.",
-    "description_en": "Unmanned aerial vehicle in the west of Chernihiv Oblast heading for Kyiv Oblast.",
-    "description_uk": "БпЛА на заході Чернігівщини курсом на Київщину.",
-    "time": "",
-    "pubDate": "2026-07-25T18:14:35+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70099",
-    "score": 6.0,
-    "views": 26306,
-    "forwards": 36
-  },
-  {
     "title": "Airstrike attack",
     "title_en": "Airstrike attack",
     "title_uk": "Авіаційна атака",
@@ -302,33 +338,15 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20162",
     "score": 4.5,
-    "views": 57037,
-    "forwards": 67
-  },
-  {
-    "title": "BpLA in the direction of Pavlograd from the south",
-    "title_en": "BpLA in the direction of Pavlograd from the south",
-    "title_uk": "БпЛА в напрямку Павлограда з півд",
-    "description": "BpLA in the direction of Pavlograd from the south",
-    "description_en": "BpLA in the direction of Pavlograd from the south",
-    "description_uk": "БпЛА у напрямку Павлограду з півдня",
-    "time": "",
-    "pubDate": "2026-07-25T17:22:41+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70095",
-    "score": 5.0,
-    "views": 67991,
-    "forwards": 10
+    "views": 61628,
+    "forwards": 69
   },
   {
     "title": "In Kyiv, in front of the building of the Ministry of Foreign Affairs...",
     "title_en": "In Kyiv, in front of the building of the Ministry of Foreign Affairs...",
     "title_uk": "У Києві перед будівлею Міністерства закордонних справ...",
-    "description": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Say, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
-    "description_en": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Say, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
+    "description": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Sai, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through the fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
+    "description_en": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Sai, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through the fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
     "description_uk": "У Києві перед будівлею Міністерства закордонних справ України встановили \"Фенікса\" – восьмиметрову сталеву скульптуру українського художника Олексія Сая, створену для Burning Man 2023. Робота у формі птаха відсилає до українського тризуба й символізує стійкість, трансформацію та здатність українців проходити крізь вогонь, не втрачаючи себе. На Burning Man скульптура була в дерев’яному коробі,...",
     "time": "",
     "pubDate": "2026-07-25T17:05:58+00:00",
@@ -338,8 +356,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9724",
     "score": 4.0,
-    "views": 680,
-    "forwards": 7
+    "views": 763,
+    "forwards": 9
   },
   {
     "title": "Donetsk: The early detection radar, ammunition warehouse, UAV control points...",
@@ -356,15 +374,15 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41474",
     "score": 6.5,
-    "views": 36461,
+    "views": 38997,
     "forwards": 76
   },
   {
     "title": "Mykolaiv: Drone strike near civilians",
     "title_en": "Mykolaiv: Drone strike near civilians",
     "title_uk": "Миколаїв: обстріл безпілотників поблизу мирних жителів",
-    "description": "More than ten ordinary residential buildings were damaged during the Russian shelling of Sloviansk in the evening. Unfortunately, three people died. In Sumy, the Russians also killed three people with a \"shaheda\" strike and a repeat FPV-drone strike at the New Post office. My condolences to the relatives and friends of the deceased. They could not help but know that all these are civilian objects. A high-rise building was hit by a drone in Kharkiv. They burned...",
-    "description_en": "More than ten ordinary residential buildings were damaged during the Russian shelling of Sloviansk in the evening. Unfortunately, three people died. In Sumy, the Russians also killed three people with a \"shaheda\" strike and a repeat FPV-drone strike at the New Post office. My condolences to the relatives and friends of the deceased. They could not help but know that all these are civilian objects. A high-rise building was hit by a drone in Kharkiv. They burned...",
+    "description": "More than ten ordinary residential buildings were damaged during the Russian shelling of Sloviansk in the evening. Unfortunately, three people died. In Sumy, the Russians also killed three people with a \"shaheda\" strike and a repeat FPV drone strike at the New Post office. My condolences to the relatives and friends of the deceased. They could not help but know that all these are civilian objects. A high-rise building was hit by a drone in Kharkiv. They burned...",
+    "description_en": "More than ten ordinary residential buildings were damaged during the Russian shelling of Sloviansk in the evening. Unfortunately, three people died. In Sumy, the Russians also killed three people with a \"shaheda\" strike and a repeat FPV drone strike at the New Post office. My condolences to the relatives and friends of the deceased. They could not help but know that all these are civilian objects. A high-rise building was hit by a drone in Kharkiv. They burned...",
     "description_uk": "Більше десяти звичайних житлових будинків було пошкоджено під час російського обстрілу Слов’янська ввечері. На жаль, троє людей загинуло. В Сумах ударом «шахеда» та повторним ударом FPV-дрона по відділенню Нової пошти росіяни також убили трьох людей. Мої співчуття рідним та близьким загиблих. Не могли не знати, що все це – цивільні об’єкти. У Харкові вдарили дроном по багатоповерхівці. Спалили...",
     "time": "",
     "pubDate": "2026-07-25T08:14:58+00:00",
@@ -374,26 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20150",
     "score": 19.5,
-    "views": 147115,
+    "views": 151822,
     "forwards": 203
-  },
-  {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "128 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of July 25 (from 18:00 on July 24), the enemy attacked with two Kh-59/69 guided air missiles from the airspace over the Black Sea and 157 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and simulator drones of the type \"Parody\" from the directions Bryansk, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT - Donetsk,...",
-    "description_en": "128 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of July 25 (from 18:00 on July 24), the enemy attacked with two Kh-59/69 guided air missiles from the airspace over the Black Sea and 157 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and simulator drones of the type \"Parody\" from the directions Bryansk, Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT - Donetsk,...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 128 ЦІЛЕЙ ПРОТИВНИКА ➖➖➖➖➖➖➖➖➖➖ У ніч на 25 липня (з 18:00 24 липня) противник атакував двома керованими авіаційними ракетами Х-59/69 із повітряного простору над акваторією Чорного моря та 157 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу “Пародія” із напрямків Брянськ, Курськ, Орел, Міллєрово, Приморсько-Ахтарськ – рф, ТОТ - Донецьк,...",
-    "time": "",
-    "pubDate": "2026-07-25T04:35:20+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41459",
-    "score": 13.0,
-    "views": 9970,
-    "forwards": 30
   },
   {
     "title": "Andrii Sybiga: \"We condemn the Russian drone's violation of the...",
@@ -410,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9710",
     "score": 5.0,
-    "views": 1010,
+    "views": 1013,
     "forwards": 6
   },
   {
@@ -428,7 +428,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23682",
     "score": 11.5,
-    "views": 204121,
+    "views": 207775,
     "forwards": 753
   },
   {
@@ -446,7 +446,7 @@
     "source": "Ukrainska Pravda",
     "link": "https://t.me/pravda_eng/48878",
     "score": 5.0,
-    "views": 82,
+    "views": 84,
     "forwards": 0
   }
 ]
