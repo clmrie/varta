@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Kharkiv: Drone incoming",
+    "description": "Kharkiv region: jet UAVs ➡️ in the direction of n.p. periwinkle",
+    "description_en": "Kharkiv region: jet UAVs ➡️ in the direction of n.p. periwinkle",
+    "description_uk": "Харківщина: реактивні БпЛА ➡️ в напрямку н.п. Барвінкове.",
+    "time": "",
+    "pubDate": "2026-07-26T15:35:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70202",
+    "score": 6.0,
+    "views": 41462,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "UAV heading to the south of the Mykolaiv Region from the Black Sea.",
+    "description_en": "UAV heading to the south of the Mykolaiv Region from the Black Sea.",
+    "description_uk": "БпЛА курсом на південь Миколаївщини з Чорного моря.",
+    "time": "",
+    "pubDate": "2026-07-26T15:26:19+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70201",
+    "score": 6.0,
+    "views": 50600,
+    "forwards": 1
+  },
+  {
     "title": "Sumy: BpLA on Sumy from the north.",
     "title_en": "Sumy: BpLA on Sumy from the north.",
     "title_uk": "Суми: БпЛА на Суми з півн.",
@@ -50,13 +86,13 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20168",
     "score": 6.5,
-    "views": 59943,
-    "forwards": 290
+    "views": 113638,
+    "forwards": 388
   },
   {
     "title": "Drone strike",
     "title_en": "Drone strike",
-    "title_uk": "Безпілотний удар",
+    "title_uk": "Drone strike",
     "description": "Russia accelerated the construction of air defense towers around Moscow after the attacks of Ukrainian drones, - OSINT-kanaly After the May UAV strikes, Russia significantly accelerated the creation of the second echelon of air defense around the capital. Within a radius of about 40 km from Moscow, 24 new towers have already been built, some of which cover the Moscow Refinery, electrical substations and the airport. Pantsir complexes are planned to be placed on the towers. Will complete...",
     "description_en": "Russia accelerated the construction of air defense towers around Moscow after the attacks of Ukrainian drones, - OSINT-kanaly After the May UAV strikes, Russia significantly accelerated the creation of the second echelon of air defense around the capital. Within a radius of about 40 km from Moscow, 24 new towers have already been built, some of which cover the Moscow Refinery, electrical substations and the airport. Pantsir complexes are planned to be placed on the towers. Will complete...",
     "description_uk": "рф ускорила строительство башен ПВО вокруг Москвы после атак украинских дронов, - OSINT-каналы После майских ударов БПЛА россия значительно ускорила создание второго эшелона ПВО вокруг столицы. В радиусе около 40 км от Москвы уже построили 24 новые башни, часть из которых прикрывает Московский НПЗ, электроподстанции и аэропорт. На башнях планируют разместить комплексы \"Панцирь\". Завершить...",
@@ -67,9 +103,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196945",
-    "score": 8.5,
-    "views": 59077,
-    "forwards": 145
+    "score": 9.5,
+    "views": 91606,
+    "forwards": 217
   },
   {
     "title": "Kharkiv: BpLA on Kharkiv from the north.",
@@ -104,13 +140,13 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20167",
     "score": 10.5,
-    "views": 74929,
-    "forwards": 105
+    "views": 98720,
+    "forwards": 131
   },
   {
     "title": "Drone attack",
     "title_en": "Drone attack",
-    "title_uk": "Атака дронов",
+    "title_uk": "Атака безпілотників",
     "description": "\"Russians are dropping\": the Russians fled the battlefield in Mali, leaving the \"allies\" to breathe, GUR According to Ukrainian intelligence, at the beginning of July, a convoy of the Russian \"African Corps\" and troops of the Malian junta was ambushed by rebels. When a serious battle began, the Russians simply retreated, leaving the Malian military without ground and air support, although they had attack UAVs and helicopters....",
     "description_en": "\"Russians are dropping\": the Russians fled the battlefield in Mali, leaving the \"allies\" to breathe, GUR According to Ukrainian intelligence, at the beginning of July, a convoy of the Russian \"African Corps\" and troops of the Malian junta was ambushed by rebels. When a serious battle began, the Russians simply retreated, leaving the Malian military without ground and air support, although they had attack UAVs and helicopters....",
     "description_uk": "«Русские своих бросают»: в Мали россияне сбежали с поля боя, оставив «союзников» подыхать, — ГУР По данным украинской разведки, в начале июля колонна российского «Африканского корпуса» и войск малийской хунты попала в засаду повстанцев. Когда начался серьезный бой, россияне просто отступили, оставив малийских военных без наземной и воздушной поддержки, хотя у них были и ударные БПЛА, и вертолеты....",
@@ -122,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196937",
     "score": 5.5,
-    "views": 106604,
-    "forwards": 76
+    "views": 126087,
+    "forwards": 110
   },
   {
     "title": "Kyiv: Air defense active",
@@ -140,13 +176,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54485",
     "score": 5.0,
-    "views": 1383,
+    "views": 1735,
     "forwards": 2
   },
   {
     "title": "Kyiv: Could Nord Stream turn Germany against Ukraine? | Ukraine This Week...",
     "title_en": "Kyiv: Could Nord Stream turn Germany against Ukraine? | Ukraine This Week...",
-    "title_uk": "Київ: «Північний потік» може налаштувати Німеччину проти України? | Україна цього тижня...",
+    "title_uk": "Kyiv: Could Nord Stream turn Germany against Ukraine? | Ukraine This Week...",
     "description": "Could Nord Stream turn Germany against Ukraine? | Ukraine This Week In the latest episode of Ukraine This Week, Anna Belokur examines Germany’s allegations that a Ukrainian-led team sabotaged the Nord Stream pipelines on Kyiv’s orders—claims that Ukraine continues to reject. The episode explains why Nord Stream, a German-Russian energy project, became one of Europe’s most controversial, what...",
     "description_en": "Could Nord Stream turn Germany against Ukraine? | Ukraine This Week In the latest episode of Ukraine This Week, Anna Belokur examines Germany’s allegations that a Ukrainian-led team sabotaged the Nord Stream pipelines on Kyiv’s orders—claims that Ukraine continues to reject. The episode explains why Nord Stream, a German-Russian energy project, became one of Europe’s most controversial, what...",
     "description_uk": "Could Nord Stream turn Germany against Ukraine? | Ukraine This Week In the latest episode of Ukraine This Week, Anna Belokur examines Germany’s allegations that a Ukrainian-led team sabotaged the Nord Stream pipelines on Kyiv’s orders—claims that Ukraine continues to reject. The episode explains why Nord Stream, a German-Russian energy project, became one of Europe’s most controversial, what...",
@@ -158,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54484",
     "score": 4.5,
-    "views": 1407,
+    "views": 1747,
     "forwards": 2
   },
   {
@@ -252,24 +288,6 @@
     "forwards": 207
   },
   {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "UAV on Kharkiv from the east.",
-    "description_en": "UAV on Kharkiv from the east.",
-    "description_uk": "БпЛА на Харків зі сходу.",
-    "time": "",
-    "pubDate": "2026-07-26T07:12:35+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70150",
-    "score": 6.0,
-    "views": 15138,
-    "forwards": 0
-  },
-  {
     "title": "Drone strike near civilians",
     "title_en": "Drone strike near civilians",
     "title_uk": "Удар безпілотників поблизу мирних жителів",
@@ -288,6 +306,24 @@
     "forwards": 145
   },
   {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "ЗБИТО/ПОДАВЛЕНО 110 ЦІЛЕЙ ПРОТИВНИКА ➖➖➖➖➖➖➖➖➖➖ У ніч на 26 липня (з 18:00 25 липня) противник атакував керованою авіаційною ракетою Х-59/69 із повітряного простору над акваторією Чорного моря, 7 балістичними ракетами Іскандер-М/С-400, райони пуску – Брянська, Курська, Воронезька обл., рф., та 136 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу...",
+    "description_en": "ЗБИТО/ПОДАВЛЕНО 110 ЦІЛЕЙ ПРОТИВНИКА ➖➖➖➖➖➖➖➖➖➖ У ніч на 26 липня (з 18:00 25 липня) противник атакував керованою авіаційною ракетою Х-59/69 із повітряного простору над акваторією Чорного моря, 7 балістичними ракетами Іскандер-М/С-400, райони пуску – Брянська, Курська, Воронезька обл., рф., та 136 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 110 ЦІЛЕЙ ПРОТИВНИКА ➖➖➖➖➖➖➖➖➖➖ У ніч на 26 липня (з 18:00 25 липня) противник атакував керованою авіаційною ракетою Х-59/69 із повітряного простору над акваторією Чорного моря, 7 балістичними ракетами Іскандер-М/С-400, райони пуску – Брянська, Курська, Воронезька обл., рф., та 136 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу...",
+    "time": "",
+    "pubDate": "2026-07-26T06:01:52+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41490",
+    "score": 13.0,
+    "views": 7037,
+    "forwards": 26
+  },
+  {
     "title": "Donetsk: Ballistic missile launch detected",
     "title_en": "Donetsk: Ballistic missile launch detected",
     "title_uk": "Донецьк: виявлено пуск балістичної ракети",
@@ -304,42 +340,6 @@
     "score": 13.0,
     "views": 6935,
     "forwards": 25
-  },
-  {
-    "title": "Kryvyi Rih: Drone incoming",
-    "title_en": "Kryvyi Rih: Drone incoming",
-    "title_uk": "Кривий Ріг: Дрон вхід",
-    "description": "Kryvyi Rih - jet UAVs in the direction of the city.",
-    "description_en": "Kryvyi Rih - jet UAVs in the direction of the city.",
-    "description_uk": "Кривий Ріг - реактивні БпЛА в напрямку міста.",
-    "time": "",
-    "pubDate": "2026-07-26T03:50:23+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70132",
-    "score": 6.0,
-    "views": 26285,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "Jet UAVs in the south of Dnipropetrovsk region, heading north-west. 🛵 Jet UAV in Donetsk region, heading for Zaporozhye.",
-    "description_en": "Jet UAVs in the south of Dnipropetrovsk region, heading north-west. 🛵 Jet UAV in Donetsk region, heading for Zaporozhye.",
-    "description_uk": "Реактивні БпЛА на півдні Дніпропетровщини, північно-західним курсом. 🛵 Реактивний БпЛА на Донеччині, курсом на Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-07-26T03:46:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70131",
-    "score": 6.0,
-    "views": 28319,
-    "forwards": 0
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -381,8 +381,8 @@
     "title": "In Kyiv, in front of the building of the Ministry of Foreign Affairs...",
     "title_en": "In Kyiv, in front of the building of the Ministry of Foreign Affairs...",
     "title_uk": "У Києві перед будівлею Міністерства закордонних справ...",
-    "description": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Sai, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through the fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
-    "description_en": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Sai, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through the fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
+    "description": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Sai, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
+    "description_en": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Sai, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
     "description_uk": "У Києві перед будівлею Міністерства закордонних справ України встановили \"Фенікса\" – восьмиметрову сталеву скульптуру українського художника Олексія Сая, створену для Burning Man 2023. Робота у формі птаха відсилає до українського тризуба й символізує стійкість, трансформацію та здатність українців проходити крізь вогонь, не втрачаючи себе. На Burning Man скульптура була в дерев’яному коробі,...",
     "time": "",
     "pubDate": "2026-07-25T17:05:58+00:00",
@@ -392,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9724",
     "score": 4.0,
-    "views": 910,
+    "views": 918,
     "forwards": 10
   },
   {
@@ -410,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9710",
     "score": 5.0,
-    "views": 1035,
+    "views": 1037,
     "forwards": 6
   }
 ]
