@@ -1,5 +1,77 @@
 [
   {
+    "title": "Sumy: BpLA on Sumy from the north.",
+    "title_en": "Sumy: BpLA on Sumy from the north.",
+    "title_uk": "Суми: БпЛА на Суми з півн.",
+    "description": "BpLA on Sumy from the north.",
+    "description_en": "BpLA on Sumy from the north.",
+    "description_uk": "БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-07-26T15:09:39+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70198",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Kherson: BpLA on Kherson from the east.",
+    "title_en": "Kherson: BpLA on Kherson from the east.",
+    "title_uk": "Херсон: БпЛА на Херсон зі сх.",
+    "description": "BpLA on Kherson from the east.",
+    "description_en": "BpLA on Kherson from the east.",
+    "description_uk": "БпЛА на Херсон зі сходу.",
+    "time": "",
+    "pubDate": "2026-07-26T14:47:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70196",
+    "score": 6.0,
+    "views": 23272,
+    "forwards": 0
+  },
+  {
+    "title": "Casualties reported",
+    "title_en": "Casualties reported",
+    "title_uk": "Повідомляється про постраждалих",
+    "description": "The Russians continue to \"defeat\" ordinary civilian objects. Absolutely cynical drone strike on an ordinary supermarket in Chernihiv. They just hit people without any military sense. As of now, thirteen people are known to be injured. Unfortunately, there are two dead. And among them is a child. My condolences to family and friends. All the necessary services are now working on the spot and are providing assistance to people. They also beat...",
+    "description_en": "The Russians continue to \"defeat\" ordinary civilian objects. Absolutely cynical drone strike on an ordinary supermarket in Chernihiv. They just hit people without any military sense. As of now, thirteen people are known to be injured. Unfortunately, there are two dead. And among them is a child. My condolences to family and friends. All the necessary services are now working on the spot and are providing assistance to people. They also beat...",
+    "description_uk": "Росіяни продовжують «перемагати» звичайні цивільні об’єкти. Абсолютно цинічний удар дроном по звичайному супермаркету в Чернігові. Вдарили просто по людях без ніякого військового сенсу. Станом на зараз відомо про тринадцятьох поранених. На жаль, є двоє загиблих. І серед них дитина. Мої співчуття рідним і близьким. Зараз на місці працюють усі необхідні служби та надають допомогу людям. Також били...",
+    "time": "",
+    "pubDate": "2026-07-26T14:42:49+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Chernihiv",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20168",
+    "score": 6.5,
+    "views": 59943,
+    "forwards": 290
+  },
+  {
+    "title": "Drone strike",
+    "title_en": "Drone strike",
+    "title_uk": "Безпілотний удар",
+    "description": "Russia accelerated the construction of air defense towers around Moscow after the attacks of Ukrainian drones, - OSINT-kanaly After the May UAV strikes, Russia significantly accelerated the creation of the second echelon of air defense around the capital. Within a radius of about 40 km from Moscow, 24 new towers have already been built, some of which cover the Moscow Refinery, electrical substations and the airport. Pantsir complexes are planned to be placed on the towers. Will complete...",
+    "description_en": "Russia accelerated the construction of air defense towers around Moscow after the attacks of Ukrainian drones, - OSINT-kanaly After the May UAV strikes, Russia significantly accelerated the creation of the second echelon of air defense around the capital. Within a radius of about 40 km from Moscow, 24 new towers have already been built, some of which cover the Moscow Refinery, electrical substations and the airport. Pantsir complexes are planned to be placed on the towers. Will complete...",
+    "description_uk": "рф ускорила строительство башен ПВО вокруг Москвы после атак украинских дронов, - OSINT-каналы После майских ударов БПЛА россия значительно ускорила создание второго эшелона ПВО вокруг столицы. В радиусе около 40 км от Москвы уже построили 24 новые башни, часть из которых прикрывает Московский НПЗ, электроподстанции и аэропорт. На башнях планируют разместить комплексы \"Панцирь\". Завершить...",
+    "time": "",
+    "pubDate": "2026-07-26T14:12:57+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/196945",
+    "score": 8.5,
+    "views": 59077,
+    "forwards": 145
+  },
+  {
     "title": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_uk": "Харків: БпЛА на Харків з півночі.",
@@ -32,13 +104,13 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20167",
     "score": 10.5,
-    "views": 21227,
-    "forwards": 59
+    "views": 74929,
+    "forwards": 105
   },
   {
     "title": "Drone attack",
     "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
+    "title_uk": "Атака дронов",
     "description": "\"Russians are dropping\": the Russians fled the battlefield in Mali, leaving the \"allies\" to breathe, GUR According to Ukrainian intelligence, at the beginning of July, a convoy of the Russian \"African Corps\" and troops of the Malian junta was ambushed by rebels. When a serious battle began, the Russians simply retreated, leaving the Malian military without ground and air support, although they had attack UAVs and helicopters....",
     "description_en": "\"Russians are dropping\": the Russians fled the battlefield in Mali, leaving the \"allies\" to breathe, GUR According to Ukrainian intelligence, at the beginning of July, a convoy of the Russian \"African Corps\" and troops of the Malian junta was ambushed by rebels. When a serious battle began, the Russians simply retreated, leaving the Malian military without ground and air support, although they had attack UAVs and helicopters....",
     "description_uk": "«Русские своих бросают»: в Мали россияне сбежали с поля боя, оставив «союзников» подыхать, — ГУР По данным украинской разведки, в начале июля колонна российского «Африканского корпуса» и войск малийской хунты попала в засаду повстанцев. Когда начался серьезный бой, россияне просто отступили, оставив малийских военных без наземной и воздушной поддержки, хотя у них были и ударные БПЛА, и вертолеты....",
@@ -50,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196937",
     "score": 5.5,
-    "views": 75387,
-    "forwards": 74
+    "views": 106604,
+    "forwards": 76
   },
   {
     "title": "Kyiv: Air defense active",
@@ -68,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54485",
     "score": 5.0,
-    "views": 1033,
+    "views": 1383,
     "forwards": 2
   },
   {
@@ -86,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54484",
     "score": 4.5,
-    "views": 1057,
+    "views": 1407,
     "forwards": 2
   },
   {
@@ -144,24 +216,6 @@
     "forwards": 0
   },
   {
-    "title": "Sumy: BpLA on Sumy from the north.",
-    "title_en": "Sumy: BpLA on Sumy from the north.",
-    "title_uk": "Суми: БпЛА на Суми з півн.",
-    "description": "BpLA on Sumy from the north.",
-    "description_en": "BpLA on Sumy from the north.",
-    "description_uk": "БпЛА на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-07-26T09:12:36+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70170",
-    "score": 6.0,
-    "views": 17208,
-    "forwards": 0
-  },
-  {
     "title": "Kharkiv: KAB to the Zaporizhzhia region. 🛵 BpLA to Kharkiv from the north.",
     "title_en": "Kharkiv: KAB to the Zaporizhzhia region. 🛵 BpLA to Kharkiv from the north.",
     "title_uk": "Харків: КАБ Запорізької обл. 🛵 BpLA до Харкова з півночі.",
@@ -178,24 +232,6 @@
     "score": 6.0,
     "views": 19231,
     "forwards": 0
-  },
-  {
-    "title": "Casualties reported",
-    "title_en": "Casualties reported",
-    "title_uk": "Повідомляється про постраждалих",
-    "description": "🤔Putin is already looking at a new target: analysts named five possible scenarios for an attack on NATO Despite hundreds of thousands of casualties, destroyed equipment and sanctions, it seems that the Kremlin is not going to end the war. Moreover, according to analysts of the Atlantic Council, Putin's next target may be one of the NATO countries, writes Ynet News. Experts described five possible scenarios: ▪️Corridor in...",
-    "description_en": "🤔Putin is already looking at a new target: analysts named five possible scenarios for an attack on NATO Despite hundreds of thousands of casualties, destroyed equipment and sanctions, it seems that the Kremlin is not going to end the war. Moreover, according to analysts of the Atlantic Council, Putin's next target may be one of the NATO countries, writes Ynet News. Experts described five possible scenarios: ▪️Corridor in...",
-    "description_uk": "🤔У путина уже присматривают новую цель: аналитики назвали пять возможных сценариев атаки на НАТО Несмотря на сотни тысяч потерь, уничтоженную технику и санкции, в кремлк, похоже, не собираются сворачивать войну. Более того, как считают аналитики Атлантического совета, следующей целью путина может стать уже одна из стран НАТО, пишет Ynet News. Эксперты описали пять возможных сценариев: ▪️Коридор в...",
-    "time": "",
-    "pubDate": "2026-07-26T08:03:01+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196920",
-    "score": 5.5,
-    "views": 140357,
-    "forwards": 435
   },
   {
     "title": "Mykolaiv: 8 missiles + 136 drones",
@@ -266,8 +302,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41490",
     "score": 13.0,
-    "views": 6791,
-    "forwards": 24
+    "views": 6935,
+    "forwards": 25
   },
   {
     "title": "Kryvyi Rih: Drone incoming",
@@ -345,8 +381,8 @@
     "title": "In Kyiv, in front of the building of the Ministry of Foreign Affairs...",
     "title_en": "In Kyiv, in front of the building of the Ministry of Foreign Affairs...",
     "title_uk": "У Києві перед будівлею Міністерства закордонних справ...",
-    "description": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Say, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
-    "description_en": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Say, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
+    "description": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Sai, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through the fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
+    "description_en": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Sai, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through the fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
     "description_uk": "У Києві перед будівлею Міністерства закордонних справ України встановили \"Фенікса\" – восьмиметрову сталеву скульптуру українського художника Олексія Сая, створену для Burning Man 2023. Робота у формі птаха відсилає до українського тризуба й символізує стійкість, трансформацію та здатність українців проходити крізь вогонь, не втрачаючи себе. На Burning Man скульптура була в дерев’яному коробі,...",
     "time": "",
     "pubDate": "2026-07-25T17:05:58+00:00",
@@ -356,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9724",
     "score": 4.0,
-    "views": 902,
+    "views": 910,
     "forwards": 10
   },
   {
@@ -374,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9710",
     "score": 5.0,
-    "views": 1032,
+    "views": 1035,
     "forwards": 6
   }
 ]
