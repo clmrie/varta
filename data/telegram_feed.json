@@ -1,5 +1,59 @@
 [
   {
+    "title": "Dnipro: Дніпропетровщина: реактивний БпЛА на Синельникове .",
+    "title_en": "Dnipro: Дніпропетровщина: реактивний БпЛА на Синельникове .",
+    "title_uk": "Дніпро: Дніпропетровщина: реактивний БпЛА на Синельникове .",
+    "description": "Дніпропетровщина: реактивний БпЛА на Синельникове .",
+    "description_en": "Дніпропетровщина: реактивний БпЛА на Синельникове .",
+    "description_uk": "Дніпропетровщина: реактивний БпЛА на Синельникове .",
+    "time": "",
+    "pubDate": "2026-07-26T17:18:11+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70215",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
+    "description": "BpLA on Zaporozhye from the south.",
+    "description_en": "BpLA on Zaporozhye from the south.",
+    "description_uk": "БпЛА на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-07-26T17:16:57+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70214",
+    "score": 6.0,
+    "views": 3038,
+    "forwards": 0
+  },
+  {
+    "title": "Evacuation ordered",
+    "title_en": "Evacuation ordered",
+    "title_uk": "Наказано евакуацію",
+    "description": "In the 92nd OSHBr named after of the basket commander Ivan Sirk, unmanned aerial vehicles and ground robotic complexes have become an integral part of combat work. They conduct reconnaissance, attack the enemy, deliver ammunition and equipment, evacuate the wounded. We are constantly introducing and improving new technologies to be more effective on the battlefield and to protect our people even better. It's an honor...",
+    "description_en": "In the 92nd OSHBr named after of the basket commander Ivan Sirk, unmanned aerial vehicles and ground robotic complexes have become an integral part of combat work. They conduct reconnaissance, attack the enemy, deliver ammunition and equipment, evacuate the wounded. We are constantly introducing and improving new technologies to be more effective on the battlefield and to protect our people even better. It's an honor...",
+    "description_uk": "У 92-й ОШБр ім. кошового отамана Івана Сірка безпілотні літальні апарати та наземні роботизовані комплекси стали невід'ємною частиною бойової роботи. Вони ведуть розвідку, уражають противника, доставляють боєприпаси і спорядження, евакуюють поранених. Ми постійно впроваджуємо і вдосконалюємо нові технології, щоб бути ефективнішими на полі бою та ще краще захищати наших людей. Собі - честь....",
+    "time": "",
+    "pubDate": "2026-07-26T17:16:55+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41500",
+    "score": 5.0,
+    "views": 257,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Kharkiv: Drone incoming",
@@ -86,13 +140,13 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20168",
     "score": 6.5,
-    "views": 113638,
-    "forwards": 388
+    "views": 143049,
+    "forwards": 420
   },
   {
     "title": "Drone strike",
     "title_en": "Drone strike",
-    "title_uk": "Drone strike",
+    "title_uk": "Безпілотний удар",
     "description": "Russia accelerated the construction of air defense towers around Moscow after the attacks of Ukrainian drones, - OSINT-kanaly After the May UAV strikes, Russia significantly accelerated the creation of the second echelon of air defense around the capital. Within a radius of about 40 km from Moscow, 24 new towers have already been built, some of which cover the Moscow Refinery, electrical substations and the airport. Pantsir complexes are planned to be placed on the towers. Will complete...",
     "description_en": "Russia accelerated the construction of air defense towers around Moscow after the attacks of Ukrainian drones, - OSINT-kanaly After the May UAV strikes, Russia significantly accelerated the creation of the second echelon of air defense around the capital. Within a radius of about 40 km from Moscow, 24 new towers have already been built, some of which cover the Moscow Refinery, electrical substations and the airport. Pantsir complexes are planned to be placed on the towers. Will complete...",
     "description_uk": "рф ускорила строительство башен ПВО вокруг Москвы после атак украинских дронов, - OSINT-каналы После майских ударов БПЛА россия значительно ускорила создание второго эшелона ПВО вокруг столицы. В радиусе около 40 км от Москвы уже построили 24 новые башни, часть из которых прикрывает Московский НПЗ, электроподстанции и аэропорт. На башнях планируют разместить комплексы \"Панцирь\". Завершить...",
@@ -104,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196945",
     "score": 9.5,
-    "views": 91606,
-    "forwards": 217
+    "views": 114239,
+    "forwards": 253
   },
   {
     "title": "Kharkiv: BpLA on Kharkiv from the north.",
@@ -140,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20167",
     "score": 10.5,
-    "views": 98720,
-    "forwards": 131
+    "views": 115857,
+    "forwards": 141
   },
   {
     "title": "Drone attack",
@@ -176,13 +230,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54485",
     "score": 5.0,
-    "views": 1735,
+    "views": 2010,
     "forwards": 2
   },
   {
     "title": "Kyiv: Could Nord Stream turn Germany against Ukraine? | Ukraine This Week...",
     "title_en": "Kyiv: Could Nord Stream turn Germany against Ukraine? | Ukraine This Week...",
-    "title_uk": "Kyiv: Could Nord Stream turn Germany against Ukraine? | Ukraine This Week...",
+    "title_uk": "Київ: «Північний потік» може налаштувати Німеччину проти України? | Україна цього тижня...",
     "description": "Could Nord Stream turn Germany against Ukraine? | Ukraine This Week In the latest episode of Ukraine This Week, Anna Belokur examines Germany’s allegations that a Ukrainian-led team sabotaged the Nord Stream pipelines on Kyiv’s orders—claims that Ukraine continues to reject. The episode explains why Nord Stream, a German-Russian energy project, became one of Europe’s most controversial, what...",
     "description_en": "Could Nord Stream turn Germany against Ukraine? | Ukraine This Week In the latest episode of Ukraine This Week, Anna Belokur examines Germany’s allegations that a Ukrainian-led team sabotaged the Nord Stream pipelines on Kyiv’s orders—claims that Ukraine continues to reject. The episode explains why Nord Stream, a German-Russian energy project, became one of Europe’s most controversial, what...",
     "description_uk": "Could Nord Stream turn Germany against Ukraine? | Ukraine This Week In the latest episode of Ukraine This Week, Anna Belokur examines Germany’s allegations that a Ukrainian-led team sabotaged the Nord Stream pipelines on Kyiv’s orders—claims that Ukraine continues to reject. The episode explains why Nord Stream, a German-Russian energy project, became one of Europe’s most controversial, what...",
@@ -194,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54484",
     "score": 4.5,
-    "views": 1747,
+    "views": 2011,
     "forwards": 2
   },
   {
@@ -306,6 +360,24 @@
     "forwards": 145
   },
   {
+    "title": "Donetsk: Ballistic missile launch detected",
+    "title_en": "Donetsk: Ballistic missile launch detected",
+    "title_uk": "Донецьк: виявлено пуск балістичної ракети",
+    "description": "110 ENEMY TARGETS WERE BROKEN DOWN/SUPPRESSED On the night of July 26 (from 18:00 on July 25), the enemy attacked with a Kh-59/69 guided air missile from the airspace over the Black Sea, 7 Iskander-M/S-400 ballistic missiles, launch areas - Bryansk, Kursk, Voronezh region. Russian Federation, and 136 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and simulator drones of the type...",
+    "description_en": "110 ENEMY TARGETS WERE BROKEN DOWN/SUPPRESSED On the night of July 26 (from 18:00 on July 25), the enemy attacked with a Kh-59/69 guided air missile from the airspace over the Black Sea, 7 Iskander-M/S-400 ballistic missiles, launch areas - Bryansk, Kursk, Voronezh region. Russian Federation, and 136 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and simulator drones of the type...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 110 ЦІЛЕЙ ПРОТИВНИКА ➖➖➖➖➖➖➖➖➖➖ У ніч на 26 липня (з 18:00 25 липня) противник атакував керованою авіаційною ракетою Х-59/69 із повітряного простору над акваторією Чорного моря, 7 балістичними ракетами Іскандер-М/С-400, райони пуску – Брянська, Курська, Воронезька обл., рф., та 136 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу...",
+    "time": "",
+    "pubDate": "2026-07-26T06:01:52+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41490",
+    "score": 13.0,
+    "views": 7150,
+    "forwards": 27
+  },
+  {
     "title": "Donetsk: Drone incoming",
     "title_en": "Donetsk: Drone incoming",
     "title_uk": "Донецьк: Дрон вхід",
@@ -322,24 +394,6 @@
     "score": 13.0,
     "views": 7037,
     "forwards": 26
-  },
-  {
-    "title": "Donetsk: Ballistic missile launch detected",
-    "title_en": "Donetsk: Ballistic missile launch detected",
-    "title_uk": "Донецьк: виявлено пуск балістичної ракети",
-    "description": "110 ENEMY TARGETS WERE BROKEN DOWN/SUPPRESSED On the night of July 26 (from 18:00 on July 25), the enemy attacked with a Kh-59/69 guided air missile from the airspace over the Black Sea, 7 Iskander-M/S-400 ballistic missiles, launch areas - Bryansk, Kursk, Voronezh region. Russian Federation, and 136 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and simulator drones of the type...",
-    "description_en": "110 ENEMY TARGETS WERE BROKEN DOWN/SUPPRESSED On the night of July 26 (from 18:00 on July 25), the enemy attacked with a Kh-59/69 guided air missile from the airspace over the Black Sea, 7 Iskander-M/S-400 ballistic missiles, launch areas - Bryansk, Kursk, Voronezh region. Russian Federation, and 136 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and simulator drones of the type...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 110 ЦІЛЕЙ ПРОТИВНИКА ➖➖➖➖➖➖➖➖➖➖ У ніч на 26 липня (з 18:00 25 липня) противник атакував керованою авіаційною ракетою Х-59/69 із повітряного простору над акваторією Чорного моря, 7 балістичними ракетами Іскандер-М/С-400, райони пуску – Брянська, Курська, Воронезька обл., рф., та 136 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу...",
-    "time": "",
-    "pubDate": "2026-07-26T06:01:52+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41490",
-    "score": 13.0,
-    "views": 6935,
-    "forwards": 25
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -392,25 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9724",
     "score": 4.0,
-    "views": 918,
+    "views": 923,
     "forwards": 10
-  },
-  {
-    "title": "Andrii Sybiga: \"We condemn the Russian drone's violation of the...",
-    "title_en": "Andrii Sybiga: \"We condemn the Russian drone's violation of the...",
-    "title_uk": "Андрій Сибіга: «Ми засуджуємо порушення російським безпілотником...",
-    "description": "Andrii Sybiga: \"We condemn the Russian drone's violation of the airspace of Romania 🇷🇴 - the sovereign territory of an EU member state and a NATO ally.\" 💬 \"This is yet another evidence of the Kremlin's complete disregard for international law, national sovereignty and the security of Europe. Russia constantly tests the West's resolve, tests our collective reaction and prepares the ground for further hybrid aggression....",
-    "description_en": "Andrii Sybiga: \"We condemn the Russian drone's violation of the airspace of Romania 🇷🇴 - the sovereign territory of an EU member state and a NATO ally.\" 💬 \"This is yet another evidence of the Kremlin's complete disregard for international law, national sovereignty and the security of Europe. Russia constantly tests the West's resolve, tests our collective reaction and prepares the ground for further hybrid aggression....",
-    "description_uk": "Андрій Сибіга: \"Засуджуємо порушення російським безпілотником повітряного простору Румунії 🇷🇴 – суверенної території держави-члена ЄС і союзника по НАТО\". 💬 \"Це чергове свідчення повного зневажання Кремлем міжнародного права, національного суверенітету та безпеки Європи. Росія постійно випробовує рішучість Заходу, перевіряє нашу колективну реакцію та готує ґрунт для подальшої гібридної агресії....",
-    "time": "",
-    "pubDate": "2026-07-24T19:21:46+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9710",
-    "score": 5.0,
-    "views": 1037,
-    "forwards": 6
   }
 ]
