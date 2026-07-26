@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kryvyi Rih: BpLA to Kryvyi Rih from the north.",
+    "title_en": "Kryvyi Rih: BpLA to Kryvyi Rih from the north.",
+    "title_uk": "Кривий Ріг: БпЛА до Кривого Рогу з півн.",
+    "description": "BpLA to Kryvyi Rih from the north.",
+    "description_en": "BpLA to Kryvyi Rih from the north.",
+    "description_uk": "БпЛА на Кривий Ріг з півночі.",
+    "time": "",
+    "pubDate": "2026-07-26T11:01:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70175",
+    "score": 6.0,
+    "views": 6092,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: BpLA in the direction of Zaporizhzhia and Kryvyi Rih from the south.",
+    "title_en": "Zaporizhzhia: BpLA in the direction of Zaporizhzhia and Kryvyi Rih from the south.",
+    "title_uk": "Запоріжжя: БпЛА в напрямку Запоріжжя та Кривого Рогу з півд.",
+    "description": "BpLA in the direction of Zaporizhzhia and Kryvyi Rih from the south.",
+    "description_en": "BpLA in the direction of Zaporizhzhia and Kryvyi Rih from the south.",
+    "description_uk": "БпЛА в напрямку Запоріжжя та Кривого Рогу з півдня.",
+    "time": "",
+    "pubDate": "2026-07-26T10:53:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70174",
+    "score": 6.0,
+    "views": 15203,
+    "forwards": 0
+  },
+  {
     "title": "Sumy: BpLA on Sumy from the north.",
     "title_en": "Sumy: BpLA on Sumy from the north.",
     "title_uk": "Суми: БпЛА на Суми з півн.",
@@ -50,15 +86,15 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196920",
     "score": 5.5,
-    "views": 86530,
-    "forwards": 290
+    "views": 124082,
+    "forwards": 399
   },
   {
     "title": "Mykolaiv: 8 missiles + 136 drones",
     "title_en": "Mykolaiv: 8 missiles + 136 drones",
     "title_uk": "Миколаїв: 8 ракет + 136 безпілотників",
-    "description": "All the necessary services are involved at the site of the impact drone hitting residential buildings in Kharkiv. Unfortunately, one person died, nine others were injured, including two children. My condolences to family and friends. The units of the State Emergency Service continue to eliminate the fire of a normal construction hypermarket in Kryvyi Rih. In total, the Russians launched 8 missiles and 136 drones of various types over Ukraine that night. Many...",
-    "description_en": "All the necessary services are involved at the site of the impact drone hitting residential buildings in Kharkiv. Unfortunately, one person died, nine others were injured, including two children. My condolences to family and friends. The units of the State Emergency Service continue to eliminate the fire of a normal construction hypermarket in Kryvyi Rih. In total, the Russians launched 8 missiles and 136 drones of various types over Ukraine that night. Many...",
+    "description": "All the necessary services were involved at the site of the impact drone hitting residential buildings in Kharkiv. Unfortunately, one person died, nine others were injured, including two children. My condolences to family and friends. The units of the State Emergency Service continue to eliminate the fire of a normal construction hypermarket in Kryvyi Rih. In total, the Russians launched 8 missiles and 136 drones of various types over Ukraine this night. Many...",
+    "description_en": "All the necessary services were involved at the site of the impact drone hitting residential buildings in Kharkiv. Unfortunately, one person died, nine others were injured, including two children. My condolences to family and friends. The units of the State Emergency Service continue to eliminate the fire of a normal construction hypermarket in Kryvyi Rih. In total, the Russians launched 8 missiles and 136 drones of various types over Ukraine this night. Many...",
     "description_uk": "Всі необхідні служби залучені на місці влучання ударного дрона по житлових будинках у Харкові. На жаль, загинула одна людина, ще дев’ятеро постраждало, і серед них дві дитини. Мої співчуття рідним та близьким. Підрозділи ДСНС продовжують ліквідацію пожежі звичайного будівельного гіпермаркету у Кривому Розі. Загалом цієї ночі росіяни випустили по Україні 8 ракет і 136 дронів різних типів. Багато...",
     "time": "",
     "pubDate": "2026-07-26T07:38:34+00:00",
@@ -68,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20166",
     "score": 18.5,
-    "views": 82210,
-    "forwards": 171
+    "views": 104782,
+    "forwards": 189
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -104,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/196913",
     "score": 9.5,
-    "views": 120846,
-    "forwards": 111
+    "views": 144510,
+    "forwards": 145
   },
   {
     "title": "Donetsk: Ballistic missile launch detected",
@@ -122,8 +158,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41490",
     "score": 13.0,
-    "views": 5277,
-    "forwards": 21
+    "views": 5889,
+    "forwards": 22
   },
   {
     "title": "Kryvyi Rih: Drone incoming",
@@ -216,24 +252,6 @@
     "forwards": 11
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Strike UAVs in the east of Sumy Oblast in a southerly course in the direction of Poltava Oblast.",
-    "description_en": "Strike UAVs in the east of Sumy Oblast in a southerly course in the direction of Poltava Oblast.",
-    "description_uk": "Ударні БпЛА на сході Сумщини південним курсом у напрямку Полтавщини.",
-    "time": "",
-    "pubDate": "2026-07-25T22:30:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70111",
-    "score": 5.0,
-    "views": 30945,
-    "forwards": 32
-  },
-  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Київ: виявлено пуск балістичної ракети",
@@ -248,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54477",
     "score": 13.0,
-    "views": 2806,
+    "views": 2977,
     "forwards": 2
   },
   {
@@ -284,15 +302,15 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20162",
     "score": 4.5,
-    "views": 66141,
-    "forwards": 81
+    "views": 67715,
+    "forwards": 82
   },
   {
     "title": "In Kyiv, in front of the building of the Ministry of Foreign Affairs...",
     "title_en": "In Kyiv, in front of the building of the Ministry of Foreign Affairs...",
     "title_uk": "У Києві перед будівлею Міністерства закордонних справ...",
-    "description": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Sai, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
-    "description_en": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Sai, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
+    "description": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Sai, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through the fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
+    "description_en": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Sai, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through the fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
     "description_uk": "У Києві перед будівлею Міністерства закордонних справ України встановили \"Фенікса\" – восьмиметрову сталеву скульптуру українського художника Олексія Сая, створену для Burning Man 2023. Робота у формі птаха відсилає до українського тризуба й символізує стійкість, трансформацію та здатність українців проходити крізь вогонь, не втрачаючи себе. На Burning Man скульптура була в дерев’яному коробі,...",
     "time": "",
     "pubDate": "2026-07-25T17:05:58+00:00",
@@ -302,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9724",
     "score": 4.0,
-    "views": 862,
+    "views": 882,
     "forwards": 10
   },
   {
@@ -320,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41474",
     "score": 6.5,
-    "views": 40022,
+    "views": 40450,
     "forwards": 76
   },
   {
@@ -338,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9710",
     "score": 5.0,
-    "views": 1025,
+    "views": 1027,
     "forwards": 6
   },
   {
@@ -356,25 +374,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23682",
     "score": 11.5,
-    "views": 210008,
-    "forwards": 754
-  },
-  {
-    "title": "How Russia turned its prisons into conveyor belts of death? Read the...",
-    "title_en": "How Russia turned its prisons into conveyor belts of death? Read the...",
-    "title_uk": "Як Росія перетворила свої в'язниці на конвеєри смерті? Прочитайте...",
-    "description": "How Russia turned its prisons into conveyor belts of death? Read the full article on our website",
-    "description_en": "How Russia turned its prisons into conveyor belts of death? Read the full article on our website",
-    "description_uk": "How Russia turned its prisons into conveyor belts of death? Read the full article on our website",
-    "time": "",
-    "pubDate": "2026-07-24T09:37:18+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukrainska Pravda",
-    "link": "https://t.me/pravda_eng/48878",
-    "score": 5.0,
-    "views": 87,
-    "forwards": 0
+    "views": 211253,
+    "forwards": 755
   }
 ]
