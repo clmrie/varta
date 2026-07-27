@@ -14,8 +14,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/70421",
     "score": 6.0,
-    "views": 26377,
-    "forwards": 1
+    "views": 40156,
+    "forwards": 32
   },
   {
     "title": "Kyiv: Reactive BpLA ➡️ course to Kyiv from the south.",
@@ -32,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/70418",
     "score": 6.0,
-    "views": 61821,
+    "views": 71390,
     "forwards": 37
   },
   {
@@ -86,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54505",
     "score": 11.5,
-    "views": 1344,
+    "views": 1552,
     "forwards": 5
   },
   {
@@ -103,9 +103,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197038",
-    "score": 5.5,
-    "views": 90650,
-    "forwards": 174
+    "score": 6.5,
+    "views": 100782,
+    "forwards": 211
   },
   {
     "title": "Airstrike attack",
@@ -122,7 +122,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9736",
     "score": 5.0,
-    "views": 679,
+    "views": 714,
     "forwards": 6
   },
   {
@@ -194,8 +194,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54503",
     "score": 5.0,
-    "views": 2013,
-    "forwards": 2
+    "views": 2138,
+    "forwards": 3
   },
   {
     "title": "Crimea: Power outage reported",
@@ -378,24 +378,6 @@
     "forwards": 0
   },
   {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "New UAVs on Kharkiv from the north.",
-    "description_en": "New UAVs on Kharkiv from the north.",
-    "description_uk": "Нові БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-07-27T11:28:18+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70352",
-    "score": 6.0,
-    "views": 28292,
-    "forwards": 0
-  },
-  {
     "title": "Casualties reported",
     "title_en": "Casualties reported",
     "title_uk": "Повідомляється про постраждалих",
@@ -448,5 +430,23 @@
     "score": 14.5,
     "views": 74364,
     "forwards": 96
+  },
+  {
+    "title": "\"Military doctors, paramedics, nurses and brothers, paramedics,...",
+    "title_en": "\"Military doctors, paramedics, nurses and brothers, paramedics,...",
+    "title_uk": "«Військові лікарі, фельдшери, медсестри і брати, санітари,...",
+    "description": "\"Military doctors, paramedics, nurses and brothers, paramedics, health care workers - we thank you every day. You guard the lives and health of our soldiers: on the front lines, in medevacs, at checkpoints, in hospitals. I know well the value of a doctor's presence at the front. He is near like a guardian angel - and this strengthens the confidence of Ukrainian defenders, adds hope to their relatives. Today, on the Day of...",
+    "description_en": "\"Military doctors, paramedics, nurses and brothers, paramedics, health care workers - we thank you every day. You guard the lives and health of our soldiers: on the front lines, in medevacs, at checkpoints, in hospitals. I know well the value of a doctor's presence at the front. He is near like a guardian angel - and this strengthens the confidence of Ukrainian defenders, adds hope to their relatives. Today, on the Day of...",
+    "description_uk": "\"Військові лікарі, фельдшери, медичні сестри й брати, парамедики, працівники сфери охорони здоров’я — дякуємо вам щодня. Ви стоїте на варті життя і здоров'я наших воїнів: на передовій, у медеваках, на стабпунктах, у госпіталях. Я добре знаю ціну присутності медика на фронті. Він поруч, як янгол-охоронець — і це зміцнює впевненість українських захисників, додає надії їхнім рідним. Сьогодні, в День...",
+    "time": "",
+    "pubDate": "2026-07-27T05:16:20+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41528",
+    "score": 8.0,
+    "views": 17603,
+    "forwards": 43
   }
 ]
