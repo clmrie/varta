@@ -1,5 +1,59 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "Jet UAV in the direction of Mykolaiv Oblast",
+    "description_en": "Jet UAV in the direction of Mykolaiv Oblast",
+    "description_uk": "Реактивний БпЛА у напрямку Миколаївщини",
+    "time": "",
+    "pubDate": "2026-07-27T16:21:35+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70387",
+    "score": 6.0,
+    "views": 18186,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: Reactive UAV in the Kryvorizka district of Dnipropetrovsk region ➡️...",
+    "title_en": "Dnipro: Reactive UAV in the Kryvorizka district of Dnipropetrovsk region ➡️...",
+    "title_uk": "Дніпро: реактивний БПЛА в Криворізькому районі Дніпропетровської області ➡️...",
+    "description": "Reactive UAV in the Kryvorizka district of Dnipropetrovsk region ➡️ on a northerly course",
+    "description_en": "Reactive UAV in the Kryvorizka district of Dnipropetrovsk region ➡️ on a northerly course",
+    "description_uk": "Реактивний БпЛА у Криворізькому районі Дніпропетровщини ➡️ північним курсом",
+    "time": "",
+    "pubDate": "2026-07-27T16:14:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70386",
+    "score": 6.0,
+    "views": 24246,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "Organizer of exhibition struck in deadly Russian ballistic missile attack remanded in custody. The event took place on July 24 just outside Kyiv and was being attended by members of the Ukrainian defense industry when it was hit.",
+    "description_en": "Organizer of exhibition struck in deadly Russian ballistic missile attack remanded in custody. The event took place on July 24 just outside Kyiv and was being attended by members of the Ukrainian defense industry when it was hit.",
+    "description_uk": "Organizer of exhibition struck in deadly Russian ballistic missile attack remanded in custody. The event took place on July 24 just outside Kyiv and was being attended by members of the Ukrainian defense industry when it was hit.",
+    "time": "",
+    "pubDate": "2026-07-27T14:10:15+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54500",
+    "score": 15.0,
+    "views": 1295,
+    "forwards": 0
+  },
+  {
     "title": "Kherson: Drone incoming",
     "title_en": "Kherson: Drone incoming",
     "title_uk": "Херсон: Дрон вхід",
@@ -49,9 +103,27 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197013",
-    "score": 5.0,
-    "views": 53752,
-    "forwards": 40
+    "score": 5.5,
+    "views": 115412,
+    "forwards": 113
+  },
+  {
+    "title": "Column \"Interesting Arithmetic\": Romania spent €1.5 million in 3 days...",
+    "title_en": "Column \"Interesting Arithmetic\": Romania spent €1.5 million in 3 days...",
+    "title_uk": "Рубрика «Цікава арифметика»: Румунія витратила €1,5 млн за 3 дні...",
+    "description": "Column \"Interesting Arithmetic\": Romania spent €1.5 million in 3 days to shoot down 3 Russian drones According to the journalists of the Romanian TV channel Digi24, F-16 fighters fired three AIM-9X missiles, the cost of one of which is about $400,000. The Ministry of Defense of Romania is looking for cheaper solutions, but the first anti-drone systems are expected to be put into service with the army only in...",
+    "description_en": "Column \"Interesting Arithmetic\": Romania spent €1.5 million in 3 days to shoot down 3 Russian drones According to the journalists of the Romanian TV channel Digi24, F-16 fighters fired three AIM-9X missiles, the cost of one of which is about $400,000. The Ministry of Defense of Romania is looking for cheaper solutions, but the first anti-drone systems are expected to be put into service with the army only in...",
+    "description_uk": "Рубрика \"Занимательная арифметика\": Румыния за 3 дня потратила €1,5 млн, чтобы сбить 3 российских дрона Как сообщают журналисты румынского телеканала Digi24, истребители F-16 выпустили три ракеты AIM-9X, стоимость одной – около $400 000. Министерство обороны Румынии ищет более дешевые решения, но первые системы борьбы с беспилотниками, как ожидается, поступят на вооружение армии только в...",
+    "time": "",
+    "pubDate": "2026-07-27T12:55:27+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/197012",
+    "score": 3.5,
+    "views": 119657,
+    "forwards": 147
   },
   {
     "title": "\"Interesting Arithmetic\" column: Romania spent €1.5 million in 3 days...",
@@ -219,8 +291,8 @@
     "title": "3 missiles",
     "title_en": "3 missiles",
     "title_uk": "3 ракети",
-    "description": "PAC-2 and PAC-3 missiles are not offensive missiles. We found money in Europe to buy them in the US, but we don't have enough of these missiles. This is a problem because the sanctions against Russian military production have not been sufficient and they may increase the production of ballistic missiles. That is why we need to provide air defense as soon as possible. There is a shortage due to the situation in the Middle East. I...",
-    "description_en": "PAC-2 and PAC-3 missiles are not offensive missiles. We found money in Europe to buy them in the US, but we don't have enough of these missiles. This is a problem because the sanctions against Russian military production have not been sufficient and they may increase the production of ballistic missiles. That is why we need to provide air defense as soon as possible. There is a shortage due to the situation in the Middle East. I...",
+    "description": "PAC-2 and PAC-3 missiles are not offensive missiles. We found money in Europe to buy them in the US, but we don't have enough of these missiles. This is a problem because the sanctions against Russian military production have not been sufficient and they can increase the production of ballistic missiles. That is why we need to provide air defense as soon as possible. There is a shortage due to the situation in the Middle East. I...",
+    "description_en": "PAC-2 and PAC-3 missiles are not offensive missiles. We found money in Europe to buy them in the US, but we don't have enough of these missiles. This is a problem because the sanctions against Russian military production have not been sufficient and they can increase the production of ballistic missiles. That is why we need to provide air defense as soon as possible. There is a shortage due to the situation in the Middle East. I...",
     "description_uk": "Ракети PAC-2 та PAC-3 це не наступальні ракети. Ми знайшли у Європі гроші, щоб придбати їх у США, але цих ракет у нас недостатньо. Це проблема, бо санкції проти російського військового виробництва були недостатніми й вони можуть нарощувати виробництво балістичних ракет. Ось чому нам потрібно якнайшвидше забезпечити протиповітряну оборону. Існує дефіцит через ситуацію на Близькому Сході. Я...",
     "time": "",
     "pubDate": "2026-07-27T06:15:28+00:00",
@@ -230,15 +302,15 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20173",
     "score": 14.5,
-    "views": 71036,
-    "forwards": 95
+    "views": 74364,
+    "forwards": 96
   },
   {
     "title": "Putin is not ready to stop this war. There are intelligence reports...",
     "title_en": "Putin is not ready to stop this war. There are intelligence reports...",
     "title_uk": "Путін не готовий зупинити цю війну. Є дані розвідки...",
-    "description": "Putin is not ready to stop this war. There are intelligence reports that he is preparing for mobilization. He wants to do it after the Duma elections on September 21. He wants to increase mobilization. Not openly, because he is afraid of his society, but he will do it in early October, if we do not create problems for him with logistics, weapons, gasoline, diesel and if our partners do not introduce total sanctions for his aggression. It will become...",
-    "description_en": "Putin is not ready to stop this war. There are intelligence reports that he is preparing for mobilization. He wants to do it after the Duma elections on September 21. He wants to increase mobilization. Not openly, because he is afraid of his society, but he will do it in early October, if we do not create problems for him with logistics, weapons, gasoline, diesel and if our partners do not introduce total sanctions for his aggression. It will become...",
+    "description": "Putin is not ready to stop this war. There are intelligence reports that he is preparing for mobilization. He wants to do it after the Duma elections on September 21. He wants to increase mobilization. Not openly, because he is afraid of his society, but he will do it at the beginning of October, if we do not create problems for him with logistics, weapons, gasoline, diesel and if our partners do not introduce total sanctions for his aggression. It will become...",
+    "description_en": "Putin is not ready to stop this war. There are intelligence reports that he is preparing for mobilization. He wants to do it after the Duma elections on September 21. He wants to increase mobilization. Not openly, because he is afraid of his society, but he will do it at the beginning of October, if we do not create problems for him with logistics, weapons, gasoline, diesel and if our partners do not introduce total sanctions for his aggression. It will become...",
     "description_uk": "Путін неготовий зупинити цю війну. Є дані розвідки, що він готується до мобілізації. Він хоче зробити це після виборів до Думи 21 вересня. Він хоче посилити мобілізацію. Не відкрито, бо боїться свого суспільства, але він зробить це на початку жовтня, якщо ми не створимо йому проблем із логістикою, зброєю, бензином, дизелем і якщо наші партнери не введуть тотальні санкції за його агресію. Це стане...",
     "time": "",
     "pubDate": "2026-07-27T06:10:16+00:00",
@@ -248,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20172",
     "score": 6.5,
-    "views": 68234,
-    "forwards": 222
+    "views": 72017,
+    "forwards": 223
   },
   {
     "title": "\"Military doctors, paramedics, nurses and brothers, paramedics,...",
@@ -266,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41528",
     "score": 8.0,
-    "views": 15285,
+    "views": 16281,
     "forwards": 42
   },
   {
@@ -284,7 +356,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54494",
     "score": 8.0,
-    "views": 2898,
+    "views": 3056,
     "forwards": 3
   },
   {
@@ -327,8 +399,8 @@
     "title": "In Kyiv, in front of the building of the Ministry of Foreign Affairs...",
     "title_en": "In Kyiv, in front of the building of the Ministry of Foreign Affairs...",
     "title_uk": "У Києві перед будівлею Міністерства закордонних справ...",
-    "description": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Say, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
-    "description_en": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Say, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
+    "description": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Sai, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through the fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
+    "description_en": "In Kyiv, in front of the building of the Ministry of Foreign Affairs of Ukraine, \"Phoenix\" was installed - an eight-meter steel sculpture by Ukrainian artist Oleksiy Sai, created for Burning Man 2023. The work in the form of a bird refers to the Ukrainian trident and symbolizes the resilience, transformation and ability of Ukrainians to pass through the fire without losing themselves. At Burning Man, the sculpture was in a wooden box,...",
     "description_uk": "У Києві перед будівлею Міністерства закордонних справ України встановили \"Фенікса\" – восьмиметрову сталеву скульптуру українського художника Олексія Сая, створену для Burning Man 2023. Робота у формі птаха відсилає до українського тризуба й символізує стійкість, трансформацію та здатність українців проходити крізь вогонь, не втрачаючи себе. На Burning Man скульптура була в дерев’яному коробі,...",
     "time": "",
     "pubDate": "2026-07-25T17:05:58+00:00",
@@ -338,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9724",
     "score": 4.0,
-    "views": 1067,
+    "views": 1074,
     "forwards": 13
   }
 ]
