@@ -1,5 +1,59 @@
 [
   {
+    "title": "Airstrike attack",
+    "title_en": "Airstrike attack",
+    "title_uk": "Авіаційна атака",
+    "description": "Head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
+    "description_en": "Head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
+    "description_uk": "Очільник МЗС України Андрій Сибіга щодо затримання нападників на українців у Вроцлаві: 💬 \"Польські правоохоронці затримали двох осіб, підозрюваних у нападі на громадян України у Вроцлаві. Третього шукають. Очікуємо на повне, об’єктивне та неупереджене розслідування, встановлення всіх обставин і мотивів злочину, а також справедливе покарання винних. Дякую польській владі, правоохоронним органам та...",
+    "time": "",
+    "pubDate": "2026-07-27T19:36:24+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9736",
+    "score": 5.0,
+    "views": 267,
+    "forwards": 5
+  },
+  {
+    "title": "Sumy: BpLA ➡️ heading for Sumy from the north.",
+    "title_en": "Sumy: BpLA ➡️ heading for Sumy from the north.",
+    "title_uk": "Суми: BpLA ➡️ прямує на Суми з півночі.",
+    "description": "BpLA ➡️ heading for Sumy from the north.",
+    "description_en": "BpLA ➡️ heading for Sumy from the north.",
+    "description_uk": "БпЛА ➡️ курсом на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-07-27T19:24:03+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70406",
+    "score": 6.0,
+    "views": 37429,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: BpLA ➡️ course to Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA ➡️ course to Kharkiv from the north.",
+    "title_uk": "Харків: BpLA ➡️ курс на Харків з півночі.",
+    "description": "BpLA ➡️ course to Kharkiv from the north.",
+    "description_en": "BpLA ➡️ course to Kharkiv from the north.",
+    "description_uk": "БпЛА ➡️ курсом на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-07-27T18:40:14+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70405",
+    "score": 6.0,
+    "views": 70793,
+    "forwards": 0
+  },
+  {
     "title": "Chernihiv: Jet UAVs from Chernihiv Oblast ➡️ to the Kyiv Reservoir.",
     "title_en": "Chernihiv: Jet UAVs from Chernihiv Oblast ➡️ to the Kyiv Reservoir.",
     "title_uk": "Чернігів: реактивні БПЛА з Чернігівської області ➡️ до Київського водосховища.",
@@ -50,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54503",
     "score": 5.0,
-    "views": 583,
+    "views": 1332,
     "forwards": 2
   },
   {
@@ -68,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54502",
     "score": 8.5,
-    "views": 845,
-    "forwards": 2
+    "views": 1423,
+    "forwards": 3
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -342,24 +396,6 @@
     "forwards": 73
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "There will be no quick launch of the Ukrainian production of Patriot missiles and the European anti-ballistic system - Zelensky \"Of course, we are moving to create our own — Ukrainian, European, call it what you want — anti-aircraft and anti-missile defense systems. But it will take time. Trump agreed to grant us licenses for the production of missiles for Patriot complexes in Ukraine. But...",
-    "description_en": "There will be no quick launch of the Ukrainian production of Patriot missiles and the European anti-ballistic system - Zelensky \"Of course, we are moving to create our own — Ukrainian, European, call it what you want — anti-aircraft and anti-missile defense systems. But it will take time. Trump agreed to grant us licenses for the production of missiles for Patriot complexes in Ukraine. But...",
-    "description_uk": "Быстрого запуска украинского производства ракет Patriot и европейской антибаллистической системы не будет - Зеленский \"Конечно, мы движемся к созданию собственной — украинской, европейской, называйте как хотите — системы противовоздушной и противоракетной обороны. Но на это потребуется время. Трамп согласился предоставить нам лицензии на производство ракет для комплексов Patriot в Украине. Но,...",
-    "time": "",
-    "pubDate": "2026-07-27T07:43:40+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196992",
-    "score": 5.0,
-    "views": 52234,
-    "forwards": 38
-  },
-  {
     "title": "3 missiles",
     "title_en": "3 missiles",
     "title_uk": "3 ракети",
@@ -410,25 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41528",
     "score": 8.0,
-    "views": 16827,
-    "forwards": 42
-  },
-  {
-    "title": "Chernihiv: Casualties reported",
-    "title_en": "Chernihiv: Casualties reported",
-    "title_uk": "Чернігів: повідомляється про постраждалих",
-    "description": "'No military justification' — Russian daytime drone attack on Chernihiv supermarket kills 2, including child, injures 25. Russia launched a drone attack at a busy supermarket in Chernihiv on July 26, hitting the store in the middle of the day as families were shopping for groceries. A 9-year-old girl was killed in the attack. \"This is a deliberate act of Russian terror that has no military...",
-    "description_en": "'No military justification' — Russian daytime drone attack on Chernihiv supermarket kills 2, including child, injures 25. Russia launched a drone attack at a busy supermarket in Chernihiv on July 26, hitting the store in the middle of the day as families were shopping for groceries. A 9-year-old girl was killed in the attack. \"This is a deliberate act of Russian terror that has no military...",
-    "description_uk": "'No military justification' — Russian daytime drone attack on Chernihiv supermarket kills 2, including child, injures 25. Russia launched a drone attack at a busy supermarket in Chernihiv on July 26, hitting the store in the middle of the day as families were shopping for groceries. A 9-year-old girl was killed in the attack. \"This is a deliberate act of Russian terror that has no military...",
-    "time": "",
-    "pubDate": "2026-07-26T18:57:42+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Chernihiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54488",
-    "score": 18.0,
-    "views": 3230,
-    "forwards": 7
+    "views": 17258,
+    "forwards": 43
   }
 ]
