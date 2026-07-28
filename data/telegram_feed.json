@@ -1,5 +1,59 @@
 [
   {
+    "title": "Zaporizhzhia: KAB to the east of Zaporizhzhia! In shelter!",
+    "title_en": "Zaporizhzhia: KAB to the east of Zaporizhzhia! In shelter!",
+    "title_uk": "Запоріжжя: КАБ на схід від Запоріжжя! В укриття!",
+    "description": "KAB to the east of Zaporizhzhia! In shelter!",
+    "description_en": "KAB to the east of Zaporizhzhia! In shelter!",
+    "description_uk": "КАБ на схід від Запоріжжя! В укриття!",
+    "time": "",
+    "pubDate": "2026-07-28T13:07:35+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70506",
+    "score": 6.0,
+    "views": 10074,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV in the direction of the Dnipro from the west.",
+    "description_en": "UAV in the direction of the Dnipro from the west.",
+    "description_uk": "БпЛА в напрямку Дніпра із заходу.",
+    "time": "",
+    "pubDate": "2026-07-28T13:00:36+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70505",
+    "score": 5.0,
+    "views": 20181,
+    "forwards": 0
+  },
+  {
+    "title": "Air defense active",
+    "title_en": "Air defense active",
+    "title_uk": "Активна ППО",
+    "description": "Laura Loomer took up the famous Ukrainian pen. Laura Loomer, a blogger-influencer MAGA close to Trump, who flew to Ukraine, interviewed Zelensky and spent the night in a Ukrainian bomb shelter, visited a Ukrainian drone factory that was visited by Senator Lindsay Graham shortly before her death. At the factory, she shot a video with the Ukrainian interceptor drone P1-Sun, which...",
+    "description_en": "Laura Loomer took up the famous Ukrainian pen. Laura Loomer, a blogger-influencer MAGA close to Trump, who flew to Ukraine, interviewed Zelensky and spent the night in a Ukrainian bomb shelter, visited a Ukrainian drone factory that was visited by Senator Lindsay Graham shortly before her death. At the factory, she shot a video with the Ukrainian interceptor drone P1-Sun, which...",
+    "description_uk": "Лора Лумер взяла в руки знаменитый украинский писюн Приближенная к Трампу блогерша-Инфлюенсер MAGA Лора Лумер, которая прилетев в Украину, взяла интервью у Зеленского и провела ночь в украинском бомбоубежище, посетила украинский завод по производству дронов, который незадолго до своей смерти посещал сенатор Линдси Грэм. На заводе она сняла видео с украинским дроном-перехватчиком P1-Sun, который...",
+    "time": "",
+    "pubDate": "2026-07-28T11:41:01+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/197081",
+    "score": 5.5,
+    "views": 83810,
+    "forwards": 255
+  },
+  {
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Миколаїв: Дрон вхід",
@@ -50,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197078",
     "score": 4.5,
-    "views": 41712,
-    "forwards": 71
+    "views": 100019,
+    "forwards": 140
   },
   {
     "title": "Kyiv: Attack attack",
@@ -68,26 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54514",
     "score": 5.0,
-    "views": 1146,
+    "views": 1621,
     "forwards": 5
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAVs in the direction of Kharkiv from the west and north.",
-    "description_en": "UAVs in the direction of Kharkiv from the west and north.",
-    "description_uk": "БпЛА в напрямку Харкова із заходу та півночі.",
-    "time": "",
-    "pubDate": "2026-07-28T09:02:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70487",
-    "score": 5.0,
-    "views": 22214,
-    "forwards": 0
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -176,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20199",
     "score": 6.5,
-    "views": 115917,
-    "forwards": 316
+    "views": 125167,
+    "forwards": 340
   },
   {
     "title": "131 drones intercepted",
@@ -212,7 +248,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41561",
     "score": 10.0,
-    "views": 8451,
+    "views": 8933,
     "forwards": 22
   },
   {
@@ -266,8 +302,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54509",
     "score": 11.5,
-    "views": 2326,
-    "forwards": 6
+    "views": 2509,
+    "forwards": 7
   },
   {
     "title": "Chernihiv: Casualties reported",
@@ -309,8 +345,8 @@
     "title": "Airstrike attack",
     "title_en": "Airstrike attack",
     "title_uk": "Авіаційна атака",
-    "description": "Head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
-    "description_en": "Head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
+    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
+    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
     "description_uk": "Очільник МЗС України Андрій Сибіга щодо затримання нападників на українців у Вроцлаві: 💬 \"Польські правоохоронці затримали двох осіб, підозрюваних у нападі на громадян України у Вроцлаві. Третього шукають. Очікуємо на повне, об’єктивне та неупереджене розслідування, встановлення всіх обставин і мотивів злочину, а також справедливе покарання винних. Дякую польській владі, правоохоронним органам та...",
     "time": "",
     "pubDate": "2026-07-27T19:36:24+00:00",
@@ -320,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9736",
     "score": 5.0,
-    "views": 5957,
+    "views": 6160,
     "forwards": 11
   },
   {
@@ -340,59 +376,5 @@
     "score": 15.0,
     "views": 1295,
     "forwards": 0
-  },
-  {
-    "title": "Air defense active",
-    "title_en": "Air defense active",
-    "title_uk": "Активна ППО",
-    "description": "One of the largest manufacturers of FPV drones in Ukraine, the General Chereshnya company received a license to create private air defense systems. This will be a full-cycle solution for the protection of private objects and critical infrastructure objects: the company said that it has its own pilots, mobile groups, as well as systems for countering enemy drones. Now it actively integrates into interceptors...",
-    "description_en": "One of the largest manufacturers of FPV drones in Ukraine, the General Chereshnya company received a license to create private air defense systems. This will be a full-cycle solution for the protection of private objects and critical infrastructure objects: the company said that it has its own pilots, mobile groups, as well as systems for countering enemy drones. Now it actively integrates into interceptors...",
-    "description_uk": "Один из крупнейших производителей FPV-дронов в Украине, компания \"Генерал Черешня\" получила лицензию на создание частных ПВО Это будет решение полного цикла для защиты частных объектов и объектов критической инфраструктуры: в компании заявили, что у нее есть собственные пилоты, мобильные группы, а также системы противодействия вражеским дронам. Сейчас она активно интегрирует в перехватчики...",
-    "time": "",
-    "pubDate": "2026-07-27T13:10:20+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/197013",
-    "score": 5.5,
-    "views": 136916,
-    "forwards": 149
-  },
-  {
-    "title": "\"Interesting Arithmetic\" column: Romania spent €1.5 million in 3 days...",
-    "title_en": "\"Interesting Arithmetic\" column: Romania spent €1.5 million in 3 days...",
-    "title_uk": "Рубрика «Цікава арифметика»: Румунія витратила €1,5 млн за 3 дні...",
-    "description": "\"Interesting Arithmetic\" column: Romania spent €1.5 million in 3 days to shoot down 3 Russian drones As reported by journalists of the Romanian TV channel Digi24, F-16 fighters fired three AIM-9X missiles, the cost of one of which is about $400,000. The Ministry of Defense of Romania is looking for cheaper solutions, but the first anti-drone systems are expected to be put into service with the army only in...",
-    "description_en": "\"Interesting Arithmetic\" column: Romania spent €1.5 million in 3 days to shoot down 3 Russian drones As reported by journalists of the Romanian TV channel Digi24, F-16 fighters fired three AIM-9X missiles, the cost of one of which is about $400,000. The Ministry of Defense of Romania is looking for cheaper solutions, but the first anti-drone systems are expected to be put into service with the army only in...",
-    "description_uk": "Рубрика \"Занимательная арифметика\": Румыния за 3 дня потратила €1,5 млн, чтобы сбить 3 российских дрона Как сообщают журналисты румынского телеканала Digi24, истребители F-16 выпустили три ракеты AIM-9X, стоимость одной – около $400 000. Министерство обороны Румынии ищет более дешевые решения, но первые системы борьбы с беспилотниками, как ожидается, поступят на вооружение армии только в...",
-    "time": "",
-    "pubDate": "2026-07-27T12:55:27+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/197012",
-    "score": 3.5,
-    "views": 138996,
-    "forwards": 147
-  },
-  {
-    "title": "Column \"Interesting Arithmetic\": Romania spent €1.5 million in 3 days...",
-    "title_en": "Column \"Interesting Arithmetic\": Romania spent €1.5 million in 3 days...",
-    "title_uk": "Рубрика «Цікава арифметика»: Румунія витратила €1,5 млн за 3 дні...",
-    "description": "Column \"Interesting Arithmetic\": Romania spent €1.5 million in 3 days to shoot down 3 Russian drones According to the journalists of the Romanian TV channel Digi24, F-16 fighters fired three AIM-9X missiles, the cost of one of which is about $400,000. The Ministry of Defense of Romania is looking for cheaper solutions, but the first anti-drone systems are expected to be put into service with the army only in...",
-    "description_en": "Column \"Interesting Arithmetic\": Romania spent €1.5 million in 3 days to shoot down 3 Russian drones According to the journalists of the Romanian TV channel Digi24, F-16 fighters fired three AIM-9X missiles, the cost of one of which is about $400,000. The Ministry of Defense of Romania is looking for cheaper solutions, but the first anti-drone systems are expected to be put into service with the army only in...",
-    "description_uk": "Рубрика \"Занимательная арифметика\": Румыния за 3 дня потратила €1,5 млн, чтобы сбить 3 российских дрона Как сообщают журналисты румынского телеканала Digi24, истребители F-16 выпустили три ракеты AIM-9X, стоимость одной – около $400 000. Министерство обороны Румынии ищет более дешевые решения, но первые системы борьбы с беспилотниками, как ожидается, поступят на вооружение армии только в...",
-    "time": "",
-    "pubDate": "2026-07-27T12:55:27+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/197012",
-    "score": 3.5,
-    "views": 119657,
-    "forwards": 147
   }
 ]
