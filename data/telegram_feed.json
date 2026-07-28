@@ -1,5 +1,95 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAV in the direction of Odessa from the Black Sea.",
+    "description_en": "Jet UAV in the direction of Odessa from the Black Sea.",
+    "description_uk": "Реактивний БпЛА в напрямку Одеси з Чорного моря.",
+    "time": "",
+    "pubDate": "2026-07-28T15:32:16+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70520",
+    "score": 5.0,
+    "views": 9078,
+    "forwards": 0
+  },
+  {
+    "title": "BpLA in the direction of Kharkiv from the north.",
+    "title_en": "BpLA in the direction of Kharkiv from the north.",
+    "title_uk": "БпЛА в напрямку Харкова з півн.",
+    "description": "BpLA in the direction of Kharkiv from the north.",
+    "description_en": "BpLA in the direction of Kharkiv from the north.",
+    "description_uk": "БпЛА в напрямку Харкова з півночі.",
+    "time": "",
+    "pubDate": "2026-07-28T15:27:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70519",
+    "score": 5.0,
+    "views": 14144,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Update: Zelensky, Trump wrap up hour-long White House talks. The...",
+    "title_en": "Kyiv: Update: Zelensky, Trump wrap up hour-long White House talks. The...",
+    "title_uk": "Київ: Оновлення: Зеленський і Трамп завершили годинні переговори в Білому домі. ...",
+    "description": "Update: Zelensky, Trump wrap up hour-long White House talks. The meeting was held behind closed doors, a White House official said.",
+    "description_en": "Update: Zelensky, Trump wrap up hour-long White House talks. The meeting was held behind closed doors, a White House official said.",
+    "description_uk": "Update: Zelensky, Trump wrap up hour-long White House talks. The meeting was held behind closed doors, a White House official said.",
+    "time": "",
+    "pubDate": "2026-07-28T15:06:45+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54521",
+    "score": 5.0,
+    "views": 537,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: 2 Skelia soldiers charged with torturing comrades as abuse...",
+    "title_en": "Kyiv: 2 Skelia soldiers charged with torturing comrades as abuse...",
+    "title_uk": "Київ: двом бійцям Скеля інкримінують катування товаришів по службі як знущання над...",
+    "description": "2 Skelia soldiers charged with torturing comrades as abuse investigation widens. The investigation followed a report by the Ukrainian outlet Babel, which alleged widespread abuse within the regiment and documented at least 26 noncombat deaths among recruits between late 2025 and spring 2026.",
+    "description_en": "2 Skelia soldiers charged with torturing comrades as abuse investigation widens. The investigation followed a report by the Ukrainian outlet Babel, which alleged widespread abuse within the regiment and documented at least 26 noncombat deaths among recruits between late 2025 and spring 2026.",
+    "description_uk": "2 Skelia soldiers charged with torturing comrades as abuse investigation widens. The investigation followed a report by the Ukrainian outlet Babel, which alleged widespread abuse within the regiment and documented at least 26 noncombat deaths among recruits between late 2025 and spring 2026.",
+    "time": "",
+    "pubDate": "2026-07-28T14:52:50+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54520",
+    "score": 6.0,
+    "views": 728,
+    "forwards": 1
+  },
+  {
+    "title": "The situation in Konstantinovka is rapidly deteriorating, and the...",
+    "title_en": "The situation in Konstantinovka is rapidly deteriorating, and the...",
+    "title_uk": "Ситуація в Костянтинівці стрімко погіршується, і...",
+    "description": "The situation in Konstantinovka is rapidly deteriorating, and the fighting for the city is rolling back to its northern borders. As a soldier of the Armed Forces of Ukraine \"Muchnoi\" writes, the main intensity of the fighting is shifting from the Novoselovka microdistrict to Osykovo and the outskirts of Alekseevo-Druzhkovka, where Russian troops continue to increase pressure north of Konstantinovka. \"This is a war of attrition, in which the main goal is to knock out the enemy with...",
+    "description_en": "The situation in Konstantinovka is rapidly deteriorating, and the fighting for the city is rolling back to its northern borders. As a soldier of the Armed Forces of Ukraine \"Muchnoi\" writes, the main intensity of the fighting is shifting from the Novoselovka microdistrict to Osykovo and the outskirts of Alekseevo-Druzhkovka, where Russian troops continue to increase pressure north of Konstantinovka. \"This is a war of attrition, in which the main goal is to knock out the enemy with...",
+    "description_uk": "Ситуация в Константиновке быстро ухудшается, а бои за город откатываются на его северные рубежи Как пишет воин ВСУ \"Мучной\" основная интенсивность боев смещается из микрорайона Новоселовка в сторону Осыкового и окраин Алексеево-Дружковки, где российские войска продолжают усиливать давление к северу от Константиновки. \"Это война на истощение, в которой главной целью является выбить противника с...",
+    "time": "",
+    "pubDate": "2026-07-28T14:33:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/197091",
+    "score": 5.5,
+    "views": 68761,
+    "forwards": 108
+  },
+  {
     "title": "Zaporizhzhia: KAB to the east of Zaporizhzhia! In shelter!",
     "title_en": "Zaporizhzhia: KAB to the east of Zaporizhzhia! In shelter!",
     "title_uk": "Запоріжжя: КАБ на схід від Запоріжжя! В укриття!",
@@ -18,24 +108,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV in the direction of the Dnipro from the west.",
-    "description_en": "UAV in the direction of the Dnipro from the west.",
-    "description_uk": "БпЛА в напрямку Дніпра із заходу.",
-    "time": "",
-    "pubDate": "2026-07-28T13:00:36+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70505",
-    "score": 5.0,
-    "views": 20181,
-    "forwards": 0
-  },
-  {
     "title": "Air defense active",
     "title_en": "Air defense active",
     "title_uk": "Активна ППО",
@@ -50,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197081",
     "score": 5.5,
-    "views": 83810,
-    "forwards": 255
+    "views": 129109,
+    "forwards": 292
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -212,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20199",
     "score": 6.5,
-    "views": 125167,
-    "forwards": 340
+    "views": 137380,
+    "forwards": 361
   },
   {
     "title": "131 drones intercepted",
@@ -248,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41561",
     "score": 10.0,
-    "views": 8933,
+    "views": 9441,
     "forwards": 22
   },
   {
@@ -356,25 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9736",
     "score": 5.0,
-    "views": 6160,
+    "views": 6397,
     "forwards": 11
-  },
-  {
-    "title": "Kyiv: Ballistic missile launch detected",
-    "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
-    "description": "Organizer of exhibition struck in deadly Russian ballistic missile attack remanded in custody. The event took place on July 24 just outside Kyiv and was being attended by members of the Ukrainian defense industry when it was hit.",
-    "description_en": "Organizer of exhibition struck in deadly Russian ballistic missile attack remanded in custody. The event took place on July 24 just outside Kyiv and was being attended by members of the Ukrainian defense industry when it was hit.",
-    "description_uk": "Organizer of exhibition struck in deadly Russian ballistic missile attack remanded in custody. The event took place on July 24 just outside Kyiv and was being attended by members of the Ukrainian defense industry when it was hit.",
-    "time": "",
-    "pubDate": "2026-07-27T14:10:15+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54500",
-    "score": 15.0,
-    "views": 1295,
-    "forwards": 0
   }
 ]
