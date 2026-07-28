@@ -1,5 +1,59 @@
 [
   {
+    "title": "Chernihiv: Jet UAVs along the border between Chernihiv and Poltava regions ➡️...",
+    "title_en": "Chernihiv: Jet UAVs along the border between Chernihiv and Poltava regions ➡️...",
+    "title_uk": "Чернігів: реактивні БПЛА на кордоні Чернігівської та Полтавської областей ➡️...",
+    "description": "Jet UAVs along the border between Chernihiv and Poltava regions ➡️ southwest course",
+    "description_en": "Jet UAVs along the border between Chernihiv and Poltava regions ➡️ southwest course",
+    "description_uk": "Реактивні БпЛА вздовж межі між Чернігівською та Полтавською областями ➡️ південно-західним курсом",
+    "time": "",
+    "pubDate": "2026-07-28T03:47:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70452",
+    "score": 6.0,
+    "views": 12109,
+    "forwards": 0
+  },
+  {
+    "title": "KAB in the direction of Kryvyi Rih",
+    "title_en": "KAB in the direction of Kryvyi Rih",
+    "title_uk": "КАБ у напрямку Кривого Рогу",
+    "description": "KAB in the direction of Kryvyi Rih",
+    "description_en": "KAB in the direction of Kryvyi Rih",
+    "description_uk": "КАБ у напрямку Кривого Рогу",
+    "time": "",
+    "pubDate": "2026-07-28T03:37:49+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70451",
+    "score": 5.5,
+    "views": 20182,
+    "forwards": 68
+  },
+  {
+    "title": "Crimea: Power outage reported",
+    "title_en": "Crimea: Power outage reported",
+    "title_uk": "Крим: повідомляється про відключення електроенергії",
+    "description": "Moscow Oblast industrial plant reportedly struck by Ukrainian drones, blackout in occupied Crimea. Ukrainian drones targeted a Moscow Oblast steel fabrication plant, and a blackout was reported in occupied Crimea amid overnight strikes on July 28, according to monitoring channels.",
+    "description_en": "Moscow Oblast industrial plant reportedly struck by Ukrainian drones, blackout in occupied Crimea. Ukrainian drones targeted a Moscow Oblast steel fabrication plant, and a blackout was reported in occupied Crimea amid overnight strikes on July 28, according to monitoring channels.",
+    "description_uk": "Moscow Oblast industrial plant reportedly struck by Ukrainian drones, blackout in occupied Crimea. Ukrainian drones targeted a Moscow Oblast steel fabrication plant, and a blackout was reported in occupied Crimea amid overnight strikes on July 28, according to monitoring channels.",
+    "time": "",
+    "pubDate": "2026-07-28T02:50:16+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Crimea",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54509",
+    "score": 11.5,
+    "views": 425,
+    "forwards": 3
+  },
+  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Харків: Дрон вхід",
@@ -32,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54508",
     "score": 18.5,
-    "views": 364,
-    "forwards": 2
+    "views": 991,
+    "forwards": 4
   },
   {
     "title": "Sumy: BpLA ➡️ heading for Sumy from the north.",
@@ -140,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197038",
     "score": 6.5,
-    "views": 108596,
-    "forwards": 226
+    "views": 147351,
+    "forwards": 237
   },
   {
     "title": "Airstrike attack",
@@ -158,8 +212,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9736",
     "score": 5.0,
-    "views": 752,
-    "forwards": 6
+    "views": 865,
+    "forwards": 7
   },
   {
     "title": "Kharkiv: BpLA ➡️ course to Kharkiv from the north.",
@@ -234,24 +288,6 @@
     "forwards": 3
   },
   {
-    "title": "Crimea: Power outage reported",
-    "title_en": "Crimea: Power outage reported",
-    "title_uk": "Крим: повідомляється про відключення електроенергії",
-    "description": "Ukraine reports hitting 14 energy facilities in occupied Crimea over 3 days amid widespread power outages. The report comes as the Russian-installed energy operator Krymenergo said on July 27 that power restrictions are in effect across Crimea, citing a \"difficult\" situation in the northwest, east, and south of the peninsula, following Ukrainian strikes.",
-    "description_en": "Ukraine reports hitting 14 energy facilities in occupied Crimea over 3 days amid widespread power outages. The report comes as the Russian-installed energy operator Krymenergo said on July 27 that power restrictions are in effect across Crimea, citing a \"difficult\" situation in the northwest, east, and south of the peninsula, following Ukrainian strikes.",
-    "description_uk": "Ukraine reports hitting 14 energy facilities in occupied Crimea over 3 days amid widespread power outages. The report comes as the Russian-installed energy operator Krymenergo said on July 27 that power restrictions are in effect across Crimea, citing a \"difficult\" situation in the northwest, east, and south of the peninsula, following Ukrainian strikes.",
-    "time": "",
-    "pubDate": "2026-07-27T17:03:46+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Crimea",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54502",
-    "score": 8.5,
-    "views": 1423,
-    "forwards": 3
-  },
-  {
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Миколаїв: Дрон вхід",
@@ -304,42 +340,6 @@
     "score": 15.0,
     "views": 1295,
     "forwards": 0
-  },
-  {
-    "title": "Kherson: Drone incoming",
-    "title_en": "Kherson: Drone incoming",
-    "title_uk": "Херсон: Дрон вхід",
-    "description": "Jet UAVs headed for Kherson from the east.",
-    "description_en": "Jet UAVs headed for Kherson from the east.",
-    "description_uk": "Реактивні БпЛА курсом Херсон зі сходу.",
-    "time": "",
-    "pubDate": "2026-07-27T13:54:55+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kherson",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70373",
-    "score": 6.0,
-    "views": 11116,
-    "forwards": 0
-  },
-  {
-    "title": "BpLA in the direction of Chernihiv from the north",
-    "title_en": "BpLA in the direction of Chernihiv from the north",
-    "title_uk": "БпЛА в напрямку Чернігова з півн",
-    "description": "BpLA in the direction of Chernihiv from the north",
-    "description_en": "BpLA in the direction of Chernihiv from the north",
-    "description_uk": "БпЛА у напрямку Чернігова із півночі",
-    "time": "",
-    "pubDate": "2026-07-27T13:37:16+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70372",
-    "score": 5.0,
-    "views": 30298,
-    "forwards": 34
   },
   {
     "title": "Air defense active",
