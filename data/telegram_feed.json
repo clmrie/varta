@@ -1,5 +1,23 @@
 [
   {
+    "title": "Zaporizhzhia: KAB launches in the direction of Zaporozhye",
+    "title_en": "Zaporizhzhia: KAB launches in the direction of Zaporozhye",
+    "title_uk": "Запоріжжя: КАБ стартує в напрямку Запоріжжя",
+    "description": "KAB launches in the direction of Zaporozhye",
+    "description_en": "KAB launches in the direction of Zaporozhye",
+    "description_uk": "Пуски КАБ у напрямку м. Запоріжжя",
+    "time": "",
+    "pubDate": "2026-07-28T19:16:43+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70532",
+    "score": 6.0,
+    "views": 40518,
+    "forwards": 35
+  },
+  {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
     "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
     "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на південному сході...",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/70530",
     "score": 5.0,
-    "views": 12157,
-    "forwards": 0
+    "views": 66822,
+    "forwards": 1
   },
   {
     "title": "The EU is preparing sanctions against a record number of companies...",
@@ -31,9 +49,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197107",
-    "score": 3.0,
-    "views": 52454,
-    "forwards": 42
+    "score": 3.5,
+    "views": 104053,
+    "forwards": 77
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -68,8 +86,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20207",
     "score": 5.5,
-    "views": 51659,
-    "forwards": 111
+    "views": 65663,
+    "forwards": 126
   },
   {
     "title": "Kherson: Drone incoming",
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54521",
     "score": 5.0,
-    "views": 1551,
+    "views": 1801,
     "forwards": 1
   },
   {
@@ -176,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54520",
     "score": 6.0,
-    "views": 1628,
+    "views": 1867,
     "forwards": 3
   },
   {
@@ -374,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20199",
     "score": 6.5,
-    "views": 151794,
-    "forwards": 363
+    "views": 156067,
+    "forwards": 378
   },
   {
     "title": "131 drones intercepted",
@@ -410,7 +428,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41561",
     "score": 10.0,
-    "views": 9897,
+    "views": 10120,
     "forwards": 22
   },
   {
@@ -430,23 +448,5 @@
     "score": 11.5,
     "views": 2509,
     "forwards": 7
-  },
-  {
-    "title": "Chernihiv: Casualties reported",
-    "title_en": "Chernihiv: Casualties reported",
-    "title_uk": "Чернігів: повідомляється про постраждалих",
-    "description": "Ukraine's military intelligence names Russian unit behind deadly jet-powered drone strike on Chernihiv supermarket. HUR called the attack a \"war crime\" in their report, which identifies the Russian unit who launched the video-equipped, rocket-powered drone at a busy civilian target in broad daylight.",
-    "description_en": "Ukraine's military intelligence names Russian unit behind deadly jet-powered drone strike on Chernihiv supermarket. HUR called the attack a \"war crime\" in their report, which identifies the Russian unit who launched the video-equipped, rocket-powered drone at a busy civilian target in broad daylight.",
-    "description_uk": "Ukraine's military intelligence names Russian unit behind deadly jet-powered drone strike on Chernihiv supermarket. HUR called the attack a \"war crime\" in their report, which identifies the Russian unit who launched the video-equipped, rocket-powered drone at a busy civilian target in broad daylight.",
-    "time": "",
-    "pubDate": "2026-07-27T23:52:27+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Chernihiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54508",
-    "score": 18.5,
-    "views": 2286,
-    "forwards": 5
   }
 ]
