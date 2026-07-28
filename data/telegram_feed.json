@@ -1,5 +1,59 @@
 [
   {
+    "title": "Casualties reported",
+    "title_en": "Casualties reported",
+    "title_uk": "Повідомляється про постраждалих",
+    "description": "Every year on these days, we in Ukraine honor the memory of our people killed in Russian captivity. On the night of July 28-29, the Russians killed our people in Olenivka - cruelly, vilely, absolutely cynically. More than 50 Ukrainian prisoners of war died, more than 100 were wounded. And this is one of those war crimes that shows what Russia really is. This is a state that despises life 100 percent, absolute...",
+    "description_en": "Every year on these days, we in Ukraine honor the memory of our people killed in Russian captivity. On the night of July 28-29, the Russians killed our people in Olenivka - cruelly, vilely, absolutely cynically. More than 50 Ukrainian prisoners of war died, more than 100 were wounded. And this is one of those war crimes that shows what Russia really is. This is a state that despises life 100 percent, absolute...",
+    "description_uk": "Щороку цими днями ми в Україні вшановуємо пам’ять наших людей, убитих у російському полоні. У ніч із 28 на 29 липня росіяни вбили наших людей в Оленівці – жорстоко, підло, абсолютно цинічно. Загинули більше 50 українських військовополонених, понад 100 були поранені. І це один із тих злочинів війни, який демонструє, якою є Росія насправді. Це держава, яка зневажає життя на 100 відсотків, абсолютне...",
+    "time": "",
+    "pubDate": "2026-07-28T16:41:31+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20207",
+    "score": 5.5,
+    "views": 20016,
+    "forwards": 76
+  },
+  {
+    "title": "Kherson: Drone incoming",
+    "title_en": "Kherson: Drone incoming",
+    "title_uk": "Херсон: Дрон вхід",
+    "description": "Jet UAVs in the direction of Kherson from the south.",
+    "description_en": "Jet UAVs in the direction of Kherson from the south.",
+    "description_uk": "Реактивні БпЛА в напрямку Херсона з півдня.",
+    "time": "",
+    "pubDate": "2026-07-28T16:26:34+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70525",
+    "score": 6.0,
+    "views": 34388,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
+    "description": "BpLA on Zaporozhye from the south.",
+    "description_en": "BpLA on Zaporozhye from the south.",
+    "description_uk": "БпЛА на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-07-28T16:25:43+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70524",
+    "score": 6.0,
+    "views": 33386,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -50,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54521",
     "score": 5.0,
-    "views": 537,
+    "views": 1199,
     "forwards": 1
   },
   {
@@ -68,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54520",
     "score": 6.0,
-    "views": 728,
-    "forwards": 1
+    "views": 1305,
+    "forwards": 2
   },
   {
     "title": "The situation in Konstantinovka is rapidly deteriorating, and the...",
@@ -86,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197091",
     "score": 5.5,
-    "views": 68761,
-    "forwards": 108
+    "views": 108591,
+    "forwards": 144
   },
   {
     "title": "Zaporizhzhia: KAB to the east of Zaporizhzhia! In shelter!",
@@ -252,24 +306,6 @@
     "forwards": 106
   },
   {
-    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
-    "description": "BpLA on Zaporozhye from the south.",
-    "description_en": "BpLA on Zaporozhye from the south.",
-    "description_uk": "БпЛА на Запоріжжя з півдня.",
-    "time": "",
-    "pubDate": "2026-07-28T06:22:04+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70469",
-    "score": 6.0,
-    "views": 11104,
-    "forwards": 0
-  },
-  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -284,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20199",
     "score": 6.5,
-    "views": 137380,
-    "forwards": 361
+    "views": 146280,
+    "forwards": 363
   },
   {
     "title": "131 drones intercepted",
@@ -320,44 +356,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41561",
     "score": 10.0,
-    "views": 9441,
+    "views": 9664,
     "forwards": 22
-  },
-  {
-    "title": "Chernihiv: Jet UAVs along the border between Chernihiv and Poltava regions ➡️...",
-    "title_en": "Chernihiv: Jet UAVs along the border between Chernihiv and Poltava regions ➡️...",
-    "title_uk": "Чернігів: реактивні БПЛА на кордоні Чернігівської та Полтавської областей ➡️...",
-    "description": "Jet UAVs along the border between Chernihiv and Poltava regions ➡️ southwest course",
-    "description_en": "Jet UAVs along the border between Chernihiv and Poltava regions ➡️ southwest course",
-    "description_uk": "Реактивні БпЛА вздовж межі між Чернігівською та Полтавською областями ➡️ південно-західним курсом",
-    "time": "",
-    "pubDate": "2026-07-28T03:47:32+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70452",
-    "score": 6.0,
-    "views": 12109,
-    "forwards": 0
-  },
-  {
-    "title": "KAB in the direction of Kryvyi Rih",
-    "title_en": "KAB in the direction of Kryvyi Rih",
-    "title_uk": "КАБ у напрямку Кривого Рогу",
-    "description": "KAB in the direction of Kryvyi Rih",
-    "description_en": "KAB in the direction of Kryvyi Rih",
-    "description_uk": "КАБ у напрямку Кривого Рогу",
-    "time": "",
-    "pubDate": "2026-07-28T03:37:49+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70451",
-    "score": 5.5,
-    "views": 20182,
-    "forwards": 68
   },
   {
     "title": "Crimea: Power outage reported",
@@ -417,8 +417,8 @@
     "title": "Airstrike attack",
     "title_en": "Airstrike attack",
     "title_uk": "Авіаційна атака",
-    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
-    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
+    "description": "Head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
+    "description_en": "Head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
     "description_uk": "Очільник МЗС України Андрій Сибіга щодо затримання нападників на українців у Вроцлаві: 💬 \"Польські правоохоронці затримали двох осіб, підозрюваних у нападі на громадян України у Вроцлаві. Третього шукають. Очікуємо на повне, об’єктивне та неупереджене розслідування, встановлення всіх обставин і мотивів злочину, а також справедливе покарання винних. Дякую польській владі, правоохоронним органам та...",
     "time": "",
     "pubDate": "2026-07-27T19:36:24+00:00",
@@ -428,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9736",
     "score": 5.0,
-    "views": 6397,
+    "views": 6517,
     "forwards": 11
   }
 ]
