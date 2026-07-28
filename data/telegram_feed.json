@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "Jet UAVs on Andriivka in Kharkiv region from the north",
+    "description_en": "Jet UAVs on Andriivka in Kharkiv region from the north",
+    "description_uk": "Реактивні БпЛА на Андріївку на Харківщині з півночі",
+    "time": "",
+    "pubDate": "2026-07-28T00:52:29+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70428",
+    "score": 6.0,
+    "views": 1541,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: Casualties reported",
+    "title_en": "Chernihiv: Casualties reported",
+    "title_uk": "Чернігів: повідомляється про постраждалих",
+    "description": "Ukraine's military intelligence names Russian unit behind deadly jet-powered drone strike on Chernihiv supermarket. HUR called the attack a \"war crime\" in their report, which identifies the Russian unit who launched the video-equipped, rocket-powered drone at a busy civilian target in broad daylight.",
+    "description_en": "Ukraine's military intelligence names Russian unit behind deadly jet-powered drone strike on Chernihiv supermarket. HUR called the attack a \"war crime\" in their report, which identifies the Russian unit who launched the video-equipped, rocket-powered drone at a busy civilian target in broad daylight.",
+    "description_uk": "Ukraine's military intelligence names Russian unit behind deadly jet-powered drone strike on Chernihiv supermarket. HUR called the attack a \"war crime\" in their report, which identifies the Russian unit who launched the video-equipped, rocket-powered drone at a busy civilian target in broad daylight.",
+    "time": "",
+    "pubDate": "2026-07-27T23:52:27+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Chernihiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54508",
+    "score": 18.5,
+    "views": 364,
+    "forwards": 2
+  },
+  {
     "title": "Sumy: BpLA ➡️ heading for Sumy from the north.",
     "title_en": "Sumy: BpLA ➡️ heading for Sumy from the north.",
     "title_uk": "Суми: BpLA ➡️ прямує на Суми з півночі.",
@@ -86,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54505",
     "score": 11.5,
-    "views": 1552,
+    "views": 1706,
     "forwards": 5
   },
   {
@@ -104,15 +140,15 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197038",
     "score": 6.5,
-    "views": 100782,
-    "forwards": 211
+    "views": 108596,
+    "forwards": 226
   },
   {
     "title": "Airstrike attack",
     "title_en": "Airstrike attack",
     "title_uk": "Авіаційна атака",
-    "description": "Head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
-    "description_en": "Head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
+    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
+    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
     "description_uk": "Очільник МЗС України Андрій Сибіга щодо затримання нападників на українців у Вроцлаві: 💬 \"Польські правоохоронці затримали двох осіб, підозрюваних у нападі на громадян України у Вроцлаві. Третього шукають. Очікуємо на повне, об’єктивне та неупереджене розслідування, встановлення всіх обставин і мотивів злочину, а також справедливе покарання винних. Дякую польській владі, правоохоронним органам та...",
     "time": "",
     "pubDate": "2026-07-27T19:36:24+00:00",
@@ -122,7 +158,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9736",
     "score": 5.0,
-    "views": 714,
+    "views": 752,
     "forwards": 6
   },
   {
@@ -360,24 +396,6 @@
     "forwards": 147
   },
   {
-    "title": "Mykolaiv: Reactive BpLA ➡️ to Mykolaiv!",
-    "title_en": "Mykolaiv: Reactive BpLA ➡️ to Mykolaiv!",
-    "title_uk": "Миколаїв: Reactive BpLA ➡️ до Миколаєва!",
-    "description": "Reactive BpLA ➡️ to Mykolaiv!",
-    "description_en": "Reactive BpLA ➡️ to Mykolaiv!",
-    "description_uk": "Реактивний БпЛА ➡️ на Миколаїв!",
-    "time": "",
-    "pubDate": "2026-07-27T11:38:55+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70353",
-    "score": 6.0,
-    "views": 21221,
-    "forwards": 0
-  },
-  {
     "title": "Casualties reported",
     "title_en": "Casualties reported",
     "title_uk": "Повідомляється про постраждалих",
@@ -430,23 +448,5 @@
     "score": 14.5,
     "views": 74364,
     "forwards": 96
-  },
-  {
-    "title": "\"Military doctors, paramedics, nurses and brothers, paramedics,...",
-    "title_en": "\"Military doctors, paramedics, nurses and brothers, paramedics,...",
-    "title_uk": "«Військові лікарі, фельдшери, медсестри і брати, санітари,...",
-    "description": "\"Military doctors, paramedics, nurses and brothers, paramedics, health care workers - we thank you every day. You guard the lives and health of our soldiers: on the front lines, in medevacs, at checkpoints, in hospitals. I know well the value of a doctor's presence at the front. He is near like a guardian angel - and this strengthens the confidence of Ukrainian defenders, adds hope to their relatives. Today, on the Day of...",
-    "description_en": "\"Military doctors, paramedics, nurses and brothers, paramedics, health care workers - we thank you every day. You guard the lives and health of our soldiers: on the front lines, in medevacs, at checkpoints, in hospitals. I know well the value of a doctor's presence at the front. He is near like a guardian angel - and this strengthens the confidence of Ukrainian defenders, adds hope to their relatives. Today, on the Day of...",
-    "description_uk": "\"Військові лікарі, фельдшери, медичні сестри й брати, парамедики, працівники сфери охорони здоров’я — дякуємо вам щодня. Ви стоїте на варті життя і здоров'я наших воїнів: на передовій, у медеваках, на стабпунктах, у госпіталях. Я добре знаю ціну присутності медика на фронті. Він поруч, як янгол-охоронець — і це зміцнює впевненість українських захисників, додає надії їхнім рідним. Сьогодні, в День...",
-    "time": "",
-    "pubDate": "2026-07-27T05:16:20+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41528",
-    "score": 8.0,
-    "views": 17603,
-    "forwards": 43
   }
 ]
