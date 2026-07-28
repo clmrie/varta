@@ -1,5 +1,77 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "More jet UAVs on Mykolaiv from the south.",
+    "description_en": "More jet UAVs on Mykolaiv from the south.",
+    "description_uk": "Ще реактивні БпЛА на Миколаїв з півдня.",
+    "time": "",
+    "pubDate": "2026-07-28T11:04:35+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70494",
+    "score": 6.5,
+    "views": 41439,
+    "forwards": 69
+  },
+  {
+    "title": "Mykolaiv: Probably a reactive BpLA on Mykolaiv.",
+    "title_en": "Mykolaiv: Probably a reactive BpLA on Mykolaiv.",
+    "title_uk": "Миколаїв: Ймовірно реактивний BpLA на Миколаїв.",
+    "description": "Probably a reactive BpLA on Mykolaiv.",
+    "description_en": "Probably a reactive BpLA on Mykolaiv.",
+    "description_uk": "Ймовірно реактивний БпЛА на Миколаїв.",
+    "time": "",
+    "pubDate": "2026-07-28T10:59:47+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70493",
+    "score": 6.5,
+    "views": 50534,
+    "forwards": 69
+  },
+  {
+    "title": "Energy infrastructure hit",
+    "title_en": "Energy infrastructure hit",
+    "title_uk": "Поразка енергетичної інфраструктури",
+    "description": "Rusnia demolished the 250-meter-high main pipe of the Slavyanskaya TPP, which is critical for the operation of the station. The Russian strike on the Slavyanskaya Thermal Power Plant led to the destruction of the main pipe of power unit No. 7 - one of the key structures of the enterprise. According to Nikolaevka.City, the attack took place on July 17. The destroyed pipe had a height of 250 meters and was the main one in the operation of the TPP. On the territory of the station...",
+    "description_en": "Rusnia demolished the 250-meter-high main pipe of the Slavyanskaya TPP, which is critical for the operation of the station. The Russian strike on the Slavyanskaya Thermal Power Plant led to the destruction of the main pipe of power unit No. 7 - one of the key structures of the enterprise. According to Nikolaevka.City, the attack took place on July 17. The destroyed pipe had a height of 250 meters and was the main one in the operation of the TPP. On the territory of the station...",
+    "description_uk": "Русня снесла главную трубу Славянской ТЭС высотой 250 метров, что критично для работы станции Российский удар по Славянской теплоэлектростанции привел к разрушению главной трубы энергоблока №7 – одного из ключевых сооружений предприятия. По информации Николаевка.City, атака произошла еще 17 июля. Разрушенная труба имела высоту 250 метров и являлась основной в работе ТЭС. На территории станции...",
+    "time": "",
+    "pubDate": "2026-07-28T10:59:34+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/197078",
+    "score": 4.5,
+    "views": 41712,
+    "forwards": 71
+  },
+  {
+    "title": "Kyiv: Attack attack",
+    "title_en": "Kyiv: Attack attack",
+    "title_uk": "Київ: Атака",
+    "description": "Ukraine strikes major Russian fuel storage facility of 'national importance' in Udmurt Republic, General Staff says. The General Staff said the strike hit the target, triggering a fire at the site. It added that the facility lies more than 1,300 kilometers (800 miles) from Ukraine's border.",
+    "description_en": "Ukraine strikes major Russian fuel storage facility of 'national importance' in Udmurt Republic, General Staff says. The General Staff said the strike hit the target, triggering a fire at the site. It added that the facility lies more than 1,300 kilometers (800 miles) from Ukraine's border.",
+    "description_uk": "Ukraine strikes major Russian fuel storage facility of 'national importance' in Udmurt Republic, General Staff says. The General Staff said the strike hit the target, triggering a fire at the site. It added that the facility lies more than 1,300 kilometers (800 miles) from Ukraine's border.",
+    "time": "",
+    "pubDate": "2026-07-28T09:37:57+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54514",
+    "score": 5.0,
+    "views": 1146,
+    "forwards": 5
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -50,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197069",
     "score": 4.0,
-    "views": 44709,
-    "forwards": 106
+    "views": 110272,
+    "forwards": 179
   },
   {
     "title": "The Armed Forces of Ukraine began to quickly remove strategic objects...",
@@ -104,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20199",
     "score": 6.5,
-    "views": 96406,
-    "forwards": 281
+    "views": 115917,
+    "forwards": 316
   },
   {
     "title": "131 drones intercepted",
@@ -140,7 +212,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41561",
     "score": 10.0,
-    "views": 7510,
+    "views": 8451,
     "forwards": 22
   },
   {
@@ -194,8 +266,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54509",
     "score": 11.5,
-    "views": 1976,
-    "forwards": 5
+    "views": 2326,
+    "forwards": 6
   },
   {
     "title": "Chernihiv: Casualties reported",
@@ -214,42 +286,6 @@
     "score": 18.5,
     "views": 2286,
     "forwards": 5
-  },
-  {
-    "title": "Sumy: BpLA ➡️ heading for Sumy from the north.",
-    "title_en": "Sumy: BpLA ➡️ heading for Sumy from the north.",
-    "title_uk": "Суми: BpLA ➡️ прямує на Суми з півночі.",
-    "description": "BpLA ➡️ heading for Sumy from the north.",
-    "description_en": "BpLA ➡️ heading for Sumy from the north.",
-    "description_uk": "БпЛА ➡️ курсом на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-07-27T22:06:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70421",
-    "score": 6.0,
-    "views": 40156,
-    "forwards": 32
-  },
-  {
-    "title": "Kyiv: Reactive BpLA ➡️ course to Kyiv from the south.",
-    "title_en": "Kyiv: Reactive BpLA ➡️ course to Kyiv from the south.",
-    "title_uk": "Київ: курс Reactive BpLA ➡️ на Київ з півдня.",
-    "description": "Reactive BpLA ➡️ course to Kyiv from the south.",
-    "description_en": "Reactive BpLA ➡️ course to Kyiv from the south.",
-    "description_uk": "Реактивні БпЛА ➡️ курсом на Київ з півдня.",
-    "time": "",
-    "pubDate": "2026-07-27T21:49:15+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70418",
-    "score": 6.0,
-    "views": 71390,
-    "forwards": 37
   },
   {
     "title": "Kharkiv: Power outage reported",
@@ -273,8 +309,8 @@
     "title": "Airstrike attack",
     "title_en": "Airstrike attack",
     "title_uk": "Авіаційна атака",
-    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
-    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
+    "description": "Head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
+    "description_en": "Head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
     "description_uk": "Очільник МЗС України Андрій Сибіга щодо затримання нападників на українців у Вроцлаві: 💬 \"Польські правоохоронці затримали двох осіб, підозрюваних у нападі на громадян України у Вроцлаві. Третього шукають. Очікуємо на повне, об’єктивне та неупереджене розслідування, встановлення всіх обставин і мотивів злочину, а також справедливе покарання винних. Дякую польській владі, правоохоронним органам та...",
     "time": "",
     "pubDate": "2026-07-27T19:36:24+00:00",
@@ -284,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9736",
     "score": 5.0,
-    "views": 5442,
+    "views": 5957,
     "forwards": 11
   },
   {
@@ -358,41 +394,5 @@
     "score": 3.5,
     "views": 119657,
     "forwards": 147
-  },
-  {
-    "title": "Casualties reported",
-    "title_en": "Casualties reported",
-    "title_uk": "Повідомляється про постраждалих",
-    "description": "The organizer of a military exhibition near Kyiv, where at least 11 people were killed due to a missile attack by the Russian Federation, was taken into custody without bail. The suspect himself, the head of the association of manufacturers of unmanned systems \"Armada\" Vasyly Honcharuk, stated in court that he was fully aware of his responsibility and noted that he gave law enforcement officers information about the event, access to phones and...",
-    "description_en": "The organizer of a military exhibition near Kyiv, where at least 11 people were killed due to a missile attack by the Russian Federation, was taken into custody without bail. The suspect himself, the head of the association of manufacturers of unmanned systems \"Armada\" Vasyly Honcharuk, stated in court that he was fully aware of his responsibility and noted that he gave law enforcement officers information about the event, access to phones and...",
-    "description_uk": "Организатора военной выставки под Киевом, на которой из-за ракетной атаки РФ погибли как минимум 11 человек, взяли под стражу без права залога Сам подозреваемый, руководитель ассоциации производителей беспилотных систем \"Армада\" Васили Гончарук заявил в суде, что полностью осознает свою ответственность и отметил, что передавал правоохранителям информацию о мероприятии, доступе к телефонам и...",
-    "time": "",
-    "pubDate": "2026-07-27T11:21:27+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/197006",
-    "score": 3.0,
-    "views": 37477,
-    "forwards": 40
-  },
-  {
-    "title": "Attack attack",
-    "title_en": "Attack attack",
-    "title_uk": "Атака нападу",
-    "description": "Ukraine demands an investigation into the attack on a couple in Wroclaw. The Consulate General of Ukraine in Wroclaw called on Polish law enforcement agencies to promptly respond to another incident in which Ukrainians were injured. This is stated in a statement published by the consulate on Facebook. Let us remind you that in Wroclaw there was an attack on a young Ukrainian couple allegedly because of their accent...",
-    "description_en": "Ukraine demands an investigation into the attack on a couple in Wroclaw. The Consulate General of Ukraine in Wroclaw called on Polish law enforcement agencies to promptly respond to another incident in which Ukrainians were injured. This is stated in a statement published by the consulate on Facebook. Let us remind you that in Wroclaw there was an attack on a young Ukrainian couple allegedly because of their accent...",
-    "description_uk": "Украина требует расследования нападения на пару во Вроцлаве Генеральное консульство Украины во Вроцлаве призвало польские правоохранительные органы оперативно отреагировать на очередной инцидент, в результате которого пострадали украинцы. Об этом говорится в заявлении, опубликованном консульством в Facebook. Напомним, во Вроцлаве произошло нападение на молодую украинскую пару якобы из-за акцента,...",
-    "time": "",
-    "pubDate": "2026-07-27T09:45:01+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/196998",
-    "score": 6.5,
-    "views": 98735,
-    "forwards": 332
   }
 ]
