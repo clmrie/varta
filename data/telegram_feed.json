@@ -1,5 +1,59 @@
 [
   {
+    "title": "Expressway to Kropyvnytskyi",
+    "title_en": "Expressway to Kropyvnytskyi",
+    "title_uk": "Швидка дорога на Кропивницький",
+    "description": "Expressway to Kropyvnytskyi",
+    "description_en": "Expressway to Kropyvnytskyi",
+    "description_uk": "Швидкісна на Кропивницький",
+    "time": "",
+    "pubDate": "2026-07-29T22:24:07+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kropyvnytskyi",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70674",
+    "score": 5.5,
+    "views": 38450,
+    "forwards": 173
+  },
+  {
+    "title": "Chernihiv: A group of UAVs from Chernihiv Oblast to the north of Kyiv Oblast.",
+    "title_en": "Chernihiv: A group of UAVs from Chernihiv Oblast to the north of Kyiv Oblast.",
+    "title_uk": "Чернігів: Група БПЛА з Чернігівської області на північ від Київської області.",
+    "description": "A group of UAVs from Chernihiv Oblast to the north of Kyiv Oblast.",
+    "description_en": "A group of UAVs from Chernihiv Oblast to the north of Kyiv Oblast.",
+    "description_uk": "Група БпЛА з Чернігівщини на північ Київщини.",
+    "time": "",
+    "pubDate": "2026-07-29T22:23:23+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70673",
+    "score": 6.0,
+    "views": 45555,
+    "forwards": 35
+  },
+  {
+    "title": "The warehouse of Nova Poshta is on fire near Poltava, - local public....",
+    "title_en": "The warehouse of Nova Poshta is on fire near Poltava, - local public....",
+    "title_uk": "Під Полтавою горить склад \"Нової пошти\", - місцева громадськість....",
+    "description": "The warehouse of Nova Poshta is on fire near Poltava, - local public. There is no official confirmation at the moment. Meanwhile, the monitors write that \"shahedy\" continue to fly in the direction of the Poltava region",
+    "description_en": "The warehouse of Nova Poshta is on fire near Poltava, - local public. There is no official confirmation at the moment. Meanwhile, the monitors write that \"shahedy\" continue to fly in the direction of the Poltava region",
+    "description_uk": "Под Полтавой, предварительно, горит склад Новой почты, - местные паблики Официального подтверждения на данный момент нет. Тем временем мониторы пишут, что в сторону Полтавской области продолжают лететь \"шахеды\"",
+    "time": "",
+    "pubDate": "2026-07-29T21:54:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/197195",
+    "score": 5.5,
+    "views": 35215,
+    "forwards": 70
+  },
+  {
     "title": "Sumyshchyna - a group of BpLA past Terny in the south-west direction.",
     "title_en": "Sumyshchyna - a group of BpLA past Terny in the south-west direction.",
     "title_uk": "Сумщина - група БпЛА повз Терни в південно-західному напрямку.",
@@ -104,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54537",
     "score": 6.0,
-    "views": 1605,
+    "views": 1838,
     "forwards": 1
   },
   {
@@ -147,8 +201,8 @@
     "title": "Cruise missile heading inbound",
     "title_en": "Cruise missile heading inbound",
     "title_uk": "Крилата ракета наближається",
-    "description": "The departure of Tu-160 strategic bombers from the Far East is already recorded, monitors write. If the roosters do not change their route, cruise missile launches are possible after 01:00. Kyiv is called the likely target of the attack.",
-    "description_en": "The departure of Tu-160 strategic bombers from the Far East is already recorded, monitors write. If the roosters do not change their route, cruise missile launches are possible after 01:00. Kyiv is called the likely target of the attack.",
+    "description": "The departure of Tu-160 strategic bombers from the Far East is already recorded, monitors write. If the roosters do not change their route, cruise missile launches are possible after 01:00. Kyiv is called the likely target of the strike.",
+    "description_en": "The departure of Tu-160 strategic bombers from the Far East is already recorded, monitors write. If the roosters do not change their route, cruise missile launches are possible after 01:00. Kyiv is called the likely target of the strike.",
     "description_uk": "Уже фиксируют вылет стратегических бомбардировщиков Ту-160 с Дальнего Востока, пишут мониторы Если петухи не изменят маршрут, пуски крылатых ракет возможны после 01:00. Вероятной целью удара называют Киев.",
     "time": "",
     "pubDate": "2026-07-29T17:15:12+00:00",
@@ -158,8 +212,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197177",
     "score": 4.5,
-    "views": 148132,
-    "forwards": 623
+    "views": 155798,
+    "forwards": 624
   },
   {
     "title": "Jet UAV on Odesa!",
@@ -194,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54535",
     "score": 4.5,
-    "views": 2133,
+    "views": 2273,
     "forwards": 9
   },
   {
@@ -266,8 +320,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23691",
     "score": 8.5,
-    "views": 109900,
-    "forwards": 86
+    "views": 117071,
+    "forwards": 87
   },
   {
     "title": "Kyiv: Zelensky visits Poland for 1st time since historical dispute strained...",
@@ -394,59 +448,5 @@
     "score": 8.5,
     "views": 90458,
     "forwards": 146
-  },
-  {
-    "title": "Explosions reported",
-    "title_en": "Explosions reported",
-    "title_uk": "Повідомляється про вибухи",
-    "description": "The psychological obstacle course is an educational and training complex that simulates combat conditions (explosions, smoke, fire), allows fighters to learn to control fear, make decisions under stress and act in a coordinated manner. #БЗВП #пидготовкаЗSU2026 Photo - 116 OMBr",
-    "description_en": "The psychological obstacle course is an educational and training complex that simulates combat conditions (explosions, smoke, fire), allows fighters to learn to control fear, make decisions under stress and act in a coordinated manner. #БЗВП #пидготовкаЗSU2026 Photo - 116 OMBr",
-    "description_uk": "Психологічна смуга перешкод - це навчально-тренувальний комплекс, який імітує бойові умови (вибухи, дим, вогонь), дозволяє бійцям навчитись контролювати страх, приймати рішення у стресі та діяти злагоджено. #БЗВП #підготовкаЗСУ2026 Фото - 116 ОМБр",
-    "time": "",
-    "pubDate": "2026-07-29T09:42:01+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41598",
-    "score": 4.0,
-    "views": 7385,
-    "forwards": 7
-  },
-  {
-    "title": "Donetsk: The Ryazan Refinery, the base of Russian Black Sea Fleet boats, radar...",
-    "title_en": "Donetsk: The Ryazan Refinery, the base of Russian Black Sea Fleet boats, radar...",
-    "title_uk": "Донецьк: Рязанський НПЗ, база катерів Чорноморського флоту РФ, РЛС...",
-    "description": "The Ryazan Refinery, the base of Russian Black Sea Fleet boats, radar and other objects of the occupiers were hit ⚡️On the night of July 29, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged the Ryazan Oil Refinery in the Ryazan region of the Russian Federation. 🔥A hit to the object with subsequent fire on the territory of the enterprise was recorded. ℹ️ Ryazan Refinery is one...",
-    "description_en": "The Ryazan Refinery, the base of Russian Black Sea Fleet boats, radar and other objects of the occupiers were hit ⚡️On the night of July 29, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged the Ryazan Oil Refinery in the Ryazan region of the Russian Federation. 🔥A hit to the object with subsequent fire on the territory of the enterprise was recorded. ℹ️ Ryazan Refinery is one...",
-    "description_uk": "Уражено Рязанський НПЗ, місце базування катерів ЧФ рф, РЛС та інші об'єкти окупантів ⚡️В ніч на 29 липня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України завдали ураження Рязанському нафтопереробному заводу у Рязанській області рф. 🔥Зафіксовано влучання в об'єкт з подальшою пожежею на території підприємства. ℹ️ Рязанський НПЗ є одним...",
-    "time": "",
-    "pubDate": "2026-07-29T07:28:09+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41597",
-    "score": 18.5,
-    "views": 32936,
-    "forwards": 125
-  },
-  {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "65 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of July 29 (from 18:00 on July 28), the enemy attacked 80 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, barrage munitions \"Banderol\" and imitation drones of the \"Parody\" type from the directions: Orel, Kursk, Bryansk, Primorsko-Akhtarsk - Russian Federation, TOT - Donetsk, Gvardiyske - TOT of Crimea AR. The air attack was repulsed by aviation, anti-aircraft...",
-    "description_en": "65 ENEMY UAVS SHOT DOWN/SUPPRESSED ➖➖➖➖➖➖➖➖➖ On the night of July 29 (from 18:00 on July 28), the enemy attacked 80 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas, barrage munitions \"Banderol\" and imitation drones of the \"Parody\" type from the directions: Orel, Kursk, Bryansk, Primorsko-Akhtarsk - Russian Federation, TOT - Donetsk, Gvardiyske - TOT of Crimea AR. The air attack was repulsed by aviation, anti-aircraft...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 65 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 29 липня (з 18:00 28 липня) противник атакував 80 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас, баражуючими боєприпасами \"Бандероль\" та дронами-імітаторами типу «Пародія» із напрямків: Орел, Курськ, Брянськ, Приморсько-Ахтарськ – рф., ТОТ - Донецьк, Гвардійське – ТОТ АР Крим. Повітряний напад відбивали авіація, зенітні...",
-    "time": "",
-    "pubDate": "2026-07-29T05:06:07+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41594",
-    "score": 13.0,
-    "views": 4706,
-    "forwards": 14
   }
 ]
