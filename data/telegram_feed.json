@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kharkiv: A group of UAVs in the north of Kharkiv region, past Bogodukhiv - on...",
+    "title_en": "Kharkiv: A group of UAVs in the north of Kharkiv region, past Bogodukhiv - on...",
+    "title_uk": "Харків: Група БПЛА на півночі Харківщини, повз Богодухів - на...",
+    "description": "A group of UAVs in the north of Kharkiv region, past Bogodukhiv - on a southerly course.",
+    "description_en": "A group of UAVs in the north of Kharkiv region, past Bogodukhiv - on a southerly course.",
+    "description_uk": "Група БпЛА на півночі Харківщини, повз Богодухів - південним курсом.",
+    "time": "",
+    "pubDate": "2026-07-29T20:13:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70655",
+    "score": 6.0,
+    "views": 35448,
+    "forwards": 0
+  },
+  {
     "title": "Mykolaiv: A group of BpLA in Sumy Oblast - heading for Chernihiv Oblast. 🛵 BpLA...",
     "title_en": "Mykolaiv: A group of BpLA in Sumy Oblast - heading for Chernihiv Oblast. 🛵 BpLA...",
     "title_uk": "Миколаїв: група BpLA в Сумській області - прямує на Чернігівську область. 🛵 BpLA...",
@@ -13,9 +31,9 @@
     "location": "Mykolaiv",
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/70653",
-    "score": 6.0,
-    "views": 21258,
-    "forwards": 35
+    "score": 6.5,
+    "views": 88188,
+    "forwards": 70
   },
   {
     "title": "Air defense active",
@@ -50,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54537",
     "score": 6.0,
-    "views": 801,
-    "forwards": 0
+    "views": 1251,
+    "forwards": 1
   },
   {
     "title": "🛫 Activity of enemy tactical aviation in the southeast direction! 🚀...",
@@ -104,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197177",
     "score": 4.5,
-    "views": 114463,
-    "forwards": 588
+    "views": 136182,
+    "forwards": 623
   },
   {
     "title": "Jet UAV on Odesa!",
@@ -140,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54535",
     "score": 4.5,
-    "views": 1686,
+    "views": 1933,
     "forwards": 8
   },
   {
@@ -212,8 +230,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23691",
     "score": 8.5,
-    "views": 81485,
-    "forwards": 81
+    "views": 93668,
+    "forwards": 84
   },
   {
     "title": "Kyiv: Zelensky visits Poland for 1st time since historical dispute strained...",
@@ -356,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41598",
     "score": 4.0,
-    "views": 7165,
+    "views": 7291,
     "forwards": 7
   },
   {
@@ -410,7 +428,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41597",
     "score": 18.5,
-    "views": 30380,
+    "views": 32073,
     "forwards": 124
   },
   {
@@ -430,23 +448,5 @@
     "score": 13.0,
     "views": 4706,
     "forwards": 14
-  },
-  {
-    "title": "Airstrike attack",
-    "title_en": "Airstrike attack",
-    "title_uk": "Авіаційна атака",
-    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
-    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, regarding the detention of attackers against Ukrainians in Wroclaw: 💬 \"Polish law enforcement officers detained two people suspected of attacking Ukrainian citizens in Wroclaw. They are looking for a third. We are waiting for a full, objective and impartial investigation, establishing all the circumstances and motives of the crime, as well as fair punishment of the guilty. Thank you to the Polish authorities, law enforcement agencies and...",
-    "description_uk": "Очільник МЗС України Андрій Сибіга щодо затримання нападників на українців у Вроцлаві: 💬 \"Польські правоохоронці затримали двох осіб, підозрюваних у нападі на громадян України у Вроцлаві. Третього шукають. Очікуємо на повне, об’єктивне та неупереджене розслідування, встановлення всіх обставин і мотивів злочину, а також справедливе покарання винних. Дякую польській владі, правоохоронним органам та...",
-    "time": "",
-    "pubDate": "2026-07-27T19:36:24+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9736",
-    "score": 5.0,
-    "views": 7334,
-    "forwards": 12
   }
 ]
