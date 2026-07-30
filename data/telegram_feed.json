@@ -1,5 +1,59 @@
 [
   {
+    "title": "Sumy: BpLA in the suburbs of Dnipro. 🛵 BpLA group headed for Sumy.",
+    "title_en": "Sumy: BpLA in the suburbs of Dnipro. 🛵 BpLA group headed for Sumy.",
+    "title_uk": "Суми: БпЛА в передмісті Дніпра. 🛵 Група BpLA вирушила до Сум.",
+    "description": "BpLA in the suburbs of Dnipro. 🛵 BpLA group headed for Sumy.",
+    "description_en": "BpLA in the suburbs of Dnipro. 🛵 BpLA group headed for Sumy.",
+    "description_uk": "БпЛА у передмісті Дніпра. 🛵 Група БпЛА курсом на Суми.",
+    "time": "",
+    "pubDate": "2026-07-30T15:12:39+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70798",
+    "score": 6.0,
+    "views": 13146,
+    "forwards": 0
+  },
+  {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "Groups of enemy strike UAVs headed for Odesa, Chornomorsk, Chornomorske.",
+    "description_en": "Groups of enemy strike UAVs headed for Odesa, Chornomorsk, Chornomorske.",
+    "description_uk": "Групи ворожих ударних БпЛА курсом на Одесу, Чорноморськ, Чорноморське.",
+    "time": "",
+    "pubDate": "2026-07-30T15:10:53+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70797",
+    "score": 5.0,
+    "views": 17194,
+    "forwards": 0
+  },
+  {
+    "title": "Casualties reported",
+    "title_en": "Casualties reported",
+    "title_uk": "Повідомляється про постраждалих",
+    "description": "This is what a residential quarter in Radushny near Kryvyi Rih looks like, where a Russian rocket landed at night. According to the latest data, the parents — Elena and Artem — and three of their children were killed: Mark, Azary Ilai, and Emilia. The fate of four more children and a one-and-a-half-year-old grandson, whose father is now defending Ukraine at the front, is being clarified.",
+    "description_en": "This is what a residential quarter in Radushny near Kryvyi Rih looks like, where a Russian rocket landed at night. According to the latest data, the parents — Elena and Artem — and three of their children were killed: Mark, Azary Ilai, and Emilia. The fate of four more children and a one-and-a-half-year-old grandson, whose father is now defending Ukraine at the front, is being clarified.",
+    "description_uk": "Так выглядит жилой квартал в Радушном под Кривым Рогом, куда ночью прилетела российская ракета По последним данным, погибли родители — Елена и Артем — и трое их детей: Марк, Азарий Илай и Эмилия. Судьба еще четверых детей и полуторагодовалого внука, чей отец сейчас защищает Украину на фронте, выясняется.",
+    "time": "",
+    "pubDate": "2026-07-30T13:45:11+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kryvyi Rih",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/197276",
+    "score": 4.5,
+    "views": 86139,
+    "forwards": 108
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -50,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54555",
     "score": 4.5,
-    "views": 758,
-    "forwards": 1
+    "views": 1366,
+    "forwards": 2
   },
   {
     "title": "🇵🇱 The head of the Ministry of Foreign Affairs of Ukraine Andriy...",
@@ -68,8 +122,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9755",
     "score": 5.0,
-    "views": 662,
-    "forwards": 13
+    "views": 839,
+    "forwards": 15
   },
   {
     "title": "Kyiv: Attack attack",
@@ -86,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54554",
     "score": 8.0,
-    "views": 1008,
+    "views": 1544,
     "forwards": 4
   },
   {
@@ -104,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197264",
     "score": 6.5,
-    "views": 101150,
-    "forwards": 325
+    "views": 139088,
+    "forwards": 395
   },
   {
     "title": "Sumy: Drone incoming",
@@ -212,8 +266,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41628",
     "score": 7.5,
-    "views": 9753,
-    "forwards": 112
+    "views": 10757,
+    "forwards": 117
   },
   {
     "title": "Kyiv: Analysis: New Commander-in-Chief Drapatyi faces a manpower mess of...",
@@ -248,7 +302,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41626",
     "score": 13.0,
-    "views": 4577,
+    "views": 5046,
     "forwards": 22
   },
   {
@@ -266,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9752",
     "score": 13.0,
-    "views": 3058,
+    "views": 3250,
     "forwards": 26
   },
   {
@@ -308,7 +362,7 @@
   {
     "title": "Mykolaiv: Ballistic missile launch detected",
     "title_en": "Mykolaiv: Ballistic missile launch detected",
-    "title_uk": "Mykolaiv: Ballistic missile launch detected",
+    "title_uk": "Миколаїв: виявлено пуск балістичної ракети",
     "description": "Last night, a Russian missile strike killed parents and three children in Radushny, Dnipro Oblast. Two more children were pulled out alive from under the rubble. An ordinary residential building that was completely destroyed by a ballistic missile... In Lviv, work is also ongoing at the site of the hit to the house - they are sorting through the rubble, looking for people. In total, eight people are known to have died in the country as of now. My condolences...",
     "description_en": "Last night, a Russian missile strike killed parents and three children in Radushny, Dnipro Oblast. Two more children were pulled out alive from under the rubble. An ordinary residential building that was completely destroyed by a ballistic missile... In Lviv, work is also ongoing at the site of the hit to the house - they are sorting through the rubble, looking for people. In total, eight people are known to have died in the country as of now. My condolences...",
     "description_uk": "Сьогодні вночі через російський ракетний удар у Радушному на Дніпровщині загинули батьки й три дитини. Ще двох дітей дістали з-під завалів живими. Звичайний житловий будинок, який вщент рознесла балістична ракета... У Львові зараз теж тривають роботи на місці влучання по будинку – розбирають завали, шукають людей. Загалом по країні станом на зараз відомо про вісім загиблих людей. Мої співчуття...",
@@ -320,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20229",
     "score": 14.5,
-    "views": 333596,
-    "forwards": 732
+    "views": 356903,
+    "forwards": 735
   },
   {
     "title": "From the good: a video of the arrival of Wildberries in Udmurtia...",
@@ -394,59 +448,5 @@
     "score": 6.0,
     "views": 41494,
     "forwards": 34
-  },
-  {
-    "title": "Probably a rocket in the direction of Kryvyi Rih!",
-    "title_en": "Probably a rocket in the direction of Kryvyi Rih!",
-    "title_uk": "Напевно ракета в бік Кривого Рогу!",
-    "description": "Probably a rocket in the direction of Kryvyi Rih!",
-    "description_en": "Probably a rocket in the direction of Kryvyi Rih!",
-    "description_uk": "Ймовірно ракета у напрямку Кривого Рогу!",
-    "time": "",
-    "pubDate": "2026-07-30T03:14:28+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70742",
-    "score": 5.0,
-    "views": 55647,
-    "forwards": 35
-  },
-  {
-    "title": "Kyiv: 5 injured",
-    "title_en": "Kyiv: 5 injured",
-    "title_uk": "Київ: 5 постраждалих",
-    "description": "At least 5 injured in Lviv following large-scale Russian missile strike. At least five people in Lviv required hospitalization following a large-scale Russian missile attack on two residential buildings in the city, Mayor Andrii Sadovyi said.",
-    "description_en": "At least 5 injured in Lviv following large-scale Russian missile strike. At least five people in Lviv required hospitalization following a large-scale Russian missile attack on two residential buildings in the city, Mayor Andrii Sadovyi said.",
-    "description_uk": "At least 5 injured in Lviv following large-scale Russian missile strike. At least five people in Lviv required hospitalization following a large-scale Russian missile attack on two residential buildings in the city, Mayor Andrii Sadovyi said.",
-    "time": "",
-    "pubDate": "2026-07-30T03:03:10+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54546",
-    "score": 18.0,
-    "views": 483,
-    "forwards": 0
-  },
-  {
-    "title": "Casualties reported",
-    "title_en": "Casualties reported",
-    "title_uk": "Повідомляється про постраждалих",
-    "description": "In the village of Radushnoe near Kryvyi Rih, 5- and 12-year-old girls and four adults were killed - Vylkul. Another 8 people were injured, among them two children - 6- and 15-year-old boys. Debris clearance continues, there may be more victims of the Russian strike...",
-    "description_en": "In the village of Radushnoe near Kryvyi Rih, 5- and 12-year-old girls and four adults were killed - Vylkul. Another 8 people were injured, among them two children - 6- and 15-year-old boys. Debris clearance continues, there may be more victims of the Russian strike...",
-    "description_uk": "В селе Радушное под Кривым Рогом погибли девочки 5 и 12 лет и четверо взрослых, - Вилкул Еще 8 человек получили ранения, среди них двое детей — мальчики 6 и 15 лет. Продолжается разбор завалов, жертв российского удара может быть больше...",
-    "time": "",
-    "pubDate": "2026-07-30T02:37:45+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kryvyi Rih",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/197231",
-    "score": 5.5,
-    "views": 59586,
-    "forwards": 76
   }
 ]
