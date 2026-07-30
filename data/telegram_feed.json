@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone strike",
+    "title_en": "Drone strike",
+    "title_uk": "Безпілотний удар",
+    "description": "👀Russia hit the factory of the American drone manufacturer in Kyiv for the first time, The Guardian writes. During one of the recent attacks on the capital, the company of the American company Terminal Autonomy, which produced the AQ-400 Scythe and AQ-100 Bayonet attack drones, was hit. These AI-guided drones: even if communication is lost or the drone comes under the influence of Russian radio-electronic means...",
+    "description_en": "👀Russia hit the factory of the American drone manufacturer in Kyiv for the first time, The Guardian writes. During one of the recent attacks on the capital, the company of the American company Terminal Autonomy, which produced the AQ-400 Scythe and AQ-100 Bayonet attack drones, was hit. These AI-guided drones: even if communication is lost or the drone comes under the influence of Russian radio-electronic means...",
+    "description_uk": "👀русня впервые ударила по заводу американского производителя дронов в Киеве, пишет The Guardian Во время одной из недавних атак на столицу под удар попало предприятие американской компании Terminal Autonomy, где выпускали ударные беспилотники AQ-400 Scythe и AQ-100 Bayonet. Эти дроны с ИИ-наведением: даже если связь теряется или дрон попадает под воздействие российских средств радиоэлектронной...",
+    "time": "",
+    "pubDate": "2026-07-30T19:34:45+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/197303",
+    "score": 5.5,
+    "views": 33316,
+    "forwards": 211
+  },
+  {
+    "title": "In Hungary, for the first time in 44 years, they can completely stop...",
+    "title_en": "In Hungary, for the first time in 44 years, they can completely stop...",
+    "title_uk": "В Угорщині вперше за 44 роки можуть повністю припинити...",
+    "description": "In Hungary, for the first time in 44 years, they can completely stop the largest nuclear power plant due to the record flooding of the Danube. The country faces an energy crisis The nuclear power plant \"Paksh\", which provides almost half of the country's electricity, has already reduced its capacity by more than half and may stop completely in the coming days, writes Prime Minister Peter Madyar.",
+    "description_en": "In Hungary, for the first time in 44 years, they can completely stop the largest nuclear power plant due to the record flooding of the Danube. The country faces an energy crisis The nuclear power plant \"Paksh\", which provides almost half of the country's electricity, has already reduced its capacity by more than half and may stop completely in the coming days, writes Prime Minister Peter Madyar.",
+    "description_uk": "В Венгрии впервые за 44 года могут полностью остановить крупнейшую АЭС из-за рекордного обмеления Дуная. Стране грозит энергетический кризис Атомная электростанция «Пакш», которая обеспечивает почти половину всей электроэнергии страны, уже снизила мощность более чем вдвое и может полностью остановиться в ближайшие дни, пишет премьер-министр Петер Мадьяр.",
+    "time": "",
+    "pubDate": "2026-07-30T18:19:01+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/197300",
+    "score": 3.5,
+    "views": 94423,
+    "forwards": 178
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -13,9 +49,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20248",
-    "score": 10.0,
-    "views": 6852,
-    "forwards": 23
+    "score": 10.5,
+    "views": 34795,
+    "forwards": 62
   },
   {
     "title": "🇸 The USA still receives almost 26% of uranium enrichment services...",
@@ -32,8 +68,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23697",
     "score": 7.0,
-    "views": 24017,
-    "forwards": 80
+    "views": 73559,
+    "forwards": 158
   },
   {
     "title": "Unmanned aerial vehicle groups in the direction of Kryvyi Rih from...",
@@ -50,8 +86,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/70807",
     "score": 5.0,
-    "views": 43618,
-    "forwards": 1
+    "views": 90261,
+    "forwards": 35
   },
   {
     "title": "Dnipro: Jet UAV headed for Dnipro/Kamyanske.",
@@ -68,7 +104,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/70806",
     "score": 6.0,
-    "views": 63851,
+    "views": 95278,
     "forwards": 1
   },
   {
@@ -176,8 +212,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54555",
     "score": 4.5,
-    "views": 2054,
-    "forwards": 3
+    "views": 2334,
+    "forwards": 4
   },
   {
     "title": "🇵🇱 The head of the Ministry of Foreign Affairs of Ukraine Andriy...",
@@ -194,7 +230,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9755",
     "score": 5.0,
-    "views": 1061,
+    "views": 1127,
     "forwards": 15
   },
   {
@@ -212,8 +248,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54554",
     "score": 8.0,
-    "views": 2140,
-    "forwards": 4
+    "views": 2392,
+    "forwards": 5
   },
   {
     "title": "Attack attack",
@@ -327,8 +363,8 @@
     "title": "Refinery \"Lukoil-Permnefteorgsintez\" and the enemy's training ground...",
     "title_en": "Refinery \"Lukoil-Permnefteorgsintez\" and the enemy's training ground...",
     "title_uk": "НПЗ \"Лукойл-Пермнефтеоргсинтез\" і полігон ворога...",
-    "description": "Refinery \"Lukoil-Permnefteorgsintez\" and the enemy's training ground were hit ⚡️ On July 29 and on the night of July 30, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged a number of important enemy facilities. ⚡️Yes, on July 29, damage was caused to the oil refinery \"Lukoil-Permnefteorgsintez\" in Perm of the Perm Territory of the Russian Federation. 🔥Fixed hit in...",
-    "description_en": "Refinery \"Lukoil-Permnefteorgsintez\" and the enemy's training ground were hit ⚡️ On July 29 and on the night of July 30, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged a number of important enemy facilities. ⚡️Yes, on July 29, damage was caused to the oil refinery \"Lukoil-Permnefteorgsintez\" in Perm of the Perm Territory of the Russian Federation. 🔥Fixed hit in...",
+    "description": "Refinery \"Lukoil-Permnefteorgsintez\" and the enemy's training ground were hit ⚡️ On July 29 and on the night of July 30, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged a number of important enemy facilities. ⚡️Yes, on July 29, damage was caused to the oil refinery \"Lukoil-Permnefteorgsintez\" in Perm of the Perm Territory of the Russian Federation. 🔥Fixed a hit in...",
+    "description_en": "Refinery \"Lukoil-Permnefteorgsintez\" and the enemy's training ground were hit ⚡️ On July 29 and on the night of July 30, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged a number of important enemy facilities. ⚡️Yes, on July 29, damage was caused to the oil refinery \"Lukoil-Permnefteorgsintez\" in Perm of the Perm Territory of the Russian Federation. 🔥Fixed a hit in...",
     "description_uk": "Уражено НПЗ \"Лукойл-Пермнефтеоргсинтез\" та полігон противника ⚡️29 липня та в ніч на 30 липня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України завдали ураження низці важливих об'єктів противника. ⚡️Так, 29 липня завдано ураження нафтопереробному заводу \"Лукойл-Пермнефтеоргсинтез\" у Пермі Пермського краю рф. 🔥Зафіксовано влучання в...",
     "time": "",
     "pubDate": "2026-07-30T08:05:04+00:00",
@@ -338,26 +374,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41628",
     "score": 7.5,
-    "views": 14908,
-    "forwards": 123
-  },
-  {
-    "title": "Kyiv: Analysis: New Commander-in-Chief Drapatyi faces a manpower mess of...",
-    "title_en": "Kyiv: Analysis: New Commander-in-Chief Drapatyi faces a manpower mess of...",
-    "title_uk": "Київ: Аналіз: нового головкома Драпатого чекає кадрова каша...",
-    "description": "Analysis: New Commander-in-Chief Drapatyi faces a manpower mess of Syrskyi's making Mass protests triggered by President Volodymyr Zelensky's firing of young, reform-minded Defense Minister Mykhailo Fedorov soon shifted their focus to Oleksandr Syrskyi, seen as the antithesis of Fedorov's modernizing, data-driven strategy that had started to show results in the war effort. Replacing Syrskyi is...",
-    "description_en": "Analysis: New Commander-in-Chief Drapatyi faces a manpower mess of Syrskyi's making Mass protests triggered by President Volodymyr Zelensky's firing of young, reform-minded Defense Minister Mykhailo Fedorov soon shifted their focus to Oleksandr Syrskyi, seen as the antithesis of Fedorov's modernizing, data-driven strategy that had started to show results in the war effort. Replacing Syrskyi is...",
-    "description_uk": "Analysis: New Commander-in-Chief Drapatyi faces a manpower mess of Syrskyi's making Mass protests triggered by President Volodymyr Zelensky's firing of young, reform-minded Defense Minister Mykhailo Fedorov soon shifted their focus to Oleksandr Syrskyi, seen as the antithesis of Fedorov's modernizing, data-driven strategy that had started to show results in the war effort. Replacing Syrskyi is...",
-    "time": "",
-    "pubDate": "2026-07-30T07:51:43+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54551",
-    "score": 4.5,
-    "views": 1496,
-    "forwards": 5
+    "views": 16922,
+    "forwards": 124
   },
   {
     "title": "Mykolaiv: 55 missiles intercepted",
@@ -374,7 +392,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41626",
     "score": 13.0,
-    "views": 5427,
+    "views": 5613,
     "forwards": 24
   },
   {
@@ -392,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9752",
     "score": 13.0,
-    "views": 3485,
+    "views": 3564,
     "forwards": 26
   },
   {
@@ -430,23 +448,5 @@
     "score": 14.5,
     "views": 366398,
     "forwards": 750
-  },
-  {
-    "title": "Kyiv: Ballistic missile launch detected",
-    "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
-    "description": "Update: 8 killed, 30 injured across Ukraine as Russia launches massive ballistic missile, drone attack. The casualty count from Russia's massive overnight missile and drone attack has grown to include eight deceased victims and a further 30 injured victims across multiple Ukrainian cities.",
-    "description_en": "Update: 8 killed, 30 injured across Ukraine as Russia launches massive ballistic missile, drone attack. The casualty count from Russia's massive overnight missile and drone attack has grown to include eight deceased victims and a further 30 injured victims across multiple Ukrainian cities.",
-    "description_uk": "Update: 8 killed, 30 injured across Ukraine as Russia launches massive ballistic missile, drone attack. The casualty count from Russia's massive overnight missile and drone attack has grown to include eight deceased victims and a further 30 injured victims across multiple Ukrainian cities.",
-    "time": "",
-    "pubDate": "2026-07-30T04:07:06+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54548",
-    "score": 18.0,
-    "views": 1133,
-    "forwards": 3
   }
 ]
