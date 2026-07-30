@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "New groups of enemy attack UAVs from the Black Sea area ➡️ to the south of Odesa. Also a group headed for Chornomorsk",
+    "description_en": "New groups of enemy attack UAVs from the Black Sea area ➡️ to the south of Odesa. Also a group headed for Chornomorsk",
+    "description_uk": "Нові групи ворожих ударних БпЛА з акваторії Чорного моря ➡️ на південь Одещини. Також група курсом на Чорноморськ",
+    "time": "",
+    "pubDate": "2026-07-30T22:47:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70819",
+    "score": 5.0,
+    "views": 11542,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: Jet UAVs south of Zaporozhye",
+    "title_en": "Zaporizhzhia: Jet UAVs south of Zaporozhye",
+    "title_uk": "Запоріжжя: реактивні БПЛА на південь від Запоріжжя",
+    "description": "Jet UAVs south of Zaporozhye",
+    "description_en": "Jet UAVs south of Zaporozhye",
+    "description_uk": "Реактивні БпЛА південніше Запоріжжя",
+    "time": "",
+    "pubDate": "2026-07-30T22:44:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70818",
+    "score": 6.0,
+    "views": 12952,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Russia's defense giant quietly launches new cryptocurrency despite EU...",
     "title_en": "Kyiv: Russia's defense giant quietly launches new cryptocurrency despite EU...",
     "title_uk": "Київ: російський оборонний гігант тихо запускає нову криптовалюту, незважаючи на ЄС...",
@@ -14,26 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54562",
     "score": 6.0,
-    "views": 592,
-    "forwards": 4
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "New groups of enemy attack UAVs from the Black Sea area ➡️ to the south of Odesa",
-    "description_en": "New groups of enemy attack UAVs from the Black Sea area ➡️ to the south of Odesa",
-    "description_uk": "Нові групи ворожих ударних БпЛА з акваторії Чорного моря ➡️ на південь Одещини",
-    "time": "",
-    "pubDate": "2026-07-30T21:09:38+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70817",
-    "score": 5.0,
-    "views": 28710,
-    "forwards": 25
+    "views": 890,
+    "forwards": 6
   },
   {
     "title": "Drone incoming",
@@ -86,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197303",
     "score": 5.5,
-    "views": 95005,
-    "forwards": 386
+    "views": 102787,
+    "forwards": 397
   },
   {
     "title": "In Hungary, for the first time in 44 years, they can completely stop...",
@@ -104,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197300",
     "score": 4.5,
-    "views": 130702,
-    "forwards": 212
+    "views": 136425,
+    "forwards": 214
   },
   {
     "title": "Ballistic missile launch detected",
@@ -122,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20248",
     "score": 10.5,
-    "views": 44247,
-    "forwards": 75
+    "views": 45845,
+    "forwards": 77
   },
   {
     "title": "🇸 The USA still receives almost 26% of uranium enrichment services...",
@@ -139,9 +157,9 @@
     "location": "Ukraine",
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23697",
-    "score": 7.0,
-    "views": 92509,
-    "forwards": 199
+    "score": 8.0,
+    "views": 95293,
+    "forwards": 201
   },
   {
     "title": "Unmanned aerial vehicle groups in the direction of Kryvyi Rih from...",
@@ -248,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54555",
     "score": 4.5,
-    "views": 2573,
+    "views": 2635,
     "forwards": 5
   },
   {
@@ -266,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9755",
     "score": 5.0,
-    "views": 1169,
+    "views": 1179,
     "forwards": 15
   },
   {
@@ -288,60 +306,6 @@
     "forwards": 5
   },
   {
-    "title": "Attack attack",
-    "title_en": "Attack attack",
-    "title_uk": "Атака нападу",
-    "description": "Ukraine attacked the Wildberries warehouse in the Russian Federation for the third time in a day. Perm is approximately 1,400 km from the border with Ukraine, making this attack the furthest successful attack on Wildberries warehouses. The company and local authorities have not yet commented on the incident.",
-    "description_en": "Ukraine attacked the Wildberries warehouse in the Russian Federation for the third time in a day. Perm is approximately 1,400 km from the border with Ukraine, making this attack the furthest successful attack on Wildberries warehouses. The company and local authorities have not yet commented on the incident.",
-    "description_uk": "Украина третий раз за день атаковала склад Wildberries в рф После ударов по логистическим хабам в Пензе и Сарапуле под атаку БПЛА вновь попал склад Wildberries в Перми. Пермь находится примерно в 1400 км от границы с Украиной, что делает эту атаку самой дальней успешной атакой по складам Wildberries. Компания и местные власти произошедшее пока не комментировали.",
-    "time": "",
-    "pubDate": "2026-07-30T11:04:19+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/197264",
-    "score": 6.5,
-    "views": 139088,
-    "forwards": 395
-  },
-  {
-    "title": "Sumy: Drone incoming",
-    "title_en": "Sumy: Drone incoming",
-    "title_uk": "Суми: Дрон вхід",
-    "description": "BpLA on Sumy from the north. 🛵 UAV to Odesa from the Black Sea.",
-    "description_en": "BpLA on Sumy from the north. 🛵 UAV to Odesa from the Black Sea.",
-    "description_uk": "БпЛА на Суми з півночі. 🛵 БпЛА на Одещину з Чорного моря.",
-    "time": "",
-    "pubDate": "2026-07-30T10:52:35+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70783",
-    "score": 6.0,
-    "views": 35414,
-    "forwards": 0
-  },
-  {
-    "title": "23 missiles launched",
-    "title_en": "23 missiles launched",
-    "title_uk": "Випущено 23 ракети",
-    "description": "for the first time in a long time, the Russian Federation could use North Korean KN-23 missiles during a night attack, - Ignat On said that the Russian troops probably used North Korean ballistic missiles KN-23, which had not been included in the reports of the Air Force for a long time. According to him, such a possibility is not excluded by Ukrainian intelligence and emergency forces. Ignat noted that the Russian Federation combines \"Iskander-M\", S-400,...",
-    "description_en": "for the first time in a long time, the Russian Federation could use North Korean KN-23 missiles during a night attack, - Ignat On said that the Russian troops probably used North Korean ballistic missiles KN-23, which had not been included in the reports of the Air Force for a long time. According to him, such a possibility is not excluded by Ukrainian intelligence and emergency forces. Ignat noted that the Russian Federation combines \"Iskander-M\", S-400,...",
-    "description_uk": "рф впервые за долгое время могла применить северокорейские ракеты KN-23 во время ночной атаки, - Игнат Он заявил, что российские войска, вероятно, использовали северокорейские баллистические ракеты KN-23, которые давно не фигурировали в сводках Воздушных сил. По его словам, такую возможность не исключают украинская разведка и дежурные силы. Игнат отметил, что рф комбинирует \"Искандер-М\", С-400,...",
-    "time": "",
-    "pubDate": "2026-07-30T10:47:08+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/197263",
-    "score": 3.5,
-    "views": 106577,
-    "forwards": 112
-  },
-  {
     "title": "Refinery \"Lukoil-Permnefteorgsintez\" and the enemy's training ground...",
     "title_en": "Refinery \"Lukoil-Permnefteorgsintez\" and the enemy's training ground...",
     "title_uk": "НПЗ \"Лукойл-Пермнефтеоргсинтез\" і полігон ворога...",
@@ -356,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41628",
     "score": 7.5,
-    "views": 17556,
+    "views": 17635,
     "forwards": 126
   },
   {
@@ -374,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41626",
     "score": 13.0,
-    "views": 5752,
+    "views": 5772,
     "forwards": 24
   },
   {
@@ -392,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9752",
     "score": 13.0,
-    "views": 3608,
+    "views": 3617,
     "forwards": 26
   },
   {
@@ -446,7 +410,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23691",
     "score": 8.5,
-    "views": 181919,
+    "views": 182168,
     "forwards": 104
   }
 ]
