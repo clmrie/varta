@@ -1,5 +1,59 @@
 [
   {
+    "title": "BpLA to Ovidiopol; 🛵 BpLA on Vylkovo.",
+    "title_en": "BpLA to Ovidiopol; 🛵 BpLA on Vylkovo.",
+    "title_uk": "BpLA до Овідіополя; 🛵 BpLA на Вилкове.",
+    "description": "BpLA to Ovidiopol; 🛵 BpLA on Vylkovo.",
+    "description_en": "BpLA to Ovidiopol; 🛵 BpLA on Vylkovo.",
+    "description_uk": "БпЛА на Овідіополь; 🛵 БпЛА на Вилкове.",
+    "time": "",
+    "pubDate": "2026-07-31T21:40:06+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70954",
+    "score": 5.0,
+    "views": 10155,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAVs fly past Poltava in the western direction. 🛵 Jet BpLA to Poltava from the south.",
+    "description_en": "Jet UAVs fly past Poltava in the western direction. 🛵 Jet BpLA to Poltava from the south.",
+    "description_uk": "Реактивні БпЛА повз Полтаву у західному напрямку. 🛵 Реактивний БпЛА на Полтаву з півдня.",
+    "time": "",
+    "pubDate": "2026-07-31T21:35:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70953",
+    "score": 5.0,
+    "views": 15211,
+    "forwards": 34
+  },
+  {
+    "title": "Kyiv: Attack attack",
+    "title_en": "Kyiv: Attack attack",
+    "title_uk": "Київ: Атака",
+    "description": "Rubber plant on fire in Russia's Tatarstan, over 1,200 km from Ukrainian border. Nizhnekamskneftekhim (NKNK) is one of the largest petrochemical enterprises in Eastern Europe. It has previously been targeted in reported Ukrainian strikes.",
+    "description_en": "Rubber plant on fire in Russia's Tatarstan, over 1,200 km from Ukrainian border. Nizhnekamskneftekhim (NKNK) is one of the largest petrochemical enterprises in Eastern Europe. It has previously been targeted in reported Ukrainian strikes.",
+    "description_uk": "Rubber plant on fire in Russia's Tatarstan, over 1,200 km from Ukrainian border. Nizhnekamskneftekhim (NKNK) is one of the largest petrochemical enterprises in Eastern Europe. It has previously been targeted in reported Ukrainian strikes.",
+    "time": "",
+    "pubDate": "2026-07-31T21:25:03+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54579",
+    "score": 8.0,
+    "views": 349,
+    "forwards": 1
+  },
+  {
     "title": "Drone attack",
     "title_en": "Drone attack",
     "title_uk": "Атака безпілотників",
@@ -18,24 +72,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Strike UAV in the direction of Kharkiv from the north",
-    "description_en": "Strike UAV in the direction of Kharkiv from the north",
-    "description_uk": "Ударний БпЛА у напрямку Харкова з півночі",
-    "time": "",
-    "pubDate": "2026-07-31T18:45:04+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70945",
-    "score": 5.0,
-    "views": 64771,
-    "forwards": 1
-  },
-  {
     "title": "Kyiv: Russia's war of conquest and its war on civilians “Clearly, the...",
     "title_en": "Kyiv: Russia's war of conquest and its war on civilians “Clearly, the...",
     "title_uk": "Київ: загарбницька війна Росії та її війна проти мирного населення «Очевидно, що...",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54576",
     "score": 6.0,
-    "views": 1395,
+    "views": 1633,
     "forwards": 3
   },
   {
@@ -248,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20250",
     "score": 5.5,
-    "views": 175070,
-    "forwards": 225
+    "views": 177655,
+    "forwards": 226
   },
   {
     "title": "Kharkiv: A high-speed target in the Kharkiv region in the direction of Veliky...",
@@ -302,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41653",
     "score": 6.0,
-    "views": 5528,
+    "views": 5577,
     "forwards": 11
   },
   {
@@ -320,8 +356,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41652",
     "score": 12.0,
-    "views": 11421,
-    "forwards": 106
+    "views": 11550,
+    "forwards": 107
   },
   {
     "title": "Airstrike attack",
@@ -338,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9758",
     "score": 5.0,
-    "views": 884,
+    "views": 896,
     "forwards": 2
   },
   {
@@ -410,43 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20248",
     "score": 10.5,
-    "views": 86399,
+    "views": 86792,
     "forwards": 88
-  },
-  {
-    "title": "🇸 The USA still receives almost 26% of uranium enrichment services...",
-    "title_en": "🇸 The USA still receives almost 26% of uranium enrichment services...",
-    "title_uk": "🇸 США все ще отримують майже 26% послуг зі збагачення урану...",
-    "description": "🇸 The USA still receives almost 26% of uranium enrichment services from Russia 🖥 This is reported by Bloomberg. 📌 In 2025, American reactor operators purchased about 3.28 million fission work units (SWU) from Russia. This is almost 26% of all uranium enrichment services purchased by them. In 2015, the share was 17%. 👀 In total, foreign suppliers provided 77% of the enrichment services purchased in the US...",
-    "description_en": "🇸 The USA still receives almost 26% of uranium enrichment services from Russia 🖥 This is reported by Bloomberg. 📌 In 2025, American reactor operators purchased about 3.28 million fission work units (SWU) from Russia. This is almost 26% of all uranium enrichment services purchased by them. In 2015, the share was 17%. 👀 In total, foreign suppliers provided 77% of the enrichment services purchased in the US...",
-    "description_uk": "🇸 США досі отримують майже 26% послуг зі збагачення урану від росії 🖥 Про це повідомляє Bloomberg. 📌 У 2025 році оператори американських реакторів придбали в росії близько 3,28 млн одиниць роботи розділення (SWU). Це майже 26% усіх закуплених ними послуг зі збагачення урану. У 2015 році частка становила 17%. 👀 Загалом іноземні постачальники забезпечили 77% придбаних у США послуг зі збагачення...",
-    "time": "",
-    "pubDate": "2026-07-30T18:04:01+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "DeepState",
-    "link": "https://t.me/DeepStateUA/23697",
-    "score": 8.0,
-    "views": 162054,
-    "forwards": 287
-  },
-  {
-    "title": "🇵🇱 The head of the Ministry of Foreign Affairs of Ukraine Andriy...",
-    "title_en": "🇵🇱 The head of the Ministry of Foreign Affairs of Ukraine Andriy...",
-    "title_uk": "🇵🇱 Глава МЗС України Андрій...",
-    "description": "🇵🇱 The head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga held telephone talks with the Deputy Prime Minister, Minister of Foreign Affairs of Poland Radoslaw Sikorski after a Russian missile flew into Polish airspace. Andriy Sybiga highly appreciated the reaction of the Polish government and assured Radoslav Sikorskyi of Ukraine's full solidarity with Poland. Ukraine is ready to provide all necessary assistance in...",
-    "description_en": "🇵🇱 The head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga held telephone talks with the Deputy Prime Minister, Minister of Foreign Affairs of Poland Radoslaw Sikorski after a Russian missile flew into Polish airspace. Andriy Sybiga highly appreciated the reaction of the Polish government and assured Radoslav Sikorskyi of Ukraine's full solidarity with Poland. Ukraine is ready to provide all necessary assistance in...",
-    "description_uk": "🇵🇱 Очільник МЗС України Андрій Сибіга провів телефонні переговори з віцепремʼєр-міністром, міністром закордонних справ Польщі Радославом Сікорським після того, як російська ракета залетіла в повітряний простір Польщі. Андрій Сибіга високо оцінив реакцію польського уряду та запевнив Радослава Сікорського в повній солідарності України з Польщею. Україна готова надати всю необхідну допомогу в...",
-    "time": "",
-    "pubDate": "2026-07-30T11:23:22+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9755",
-    "score": 5.0,
-    "views": 1424,
-    "forwards": 15
   }
 ]
