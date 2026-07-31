@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: Зафіксовано пуск балістичної ракети",
+    "description": "Update: At least 1 killed, 4 injured in Russian ballistic missile attack on Kyiv. One of the injured victims is a 17-year-old boy, Kyiv Mayor Vitali Klitschko reported. All victims have been hospitalized. Elsewhere in the city, residents are said to be trapped in buildings damaged by Russian missile fire.",
+    "description_en": "Update: At least 1 killed, 4 injured in Russian ballistic missile attack on Kyiv. One of the injured victims is a 17-year-old boy, Kyiv Mayor Vitali Klitschko reported. All victims have been hospitalized. Elsewhere in the city, residents are said to be trapped in buildings damaged by Russian missile fire.",
+    "description_uk": "Update: At least 1 killed, 4 injured in Russian ballistic missile attack on Kyiv. One of the injured victims is a 17-year-old boy, Kyiv Mayor Vitali Klitschko reported. All victims have been hospitalized. Elsewhere in the city, residents are said to be trapped in buildings damaged by Russian missile fire.",
+    "time": "",
+    "pubDate": "2026-07-31T23:44:44+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54581",
+    "score": 18.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "A jet UAV on Kyiv from the north",
+    "description_en": "A jet UAV on Kyiv from the north",
+    "description_uk": "Реактивний БпЛА на Київ з півночі",
+    "time": "",
+    "pubDate": "2026-07-31T23:32:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70978",
+    "score": 6.5,
+    "views": 39499,
+    "forwards": 137
+  },
+  {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "Jet UAVs in the central part of Chernihiv region, heading for Kyiv.",
+    "description_en": "Jet UAVs in the central part of Chernihiv region, heading for Kyiv.",
+    "description_uk": "Реактивні БпЛА в центральній частині Чернігівщини курсом на Київ.",
+    "time": "",
+    "pubDate": "2026-07-31T23:18:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70977",
+    "score": 7.5,
+    "views": 61756,
+    "forwards": 212
+  },
+  {
     "title": "Chernihiv: Rocket in the Chernihiv region in the direction of Kyiv from the...",
     "title_en": "Chernihiv: Rocket in the Chernihiv region in the direction of Kyiv from the...",
     "title_uk": "Чернігів: Ракета в Чернігівській області в напрямку Києва від...",
@@ -234,24 +288,6 @@
     "forwards": 3
   },
   {
-    "title": "Crimea: Airstrike attack",
-    "title_en": "Crimea: Airstrike attack",
-    "title_uk": "Крим: авіаудар",
-    "description": "Ukrainian forces strike oil refinery in Russia's Volgograd Oblast, aircraft factory in occupied Crimea, military confirms. In the city of Volgograd, the Lukoil-Volgogradneftepererabotka refinery, one of Russia's largest oil refineries, with an annual crude oil processing capacity of 15 million metric tons, was targeted.",
-    "description_en": "Ukrainian forces strike oil refinery in Russia's Volgograd Oblast, aircraft factory in occupied Crimea, military confirms. In the city of Volgograd, the Lukoil-Volgogradneftepererabotka refinery, one of Russia's largest oil refineries, with an annual crude oil processing capacity of 15 million metric tons, was targeted.",
-    "description_uk": "Ukrainian forces strike oil refinery in Russia's Volgograd Oblast, aircraft factory in occupied Crimea, military confirms. In the city of Volgograd, the Lukoil-Volgogradneftepererabotka refinery, one of Russia's largest oil refineries, with an annual crude oil processing capacity of 15 million metric tons, was targeted.",
-    "time": "",
-    "pubDate": "2026-07-31T11:33:38+00:00",
-    "category": "shelling",
-    "severity": "medium",
-    "location": "Crimea",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54566",
-    "score": 4.0,
-    "views": 1894,
-    "forwards": 1
-  },
-  {
     "title": "Kharkiv: High-speed targets on the border of Kharkiv region from the north.",
     "title_en": "Kharkiv: High-speed targets on the border of Kharkiv region from the north.",
     "title_uk": "Харків: Швидкісні цілі на кордоні Харківської області з півночі.",
@@ -270,24 +306,6 @@
     "forwards": 0
   },
   {
-    "title": "Zaporizhzhia: 🛸 BpLA ➡️ in the direction of the city of Zaporozhye from the...",
-    "title_en": "Zaporizhzhia: 🛸 BpLA ➡️ in the direction of the city of Zaporozhye from the...",
-    "title_uk": "Запоріжжя: 🛸 BpLA ➡️ в напрямку м. Запоріжжя від...",
-    "description": "🛸 BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
-    "description_en": "🛸 BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
-    "description_uk": "🛸 БпЛА ➡️ в напрямку м.Запоріжжя з південного сходу.",
-    "time": "",
-    "pubDate": "2026-07-31T11:18:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70907",
-    "score": 6.0,
-    "views": 57620,
-    "forwards": 0
-  },
-  {
     "title": "Airstrike attack on infrastructure",
     "title_en": "Airstrike attack on infrastructure",
     "title_uk": "Авіаудар по інфраструктурі",
@@ -302,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20250",
     "score": 5.5,
-    "views": 180332,
-    "forwards": 228
+    "views": 185809,
+    "forwards": 229
   },
   {
     "title": "Kharkiv: A high-speed target in the Kharkiv region in the direction of Veliky...",
@@ -338,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41653",
     "score": 6.0,
-    "views": 5608,
+    "views": 5687,
     "forwards": 11
   },
   {
@@ -356,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41652",
     "score": 12.0,
-    "views": 11607,
+    "views": 11755,
     "forwards": 107
   },
   {
@@ -374,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9758",
     "score": 5.0,
-    "views": 914,
+    "views": 935,
     "forwards": 2
   },
   {
@@ -430,23 +448,5 @@
     "score": 8.0,
     "views": 2392,
     "forwards": 1
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "He accepted credentials from the newly appointed ambassadors of Oman, North Macedonia, the United Arab Emirates, the Netherlands and France. Briefed the diplomats about the Russian strike that night: there was a lot of ballistics and, unfortunately, casualties. Even during our communication with the ambassadors, Russia continued to attack our cities and communities. In such circumstances, air defense is our constant priority. Anyone who can...",
-    "description_en": "He accepted credentials from the newly appointed ambassadors of Oman, North Macedonia, the United Arab Emirates, the Netherlands and France. Briefed the diplomats about the Russian strike that night: there was a lot of ballistics and, unfortunately, casualties. Even during our communication with the ambassadors, Russia continued to attack our cities and communities. In such circumstances, air defense is our constant priority. Anyone who can...",
-    "description_uk": "Прийняв вірчі грамоти від новопризначених послів Оману, Північної Македонії, Об’єднаних Арабських Еміратів, Нідерландів та Франції. Поінформував дипломатів про російський удар цієї ночі: було багато балістики і, на жаль, жертв. Навіть під час нашого спілкування з послами Росія продовжувала бити по наших містах і громадах. У таких обставинах ППО – це наш незмінний пріоритет. Кожен, хто може...",
-    "time": "",
-    "pubDate": "2026-07-30T18:11:17+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20248",
-    "score": 10.5,
-    "views": 87208,
-    "forwards": 88
   }
 ]
