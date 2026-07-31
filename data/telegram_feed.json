@@ -1,5 +1,77 @@
 [
   {
+    "title": "Crimea: Airstrike attack",
+    "title_en": "Crimea: Airstrike attack",
+    "title_uk": "Крим: авіаудар",
+    "description": "Ukrainian forces strike oil refinery in Russia's Volgograd Oblast, aircraft factory in occupied Crimea, military confirms. In the city of Volgograd, the Lukoil-Volgogradneftepererabotka refinery, one of Russia's largest oil refineries, with an annual crude oil processing capacity of 15 million metric tons, was targeted.",
+    "description_en": "Ukrainian forces strike oil refinery in Russia's Volgograd Oblast, aircraft factory in occupied Crimea, military confirms. In the city of Volgograd, the Lukoil-Volgogradneftepererabotka refinery, one of Russia's largest oil refineries, with an annual crude oil processing capacity of 15 million metric tons, was targeted.",
+    "description_uk": "Ukrainian forces strike oil refinery in Russia's Volgograd Oblast, aircraft factory in occupied Crimea, military confirms. In the city of Volgograd, the Lukoil-Volgogradneftepererabotka refinery, one of Russia's largest oil refineries, with an annual crude oil processing capacity of 15 million metric tons, was targeted.",
+    "time": "",
+    "pubDate": "2026-07-31T11:33:38+00:00",
+    "category": "shelling",
+    "severity": "medium",
+    "location": "Crimea",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54566",
+    "score": 4.0,
+    "views": 528,
+    "forwards": 1
+  },
+  {
+    "title": "Kharkiv: High-speed targets on the border of Kharkiv region from the north.",
+    "title_en": "Kharkiv: High-speed targets on the border of Kharkiv region from the north.",
+    "title_uk": "Харків: Швидкісні цілі на кордоні Харківської області з півночі.",
+    "description": "High-speed targets on the border of Kharkiv region from the north.",
+    "description_en": "High-speed targets on the border of Kharkiv region from the north.",
+    "description_uk": "Швидкісні цілі на прикордоння Харківщини з півночі.",
+    "time": "",
+    "pubDate": "2026-07-31T11:30:40+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70909",
+    "score": 6.0,
+    "views": 39449,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: 🛸 BpLA ➡️ in the direction of the city of Zaporozhye from the...",
+    "title_en": "Zaporizhzhia: 🛸 BpLA ➡️ in the direction of the city of Zaporozhye from the...",
+    "title_uk": "Запоріжжя: 🛸 BpLA ➡️ в напрямку м. Запоріжжя від...",
+    "description": "🛸 BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
+    "description_en": "🛸 BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
+    "description_uk": "🛸 БпЛА ➡️ в напрямку м.Запоріжжя з південного сходу.",
+    "time": "",
+    "pubDate": "2026-07-31T11:18:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70907",
+    "score": 6.0,
+    "views": 57620,
+    "forwards": 0
+  },
+  {
+    "title": "Airstrike attack on infrastructure",
+    "title_en": "Airstrike attack on infrastructure",
+    "title_uk": "Авіаудар по інфраструктурі",
+    "description": "We continue to use our deep strikes and mid-strikes against the objects of the Russian infrastructure, which works for Russian aggression. Our strikes as part of the long-range sanctions plan are always about fair responses so that the Russian war machine loses its resources. In particular, today there was appropriate work on three logistics centers in different regions of the Russian Federation: in Sarapul, Kazan and Volgograd on...",
+    "description_en": "We continue to use our deep strikes and mid-strikes against the objects of the Russian infrastructure, which works for Russian aggression. Our strikes as part of the long-range sanctions plan are always about fair responses so that the Russian war machine loses its resources. In particular, today there was appropriate work on three logistics centers in different regions of the Russian Federation: in Sarapul, Kazan and Volgograd on...",
+    "description_uk": "Продовжуємо застосовувати наші дипстрайки та мідстрайки по обʼєктах російської інфраструктури, яка працює на російську агресію. Наші удари в рамках плану далекобійних санкцій – це завжди про справедливі відповіді, щоб російська воєнна машина втрачала свої ресурси. Зокрема, сьогодні була відповідна робота по трьох логістичних центрах у різних регіонах РФ: у Сарапулі, Казані та Волгограді на...",
+    "time": "",
+    "pubDate": "2026-07-31T10:26:46+00:00",
+    "category": "shelling",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20250",
+    "score": 4.5,
+    "views": 84586,
+    "forwards": 169
+  },
+  {
     "title": "Kharkiv: A high-speed target in the Kharkiv region in the direction of Veliky...",
     "title_en": "Kharkiv: A high-speed target in the Kharkiv region in the direction of Veliky...",
     "title_uk": "Харків: Швидкісна ціль у Харківській області в напрямку Великого...",
@@ -50,15 +122,15 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41653",
     "score": 6.0,
-    "views": 1900,
-    "forwards": 5
+    "views": 3432,
+    "forwards": 6
   },
   {
     "title": "101 missiles",
     "title_en": "101 missiles",
     "title_uk": "101 ракета",
-    "description": "Poland has officially confirmed that a Russian X-101 missile fell in the Lublin Voivodeship. This was reported by the Deputy Minister of Defense of Poland, Cezary Tomczyk. According to him, about 20 Russian rockets were flying towards Poland that night. The Ukrainian pilot pursued one of them almost to the very border, but turned around 20 seconds before crossing it — otherwise the Polish air defense could have mistaken it for a threat. Tomchik...",
-    "description_en": "Poland has officially confirmed that a Russian X-101 missile fell in the Lublin Voivodeship. This was reported by the Deputy Minister of Defense of Poland, Cezary Tomczyk. According to him, about 20 Russian rockets were flying towards Poland that night. The Ukrainian pilot pursued one of them almost to the very border, but turned around 20 seconds before crossing it — otherwise the Polish air defense could have mistaken it for a threat. Tomchik...",
+    "description": "Poland has officially confirmed that a Russian X-101 missile fell in the Lublin Voivodeship. This was reported by the Deputy Minister of Defense of Poland, Cezary Tomczyk. According to him, that night about 20 Russian rockets flew towards Poland. The Ukrainian pilot pursued one of them almost to the very border, but turned around 20 seconds before crossing it — otherwise the Polish air defense could have mistaken it for a threat. Tomchik...",
+    "description_en": "Poland has officially confirmed that a Russian X-101 missile fell in the Lublin Voivodeship. This was reported by the Deputy Minister of Defense of Poland, Cezary Tomczyk. According to him, that night about 20 Russian rockets flew towards Poland. The Ukrainian pilot pursued one of them almost to the very border, but turned around 20 seconds before crossing it — otherwise the Polish air defense could have mistaken it for a threat. Tomchik...",
     "description_uk": "Польша официально подтвердила, что в Люблинском воеводстве упала российская ракета Х-101 Об этом сообщил заместитель министра обороны Польши Цезары Томчик. По его словам, в ту ночь в сторону Польши летели около 20 российских ракет. Украинский пилот преследовал одну из них почти до самой границы, но за 20 секунд до ее пересечения развернулся — иначе польская ПВО могла принять его за угрозу. Томчик...",
     "time": "",
     "pubDate": "2026-07-31T07:38:41+00:00",
@@ -67,9 +139,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197327",
-    "score": 3.5,
-    "views": 109888,
-    "forwards": 182
+    "score": 4.5,
+    "views": 142649,
+    "forwards": 218
   },
   {
     "title": "Luhansk: The Volgograd Refinery, the \"Pole-21\" REE complex and other enemy...",
@@ -86,8 +158,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41652",
     "score": 12.0,
-    "views": 6610,
-    "forwards": 84
+    "views": 8285,
+    "forwards": 93
   },
   {
     "title": "Airstrike attack",
@@ -104,7 +176,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9758",
     "score": 5.0,
-    "views": 478,
+    "views": 548,
     "forwards": 2
   },
   {
@@ -248,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54564",
     "score": 8.0,
-    "views": 2028,
+    "views": 2392,
     "forwards": 1
   },
   {
@@ -288,60 +360,6 @@
     "forwards": 6
   },
   {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "New groups of enemy attack UAVs from the Black Sea area ➡️ to the south of Odesa. Also a group headed for Chornomorsk",
-    "description_en": "New groups of enemy attack UAVs from the Black Sea area ➡️ to the south of Odesa. Also a group headed for Chornomorsk",
-    "description_uk": "Нові групи ворожих ударних БпЛА з акваторії Чорного моря ➡️ на південь Одещини. Також група курсом на Чорноморськ",
-    "time": "",
-    "pubDate": "2026-07-30T22:47:15+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70819",
-    "score": 5.0,
-    "views": 23422,
-    "forwards": 13
-  },
-  {
-    "title": "Zaporizhzhia: Jet UAVs south of Zaporozhye",
-    "title_en": "Zaporizhzhia: Jet UAVs south of Zaporozhye",
-    "title_uk": "Запоріжжя: реактивні БПЛА на південь від Запоріжжя",
-    "description": "Jet UAVs south of Zaporozhye",
-    "description_en": "Jet UAVs south of Zaporozhye",
-    "description_uk": "Реактивні БпЛА південніше Запоріжжя",
-    "time": "",
-    "pubDate": "2026-07-30T22:44:15+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70818",
-    "score": 6.0,
-    "views": 12952,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Russia's defense giant quietly launches new cryptocurrency despite EU...",
-    "title_en": "Kyiv: Russia's defense giant quietly launches new cryptocurrency despite EU...",
-    "title_uk": "Київ: російський оборонний гігант тихо запускає нову криптовалюту, незважаючи на ЄС...",
-    "description": "Russia's defense giant quietly launches new cryptocurrency despite EU sanctions A cryptocurrency associated with Russia's sprawling state defense corporation has quietly launched just as the European Union targets Russian crypto markets with further sanctions. Blockchain data reviewed by Kyiv Independent suggests that ruble token RubX, announced by Rostec last year, soft-launched on July 17. RubX...",
-    "description_en": "Russia's defense giant quietly launches new cryptocurrency despite EU sanctions A cryptocurrency associated with Russia's sprawling state defense corporation has quietly launched just as the European Union targets Russian crypto markets with further sanctions. Blockchain data reviewed by Kyiv Independent suggests that ruble token RubX, announced by Rostec last year, soft-launched on July 17. RubX...",
-    "description_uk": "Russia's defense giant quietly launches new cryptocurrency despite EU sanctions A cryptocurrency associated with Russia's sprawling state defense corporation has quietly launched just as the European Union targets Russian crypto markets with further sanctions. Blockchain data reviewed by Kyiv Independent suggests that ruble token RubX, announced by Rostec last year, soft-launched on July 17. RubX...",
-    "time": "",
-    "pubDate": "2026-07-30T21:18:47+00:00",
-    "category": "political",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54562",
-    "score": 6.0,
-    "views": 2555,
-    "forwards": 8
-  },
-  {
     "title": "Drone strike",
     "title_en": "Drone strike",
     "title_uk": "Безпілотний удар",
@@ -374,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20248",
     "score": 10.5,
-    "views": 71454,
-    "forwards": 84
+    "views": 77266,
+    "forwards": 86
   },
   {
     "title": "🇸 The USA still receives almost 26% of uranium enrichment services...",
@@ -392,8 +410,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23697",
     "score": 8.0,
-    "views": 133621,
-    "forwards": 260
+    "views": 147577,
+    "forwards": 275
   },
   {
     "title": "Casualties reported",
@@ -428,25 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9755",
     "score": 5.0,
-    "views": 1304,
+    "views": 1355,
     "forwards": 15
-  },
-  {
-    "title": "The work of drones of the BBS 67 OMBr \"Zalizni Sokoly\" on the enemy's...",
-    "title_en": "The work of drones of the BBS 67 OMBr \"Zalizni Sokoly\" on the enemy's...",
-    "title_uk": "Робота безпілотників ББС 67 ОМБр «Залізні Соколи» по противнику...",
-    "description": "The work of drones of the BBS 67 OMBr \"Zalizni Sokoly\" on the enemy's manpower, which quickly becomes lifeless 📍 Location - near Novopol. Map🛑Blog🛑Write to us🛑ZSUHelp🛑Support us",
-    "description_en": "The work of drones of the BBS 67 OMBr \"Zalizni Sokoly\" on the enemy's manpower, which quickly becomes lifeless 📍 Location - near Novopol. Map🛑Blog🛑Write to us🛑ZSUHelp🛑Support us",
-    "description_uk": "Робота дронів ББС 67 ОМБр \"Залізні соколи\" по живій силі противника, яка швидко стає неживою 📍 Локація — поблизу Новополя. Мапа🛑Блог🛑Написати нам🛑 ЗСУHelp🛑Підтримати нас",
-    "time": "",
-    "pubDate": "2026-07-29T14:54:58+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "DeepState",
-    "link": "https://t.me/DeepStateUA/23691",
-    "score": 8.5,
-    "views": 185955,
-    "forwards": 105
   }
 ]
