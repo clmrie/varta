@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet strike UAVs in the south of Odesa ➡️ in the direction of Artsys",
+    "description_en": "Jet strike UAVs in the south of Odesa ➡️ in the direction of Artsys",
+    "description_uk": "Реактивні ударні БпЛА на півдні Одещини ➡️ в напрямку Арциза",
+    "time": "",
+    "pubDate": "2026-07-31T00:47:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70825",
+    "score": 5.0,
+    "views": 5088,
+    "forwards": 6
+  },
+  {
     "title": "Drone attack",
     "title_en": "Drone attack",
     "title_uk": "Атака безпілотників",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/70819",
     "score": 5.0,
-    "views": 11542,
-    "forwards": 0
+    "views": 23422,
+    "forwards": 13
   },
   {
     "title": "Zaporizhzhia: Jet UAVs south of Zaporozhye",
@@ -50,26 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54562",
     "score": 6.0,
-    "views": 890,
-    "forwards": 6
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Groups of enemy attack UAVs from the Black Sea in the direction of southern Odesa (near the border with Romania).",
-    "description_en": "Groups of enemy attack UAVs from the Black Sea in the direction of southern Odesa (near the border with Romania).",
-    "description_uk": "Групи ворожих ударних БпЛА з акваторії Чорного моря в напрямку півдня Одещини (поблизу кордону з Румунією).",
-    "time": "",
-    "pubDate": "2026-07-30T20:44:17+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70816",
-    "score": 5.0,
-    "views": 43991,
-    "forwards": 34
+    "views": 1142,
+    "forwards": 7
   },
   {
     "title": "Kherson: Drone incoming",
@@ -104,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197303",
     "score": 5.5,
-    "views": 102787,
-    "forwards": 397
+    "views": 110977,
+    "forwards": 420
   },
   {
     "title": "In Hungary, for the first time in 44 years, they can completely stop...",
@@ -122,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197300",
     "score": 4.5,
-    "views": 136425,
-    "forwards": 214
+    "views": 142026,
+    "forwards": 224
   },
   {
     "title": "Ballistic missile launch detected",
@@ -140,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20248",
     "score": 10.5,
-    "views": 45845,
-    "forwards": 77
+    "views": 47238,
+    "forwards": 78
   },
   {
     "title": "🇸 The USA still receives almost 26% of uranium enrichment services...",
@@ -158,8 +158,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23697",
     "score": 8.0,
-    "views": 95293,
-    "forwards": 201
+    "views": 97387,
+    "forwards": 208
   },
   {
     "title": "Unmanned aerial vehicle groups in the direction of Kryvyi Rih from...",
@@ -234,24 +234,6 @@
     "forwards": 144
   },
   {
-    "title": "Kharkiv: BpLA passes by Zolochiv heading for Kharkiv.",
-    "title_en": "Kharkiv: BpLA passes by Zolochiv heading for Kharkiv.",
-    "title_uk": "Харків: BpLA проходить повз Золочів, прямуючи до Харкова.",
-    "description": "BpLA passes by Zolochiv heading for Kharkiv.",
-    "description_en": "BpLA passes by Zolochiv heading for Kharkiv.",
-    "description_uk": "БпЛА повз Золочів курсом на Харків.",
-    "time": "",
-    "pubDate": "2026-07-30T12:56:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70790",
-    "score": 6.0,
-    "views": 12112,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Ukraine receives new $3.9 billion EU tranche for defense needs. The...",
     "title_en": "Kyiv: Ukraine receives new $3.9 billion EU tranche for defense needs. The...",
     "title_uk": "Київ: Україна отримує новий транш ЄС на 3,9 млрд доларів на потреби оборони. ...",
@@ -266,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54555",
     "score": 4.5,
-    "views": 2635,
+    "views": 2689,
     "forwards": 5
   },
   {
@@ -284,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9755",
     "score": 5.0,
-    "views": 1179,
+    "views": 1187,
     "forwards": 15
   },
   {
@@ -309,8 +291,8 @@
     "title": "Refinery \"Lukoil-Permnefteorgsintez\" and the enemy's training ground...",
     "title_en": "Refinery \"Lukoil-Permnefteorgsintez\" and the enemy's training ground...",
     "title_uk": "НПЗ \"Лукойл-Пермнефтеоргсинтез\" і полігон ворога...",
-    "description": "Refinery \"Lukoil-Permnefteorgsintez\" and the enemy's training ground were hit ⚡️ On July 29 and on the night of July 30, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged a number of important enemy facilities. ⚡️Yes, on July 29, damage was caused to the oil refinery \"Lukoil-Permnefteorgsintez\" in Perm of the Perm Territory of the Russian Federation. 🔥Fixed a hit in...",
-    "description_en": "Refinery \"Lukoil-Permnefteorgsintez\" and the enemy's training ground were hit ⚡️ On July 29 and on the night of July 30, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged a number of important enemy facilities. ⚡️Yes, on July 29, damage was caused to the oil refinery \"Lukoil-Permnefteorgsintez\" in Perm of the Perm Territory of the Russian Federation. 🔥Fixed a hit in...",
+    "description": "Refinery \"Lukoil-Permnefteorgsintez\" and the enemy's training ground were hit ⚡️ On July 29 and on the night of July 30, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged a number of important enemy facilities. ⚡️Yes, on July 29, damage was caused to the oil refinery \"Lukoil-Permnefteorgsintez\" in Perm of the Perm Territory of the Russian Federation. 🔥Fixed hit in...",
+    "description_en": "Refinery \"Lukoil-Permnefteorgsintez\" and the enemy's training ground were hit ⚡️ On July 29 and on the night of July 30, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged a number of important enemy facilities. ⚡️Yes, on July 29, damage was caused to the oil refinery \"Lukoil-Permnefteorgsintez\" in Perm of the Perm Territory of the Russian Federation. 🔥Fixed hit in...",
     "description_uk": "Уражено НПЗ \"Лукойл-Пермнефтеоргсинтез\" та полігон противника ⚡️29 липня та в ніч на 30 липня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України завдали ураження низці важливих об'єктів противника. ⚡️Так, 29 липня завдано ураження нафтопереробному заводу \"Лукойл-Пермнефтеоргсинтез\" у Пермі Пермського краю рф. 🔥Зафіксовано влучання в...",
     "time": "",
     "pubDate": "2026-07-30T08:05:04+00:00",
@@ -320,7 +302,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41628",
     "score": 7.5,
-    "views": 17635,
+    "views": 17695,
     "forwards": 126
   },
   {
@@ -338,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41626",
     "score": 13.0,
-    "views": 5772,
+    "views": 5790,
     "forwards": 24
   },
   {
@@ -356,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9752",
     "score": 13.0,
-    "views": 3617,
+    "views": 3625,
     "forwards": 26
   },
   {
@@ -410,7 +392,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23691",
     "score": 8.5,
-    "views": 182168,
+    "views": 182414,
     "forwards": 104
   }
 ]
