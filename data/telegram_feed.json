@@ -1,5 +1,41 @@
 [
   {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "A jet UAV in the direction of Poltava region from Dnipropetrovsk region.",
+    "description_en": "A jet UAV in the direction of Poltava region from Dnipropetrovsk region.",
+    "description_uk": "Реактивний БпЛА в напрямку Полтавщини з Дніпропетровщини.",
+    "time": "",
+    "pubDate": "2026-07-31T16:17:57+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70931",
+    "score": 6.0,
+    "views": 7074,
+    "forwards": 1
+  },
+  {
+    "title": "Sumy: BpLA in the area of ​​Sumy and in the direction of Krolevets...",
+    "title_en": "Sumy: BpLA in the area of ​​Sumy and in the direction of Krolevets...",
+    "title_uk": "Суми: БПЛА в районі Сум та в напрямку Кролевця...",
+    "description": "Sumy: BpLA in the area of ​​Sumy and in the direction of Krolevets and Konotop.",
+    "description_en": "Sumy: BpLA in the area of ​​Sumy and in the direction of Krolevets and Konotop.",
+    "description_uk": "Сумщина: БпЛА в районі Сум та у напрямку Кролевця і Конотопа.",
+    "time": "",
+    "pubDate": "2026-07-31T16:16:21+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70930",
+    "score": 5.0,
+    "views": 10113,
+    "forwards": 0
+  },
+  {
     "title": "Kirovohrad region: BpLA passes Kompaniivka on a northerly course.",
     "title_en": "Kirovohrad region: BpLA passes Kompaniivka on a northerly course.",
     "title_uk": "Кіровоградська область: БпЛА проходить Компаніївку на північному курсі.",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54567",
     "score": 4.0,
-    "views": 1214,
-    "forwards": 2
+    "views": 1694,
+    "forwards": 3
   },
   {
     "title": "Crimea: Airstrike attack",
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54566",
     "score": 4.0,
-    "views": 1495,
+    "views": 1894,
     "forwards": 1
   },
   {
@@ -121,9 +157,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20250",
-    "score": 4.5,
-    "views": 130100,
-    "forwards": 197
+    "score": 5.5,
+    "views": 146340,
+    "forwards": 216
   },
   {
     "title": "Kharkiv: A high-speed target in the Kharkiv region in the direction of Veliky...",
@@ -176,7 +212,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41653",
     "score": 6.0,
-    "views": 4683,
+    "views": 4942,
     "forwards": 10
   },
   {
@@ -212,8 +248,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41652",
     "score": 12.0,
-    "views": 9726,
-    "forwards": 99
+    "views": 10290,
+    "forwards": 102
   },
   {
     "title": "Airstrike attack",
@@ -230,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9758",
     "score": 5.0,
-    "views": 616,
+    "views": 709,
     "forwards": 2
   },
   {
@@ -306,42 +342,6 @@
     "forwards": 20
   },
   {
-    "title": "A jet UAV from Odesa to Vinnytsia on a northwesterly course.",
-    "title_en": "A jet UAV from Odesa to Vinnytsia on a northwesterly course.",
-    "title_uk": "Реактивний БПЛА з Одеси на Вінницю північно-західним курсом.",
-    "description": "A jet UAV from Odesa to Vinnytsia on a northwesterly course.",
-    "description_en": "A jet UAV from Odesa to Vinnytsia on a northwesterly course.",
-    "description_uk": "Реактивний БпЛА з Одещини на Вінниччину північно-західним курсом.",
-    "time": "",
-    "pubDate": "2026-07-31T04:05:23+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Vinnytsia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70841",
-    "score": 5.0,
-    "views": 37332,
-    "forwards": 34
-  },
-  {
-    "title": "Kyiv: Jet UAV to Kyiv through the Kyiv Reservoir.",
-    "title_en": "Kyiv: Jet UAV to Kyiv through the Kyiv Reservoir.",
-    "title_uk": "Київ: Реактивний БПЛА до Києва через Київське водосховище.",
-    "description": "Jet UAV to Kyiv through the Kyiv Reservoir.",
-    "description_en": "Jet UAV to Kyiv through the Kyiv Reservoir.",
-    "description_uk": "Реактивний БпЛА на Київ через Київське водосховище.",
-    "time": "",
-    "pubDate": "2026-07-31T04:02:32+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70839",
-    "score": 6.0,
-    "views": 38334,
-    "forwards": 0
-  },
-  {
     "title": "Drone strike near civilians",
     "title_en": "Drone strike near civilians",
     "title_uk": "Удар безпілотників поблизу мирних жителів",
@@ -410,8 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20248",
     "score": 10.5,
-    "views": 81619,
-    "forwards": 86
+    "views": 83114,
+    "forwards": 88
   },
   {
     "title": "🇸 The USA still receives almost 26% of uranium enrichment services...",
@@ -428,8 +428,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23697",
     "score": 8.0,
-    "views": 153543,
-    "forwards": 275
+    "views": 155519,
+    "forwards": 276
   },
   {
     "title": "🇵🇱 The head of the Ministry of Foreign Affairs of Ukraine Andriy...",
@@ -446,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9755",
     "score": 5.0,
-    "views": 1377,
+    "views": 1397,
     "forwards": 15
   }
 ]
