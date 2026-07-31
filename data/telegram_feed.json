@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "A group of strike UAVs from the Black Sea to Serhiyivka.",
+    "description_en": "A group of strike UAVs from the Black Sea to Serhiyivka.",
+    "description_uk": "Група ударних БпЛА з Чорного моря на Сергіївку.",
+    "time": "",
+    "pubDate": "2026-07-31T20:34:36+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70950",
+    "score": 5.0,
+    "views": 14188,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -32,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54576",
     "score": 6.0,
-    "views": 1129,
+    "views": 1395,
     "forwards": 3
   },
   {
@@ -68,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54575",
     "score": 6.0,
-    "views": 1249,
+    "views": 1479,
     "forwards": 2
   },
   {
@@ -230,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20250",
     "score": 5.5,
-    "views": 170946,
-    "forwards": 222
+    "views": 175070,
+    "forwards": 225
   },
   {
     "title": "Kharkiv: A high-speed target in the Kharkiv region in the direction of Veliky...",
@@ -284,7 +302,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41653",
     "score": 6.0,
-    "views": 5430,
+    "views": 5528,
     "forwards": 11
   },
   {
@@ -302,8 +320,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41652",
     "score": 12.0,
-    "views": 11224,
-    "forwards": 105
+    "views": 11421,
+    "forwards": 106
   },
   {
     "title": "Airstrike attack",
@@ -320,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9758",
     "score": 5.0,
-    "views": 852,
+    "views": 884,
     "forwards": 2
   },
   {
@@ -392,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20248",
     "score": 10.5,
-    "views": 85788,
+    "views": 86399,
     "forwards": 88
   },
   {
@@ -410,8 +428,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23697",
     "score": 8.0,
-    "views": 160806,
-    "forwards": 276
+    "views": 162054,
+    "forwards": 287
   },
   {
     "title": "🇵🇱 The head of the Ministry of Foreign Affairs of Ukraine Andriy...",
@@ -428,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9755",
     "score": 5.0,
-    "views": 1416,
+    "views": 1424,
     "forwards": 15
   }
 ]
