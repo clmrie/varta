@@ -1,5 +1,41 @@
 [
   {
+    "title": "BpLA ➡️ in the direction of Poltava from the northeast.",
+    "title_en": "BpLA ➡️ in the direction of Poltava from the northeast.",
+    "title_uk": "BpLA ➡️ в напрямку Полтави з північного сходу.",
+    "description": "BpLA ➡️ in the direction of Poltava from the northeast.",
+    "description_en": "BpLA ➡️ in the direction of Poltava from the northeast.",
+    "description_uk": "БпЛА ➡️ у напрямку Полтави з північного сходу.",
+    "time": "",
+    "pubDate": "2026-08-01T01:15:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70994",
+    "score": 5.0,
+    "views": 1030,
+    "forwards": 1
+  },
+  {
+    "title": "BpLA past Khotyn ➡️ in the direction of Sumy.",
+    "title_en": "BpLA past Khotyn ➡️ in the direction of Sumy.",
+    "title_uk": "BpLA повз Хотин ➡️ в напрямку Сум.",
+    "description": "BpLA past Khotyn ➡️ in the direction of Sumy.",
+    "description_en": "BpLA past Khotyn ➡️ in the direction of Sumy.",
+    "description_uk": "БпЛА повз Хотінь ➡️ у напрямку Сум.",
+    "time": "",
+    "pubDate": "2026-08-01T01:04:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/70993",
+    "score": 5.0,
+    "views": 9135,
+    "forwards": 1
+  },
+  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Київ: Зафіксовано пуск балістичної ракети",
@@ -14,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54581",
     "score": 18.0,
-    "views": 1,
-    "forwards": 0
+    "views": 771,
+    "forwards": 1
   },
   {
     "title": "Kyiv: Drone incoming",
@@ -270,24 +306,6 @@
     "forwards": 0
   },
   {
-    "title": "Kyiv: 101 missiles launched",
-    "title_en": "Kyiv: 101 missiles launched",
-    "title_uk": "Київ: запущено 101 ракету",
-    "description": "Poland confirms Russian Kh-101 missile fell in Lublin region during mass attack on Ukraine. \"It was a provocation, an intention, an alliance test. In this case, the next weeks will probably give us more answers,\" Polish Deputy Defense Minister Cezary Tomczyk said.",
-    "description_en": "Poland confirms Russian Kh-101 missile fell in Lublin region during mass attack on Ukraine. \"It was a provocation, an intention, an alliance test. In this case, the next weeks will probably give us more answers,\" Polish Deputy Defense Minister Cezary Tomczyk said.",
-    "description_uk": "Poland confirms Russian Kh-101 missile fell in Lublin region during mass attack on Ukraine. \"It was a provocation, an intention, an alliance test. In this case, the next weeks will probably give us more answers,\" Polish Deputy Defense Minister Cezary Tomczyk said.",
-    "time": "",
-    "pubDate": "2026-07-31T12:34:18+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54567",
-    "score": 4.0,
-    "views": 1694,
-    "forwards": 3
-  },
-  {
     "title": "Kharkiv: High-speed targets on the border of Kharkiv region from the north.",
     "title_en": "Kharkiv: High-speed targets on the border of Kharkiv region from the north.",
     "title_uk": "Харків: Швидкісні цілі на кордоні Харківської області з півночі.",
@@ -320,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20250",
     "score": 5.5,
-    "views": 185809,
-    "forwards": 229
+    "views": 187639,
+    "forwards": 230
   },
   {
     "title": "Kharkiv: A high-speed target in the Kharkiv region in the direction of Veliky...",
@@ -356,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41653",
     "score": 6.0,
-    "views": 5687,
+    "views": 5721,
     "forwards": 11
   },
   {
@@ -374,7 +392,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41652",
     "score": 12.0,
-    "views": 11755,
+    "views": 11801,
     "forwards": 107
   },
   {
@@ -392,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9758",
     "score": 5.0,
-    "views": 935,
+    "views": 946,
     "forwards": 2
   },
   {
@@ -430,23 +448,5 @@
     "score": 8.5,
     "views": 157136,
     "forwards": 643
-  },
-  {
-    "title": "Kyiv: Wildberries facilities, oil refineries reportedly struck in Russia....",
-    "title_en": "Kyiv: Wildberries facilities, oil refineries reportedly struck in Russia....",
-    "title_uk": "Київ: У Росії зафіксовано удари по заводах Wildberries, нафтопереробним заводам....",
-    "description": "Wildberries facilities, oil refineries reportedly struck in Russia. Multiple Wildberries facilities and oil refineries were reportedly hit in Russia's Volgograd, Tatarstan, and Krasnodar regions overnight on July 31.",
-    "description_en": "Wildberries facilities, oil refineries reportedly struck in Russia. Multiple Wildberries facilities and oil refineries were reportedly hit in Russia's Volgograd, Tatarstan, and Krasnodar regions overnight on July 31.",
-    "description_uk": "Wildberries facilities, oil refineries reportedly struck in Russia. Multiple Wildberries facilities and oil refineries were reportedly hit in Russia's Volgograd, Tatarstan, and Krasnodar regions overnight on July 31.",
-    "time": "",
-    "pubDate": "2026-07-31T02:08:56+00:00",
-    "category": "shelling",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54564",
-    "score": 8.0,
-    "views": 2392,
-    "forwards": 1
   }
 ]
