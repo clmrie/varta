@@ -1,5 +1,77 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "BpLA on n.p. Buryn and Konotop in Sumy Oblast. 🛵 UAV in the direction of Odesa/Mykolaiv Oblast from the sea.",
+    "description_en": "BpLA on n.p. Buryn and Konotop in Sumy Oblast. 🛵 UAV in the direction of Odesa/Mykolaiv Oblast from the sea.",
+    "description_uk": "БпЛА на н.п. Буринь та Конотоп на Сумщині. 🛵 БпЛА в напрямку Одещини/Миколаївщини з моря.",
+    "time": "",
+    "pubDate": "2026-08-01T09:14:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71046",
+    "score": 6.0,
+    "views": 13144,
+    "forwards": 0
+  },
+  {
+    "title": "In Arcadia in Odessa, a plane just arrived in the Kadorr residential...",
+    "title_en": "In Arcadia in Odessa, a plane just arrived in the Kadorr residential...",
+    "title_uk": "В Аркадії в Одесі літак щойно прибув до ЖК Кадорр...",
+    "description": "In Arcadia in Odessa, a plane just arrived in the Kadorr residential complex. A major fire breaks out in the building.",
+    "description_en": "In Arcadia in Odessa, a plane just arrived in the Kadorr residential complex. A major fire breaks out in the building.",
+    "description_uk": "В Аркадии в Одессе только что был прилет в жилой комплекс Кадорр В здании начинается крупный пожар.",
+    "time": "",
+    "pubDate": "2026-08-01T08:39:43+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/197439",
+    "score": 5.5,
+    "views": 50038,
+    "forwards": 422
+  },
+  {
+    "title": "UAV to Odesa from the water area.",
+    "title_en": "UAV to Odesa from the water area.",
+    "title_uk": "БПЛА на Одесу з акваторії.",
+    "description": "UAV to Odesa from the water area.",
+    "description_en": "UAV to Odesa from the water area.",
+    "description_uk": "БпЛА на Одесу з акваторії.",
+    "time": "",
+    "pubDate": "2026-08-01T08:26:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71039",
+    "score": 5.0,
+    "views": 55675,
+    "forwards": 0
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "👎 The Russians have a new attack tactic: first high-explosive ballistics arrive, and after 10-15 minutes a rocket with a cluster warhead, - People's Deputy Fedienko According to him, it is aimed at killing everyone around: firefighters, doctors, police and ordinary people. This is how 22-year-old patrol policeman Egor Terekhin died today, who helped people on the spot during the enemy attack on the capital at night together with his partner...",
+    "description_en": "👎 The Russians have a new attack tactic: first high-explosive ballistics arrive, and after 10-15 minutes a rocket with a cluster warhead, - People's Deputy Fedienko According to him, it is aimed at killing everyone around: firefighters, doctors, police and ordinary people. This is how 22-year-old patrol policeman Egor Terekhin died today, who helped people on the spot during the enemy attack on the capital at night together with his partner...",
+    "description_uk": "👎 У русни новая тактика ударов: сначала прилетает фугасная баллистика, а через 10-15 минут ракета с кассетной боевой частью, - нардеп Федиенко По его словам, это направлено на убийство всех вокруг: пожарных, врачей, полиции и обычных людей. Так сегодня погиб 22-летний патрульный полицейский Егор Терехин, который ночью во время вражеской атаки на столицу вместе с напарником помогал людям на месте...",
+    "time": "",
+    "pubDate": "2026-08-01T08:26:34+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/197438",
+    "score": 4.5,
+    "views": 60651,
+    "forwards": 143
+  },
+  {
     "title": "Kyiv: 9 killed, 28 injured",
     "title_en": "Kyiv: 9 killed, 28 injured",
     "title_uk": "Київ: 9 загиблих, 28 поранених",
@@ -14,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54585",
     "score": 18.0,
-    "views": 1,
+    "views": 1006,
     "forwards": 0
   },
   {
@@ -56,9 +128,9 @@
   {
     "title": "Donetsk: Drone incoming",
     "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Donetsk: Drone incoming",
-    "description": "156 TARGETS DESTROYED/SUPPRESSED On the night of August 1 (from 18:00 on July 31), the enemy attacked with the use of attack UAVs, as well as air and ground-based missiles of various types. ❗️ The main direction of the attack is Kyiv Region. Dnipropetrovsk region, Sumy region, Kharkiv region and Poltava region were also attacked. A total of 358 means of air attack were recorded by the radio engineering troops of the Air Force - 35...",
-    "description_en": "156 TARGETS DESTROYED/SUPPRESSED On the night of August 1 (from 18:00 on July 31), the enemy attacked with the use of attack UAVs, as well as air and ground-based missiles of various types. ❗️ The main direction of the attack is Kyiv Region. Dnipropetrovsk region, Sumy region, Kharkiv region and Poltava region were also attacked. A total of 358 means of air attack were recorded by the radio engineering troops of the Air Force - 35...",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "156 TARGETS DESTROYED/SUPPRESSED On the night of August 1 (from 18:00 on July 31), the enemy attacked with the use of attack UAVs, as well as air and ground-based missiles of various types. ❗️ The main direction of the attack is Kyiv region. Dnipropetrovsk region, Sumy region, Kharkiv region and Poltava region were also attacked. A total of 358 means of air attack were recorded by the radio engineering troops of the Air Force - 35...",
+    "description_en": "156 TARGETS DESTROYED/SUPPRESSED On the night of August 1 (from 18:00 on July 31), the enemy attacked with the use of attack UAVs, as well as air and ground-based missiles of various types. ❗️ The main direction of the attack is Kyiv region. Dnipropetrovsk region, Sumy region, Kharkiv region and Poltava region were also attacked. A total of 358 means of air attack were recorded by the radio engineering troops of the Air Force - 35...",
     "description_uk": "ЗБИТО/ПОДАВЛЕНО 156 ЦІЛЕЙ ➖➖➖➖➖➖➖➖➖➖ У ніч на 01 серпня (з 18:00 31 липня), противник завдав удару із застосуванням ударних БпЛА, а також ракет повітряного та наземного базування різних типів. ❗️ Основний напрямок удару – Київщина. Також атаковано Дніпропетровщину, Сумщину, Харківщину та Полтавщину. Усього радіотехнічними військами Повітряних Сил зафіксовано 358 засобів повітряного нападу – 35...",
     "time": "",
     "pubDate": "2026-08-01T06:56:52+00:00",
@@ -68,15 +140,15 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41689",
     "score": 18.0,
-    "views": 1502,
-    "forwards": 17
+    "views": 4770,
+    "forwards": 27
   },
   {
     "title": "Kharkiv: Attack attack on infrastructure",
     "title_en": "Kharkiv: Attack attack on infrastructure",
     "title_uk": "Харків: Атака на інфраструктуру",
-    "description": "Since the night in Kyiv and the region, work has been going on to eliminate the consequences of the Russian attack. There were many fires in the city - seven districts were affected. And, as usual, the Russians hit ordinary residential buildings. 18 houses, a school, the Lithuanian embassy and infrastructure facilities were damaged. As of now, nine people are known to have died as a result of this attack. My condolences to family and friends. Dozens of people were injured...",
-    "description_en": "Since the night in Kyiv and the region, work has been going on to eliminate the consequences of the Russian attack. There were many fires in the city - seven districts were affected. And, as usual, the Russians hit ordinary residential buildings. 18 houses, a school, the Lithuanian embassy and infrastructure facilities were damaged. As of now, nine people are known to have died as a result of this attack. My condolences to family and friends. Dozens of people were injured...",
+    "description": "Since the night in Kyiv and the region, work has been going on to eliminate the consequences of the Russian attack. There were many fires in the city - seven districts were affected. And, as usual, the Russians hit ordinary residential buildings. 18 buildings, a school, the Lithuanian embassy and infrastructure facilities were damaged. As of now, nine people are known to have died as a result of this attack. My condolences to family and friends. Dozens of people were injured...",
+    "description_en": "Since the night in Kyiv and the region, work has been going on to eliminate the consequences of the Russian attack. There were many fires in the city - seven districts were affected. And, as usual, the Russians hit ordinary residential buildings. 18 buildings, a school, the Lithuanian embassy and infrastructure facilities were damaged. As of now, nine people are known to have died as a result of this attack. My condolences to family and friends. Dozens of people were injured...",
     "description_uk": "З ночі у Києві та області тривають роботи з ліквідації наслідків російського удару. Багато пожеж було в місті – сім районів постраждали. І, як зазвичай, росіяни вдарили по звичайних житлових будинках. Пошкоджено 18 будинків, школа, посольство Литви та об’єкти інфраструктури. Станом на зараз відомо, що дев’ять людей загинули через цю атаку. Мої співчуття рідним і близьким. Десятки людей поранено....",
     "time": "",
     "pubDate": "2026-08-01T06:51:15+00:00",
@@ -85,9 +157,9 @@
     "location": "Kharkiv",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20254",
-    "score": 18.5,
-    "views": 43764,
-    "forwards": 199
+    "score": 19.5,
+    "views": 154759,
+    "forwards": 447
   },
   {
     "title": "Kherson: A warehouse of sea unmanned boats, railway bridges, a division of the...",
@@ -104,26 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41688",
     "score": 5.0,
-    "views": 3109,
-    "forwards": 58
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "One of the episodes of the nighttime missile attack on Kyiv, distributed in the networks. The frame shows a number of flights and the work of air defense. According to the monitors, the Russians pounded Kiev with almost all of the ballistic/hypersonic weapons they had in readiness.",
-    "description_en": "One of the episodes of the nighttime missile attack on Kyiv, distributed in the networks. The frame shows a number of flights and the work of air defense. According to the monitors, the Russians pounded Kiev with almost all of the ballistic/hypersonic weapons they had in readiness.",
-    "description_uk": "Один из эпизодов ночного ракетного обстрела Киева, распространяемые в сети На кадра виден ряд прилетов и работа ПВО. По данным мониторов, русня лупила по Киеву практически всем из находившегося у них в готовности баллистического/гиперзвукового вооружения.",
-    "time": "",
-    "pubDate": "2026-08-01T06:07:27+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/197426",
-    "score": 4.5,
-    "views": 73547,
-    "forwards": 170
+    "views": 7570,
+    "forwards": 89
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -140,8 +194,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9761",
     "score": 15.0,
-    "views": 553,
-    "forwards": 6
+    "views": 838,
+    "forwards": 8
   },
   {
     "title": "Izmail: Drone incoming",
@@ -194,8 +248,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54583",
     "score": 14.0,
-    "views": 1331,
-    "forwards": 10
+    "views": 1843,
+    "forwards": 12
   },
   {
     "title": "BpLA ➡️ in the direction of Poltava from the northeast.",
@@ -324,24 +378,6 @@
     "forwards": 1
   },
   {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "A group of strike UAVs from the Black Sea to Serhiyivka.",
-    "description_en": "A group of strike UAVs from the Black Sea to Serhiyivka.",
-    "description_uk": "Група ударних БпЛА з Чорного моря на Сергіївку.",
-    "time": "",
-    "pubDate": "2026-07-31T20:34:36+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70950",
-    "score": 5.0,
-    "views": 14188,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Russia's war of conquest and its war on civilians “Clearly, the...",
     "title_en": "Kyiv: Russia's war of conquest and its war on civilians “Clearly, the...",
     "title_uk": "Київ: загарбницька війна Росії та її війна проти мирного населення «Очевидно, що...",
@@ -410,43 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20250",
     "score": 5.5,
-    "views": 200435,
+    "views": 204710,
     "forwards": 230
-  },
-  {
-    "title": "Kharkiv: A high-speed target in the Kharkiv region in the direction of Veliky...",
-    "title_en": "Kharkiv: A high-speed target in the Kharkiv region in the direction of Veliky...",
-    "title_uk": "Харків: Швидкісна ціль у Харківській області в напрямку Великого...",
-    "description": "A high-speed target in the Kharkiv region in the direction of Veliky Burluk from the north.",
-    "description_en": "A high-speed target in the Kharkiv region in the direction of Veliky Burluk from the north.",
-    "description_uk": "Швидкісна ціль на Харківщині в напрямку Великого Бурлука з півночі.",
-    "time": "",
-    "pubDate": "2026-07-31T10:01:54+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70902",
-    "score": 6.0,
-    "views": 16153,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
-    "description": "Psychological training of Ukrainian servicemen in Norway as part of the GUNGNE operation The ability to master stress is a critical skill for a serviceman. During combat operations, the body and psyche work at the limit of their capabilities, so the ability to maintain concentration, manage emotions and act effectively under pressure directly affects the success of the combat mission and the preservation of life. Ukrainian...",
-    "description_en": "Psychological training of Ukrainian servicemen in Norway as part of the GUNGNE operation The ability to master stress is a critical skill for a serviceman. During combat operations, the body and psyche work at the limit of their capabilities, so the ability to maintain concentration, manage emotions and act effectively under pressure directly affects the success of the combat mission and the preservation of life. Ukrainian...",
-    "description_uk": "Психологічна підготовка українських військовослужбовців у Норвегії в межах операції GUNGNE Уміння опановувати стрес — критична навичка для військовослужбовця. Під час бойових дій організм і психіка працюють на межі можливостей, тому здатність зберігати концентрацію, керувати емоціями та ефективно діяти під тиском безпосередньо впливає на успіх бойового завдання та збереження життя. Українські...",
-    "time": "",
-    "pubDate": "2026-07-31T09:28:56+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41653",
-    "score": 6.0,
-    "views": 5925,
-    "forwards": 11
   }
 ]
