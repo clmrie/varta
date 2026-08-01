@@ -1,5 +1,77 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAVs in the direction of Kharkiv and Sumy from the north.",
+    "description_en": "UAVs in the direction of Kharkiv and Sumy from the north.",
+    "description_uk": "БпЛА в напрямку Харкова та Сум з півночі.",
+    "time": "",
+    "pubDate": "2026-08-01T14:37:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71085",
+    "score": 5.0,
+    "views": 10128,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: BpLA on Kholmy from the south in Chernihiv Oblast.",
+    "title_en": "Chernihiv: BpLA on Kholmy from the south in Chernihiv Oblast.",
+    "title_uk": "Чернігів: БпЛА на Холми з півдня Чернігівської обл.",
+    "description": "BpLA on Kholmy from the south in Chernihiv Oblast.",
+    "description_en": "BpLA on Kholmy from the south in Chernihiv Oblast.",
+    "description_uk": "БпЛА на Холми з півдня на Чернігівщині.",
+    "time": "",
+    "pubDate": "2026-08-01T14:35:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71084",
+    "score": 6.0,
+    "views": 12155,
+    "forwards": 0
+  },
+  {
+    "title": "400 missiles launched",
+    "title_en": "400 missiles launched",
+    "title_uk": "Випущено 400 ракет",
+    "description": "😳 Kyiv has become a full-fledged front-line city from the point of view of air attacks, - serviceman of the Ukrainian Armed Forces Musyenko According to Alexander Musyenko, Russia can now regularly carry out combined strikes on the capital using S-400 missiles from the territory of the Bryansk and Kursk regions. He believes that the enemy is capable of conducting 3-4 large-scale attacks per month, releasing up to 70-80 missiles at a time and several hundred...",
+    "description_en": "😳 Kyiv has become a full-fledged front-line city from the point of view of air attacks, - serviceman of the Ukrainian Armed Forces Musyenko According to Alexander Musyenko, Russia can now regularly carry out combined strikes on the capital using S-400 missiles from the territory of the Bryansk and Kursk regions. He believes that the enemy is capable of conducting 3-4 large-scale attacks per month, releasing up to 70-80 missiles at a time and several hundred...",
+    "description_uk": "😳 Киев стал полноценным прифронтовым городом с точки зрения воздушных атак, - военнослужащий ВСУ Мусиенко По словам Александра Мусиенко, россия теперь может регулярно наносить по столице комбинированные удары, используя ракеты С-400 с территории Брянской и Курской областей. Он считает, что противник способен проводить 3-4 масштабные атаки в месяц, выпуская за раз до 70-80 ракет и несколько сотен...",
+    "time": "",
+    "pubDate": "2026-08-01T14:27:51+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kursk",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/197478",
+    "score": 3.5,
+    "views": 24801,
+    "forwards": 140
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "\"Flash\" showed the internals of the Shahed jet, which hit the ROZETKA warehouse. Sergey Beskrestnov said that the warehouse was not the main target of the Russian drone. According to his version, the controlled \"Geran-4\" noticed minibuses in the parking lot and hit them. A person died as a result of the attack. \"Flash\" also noted that decisions on the use of ballistic missiles and rocket-propelled \"Shakhedov\" in Russia are being made...",
+    "description_en": "\"Flash\" showed the internals of the Shahed jet, which hit the ROZETKA warehouse. Sergey Beskrestnov said that the warehouse was not the main target of the Russian drone. According to his version, the controlled \"Geran-4\" noticed minibuses in the parking lot and hit them. A person died as a result of the attack. \"Flash\" also noted that decisions on the use of ballistic missiles and rocket-propelled \"Shakhedov\" in Russia are being made...",
+    "description_uk": "\"Флэш\" показал внутренности реактивного \"Шахеда\", который ударил по складу ROZETKA Сергей Бескрестнов заявил, что склад не был основной целью российского дрона. По его версии, управляемая \"Герань-4\" заметила микроавтобусы на парковке и ударила по ним. В результате атаки погиб человек. \"Флэш\" также отметил, что решения о применении баллистических ракет и реактивных \"Шахедов\" в россии принимаются...",
+    "time": "",
+    "pubDate": "2026-08-01T13:58:56+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/197473",
+    "score": 5.0,
+    "views": 48447,
+    "forwards": 36
+  },
+  {
     "title": "Zaporizhzhia: Drone incoming",
     "title_en": "Zaporizhzhia: Drone incoming",
     "title_uk": "Запоріжжя: Дрон вхід",
@@ -50,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54587",
     "score": 10.0,
-    "views": 656,
-    "forwards": 0
+    "views": 1120,
+    "forwards": 1
   },
   {
     "title": "The occupiers are launching new, as yet unidentified types of UAVs in...",
@@ -110,7 +182,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
+    "title_uk": "Київ: повідомляється про вибухи",
     "description": "Drones reportedly spark fires at major Russian oil refinery in Ufa more than 1,300 kilometers from Ukraine's border. Geolocated footage by the independent Russian outlet ASTRA showed two columns of black smoke rising from the refinery. Local residents reported hearing explosions and seeing drones over the city.",
     "description_en": "Drones reportedly spark fires at major Russian oil refinery in Ufa more than 1,300 kilometers from Ukraine's border. Geolocated footage by the independent Russian outlet ASTRA showed two columns of black smoke rising from the refinery. Local residents reported hearing explosions and seeing drones over the city.",
     "description_uk": "Drones reportedly spark fires at major Russian oil refinery in Ufa more than 1,300 kilometers from Ukraine's border. Geolocated footage by the independent Russian outlet ASTRA showed two columns of black smoke rising from the refinery. Local residents reported hearing explosions and seeing drones over the city.",
@@ -122,8 +194,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54586",
     "score": 8.0,
-    "views": 1355,
-    "forwards": 0
+    "views": 1663,
+    "forwards": 1
   },
   {
     "title": "376 missiles launched",
@@ -234,24 +306,6 @@
     "forwards": 0
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "👎 The Russians have a new attack tactic: first high-explosive ballistics arrive, and after 10-15 minutes a rocket with a cluster warhead, - People's Deputy Fedienko According to him, it is aimed at killing everyone around: firefighters, doctors, police and ordinary people. This is how 22-year-old patrol policeman Egor Terekhin died today, who helped people on the spot during the enemy attack on the capital at night together with his partner...",
-    "description_en": "👎 The Russians have a new attack tactic: first high-explosive ballistics arrive, and after 10-15 minutes a rocket with a cluster warhead, - People's Deputy Fedienko According to him, it is aimed at killing everyone around: firefighters, doctors, police and ordinary people. This is how 22-year-old patrol policeman Egor Terekhin died today, who helped people on the spot during the enemy attack on the capital at night together with his partner...",
-    "description_uk": "👎 У русни новая тактика ударов: сначала прилетает фугасная баллистика, а через 10-15 минут ракета с кассетной боевой частью, - нардеп Федиенко По его словам, это направлено на убийство всех вокруг: пожарных, врачей, полиции и обычных людей. Так сегодня погиб 22-летний патрульный полицейский Егор Терехин, который ночью во время вражеской атаки на столицу вместе с напарником помогал людям на месте...",
-    "time": "",
-    "pubDate": "2026-08-01T08:26:34+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/197438",
-    "score": 4.5,
-    "views": 60651,
-    "forwards": 143
-  },
-  {
     "title": "Kyiv: 9 killed, 28 injured",
     "title_en": "Kyiv: 9 killed, 28 injured",
     "title_uk": "Київ: 9 загиблих, 28 поранених",
@@ -309,8 +363,8 @@
     "title": "Donetsk: Drone incoming",
     "title_en": "Donetsk: Drone incoming",
     "title_uk": "Донецьк: Дрон вхід",
-    "description": "156 TARGETS DESTROYED/SUPPRESSED On the night of August 1 (from 18:00 on July 31), the enemy attacked with the use of attack UAVs, as well as air and ground-based missiles of various types. ❗️ The main direction of the attack is Kyiv region. Dnipropetrovsk region, Sumy region, Kharkiv region and Poltava region were also attacked. A total of 358 means of air attack were recorded by the radio engineering troops of the Air Force - 35...",
-    "description_en": "156 TARGETS DESTROYED/SUPPRESSED On the night of August 1 (from 18:00 on July 31), the enemy attacked with the use of attack UAVs, as well as air and ground-based missiles of various types. ❗️ The main direction of the attack is Kyiv region. Dnipropetrovsk region, Sumy region, Kharkiv region and Poltava region were also attacked. A total of 358 means of air attack were recorded by the radio engineering troops of the Air Force - 35...",
+    "description": "156 TARGETS DESTROYED/SUPPRESSED On the night of August 1 (from 18:00 on July 31), the enemy attacked with the use of attack UAVs, as well as air and ground-based missiles of various types. ❗️ The main direction of the attack is Kyiv Region. Dnipropetrovsk region, Sumy region, Kharkiv region and Poltava region were also attacked. A total of 358 means of air attack were recorded by the radio engineering troops of the Air Force - 35...",
+    "description_en": "156 TARGETS DESTROYED/SUPPRESSED On the night of August 1 (from 18:00 on July 31), the enemy attacked with the use of attack UAVs, as well as air and ground-based missiles of various types. ❗️ The main direction of the attack is Kyiv Region. Dnipropetrovsk region, Sumy region, Kharkiv region and Poltava region were also attacked. A total of 358 means of air attack were recorded by the radio engineering troops of the Air Force - 35...",
     "description_uk": "ЗБИТО/ПОДАВЛЕНО 156 ЦІЛЕЙ ➖➖➖➖➖➖➖➖➖➖ У ніч на 01 серпня (з 18:00 31 липня), противник завдав удару із застосуванням ударних БпЛА, а також ракет повітряного та наземного базування різних типів. ❗️ Основний напрямок удару – Київщина. Також атаковано Дніпропетровщину, Сумщину, Харківщину та Полтавщину. Усього радіотехнічними військами Повітряних Сил зафіксовано 358 засобів повітряного нападу – 35...",
     "time": "",
     "pubDate": "2026-08-01T06:56:52+00:00",
@@ -320,15 +374,15 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41689",
     "score": 18.0,
-    "views": 6390,
+    "views": 6646,
     "forwards": 33
   },
   {
     "title": "Kharkiv: Attack attack on infrastructure",
     "title_en": "Kharkiv: Attack attack on infrastructure",
     "title_uk": "Харків: Атака на інфраструктуру",
-    "description": "Since the night in Kyiv and the region, work has been going on to eliminate the consequences of the Russian attack. There were many fires in the city - seven districts were affected. And, as usual, the Russians hit ordinary residential buildings. 18 buildings, a school, the Lithuanian embassy and infrastructure facilities were damaged. As of now, nine people are known to have died as a result of this attack. My condolences to family and friends. Dozens of people were injured...",
-    "description_en": "Since the night in Kyiv and the region, work has been going on to eliminate the consequences of the Russian attack. There were many fires in the city - seven districts were affected. And, as usual, the Russians hit ordinary residential buildings. 18 buildings, a school, the Lithuanian embassy and infrastructure facilities were damaged. As of now, nine people are known to have died as a result of this attack. My condolences to family and friends. Dozens of people were injured...",
+    "description": "Since the night in Kyiv and the region, work has been going on to eliminate the consequences of the Russian attack. There were many fires in the city - seven districts were affected. And, as usual, the Russians hit ordinary residential buildings. 18 houses, a school, the Lithuanian embassy and infrastructure facilities were damaged. As of now, nine people are known to have died as a result of this attack. My condolences to family and friends. Dozens of people were injured...",
+    "description_en": "Since the night in Kyiv and the region, work has been going on to eliminate the consequences of the Russian attack. There were many fires in the city - seven districts were affected. And, as usual, the Russians hit ordinary residential buildings. 18 houses, a school, the Lithuanian embassy and infrastructure facilities were damaged. As of now, nine people are known to have died as a result of this attack. My condolences to family and friends. Dozens of people were injured...",
     "description_uk": "З ночі у Києві та області тривають роботи з ліквідації наслідків російського удару. Багато пожеж було в місті – сім районів постраждали. І, як зазвичай, росіяни вдарили по звичайних житлових будинках. Пошкоджено 18 будинків, школа, посольство Литви та об’єкти інфраструктури. Станом на зараз відомо, що дев’ять людей загинули через цю атаку. Мої співчуття рідним і близьким. Десятки людей поранено....",
     "time": "",
     "pubDate": "2026-08-01T06:51:15+00:00",
@@ -338,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20254",
     "score": 19.5,
-    "views": 215801,
-    "forwards": 524
+    "views": 223792,
+    "forwards": 525
   },
   {
     "title": "Kherson: A warehouse of sea unmanned boats, railway bridges, a division of the...",
@@ -356,8 +410,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41688",
     "score": 5.0,
-    "views": 12002,
-    "forwards": 106
+    "views": 13680,
+    "forwards": 107
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -374,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9761",
     "score": 15.0,
-    "views": 957,
+    "views": 973,
     "forwards": 8
   },
   {
@@ -394,59 +448,5 @@
     "score": 6.0,
     "views": 7085,
     "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAVs from the Black Sea area ➡️ in the direction of Odesa (Bay).",
-    "description_en": "Jet UAVs from the Black Sea area ➡️ in the direction of Odesa (Bay).",
-    "description_uk": "Реактивні БпЛА з акваторії Чорного моря ➡️ в напрямку Одещини (Затока).",
-    "time": "",
-    "pubDate": "2026-08-01T03:33:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71017",
-    "score": 5.0,
-    "views": 32407,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: 9 killed, 23 injured",
-    "title_en": "Kyiv: 9 killed, 23 injured",
-    "title_uk": "Київ: 9 загиблих, 23 поранених",
-    "description": "Update: 9 killed, 23 injured in Kyiv as Russia launches 2nd major attack in 48 hours. In the Darnytskyi district alone, seven people were killed and another 14 were injured, the State Emergency Service reported.",
-    "description_en": "Update: 9 killed, 23 injured in Kyiv as Russia launches 2nd major attack in 48 hours. In the Darnytskyi district alone, seven people were killed and another 14 were injured, the State Emergency Service reported.",
-    "description_uk": "Update: 9 killed, 23 injured in Kyiv as Russia launches 2nd major attack in 48 hours. In the Darnytskyi district alone, seven people were killed and another 14 were injured, the State Emergency Service reported.",
-    "time": "",
-    "pubDate": "2026-08-01T03:26:43+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54583",
-    "score": 14.0,
-    "views": 1843,
-    "forwards": 12
-  },
-  {
-    "title": "Kyiv: Attack attack",
-    "title_en": "Kyiv: Attack attack",
-    "title_uk": "Київ: Атака",
-    "description": "Rubber plant on fire in Russia's Tatarstan, over 1,200 km from Ukrainian border. Nizhnekamskneftekhim (NKNK) is one of the largest petrochemical enterprises in Eastern Europe. It has previously been targeted in reported Ukrainian strikes.",
-    "description_en": "Rubber plant on fire in Russia's Tatarstan, over 1,200 km from Ukrainian border. Nizhnekamskneftekhim (NKNK) is one of the largest petrochemical enterprises in Eastern Europe. It has previously been targeted in reported Ukrainian strikes.",
-    "description_uk": "Rubber plant on fire in Russia's Tatarstan, over 1,200 km from Ukrainian border. Nizhnekamskneftekhim (NKNK) is one of the largest petrochemical enterprises in Eastern Europe. It has previously been targeted in reported Ukrainian strikes.",
-    "time": "",
-    "pubDate": "2026-07-31T21:25:03+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54579",
-    "score": 8.0,
-    "views": 761,
-    "forwards": 1
   }
 ]
