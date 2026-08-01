@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: BpLA from the north to Kharkiv.",
+    "title_en": "Kharkiv: BpLA from the north to Kharkiv.",
+    "title_uk": "Харків: БпЛА з півночі до Харк.",
+    "description": "BpLA from the north to Kharkiv.",
+    "description_en": "BpLA from the north to Kharkiv.",
+    "description_uk": "БпЛА з півночі на Харків.",
+    "time": "",
+    "pubDate": "2026-08-01T11:44:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71064",
+    "score": 6.0,
+    "views": 16187,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "A jet UAV from the north to Zaporizhzhia.",
+    "description_en": "A jet UAV from the north to Zaporizhzhia.",
+    "description_uk": "Реактивний БпЛА з півночі на Запоріжжя.",
+    "time": "",
+    "pubDate": "2026-08-01T11:25:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71061",
+    "score": 6.0,
+    "views": 34379,
+    "forwards": 0
+  },
+  {
     "title": "BpLA headed for Korosten from the north in Zhytomyr Oblast.",
     "title_en": "BpLA headed for Korosten from the north in Zhytomyr Oblast.",
     "title_uk": "BpLA прямувала на Коростень з півночі Житомирської області.",
@@ -32,15 +68,15 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54586",
     "score": 8.0,
-    "views": 311,
+    "views": 778,
     "forwards": 0
   },
   {
     "title": "376 missiles launched",
     "title_en": "376 missiles launched",
     "title_uk": "Випущено 376 ракет",
-    "description": "In July, Russia fired a record number of missiles at Ukraine In total, Moscow used 376 missiles to strike Ukraine last month - this figure is more than twice the number of missiles fired in June.",
-    "description_en": "In July, Russia fired a record number of missiles at Ukraine In total, Moscow used 376 missiles to strike Ukraine last month - this figure is more than twice the number of missiles fired in June.",
+    "description": "In July, Russia launched a record number of missiles at Ukraine In total, Moscow used 376 missiles to strike Ukraine last month - this figure is more than twice the number of missiles launched in June.",
+    "description_en": "In July, Russia launched a record number of missiles at Ukraine In total, Moscow used 376 missiles to strike Ukraine last month - this figure is more than twice the number of missiles launched in June.",
     "description_uk": "В июле русня выпустила по Украине рекордное количество ракет В общей сложности за прошлый месяц Москва использовала 376 ракет для нанесения ударов по Украине - эта цифра более чем вдвое превышает количество ракет, выпущенных в июне.",
     "time": "",
     "pubDate": "2026-08-01T10:31:06+00:00",
@@ -50,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197453",
     "score": 3.5,
-    "views": 28974,
-    "forwards": 71
+    "views": 73024,
+    "forwards": 139
   },
   {
     "title": "Zaporizhzhia: BpLA in the south of Dnipropetrovsk region, in the direction of the...",
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197450",
     "score": 9.5,
-    "views": 49294,
-    "forwards": 419
+    "views": 82629,
+    "forwards": 595
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -176,8 +212,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54585",
     "score": 18.0,
-    "views": 1377,
-    "forwards": 0
+    "views": 1639,
+    "forwards": 1
   },
   {
     "title": "UAV to the south of Odesa from the waters of the Black Sea.",
@@ -230,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41689",
     "score": 18.0,
-    "views": 5622,
+    "views": 5920,
     "forwards": 31
   },
   {
@@ -248,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20254",
     "score": 19.5,
-    "views": 184049,
-    "forwards": 492
+    "views": 199855,
+    "forwards": 512
   },
   {
     "title": "Kherson: A warehouse of sea unmanned boats, railway bridges, a division of the...",
@@ -266,15 +302,15 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41688",
     "score": 5.0,
-    "views": 9268,
-    "forwards": 99
+    "views": 10005,
+    "forwards": 100
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
-    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, commented on the nighttime Russian attack on Kyiv: \"A hellish night in Kyiv. At least 9 people were killed, 23 more were injured as a result of Russia's barbaric attack with the use of three dozen ballistic missiles. This is the second such massive attack in just two days. Without achieving its goals on the battlefield, Russia is intensifying air terror against civilians. Ukraine urgently...",
-    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, commented on the nighttime Russian attack on Kyiv: \"A hellish night in Kyiv. At least 9 people were killed, 23 more were injured as a result of Russia's barbaric attack with the use of three dozen ballistic missiles. This is the second such massive attack in just two days. Without achieving its goals on the battlefield, Russia is intensifying air terror against civilians. Ukraine urgently...",
+    "title_uk": "Київ: Зафіксовано пуск балістичної ракети",
+    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, commented on the night Russian attack on Kyiv: \"A hellish night in Kyiv. At least 9 people died, 23 more were injured as a result of Russia's barbaric attack with the use of three dozen ballistic missiles. This is the second such massive attack in just two days. Without achieving its goals on the battlefield, Russia is intensifying air terror against civilians. Ukraine urgently...",
+    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, commented on the night Russian attack on Kyiv: \"A hellish night in Kyiv. At least 9 people died, 23 more were injured as a result of Russia's barbaric attack with the use of three dozen ballistic missiles. This is the second such massive attack in just two days. Without achieving its goals on the battlefield, Russia is intensifying air terror against civilians. Ukraine urgently...",
     "description_uk": "Очільник МЗС України Андрій Сибіга прокоментував нічну російську атаку на Київ: \"Пекельна ніч у Києві. Щонайменше 9 людей загинули, ще 23 зазнали поранень унаслідок варварської атаки Росії із застосуванням трьох десятків балістичних ракет. Це вже другий такий масований удар лише за два дні. Не досягаючи своїх цілей на полі бою, Росія посилює повітряний терор проти цивільних. Україна терміново...",
     "time": "",
     "pubDate": "2026-08-01T05:11:00+00:00",
@@ -284,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9761",
     "score": 15.0,
-    "views": 897,
+    "views": 923,
     "forwards": 8
   },
   {
@@ -376,42 +412,6 @@
     "score": 5.0,
     "views": 9135,
     "forwards": 1
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Дрон вхід",
-    "description": "A jet UAV on Kyiv from the north",
-    "description_en": "A jet UAV on Kyiv from the north",
-    "description_uk": "Реактивний БпЛА на Київ з півночі",
-    "time": "",
-    "pubDate": "2026-07-31T23:32:28+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70978",
-    "score": 6.5,
-    "views": 39499,
-    "forwards": 137
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "Jet UAVs in the central part of Chernihiv region, heading for Kyiv.",
-    "description_en": "Jet UAVs in the central part of Chernihiv region, heading for Kyiv.",
-    "description_uk": "Реактивні БпЛА в центральній частині Чернігівщини курсом на Київ.",
-    "time": "",
-    "pubDate": "2026-07-31T23:18:40+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/70977",
-    "score": 7.5,
-    "views": 61756,
-    "forwards": 212
   },
   {
     "title": "Kyiv: Attack attack",
