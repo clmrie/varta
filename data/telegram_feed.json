@@ -1,5 +1,41 @@
 [
   {
+    "title": "Airstrike attack",
+    "title_en": "Airstrike attack",
+    "title_uk": "Авіаційна атака",
+    "description": "✈️ Yevhenii Khmara: Today is the Day of the Air Force of the Armed Forces of Ukraine. From the first days of the full-scale war, Russia wanted to freely use the Ukrainian sky to attack our people. It did not work, because our aviation and air defense did not allow this enemy. The Air Force covered the sky. Since February 24, 2022, Ukrainian air defense has destroyed more than 445,000 air targets. Among them are \"Daggers\", \"Calibers\",...",
+    "description_en": "✈️ Yevhenii Khmara: Today is the Day of the Air Force of the Armed Forces of Ukraine. From the first days of the full-scale war, Russia wanted to freely use the Ukrainian sky to attack our people. It did not work, because our aviation and air defense did not allow this enemy. The Air Force covered the sky. Since February 24, 2022, Ukrainian air defense has destroyed more than 445,000 air targets. Among them are \"Daggers\", \"Calibers\",...",
+    "description_uk": "✈️ Євгеній Хмара: Сьогодні — День Повітряних Сил Збройних Сил України. З перших днів повномасштабної війни росія хотіла вільно використовувати українське небо для ударів по наших людях. Не вийшло, адже наша авіація та ППО не дозволили цього ворогу. Повітряні Сили закрили собою небо. Із 24 лютого 2022 року українська ППО знищила понад 445 000 повітряних цілей. Серед них — «Кинджали», «Калібри»,...",
+    "time": "",
+    "pubDate": "2026-08-02T18:21:36+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71254",
+    "score": 10.5,
+    "views": 50625,
+    "forwards": 68
+  },
+  {
+    "title": "Kharkiv: Kharkiv - BpLA in the direction of the city.",
+    "title_en": "Kharkiv: Kharkiv - BpLA in the direction of the city.",
+    "title_uk": "Харків: Харків – БпЛА в напрямку м.",
+    "description": "Kharkiv - BpLA in the direction of the city.",
+    "description_en": "Kharkiv - BpLA in the direction of the city.",
+    "description_uk": "Харків - БпЛА в напрямку міста.",
+    "time": "",
+    "pubDate": "2026-08-02T18:04:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71253",
+    "score": 6.0,
+    "views": 56685,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Air defense active",
     "title_en": "Kyiv: Air defense active",
     "title_uk": "Київ: ППО діюча",
@@ -14,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54602",
     "score": 5.0,
-    "views": 159,
-    "forwards": 2
+    "views": 888,
+    "forwards": 3
   },
   {
     "title": "Mykolaiv: Reactive BpLA from Mykolayiv region to Kirovohrad region.",
@@ -111,8 +147,8 @@
     "title": "Kramatorsk: 🏹 In July, the enemy occupied more than the Defense Forces of Ukraine...",
     "title_en": "Kramatorsk: 🏹 In July, the enemy occupied more than the Defense Forces of Ukraine...",
     "title_uk": "Краматорськ: 🏹 У липні ворог окупував понад ЗСУ...",
-    "description": "🏹 In July, the enemy occupied more than the Defense Forces of Ukraine returned. The increase on the map is 36 sq km 🗺 However, there is one important detail — and we have included it in the index in the circle. This is a change of increments in May-July, because the successes of the Defense Forces are demonstrated with a delay. In July, we reduced the area of ​​the occupied territories by 52 sq km. 25 sq km is in May and 27 sq km in June. Thus, the net gain...",
-    "description_en": "🏹 In July, the enemy occupied more than the Defense Forces of Ukraine returned. The increase on the map is 36 sq km 🗺 However, there is one important detail — and we have included it in the index in the circle. This is a change of increments in May-July, because the successes of the Defense Forces are demonstrated with a delay. In July, we reduced the area of ​​the occupied territories by 52 sq km. 25 sq km is in May and 27 sq km in June. Thus, the net gain...",
+    "description": "🏹 In July, the enemy occupied more than the Defense Forces of Ukraine returned. The increase on the map is 36 sq km 🗺 However, there is one important detail — and we have included it in the index in the circle. This is a change of increments in May-July, because the successes of the Defense Forces are demonstrated with a delay. In July, we reduced the area of ​​the occupied territories by 52 square km. 25 sq km is in May and 27 sq km in June. Thus, the net gain...",
+    "description_en": "🏹 In July, the enemy occupied more than the Defense Forces of Ukraine returned. The increase on the map is 36 sq km 🗺 However, there is one important detail — and we have included it in the index in the circle. This is a change of increments in May-July, because the successes of the Defense Forces are demonstrated with a delay. In July, we reduced the area of ​​the occupied territories by 52 square km. 25 sq km is in May and 27 sq km in June. Thus, the net gain...",
     "description_uk": "🏹 Ворог у липні окупував більше, ніж Сили Оборони України повернули. Приріст по мапі складає 36 кв км 🗺 Проте є одна важлива деталь — і ми її винесли в показник у кружечку. Це зміна приростів у травні-липні, адже успіхи Сил Оборони демонструються із затримкою. У липні ми зменшили площу окупованих територій на 52 кв км. 25 кв км припадає на травень і 27 кв км на червень. Таким чином чистий приріст...",
     "time": "",
     "pubDate": "2026-08-02T15:23:50+00:00",
@@ -122,8 +158,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23716",
     "score": 7.5,
-    "views": 109885,
-    "forwards": 383
+    "views": 153619,
+    "forwards": 484
   },
   {
     "title": "This is what the flight of the Ukrainian cruise missile FP-5...",
@@ -140,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197559",
     "score": 4.5,
-    "views": 110939,
-    "forwards": 502
+    "views": 134534,
+    "forwards": 577
   },
   {
     "title": "BpLA ➡️ in the direction of Kharkiv from the north.",
@@ -410,43 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20269",
     "score": 19.5,
-    "views": 154602,
-    "forwards": 237
-  },
-  {
-    "title": "376 missiles",
-    "title_en": "376 missiles",
-    "title_uk": "376 ракет",
-    "description": "In July, Russia launched a record number of missiles over Ukraine. The main target was Kyiv, — AFP The agency calculated that Russia launched 376 missiles in one month — more than twice as many as in June. At the same time, many blows fell precisely on the capital. Ballistic missiles remain the main problem: in July alone, Russia used 126 such missiles, while for the whole of 2024 it used about 200-300....",
-    "description_en": "In July, Russia launched a record number of missiles over Ukraine. The main target was Kyiv, — AFP The agency calculated that Russia launched 376 missiles in one month — more than twice as many as in June. At the same time, many blows fell precisely on the capital. Ballistic missiles remain the main problem: in July alone, Russia used 126 such missiles, while for the whole of 2024 it used about 200-300....",
-    "description_uk": "В июле россия выпустила рекордное количество ракет по Украине. Главной целью был Киев, — AFP Агентство подсчитало, что за месяц россия запустила 376 ракет — это более чем вдвое больше, чем в июне. При этом многие удары пришлись именно по столице. Главной проблемой остаются баллистические ракеты: только в июле россия применила 126 таких ракет, тогда как за весь 2024 год использовала около 200-300....",
-    "time": "",
-    "pubDate": "2026-08-02T07:28:31+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/197529",
-    "score": 3.5,
-    "views": 98356,
-    "forwards": 107
-  },
-  {
-    "title": "Donetsk: The Saratov refinery, Engels airfield, an oil depot in the Kaluga...",
-    "title_en": "Donetsk: The Saratov refinery, Engels airfield, an oil depot in the Kaluga...",
-    "title_uk": "Донецьк: Саратовський НПЗ, аеродром Енгельс, нафтобаза в Калузі...",
-    "description": "The Saratov refinery, Engels airfield, an oil depot in the Kaluga region and other enemy facilities were hit ⚡️On the night of August 2, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged the Saratovsky oil refinery in Saratov (Saratov region, Russian Federation). 🔥It was recorded that the object was hit, followed by a fire on the territory...",
-    "description_en": "The Saratov refinery, Engels airfield, an oil depot in the Kaluga region and other enemy facilities were hit ⚡️On the night of August 2, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged the Saratovsky oil refinery in Saratov (Saratov region, Russian Federation). 🔥It was recorded that the object was hit, followed by a fire on the territory...",
-    "description_uk": "Уражено Саратовський НПЗ, аеродром \"Енгельс\", нафтобазу в Калузькій області та інші об'єкти противника ⚡️У ніч на 2 серпня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України завдано ураження нафтопереробному заводу \"Саратовський\" у Саратові (Саратовська область, рф). 🔥Зафіксовано влучання в об'єкт з подальшою пожежею на території...",
-    "time": "",
-    "pubDate": "2026-08-02T07:27:27+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41712",
-    "score": 14.5,
-    "views": 51560,
-    "forwards": 205
+    "views": 159970,
+    "forwards": 242
   }
 ]
