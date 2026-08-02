@@ -1,5 +1,41 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "Jet UAV on the border of Odesa and Mykolaiv regions, past Maryanivka in the northern direction.",
+    "description_en": "Jet UAV on the border of Odesa and Mykolaiv regions, past Maryanivka in the northern direction.",
+    "description_uk": "Реактивний БпЛА по межі Одеської та Миколаївської областей, повз Мар'янівку у північному напрямку.",
+    "time": "",
+    "pubDate": "2026-08-02T00:50:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71153",
+    "score": 6.0,
+    "views": 7900,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAV on Poltava from the northeast.",
+    "description_en": "Jet UAV on Poltava from the northeast.",
+    "description_uk": "Реактивний БпЛА на Полтаву з північного сходу.",
+    "time": "",
+    "pubDate": "2026-08-02T00:40:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71152",
+    "score": 5.0,
+    "views": 11334,
+    "forwards": 0
+  },
+  {
     "title": "BpLA in the direction of Kryvyi Rih from the south.",
     "title_en": "BpLA in the direction of Kryvyi Rih from the south.",
     "title_uk": "БпЛА в напрямку Кривого Рогу з півд.",
@@ -140,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197506",
     "score": 4.5,
-    "views": 85094,
-    "forwards": 258
+    "views": 98629,
+    "forwards": 269
   },
   {
     "title": "Kyiv: 9 killed, 33 injured",
@@ -158,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54592",
     "score": 14.0,
-    "views": 1247,
+    "views": 1472,
     "forwards": 1
   },
   {
@@ -230,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54591",
     "score": 10.0,
-    "views": 1822,
+    "views": 2013,
     "forwards": 0
   },
   {
@@ -248,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20265",
     "score": 6.5,
-    "views": 187780,
-    "forwards": 250
+    "views": 202903,
+    "forwards": 253
   },
   {
     "title": "Mykolaiv: UAV to Odesa/Mykolaiv Oblast from the sea.",
@@ -320,8 +356,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23713",
     "score": 5.5,
-    "views": 106323,
-    "forwards": 181
+    "views": 108632,
+    "forwards": 182
   },
   {
     "title": "Mykolaiv: Reactive BpLA in Mykolaiv.",
@@ -412,41 +448,5 @@
     "score": 9.0,
     "views": 1966,
     "forwards": 2
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAVs in the direction of Kharkiv and Sumy from the north.",
-    "description_en": "UAVs in the direction of Kharkiv and Sumy from the north.",
-    "description_uk": "БпЛА в напрямку Харкова та Сум з півночі.",
-    "time": "",
-    "pubDate": "2026-08-01T14:37:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71085",
-    "score": 5.0,
-    "views": 10128,
-    "forwards": 0
-  },
-  {
-    "title": "Chernihiv: BpLA on Kholmy from the south in Chernihiv Oblast.",
-    "title_en": "Chernihiv: BpLA on Kholmy from the south in Chernihiv Oblast.",
-    "title_uk": "Чернігів: БпЛА на Холми з півдня Чернігівської обл.",
-    "description": "BpLA on Kholmy from the south in Chernihiv Oblast.",
-    "description_en": "BpLA on Kholmy from the south in Chernihiv Oblast.",
-    "description_uk": "БпЛА на Холми з півдня на Чернігівщині.",
-    "time": "",
-    "pubDate": "2026-08-01T14:35:22+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71084",
-    "score": 6.0,
-    "views": 12155,
-    "forwards": 0
   }
 ]
