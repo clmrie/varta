@@ -1,5 +1,59 @@
 [
   {
+    "title": "Chernihiv: Chernihiv region - BpLA heading for Baturyn/Bakhmach.",
+    "title_en": "Chernihiv: Chernihiv region - BpLA heading for Baturyn/Bakhmach.",
+    "title_uk": "Чернігів: Чернігівська область - BpLA в напрямку Батурин/Бахмач.",
+    "description": "Chernihiv region - BpLA heading for Baturyn/Bakhmach.",
+    "description_en": "Chernihiv region - BpLA heading for Baturyn/Bakhmach.",
+    "description_uk": "Чернігівщина - БпЛА курсом на Батурин/Бахмач.",
+    "time": "",
+    "pubDate": "2026-08-02T20:53:50+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71261",
+    "score": 6.0,
+    "views": 18266,
+    "forwards": 0
+  },
+  {
+    "title": "300 drones launched",
+    "title_en": "300 drones launched",
+    "title_uk": "Запущено 300 дронів",
+    "description": "Every evening, evening comes suddenly... and a new batch of drones flies to attack the Russians. More than 300 UAVs flew today.",
+    "description_en": "Every evening, evening comes suddenly... and a new batch of drones flies to attack the Russians. More than 300 UAVs flew today.",
+    "description_uk": "Каждый вечер вечер наступает вдруг... и новая партия дрончиков летит атаковать россиян Сегодня полетело более 300 БПЛА.",
+    "time": "",
+    "pubDate": "2026-08-02T20:48:55+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/197581",
+    "score": 8.5,
+    "views": 25079,
+    "forwards": 108
+  },
+  {
+    "title": "A group of BpLA to the south of Odesa.",
+    "title_en": "A group of BpLA to the south of Odesa.",
+    "title_uk": "Група БпЛА на південь від Одеси.",
+    "description": "A group of BpLA to the south of Odesa.",
+    "description_en": "A group of BpLA to the south of Odesa.",
+    "description_uk": "Група БпЛА на південь Одещини.",
+    "time": "",
+    "pubDate": "2026-08-02T20:48:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71260",
+    "score": 5.0,
+    "views": 22327,
+    "forwards": 0
+  },
+  {
     "title": "Dnipro: Drone incoming",
     "title_en": "Dnipro: Drone incoming",
     "title_uk": "Дніпро: Дрон вхід",
@@ -32,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197575",
     "score": 3.5,
-    "views": 66936,
-    "forwards": 105
+    "views": 94248,
+    "forwards": 140
   },
   {
     "title": "Odesa: Man opens fire on draft officers in Odesa. Four military recruitment...",
@@ -50,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54603",
     "score": 6.0,
-    "views": 857,
+    "views": 1257,
     "forwards": 4
   },
   {
@@ -104,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54602",
     "score": 5.0,
-    "views": 1400,
+    "views": 1672,
     "forwards": 4
   },
   {
@@ -212,8 +266,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23716",
     "score": 7.5,
-    "views": 176913,
-    "forwards": 549
+    "views": 187376,
+    "forwards": 571
   },
   {
     "title": "This is what the flight of the Ukrainian cruise missile FP-5...",
@@ -394,59 +448,5 @@
     "score": 5.5,
     "views": 78156,
     "forwards": 143
-  },
-  {
-    "title": "Sumy: BpLA headed for Sumy from the north",
-    "title_en": "Sumy: BpLA headed for Sumy from the north",
-    "title_uk": "Суми: BpLA прямувала на Суми з півночі",
-    "description": "BpLA headed for Sumy from the north",
-    "description_en": "BpLA headed for Sumy from the north",
-    "description_uk": "БпЛА курсом на Суми з півночі",
-    "time": "",
-    "pubDate": "2026-08-02T09:25:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71197",
-    "score": 6.0,
-    "views": 1,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "Kharkiv - jet UAV in the direction of the city.",
-    "description_en": "Kharkiv - jet UAV in the direction of the city.",
-    "description_uk": "Харків - реактивний БпЛА в напрямку міста.",
-    "time": "",
-    "pubDate": "2026-08-02T09:21:36+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71196",
-    "score": 6.0,
-    "views": 6046,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Explosions reported",
-    "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомляється про вибухи",
-    "description": "'They must face the most severe punishment' – How Vyshyneve's ammunition depot multiplied the toll of Russia's strike After a Russian missile strike tore through a quiet suburb just southwest of Kyiv on July 6, causing massive explosions at a warehouse near a residential area, entire streets resemble a front-line town. That night, a Russian attack hit an ammunition depot belonging to an...",
-    "description_en": "'They must face the most severe punishment' – How Vyshyneve's ammunition depot multiplied the toll of Russia's strike After a Russian missile strike tore through a quiet suburb just southwest of Kyiv on July 6, causing massive explosions at a warehouse near a residential area, entire streets resemble a front-line town. That night, a Russian attack hit an ammunition depot belonging to an...",
-    "description_uk": "'They must face the most severe punishment' – How Vyshyneve's ammunition depot multiplied the toll of Russia's strike After a Russian missile strike tore through a quiet suburb just southwest of Kyiv on July 6, causing massive explosions at a warehouse near a residential area, entire streets resemble a front-line town. That night, a Russian attack hit an ammunition depot belonging to an...",
-    "time": "",
-    "pubDate": "2026-08-02T08:58:53+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54597",
-    "score": 16.5,
-    "views": 958,
-    "forwards": 2
   }
 ]
