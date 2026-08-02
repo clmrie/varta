@@ -1,5 +1,59 @@
 [
   {
+    "title": "Jet UAVs in Poltava region, past Kotelva to the southwest.",
+    "title_en": "Jet UAVs in Poltava region, past Kotelva to the southwest.",
+    "title_uk": "Реактивні БПЛА на Полтавщині, за Котельвою на південний захід.",
+    "description": "Jet UAVs in Poltava region, past Kotelva to the southwest.",
+    "description_en": "Jet UAVs in Poltava region, past Kotelva to the southwest.",
+    "description_uk": "Реактивні БпЛА на Полтавщині, повз Котельву на південний захід.",
+    "time": "",
+    "pubDate": "2026-08-02T04:18:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71164",
+    "score": 5.0,
+    "views": 15169,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAVs in the direction of Mykolaiv from the south.",
+    "description_en": "Jet UAVs in the direction of Mykolaiv from the south.",
+    "description_uk": "Реактивні БпЛА у напрямку Миколаєва з півдня.",
+    "time": "",
+    "pubDate": "2026-08-02T03:59:26+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71163",
+    "score": 5.0,
+    "views": 28358,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Russian oil refinery, airbase reportedly struck by Ukrainian forces....",
+    "title_en": "Kyiv: Russian oil refinery, airbase reportedly struck by Ukrainian forces....",
+    "title_uk": "Київ: українські війська завдали удару по російським нафтопереробним заводам і авіабазі...",
+    "description": "Russian oil refinery, airbase reportedly struck by Ukrainian forces. Ukrainian forces struck a Russian airbase in Engels and an oil refinery in Saratov overnight on Aug. 2, monitoring channels reported.",
+    "description_en": "Russian oil refinery, airbase reportedly struck by Ukrainian forces. Ukrainian forces struck a Russian airbase in Engels and an oil refinery in Saratov overnight on Aug. 2, monitoring channels reported.",
+    "description_uk": "Russian oil refinery, airbase reportedly struck by Ukrainian forces. Ukrainian forces struck a Russian airbase in Engels and an oil refinery in Saratov overnight on Aug. 2, monitoring channels reported.",
+    "time": "",
+    "pubDate": "2026-08-02T01:47:51+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54593",
+    "score": 8.0,
+    "views": 713,
+    "forwards": 3
+  },
+  {
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Миколаїв: Дрон вхід",
@@ -15,24 +69,6 @@
     "link": "https://t.me/kpszsu/71153",
     "score": 6.0,
     "views": 7900,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAV on Poltava from the northeast.",
-    "description_en": "Jet UAV on Poltava from the northeast.",
-    "description_uk": "Реактивний БпЛА на Полтаву з північного сходу.",
-    "time": "",
-    "pubDate": "2026-08-02T00:40:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71152",
-    "score": 5.0,
-    "views": 11334,
     "forwards": 0
   },
   {
@@ -176,7 +212,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197506",
     "score": 4.5,
-    "views": 98629,
+    "views": 146020,
     "forwards": 269
   },
   {
@@ -194,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54592",
     "score": 14.0,
-    "views": 1472,
+    "views": 1903,
     "forwards": 1
   },
   {
@@ -284,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20265",
     "score": 6.5,
-    "views": 202903,
-    "forwards": 253
+    "views": 252102,
+    "forwards": 262
   },
   {
     "title": "Mykolaiv: UAV to Odesa/Mykolaiv Oblast from the sea.",
@@ -356,26 +392,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23713",
     "score": 5.5,
-    "views": 108632,
-    "forwards": 182
-  },
-  {
-    "title": "Mykolaiv: Reactive BpLA in Mykolaiv.",
-    "title_en": "Mykolaiv: Reactive BpLA in Mykolaiv.",
-    "title_uk": "Миколаїв: Reactive BpLA в Миколаєві.",
-    "description": "Reactive BpLA in Mykolaiv.",
-    "description_en": "Reactive BpLA in Mykolaiv.",
-    "description_uk": "Реактивний БпЛА на Миколаїв.",
-    "time": "",
-    "pubDate": "2026-08-01T16:19:07+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71097",
-    "score": 6.0,
-    "views": 55520,
-    "forwards": 0
+    "views": 116947,
+    "forwards": 184
   },
   {
     "title": "860 killed",
@@ -396,42 +414,6 @@
     "forwards": 145
   },
   {
-    "title": "Sumy: Sumy - enemy anti-aircraft missiles over the city.",
-    "title_en": "Sumy: Sumy - enemy anti-aircraft missiles over the city.",
-    "title_uk": "Суми: Суми - ворожі зенітні ракети над містом.",
-    "description": "Sumy - enemy anti-aircraft missiles over the city.",
-    "description_en": "Sumy - enemy anti-aircraft missiles over the city.",
-    "description_uk": "Суми - над містом ворожі БпЛА.",
-    "time": "",
-    "pubDate": "2026-08-01T15:33:09+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71095",
-    "score": 6.0,
-    "views": 44583,
-    "forwards": 0
-  },
-  {
-    "title": "UAV on Serhiyivka/Zatok from the Black Sea.",
-    "title_en": "UAV on Serhiyivka/Zatok from the Black Sea.",
-    "title_uk": "БПЛА на Сергіївку/Заток з боку Чорного моря.",
-    "description": "UAV on Serhiyivka/Zatok from the Black Sea.",
-    "description_en": "UAV on Serhiyivka/Zatok from the Black Sea.",
-    "description_uk": "БпЛА на Сергіївку/Затоку з Чорного моря.",
-    "time": "",
-    "pubDate": "2026-08-01T15:21:18+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71094",
-    "score": 5.0,
-    "views": 26308,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Casualties reported",
     "title_en": "Kyiv: Casualties reported",
     "title_uk": "Київ: повідомляється про постраждалих",
@@ -448,5 +430,23 @@
     "score": 9.0,
     "views": 1966,
     "forwards": 2
+  },
+  {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "156 TARGETS DESTROYED/SUPPRESSED On the night of August 1 (from 18:00 on July 31), the enemy attacked with the use of attack UAVs, as well as air and ground-based missiles of various types. ❗️ The main direction of the attack is Kyiv region. Dnipropetrovsk region, Sumy region, Kharkiv region and Poltava region were also attacked. A total of 358 means of air attack were recorded by the radio engineering troops of the Air Force - 35...",
+    "description_en": "156 TARGETS DESTROYED/SUPPRESSED On the night of August 1 (from 18:00 on July 31), the enemy attacked with the use of attack UAVs, as well as air and ground-based missiles of various types. ❗️ The main direction of the attack is Kyiv region. Dnipropetrovsk region, Sumy region, Kharkiv region and Poltava region were also attacked. A total of 358 means of air attack were recorded by the radio engineering troops of the Air Force - 35...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 156 ЦІЛЕЙ ➖➖➖➖➖➖➖➖➖➖ У ніч на 01 серпня (з 18:00 31 липня), противник завдав удару із застосуванням ударних БпЛА, а також ракет повітряного та наземного базування різних типів. ❗️ Основний напрямок удару – Київщина. Також атаковано Дніпропетровщину, Сумщину, Харківщину та Полтавщину. Усього радіотехнічними військами Повітряних Сил зафіксовано 358 засобів повітряного нападу – 35...",
+    "time": "",
+    "pubDate": "2026-08-01T06:56:52+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41689",
+    "score": 18.0,
+    "views": 7962,
+    "forwards": 36
   }
 ]
