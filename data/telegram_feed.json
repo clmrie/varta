@@ -1,5 +1,41 @@
 [
   {
+    "title": "UAV on Vylkovo from the Black Sea",
+    "title_en": "UAV on Vylkovo from the Black Sea",
+    "title_uk": "БПЛА на Вилкове з боку Чорного моря",
+    "description": "UAV on Vylkovo from the Black Sea",
+    "description_en": "UAV on Vylkovo from the Black Sea",
+    "description_uk": "БпЛА на Вилкове з Чорного моря",
+    "time": "",
+    "pubDate": "2026-08-03T20:45:35+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71408",
+    "score": 5.0,
+    "views": 12207,
+    "forwards": 1
+  },
+  {
+    "title": "Mykolaiv: Missile attack",
+    "title_en": "Mykolaiv: Missile attack",
+    "title_uk": "Миколаїв: Ракетний удар",
+    "description": "Air defense missile attack on Mykolaiv from the east.",
+    "description_en": "Air defense missile attack on Mykolaiv from the east.",
+    "description_uk": "Ударні БпЛА на Миколаїв зі сходу.",
+    "time": "",
+    "pubDate": "2026-08-03T20:36:02+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71407",
+    "score": 6.0,
+    "views": 27413,
+    "forwards": 0
+  },
+  {
     "title": "Реактивний БпЛА на Павлоград з півдня.",
     "title_en": "Реактивний БпЛА на Павлоград з півдня.",
     "title_uk": "Реактивний БпЛА на Павлоград з півдня.",
@@ -38,7 +74,7 @@
   {
     "title": "Kyiv: Exclusive: Inside Ukraine's 2-year effort to secure Patriot missile...",
     "title_en": "Kyiv: Exclusive: Inside Ukraine's 2-year effort to secure Patriot missile...",
-    "title_uk": "Kyiv: Exclusive: Inside Ukraine's 2-year effort to secure Patriot missile...",
+    "title_uk": "Київ: Ексклюзив: Всередині 2-річних зусиль України щодо забезпечення ракет Patriot...",
     "description": "Exclusive: Inside Ukraine's 2-year effort to secure Patriot missile production As U.S. President Donald Trump backs away from giving Ukraine licenses to produce Patriot air defense missiles, Ukrainian officials say Kyiv had a chance to solve the problem years ago — but Washington rejected the idea back then as well. The Ukrainian side has been trying to secure the licenses for almost two years....",
     "description_en": "Exclusive: Inside Ukraine's 2-year effort to secure Patriot missile production As U.S. President Donald Trump backs away from giving Ukraine licenses to produce Patriot air defense missiles, Ukrainian officials say Kyiv had a chance to solve the problem years ago — but Washington rejected the idea back then as well. The Ukrainian side has been trying to secure the licenses for almost two years....",
     "description_uk": "Exclusive: Inside Ukraine's 2-year effort to secure Patriot missile production As U.S. President Donald Trump backs away from giving Ukraine licenses to produce Patriot air defense missiles, Ukrainian officials say Kyiv had a chance to solve the problem years ago — but Washington rejected the idea back then as well. The Ukrainian side has been trying to secure the licenses for almost two years....",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54622",
     "score": 10.0,
-    "views": 1211,
+    "views": 1531,
     "forwards": 7
   },
   {
@@ -90,6 +126,24 @@
     "forwards": 1
   },
   {
+    "title": "260 drones intercepted",
+    "title_en": "260 drones intercepted",
+    "title_uk": "Перехоплено 260 безпілотників",
+    "description": "The statistics of drones penetrated into the Russian Federation cannot fail to please. Ukrainian drones have already reached 52 regions of Russia, Kommersant estimates. In the first seven months of this year, 54,500 Ukrainian drones were allegedly shot down over the territory of the Russian Federation. This is an average of about 7 thousand per month or more than 260 drones per day. At the same time, the geography of attacks is also expanding. If in January the Ministry of Defense of the Russian Federation reported on raids in...",
+    "description_en": "The statistics of drones penetrated into the Russian Federation cannot fail to please. Ukrainian drones have already reached 52 regions of Russia, Kommersant estimates. In the first seven months of this year, 54,500 Ukrainian drones were allegedly shot down over the territory of the Russian Federation. This is an average of about 7 thousand per month or more than 260 drones per day. At the same time, the geography of attacks is also expanding. If in January the Ministry of Defense of the Russian Federation reported on raids in...",
+    "description_uk": "Статистика дроновых проникновений в рф не может не радовать. Украинские БпЛА добрались уже до 52 регионов россии, — подсчеты «Коммерсанта» За первые семь месяцев этого года над территорией рф якобы сбили 54,5 тысячи украинских беспилотников. Это в среднем около 7 тысяч в месяц или более 260 дронов в сутки. При этом география атак тоже расширяется. Если в январе Минобороны рф сообщало о налетах в...",
+    "time": "",
+    "pubDate": "2026-08-03T16:32:01+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/197637",
+    "score": 8.5,
+    "views": 153610,
+    "forwards": 150
+  },
+  {
     "title": "260 drones launched",
     "title_en": "260 drones launched",
     "title_uk": "260 drones launched",
@@ -108,27 +162,9 @@
     "forwards": 150
   },
   {
-    "title": "260 drones intercepted",
-    "title_en": "260 drones intercepted",
-    "title_uk": "Перехоплено 260 безпілотників",
-    "description": "The statistics of drones penetrated into the Russian Federation cannot fail to please. Ukrainian drones have already reached 52 regions of Russia, Kommersant estimates. In the first seven months of this year, 54,500 Ukrainian drones were allegedly shot down over the territory of the Russian Federation. This is an average of about 7 thousand per month or more than 260 drones per day. At the same time, the geography of attacks is also expanding. If in January the Ministry of Defense of the Russian Federation reported on raids in...",
-    "description_en": "The statistics of drones penetrated into the Russian Federation cannot fail to please. Ukrainian drones have already reached 52 regions of Russia, Kommersant estimates. In the first seven months of this year, 54,500 Ukrainian drones were allegedly shot down over the territory of the Russian Federation. This is an average of about 7 thousand per month or more than 260 drones per day. At the same time, the geography of attacks is also expanding. If in January the Ministry of Defense of the Russian Federation reported on raids in...",
-    "description_uk": "Статистика дроновых проникновений в рф не может не радовать. Украинские БпЛА добрались уже до 52 регионов россии, — подсчеты «Коммерсанта» За первые семь месяцев этого года над территорией рф якобы сбили 54,5 тысячи украинских беспилотников. Это в среднем около 7 тысяч в месяц или более 260 дронов в сутки. При этом география атак тоже расширяется. Если в январе Минобороны рф сообщало о налетах в...",
-    "time": "",
-    "pubDate": "2026-08-03T16:32:01+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/197637",
-    "score": 8.5,
-    "views": 84907,
-    "forwards": 112
-  },
-  {
     "title": "Kryvyi Rih: Casualties reported",
     "title_en": "Kryvyi Rih: Casualties reported",
-    "title_uk": "Kryvyi Rih: Casualties reported",
+    "title_uk": "Кривий Ріг: повідомляється про постраждалих",
     "description": "Russian attack on gas station in Dnipropetrovsk Oblast kills 3, including rescue worker and his 8-year-old son. The attack occurred in the town of Shyroke, which sits on a highway about 30 kilometers (about 19 miles) south of Kryvyi Rih.",
     "description_en": "Russian attack on gas station in Dnipropetrovsk Oblast kills 3, including rescue worker and his 8-year-old son. The attack occurred in the town of Shyroke, which sits on a highway about 30 kilometers (about 19 miles) south of Kryvyi Rih.",
     "description_uk": "Russian attack on gas station in Dnipropetrovsk Oblast kills 3, including rescue worker and his 8-year-old son. The attack occurred in the town of Shyroke, which sits on a highway about 30 kilometers (about 19 miles) south of Kryvyi Rih.",
@@ -140,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54618",
     "score": 6.0,
-    "views": 1558,
+    "views": 1736,
     "forwards": 2
   },
   {
@@ -162,6 +198,24 @@
     "forwards": 1
   },
   {
+    "title": "Had a meeting with the Deputy Prime Minister, Minister of Foreign...",
+    "title_en": "Had a meeting with the Deputy Prime Minister, Minister of Foreign...",
+    "title_uk": "Відбулася зустріч із Віце-прем’єр-міністром, Міністром закордонних справ...",
+    "description": "Had a meeting with the Deputy Prime Minister, Minister of Foreign Affairs of Moldova Mihai Popshoy. I was glad to see the minister at the Ukrainian annual meeting of ambassadors. And his presence reflects that in many respects the foreign policy priorities of Ukraine and Moldova coincide, especially in the sphere of security and European aspirations. It is important that we continue to move together across the spectrum of shared...",
+    "description_en": "Had a meeting with the Deputy Prime Minister, Minister of Foreign Affairs of Moldova Mihai Popshoy. I was glad to see the minister at the Ukrainian annual meeting of ambassadors. And his presence reflects that in many respects the foreign policy priorities of Ukraine and Moldova coincide, especially in the sphere of security and European aspirations. It is important that we continue to move together across the spectrum of shared...",
+    "description_uk": "Провів зустріч із віцепремʼєр-міністром, міністром закордонних справ Молдови Міхаєм Попшоєм. Радий був бачити пана міністра на українській щорічній нараді послів. І його присутність відображає, що багато в чому пріоритети зовнішньої політики України та Молдови співпадають, особливо у сфері безпеки та європейських прагнень. Важливо, щоб ми й надалі рухалися разом по всьому спектру спільних...",
+    "time": "",
+    "pubDate": "2026-08-03T15:39:41+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20281",
+    "score": 4.0,
+    "views": 47321,
+    "forwards": 77
+  },
+  {
     "title": "Провів зустріч із віцепремʼєр-міністром, міністром закордонних справ...",
     "title_en": "Провів зустріч із віцепремʼєр-міністром, міністром закордонних справ...",
     "title_uk": "Провів зустріч із віцепремʼєр-міністром, міністром закордонних справ...",
@@ -178,24 +232,6 @@
     "score": 4.0,
     "views": 44494,
     "forwards": 70
-  },
-  {
-    "title": "Had a meeting with the Deputy Prime Minister, Minister of Foreign...",
-    "title_en": "Had a meeting with the Deputy Prime Minister, Minister of Foreign...",
-    "title_uk": "Відбулася зустріч із Віце-прем’єр-міністром, Міністром закордонних справ...",
-    "description": "Had a meeting with the Deputy Prime Minister, Minister of Foreign Affairs of Moldova Mihai Popshoy. I was glad to see the minister at the Ukrainian annual meeting of ambassadors. And his presence reflects that in many respects the foreign policy priorities of Ukraine and Moldova coincide, especially in the sphere of security and European aspirations. It is important that we continue to move together across the spectrum of shared...",
-    "description_en": "Had a meeting with the Deputy Prime Minister, Minister of Foreign Affairs of Moldova Mihai Popshoy. I was glad to see the minister at the Ukrainian annual meeting of ambassadors. And his presence reflects that in many respects the foreign policy priorities of Ukraine and Moldova coincide, especially in the sphere of security and European aspirations. It is important that we continue to move together across the spectrum of shared...",
-    "description_uk": "Провів зустріч із віцепремʼєр-міністром, міністром закордонних справ Молдови Міхаєм Попшоєм. Радий був бачити пана міністра на українській щорічній нараді послів. І його присутність відображає, що багато в чому пріоритети зовнішньої політики України та Молдови співпадають, особливо у сфері безпеки та європейських прагнень. Важливо, щоб ми й надалі рухалися разом по всьому спектру спільних...",
-    "time": "",
-    "pubDate": "2026-08-03T15:39:41+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20281",
-    "score": 4.0,
-    "views": 37036,
-    "forwards": 60
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -342,29 +378,11 @@
     "forwards": 1
   },
   {
-    "title": "The number of detained illegal migrants in the United States in July...",
-    "title_en": "The number of detained illegal migrants in the United States in July...",
-    "title_uk": "Кількість затриманих нелегальних мігрантів у США в липні...",
-    "description": "The number of detained illegal migrants in the United States in July reached a record monthly level, CBS News reports citing internal data from the US Immigration and Customs Enforcement (ICE). According to these data, ICE officers detained more than 46 thousand people in July. On average, about 1,500 people were taken into custody every day last month. The July indicator exceeded the June record, when...",
-    "description_en": "The number of detained illegal migrants in the United States in July reached a record monthly level, CBS News reports citing internal data from the US Immigration and Customs Enforcement (ICE). According to these data, ICE officers detained more than 46 thousand people in July. On average, about 1,500 people were taken into custody every day last month. The July indicator exceeded the June record, when...",
-    "description_uk": "Число задержаний нелегальных мигрантов в США в июле достигло рекордного месячного уровня Об этом сообщает CBS News со ссылкой на внутренние данные Иммиграционной и таможенной полиции США (ICE). Согласно этим данным, в июле сотрудники ICE задержали более 46 тысяч человек. В среднем в прошлом месяце под стражу ежедневно попадали около 1 500 человек. Показатель июля превысил июньский рекорд, когда...",
-    "time": "",
-    "pubDate": "2026-08-03T08:30:57+00:00",
-    "category": "alert",
-    "severity": "medium",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/197603",
-    "score": 3.0,
-    "views": 107786,
-    "forwards": 41
-  },
-  {
     "title": "Donetsk: Drone incoming",
     "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Donetsk: Drone incoming",
-    "description": "ЗБИТО/ПОДАВЛЕНО 163 ЦІЛІ ПРОТИВНИКА У ніч на 03 серпня (з 18:00 02 серпня) противник атакував 181-м ударним БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу “Пародія” із напрямків: Брянськ, Курськ, Міллєрово, Орел, Шаталово – рф,, Донецьк -ТОТ, Гвардійське – ТОТ АР Крим. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних...",
-    "description_en": "ЗБИТО/ПОДАВЛЕНО 163 ЦІЛІ ПРОТИВНИКА У ніч на 03 серпня (з 18:00 02 серпня) противник атакував 181-м ударним БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу “Пародія” із напрямків: Брянськ, Курськ, Міллєрово, Орел, Шаталово – рф,, Донецьк -ТОТ, Гвардійське – ТОТ АР Крим. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних...",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "163 ENEMY TARGETS DESTROYED On the night of August 3 (from 18:00 on August 2), the enemy attacked the 181st strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and \"Parody\" type simulator drones from the directions: Bryansk, Kursk, Millerovo, Orel, Shatalovo - Russian Federation, Donetsk -TOT, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
+    "description_en": "163 ENEMY TARGETS DESTROYED On the night of August 3 (from 18:00 on August 2), the enemy attacked the 181st strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas and \"Parody\" type simulator drones from the directions: Bryansk, Kursk, Millerovo, Orel, Shatalovo - Russian Federation, Donetsk -TOT, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, electronic warfare units and unmanned aerial vehicles...",
     "description_uk": "ЗБИТО/ПОДАВЛЕНО 163 ЦІЛІ ПРОТИВНИКА У ніч на 03 серпня (з 18:00 02 серпня) противник атакував 181-м ударним БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу “Пародія” із напрямків: Брянськ, Курськ, Міллєрово, Орел, Шаталово – рф,, Донецьк -ТОТ, Гвардійське – ТОТ АР Крим. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних...",
     "time": "",
     "pubDate": "2026-08-03T05:07:45+00:00",
@@ -374,7 +392,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41731",
     "score": 13.0,
-    "views": 10301,
+    "views": 10399,
     "forwards": 24
   },
   {
@@ -398,7 +416,7 @@
   {
     "title": "Kramatorsk: 🏹 In July, the enemy occupied more than the Defense Forces of Ukraine...",
     "title_en": "Kramatorsk: 🏹 In July, the enemy occupied more than the Defense Forces of Ukraine...",
-    "title_uk": "Kramatorsk: 🏹 In July, the enemy occupied more than the Defense Forces of Ukraine...",
+    "title_uk": "Краматорськ: 🏹 У липні ворог окупував понад ЗСУ...",
     "description": "🏹 In July, the enemy occupied more than the Defense Forces of Ukraine returned. The increase on the map is 36 sq km 🗺 However, there is one important detail — and we have included it in the index in the circle. This is a change of increments in May-July, because the successes of the Defense Forces are demonstrated with a delay. In July, we reduced the area of ​​the occupied territories by 52 square km. 25 sq km is in May and 27 sq km in June. Thus, the net gain...",
     "description_en": "🏹 In July, the enemy occupied more than the Defense Forces of Ukraine returned. The increase on the map is 36 sq km 🗺 However, there is one important detail — and we have included it in the index in the circle. This is a change of increments in May-July, because the successes of the Defense Forces are demonstrated with a delay. In July, we reduced the area of ​​the occupied territories by 52 square km. 25 sq km is in May and 27 sq km in June. Thus, the net gain...",
     "description_uk": "🏹 Ворог у липні окупував більше, ніж Сили Оборони України повернули. Приріст по мапі складає 36 кв км 🗺 Проте є одна важлива деталь — і ми її винесли в показник у кружечку. Це зміна приростів у травні-липні, адже успіхи Сил Оборони демонструються із затримкою. У липні ми зменшили площу окупованих територій на 52 кв км. 25 кв км припадає на травень і 27 кв км на червень. Таким чином чистий приріст...",
@@ -410,13 +428,13 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23716",
     "score": 7.5,
-    "views": 274973,
-    "forwards": 754
+    "views": 278887,
+    "forwards": 760
   },
   {
     "title": "Kharkiv: 144 missiles + 900 drones launched",
     "title_en": "Kharkiv: 144 missiles + 900 drones launched",
-    "title_uk": "Kharkiv: 144 missiles + 900 drones launched",
+    "title_uk": "Харків: запущено 144 ракети + 900 безпілотників",
     "description": "During this week, 16 of our regions were under attack. And only during this time, the Russians released about 1,900 drones, almost 1,600 aerial bombs and 144 missiles of various types, including ballistic ones. Today there was an aerial bomb attack on Sumy. In Brovary, as a result of a drone strike, one person died, and six others were injured. My condolences to family and friends. Constant shelling of Kharkiv and Kharkiv region, beating at night...",
     "description_en": "During this week, 16 of our regions were under attack. And only during this time, the Russians released about 1,900 drones, almost 1,600 aerial bombs and 144 missiles of various types, including ballistic ones. Today there was an aerial bomb attack on Sumy. In Brovary, as a result of a drone strike, one person died, and six others were injured. My condolences to family and friends. Constant shelling of Kharkiv and Kharkiv region, beating at night...",
     "description_uk": "За цей тиждень 16 наших регіонів були під ударами. І лише протягом цього часу росіяни випустили близько 1900 дронів, майже 1600 авіабомб та 144 ракети різних типів, у тому числі й балістику. Сьогодні ж по Сумах був удар авіабомбами. У Броварах внаслідок удару дроном загинула людина, ще шестеро зазнали поранень. Мої співчуття рідним та близьким. Постійні обстріли Харкова та Харківщини, били вночі...",
@@ -428,7 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20269",
     "score": 19.5,
-    "views": 195045,
-    "forwards": 258
+    "views": 195709,
+    "forwards": 259
   }
 ]
