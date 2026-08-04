@@ -1,39 +1,57 @@
 [
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "Jet drone in the direction of Boryspil from the south!",
-    "description_en": "Jet drone in the direction of Boryspil from the south!",
-    "description_uk": "Реактивний дрон в напрямку Борисполя з півдня!",
+    "title": "Реактивні БпЛА в районі Павлограда та Нікополя",
+    "title_en": "Реактивні БпЛА в районі Павлограда та Нікополя",
+    "title_uk": "Реактивні БпЛА в районі Павлограда та Нікополя",
+    "description": "Реактивні БпЛА в районі Павлограда та Нікополя",
+    "description_en": "Реактивні БпЛА в районі Павлограда та Нікополя",
+    "description_uk": "Реактивні БпЛА в районі Павлограда та Нікополя",
     "time": "",
-    "pubDate": "2026-08-04T22:40:16+00:00",
+    "pubDate": "2026-08-04T23:35:59+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Ukraine",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71549",
+    "link": "https://t.me/kpszsu/71560",
     "score": 5.0,
-    "views": 35462,
-    "forwards": 35
+    "views": 7119,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "Jet UAVs in Zaporozhye - in the direction of Nikopol",
+    "description_en": "Jet UAVs in Zaporozhye - in the direction of Nikopol",
+    "description_uk": "Реактивні БпЛА на Запоріжжі - у напрямку Нікополя",
+    "time": "",
+    "pubDate": "2026-08-04T23:29:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Nikopol",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71558",
+    "score": 5.0,
+    "views": 12192,
+    "forwards": 0
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Київ: виявлено пуск балістичної ракети",
-    "description": "Multiple fires have broken out across Kyiv as Russia's ballistic missile attack on the capital continues. Fires were reported in the Obolonskyi, Desnianskyi, and Kyiv-Sviatoshynskyi districts, Mayor Vitali Klitschko said. Emergency services are responding.",
-    "description_en": "Multiple fires have broken out across Kyiv as Russia's ballistic missile attack on the capital continues. Fires were reported in the Obolonskyi, Desnianskyi, and Kyiv-Sviatoshynskyi districts, Mayor Vitali Klitschko said. Emergency services are responding.",
-    "description_uk": "Multiple fires have broken out across Kyiv as Russia's ballistic missile attack on the capital continues. Fires were reported in the Obolonskyi, Desnianskyi, and Kyiv-Sviatoshynskyi districts, Mayor Vitali Klitschko said. Emergency services are responding.",
+    "description": "2 rescued from rubble as Russian ballistic missile attack damages Kyiv. Mayor Vitali Klitschko said search and rescue operations were underway in the Holosiivskyi district and warned that additional people could still be trapped.",
+    "description_en": "2 rescued from rubble as Russian ballistic missile attack damages Kyiv. Mayor Vitali Klitschko said search and rescue operations were underway in the Holosiivskyi district and warned that additional people could still be trapped.",
+    "description_uk": "2 rescued from rubble as Russian ballistic missile attack damages Kyiv. Mayor Vitali Klitschko said search and rescue operations were underway in the Holosiivskyi district and warned that additional people could still be trapped.",
     "time": "",
-    "pubDate": "2026-08-04T22:37:21+00:00",
+    "pubDate": "2026-08-04T23:20:58+00:00",
     "category": "missile",
-    "severity": "high",
+    "severity": "critical",
     "location": "Kyiv",
     "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54641",
-    "score": 6.0,
-    "views": 271,
-    "forwards": 1
+    "link": "https://t.me/KyivIndependent_official/54642",
+    "score": 15.0,
+    "views": 260,
+    "forwards": 0
   },
   {
     "title": "Kharkiv: Reactive UAVs in Kharkiv Oblast!",
@@ -68,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197726",
     "score": 5.5,
-    "views": 62529,
-    "forwards": 504
+    "views": 77285,
+    "forwards": 540
   },
   {
     "title": "In the direction of Boyarka/Vasylkovo!",
@@ -284,7 +302,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41759",
     "score": 4.0,
-    "views": 6207,
+    "views": 6263,
     "forwards": 35
   },
   {
@@ -374,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20287",
     "score": 5.5,
-    "views": 72721,
+    "views": 73141,
     "forwards": 69
   },
   {
@@ -392,26 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20286",
     "score": 11.5,
-    "views": 213111,
-    "forwards": 1314
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "Реактивний БпЛА курсом на Миколаїв з півдня!",
-    "description_en": "Реактивний БпЛА курсом на Миколаїв з півдня!",
-    "description_uk": "Реактивний БпЛА курсом на Миколаїв з півдня!",
-    "time": "",
-    "pubDate": "2026-08-04T10:56:41+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71476",
-    "score": 6.0,
-    "views": 46532,
-    "forwards": 0
+    "views": 214106,
+    "forwards": 1319
   },
   {
     "title": "Airstrike attack",
@@ -432,11 +432,11 @@
     "forwards": 179
   },
   {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "117 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of August 4 (from 18:00 on August 3), the enemy attacked with an Iskander-M ballistic missile from the Rostov region. -Russian Federation and 136 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones from the directions: Orel, Millerovo - Russian Federation, TOT Donetsk, Chauda, ​​Gvardiyske - TOT AR Crimea). The air attack was repulsed by aviation, anti-aircraft missiles...",
-    "description_en": "117 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of August 4 (from 18:00 on August 3), the enemy attacked with an Iskander-M ballistic missile from the Rostov region. -Russian Federation and 136 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones from the directions: Orel, Millerovo - Russian Federation, TOT Donetsk, Chauda, ​​Gvardiyske - TOT AR Crimea). The air attack was repulsed by aviation, anti-aircraft missiles...",
+    "title": "Donetsk: Air defense active",
+    "title_en": "Donetsk: Air defense active",
+    "title_uk": "Донецьк: Активна ППО",
+    "description": "ЗБИТО/ПОДАВЛЕНО 117 ВОРОЖИХ БПЛА У ніч на 04 серпня (з 18:00 03 серпня) противник атакував балістичною ракетою Іскандер-М із Ростовської обл. -рф та 136 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків: Орел, Міллєрово – рф., ТОТ Донецьк, Чауда, Гвардійське – ТОТ АР Крим). Повітряний напад відбивали авіація, зенітні ракетні...",
+    "description_en": "ЗБИТО/ПОДАВЛЕНО 117 ВОРОЖИХ БПЛА У ніч на 04 серпня (з 18:00 03 серпня) противник атакував балістичною ракетою Іскандер-М із Ростовської обл. -рф та 136 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків: Орел, Міллєрово – рф., ТОТ Донецьк, Чауда, Гвардійське – ТОТ АР Крим). Повітряний напад відбивали авіація, зенітні ракетні...",
     "description_uk": "ЗБИТО/ПОДАВЛЕНО 117 ВОРОЖИХ БПЛА У ніч на 04 серпня (з 18:00 03 серпня) противник атакував балістичною ракетою Іскандер-М із Ростовської обл. -рф та 136 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків: Орел, Міллєрово – рф., ТОТ Донецьк, Чауда, Гвардійське – ТОТ АР Крим). Повітряний напад відбивали авіація, зенітні ракетні...",
     "time": "",
     "pubDate": "2026-08-04T05:36:36+00:00",
@@ -446,7 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41754",
     "score": 13.0,
-    "views": 13069,
+    "views": 13097,
     "forwards": 21
   }
 ]
