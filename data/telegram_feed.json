@@ -1,5 +1,77 @@
 [
   {
+    "title": "Kharkiv: BpLA on Kharkiv from the north!",
+    "title_en": "Kharkiv: BpLA on Kharkiv from the north!",
+    "title_uk": "Харків: BpLA на Харків з півночі!",
+    "description": "BpLA on Kharkiv from the north!",
+    "description_en": "BpLA on Kharkiv from the north!",
+    "description_uk": "БпЛА на Харків з півночі!",
+    "time": "",
+    "pubDate": "2026-08-04T09:08:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71465",
+    "score": 6.0,
+    "views": 6034,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: Jet UAVs in the west of Kharkiv Oblast, headed for Sumy Oblast.",
+    "title_en": "Kharkiv: Jet UAVs in the west of Kharkiv Oblast, headed for Sumy Oblast.",
+    "title_uk": "Харків: реактивні БПЛА на заході Харківської області прямують у бік Сумської області.",
+    "description": "Jet UAVs in the west of Kharkiv Oblast, headed for Sumy Oblast.",
+    "description_en": "Jet UAVs in the west of Kharkiv Oblast, headed for Sumy Oblast.",
+    "description_uk": "Реактивні БпЛА на заході Харківщини, курсом на Сумщину.",
+    "time": "",
+    "pubDate": "2026-08-04T08:23:39+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71461",
+    "score": 6.0,
+    "views": 64714,
+    "forwards": 0
+  },
+  {
+    "title": "Missile attack on residential area",
+    "title_en": "Missile attack on residential area",
+    "title_uk": "Ракетний обстріл житлових кварталів",
+    "description": "There was a missile attack on Odessa, they write about the arrival of \"Onyx\" Gas pipes are burning near residential buildings.",
+    "description_en": "There was a missile attack on Odessa, they write about the arrival of \"Onyx\" Gas pipes are burning near residential buildings.",
+    "description_uk": "По Одессе нанесен ракетный удар, пишут о прилетах \"Ониксов\" Горят газовые трубы возле жилых домов.",
+    "time": "",
+    "pubDate": "2026-08-04T08:20:59+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/197670",
+    "score": 4.5,
+    "views": 58418,
+    "forwards": 178
+  },
+  {
+    "title": "Kherson: Attack attack",
+    "title_en": "Kherson: Attack attack",
+    "title_uk": "Херсон: Напад",
+    "description": "The ghouls confirmed the attack on the fruit seller in Kherson, saying that the man was helping the Ukrainian military Mol, he was moving on a \"dual-purpose\" vehicle, and was transporting \"dual-purpose trucks.\" What kind of cargo are these, and how do they differ from apples and tomatoes, Rusnyavye Ushlepki found it difficult to explain. With such logic, it is possible to justify the murder of any Ukrainian, because they all support...",
+    "description_en": "The ghouls confirmed the attack on the fruit seller in Kherson, saying that the man was helping the Ukrainian military Mol, he was moving on a \"dual-purpose\" vehicle, and was transporting \"dual-purpose trucks.\" What kind of cargo are these, and how do they differ from apples and tomatoes, Rusnyavye Ushlepki found it difficult to explain. With such logic, it is possible to justify the murder of any Ukrainian, because they all support...",
+    "description_uk": "Упыри подтвердили удар по продавцу фруктов в Херсоне, заявив, что мужик помогал украинским военным Мол, он передвигался на технике \"двойного назначения\", и перевозил \"грузы двойного назначения\". Что же это за грузы такие, и чем они отличаются от яблок да помидоров, руснявые ушлепки пояснить затруднились. С такой логикой можно оправдать убийство любого украинца, ведь все они оказывают поддержку...",
+    "time": "",
+    "pubDate": "2026-08-04T07:39:22+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/197666",
+    "score": 6.5,
+    "views": 86145,
+    "forwards": 285
+  },
+  {
     "title": "Donetsk: Drone incoming",
     "title_en": "Donetsk: Drone incoming",
     "title_uk": "Донецьк: Дрон вхід",
@@ -14,8 +86,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41754",
     "score": 13.0,
-    "views": 2692,
-    "forwards": 9
+    "views": 8245,
+    "forwards": 16
   },
   {
     "title": "Casualties reported",
@@ -104,8 +176,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54628",
     "score": 9.0,
-    "views": 1025,
-    "forwards": 2
+    "views": 1801,
+    "forwards": 3
   },
   {
     "title": "Kyiv: Attack attack",
@@ -194,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54626",
     "score": 5.0,
-    "views": 1818,
+    "views": 2352,
     "forwards": 4
   },
   {
@@ -232,60 +304,6 @@
     "score": 7.5,
     "views": 39490,
     "forwards": 376
-  },
-  {
-    "title": "Mykolaiv: Missile attack",
-    "title_en": "Mykolaiv: Missile attack",
-    "title_uk": "Миколаїв: Ракетний удар",
-    "description": "Air defense missile attack on Mykolaiv from the east.",
-    "description_en": "Air defense missile attack on Mykolaiv from the east.",
-    "description_uk": "Ударні БпЛА на Миколаїв зі сходу.",
-    "time": "",
-    "pubDate": "2026-08-03T20:36:02+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71407",
-    "score": 6.0,
-    "views": 27413,
-    "forwards": 0
-  },
-  {
-    "title": "Реактивний БпЛА на Павлоград з півдня.",
-    "title_en": "Реактивний БпЛА на Павлоград з півдня.",
-    "title_uk": "Реактивний БпЛА на Павлоград з півдня.",
-    "description": "Реактивний БпЛА на Павлоград з півдня.",
-    "description_en": "Реактивний БпЛА на Павлоград з півдня.",
-    "description_uk": "Реактивний БпЛА на Павлоград з півдня.",
-    "time": "",
-    "pubDate": "2026-08-03T19:42:31+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71404",
-    "score": 5.0,
-    "views": 17190,
-    "forwards": 34
-  },
-  {
-    "title": "Mykolaiv: БпЛА на Миколаїв із заходу",
-    "title_en": "Mykolaiv: БпЛА на Миколаїв із заходу",
-    "title_uk": "Миколаїв: БпЛА на Миколаїв із заходу",
-    "description": "БпЛА на Миколаїв із заходу",
-    "description_en": "БпЛА на Миколаїв із заходу",
-    "description_uk": "БпЛА на Миколаїв із заходу",
-    "time": "",
-    "pubDate": "2026-08-03T19:21:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71402",
-    "score": 6.0,
-    "views": 42559,
-    "forwards": 0
   },
   {
     "title": "260 drones intercepted",
@@ -338,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20281",
     "score": 4.0,
-    "views": 55262,
-    "forwards": 81
+    "views": 58353,
+    "forwards": 82
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -392,25 +410,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23716",
     "score": 7.5,
-    "views": 289050,
-    "forwards": 769
-  },
-  {
-    "title": "Kharkiv: 144 missiles + 900 drones launched",
-    "title_en": "Kharkiv: 144 missiles + 900 drones launched",
-    "title_uk": "Харків: запущено 144 ракети + 900 безпілотників",
-    "description": "During this week, 16 of our regions were under attack. And only during this time, the Russians released about 1,900 drones, almost 1,600 aerial bombs and 144 missiles of various types, including ballistic ones. Today there was an aerial bomb attack on Sumy. In Brovary, as a result of a drone strike, one person died, and six others were injured. My condolences to family and friends. Constant shelling of Kharkiv and Kharkiv region, beating at night...",
-    "description_en": "During this week, 16 of our regions were under attack. And only during this time, the Russians released about 1,900 drones, almost 1,600 aerial bombs and 144 missiles of various types, including ballistic ones. Today there was an aerial bomb attack on Sumy. In Brovary, as a result of a drone strike, one person died, and six others were injured. My condolences to family and friends. Constant shelling of Kharkiv and Kharkiv region, beating at night...",
-    "description_uk": "За цей тиждень 16 наших регіонів були під ударами. І лише протягом цього часу росіяни випустили близько 1900 дронів, майже 1600 авіабомб та 144 ракети різних типів, у тому числі й балістику. Сьогодні ж по Сумах був удар авіабомбами. У Броварах внаслідок удару дроном загинула людина, ще шестеро зазнали поранень. Мої співчуття рідним та близьким. Постійні обстріли Харкова та Харківщини, били вночі...",
-    "time": "",
-    "pubDate": "2026-08-02T08:13:39+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kharkiv",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20269",
-    "score": 19.5,
-    "views": 198507,
-    "forwards": 259
+    "views": 291593,
+    "forwards": 777
   }
 ]
