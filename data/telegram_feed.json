@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "UAV headed for Kharkiv from the east.",
+    "description_en": "UAV headed for Kharkiv from the east.",
+    "description_uk": "БпЛА курсом на Харків зі сходу.",
+    "time": "",
+    "pubDate": "2026-08-04T11:04:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71477",
+    "score": 6.0,
+    "views": 30318,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "Реактивний БпЛА курсом на Миколаїв з півдня!",
+    "description_en": "Реактивний БпЛА курсом на Миколаїв з півдня!",
+    "description_uk": "Реактивний БпЛА курсом на Миколаїв з півдня!",
+    "time": "",
+    "pubDate": "2026-08-04T10:56:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71476",
+    "score": 6.0,
+    "views": 46532,
+    "forwards": 0
+  },
+  {
+    "title": "Airstrike attack",
+    "title_en": "Airstrike attack",
+    "title_uk": "Авіаційна атака",
+    "description": "Rusnia continues to systematically destroy Kramatorsk. This time a blow was made to a multi-story building. According to the mayor of the city, Honcharenko, the number of victims of the airstrike is already 15 people.",
+    "description_en": "Rusnia continues to systematically destroy Kramatorsk. This time a blow was made to a multi-story building. According to the mayor of the city, Honcharenko, the number of victims of the airstrike is already 15 people.",
+    "description_uk": "Русня продолжает планомерно уничтожать Краматорск В этот раз нанесен удар по многоэтажке. По словам мэра города Гончаренко, количество пострадавших в результате авиаудара уже составляет 15 человек.",
+    "time": "",
+    "pubDate": "2026-08-04T10:30:24+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kramatorsk",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/197683",
+    "score": 4.5,
+    "views": 66227,
+    "forwards": 72
+  },
+  {
     "title": "Kharkiv: BpLA on Kharkiv from the north!",
     "title_en": "Kharkiv: BpLA on Kharkiv from the north!",
     "title_uk": "Харків: BpLA на Харків з півночі!",
@@ -49,9 +103,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197670",
-    "score": 4.5,
-    "views": 58418,
-    "forwards": 178
+    "score": 5.5,
+    "views": 121816,
+    "forwards": 248
   },
   {
     "title": "Kherson: Attack attack",
@@ -86,8 +140,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41754",
     "score": 13.0,
-    "views": 8245,
-    "forwards": 16
+    "views": 10316,
+    "forwards": 20
   },
   {
     "title": "Casualties reported",
@@ -176,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54628",
     "score": 9.0,
-    "views": 1801,
+    "views": 2232,
     "forwards": 3
   },
   {
@@ -198,60 +252,6 @@
     "forwards": 0
   },
   {
-    "title": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному...",
-    "title_en": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному...",
-    "title_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному...",
-    "description": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "description_en": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-08-03T23:12:04+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71414",
-    "score": 5.0,
-    "views": 17062,
-    "forwards": 1
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_uk": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-08-03T23:12:04+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71414",
-    "score": 5.0,
-    "views": 3691,
-    "forwards": 1
-  },
-  {
-    "title": "UAV on Vylkovo from the Black Sea",
-    "title_en": "UAV on Vylkovo from the Black Sea",
-    "title_uk": "БПЛА на Вилкове з боку Чорного моря",
-    "description": "UAV on Vylkovo from the Black Sea",
-    "description_en": "UAV on Vylkovo from the Black Sea",
-    "description_uk": "БпЛА на Вилкове з Чорного моря",
-    "time": "",
-    "pubDate": "2026-08-03T22:54:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71413",
-    "score": 5.0,
-    "views": 8888,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: US unlikely to reach Patriot co-production deal with Ukraine before...",
     "title_en": "Kyiv: US unlikely to reach Patriot co-production deal with Ukraine before...",
     "title_uk": "Київ: США навряд чи досягнуть угоди з Україною про спільне виробництво Patriot раніше...",
@@ -266,44 +266,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54626",
     "score": 5.0,
-    "views": 2352,
+    "views": 2618,
     "forwards": 4
-  },
-  {
-    "title": "Kryvyi Rih: BpLA to Kryvyi Rih from the south.",
-    "title_en": "Kryvyi Rih: BpLA to Kryvyi Rih from the south.",
-    "title_uk": "Кривий Ріг: БпЛА до Кривого Рогу з півд.",
-    "description": "BpLA to Kryvyi Rih from the south.",
-    "description_en": "BpLA to Kryvyi Rih from the south.",
-    "description_uk": "БпЛА на Кривий Ріг з півдня.",
-    "time": "",
-    "pubDate": "2026-08-03T21:40:09+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71411",
-    "score": 6.0,
-    "views": 19283,
-    "forwards": 1
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "Attack UAVs in Chernihiv Oblast in the direction of Kyiv.",
-    "description_en": "Attack UAVs in Chernihiv Oblast in the direction of Kyiv.",
-    "description_uk": "Ударні БпЛА на Чернігівщині у напрямку Києва.",
-    "time": "",
-    "pubDate": "2026-08-03T21:32:20+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71410",
-    "score": 7.5,
-    "views": 39490,
-    "forwards": 376
   },
   {
     "title": "260 drones intercepted",
@@ -356,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20281",
     "score": 4.0,
-    "views": 58353,
-    "forwards": 82
+    "views": 60240,
+    "forwards": 86
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -378,27 +342,9 @@
     "forwards": 0
   },
   {
-    "title": "High-speed target in Sumy Oblast, in Bilopol'.",
-    "title_en": "High-speed target in Sumy Oblast, in Bilopol'.",
-    "title_uk": "Швидкісна мішень у Сумській області, у Білопіллі.",
-    "description": "High-speed target in Sumy Oblast, in Bilopol'.",
-    "description_en": "High-speed target in Sumy Oblast, in Bilopol'.",
-    "description_uk": "Швидкісна ціль на Сумщині, на Білопілля.",
-    "time": "",
-    "pubDate": "2026-08-03T10:29:26+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71353",
-    "score": 5.0,
-    "views": 30338,
-    "forwards": 0
-  },
-  {
     "title": "Kramatorsk: 🏹 In July, the enemy occupied more than the Defense Forces of Ukraine...",
     "title_en": "Kramatorsk: 🏹 In July, the enemy occupied more than the Defense Forces of Ukraine...",
-    "title_uk": "Краматорськ: 🏹 У липні ворог окупував понад ЗСУ...",
+    "title_uk": "Kramatorsk: 🏹 In July, the enemy occupied more than the Defense Forces of Ukraine...",
     "description": "🏹 In July, the enemy occupied more than the Defense Forces of Ukraine returned. The increase on the map is 36 sq km 🗺 However, there is one important detail — and we have included it in the index in the circle. This is a change of increments in May-July, because the successes of the Defense Forces are demonstrated with a delay. In July, we reduced the area of ​​the occupied territories by 52 sq km. 25 sq km is in May and 27 sq km in June. Thus, the net gain...",
     "description_en": "🏹 In July, the enemy occupied more than the Defense Forces of Ukraine returned. The increase on the map is 36 sq km 🗺 However, there is one important detail — and we have included it in the index in the circle. This is a change of increments in May-July, because the successes of the Defense Forces are demonstrated with a delay. In July, we reduced the area of ​​the occupied territories by 52 sq km. 25 sq km is in May and 27 sq km in June. Thus, the net gain...",
     "description_uk": "🏹 Ворог у липні окупував більше, ніж Сили Оборони України повернули. Приріст по мапі складає 36 кв км 🗺 Проте є одна важлива деталь — і ми її винесли в показник у кружечку. Це зміна приростів у травні-липні, адже успіхи Сил Оборони демонструються із затримкою. У липні ми зменшили площу окупованих територій на 52 кв км. 25 кв км припадає на травень і 27 кв км на червень. Таким чином чистий приріст...",
@@ -410,7 +356,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23716",
     "score": 7.5,
-    "views": 291593,
+    "views": 293061,
     "forwards": 777
   }
 ]
