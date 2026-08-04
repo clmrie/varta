@@ -1,5 +1,77 @@
 [
   {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "Reactive UAVs in the Kyiv region, heading for Brovary/Kyiv.",
+    "description_en": "Reactive UAVs in the Kyiv region, heading for Brovary/Kyiv.",
+    "description_uk": "Реактивні БпЛА на Київщині, курсом на Бровари/Київ.",
+    "time": "",
+    "pubDate": "2026-08-04T15:07:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71490",
+    "score": 6.5,
+    "views": 53600,
+    "forwards": 71
+  },
+  {
+    "title": "Energy infrastructure hit",
+    "title_en": "Energy infrastructure hit",
+    "title_uk": "Поразка енергетичної інфраструктури",
+    "description": "The Defense Forces of Ukraine have neutralized 131 heavy flame-throwing systems of the enemy since the beginning of the full-scale invasion. ℹ️ For reference The heavy flamethrower system is a volley fire system designed to destroy manpower, shelters, fortifications and light armored vehicles. It uses thermobaric or incendiary munitions that create a powerful blast wave and high-temperature damage to...",
+    "description_en": "The Defense Forces of Ukraine have neutralized 131 heavy flame-throwing systems of the enemy since the beginning of the full-scale invasion. ℹ️ For reference The heavy flamethrower system is a volley fire system designed to destroy manpower, shelters, fortifications and light armored vehicles. It uses thermobaric or incendiary munitions that create a powerful blast wave and high-temperature damage to...",
+    "description_uk": "Сили оборони України знешкодили 131 важку вогнеметну систему противника від початку повномасштабного вторгнення. ℹ️ Довідково Важка вогнеметна система — це система залпового вогню, призначена для ураження живої сили, укриттів, фортифікацій та легкої броньованої техніки. Вона застосовує термобаричні або запалювальні боєприпаси, які створюють потужну вибухову хвилю та високотемпературне ураження на...",
+    "time": "",
+    "pubDate": "2026-08-04T14:55:47+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41759",
+    "score": 4.0,
+    "views": 2132,
+    "forwards": 22
+  },
+  {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "Ukraine tested \"kangaroo drones\" for the first time in the rear of the Russian Armed Forces, the Armed Forces of Ukraine conducted an air attack in which one drone was delivered and dropped by another, Forbes reports. The role of the air carrier was performed by a heavy drone that delivered the ARK-1 ground robotic complex deep into the rear of the Russian army. At the same time, the \"mother\" drones themselves can also be launched from robots - both land and water. By the way...",
+    "description_en": "Ukraine tested \"kangaroo drones\" for the first time in the rear of the Russian Armed Forces, the Armed Forces of Ukraine conducted an air attack in which one drone was delivered and dropped by another, Forbes reports. The role of the air carrier was performed by a heavy drone that delivered the ARK-1 ground robotic complex deep into the rear of the Russian army. At the same time, the \"mother\" drones themselves can also be launched from robots - both land and water. By the way...",
+    "description_uk": "Украина впервые испытала \"дроны-кенгуру\" в тылу рф ВСУ провели воздушную атаку, в которой один дрон доставил и сбросил другой, сообщает Forbes. Роль воздушного носителя выполнил тяжелый беспилотник, который доставил наземный роботизированный комплекс ARK-1 глубоко в тыл российской армии. При этом сами \"материнские\" дроны тоже можно запускать с роботов - как наземных, так и водных. К слову,...",
+    "time": "",
+    "pubDate": "2026-08-04T14:15:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/197697",
+    "score": 5.5,
+    "views": 78278,
+    "forwards": 151
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Kharkiv: Drone incoming",
+    "description": "Jet UAVs on the border of Kharkiv Oblast and Dnipropetrovsk Oblast, heading for Poltava Oblast.",
+    "description_en": "Jet UAVs on the border of Kharkiv Oblast and Dnipropetrovsk Oblast, heading for Poltava Oblast.",
+    "description_uk": "Реактивні БпЛА на межі Харківщини та Дніпропетровщини, курсом на Полтавщину.",
+    "time": "",
+    "pubDate": "2026-08-04T14:12:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71487",
+    "score": 6.0,
+    "views": 80913,
+    "forwards": 0
+  },
+  {
     "title": "Sumy: BpLA headed for Sumy from the north. 🚀KABY ➡️ to the Zaporizhzhia...",
     "title_en": "Sumy: BpLA headed for Sumy from the north. 🚀KABY ➡️ to the Zaporizhzhia...",
     "title_uk": "Суми: BpLA прямувала на Суми з півночі. 🚀KABY ➡️ до Запорізького...",
@@ -49,9 +121,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20287",
-    "score": 5.0,
-    "views": 28013,
-    "forwards": 45
+    "score": 5.5,
+    "views": 55033,
+    "forwards": 67
   },
   {
     "title": "Kherson: Explosions reported",
@@ -68,26 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20286",
     "score": 11.5,
-    "views": 96455,
-    "forwards": 764
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "UAV headed for Kharkiv from the east.",
-    "description_en": "UAV headed for Kharkiv from the east.",
-    "description_uk": "БпЛА курсом на Харків зі сходу.",
-    "time": "",
-    "pubDate": "2026-08-04T11:04:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71477",
-    "score": 6.0,
-    "views": 30318,
-    "forwards": 0
+    "views": 152205,
+    "forwards": 1010
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -122,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197683",
     "score": 4.5,
-    "views": 110548,
-    "forwards": 142
+    "views": 139824,
+    "forwards": 179
   },
   {
     "title": "Kharkiv: BpLA on Kharkiv from the north!",
@@ -212,8 +266,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41754",
     "score": 13.0,
-    "views": 11231,
-    "forwards": 20
+    "views": 11931,
+    "forwards": 21
   },
   {
     "title": "Casualties reported",
@@ -270,24 +324,6 @@
     "forwards": 0
   },
   {
-    "title": "Реактивні БпЛА на Одещину з Чорного моря.",
-    "title_en": "Реактивні БпЛА на Одещину з Чорного моря.",
-    "title_uk": "Реактивні БпЛА на Одещину з Чорного моря.",
-    "description": "Реактивні БпЛА на Одещину з Чорного моря.",
-    "description_en": "Реактивні БпЛА на Одещину з Чорного моря.",
-    "description_uk": "Реактивні БпЛА на Одещину з Чорного моря.",
-    "time": "",
-    "pubDate": "2026-08-04T03:22:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71446",
-    "score": 5.0,
-    "views": 17193,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Drone strike",
     "title_en": "Kyiv: Drone strike",
     "title_uk": "Київ: Дрон-удар",
@@ -302,26 +338,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54628",
     "score": 9.0,
-    "views": 2453,
+    "views": 2756,
     "forwards": 4
-  },
-  {
-    "title": "Kyiv: Attack attack",
-    "title_en": "Kyiv: Attack attack",
-    "title_uk": "Київ: Атака",
-    "description": "Київ - загроза застосування ударних безпілотників, перебувайте у безпечних місцях!",
-    "description_en": "Київ - загроза застосування ударних безпілотників, перебувайте у безпечних місцях!",
-    "description_uk": "Київ - загроза застосування ударних безпілотників, перебувайте у безпечних місцях!",
-    "time": "",
-    "pubDate": "2026-08-04T02:51:47+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71443",
-    "score": 6.0,
-    "views": 35375,
-    "forwards": 0
   },
   {
     "title": "Kyiv: US unlikely to reach Patriot co-production deal with Ukraine before...",
@@ -338,7 +356,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54626",
     "score": 5.0,
-    "views": 2742,
+    "views": 2922,
     "forwards": 4
   },
   {
@@ -376,41 +394,5 @@
     "score": 6.0,
     "views": 1892,
     "forwards": 2
-  },
-  {
-    "title": "Kyiv: Ballistic missile launch detected",
-    "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
-    "description": "Most key Russian ballistic missile manufacturers circumvent sanctions as Ukraine faces interceptor shortage, Zelensky says. \"Some key Russian enterprises involved in ballistic missile production are not under sanctions imposed by the U.S., the U.K., Japan, Switzerland, and other jurisdictions,\" President Volodymyr Zelensky said.",
-    "description_en": "Most key Russian ballistic missile manufacturers circumvent sanctions as Ukraine faces interceptor shortage, Zelensky says. \"Some key Russian enterprises involved in ballistic missile production are not under sanctions imposed by the U.S., the U.K., Japan, Switzerland, and other jurisdictions,\" President Volodymyr Zelensky said.",
-    "description_uk": "Most key Russian ballistic missile manufacturers circumvent sanctions as Ukraine faces interceptor shortage, Zelensky says. \"Some key Russian enterprises involved in ballistic missile production are not under sanctions imposed by the U.S., the U.K., Japan, Switzerland, and other jurisdictions,\" President Volodymyr Zelensky said.",
-    "time": "",
-    "pubDate": "2026-08-03T15:15:01+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54616",
-    "score": 13.0,
-    "views": 675,
-    "forwards": 0
-  },
-  {
-    "title": "Kramatorsk: 🏹 In July, the enemy occupied more than the Defense Forces of Ukraine...",
-    "title_en": "Kramatorsk: 🏹 In July, the enemy occupied more than the Defense Forces of Ukraine...",
-    "title_uk": "Kramatorsk: 🏹 In July, the enemy occupied more than the Defense Forces of Ukraine...",
-    "description": "🏹 In July, the enemy occupied more than the Defense Forces of Ukraine returned. The increase on the map is 36 sq km 🗺 However, there is one important detail — and we have included it in the index in the circle. This is a change of increments in May-July, because the successes of the Defense Forces are demonstrated with a delay. In July, we reduced the area of ​​the occupied territories by 52 square km. 25 sq km is in May and 27 sq km in June. Thus, the net gain...",
-    "description_en": "🏹 In July, the enemy occupied more than the Defense Forces of Ukraine returned. The increase on the map is 36 sq km 🗺 However, there is one important detail — and we have included it in the index in the circle. This is a change of increments in May-July, because the successes of the Defense Forces are demonstrated with a delay. In July, we reduced the area of ​​the occupied territories by 52 square km. 25 sq km is in May and 27 sq km in June. Thus, the net gain...",
-    "description_uk": "🏹 Ворог у липні окупував більше, ніж Сили Оборони України повернули. Приріст по мапі складає 36 кв км 🗺 Проте є одна важлива деталь — і ми її винесли в показник у кружечку. Це зміна приростів у травні-липні, адже успіхи Сил Оборони демонструються із затримкою. У липні ми зменшили площу окупованих територій на 52 кв км. 25 кв км припадає на травень і 27 кв км на червень. Таким чином чистий приріст...",
-    "time": "",
-    "pubDate": "2026-08-02T15:23:50+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kramatorsk",
-    "source": "DeepState",
-    "link": "https://t.me/DeepStateUA/23716",
-    "score": 7.5,
-    "views": 294480,
-    "forwards": 789
   }
 ]
