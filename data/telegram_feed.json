@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "More ballistics to Kyiv! from Mon. East!",
+    "description_en": "More ballistics to Kyiv! from Mon. East!",
+    "description_uk": "Ще балістика на Київ! з пн. сходу!",
+    "time": "",
+    "pubDate": "2026-08-04T21:33:56+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71531",
+    "score": 6.5,
+    "views": 88822,
+    "forwards": 68
+  },
+  {
+    "title": "In the direction of Boyarka/Vasylkovo!",
+    "title_en": "In the direction of Boyarka/Vasylkovo!",
+    "title_uk": "В сторону Боярка/Васильково!",
+    "description": "In the direction of Boyarka/Vasylkovo!",
+    "description_en": "In the direction of Boyarka/Vasylkovo!",
+    "description_uk": "У напрямку Боярки/Василькова!",
+    "time": "",
+    "pubDate": "2026-08-04T21:32:42+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71530",
+    "score": 5.5,
+    "views": 94120,
+    "forwards": 136
+  },
+  {
     "title": "Kherson: Drone strike near civilians",
     "title_en": "Kherson: Drone strike near civilians",
     "title_uk": "Херсон: удар безпілотників поблизу мирних жителів",
@@ -14,13 +50,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54637",
     "score": 18.0,
-    "views": 409,
-    "forwards": 1
+    "views": 1372,
+    "forwards": 3
   },
   {
     "title": "Artillery shelling",
     "title_en": "Artillery shelling",
-    "title_uk": "Artillery shelling",
+    "title_uk": "Артилерійський обстріл",
     "description": "Kiel University collected data on military aid supplies to Ukraine. It follows from them that Poland is the leader in the supply of tanks, having handed over 254 machines. Next are the Netherlands (86 tanks), Germany (78) and Denmark (57). Australia delivered 49 M1A1 Abrams tanks to Ukraine. Britain is the leader in the number of transferred artillery (94 units). The USA (90), Italy (40) and Denmark (37) are next. The USA leads in...",
     "description_en": "Kiel University collected data on military aid supplies to Ukraine. It follows from them that Poland is the leader in the supply of tanks, having handed over 254 machines. Next are the Netherlands (86 tanks), Germany (78) and Denmark (57). Australia delivered 49 M1A1 Abrams tanks to Ukraine. Britain is the leader in the number of transferred artillery (94 units). The USA (90), Italy (40) and Denmark (37) are next. The USA leads in...",
     "description_uk": "Кильский университет собрал данные о поставках военной помощи Украине. Из них следует, что в поставках танков лидирует Польша, передавшая 254 машины. Далее идут Нидерланды (86 танков), Германия (78) и Дания (57). Австралия поставила Украине 49 танков M1A1 Абрамс. Британия - в лидерах по количеству переданной артиллерии (94 единицы). Далее идут США (90), Италия (40) и Дания (37). США лидируют по...",
@@ -32,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197714",
     "score": 3.5,
-    "views": 82951,
-    "forwards": 112
+    "views": 112246,
+    "forwards": 148
   },
   {
     "title": "Drone incoming",
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197711",
     "score": 4.5,
-    "views": 120009,
-    "forwards": 359
+    "views": 145302,
+    "forwards": 436
   },
   {
     "title": "Kyiv: Over 8,300 glide bombs dropped by Russia on Ukraine in July in record...",
@@ -200,7 +236,7 @@
   {
     "title": "Energy infrastructure hit",
     "title_en": "Energy infrastructure hit",
-    "title_uk": "Energy infrastructure hit",
+    "title_uk": "Поразка енергетичної інфраструктури",
     "description": "The Defense Forces of Ukraine have neutralized 131 heavy flame-throwing systems of the enemy since the beginning of the full-scale invasion. ℹ️ For reference The heavy flamethrower system is a volley fire system designed to destroy manpower, shelters, fortifications and light armored vehicles. It uses thermobaric or incendiary munitions that create a powerful blast wave and high-temperature damage to...",
     "description_en": "The Defense Forces of Ukraine have neutralized 131 heavy flame-throwing systems of the enemy since the beginning of the full-scale invasion. ℹ️ For reference The heavy flamethrower system is a volley fire system designed to destroy manpower, shelters, fortifications and light armored vehicles. It uses thermobaric or incendiary munitions that create a powerful blast wave and high-temperature damage to...",
     "description_uk": "Сили оборони України знешкодили 131 важку вогнеметну систему противника від початку повномасштабного вторгнення. ℹ️ Довідково Важка вогнеметна система — це система залпового вогню, призначена для ураження живої сили, укриттів, фортифікацій та легкої броньованої техніки. Вона застосовує термобаричні або запалювальні боєприпаси, які створюють потужну вибухову хвилю та високотемпературне ураження на...",
@@ -212,8 +248,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41759",
     "score": 4.0,
-    "views": 5698,
-    "forwards": 33
+    "views": 6041,
+    "forwards": 35
   },
   {
     "title": "Drone attack",
@@ -302,15 +338,15 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20287",
     "score": 5.5,
-    "views": 70205,
-    "forwards": 68
+    "views": 71757,
+    "forwards": 69
   },
   {
     "title": "Kherson: Explosions reported",
     "title_en": "Kherson: Explosions reported",
     "title_uk": "Херсон: повідомляють про вибухи",
-    "description": "Today, many were shocked by another video \"safari\" conducted by Russians with drones against people in Kherson. A Russian drone purposefully hunted a man selling vegetables in Kherson, blew up next to him, and the Russians themselves admitted that they committed this crime and that they are not just sorry, but proud of the way they mock people. The man was injured by the explosion. Every day, Russians make such \"safaris\" on...",
-    "description_en": "Today, many were shocked by another video \"safari\" conducted by Russians with drones against people in Kherson. A Russian drone purposefully hunted a man selling vegetables in Kherson, blew up next to him, and the Russians themselves admitted that they committed this crime and that they are not just sorry, but proud of the way they mock people. The man was injured by the explosion. Every day, Russians make such \"safaris\" on...",
+    "description": "Сьогодні багатьох шокувало чергове відео «сафарі», яке ведуть росіяни дронами проти людей у Херсоні. Російський дрон цілеспрямовано полював за чоловіком, який продавав овочі в Херсоні, підірвався поруч із ним, і росіяни самі визнали, що скоїли цей злочин і що не просто не шкодують, а пишаються тим, як знущаються з людей. Чоловік був поранений вибухом. Щодня росіяни роблять такі «сафарі» на...",
+    "description_en": "Сьогодні багатьох шокувало чергове відео «сафарі», яке ведуть росіяни дронами проти людей у Херсоні. Російський дрон цілеспрямовано полював за чоловіком, який продавав овочі в Херсоні, підірвався поруч із ним, і росіяни самі визнали, що скоїли цей злочин і що не просто не шкодують, а пишаються тим, як знущаються з людей. Чоловік був поранений вибухом. Щодня росіяни роблять такі «сафарі» на...",
     "description_uk": "Сьогодні багатьох шокувало чергове відео «сафарі», яке ведуть росіяни дронами проти людей у Херсоні. Російський дрон цілеспрямовано полював за чоловіком, який продавав овочі в Херсоні, підірвався поруч із ним, і росіяни самі визнали, що скоїли цей злочин і що не просто не шкодують, а пишаються тим, як знущаються з людей. Чоловік був поранений вибухом. Щодня росіяни роблять такі «сафарі» на...",
     "time": "",
     "pubDate": "2026-08-04T11:52:26+00:00",
@@ -320,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20286",
     "score": 11.5,
-    "views": 201391,
-    "forwards": 1267
+    "views": 208583,
+    "forwards": 1299
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -360,27 +396,9 @@
     "forwards": 179
   },
   {
-    "title": "Kharkiv: BpLA on Kharkiv from the north!",
-    "title_en": "Kharkiv: BpLA on Kharkiv from the north!",
-    "title_uk": "Харків: BpLA на Харків з півночі!",
-    "description": "BpLA on Kharkiv from the north!",
-    "description_en": "BpLA on Kharkiv from the north!",
-    "description_uk": "БпЛА на Харків з півночі!",
-    "time": "",
-    "pubDate": "2026-08-04T09:08:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71465",
-    "score": 6.0,
-    "views": 6034,
-    "forwards": 0
-  },
-  {
     "title": "Donetsk: Drone incoming",
     "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
     "description": "117 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of August 4 (from 18:00 on August 3), the enemy attacked with an Iskander-M ballistic missile from the Rostov region. -Russian Federation and 136 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones from the directions: Orel, Millerovo - Russian Federation, TOT Donetsk, Chauda, ​​Gvardiyske - TOT AR Crimea). The air attack was repulsed by aviation, anti-aircraft missiles...",
     "description_en": "117 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of August 4 (from 18:00 on August 3), the enemy attacked with an Iskander-M ballistic missile from the Rostov region. -Russian Federation and 136 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones from the directions: Orel, Millerovo - Russian Federation, TOT Donetsk, Chauda, ​​Gvardiyske - TOT AR Crimea). The air attack was repulsed by aviation, anti-aircraft missiles...",
     "description_uk": "ЗБИТО/ПОДАВЛЕНО 117 ВОРОЖИХ БПЛА У ніч на 04 серпня (з 18:00 03 серпня) противник атакував балістичною ракетою Іскандер-М із Ростовської обл. -рф та 136 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків: Орел, Міллєрово – рф., ТОТ Донецьк, Чауда, Гвардійське – ТОТ АР Крим). Повітряний напад відбивали авіація, зенітні ракетні...",
@@ -392,7 +410,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41754",
     "score": 13.0,
-    "views": 12871,
+    "views": 13003,
     "forwards": 21
   },
   {
