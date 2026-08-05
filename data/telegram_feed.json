@@ -1,5 +1,23 @@
 [
   {
+    "title": "Chernihiv: Chernihiv region: jet UAVs headed for Kulikivka/Menu.",
+    "title_en": "Chernihiv: Chernihiv region: jet UAVs headed for Kulikivka/Menu.",
+    "title_uk": "Чернігів: Чернігівська область: реактивні БПЛА прямували на Куликівку/Меню.",
+    "description": "Chernihiv region: jet UAVs headed for Kulikivka/Menu.",
+    "description_en": "Chernihiv region: jet UAVs headed for Kulikivka/Menu.",
+    "description_uk": "Чернігівщина: реактивні БпЛА курсом на Куликівку/Мену.",
+    "time": "",
+    "pubDate": "2026-08-05T21:14:53+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71654",
+    "score": 6.0,
+    "views": 22474,
+    "forwards": 21
+  },
+  {
     "title": "Dnipro: Drone incoming",
     "title_en": "Dnipro: Drone incoming",
     "title_uk": "Дніпро: Дрон вхід",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/71653",
     "score": 6.0,
-    "views": 33479,
+    "views": 56067,
     "forwards": 0
   },
   {
@@ -68,8 +86,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20306",
     "score": 5.5,
-    "views": 44287,
-    "forwards": 81
+    "views": 49861,
+    "forwards": 86
   },
   {
     "title": "Kyiv: Attack attack",
@@ -86,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54656",
     "score": 10.0,
-    "views": 1217,
+    "views": 1481,
     "forwards": 3
   },
   {
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54655",
     "score": 5.0,
-    "views": 1188,
+    "views": 1417,
     "forwards": 5
   },
   {
@@ -122,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197813",
     "score": 6.5,
-    "views": 119102,
-    "forwards": 286
+    "views": 133434,
+    "forwards": 287
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -212,7 +230,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9883",
     "score": 5.0,
-    "views": 545,
+    "views": 584,
     "forwards": 3
   },
   {
@@ -378,60 +396,6 @@
     "forwards": 252
   },
   {
-    "title": "🛫 Activity of enemy tactical aviation in the southern direction!",
-    "title_en": "🛫 Activity of enemy tactical aviation in the southern direction!",
-    "title_uk": "🛫 Активність тактичної авіації противника на південному напрямку!",
-    "description": "🛫 Activity of enemy tactical aviation in the southern direction!",
-    "description_en": "🛫 Activity of enemy tactical aviation in the southern direction!",
-    "description_uk": "🛫 Активність ворожої тактичної авіації на південному напрямку!",
-    "time": "",
-    "pubDate": "2026-08-05T09:57:24+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71607",
-    "score": 5.0,
-    "views": 4041,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: BpLA ➡️ course to Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA ➡️ course to Kharkiv from the north.",
-    "title_uk": "Харків: BpLA ➡️ курс на Харків з півночі.",
-    "description": "BpLA ➡️ course to Kharkiv from the north.",
-    "description_en": "BpLA ➡️ course to Kharkiv from the north.",
-    "description_uk": "БпЛА ➡️ курсом на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-08-05T09:09:04+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71606",
-    "score": 6.0,
-    "views": 39458,
-    "forwards": 0
-  },
-  {
-    "title": "24 missiles launched",
-    "title_en": "24 missiles launched",
-    "title_uk": "Випущено 24 ракети",
-    "description": "The DPRK is deploying its own missile unit in the Russian Federation for strikes on Ukraine, - Reuters The agency reports with reference to the GUR that a unit of approximately 90 North Korean servicemen is being prepared in the Voronezh region. It can receive six launchers and up to 120 ballistic missiles. Earlier, Pyongyang already handed over a new batch of 40 KN-23 and KN-24 missiles to Moscow and sent a personal...",
-    "description_en": "The DPRK is deploying its own missile unit in the Russian Federation for strikes on Ukraine, - Reuters The agency reports with reference to the GUR that a unit of approximately 90 North Korean servicemen is being prepared in the Voronezh region. It can receive six launchers and up to 120 ballistic missiles. Earlier, Pyongyang already handed over a new batch of 40 KN-23 and KN-24 missiles to Moscow and sent a personal...",
-    "description_uk": "КНДР разворачивает в рф собственное ракетное подразделение для ударов по Украине, - Reuters Агентство со ссылкой на ГУР сообщает, что в Воронежской области готовят подразделение примерно из 90 северокорейских военнослужащих. Оно может получить шесть пусковых установок и до 120 баллистических ракет. Ранее Пхеньян уже передал Москве новую партию из 40 ракет KN-23 и KN-24 и направил в россию личный...",
-    "time": "",
-    "pubDate": "2026-08-05T08:51:58+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/197764",
-    "score": 4.5,
-    "views": 126094,
-    "forwards": 576
-  },
-  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Київ: виявлено пуск балістичної ракети",
@@ -448,5 +412,41 @@
     "score": 8.0,
     "views": 509,
     "forwards": 6
+  },
+  {
+    "title": "Donetsk: Control points, crossing points and other enemy objects were hit On...",
+    "title_en": "Donetsk: Control points, crossing points and other enemy objects were hit On...",
+    "title_uk": "Donetsk: Control points, crossing points and other enemy objects were hit On...",
+    "description": "Control points, crossing points and other enemy objects were hit On the night of August 5, 2026 and yesterday, units of the Defense Forces of Ukraine damaged a number of important enemy objects. ⚡️Yes, the control points of the occupiers' UAVs in the areas of Maly Shcherbaki of the Zaporizhzhia region, Kostyantynivka, Chasovoy Yar and Zeleny Pol in Donetsk region, as well as Volfinsky of the Kursk region of the Russian Federation, were affected. ⚡️Separately inflicted...",
+    "description_en": "Control points, crossing points and other enemy objects were hit On the night of August 5, 2026 and yesterday, units of the Defense Forces of Ukraine damaged a number of important enemy objects. ⚡️Yes, the control points of the occupiers' UAVs in the areas of Maly Shcherbaki of the Zaporizhzhia region, Kostyantynivka, Chasovoy Yar and Zeleny Pol in Donetsk region, as well as Volfinsky of the Kursk region of the Russian Federation, were affected. ⚡️Separately inflicted...",
+    "description_uk": "Уражено пункти управління, переправу та інші об'єкти ворога В ніч на 5 серпня 2026 року та вчора підрозділи Сил оборони України завдали ураження низці важливих об'єктів противника. ⚡️Так, уражено пункти управління БпЛА окупантів у районах Малих Щербаків Запорізької області, Костянтинівки, Часового Яру та Зеленого Поля на Донеччині, а також Волфінського Курської області рф. ⚡️Окремо завдано...",
+    "time": "",
+    "pubDate": "2026-08-05T07:50:53+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41765",
+    "score": 6.5,
+    "views": 12328,
+    "forwards": 75
+  },
+  {
+    "title": "Donetsk: 115 drones intercepted",
+    "title_en": "Donetsk: 115 drones intercepted",
+    "title_uk": "Донецьк: перехоплено 115 безпілотників",
+    "description": "98 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of August 5 (from 18:00 on August 4), the enemy attacked with 4 Zircon/Onyx anti-ship missiles from the Kursk and Rostov regions, 24 Iskander-M/S-400 ballistic missiles from the Bryansk and Kursk regions, 115 Shahed type strike UAVs (most of them are reactive), Gerbera, Italmas and \"Parody\" type simulator drones from the directions: Kursk, Millerovo, Orel - Russian Federation,...",
+    "description_en": "98 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of August 5 (from 18:00 on August 4), the enemy attacked with 4 Zircon/Onyx anti-ship missiles from the Kursk and Rostov regions, 24 Iskander-M/S-400 ballistic missiles from the Bryansk and Kursk regions, 115 Shahed type strike UAVs (most of them are reactive), Gerbera, Italmas and \"Parody\" type simulator drones from the directions: Kursk, Millerovo, Orel - Russian Federation,...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 98 ВОРОЖИХ БПЛА У ніч на 05 серпня (з 18:00 04 серпня) противник атакував 4 протикорабельними ракетами Циркон/Онікс із Курської та Ростовської обл., 24 балістичними ракетами Іскандер-М/С-400 із Брянської та Курської обл., 115 ударними БпЛА типу Shahed (більшість із них — реактивні), Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Міллерово, Орел – рф.,...",
+    "time": "",
+    "pubDate": "2026-08-05T06:57:39+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41764",
+    "score": 13.0,
+    "views": 7433,
+    "forwards": 23
   }
 ]
