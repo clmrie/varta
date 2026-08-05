@@ -1,5 +1,41 @@
 [
   {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "UAV heading for Kamianske/Dnipro from the southwest.",
+    "description_en": "UAV heading for Kamianske/Dnipro from the southwest.",
+    "description_uk": "БпЛА курсом на Кам'янське/Дніпро з південного заходу.",
+    "time": "",
+    "pubDate": "2026-08-05T20:04:16+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71653",
+    "score": 6.0,
+    "views": 33479,
+    "forwards": 0
+  },
+  {
+    "title": "BpLA from Sumy region (Lebedyn) ➡️ in the direction of Poltava region.",
+    "title_en": "BpLA from Sumy region (Lebedyn) ➡️ in the direction of Poltava region.",
+    "title_uk": "BpLA з Сумської області (Лебедин) ➡️ в напрямку Полтавської області.",
+    "description": "BpLA from Sumy region (Lebedyn) ➡️ in the direction of Poltava region.",
+    "description_en": "BpLA from Sumy region (Lebedyn) ➡️ in the direction of Poltava region.",
+    "description_uk": "БпЛА із Сумщини (Лебедин) ➡️ у напрямку Полтавщини.",
+    "time": "",
+    "pubDate": "2026-08-05T19:14:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71652",
+    "score": 5.0,
+    "views": 60859,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -32,8 +68,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20306",
     "score": 5.5,
-    "views": 28410,
-    "forwards": 57
+    "views": 44287,
+    "forwards": 81
   },
   {
     "title": "Kyiv: Attack attack",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54656",
     "score": 10.0,
-    "views": 701,
-    "forwards": 2
+    "views": 1217,
+    "forwards": 3
   },
   {
     "title": "Kyiv: Is there an alternative to NATO for Ukraine? “Ukrainians seem to have...",
@@ -68,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54655",
     "score": 5.0,
-    "views": 737,
-    "forwards": 4
+    "views": 1188,
+    "forwards": 5
   },
   {
     "title": "Catching the Iskander launcher before launch is extremely difficult,...",
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197813",
     "score": 6.5,
-    "views": 81256,
-    "forwards": 215
+    "views": 119102,
+    "forwards": 286
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -176,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9883",
     "score": 5.0,
-    "views": 507,
+    "views": 545,
     "forwards": 3
   },
   {
@@ -412,41 +448,5 @@
     "score": 8.0,
     "views": 509,
     "forwards": 6
-  },
-  {
-    "title": "Donetsk: Control points, crossing points and other enemy objects were hit On...",
-    "title_en": "Donetsk: Control points, crossing points and other enemy objects were hit On...",
-    "title_uk": "Донецьк: уражені пункти управління, блокпости та інші об'єкти противника...",
-    "description": "Control points, crossing points and other enemy objects were hit On the night of August 5, 2026 and yesterday, units of the Defense Forces of Ukraine damaged a number of important enemy objects. ⚡️Yes, the control points of the occupiers' UAVs in the areas of Maly Shcherbaki of the Zaporizhzhia region, Kostyantynivka, Chasovoy Yar and Zeleny Pol in Donetsk region, as well as Volfinsky of the Kursk region of the Russian Federation, were affected. ⚡️Separately inflicted...",
-    "description_en": "Control points, crossing points and other enemy objects were hit On the night of August 5, 2026 and yesterday, units of the Defense Forces of Ukraine damaged a number of important enemy objects. ⚡️Yes, the control points of the occupiers' UAVs in the areas of Maly Shcherbaki of the Zaporizhzhia region, Kostyantynivka, Chasovoy Yar and Zeleny Pol in Donetsk region, as well as Volfinsky of the Kursk region of the Russian Federation, were affected. ⚡️Separately inflicted...",
-    "description_uk": "Уражено пункти управління, переправу та інші об'єкти ворога В ніч на 5 серпня 2026 року та вчора підрозділи Сил оборони України завдали ураження низці важливих об'єктів противника. ⚡️Так, уражено пункти управління БпЛА окупантів у районах Малих Щербаків Запорізької області, Костянтинівки, Часового Яру та Зеленого Поля на Донеччині, а також Волфінського Курської області рф. ⚡️Окремо завдано...",
-    "time": "",
-    "pubDate": "2026-08-05T07:50:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41765",
-    "score": 6.5,
-    "views": 11867,
-    "forwards": 74
-  },
-  {
-    "title": "Kyiv: 115 drones launched",
-    "title_en": "Kyiv: 115 drones launched",
-    "title_uk": "Київ: запущено 115 дронів",
-    "description": "Update: At least 17 killed, 44 injured after massive Russian missile, drone attack on Kyiv region. Search and rescue operations remain underway after Russia launched 24 ballistic missiles, four hypersonic missiles, and 115 drones targeting civilian infrastructure and residential areas overnight.",
-    "description_en": "Update: At least 17 killed, 44 injured after massive Russian missile, drone attack on Kyiv region. Search and rescue operations remain underway after Russia launched 24 ballistic missiles, four hypersonic missiles, and 115 drones targeting civilian infrastructure and residential areas overnight.",
-    "description_uk": "Update: At least 17 killed, 44 injured after massive Russian missile, drone attack on Kyiv region. Search and rescue operations remain underway after Russia launched 24 ballistic missiles, four hypersonic missiles, and 115 drones targeting civilian infrastructure and residential areas overnight.",
-    "time": "",
-    "pubDate": "2026-08-05T07:04:05+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54647",
-    "score": 14.0,
-    "views": 2708,
-    "forwards": 12
   }
 ]
