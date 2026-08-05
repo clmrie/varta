@@ -1,5 +1,59 @@
 [
   {
+    "title": "Dnipro: Reactive UAVs in the Kamian district of the Dnipropetrovsk region.",
+    "title_en": "Dnipro: Reactive UAVs in the Kamian district of the Dnipropetrovsk region.",
+    "title_uk": "Дніпро: реактивні БПЛА в Кам'янському районі Дніпропетровської області.",
+    "description": "Reactive UAVs in the Kamian district of the Dnipropetrovsk region.",
+    "description_en": "Reactive UAVs in the Kamian district of the Dnipropetrovsk region.",
+    "description_uk": "Реактивні БпЛА в Кам'янському районі Дніпропетровщини.",
+    "time": "",
+    "pubDate": "2026-08-05T02:40:31+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71579",
+    "score": 6.0,
+    "views": 45557,
+    "forwards": 1
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV in the waters of the Black Sea, heading for Odesa.",
+    "description_en": "UAV in the waters of the Black Sea, heading for Odesa.",
+    "description_uk": "БпЛА в акваторії Чорного моря, курсом на Одещину.",
+    "time": "",
+    "pubDate": "2026-08-05T02:31:24+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71578",
+    "score": 5.0,
+    "views": 49577,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Київ: Дрон-удар",
+    "description": "Ukrainian drones reportedly strike Wildberries warehouse in Russia's Tula Oblast. Ukrainian drones targeted a warehouse belonging to major Russian online retailer Wildberries in Russia's Tula Oblast overnight on Aug. 5, monitoring channels reported.",
+    "description_en": "Ukrainian drones reportedly strike Wildberries warehouse in Russia's Tula Oblast. Ukrainian drones targeted a warehouse belonging to major Russian online retailer Wildberries in Russia's Tula Oblast overnight on Aug. 5, monitoring channels reported.",
+    "description_uk": "Ukrainian drones reportedly strike Wildberries warehouse in Russia's Tula Oblast. Ukrainian drones targeted a warehouse belonging to major Russian online retailer Wildberries in Russia's Tula Oblast overnight on Aug. 5, monitoring channels reported.",
+    "time": "",
+    "pubDate": "2026-08-05T01:40:54+00:00",
+    "category": "drone",
+    "severity": "medium",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54644",
+    "score": 4.0,
+    "views": 858,
+    "forwards": 2
+  },
+  {
     "title": "Kryvyi Rih: Реактивний БпЛА ➡️ Кривий Ріг!",
     "title_en": "Kryvyi Rih: Реактивний БпЛА ➡️ Кривий Ріг!",
     "title_uk": "Кривий Ріг: Реактивний БпЛА ➡️ Кривий Ріг!",
@@ -54,24 +108,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "Jet UAVs in Zaporozhye - in the direction of Nikopol",
-    "description_en": "Jet UAVs in Zaporozhye - in the direction of Nikopol",
-    "description_uk": "Реактивні БпЛА на Запоріжжі - у напрямку Нікополя",
-    "time": "",
-    "pubDate": "2026-08-04T23:29:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Nikopol",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71558",
-    "score": 5.0,
-    "views": 12192,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Київ: виявлено пуск балістичної ракети",
@@ -86,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54642",
     "score": 15.0,
-    "views": 616,
+    "views": 1337,
     "forwards": 0
   },
   {
@@ -122,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197726",
     "score": 5.5,
-    "views": 90645,
-    "forwards": 562
+    "views": 163173,
+    "forwards": 599
   },
   {
     "title": "In the direction of Boyarka/Vasylkovo!",
@@ -288,42 +324,6 @@
     "forwards": 1
   },
   {
-    "title": "😢 Another blow to the sweet tooth: the enemy hit the Millennium...",
-    "title_en": "😢 Another blow to the sweet tooth: the enemy hit the Millennium...",
-    "title_uk": "😢 Ще один удар по ласунах: ворог вдарив по Міленіуму...",
-    "description": "😢 Another blow to the sweet tooth: the enemy hit the Millennium chocolate warehouse in Dnipro: the company lost part of its stock of finished products. Millennium warned that some types of chocolate and sweets may temporarily disappear from stores in the near future.",
-    "description_en": "😢 Another blow to the sweet tooth: the enemy hit the Millennium chocolate warehouse in Dnipro: the company lost part of its stock of finished products. Millennium warned that some types of chocolate and sweets may temporarily disappear from stores in the near future.",
-    "description_uk": "😢 Еще один удар по сладкому: враги попали по складу шоколада Millennium в Днепре: компания потеряла часть запасов готовой продукции. В Millennium предупредили, что в ближайшее время в магазинах могут временно исчезнуть отдельные виды шоколада и сладостей.",
-    "time": "",
-    "pubDate": "2026-08-04T16:23:01+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/197704",
-    "score": 5.5,
-    "views": 61105,
-    "forwards": 212
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Дрон вхід",
-    "description": "Reactive UAVs in the Kyiv region, heading for Brovary/Kyiv.",
-    "description_en": "Reactive UAVs in the Kyiv region, heading for Brovary/Kyiv.",
-    "description_uk": "Реактивні БпЛА на Київщині, курсом на Бровари/Київ.",
-    "time": "",
-    "pubDate": "2026-08-04T15:07:40+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71490",
-    "score": 6.5,
-    "views": 53600,
-    "forwards": 71
-  },
-  {
     "title": "Energy infrastructure hit",
     "title_en": "Energy infrastructure hit",
     "title_uk": "Поразка енергетичної інфраструктури",
@@ -338,62 +338,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41759",
     "score": 4.0,
-    "views": 6309,
+    "views": 6949,
     "forwards": 35
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "Ukraine tested \"kangaroo drones\" for the first time in the rear of the Russian Armed Forces, the Armed Forces of Ukraine conducted an air attack in which one drone was delivered and dropped by another, Forbes reports. The role of the air carrier was performed by a heavy drone that delivered the ARK-1 ground robotic complex deep into the rear of the Russian army. At the same time, the \"mother\" drones themselves can also be launched from robots - both land and water. By the way...",
-    "description_en": "Ukraine tested \"kangaroo drones\" for the first time in the rear of the Russian Armed Forces, the Armed Forces of Ukraine conducted an air attack in which one drone was delivered and dropped by another, Forbes reports. The role of the air carrier was performed by a heavy drone that delivered the ARK-1 ground robotic complex deep into the rear of the Russian army. At the same time, the \"mother\" drones themselves can also be launched from robots - both land and water. By the way...",
-    "description_uk": "Украина впервые испытала \"дроны-кенгуру\" в тылу рф ВСУ провели воздушную атаку, в которой один дрон доставил и сбросил другой, сообщает Forbes. Роль воздушного носителя выполнил тяжелый беспилотник, который доставил наземный роботизированный комплекс ARK-1 глубоко в тыл российской армии. При этом сами \"материнские\" дроны тоже можно запускать с роботов - как наземных, так и водных. К слову,...",
-    "time": "",
-    "pubDate": "2026-08-04T14:15:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/197697",
-    "score": 5.5,
-    "views": 78278,
-    "forwards": 151
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Kharkiv: Drone incoming",
-    "description": "Jet UAVs on the border of Kharkiv Oblast and Dnipropetrovsk Oblast, heading for Poltava Oblast.",
-    "description_en": "Jet UAVs on the border of Kharkiv Oblast and Dnipropetrovsk Oblast, heading for Poltava Oblast.",
-    "description_uk": "Реактивні БпЛА на межі Харківщини та Дніпропетровщини, курсом на Полтавщину.",
-    "time": "",
-    "pubDate": "2026-08-04T14:12:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71487",
-    "score": 6.0,
-    "views": 80913,
-    "forwards": 0
-  },
-  {
-    "title": "Sumy: BpLA headed for Sumy from the north. 🚀KABY ➡️ to the Zaporizhzhia...",
-    "title_en": "Sumy: BpLA headed for Sumy from the north. 🚀KABY ➡️ to the Zaporizhzhia...",
-    "title_uk": "Суми: BpLA прямувала на Суми з півночі. 🚀KABY ➡️ до Запорізького...",
-    "description": "BpLA headed for Sumy from the north. 🚀KABY ➡️ to the Zaporizhzhia region!",
-    "description_en": "BpLA headed for Sumy from the north. 🚀KABY ➡️ to the Zaporizhzhia region!",
-    "description_uk": "БпЛА курсом на Суми з півночі. 🚀КАБи ➡️ на Запорізьку область!",
-    "time": "",
-    "pubDate": "2026-08-04T13:15:46+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71483",
-    "score": 6.0,
-    "views": 7073,
-    "forwards": 0
   },
   {
     "title": "Ballistic missile launch detected",
@@ -410,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20287",
     "score": 5.5,
-    "views": 73402,
-    "forwards": 69
+    "views": 74645,
+    "forwards": 71
   },
   {
     "title": "Kherson: Explosions reported",
@@ -428,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20286",
     "score": 11.5,
-    "views": 214949,
-    "forwards": 1320
+    "views": 220725,
+    "forwards": 1333
   },
   {
     "title": "Airstrike attack",
@@ -448,5 +394,23 @@
     "score": 4.5,
     "views": 139824,
     "forwards": 179
+  },
+  {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "117 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of August 4 (from 18:00 on August 3), the enemy attacked with an Iskander-M ballistic missile from the Rostov region. -Russian Federation and 136 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones from the directions: Orel, Millerovo - Russian Federation, TOT Donetsk, Chauda, ​​Gvardiyske - TOT AR Crimea). The air attack was repulsed by aviation, anti-aircraft missiles...",
+    "description_en": "117 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of August 4 (from 18:00 on August 3), the enemy attacked with an Iskander-M ballistic missile from the Rostov region. -Russian Federation and 136 strike UAVs of the Shahed type (including jet ones), Gerbera, Italmas, and \"Parody\" type simulator drones from the directions: Orel, Millerovo - Russian Federation, TOT Donetsk, Chauda, ​​Gvardiyske - TOT AR Crimea). The air attack was repulsed by aviation, anti-aircraft missiles...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 117 ВОРОЖИХ БПЛА У ніч на 04 серпня (з 18:00 03 серпня) противник атакував балістичною ракетою Іскандер-М із Ростовської обл. -рф та 136 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків: Орел, Міллєрово – рф., ТОТ Донецьк, Чауда, Гвардійське – ТОТ АР Крим). Повітряний напад відбивали авіація, зенітні ракетні...",
+    "time": "",
+    "pubDate": "2026-08-04T05:36:36+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41754",
+    "score": 13.0,
+    "views": 13413,
+    "forwards": 21
   }
 ]
