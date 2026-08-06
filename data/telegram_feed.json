@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Kharkiv region: BpLA ➡️ to/past Bogodukhiv on a southerly course.",
+    "title_en": "Kharkiv: Kharkiv region: BpLA ➡️ to/past Bogodukhiv on a southerly course.",
+    "title_uk": "Харків: Харківська область: BpLA ➡️ до/повз Богодухів на південь.",
+    "description": "Kharkiv region: BpLA ➡️ to/past Bogodukhiv on a southerly course.",
+    "description_en": "Kharkiv region: BpLA ➡️ to/past Bogodukhiv on a southerly course.",
+    "description_uk": "Харківщина: БпЛА ➡️ на/повз Богодухів південним курсом.",
+    "time": "",
+    "pubDate": "2026-08-06T10:34:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71747",
+    "score": 6.0,
+    "views": 43467,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "Dnipropetrovsk region: jet UAV in the direction of Vyshnevo from the south.",
+    "description_en": "Dnipropetrovsk region: jet UAV in the direction of Vyshnevo from the south.",
+    "description_uk": "Дніпропетровщина: реактивний БпЛА в напрямку Вишневого з півдня.",
+    "time": "",
+    "pubDate": "2026-08-06T10:23:18+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71746",
+    "score": 6.0,
+    "views": 50571,
+    "forwards": 1
+  },
+  {
     "title": "Sumyshchyna: jet UAV ➡️ on/past Trostyanets on a westerly course.",
     "title_en": "Sumyshchyna: jet UAV ➡️ on/past Trostyanets on a westerly course.",
     "title_uk": "Сумщина: реактивний БПЛА ➡️ на/повз Тростянець на західному курсі.",
@@ -50,13 +86,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54667",
     "score": 4.0,
-    "views": 403,
+    "views": 1250,
     "forwards": 1
   },
   {
     "title": "Kherson: Two oil refineries and the means of controlling enemy UAVs were hit...",
     "title_en": "Kherson: Two oil refineries and the means of controlling enemy UAVs were hit...",
-    "title_uk": "Херсон: Уражені два нафтопереробні заводи та засоби управління БПЛА противника...",
+    "title_uk": "Херсон: Побити два нафтопереробні заводи та засоби управління БПЛА противника...",
     "description": "Two oil refineries and the means of controlling enemy UAVs were hit ⚡️On August 5 and on the night of August 6, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged a number of important enemy facilities. ⚡️On the night of August 6, the oil refinery \"Slavneft-Yanos\" in Yaroslavl (Yaroslavl region, Russian Federation) was damaged. 🔥Fixed a hit in...",
     "description_en": "Two oil refineries and the means of controlling enemy UAVs were hit ⚡️On August 5 and on the night of August 6, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged a number of important enemy facilities. ⚡️On the night of August 6, the oil refinery \"Slavneft-Yanos\" in Yaroslavl (Yaroslavl region, Russian Federation) was damaged. 🔥Fixed a hit in...",
     "description_uk": "Уражено два НПЗ та засоби управління ударними БпЛА противника ⚡️5 серпня та в ніч на 6 серпня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України завдали ураження низці важливих об'єктів ворога. ⚡️У ніч на 6 серпня завдано ураження нафтопереробному заводу «Славнефть-Янос» у Ярославлі (Ярославська область, рф). 🔥Зафіксовано влучання в...",
@@ -68,8 +104,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41778",
     "score": 13.5,
-    "views": 13330,
-    "forwards": 66
+    "views": 25996,
+    "forwards": 97
   },
   {
     "title": "Donetsk: 101 drones intercepted",
@@ -86,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41777",
     "score": 13.0,
-    "views": 4199,
-    "forwards": 18
+    "views": 5287,
+    "forwards": 24
   },
   {
     "title": "Dnipro: BpLA on the Dnipro from the west.",
@@ -140,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54664",
     "score": 8.0,
-    "views": 1590,
+    "views": 1963,
     "forwards": 3
   },
   {
@@ -252,24 +288,6 @@
     "forwards": 10
   },
   {
-    "title": "Chernihiv: Chernihiv region: jet UAVs headed for Kulikivka/Menu.",
-    "title_en": "Chernihiv: Chernihiv region: jet UAVs headed for Kulikivka/Menu.",
-    "title_uk": "Чернігів: Чернігівська область: реактивні БПЛА прямували на Куликівку/Меню.",
-    "description": "Chernihiv region: jet UAVs headed for Kulikivka/Menu.",
-    "description_en": "Chernihiv region: jet UAVs headed for Kulikivka/Menu.",
-    "description_uk": "Чернігівщина: реактивні БпЛА курсом на Куликівку/Мену.",
-    "time": "",
-    "pubDate": "2026-08-05T21:14:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71654",
-    "score": 6.0,
-    "views": 77068,
-    "forwards": 21
-  },
-  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -284,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20306",
     "score": 5.5,
-    "views": 82151,
-    "forwards": 110
+    "views": 85990,
+    "forwards": 115
   },
   {
     "title": "Casualties reported",
