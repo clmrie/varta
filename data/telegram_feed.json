@@ -1,5 +1,41 @@
 [
   {
+    "title": "🛸 Reconnaissance UAV in the Dnipro area, which can be a gunner of...",
+    "title_en": "🛸 Reconnaissance UAV in the Dnipro area, which can be a gunner of...",
+    "title_uk": "🛸 Розвідувальний БПЛА в районі Дніпра, який може бути навідником...",
+    "description": "🛸 Reconnaissance UAV in the Dnipro area, which can be a gunner of enemy weapons!",
+    "description_en": "🛸 Reconnaissance UAV in the Dnipro area, which can be a gunner of enemy weapons!",
+    "description_uk": "🛸 Розвідувальний БпЛА в районі Дніпра, який може бути навідником ворожих засобів ураження!",
+    "time": "",
+    "pubDate": "2026-08-07T23:26:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71917",
+    "score": 5.0,
+    "views": 2734,
+    "forwards": 50
+  },
+  {
+    "title": "Sumy: BpLA on Sumy from the north!",
+    "title_en": "Sumy: BpLA on Sumy from the north!",
+    "title_uk": "Суми: БпЛА на Суми з півночі!",
+    "description": "BpLA on Sumy from the north!",
+    "description_en": "BpLA on Sumy from the north!",
+    "description_uk": "БпЛА на Суми з півночі!",
+    "time": "",
+    "pubDate": "2026-08-07T23:01:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71916",
+    "score": 6.0,
+    "views": 11363,
+    "forwards": 10
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -68,7 +104,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197977",
     "score": 5.5,
-    "views": 33111,
+    "views": 39114,
     "forwards": 70
   },
   {
@@ -140,7 +176,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197972",
     "score": 4.5,
-    "views": 70426,
+    "views": 74735,
     "forwards": 122
   },
   {
@@ -194,8 +230,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54697",
     "score": 11.5,
-    "views": 1572,
-    "forwards": 3
+    "views": 1643,
+    "forwards": 4
   },
   {
     "title": "Dnipro: BpLA in Dnipropetrovsk region, heading for Pavlograd.",
@@ -230,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54696",
     "score": 13.0,
-    "views": 1783,
+    "views": 1843,
     "forwards": 1
   },
   {
@@ -392,7 +428,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41793",
     "score": 5.0,
-    "views": 5369,
+    "views": 5386,
     "forwards": 5
   },
   {
@@ -411,42 +447,6 @@
     "link": "https://t.me/kpszsu/71860",
     "score": 6.0,
     "views": 70744,
-    "forwards": 0
-  },
-  {
-    "title": "Dnipro: A jet UAV headed for the Dnipro.",
-    "title_en": "Dnipro: A jet UAV headed for the Dnipro.",
-    "title_uk": "Дніпро: реактивний БПЛА взяв курс на Дніпро.",
-    "description": "A jet UAV headed for the Dnipro.",
-    "description_en": "A jet UAV headed for the Dnipro.",
-    "description_uk": "Реактивний БпЛА курсом на Дніпро.",
-    "time": "",
-    "pubDate": "2026-08-07T11:03:45+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71850",
-    "score": 6.0,
-    "views": 32293,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: A high-speed target in the east of Kharkiv Oblast, in the direction...",
-    "title_en": "Kharkiv: A high-speed target in the east of Kharkiv Oblast, in the direction...",
-    "title_uk": "Харків: Швидкісна ціль на сході Харківської області, в напрямку...",
-    "description": "A high-speed target in the east of Kharkiv Oblast, in the direction of Shevchenko from the north",
-    "description_en": "A high-speed target in the east of Kharkiv Oblast, in the direction of Shevchenko from the north",
-    "description_uk": "Швидкісна ціль на сході Харківщини, в напрямку н.п. Шевченкове з півночі",
-    "time": "",
-    "pubDate": "2026-08-07T08:35:11+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71843",
-    "score": 6.0,
-    "views": 56613,
     "forwards": 0
   }
 ]
