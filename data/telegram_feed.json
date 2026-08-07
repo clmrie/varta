@@ -1,5 +1,59 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "Jet UAVs in the waters of the Black Sea, in the direction of Odesa/Mykolaiv Oblast.",
+    "description_en": "Jet UAVs in the waters of the Black Sea, in the direction of Odesa/Mykolaiv Oblast.",
+    "description_uk": "Реактивні БпЛА в акваторії Чорного моря, в напрямку Одещини/Миколаївщини.",
+    "time": "",
+    "pubDate": "2026-08-07T19:46:55+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71892",
+    "score": 6.0,
+    "views": 22277,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
+    "description": "BpLA on Zaporozhye from the south.",
+    "description_en": "BpLA on Zaporozhye from the south.",
+    "description_uk": "БпЛА на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-08-07T19:29:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71889",
+    "score": 6.0,
+    "views": 37437,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Attack attack on infrastructure",
+    "title_en": "Kyiv: Attack attack on infrastructure",
+    "title_uk": "Київ: Атака на інфраструктуру",
+    "description": "Russian attacks on critical Ukrainian energy infrastructure destroy key facilities ahead of winter. Russia hit seven Naftogaz facilities in eastern Ukraine overnight, destroying critical production equipment and forcing multiple sites to shut down.",
+    "description_en": "Russian attacks on critical Ukrainian energy infrastructure destroy key facilities ahead of winter. Russia hit seven Naftogaz facilities in eastern Ukraine overnight, destroying critical production equipment and forcing multiple sites to shut down.",
+    "description_uk": "Russian attacks on critical Ukrainian energy infrastructure destroy key facilities ahead of winter. Russia hit seven Naftogaz facilities in eastern Ukraine overnight, destroying critical production equipment and forcing multiple sites to shut down.",
+    "time": "",
+    "pubDate": "2026-08-07T19:19:57+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54697",
+    "score": 11.5,
+    "views": 592,
+    "forwards": 3
+  },
+  {
     "title": "Dnipro: BpLA in Dnipropetrovsk region, heading for Pavlograd.",
     "title_en": "Dnipro: BpLA in Dnipropetrovsk region, heading for Pavlograd.",
     "title_uk": "Дніпро: BpLA у Дніпропетровській області, курс на Павлоград.",
@@ -32,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54696",
     "score": 13.0,
-    "views": 662,
+    "views": 1015,
     "forwards": 1
   },
   {
@@ -194,7 +248,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41793",
     "score": 5.0,
-    "views": 4920,
+    "views": 5102,
     "forwards": 4
   },
   {
@@ -213,24 +267,6 @@
     "link": "https://t.me/kpszsu/71860",
     "score": 6.0,
     "views": 70744,
-    "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "Jet UAVs in the waters of the Black Sea, heading for the Mykolaiv Odesa region.",
-    "description_en": "Jet UAVs in the waters of the Black Sea, heading for the Mykolaiv Odesa region.",
-    "description_uk": "Реактивні БпЛА в акваторії Чорного моря, курсом на Миколаївщину/Одещину.",
-    "time": "",
-    "pubDate": "2026-08-07T12:22:52+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71854",
-    "score": 6.0,
-    "views": 9082,
     "forwards": 0
   },
   {
@@ -320,8 +356,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41792",
     "score": 10.0,
-    "views": 27415,
-    "forwards": 115
+    "views": 27985,
+    "forwards": 116
   },
   {
     "title": "Donetsk: Drone incoming",
