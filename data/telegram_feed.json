@@ -1,5 +1,23 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "Jet UAVs in the waters of the Black Sea, heading for the Mykolaiv Odesa region.",
+    "description_en": "Jet UAVs in the waters of the Black Sea, heading for the Mykolaiv Odesa region.",
+    "description_uk": "Реактивні БпЛА в акваторії Чорного моря, курсом на Миколаївщину/Одещину.",
+    "time": "",
+    "pubDate": "2026-08-07T12:22:52+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71854",
+    "score": 6.0,
+    "views": 9082,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/71851",
     "score": 5.0,
-    "views": 10081,
+    "views": 47146,
     "forwards": 0
   },
   {
@@ -104,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41792",
     "score": 10.0,
-    "views": 12769,
-    "forwards": 98
+    "views": 13991,
+    "forwards": 103
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -194,7 +212,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41790",
     "score": 13.0,
-    "views": 5417,
+    "views": 5617,
     "forwards": 18
   },
   {
@@ -230,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54683",
     "score": 6.0,
-    "views": 2002,
+    "views": 2121,
     "forwards": 14
   },
   {
@@ -320,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54678",
     "score": 8.0,
-    "views": 2594,
+    "views": 2625,
     "forwards": 8
   },
   {
@@ -356,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20306",
     "score": 5.5,
-    "views": 98081,
+    "views": 98514,
     "forwards": 119
   }
 ]
