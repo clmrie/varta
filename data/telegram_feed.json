@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA headed for Kharkiv from the north.",
+    "title_uk": "Харків: BpLA прямувала на Харків з півночі.",
+    "description": "BpLA headed for Kharkiv from the north.",
+    "description_en": "BpLA headed for Kharkiv from the north.",
+    "description_uk": "БпЛА курсом на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-08-07T10:30:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71847",
+    "score": 6.0,
+    "views": 20203,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: BpLA in the direction of Zaporizhzhia from the south.",
+    "title_en": "Zaporizhzhia: BpLA in the direction of Zaporizhzhia from the south.",
+    "title_uk": "Запоріжжя: БпЛА в напрямку Запоріжжя з півд.",
+    "description": "BpLA in the direction of Zaporizhzhia from the south.",
+    "description_en": "BpLA in the direction of Zaporizhzhia from the south.",
+    "description_uk": "БпЛА в напрямку Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-08-07T10:22:38+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71846",
+    "score": 6.0,
+    "views": 27284,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: A high-speed target in the east of Kharkiv Oblast, in the direction...",
     "title_en": "Kharkiv: A high-speed target in the east of Kharkiv Oblast, in the direction...",
     "title_uk": "Харків: Швидкісна ціль на сході Харківської області, в напрямку...",
@@ -21,8 +57,8 @@
     "title": "Kherson: Drone attack",
     "title_en": "Kherson: Drone attack",
     "title_uk": "Херсон: атака безпілотників",
-    "description": "The early detection radar, UAV repeaters and other enemy objects were hit. On the night of August 7, 2026, as part of reducing the offensive potential of the Russian aggressor, units of the Defense Forces of Ukraine hit the early detection radar station near Olenivka and the place of storage, training and launching of attack UAVs in the Gvardiysky district. Both objects are located in a temporarily occupied...",
-    "description_en": "The early detection radar, UAV repeaters and other enemy objects were hit. On the night of August 7, 2026, as part of reducing the offensive potential of the Russian aggressor, units of the Defense Forces of Ukraine hit the early detection radar station near Olenivka and the place of storage, training and launching of attack UAVs in the Gvardiysky district. Both objects are located in a temporarily occupied...",
+    "description": "The early detection radar, UAV repeaters and other enemy objects were hit. On the night of August 7, 2026, as part of reducing the offensive potential of the Russian aggressor, units of the Defense Forces of Ukraine hit the early detection radar station near Olenivka and the place of storage, training and launching of attack UAVs in the Gvardiysky district. Both objects are located in the temporarily occupied...",
+    "description_en": "The early detection radar, UAV repeaters and other enemy objects were hit. On the night of August 7, 2026, as part of reducing the offensive potential of the Russian aggressor, units of the Defense Forces of Ukraine hit the early detection radar station near Olenivka and the place of storage, training and launching of attack UAVs in the Gvardiysky district. Both objects are located in the temporarily occupied...",
     "description_uk": "Уражено РЛС раннього виявлення, ретранслятори БпЛА та інші об'єкти ворога У ніч на 7 серпня 2026 року в рамках зниження наступального потенціалу російського агресора підрозділи Сил оборони України уразили радіолокаційну станцію раннього виявлення поблизу Оленівки і місце зберігання, підготовки та пуску ударних БпЛА у районі Гвардійського. Обидва об'єкти знаходяться в тимчасово окупованому...",
     "time": "",
     "pubDate": "2026-08-07T07:56:58+00:00",
@@ -32,8 +68,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41792",
     "score": 10.0,
-    "views": 9552,
-    "forwards": 90
+    "views": 11412,
+    "forwards": 96
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -122,8 +158,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41790",
     "score": 13.0,
-    "views": 4889,
-    "forwards": 17
+    "views": 5217,
+    "forwards": 18
   },
   {
     "title": "Chernihiv: Chernihiv region: BpLA ➡️in the direction of Horodny from the...",
@@ -158,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54683",
     "score": 6.0,
-    "views": 1709,
+    "views": 1845,
     "forwards": 14
   },
   {
@@ -266,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54678",
     "score": 8.0,
-    "views": 2507,
+    "views": 2545,
     "forwards": 8
   },
   {
@@ -302,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20306",
     "score": 5.5,
-    "views": 97741,
+    "views": 97935,
     "forwards": 119
   }
 ]
