@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A jet UAV in the waters of the Black Sea, heading for Odessa.",
+    "description_en": "A jet UAV in the waters of the Black Sea, heading for Odessa.",
+    "description_uk": "Реактивний БпЛА в акваторії Чорного моря, курсом на Одесу.",
+    "time": "",
+    "pubDate": "2026-08-07T11:28:43+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71851",
+    "score": 5.0,
+    "views": 10081,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: A jet UAV headed for the Dnipro.",
+    "title_en": "Dnipro: A jet UAV headed for the Dnipro.",
+    "title_uk": "Дніпро: реактивний БПЛА взяв курс на Дніпро.",
+    "description": "A jet UAV headed for the Dnipro.",
+    "description_en": "A jet UAV headed for the Dnipro.",
+    "description_uk": "Реактивний БпЛА курсом на Дніпро.",
+    "time": "",
+    "pubDate": "2026-08-07T11:03:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71850",
+    "score": 6.0,
+    "views": 32293,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
     "title_en": "Kharkiv: BpLA headed for Kharkiv from the north.",
     "title_uk": "Харків: BpLA прямувала на Харків з півночі.",
@@ -68,8 +104,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41792",
     "score": 10.0,
-    "views": 11412,
-    "forwards": 96
+    "views": 12769,
+    "forwards": 98
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -158,7 +194,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41790",
     "score": 13.0,
-    "views": 5217,
+    "views": 5417,
     "forwards": 18
   },
   {
@@ -194,26 +230,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54683",
     "score": 6.0,
-    "views": 1845,
+    "views": 2002,
     "forwards": 14
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAV ➡️ in the direction of Kharkiv from the north.",
-    "description_en": "Jet UAV ➡️ in the direction of Kharkiv from the north.",
-    "description_uk": "Реактивний БпЛА ➡️ у напрямку Харкова з півночі.",
-    "time": "",
-    "pubDate": "2026-08-07T04:28:55+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71818",
-    "score": 5.0,
-    "views": 35371,
-    "forwards": 0
   },
   {
     "title": "Kharkiv: Kharkiv region: BpLA ➡️ in the direction of Rohany/Chuguyev from the...",
@@ -302,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54678",
     "score": 8.0,
-    "views": 2545,
+    "views": 2594,
     "forwards": 8
   },
   {
@@ -338,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20306",
     "score": 5.5,
-    "views": 97935,
+    "views": 98081,
     "forwards": 119
   }
 ]
