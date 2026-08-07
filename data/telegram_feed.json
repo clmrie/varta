@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "Fedorov continues talks with Musk on using Starlink to help counter Russian ballistic missiles. \"We're in touch with Musk; we last spoke a few days ago. And it's, let's just say, a difficult task right now to achieve the outcome we need through this communication,\" Mykhailo Fedorov said in an interview with his former adviser, Serhii Sternenko.",
+    "description_en": "Fedorov continues talks with Musk on using Starlink to help counter Russian ballistic missiles. \"We're in touch with Musk; we last spoke a few days ago. And it's, let's just say, a difficult task right now to achieve the outcome we need through this communication,\" Mykhailo Fedorov said in an interview with his former adviser, Serhii Sternenko.",
+    "description_uk": "Fedorov continues talks with Musk on using Starlink to help counter Russian ballistic missiles. \"We're in touch with Musk; we last spoke a few days ago. And it's, let's just say, a difficult task right now to achieve the outcome we need through this communication,\" Mykhailo Fedorov said in an interview with his former adviser, Serhii Sternenko.",
+    "time": "",
+    "pubDate": "2026-08-07T18:10:34+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54695",
+    "score": 9.5,
+    "views": 78,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Update: US Senate backs long-delayed Russia sanctions bill targeting...",
     "title_en": "Kyiv: Update: US Senate backs long-delayed Russia sanctions bill targeting...",
     "title_uk": "Київ: Оновлення: Сенат США підтримав довго відкладений законопроект про санкції проти Росії, спрямований на...",
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/71884",
     "score": 5.0,
-    "views": 16192,
+    "views": 45569,
     "forwards": 0
   },
   {
@@ -50,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/71882",
     "score": 6.0,
-    "views": 45564,
+    "views": 64793,
     "forwards": 0
   },
   {
@@ -158,7 +176,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41793",
     "score": 5.0,
-    "views": 4396,
+    "views": 4582,
     "forwards": 4
   },
   {
@@ -284,8 +302,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41792",
     "score": 10.0,
-    "views": 25932,
-    "forwards": 113
+    "views": 26423,
+    "forwards": 114
   },
   {
     "title": "Kryvyi Rih: Drone incoming",
@@ -360,24 +378,6 @@
     "forwards": 18
   },
   {
-    "title": "Kyiv: Attack attack on residential area",
-    "title_en": "Kyiv: Attack attack on residential area",
-    "title_uk": "Київ: обстріл житлового кварталу",
-    "description": "US intel warns Russia could test NATO as early as this fall, WSJ reports. U.S. intelligence reports raised new alarms that Russian President Vladimir Putin could provoke a NATO nation with a limited attack as early as this fall, the Wall Street Journal (WSJ) reported on Aug. 6.",
-    "description_en": "US intel warns Russia could test NATO as early as this fall, WSJ reports. U.S. intelligence reports raised new alarms that Russian President Vladimir Putin could provoke a NATO nation with a limited attack as early as this fall, the Wall Street Journal (WSJ) reported on Aug. 6.",
-    "description_uk": "US intel warns Russia could test NATO as early as this fall, WSJ reports. U.S. intelligence reports raised new alarms that Russian President Vladimir Putin could provoke a NATO nation with a limited attack as early as this fall, the Wall Street Journal (WSJ) reported on Aug. 6.",
-    "time": "",
-    "pubDate": "2026-08-07T04:56:55+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54683",
-    "score": 6.0,
-    "views": 2681,
-    "forwards": 14
-  },
-  {
     "title": "Airstrike attack on residential area",
     "title_en": "Airstrike attack on residential area",
     "title_uk": "Авіаудар по житловому району",
@@ -428,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20306",
     "score": 5.5,
-    "views": 99747,
+    "views": 99921,
     "forwards": 119
   }
 ]
