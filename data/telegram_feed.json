@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: Зафіксовано пуск балістичної ракети",
+    "description": "Ukraine buys 70 ATACMS missiles, other US weapons from Turkey in major defense package. The package includes 70 M39 ATACMS ballistic missiles, 12 M270 multiple-launch rocket systems (MLRS), over 2,000 cluster munitions, and 47,000 howitzer rounds, according to a notice from the U.S. State Department.",
+    "description_en": "Ukraine buys 70 ATACMS missiles, other US weapons from Turkey in major defense package. The package includes 70 M39 ATACMS ballistic missiles, 12 M270 multiple-launch rocket systems (MLRS), over 2,000 cluster munitions, and 47,000 howitzer rounds, according to a notice from the U.S. State Department.",
+    "description_uk": "Ukraine buys 70 ATACMS missiles, other US weapons from Turkey in major defense package. The package includes 70 M39 ATACMS ballistic missiles, 12 M270 multiple-launch rocket systems (MLRS), over 2,000 cluster munitions, and 47,000 howitzer rounds, according to a notice from the U.S. State Department.",
+    "time": "",
+    "pubDate": "2026-08-08T19:18:05+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54709",
+    "score": 9.0,
+    "views": 396,
+    "forwards": 2
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAV in the district. Boryspil in the direction of Kyiv.",
+    "description_en": "Jet UAV in the district. Boryspil in the direction of Kyiv.",
+    "description_uk": "Реактивний БпЛА в р-ні. Борисполя у напрямку Києва.",
+    "time": "",
+    "pubDate": "2026-08-08T19:01:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72004",
+    "score": 5.5,
+    "views": 48572,
+    "forwards": 69
+  },
+  {
     "title": "Mykolaiv: Attack attack",
     "title_en": "Mykolaiv: Attack attack",
     "title_uk": "Миколаїв: Напад",
@@ -14,26 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72003",
     "score": 6.0,
-    "views": 48571,
+    "views": 81974,
     "forwards": 34
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAV on Ozerne from the east.",
-    "description_en": "Jet UAV on Ozerne from the east.",
-    "description_uk": "Реактивний БпЛА на Озерне зі сходу.",
-    "time": "",
-    "pubDate": "2026-08-08T17:55:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72001",
-    "score": 5.5,
-    "views": 89010,
-    "forwards": 69
   },
   {
     "title": "North Koreans occasionally appear on the territory of the Russian...",
@@ -50,8 +68,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20346",
     "score": 5.5,
-    "views": 31756,
-    "forwards": 89
+    "views": 39745,
+    "forwards": 100
   },
   {
     "title": "Kyiv: Drone incoming",
@@ -92,7 +110,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомлення про вибухи",
+    "title_uk": "Київ: повідомляється про вибухи",
     "description": "US intelligence believes explosives-equipped drone at German airport likely belongs to Moscow, WSJ reports. A drone carrying explosives found at the Leipzig airport in Germany likely belongs to Moscow, the Wall Street Journal reported on Aug. 7, citing U.S. intelligence.",
     "description_en": "US intelligence believes explosives-equipped drone at German airport likely belongs to Moscow, WSJ reports. A drone carrying explosives found at the Leipzig airport in Germany likely belongs to Moscow, the Wall Street Journal reported on Aug. 7, citing U.S. intelligence.",
     "description_uk": "US intelligence believes explosives-equipped drone at German airport likely belongs to Moscow, WSJ reports. A drone carrying explosives found at the Leipzig airport in Germany likely belongs to Moscow, the Wall Street Journal reported on Aug. 7, citing U.S. intelligence.",
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54706",
     "score": 5.0,
-    "views": 1519,
+    "views": 1703,
     "forwards": 7
   },
   {
@@ -122,7 +140,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198021",
     "score": 8.5,
-    "views": 116134,
+    "views": 125757,
     "forwards": 143
   },
   {
@@ -194,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9978",
     "score": 5.0,
-    "views": 496,
+    "views": 520,
     "forwards": 2
   },
   {
@@ -284,7 +302,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20340",
     "score": 4.0,
-    "views": 54999,
+    "views": 56592,
     "forwards": 116
   },
   {
@@ -399,19 +417,19 @@
     "title": "The Ilsky and Syzransky refineries and the monitoring post at the...",
     "title_en": "The Ilsky and Syzransky refineries and the monitoring post at the...",
     "title_uk": "Ільський і Сизранський НПЗ і пост спостереження на...",
-    "description": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥The facility was hit with a subsequent fire on the territory...",
-    "description_en": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥The facility was hit with a subsequent fire on the territory...",
+    "description": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
+    "description_en": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
     "description_uk": "Уражено Ільський та Сизранський НПЗ і пост спостереження на буровій установці «Сиваш» В ніч на 8 серпня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України уразили низку важливих об'єктів противника. ⚡️Зокрема, уражено ТОВ «Ільський НПЗ» в Краснодарському краї рф. 🔥Зафіксовано влучання в об’єкт із подальшою пожежею на території...",
     "time": "",
     "pubDate": "2026-08-08T08:10:16+00:00",
     "category": "alert",
-    "severity": "high",
+    "severity": "critical",
     "location": "Ukraine",
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41807",
     "score": 4.5,
-    "views": 14978,
-    "forwards": 95
+    "views": 15518,
+    "forwards": 96
   },
   {
     "title": "Chernihiv: Jet UAV from Chernihiv Region to Kyiv Region (Zgurivka/Yagotyn).",
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 35382,
     "forwards": 1
-  },
-  {
-    "title": "Zaporizhzhia: Casualties reported",
-    "title_en": "Zaporizhzhia: Casualties reported",
-    "title_uk": "Запоріжжя: повідомляється про постраждалих",
-    "description": "Tonight, Russia killed three people in Pukhivka, Kyiv region: a grandfather, a grandmother and their grandson with drone strikes. The boy was only three years old. Four more were hospitalized: the child's parents and his 15-year-old brother and a neighbor who came to the family's aid and was injured during the second attack. The victims have thermal burns, shrapnel injuries. My condolences. It was an ordinary residential building...",
-    "description_en": "Tonight, Russia killed three people in Pukhivka, Kyiv region: a grandfather, a grandmother and their grandson with drone strikes. The boy was only three years old. Four more were hospitalized: the child's parents and his 15-year-old brother and a neighbor who came to the family's aid and was injured during the second attack. The victims have thermal burns, shrapnel injuries. My condolences. It was an ordinary residential building...",
-    "description_uk": "Сьогодні вночі ударами дронів Росія вбила трьох людей у Пухівці на Київщині: дідуся, бабусю та їхнього онука. Всього лиш три роки було хлопчику. Ще четверо госпіталізованих: батьки дитини та його 15-річний брат і сусід, який прийшов на допомогу родині та був поранений під час повторного удару. У постраждалих – термічні опіки, уламкові поранення. Мої співчуття. Це був звичайний житловий будинок....",
-    "time": "",
-    "pubDate": "2026-08-08T07:17:39+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Zaporizhzhia",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20325",
-    "score": 19.5,
-    "views": 224946,
-    "forwards": 439
   }
 ]
