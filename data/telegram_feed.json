@@ -1,5 +1,23 @@
 [
   {
+    "title": "Attack attack",
+    "title_en": "Attack attack",
+    "title_uk": "Атака нападу",
+    "description": "Strike BpLA on Pavlograd from the north.",
+    "description_en": "Strike BpLA on Pavlograd from the north.",
+    "description_uk": "Ударний БпЛА на Павлоград з півночі.",
+    "time": "",
+    "pubDate": "2026-08-08T10:50:06+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71968",
+    "score": 5.0,
+    "views": 24258,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Jet UAV from Kyiv region to Zhytomyr region",
     "title_en": "Kyiv: Jet UAV from Kyiv region to Zhytomyr region",
     "title_uk": "Київ: Реактивний БПЛА з Київської області на Житомирську область",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/71967",
     "score": 6.0,
-    "views": 18180,
+    "views": 38399,
     "forwards": 37
   },
   {
@@ -68,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54702",
     "score": 8.0,
-    "views": 516,
+    "views": 668,
     "forwards": 0
   },
   {
@@ -140,8 +158,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41807",
     "score": 4.5,
-    "views": 5530,
-    "forwards": 73
+    "views": 6010,
+    "forwards": 75
   },
   {
     "title": "Chernihiv: Jet UAV from Chernihiv Region to Kyiv Region (Zgurivka/Yagotyn).",
@@ -176,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20325",
     "score": 19.5,
-    "views": 165267,
-    "forwards": 369
+    "views": 172938,
+    "forwards": 395
   },
   {
     "title": "Chernihiv: Ballistic missile launch detected",
@@ -194,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9974",
     "score": 6.0,
-    "views": 524,
+    "views": 546,
     "forwards": 3
   },
   {
@@ -212,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197994",
     "score": 5.5,
-    "views": 119659,
-    "forwards": 423
+    "views": 125093,
+    "forwards": 458
   },
   {
     "title": "Kyiv: Jet UAV from Kyiv region to Zhytomyr region (Kornyn).",
@@ -284,7 +302,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41806",
     "score": 13.0,
-    "views": 4914,
+    "views": 5041,
     "forwards": 20
   },
   {
@@ -356,7 +374,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54700",
     "score": 8.0,
-    "views": 2030,
+    "views": 2080,
     "forwards": 4
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 4162,
     "forwards": 4
-  },
-  {
-    "title": "🛸 Reconnaissance UAV in the Dnipro area, which can be a gunner of...",
-    "title_en": "🛸 Reconnaissance UAV in the Dnipro area, which can be a gunner of...",
-    "title_uk": "🛸 Розвідувальний БПЛА в районі Дніпра, який може бути навідником...",
-    "description": "🛸 Reconnaissance UAV in the Dnipro area, which can be a gunner of enemy weapons!",
-    "description_en": "🛸 Reconnaissance UAV in the Dnipro area, which can be a gunner of enemy weapons!",
-    "description_uk": "🛸 Розвідувальний БпЛА в районі Дніпра, який може бути навідником ворожих засобів ураження!",
-    "time": "",
-    "pubDate": "2026-08-07T23:26:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71917",
-    "score": 5.5,
-    "views": 12715,
-    "forwards": 60
   }
 ]
