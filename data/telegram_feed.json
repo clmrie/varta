@@ -1,21 +1,57 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "Jet UAVs in the central part of Chernihiv region, heading for Kyiv",
+    "description_en": "Jet UAVs in the central part of Chernihiv region, heading for Kyiv",
+    "description_uk": "Реактивні БпЛА в центральній частині Чернігівщини, курсом на Київ",
+    "time": "",
+    "pubDate": "2026-08-08T08:51:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71955",
+    "score": 6.0,
+    "views": 31359,
+    "forwards": 35
+  },
+  {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "A jet UAV on Kyiv from the north.",
+    "description_en": "A jet UAV on Kyiv from the north.",
+    "description_uk": "Реактивний БпЛА на Київ з півночі.",
+    "time": "",
+    "pubDate": "2026-08-08T08:42:03+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71954",
+    "score": 6.5,
+    "views": 38452,
+    "forwards": 70
+  },
+  {
     "title": "The Ilsky and Syzransky refineries and the monitoring post at the...",
     "title_en": "The Ilsky and Syzransky refineries and the monitoring post at the...",
     "title_uk": "Ільський і Сизранський НПЗ і пост спостереження на...",
-    "description": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥The facility was hit with a subsequent fire on the territory...",
-    "description_en": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥The facility was hit with a subsequent fire on the territory...",
+    "description": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
+    "description_en": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
     "description_uk": "Уражено Ільський та Сизранський НПЗ і пост спостереження на буровій установці «Сиваш» В ніч на 8 серпня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України уразили низку важливих об'єктів противника. ⚡️Зокрема, уражено ТОВ «Ільський НПЗ» в Краснодарському краї рф. 🔥Зафіксовано влучання в об’єкт із подальшою пожежею на території...",
     "time": "",
     "pubDate": "2026-08-08T08:10:16+00:00",
     "category": "alert",
-    "severity": "high",
+    "severity": "critical",
     "location": "Ukraine",
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41807",
-    "score": 4.0,
-    "views": 1802,
-    "forwards": 45
+    "score": 4.5,
+    "views": 3336,
+    "forwards": 60
   },
   {
     "title": "Chernihiv: Jet UAV from Chernihiv Region to Kyiv Region (Zgurivka/Yagotyn).",
@@ -36,24 +72,6 @@
     "forwards": 1
   },
   {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "Chernihiv region - a jet UAV in the direction of n.p. Ichnia",
-    "description_en": "Chernihiv region - a jet UAV in the direction of n.p. Ichnia",
-    "description_uk": "Чернігівщина - реактивний БпЛА в напрямку н.п. Ічня.",
-    "time": "",
-    "pubDate": "2026-08-08T07:43:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71951",
-    "score": 6.0,
-    "views": 41437,
-    "forwards": 0
-  },
-  {
     "title": "Zaporizhzhia: Casualties reported",
     "title_en": "Zaporizhzhia: Casualties reported",
     "title_uk": "Запоріжжя: повідомляється про постраждалих",
@@ -68,8 +86,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20325",
     "score": 19.5,
-    "views": 99688,
-    "forwards": 278
+    "views": 127429,
+    "forwards": 351
   },
   {
     "title": "Chernihiv: Ballistic missile launch detected",
@@ -86,7 +104,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9974",
     "score": 6.0,
-    "views": 325,
+    "views": 373,
     "forwards": 3
   },
   {
@@ -104,26 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197994",
     "score": 5.5,
-    "views": 76835,
-    "forwards": 318
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Дрон вхід",
-    "description": "Kyiv region - jet UAV on Ukrainka\\Obuhiv. 🛵 Zhytomyrschyna - jet UAV heading for n.p. Teterivka 🛵 Odesa - BpLA group on Limanka/Chornomorsk.",
-    "description_en": "Kyiv region - jet UAV on Ukrainka\\Obuhiv. 🛵 Zhytomyrschyna - jet UAV heading for n.p. Teterivka 🛵 Odesa - BpLA group on Limanka/Chornomorsk.",
-    "description_uk": "Київщина - реактивний БпЛА на Українку\\Обухів. 🛵 Житомирщина - реактивний БпЛА курсом на н.п. Тетерівка. 🛵 Одещина - група БпЛА на Лиманку/Чорноморськ.",
-    "time": "",
-    "pubDate": "2026-08-08T06:54:18+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71946",
-    "score": 6.0,
-    "views": 23236,
-    "forwards": 2
+    "views": 94913,
+    "forwards": 386
   },
   {
     "title": "Kyiv: Jet UAV from Kyiv region to Zhytomyr region (Kornyn).",
@@ -147,8 +147,8 @@
     "title": "Missile attack",
     "title_en": "Missile attack",
     "title_uk": "Ракетна атака",
-    "description": "Madyar published a video showing how three Pantsir-S1 guided missile defense systems miss a drone attacking Russian ships of the shadow fleet.",
-    "description_en": "Madyar published a video showing how three Pantsir-S1 guided missile defense systems miss a drone attacking Russian ships of the shadow fleet.",
+    "description": "Magyar published a video showing how three Pantsir-S1 guided missile defense systems miss a drone attacking Russian ships of the shadow fleet.",
+    "description_en": "Magyar published a video showing how three Pantsir-S1 guided missile defense systems miss a drone attacking Russian ships of the shadow fleet.",
     "description_uk": "Мадяр опубликовал видео, как три управляемые ракеты ЗРПК \"Панцирь-С1\" промахиваются по дрону, атакующему российские корабли теневого флота По словам командующего СБС, украинскими дронами в Черном и Азовском морях в течение 01-08 августа отработано 12 судов теневого флота.",
     "time": "",
     "pubDate": "2026-08-08T06:32:21+00:00",
@@ -158,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197987",
     "score": 4.5,
-    "views": 97120,
-    "forwards": 252
+    "views": 110999,
+    "forwards": 286
   },
   {
     "title": "Ballistic missile launch detected",
@@ -194,8 +194,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41806",
     "score": 13.0,
-    "views": 3938,
-    "forwards": 17
+    "views": 4362,
+    "forwards": 18
   },
   {
     "title": "Drone incoming",
@@ -284,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54700",
     "score": 8.0,
-    "views": 1636,
+    "views": 1759,
     "forwards": 4
   },
   {
