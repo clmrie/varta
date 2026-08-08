@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: Attack attack",
+    "title_en": "Kyiv: Attack attack",
+    "title_uk": "Київ: Атака",
+    "description": "Strike BpLA in the district. near Dymer (Kyiv Oblast) in the direction of Zhytomyr Oblast.",
+    "description_en": "Strike BpLA in the district. near Dymer (Kyiv Oblast) in the direction of Zhytomyr Oblast.",
+    "description_uk": "Ударний БпЛА в р-ні. н.п Димер (Київщина) у напрямку Житомирщини.",
+    "time": "",
+    "pubDate": "2026-08-08T21:21:44+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72011",
+    "score": 6.0,
+    "views": 26343,
+    "forwards": 35
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Strike UAV in the direction of Vylkove from the Black Sea.",
+    "description_en": "Strike UAV in the direction of Vylkove from the Black Sea.",
+    "description_uk": "Ударний БпЛА у напрямку Вилкове з Чорного моря.",
+    "time": "",
+    "pubDate": "2026-08-08T21:20:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72010",
+    "score": 5.0,
+    "views": 27361,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Drone incoming",
     "title_en": "Kyiv: Drone incoming",
     "title_uk": "Київ: Дрон вхід",
@@ -38,7 +74,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
+    "title_uk": "Київ: повідомлення про вибухи",
     "description": "Unidentified drone explodes near gas pipeline at Bulgarian-Romanian border, Kyiv to launch inquiry. The drone entered Bulgarian airspace from Romania and exploded approximately 1 kilometer away from a compressor station on the Trans-Balkan gas pipeline. There were no casualties or damage.",
     "description_en": "Unidentified drone explodes near gas pipeline at Bulgarian-Romanian border, Kyiv to launch inquiry. The drone entered Bulgarian airspace from Romania and exploded approximately 1 kilometer away from a compressor station on the Trans-Balkan gas pipeline. There were no casualties or damage.",
     "description_uk": "Unidentified drone explodes near gas pipeline at Bulgarian-Romanian border, Kyiv to launch inquiry. The drone entered Bulgarian airspace from Romania and exploded approximately 1 kilometer away from a compressor station on the Trans-Balkan gas pipeline. There were no casualties or damage.",
@@ -50,25 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54710",
     "score": 15.0,
-    "views": 483,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Strike drones in the direction of the Dnipro from the southeast.",
-    "description_en": "Strike drones in the direction of the Dnipro from the southeast.",
-    "description_uk": "Ударні БпЛА у напрямку Дніпра з південного сходу.",
-    "time": "",
-    "pubDate": "2026-08-08T20:02:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72007",
-    "score": 5.0,
-    "views": 54723,
+    "views": 754,
     "forwards": 0
   },
   {
@@ -104,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54709",
     "score": 9.0,
-    "views": 1139,
-    "forwards": 4
+    "views": 1325,
+    "forwards": 5
   },
   {
     "title": "Mykolaiv: Attack attack",
@@ -140,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20346",
     "score": 5.5,
-    "views": 50472,
-    "forwards": 127
+    "views": 53083,
+    "forwards": 130
   },
   {
     "title": "Chernihiv: A jet UAV from Chernihiv Oblast to the north of Kyiv Oblast.",
@@ -176,7 +194,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198021",
     "score": 8.5,
-    "views": 140897,
+    "views": 144230,
     "forwards": 145
   },
   {
@@ -230,7 +248,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9978",
     "score": 5.0,
-    "views": 563,
+    "views": 568,
     "forwards": 2
   },
   {
@@ -320,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20340",
     "score": 4.0,
-    "views": 59538,
-    "forwards": 118
+    "views": 60160,
+    "forwards": 120
   },
   {
     "title": "The Europeans decided not to count on Musk and to create their own...",
@@ -430,23 +448,5 @@
     "score": 8.0,
     "views": 1619,
     "forwards": 0
-  },
-  {
-    "title": "The Ilsky and Syzransky refineries and the monitoring post at the...",
-    "title_en": "The Ilsky and Syzransky refineries and the monitoring post at the...",
-    "title_uk": "Ільський і Сизранський НПЗ і пост спостереження на...",
-    "description": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
-    "description_en": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
-    "description_uk": "Уражено Ільський та Сизранський НПЗ і пост спостереження на буровій установці «Сиваш» В ніч на 8 серпня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України уразили низку важливих об'єктів противника. ⚡️Зокрема, уражено ТОВ «Ільський НПЗ» в Краснодарському краї рф. 🔥Зафіксовано влучання в об’єкт із подальшою пожежею на території...",
-    "time": "",
-    "pubDate": "2026-08-08T08:10:16+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41807",
-    "score": 4.5,
-    "views": 16226,
-    "forwards": 96
   }
 ]
