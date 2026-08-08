@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A jet UAV in Zhytomyr Oblast is heading in the direction of Bila Tserkva.",
+    "description_en": "A jet UAV in Zhytomyr Oblast is heading in the direction of Bila Tserkva.",
+    "description_uk": "Реактивний БпЛА на Житомирщині прямує у напрямку Білої Церкви.",
+    "time": "",
+    "pubDate": "2026-08-08T13:02:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zhytomyr",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71978",
+    "score": 5.0,
+    "views": 18199,
+    "forwards": 34
+  },
+  {
+    "title": "Sumy: Sumy - BpLA in the direction of the city.",
+    "title_en": "Sumy: Sumy - BpLA in the direction of the city.",
+    "title_uk": "Суми: Суми – БпЛА в напрямку м.",
+    "description": "Sumy - BpLA in the direction of the city.",
+    "description_en": "Sumy - BpLA in the direction of the city.",
+    "description_uk": "Суми - БпЛА в напрямку міста.",
+    "time": "",
+    "pubDate": "2026-08-08T12:24:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71975",
+    "score": 6.0,
+    "views": 46565,
+    "forwards": 0
+  },
+  {
+    "title": "24 missiles launched",
+    "title_en": "24 missiles launched",
+    "title_uk": "Випущено 24 ракети",
+    "description": "The occupiers are preparing a powerful massive attack on the energy infrastructure of Kyiv by August 24, Ukrainian monitoring publications write. In particular, they are talking about the preparation of at least 18 Iskander-M/KN-23 ballistic missiles and 7 Zircons, as well as North Korean KN-23/KN-24 missiles in the Bryansk region. There have been no official confirmations of this information yet.",
+    "description_en": "The occupiers are preparing a powerful massive attack on the energy infrastructure of Kyiv by August 24, Ukrainian monitoring publications write. In particular, they are talking about the preparation of at least 18 Iskander-M/KN-23 ballistic missiles and 7 Zircons, as well as North Korean KN-23/KN-24 missiles in the Bryansk region. There have been no official confirmations of this information yet.",
+    "description_uk": "Оккупанты готовят мощный массированный удар по энергетической инфраструктуре Киева до 24 августа, пишут украинские мониторинговые паблики В частности, говорится о подготовке не менее 18 баллистических ракет \"Искандер-М\"/KN-23 и 7 \"Цирконов\", а также о северокорейских KN-23/KN-24 в Брянской области. Официальных подтверждений этой информации пока не было.",
+    "time": "",
+    "pubDate": "2026-08-08T12:16:36+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198012",
+    "score": 8.5,
+    "views": 54689,
+    "forwards": 248
+  },
+  {
     "title": "Poltava: Poltava - BpLA in the direction of the city.",
     "title_en": "Poltava: Poltava - BpLA in the direction of the city.",
     "title_uk": "Полтава: Полтава – БпЛА в напрямку м.",
@@ -50,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20340",
     "score": 4.0,
-    "views": 14424,
-    "forwards": 57
+    "views": 26759,
+    "forwards": 80
   },
   {
     "title": "The Europeans decided not to count on Musk and to create their own...",
@@ -67,27 +121,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198010",
-    "score": 5.0,
-    "views": 35470,
-    "forwards": 40
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A jet UAV near Ozerny in the direction of Zhytomyr.",
-    "description_en": "A jet UAV near Ozerny in the direction of Zhytomyr.",
-    "description_uk": "Реактивний БпЛА поблизу Озерного у напрямку Житомира.",
-    "time": "",
-    "pubDate": "2026-08-08T11:15:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zhytomyr",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71970",
-    "score": 5.0,
-    "views": 30344,
-    "forwards": 34
+    "score": 5.5,
+    "views": 72047,
+    "forwards": 114
   },
   {
     "title": "Attack attack",
@@ -176,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54702",
     "score": 8.0,
-    "views": 964,
+    "views": 1204,
     "forwards": 0
   },
   {
@@ -201,19 +237,19 @@
     "title": "The Ilsky and Syzransky refineries and the monitoring post at the...",
     "title_en": "The Ilsky and Syzransky refineries and the monitoring post at the...",
     "title_uk": "Ільський і Сизранський НПЗ і пост спостереження на...",
-    "description": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥The facility was hit with a subsequent fire on the territory...",
-    "description_en": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥The facility was hit with a subsequent fire on the territory...",
+    "description": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
+    "description_en": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
     "description_uk": "Уражено Ільський та Сизранський НПЗ і пост спостереження на буровій установці «Сиваш» В ніч на 8 серпня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України уразили низку важливих об'єктів противника. ⚡️Зокрема, уражено ТОВ «Ільський НПЗ» в Краснодарському краї рф. 🔥Зафіксовано влучання в об’єкт із подальшою пожежею на території...",
     "time": "",
     "pubDate": "2026-08-08T08:10:16+00:00",
     "category": "alert",
-    "severity": "high",
+    "severity": "critical",
     "location": "Ukraine",
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41807",
     "score": 4.5,
-    "views": 7210,
-    "forwards": 78
+    "views": 8374,
+    "forwards": 81
   },
   {
     "title": "Chernihiv: Jet UAV from Chernihiv Region to Kyiv Region (Zgurivka/Yagotyn).",
@@ -248,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20325",
     "score": 19.5,
-    "views": 187983,
-    "forwards": 406
+    "views": 198655,
+    "forwards": 416
   },
   {
     "title": "Chernihiv: Ballistic missile launch detected",
@@ -266,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9974",
     "score": 6.0,
-    "views": 563,
+    "views": 594,
     "forwards": 3
   },
   {
@@ -356,7 +392,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41806",
     "score": 13.0,
-    "views": 5294,
+    "views": 5504,
     "forwards": 20
   },
   {
@@ -411,42 +447,6 @@
     "link": "https://t.me/kpszsu/71931",
     "score": 6.0,
     "views": 30332,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Attack attack",
-    "title_en": "Kyiv: Attack attack",
-    "title_uk": "Київ: Атака",
-    "description": "Ukraine reportedly strikes Russian oil refineries in Samara Oblast, Krasnodar Krai. Ukraine struck an oil refinery in Samara Oblast and another in southern Russia's Krasnodar Krai overnight on Aug. 8, monitoring channels reported.",
-    "description_en": "Ukraine reportedly strikes Russian oil refineries in Samara Oblast, Krasnodar Krai. Ukraine struck an oil refinery in Samara Oblast and another in southern Russia's Krasnodar Krai overnight on Aug. 8, monitoring channels reported.",
-    "description_uk": "Ukraine reportedly strikes Russian oil refineries in Samara Oblast, Krasnodar Krai. Ukraine struck an oil refinery in Samara Oblast and another in southern Russia's Krasnodar Krai overnight on Aug. 8, monitoring channels reported.",
-    "time": "",
-    "pubDate": "2026-08-08T02:30:32+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54700",
-    "score": 8.0,
-    "views": 2207,
-    "forwards": 4
-  },
-  {
-    "title": "Chernihiv: UAV in the Konotop district of Sumy Oblast, headed for Chernihiv...",
-    "title_en": "Chernihiv: UAV in the Konotop district of Sumy Oblast, headed for Chernihiv...",
-    "title_uk": "Чернігів: БПЛА в Конотопському районі Сумської області, прямував на Чернігів...",
-    "description": "UAV in the Konotop district of Sumy Oblast, headed for Chernihiv Oblast.",
-    "description_en": "UAV in the Konotop district of Sumy Oblast, headed for Chernihiv Oblast.",
-    "description_uk": "БпЛА в Конотопському районі Сумщини, курсом на Чернігівщину.",
-    "time": "",
-    "pubDate": "2026-08-08T02:24:38+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71929",
-    "score": 6.0,
-    "views": 38768,
     "forwards": 0
   }
 ]
