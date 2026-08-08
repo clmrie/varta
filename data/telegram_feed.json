@@ -1,5 +1,23 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "A group of jet UAVs in the north of Sumy Oblast - heading for Chernihiv Oblast.",
+    "description_en": "A group of jet UAVs in the north of Sumy Oblast - heading for Chernihiv Oblast.",
+    "description_uk": "Група реактивних БпЛА на півночі Сумщини - курсом на Чернігівщину.",
+    "time": "",
+    "pubDate": "2026-08-08T14:36:49+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71984",
+    "score": 6.0,
+    "views": 26281,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Drone incoming",
     "title_en": "Kyiv: Drone incoming",
     "title_uk": "Київ: Дрон вхід",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/71983",
     "score": 6.0,
-    "views": 24660,
+    "views": 47915,
     "forwards": 23
   },
   {
@@ -32,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54703",
     "score": 5.0,
-    "views": 598,
+    "views": 764,
     "forwards": 0
   },
   {
@@ -50,8 +68,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9978",
     "score": 5.0,
-    "views": 257,
-    "forwards": 1
+    "views": 301,
+    "forwards": 2
   },
   {
     "title": "Kyiv: Kyiv region - a jet UAV in Rzhyshchiv.",
@@ -122,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198012",
     "score": 8.5,
-    "views": 90376,
-    "forwards": 284
+    "views": 98961,
+    "forwards": 318
   },
   {
     "title": "Poltava: Poltava - BpLA in the direction of the city.",
@@ -158,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20340",
     "score": 4.0,
-    "views": 38727,
-    "forwards": 90
+    "views": 40688,
+    "forwards": 101
   },
   {
     "title": "The Europeans decided not to count on Musk and to create their own...",
@@ -176,7 +194,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198010",
     "score": 5.5,
-    "views": 100178,
+    "views": 106697,
     "forwards": 116
   },
   {
@@ -266,44 +284,26 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54702",
     "score": 8.0,
-    "views": 1544,
+    "views": 1619,
     "forwards": 0
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "Jet UAVs in the central part of Chernihiv region, heading for Kyiv",
-    "description_en": "Jet UAVs in the central part of Chernihiv region, heading for Kyiv",
-    "description_uk": "Реактивні БпЛА в центральній частині Чернігівщини, курсом на Київ",
-    "time": "",
-    "pubDate": "2026-08-08T08:51:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71955",
-    "score": 6.0,
-    "views": 31359,
-    "forwards": 35
   },
   {
     "title": "The Ilsky and Syzransky refineries and the monitoring post at the...",
     "title_en": "The Ilsky and Syzransky refineries and the monitoring post at the...",
     "title_uk": "Ільський і Сизранський НПЗ і пост спостереження на...",
-    "description": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
-    "description_en": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
+    "description": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥The facility was hit with a subsequent fire on the territory...",
+    "description_en": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥The facility was hit with a subsequent fire on the territory...",
     "description_uk": "Уражено Ільський та Сизранський НПЗ і пост спостереження на буровій установці «Сиваш» В ніч на 8 серпня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України уразили низку важливих об'єктів противника. ⚡️Зокрема, уражено ТОВ «Ільський НПЗ» в Краснодарському краї рф. 🔥Зафіксовано влучання в об’єкт із подальшою пожежею на території...",
     "time": "",
     "pubDate": "2026-08-08T08:10:16+00:00",
     "category": "alert",
-    "severity": "critical",
+    "severity": "high",
     "location": "Ukraine",
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41807",
     "score": 4.5,
-    "views": 10913,
-    "forwards": 90
+    "views": 11368,
+    "forwards": 92
   },
   {
     "title": "Chernihiv: Jet UAV from Chernihiv Region to Kyiv Region (Zgurivka/Yagotyn).",
@@ -338,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20325",
     "score": 19.5,
-    "views": 209440,
+    "views": 212274,
     "forwards": 426
   },
   {
@@ -356,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9974",
     "score": 6.0,
-    "views": 658,
+    "views": 662,
     "forwards": 3
   },
   {
@@ -446,7 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41806",
     "score": 13.0,
-    "views": 5887,
+    "views": 5941,
     "forwards": 21
   }
 ]
