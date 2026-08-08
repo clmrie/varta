@@ -1,5 +1,59 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "Groups of attack UAVs in the north of Sumy Oblast heading for Poltava Oblast and Kharkiv Oblast; 🛵 Jet UAV in the district. n.p. Kozelets (Chernihiv Oblast) in the direction of Kyiv Oblast.",
+    "description_en": "Groups of attack UAVs in the north of Sumy Oblast heading for Poltava Oblast and Kharkiv Oblast; 🛵 Jet UAV in the district. n.p. Kozelets (Chernihiv Oblast) in the direction of Kyiv Oblast.",
+    "description_uk": "Групи ударних БпЛА на півночі Сумщини курсом на Полтавщину та Харківщину; 🛵 Реактивний БпЛА в р-ні. н.п Козелець (Чернігівщина) у напрямку Київщини.",
+    "time": "",
+    "pubDate": "2026-08-08T20:35:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72008",
+    "score": 6.0,
+    "views": 11113,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Explosions reported",
+    "title_en": "Kyiv: Explosions reported",
+    "title_uk": "Київ: повідомлення про вибухи",
+    "description": "Unidentified drone explodes near gas pipeline at Bulgarian-Romanian border, Kyiv to launch inquiry. The drone entered Bulgarian airspace from Romania and exploded approximately 1 kilometer away from a compressor station on the Trans-Balkan gas pipeline. There were no casualties or damage.",
+    "description_en": "Unidentified drone explodes near gas pipeline at Bulgarian-Romanian border, Kyiv to launch inquiry. The drone entered Bulgarian airspace from Romania and exploded approximately 1 kilometer away from a compressor station on the Trans-Balkan gas pipeline. There were no casualties or damage.",
+    "description_uk": "Unidentified drone explodes near gas pipeline at Bulgarian-Romanian border, Kyiv to launch inquiry. The drone entered Bulgarian airspace from Romania and exploded approximately 1 kilometer away from a compressor station on the Trans-Balkan gas pipeline. There were no casualties or damage.",
+    "time": "",
+    "pubDate": "2026-08-08T20:30:43+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54710",
+    "score": 15.0,
+    "views": 196,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Strike drones in the direction of the Dnipro from the southeast.",
+    "description_en": "Strike drones in the direction of the Dnipro from the southeast.",
+    "description_uk": "Ударні БпЛА у напрямку Дніпра з південного сходу.",
+    "time": "",
+    "pubDate": "2026-08-08T20:02:50+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72007",
+    "score": 5.0,
+    "views": 54723,
+    "forwards": 0
+  },
+  {
     "title": "Jet UAV in the district. Goat vector of Vasilki movement.",
     "title_en": "Jet UAV in the district. Goat vector of Vasilki movement.",
     "title_uk": "Реактивний БПЛА в районі. Козячий вектор Васильківського руху.",
@@ -32,26 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54709",
     "score": 9.0,
-    "views": 632,
+    "views": 977,
     "forwards": 3
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAV in the district. Boryspil in the direction of Kyiv.",
-    "description_en": "Jet UAV in the district. Boryspil in the direction of Kyiv.",
-    "description_uk": "Реактивний БпЛА в р-ні. Борисполя у напрямку Києва.",
-    "time": "",
-    "pubDate": "2026-08-08T19:01:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72004",
-    "score": 5.5,
-    "views": 68897,
-    "forwards": 69
   },
   {
     "title": "Mykolaiv: Attack attack",
@@ -86,8 +122,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20346",
     "score": 5.5,
-    "views": 42977,
-    "forwards": 110
+    "views": 48076,
+    "forwards": 124
   },
   {
     "title": "Kyiv: Drone incoming",
@@ -126,24 +162,6 @@
     "forwards": 1
   },
   {
-    "title": "Kyiv: Explosions reported",
-    "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомлення про вибухи",
-    "description": "US intelligence believes explosives-equipped drone at German airport likely belongs to Moscow, WSJ reports. A drone carrying explosives found at the Leipzig airport in Germany likely belongs to Moscow, the Wall Street Journal reported on Aug. 7, citing U.S. intelligence.",
-    "description_en": "US intelligence believes explosives-equipped drone at German airport likely belongs to Moscow, WSJ reports. A drone carrying explosives found at the Leipzig airport in Germany likely belongs to Moscow, the Wall Street Journal reported on Aug. 7, citing U.S. intelligence.",
-    "description_uk": "US intelligence believes explosives-equipped drone at German airport likely belongs to Moscow, WSJ reports. A drone carrying explosives found at the Leipzig airport in Germany likely belongs to Moscow, the Wall Street Journal reported on Aug. 7, citing U.S. intelligence.",
-    "time": "",
-    "pubDate": "2026-08-08T15:46:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54706",
-    "score": 5.0,
-    "views": 1792,
-    "forwards": 8
-  },
-  {
     "title": "Explosions reported",
     "title_en": "Explosions reported",
     "title_uk": "Повідомляється про вибухи",
@@ -158,7 +176,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198021",
     "score": 8.5,
-    "views": 130069,
+    "views": 137589,
     "forwards": 143
   },
   {
@@ -178,24 +196,6 @@
     "score": 10.0,
     "views": 1704,
     "forwards": 8
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "A group of jet UAVs in the north of Sumy Oblast - heading for Chernihiv Oblast.",
-    "description_en": "A group of jet UAVs in the north of Sumy Oblast - heading for Chernihiv Oblast.",
-    "description_uk": "Група реактивних БпЛА на півночі Сумщини - курсом на Чернігівщину.",
-    "time": "",
-    "pubDate": "2026-08-08T14:36:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71984",
-    "score": 6.0,
-    "views": 26281,
-    "forwards": 0
   },
   {
     "title": "Kyiv: Drone strike",
@@ -230,7 +230,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9978",
     "score": 5.0,
-    "views": 535,
+    "views": 557,
     "forwards": 2
   },
   {
@@ -320,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20340",
     "score": 4.0,
-    "views": 57626,
-    "forwards": 116
+    "views": 58794,
+    "forwards": 117
   },
   {
     "title": "The Europeans decided not to count on Musk and to create their own...",
@@ -446,7 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41807",
     "score": 4.5,
-    "views": 15747,
+    "views": 16084,
     "forwards": 96
   }
 ]
