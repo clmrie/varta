@@ -1,5 +1,59 @@
 [
   {
+    "title": "Sumy: BpLA headed for Sumy from the east.",
+    "title_en": "Sumy: BpLA headed for Sumy from the east.",
+    "title_uk": "Суми: БпЛА прямувала на Суми зі сходу.",
+    "description": "BpLA headed for Sumy from the east.",
+    "description_en": "BpLA headed for Sumy from the east.",
+    "description_uk": "БпЛА курсом на Суми зі сходу.",
+    "time": "",
+    "pubDate": "2026-08-08T03:07:21+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71931",
+    "score": 6.0,
+    "views": 12167,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Attack attack",
+    "title_en": "Kyiv: Attack attack",
+    "title_uk": "Київ: Атака",
+    "description": "Ukraine reportedly strikes Russian oil refineries in Samara Oblast, Krasnodar Krai. Ukraine struck an oil refinery in Samara Oblast and another in southern Russia's Krasnodar Krai overnight on Aug. 8, monitoring channels reported.",
+    "description_en": "Ukraine reportedly strikes Russian oil refineries in Samara Oblast, Krasnodar Krai. Ukraine struck an oil refinery in Samara Oblast and another in southern Russia's Krasnodar Krai overnight on Aug. 8, monitoring channels reported.",
+    "description_uk": "Ukraine reportedly strikes Russian oil refineries in Samara Oblast, Krasnodar Krai. Ukraine struck an oil refinery in Samara Oblast and another in southern Russia's Krasnodar Krai overnight on Aug. 8, monitoring channels reported.",
+    "time": "",
+    "pubDate": "2026-08-08T02:30:32+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54700",
+    "score": 8.0,
+    "views": 319,
+    "forwards": 2
+  },
+  {
+    "title": "Chernihiv: UAV in the Konotop district of Sumy Oblast, headed for Chernihiv...",
+    "title_en": "Chernihiv: UAV in the Konotop district of Sumy Oblast, headed for Chernihiv...",
+    "title_uk": "Чернігів: БПЛА в Конотопському районі Сумської області, прямував на Чернігів...",
+    "description": "UAV in the Konotop district of Sumy Oblast, headed for Chernihiv Oblast.",
+    "description_en": "UAV in the Konotop district of Sumy Oblast, headed for Chernihiv Oblast.",
+    "description_uk": "БпЛА в Конотопському районі Сумщини, курсом на Чернігівщину.",
+    "time": "",
+    "pubDate": "2026-08-08T02:24:38+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71929",
+    "score": 6.0,
+    "views": 21606,
+    "forwards": 0
+  },
+  {
     "title": "Sumy: BpLA headed for Sumy from the north.",
     "title_en": "Sumy: BpLA headed for Sumy from the north.",
     "title_uk": "Суми: BpLA прямувала на Суми з півночі.",
@@ -158,7 +212,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197977",
     "score": 5.5,
-    "views": 71256,
+    "views": 96353,
     "forwards": 93
   },
   {
@@ -230,8 +284,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197972",
     "score": 4.5,
-    "views": 96905,
-    "forwards": 143
+    "views": 116885,
+    "forwards": 153
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -284,8 +338,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54697",
     "score": 11.5,
-    "views": 2048,
-    "forwards": 5
+    "views": 2198,
+    "forwards": 6
   },
   {
     "title": "Dnipro: BpLA in Dnipropetrovsk region, heading for Pavlograd.",
@@ -394,59 +448,5 @@
     "score": 6.0,
     "views": 8077,
     "forwards": 0
-  },
-  {
-    "title": "BpLA in the west of Mykolaiv, in a north-eastern direction.",
-    "title_en": "BpLA in the west of Mykolaiv, in a north-eastern direction.",
-    "title_uk": "БпЛА на заході від Миколаєва, в північно-східному напрямку.",
-    "description": "BpLA in the west of Mykolaiv, in a north-eastern direction.",
-    "description_en": "BpLA in the west of Mykolaiv, in a north-eastern direction.",
-    "description_uk": "БпЛА на заході від Миколаєва, на північно-східний напрямок.",
-    "time": "",
-    "pubDate": "2026-08-07T16:26:07+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71877",
-    "score": 5.0,
-    "views": 16152,
-    "forwards": 0
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака дронов",
-    "description": "The GUR confirmed the attack on Yalta and demonstrated the operation of Magura marine drones. On August 7, operators of the Group 13 special unit conducted an operation on the southern coast of occupied Crimea using Magura marine drones. The intelligence sarcastically called it a \"sea parade\" for Yalta Day, and recalled that before the occupation, Ukrainian warships used to take part in holiday parades near the city embankment.",
-    "description_en": "The GUR confirmed the attack on Yalta and demonstrated the operation of Magura marine drones. On August 7, operators of the Group 13 special unit conducted an operation on the southern coast of occupied Crimea using Magura marine drones. The intelligence sarcastically called it a \"sea parade\" for Yalta Day, and recalled that before the occupation, Ukrainian warships used to take part in holiday parades near the city embankment.",
-    "description_uk": "В ГУР подтвердили удар по Ялте и показали работу морских дронов Magura 7 августа операторы спецподразделения Group 13 провели операцию у южного побережья оккупированного Крыма с использованием морских дронов Magura. В разведке саркастично назвали это \"морским парадом\" ко Дню Ялты, напомнив, что до оккупации возле городской набережной проходили праздничные выходы украинских военных кораблей.",
-    "time": "",
-    "pubDate": "2026-08-07T13:22:13+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Crimea",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/197945",
-    "score": 5.5,
-    "views": 137797,
-    "forwards": 283
-  },
-  {
-    "title": "Casualties reported",
-    "title_en": "Casualties reported",
-    "title_uk": "Повідомляється про постраждалих",
-    "description": "How military personnel improve anti-drone defense skills Enemy UAVs remain one of the main threats on the battlefield. In order to effectively counteract them, military personnel constantly practice actions in conditions as close as possible to real ones. Movement planning, shooting at drones, coordinating units, responding to emergency situations — every element of preparation helps faster...",
-    "description_en": "How military personnel improve anti-drone defense skills Enemy UAVs remain one of the main threats on the battlefield. In order to effectively counteract them, military personnel constantly practice actions in conditions as close as possible to real ones. Movement planning, shooting at drones, coordinating units, responding to emergency situations — every element of preparation helps faster...",
-    "description_uk": "Як військовослужбовці вдосконалюють навички антидронового захисту Ворожі БпЛА залишаються однією з головних загроз на полі бою. Щоб ефективно їм протидіяти, військовослужбовці постійно відпрацьовують дії в умовах, максимально наближених до реальних. Планування переміщення, стрільба по дронах, злагодження підрозділів, реагування на нештатні ситуації — кожен елемент підготовки допомагає швидше...",
-    "time": "",
-    "pubDate": "2026-08-07T13:03:06+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41793",
-    "score": 5.0,
-    "views": 5461,
-    "forwards": 5
   }
 ]
