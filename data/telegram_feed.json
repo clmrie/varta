@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zaporizhzhia: Speed ​​goal in Zaporizhzhia!",
+    "title_en": "Zaporizhzhia: Speed ​​goal in Zaporizhzhia!",
+    "title_uk": "Запоріжжя: Speed ​​​​гол у Запоріжжі!",
+    "description": "Speed ​​goal in Zaporizhzhia!",
+    "description_en": "Speed ​​goal in Zaporizhzhia!",
+    "description_uk": "Швидкісна ціль на Запоріжжя!",
+    "time": "",
+    "pubDate": "2026-08-08T05:15:29+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71933",
+    "score": 6.0,
+    "views": 10112,
+    "forwards": 1
+  },
+  {
+    "title": "Sumy: Drone incoming",
+    "title_en": "Sumy: Drone incoming",
+    "title_uk": "Суми: Дрон вхід",
+    "description": "BpLA headed for Sumy from the north. 🛵 UAV in the waters of the Black Sea, heading for Odesa.",
+    "description_en": "BpLA headed for Sumy from the north. 🛵 UAV in the waters of the Black Sea, heading for Odesa.",
+    "description_uk": "БпЛА курсом на Суми з півночі. 🛵 БпЛА в акваторії Чорного моря, курсом на Одещину.",
+    "time": "",
+    "pubDate": "2026-08-08T04:52:53+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71932",
+    "score": 6.0,
+    "views": 23222,
+    "forwards": 0
+  },
+  {
     "title": "Sumy: BpLA headed for Sumy from the east.",
     "title_en": "Sumy: BpLA headed for Sumy from the east.",
     "title_uk": "Суми: БПЛА прямувала на Суми зі сходу.",
@@ -32,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54700",
     "score": 8.0,
-    "views": 543,
-    "forwards": 2
+    "views": 744,
+    "forwards": 3
   },
   {
     "title": "Chernihiv: UAV in the Konotop district of Sumy Oblast, headed for Chernihiv...",
@@ -212,7 +248,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197977",
     "score": 5.5,
-    "views": 119632,
+    "views": 139837,
     "forwards": 93
   },
   {
@@ -284,8 +320,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197972",
     "score": 4.5,
-    "views": 134814,
-    "forwards": 153
+    "views": 150685,
+    "forwards": 187
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -338,7 +374,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54697",
     "score": 11.5,
-    "views": 2292,
+    "views": 2371,
     "forwards": 6
   },
   {
@@ -396,24 +432,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAVs in the waters of the Black Sea, heading south of Odesa.",
-    "description_en": "Jet UAVs in the waters of the Black Sea, heading south of Odesa.",
-    "description_uk": "Реактивні БпЛА в акваторії Чорного моря, курсом на південь Одещини.",
-    "time": "",
-    "pubDate": "2026-08-07T17:17:13+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71884",
-    "score": 5.0,
-    "views": 74938,
-    "forwards": 0
-  },
-  {
     "title": "Casualties reported",
     "title_en": "Casualties reported",
     "title_uk": "Повідомляється про постраждалих",
@@ -428,25 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41793",
     "score": 5.0,
-    "views": 5748,
+    "views": 5905,
     "forwards": 5
-  },
-  {
-    "title": "Kherson: Drone attack",
-    "title_en": "Kherson: Drone attack",
-    "title_uk": "Херсон: атака безпілотників",
-    "description": "The early detection radar, UAV repeaters and other enemy objects were hit. On the night of August 7, 2026, as part of reducing the offensive potential of the Russian aggressor, units of the Defense Forces of Ukraine hit the early detection radar station near Olenivka and the place of storage, training and launching of attack UAVs in the Gvardiysky district. Both objects are located in the temporarily occupied...",
-    "description_en": "The early detection radar, UAV repeaters and other enemy objects were hit. On the night of August 7, 2026, as part of reducing the offensive potential of the Russian aggressor, units of the Defense Forces of Ukraine hit the early detection radar station near Olenivka and the place of storage, training and launching of attack UAVs in the Gvardiysky district. Both objects are located in the temporarily occupied...",
-    "description_uk": "Уражено РЛС раннього виявлення, ретранслятори БпЛА та інші об'єкти ворога У ніч на 7 серпня 2026 року в рамках зниження наступального потенціалу російського агресора підрозділи Сил оборони України уразили радіолокаційну станцію раннього виявлення поблизу Оленівки і місце зберігання, підготовки та пуску ударних БпЛА у районі Гвардійського. Обидва об'єкти знаходяться в тимчасово окупованому...",
-    "time": "",
-    "pubDate": "2026-08-07T07:56:58+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kherson",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41792",
-    "score": 10.0,
-    "views": 29702,
-    "forwards": 116
   }
 ]
