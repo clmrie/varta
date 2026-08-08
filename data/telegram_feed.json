@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "Kyiv region - jet UAV passing Ivankiv, heading for Zhytomyr region.",
+    "description_en": "Kyiv region - jet UAV passing Ivankiv, heading for Zhytomyr region.",
+    "description_uk": "Київщина - реактивний БпЛА повз Іванків, курсом на Житомирщину.",
+    "time": "",
+    "pubDate": "2026-08-08T14:19:36+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71983",
+    "score": 6.0,
+    "views": 24660,
+    "forwards": 23
+  },
+  {
     "title": "Kyiv: Drone strike",
     "title_en": "Kyiv: Drone strike",
     "title_uk": "Київ: Дрон-удар",
@@ -14,7 +32,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54703",
     "score": 5.0,
-    "views": 338,
+    "views": 598,
     "forwards": 0
   },
   {
@@ -32,26 +50,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9978",
     "score": 5.0,
-    "views": 166,
+    "views": 257,
     "forwards": 1
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Дрон вхід",
-    "description": "Kyiv region - a jet UAV near Obukhiv, in the western direction.",
-    "description_en": "Kyiv region - a jet UAV near Obukhiv, in the western direction.",
-    "description_uk": "Київщина - реактивний БпЛА повз Обухів, в західному напрямку.",
-    "time": "",
-    "pubDate": "2026-08-08T13:29:55+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71981",
-    "score": 6.0,
-    "views": 30343,
-    "forwards": 3
   },
   {
     "title": "Kyiv: Kyiv region - a jet UAV in Rzhyshchiv.",
@@ -122,7 +122,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198012",
     "score": 8.5,
-    "views": 78356,
+    "views": 90376,
     "forwards": 284
   },
   {
@@ -158,7 +158,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20340",
     "score": 4.0,
-    "views": 34828,
+    "views": 38727,
     "forwards": 90
   },
   {
@@ -176,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198010",
     "score": 5.5,
-    "views": 89343,
-    "forwards": 115
+    "views": 100178,
+    "forwards": 116
   },
   {
     "title": "Attack attack",
@@ -266,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54702",
     "score": 8.0,
-    "views": 1417,
+    "views": 1544,
     "forwards": 0
   },
   {
@@ -291,19 +291,19 @@
     "title": "The Ilsky and Syzransky refineries and the monitoring post at the...",
     "title_en": "The Ilsky and Syzransky refineries and the monitoring post at the...",
     "title_uk": "Ільський і Сизранський НПЗ і пост спостереження на...",
-    "description": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥The facility was hit with a subsequent fire on the territory...",
-    "description_en": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥The facility was hit with a subsequent fire on the territory...",
+    "description": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
+    "description_en": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
     "description_uk": "Уражено Ільський та Сизранський НПЗ і пост спостереження на буровій установці «Сиваш» В ніч на 8 серпня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України уразили низку важливих об'єктів противника. ⚡️Зокрема, уражено ТОВ «Ільський НПЗ» в Краснодарському краї рф. 🔥Зафіксовано влучання в об’єкт із подальшою пожежею на території...",
     "time": "",
     "pubDate": "2026-08-08T08:10:16+00:00",
     "category": "alert",
-    "severity": "high",
+    "severity": "critical",
     "location": "Ukraine",
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41807",
     "score": 4.5,
-    "views": 10012,
-    "forwards": 86
+    "views": 10913,
+    "forwards": 90
   },
   {
     "title": "Chernihiv: Jet UAV from Chernihiv Region to Kyiv Region (Zgurivka/Yagotyn).",
@@ -327,8 +327,8 @@
     "title": "Zaporizhzhia: Casualties reported",
     "title_en": "Zaporizhzhia: Casualties reported",
     "title_uk": "Запоріжжя: повідомляється про постраждалих",
-    "description": "Tonight, Russia killed three people in Pukhivka, Kyiv region: a grandfather, a grandmother and their grandson with drone strikes. The boy was only three years old. Four more were hospitalized: the child's parents and his 15-year-old brother and a neighbor who came to the family's aid and was injured during the second attack. The victims have thermal burns, shrapnel wounds. My condolences. It was an ordinary residential building...",
-    "description_en": "Tonight, Russia killed three people in Pukhivka, Kyiv region: a grandfather, a grandmother and their grandson with drone strikes. The boy was only three years old. Four more were hospitalized: the child's parents and his 15-year-old brother and a neighbor who came to the family's aid and was injured during the second attack. The victims have thermal burns, shrapnel wounds. My condolences. It was an ordinary residential building...",
+    "description": "Tonight, Russia killed three people in Pukhivka, Kyiv region: a grandfather, a grandmother and their grandson with drone strikes. The boy was only three years old. Four more were hospitalized: the child's parents and his 15-year-old brother and a neighbor who came to the family's aid and was injured during the second attack. The victims have thermal burns, shrapnel injuries. My condolences. It was an ordinary residential building...",
+    "description_en": "Tonight, Russia killed three people in Pukhivka, Kyiv region: a grandfather, a grandmother and their grandson with drone strikes. The boy was only three years old. Four more were hospitalized: the child's parents and his 15-year-old brother and a neighbor who came to the family's aid and was injured during the second attack. The victims have thermal burns, shrapnel injuries. My condolences. It was an ordinary residential building...",
     "description_uk": "Сьогодні вночі ударами дронів Росія вбила трьох людей у Пухівці на Київщині: дідуся, бабусю та їхнього онука. Всього лиш три роки було хлопчику. Ще четверо госпіталізованих: батьки дитини та його 15-річний брат і сусід, який прийшов на допомогу родині та був поранений під час повторного удару. У постраждалих – термічні опіки, уламкові поранення. Мої співчуття. Це був звичайний житловий будинок....",
     "time": "",
     "pubDate": "2026-08-08T07:17:39+00:00",
@@ -338,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20325",
     "score": 19.5,
-    "views": 205333,
+    "views": 209440,
     "forwards": 426
   },
   {
@@ -356,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9974",
     "score": 6.0,
-    "views": 648,
+    "views": 658,
     "forwards": 3
   },
   {
@@ -446,7 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41806",
     "score": 13.0,
-    "views": 5773,
+    "views": 5887,
     "forwards": 21
   }
 ]
