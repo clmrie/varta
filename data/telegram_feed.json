@@ -2,7 +2,7 @@
   {
     "title": "Sumy: BpLA headed for Sumy from the east.",
     "title_en": "Sumy: BpLA headed for Sumy from the east.",
-    "title_uk": "Суми: БпЛА прямувала на Суми зі сходу.",
+    "title_uk": "Суми: БПЛА прямувала на Суми зі сходу.",
     "description": "BpLA headed for Sumy from the east.",
     "description_en": "BpLA headed for Sumy from the east.",
     "description_uk": "БпЛА курсом на Суми зі сходу.",
@@ -14,7 +14,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/71931",
     "score": 6.0,
-    "views": 12167,
+    "views": 30332,
     "forwards": 0
   },
   {
@@ -32,7 +32,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54700",
     "score": 8.0,
-    "views": 319,
+    "views": 543,
     "forwards": 2
   },
   {
@@ -50,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/71929",
     "score": 6.0,
-    "views": 21606,
+    "views": 38768,
     "forwards": 0
   },
   {
@@ -212,7 +212,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197977",
     "score": 5.5,
-    "views": 96353,
+    "views": 119632,
     "forwards": 93
   },
   {
@@ -284,7 +284,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/197972",
     "score": 4.5,
-    "views": 116885,
+    "views": 134814,
     "forwards": 153
   },
   {
@@ -338,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54697",
     "score": 11.5,
-    "views": 2198,
+    "views": 2292,
     "forwards": 6
   },
   {
@@ -414,39 +414,39 @@
     "forwards": 0
   },
   {
-    "title": "Mykolaiv: Reactive BpLA headed for Mykolaiv from the north.",
-    "title_en": "Mykolaiv: Reactive BpLA headed for Mykolaiv from the north.",
-    "title_uk": "Миколаїв: реактивний BpLA прямував на Миколаїв з півночі.",
-    "description": "Reactive BpLA headed for Mykolaiv from the north.",
-    "description_en": "Reactive BpLA headed for Mykolaiv from the north.",
-    "description_uk": "Реактивний БпЛА курсом на Миколаїв з півночі.",
+    "title": "Casualties reported",
+    "title_en": "Casualties reported",
+    "title_uk": "Повідомляється про постраждалих",
+    "description": "How military personnel improve anti-drone defense skills Enemy UAVs remain one of the main threats on the battlefield. In order to effectively counteract them, military personnel constantly practice actions in conditions as close as possible to real ones. Movement planning, shooting at drones, coordinating units, responding to emergency situations — every element of preparation helps faster...",
+    "description_en": "How military personnel improve anti-drone defense skills Enemy UAVs remain one of the main threats on the battlefield. In order to effectively counteract them, military personnel constantly practice actions in conditions as close as possible to real ones. Movement planning, shooting at drones, coordinating units, responding to emergency situations — every element of preparation helps faster...",
+    "description_uk": "Як військовослужбовці вдосконалюють навички антидронового захисту Ворожі БпЛА залишаються однією з головних загроз на полі бою. Щоб ефективно їм протидіяти, військовослужбовці постійно відпрацьовують дії в умовах, максимально наближених до реальних. Планування переміщення, стрільба по дронах, злагодження підрозділів, реагування на нештатні ситуації — кожен елемент підготовки допомагає швидше...",
     "time": "",
-    "pubDate": "2026-08-07T16:36:17+00:00",
+    "pubDate": "2026-08-07T13:03:06+00:00",
     "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71882",
-    "score": 6.0,
-    "views": 64793,
-    "forwards": 0
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41793",
+    "score": 5.0,
+    "views": 5748,
+    "forwards": 5
   },
   {
-    "title": "Dnipro: BpLA heading for the Dnipro from the south!",
-    "title_en": "Dnipro: BpLA heading for the Dnipro from the south!",
-    "title_uk": "Дніпро: BpLA прямує на Дніпро з півдня!",
-    "description": "BpLA heading for the Dnipro from the south!",
-    "description_en": "BpLA heading for the Dnipro from the south!",
-    "description_uk": "БпЛА курсом на Дніпро з півдня!",
+    "title": "Kherson: Drone attack",
+    "title_en": "Kherson: Drone attack",
+    "title_uk": "Херсон: атака безпілотників",
+    "description": "The early detection radar, UAV repeaters and other enemy objects were hit. On the night of August 7, 2026, as part of reducing the offensive potential of the Russian aggressor, units of the Defense Forces of Ukraine hit the early detection radar station near Olenivka and the place of storage, training and launching of attack UAVs in the Gvardiysky district. Both objects are located in the temporarily occupied...",
+    "description_en": "The early detection radar, UAV repeaters and other enemy objects were hit. On the night of August 7, 2026, as part of reducing the offensive potential of the Russian aggressor, units of the Defense Forces of Ukraine hit the early detection radar station near Olenivka and the place of storage, training and launching of attack UAVs in the Gvardiysky district. Both objects are located in the temporarily occupied...",
+    "description_uk": "Уражено РЛС раннього виявлення, ретранслятори БпЛА та інші об'єкти ворога У ніч на 7 серпня 2026 року в рамках зниження наступального потенціалу російського агресора підрозділи Сил оборони України уразили радіолокаційну станцію раннього виявлення поблизу Оленівки і місце зберігання, підготовки та пуску ударних БпЛА у районі Гвардійського. Обидва об'єкти знаходяться в тимчасово окупованому...",
     "time": "",
-    "pubDate": "2026-08-07T16:28:36+00:00",
+    "pubDate": "2026-08-07T07:56:58+00:00",
     "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71880",
-    "score": 6.0,
-    "views": 8077,
-    "forwards": 0
+    "severity": "critical",
+    "location": "Kherson",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41792",
+    "score": 10.0,
+    "views": 29702,
+    "forwards": 116
   }
 ]
