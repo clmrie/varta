@@ -1,5 +1,77 @@
 [
   {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Київ: Дрон-удар",
+    "description": "Ukraine says it struck 2 oil refineries in Russia. Long-range Ukrainian drones have hit two oil refineries in Russia's Krasnodar Krai and Samara Oblast, the General Staff said on Aug. 8.",
+    "description_en": "Ukraine says it struck 2 oil refineries in Russia. Long-range Ukrainian drones have hit two oil refineries in Russia's Krasnodar Krai and Samara Oblast, the General Staff said on Aug. 8.",
+    "description_uk": "Ukraine says it struck 2 oil refineries in Russia. Long-range Ukrainian drones have hit two oil refineries in Russia's Krasnodar Krai and Samara Oblast, the General Staff said on Aug. 8.",
+    "time": "",
+    "pubDate": "2026-08-08T13:37:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54703",
+    "score": 5.0,
+    "views": 338,
+    "forwards": 0
+  },
+  {
+    "title": "Today, on the Day of Communications and Cyber ​​Security of the Armed...",
+    "title_en": "Today, on the Day of Communications and Cyber ​​Security of the Armed...",
+    "title_uk": "Сьогодні, у День зв'язку та кібербезпеки ЗС...",
+    "description": "Today, on the Day of Communications and Cyber ​​Security of the Armed Forces of Ukraine, we honor the servicemen and women who provide reliable communication in our armed forces and protect the state in cyberspace. In modern conditions of war, communication is the basis of coordinated and effective actions. It is the communicators who ensure the transmission of combat orders, protect information and help the Defense Forces act quickly and...",
+    "description_en": "Today, on the Day of Communications and Cyber ​​Security of the Armed Forces of Ukraine, we honor the servicemen and women who provide reliable communication in our armed forces and protect the state in cyberspace. In modern conditions of war, communication is the basis of coordinated and effective actions. It is the communicators who ensure the transmission of combat orders, protect information and help the Defense Forces act quickly and...",
+    "description_uk": "Сьогодні, у День Військ зв’язку та кібербезпеки ЗСУ, вшановуємо військовослужбовців та військовослужбовиць, які забезпечують надійний зв’язок у наших збройних силах та захищають державу в кіберпросторі. У сучасних умовах війни зв’язок – це основа злагоджених і ефективних дій. Саме зв’язківці забезпечують передачу бойових наказів, захищають інформацію та допомагають Силам оборони діяти швидко й...",
+    "time": "",
+    "pubDate": "2026-08-08T13:31:19+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9978",
+    "score": 5.0,
+    "views": 166,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "Kyiv region - a jet UAV near Obukhiv, in the western direction.",
+    "description_en": "Kyiv region - a jet UAV near Obukhiv, in the western direction.",
+    "description_uk": "Київщина - реактивний БпЛА повз Обухів, в західному напрямку.",
+    "time": "",
+    "pubDate": "2026-08-08T13:29:55+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71981",
+    "score": 6.0,
+    "views": 30343,
+    "forwards": 3
+  },
+  {
+    "title": "Kyiv: Kyiv region - a jet UAV in Rzhyshchiv.",
+    "title_en": "Kyiv: Kyiv region - a jet UAV in Rzhyshchiv.",
+    "title_uk": "Київ: Київська область - реактивний БПЛА в Ржищів.",
+    "description": "Kyiv region - a jet UAV in Rzhyshchiv.",
+    "description_en": "Kyiv region - a jet UAV in Rzhyshchiv.",
+    "description_uk": "Київщина - реактивний БпЛА на Ржищів.",
+    "time": "",
+    "pubDate": "2026-08-08T13:24:14+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71980",
+    "score": 6.0,
+    "views": 35393,
+    "forwards": 1
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -50,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198012",
     "score": 8.5,
-    "views": 54689,
-    "forwards": 248
+    "views": 78356,
+    "forwards": 284
   },
   {
     "title": "Poltava: Poltava - BpLA in the direction of the city.",
@@ -72,24 +144,6 @@
     "forwards": 0
   },
   {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Дрон вхід",
-    "description": "A group of jet UAVs in Chernihiv Oblast, heading for Kyiv Oblast (Yagotyn, Berezan).",
-    "description_en": "A group of jet UAVs in Chernihiv Oblast, heading for Kyiv Oblast (Yagotyn, Berezan).",
-    "description_uk": "Група реактивних БпЛА на Чернігіівщині, курсом на Київщину (Яготин, Березань).",
-    "time": "",
-    "pubDate": "2026-08-08T11:53:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71972",
-    "score": 6.0,
-    "views": 27302,
-    "forwards": 35
-  },
-  {
     "title": "During the meetings with the President of Serbia Aleksandar Vučić...",
     "title_en": "During the meetings with the President of Serbia Aleksandar Vučić...",
     "title_uk": "Під час зустрічі з президентом Сербії Александром Вучичем...",
@@ -104,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20340",
     "score": 4.0,
-    "views": 26759,
-    "forwards": 80
+    "views": 34828,
+    "forwards": 90
   },
   {
     "title": "The Europeans decided not to count on Musk and to create their own...",
@@ -122,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198010",
     "score": 5.5,
-    "views": 72047,
-    "forwards": 114
+    "views": 89343,
+    "forwards": 115
   },
   {
     "title": "Attack attack",
@@ -212,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54702",
     "score": 8.0,
-    "views": 1204,
+    "views": 1417,
     "forwards": 0
   },
   {
@@ -237,19 +291,19 @@
     "title": "The Ilsky and Syzransky refineries and the monitoring post at the...",
     "title_en": "The Ilsky and Syzransky refineries and the monitoring post at the...",
     "title_uk": "Ільський і Сизранський НПЗ і пост спостереження на...",
-    "description": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
-    "description_en": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
+    "description": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥The facility was hit with a subsequent fire on the territory...",
+    "description_en": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥The facility was hit with a subsequent fire on the territory...",
     "description_uk": "Уражено Ільський та Сизранський НПЗ і пост спостереження на буровій установці «Сиваш» В ніч на 8 серпня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України уразили низку важливих об'єктів противника. ⚡️Зокрема, уражено ТОВ «Ільський НПЗ» в Краснодарському краї рф. 🔥Зафіксовано влучання в об’єкт із подальшою пожежею на території...",
     "time": "",
     "pubDate": "2026-08-08T08:10:16+00:00",
     "category": "alert",
-    "severity": "critical",
+    "severity": "high",
     "location": "Ukraine",
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41807",
     "score": 4.5,
-    "views": 8374,
-    "forwards": 81
+    "views": 10012,
+    "forwards": 86
   },
   {
     "title": "Chernihiv: Jet UAV from Chernihiv Region to Kyiv Region (Zgurivka/Yagotyn).",
@@ -273,8 +327,8 @@
     "title": "Zaporizhzhia: Casualties reported",
     "title_en": "Zaporizhzhia: Casualties reported",
     "title_uk": "Запоріжжя: повідомляється про постраждалих",
-    "description": "Tonight, Russia killed three people in Pukhivka, Kyiv region: a grandfather, a grandmother and their grandson with drone strikes. The boy was only three years old. Four more were hospitalized: the child's parents and his 15-year-old brother and a neighbor who came to the family's aid and was injured during the second attack. The victims have thermal burns, shrapnel injuries. My condolences. It was an ordinary residential building...",
-    "description_en": "Tonight, Russia killed three people in Pukhivka, Kyiv region: a grandfather, a grandmother and their grandson with drone strikes. The boy was only three years old. Four more were hospitalized: the child's parents and his 15-year-old brother and a neighbor who came to the family's aid and was injured during the second attack. The victims have thermal burns, shrapnel injuries. My condolences. It was an ordinary residential building...",
+    "description": "Tonight, Russia killed three people in Pukhivka, Kyiv region: a grandfather, a grandmother and their grandson with drone strikes. The boy was only three years old. Four more were hospitalized: the child's parents and his 15-year-old brother and a neighbor who came to the family's aid and was injured during the second attack. The victims have thermal burns, shrapnel wounds. My condolences. It was an ordinary residential building...",
+    "description_en": "Tonight, Russia killed three people in Pukhivka, Kyiv region: a grandfather, a grandmother and their grandson with drone strikes. The boy was only three years old. Four more were hospitalized: the child's parents and his 15-year-old brother and a neighbor who came to the family's aid and was injured during the second attack. The victims have thermal burns, shrapnel wounds. My condolences. It was an ordinary residential building...",
     "description_uk": "Сьогодні вночі ударами дронів Росія вбила трьох людей у Пухівці на Київщині: дідуся, бабусю та їхнього онука. Всього лиш три роки було хлопчику. Ще четверо госпіталізованих: батьки дитини та його 15-річний брат і сусід, який прийшов на допомогу родині та був поранений під час повторного удару. У постраждалих – термічні опіки, уламкові поранення. Мої співчуття. Це був звичайний житловий будинок....",
     "time": "",
     "pubDate": "2026-08-08T07:17:39+00:00",
@@ -284,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20325",
     "score": 19.5,
-    "views": 198655,
-    "forwards": 416
+    "views": 205333,
+    "forwards": 426
   },
   {
     "title": "Chernihiv: Ballistic missile launch detected",
@@ -302,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9974",
     "score": 6.0,
-    "views": 594,
+    "views": 648,
     "forwards": 3
   },
   {
@@ -392,61 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41806",
     "score": 13.0,
-    "views": 5504,
-    "forwards": 20
-  },
-  {
-    "title": "Zaporizhzhia: Speed ​​goal in Zaporizhzhia!",
-    "title_en": "Zaporizhzhia: Speed ​​goal in Zaporizhzhia!",
-    "title_uk": "Запоріжжя: Speed ​​​​гол у Запоріжжі!",
-    "description": "Speed ​​goal in Zaporizhzhia!",
-    "description_en": "Speed ​​goal in Zaporizhzhia!",
-    "description_uk": "Швидкісна ціль на Запоріжжя!",
-    "time": "",
-    "pubDate": "2026-08-08T05:15:29+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71933",
-    "score": 6.0,
-    "views": 10112,
-    "forwards": 1
-  },
-  {
-    "title": "Sumy: Drone incoming",
-    "title_en": "Sumy: Drone incoming",
-    "title_uk": "Суми: Дрон вхід",
-    "description": "BpLA headed for Sumy from the north. 🛵 UAV in the waters of the Black Sea, heading for Odesa.",
-    "description_en": "BpLA headed for Sumy from the north. 🛵 UAV in the waters of the Black Sea, heading for Odesa.",
-    "description_uk": "БпЛА курсом на Суми з півночі. 🛵 БпЛА в акваторії Чорного моря, курсом на Одещину.",
-    "time": "",
-    "pubDate": "2026-08-08T04:52:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71932",
-    "score": 6.0,
-    "views": 23222,
-    "forwards": 0
-  },
-  {
-    "title": "Sumy: BpLA headed for Sumy from the east.",
-    "title_en": "Sumy: BpLA headed for Sumy from the east.",
-    "title_uk": "Суми: БПЛА прямувала на Суми зі сходу.",
-    "description": "BpLA headed for Sumy from the east.",
-    "description_en": "BpLA headed for Sumy from the east.",
-    "description_uk": "БпЛА курсом на Суми зі сходу.",
-    "time": "",
-    "pubDate": "2026-08-08T03:07:21+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71931",
-    "score": 6.0,
-    "views": 30332,
-    "forwards": 0
+    "views": 5773,
+    "forwards": 21
   }
 ]
