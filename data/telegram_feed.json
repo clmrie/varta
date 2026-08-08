@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "UAVs in Kyiv region - heading for Zhytomyr region.",
+    "description_en": "UAVs in Kyiv region - heading for Zhytomyr region.",
+    "description_uk": "БпЛА на Київщині - курсом на Житомирщину.",
+    "time": "",
+    "pubDate": "2026-08-08T15:38:04+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/71990",
+    "score": 6.0,
+    "views": 9080,
+    "forwards": 1
+  },
+  {
+    "title": "Explosions reported",
+    "title_en": "Explosions reported",
+    "title_uk": "Повідомляється про вибухи",
+    "description": "How unexpected: a drone with explosives found at the Leipzig airport could belong to the Russian special services - CNN As reported by the TV channel, this was stated by the representative of the US Defense Ministry in Europe. According to him, the drone was loaded with military explosives. As a reminder, the drone was found next to the cargo planes of the Ukrainian Antonov airline, and one of the An-124s was loaded...",
+    "description_en": "How unexpected: a drone with explosives found at the Leipzig airport could belong to the Russian special services - CNN As reported by the TV channel, this was stated by the representative of the US Defense Ministry in Europe. According to him, the drone was loaded with military explosives. As a reminder, the drone was found next to the cargo planes of the Ukrainian Antonov airline, and one of the An-124s was loaded...",
+    "description_uk": "Как неожиданно: найденный в аэропорту Лейпцига дрон со взрывчаткой мог принадлежать российским спецслужбам, - CNN Как сообщает телеканал, об этом заявил представитель Минобороны США в Европе. По его словам, беспилотник был начинен взрывчаткой военного назначения. Напомним, дрон обнаружили рядом с грузовыми самолетами украинской авиакомпании \"Антонов\", причем один из Ан-124 был загружен...",
+    "time": "",
+    "pubDate": "2026-08-08T15:10:01+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198021",
+    "score": 8.5,
+    "views": 34373,
+    "forwards": 70
+  },
+  {
+    "title": "Kyiv: Evacuation ordered",
+    "title_en": "Kyiv: Evacuation ordered",
+    "title_uk": "Київ: Наказано евакуацію",
+    "description": "Russian drone hits Sumy-Kyiv train, passengers evacuated on time. The attack occurred at around 8 a.m. local time, according to the local branch of public broadcaster Suspilne.",
+    "description_en": "Russian drone hits Sumy-Kyiv train, passengers evacuated on time. The attack occurred at around 8 a.m. local time, according to the local branch of public broadcaster Suspilne.",
+    "description_uk": "Russian drone hits Sumy-Kyiv train, passengers evacuated on time. The attack occurred at around 8 a.m. local time, according to the local branch of public broadcaster Suspilne.",
+    "time": "",
+    "pubDate": "2026-08-08T15:06:37+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54705",
+    "score": 10.0,
+    "views": 508,
+    "forwards": 4
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -18,24 +72,6 @@
     "forwards": 0
   },
   {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Дрон вхід",
-    "description": "Kyiv region - jet UAV passing Ivankiv, heading for Zhytomyr region.",
-    "description_en": "Kyiv region - jet UAV passing Ivankiv, heading for Zhytomyr region.",
-    "description_uk": "Київщина - реактивний БпЛА повз Іванків, курсом на Житомирщину.",
-    "time": "",
-    "pubDate": "2026-08-08T14:19:36+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71983",
-    "score": 6.0,
-    "views": 47915,
-    "forwards": 23
-  },
-  {
     "title": "Kyiv: Drone strike",
     "title_en": "Kyiv: Drone strike",
     "title_uk": "Київ: Дрон-удар",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54703",
     "score": 5.0,
-    "views": 764,
+    "views": 1042,
     "forwards": 0
   },
   {
@@ -68,7 +104,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9978",
     "score": 5.0,
-    "views": 301,
+    "views": 360,
     "forwards": 2
   },
   {
@@ -140,7 +176,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198012",
     "score": 8.5,
-    "views": 98961,
+    "views": 108702,
     "forwards": 318
   },
   {
@@ -176,7 +212,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20340",
     "score": 4.0,
-    "views": 40688,
+    "views": 43926,
     "forwards": 101
   },
   {
@@ -302,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41807",
     "score": 4.5,
-    "views": 11368,
+    "views": 12279,
     "forwards": 92
   },
   {
@@ -338,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20325",
     "score": 19.5,
-    "views": 212274,
-    "forwards": 426
+    "views": 216386,
+    "forwards": 436
   },
   {
     "title": "Chernihiv: Ballistic missile launch detected",
@@ -356,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9974",
     "score": 6.0,
-    "views": 662,
+    "views": 672,
     "forwards": 3
   },
   {
@@ -412,41 +448,5 @@
     "score": 4.5,
     "views": 131507,
     "forwards": 322
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "Ukraine did not shoot down a single ballistic missile this night, Russia attacked with six Iskander-M ballistic missiles and S-400 anti-aircraft guided missiles, the Air Force of the Ukrainian Armed Forces reports.",
-    "description_en": "Ukraine did not shoot down a single ballistic missile this night, Russia attacked with six Iskander-M ballistic missiles and S-400 anti-aircraft guided missiles, the Air Force of the Ukrainian Armed Forces reports.",
-    "description_uk": "Украина этой ночью снова не сбила ни одной баллистической ракеты Россия атаковала шестью баллистическими ракетами «Искандер-М» и зенитными управляемыми ракетами С-400, сообщают Воздушные Силы ВСУ.",
-    "time": "",
-    "pubDate": "2026-08-08T06:10:10+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/197986",
-    "score": 3.5,
-    "views": 73681,
-    "forwards": 178
-  },
-  {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "135 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of August 8 (from 18:00 on August 7), the enemy attacked with six Iskander-M ballistic missiles and S-400 anti-aircraft guided missiles from the Bryansk region, as well as 151 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and by imitation drones of the \"Parody\" type from the directions: Kursk, Millerovo, Orel, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk,...",
-    "description_en": "135 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of August 8 (from 18:00 on August 7), the enemy attacked with six Iskander-M ballistic missiles and S-400 anti-aircraft guided missiles from the Bryansk region, as well as 151 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and by imitation drones of the \"Parody\" type from the directions: Kursk, Millerovo, Orel, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk,...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 135 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 08 серпня (з 18:00 07 серпня) противник атакував шістьма балістичними ракетами Іскандер-М та зенітними керованими ракетами С-400 із Брянської обл., а також 151 ударним БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Міллерово, Орел, Приморсько-Ахтарськ – рф., ТОТ Донецьк,...",
-    "time": "",
-    "pubDate": "2026-08-08T06:04:42+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41806",
-    "score": 13.0,
-    "views": 5941,
-    "forwards": 21
   }
 ]
