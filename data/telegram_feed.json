@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "Jet UAV on Zhytomyr from the north; 🛵 Strike drone on Kharkiv from the north.",
+    "description_en": "Jet UAV on Zhytomyr from the north; 🛵 Strike drone on Kharkiv from the north.",
+    "description_uk": "Реактивний БпЛА на Житомир з півночі; 🛵 Ударний БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-08-08T22:13:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72015",
+    "score": 6.0,
+    "views": 21344,
+    "forwards": 34
+  },
+  {
     "title": "Jet UAVs in the north-east and south-east of Zhytomyr Oblast as a...",
     "title_en": "Jet UAVs in the north-east and south-east of Zhytomyr Oblast as a...",
     "title_uk": "Реактивні БПЛА на північному сході та південному сході Житомирської області як...",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72014",
     "score": 5.5,
-    "views": 17245,
-    "forwards": 103
+    "views": 42634,
+    "forwards": 138
   },
   {
     "title": "Drone incoming",
@@ -92,7 +110,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомлення про вибухи",
+    "title_uk": "Київ: Повідомляється про вибухи",
     "description": "Unidentified drone explodes near gas pipeline at Bulgarian-Romanian border, Kyiv to launch inquiry. The drone entered Bulgarian airspace from Romania and exploded approximately 1 kilometer away from a compressor station on the Trans-Balkan gas pipeline. There were no casualties or damage.",
     "description_en": "Unidentified drone explodes near gas pipeline at Bulgarian-Romanian border, Kyiv to launch inquiry. The drone entered Bulgarian airspace from Romania and exploded approximately 1 kilometer away from a compressor station on the Trans-Balkan gas pipeline. There were no casualties or damage.",
     "description_uk": "Unidentified drone explodes near gas pipeline at Bulgarian-Romanian border, Kyiv to launch inquiry. The drone entered Bulgarian airspace from Romania and exploded approximately 1 kilometer away from a compressor station on the Trans-Balkan gas pipeline. There were no casualties or damage.",
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54710",
     "score": 15.0,
-    "views": 870,
+    "views": 1027,
     "forwards": 0
   },
   {
@@ -140,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54709",
     "score": 9.0,
-    "views": 1418,
-    "forwards": 5
+    "views": 1548,
+    "forwards": 6
   },
   {
     "title": "Mykolaiv: Attack attack",
@@ -176,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20346",
     "score": 5.5,
-    "views": 54278,
-    "forwards": 135
+    "views": 55867,
+    "forwards": 136
   },
   {
     "title": "Chernihiv: A jet UAV from Chernihiv Oblast to the north of Kyiv Oblast.",
@@ -212,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198021",
     "score": 8.5,
-    "views": 146303,
-    "forwards": 145
+    "views": 148271,
+    "forwards": 172
   },
   {
     "title": "Kyiv: Evacuation ordered",
@@ -266,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9978",
     "score": 5.0,
-    "views": 571,
+    "views": 576,
     "forwards": 2
   },
   {
@@ -356,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20340",
     "score": 4.0,
-    "views": 60474,
-    "forwards": 121
+    "views": 60811,
+    "forwards": 122
   },
   {
     "title": "The Europeans decided not to count on Musk and to create their own...",
@@ -396,42 +414,6 @@
     "forwards": 0
   },
   {
-    "title": "Kyiv: Jet UAV from Kyiv region to Zhytomyr region",
-    "title_en": "Kyiv: Jet UAV from Kyiv region to Zhytomyr region",
-    "title_uk": "Київ: Реактивний БПЛА з Київської області на Житомирську область",
-    "description": "Jet UAV from Kyiv region to Zhytomyr region",
-    "description_en": "Jet UAV from Kyiv region to Zhytomyr region",
-    "description_uk": "Реактивний БпЛА з Київщини на Житомирщину",
-    "time": "",
-    "pubDate": "2026-08-08T10:34:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71967",
-    "score": 6.0,
-    "views": 38399,
-    "forwards": 37
-  },
-  {
-    "title": "22 missiles",
-    "title_en": "22 missiles",
-    "title_uk": "22 ракети",
-    "description": "Missile danger in the south of Ukraine! 🚀Probable use of Kh-22 missiles!",
-    "description_en": "Missile danger in the south of Ukraine! 🚀Probable use of Kh-22 missiles!",
-    "description_uk": "Ракетна небезпека по півдню України! 🚀Імовірне застосування ракет Х-22!",
-    "time": "",
-    "pubDate": "2026-08-08T10:10:08+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71965",
-    "score": 3.5,
-    "views": 59618,
-    "forwards": 103
-  },
-  {
     "title": "Kyiv: Ukraine says it struck 12 Russian shadow fleet vessels in Black Sea...",
     "title_en": "Kyiv: Ukraine says it struck 12 Russian shadow fleet vessels in Black Sea...",
     "title_uk": "Київ: Україна заявляє, що завдала ударів по 12 кораблям російського тіньового флоту в Чорному морі...",
@@ -448,5 +430,23 @@
     "score": 8.0,
     "views": 1619,
     "forwards": 0
+  },
+  {
+    "title": "The Ilsky and Syzransky refineries and the monitoring post at the...",
+    "title_en": "The Ilsky and Syzransky refineries and the monitoring post at the...",
+    "title_uk": "Ільський і Сизранський НПЗ і пост спостереження на...",
+    "description": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
+    "description_en": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
+    "description_uk": "Уражено Ільський та Сизранський НПЗ і пост спостереження на буровій установці «Сиваш» В ніч на 8 серпня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України уразили низку важливих об'єктів противника. ⚡️Зокрема, уражено ТОВ «Ільський НПЗ» в Краснодарському краї рф. 🔥Зафіксовано влучання в об’єкт із подальшою пожежею на території...",
+    "time": "",
+    "pubDate": "2026-08-08T08:10:16+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41807",
+    "score": 4.5,
+    "views": 16538,
+    "forwards": 96
   }
 ]
