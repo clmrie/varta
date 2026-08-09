@@ -1,5 +1,23 @@
 [
   {
+    "title": "Donetsk: Ballistic missile launch detected",
+    "title_en": "Donetsk: Ballistic missile launch detected",
+    "title_uk": "Донецьк: виявлено пуск балістичної ракети",
+    "description": "179 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of August 9 (from 18:00 on August 8), the enemy attacked Odesa with ballistic, anti-ship and anti-radar missiles: Iskander-M/S-400, Onyx, Kh-31P (launch areas of TOT AR Crimea, Black Sea waters), in addition, it fired 202 over Ukraine strike UAVs of the Shahed type (including jet ones), Gerbera and Parody-type simulator drones, barrage ammunition...",
+    "description_en": "179 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of August 9 (from 18:00 on August 8), the enemy attacked Odesa with ballistic, anti-ship and anti-radar missiles: Iskander-M/S-400, Onyx, Kh-31P (launch areas of TOT AR Crimea, Black Sea waters), in addition, it fired 202 over Ukraine strike UAVs of the Shahed type (including jet ones), Gerbera and Parody-type simulator drones, barrage ammunition...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 179 ЦІЛЕЙ ПРОТИВНИКА У ніч на 09 серпня (з 18:00 08 серпня) противник атакував Одещину балістичними, протикорабельними та протирадіолокаційними ракетами: Іскандер-М/С-400, Онікс, Х-31П (райони пусків ТОТ АР Крим, акваторія Чорного моря), крім того, випустив по Україні 202 ударних БпЛА типу Shahed (в т.ч. реактивні), Гербера та дрони-імітатори типу «Пародія», баражуючі боєприпаси...",
+    "time": "",
+    "pubDate": "2026-08-09T05:19:30+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41812",
+    "score": 13.0,
+    "views": 1905,
+    "forwards": 8
+  },
+  {
     "title": "20 missiles",
     "title_en": "20 missiles",
     "title_uk": "20 ракет",
@@ -13,27 +31,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198042",
-    "score": 8.0,
-    "views": 5264,
-    "forwards": 3
-  },
-  {
-    "title": "Donetsk: Ballistic missile launch detected",
-    "title_en": "Donetsk: Ballistic missile launch detected",
-    "title_uk": "Донецьк: виявлено пуск балістичної ракети",
-    "description": "179 adversary targets were shot down/suppressed. On the night of August 9 (from 18:00 on August 8), the enemy attacked Odesa with ballistic, anti-ship, and anti-radar missiles: Iskander-M/S-400, Onyx, Kh-31P (launching areas of TOT AR Crimea, Black Sea waters), in addition, fired over Ukraine 202 strike UAVs of the Shahed type (including jet ones), Gerbera and \"Parody\" type simulator drones, barrage...",
-    "description_en": "179 adversary targets were shot down/suppressed. On the night of August 9 (from 18:00 on August 8), the enemy attacked Odesa with ballistic, anti-ship, and anti-radar missiles: Iskander-M/S-400, Onyx, Kh-31P (launching areas of TOT AR Crimea, Black Sea waters), in addition, fired over Ukraine 202 strike UAVs of the Shahed type (including jet ones), Gerbera and \"Parody\" type simulator drones, barrage...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 179 ЦІЛЕЙ ПРОТИВНИКА ➖➖➖➖➖➖➖➖➖➖ У ніч на 09 серпня (з 18:00 08 серпня) противник атакував Одещину балістичними, протикорабельними та протирадіолокаційними ракетами: Іскандер-М/С-400, Онікс, Х-31П (райони пусків ТОТ АР Крим, акваторія Чорного моря), крім того, випустив по Україні 202 ударних БпЛА типу Shahed (в т.ч. реактивні), Гербера та дрони-імітатори типу «Пародія», баражуючі...",
-    "time": "",
-    "pubDate": "2026-08-09T05:06:37+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72056",
-    "score": 13.0,
-    "views": 10120,
-    "forwards": 35
+    "score": 8.5,
+    "views": 52983,
+    "forwards": 184
   },
   {
     "title": "A group of jet UAVs to the south of Odesa from the sea.",
@@ -50,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72055",
     "score": 5.0,
-    "views": 30305,
+    "views": 49550,
     "forwards": 0
   },
   {
@@ -68,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54714",
     "score": 13.0,
-    "views": 470,
-    "forwards": 1
+    "views": 702,
+    "forwards": 2
   },
   {
     "title": "Kyiv: Drone attack",
@@ -86,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54713",
     "score": 13.0,
-    "views": 489,
-    "forwards": 0
+    "views": 719,
+    "forwards": 1
   },
   {
     "title": "Drone incoming",
@@ -356,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20346",
     "score": 5.5,
-    "views": 71151,
-    "forwards": 153
+    "views": 73917,
+    "forwards": 156
   },
   {
     "title": "Explosions reported",
@@ -392,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9978",
     "score": 5.0,
-    "views": 618,
+    "views": 627,
     "forwards": 2
   },
   {
@@ -428,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20340",
     "score": 4.0,
-    "views": 63627,
+    "views": 64213,
     "forwards": 123
   },
   {
