@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons from the south.",
+    "description_en": "☄️ The threat of using ballistic weapons from the south.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння з півдня.",
+    "time": "",
+    "pubDate": "2026-08-09T02:23:00+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72048",
+    "score": 5.0,
+    "views": 17187,
+    "forwards": 34
+  },
+  {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "Sumy - BpLA in the direction of the city from the north. 🛵 A group of jet UAVs in Chernihiv Oblast, heading north of Kyiv Oblast.",
+    "description_en": "Sumy - BpLA in the direction of the city from the north. 🛵 A group of jet UAVs in Chernihiv Oblast, heading north of Kyiv Oblast.",
+    "description_uk": "Суми - БпЛА в напрямку міста з півночі. 🛵 Група реактивних БпЛА на Чернігівщині, курсом на північ Київщини.",
+    "time": "",
+    "pubDate": "2026-08-09T02:08:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72046",
+    "score": 6.0,
+    "views": 22239,
+    "forwards": 1
+  },
+  {
     "title": "High-speed in Odesa - on a north-westerly course.",
     "title_en": "High-speed in Odesa - on a north-westerly course.",
     "title_uk": "Швидкісна в Одесі - на північно-західному напрямку.",
@@ -15,24 +51,6 @@
     "link": "https://t.me/kpszsu/72027",
     "score": 5.0,
     "views": 11119,
-    "forwards": 0
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons.",
-    "description_en": "☄️ The threat of using ballistic weapons.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння.",
-    "time": "",
-    "pubDate": "2026-08-09T00:31:56+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72026",
-    "score": 5.0,
-    "views": 14151,
     "forwards": 0
   },
   {
@@ -162,24 +180,6 @@
     "forwards": 1
   },
   {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "Groups of attack UAVs in the north of Sumy Oblast heading for Poltava Oblast and Kharkiv Oblast; 🛵 Jet UAV in the district. n.p. Kozelets (Chernihiv Oblast) in the direction of Kyiv Oblast.",
-    "description_en": "Groups of attack UAVs in the north of Sumy Oblast heading for Poltava Oblast and Kharkiv Oblast; 🛵 Jet UAV in the district. n.p. Kozelets (Chernihiv Oblast) in the direction of Kyiv Oblast.",
-    "description_uk": "Групи ударних БпЛА на півночі Сумщини курсом на Полтавщину та Харківщину; 🛵 Реактивний БпЛА в р-ні. н.п Козелець (Чернігівщина) у напрямку Київщини.",
-    "time": "",
-    "pubDate": "2026-08-08T20:35:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72008",
-    "score": 6.0,
-    "views": 38515,
-    "forwards": 35
-  },
-  {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
     "title_uk": "Київ: повідомлення про вибухи",
@@ -194,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54710",
     "score": 15.0,
-    "views": 1410,
+    "views": 1633,
     "forwards": 0
   },
   {
@@ -230,8 +230,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54709",
     "score": 9.0,
-    "views": 1824,
-    "forwards": 7
+    "views": 2009,
+    "forwards": 8
   },
   {
     "title": "Mykolaiv: Attack attack",
@@ -266,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20346",
     "score": 5.5,
-    "views": 59118,
-    "forwards": 141
+    "views": 63224,
+    "forwards": 144
   },
   {
     "title": "Chernihiv: A jet UAV from Chernihiv Oblast to the north of Kyiv Oblast.",
@@ -302,7 +302,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198021",
     "score": 8.5,
-    "views": 152274,
+    "views": 156192,
     "forwards": 173
   },
   {
@@ -324,24 +324,6 @@
     "forwards": 8
   },
   {
-    "title": "Kyiv: Drone strike",
-    "title_en": "Kyiv: Drone strike",
-    "title_uk": "Київ: Дрон-удар",
-    "description": "Ukraine says it struck 2 oil refineries in Russia. Long-range Ukrainian drones have hit two oil refineries in Russia's Krasnodar Krai and Samara Oblast, the General Staff said on Aug. 8.",
-    "description_en": "Ukraine says it struck 2 oil refineries in Russia. Long-range Ukrainian drones have hit two oil refineries in Russia's Krasnodar Krai and Samara Oblast, the General Staff said on Aug. 8.",
-    "description_uk": "Ukraine says it struck 2 oil refineries in Russia. Long-range Ukrainian drones have hit two oil refineries in Russia's Krasnodar Krai and Samara Oblast, the General Staff said on Aug. 8.",
-    "time": "",
-    "pubDate": "2026-08-08T13:37:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54703",
-    "score": 5.0,
-    "views": 1042,
-    "forwards": 0
-  },
-  {
     "title": "Today, on the Day of Communications and Cyber ​​Security of the Armed...",
     "title_en": "Today, on the Day of Communications and Cyber ​​Security of the Armed...",
     "title_uk": "Сьогодні, у День зв'язку та кібербезпеки ЗС...",
@@ -356,26 +338,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9978",
     "score": 5.0,
-    "views": 589,
+    "views": 593,
     "forwards": 2
-  },
-  {
-    "title": "Kyiv: Kyiv region - a jet UAV in Rzhyshchiv.",
-    "title_en": "Kyiv: Kyiv region - a jet UAV in Rzhyshchiv.",
-    "title_uk": "Київ: Київська область - реактивний БПЛА в Ржищів.",
-    "description": "Kyiv region - a jet UAV in Rzhyshchiv.",
-    "description_en": "Kyiv region - a jet UAV in Rzhyshchiv.",
-    "description_uk": "Київщина - реактивний БпЛА на Ржищів.",
-    "time": "",
-    "pubDate": "2026-08-08T13:24:14+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71980",
-    "score": 6.0,
-    "views": 35393,
-    "forwards": 1
   },
   {
     "title": "24 missiles launched",
@@ -410,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20340",
     "score": 4.0,
-    "views": 61345,
+    "views": 61968,
     "forwards": 122
   },
   {
@@ -446,7 +410,43 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41807",
     "score": 4.5,
-    "views": 16659,
+    "views": 16813,
     "forwards": 96
+  },
+  {
+    "title": "Chernihiv: Ballistic missile launch detected",
+    "title_en": "Chernihiv: Ballistic missile launch detected",
+    "title_uk": "Чернігів: виявлено пуск балістичної ракети",
+    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, commented on the night shelling of the Russian Federation against Ukraine: 💬 \"Russia continues its terror against civilians - as a result of another night attack by ballistic missiles and drones in the Kyiv region, three people were killed, including a child. A passenger train was attacked in the Sumy region. Chernihiv, Dnipro and other regions were also under attack. This terror cannot be...",
+    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, commented on the night shelling of the Russian Federation against Ukraine: 💬 \"Russia continues its terror against civilians - as a result of another night attack by ballistic missiles and drones in the Kyiv region, three people were killed, including a child. A passenger train was attacked in the Sumy region. Chernihiv, Dnipro and other regions were also under attack. This terror cannot be...",
+    "description_uk": "Очільник МЗС України Андрій Сибіга прокоментував нічний обстріл РФ проти України: 💬 \"Росія продовжує свій терор проти цивільних людей – внаслідок чергової нічної атаки балістичними ракетами та дронами в Київській області загинули три людини, зокрема дитина. У Сумській області було атаковано пасажирський потяг. Під ударом також опинилися Чернігів, Дніпро та інші регіони. Цей терор не можна...",
+    "time": "",
+    "pubDate": "2026-08-08T07:15:49+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Chernihiv",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/9974",
+    "score": 6.0,
+    "views": 746,
+    "forwards": 3
+  },
+  {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "135 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of August 8 (from 18:00 on August 7), the enemy attacked with six Iskander-M ballistic missiles and S-400 anti-aircraft guided missiles from the Bryansk region, as well as 151 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and by imitation drones of the \"Parody\" type from the directions: Kursk, Millerovo, Orel, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk,...",
+    "description_en": "135 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of August 8 (from 18:00 on August 7), the enemy attacked with six Iskander-M ballistic missiles and S-400 anti-aircraft guided missiles from the Bryansk region, as well as 151 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and by imitation drones of the \"Parody\" type from the directions: Kursk, Millerovo, Orel, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk,...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 135 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 08 серпня (з 18:00 07 серпня) противник атакував шістьма балістичними ракетами Іскандер-М та зенітними керованими ракетами С-400 із Брянської обл., а також 151 ударним БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Міллерово, Орел, Приморсько-Ахтарськ – рф., ТОТ Донецьк,...",
+    "time": "",
+    "pubDate": "2026-08-08T06:04:42+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41806",
+    "score": 13.0,
+    "views": 6925,
+    "forwards": 22
   }
 ]
