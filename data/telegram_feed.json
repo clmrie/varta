@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "Jet UAVs in the direction of Chuguyev/Novopokrovka in the Kharkiv region from the north.",
+    "description_en": "Jet UAVs in the direction of Chuguyev/Novopokrovka in the Kharkiv region from the north.",
+    "description_uk": "Реактивні БпЛА у напрямку Чугуєва/Новопокровки на Харківщині з півночі.",
+    "time": "",
+    "pubDate": "2026-08-09T19:16:57+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72143",
+    "score": 6.0,
+    "views": 21251,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
     "title_en": "Kharkiv: BpLA headed for Kharkiv from the north.",
     "title_uk": "Харків: BpLA прямувала на Харків з півночі.",
@@ -32,8 +50,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9980",
     "score": 10.0,
-    "views": 2886,
-    "forwards": 9
+    "views": 7580,
+    "forwards": 15
   },
   {
     "title": "Drone incoming",
@@ -68,7 +86,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20349",
     "score": 8.5,
-    "views": 14716,
+    "views": 20007,
     "forwards": 7
   },
   {
@@ -146,7 +164,7 @@
   {
     "title": "Dnipro: Russia destroys World Health Organization warehouse in Dnipro. \"Even...",
     "title_en": "Dnipro: Russia destroys World Health Organization warehouse in Dnipro. \"Even...",
-    "title_uk": "Дніпро: Росія знищила склад Всесвітньої організації охорони здоров'я в Дніпрі. \"Навіть...",
+    "title_uk": "Dnipro: Russia destroys World Health Organization warehouse in Dnipro. \"Even...",
     "description": "Russia destroys World Health Organization warehouse in Dnipro. \"Even wars have rules. One of those is that health must be protected,\" World Health Organization Director-General Tedros Adhanom Ghebreyesus said.",
     "description_en": "Russia destroys World Health Organization warehouse in Dnipro. \"Even wars have rules. One of those is that health must be protected,\" World Health Organization Director-General Tedros Adhanom Ghebreyesus said.",
     "description_uk": "Russia destroys World Health Organization warehouse in Dnipro. \"Even wars have rules. One of those is that health must be protected,\" World Health Organization Director-General Tedros Adhanom Ghebreyesus said.",
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54717",
     "score": 5.0,
-    "views": 1577,
+    "views": 1774,
     "forwards": 7
   },
   {
@@ -234,24 +252,6 @@
     "forwards": 34
   },
   {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "Kharkiv region: jet UAV ➡️ on/past Blyznyuki in the north-western direction.",
-    "description_en": "Kharkiv region: jet UAV ➡️ on/past Blyznyuki in the north-western direction.",
-    "description_uk": "Харківщина: реактивний БпЛА ➡️ на/повз Близнюки у північно-західному напрямку.",
-    "time": "",
-    "pubDate": "2026-08-09T14:26:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72107",
-    "score": 6.0,
-    "views": 19229,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Київ: виявлено пуск балістичної ракети",
@@ -266,13 +266,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54716",
     "score": 10.0,
-    "views": 1904,
+    "views": 2047,
     "forwards": 3
   },
   {
     "title": "👀 Democrats are preparing large-scale investigations against Trump in...",
     "title_en": "👀 Democrats are preparing large-scale investigations against Trump in...",
-    "title_uk": "👀 Демократи готують масштабні розслідування проти Трампа в...",
+    "title_uk": "👀 Democrats are preparing large-scale investigations against Trump in...",
     "description": "👀 Democrats are preparing large-scale investigations against Trump in case of victory in the elections to the House of Representatives, - Reuters They intend to study the possible use of presidential powers in the interests of Trump himself, his allies and donors. For this, requests for documents and future subpoenas to companies, contractors and financial structures connected with the administration are being prepared. Among potential...",
     "description_en": "👀 Democrats are preparing large-scale investigations against Trump in case of victory in the elections to the House of Representatives, - Reuters They intend to study the possible use of presidential powers in the interests of Trump himself, his allies and donors. For this, requests for documents and future subpoenas to companies, contractors and financial structures connected with the administration are being prepared. Among potential...",
     "description_uk": "👀 Демократы готовят масштабные расследования против Трампа в случае победы на выборах в Палату представителей, - Reuters Они намерены изучить возможное использование президентских полномочий в интересах самого Трампа, его союзников и доноров. Для этого готовятся запросы документов и будущие повестки компаниям, подрядчикам и финансовым структурам, связанным с администрацией. Среди потенциальных...",
@@ -284,8 +284,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198091",
     "score": 5.5,
-    "views": 139878,
-    "forwards": 153
+    "views": 147414,
+    "forwards": 154
   },
   {
     "title": "BpLA ➡️ in the direction of Kharkiv from the north.",
