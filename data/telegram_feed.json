@@ -1,5 +1,59 @@
 [
   {
+    "title": "20 missiles",
+    "title_en": "20 missiles",
+    "title_uk": "20 ракет",
+    "description": "And at night, the Russians terrorized Odessa. Monitoring publications write that this was the most massive shelling in the region. In a few hours, Russia launched more than 70 \"Shakhedov\" and 20 missiles of various types. At least 6 people were injured.",
+    "description_en": "And at night, the Russians terrorized Odessa. Monitoring publications write that this was the most massive shelling in the region. In a few hours, Russia launched more than 70 \"Shakhedov\" and 20 missiles of various types. At least 6 people were injured.",
+    "description_uk": "А ночью россияне терроризировали Одессу Мониторинговые паблики пишут, что это был наиболее массированный обстрел региона. За несколько часов русня выпустила более 70 «Шахедов» и 20 ракет различных типов. Как минимум 6 людей пострадали.",
+    "time": "",
+    "pubDate": "2026-08-09T05:12:01+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198042",
+    "score": 8.0,
+    "views": 5264,
+    "forwards": 3
+  },
+  {
+    "title": "Donetsk: Ballistic missile launch detected",
+    "title_en": "Donetsk: Ballistic missile launch detected",
+    "title_uk": "Донецьк: виявлено пуск балістичної ракети",
+    "description": "179 adversary targets were shot down/suppressed. On the night of August 9 (from 18:00 on August 8), the enemy attacked Odesa with ballistic, anti-ship, and anti-radar missiles: Iskander-M/S-400, Onyx, Kh-31P (launching areas of TOT AR Crimea, Black Sea waters), in addition, fired over Ukraine 202 strike UAVs of the Shahed type (including jet ones), Gerbera and \"Parody\" type simulator drones, barrage...",
+    "description_en": "179 adversary targets were shot down/suppressed. On the night of August 9 (from 18:00 on August 8), the enemy attacked Odesa with ballistic, anti-ship, and anti-radar missiles: Iskander-M/S-400, Onyx, Kh-31P (launching areas of TOT AR Crimea, Black Sea waters), in addition, fired over Ukraine 202 strike UAVs of the Shahed type (including jet ones), Gerbera and \"Parody\" type simulator drones, barrage...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 179 ЦІЛЕЙ ПРОТИВНИКА ➖➖➖➖➖➖➖➖➖➖ У ніч на 09 серпня (з 18:00 08 серпня) противник атакував Одещину балістичними, протикорабельними та протирадіолокаційними ракетами: Іскандер-М/С-400, Онікс, Х-31П (райони пусків ТОТ АР Крим, акваторія Чорного моря), крім того, випустив по Україні 202 ударних БпЛА типу Shahed (в т.ч. реактивні), Гербера та дрони-імітатори типу «Пародія», баражуючі...",
+    "time": "",
+    "pubDate": "2026-08-09T05:06:37+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72056",
+    "score": 13.0,
+    "views": 10120,
+    "forwards": 35
+  },
+  {
+    "title": "A group of jet UAVs to the south of Odesa from the sea.",
+    "title_en": "A group of jet UAVs to the south of Odesa from the sea.",
+    "title_uk": "Група реактивних БПЛА на південь від Одеси з моря.",
+    "description": "A group of jet UAVs to the south of Odesa from the sea.",
+    "description_en": "A group of jet UAVs to the south of Odesa from the sea.",
+    "description_uk": "Група реактивних БпЛА на південь Одещини з моря.",
+    "time": "",
+    "pubDate": "2026-08-09T04:30:46+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72055",
+    "score": 5.0,
+    "views": 30305,
+    "forwards": 0
+  },
+  {
     "title": "Odesa: Missile attack on residential area",
     "title_en": "Odesa: Missile attack on residential area",
     "title_uk": "Одеса: Ракетний обстріл житлового кварталу",
@@ -14,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54714",
     "score": 13.0,
-    "views": 37,
-    "forwards": 0
+    "views": 470,
+    "forwards": 1
   },
   {
     "title": "Kyiv: Drone attack",
@@ -32,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54713",
     "score": 13.0,
-    "views": 66,
+    "views": 489,
     "forwards": 0
   },
   {
@@ -290,7 +344,7 @@
   {
     "title": "North Koreans occasionally appear on the territory of the Russian...",
     "title_en": "North Koreans occasionally appear on the territory of the Russian...",
-    "title_uk": "North Koreans occasionally appear on the territory of the Russian...",
+    "title_uk": "Північні корейці періодично з'являються на території Російської...",
     "description": "North Koreans occasionally appear on the territory of the Russian Federation. We see it, we know it. If at first it was about hundreds, then thousands, now it has been decided that from 30 to 50 thousand North Koreans should be on the territory of Russia. They are studying this war, and if we are talking about crises and escalation in another direction, in the Pacific Ocean, which could be a threat to other Asian states...",
     "description_en": "North Koreans occasionally appear on the territory of the Russian Federation. We see it, we know it. If at first it was about hundreds, then thousands, now it has been decided that from 30 to 50 thousand North Koreans should be on the territory of Russia. They are studying this war, and if we are talking about crises and escalation in another direction, in the Pacific Ocean, which could be a threat to other Asian states...",
     "description_uk": "Північнокорейці час від часу з'являються на території Російської Федерації. Ми це бачимо, ми це знаємо. Якщо спочатку йшлося про сотні, потім тисячі, то зараз прийнято рішення, щоб від 30 до 50 тисяч північнокорейців були на території Росії. Вони вивчають цю війну, і якщо ми говоримо про кризи та загострення в іншому напрямку, в Тихому океані, які можуть бути загрозою для інших держав азійського...",
@@ -302,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20346",
     "score": 5.5,
-    "views": 66671,
-    "forwards": 150
+    "views": 71151,
+    "forwards": 153
   },
   {
     "title": "Explosions reported",
@@ -338,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9978",
     "score": 5.0,
-    "views": 604,
+    "views": 618,
     "forwards": 2
   },
   {
@@ -374,8 +428,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20340",
     "score": 4.0,
-    "views": 62630,
-    "forwards": 122
+    "views": 63627,
+    "forwards": 123
   },
   {
     "title": "Kyiv: Ukraine says it struck 12 Russian shadow fleet vessels in Black Sea...",
@@ -394,59 +448,5 @@
     "score": 8.0,
     "views": 1619,
     "forwards": 0
-  },
-  {
-    "title": "The Ilsky and Syzransky refineries and the monitoring post at the...",
-    "title_en": "The Ilsky and Syzransky refineries and the monitoring post at the...",
-    "title_uk": "Ільський і Сизранський НПЗ і пост спостереження на...",
-    "description": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
-    "description_en": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
-    "description_uk": "Уражено Ільський та Сизранський НПЗ і пост спостереження на буровій установці «Сиваш» В ніч на 8 серпня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України уразили низку важливих об'єктів противника. ⚡️Зокрема, уражено ТОВ «Ільський НПЗ» в Краснодарському краї рф. 🔥Зафіксовано влучання в об’єкт із подальшою пожежею на території...",
-    "time": "",
-    "pubDate": "2026-08-08T08:10:16+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41807",
-    "score": 4.5,
-    "views": 17044,
-    "forwards": 96
-  },
-  {
-    "title": "Chernihiv: Ballistic missile launch detected",
-    "title_en": "Chernihiv: Ballistic missile launch detected",
-    "title_uk": "Чернігів: виявлено пуск балістичної ракети",
-    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, commented on the night shelling of the Russian Federation against Ukraine: 💬 \"Russia continues its terror against civilians - as a result of another night attack by ballistic missiles and drones in the Kyiv region, three people were killed, including a child. A passenger train was attacked in the Sumy region. Chernihiv, Dnipro and other regions were also under attack. This terror cannot be...",
-    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, commented on the night shelling of the Russian Federation against Ukraine: 💬 \"Russia continues its terror against civilians - as a result of another night attack by ballistic missiles and drones in the Kyiv region, three people were killed, including a child. A passenger train was attacked in the Sumy region. Chernihiv, Dnipro and other regions were also under attack. This terror cannot be...",
-    "description_uk": "Очільник МЗС України Андрій Сибіга прокоментував нічний обстріл РФ проти України: 💬 \"Росія продовжує свій терор проти цивільних людей – внаслідок чергової нічної атаки балістичними ракетами та дронами в Київській області загинули три людини, зокрема дитина. У Сумській області було атаковано пасажирський потяг. Під ударом також опинилися Чернігів, Дніпро та інші регіони. Цей терор не можна...",
-    "time": "",
-    "pubDate": "2026-08-08T07:15:49+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Chernihiv",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9974",
-    "score": 6.0,
-    "views": 752,
-    "forwards": 3
-  },
-  {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "135 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of August 8 (from 18:00 on August 7), the enemy attacked with six Iskander-M ballistic missiles and S-400 anti-aircraft guided missiles from the Bryansk region, as well as 151 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and by imitation drones of the \"Parody\" type from the directions: Kursk, Millerovo, Orel, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk,...",
-    "description_en": "135 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of August 8 (from 18:00 on August 7), the enemy attacked with six Iskander-M ballistic missiles and S-400 anti-aircraft guided missiles from the Bryansk region, as well as 151 attack UAVs of the Shahed type (including jet ones), Gerbera, Italmas and by imitation drones of the \"Parody\" type from the directions: Kursk, Millerovo, Orel, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk,...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 135 ВОРОЖИХ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 08 серпня (з 18:00 07 серпня) противник атакував шістьма балістичними ракетами Іскандер-М та зенітними керованими ракетами С-400 із Брянської обл., а також 151 ударним БпЛА типу Shahed (в т.ч. реактивними), Гербера, Італмас та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Міллерово, Орел, Приморсько-Ахтарськ – рф., ТОТ Донецьк,...",
-    "time": "",
-    "pubDate": "2026-08-08T06:04:42+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41806",
-    "score": 13.0,
-    "views": 7018,
-    "forwards": 22
   }
 ]
