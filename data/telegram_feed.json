@@ -1,5 +1,41 @@
 [
   {
+    "title": "High-speed in Odesa - on a north-westerly course.",
+    "title_en": "High-speed in Odesa - on a north-westerly course.",
+    "title_uk": "Швидкісна в Одесі - на північно-західному напрямку.",
+    "description": "High-speed in Odesa - on a north-westerly course.",
+    "description_en": "High-speed in Odesa - on a north-westerly course.",
+    "description_uk": "Швидкісна на Одещині - північно-західним курсом.",
+    "time": "",
+    "pubDate": "2026-08-09T00:32:31+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72027",
+    "score": 5.0,
+    "views": 11119,
+    "forwards": 0
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons.",
+    "description_en": "☄️ The threat of using ballistic weapons.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння.",
+    "time": "",
+    "pubDate": "2026-08-09T00:31:56+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72026",
+    "score": 5.0,
+    "views": 14151,
+    "forwards": 0
+  },
+  {
     "title": "Mykolaiv: Groups of unmanned aerial vehicles from the Mykolayiv region to Odesa...",
     "title_en": "Mykolaiv: Groups of unmanned aerial vehicles from the Mykolayiv region to Odesa...",
     "title_uk": "Миколаїв: Групи безпілотників з Миколаївської області до Одеси...",
@@ -158,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54710",
     "score": 15.0,
-    "views": 1277,
+    "views": 1410,
     "forwards": 0
   },
   {
@@ -194,8 +230,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54709",
     "score": 9.0,
-    "views": 1713,
-    "forwards": 6
+    "views": 1824,
+    "forwards": 7
   },
   {
     "title": "Mykolaiv: Attack attack",
@@ -230,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20346",
     "score": 5.5,
-    "views": 57451,
-    "forwards": 140
+    "views": 59118,
+    "forwards": 141
   },
   {
     "title": "Chernihiv: A jet UAV from Chernihiv Oblast to the north of Kyiv Oblast.",
@@ -266,7 +302,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198021",
     "score": 8.5,
-    "views": 150942,
+    "views": 152274,
     "forwards": 173
   },
   {
@@ -320,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9978",
     "score": 5.0,
-    "views": 583,
+    "views": 589,
     "forwards": 2
   },
   {
@@ -342,24 +378,6 @@
     "forwards": 1
   },
   {
-    "title": "Sumy: Sumy - BpLA in the direction of the city.",
-    "title_en": "Sumy: Sumy - BpLA in the direction of the city.",
-    "title_uk": "Суми: Суми – БпЛА в напрямку м.",
-    "description": "Sumy - BpLA in the direction of the city.",
-    "description_en": "Sumy - BpLA in the direction of the city.",
-    "description_uk": "Суми - БпЛА в напрямку міста.",
-    "time": "",
-    "pubDate": "2026-08-08T12:24:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71975",
-    "score": 6.0,
-    "views": 46565,
-    "forwards": 0
-  },
-  {
     "title": "24 missiles launched",
     "title_en": "24 missiles launched",
     "title_uk": "Випущено 24 ракети",
@@ -378,24 +396,6 @@
     "forwards": 353
   },
   {
-    "title": "Poltava: Poltava - BpLA in the direction of the city.",
-    "title_en": "Poltava: Poltava - BpLA in the direction of the city.",
-    "title_uk": "Полтава: Полтава – БпЛА в напрямку м.",
-    "description": "Poltava - BpLA in the direction of the city.",
-    "description_en": "Poltava - BpLA in the direction of the city.",
-    "description_uk": "Полтава - БпЛА в напрямку міста.",
-    "time": "",
-    "pubDate": "2026-08-08T12:08:54+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71973",
-    "score": 6.0,
-    "views": 10128,
-    "forwards": 0
-  },
-  {
     "title": "During the meetings with the President of Serbia Aleksandar Vučić...",
     "title_en": "During the meetings with the President of Serbia Aleksandar Vučić...",
     "title_uk": "Під час зустрічі з президентом Сербії Александром Вучичем...",
@@ -410,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20340",
     "score": 4.0,
-    "views": 61165,
+    "views": 61345,
     "forwards": 122
   },
   {
@@ -446,7 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41807",
     "score": 4.5,
-    "views": 16617,
+    "views": 16659,
     "forwards": 96
   }
 ]
