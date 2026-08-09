@@ -1,5 +1,59 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "In July, Russia launched 195 ballistic missiles over Ukraine. It was only possible to intercept 29 — monitoring public Statistics for the beginning of August are also not pleasing to the eye. During the last attacks, it was not possible to shoot down a single ballistic missile.",
+    "description_en": "In July, Russia launched 195 ballistic missiles over Ukraine. It was only possible to intercept 29 — monitoring public Statistics for the beginning of August are also not pleasing to the eye. During the last attacks, it was not possible to shoot down a single ballistic missile.",
+    "description_uk": "За июль россия выпустила по Украине 195 баллистических ракет. Перехватить удалось только 29, — мониторинговый паблик Статистика за начало августа тоже не радует глаз. Во время последних атак не удавалось сбить ни одну баллистическую ракету.",
+    "time": "",
+    "pubDate": "2026-08-09T07:32:57+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198056",
+    "score": 3.5,
+    "views": 29835,
+    "forwards": 76
+  },
+  {
+    "title": "Jet UAV headed for Pavlograd.",
+    "title_en": "Jet UAV headed for Pavlograd.",
+    "title_uk": "Реактивний БПЛА взяв курс на Павлоград.",
+    "description": "Jet UAV headed for Pavlograd.",
+    "description_en": "Jet UAV headed for Pavlograd.",
+    "description_uk": "Реактивний БпЛА курсом на Павлоград.",
+    "time": "",
+    "pubDate": "2026-08-09T07:32:04+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72065",
+    "score": 5.0,
+    "views": 28287,
+    "forwards": 1
+  },
+  {
+    "title": "Mykolaiv: Power outage reported",
+    "title_en": "Mykolaiv: Power outage reported",
+    "title_uk": "Миколаїв: Повідомлено про відключення електроенергії",
+    "description": "There were reports by Serhii Koretskyi, Mykhailo Drapaty, and Viktor Nikita on the consequences of Russian attacks on Odesa, Kharkiv, Pavlograd, and other regions of our country. In Odesa and the region, repair work is underway to restore electricity to people after a severe power outage. All the necessary services are engaged, the work will last as long as necessary. Residential buildings were also damaged that night...",
+    "description_en": "There were reports by Serhii Koretskyi, Mykhailo Drapaty, and Viktor Nikita on the consequences of Russian attacks on Odesa, Kharkiv, Pavlograd, and other regions of our country. In Odesa and the region, repair work is underway to restore electricity to people after a severe power outage. All the necessary services are engaged, the work will last as long as necessary. Residential buildings were also damaged that night...",
+    "description_uk": "Були доповіді Сергія Корецького, Михайла Драпатого та Віктора Микити щодо наслідків російських ударів по Одесі, Харкову, Павлограду й інших наших регіонах. В Одесі та області тривають ремонтні роботи, щоб повернути людям електропостачання після жорстокого удару по енергетиці. Всі необхідні служби залучені, роботи будуть тривати стільки, скільки потрібно. Цієї ночі також було пошкоджено житлові...",
+    "time": "",
+    "pubDate": "2026-08-09T07:28:41+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Mykolaiv",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20347",
+    "score": 17.0,
+    "views": 50038,
+    "forwards": 164
+  },
+  {
     "title": "Kharkiv: Jet UAVs in the Kharkiv region in the area of ​​Blyznyuki village,...",
     "title_en": "Kharkiv: Jet UAVs in the Kharkiv region in the area of ​​Blyznyuki village,...",
     "title_uk": "Харків: реактивні БПЛА в Харківській області в районі села Близнюки,...",
@@ -14,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72062",
     "score": 6.0,
-    "views": 12133,
+    "views": 43532,
     "forwards": 0
   },
   {
@@ -31,9 +85,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198053",
-    "score": 3.5,
-    "views": 39401,
-    "forwards": 144
+    "score": 4.5,
+    "views": 79864,
+    "forwards": 213
   },
   {
     "title": "Zaporizhzhia: 🛸 BpLA ➡️ in the direction of Zaporozhye from the south.",
@@ -68,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41812",
     "score": 13.0,
-    "views": 3553,
-    "forwards": 11
+    "views": 4246,
+    "forwards": 16
   },
   {
     "title": "20 missiles",
@@ -122,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54714",
     "score": 13.0,
-    "views": 1040,
+    "views": 1268,
     "forwards": 3
   },
   {
@@ -140,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54713",
     "score": 13.0,
-    "views": 1050,
+    "views": 1286,
     "forwards": 2
   },
   {
@@ -160,24 +214,6 @@
     "score": 5.0,
     "views": 11127,
     "forwards": 0
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons from the south.",
-    "description_en": "☄️ The threat of using ballistic weapons from the south.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння з півдня.",
-    "time": "",
-    "pubDate": "2026-08-09T02:23:00+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72048",
-    "score": 5.0,
-    "views": 17187,
-    "forwards": 34
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -360,24 +396,6 @@
     "forwards": 0
   },
   {
-    "title": "Kyiv: Ballistic missile launch detected",
-    "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
-    "description": "Ukraine buys 70 ATACMS missiles, other US weapons from Turkey in major defense package. The package includes 70 M39 ATACMS ballistic missiles, 12 M270 multiple-launch rocket systems (MLRS), over 2,000 cluster munitions, and 47,000 howitzer rounds, according to a notice from the U.S. State Department.",
-    "description_en": "Ukraine buys 70 ATACMS missiles, other US weapons from Turkey in major defense package. The package includes 70 M39 ATACMS ballistic missiles, 12 M270 multiple-launch rocket systems (MLRS), over 2,000 cluster munitions, and 47,000 howitzer rounds, according to a notice from the U.S. State Department.",
-    "description_uk": "Ukraine buys 70 ATACMS missiles, other US weapons from Turkey in major defense package. The package includes 70 M39 ATACMS ballistic missiles, 12 M270 multiple-launch rocket systems (MLRS), over 2,000 cluster munitions, and 47,000 howitzer rounds, according to a notice from the U.S. State Department.",
-    "time": "",
-    "pubDate": "2026-08-08T19:18:05+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54709",
-    "score": 9.0,
-    "views": 2009,
-    "forwards": 8
-  },
-  {
     "title": "North Koreans occasionally appear on the territory of the Russian...",
     "title_en": "North Koreans occasionally appear on the territory of the Russian...",
     "title_uk": "Північні корейці періодично з'являються на території Російської...",
@@ -392,8 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20346",
     "score": 5.5,
-    "views": 77598,
-    "forwards": 158
+    "views": 81541,
+    "forwards": 162
   },
   {
     "title": "Explosions reported",
@@ -428,25 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9978",
     "score": 5.0,
-    "views": 644,
+    "views": 662,
     "forwards": 2
-  },
-  {
-    "title": "24 missiles launched",
-    "title_en": "24 missiles launched",
-    "title_uk": "Випущено 24 ракети",
-    "description": "The occupiers are preparing a powerful massive attack on the energy infrastructure of Kyiv by August 24, Ukrainian monitoring publications write. In particular, they are talking about the preparation of at least 18 Iskander-M/KN-23 ballistic missiles and 7 Zircons, as well as North Korean KN-23/KN-24 missiles in the Bryansk region. There have been no official confirmations of this information yet.",
-    "description_en": "The occupiers are preparing a powerful massive attack on the energy infrastructure of Kyiv by August 24, Ukrainian monitoring publications write. In particular, they are talking about the preparation of at least 18 Iskander-M/KN-23 ballistic missiles and 7 Zircons, as well as North Korean KN-23/KN-24 missiles in the Bryansk region. There have been no official confirmations of this information yet.",
-    "description_uk": "Оккупанты готовят мощный массированный удар по энергетической инфраструктуре Киева до 24 августа, пишут украинские мониторинговые паблики В частности, говорится о подготовке не менее 18 баллистических ракет \"Искандер-М\"/KN-23 и 7 \"Цирконов\", а также о северокорейских KN-23/KN-24 в Брянской области. Официальных подтверждений этой информации пока не было.",
-    "time": "",
-    "pubDate": "2026-08-08T12:16:36+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198012",
-    "score": 8.5,
-    "views": 131517,
-    "forwards": 353
   }
 ]
