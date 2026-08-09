@@ -1,5 +1,59 @@
 [
   {
+    "title": "Attack attack",
+    "title_en": "Attack attack",
+    "title_uk": "Атака нападу",
+    "description": "🤬Russian Nazis massively attack Odessa with rockets. Monitors write that they launched about 30 rockets in the region overnight.",
+    "description_en": "🤬Russian Nazis massively attack Odessa with rockets. Monitors write that they launched about 30 rockets in the region overnight.",
+    "description_uk": "🤬российские нацисты массировано атакуют Одессу ракетами Мониторы пишут, что с ночи по региону запустили около 30 ракет.",
+    "time": "",
+    "pubDate": "2026-08-09T10:02:32+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198067",
+    "score": 3.0,
+    "views": 2136,
+    "forwards": 2
+  },
+  {
+    "title": "KAR continues moving in the direction of Bilyaevka/Mayakiv.",
+    "title_en": "KAR continues moving in the direction of Bilyaevka/Mayakiv.",
+    "title_uk": "КАР продовжує рух у напрямку Біляївки/Маяків.",
+    "description": "KAR continues moving in the direction of Bilyaevka/Mayakiv.",
+    "description_en": "KAR continues moving in the direction of Bilyaevka/Mayakiv.",
+    "description_uk": "КАР продовжує рух у напрямку Біляєвки/Маяків.",
+    "time": "",
+    "pubDate": "2026-08-09T09:59:12+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72079",
+    "score": 5.0,
+    "views": 10107,
+    "forwards": 0
+  },
+  {
+    "title": "Another KAR in the direction of Chornomorsk, Sergiivka.",
+    "title_en": "Another KAR in the direction of Chornomorsk, Sergiivka.",
+    "title_uk": "Ще один КАР в напрямку Чорноморська, Сергіївка.",
+    "description": "Another KAR in the direction of Chornomorsk, Sergiivka.",
+    "description_en": "Another KAR in the direction of Chornomorsk, Sergiivka.",
+    "description_uk": "Ще КАР у напрямку Чорноморська, Сергіївки.",
+    "time": "",
+    "pubDate": "2026-08-09T09:57:30+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72078",
+    "score": 5.0,
+    "views": 14142,
+    "forwards": 1
+  },
+  {
     "title": "Crimea: The enemy's anti-aircraft defense and radar equipment were hit in the...",
     "title_en": "Crimea: The enemy's anti-aircraft defense and radar equipment were hit in the...",
     "title_uk": "Крим: уражені засоби протиповітряної оборони та радіолокації противника в...",
@@ -13,9 +67,9 @@
     "location": "Crimea",
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41814",
-    "score": 5.0,
-    "views": 3590,
-    "forwards": 46
+    "score": 5.5,
+    "views": 5909,
+    "forwards": 57
   },
   {
     "title": "Sumy: BpLA headed for Sumy from the north.",
@@ -49,9 +103,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198056",
-    "score": 3.5,
-    "views": 88643,
-    "forwards": 185
+    "score": 4.5,
+    "views": 105714,
+    "forwards": 219
   },
   {
     "title": "Jet UAV headed for Pavlograd.",
@@ -86,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20347",
     "score": 18.0,
-    "views": 122130,
-    "forwards": 276
+    "views": 153128,
+    "forwards": 305
   },
   {
     "title": "Kharkiv: Jet UAVs in the Kharkiv region in the area of ​​Blyznyuki village,...",
@@ -158,8 +212,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41812",
     "score": 13.0,
-    "views": 5197,
-    "forwards": 22
+    "views": 5479,
+    "forwards": 23
   },
   {
     "title": "20 missiles",
@@ -212,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54714",
     "score": 13.0,
-    "views": 1590,
+    "views": 1702,
     "forwards": 3
   },
   {
@@ -230,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54713",
     "score": 13.0,
-    "views": 1606,
+    "views": 1718,
     "forwards": 2
   },
   {
@@ -342,24 +396,6 @@
     "forwards": 34
   },
   {
-    "title": "Jet UAVs in the north-east and south-east of Zhytomyr Oblast as a...",
-    "title_en": "Jet UAVs in the north-east and south-east of Zhytomyr Oblast as a...",
-    "title_uk": "Реактивні БПЛА на північному сході та південному сході Житомирської області як...",
-    "description": "Jet UAVs in the north-east and south-east of Zhytomyr Oblast as a vector of movement towards Zhytomyr.",
-    "description_en": "Jet UAVs in the north-east and south-east of Zhytomyr Oblast as a vector of movement towards Zhytomyr.",
-    "description_uk": "Реактивні БпЛА на північному сході та південному сході Житомирщини вектором руху на Житомир.",
-    "time": "",
-    "pubDate": "2026-08-08T21:59:23+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zhytomyr",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72014",
-    "score": 5.5,
-    "views": 42634,
-    "forwards": 138
-  },
-  {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
     "title_uk": "Київ: повідомлення про вибухи",
@@ -392,8 +428,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20346",
     "score": 5.5,
-    "views": 85733,
-    "forwards": 163
+    "views": 86923,
+    "forwards": 164
   },
   {
     "title": "Explosions reported",
@@ -412,41 +448,5 @@
     "score": 8.5,
     "views": 160955,
     "forwards": 173
-  },
-  {
-    "title": "Today, on the Day of Communications and Cyber ​​Security of the Armed...",
-    "title_en": "Today, on the Day of Communications and Cyber ​​Security of the Armed...",
-    "title_uk": "Сьогодні, у День зв'язку та кібербезпеки ЗС...",
-    "description": "Today, on the Day of Communications and Cyber ​​Security of the Armed Forces of Ukraine, we honor the servicemen and women who provide reliable communication in our armed forces and protect the state in cyberspace. In modern conditions of war, communication is the basis of coordinated and effective actions. It is the communicators who ensure the transmission of combat orders, protect information and help the Defense Forces act quickly and...",
-    "description_en": "Today, on the Day of Communications and Cyber ​​Security of the Armed Forces of Ukraine, we honor the servicemen and women who provide reliable communication in our armed forces and protect the state in cyberspace. In modern conditions of war, communication is the basis of coordinated and effective actions. It is the communicators who ensure the transmission of combat orders, protect information and help the Defense Forces act quickly and...",
-    "description_uk": "Сьогодні, у День Військ зв’язку та кібербезпеки ЗСУ, вшановуємо військовослужбовців та військовослужбовиць, які забезпечують надійний зв’язок у наших збройних силах та захищають державу в кіберпросторі. У сучасних умовах війни зв’язок – це основа злагоджених і ефективних дій. Саме зв’язківці забезпечують передачу бойових наказів, захищають інформацію та допомагають Силам оборони діяти швидко й...",
-    "time": "",
-    "pubDate": "2026-08-08T13:31:19+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9978",
-    "score": 5.0,
-    "views": 685,
-    "forwards": 2
-  },
-  {
-    "title": "Chernihiv: Ballistic missile launch detected",
-    "title_en": "Chernihiv: Ballistic missile launch detected",
-    "title_uk": "Чернігів: виявлено пуск балістичної ракети",
-    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, commented on the night shelling of the Russian Federation against Ukraine: 💬 \"Russia continues its terror against civilians - as a result of another night attack by ballistic missiles and drones in the Kyiv region, three people were killed, including a child. A passenger train was attacked in the Sumy region. Chernihiv, Dnipro and other regions were also under attack. This terror cannot be...",
-    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, commented on the night shelling of the Russian Federation against Ukraine: 💬 \"Russia continues its terror against civilians - as a result of another night attack by ballistic missiles and drones in the Kyiv region, three people were killed, including a child. A passenger train was attacked in the Sumy region. Chernihiv, Dnipro and other regions were also under attack. This terror cannot be...",
-    "description_uk": "Очільник МЗС України Андрій Сибіга прокоментував нічний обстріл РФ проти України: 💬 \"Росія продовжує свій терор проти цивільних людей – внаслідок чергової нічної атаки балістичними ракетами та дронами в Київській області загинули три людини, зокрема дитина. У Сумській області було атаковано пасажирський потяг. Під ударом також опинилися Чернігів, Дніпро та інші регіони. Цей терор не можна...",
-    "time": "",
-    "pubDate": "2026-08-08T07:15:49+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Chernihiv",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9974",
-    "score": 6.0,
-    "views": 774,
-    "forwards": 3
   }
 ]
