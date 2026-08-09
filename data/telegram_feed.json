@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sumy: BpLA headed for Sumy from the north.",
+    "title_en": "Sumy: BpLA headed for Sumy from the north.",
+    "title_uk": "Суми: BpLA прямувала на Суми з півночі.",
+    "description": "BpLA headed for Sumy from the north.",
+    "description_en": "BpLA headed for Sumy from the north.",
+    "description_uk": "БпЛА курсом на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-08-09T17:48:29+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72132",
+    "score": 6.0,
+    "views": 22289,
+    "forwards": 0
+  },
+  {
+    "title": "BpLA heading for Kremenchuk!",
+    "title_en": "BpLA heading for Kremenchuk!",
+    "title_uk": "BpLA прямує до Кременчука!",
+    "description": "BpLA heading for Kremenchuk!",
+    "description_en": "BpLA heading for Kremenchuk!",
+    "description_uk": "БпЛА курсом на Кременчук!",
+    "time": "",
+    "pubDate": "2026-08-09T17:45:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72130",
+    "score": 5.0,
+    "views": 30345,
+    "forwards": 34
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54717",
     "score": 5.0,
-    "views": 1087,
+    "views": 1274,
     "forwards": 6
   },
   {
@@ -176,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54716",
     "score": 10.0,
-    "views": 1547,
+    "views": 1693,
     "forwards": 2
   },
   {
@@ -194,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198091",
     "score": 5.5,
-    "views": 118604,
-    "forwards": 150
+    "views": 126104,
+    "forwards": 152
   },
   {
     "title": "BpLA ➡️ in the direction of Kharkiv from the north.",
@@ -392,8 +428,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41814",
     "score": 5.5,
-    "views": 13653,
-    "forwards": 100
+    "views": 13967,
+    "forwards": 101
   },
   {
     "title": "Crimea: Уражено засоби ППО та РЛС ворога на півдні рф і в Криму У ніч на 9...",
@@ -412,41 +448,5 @@
     "score": 5.5,
     "views": 12082,
     "forwards": 95
-  },
-  {
-    "title": "Sumy: BpLA headed for Sumy from the north.",
-    "title_en": "Sumy: BpLA headed for Sumy from the north.",
-    "title_uk": "Суми: BpLA прямувала на Суми з півночі.",
-    "description": "BpLA headed for Sumy from the north.",
-    "description_en": "BpLA headed for Sumy from the north.",
-    "description_uk": "БпЛА курсом на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-08-09T08:34:27+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72068",
-    "score": 6.0,
-    "views": 33415,
-    "forwards": 0
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "In July, Russia launched 195 ballistic missiles over Ukraine. It was only possible to intercept 29 — monitoring public Statistics for the beginning of August are also not pleasing to the eye. During the last attacks, it was not possible to shoot down a single ballistic missile.",
-    "description_en": "In July, Russia launched 195 ballistic missiles over Ukraine. It was only possible to intercept 29 — monitoring public Statistics for the beginning of August are also not pleasing to the eye. During the last attacks, it was not possible to shoot down a single ballistic missile.",
-    "description_uk": "За июль россия выпустила по Украине 195 баллистических ракет. Перехватить удалось только 29, — мониторинговый паблик Статистика за начало августа тоже не радует глаз. Во время последних атак не удавалось сбить ни одну баллистическую ракету.",
-    "time": "",
-    "pubDate": "2026-08-09T07:32:57+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198056",
-    "score": 4.5,
-    "views": 134728,
-    "forwards": 257
   }
 ]
