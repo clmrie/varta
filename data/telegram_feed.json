@@ -1,5 +1,59 @@
 [
   {
+    "title": "Odesa: Missile attack on residential area",
+    "title_en": "Odesa: Missile attack on residential area",
+    "title_uk": "Одеса: Ракетний обстріл житлового кварталу",
+    "description": "Russian missile attack damages residential buildings in Odesa, injures at least 6. Russia carried out a missile attack on Odesa overnight on Aug. 9, damaging residential buildings and injuring at least six people in the city, officials said.",
+    "description_en": "Russian missile attack damages residential buildings in Odesa, injures at least 6. Russia carried out a missile attack on Odesa overnight on Aug. 9, damaging residential buildings and injuring at least six people in the city, officials said.",
+    "description_uk": "Russian missile attack damages residential buildings in Odesa, injures at least 6. Russia carried out a missile attack on Odesa overnight on Aug. 9, damaging residential buildings and injuring at least six people in the city, officials said.",
+    "time": "",
+    "pubDate": "2026-08-09T03:59:40+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Odesa",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54714",
+    "score": 13.0,
+    "views": 37,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Drone attack",
+    "title_en": "Kyiv: Drone attack",
+    "title_uk": "Київ: Атака безпілотників",
+    "description": "Fires seen in Russia's Belgorod amid reported Ukrainian drone attack. Ukraine's military reportedly launched a wide-ranging drone attack on the Russian city of Belgorod overnight on Aug. 9, Russian Telegram media channels reported.",
+    "description_en": "Fires seen in Russia's Belgorod amid reported Ukrainian drone attack. Ukraine's military reportedly launched a wide-ranging drone attack on the Russian city of Belgorod overnight on Aug. 9, Russian Telegram media channels reported.",
+    "description_uk": "Fires seen in Russia's Belgorod amid reported Ukrainian drone attack. Ukraine's military reportedly launched a wide-ranging drone attack on the Russian city of Belgorod overnight on Aug. 9, Russian Telegram media channels reported.",
+    "time": "",
+    "pubDate": "2026-08-09T03:56:09+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54713",
+    "score": 13.0,
+    "views": 66,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAV on Zhytomyr from the east.",
+    "description_en": "Jet UAV on Zhytomyr from the east.",
+    "description_uk": "Реактивний БпЛА на Житомир зі сходу.",
+    "time": "",
+    "pubDate": "2026-08-09T03:47:23+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zhytomyr",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72054",
+    "score": 5.0,
+    "views": 11127,
+    "forwards": 0
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -69,24 +123,6 @@
     "link": "https://t.me/kpszsu/72021",
     "score": 6.0,
     "views": 5321,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "Attack UAVs in the direction of Tatarbunary from the Black Sea.",
-    "description_en": "Attack UAVs in the direction of Tatarbunary from the Black Sea.",
-    "description_uk": "Ударні БпЛА у напрямку Татарбунари з Чорного моря.",
-    "time": "",
-    "pubDate": "2026-08-08T23:36:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72020",
-    "score": 5.0,
-    "views": 6841,
     "forwards": 0
   },
   {
@@ -254,7 +290,7 @@
   {
     "title": "North Koreans occasionally appear on the territory of the Russian...",
     "title_en": "North Koreans occasionally appear on the territory of the Russian...",
-    "title_uk": "Північні корейці періодично з'являються на території Російської...",
+    "title_uk": "North Koreans occasionally appear on the territory of the Russian...",
     "description": "North Koreans occasionally appear on the territory of the Russian Federation. We see it, we know it. If at first it was about hundreds, then thousands, now it has been decided that from 30 to 50 thousand North Koreans should be on the territory of Russia. They are studying this war, and if we are talking about crises and escalation in another direction, in the Pacific Ocean, which could be a threat to other Asian states...",
     "description_en": "North Koreans occasionally appear on the territory of the Russian Federation. We see it, we know it. If at first it was about hundreds, then thousands, now it has been decided that from 30 to 50 thousand North Koreans should be on the territory of Russia. They are studying this war, and if we are talking about crises and escalation in another direction, in the Pacific Ocean, which could be a threat to other Asian states...",
     "description_uk": "Північнокорейці час від часу з'являються на території Російської Федерації. Ми це бачимо, ми це знаємо. Якщо спочатку йшлося про сотні, потім тисячі, то зараз прийнято рішення, щоб від 30 до 50 тисяч північнокорейців були на території Росії. Вони вивчають цю війну, і якщо ми говоримо про кризи та загострення в іншому напрямку, в Тихому океані, які можуть бути загрозою для інших держав азійського...",
@@ -266,26 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20346",
     "score": 5.5,
-    "views": 63224,
-    "forwards": 144
-  },
-  {
-    "title": "Chernihiv: A jet UAV from Chernihiv Oblast to the north of Kyiv Oblast.",
-    "title_en": "Chernihiv: A jet UAV from Chernihiv Oblast to the north of Kyiv Oblast.",
-    "title_uk": "Чернігів: реактивний БПЛА з Чернігівської області на північ Київської області.",
-    "description": "A jet UAV from Chernihiv Oblast to the north of Kyiv Oblast.",
-    "description_en": "A jet UAV from Chernihiv Oblast to the north of Kyiv Oblast.",
-    "description_uk": "Реактивний БпЛА з Чернігівщини на північ Київщини.",
-    "time": "",
-    "pubDate": "2026-08-08T15:59:10+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/71992",
-    "score": 6.0,
-    "views": 81233,
-    "forwards": 1
+    "views": 66671,
+    "forwards": 150
   },
   {
     "title": "Explosions reported",
@@ -302,26 +320,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198021",
     "score": 8.5,
-    "views": 156192,
+    "views": 160955,
     "forwards": 173
-  },
-  {
-    "title": "Kyiv: Evacuation ordered",
-    "title_en": "Kyiv: Evacuation ordered",
-    "title_uk": "Київ: Наказано евакуацію",
-    "description": "Russian drone hits Sumy-Kyiv train, passengers evacuated on time. The attack occurred at around 8 a.m. local time, according to the local branch of public broadcaster Suspilne.",
-    "description_en": "Russian drone hits Sumy-Kyiv train, passengers evacuated on time. The attack occurred at around 8 a.m. local time, according to the local branch of public broadcaster Suspilne.",
-    "description_uk": "Russian drone hits Sumy-Kyiv train, passengers evacuated on time. The attack occurred at around 8 a.m. local time, according to the local branch of public broadcaster Suspilne.",
-    "time": "",
-    "pubDate": "2026-08-08T15:06:37+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54705",
-    "score": 10.0,
-    "views": 1704,
-    "forwards": 8
   },
   {
     "title": "Today, on the Day of Communications and Cyber ​​Security of the Armed...",
@@ -338,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9978",
     "score": 5.0,
-    "views": 593,
+    "views": 604,
     "forwards": 2
   },
   {
@@ -374,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20340",
     "score": 4.0,
-    "views": 61968,
+    "views": 62630,
     "forwards": 122
   },
   {
@@ -399,18 +399,18 @@
     "title": "The Ilsky and Syzransky refineries and the monitoring post at the...",
     "title_en": "The Ilsky and Syzransky refineries and the monitoring post at the...",
     "title_uk": "Ільський і Сизранський НПЗ і пост спостереження на...",
-    "description": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥The facility was hit with a subsequent fire on the territory...",
-    "description_en": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥The facility was hit with a subsequent fire on the territory...",
+    "description": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
+    "description_en": "The Ilsky and Syzransky refineries and the monitoring post at the Sivash drilling rig were hit. On the night of August 8, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine hit a number of important enemy facilities. ⚡️In particular, LLC \"Ilsky Refinery\" in the Krasnodar region of the Russian Federation was affected. 🔥It was recorded that the object was hit, followed by a fire on the territory...",
     "description_uk": "Уражено Ільський та Сизранський НПЗ і пост спостереження на буровій установці «Сиваш» В ніч на 8 серпня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України уразили низку важливих об'єктів противника. ⚡️Зокрема, уражено ТОВ «Ільський НПЗ» в Краснодарському краї рф. 🔥Зафіксовано влучання в об’єкт із подальшою пожежею на території...",
     "time": "",
     "pubDate": "2026-08-08T08:10:16+00:00",
     "category": "alert",
-    "severity": "high",
+    "severity": "critical",
     "location": "Ukraine",
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41807",
     "score": 4.5,
-    "views": 16813,
+    "views": 17044,
     "forwards": 96
   },
   {
@@ -428,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9974",
     "score": 6.0,
-    "views": 746,
+    "views": 752,
     "forwards": 3
   },
   {
@@ -446,7 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41806",
     "score": 13.0,
-    "views": 6925,
+    "views": 7018,
     "forwards": 22
   }
 ]
