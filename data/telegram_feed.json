@@ -1,5 +1,59 @@
 [
   {
+    "title": "Unmanned aerial vehicle in the north of Sumy Oblast - heading for...",
+    "title_en": "Unmanned aerial vehicle in the north of Sumy Oblast - heading for...",
+    "title_uk": "Безпілотник на півночі Сумської області - прямує на...",
+    "description": "Unmanned aerial vehicle in the north of Sumy Oblast - heading for Konotop.",
+    "description_en": "Unmanned aerial vehicle in the north of Sumy Oblast - heading for Konotop.",
+    "description_uk": "БпЛА на півночі Сумщини - курсом на Конотоп.",
+    "time": "",
+    "pubDate": "2026-08-10T06:19:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72219",
+    "score": 5.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAVs heading for Poltava from the north.",
+    "description_en": "Jet UAVs heading for Poltava from the north.",
+    "description_uk": "Реактивні БпЛА курсом на Полтаву з півночі.",
+    "time": "",
+    "pubDate": "2026-08-10T06:15:20+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72217",
+    "score": 5.0,
+    "views": 9067,
+    "forwards": 0
+  },
+  {
+    "title": "Strike confirmed on residential building",
+    "title_en": "Strike confirmed on residential building",
+    "title_uk": "Підтверджено удар по житловому будинку",
+    "description": "Russia is rebuilding the Geranei production, betting on faster drones. Plans for August — to produce 11,000 units, GUR reports. According to the deputy head of Ukrainian intelligence, Russia is now reconfiguring the production of impact drones. The main focus is on the turbojet \"Geranium-4\" and \"Geranium-5\". Because of this, in July they slightly reduced the production and intensity of drone attacks....",
+    "description_en": "Russia is rebuilding the Geranei production, betting on faster drones. Plans for August — to produce 11,000 units, GUR reports. According to the deputy head of Ukrainian intelligence, Russia is now reconfiguring the production of impact drones. The main focus is on the turbojet \"Geranium-4\" and \"Geranium-5\". Because of this, in July they slightly reduced the production and intensity of drone attacks....",
+    "description_uk": "россия перестраивает производство «Гераней», делая ставку на более быстрые дроны. В планах на август — изготовить 11 тысяч единиц, сообщает ГУР По словам замглавы украинской разведки, русня сейчас перенастраивает производство ударных беспилотников. Основной акцент делают на турбореактивных «Геранях-4» и «Геранях-5». Из-за этого в июле они немного снизили производство и интенсивность атак дронами....",
+    "time": "",
+    "pubDate": "2026-08-10T05:53:59+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198118",
+    "score": 3.5,
+    "views": 36142,
+    "forwards": 73
+  },
+  {
     "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
     "title_en": "Kharkiv: BpLA headed for Kharkiv from the north.",
     "title_uk": "Харків: BpLA прямувала на Харків з півночі.",
@@ -31,9 +85,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198114",
-    "score": 3.0,
-    "views": 1,
-    "forwards": 2
+    "score": 3.5,
+    "views": 78649,
+    "forwards": 175
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -68,26 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54723",
     "score": 7.5,
-    "views": 520,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A jet UAV in the waters of the Black Sea, heading for the Gulf.",
-    "description_en": "A jet UAV in the waters of the Black Sea, heading for the Gulf.",
-    "description_uk": "Реактивний БпЛА в акваторії Чорного моря, курсом на Затоку.",
-    "time": "",
-    "pubDate": "2026-08-10T03:03:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72201",
-    "score": 5.0,
-    "views": 15171,
-    "forwards": 0
+    "views": 935,
+    "forwards": 3
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -140,8 +176,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54722",
     "score": 6.0,
-    "views": 1077,
-    "forwards": 3
+    "views": 1440,
+    "forwards": 5
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -412,41 +448,5 @@
     "score": 6.0,
     "views": 7071,
     "forwards": 0
-  },
-  {
-    "title": "Dnipro: Casualties reported",
-    "title_en": "Dnipro: Casualties reported",
-    "title_uk": "Дніпро: повідомляється про постраждалих",
-    "description": "Head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga - in response to UNICEF's statement \"regarding reports of dead and injured children as a result of attacks in the Russian Federation and Ukraine\": 💬 \"It is extremely unfortunate that in its statement of August 4, UNICEF missed a key point: all these child deaths are a direct consequence of Russia's aggressive war against Ukraine. By presenting information about these victims without this fundamentally important context,...",
-    "description_en": "Head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga - in response to UNICEF's statement \"regarding reports of dead and injured children as a result of attacks in the Russian Federation and Ukraine\": 💬 \"It is extremely unfortunate that in its statement of August 4, UNICEF missed a key point: all these child deaths are a direct consequence of Russia's aggressive war against Ukraine. By presenting information about these victims without this fundamentally important context,...",
-    "description_uk": "Очільник МЗС України Андрій Сибіга – у відповідь на заяву ЮНІСЕФ \"щодо повідомлень про загиблих і поранених дітей унаслідок атак у Російській Федерації та Україні\": 💬 \"Вкрай прикро, що у своїй заяві від 4 серпня UNICEF упустив ключовий момент: усі ці смерті дітей є прямим наслідком агресивної війни Росії проти України. Подаючи інформацію про ці жертви без цього принципово важливого контексту,...",
-    "time": "",
-    "pubDate": "2026-08-09T18:19:08+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Dnipro",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9980",
-    "score": 10.0,
-    "views": 22447,
-    "forwards": 27
-  },
-  {
-    "title": "Zhytomyr: Power outage reported",
-    "title_en": "Zhytomyr: Power outage reported",
-    "title_uk": "Житомир: Повідомлено про відключення електроенергії",
-    "description": "Work is still ongoing in Odesa following last night’s strike. There were power and water outages – all services are working to restore supplies. As of this morning, more than 300,000 families in Odesa and the region were without power. By now, power has already been restored to a third of them, and the work continues. I want to thank all the repair crews, the State Emergency Service of Ukraine,...",
-    "description_en": "Work is still ongoing in Odesa following last night’s strike. There were power and water outages – all services are working to restore supplies. As of this morning, more than 300,000 families in Odesa and the region were without power. By now, power has already been restored to a third of them, and the work continues. I want to thank all the repair crews, the State Emergency Service of Ukraine,...",
-    "description_uk": "Work is still ongoing in Odesa following last night’s strike. There were power and water outages – all services are working to restore supplies. As of this morning, more than 300,000 families in Odesa and the region were without power. By now, power has already been restored to a third of them, and the work continues. I want to thank all the repair crews, the State Emergency Service of Ukraine,...",
-    "time": "",
-    "pubDate": "2026-08-09T18:06:19+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Zhytomyr",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20349",
-    "score": 8.5,
-    "views": 38021,
-    "forwards": 31
   }
 ]
