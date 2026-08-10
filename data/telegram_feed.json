@@ -1,5 +1,41 @@
 [
   {
+    "title": "Several unmanned aerial vehicles in the north of Sumy region -...",
+    "title_en": "Several unmanned aerial vehicles in the north of Sumy region -...",
+    "title_uk": "Кілька безпілотників на півночі Сумської області -...",
+    "description": "Several unmanned aerial vehicles in the north of Sumy region - heading for Novgorod-Siverskyi, Konotop.",
+    "description_en": "Several unmanned aerial vehicles in the north of Sumy region - heading for Novgorod-Siverskyi, Konotop.",
+    "description_uk": "Кілька БпЛА на півночі Сумщини - курсом на Новгород-Сіверський, Конотоп.",
+    "time": "",
+    "pubDate": "2026-08-10T13:55:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72277",
+    "score": 5.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Reactive BpLA from Sumy Oblast - to Poltava Oblast, headed for Velyki...",
+    "title_en": "Reactive BpLA from Sumy Oblast - to Poltava Oblast, headed for Velyki...",
+    "title_uk": "Реактивний BpLA із Сумської області - на Полтавську область, прямував до Великого...",
+    "description": "Reactive BpLA from Sumy Oblast - to Poltava Oblast, headed for Velyki Sorochyntsi.",
+    "description_en": "Reactive BpLA from Sumy Oblast - to Poltava Oblast, headed for Velyki Sorochyntsi.",
+    "description_uk": "Реактивний БпЛА нз Сумщини - на Полтавщину, курсом на Великі Сорочинці.",
+    "time": "",
+    "pubDate": "2026-08-10T13:54:31+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72276",
+    "score": 5.0,
+    "views": 5036,
+    "forwards": 0
+  },
+  {
     "title": "Reactive BpLA ➡️ in the direction of the Dnipro from the south.",
     "title_en": "Reactive BpLA ➡️ in the direction of the Dnipro from the south.",
     "title_uk": "Реактивний BpLA ➡️ в напрямку Дніпра з півдня.",
@@ -122,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54726",
     "score": 6.0,
-    "views": 1106,
+    "views": 1475,
     "forwards": 4
   },
   {
@@ -176,8 +212,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198134",
     "score": 9.5,
-    "views": 120631,
-    "forwards": 388
+    "views": 142286,
+    "forwards": 428
   },
   {
     "title": "Luhansk: Refinery \"Taneko\" was hit, oil refinery \"Ilskyi\" and the airfield...",
@@ -194,8 +230,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41820",
     "score": 5.5,
-    "views": 12617,
-    "forwards": 118
+    "views": 16595,
+    "forwards": 124
   },
   {
     "title": "BpLA ➡️ in the direction of Poltava.",
@@ -230,7 +266,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41819",
     "score": 13.0,
-    "views": 5688,
+    "views": 5946,
     "forwards": 15
   },
   {
@@ -338,44 +374,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54723",
     "score": 7.5,
-    "views": 2291,
+    "views": 2443,
     "forwards": 3
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "UAV from Chernihiv Oblast, heading for Kyiv Oblast (Vyshgorod District)",
-    "description_en": "UAV from Chernihiv Oblast, heading for Kyiv Oblast (Vyshgorod District)",
-    "description_uk": "БпЛА з Чернігівщини, курсом на Київщину (Вишгородський район)",
-    "time": "",
-    "pubDate": "2026-08-10T01:39:36+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72197",
-    "score": 6.0,
-    "views": 2133,
-    "forwards": 11
-  },
-  {
-    "title": "Izmail: Drone incoming",
-    "title_en": "Izmail: Drone incoming",
-    "title_uk": "Ізмаїл: Наліт дрон",
-    "description": "UAV in the waters of the Black Sea, heading for Odesa (Izmail district).",
-    "description_en": "UAV in the waters of the Black Sea, heading for Odesa (Izmail district).",
-    "description_uk": "БпЛА в акваторії Чорного моря, курсом на Одещину (Ізмаїльський район).",
-    "time": "",
-    "pubDate": "2026-08-10T01:29:07+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Izmail",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72195",
-    "score": 6.0,
-    "views": 5777,
-    "forwards": 0
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -410,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9980",
     "score": 10.0,
-    "views": 27809,
+    "views": 28139,
     "forwards": 34
   },
   {
@@ -428,8 +428,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20349",
     "score": 8.5,
-    "views": 48382,
-    "forwards": 42
+    "views": 53645,
+    "forwards": 43
   },
   {
     "title": "Mykolaiv: Power outage reported",
@@ -446,7 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20347",
     "score": 18.0,
-    "views": 303559,
+    "views": 305982,
     "forwards": 417
   }
 ]
