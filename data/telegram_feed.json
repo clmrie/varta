@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kyiv: 77 missiles",
+    "title_en": "Kyiv: 77 missiles",
+    "title_uk": "Київ: 77 ракет",
+    "description": "Russia can fire 77 missiles at Ukraine in single salvo — and plans to scale up, drone commander says. Russia aims to more than double the number of missiles it can launch in a simultaneous barrage, Unmanned Systems Forces Commander Robert Brovdi told the Associated Press. Brovdi later clarified that the salvos are made up of both ballistic and cruise missiles.",
+    "description_en": "Russia can fire 77 missiles at Ukraine in single salvo — and plans to scale up, drone commander says. Russia aims to more than double the number of missiles it can launch in a simultaneous barrage, Unmanned Systems Forces Commander Robert Brovdi told the Associated Press. Brovdi later clarified that the salvos are made up of both ballistic and cruise missiles.",
+    "description_uk": "Russia can fire 77 missiles at Ukraine in single salvo — and plans to scale up, drone commander says. Russia aims to more than double the number of missiles it can launch in a simultaneous barrage, Unmanned Systems Forces Commander Robert Brovdi told the Associated Press. Brovdi later clarified that the salvos are made up of both ballistic and cruise missiles.",
+    "time": "",
+    "pubDate": "2026-08-10T19:39:46+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54735",
+    "score": 9.0,
+    "views": 600,
+    "forwards": 2
+  },
+  {
     "title": "The National Bank of Ukraine increases the currency purchase limit...",
     "title_en": "The National Bank of Ukraine increases the currency purchase limit...",
     "title_uk": "Національний банк України підвищує ліміт купівлі валюти...",
@@ -14,8 +32,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198167",
     "score": 6.5,
-    "views": 63194,
-    "forwards": 461
+    "views": 90129,
+    "forwards": 533
   },
   {
     "title": "Sumy: Drone incoming",
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72307",
     "score": 6.0,
-    "views": 45554,
+    "views": 59796,
     "forwards": 0
   },
   {
@@ -50,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198166",
     "score": 5.5,
-    "views": 79182,
-    "forwards": 145
+    "views": 101809,
+    "forwards": 179
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -68,7 +86,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72305",
     "score": 6.0,
-    "views": 72912,
+    "views": 87122,
     "forwards": 0
   },
   {
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54732",
     "score": 9.5,
-    "views": 1059,
+    "views": 1339,
     "forwards": 3
   },
   {
@@ -302,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41831",
     "score": 12.5,
-    "views": 9842,
+    "views": 10374,
     "forwards": 78
   },
   {
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/72255",
     "score": 6.0,
     "views": 22192,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: BpLA from the Belgorod region, Russian Federation - heading to...",
-    "title_en": "Kharkiv: BpLA from the Belgorod region, Russian Federation - heading to...",
-    "title_uk": "Харків: BpLA з Білгородської області, РФ - прямує до...",
-    "description": "BpLA from the Belgorod region, Russian Federation - heading to Kharkiv.",
-    "description_en": "BpLA from the Belgorod region, Russian Federation - heading to Kharkiv.",
-    "description_uk": "БпЛА з Бєлгородської обл., рф - курсом на Харків.",
-    "time": "",
-    "pubDate": "2026-08-10T10:41:09+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72254",
-    "score": 6.0,
-    "views": 30285,
     "forwards": 0
   }
 ]
