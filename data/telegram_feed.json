@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A group of jet UAVs through Sumy Oblast ➡️ heading for Konotop.",
+    "description_en": "A group of jet UAVs through Sumy Oblast ➡️ heading for Konotop.",
+    "description_uk": "Група реактивних БпЛА через Сумщину ➡️ курсом на Конотоп.",
+    "time": "",
+    "pubDate": "2026-08-10T23:47:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72333",
+    "score": 5.0,
+    "views": 1825,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: 5 killed, 21 injured",
+    "title_en": "Zaporizhzhia: 5 killed, 21 injured",
+    "title_uk": "Запоріжжя: 5 загиблих, 21 поранених",
+    "description": "Update: 5 killed, 21 injured as Russian attacks hit Zaporizhzhia, Kyiv. Five people were killed and 20 injured in Zaporizhzhia, while one person was reported injured in Kyiv. After a brief lull in the attacks, the air raid alert in Zaporizhzhia was lifted before authorities issued another warning over the threat of Russian drones.",
+    "description_en": "Update: 5 killed, 21 injured as Russian attacks hit Zaporizhzhia, Kyiv. Five people were killed and 20 injured in Zaporizhzhia, while one person was reported injured in Kyiv. After a brief lull in the attacks, the air raid alert in Zaporizhzhia was lifted before authorities issued another warning over the threat of Russian drones.",
+    "description_uk": "Update: 5 killed, 21 injured as Russian attacks hit Zaporizhzhia, Kyiv. Five people were killed and 20 injured in Zaporizhzhia, while one person was reported injured in Kyiv. After a brief lull in the attacks, the air raid alert in Zaporizhzhia was lifted before authorities issued another warning over the threat of Russian drones.",
+    "time": "",
+    "pubDate": "2026-08-10T23:25:36+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Zaporizhzhia",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54739",
+    "score": 15.0,
+    "views": 231,
+    "forwards": 2
+  },
+  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Харків: Дрон вхід",
@@ -14,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72331",
     "score": 6.0,
-    "views": 4057,
+    "views": 17582,
     "forwards": 0
   },
   {
@@ -32,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54738",
     "score": 15.0,
-    "views": 242,
+    "views": 471,
     "forwards": 1
   },
   {
@@ -56,7 +92,7 @@
   {
     "title": "2 mopeds turned to Nikolaev and fly through Ternovka, - monitors",
     "title_en": "2 mopeds turned to Nikolaev and fly through Ternovka, - monitors",
-    "title_uk": "2 мопеди розвернулися на Миколаїв і летять через Тернівку, - монітори",
+    "title_uk": "2 мопеди повернули на Миколаїв і летять через Тернівку, - монітори",
     "description": "2 mopeds turned to Nikolaev and fly through Ternovka, - monitors",
     "description_en": "2 mopeds turned to Nikolaev and fly through Ternovka, - monitors",
     "description_uk": "2 мопеда развернулись на Николаев и летят через Терновку, - мониторы",
@@ -68,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198175",
     "score": 5.0,
-    "views": 43021,
-    "forwards": 0
+    "views": 49752,
+    "forwards": 14
   },
   {
     "title": "2 мопеда развернулись на Николаев и летят через Терновку, - мониторы",
@@ -162,24 +198,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Odesa: jet UAV passing Rozdilna ➡️ heading for Tsebrykovo/Zakharivka. 🛵 Poltava region: BpLA ➡️ course to Gadyach.",
-    "description_en": "Odesa: jet UAV passing Rozdilna ➡️ heading for Tsebrykovo/Zakharivka. 🛵 Poltava region: BpLA ➡️ course to Gadyach.",
-    "description_uk": "Одещина: реактивний БпЛА повз Роздільну ➡️ курсом на Цебрикове/Захарівку. 🛵 Полтавщина: БпЛА ➡️ курсом на Гадяч.",
-    "time": "",
-    "pubDate": "2026-08-10T20:50:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72309",
-    "score": 5.0,
-    "views": 18274,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: 77 missiles",
     "title_en": "Kyiv: 77 missiles",
     "title_uk": "Київ: 77 ракет",
@@ -212,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198167",
     "score": 6.5,
-    "views": 136747,
-    "forwards": 673
+    "views": 139338,
+    "forwards": 683
   },
   {
     "title": "Sumy: Drone incoming",
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 1086,
     "forwards": 2
-  },
-  {
-    "title": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_uk": "Харків: БпЛА на Харків з півночі.",
-    "description": "BpLA on Kharkiv from the north.",
-    "description_en": "BpLA on Kharkiv from the north.",
-    "description_uk": "БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-08-10T14:35:57+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72283",
-    "score": 6.0,
-    "views": 22247,
-    "forwards": 0
   }
 ]
