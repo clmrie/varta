@@ -1,5 +1,59 @@
 [
   {
+    "title": "Dnipro: BpLA from Donetsk region - to Dnipropetrovsk region, heading for...",
+    "title_en": "Dnipro: BpLA from Donetsk region - to Dnipropetrovsk region, heading for...",
+    "title_uk": "Дніпро: BpLA з Донецької області - на Дніпропетровську, прямуючи на...",
+    "description": "BpLA from Donetsk region - to Dnipropetrovsk region, heading for Shakhtarske, Pavlograd.",
+    "description_en": "BpLA from Donetsk region - to Dnipropetrovsk region, heading for Shakhtarske, Pavlograd.",
+    "description_uk": "БпЛА з Донеччини - на Дніпропетровщину, курсом на Шахтарське, Павлоград.",
+    "time": "",
+    "pubDate": "2026-08-10T10:43:18+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72255",
+    "score": 6.0,
+    "views": 22192,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: BpLA from the Belgorod region, Russian Federation - heading to...",
+    "title_en": "Kharkiv: BpLA from the Belgorod region, Russian Federation - heading to...",
+    "title_uk": "Харків: BpLA з Білгородської області, РФ - прямує до...",
+    "description": "BpLA from the Belgorod region, Russian Federation - heading to Kharkiv.",
+    "description_en": "BpLA from the Belgorod region, Russian Federation - heading to Kharkiv.",
+    "description_uk": "БпЛА з Бєлгородської обл., рф - курсом на Харків.",
+    "time": "",
+    "pubDate": "2026-08-10T10:41:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72254",
+    "score": 6.0,
+    "views": 30285,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Russia's version of Starlink deploying quicker than planned,...",
+    "title_en": "Kyiv: Russia's version of Starlink deploying quicker than planned,...",
+    "title_uk": "Київ: російська версія Starlink розгортається швидше, ніж планувалося,...",
+    "description": "Russia's version of Starlink deploying quicker than planned, Ukraine's military intelligence says. \"Moscow is implementing Rassvet, effectively a Russian analogue of the Starlink system. And they have begun launching it significantly faster than was envisaged in their plans,\" Ukraine's military intelligence deputy chief, Major General Vadym Skibitskyi, said in an interview with RBC-Ukraine.",
+    "description_en": "Russia's version of Starlink deploying quicker than planned, Ukraine's military intelligence says. \"Moscow is implementing Rassvet, effectively a Russian analogue of the Starlink system. And they have begun launching it significantly faster than was envisaged in their plans,\" Ukraine's military intelligence deputy chief, Major General Vadym Skibitskyi, said in an interview with RBC-Ukraine.",
+    "description_uk": "Russia's version of Starlink deploying quicker than planned, Ukraine's military intelligence says. \"Moscow is implementing Rassvet, effectively a Russian analogue of the Starlink system. And they have begun launching it significantly faster than was envisaged in their plans,\" Ukraine's military intelligence deputy chief, Major General Vadym Skibitskyi, said in an interview with RBC-Ukraine.",
+    "time": "",
+    "pubDate": "2026-08-10T10:28:08+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54726",
+    "score": 6.0,
+    "views": 461,
+    "forwards": 2
+  },
+  {
     "title": "Dnipro: Drone incoming",
     "title_en": "Dnipro: Drone incoming",
     "title_uk": "Дніпро: Дрон вхід",
@@ -49,9 +103,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198134",
-    "score": 8.5,
-    "views": 14767,
-    "forwards": 140
+    "score": 9.5,
+    "views": 76404,
+    "forwards": 314
   },
   {
     "title": "Luhansk: Refinery \"Taneko\" was hit, oil refinery \"Ilskyi\" and the airfield...",
@@ -68,8 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41820",
     "score": 5.5,
-    "views": 2515,
-    "forwards": 68
+    "views": 7315,
+    "forwards": 103
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -122,8 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41819",
     "score": 13.0,
-    "views": 4455,
-    "forwards": 14
+    "views": 5111,
+    "forwards": 15
   },
   {
     "title": "Unmanned aerial vehicle in the north of Sumy Oblast - heading for...",
@@ -176,7 +230,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198118",
     "score": 4.5,
-    "views": 142628,
+    "views": 156622,
     "forwards": 214
   },
   {
@@ -230,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54723",
     "score": 7.5,
-    "views": 1817,
+    "views": 2067,
     "forwards": 3
   },
   {
@@ -360,60 +414,6 @@
     "forwards": 0
   },
   {
-    "title": "Zaporizhzhia: BpLA ➡️ in the direction of Sumy from the north, in the direction of...",
-    "title_en": "Zaporizhzhia: BpLA ➡️ in the direction of Sumy from the north, in the direction of...",
-    "title_uk": "Запоріжжя: BpLA ➡️ в напрямку Сум з півночі, в напрямку...",
-    "description": "BpLA ➡️ in the direction of Sumy from the north, in the direction of Zaporozhye from the southeast.",
-    "description_en": "BpLA ➡️ in the direction of Sumy from the north, in the direction of Zaporozhye from the southeast.",
-    "description_uk": "БпЛА ➡️ у напрямку Сум з півночі, у напрямку м.Запоріжжя з південного сходу.",
-    "time": "",
-    "pubDate": "2026-08-09T22:14:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72169",
-    "score": 6.0,
-    "views": 22344,
-    "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: Sumyshchyna: BpLA past Khotyn ➡️ in the direction of...",
-    "title_en": "Mykolaiv: Sumyshchyna: BpLA past Khotyn ➡️ in the direction of...",
-    "title_uk": "Mykolaiv: Sumyshchyna: BpLA past Khotyn ➡️ in the direction of...",
-    "description": "Sumyshchyna: BpLA past Khotyn ➡️ in the direction of Mykolaivka/Stepanivka.",
-    "description_en": "Sumyshchyna: BpLA past Khotyn ➡️ in the direction of Mykolaivka/Stepanivka.",
-    "description_uk": "Сумщина: БпЛА повз Хотінь ➡️ у напрямку Миколаївки/Степанівки.",
-    "time": "",
-    "pubDate": "2026-08-09T21:59:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72168",
-    "score": 6.0,
-    "views": 12203,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
-    "title_en": "Zaporizhzhia: BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
-    "title_uk": "Запоріжжя: BpLA ➡️ в напрямку м. Запоріжжя з південного сходу.",
-    "description": "BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
-    "description_en": "BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
-    "description_uk": "БпЛА ➡️ у напрямку м.Запоріжжя з південного сходу.",
-    "time": "",
-    "pubDate": "2026-08-09T21:57:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72167",
-    "score": 6.0,
-    "views": 14224,
-    "forwards": 0
-  },
-  {
     "title": "Dnipro: Casualties reported",
     "title_en": "Dnipro: Casualties reported",
     "title_uk": "Дніпро: повідомляється про постраждалих",
@@ -428,8 +428,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/9980",
     "score": 10.0,
-    "views": 26754,
-    "forwards": 30
+    "views": 27218,
+    "forwards": 32
   },
   {
     "title": "Zhytomyr: Power outage reported",
@@ -446,7 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20349",
     "score": 8.5,
-    "views": 45640,
+    "views": 46744,
     "forwards": 42
   }
 ]
