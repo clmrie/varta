@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: Ukraine’s military intelligence reveals Russian missile production...",
+    "title_en": "Kyiv: Ukraine’s military intelligence reveals Russian missile production...",
+    "title_uk": "Київ: Військова розвідка України виявила російське ракетне виробництво...",
+    "description": "Ukraine’s military intelligence reveals Russian missile production figures ‘exceeding monthly targets.’ Russia had already fulfilled its annual production targets for the Zircon and Oniks missiles, with 33 and 60 units manufactured in the first seven months, respectively, Vadym Skibitskyi said.",
+    "description_en": "Ukraine’s military intelligence reveals Russian missile production figures ‘exceeding monthly targets.’ Russia had already fulfilled its annual production targets for the Zircon and Oniks missiles, with 33 and 60 units manufactured in the first seven months, respectively, Vadym Skibitskyi said.",
+    "description_uk": "Ukraine’s military intelligence reveals Russian missile production figures ‘exceeding monthly targets.’ Russia had already fulfilled its annual production targets for the Zircon and Oniks missiles, with 33 and 60 units manufactured in the first seven months, respectively, Vadym Skibitskyi said.",
+    "time": "",
+    "pubDate": "2026-08-10T17:38:16+00:00",
+    "category": "missile",
+    "severity": "medium",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54731",
+    "score": 4.0,
+    "views": 64,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Група реактивних БпЛА в напрямку Дніпра.",
+    "description_en": "Група реактивних БпЛА в напрямку Дніпра.",
+    "description_uk": "Група реактивних БпЛА в напрямку Дніпра.",
+    "time": "",
+    "pubDate": "2026-08-10T17:38:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72301",
+    "score": 5.0,
+    "views": 4037,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
+    "description": "BpLA on Zaporozhye from the south.",
+    "description_en": "BpLA on Zaporozhye from the south.",
+    "description_uk": "БпЛА на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-08-10T17:35:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72300",
+    "score": 6.0,
+    "views": 10106,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Attack attack",
     "title_en": "Kyiv: Attack attack",
     "title_uk": "Київ: Атака",
@@ -14,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54729",
     "score": 5.0,
-    "views": 446,
+    "views": 928,
     "forwards": 0
   },
   {
@@ -33,24 +87,6 @@
     "link": "https://t.me/kpszsu/72299",
     "score": 6.0,
     "views": 30386,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A group of UAVs from the Black Sea - heading south of Odesa.",
-    "description_en": "A group of UAVs from the Black Sea - heading south of Odesa.",
-    "description_uk": "Група БпЛА з Чорного моря - курсом на південь Одещини.",
-    "time": "",
-    "pubDate": "2026-08-10T16:04:51+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72298",
-    "score": 5.0,
-    "views": 36444,
     "forwards": 0
   },
   {
@@ -140,8 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41831",
     "score": 12.5,
-    "views": 6055,
-    "forwards": 63
+    "views": 7177,
+    "forwards": 73
   },
   {
     "title": "Drone strike near civilians",
@@ -158,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198148",
     "score": 4.5,
-    "views": 109588,
-    "forwards": 360
+    "views": 125629,
+    "forwards": 362
   },
   {
     "title": "Several unmanned aerial vehicles in the north of Sumy region -...",
@@ -374,8 +410,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41820",
     "score": 5.5,
-    "views": 20464,
-    "forwards": 133
+    "views": 21305,
+    "forwards": 134
   },
   {
     "title": "BpLA ➡️ in the direction of Poltava.",
@@ -412,41 +448,5 @@
     "score": 13.0,
     "views": 5946,
     "forwards": 15
-  },
-  {
-    "title": "Unmanned aerial vehicle in the north of Sumy Oblast - heading for...",
-    "title_en": "Unmanned aerial vehicle in the north of Sumy Oblast - heading for...",
-    "title_uk": "Безпілотник на півночі Сумської області - прямує на...",
-    "description": "Unmanned aerial vehicle in the north of Sumy Oblast - heading for Konotop.",
-    "description_en": "Unmanned aerial vehicle in the north of Sumy Oblast - heading for Konotop.",
-    "description_uk": "БпЛА на півночі Сумщини - курсом на Конотоп.",
-    "time": "",
-    "pubDate": "2026-08-10T06:19:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72219",
-    "score": 5.0,
-    "views": 1,
-    "forwards": 0
-  },
-  {
-    "title": "Strike confirmed on residential building",
-    "title_en": "Strike confirmed on residential building",
-    "title_uk": "Підтверджено удар по житловому будинку",
-    "description": "Russia is rebuilding the Geranei production, betting on faster drones. Plans for August — to produce 11,000 units, GUR reports. According to the deputy head of Ukrainian intelligence, Russia is now reconfiguring the production of impact drones. The main focus is on the turbojet \"Geranium-4\" and \"Geranium-5\". Because of this, in July they slightly reduced the production and intensity of drone attacks....",
-    "description_en": "Russia is rebuilding the Geranei production, betting on faster drones. Plans for August — to produce 11,000 units, GUR reports. According to the deputy head of Ukrainian intelligence, Russia is now reconfiguring the production of impact drones. The main focus is on the turbojet \"Geranium-4\" and \"Geranium-5\". Because of this, in July they slightly reduced the production and intensity of drone attacks....",
-    "description_uk": "россия перестраивает производство «Гераней», делая ставку на более быстрые дроны. В планах на август — изготовить 11 тысяч единиц, сообщает ГУР По словам замглавы украинской разведки, русня сейчас перенастраивает производство ударных беспилотников. Основной акцент делают на турбореактивных «Геранях-4» и «Геранях-5». Из-за этого в июле они немного снизили производство и интенсивность атак дронами....",
-    "time": "",
-    "pubDate": "2026-08-10T05:53:59+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198118",
-    "score": 4.5,
-    "views": 156622,
-    "forwards": 214
   }
 ]
