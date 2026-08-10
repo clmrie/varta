@@ -1,5 +1,59 @@
 [
   {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "A jet UAV from Donetsk region - to Dnipropetrovsk region, heading for Zaporozhye.",
+    "description_en": "A jet UAV from Donetsk region - to Dnipropetrovsk region, heading for Zaporozhye.",
+    "description_uk": "Реактивний БпЛА з Донеччини - на Дніпропетровщину, курсом на Запоріжжя.",
+    "time": "",
+    "pubDate": "2026-08-10T15:54:53+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72294",
+    "score": 6.0,
+    "views": 9,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "A jet UAV in the north-west of Kharkiv region - heading for Kolomak.",
+    "description_en": "A jet UAV in the north-west of Kharkiv region - heading for Kolomak.",
+    "description_uk": "Реактивний БпЛА на північному заході Харківщини - курсом на Коломак.",
+    "time": "",
+    "pubDate": "2026-08-10T15:25:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72293",
+    "score": 6.0,
+    "views": 30346,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: 'Serious violation' — Moldova recalls ambassador from Moscow...",
+    "title_en": "Kyiv: 'Serious violation' — Moldova recalls ambassador from Moscow...",
+    "title_uk": "Київ: «Серйозне порушення» — Молдова відкликала посла з Москви...",
+    "description": "'Serious violation' — Moldova recalls ambassador from Moscow following drone crash. \"This is a direct consequence of Russia's war, and it endangers us all,\" Moldovan President Maia Sandu said.",
+    "description_en": "'Serious violation' — Moldova recalls ambassador from Moscow following drone crash. \"This is a direct consequence of Russia's war, and it endangers us all,\" Moldovan President Maia Sandu said.",
+    "description_uk": "'Serious violation' — Moldova recalls ambassador from Moscow following drone crash. \"This is a direct consequence of Russia's war, and it endangers us all,\" Moldovan President Maia Sandu said.",
+    "time": "",
+    "pubDate": "2026-08-10T15:12:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54728",
+    "score": 6.0,
+    "views": 655,
+    "forwards": 1
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -39,8 +93,8 @@
     "title": "Energy infrastructure hit",
     "title_en": "Energy infrastructure hit",
     "title_uk": "Поразка енергетичної інфраструктури",
-    "description": "Уражено нафтохімічний комбінат “Тобольскнефтехим” у Тюменській області ⚡️10 серпня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України завдали ураження нафтохімічному комбінату “Тобольскнефтехим” в Тобольську Тюменської області рф. In particular, damage to the central gas fractionation plant (CGFU) of the enterprise was confirmed. ℹ️ Power...",
-    "description_en": "Уражено нафтохімічний комбінат “Тобольскнефтехим” у Тюменській області ⚡️10 серпня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України завдали ураження нафтохімічному комбінату “Тобольскнефтехим” в Тобольську Тюменської області рф. In particular, damage to the central gas fractionation plant (CGFU) of the enterprise was confirmed. ℹ️ Power...",
+    "description": "Petrochemical plant \"Tobolskneftekhim\" in the Tyumen region was hit ⚡️On August 10, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged the petrochemical plant \"Tobolskneftekhim\" in Tobolsk, Tyumen region of the Russian Federation. In particular, damage to the central gas fractionation plant (CGFU) of the enterprise was confirmed. ℹ️ Power...",
+    "description_en": "Petrochemical plant \"Tobolskneftekhim\" in the Tyumen region was hit ⚡️On August 10, 2026, as part of reducing the military and economic potential of the Russian aggressor, units of the Defense Forces of Ukraine damaged the petrochemical plant \"Tobolskneftekhim\" in Tobolsk, Tyumen region of the Russian Federation. In particular, damage to the central gas fractionation plant (CGFU) of the enterprise was confirmed. ℹ️ Power...",
     "description_uk": "Уражено нафтохімічний комбінат “Тобольскнефтехим” у Тюменській області ⚡️10 серпня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України завдали ураження нафтохімічному комбінату “Тобольскнефтехим” в Тобольську Тюменської області рф. Зокрема, підтверджено ураження центральної газофракціонуючої установки (ЦГФУ) підприємства. ℹ️ Потужність...",
     "time": "",
     "pubDate": "2026-08-10T14:34:42+00:00",
@@ -49,9 +103,9 @@
     "location": "Ukraine",
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41831",
-    "score": 12.0,
-    "views": 1856,
-    "forwards": 36
+    "score": 12.5,
+    "views": 4625,
+    "forwards": 57
   },
   {
     "title": "Drone strike near civilians",
@@ -68,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198148",
     "score": 4.5,
-    "views": 54680,
-    "forwards": 216
+    "views": 89203,
+    "forwards": 290
   },
   {
     "title": "Several unmanned aerial vehicles in the north of Sumy region -...",
@@ -230,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54726",
     "score": 6.0,
-    "views": 1669,
+    "views": 1981,
     "forwards": 5
   },
   {
@@ -249,24 +303,6 @@
     "link": "https://t.me/kpszsu/72241",
     "score": 6.0,
     "views": 3008,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "A group of jet UAVs from Donetsk region - to the southeast of Kharkiv region, heading for Lozova.",
-    "description_en": "A group of jet UAVs from Donetsk region - to the southeast of Kharkiv region, heading for Lozova.",
-    "description_uk": "Група реактивний БпЛА з Донеччини - на південний схід Харківщини, курсом на Лозову.",
-    "time": "",
-    "pubDate": "2026-08-10T09:42:25+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72240",
-    "score": 6.0,
-    "views": 9078,
     "forwards": 0
   },
   {
@@ -302,8 +338,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41820",
     "score": 5.5,
-    "views": 18237,
-    "forwards": 129
+    "views": 19495,
+    "forwards": 132
   },
   {
     "title": "BpLA ➡️ in the direction of Poltava.",
@@ -412,41 +448,5 @@
     "score": 4.5,
     "views": 136120,
     "forwards": 281
-  },
-  {
-    "title": "Donetsk: Power outage reported",
-    "title_en": "Donetsk: Power outage reported",
-    "title_uk": "Донецьк: повідомляється про відключення електроенергії",
-    "description": "Ukrainian forces target Russian oil refinery in Tatarstan as attacks reported in occupied Crimea, Donetsk Oblast. Ukrainian forces targeted a Russian oil refinery in Tatarstan as a blackout took place in occupied Simferopol and fires broke out in Donetsk Oblast amid overnight attacks on Aug. 10, monitoring channels reported.",
-    "description_en": "Ukrainian forces target Russian oil refinery in Tatarstan as attacks reported in occupied Crimea, Donetsk Oblast. Ukrainian forces targeted a Russian oil refinery in Tatarstan as a blackout took place in occupied Simferopol and fires broke out in Donetsk Oblast amid overnight attacks on Aug. 10, monitoring channels reported.",
-    "description_uk": "Ukrainian forces target Russian oil refinery in Tatarstan as attacks reported in occupied Crimea, Donetsk Oblast. Ukrainian forces targeted a Russian oil refinery in Tatarstan as a blackout took place in occupied Simferopol and fires broke out in Donetsk Oblast amid overnight attacks on Aug. 10, monitoring channels reported.",
-    "time": "",
-    "pubDate": "2026-08-10T03:57:20+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Donetsk",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54723",
-    "score": 7.5,
-    "views": 2536,
-    "forwards": 3
-  },
-  {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
-    "description": "Sybiha condemns UNICEF after agency fails to hold Russia accountable for Ukrainian civilian deaths. Foreign Minister Andrii Sybiha on Aug. 9 condemned the U.N. Humanitarian Aid Organization for Children (UNICEF) for failing to recognize Russia's responsibility for Ukrainian civilian casualties in a recent statement.",
-    "description_en": "Sybiha condemns UNICEF after agency fails to hold Russia accountable for Ukrainian civilian deaths. Foreign Minister Andrii Sybiha on Aug. 9 condemned the U.N. Humanitarian Aid Organization for Children (UNICEF) for failing to recognize Russia's responsibility for Ukrainian civilian casualties in a recent statement.",
-    "description_uk": "Sybiha condemns UNICEF after agency fails to hold Russia accountable for Ukrainian civilian deaths. Foreign Minister Andrii Sybiha on Aug. 9 condemned the U.N. Humanitarian Aid Organization for Children (UNICEF) for failing to recognize Russia's responsibility for Ukrainian civilian casualties in a recent statement.",
-    "time": "",
-    "pubDate": "2026-08-10T01:00:59+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54722",
-    "score": 6.0,
-    "views": 2182,
-    "forwards": 5
   }
 ]
