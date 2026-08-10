@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: Attack attack",
+    "title_en": "Kyiv: Attack attack",
+    "title_uk": "Київ: Атака",
+    "description": "Ukraine strikes Russian petrochemical plant more than 2,000 kilometers from border, General Staff says. The attack struck the plant's central gas fractionation unit, according to the General Staff.",
+    "description_en": "Ukraine strikes Russian petrochemical plant more than 2,000 kilometers from border, General Staff says. The attack struck the plant's central gas fractionation unit, according to the General Staff.",
+    "description_uk": "Ukraine strikes Russian petrochemical plant more than 2,000 kilometers from border, General Staff says. The attack struck the plant's central gas fractionation unit, according to the General Staff.",
+    "time": "",
+    "pubDate": "2026-08-10T16:21:04+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54729",
+    "score": 5.0,
+    "views": 446,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: Unmanned aerial vehicle in the north of Chernihiv region - heading...",
+    "title_en": "Chernihiv: Unmanned aerial vehicle in the north of Chernihiv region - heading...",
+    "title_uk": "Чернігів: БПЛА на півночі Чернігівської області - курс...",
+    "description": "Unmanned aerial vehicle in the north of Chernihiv region - heading for Lyubech, Slavutych.",
+    "description_en": "Unmanned aerial vehicle in the north of Chernihiv region - heading for Lyubech, Slavutych.",
+    "description_uk": "БпЛА на півночі Чернігівщини - курсом на Любеч, Славутич.",
+    "time": "",
+    "pubDate": "2026-08-10T16:09:56+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72299",
+    "score": 6.0,
+    "views": 30386,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A group of UAVs from the Black Sea - heading south of Odesa.",
+    "description_en": "A group of UAVs from the Black Sea - heading south of Odesa.",
+    "description_uk": "Група БпЛА з Чорного моря - курсом на південь Одещини.",
+    "time": "",
+    "pubDate": "2026-08-10T16:04:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72298",
+    "score": 5.0,
+    "views": 36444,
+    "forwards": 0
+  },
+  {
     "title": "Zaporizhzhia: Drone incoming",
     "title_en": "Zaporizhzhia: Drone incoming",
     "title_uk": "Запоріжжя: Дрон вхід",
@@ -50,26 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54728",
     "score": 6.0,
-    "views": 655,
-    "forwards": 1
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV from the Black Sea - to Odesa, heading for Tatarbunary.",
-    "description_en": "UAV from the Black Sea - to Odesa, heading for Tatarbunary.",
-    "description_uk": "БпЛА з Чорного моря - на Одещину, курсом на Татарбунари.",
-    "time": "",
-    "pubDate": "2026-08-10T14:47:06+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72284",
-    "score": 5.0,
-    "views": 10104,
-    "forwards": 0
+    "views": 1086,
+    "forwards": 2
   },
   {
     "title": "Kharkiv: BpLA on Kharkiv from the north.",
@@ -104,8 +140,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41831",
     "score": 12.5,
-    "views": 4625,
-    "forwards": 57
+    "views": 6055,
+    "forwards": 63
   },
   {
     "title": "Drone strike near civilians",
@@ -122,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198148",
     "score": 4.5,
-    "views": 89203,
-    "forwards": 290
+    "views": 109588,
+    "forwards": 360
   },
   {
     "title": "Several unmanned aerial vehicles in the north of Sumy region -...",
@@ -338,8 +374,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41820",
     "score": 5.5,
-    "views": 19495,
-    "forwards": 132
+    "views": 20464,
+    "forwards": 133
   },
   {
     "title": "BpLA ➡️ in the direction of Poltava.",
@@ -412,41 +448,5 @@
     "score": 4.5,
     "views": 156622,
     "forwards": 214
-  },
-  {
-    "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA headed for Kharkiv from the north.",
-    "title_uk": "Харків: BpLA прямувала на Харків з півночі.",
-    "description": "BpLA headed for Kharkiv from the north.",
-    "description_en": "BpLA headed for Kharkiv from the north.",
-    "description_uk": "БпЛА курсом на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-08-10T05:07:38+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72210",
-    "score": 6.0,
-    "views": 1,
-    "forwards": 0
-  },
-  {
-    "title": "Missile strike",
-    "title_en": "Missile strike",
-    "title_uk": "Ракетний удар",
-    "description": "The Russian Federation is implementing plans for the production of the main types of missiles, so there is no need to expect pauses in shelling, - GUR According to the deputy head of the GUR Vadym Skibytskyi, the invaders can only reduce the number of missiles aimed at one target and switch to other objects. Everything will depend on how many weapons they manage to produce. At the same time, Russian production is now at a high pace. IN...",
-    "description_en": "The Russian Federation is implementing plans for the production of the main types of missiles, so there is no need to expect pauses in shelling, - GUR According to the deputy head of the GUR Vadym Skibytskyi, the invaders can only reduce the number of missiles aimed at one target and switch to other objects. Everything will depend on how many weapons they manage to produce. At the same time, Russian production is now at a high pace. IN...",
-    "description_uk": "рф перевыполняет планы по производству основных типов ракет, поэтому паузы в обстрелах ожидать не стоит, — ГУР По словам замглавы ГУР Вадима Скибицкого, оккупанты могут лишь уменьшать количество ракет, направленных на одну цель, и переключаться на другие объекты. Все будет зависеть от того, сколько вооружения им удастся производить. При этом производство у россиян сейчас идет высокими темпами. В...",
-    "time": "",
-    "pubDate": "2026-08-10T05:07:01+00:00",
-    "category": "missile",
-    "severity": "medium",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198114",
-    "score": 4.5,
-    "views": 136120,
-    "forwards": 281
   }
 ]
