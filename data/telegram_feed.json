@@ -1,5 +1,77 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea - to Odesa, heading for Tatarbunary.",
+    "description_en": "UAV from the Black Sea - to Odesa, heading for Tatarbunary.",
+    "description_uk": "БпЛА з Чорного моря - на Одещину, курсом на Татарбунари.",
+    "time": "",
+    "pubDate": "2026-08-10T14:47:06+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72284",
+    "score": 5.0,
+    "views": 10104,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_uk": "Харків: БпЛА на Харків з півночі.",
+    "description": "BpLA on Kharkiv from the north.",
+    "description_en": "BpLA on Kharkiv from the north.",
+    "description_uk": "БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-08-10T14:35:57+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72283",
+    "score": 6.0,
+    "views": 22247,
+    "forwards": 0
+  },
+  {
+    "title": "Energy infrastructure hit",
+    "title_en": "Energy infrastructure hit",
+    "title_uk": "Поразка енергетичної інфраструктури",
+    "description": "Уражено нафтохімічний комбінат “Тобольскнефтехим” у Тюменській області ⚡️10 серпня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України завдали ураження нафтохімічному комбінату “Тобольскнефтехим” в Тобольську Тюменської області рф. In particular, damage to the central gas fractionation plant (CGFU) of the enterprise was confirmed. ℹ️ Power...",
+    "description_en": "Уражено нафтохімічний комбінат “Тобольскнефтехим” у Тюменській області ⚡️10 серпня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України завдали ураження нафтохімічному комбінату “Тобольскнефтехим” в Тобольську Тюменської області рф. In particular, damage to the central gas fractionation plant (CGFU) of the enterprise was confirmed. ℹ️ Power...",
+    "description_uk": "Уражено нафтохімічний комбінат “Тобольскнефтехим” у Тюменській області ⚡️10 серпня 2026 року в рамках зниження воєнно-економічного потенціалу російського агресора підрозділи Сил оборони України завдали ураження нафтохімічному комбінату “Тобольскнефтехим” в Тобольську Тюменської області рф. Зокрема, підтверджено ураження центральної газофракціонуючої установки (ЦГФУ) підприємства. ℹ️ Потужність...",
+    "time": "",
+    "pubDate": "2026-08-10T14:34:42+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41831",
+    "score": 12.0,
+    "views": 1856,
+    "forwards": 36
+  },
+  {
+    "title": "Drone strike near civilians",
+    "title_en": "Drone strike near civilians",
+    "title_uk": "Удар безпілотників поблизу мирних жителів",
+    "description": "Get ready: Ukraine methodically knocks out anti-aircraft defense near its palace in Gelendzhik. According to Russian media, on August 7, the Volna Kupol Garant EW system was destroyed nearby, suppressing Starlink and covering an area of ​​about 20 square meters. km Two days later, Ukrainian drones hit a S-400 air defense system located approximately 500 meters away. The fire at the position lasted for about three hours, satellite...",
+    "description_en": "Get ready: Ukraine methodically knocks out anti-aircraft defense near its palace in Gelendzhik. According to Russian media, on August 7, the Volna Kupol Garant EW system was destroyed nearby, suppressing Starlink and covering an area of ​​about 20 square meters. km Two days later, Ukrainian drones hit a S-400 air defense system located approximately 500 meters away. The fire at the position lasted for about three hours, satellite...",
+    "description_uk": "Пыне приготовиться: Украина методично выбивает ПВО возле его дворца в Геленджике Как пишут росСМИ, 7 августа неподалеку была уничтожена система РЭБ \"Волна Купол Гарант\", которая подавляла Starlink и прикрывала территорию площадью около 20 кв. км. Спустя два дня украинские дроны поразили расположенный примерно в 500 метрах ЗРК С-400. Пожар на позиции продолжался около трех часов, спутниковые...",
+    "time": "",
+    "pubDate": "2026-08-10T14:04:05+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198148",
+    "score": 4.5,
+    "views": 54680,
+    "forwards": 216
+  },
+  {
     "title": "Several unmanned aerial vehicles in the north of Sumy region -...",
     "title_en": "Several unmanned aerial vehicles in the north of Sumy region -...",
     "title_uk": "Кілька безпілотників на півночі Сумської області -...",
@@ -158,8 +230,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54726",
     "score": 6.0,
-    "views": 1475,
-    "forwards": 4
+    "views": 1669,
+    "forwards": 5
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -212,8 +284,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198134",
     "score": 9.5,
-    "views": 142286,
-    "forwards": 428
+    "views": 152008,
+    "forwards": 429
   },
   {
     "title": "Luhansk: Refinery \"Taneko\" was hit, oil refinery \"Ilskyi\" and the airfield...",
@@ -230,8 +302,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41820",
     "score": 5.5,
-    "views": 16595,
-    "forwards": 124
+    "views": 18237,
+    "forwards": 129
   },
   {
     "title": "BpLA ➡️ in the direction of Poltava.",
@@ -285,24 +357,6 @@
     "link": "https://t.me/kpszsu/72219",
     "score": 5.0,
     "views": 1,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAVs heading for Poltava from the north.",
-    "description_en": "Jet UAVs heading for Poltava from the north.",
-    "description_uk": "Реактивні БпЛА курсом на Полтаву з півночі.",
-    "time": "",
-    "pubDate": "2026-08-10T06:15:20+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72217",
-    "score": 5.0,
-    "views": 9067,
     "forwards": 0
   },
   {
@@ -374,7 +428,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54723",
     "score": 7.5,
-    "views": 2443,
+    "views": 2536,
     "forwards": 3
   },
   {
@@ -394,59 +448,5 @@
     "score": 6.0,
     "views": 2182,
     "forwards": 5
-  },
-  {
-    "title": "Dnipro: Casualties reported",
-    "title_en": "Dnipro: Casualties reported",
-    "title_uk": "Дніпро: повідомляється про постраждалих",
-    "description": "Head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga - in response to UNICEF's statement \"regarding reports of dead and injured children as a result of attacks in the Russian Federation and Ukraine\": 💬 \"It is extremely unfortunate that in its statement of August 4, UNICEF missed a key point: all these child deaths are a direct consequence of Russia's aggressive war against Ukraine. By presenting information about these victims without this fundamentally important context,...",
-    "description_en": "Head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga - in response to UNICEF's statement \"regarding reports of dead and injured children as a result of attacks in the Russian Federation and Ukraine\": 💬 \"It is extremely unfortunate that in its statement of August 4, UNICEF missed a key point: all these child deaths are a direct consequence of Russia's aggressive war against Ukraine. By presenting information about these victims without this fundamentally important context,...",
-    "description_uk": "Очільник МЗС України Андрій Сибіга – у відповідь на заяву ЮНІСЕФ \"щодо повідомлень про загиблих і поранених дітей унаслідок атак у Російській Федерації та Україні\": 💬 \"Вкрай прикро, що у своїй заяві від 4 серпня UNICEF упустив ключовий момент: усі ці смерті дітей є прямим наслідком агресивної війни Росії проти України. Подаючи інформацію про ці жертви без цього принципово важливого контексту,...",
-    "time": "",
-    "pubDate": "2026-08-09T18:19:08+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Dnipro",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9980",
-    "score": 10.0,
-    "views": 28139,
-    "forwards": 34
-  },
-  {
-    "title": "Zhytomyr: Power outage reported",
-    "title_en": "Zhytomyr: Power outage reported",
-    "title_uk": "Житомир: Повідомлено про відключення електроенергії",
-    "description": "Work is still ongoing in Odesa following last night’s strike. There were power and water outages – all services are working to restore supplies. As of this morning, more than 300,000 families in Odesa and the region were without power. By now, power has already been restored to a third of them, and the work continues. I want to thank all the repair crews, the State Emergency Service of Ukraine,...",
-    "description_en": "Work is still ongoing in Odesa following last night’s strike. There were power and water outages – all services are working to restore supplies. As of this morning, more than 300,000 families in Odesa and the region were without power. By now, power has already been restored to a third of them, and the work continues. I want to thank all the repair crews, the State Emergency Service of Ukraine,...",
-    "description_uk": "Work is still ongoing in Odesa following last night’s strike. There were power and water outages – all services are working to restore supplies. As of this morning, more than 300,000 families in Odesa and the region were without power. By now, power has already been restored to a third of them, and the work continues. I want to thank all the repair crews, the State Emergency Service of Ukraine,...",
-    "time": "",
-    "pubDate": "2026-08-09T18:06:19+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Zhytomyr",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20349",
-    "score": 8.5,
-    "views": 53645,
-    "forwards": 43
-  },
-  {
-    "title": "Mykolaiv: Power outage reported",
-    "title_en": "Mykolaiv: Power outage reported",
-    "title_uk": "Миколаїв: Повідомлено про відключення електроенергії",
-    "description": "There were reports by Serhii Koretskyi, Mykhailo Drapaty, and Viktor Nikita on the consequences of Russian attacks on Odesa, Kharkiv, Pavlograd, and other regions of our country. In Odesa and the region, repair work is underway to restore electricity to people after a severe power outage. All the necessary services are engaged, the work will last as long as necessary. Residential buildings were also damaged that night...",
-    "description_en": "There were reports by Serhii Koretskyi, Mykhailo Drapaty, and Viktor Nikita on the consequences of Russian attacks on Odesa, Kharkiv, Pavlograd, and other regions of our country. In Odesa and the region, repair work is underway to restore electricity to people after a severe power outage. All the necessary services are engaged, the work will last as long as necessary. Residential buildings were also damaged that night...",
-    "description_uk": "Були доповіді Сергія Корецького, Михайла Драпатого та Віктора Микити щодо наслідків російських ударів по Одесі, Харкову, Павлограду й інших наших регіонах. В Одесі та області тривають ремонтні роботи, щоб повернути людям електропостачання після жорстокого удару по енергетиці. Всі необхідні служби залучені, роботи будуть тривати стільки, скільки потрібно. Цієї ночі також було пошкоджено житлові...",
-    "time": "",
-    "pubDate": "2026-08-09T07:28:41+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Mykolaiv",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20347",
-    "score": 18.0,
-    "views": 305982,
-    "forwards": 417
   }
 ]
