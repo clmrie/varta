@@ -1,5 +1,59 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "Sumyshchyna: jet UAV ➡️ in the direction of Mykolaivka. 🛵 Poltava region: BpLA ➡️ course to Opishnya/Dykanka.",
+    "description_en": "Sumyshchyna: jet UAV ➡️ in the direction of Mykolaivka. 🛵 Poltava region: BpLA ➡️ course to Opishnya/Dykanka.",
+    "description_uk": "Сумщина: реактивний БпЛА ➡️ в напрямку Миколаївки. 🛵 Полтавщина: БпЛА ➡️ курсом на Опішню/Диканьку.",
+    "time": "",
+    "pubDate": "2026-08-10T08:00:18+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72233",
+    "score": 6.0,
+    "views": 17125,
+    "forwards": 0
+  },
+  {
+    "title": "BpLA ➡️ in the direction of Poltava.",
+    "title_en": "BpLA ➡️ in the direction of Poltava.",
+    "title_uk": "BpLA ➡️ в напрямку Полтави.",
+    "description": "BpLA ➡️ in the direction of Poltava.",
+    "description_en": "BpLA ➡️ in the direction of Poltava.",
+    "description_uk": "БпЛА ➡️ у напрямку Полтави.",
+    "time": "",
+    "pubDate": "2026-08-10T07:47:25+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72231",
+    "score": 5.0,
+    "views": 31251,
+    "forwards": 34
+  },
+  {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "96 adversary targets shot down/suppressed On the night of August 10 (from 18:00 on August 9), the enemy attacked with an Kh-59/69 guided air missile and three Banderol barrage munitions from the airspace over the Black Sea, as well as 126 attack UAVs of the Shahed type (including jet ones), Gerber and by imitation drones of the \"Parody\" type from the directions: Kursk, Millerovo, Orel, Primorsko-Akhtarsk -...",
+    "description_en": "96 adversary targets shot down/suppressed On the night of August 10 (from 18:00 on August 9), the enemy attacked with an Kh-59/69 guided air missile and three Banderol barrage munitions from the airspace over the Black Sea, as well as 126 attack UAVs of the Shahed type (including jet ones), Gerber and by imitation drones of the \"Parody\" type from the directions: Kursk, Millerovo, Orel, Primorsko-Akhtarsk -...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 96 ЦІЛЕЙ ПРОТИВНИКА У ніч на 10 серпня (з 18:00 09 серпня) противник атакував керованою авіаційною ракетою Х-59/69 та трьома баражуючими боєприпасами «Бандероль» із повітряного простору над акваторією Чорного моря, а також 126 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Міллерово, Орел, Приморсько-Ахтарськ –...",
+    "time": "",
+    "pubDate": "2026-08-10T06:40:03+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41819",
+    "score": 13.0,
+    "views": 3011,
+    "forwards": 11
+  },
+  {
     "title": "Unmanned aerial vehicle in the north of Sumy Oblast - heading for...",
     "title_en": "Unmanned aerial vehicle in the north of Sumy Oblast - heading for...",
     "title_uk": "Безпілотник на півночі Сумської області - прямує на...",
@@ -50,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198118",
     "score": 3.5,
-    "views": 36142,
-    "forwards": 73
+    "views": 114805,
+    "forwards": 176
   },
   {
     "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
@@ -85,9 +139,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198114",
-    "score": 3.5,
-    "views": 78649,
-    "forwards": 175
+    "score": 4.5,
+    "views": 136120,
+    "forwards": 281
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -122,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54723",
     "score": 7.5,
-    "views": 935,
+    "views": 1492,
     "forwards": 3
   },
   {
@@ -176,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54722",
     "score": 6.0,
-    "views": 1440,
+    "views": 1914,
     "forwards": 5
   },
   {
@@ -393,60 +447,6 @@
     "link": "https://t.me/kpszsu/72156",
     "score": 6.0,
     "views": 4039,
-    "forwards": 0
-  },
-  {
-    "title": "Chernihiv: Chernihiv region: BpLA near Bakhmach in the south-west direction...",
-    "title_en": "Chernihiv: Chernihiv region: BpLA near Bakhmach in the south-west direction...",
-    "title_uk": "Чернігів: Чернігівська область: БпЛА поблизу Бахмача в південно-західному напрямку...",
-    "description": "Chernihiv region: BpLA near Bakhmach in the south-west direction (Ichnia).",
-    "description_en": "Chernihiv region: BpLA near Bakhmach in the south-west direction (Ichnia).",
-    "description_uk": "Чернігівщина: БпЛА повз Бахмач у південно-західному напрямку (Ічня).",
-    "time": "",
-    "pubDate": "2026-08-09T20:30:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72155",
-    "score": 6.0,
-    "views": 7078,
-    "forwards": 0
-  },
-  {
-    "title": "Poltava region: BpLA ➡️ in the direction of Pyryatyn.",
-    "title_en": "Poltava region: BpLA ➡️ in the direction of Pyryatyn.",
-    "title_uk": "Полтавська область: БпЛА ➡️ в напрямку Пирятина.",
-    "description": "Poltava region: BpLA ➡️ in the direction of Pyryatyn.",
-    "description_en": "Poltava region: BpLA ➡️ in the direction of Pyryatyn.",
-    "description_uk": "Полтавщина: БпЛА ➡️ у напрямку Пирятина.",
-    "time": "",
-    "pubDate": "2026-08-09T19:56:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72149",
-    "score": 5.0,
-    "views": 2034,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "Several groups of BpLA from the south of Sumy region ➡️ in the direction of Poltava region (Kotelva) and Kharkiv region (Krasnokutsk). 🛵 Jet UAVs from the Black Sea ➡️ to Odesa (Sergiiivka/Zatoka).",
-    "description_en": "Several groups of BpLA from the south of Sumy region ➡️ in the direction of Poltava region (Kotelva) and Kharkiv region (Krasnokutsk). 🛵 Jet UAVs from the Black Sea ➡️ to Odesa (Sergiiivka/Zatoka).",
-    "description_uk": "Декілька груп БпЛА з півдня Сумщини ➡️ у напрямку Полтавщини (Котельва) та Харківщини (Краснокутськ). 🛵 Реактивні БпЛА з акваторії Чорного моря ➡️ на Одещину (Сергіїівка/Затока).",
-    "time": "",
-    "pubDate": "2026-08-09T19:55:22+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72148",
-    "score": 6.0,
-    "views": 7071,
     "forwards": 0
   }
 ]
