@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kherson: Drone incoming",
+    "title_en": "Kherson: Drone incoming",
+    "title_uk": "Херсон: Дрон вхід",
+    "description": "Strike drones in the direction of Kherson.",
+    "description_en": "Strike drones in the direction of Kherson.",
+    "description_uk": "Ударні БпЛА у напрямку Херсону.",
+    "time": "",
+    "pubDate": "2026-08-11T23:05:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72440",
+    "score": 6.0,
+    "views": 16160,
+    "forwards": 40
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAVs in Zaporozhye in the direction of Nikopol/Kryvyi Rih",
+    "description_en": "Jet UAVs in Zaporozhye in the direction of Nikopol/Kryvyi Rih",
+    "description_uk": "Реактивні БпЛА на Запоріжжі у напрямку Нікополя/Кривого Рогу",
+    "time": "",
+    "pubDate": "2026-08-11T23:02:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72439",
+    "score": 5.0,
+    "views": 17982,
+    "forwards": 10
+  },
+  {
     "title": "Zaporizhzhia: Drone incoming",
     "title_en": "Zaporizhzhia: Drone incoming",
     "title_uk": "Запоріжжя: Дрон вхід",
@@ -36,24 +72,6 @@
     "forwards": 67
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "A group of attack UAVs in the direction of the National Natural Park \"Tuzlov estuaries\" from the Black Sea.",
-    "description_en": "A group of attack UAVs in the direction of the National Natural Park \"Tuzlov estuaries\" from the Black Sea.",
-    "description_uk": "Група ударних БпЛА у напрямку Національного природного парку \"Тузловські лимани\" з Чорного моря.",
-    "time": "",
-    "pubDate": "2026-08-11T21:03:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72435",
-    "score": 5.0,
-    "views": 48028,
-    "forwards": 34
-  },
-  {
     "title": "Mykolaiv: Air defense systems in the district. Ochakov in the direction of...",
     "title_en": "Mykolaiv: Air defense systems in the district. Ochakov in the direction of...",
     "title_uk": "Миколаїв: Системи ППО в районі. Очакова в напрямку...",
@@ -86,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54754",
     "score": 8.0,
-    "views": 1054,
-    "forwards": 3
+    "views": 1163,
+    "forwards": 4
   },
   {
     "title": "Kharkiv: Drone attack",
@@ -158,7 +176,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198244",
     "score": 9.5,
-    "views": 131998,
+    "views": 134607,
     "forwards": 416
   },
   {
@@ -194,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54752",
     "score": 10.0,
-    "views": 1762,
+    "views": 1838,
     "forwards": 5
   },
   {
@@ -212,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20367",
     "score": 6.5,
-    "views": 221158,
-    "forwards": 514
+    "views": 223480,
+    "forwards": 518
   },
   {
     "title": "Zaporizhzhia: Attack attack",
@@ -272,7 +290,7 @@
   {
     "title": "Missile launch detected",
     "title_en": "Missile launch detected",
-    "title_uk": "Виявлено запуск ракети",
+    "title_uk": "Missile launch detected",
     "description": "Ukraine tripled its long-range strikes against Russia, but only 5–9% of missiles and drones break through air defenses, - AP According to analysts' estimates, in July Ukraine carried out three times more long-range strikes than in January. The main targets are oil infrastructure, defense enterprises, air defense and radars. At the same time, RUSI senior researcher Jack Watling estimated that only 5–9% of launched...",
     "description_en": "Ukraine tripled its long-range strikes against Russia, but only 5–9% of missiles and drones break through air defenses, - AP According to analysts' estimates, in July Ukraine carried out three times more long-range strikes than in January. The main targets are oil infrastructure, defense enterprises, air defense and radars. At the same time, RUSI senior researcher Jack Watling estimated that only 5–9% of launched...",
     "description_uk": "Украина втрое нарастила дальнобойные удары по россии, но через ПВО прорываются лишь 5–9% ракет и дронов, - AP По подсчетам аналитиков, в июле Украина нанесла втрое больше дальнобойных ударов, чем в январе. Основные цели - нефтяная инфраструктура, оборонные предприятия, ПВО и радары. При этом старший научный сотрудник RUSI Джек Уотлинг оценил, что российскую ПВО преодолевают только 5–9% запущенных...",
@@ -284,7 +302,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198237",
     "score": 6.5,
-    "views": 164478,
+    "views": 166148,
     "forwards": 315
   },
   {
@@ -396,24 +414,6 @@
     "forwards": 0
   },
   {
-    "title": "Sumy: BpLA on Sumy from the north and south.",
-    "title_en": "Sumy: BpLA on Sumy from the north and south.",
-    "title_uk": "Суми: БпЛА на Суми з півночі та півдня.",
-    "description": "BpLA on Sumy from the north and south.",
-    "description_en": "BpLA on Sumy from the north and south.",
-    "description_uk": "БпЛА на Суми з півночі та півдня.",
-    "time": "",
-    "pubDate": "2026-08-11T11:37:55+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72395",
-    "score": 6.0,
-    "views": 31332,
-    "forwards": 0
-  },
-  {
     "title": "The Defense Forces of Ukraine hit the refinery in Orsk On the night...",
     "title_en": "The Defense Forces of Ukraine hit the refinery in Orsk On the night...",
     "title_uk": "В ніч на...",
@@ -428,7 +428,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41837",
     "score": 11.0,
-    "views": 18619,
+    "views": 18674,
     "forwards": 96
   },
   {
@@ -446,7 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20361",
     "score": 23.0,
-    "views": 155710,
+    "views": 155979,
     "forwards": 364
   }
 ]
