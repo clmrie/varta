@@ -1,5 +1,77 @@
 [
   {
+    "title": "Missile launch detected",
+    "title_en": "Missile launch detected",
+    "title_uk": "Виявлено запуск ракети",
+    "description": "Ukraine tripled its long-range strikes against Russia, but only 5–9% of missiles and drones break through air defenses, - AP According to analysts' estimates, in July Ukraine carried out three times more long-range strikes than in January. The main targets are oil infrastructure, defense enterprises, air defense and radars. At the same time, RUSI senior researcher Jack Watling estimated that only 5–9% of launched...",
+    "description_en": "Ukraine tripled its long-range strikes against Russia, but only 5–9% of missiles and drones break through air defenses, - AP According to analysts' estimates, in July Ukraine carried out three times more long-range strikes than in January. The main targets are oil infrastructure, defense enterprises, air defense and radars. At the same time, RUSI senior researcher Jack Watling estimated that only 5–9% of launched...",
+    "description_uk": "Украина втрое нарастила дальнобойные удары по россии, но через ПВО прорываются лишь 5–9% ракет и дронов, - AP По подсчетам аналитиков, в июле Украина нанесла втрое больше дальнобойных ударов, чем в январе. Основные цели - нефтяная инфраструктура, оборонные предприятия, ПВО и радары. При этом старший научный сотрудник RUSI Джек Уотлинг оценил, что российскую ПВО преодолевают только 5–9% запущенных...",
+    "time": "",
+    "pubDate": "2026-08-11T15:33:01+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198237",
+    "score": 5.0,
+    "views": 6396,
+    "forwards": 37
+  },
+  {
+    "title": "Kherson: The situation according to BpLA: - to the north of Poltava, makes...",
+    "title_en": "Kherson: The situation according to BpLA: - to the north of Poltava, makes...",
+    "title_uk": "Херсон: Ситуація за BpLA: - на північ від Полтави, становить...",
+    "description": "The situation according to BpLA: - to the north of Poltava, makes chaotic movement in the air space; - in the Kherson region, in the north-western direction.",
+    "description_en": "The situation according to BpLA: - to the north of Poltava, makes chaotic movement in the air space; - in the Kherson region, in the north-western direction.",
+    "description_uk": "Ситуація по БпЛА: - на півночі від Полтави, здійснює хаотичне переміщення в повітряному просторі; - на Херсонщині, на північно-західний напрямок.",
+    "time": "",
+    "pubDate": "2026-08-11T15:28:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72417",
+    "score": 6.0,
+    "views": 12142,
+    "forwards": 1
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "Ukraine has stopped publishing data on the number of Russian missiles during attacks, - Bloomberg According to the agency, the Air Force has changed the reporting format for security reasons. At the same time, drone data continues to be published. The decision was taken against the background of the fact that it is becoming more and more difficult for Ukraine to repel massive strikes, especially ballistic ones. In July, it was possible to intercept 29 out of 195...",
+    "description_en": "Ukraine has stopped publishing data on the number of Russian missiles during attacks, - Bloomberg According to the agency, the Air Force has changed the reporting format for security reasons. At the same time, drone data continues to be published. The decision was taken against the background of the fact that it is becoming more and more difficult for Ukraine to repel massive strikes, especially ballistic ones. In July, it was possible to intercept 29 out of 195...",
+    "description_uk": "Украина перестала публиковать данные о количестве российских ракет во время атак, - Bloomberg По данным агентства, Воздушные силы изменили формат отчетности из соображений безопасности. При этом данные по дронам продолжают публиковать. Решение приняли на фоне того, что Украине становится все сложнее отражать массированные удары, особенно баллистические. В июле удалось перехватить 29 из 195...",
+    "time": "",
+    "pubDate": "2026-08-11T14:57:01+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198236",
+    "score": 3.5,
+    "views": 40879,
+    "forwards": 106
+  },
+  {
+    "title": "UAV to the south of Odesa from the sea.",
+    "title_en": "UAV to the south of Odesa from the sea.",
+    "title_uk": "БПЛА на південь від Одеси з боку моря.",
+    "description": "UAV to the south of Odesa from the sea.",
+    "description_en": "UAV to the south of Odesa from the sea.",
+    "description_uk": "БпЛА на південь Одещини з моря.",
+    "time": "",
+    "pubDate": "2026-08-11T14:54:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72416",
+    "score": 5.0,
+    "views": 35405,
+    "forwards": 1
+  },
+  {
     "title": "BpLA on n.p. Divided in Odesa from the east.",
     "title_en": "BpLA on n.p. Divided in Odesa from the east.",
     "title_uk": "БпЛА по н.п. Розділений в Одесі зі сх.",
@@ -212,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54744",
     "score": 10.0,
-    "views": 1800,
+    "views": 1953,
     "forwards": 2
   },
   {
@@ -230,8 +302,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41837",
     "score": 11.0,
-    "views": 13382,
-    "forwards": 91
+    "views": 14042,
+    "forwards": 93
   },
   {
     "title": "BpLA \"Banderol\" to Pryluky.",
@@ -266,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20361",
     "score": 23.0,
-    "views": 124557,
-    "forwards": 351
+    "views": 128591,
+    "forwards": 358
   },
   {
     "title": "Drone incoming",
@@ -320,8 +392,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41836",
     "score": 13.0,
-    "views": 6391,
-    "forwards": 23
+    "views": 6499,
+    "forwards": 24
   },
   {
     "title": "In Russia's Orsk, which is almost 2000 kilometers from Ukraine, the...",
@@ -356,26 +428,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54741",
     "score": 9.0,
-    "views": 2325,
+    "views": 2397,
     "forwards": 7
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "The State Emergency Service showed the consequences of the attack on Kyiv. In the Shevchenkivskyi district, ballistics hit the territory of a children's hospital, the glass of the building and a gas pipe were damaged. Fortunately, the children and doctors were in the shelter, and there were no victims or victims. At the second location, there was a fire and destruction in a warehouse, one person was injured.",
-    "description_en": "The State Emergency Service showed the consequences of the attack on Kyiv. In the Shevchenkivskyi district, ballistics hit the territory of a children's hospital, the glass of the building and a gas pipe were damaged. Fortunately, the children and doctors were in the shelter, and there were no victims or victims. At the second location, there was a fire and destruction in a warehouse, one person was injured.",
-    "description_uk": "В ГСЧС показали последствия атаки на Киев В Шевченковском районе баллистика ударила по территории детской больницы, повреждены остекление здания и газовая труба. К счастью, дети и медики находились в укрытии, обошлось без жертв и пострадавших. На другой локации произошел пожар и разрушение в складском помещении, пострадал один человек.",
-    "time": "",
-    "pubDate": "2026-08-11T04:25:00+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198194",
-    "score": 5.5,
-    "views": 144752,
-    "forwards": 143
   },
   {
     "title": "Kursk: A jet UAV from the Kursk region, Russian Federation - headed for Sumy.",
@@ -394,59 +448,5 @@
     "score": 6.0,
     "views": 13109,
     "forwards": 0
-  },
-  {
-    "title": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_uk": "Харків: БпЛА на Харків з півночі.",
-    "description": "BpLA on Kharkiv from the north.",
-    "description_en": "BpLA on Kharkiv from the north.",
-    "description_uk": "БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-08-11T02:46:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72354",
-    "score": 6.0,
-    "views": 1006,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: 5 killed, 21 injured",
-    "title_en": "Zaporizhzhia: 5 killed, 21 injured",
-    "title_uk": "Запоріжжя: 5 загиблих, 21 поранених",
-    "description": "Update: 5 killed, 21 injured as Russian attacks hit Zaporizhzhia, Kyiv. Five people were killed and 20 injured in Zaporizhzhia, while one person was reported injured in Kyiv. After a brief lull in the attacks, the air raid alert in Zaporizhzhia was lifted before authorities issued another warning over the threat of Russian drones.",
-    "description_en": "Update: 5 killed, 21 injured as Russian attacks hit Zaporizhzhia, Kyiv. Five people were killed and 20 injured in Zaporizhzhia, while one person was reported injured in Kyiv. After a brief lull in the attacks, the air raid alert in Zaporizhzhia was lifted before authorities issued another warning over the threat of Russian drones.",
-    "description_uk": "Update: 5 killed, 21 injured as Russian attacks hit Zaporizhzhia, Kyiv. Five people were killed and 20 injured in Zaporizhzhia, while one person was reported injured in Kyiv. After a brief lull in the attacks, the air raid alert in Zaporizhzhia was lifted before authorities issued another warning over the threat of Russian drones.",
-    "time": "",
-    "pubDate": "2026-08-10T23:25:36+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Zaporizhzhia",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54739",
-    "score": 15.0,
-    "views": 1053,
-    "forwards": 3
-  },
-  {
-    "title": "Zaporizhzhia: Ballistic missile launch detected",
-    "title_en": "Zaporizhzhia: Ballistic missile launch detected",
-    "title_uk": "Запоріжжя: виявлено пуск балістичної ракети",
-    "description": "Update: 10 injured as explosions rock Kyiv, Zaporizhzhia amid Russian ballistic missile attacks across Ukraine. One person was reported injured in Kyiv, while nine others were injured in Zaporizhzhia.",
-    "description_en": "Update: 10 injured as explosions rock Kyiv, Zaporizhzhia amid Russian ballistic missile attacks across Ukraine. One person was reported injured in Kyiv, while nine others were injured in Zaporizhzhia.",
-    "description_uk": "Update: 10 injured as explosions rock Kyiv, Zaporizhzhia amid Russian ballistic missile attacks across Ukraine. One person was reported injured in Kyiv, while nine others were injured in Zaporizhzhia.",
-    "time": "",
-    "pubDate": "2026-08-10T22:48:10+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Zaporizhzhia",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54738",
-    "score": 15.0,
-    "views": 683,
-    "forwards": 2
   }
 ]
