@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Drone attack",
+    "title_en": "Kharkiv: Drone attack",
+    "title_uk": "Харків: Атака безпілотників",
+    "description": "The threat of using attack UAVs in the north of Kharkiv Oblast and the central part of Sumy Oblast.",
+    "description_en": "The threat of using attack UAVs in the north of Kharkiv Oblast and the central part of Sumy Oblast.",
+    "description_uk": "Загроза застосування ударних БпЛА на півночі Харківщини та центральної частини Сумщини.",
+    "time": "",
+    "pubDate": "2026-08-11T20:20:23+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72433",
+    "score": 6.0,
+    "views": 1003,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: High-speed target in Kharkiv Oblast heading for Poltava Oblast",
+    "title_en": "Kharkiv: High-speed target in Kharkiv Oblast heading for Poltava Oblast",
+    "title_uk": "Харків: Швидкісна ціль у Харківській області прямує на Полтавську область",
+    "description": "High-speed target in Kharkiv Oblast heading for Poltava Oblast",
+    "description_en": "High-speed target in Kharkiv Oblast heading for Poltava Oblast",
+    "description_uk": "Швидкісна ціль на Харківщині курсом на Полтавщину",
+    "time": "",
+    "pubDate": "2026-08-11T19:59:28+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72432",
+    "score": 6.5,
+    "views": 37429,
+    "forwards": 171
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -50,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198244",
     "score": 9.5,
-    "views": 81271,
-    "forwards": 292
+    "views": 102939,
+    "forwards": 326
   },
   {
     "title": "Odesa: Strike confirmed",
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54752",
     "score": 10.0,
-    "views": 1000,
+    "views": 1249,
     "forwards": 5
   },
   {
@@ -86,8 +122,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20367",
     "score": 6.5,
-    "views": 162796,
-    "forwards": 444
+    "views": 189085,
+    "forwards": 465
   },
   {
     "title": "Zaporizhzhia: Attack attack",
@@ -158,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198237",
     "score": 6.5,
-    "views": 137227,
-    "forwards": 290
+    "views": 148012,
+    "forwards": 291
   },
   {
     "title": "Kherson: The situation according to BpLA: - to the north of Poltava, makes...",
@@ -410,43 +446,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54744",
     "score": 10.0,
-    "views": 2502,
+    "views": 2560,
     "forwards": 3
-  },
-  {
-    "title": "The Defense Forces of Ukraine hit the refinery in Orsk On the night...",
-    "title_en": "The Defense Forces of Ukraine hit the refinery in Orsk On the night...",
-    "title_uk": "В ніч на...",
-    "description": "The Defense Forces of Ukraine hit the refinery in Orsk On the night of August 11, 2026, units of the Defense Forces of Ukraine hit the oil refinery \"Orsknefteorgsintez\" in the Orenburg region of the Russian Federation. \"Orsknefteorgsintez\" is one of the largest oil refineries in the Orenburg region and an important enterprise in the fuel and energy sector of Russia. The capacity of the plant is about 6 million tons of oil per year....",
-    "description_en": "The Defense Forces of Ukraine hit the refinery in Orsk On the night of August 11, 2026, units of the Defense Forces of Ukraine hit the oil refinery \"Orsknefteorgsintez\" in the Orenburg region of the Russian Federation. \"Orsknefteorgsintez\" is one of the largest oil refineries in the Orenburg region and an important enterprise in the fuel and energy sector of Russia. The capacity of the plant is about 6 million tons of oil per year....",
-    "description_uk": "Сили оборони України уразили НПЗ в Орську У ніч на 11 серпня 2026 року підрозділи Сил оборони України уразили нафтопереробний завод «Орскнефтеоргсинтез» в Оренбурзькій області рф. «Орскнефтеоргсинтез» — один із найбільших нафтопереробних заводів Оренбурзької області та важливе підприємство паливно-енергетичного сектору росії. Потужність заводу становить близько 6 млн тонн нафти на рік....",
-    "time": "",
-    "pubDate": "2026-08-11T08:14:52+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41837",
-    "score": 11.0,
-    "views": 17218,
-    "forwards": 95
-  },
-  {
-    "title": "BpLA \"Banderol\" to Pryluky.",
-    "title_en": "BpLA \"Banderol\" to Pryluky.",
-    "title_uk": "БпЛА «Бандероль» м. Прилуки.",
-    "description": "BpLA \"Banderol\" to Pryluky.",
-    "description_en": "BpLA \"Banderol\" to Pryluky.",
-    "description_uk": "БпЛА \"Бандероль\" на Прилуки.",
-    "time": "",
-    "pubDate": "2026-08-11T08:12:40+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72379",
-    "score": 5.0,
-    "views": 29280,
-    "forwards": 34
   }
 ]
