@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_uk": "Харків: БпЛА на Харків з півночі.",
+    "description": "BpLA on Kharkiv from the north.",
+    "description_en": "BpLA on Kharkiv from the north.",
+    "description_uk": "БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-08-11T02:46:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72354",
+    "score": 6.0,
+    "views": 1006,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: BpLA from Kherson region - to the south of Mykolaiv region.",
+    "title_en": "Mykolaiv: BpLA from Kherson region - to the south of Mykolaiv region.",
+    "title_uk": "Миколаїв: БпЛА з Херсонщини – на південь Миколаївщини.",
+    "description": "BpLA from Kherson region - to the south of Mykolaiv region.",
+    "description_en": "BpLA from Kherson region - to the south of Mykolaiv region.",
+    "description_uk": "БпЛА з Херсонщини - на південь Миколаївщини.",
+    "time": "",
+    "pubDate": "2026-08-11T02:32:25+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72352",
+    "score": 6.0,
+    "views": 6069,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Fire reported at Russian oil refinery located over 6,000 kilometers...",
+    "title_en": "Kyiv: Fire reported at Russian oil refinery located over 6,000 kilometers...",
+    "title_uk": "Київ: пожежа на російському нафтопереробному заводі за 6 тисяч кілометрів...",
+    "description": "Fire reported at Russian oil refinery located over 6,000 kilometers from Ukraine as Wildberries targeted again. A fire broke out at an oil refinery over 6,000 kilometers (4,000 miles) from Ukraine in Russia's Far East, as a Voronezh Oblast logistics hub belonging to major Russian online retailer Wildberries was targeted overnight on Aug. 11, monitoring channels reported.",
+    "description_en": "Fire reported at Russian oil refinery located over 6,000 kilometers from Ukraine as Wildberries targeted again. A fire broke out at an oil refinery over 6,000 kilometers (4,000 miles) from Ukraine in Russia's Far East, as a Voronezh Oblast logistics hub belonging to major Russian online retailer Wildberries was targeted overnight on Aug. 11, monitoring channels reported.",
+    "description_uk": "Fire reported at Russian oil refinery located over 6,000 kilometers from Ukraine as Wildberries targeted again. A fire broke out at an oil refinery over 6,000 kilometers (4,000 miles) from Ukraine in Russia's Far East, as a Voronezh Oblast logistics hub belonging to major Russian online retailer Wildberries was targeted overnight on Aug. 11, monitoring channels reported.",
+    "time": "",
+    "pubDate": "2026-08-11T01:51:07+00:00",
+    "category": "alert",
+    "severity": "medium",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54740",
+    "score": 4.0,
+    "views": 266,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
     "title_en": "Kharkiv: BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
     "title_uk": "Харків: BpLA з Донецької області - на Харківську область, прямуючи на Лозову.",
@@ -15,24 +69,6 @@
     "link": "https://t.me/kpszsu/72340",
     "score": 6.0,
     "views": 7097,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_uk": "Харків: БпЛА на Харків з півночі.",
-    "description": "BpLA on Kharkiv from the north.",
-    "description_en": "BpLA on Kharkiv from the north.",
-    "description_uk": "БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-08-11T00:21:55+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72337",
-    "score": 6.0,
-    "views": 20279,
     "forwards": 0
   },
   {
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54739",
     "score": 15.0,
-    "views": 478,
+    "views": 808,
     "forwards": 3
   },
   {
@@ -128,7 +164,7 @@
   {
     "title": "2 mopeds turned to Nikolaev and fly through Ternovka, - monitors",
     "title_en": "2 mopeds turned to Nikolaev and fly through Ternovka, - monitors",
-    "title_uk": "2 мопеди розвернулися на Миколаїв і летять через Тернівку, - монітори",
+    "title_uk": "2 мопеди повернули на Миколаїв і летять через Тернівку, - монітори",
     "description": "2 mopeds turned to Nikolaev and fly through Ternovka, - monitors",
     "description_en": "2 mopeds turned to Nikolaev and fly through Ternovka, - monitors",
     "description_uk": "2 мопеда развернулись на Николаев и летят через Терновку, - мониторы",
@@ -140,7 +176,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198175",
     "score": 5.0,
-    "views": 56012,
+    "views": 76728,
     "forwards": 14
   },
   {
@@ -266,8 +302,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198167",
     "score": 6.5,
-    "views": 142279,
-    "forwards": 683
+    "views": 154501,
+    "forwards": 694
   },
   {
     "title": "Sumy: Drone incoming",
@@ -411,42 +447,6 @@
     "link": "https://t.me/kpszsu/72300",
     "score": 6.0,
     "views": 10106,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Attack attack",
-    "title_en": "Kyiv: Attack attack",
-    "title_uk": "Київ: Атака",
-    "description": "Ukraine strikes Russian petrochemical plant more than 2,000 kilometers from border, General Staff says. The attack struck the plant's central gas fractionation unit, according to the General Staff.",
-    "description_en": "Ukraine strikes Russian petrochemical plant more than 2,000 kilometers from border, General Staff says. The attack struck the plant's central gas fractionation unit, according to the General Staff.",
-    "description_uk": "Ukraine strikes Russian petrochemical plant more than 2,000 kilometers from border, General Staff says. The attack struck the plant's central gas fractionation unit, according to the General Staff.",
-    "time": "",
-    "pubDate": "2026-08-10T16:21:04+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54729",
-    "score": 5.0,
-    "views": 928,
-    "forwards": 0
-  },
-  {
-    "title": "Chernihiv: Unmanned aerial vehicle in the north of Chernihiv region - heading...",
-    "title_en": "Chernihiv: Unmanned aerial vehicle in the north of Chernihiv region - heading...",
-    "title_uk": "Чернігів: БПЛА на півночі Чернігівської області - курс...",
-    "description": "Unmanned aerial vehicle in the north of Chernihiv region - heading for Lyubech, Slavutych.",
-    "description_en": "Unmanned aerial vehicle in the north of Chernihiv region - heading for Lyubech, Slavutych.",
-    "description_uk": "БпЛА на півночі Чернігівщини - курсом на Любеч, Славутич.",
-    "time": "",
-    "pubDate": "2026-08-10T16:09:56+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72299",
-    "score": 6.0,
-    "views": 30386,
     "forwards": 0
   }
 ]
