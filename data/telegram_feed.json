@@ -2,7 +2,7 @@
   {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
+    "title_uk": "Drone incoming",
     "description": "A group of attack UAVs in the direction of the National Natural Park \"Tuzlov estuaries\" from the Black Sea.",
     "description_en": "A group of attack UAVs in the direction of the National Natural Park \"Tuzlov estuaries\" from the Black Sea.",
     "description_uk": "Група ударних БпЛА у напрямку Національного природного парку \"Тузловські лимани\" з Чорного моря.",
@@ -14,8 +14,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72435",
     "score": 5.0,
-    "views": 20252,
-    "forwards": 0
+    "views": 48028,
+    "forwards": 34
   },
   {
     "title": "Mykolaiv: Air defense systems in the district. Ochakov in the direction of...",
@@ -32,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72434",
     "score": 6.0,
-    "views": 46582,
+    "views": 66606,
     "forwards": 0
   },
   {
@@ -50,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54754",
     "score": 8.0,
-    "views": 562,
-    "forwards": 2
+    "views": 867,
+    "forwards": 3
   },
   {
     "title": "Kharkiv: Drone attack",
@@ -108,6 +108,24 @@
     "forwards": 0
   },
   {
+    "title": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III...",
+    "title_en": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III...",
+    "title_uk": "США хочуть підключити II до обслуговування ядерної ракети Minuteman III...",
+    "description": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III Проблема довольно по-американски масштабная: ракетам уже больше 50 лет, а данные по их состоянию разбросаны примерно по 60 отдельным системам - от локальных дисков до закрытых сетей. Теперь ВВС хотят собрать все это в одном месте с помощью ИИ, чтобы он в реальном времени анализировал чертежи, обслуживание и подсказывал, когда пора...",
+    "description_en": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III Проблема довольно по-американски масштабная: ракетам уже больше 50 лет, а данные по их состоянию разбросаны примерно по 60 отдельным системам - от локальных дисков до закрытых сетей. Теперь ВВС хотят собрать все это в одном месте с помощью ИИ, чтобы он в реальном времени анализировал чертежи, обслуживание и подсказывал, когда пора...",
+    "description_uk": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III Проблема довольно по-американски масштабная: ракетам уже больше 50 лет, а данные по их состоянию разбросаны примерно по 60 отдельным системам - от локальных дисков до закрытых сетей. Теперь ВВС хотят собрать все это в одном месте с помощью ИИ, чтобы он в реальном времени анализировал чертежи, обслуживание и подсказывал, когда пора...",
+    "time": "",
+    "pubDate": "2026-08-11T18:18:46+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198244",
+    "score": 9.5,
+    "views": 126960,
+    "forwards": 404
+  },
+  {
     "title": "The USA wants to connect AI to the maintenance of Minuteman III...",
     "title_en": "The USA wants to connect AI to the maintenance of Minuteman III...",
     "title_uk": "The USA wants to connect AI to the maintenance of Minuteman III...",
@@ -140,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54752",
     "score": 10.0,
-    "views": 1496,
+    "views": 1661,
     "forwards": 5
   },
   {
@@ -158,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20367",
     "score": 6.5,
-    "views": 207529,
-    "forwards": 489
+    "views": 216069,
+    "forwards": 505
   },
   {
     "title": "Zaporizhzhia: Attack attack",
@@ -230,7 +248,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198237",
     "score": 6.5,
-    "views": 156680,
+    "views": 161480,
     "forwards": 291
   },
   {
@@ -414,39 +432,21 @@
     "forwards": 282
   },
   {
-    "title": "BpLA in the direction of Kharkiv north.",
-    "title_en": "BpLA in the direction of Kharkiv north.",
-    "title_uk": "БпЛА в напрямку Харкова пн.",
-    "description": "BpLA in the direction of Kharkiv north.",
-    "description_en": "BpLA in the direction of Kharkiv north.",
-    "description_uk": "БпЛА в напрямку Харкова півночі.",
+    "title": "The Defense Forces of Ukraine hit the refinery in Orsk On the night...",
+    "title_en": "The Defense Forces of Ukraine hit the refinery in Orsk On the night...",
+    "title_uk": "В ніч на...",
+    "description": "The Defense Forces of Ukraine hit the refinery in Orsk On the night of August 11, 2026, units of the Defense Forces of Ukraine hit the oil refinery \"Orsknefteorgsintez\" in the Orenburg region of the Russian Federation. \"Orsknefteorgsintez\" is one of the largest oil refineries in the Orenburg region and an important enterprise in the fuel and energy sector of Russia. The capacity of the plant is about 6 million tons of oil per year....",
+    "description_en": "The Defense Forces of Ukraine hit the refinery in Orsk On the night of August 11, 2026, units of the Defense Forces of Ukraine hit the oil refinery \"Orsknefteorgsintez\" in the Orenburg region of the Russian Federation. \"Orsknefteorgsintez\" is one of the largest oil refineries in the Orenburg region and an important enterprise in the fuel and energy sector of Russia. The capacity of the plant is about 6 million tons of oil per year....",
+    "description_uk": "Сили оборони України уразили НПЗ в Орську У ніч на 11 серпня 2026 року підрозділи Сил оборони України уразили нафтопереробний завод «Орскнефтеоргсинтез» в Оренбурзькій області рф. «Орскнефтеоргсинтез» — один із найбільших нафтопереробних заводів Оренбурзької області та важливе підприємство паливно-енергетичного сектору росії. Потужність заводу становить близько 6 млн тонн нафти на рік....",
     "time": "",
-    "pubDate": "2026-08-11T09:43:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72388",
-    "score": 5.0,
-    "views": 37378,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
-    "description": "BpLA on Zaporozhye from the south.",
-    "description_en": "BpLA on Zaporozhye from the south.",
-    "description_uk": "БпЛА на Запоріжжя з півдня.",
-    "time": "",
-    "pubDate": "2026-08-11T09:18:41+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72385",
-    "score": 6.0,
-    "views": 21223,
-    "forwards": 0
+    "pubDate": "2026-08-11T08:14:52+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41837",
+    "score": 11.0,
+    "views": 18529,
+    "forwards": 96
   }
 ]
