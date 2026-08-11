@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A group of attack UAVs in the direction of the National Natural Park \"Tuzlov estuaries\" from the Black Sea.",
+    "description_en": "A group of attack UAVs in the direction of the National Natural Park \"Tuzlov estuaries\" from the Black Sea.",
+    "description_uk": "Група ударних БпЛА у напрямку Національного природного парку \"Тузловські лимани\" з Чорного моря.",
+    "time": "",
+    "pubDate": "2026-08-11T21:03:47+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72435",
+    "score": 5.0,
+    "views": 20252,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: Air defense systems in the district. Ochakov in the direction of...",
+    "title_en": "Mykolaiv: Air defense systems in the district. Ochakov in the direction of...",
+    "title_uk": "Миколаїв: Системи ППО в районі. Очакова в напрямку...",
+    "description": "Air defense systems in the district. Ochakov in the direction of Mykolayiv region and Odesa region.",
+    "description_en": "Air defense systems in the district. Ochakov in the direction of Mykolayiv region and Odesa region.",
+    "description_uk": "Ударні БпЛА в р-ні. Очакова у напрямку Миколаївщини та Одещини.",
+    "time": "",
+    "pubDate": "2026-08-11T20:35:11+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72434",
+    "score": 6.0,
+    "views": 46582,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Romanian military destroys 2 Gerbera drones found in Black Sea....",
+    "title_en": "Kyiv: Romanian military destroys 2 Gerbera drones found in Black Sea....",
+    "title_uk": "Київ: румунські військові знищили 2 знайдені в Чорному морі безпілотники Gerbera.",
+    "description": "Romanian military destroys 2 Gerbera drones found in Black Sea. Romanian military divers destroyed two Gerbera-type drones found drifting in the country's exclusive economic zone in the Black Sea, Romanian Defense Minister Radu Miruta said on Aug. 11.",
+    "description_en": "Romanian military destroys 2 Gerbera drones found in Black Sea. Romanian military divers destroyed two Gerbera-type drones found drifting in the country's exclusive economic zone in the Black Sea, Romanian Defense Minister Radu Miruta said on Aug. 11.",
+    "description_uk": "Romanian military destroys 2 Gerbera drones found in Black Sea. Romanian military divers destroyed two Gerbera-type drones found drifting in the country's exclusive economic zone in the Black Sea, Romanian Defense Minister Radu Miruta said on Aug. 11.",
+    "time": "",
+    "pubDate": "2026-08-11T20:33:55+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54754",
+    "score": 8.0,
+    "views": 562,
+    "forwards": 2
+  },
+  {
     "title": "Kharkiv: Drone attack",
     "title_en": "Kharkiv: Drone attack",
     "title_uk": "Харків: Атака безпілотників",
@@ -36,24 +90,6 @@
     "forwards": 171
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAVs in the Black Sea/Southern direction from the Black Sea.",
-    "description_en": "Jet UAVs in the Black Sea/Southern direction from the Black Sea.",
-    "description_uk": "Реактивні БпЛА у напрямку Чорноморське/Південне з Чорного моря.",
-    "time": "",
-    "pubDate": "2026-08-11T19:22:55+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72430",
-    "score": 5.0,
-    "views": 25267,
-    "forwards": 0
-  },
-  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Харків: Дрон вхід",
@@ -74,7 +110,7 @@
   {
     "title": "The USA wants to connect AI to the maintenance of Minuteman III...",
     "title_en": "The USA wants to connect AI to the maintenance of Minuteman III...",
-    "title_uk": "США хочуть підключити ШІ до обслуговування Minuteman III...",
+    "title_uk": "The USA wants to connect AI to the maintenance of Minuteman III...",
     "description": "The USA wants to connect AI to the maintenance of Minuteman III nuclear missiles. The problem is quite American-scale: the missiles are already more than 50 years old, and the data on their condition is scattered on approximately 60 separate systems - from local drives to closed networks. Now the BBC wants to bring it all together in one place with the help of AI, so that it can analyze drawings, maintenance in real time and suggest when it's time to...",
     "description_en": "The USA wants to connect AI to the maintenance of Minuteman III nuclear missiles. The problem is quite American-scale: the missiles are already more than 50 years old, and the data on their condition is scattered on approximately 60 separate systems - from local drives to closed networks. Now the BBC wants to bring it all together in one place with the help of AI, so that it can analyze drawings, maintenance in real time and suggest when it's time to...",
     "description_uk": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III Проблема довольно по-американски масштабная: ракетам уже больше 50 лет, а данные по их состоянию разбросаны примерно по 60 отдельным системам - от локальных дисков до закрытых сетей. Теперь ВВС хотят собрать все это в одном месте с помощью ИИ, чтобы он в реальном времени анализировал чертежи, обслуживание и подсказывал, когда пора...",
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198244",
     "score": 9.5,
-    "views": 102939,
-    "forwards": 326
+    "views": 118178,
+    "forwards": 365
   },
   {
     "title": "Odesa: Strike confirmed",
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54752",
     "score": 10.0,
-    "views": 1249,
+    "views": 1496,
     "forwards": 5
   },
   {
@@ -122,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20367",
     "score": 6.5,
-    "views": 189085,
-    "forwards": 465
+    "views": 207529,
+    "forwards": 489
   },
   {
     "title": "Zaporizhzhia: Attack attack",
@@ -194,7 +230,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198237",
     "score": 6.5,
-    "views": 148012,
+    "views": 156680,
     "forwards": 291
   },
   {
@@ -396,24 +432,6 @@
     "forwards": 0
   },
   {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "BpLA in the direction of Kharkiv north. 🛵 Jet UAV to the south of Dnipropetrovsk region from Zaporizhzhia.",
-    "description_en": "BpLA in the direction of Kharkiv north. 🛵 Jet UAV to the south of Dnipropetrovsk region from Zaporizhzhia.",
-    "description_uk": "БпЛА в напрямку Харкова півночі. 🛵 Реактивний БпЛА на південь Дніпропетровщини із Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-08-11T09:26:38+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72386",
-    "score": 6.0,
-    "views": 47486,
-    "forwards": 0
-  },
-  {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
     "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
     "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 21223,
     "forwards": 0
-  },
-  {
-    "title": "Kyiv: Strike confirmed",
-    "title_en": "Kyiv: Strike confirmed",
-    "title_uk": "Київ: Страйк підтверджено",
-    "description": "Environmental disaster looms as Russian shadow ship leaks 800,000 barrels of oil into Arabian Sea. Omani authorities said they have launched a \"comprehensive response\" to secure the Caroline Bezengi vessel and mitigate the impact on the marine ecosystem and maritime navigation.",
-    "description_en": "Environmental disaster looms as Russian shadow ship leaks 800,000 barrels of oil into Arabian Sea. Omani authorities said they have launched a \"comprehensive response\" to secure the Caroline Bezengi vessel and mitigate the impact on the marine ecosystem and maritime navigation.",
-    "description_uk": "Environmental disaster looms as Russian shadow ship leaks 800,000 barrels of oil into Arabian Sea. Omani authorities said they have launched a \"comprehensive response\" to secure the Caroline Bezengi vessel and mitigate the impact on the marine ecosystem and maritime navigation.",
-    "time": "",
-    "pubDate": "2026-08-11T08:48:48+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54744",
-    "score": 10.0,
-    "views": 2560,
-    "forwards": 3
   }
 ]
