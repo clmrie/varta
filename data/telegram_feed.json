@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "Strike drones on the city of Zaporizhia from the south.",
+    "description_en": "Strike drones on the city of Zaporizhia from the south.",
+    "description_uk": "Ударні БпЛА на м. Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-08-11T22:36:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72438",
+    "score": 6.0,
+    "views": 12460,
+    "forwards": 11
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons from the south.",
+    "description_en": "☄️ The threat of using ballistic weapons from the south.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння з півдня.",
+    "time": "",
+    "pubDate": "2026-08-11T22:18:14+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72436",
+    "score": 5.5,
+    "views": 30377,
+    "forwards": 67
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Drone incoming",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54754",
     "score": 8.0,
-    "views": 867,
+    "views": 1054,
     "forwards": 3
   },
   {
@@ -108,6 +144,24 @@
     "forwards": 0
   },
   {
+    "title": "The USA wants to connect AI to the maintenance of Minuteman III...",
+    "title_en": "The USA wants to connect AI to the maintenance of Minuteman III...",
+    "title_uk": "США хочуть підключити ШІ до обслуговування Minuteman III...",
+    "description": "The USA wants to connect AI to the maintenance of Minuteman III nuclear missiles. The problem is quite American-scale: the missiles are already more than 50 years old, and the data on their condition is scattered on approximately 60 separate systems - from local drives to closed networks. Now the BBC wants to bring it all together in one place with the help of AI, so that it can analyze drawings, maintenance in real time and suggest when it's time to...",
+    "description_en": "The USA wants to connect AI to the maintenance of Minuteman III nuclear missiles. The problem is quite American-scale: the missiles are already more than 50 years old, and the data on their condition is scattered on approximately 60 separate systems - from local drives to closed networks. Now the BBC wants to bring it all together in one place with the help of AI, so that it can analyze drawings, maintenance in real time and suggest when it's time to...",
+    "description_uk": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III Проблема довольно по-американски масштабная: ракетам уже больше 50 лет, а данные по их состоянию разбросаны примерно по 60 отдельным системам - от локальных дисков до закрытых сетей. Теперь ВВС хотят собрать все это в одном месте с помощью ИИ, чтобы он в реальном времени анализировал чертежи, обслуживание и подсказывал, когда пора...",
+    "time": "",
+    "pubDate": "2026-08-11T18:18:46+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198244",
+    "score": 9.5,
+    "views": 131998,
+    "forwards": 416
+  },
+  {
     "title": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III...",
     "title_en": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III...",
     "title_uk": "США хочуть підключити II до обслуговування ядерної ракети Minuteman III...",
@@ -126,24 +180,6 @@
     "forwards": 404
   },
   {
-    "title": "The USA wants to connect AI to the maintenance of Minuteman III...",
-    "title_en": "The USA wants to connect AI to the maintenance of Minuteman III...",
-    "title_uk": "The USA wants to connect AI to the maintenance of Minuteman III...",
-    "description": "The USA wants to connect AI to the maintenance of Minuteman III nuclear missiles. The problem is quite American-scale: the missiles are already more than 50 years old, and the data on their condition is scattered on approximately 60 separate systems - from local drives to closed networks. Now the BBC wants to bring it all together in one place with the help of AI, so that it can analyze drawings, maintenance in real time and suggest when it's time to...",
-    "description_en": "The USA wants to connect AI to the maintenance of Minuteman III nuclear missiles. The problem is quite American-scale: the missiles are already more than 50 years old, and the data on their condition is scattered on approximately 60 separate systems - from local drives to closed networks. Now the BBC wants to bring it all together in one place with the help of AI, so that it can analyze drawings, maintenance in real time and suggest when it's time to...",
-    "description_uk": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III Проблема довольно по-американски масштабная: ракетам уже больше 50 лет, а данные по их состоянию разбросаны примерно по 60 отдельным системам - от локальных дисков до закрытых сетей. Теперь ВВС хотят собрать все это в одном месте с помощью ИИ, чтобы он в реальном времени анализировал чертежи, обслуживание и подсказывал, когда пора...",
-    "time": "",
-    "pubDate": "2026-08-11T18:18:46+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198244",
-    "score": 9.5,
-    "views": 118178,
-    "forwards": 365
-  },
-  {
     "title": "Odesa: Strike confirmed",
     "title_en": "Odesa: Strike confirmed",
     "title_uk": "Одеса: Страйк підтверджено",
@@ -158,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54752",
     "score": 10.0,
-    "views": 1661,
+    "views": 1762,
     "forwards": 5
   },
   {
@@ -176,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20367",
     "score": 6.5,
-    "views": 216069,
-    "forwards": 505
+    "views": 221158,
+    "forwards": 514
   },
   {
     "title": "Zaporizhzhia: Attack attack",
@@ -248,8 +284,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198237",
     "score": 6.5,
-    "views": 161480,
-    "forwards": 291
+    "views": 164478,
+    "forwards": 315
   },
   {
     "title": "Kherson: The situation according to BpLA: - to the north of Poltava, makes...",
@@ -268,24 +304,6 @@
     "score": 6.0,
     "views": 12142,
     "forwards": 1
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "Ukraine has stopped publishing data on the number of Russian missiles during attacks, - Bloomberg According to the agency, the Air Force has changed the reporting format for security reasons. At the same time, drone data continues to be published. The decision was taken against the background of the fact that it is becoming more and more difficult for Ukraine to repel massive strikes, especially ballistic ones. In July, it was possible to intercept 29 out of 195...",
-    "description_en": "Ukraine has stopped publishing data on the number of Russian missiles during attacks, - Bloomberg According to the agency, the Air Force has changed the reporting format for security reasons. At the same time, drone data continues to be published. The decision was taken against the background of the fact that it is becoming more and more difficult for Ukraine to repel massive strikes, especially ballistic ones. In July, it was possible to intercept 29 out of 195...",
-    "description_uk": "Украина перестала публиковать данные о количестве российских ракет во время атак, - Bloomberg По данным агентства, Воздушные силы изменили формат отчетности из соображений безопасности. При этом данные по дронам продолжают публиковать. Решение приняли на фоне того, что Украине становится все сложнее отражать массированные удары, особенно баллистические. В июле удалось перехватить 29 из 195...",
-    "time": "",
-    "pubDate": "2026-08-11T14:57:01+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198236",
-    "score": 4.5,
-    "views": 103153,
-    "forwards": 210
   },
   {
     "title": "UAV to the south of Odesa from the sea.",
@@ -396,42 +414,6 @@
     "forwards": 0
   },
   {
-    "title": "Dnipro: Reactive BpLA on the Dnipro from the south!",
-    "title_en": "Dnipro: Reactive BpLA on the Dnipro from the south!",
-    "title_uk": "Дніпро: Реактивна BpLA на Дніпрі з півдня!",
-    "description": "Reactive BpLA on the Dnipro from the south!",
-    "description_en": "Reactive BpLA on the Dnipro from the south!",
-    "description_uk": "Реактивний БпЛА на Дніпро з півдня!",
-    "time": "",
-    "pubDate": "2026-08-11T10:53:44+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72392",
-    "score": 6.0,
-    "views": 32323,
-    "forwards": 34
-  },
-  {
-    "title": "Air defense active",
-    "title_en": "Air defense active",
-    "title_uk": "Активна ППО",
-    "description": "The Russian Shaheda began to actively use EW to evade Ukrainian interceptor drones Sergey Flesh published a video of the operation of the on-board EW complex on the Shaheda to suppress the video signal of the Ukrainian interceptor drone pursuing it. According to him, he began to receive many messages about the use of EW in Shahed and noted that this technology works and it should also be used...",
-    "description_en": "The Russian Shaheda began to actively use EW to evade Ukrainian interceptor drones Sergey Flesh published a video of the operation of the on-board EW complex on the Shaheda to suppress the video signal of the Ukrainian interceptor drone pursuing it. According to him, he began to receive many messages about the use of EW in Shahed and noted that this technology works and it should also be used...",
-    "description_uk": "Российские Шахеды стали активно применять РЭБ для ухода от украинских дронов-перехватчиков Сергей Флеш опубликовал видео работы бортового комплекса РЭБ на Шахеде для подавления видеосигнала преследующего ее украинского дрона-перехватчика. По его словам, он стал получать много сообщений об использовании РЭБ на Шахедах и отметил, что эта технология работает и ее необходимо также начинать применять...",
-    "time": "",
-    "pubDate": "2026-08-11T10:08:52+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198220",
-    "score": 6.5,
-    "views": 132143,
-    "forwards": 282
-  },
-  {
     "title": "The Defense Forces of Ukraine hit the refinery in Orsk On the night...",
     "title_en": "The Defense Forces of Ukraine hit the refinery in Orsk On the night...",
     "title_uk": "В ніч на...",
@@ -446,7 +428,25 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41837",
     "score": 11.0,
-    "views": 18529,
+    "views": 18619,
     "forwards": 96
+  },
+  {
+    "title": "Mykolaiv: Ballistic missile launch detected",
+    "title_en": "Mykolaiv: Ballistic missile launch detected",
+    "title_uk": "Миколаїв: виявлено пуск балістичної ракети",
+    "description": "Since the night, work has been going on to eliminate the consequences of the Russian strike in Zaporizhzhia. The city was hit by North Korean ballistics, \"zircons\" and KABs. A brutal attack designed to inflict maximum damage on civilian infrastructure. Unfortunately, as of now, we know of six dead and nineteen wounded in the city. My condolences to family and friends. Rescuers continue...",
+    "description_en": "Since the night, work has been going on to eliminate the consequences of the Russian strike in Zaporizhzhia. The city was hit by North Korean ballistics, \"zircons\" and KABs. A brutal attack designed to inflict maximum damage on civilian infrastructure. Unfortunately, as of now, we know of six dead and nineteen wounded in the city. My condolences to family and friends. Rescuers continue...",
+    "description_uk": "З ночі тривають роботи по ліквідації наслідків російського удару у Запоріжжі. По місту були удари північнокорейською балістикою, «цирконами» та КАБами. Жорстока атака, прорахована так, щоб максимальної шкоди завдати саме цивільній інфраструктурі. На жаль, станом на зараз відомо про шістьох загиблих та девʼятнадцять поранених у місті. Мої співчуття рідним та близьким. Рятувальники продовжують...",
+    "time": "",
+    "pubDate": "2026-08-11T07:07:32+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Mykolaiv",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20361",
+    "score": 23.0,
+    "views": 155710,
+    "forwards": 364
   }
 ]
