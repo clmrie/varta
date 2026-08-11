@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAVs in the Black Sea/Southern direction from the Black Sea.",
+    "description_en": "Jet UAVs in the Black Sea/Southern direction from the Black Sea.",
+    "description_uk": "Реактивні БпЛА у напрямку Чорноморське/Південне з Чорного моря.",
+    "time": "",
+    "pubDate": "2026-08-11T19:22:55+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72430",
+    "score": 5.0,
+    "views": 25267,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "Strike UAV on Kharkiv from the north.",
+    "description_en": "Strike UAV on Kharkiv from the north.",
+    "description_uk": "Ударний БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-08-11T18:43:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72429",
+    "score": 6.0,
+    "views": 53591,
+    "forwards": 0
+  },
+  {
     "title": "The USA wants to connect AI to the maintenance of Minuteman III...",
     "title_en": "The USA wants to connect AI to the maintenance of Minuteman III...",
     "title_uk": "США хочуть підключити ШІ до обслуговування Minuteman III...",
@@ -13,27 +49,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198244",
-    "score": 8.5,
-    "views": 14961,
-    "forwards": 108
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "Strike and jet UAVs from Kharkiv region in the direction of Poltava region.",
-    "description_en": "Strike and jet UAVs from Kharkiv region in the direction of Poltava region.",
-    "description_uk": "Ударні та реактивні БпЛА з Харківщини у напрямку Полтавщини.",
-    "time": "",
-    "pubDate": "2026-08-11T18:15:20+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72428",
-    "score": 6.0,
-    "views": 21229,
-    "forwards": 34
+    "score": 9.5,
+    "views": 81271,
+    "forwards": 292
   },
   {
     "title": "Odesa: Strike confirmed",
@@ -50,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54752",
     "score": 10.0,
-    "views": 533,
-    "forwards": 3
+    "views": 1000,
+    "forwards": 5
   },
   {
     "title": "Oleg Ivashchenko, Head of the Ministry of Defense of Ukraine, gave a...",
@@ -68,8 +86,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20367",
     "score": 6.5,
-    "views": 96004,
-    "forwards": 338
+    "views": 162796,
+    "forwards": 444
   },
   {
     "title": "Zaporizhzhia: Attack attack",
@@ -140,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198237",
     "score": 6.5,
-    "views": 115856,
-    "forwards": 254
+    "views": 137227,
+    "forwards": 290
   },
   {
     "title": "Kherson: The situation according to BpLA: - to the north of Poltava, makes...",
@@ -392,7 +410,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54744",
     "score": 10.0,
-    "views": 2429,
+    "views": 2502,
     "forwards": 3
   },
   {
@@ -410,7 +428,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41837",
     "score": 11.0,
-    "views": 16111,
+    "views": 17218,
     "forwards": 95
   },
   {
@@ -430,23 +448,5 @@
     "score": 5.0,
     "views": 29280,
     "forwards": 34
-  },
-  {
-    "title": "Mykolaiv: Ballistic missile launch detected",
-    "title_en": "Mykolaiv: Ballistic missile launch detected",
-    "title_uk": "Миколаїв: виявлено пуск балістичної ракети",
-    "description": "Since the night, work has been going on to eliminate the consequences of the Russian strike in Zaporizhzhia. The city was hit by North Korean ballistics, \"zircons\" and KABs. A brutal attack designed to inflict maximum damage on civilian infrastructure. Unfortunately, as of now, we know of six dead and nineteen wounded in the city. My condolences to family and friends. Rescuers continue...",
-    "description_en": "Since the night, work has been going on to eliminate the consequences of the Russian strike in Zaporizhzhia. The city was hit by North Korean ballistics, \"zircons\" and KABs. A brutal attack designed to inflict maximum damage on civilian infrastructure. Unfortunately, as of now, we know of six dead and nineteen wounded in the city. My condolences to family and friends. Rescuers continue...",
-    "description_uk": "З ночі тривають роботи по ліквідації наслідків російського удару у Запоріжжі. По місту були удари північнокорейською балістикою, «цирконами» та КАБами. Жорстока атака, прорахована так, щоб максимальної шкоди завдати саме цивільній інфраструктурі. На жаль, станом на зараз відомо про шістьох загиблих та девʼятнадцять поранених у місті. Мої співчуття рідним та близьким. Рятувальники продовжують...",
-    "time": "",
-    "pubDate": "2026-08-11T07:07:32+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Mykolaiv",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20361",
-    "score": 23.0,
-    "views": 144901,
-    "forwards": 362
   }
 ]
