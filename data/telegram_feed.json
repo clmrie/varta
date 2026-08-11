@@ -1,21 +1,39 @@
 [
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons from the east.",
-    "description_en": "☄️ The threat of using ballistic weapons from the east.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння зі сходу.",
+    "title": "Zaporizhzhia: Attack attack",
+    "title_en": "Zaporizhzhia: Attack attack",
+    "title_uk": "Запоріжжя: Напад",
+    "description": "Strike BpLA on Zaporizhzhia from the south.",
+    "description_en": "Strike BpLA on Zaporizhzhia from the south.",
+    "description_uk": "Ударний БпЛА на Запоріжжя з півдня.",
     "time": "",
-    "pubDate": "2026-08-11T16:17:08+00:00",
-    "category": "missile",
+    "pubDate": "2026-08-11T16:59:02+00:00",
+    "category": "drone",
     "severity": "high",
-    "location": "Ukraine",
+    "location": "Zaporizhzhia",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72419",
-    "score": 5.5,
-    "views": 45536,
-    "forwards": 69
+    "link": "https://t.me/kpszsu/72425",
+    "score": 6.0,
+    "views": 28344,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "A jet UAV on the Dnipro from the south-eastern direction.",
+    "description_en": "A jet UAV on the Dnipro from the south-eastern direction.",
+    "description_uk": "Реактивний БпЛА на Дніпро з південно-східного напрямку.",
+    "time": "",
+    "pubDate": "2026-08-11T16:58:26+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72424",
+    "score": 6.0,
+    "views": 30353,
+    "forwards": 0
   },
   {
     "title": "UAV to Odesa from the sea.",
@@ -49,9 +67,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198237",
-    "score": 5.5,
-    "views": 56894,
-    "forwards": 182
+    "score": 6.5,
+    "views": 92267,
+    "forwards": 219
   },
   {
     "title": "Kherson: The situation according to BpLA: - to the north of Poltava, makes...",
@@ -70,6 +88,24 @@
     "score": 6.0,
     "views": 12142,
     "forwards": 1
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "Ukraine has stopped publishing data on the number of Russian missiles during attacks, - Bloomberg According to the agency, the Air Force has changed the reporting format for security reasons. At the same time, drone data continues to be published. The decision was taken against the background of the fact that it is becoming more and more difficult for Ukraine to repel massive strikes, especially ballistic ones. In July, it was possible to intercept 29 out of 195...",
+    "description_en": "Ukraine has stopped publishing data on the number of Russian missiles during attacks, - Bloomberg According to the agency, the Air Force has changed the reporting format for security reasons. At the same time, drone data continues to be published. The decision was taken against the background of the fact that it is becoming more and more difficult for Ukraine to repel massive strikes, especially ballistic ones. In July, it was possible to intercept 29 out of 195...",
+    "description_uk": "Украина перестала публиковать данные о количестве российских ракет во время атак, - Bloomberg По данным агентства, Воздушные силы изменили формат отчетности из соображений безопасности. При этом данные по дронам продолжают публиковать. Решение приняли на фоне того, что Украине становится все сложнее отражать массированные удары, особенно баллистические. В июле удалось перехватить 29 из 195...",
+    "time": "",
+    "pubDate": "2026-08-11T14:57:01+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198236",
+    "score": 4.5,
+    "views": 103153,
+    "forwards": 210
   },
   {
     "title": "UAV to the south of Odesa from the sea.",
@@ -180,24 +216,6 @@
     "forwards": 0
   },
   {
-    "title": "Dnipro: Drone incoming",
-    "title_en": "Dnipro: Drone incoming",
-    "title_uk": "Дніпро: Дрон вхід",
-    "description": "A jet UAV on the Dnipro from the north!",
-    "description_en": "A jet UAV on the Dnipro from the north!",
-    "description_uk": "Реактивний БпЛА на Дніпро з півночі!",
-    "time": "",
-    "pubDate": "2026-08-11T11:12:23+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72394",
-    "score": 6.0,
-    "views": 47494,
-    "forwards": 0
-  },
-  {
     "title": "Dnipro: Reactive BpLA on the Dnipro from the south!",
     "title_en": "Dnipro: Reactive BpLA on the Dnipro from the south!",
     "title_uk": "Дніпро: Реактивна BpLA на Дніпрі з півдня!",
@@ -302,8 +320,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54744",
     "score": 10.0,
-    "views": 2140,
-    "forwards": 2
+    "views": 2329,
+    "forwards": 3
   },
   {
     "title": "The Defense Forces of Ukraine hit the refinery in Orsk On the night...",
@@ -320,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41837",
     "score": 11.0,
-    "views": 14598,
+    "views": 15325,
     "forwards": 93
   },
   {
@@ -356,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20361",
     "score": 23.0,
-    "views": 133375,
-    "forwards": 360
+    "views": 137748,
+    "forwards": 362
   },
   {
     "title": "Drone incoming",
@@ -410,7 +428,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41836",
     "score": 13.0,
-    "views": 6607,
+    "views": 6661,
     "forwards": 24
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.5,
     "views": 140605,
     "forwards": 281
-  },
-  {
-    "title": "Kyiv: Austria uncovers international network circumventing EU sanctions to...",
-    "title_en": "Kyiv: Austria uncovers international network circumventing EU sanctions to...",
-    "title_uk": "Київ: Австрія викрила міжнародну мережу обходу санкцій ЄС з метою...",
-    "description": "Austria uncovers international network circumventing EU sanctions to supply Russian cruise missiles, jets. Austria's intelligence agency uncovered an international network circumventing EU sanctions imposed against Moscow to supply Russian cruise missiles and fighter jets, the country's Interior Ministry announced Aug. 10.",
-    "description_en": "Austria uncovers international network circumventing EU sanctions to supply Russian cruise missiles, jets. Austria's intelligence agency uncovered an international network circumventing EU sanctions imposed against Moscow to supply Russian cruise missiles and fighter jets, the country's Interior Ministry announced Aug. 10.",
-    "description_uk": "Austria uncovers international network circumventing EU sanctions to supply Russian cruise missiles, jets. Austria's intelligence agency uncovered an international network circumventing EU sanctions imposed against Moscow to supply Russian cruise missiles and fighter jets, the country's Interior Ministry announced Aug. 10.",
-    "time": "",
-    "pubDate": "2026-08-11T04:25:56+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54741",
-    "score": 9.0,
-    "views": 2494,
-    "forwards": 7
   }
 ]
