@@ -1,10 +1,64 @@
 [
   {
+    "title": "The Defense Forces of Ukraine hit the refinery in Orsk On the night...",
+    "title_en": "The Defense Forces of Ukraine hit the refinery in Orsk On the night...",
+    "title_uk": "ЗСУ вдарили по НПЗ в Орську вночі...",
+    "description": "The Defense Forces of Ukraine hit the refinery in Orsk On the night of August 11, 2026, units of the Defense Forces of Ukraine hit the oil refinery \"Orsknefteorgsintez\" in the Orenburg region of the Russian Federation. \"Orsknefteorgsintez\" is one of the largest oil refineries in the Orenburg region and an important enterprise in the fuel and energy sector of Russia. The capacity of the plant is about 6 million tons of oil per year....",
+    "description_en": "The Defense Forces of Ukraine hit the refinery in Orsk On the night of August 11, 2026, units of the Defense Forces of Ukraine hit the oil refinery \"Orsknefteorgsintez\" in the Orenburg region of the Russian Federation. \"Orsknefteorgsintez\" is one of the largest oil refineries in the Orenburg region and an important enterprise in the fuel and energy sector of Russia. The capacity of the plant is about 6 million tons of oil per year....",
+    "description_uk": "Сили оборони України уразили НПЗ в Орську У ніч на 11 серпня 2026 року підрозділи Сил оборони України уразили нафтопереробний завод «Орскнефтеоргсинтез» в Оренбурзькій області рф. «Орскнефтеоргсинтез» — один із найбільших нафтопереробних заводів Оренбурзької області та важливе підприємство паливно-енергетичного сектору росії. Потужність заводу становить близько 6 млн тонн нафти на рік....",
+    "time": "",
+    "pubDate": "2026-08-11T08:14:52+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41837",
+    "score": 10.5,
+    "views": 2025,
+    "forwards": 45
+  },
+  {
+    "title": "BpLA \"Banderol\" to Pryluky.",
+    "title_en": "BpLA \"Banderol\" to Pryluky.",
+    "title_uk": "БпЛА «Бандероль» м. Прилуки.",
+    "description": "BpLA \"Banderol\" to Pryluky.",
+    "description_en": "BpLA \"Banderol\" to Pryluky.",
+    "description_uk": "БпЛА \"Бандероль\" на Прилуки.",
+    "time": "",
+    "pubDate": "2026-08-11T08:12:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72379",
+    "score": 5.0,
+    "views": 29280,
+    "forwards": 34
+  },
+  {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
+    "description": "BpLA on Zaporozhye from the south.",
+    "description_en": "BpLA on Zaporozhye from the south.",
+    "description_uk": "БпЛА на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-08-11T07:35:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72375",
+    "score": 6.0,
+    "views": 53565,
+    "forwards": 0
+  },
+  {
     "title": "Mykolaiv: Ballistic missile launch detected",
     "title_en": "Mykolaiv: Ballistic missile launch detected",
     "title_uk": "Миколаїв: виявлено пуск балістичної ракети",
-    "description": "Since the night, work has been going on to eliminate the consequences of the Russian strike in Zaporizhzhia. The city was hit by North Korean ballistics, \"zircons\" and KABs. A brutal attack designed to inflict maximum damage on civilian infrastructure. Unfortunately, as of now, we know of six dead and nineteen wounded in the city. My condolences to family and friends. Rescuers continue...",
-    "description_en": "Since the night, work has been going on to eliminate the consequences of the Russian strike in Zaporizhzhia. The city was hit by North Korean ballistics, \"zircons\" and KABs. A brutal attack designed to inflict maximum damage on civilian infrastructure. Unfortunately, as of now, we know of six dead and nineteen wounded in the city. My condolences to family and friends. Rescuers continue...",
+    "description": "Since the night, work has been going on to eliminate the consequences of the Russian strike in Zaporizhzhia. The city was hit by North Korean ballistics, zircons and anti-tank missiles. A brutal attack designed to inflict maximum damage on civilian infrastructure. Unfortunately, as of now, we know of six dead and nineteen wounded in the city. My condolences to family and friends. Rescuers continue...",
+    "description_en": "Since the night, work has been going on to eliminate the consequences of the Russian strike in Zaporizhzhia. The city was hit by North Korean ballistics, zircons and anti-tank missiles. A brutal attack designed to inflict maximum damage on civilian infrastructure. Unfortunately, as of now, we know of six dead and nineteen wounded in the city. My condolences to family and friends. Rescuers continue...",
     "description_uk": "З ночі тривають роботи по ліквідації наслідків російського удару у Запоріжжі. По місту були удари північнокорейською балістикою, «цирконами» та КАБами. Жорстока атака, прорахована так, щоб максимальної шкоди завдати саме цивільній інфраструктурі. На жаль, станом на зараз відомо про шістьох загиблих та девʼятнадцять поранених у місті. Мої співчуття рідним та близьким. Рятувальники продовжують...",
     "time": "",
     "pubDate": "2026-08-11T07:07:32+00:00",
@@ -13,9 +67,9 @@
     "location": "Mykolaiv",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20361",
-    "score": 22.0,
-    "views": 30606,
-    "forwards": 185
+    "score": 23.0,
+    "views": 62791,
+    "forwards": 259
   },
   {
     "title": "Drone incoming",
@@ -68,26 +122,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41836",
     "score": 13.0,
-    "views": 3042,
-    "forwards": 18
-  },
-  {
-    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
-    "description": "BpLA on Zaporozhye from the south.",
-    "description_en": "BpLA on Zaporozhye from the south.",
-    "description_uk": "БпЛА на Запоріжжя з півдня.",
-    "time": "",
-    "pubDate": "2026-08-11T05:18:29+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72365",
-    "score": 6.0,
-    "views": 1,
-    "forwards": 0
+    "views": 4231,
+    "forwards": 20
   },
   {
     "title": "In Russia's Orsk, which is almost 2000 kilometers from Ukraine, the...",
@@ -104,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198200",
     "score": 6.5,
-    "views": 109488,
-    "forwards": 211
+    "views": 126689,
+    "forwards": 246
   },
   {
     "title": "Kyiv: Austria uncovers international network circumventing EU sanctions to...",
@@ -122,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54741",
     "score": 9.0,
-    "views": 1323,
-    "forwards": 5
+    "views": 1503,
+    "forwards": 6
   },
   {
     "title": "Ballistic missile launch detected",
@@ -140,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198194",
     "score": 5.5,
-    "views": 130739,
-    "forwards": 109
+    "views": 144752,
+    "forwards": 143
   },
   {
     "title": "Kursk: A jet UAV from the Kursk region, Russian Federation - headed for Sumy.",
@@ -212,8 +248,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54740",
     "score": 4.0,
-    "views": 1695,
-    "forwards": 3
+    "views": 1855,
+    "forwards": 4
   },
   {
     "title": "Kharkiv: BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
@@ -396,24 +432,6 @@
     "forwards": 0
   },
   {
-    "title": "Kyiv: 77 missiles",
-    "title_en": "Kyiv: 77 missiles",
-    "title_uk": "Київ: 77 ракет",
-    "description": "Russia can fire 77 missiles at Ukraine in single salvo — and plans to scale up, drone commander says. Russia aims to more than double the number of missiles it can launch in a simultaneous barrage, Unmanned Systems Forces Commander Robert Brovdi told the Associated Press. Brovdi later clarified that the salvos are made up of both ballistic and cruise missiles.",
-    "description_en": "Russia can fire 77 missiles at Ukraine in single salvo — and plans to scale up, drone commander says. Russia aims to more than double the number of missiles it can launch in a simultaneous barrage, Unmanned Systems Forces Commander Robert Brovdi told the Associated Press. Brovdi later clarified that the salvos are made up of both ballistic and cruise missiles.",
-    "description_uk": "Russia can fire 77 missiles at Ukraine in single salvo — and plans to scale up, drone commander says. Russia aims to more than double the number of missiles it can launch in a simultaneous barrage, Unmanned Systems Forces Commander Robert Brovdi told the Associated Press. Brovdi later clarified that the salvos are made up of both ballistic and cruise missiles.",
-    "time": "",
-    "pubDate": "2026-08-10T19:39:46+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54735",
-    "score": 9.0,
-    "views": 1384,
-    "forwards": 4
-  },
-  {
     "title": "Energy infrastructure hit",
     "title_en": "Energy infrastructure hit",
     "title_uk": "Поразка енергетичної інфраструктури",
@@ -430,23 +448,5 @@
     "score": 12.5,
     "views": 13791,
     "forwards": 85
-  },
-  {
-    "title": "Dnipro: Casualties reported",
-    "title_en": "Dnipro: Casualties reported",
-    "title_uk": "Дніпро: повідомляється про постраждалих",
-    "description": "Head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga - in response to UNICEF's statement \"regarding reports of dead and injured children as a result of attacks in the Russian Federation and Ukraine\": 💬 \"It is extremely unfortunate that in its statement of August 4, UNICEF missed a key point: all these child deaths are a direct consequence of Russia's aggressive war against Ukraine. By presenting information about these victims without this fundamentally important context,...",
-    "description_en": "Head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga - in response to UNICEF's statement \"regarding reports of dead and injured children as a result of attacks in the Russian Federation and Ukraine\": 💬 \"It is extremely unfortunate that in its statement of August 4, UNICEF missed a key point: all these child deaths are a direct consequence of Russia's aggressive war against Ukraine. By presenting information about these victims without this fundamentally important context,...",
-    "description_uk": "Очільник МЗС України Андрій Сибіга – у відповідь на заяву ЮНІСЕФ \"щодо повідомлень про загиблих і поранених дітей унаслідок атак у Російській Федерації та Україні\": 💬 \"Вкрай прикро, що у своїй заяві від 4 серпня UNICEF упустив ключовий момент: усі ці смерті дітей є прямим наслідком агресивної війни Росії проти України. Подаючи інформацію про ці жертви без цього принципово важливого контексту,...",
-    "time": "",
-    "pubDate": "2026-08-09T18:19:08+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Dnipro",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/9980",
-    "score": 10.0,
-    "views": 29523,
-    "forwards": 38
   }
 ]
