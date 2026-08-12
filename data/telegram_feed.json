@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAV in the direction of Kryvyi Rih from the east.",
+    "description_en": "Jet UAV in the direction of Kryvyi Rih from the east.",
+    "description_uk": "Реактивний БпЛА у напрямку Кривого Рогу зі сходу.",
+    "time": "",
+    "pubDate": "2026-08-12T00:05:39+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72443",
+    "score": 5.0,
+    "views": 10676,
+    "forwards": 10
+  },
+  {
+    "title": "Sevastopol: Explosions reported",
+    "title_en": "Sevastopol: Explosions reported",
+    "title_uk": "Севастополь: повідомляється про вибухи",
+    "description": "Explosions rock Russia's Novorossiysk, occupied Crimea amid reported drone attack. Drone attacks were reported overnight in Russia's Black Sea port of Novorossiysk and across occupied Crimea, with explosions heard near Sevastopol and the Crimean Bridge.",
+    "description_en": "Explosions rock Russia's Novorossiysk, occupied Crimea amid reported drone attack. Drone attacks were reported overnight in Russia's Black Sea port of Novorossiysk and across occupied Crimea, with explosions heard near Sevastopol and the Crimean Bridge.",
+    "description_uk": "Explosions rock Russia's Novorossiysk, occupied Crimea amid reported drone attack. Drone attacks were reported overnight in Russia's Black Sea port of Novorossiysk and across occupied Crimea, with explosions heard near Sevastopol and the Crimean Bridge.",
+    "time": "",
+    "pubDate": "2026-08-11T23:56:02+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Sevastopol",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54755",
+    "score": 8.0,
+    "views": 269,
+    "forwards": 1
+  },
+  {
     "title": "Kherson: Drone incoming",
     "title_en": "Kherson: Drone incoming",
     "title_uk": "Херсон: Дрон вхід",
@@ -14,26 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72440",
     "score": 6.0,
-    "views": 16160,
-    "forwards": 40
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAVs in Zaporozhye in the direction of Nikopol/Kryvyi Rih",
-    "description_en": "Jet UAVs in Zaporozhye in the direction of Nikopol/Kryvyi Rih",
-    "description_uk": "Реактивні БпЛА на Запоріжжі у напрямку Нікополя/Кривого Рогу",
-    "time": "",
-    "pubDate": "2026-08-11T23:02:09+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72439",
-    "score": 5.0,
-    "views": 17982,
-    "forwards": 10
+    "views": 26244,
+    "forwards": 50
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -92,7 +110,7 @@
   {
     "title": "Kyiv: Romanian military destroys 2 Gerbera drones found in Black Sea....",
     "title_en": "Kyiv: Romanian military destroys 2 Gerbera drones found in Black Sea....",
-    "title_uk": "Київ: румунські військові знищили 2 знайдені в Чорному морі безпілотники Gerbera.",
+    "title_uk": "Київ: румунські військові знищили 2 безпілотники Gerbera, знайдені в Чорному морі.",
     "description": "Romanian military destroys 2 Gerbera drones found in Black Sea. Romanian military divers destroyed two Gerbera-type drones found drifting in the country's exclusive economic zone in the Black Sea, Romanian Defense Minister Radu Miruta said on Aug. 11.",
     "description_en": "Romanian military destroys 2 Gerbera drones found in Black Sea. Romanian military divers destroyed two Gerbera-type drones found drifting in the country's exclusive economic zone in the Black Sea, Romanian Defense Minister Radu Miruta said on Aug. 11.",
     "description_uk": "Romanian military destroys 2 Gerbera drones found in Black Sea. Romanian military divers destroyed two Gerbera-type drones found drifting in the country's exclusive economic zone in the Black Sea, Romanian Defense Minister Radu Miruta said on Aug. 11.",
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54754",
     "score": 8.0,
-    "views": 1163,
+    "views": 1321,
     "forwards": 4
   },
   {
@@ -162,6 +180,24 @@
     "forwards": 0
   },
   {
+    "title": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III...",
+    "title_en": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III...",
+    "title_uk": "США хочуть підключити II до обслуговування ядерної ракети Minuteman III...",
+    "description": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III Проблема довольно по-американски масштабная: ракетам уже больше 50 лет, а данные по их состоянию разбросаны примерно по 60 отдельным системам - от локальных дисков до закрытых сетей. Теперь ВВС хотят собрать все это в одном месте с помощью ИИ, чтобы он в реальном времени анализировал чертежи, обслуживание и подсказывал, когда пора...",
+    "description_en": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III Проблема довольно по-американски масштабная: ракетам уже больше 50 лет, а данные по их состоянию разбросаны примерно по 60 отдельным системам - от локальных дисков до закрытых сетей. Теперь ВВС хотят собрать все это в одном месте с помощью ИИ, чтобы он в реальном времени анализировал чертежи, обслуживание и подсказывал, когда пора...",
+    "description_uk": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III Проблема довольно по-американски масштабная: ракетам уже больше 50 лет, а данные по их состоянию разбросаны примерно по 60 отдельным системам - от локальных дисков до закрытых сетей. Теперь ВВС хотят собрать все это в одном месте с помощью ИИ, чтобы он в реальном времени анализировал чертежи, обслуживание и подсказывал, когда пора...",
+    "time": "",
+    "pubDate": "2026-08-11T18:18:46+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198244",
+    "score": 9.5,
+    "views": 137863,
+    "forwards": 417
+  },
+  {
     "title": "The USA wants to connect AI to the maintenance of Minuteman III...",
     "title_en": "The USA wants to connect AI to the maintenance of Minuteman III...",
     "title_uk": "США хочуть підключити ШІ до обслуговування Minuteman III...",
@@ -178,24 +214,6 @@
     "score": 9.5,
     "views": 134607,
     "forwards": 416
-  },
-  {
-    "title": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III...",
-    "title_en": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III...",
-    "title_uk": "США хочуть підключити II до обслуговування ядерної ракети Minuteman III...",
-    "description": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III Проблема довольно по-американски масштабная: ракетам уже больше 50 лет, а данные по их состоянию разбросаны примерно по 60 отдельным системам - от локальных дисков до закрытых сетей. Теперь ВВС хотят собрать все это в одном месте с помощью ИИ, чтобы он в реальном времени анализировал чертежи, обслуживание и подсказывал, когда пора...",
-    "description_en": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III Проблема довольно по-американски масштабная: ракетам уже больше 50 лет, а данные по их состоянию разбросаны примерно по 60 отдельным системам - от локальных дисков до закрытых сетей. Теперь ВВС хотят собрать все это в одном месте с помощью ИИ, чтобы он в реальном времени анализировал чертежи, обслуживание и подсказывал, когда пора...",
-    "description_uk": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III Проблема довольно по-американски масштабная: ракетам уже больше 50 лет, а данные по их состоянию разбросаны примерно по 60 отдельным системам - от локальных дисков до закрытых сетей. Теперь ВВС хотят собрать все это в одном месте с помощью ИИ, чтобы он в реальном времени анализировал чертежи, обслуживание и подсказывал, когда пора...",
-    "time": "",
-    "pubDate": "2026-08-11T18:18:46+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198244",
-    "score": 9.5,
-    "views": 126960,
-    "forwards": 404
   },
   {
     "title": "Odesa: Strike confirmed",
@@ -230,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20367",
     "score": 6.5,
-    "views": 223480,
-    "forwards": 518
+    "views": 226021,
+    "forwards": 520
   },
   {
     "title": "Zaporizhzhia: Attack attack",
@@ -290,7 +308,7 @@
   {
     "title": "Missile launch detected",
     "title_en": "Missile launch detected",
-    "title_uk": "Missile launch detected",
+    "title_uk": "Виявлено запуск ракети",
     "description": "Ukraine tripled its long-range strikes against Russia, but only 5–9% of missiles and drones break through air defenses, - AP According to analysts' estimates, in July Ukraine carried out three times more long-range strikes than in January. The main targets are oil infrastructure, defense enterprises, air defense and radars. At the same time, RUSI senior researcher Jack Watling estimated that only 5–9% of launched...",
     "description_en": "Ukraine tripled its long-range strikes against Russia, but only 5–9% of missiles and drones break through air defenses, - AP According to analysts' estimates, in July Ukraine carried out three times more long-range strikes than in January. The main targets are oil infrastructure, defense enterprises, air defense and radars. At the same time, RUSI senior researcher Jack Watling estimated that only 5–9% of launched...",
     "description_uk": "Украина втрое нарастила дальнобойные удары по россии, но через ПВО прорываются лишь 5–9% ракет и дронов, - AP По подсчетам аналитиков, в июле Украина нанесла втрое больше дальнобойных ударов, чем в январе. Основные цели - нефтяная инфраструктура, оборонные предприятия, ПВО и радары. При этом старший научный сотрудник RUSI Джек Уотлинг оценил, что российскую ПВО преодолевают только 5–9% запущенных...",
@@ -302,7 +320,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198237",
     "score": 6.5,
-    "views": 166148,
+    "views": 167858,
     "forwards": 315
   },
   {
@@ -428,25 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41837",
     "score": 11.0,
-    "views": 18674,
+    "views": 18727,
     "forwards": 96
-  },
-  {
-    "title": "Mykolaiv: Ballistic missile launch detected",
-    "title_en": "Mykolaiv: Ballistic missile launch detected",
-    "title_uk": "Миколаїв: виявлено пуск балістичної ракети",
-    "description": "Since the night, work has been going on to eliminate the consequences of the Russian strike in Zaporizhzhia. The city was hit by North Korean ballistics, \"zircons\" and KABs. A brutal attack designed to inflict maximum damage on civilian infrastructure. Unfortunately, as of now, we know of six dead and nineteen wounded in the city. My condolences to family and friends. Rescuers continue...",
-    "description_en": "Since the night, work has been going on to eliminate the consequences of the Russian strike in Zaporizhzhia. The city was hit by North Korean ballistics, \"zircons\" and KABs. A brutal attack designed to inflict maximum damage on civilian infrastructure. Unfortunately, as of now, we know of six dead and nineteen wounded in the city. My condolences to family and friends. Rescuers continue...",
-    "description_uk": "З ночі тривають роботи по ліквідації наслідків російського удару у Запоріжжі. По місту були удари північнокорейською балістикою, «цирконами» та КАБами. Жорстока атака, прорахована так, щоб максимальної шкоди завдати саме цивільній інфраструктурі. На жаль, станом на зараз відомо про шістьох загиблих та девʼятнадцять поранених у місті. Мої співчуття рідним та близьким. Рятувальники продовжують...",
-    "time": "",
-    "pubDate": "2026-08-11T07:07:32+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Mykolaiv",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20361",
-    "score": 23.0,
-    "views": 155979,
-    "forwards": 364
   }
 ]
