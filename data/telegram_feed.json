@@ -1,5 +1,41 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "A group of jet UAVs in the Poltava region - past the n.p. Squirrels in the western direction. 🛵 A group of jet UAVs in the Mykolaiv region - north-west course. 🛵 A group of jet UAVs in the north of Chernihiv Oblast - on a southwesterly course.",
+    "description_en": "A group of jet UAVs in the Poltava region - past the n.p. Squirrels in the western direction. 🛵 A group of jet UAVs in the Mykolaiv region - north-west course. 🛵 A group of jet UAVs in the north of Chernihiv Oblast - on a southwesterly course.",
+    "description_uk": "Група реактивних БпЛА на Полтавщині - повз н.п. Білики в західному напрямку. 🛵 Група реактивних БпЛА на Миколаївщині - північно-західним курсом. 🛵 Група реактивних БпЛА на півночі Чернігівщини - південно-західним курсом.",
+    "time": "",
+    "pubDate": "2026-08-12T06:14:06+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72483",
+    "score": 6.0,
+    "views": 18182,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "UAV in the north of Dnipropetrovsk region in the direction of Poltava region.",
+    "description_en": "UAV in the north of Dnipropetrovsk region in the direction of Poltava region.",
+    "description_uk": "БпЛА на півночі Дніпропетровщини у напрямку Полтавщини.",
+    "time": "",
+    "pubDate": "2026-08-12T05:53:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72482",
+    "score": 6.0,
+    "views": 35355,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -31,9 +67,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198259",
-    "score": 4.0,
-    "views": 3224,
-    "forwards": 1
+    "score": 4.5,
+    "views": 78668,
+    "forwards": 141
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -104,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54755",
     "score": 8.0,
-    "views": 1185,
-    "forwards": 3
+    "views": 1567,
+    "forwards": 4
   },
   {
     "title": "Kherson: Drone incoming",
@@ -146,7 +182,7 @@
   {
     "title": "Kyiv: Romanian military destroys 2 Gerbera drones found in Black Sea....",
     "title_en": "Kyiv: Romanian military destroys 2 Gerbera drones found in Black Sea....",
-    "title_uk": "Київ: румунські військові знищили 2 безпілотники Gerbera, знайдені в Чорному морі.",
+    "title_uk": "Київ: румунські військові знищили 2 знайдені в Чорному морі безпілотники Gerbera.",
     "description": "Romanian military destroys 2 Gerbera drones found in Black Sea. Romanian military divers destroyed two Gerbera-type drones found drifting in the country's exclusive economic zone in the Black Sea, Romanian Defense Minister Radu Miruta said on Aug. 11.",
     "description_en": "Romanian military destroys 2 Gerbera drones found in Black Sea. Romanian military divers destroyed two Gerbera-type drones found drifting in the country's exclusive economic zone in the Black Sea, Romanian Defense Minister Radu Miruta said on Aug. 11.",
     "description_uk": "Romanian military destroys 2 Gerbera drones found in Black Sea. Romanian military divers destroyed two Gerbera-type drones found drifting in the country's exclusive economic zone in the Black Sea, Romanian Defense Minister Radu Miruta said on Aug. 11.",
@@ -158,8 +194,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54754",
     "score": 8.0,
-    "views": 1966,
-    "forwards": 5
+    "views": 2239,
+    "forwards": 6
   },
   {
     "title": "Kharkiv: Drone attack",
@@ -216,42 +252,6 @@
     "forwards": 0
   },
   {
-    "title": "The USA wants to connect AI to the maintenance of Minuteman III...",
-    "title_en": "The USA wants to connect AI to the maintenance of Minuteman III...",
-    "title_uk": "США хочуть підключити ШІ до обслуговування Minuteman III...",
-    "description": "The USA wants to connect AI to the maintenance of Minuteman III nuclear missiles. The problem is quite American-scale: the missiles are already more than 50 years old, and the data on their condition is scattered on approximately 60 separate systems - from local drives to closed networks. Now the BBC wants to bring it all together in one place with the help of AI, so that it can analyze drawings, maintenance in real time and suggest when it's time to...",
-    "description_en": "The USA wants to connect AI to the maintenance of Minuteman III nuclear missiles. The problem is quite American-scale: the missiles are already more than 50 years old, and the data on their condition is scattered on approximately 60 separate systems - from local drives to closed networks. Now the BBC wants to bring it all together in one place with the help of AI, so that it can analyze drawings, maintenance in real time and suggest when it's time to...",
-    "description_uk": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III Проблема довольно по-американски масштабная: ракетам уже больше 50 лет, а данные по их состоянию разбросаны примерно по 60 отдельным системам - от локальных дисков до закрытых сетей. Теперь ВВС хотят собрать все это в одном месте с помощью ИИ, чтобы он в реальном времени анализировал чертежи, обслуживание и подсказывал, когда пора...",
-    "time": "",
-    "pubDate": "2026-08-11T18:18:46+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198244",
-    "score": 9.5,
-    "views": 174075,
-    "forwards": 443
-  },
-  {
-    "title": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III...",
-    "title_en": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III...",
-    "title_uk": "США хочуть підключити II до обслуговування ядерної ракети Minuteman III...",
-    "description": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III Проблема довольно по-американски масштабная: ракетам уже больше 50 лет, а данные по их состоянию разбросаны примерно по 60 отдельным системам - от локальных дисков до закрытых сетей. Теперь ВВС хотят собрать все это в одном месте с помощью ИИ, чтобы он в реальном времени анализировал чертежи, обслуживание и подсказывал, когда пора...",
-    "description_en": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III Проблема довольно по-американски масштабная: ракетам уже больше 50 лет, а данные по их состоянию разбросаны примерно по 60 отдельным системам - от локальных дисков до закрытых сетей. Теперь ВВС хотят собрать все это в одном месте с помощью ИИ, чтобы он в реальном времени анализировал чертежи, обслуживание и подсказывал, когда пора...",
-    "description_uk": "США хотят подключить ИИ к обслуживанию ядерных ракет Minuteman III Проблема довольно по-американски масштабная: ракетам уже больше 50 лет, а данные по их состоянию разбросаны примерно по 60 отдельным системам - от локальных дисков до закрытых сетей. Теперь ВВС хотят собрать все это в одном месте с помощью ИИ, чтобы он в реальном времени анализировал чертежи, обслуживание и подсказывал, когда пора...",
-    "time": "",
-    "pubDate": "2026-08-11T18:18:46+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198244",
-    "score": 9.5,
-    "views": 137863,
-    "forwards": 417
-  },
-  {
     "title": "Odesa: Strike confirmed",
     "title_en": "Odesa: Strike confirmed",
     "title_uk": "Одеса: Страйк підтверджено",
@@ -284,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20367",
     "score": 6.5,
-    "views": 269872,
-    "forwards": 540
+    "views": 286969,
+    "forwards": 552
   },
   {
     "title": "Kharkiv: Швидкісна ціль на Харків!",
@@ -308,7 +308,7 @@
   {
     "title": "The Defense Forces of Ukraine hit the refinery in Orsk On the night...",
     "title_en": "The Defense Forces of Ukraine hit the refinery in Orsk On the night...",
-    "title_uk": "В ніч на...",
+    "title_uk": "ЗСУ вдарили по НПЗ в Орську вночі...",
     "description": "The Defense Forces of Ukraine hit the refinery in Orsk On the night of August 11, 2026, units of the Defense Forces of Ukraine hit the oil refinery \"Orsknefteorgsintez\" in the Orenburg region of the Russian Federation. \"Orsknefteorgsintez\" is one of the largest oil refineries in the Orenburg region and an important enterprise in the fuel and energy sector of Russia. The capacity of the plant is about 6 million tons of oil per year....",
     "description_en": "The Defense Forces of Ukraine hit the refinery in Orsk On the night of August 11, 2026, units of the Defense Forces of Ukraine hit the oil refinery \"Orsknefteorgsintez\" in the Orenburg region of the Russian Federation. \"Orsknefteorgsintez\" is one of the largest oil refineries in the Orenburg region and an important enterprise in the fuel and energy sector of Russia. The capacity of the plant is about 6 million tons of oil per year....",
     "description_uk": "Сили оборони України уразили НПЗ в Орську У ніч на 11 серпня 2026 року підрозділи Сил оборони України уразили нафтопереробний завод «Орскнефтеоргсинтез» в Оренбурзькій області рф. «Орскнефтеоргсинтез» — один із найбільших нафтопереробних заводів Оренбурзької області та важливе підприємство паливно-енергетичного сектору росії. Потужність заводу становить близько 6 млн тонн нафти на рік....",
@@ -320,15 +320,15 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41837",
     "score": 11.0,
-    "views": 19708,
-    "forwards": 96
+    "views": 20048,
+    "forwards": 97
   },
   {
     "title": "Mykolaiv: Ballistic missile launch detected",
     "title_en": "Mykolaiv: Ballistic missile launch detected",
     "title_uk": "Миколаїв: виявлено пуск балістичної ракети",
-    "description": "Since the night, work has been going on to eliminate the consequences of the Russian strike in Zaporizhzhia. The city was hit by North Korean ballistics, \"zircons\" and KABs. A brutal attack designed to inflict maximum damage on civilian infrastructure. Unfortunately, as of now, we know of six dead and nineteen wounded in the city. My condolences to family and friends. Rescuers continue...",
-    "description_en": "Since the night, work has been going on to eliminate the consequences of the Russian strike in Zaporizhzhia. The city was hit by North Korean ballistics, \"zircons\" and KABs. A brutal attack designed to inflict maximum damage on civilian infrastructure. Unfortunately, as of now, we know of six dead and nineteen wounded in the city. My condolences to family and friends. Rescuers continue...",
+    "description": "Since the night, work has been going on to eliminate the consequences of the Russian strike in Zaporizhzhia. The city was hit by North Korean ballistics, zircons and anti-tank missiles. A brutal attack designed to inflict maximum damage on civilian infrastructure. Unfortunately, as of now, we know of six dead and nineteen wounded in the city. My condolences to family and friends. Rescuers continue...",
+    "description_en": "Since the night, work has been going on to eliminate the consequences of the Russian strike in Zaporizhzhia. The city was hit by North Korean ballistics, zircons and anti-tank missiles. A brutal attack designed to inflict maximum damage on civilian infrastructure. Unfortunately, as of now, we know of six dead and nineteen wounded in the city. My condolences to family and friends. Rescuers continue...",
     "description_uk": "З ночі тривають роботи по ліквідації наслідків російського удару у Запоріжжі. По місту були удари північнокорейською балістикою, «цирконами» та КАБами. Жорстока атака, прорахована так, щоб максимальної шкоди завдати саме цивільній інфраструктурі. На жаль, станом на зараз відомо про шістьох загиблих та девʼятнадцять поранених у місті. Мої співчуття рідним та близьким. Рятувальники продовжують...",
     "time": "",
     "pubDate": "2026-08-11T07:07:32+00:00",
@@ -338,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20361",
     "score": 23.0,
-    "views": 161207,
-    "forwards": 366
+    "views": 162869,
+    "forwards": 367
   },
   {
     "title": "Zaporizhzhia: 120 drones intercepted",
@@ -356,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41836",
     "score": 13.0,
-    "views": 7488,
+    "views": 7641,
     "forwards": 25
   }
 ]
