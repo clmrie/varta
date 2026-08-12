@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zaporizhzhia: High-speed target in Zaporizhzhia",
+    "title_en": "Zaporizhzhia: High-speed target in Zaporizhzhia",
+    "title_uk": "Запоріжжя: Швидкісна мішень у Запоріжжі",
+    "description": "High-speed target in Zaporizhzhia",
+    "description_en": "High-speed target in Zaporizhzhia",
+    "description_uk": "Швидкісна ціль на Запоріжжя",
+    "time": "",
+    "pubDate": "2026-08-12T09:11:01+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72505",
+    "score": 6.0,
+    "views": 8040,
+    "forwards": 34
+  },
+  {
+    "title": "22 missiles",
+    "title_en": "22 missiles",
+    "title_uk": "22 ракети",
+    "description": "Missile danger in the south of Ukraine! 🚀The threat of using Kh-22 missiles!",
+    "description_en": "Missile danger in the south of Ukraine! 🚀The threat of using Kh-22 missiles!",
+    "description_uk": "Ракетна небезпека по півдню України! 🚀Загроза застосування ракет Х-22!",
+    "time": "",
+    "pubDate": "2026-08-12T09:03:48+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72504",
+    "score": 8.5,
+    "views": 33278,
+    "forwards": 69
+  },
+  {
     "title": "Chernihiv: BpLA headed for Chernihiv from the north.",
     "title_en": "Chernihiv: BpLA headed for Chernihiv from the north.",
     "title_uk": "Чернігів: BpLA прямувала на Чернігів з півночі.",
@@ -50,7 +86,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198269",
     "score": 5.0,
-    "views": 59213,
+    "views": 97613,
     "forwards": 37
   },
   {
@@ -68,8 +104,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41848",
     "score": 13.0,
-    "views": 2988,
-    "forwards": 13
+    "views": 4010,
+    "forwards": 17
   },
   {
     "title": "🤬 The morning begins with a raid of jet UAVs on Kyiv and the region:...",
@@ -86,7 +122,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198268",
     "score": 8.5,
-    "views": 80367,
+    "views": 110350,
     "forwards": 69
   },
   {
@@ -212,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54755",
     "score": 8.0,
-    "views": 1986,
+    "views": 2197,
     "forwards": 4
   },
   {
@@ -234,27 +270,9 @@
     "forwards": 50
   },
   {
-    "title": "Mykolaiv: Air defense systems in the district. Ochakov in the direction of...",
-    "title_en": "Mykolaiv: Air defense systems in the district. Ochakov in the direction of...",
-    "title_uk": "Миколаїв: Системи ППО в районі. Очакова в напрямку...",
-    "description": "Air defense systems in the district. Ochakov in the direction of Mykolayiv region and Odesa region.",
-    "description_en": "Air defense systems in the district. Ochakov in the direction of Mykolayiv region and Odesa region.",
-    "description_uk": "Ударні БпЛА в р-ні. Очакова у напрямку Миколаївщини та Одещини.",
-    "time": "",
-    "pubDate": "2026-08-11T20:35:11+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72434",
-    "score": 6.0,
-    "views": 66606,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Romanian military destroys 2 Gerbera drones found in Black Sea....",
     "title_en": "Kyiv: Romanian military destroys 2 Gerbera drones found in Black Sea....",
-    "title_uk": "Київ: румунські військові знищили 2 безпілотники Gerbera, знайдені в Чорному морі.",
+    "title_uk": "Київ: румунські військові знищили 2 знайдені в Чорному морі безпілотники Gerbera.",
     "description": "Romanian military destroys 2 Gerbera drones found in Black Sea. Romanian military divers destroyed two Gerbera-type drones found drifting in the country's exclusive economic zone in the Black Sea, Romanian Defense Minister Radu Miruta said on Aug. 11.",
     "description_en": "Romanian military destroys 2 Gerbera drones found in Black Sea. Romanian military divers destroyed two Gerbera-type drones found drifting in the country's exclusive economic zone in the Black Sea, Romanian Defense Minister Radu Miruta said on Aug. 11.",
     "description_uk": "Romanian military destroys 2 Gerbera drones found in Black Sea. Romanian military divers destroyed two Gerbera-type drones found drifting in the country's exclusive economic zone in the Black Sea, Romanian Defense Minister Radu Miruta said on Aug. 11.",
@@ -266,26 +284,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54754",
     "score": 8.0,
-    "views": 2499,
+    "views": 2632,
     "forwards": 6
-  },
-  {
-    "title": "Kharkiv: Drone attack",
-    "title_en": "Kharkiv: Drone attack",
-    "title_uk": "Харків: Атака безпілотників",
-    "description": "The threat of using attack UAVs in the north of Kharkiv Oblast and the central part of Sumy Oblast.",
-    "description_en": "The threat of using attack UAVs in the north of Kharkiv Oblast and the central part of Sumy Oblast.",
-    "description_uk": "Загроза застосування ударних БпЛА на півночі Харківщини та центральної частини Сумщини.",
-    "time": "",
-    "pubDate": "2026-08-11T20:20:23+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72433",
-    "score": 6.0,
-    "views": 1003,
-    "forwards": 0
   },
   {
     "title": "Kharkiv: High-speed target in Kharkiv Oblast heading for Poltava Oblast",
@@ -338,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20367",
     "score": 6.5,
-    "views": 304025,
-    "forwards": 564
+    "views": 313439,
+    "forwards": 577
   },
   {
     "title": "Kharkiv: Швидкісна ціль на Харків!",
@@ -374,8 +374,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41837",
     "score": 11.0,
-    "views": 20369,
-    "forwards": 97
+    "views": 20464,
+    "forwards": 99
   },
   {
     "title": "Mykolaiv: Ballistic missile launch detected",
@@ -392,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20361",
     "score": 23.0,
-    "views": 164769,
-    "forwards": 367
+    "views": 166060,
+    "forwards": 368
   }
 ]
