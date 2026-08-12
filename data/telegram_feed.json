@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "Kyiv - jet UAV from the north.",
+    "description_en": "Kyiv - jet UAV from the north.",
+    "description_uk": "Київ - реактивний БпЛА з півночі.",
+    "time": "",
+    "pubDate": "2026-08-12T11:17:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72524",
+    "score": 6.5,
+    "views": 18132,
+    "forwards": 72
+  },
+  {
     "title": "Irpin: Kyiv region - BpLA on Brovary, Irpin.",
     "title_en": "Irpin: Kyiv region - BpLA on Brovary, Irpin.",
     "title_uk": "Ірпінь: Київська область - БпЛА на Броварах, Ірпінь.",
@@ -18,24 +36,6 @@
     "forwards": 0
   },
   {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Дрон вхід",
-    "description": "Kyiv - a group of jet UAVs from the east and north.",
-    "description_en": "Kyiv - a group of jet UAVs from the east and north.",
-    "description_uk": "Київ - група реактивних БпЛА зі сходу та півночі.",
-    "time": "",
-    "pubDate": "2026-08-12T10:06:51+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72515",
-    "score": 6.0,
-    "views": 38478,
-    "forwards": 38
-  },
-  {
     "title": "UAVs fly again to Kyiv and the region - monitors It is reported about...",
     "title_en": "UAVs fly again to Kyiv and the region - monitors It is reported about...",
     "title_uk": "До Києва та області знову літають БПЛА - монітори Повідомляється про...",
@@ -49,9 +49,9 @@
     "location": "Kyiv",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198279",
-    "score": 5.0,
-    "views": 48434,
-    "forwards": 36
+    "score": 5.5,
+    "views": 83850,
+    "forwards": 70
   },
   {
     "title": "1000 drones launched",
@@ -68,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198277",
     "score": 8.5,
-    "views": 75207,
-    "forwards": 144
+    "views": 100006,
+    "forwards": 180
   },
   {
     "title": "Zaporizhzhia: High-speed target in Zaporizhzhia",
@@ -176,8 +176,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41848",
     "score": 13.0,
-    "views": 5391,
-    "forwards": 18
+    "views": 5948,
+    "forwards": 20
   },
   {
     "title": "🤬 The morning begins with a raid of jet UAVs on Kyiv and the region:...",
@@ -320,31 +320,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54755",
     "score": 8.0,
-    "views": 2386,
+    "views": 2519,
     "forwards": 4
-  },
-  {
-    "title": "Kherson: Drone incoming",
-    "title_en": "Kherson: Drone incoming",
-    "title_uk": "Херсон: Дрон вхід",
-    "description": "Strike drones in the direction of Kherson.",
-    "description_en": "Strike drones in the direction of Kherson.",
-    "description_uk": "Ударні БпЛА у напрямку Херсону.",
-    "time": "",
-    "pubDate": "2026-08-11T23:05:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kherson",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72440",
-    "score": 6.0,
-    "views": 26244,
-    "forwards": 50
   },
   {
     "title": "Kyiv: Romanian military destroys 2 Gerbera drones found in Black Sea....",
     "title_en": "Kyiv: Romanian military destroys 2 Gerbera drones found in Black Sea....",
-    "title_uk": "Київ: румунські військові знищили 2 безпілотники Gerbera, знайдені в Чорному морі.",
+    "title_uk": "Київ: румунські військові знищили 2 знайдені в Чорному морі безпілотники Gerbera.",
     "description": "Romanian military destroys 2 Gerbera drones found in Black Sea. Romanian military divers destroyed two Gerbera-type drones found drifting in the country's exclusive economic zone in the Black Sea, Romanian Defense Minister Radu Miruta said on Aug. 11.",
     "description_en": "Romanian military destroys 2 Gerbera drones found in Black Sea. Romanian military divers destroyed two Gerbera-type drones found drifting in the country's exclusive economic zone in the Black Sea, Romanian Defense Minister Radu Miruta said on Aug. 11.",
     "description_uk": "Romanian military destroys 2 Gerbera drones found in Black Sea. Romanian military divers destroyed two Gerbera-type drones found drifting in the country's exclusive economic zone in the Black Sea, Romanian Defense Minister Radu Miruta said on Aug. 11.",
@@ -356,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54754",
     "score": 8.0,
-    "views": 2770,
+    "views": 2869,
     "forwards": 6
   },
   {
@@ -410,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20367",
     "score": 6.5,
-    "views": 319890,
-    "forwards": 578
+    "views": 324026,
+    "forwards": 580
   },
   {
     "title": "Kharkiv: Швидкісна ціль на Харків!",
@@ -446,7 +428,25 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41837",
     "score": 11.0,
-    "views": 20636,
+    "views": 20731,
     "forwards": 99
+  },
+  {
+    "title": "Mykolaiv: Ballistic missile launch detected",
+    "title_en": "Mykolaiv: Ballistic missile launch detected",
+    "title_uk": "Миколаїв: виявлено пуск балістичної ракети",
+    "description": "Since the night, work has been going on to eliminate the consequences of the Russian strike in Zaporizhzhia. The city was hit by North Korean ballistics, \"zircons\" and KABs. A brutal attack designed to inflict maximum damage on civilian infrastructure. Unfortunately, as of now, we know of six dead and nineteen wounded in the city. My condolences to family and friends. Rescuers continue...",
+    "description_en": "Since the night, work has been going on to eliminate the consequences of the Russian strike in Zaporizhzhia. The city was hit by North Korean ballistics, \"zircons\" and KABs. A brutal attack designed to inflict maximum damage on civilian infrastructure. Unfortunately, as of now, we know of six dead and nineteen wounded in the city. My condolences to family and friends. Rescuers continue...",
+    "description_uk": "З ночі тривають роботи по ліквідації наслідків російського удару у Запоріжжі. По місту були удари північнокорейською балістикою, «цирконами» та КАБами. Жорстока атака, прорахована так, щоб максимальної шкоди завдати саме цивільній інфраструктурі. На жаль, станом на зараз відомо про шістьох загиблих та девʼятнадцять поранених у місті. Мої співчуття рідним та близьким. Рятувальники продовжують...",
+    "time": "",
+    "pubDate": "2026-08-11T07:07:32+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Mykolaiv",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20361",
+    "score": 23.0,
+    "views": 168245,
+    "forwards": 369
   }
 ]
