@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "A group of jet UAVs from the Belgorod region, Russian Federation - to the north of Kharkiv region, heading for Kharkiv",
+    "description_en": "A group of jet UAVs from the Belgorod region, Russian Federation - to the north of Kharkiv region, heading for Kharkiv",
+    "description_uk": "Група реактивних БпЛА з Бєлгородської обл., рф - на північ Харківщини, курсом на Харків",
+    "time": "",
+    "pubDate": "2026-08-12T13:54:10+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72533",
+    "score": 6.0,
+    "views": 42531,
+    "forwards": 5
+  },
+  {
     "title": "Kyiv: 200 drones launched",
     "title_en": "Kyiv: 200 drones launched",
     "title_uk": "Київ: запущено 200 безпілотників",
@@ -14,7 +32,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54763",
     "score": 9.0,
-    "views": 194,
+    "views": 800,
     "forwards": 0
   },
   {
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72532",
     "score": 6.0,
-    "views": 31296,
+    "views": 63824,
     "forwards": 0
   },
   {
@@ -49,9 +67,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198291",
-    "score": 5.5,
-    "views": 76973,
-    "forwards": 177
+    "score": 6.5,
+    "views": 99634,
+    "forwards": 212
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
@@ -266,8 +284,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41848",
     "score": 13.0,
-    "views": 6759,
-    "forwards": 20
+    "views": 7058,
+    "forwards": 21
   },
   {
     "title": "🤬 The morning begins with a raid of jet UAVs on Kyiv and the region:...",
@@ -392,7 +410,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54755",
     "score": 8.0,
-    "views": 2728,
+    "views": 2801,
     "forwards": 4
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.5,
     "views": 37429,
     "forwards": 171
-  },
-  {
-    "title": "Odesa: Strike confirmed",
-    "title_en": "Odesa: Strike confirmed",
-    "title_uk": "Одеса: Страйк підтверджено",
-    "description": "Ukraine faces race against time as Russia chokes Black Sea ports Smoke billowing over the Black Sea is now an everyday sight in Odesa Oblast as Russia continues to strike ports and vessels in Ukrainian waters. But it’s on land that the impact of Russia’s campaign is most keenly felt, with Ukraine facing an economic crisis unless the country finds a solution soon. The biggest victims are Ukraine’s...",
-    "description_en": "Ukraine faces race against time as Russia chokes Black Sea ports Smoke billowing over the Black Sea is now an everyday sight in Odesa Oblast as Russia continues to strike ports and vessels in Ukrainian waters. But it’s on land that the impact of Russia’s campaign is most keenly felt, with Ukraine facing an economic crisis unless the country finds a solution soon. The biggest victims are Ukraine’s...",
-    "description_uk": "Ukraine faces race against time as Russia chokes Black Sea ports Smoke billowing over the Black Sea is now an everyday sight in Odesa Oblast as Russia continues to strike ports and vessels in Ukrainian waters. But it’s on land that the impact of Russia’s campaign is most keenly felt, with Ukraine facing an economic crisis unless the country finds a solution soon. The biggest victims are Ukraine’s...",
-    "time": "",
-    "pubDate": "2026-08-11T17:48:44+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Odesa",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54752",
-    "score": 10.0,
-    "views": 1838,
-    "forwards": 5
   }
 ]
