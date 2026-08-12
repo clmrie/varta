@@ -1,5 +1,23 @@
 [
   {
+    "title": "Odesa - jet UAV for the Black Sea/Odessa.",
+    "title_en": "Odesa - jet UAV for the Black Sea/Odessa.",
+    "title_uk": "Одеса - реактивний БПЛА для Чорного моря/Одеса.",
+    "description": "Odesa - jet UAV for the Black Sea/Odessa.",
+    "description_en": "Odesa - jet UAV for the Black Sea/Odessa.",
+    "description_uk": "Одещина - реактивний БпЛА на Чорноморське/Одесу.",
+    "time": "",
+    "pubDate": "2026-08-12T16:06:57+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72537",
+    "score": 5.0,
+    "views": 25480,
+    "forwards": 2
+  },
+  {
     "title": "Sumy: Sumy - BpLA in the direction of the city.",
     "title_en": "Sumy: Sumy - BpLA in the direction of the city.",
     "title_uk": "Суми: Суми – БпЛА в напрямку м.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72536",
     "score": 6.0,
-    "views": 13146,
+    "views": 44360,
     "forwards": 1
   },
   {
@@ -68,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54763",
     "score": 9.0,
-    "views": 1117,
+    "views": 1437,
     "forwards": 0
   },
   {
@@ -104,7 +122,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198291",
     "score": 6.5,
-    "views": 114770,
+    "views": 127646,
     "forwards": 247
   },
   {
@@ -320,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41848",
     "score": 13.0,
-    "views": 7246,
+    "views": 7380,
     "forwards": 21
   },
   {
@@ -428,25 +446,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54755",
     "score": 8.0,
-    "views": 2843,
+    "views": 2917,
     "forwards": 4
-  },
-  {
-    "title": "Kyiv: Romanian military destroys 2 Gerbera drones found in Black Sea....",
-    "title_en": "Kyiv: Romanian military destroys 2 Gerbera drones found in Black Sea....",
-    "title_uk": "Київ: румунські військові знищили 2 безпілотники Gerbera, знайдені в Чорному морі.",
-    "description": "Romanian military destroys 2 Gerbera drones found in Black Sea. Romanian military divers destroyed two Gerbera-type drones found drifting in the country's exclusive economic zone in the Black Sea, Romanian Defense Minister Radu Miruta said on Aug. 11.",
-    "description_en": "Romanian military destroys 2 Gerbera drones found in Black Sea. Romanian military divers destroyed two Gerbera-type drones found drifting in the country's exclusive economic zone in the Black Sea, Romanian Defense Minister Radu Miruta said on Aug. 11.",
-    "description_uk": "Romanian military destroys 2 Gerbera drones found in Black Sea. Romanian military divers destroyed two Gerbera-type drones found drifting in the country's exclusive economic zone in the Black Sea, Romanian Defense Minister Radu Miruta said on Aug. 11.",
-    "time": "",
-    "pubDate": "2026-08-11T20:33:55+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54754",
-    "score": 8.0,
-    "views": 2913,
-    "forwards": 6
   }
 ]
