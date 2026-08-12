@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sumy: Sumy - BpLA in the direction of the city.",
+    "title_en": "Sumy: Sumy - BpLA in the direction of the city.",
+    "title_uk": "Суми: Суми – БпЛА в напрямку м.",
+    "description": "Sumy - BpLA in the direction of the city.",
+    "description_en": "Sumy - BpLA in the direction of the city.",
+    "description_uk": "Суми - БпЛА в напрямку міста.",
+    "time": "",
+    "pubDate": "2026-08-12T15:30:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72536",
+    "score": 6.0,
+    "views": 13146,
+    "forwards": 1
+  },
+  {
+    "title": "Odeshchyna - jet UAV from the sea (Bilhorod-Dnistrovsky district).",
+    "title_en": "Odeshchyna - jet UAV from the sea (Bilhorod-Dnistrovsky district).",
+    "title_uk": "Одещина - реактивний БПЛА з моря (Білгород-Дністровський район).",
+    "description": "Odeshchyna - jet UAV from the sea (Bilhorod-Dnistrovsky district).",
+    "description_en": "Odeshchyna - jet UAV from the sea (Bilhorod-Dnistrovsky district).",
+    "description_uk": "Одещина - реактивний БпЛА з моря (Білгород-Дністровський р-н).",
+    "time": "",
+    "pubDate": "2026-08-12T15:20:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72535",
+    "score": 5.0,
+    "views": 22354,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Харків: Дрон вхід",
@@ -32,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54763",
     "score": 9.0,
-    "views": 800,
+    "views": 1117,
     "forwards": 0
   },
   {
@@ -68,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198291",
     "score": 6.5,
-    "views": 99634,
-    "forwards": 212
+    "views": 114770,
+    "forwards": 247
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
@@ -284,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41848",
     "score": 13.0,
-    "views": 7058,
+    "views": 7246,
     "forwards": 21
   },
   {
@@ -378,24 +414,6 @@
     "forwards": 0
   },
   {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons from the north.",
-    "description_en": "☄️ The threat of using ballistic weapons from the north.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння з півночі.",
-    "time": "",
-    "pubDate": "2026-08-12T02:58:47+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72460",
-    "score": 5.5,
-    "views": 42439,
-    "forwards": 69
-  },
-  {
     "title": "Sevastopol: Explosions reported",
     "title_en": "Sevastopol: Explosions reported",
     "title_uk": "Севастополь: повідомляється про вибухи",
@@ -410,7 +428,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54755",
     "score": 8.0,
-    "views": 2801,
+    "views": 2843,
     "forwards": 4
   },
   {
@@ -430,23 +448,5 @@
     "score": 8.0,
     "views": 2913,
     "forwards": 6
-  },
-  {
-    "title": "Kharkiv: High-speed target in Kharkiv Oblast heading for Poltava Oblast",
-    "title_en": "Kharkiv: High-speed target in Kharkiv Oblast heading for Poltava Oblast",
-    "title_uk": "Харків: Швидкісна ціль у Харківській області прямує на Полтавську область",
-    "description": "High-speed target in Kharkiv Oblast heading for Poltava Oblast",
-    "description_en": "High-speed target in Kharkiv Oblast heading for Poltava Oblast",
-    "description_uk": "Швидкісна ціль на Харківщині курсом на Полтавщину",
-    "time": "",
-    "pubDate": "2026-08-11T19:59:28+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72432",
-    "score": 6.5,
-    "views": 37429,
-    "forwards": 171
   }
 ]
