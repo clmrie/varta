@@ -1,11 +1,29 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV in the direction of Sumy from the north.",
+    "description_en": "UAV in the direction of Sumy from the north.",
+    "description_uk": "БпЛА в напрямку Сум з півночі.",
+    "time": "",
+    "pubDate": "2026-08-13T21:35:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72698",
+    "score": 5.0,
+    "views": 18277,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Update: SpaceX backs down after Poland spat, calming fears in Ukraine...",
     "title_en": "Kyiv: Update: SpaceX backs down after Poland spat, calming fears in Ukraine...",
     "title_uk": "Київ: Оновлення: SpaceX відступає після суперечки з Польщею, заспокоюючи страхи в Україні...",
-    "description": "Update: SpaceX backs down after Poland spat, calming fears in Ukraine over Starlink access. \"SpaceX has responded to my request and will not treat Polish customers worse than those in other European countries,\" Poland's Digital Minister wrote on X on Aug. 13. Previously, Polish Foreign Minister Radoslaw Sikorski had threatened to stop paying for Starlink access — even though Poland funds...",
-    "description_en": "Update: SpaceX backs down after Poland spat, calming fears in Ukraine over Starlink access. \"SpaceX has responded to my request and will not treat Polish customers worse than those in other European countries,\" Poland's Digital Minister wrote on X on Aug. 13. Previously, Polish Foreign Minister Radoslaw Sikorski had threatened to stop paying for Starlink access — even though Poland funds...",
-    "description_uk": "Update: SpaceX backs down after Poland spat, calming fears in Ukraine over Starlink access. \"SpaceX has responded to my request and will not treat Polish customers worse than those in other European countries,\" Poland's Digital Minister wrote on X on Aug. 13. Previously, Polish Foreign Minister Radoslaw Sikorski had threatened to stop paying for Starlink access — even though Poland funds...",
+    "description": "Update: SpaceX backs down after Poland spat, calming fears in Ukraine over Starlink access. \"SpaceX has responded to my request and will not treat Polish customers worse than those in other European countries,\" Poland's Digital Minister wrote on X on Aug. 13. Previously, Polish Foreign Minister Radoslaw Sikorski had threatened to stop paying for Starlink — even though Poland funds Ukraine's...",
+    "description_en": "Update: SpaceX backs down after Poland spat, calming fears in Ukraine over Starlink access. \"SpaceX has responded to my request and will not treat Polish customers worse than those in other European countries,\" Poland's Digital Minister wrote on X on Aug. 13. Previously, Polish Foreign Minister Radoslaw Sikorski had threatened to stop paying for Starlink — even though Poland funds Ukraine's...",
+    "description_uk": "Update: SpaceX backs down after Poland spat, calming fears in Ukraine over Starlink access. \"SpaceX has responded to my request and will not treat Polish customers worse than those in other European countries,\" Poland's Digital Minister wrote on X on Aug. 13. Previously, Polish Foreign Minister Radoslaw Sikorski had threatened to stop paying for Starlink — even though Poland funds Ukraine's...",
     "time": "",
     "pubDate": "2026-08-13T21:06:47+00:00",
     "category": "alert",
@@ -14,8 +32,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54790",
     "score": 4.5,
-    "views": 1,
-    "forwards": 0
+    "views": 619,
+    "forwards": 2
   },
   {
     "title": "Kharkiv: BpLA on Kharkiv from the north.",
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72695",
     "score": 6.0,
-    "views": 13192,
+    "views": 37548,
     "forwards": 0
   },
   {
@@ -50,26 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198400",
     "score": 8.5,
-    "views": 79850,
+    "views": 90885,
     "forwards": 145
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "In the direction of Zhytomyr, a new group of jet UAVs, stay in shelters!",
-    "description_en": "In the direction of Zhytomyr, a new group of jet UAVs, stay in shelters!",
-    "description_uk": "В напрямку Житомира нова група реактивний БпЛА, перебувайте в укриттях!",
-    "time": "",
-    "pubDate": "2026-08-13T19:21:37+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zhytomyr",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72686",
-    "score": 10.5,
-    "views": 75927,
-    "forwards": 140
   },
   {
     "title": "BpLA ➡️ in the direction of Odesa from the Black Sea.",
@@ -104,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54787",
     "score": 15.0,
-    "views": 1212,
-    "forwards": 5
+    "views": 1492,
+    "forwards": 7
   },
   {
     "title": "Mykolaiv: Sumyshchyna: jet UAV ➡️ to/past Mykolaivka on a southwesterly course.",
@@ -194,7 +194,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10009",
     "score": 9.0,
-    "views": 590,
+    "views": 605,
     "forwards": 8
   },
   {
@@ -309,8 +309,8 @@
     "title": "He started his trip to the Ivano-Frankivsk region to commemorate the...",
     "title_en": "He started his trip to the Ivano-Frankivsk region to commemorate the...",
     "title_uk": "Він розпочав свою поїздку в Івано-Франківську область, щоб вшанувати...",
-    "description": "He started his trip to the Ivano-Frankivsk region to commemorate the fallen defenders of Ukraine. Eternal respect and gratitude to everyone who defended Ukraine and gave their lives in this struggle. Bright memory of our fallen soldiers. And also thanks to those who create memory centers for our heroes, where Ukrainian men and women can come and simply say: \"Thank you.\" It is very important...",
-    "description_en": "He started his trip to the Ivano-Frankivsk region to commemorate the fallen defenders of Ukraine. Eternal respect and gratitude to everyone who defended Ukraine and gave their lives in this struggle. Bright memory of our fallen soldiers. And also thanks to those who create memory centers for our heroes, where Ukrainian men and women can come and simply say: \"Thank you.\" It is very important...",
+    "description": "He started his trip to the Ivano-Frankivsk region to commemorate the fallen defenders of Ukraine. Eternal respect and gratitude to everyone who defended Ukraine and gave their lives in this struggle. Bright memory of our fallen soldiers. And also thanks to those who create memory centers for our heroes, where Ukrainian men and women can come and simply say: \"Thank you\". It is very important...",
+    "description_en": "He started his trip to the Ivano-Frankivsk region to commemorate the fallen defenders of Ukraine. Eternal respect and gratitude to everyone who defended Ukraine and gave their lives in this struggle. Bright memory of our fallen soldiers. And also thanks to those who create memory centers for our heroes, where Ukrainian men and women can come and simply say: \"Thank you\". It is very important...",
     "description_uk": "Розпочав свою поїздку до Івано-Франківської області з вшанування памʼяті полеглих захисників і захисниць України. Вічна шана та вдячність кожному й кожній, хто захищав Україну та віддав своє життя у цій боротьбі. Світла памʼять нашим загиблим воїнам. І також подяка тим, хто створює осередки памʼяті для наших героїв, де українці та українки можуть прийти і просто сказати: «Дякую». Дуже важливо,...",
     "time": "",
     "pubDate": "2026-08-13T10:53:56+00:00",
@@ -320,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20381",
     "score": 6.5,
-    "views": 87659,
-    "forwards": 259
+    "views": 88364,
+    "forwards": 260
   },
   {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
@@ -396,24 +396,6 @@
     "forwards": 181
   },
   {
-    "title": "Kharkiv: Kharkiv region: a jet UAV passes Bogodukhiv in the east ➡️ on a...",
-    "title_en": "Kharkiv: Kharkiv region: a jet UAV passes Bogodukhiv in the east ➡️ on a...",
-    "title_uk": "Харків: Харківська область: реактивний БПЛА пройшов повз Богодухів на сході ➡️ на...",
-    "description": "Kharkiv region: a jet UAV passes Bogodukhiv in the east ➡️ on a southerly course.",
-    "description_en": "Kharkiv region: a jet UAV passes Bogodukhiv in the east ➡️ on a southerly course.",
-    "description_uk": "Харківщина: реактивний БпЛА повз Богодухів на сході ➡️ південним курсом.",
-    "time": "",
-    "pubDate": "2026-08-13T09:52:40+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72629",
-    "score": 6.0,
-    "views": 38376,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Russian Gazprom oil refinery 1,300 km from Ukraine hit, General Staff...",
     "title_en": "Kyiv: Russian Gazprom oil refinery 1,300 km from Ukraine hit, General Staff...",
     "title_uk": "Київ: удар по нафтопереробному заводу російського \"Газпрому\" за 1300 км від України, - Генштаб...",
@@ -446,7 +428,25 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20380",
     "score": 8.5,
-    "views": 93624,
-    "forwards": 318
+    "views": 94372,
+    "forwards": 320
+  },
+  {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "111 ENEMY UAVS DOWN/SUPPRESSED On the night of August 13 (from 18:00 on August 12), the enemy attacked 133 attack UAVs of the Shahed type (including jet ones), Gerber and simulator drones of the \"Parody\" type from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, units of EW and unmanned systems,...",
+    "description_en": "111 ENEMY UAVS DOWN/SUPPRESSED On the night of August 13 (from 18:00 on August 12), the enemy attacked 133 attack UAVs of the Shahed type (including jet ones), Gerber and simulator drones of the \"Parody\" type from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, units of EW and unmanned systems,...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 111 ВОРОЖИХ БПЛА У ніч на 13 серпня (з 18:00 12 серпня) противник атакував 133 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., ТОТ Донецьк, Гвардійське – ТОТ АР Крим. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем,...",
+    "time": "",
+    "pubDate": "2026-08-13T06:06:16+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41866",
+    "score": 13.0,
+    "views": 7545,
+    "forwards": 21
   }
 ]
