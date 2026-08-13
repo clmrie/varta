@@ -1,5 +1,77 @@
 [
   {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "\"Millions of queues\" at gas stations in Moscow and near Moscow After a new wave of attacks by Ukrainian UAVs, problems with gasoline were recorded in at least 12 regions of Russia - from the Krasnodar and Primorsky Krai to the Voronezh, Rostov, Ryazan and Saratov regions. A delight to the eyes.",
+    "description_en": "\"Millions of queues\" at gas stations in Moscow and near Moscow After a new wave of attacks by Ukrainian UAVs, problems with gasoline were recorded in at least 12 regions of Russia - from the Krasnodar and Primorsky Krai to the Voronezh, Rostov, Ryazan and Saratov regions. A delight to the eyes.",
+    "description_uk": "«Миллионные очереди» и на АЗС Москвы и Подмосковья После новой волны атак украинских БПЛА проблемы с бензином зафиксировали как минимум в 12 регионах россии — от Краснодарского и Приморского краев до Воронежской, Ростовской, Рязанской и Саратовской областей. Радует глаз.",
+    "time": "",
+    "pubDate": "2026-08-13T19:22:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198400",
+    "score": 8.5,
+    "views": 25560,
+    "forwards": 72
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "In the direction of Zhytomyr, a new group of jet UAVs, stay in shelters!",
+    "description_en": "In the direction of Zhytomyr, a new group of jet UAVs, stay in shelters!",
+    "description_uk": "В напрямку Житомира нова група реактивний БпЛА, перебувайте в укриттях!",
+    "time": "",
+    "pubDate": "2026-08-13T19:21:37+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zhytomyr",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72686",
+    "score": 10.5,
+    "views": 36424,
+    "forwards": 140
+  },
+  {
+    "title": "BpLA ➡️ in the direction of Odesa from the Black Sea.",
+    "title_en": "BpLA ➡️ in the direction of Odesa from the Black Sea.",
+    "title_uk": "BpLA ➡️ в напрямку Одеси з боку Чорного моря.",
+    "description": "BpLA ➡️ in the direction of Odesa from the Black Sea.",
+    "description_en": "BpLA ➡️ in the direction of Odesa from the Black Sea.",
+    "description_uk": "БпЛА ➡️ у напрямку Одещини з Чорного моря.",
+    "time": "",
+    "pubDate": "2026-08-13T19:19:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72685",
+    "score": 5.0,
+    "views": 40461,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "Russian strikes leave Kyiv supermarkets with empty shelves A deadly Russian ballistic missile attack on Aug. 5 targeted warehouses belonging to various supermarket chains and other civilian enterprises, President Volodymyr Zelensky said on social media. Since then, supplies of everyday products such as vegetables, dairy, and meat have been noticeably low, or even absent, in some stores. Photo:...",
+    "description_en": "Russian strikes leave Kyiv supermarkets with empty shelves A deadly Russian ballistic missile attack on Aug. 5 targeted warehouses belonging to various supermarket chains and other civilian enterprises, President Volodymyr Zelensky said on social media. Since then, supplies of everyday products such as vegetables, dairy, and meat have been noticeably low, or even absent, in some stores. Photo:...",
+    "description_uk": "Russian strikes leave Kyiv supermarkets with empty shelves A deadly Russian ballistic missile attack on Aug. 5 targeted warehouses belonging to various supermarket chains and other civilian enterprises, President Volodymyr Zelensky said on social media. Since then, supplies of everyday products such as vegetables, dairy, and meat have been noticeably low, or even absent, in some stores. Photo:...",
+    "time": "",
+    "pubDate": "2026-08-13T19:06:03+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54787",
+    "score": 15.0,
+    "views": 582,
+    "forwards": 5
+  },
+  {
     "title": "Mykolaiv: Sumyshchyna: jet UAV ➡️ to/past Mykolaivka on a southwesterly course.",
     "title_en": "Mykolaiv: Sumyshchyna: jet UAV ➡️ to/past Mykolaivka on a southwesterly course.",
     "title_uk": "Миколаїв: Сумщина: реактивний БПЛА ➡️ до/повз Миколаївку південно-західним курсом.",
@@ -15,24 +87,6 @@
     "link": "https://t.me/kpszsu/72675",
     "score": 6.0,
     "views": 45487,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAVs ➡️ in the direction of Kharkiv from the northwest.",
-    "description_en": "Jet UAVs ➡️ in the direction of Kharkiv from the northwest.",
-    "description_uk": "Реактивні БпЛА ➡️ у напрямку Харкова з північного заходу.",
-    "time": "",
-    "pubDate": "2026-08-13T17:40:04+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72673",
-    "score": 5.0,
-    "views": 51580,
     "forwards": 0
   },
   {
@@ -104,7 +158,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10009",
     "score": 9.0,
-    "views": 503,
+    "views": 549,
     "forwards": 8
   },
   {
@@ -230,8 +284,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54781",
     "score": 6.0,
-    "views": 2139,
-    "forwards": 1
+    "views": 2265,
+    "forwards": 2
   },
   {
     "title": "He started his trip to the Ivano-Frankivsk region to commemorate the...",
@@ -248,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20381",
     "score": 6.5,
-    "views": 83074,
-    "forwards": 253
+    "views": 85567,
+    "forwards": 256
   },
   {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
@@ -374,8 +428,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20380",
     "score": 8.5,
-    "views": 88252,
-    "forwards": 312
+    "views": 91237,
+    "forwards": 316
   },
   {
     "title": "Attack attack",
@@ -394,59 +448,5 @@
     "score": 5.5,
     "views": 67120,
     "forwards": 113
-  },
-  {
-    "title": "BpLA ➡️ in the direction of Sumy from the north.",
-    "title_en": "BpLA ➡️ in the direction of Sumy from the north.",
-    "title_uk": "БпЛА ➡️ в напрямку Сум з півночі.",
-    "description": "BpLA ➡️ in the direction of Sumy from the north.",
-    "description_en": "BpLA ➡️ in the direction of Sumy from the north.",
-    "description_uk": "БпЛА ➡️ у напрямку Сум з півночі.",
-    "time": "",
-    "pubDate": "2026-08-13T09:09:18+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72622",
-    "score": 5.0,
-    "views": 15144,
-    "forwards": 0
-  },
-  {
-    "title": "Strike confirmed",
-    "title_en": "Strike confirmed",
-    "title_uk": "Страйк підтверджено",
-    "description": "Today, in Odesa, the Russians once again destroyed an ordinary locomotive of a passenger train with a jet drone. Three hundred and forty people were on the train. And for sure, the one who controlled the drone could not fail to know that the target was absolutely civilian. As of now, unfortunately, it is known that the driver and his assistant died from the impact. My condolences to family and friends. There were also hits in 11 regions at night - more than 130 strikes...",
-    "description_en": "Today, in Odesa, the Russians once again destroyed an ordinary locomotive of a passenger train with a jet drone. Three hundred and forty people were on the train. And for sure, the one who controlled the drone could not fail to know that the target was absolutely civilian. As of now, unfortunately, it is known that the driver and his assistant died from the impact. My condolences to family and friends. There were also hits in 11 regions at night - more than 130 strikes...",
-    "description_uk": "Сьогодні на Одещині росіяни в черговий раз розбили звичайний локомотив пасажирського потяга реактивним дроном. Триста сорок людей було у потязі. І точно той, хто керував дроном, не міг не знати, що ціль абсолютно цивільна. Станом на зараз, на жаль, відомо, що машиніст і його помічник загинули від удару. Мої співчуття рідним та близьким. Були вночі також влучання в 11 регіонах – понад 130 ударних...",
-    "time": "",
-    "pubDate": "2026-08-13T08:36:48+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Odesa",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20379",
-    "score": 13.5,
-    "views": 93734,
-    "forwards": 470
-  },
-  {
-    "title": "Zaporizhzhia: BpLA ➡️ course to Zaporozhye from the southwest.",
-    "title_en": "Zaporizhzhia: BpLA ➡️ course to Zaporozhye from the southwest.",
-    "title_uk": "Запоріжжя: курс BpLA ➡️ на Запоріжжя з південного заходу.",
-    "description": "BpLA ➡️ course to Zaporozhye from the southwest.",
-    "description_en": "BpLA ➡️ course to Zaporozhye from the southwest.",
-    "description_uk": "БпЛА ➡️ курсом на м.Запоріжжя з південного заходу.",
-    "time": "",
-    "pubDate": "2026-08-13T07:59:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72613",
-    "score": 6.0,
-    "views": 13114,
-    "forwards": 0
   }
 ]
