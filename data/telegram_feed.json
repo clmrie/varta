@@ -1,5 +1,41 @@
 [
   {
+    "title": "Attack attack",
+    "title_en": "Attack attack",
+    "title_uk": "Атака нападу",
+    "description": "Attacks on Ukrainians in Poland: Kyiv launches a campaign to improve the image of Ukraine According to the newspaper \"Dziennik Gazeta Prawna\", a decision was made in Kyiv to launch a campaign of public diplomacy in Poland. These actions are aimed, in particular, at improving the image of Ukraine in Poland by reminding of historical alliances, such as the alliance of the Second Polish Republic with Simon Petliura during the 1920 war...",
+    "description_en": "Attacks on Ukrainians in Poland: Kyiv launches a campaign to improve the image of Ukraine According to the newspaper \"Dziennik Gazeta Prawna\", a decision was made in Kyiv to launch a campaign of public diplomacy in Poland. These actions are aimed, in particular, at improving the image of Ukraine in Poland by reminding of historical alliances, such as the alliance of the Second Polish Republic with Simon Petliura during the 1920 war...",
+    "description_uk": "Нападения на украинцев в Польше: Киев запускает кампанию по улучшению имиджа Украины По данным газеты «Dziennik Gazeta Prawna», в Киеве принято решение о начале кампании публичной дипломатии в Польше. Эти действия направлены, в частности, на улучшение имиджа Украины в Польше путем напоминания об исторических союзах, таких как союз Второй Польской Республики с Симоном Петлюрой во время войны 1920...",
+    "time": "",
+    "pubDate": "2026-08-13T09:20:28+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198348",
+    "score": 5.0,
+    "views": 1066,
+    "forwards": 2
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAVs ➡️ in the direction of Kharkiv from the northwest.",
+    "description_en": "Jet UAVs ➡️ in the direction of Kharkiv from the northwest.",
+    "description_uk": "Реактивні БпЛА ➡️ у напрямку Харкова з північного заходу.",
+    "time": "",
+    "pubDate": "2026-08-13T09:20:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72623",
+    "score": 5.0,
+    "views": 3002,
+    "forwards": 0
+  },
+  {
     "title": "BpLA ➡️ in the direction of Sumy from the north.",
     "title_en": "BpLA ➡️ in the direction of Sumy from the north.",
     "title_uk": "БпЛА ➡️ в напрямку Сум з півночі.",
@@ -7,15 +43,51 @@
     "description_en": "BpLA ➡️ in the direction of Sumy from the north.",
     "description_uk": "БпЛА ➡️ у напрямку Сум з півночі.",
     "time": "",
-    "pubDate": "2026-08-13T08:00:51+00:00",
+    "pubDate": "2026-08-13T09:09:18+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Sumy",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72614",
+    "link": "https://t.me/kpszsu/72622",
     "score": 5.0,
-    "views": 10078,
+    "views": 15144,
     "forwards": 0
+  },
+  {
+    "title": "Strike confirmed",
+    "title_en": "Strike confirmed",
+    "title_uk": "Страйк підтверджено",
+    "description": "Today, in Odesa, the Russians once again destroyed an ordinary locomotive of a passenger train with a jet drone. Three hundred and forty people were on the train. And for sure, the one who controlled the drone could not fail to know that the target was absolutely civilian. As of now, unfortunately, it is known that the driver and his assistant died from the impact. My condolences to family and friends. There were also hits in 11 regions at night - more than 130 strikes...",
+    "description_en": "Today, in Odesa, the Russians once again destroyed an ordinary locomotive of a passenger train with a jet drone. Three hundred and forty people were on the train. And for sure, the one who controlled the drone could not fail to know that the target was absolutely civilian. As of now, unfortunately, it is known that the driver and his assistant died from the impact. My condolences to family and friends. There were also hits in 11 regions at night - more than 130 strikes...",
+    "description_uk": "Сьогодні на Одещині росіяни в черговий раз розбили звичайний локомотив пасажирського потяга реактивним дроном. Триста сорок людей було у потязі. І точно той, хто керував дроном, не міг не знати, що ціль абсолютно цивільна. Станом на зараз, на жаль, відомо, що машиніст і його помічник загинули від удару. Мої співчуття рідним та близьким. Були вночі також влучання в 11 регіонах – понад 130 ударних...",
+    "time": "",
+    "pubDate": "2026-08-13T08:36:48+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Odesa",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20379",
+    "score": 13.5,
+    "views": 53986,
+    "forwards": 333
+  },
+  {
+    "title": "Explosions reported",
+    "title_en": "Explosions reported",
+    "title_uk": "Повідомляється про вибухи",
+    "description": "In Sevastopol, a man died as a result of the explosion of an IED planted in an urn near a house. Local newspapers write that before the explosion, a woman with a backpack was standing near the house and was tracking her victim. Katsap public whines that everything looks like \"another sabotage by the Ukrainian special services according to the standard scenario.\" If so, congratulations on another successful liquidation and look forward to the details.",
+    "description_en": "In Sevastopol, a man died as a result of the explosion of an IED planted in an urn near a house. Local newspapers write that before the explosion, a woman with a backpack was standing near the house and was tracking her victim. Katsap public whines that everything looks like \"another sabotage by the Ukrainian special services according to the standard scenario.\" If so, congratulations on another successful liquidation and look forward to the details.",
+    "description_uk": "В Севастополе в результате взрыва СВУ, заложенного в урне возле дома, погиб мужчина Местные издания пишут, что перед взрывом возле дома стояла женщина с рюкзаком и отслеживала свою жертву. Кацапские паблики хнычут, что все похоже на \"очередную диверсию украинских спецслужб по стандартному сценарию\". Если так - поздравляем с очередной успешной ликвидацией и с нетерпением ждем подробностей.",
+    "time": "",
+    "pubDate": "2026-08-13T08:33:49+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Sevastopol",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198343",
+    "score": 5.5,
+    "views": 50971,
+    "forwards": 76
   },
   {
     "title": "Zaporizhzhia: BpLA ➡️ course to Zaporozhye from the southwest.",
@@ -68,7 +140,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41866",
     "score": 13.0,
-    "views": 3611,
+    "views": 4617,
     "forwards": 17
   },
   {
@@ -122,8 +194,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54774",
     "score": 13.0,
-    "views": 1170,
-    "forwards": 4
+    "views": 1439,
+    "forwards": 5
   },
   {
     "title": "Chernihiv: Jet UAVs headed for Chernihiv.",
@@ -252,42 +324,6 @@
     "forwards": 0
   },
   {
-    "title": "Sumyshchyna - a group of BpLA on Nizy.",
-    "title_en": "Sumyshchyna - a group of BpLA on Nizy.",
-    "title_uk": "Сумщина - група БпЛА на Низ.",
-    "description": "Sumyshchyna - a group of BpLA on Nizy.",
-    "description_en": "Sumyshchyna - a group of BpLA on Nizy.",
-    "description_uk": "Сумщина - група БпЛА на Низи.",
-    "time": "",
-    "pubDate": "2026-08-12T20:31:22+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72554",
-    "score": 5.0,
-    "views": 30455,
-    "forwards": 0
-  },
-  {
-    "title": "Sumyshchyna - a group of BpLA on the outskirts of Lebedyn.",
-    "title_en": "Sumyshchyna - a group of BpLA on the outskirts of Lebedyn.",
-    "title_uk": "Сумщина – група БпЛА на околиці Лебедин.",
-    "description": "Sumyshchyna - a group of BpLA on the outskirts of Lebedyn.",
-    "description_en": "Sumyshchyna - a group of BpLA on the outskirts of Lebedyn.",
-    "description_uk": "Сумщина - група БпЛА на околицях Лебедина.",
-    "time": "",
-    "pubDate": "2026-08-12T20:14:26+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72552",
-    "score": 5.0,
-    "views": 42649,
-    "forwards": 0
-  },
-  {
     "title": "Unknown drones circled over a strategically important air base in...",
     "title_en": "Unknown drones circled over a strategically important air base in...",
     "title_uk": "Невідомі дрони кружляли над стратегічно важливою авіабазою в...",
@@ -320,8 +356,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54770",
     "score": 12.5,
-    "views": 2753,
-    "forwards": 15
+    "views": 2855,
+    "forwards": 16
   },
   {
     "title": "In Novorossiysk, four warships of the Russian Federation were damaged...",
@@ -345,8 +381,8 @@
     "title": "There was a report on the results of our operation today regarding...",
     "title_en": "There was a report on the results of our operation today regarding...",
     "title_uk": "Сьогодні була доповідь про результати нашої операції щодо...",
-    "description": "There was a report on the results of our operation today regarding Novorossiysk. Combined use of long-range sanctions by our weapons. Successful operation. I am grateful to the soldiers for their accuracy and to the developers and manufacturers of our weapons for the tangible strengthening of Ukrainian means. For the first time in one operation, \"Palyanytsia\", \"Peklo\", \"Leopard\" and \"Long Neptune\", as well as drones MICH, Fire Point,...",
-    "description_en": "There was a report on the results of our operation today regarding Novorossiysk. Combined use of long-range sanctions by our weapons. Successful operation. I am grateful to the soldiers for their accuracy and to the developers and manufacturers of our weapons for the tangible strengthening of Ukrainian means. For the first time in one operation, \"Palyanytsia\", \"Peklo\", \"Leopard\" and \"Long Neptune\", as well as drones MICH, Fire Point,...",
+    "description": "There was a report on the results of our operation today regarding Novorossiysk. Combined use of long-range sanctions by our weapons. Successful operation. I am grateful to the soldiers for their accuracy and to the developers and manufacturers of our weapons for the tangible strengthening of Ukrainian means. For the first time in one operation, \"Palyanytsia\", \"Peko\", \"Leopard\" and \"Long Neptune\", as well as drones MICH, Fire Point,...",
+    "description_en": "There was a report on the results of our operation today regarding Novorossiysk. Combined use of long-range sanctions by our weapons. Successful operation. I am grateful to the soldiers for their accuracy and to the developers and manufacturers of our weapons for the tangible strengthening of Ukrainian means. For the first time in one operation, \"Palyanytsia\", \"Peko\", \"Leopard\" and \"Long Neptune\", as well as drones MICH, Fire Point,...",
     "description_uk": "Була доповідь за результатами сьогоднішньої нашої операції щодо Новоросійська. Комбіноване застосування далекобійних санкцій нашою зброєю. Успішна операція. Вдячний воїнам за влучність і розробникам та виробникам нашої зброї за відчутне посилення українських засобів. Уперше в одній операції злагоджено спрацювали «Паляниця», «Пекло», «Барс» і «Довгий Нептун», а також дрони MICH, Fire Point,...",
     "time": "",
     "pubDate": "2026-08-12T17:45:57+00:00",
@@ -356,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20375",
     "score": 4.5,
-    "views": 113495,
-    "forwards": 361
+    "views": 116912,
+    "forwards": 362
   },
   {
     "title": "Kadyrov threw a punch: he did not want to send Chechens en masse to...",
@@ -376,23 +412,5 @@
     "score": 6.5,
     "views": 127646,
     "forwards": 247
-  },
-  {
-    "title": "Oleg Ivashchenko, Head of the Ministry of Defense of Ukraine, gave a...",
-    "title_en": "Oleg Ivashchenko, Head of the Ministry of Defense of Ukraine, gave a...",
-    "title_uk": "Голова Міністерства оборони України Олег Іващенко дав...",
-    "description": "Oleg Ivashchenko, Head of the Ministry of Defense of Ukraine, gave a report on the preparation of the Russian mobilization. Everything is confirmed by internal Russian documents - they are preparing it for the fall, just after the simulated parliamentary elections. Putin's plan is not particularly complicated: he wants to portray that Russians seem to support the war - just about all the parties that have been admitted so far are in one way or another against peace. And then, after the so-called...",
-    "description_en": "Oleg Ivashchenko, Head of the Ministry of Defense of Ukraine, gave a report on the preparation of the Russian mobilization. Everything is confirmed by internal Russian documents - they are preparing it for the fall, just after the simulated parliamentary elections. Putin's plan is not particularly complicated: he wants to portray that Russians seem to support the war - just about all the parties that have been admitted so far are in one way or another against peace. And then, after the so-called...",
-    "description_uk": "Була доповідь ГУР МО – Олега Іващенка – про підготовку російської мобілізації. Все підтверджується внутрішніми російськими документами – вони її готують на осінь, якраз після імітації парламентських виборів. План у Путіна не особливо складний: він хоче зобразити, що росіяни начебто підтримують війну – якраз усі партії, які поки допущені, так чи інакше проти миру. І потім, після так званих...",
-    "time": "",
-    "pubDate": "2026-08-11T17:33:38+00:00",
-    "category": "political",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20367",
-    "score": 6.5,
-    "views": 356318,
-    "forwards": 609
   }
 ]
