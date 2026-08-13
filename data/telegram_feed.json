@@ -1,5 +1,77 @@
 [
   {
+    "title": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
+    "title_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
+    "title_uk": "Глава МЗС України Андрій...",
+    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, expressed solidarity with NATO member states and noted that Ukraine condemns Russia's recent violations of the airspace of Poland and Romania. \"Russia is testing NATO's strength. Each new violation is a test of the allies' readiness, an attempt to test the limits of what is permissible for Moscow and raising the stakes before the next provocation. Ukraine has already seen this...",
+    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, expressed solidarity with NATO member states and noted that Ukraine condemns Russia's recent violations of the airspace of Poland and Romania. \"Russia is testing NATO's strength. Each new violation is a test of the allies' readiness, an attempt to test the limits of what is permissible for Moscow and raising the stakes before the next provocation. Ukraine has already seen this...",
+    "description_uk": "Очільник МЗС України Андрій Сибіга висловив солідарність з державами-членами НАТО та зазначив, що Україна засуджує нещодавні порушення Росією повітряного простору Польщі та Румунії. “Росія випробовує НАТО на міцність. Кожне нове порушення є перевіркою готовності союзників, спробою випробувати межі дозволеного для Москви та підвищенням ставок перед наступною провокацією. Україна вже бачила цю...",
+    "time": "",
+    "pubDate": "2026-08-13T15:15:49+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/10009",
+    "score": 9.0,
+    "views": 209,
+    "forwards": 5
+  },
+  {
+    "title": "BpLA in the direction of Chernihiv from the north.",
+    "title_en": "BpLA in the direction of Chernihiv from the north.",
+    "title_uk": "БпЛА в напрямку Чернігова з півн.",
+    "description": "BpLA in the direction of Chernihiv from the north.",
+    "description_en": "BpLA in the direction of Chernihiv from the north.",
+    "description_uk": "БпЛА в напрямку Чернігова з півночі.",
+    "time": "",
+    "pubDate": "2026-08-13T14:59:25+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72657",
+    "score": 5.0,
+    "views": 31348,
+    "forwards": 34
+  },
+  {
+    "title": "Mykolaiv: BpLA from Kherson region to the south of Mykolaiv region.",
+    "title_en": "Mykolaiv: BpLA from Kherson region to the south of Mykolaiv region.",
+    "title_uk": "Миколаїв: БпЛА з Херсонщини на південь Миколаївщини.",
+    "description": "BpLA from Kherson region to the south of Mykolaiv region.",
+    "description_en": "BpLA from Kherson region to the south of Mykolaiv region.",
+    "description_uk": "БпЛА з Херсонщини на південь Миколаївщини.",
+    "time": "",
+    "pubDate": "2026-08-13T14:39:57+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72653",
+    "score": 6.0,
+    "views": 52593,
+    "forwards": 0
+  },
+  {
+    "title": "Mariupol: The Rinat Akhmetov Foundation bought an apartment for the defender of...",
+    "title_en": "Mariupol: The Rinat Akhmetov Foundation bought an apartment for the defender of...",
+    "title_uk": "Маріуполь: Фонд Ріната Ахметова купив квартиру для захисника...",
+    "description": "The Rinat Akhmetov Foundation bought an apartment for the defender of Mariupol Mykhailo Murza. The defender received the keys to the apartment under the \"Home\" program, which the Foundation implements in partnership with the \"Heart of Azovstal\" project. Since the beginning of the full-scale war, Mykhailo Murza defended Mariupol. During the battles, he was repeatedly wounded, and in 2022 he was captured. There he experienced torture, physical and psychological pressure, which led to...",
+    "description_en": "The Rinat Akhmetov Foundation bought an apartment for the defender of Mariupol Mykhailo Murza. The defender received the keys to the apartment under the \"Home\" program, which the Foundation implements in partnership with the \"Heart of Azovstal\" project. Since the beginning of the full-scale war, Mykhailo Murza defended Mariupol. During the battles, he was repeatedly wounded, and in 2022 he was captured. There he experienced torture, physical and psychological pressure, which led to...",
+    "description_uk": "Фонд Ріната Ахметова купив квартиру захиснику Маріуполя Михайлу Мурзі Оборонець отримав ключі від квартири за програмою «Вдома», яку Фонд реалізує у партнерстві з проєктом «Серце Азовсталі». З початку повномасштабної війни Михайло Мурза боронив Маріуполь. Під час боїв неодноразово зазнавав поранень, а у 2022 році потрапив у полон. Там пережив катування, фізичний і психологічний тиск, що призвели...",
+    "time": "",
+    "pubDate": "2026-08-13T13:43:01+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Mariupol",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198373",
+    "score": 6.0,
+    "views": 79503,
+    "forwards": 2
+  },
+  {
     "title": "Jet UAVs in the south of Sumy, to the west and east.",
     "title_en": "Jet UAVs in the south of Sumy, to the west and east.",
     "title_uk": "Реактивні БПЛА на півдні Сум, на заході та сході.",
@@ -68,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54781",
     "score": 6.0,
-    "views": 1104,
+    "views": 1693,
     "forwards": 1
   },
   {
@@ -86,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20381",
     "score": 6.5,
-    "views": 62121,
-    "forwards": 226
+    "views": 74778,
+    "forwards": 246
   },
   {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
@@ -140,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54780",
     "score": 10.0,
-    "views": 1337,
+    "views": 1817,
     "forwards": 1
   },
   {
@@ -212,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20380",
     "score": 8.5,
-    "views": 68776,
-    "forwards": 261
+    "views": 80153,
+    "forwards": 292
   },
   {
     "title": "Attack attack",
@@ -320,8 +392,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41866",
     "score": 13.0,
-    "views": 6540,
-    "forwards": 20
+    "views": 6884,
+    "forwards": 21
   },
   {
     "title": "Kharkiv: BpLA headed for Kharkiv from the north. 🚀 KAB launches to the north...",
@@ -376,77 +448,5 @@
     "score": 13.0,
     "views": 1439,
     "forwards": 5
-  },
-  {
-    "title": "Chernihiv: Jet UAVs headed for Chernihiv.",
-    "title_en": "Chernihiv: Jet UAVs headed for Chernihiv.",
-    "title_uk": "Чернігів: реактивні БПЛА взяли курс на Чернігів.",
-    "description": "Jet UAVs headed for Chernihiv.",
-    "description_en": "Jet UAVs headed for Chernihiv.",
-    "description_uk": "Реактивні БпЛА курсом на Чернігів.",
-    "time": "",
-    "pubDate": "2026-08-13T05:08:35+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72592",
-    "score": 6.0,
-    "views": 1005,
-    "forwards": 0
-  },
-  {
-    "title": "Sumy: BpLA headed for Sumy from the north.",
-    "title_en": "Sumy: BpLA headed for Sumy from the north.",
-    "title_uk": "Суми: BpLA прямувала на Суми з півночі.",
-    "description": "BpLA headed for Sumy from the north.",
-    "description_en": "BpLA headed for Sumy from the north.",
-    "description_uk": "БпЛА курсом на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-08-13T03:02:25+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72586",
-    "score": 6.0,
-    "views": 9094,
-    "forwards": 1
-  },
-  {
-    "title": "Jet UAVs southwest of Kharkiv (Merefa/Lyubotyn)",
-    "title_en": "Jet UAVs southwest of Kharkiv (Merefa/Lyubotyn)",
-    "title_uk": "Реактивні БПЛА на південний захід від Харкова (Мерефа/Люботин)",
-    "description": "Jet UAVs southwest of Kharkiv (Merefa/Lyubotyn)",
-    "description_en": "Jet UAVs southwest of Kharkiv (Merefa/Lyubotyn)",
-    "description_uk": "Реактивні БпЛА південно-західніше Харкова (Мерефа/Люботин)",
-    "time": "",
-    "pubDate": "2026-08-13T02:59:51+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72585",
-    "score": 5.0,
-    "views": 9093,
-    "forwards": 0
-  },
-  {
-    "title": "Unknown drones circled over a strategically important air base in...",
-    "title_en": "Unknown drones circled over a strategically important air base in...",
-    "title_uk": "Невідомі дрони кружляли над стратегічно важливою авіабазою в...",
-    "description": "Unknown drones circled over a strategically important air base in Australia, where F-35A fighters and E-7A Wedgetail anti-aircraft defense aircraft are located. The drones were not destroyed. The commanders of the air base were ordered to \"ensure that the blinds on the windows are closed\" to prevent a possible leak of information. The military does not know who raised the drones in the no-fly zones and for what purpose. Local police...",
-    "description_en": "Unknown drones circled over a strategically important air base in Australia, where F-35A fighters and E-7A Wedgetail anti-aircraft defense aircraft are located. The drones were not destroyed. The commanders of the air base were ordered to \"ensure that the blinds on the windows are closed\" to prevent a possible leak of information. The military does not know who raised the drones in the no-fly zones and for what purpose. Local police...",
-    "description_uk": "Неизвестные дроны кружили над стратегически важной авиабазой в Австралии, где находятся истребители F-35A и самолеты ДРЛО E-7A Wedgetail Дроны уничтожены не были. Командирам авиабазы был отдан приказ \"обеспечить закрытие жалюзи на окнах\", чтобы предотвратить возможную утечку информации. Военные не знают, кто и с какой целью поднял беспилотники в запрещенных для полетов зонах. Местная полиция...",
-    "time": "",
-    "pubDate": "2026-08-12T19:51:01+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198323",
-    "score": 3.5,
-    "views": 180461,
-    "forwards": 198
   }
 ]
