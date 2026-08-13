@@ -3,19 +3,55 @@
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
-    "description": "UAV in the direction of Sumy from the north.",
-    "description_en": "UAV in the direction of Sumy from the north.",
-    "description_uk": "БпЛА в напрямку Сум з півночі.",
+    "description": "БпЛА в напрямку Чорноморська на Одещині з Чорного моря.",
+    "description_en": "БпЛА в напрямку Чорноморська на Одещині з Чорного моря.",
+    "description_uk": "БпЛА в напрямку Чорноморська на Одещині з Чорного моря.",
     "time": "",
-    "pubDate": "2026-08-13T21:35:27+00:00",
+    "pubDate": "2026-08-13T22:38:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72709",
+    "score": 5.0,
+    "views": 3046,
+    "forwards": 0
+  },
+  {
+    "title": "Sumy: BpLA on Sumy from the north.",
+    "title_en": "Sumy: BpLA on Sumy from the north.",
+    "title_uk": "Суми: БпЛА на Суми з півн.",
+    "description": "BpLA on Sumy from the north.",
+    "description_en": "BpLA on Sumy from the north.",
+    "description_uk": "БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-08-13T22:16:57+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Sumy",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72698",
-    "score": 5.0,
-    "views": 18277,
+    "link": "https://t.me/kpszsu/72706",
+    "score": 6.0,
+    "views": 15250,
     "forwards": 0
+  },
+  {
+    "title": "Kyiv: Explosions reported",
+    "title_en": "Kyiv: Explosions reported",
+    "title_uk": "Київ: повідомлення про вибухи",
+    "description": "Massive explosion rocks Italian ammunition plant that produces artillery for Ukraine. The factory is operated by KNDS Ammo Italy, a subsidiary of the French-German defense firm KNDS. The facility produces artillery shells supplied to Ukraine via European partners.",
+    "description_en": "Massive explosion rocks Italian ammunition plant that produces artillery for Ukraine. The factory is operated by KNDS Ammo Italy, a subsidiary of the French-German defense firm KNDS. The facility produces artillery shells supplied to Ukraine via European partners.",
+    "description_uk": "Massive explosion rocks Italian ammunition plant that produces artillery for Ukraine. The factory is operated by KNDS Ammo Italy, a subsidiary of the French-German defense firm KNDS. The facility produces artillery shells supplied to Ukraine via European partners.",
+    "time": "",
+    "pubDate": "2026-08-13T22:09:12+00:00",
+    "category": "shelling",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54791",
+    "score": 8.0,
+    "views": 395,
+    "forwards": 4
   },
   {
     "title": "Kyiv: Update: SpaceX backs down after Poland spat, calming fears in Ukraine...",
@@ -32,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54790",
     "score": 4.5,
-    "views": 619,
-    "forwards": 2
+    "views": 920,
+    "forwards": 3
   },
   {
     "title": "Kharkiv: BpLA on Kharkiv from the north.",
@@ -68,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198400",
     "score": 8.5,
-    "views": 90885,
-    "forwards": 145
+    "views": 96599,
+    "forwards": 172
   },
   {
     "title": "BpLA ➡️ in the direction of Odesa from the Black Sea.",
@@ -194,7 +230,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10009",
     "score": 9.0,
-    "views": 605,
+    "views": 612,
     "forwards": 8
   },
   {
@@ -309,8 +345,8 @@
     "title": "He started his trip to the Ivano-Frankivsk region to commemorate the...",
     "title_en": "He started his trip to the Ivano-Frankivsk region to commemorate the...",
     "title_uk": "Він розпочав свою поїздку в Івано-Франківську область, щоб вшанувати...",
-    "description": "He started his trip to the Ivano-Frankivsk region to commemorate the fallen defenders of Ukraine. Eternal respect and gratitude to everyone who defended Ukraine and gave their lives in this struggle. Bright memory of our fallen soldiers. And also thanks to those who create memory centers for our heroes, where Ukrainian men and women can come and simply say: \"Thank you\". It is very important...",
-    "description_en": "He started his trip to the Ivano-Frankivsk region to commemorate the fallen defenders of Ukraine. Eternal respect and gratitude to everyone who defended Ukraine and gave their lives in this struggle. Bright memory of our fallen soldiers. And also thanks to those who create memory centers for our heroes, where Ukrainian men and women can come and simply say: \"Thank you\". It is very important...",
+    "description": "He started his trip to the Ivano-Frankivsk region to commemorate the fallen defenders of Ukraine. Eternal respect and gratitude to everyone who defended Ukraine and gave their lives in this struggle. Bright memory of our fallen soldiers. And also thanks to those who create memory centers for our heroes, where Ukrainian men and women can come and simply say: \"Thank you.\" It is very important...",
+    "description_en": "He started his trip to the Ivano-Frankivsk region to commemorate the fallen defenders of Ukraine. Eternal respect and gratitude to everyone who defended Ukraine and gave their lives in this struggle. Bright memory of our fallen soldiers. And also thanks to those who create memory centers for our heroes, where Ukrainian men and women can come and simply say: \"Thank you.\" It is very important...",
     "description_uk": "Розпочав свою поїздку до Івано-Франківської області з вшанування памʼяті полеглих захисників і захисниць України. Вічна шана та вдячність кожному й кожній, хто захищав Україну та віддав своє життя у цій боротьбі. Світла памʼять нашим загиблим воїнам. І також подяка тим, хто створює осередки памʼяті для наших героїв, де українці та українки можуть прийти і просто сказати: «Дякую». Дуже важливо,...",
     "time": "",
     "pubDate": "2026-08-13T10:53:56+00:00",
@@ -320,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20381",
     "score": 6.5,
-    "views": 88364,
-    "forwards": 260
+    "views": 88787,
+    "forwards": 261
   },
   {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
@@ -339,24 +375,6 @@
     "link": "https://t.me/kpszsu/72634",
     "score": 6.0,
     "views": 56628,
-    "forwards": 0
-  },
-  {
-    "title": "Sumy: BpLA on Sumy from the north.",
-    "title_en": "Sumy: BpLA on Sumy from the north.",
-    "title_uk": "Суми: БпЛА на Суми з півн.",
-    "description": "BpLA on Sumy from the north.",
-    "description_en": "BpLA on Sumy from the north.",
-    "description_uk": "БпЛА на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-08-13T10:33:45+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72632",
-    "score": 6.0,
-    "views": 43475,
     "forwards": 0
   },
   {
@@ -378,24 +396,6 @@
     "forwards": 1
   },
   {
-    "title": "You can't even allow launch and deployment: an expert on the danger...",
-    "title_en": "You can't even allow launch and deployment: an expert on the danger...",
-    "title_uk": "Не можна навіть дозволяти запуск і розгортання: експерт про небезпеку...",
-    "description": "You can't even allow launch and deployment: an expert on the danger of the Russian \"Rassvet\" Russian satellites of the \"Rassvet\" group, which are called a certain analogue of Starlink, must be destroyed at the production stages, as well as the capabilities for their launch, that is, they should not be deployed at all, since the development of EW against such systems will not be particularly effective. About this in the comments...",
-    "description_en": "You can't even allow launch and deployment: an expert on the danger of the Russian \"Rassvet\" Russian satellites of the \"Rassvet\" group, which are called a certain analogue of Starlink, must be destroyed at the production stages, as well as the capabilities for their launch, that is, they should not be deployed at all, since the development of EW against such systems will not be particularly effective. About this in the comments...",
-    "description_uk": "Нельзя даже допустить запуска и развертывания: эксперт об опасности российского \"Рассвета\" Российские спутники группировки \"Рассвет\", которые называют определенным аналогом Starlink, нужно уничтожать на этапах производства, а также способности для их запуска, то есть не давать их разворачивать вообще, поскольку разработка РЭБ против таких систем не будет особо эффективной. Об этом в комментарии...",
-    "time": "",
-    "pubDate": "2026-08-13T10:02:37+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198350",
-    "score": 5.5,
-    "views": 86712,
-    "forwards": 181
-  },
-  {
     "title": "Kyiv: Russian Gazprom oil refinery 1,300 km from Ukraine hit, General Staff...",
     "title_en": "Kyiv: Russian Gazprom oil refinery 1,300 km from Ukraine hit, General Staff...",
     "title_uk": "Київ: удар по нафтопереробному заводу російського \"Газпрому\" за 1300 км від України, - Генштаб...",
@@ -414,6 +414,24 @@
     "forwards": 2
   },
   {
+    "title": "Air defense active",
+    "title_en": "Air defense active",
+    "title_uk": "Активна ППО",
+    "description": "Цього року в нас у два з половиною рази менше ракет-перехоплювачів, ніж було у 2025 році. Росія має вдвічі більше балістичних ракет на місяць, ніж раніше. Ми платимо 100% американцям за антибалістичні ракети. Ми отримуємо пакет від США, а далі вже починається моя особиста залученість. По-іншому це не працює. Це мої особисті розмови, зустрічі й телефонні дзвінки щодня. Я намагаюсь обміняти щось на...",
+    "description_en": "Цього року в нас у два з половиною рази менше ракет-перехоплювачів, ніж було у 2025 році. Росія має вдвічі більше балістичних ракет на місяць, ніж раніше. Ми платимо 100% американцям за антибалістичні ракети. Ми отримуємо пакет від США, а далі вже починається моя особиста залученість. По-іншому це не працює. Це мої особисті розмови, зустрічі й телефонні дзвінки щодня. Я намагаюсь обміняти щось на...",
+    "description_uk": "Цього року в нас у два з половиною рази менше ракет-перехоплювачів, ніж було у 2025 році. Росія має вдвічі більше балістичних ракет на місяць, ніж раніше. Ми платимо 100% американцям за антибалістичні ракети. Ми отримуємо пакет від США, а далі вже починається моя особиста залученість. По-іншому це не працює. Це мої особисті розмови, зустрічі й телефонні дзвінки щодня. Я намагаюсь обміняти щось на...",
+    "time": "",
+    "pubDate": "2026-08-13T09:47:47+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20380",
+    "score": 8.5,
+    "views": 94813,
+    "forwards": 321
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -430,23 +448,5 @@
     "score": 8.5,
     "views": 94372,
     "forwards": 320
-  },
-  {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "111 ENEMY UAVS DOWN/SUPPRESSED On the night of August 13 (from 18:00 on August 12), the enemy attacked 133 attack UAVs of the Shahed type (including jet ones), Gerber and simulator drones of the \"Parody\" type from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, units of EW and unmanned systems,...",
-    "description_en": "111 ENEMY UAVS DOWN/SUPPRESSED On the night of August 13 (from 18:00 on August 12), the enemy attacked 133 attack UAVs of the Shahed type (including jet ones), Gerber and simulator drones of the \"Parody\" type from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, units of EW and unmanned systems,...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 111 ВОРОЖИХ БПЛА У ніч на 13 серпня (з 18:00 12 серпня) противник атакував 133 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., ТОТ Донецьк, Гвардійське – ТОТ АР Крим. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем,...",
-    "time": "",
-    "pubDate": "2026-08-13T06:06:16+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41866",
-    "score": 13.0,
-    "views": 7545,
-    "forwards": 21
   }
 ]
