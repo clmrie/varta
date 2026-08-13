@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sumy: BpLA headed for Sumy from the north.",
+    "title_en": "Sumy: BpLA headed for Sumy from the north.",
+    "title_uk": "Суми: BpLA прямувала на Суми з півночі.",
+    "description": "BpLA headed for Sumy from the north.",
+    "description_en": "BpLA headed for Sumy from the north.",
+    "description_uk": "БпЛА курсом на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-08-13T03:02:25+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72586",
+    "score": 6.0,
+    "views": 9094,
+    "forwards": 1
+  },
+  {
+    "title": "Jet UAVs southwest of Kharkiv (Merefa/Lyubotyn)",
+    "title_en": "Jet UAVs southwest of Kharkiv (Merefa/Lyubotyn)",
+    "title_uk": "Реактивні БПЛА на південний захід від Харкова (Мерефа/Люботин)",
+    "description": "Jet UAVs southwest of Kharkiv (Merefa/Lyubotyn)",
+    "description_en": "Jet UAVs southwest of Kharkiv (Merefa/Lyubotyn)",
+    "description_uk": "Реактивні БпЛА південно-західніше Харкова (Мерефа/Люботин)",
+    "time": "",
+    "pubDate": "2026-08-13T02:59:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72585",
+    "score": 5.0,
+    "views": 9093,
+    "forwards": 0
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -158,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198323",
     "score": 3.5,
-    "views": 96708,
-    "forwards": 157
+    "views": 120549,
+    "forwards": 160
   },
   {
     "title": "Неизвестные дроны кружили над стратегически важной авиабазой в...",
@@ -198,6 +234,24 @@
     "forwards": 0
   },
   {
+    "title": "In the course of military exercises in Germany, servicemen of the US...",
+    "title_en": "In the course of military exercises in Germany, servicemen of the US...",
+    "title_uk": "Під час військових навчань у Німеччині військовослужбовці США...",
+    "description": "In the course of military exercises in Germany, servicemen of the US army fought with Ukrainian drone operators. For the Americans, everything did not turn out in the best way - WSJ The exercises were held at the beginning of this year. Ukrainian units defeated the American armored brigade, revealed gaps in the adaptation of the United States to modern warfare with the use of drones. Ukrainian UAV operators quickly...",
+    "description_en": "In the course of military exercises in Germany, servicemen of the US army fought with Ukrainian drone operators. For the Americans, everything did not turn out in the best way - WSJ The exercises were held at the beginning of this year. Ukrainian units defeated the American armored brigade, revealed gaps in the adaptation of the United States to modern warfare with the use of drones. Ukrainian UAV operators quickly...",
+    "description_uk": "В ходе военных учений в Германии военнослужащие армии США сразились с украинскими операторами дронов. Для американцев всё сложилось не лучшим образом, - WSJ Учения проходили в начале этого года. Украинские подразделения нанесли поражение американской бронетанковой бригаде, выявив пробелы в адаптации США к современной войне с использованием беспилотников. Украинские операторы БПЛА быстро...",
+    "time": "",
+    "pubDate": "2026-08-12T18:44:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198320",
+    "score": 6.5,
+    "views": 155363,
+    "forwards": 256
+  },
+  {
     "title": "В ходе военных учений в Германии военнослужащие армии США сразились с...",
     "title_en": "В ходе военных учений в Германии военнослужащие армии США сразились с...",
     "title_uk": "В ході військових учений в Німеччині військовослужбовці армії США сразились с...",
@@ -216,24 +270,6 @@
     "forwards": 243
   },
   {
-    "title": "In the course of military exercises in Germany, servicemen of the US...",
-    "title_en": "In the course of military exercises in Germany, servicemen of the US...",
-    "title_uk": "Під час військових навчань у Німеччині військовослужбовці США...",
-    "description": "In the course of military exercises in Germany, servicemen of the US army fought with Ukrainian drone operators. For the Americans, everything did not turn out in the best way - WSJ The exercises were held at the beginning of this year. Ukrainian units defeated the American armored brigade, revealed gaps in the adaptation of the United States to modern warfare with the use of drones. Ukrainian UAV operators quickly...",
-    "description_en": "In the course of military exercises in Germany, servicemen of the US army fought with Ukrainian drone operators. For the Americans, everything did not turn out in the best way - WSJ The exercises were held at the beginning of this year. Ukrainian units defeated the American armored brigade, revealed gaps in the adaptation of the United States to modern warfare with the use of drones. Ukrainian UAV operators quickly...",
-    "description_uk": "В ходе военных учений в Германии военнослужащие армии США сразились с украинскими операторами дронов. Для американцев всё сложилось не лучшим образом, - WSJ Учения проходили в начале этого года. Украинские подразделения нанесли поражение американской бронетанковой бригаде, выявив пробелы в адаптации США к современной войне с использованием беспилотников. Украинские операторы БПЛА быстро...",
-    "time": "",
-    "pubDate": "2026-08-12T18:44:13+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198320",
-    "score": 6.5,
-    "views": 131093,
-    "forwards": 232
-  },
-  {
     "title": "Odesa: Missile attack on infrastructure",
     "title_en": "Odesa: Missile attack on infrastructure",
     "title_uk": "Одеса: Ракетний удар по інфраструктурі",
@@ -248,26 +284,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54770",
     "score": 12.5,
-    "views": 1918,
-    "forwards": 13
-  },
-  {
-    "title": "Sumy: BpLA headed for Sumy from the north.",
-    "title_en": "Sumy: BpLA headed for Sumy from the north.",
-    "title_uk": "Суми: BpLA прямувала на Суми з півночі.",
-    "description": "BpLA headed for Sumy from the north.",
-    "description_en": "BpLA headed for Sumy from the north.",
-    "description_uk": "БпЛА курсом на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-08-12T18:19:10+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72543",
-    "score": 6.0,
-    "views": 18228,
-    "forwards": 0
+    "views": 2156,
+    "forwards": 14
   },
   {
     "title": "In Novorossiysk, four warships of the Russian Federation were damaged...",
@@ -302,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20375",
     "score": 4.5,
-    "views": 88019,
-    "forwards": 334
+    "views": 92803,
+    "forwards": 340
   },
   {
     "title": "🛬 Activity of enemy tactical aviation in the north-eastern direction!",
@@ -410,8 +428,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54763",
     "score": 9.0,
-    "views": 2282,
-    "forwards": 1
+    "views": 2356,
+    "forwards": 2
   },
   {
     "title": "Kadyrov threw a punch: he did not want to send Chechens en masse to...",
@@ -430,23 +448,5 @@
     "score": 6.5,
     "views": 127646,
     "forwards": 247
-  },
-  {
-    "title": "Zaporizhzhia: High-speed target in Zaporizhzhia",
-    "title_en": "Zaporizhzhia: High-speed target in Zaporizhzhia",
-    "title_uk": "Запоріжжя: Швидкісна мішень у Запоріжжі",
-    "description": "High-speed target in Zaporizhzhia",
-    "description_en": "High-speed target in Zaporizhzhia",
-    "description_uk": "Швидкісна ціль на Запоріжжя",
-    "time": "",
-    "pubDate": "2026-08-12T09:11:01+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72505",
-    "score": 6.0,
-    "views": 8040,
-    "forwards": 34
   }
 ]
