@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A jet UAV in the direction of Sumy from the north.",
+    "description_en": "A jet UAV in the direction of Sumy from the north.",
+    "description_uk": "Реактивний БпЛА в напрямку Сум з півночі.",
+    "time": "",
+    "pubDate": "2026-08-13T16:32:55+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72663",
+    "score": 5.0,
+    "views": 8088,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: Reactive BpLA to the south of Mykolaiv region from the south.",
+    "title_en": "Mykolaiv: Reactive BpLA to the south of Mykolaiv region from the south.",
+    "title_uk": "Миколаїв: Реактивний БпЛА на південь Миколаївської області з півд.",
+    "description": "Reactive BpLA to the south of Mykolaiv region from the south.",
+    "description_en": "Reactive BpLA to the south of Mykolaiv region from the south.",
+    "description_uk": "Реактивний БпЛА на південь Миколаївщини з півдня.",
+    "time": "",
+    "pubDate": "2026-08-13T16:03:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72660",
+    "score": 6.0,
+    "views": 37412,
+    "forwards": 0
+  },
+  {
     "title": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
     "title_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
     "title_uk": "Глава МЗС України Андрій...",
@@ -14,8 +50,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10009",
     "score": 9.0,
-    "views": 209,
-    "forwards": 5
+    "views": 369,
+    "forwards": 8
   },
   {
     "title": "BpLA in the direction of Chernihiv from the north.",
@@ -57,8 +93,8 @@
     "title": "Mariupol: The Rinat Akhmetov Foundation bought an apartment for the defender of...",
     "title_en": "Mariupol: The Rinat Akhmetov Foundation bought an apartment for the defender of...",
     "title_uk": "Маріуполь: Фонд Ріната Ахметова купив квартиру для захисника...",
-    "description": "The Rinat Akhmetov Foundation bought an apartment for the defender of Mariupol Mykhailo Murza. The defender received the keys to the apartment under the \"Home\" program, which the Foundation implements in partnership with the \"Heart of Azovstal\" project. Since the beginning of the full-scale war, Mykhailo Murza defended Mariupol. During the battles, he was repeatedly wounded, and in 2022 he was captured. There he experienced torture, physical and psychological pressure, which led to...",
-    "description_en": "The Rinat Akhmetov Foundation bought an apartment for the defender of Mariupol Mykhailo Murza. The defender received the keys to the apartment under the \"Home\" program, which the Foundation implements in partnership with the \"Heart of Azovstal\" project. Since the beginning of the full-scale war, Mykhailo Murza defended Mariupol. During the battles, he was repeatedly wounded, and in 2022 he was captured. There he experienced torture, physical and psychological pressure, which led to...",
+    "description": "The Rinat Akhmetov Foundation bought an apartment for the defender of Mariupol Mykhailo Murza. The defender received the keys to the apartment under the \"Home\" program, which the Foundation implements in partnership with the \"Heart of Azovstal\" project. Since the beginning of the full-scale war, Mykhailo Murza defended Mariupol. During the battles, he was repeatedly wounded, and in 2022 he was captured. There he experienced torture, physical and psychological pressure, which led...",
+    "description_en": "The Rinat Akhmetov Foundation bought an apartment for the defender of Mariupol Mykhailo Murza. The defender received the keys to the apartment under the \"Home\" program, which the Foundation implements in partnership with the \"Heart of Azovstal\" project. Since the beginning of the full-scale war, Mykhailo Murza defended Mariupol. During the battles, he was repeatedly wounded, and in 2022 he was captured. There he experienced torture, physical and psychological pressure, which led...",
     "description_uk": "Фонд Ріната Ахметова купив квартиру захиснику Маріуполя Михайлу Мурзі Оборонець отримав ключі від квартири за програмою «Вдома», яку Фонд реалізує у партнерстві з проєктом «Серце Азовсталі». З початку повномасштабної війни Михайло Мурза боронив Маріуполь. Під час боїв неодноразово зазнавав поранень, а у 2022 році потрапив у полон. Там пережив катування, фізичний і психологічний тиск, що призвели...",
     "time": "",
     "pubDate": "2026-08-13T13:43:01+00:00",
@@ -68,7 +104,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198373",
     "score": 6.0,
-    "views": 79503,
+    "views": 97729,
     "forwards": 2
   },
   {
@@ -140,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54781",
     "score": 6.0,
-    "views": 1693,
+    "views": 1856,
     "forwards": 1
   },
   {
@@ -158,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20381",
     "score": 6.5,
-    "views": 74778,
-    "forwards": 246
+    "views": 77910,
+    "forwards": 249
   },
   {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
@@ -212,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54780",
     "score": 10.0,
-    "views": 1817,
+    "views": 1954,
     "forwards": 1
   },
   {
@@ -284,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20380",
     "score": 8.5,
-    "views": 80153,
-    "forwards": 292
+    "views": 83272,
+    "forwards": 304
   },
   {
     "title": "Attack attack",
@@ -304,24 +340,6 @@
     "score": 5.5,
     "views": 67120,
     "forwards": 113
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAVs ➡️ in the direction of Kharkiv from the northwest.",
-    "description_en": "Jet UAVs ➡️ in the direction of Kharkiv from the northwest.",
-    "description_uk": "Реактивні БпЛА ➡️ у напрямку Харкова з північного заходу.",
-    "time": "",
-    "pubDate": "2026-08-13T09:20:15+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72623",
-    "score": 5.0,
-    "views": 3002,
-    "forwards": 0
   },
   {
     "title": "BpLA ➡️ in the direction of Sumy from the north.",
@@ -392,7 +410,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41866",
     "score": 13.0,
-    "views": 6884,
+    "views": 6995,
     "forwards": 21
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 50559,
     "forwards": 0
-  },
-  {
-    "title": "Kyiv: Ballistic missile launch detected",
-    "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
-    "description": "Ukraine could 'destroy all the Russians’ ballistic missiles' if US sells 10% of Patriot missile supply to Kyiv, Zelensky says. \"If they sell us 5% we will go through the winter and save people’s lives. If they can sell us 10%, we will destroy all the Russians’ ballistic missiles,\" Zelensky said in an interview with CNN released on Aug. 12.",
-    "description_en": "Ukraine could 'destroy all the Russians’ ballistic missiles' if US sells 10% of Patriot missile supply to Kyiv, Zelensky says. \"If they sell us 5% we will go through the winter and save people’s lives. If they can sell us 10%, we will destroy all the Russians’ ballistic missiles,\" Zelensky said in an interview with CNN released on Aug. 12.",
-    "description_uk": "Ukraine could 'destroy all the Russians’ ballistic missiles' if US sells 10% of Patriot missile supply to Kyiv, Zelensky says. \"If they sell us 5% we will go through the winter and save people’s lives. If they can sell us 10%, we will destroy all the Russians’ ballistic missiles,\" Zelensky said in an interview with CNN released on Aug. 12.",
-    "time": "",
-    "pubDate": "2026-08-13T05:13:52+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54774",
-    "score": 13.0,
-    "views": 1439,
-    "forwards": 5
   }
 ]
