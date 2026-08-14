@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "Sumyshchyna: jet UAVs ➡️ in the direction of Buryna from the south.",
+    "description_en": "Sumyshchyna: jet UAVs ➡️ in the direction of Buryna from the south.",
+    "description_uk": "Сумщина: реактивні БпЛА ➡️ у напрямку Бурині з півдня.",
+    "time": "",
+    "pubDate": "2026-08-14T02:38:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72729",
+    "score": 5.0,
+    "views": 1020,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: Several BpLA ➡️ on/past Ochakiv (Mykolaiv Oblast) on a northwesterly...",
+    "title_en": "Mykolaiv: Several BpLA ➡️ on/past Ochakiv (Mykolaiv Oblast) on a northwesterly...",
+    "title_uk": "Миколаїв: кілька BpLA ➡️ на/повз Очаків (Миколаївська область) на північно-західному...",
+    "description": "Several BpLA ➡️ on/past Ochakiv (Mykolaiv Oblast) on a northwesterly course.",
+    "description_en": "Several BpLA ➡️ on/past Ochakiv (Mykolaiv Oblast) on a northwesterly course.",
+    "description_uk": "Декілька БпЛА ➡️ на/повз Очаків (Миколаївщина) північно-західним курсом.",
+    "time": "",
+    "pubDate": "2026-08-14T02:37:03+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72728",
+    "score": 6.0,
+    "views": 2040,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Київ: Дрон-удар",
+    "description": "Russian oil refinery 'completely shut down' for months following Ukrainian attack, local governor says. A Russian oil refinery in the city of Orsk has \"completely\" halted processing following a recent Ukrainian drone strike on the facility, with repairs expected to keep the facility out of operation for months, the local governor reported on Aug. 13.",
+    "description_en": "Russian oil refinery 'completely shut down' for months following Ukrainian attack, local governor says. A Russian oil refinery in the city of Orsk has \"completely\" halted processing following a recent Ukrainian drone strike on the facility, with repairs expected to keep the facility out of operation for months, the local governor reported on Aug. 13.",
+    "description_uk": "Russian oil refinery 'completely shut down' for months following Ukrainian attack, local governor says. A Russian oil refinery in the city of Orsk has \"completely\" halted processing following a recent Ukrainian drone strike on the facility, with repairs expected to keep the facility out of operation for months, the local governor reported on Aug. 13.",
+    "time": "",
+    "pubDate": "2026-08-14T01:41:21+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54795",
+    "score": 8.0,
+    "views": 258,
+    "forwards": 2
+  },
+  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Київ: виявлено пуск балістичної ракети",
@@ -14,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54793",
     "score": 13.0,
-    "views": 152,
-    "forwards": 1
+    "views": 600,
+    "forwards": 2
   },
   {
     "title": "Kharkiv: KABy ➡️ to the north of Kharkiv Oblast. 🛵 BpLA to Kharkiv from the...",
@@ -33,24 +87,6 @@
     "link": "https://t.me/kpszsu/72712",
     "score": 6.0,
     "views": 14568,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV in the direction of Chornomorsk in Odesa from the Black Sea.",
-    "description_en": "UAV in the direction of Chornomorsk in Odesa from the Black Sea.",
-    "description_uk": "БпЛА в напрямку Чорноморська на Одещині з Чорного моря.",
-    "time": "",
-    "pubDate": "2026-08-13T22:38:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72709",
-    "score": 5.0,
-    "views": 21268,
     "forwards": 0
   },
   {
@@ -129,8 +165,8 @@
     "title": "Drone attack",
     "title_en": "Drone attack",
     "title_uk": "Атака безпілотників",
-    "description": "«Миллионные очереди» и на АЗС Москвы и Подмосковья После новой волны атак украинских БПЛА проблемы с бензином зафиксировали как минимум в 12 регионах россии — от Краснодарского и Приморского краев до Воронежской, Ростовской, Рязанской и Саратовской областей. Радует глаз.",
-    "description_en": "«Миллионные очереди» и на АЗС Москвы и Подмосковья После новой волны атак украинских БПЛА проблемы с бензином зафиксировали как минимум в 12 регионах россии — от Краснодарского и Приморского краев до Воронежской, Ростовской, Рязанской и Саратовской областей. Радует глаз.",
+    "description": "\"Millions of queues\" at gas stations in Moscow and near Moscow After a new wave of attacks by Ukrainian UAVs, problems with gasoline were recorded in at least 12 regions of Russia - from the Krasnodar and Primorsky Krai to the Voronezh, Rostov, Ryazan and Saratov regions. A delight to the eyes.",
+    "description_en": "\"Millions of queues\" at gas stations in Moscow and near Moscow After a new wave of attacks by Ukrainian UAVs, problems with gasoline were recorded in at least 12 regions of Russia - from the Krasnodar and Primorsky Krai to the Voronezh, Rostov, Ryazan and Saratov regions. A delight to the eyes.",
     "description_uk": "«Миллионные очереди» и на АЗС Москвы и Подмосковья После новой волны атак украинских БПЛА проблемы с бензином зафиксировали как минимум в 12 регионах россии — от Краснодарского и Приморского краев до Воронежской, Ростовской, Рязанской и Саратовской областей. Радует глаз.",
     "time": "",
     "pubDate": "2026-08-13T19:22:01+00:00",
@@ -140,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198400",
     "score": 8.5,
-    "views": 102948,
-    "forwards": 183
+    "views": 118026,
+    "forwards": 194
   },
   {
     "title": "BpLA ➡️ in the direction of Odesa from the Black Sea.",
@@ -248,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10009",
     "score": 9.0,
-    "views": 621,
+    "views": 630,
     "forwards": 8
   },
   {
@@ -306,24 +342,6 @@
     "forwards": 2
   },
   {
-    "title": "Jet UAVs in the south of Sumy, to the west and east.",
-    "title_en": "Jet UAVs in the south of Sumy, to the west and east.",
-    "title_uk": "Реактивні БПЛА на півдні Сум, на заході та сході.",
-    "description": "Jet UAVs in the south of Sumy, to the west and east.",
-    "description_en": "Jet UAVs in the south of Sumy, to the west and east.",
-    "description_uk": "Реактивні БпЛА на півдні від Сум, на західний та східний напрямок.",
-    "time": "",
-    "pubDate": "2026-08-13T13:18:43+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72648",
-    "score": 5.0,
-    "views": 23220,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Ukraine repatriates 261 bodies that Russia claims belong to Ukrainian...",
     "title_en": "Kyiv: Ukraine repatriates 261 bodies that Russia claims belong to Ukrainian...",
     "title_uk": "Київ: Україна повертає на батьківщину 261 тіло, які, як стверджує Росія, належать українцям...",
@@ -356,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20381",
     "score": 6.5,
-    "views": 89348,
+    "views": 90060,
     "forwards": 262
   },
   {
@@ -410,8 +428,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20380",
     "score": 8.5,
-    "views": 95347,
-    "forwards": 322
+    "views": 96110,
+    "forwards": 324
   },
   {
     "title": "Air defense active",
@@ -430,23 +448,5 @@
     "score": 8.5,
     "views": 94813,
     "forwards": 321
-  },
-  {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Donetsk: Drone incoming",
-    "description": "111 ENEMY UAVS DOWN/SUPPRESSED On the night of August 13 (from 18:00 on August 12), the enemy attacked 133 attack UAVs of the Shahed type (including jet ones), Gerber and simulator drones of the \"Parody\" type from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, units of EW and unmanned systems,...",
-    "description_en": "111 ENEMY UAVS DOWN/SUPPRESSED On the night of August 13 (from 18:00 on August 12), the enemy attacked 133 attack UAVs of the Shahed type (including jet ones), Gerber and simulator drones of the \"Parody\" type from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, units of EW and unmanned systems,...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 111 ВОРОЖИХ БПЛА У ніч на 13 серпня (з 18:00 12 серпня) противник атакував 133 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., ТОТ Донецьк, Гвардійське – ТОТ АР Крим. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем,...",
-    "time": "",
-    "pubDate": "2026-08-13T06:06:16+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41866",
-    "score": 13.0,
-    "views": 7584,
-    "forwards": 21
   }
 ]
