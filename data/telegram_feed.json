@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Unmanned aerial vehicle in the north-east of Kharkiv region - heading...",
+    "title_en": "Kharkiv: Unmanned aerial vehicle in the north-east of Kharkiv region - heading...",
+    "title_uk": "Харків: БПЛА на північному сході Харківської області - курс...",
+    "description": "Unmanned aerial vehicle in the north-east of Kharkiv region - heading for Pechenegy, Chuguiv.",
+    "description_en": "Unmanned aerial vehicle in the north-east of Kharkiv region - heading for Pechenegy, Chuguiv.",
+    "description_uk": "БпЛА на північному сході Харківщини - курсом на Печеніги, Чугуїв.",
+    "time": "",
+    "pubDate": "2026-08-14T14:45:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72810",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Sumy: BpLA on Sumy from the north.",
+    "title_en": "Sumy: BpLA on Sumy from the north.",
+    "title_uk": "Суми: БпЛА на Суми з півн.",
+    "description": "BpLA on Sumy from the north.",
+    "description_en": "BpLA on Sumy from the north.",
+    "description_uk": "БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-08-14T14:39:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72809",
+    "score": 6.0,
+    "views": 7074,
+    "forwards": 0
+  },
+  {
     "title": "Chernihiv: Chernihiv region: BpLA ➡️ in the direction of Snovsk, Horodny from...",
     "title_en": "Chernihiv: Chernihiv region: BpLA ➡️ in the direction of Snovsk, Horodny from...",
     "title_uk": "Чернігів: Чернігівська область: БпЛА ➡️ в напрямку Сновська, Городнього від...",
@@ -104,7 +140,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10011",
     "score": 5.0,
-    "views": 576,
+    "views": 614,
     "forwards": 7
   },
   {
@@ -212,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20386",
     "score": 16.5,
-    "views": 199448,
-    "forwards": 207
+    "views": 207908,
+    "forwards": 208
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -302,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54796",
     "score": 13.0,
-    "views": 2292,
+    "views": 2365,
     "forwards": 4
   },
   {
@@ -321,42 +357,6 @@
     "link": "https://t.me/kpszsu/72731",
     "score": 5.0,
     "views": 33348,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "Sumyshchyna: jet UAVs ➡️ in the direction of Buryna from the south.",
-    "description_en": "Sumyshchyna: jet UAVs ➡️ in the direction of Buryna from the south.",
-    "description_uk": "Сумщина: реактивні БпЛА ➡️ у напрямку Бурині з півдня.",
-    "time": "",
-    "pubDate": "2026-08-14T02:38:22+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72729",
-    "score": 5.0,
-    "views": 1020,
-    "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: Several BpLA ➡️ on/past Ochakiv (Mykolaiv Oblast) on a northwesterly...",
-    "title_en": "Mykolaiv: Several BpLA ➡️ on/past Ochakiv (Mykolaiv Oblast) on a northwesterly...",
-    "title_uk": "Миколаїв: кілька BpLA ➡️ на/повз Очаків (Миколаївська область) на північно-західному...",
-    "description": "Several BpLA ➡️ on/past Ochakiv (Mykolaiv Oblast) on a northwesterly course.",
-    "description_en": "Several BpLA ➡️ on/past Ochakiv (Mykolaiv Oblast) on a northwesterly course.",
-    "description_uk": "Декілька БпЛА ➡️ на/повз Очаків (Миколаївщина) північно-західним курсом.",
-    "time": "",
-    "pubDate": "2026-08-14T02:37:03+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72728",
-    "score": 6.0,
-    "views": 2040,
     "forwards": 0
   },
   {
@@ -399,8 +399,8 @@
     "title": "He started his trip to the Ivano-Frankivsk region to commemorate the...",
     "title_en": "He started his trip to the Ivano-Frankivsk region to commemorate the...",
     "title_uk": "Він розпочав свою поїздку в Івано-Франківську область, щоб вшанувати...",
-    "description": "He started his trip to the Ivano-Frankivsk region to commemorate the fallen defenders of Ukraine. Eternal respect and gratitude to everyone who defended Ukraine and gave their lives in this struggle. Bright memory of our fallen soldiers. And also thanks to those who create memory centers for our heroes, where Ukrainian men and women can come and simply say: \"Thank you.\" It is very important...",
-    "description_en": "He started his trip to the Ivano-Frankivsk region to commemorate the fallen defenders of Ukraine. Eternal respect and gratitude to everyone who defended Ukraine and gave their lives in this struggle. Bright memory of our fallen soldiers. And also thanks to those who create memory centers for our heroes, where Ukrainian men and women can come and simply say: \"Thank you.\" It is very important...",
+    "description": "He started his trip to the Ivano-Frankivsk region to commemorate the fallen defenders of Ukraine. Eternal respect and gratitude to everyone who defended Ukraine and gave their lives in this struggle. Bright memory of our fallen soldiers. And also thanks to those who create memory centers for our heroes, where Ukrainian men and women can come and simply say: \"Thank you\". It is very important...",
+    "description_en": "He started his trip to the Ivano-Frankivsk region to commemorate the fallen defenders of Ukraine. Eternal respect and gratitude to everyone who defended Ukraine and gave their lives in this struggle. Bright memory of our fallen soldiers. And also thanks to those who create memory centers for our heroes, where Ukrainian men and women can come and simply say: \"Thank you\". It is very important...",
     "description_uk": "Розпочав свою поїздку до Івано-Франківської області з вшанування памʼяті полеглих захисників і захисниць України. Вічна шана та вдячність кожному й кожній, хто захищав Україну та віддав своє життя у цій боротьбі. Світла памʼять нашим загиблим воїнам. І також подяка тим, хто створює осередки памʼяті для наших героїв, де українці та українки можуть прийти і просто сказати: «Дякую». Дуже важливо,...",
     "time": "",
     "pubDate": "2026-08-13T10:53:56+00:00",
@@ -410,8 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20381",
     "score": 6.5,
-    "views": 97514,
-    "forwards": 264
+    "views": 97919,
+    "forwards": 265
   },
   {
     "title": "Donetsk: Drone incoming",
@@ -428,7 +428,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41866",
     "score": 13.0,
-    "views": 8251,
+    "views": 8264,
     "forwards": 21
   }
 ]
