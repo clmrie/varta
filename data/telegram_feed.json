@@ -1,5 +1,23 @@
 [
   {
+    "title": "Poltava region: BpLA ➡️ heading for Zinkiv, Gadyach.",
+    "title_en": "Poltava region: BpLA ➡️ heading for Zinkiv, Gadyach.",
+    "title_uk": "Полтавська область: BpLA ➡️ курс на Зіньків, Гадяч.",
+    "description": "Poltava region: BpLA ➡️ heading for Zinkiv, Gadyach.",
+    "description_en": "Poltava region: BpLA ➡️ heading for Zinkiv, Gadyach.",
+    "description_uk": "Полтавщина: БпЛА ➡️ курсом на Зіньків, Гадяч.",
+    "time": "",
+    "pubDate": "2026-08-14T20:20:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72848",
+    "score": 5.0,
+    "views": 20253,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: 610 injured",
     "title_en": "Kyiv: 610 injured",
     "title_uk": "Київ: 610 поранених",
@@ -14,8 +32,26 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54807",
     "score": 6.0,
-    "views": 300,
-    "forwards": 5
+    "views": 604,
+    "forwards": 6
+  },
+  {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Mykolaiv: Drone incoming",
+    "description": "Група БпЛА з Херсонщини - на Миколаївщину, курсом на Снігурівку.",
+    "description_en": "Група БпЛА з Херсонщини - на Миколаївщину, курсом на Снігурівку.",
+    "description_uk": "Група БпЛА з Херсонщини - на Миколаївщину, курсом на Снігурівку.",
+    "time": "",
+    "pubDate": "2026-08-14T19:35:52+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72846",
+    "score": 6.0,
+    "views": 49669,
+    "forwards": 1
   },
   {
     "title": "Mykolaiv: A group of BpLA from Kherson region - to Mykolaiv region, heading for...",
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198467",
     "score": 8.5,
-    "views": 55957,
-    "forwards": 74
+    "views": 71226,
+    "forwards": 75
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -146,7 +182,7 @@
   {
     "title": "Kyiv: Ukrainians rally again for Fedorov reinstatement as organizers...",
     "title_en": "Kyiv: Ukrainians rally again for Fedorov reinstatement as organizers...",
-    "title_uk": "Київ: українці знову мітингують за відновлення Федорова як організатора...",
+    "title_uk": "Kyiv: Ukrainians rally again for Fedorov reinstatement as organizers...",
     "description": "Ukrainians rally again for Fedorov reinstatement as organizers 'disappointed' in Zelensky's silence. \"The president has maximally disappointed me with his silence, especially considering that the lack of communication has effectively become the trigger for these protests,\" Dmytro Koziatynskyi, a war veteran and one of the protest organizers, said on social media. Photo: Tim Zadorozhnyy/The Kyiv...",
     "description_en": "Ukrainians rally again for Fedorov reinstatement as organizers 'disappointed' in Zelensky's silence. \"The president has maximally disappointed me with his silence, especially considering that the lack of communication has effectively become the trigger for these protests,\" Dmytro Koziatynskyi, a war veteran and one of the protest organizers, said on social media. Photo: Tim Zadorozhnyy/The Kyiv...",
     "description_uk": "Ukrainians rally again for Fedorov reinstatement as organizers 'disappointed' in Zelensky's silence. \"The president has maximally disappointed me with his silence, especially considering that the lack of communication has effectively become the trigger for these protests,\" Dmytro Koziatynskyi, a war veteran and one of the protest organizers, said on social media. Photo: Tim Zadorozhnyy/The Kyiv...",
@@ -158,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54804",
     "score": 4.5,
-    "views": 1148,
+    "views": 1288,
     "forwards": 5
   },
   {
@@ -177,24 +213,6 @@
     "link": "https://t.me/kpszsu/72824",
     "score": 5.0,
     "views": 46556,
-    "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "A group of UAVs from the Black Sea - to the Mykolaiv region, heading for Ochakiv.",
-    "description_en": "A group of UAVs from the Black Sea - to the Mykolaiv region, heading for Ochakiv.",
-    "description_uk": "Група БпЛА з Чорного моря - на Миколаївщину, курсом на Очаків.",
-    "time": "",
-    "pubDate": "2026-08-14T16:13:15+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72823",
-    "score": 6.0,
-    "views": 17183,
     "forwards": 0
   },
   {
@@ -356,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10011",
     "score": 5.0,
-    "views": 780,
+    "views": 791,
     "forwards": 7
   },
   {
@@ -430,23 +448,5 @@
     "score": 4.5,
     "views": 111829,
     "forwards": 780
-  },
-  {
-    "title": "Kramatorsk: Casualties reported",
-    "title_en": "Kramatorsk: Casualties reported",
-    "title_uk": "Краматорськ: повідомляється про постраждалих",
-    "description": "Since night, our rescue services have been working at the sites of Russian attacks. In Kramatorsk, Donetsk region, the entrance of a ten-story building from the first to the sixth floor collapsed due to a Russian airstrike. One person died, another 16 were injured. In the village of Stepanivka, Sumy Oblast, two people were killed, including a child, as a result of a \"shaheed\" hitting a private house. My condolences to family and friends. In Smila on...",
-    "description_en": "Since night, our rescue services have been working at the sites of Russian attacks. In Kramatorsk, Donetsk region, the entrance of a ten-story building from the first to the sixth floor collapsed due to a Russian airstrike. One person died, another 16 were injured. In the village of Stepanivka, Sumy Oblast, two people were killed, including a child, as a result of a \"shaheed\" hitting a private house. My condolences to family and friends. In Smila on...",
-    "description_uk": "З ночі наші рятувальні служби працюють на місцях російських атак. У Краматорську на Донеччині через російський удар авіабомбою стався обвал під’їзду десятиповерхівки з першого по шостий поверх. Загинула одна людина, ще 16 поранені. У селищі Степанівка на Сумщині внаслідок влучання «шахеда» в приватний будинок загинули дві людини, і серед них дитина. Мої співчуття рідним та близьким. У Смілі на...",
-    "time": "",
-    "pubDate": "2026-08-14T07:43:48+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kramatorsk",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20386",
-    "score": 16.5,
-    "views": 242360,
-    "forwards": 224
   }
 ]
