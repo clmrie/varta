@@ -7,15 +7,51 @@
     "description_en": "BpLA on Kherson from the east.",
     "description_uk": "БпЛА на Херсон зі сходу.",
     "time": "",
-    "pubDate": "2026-08-14T10:37:02+00:00",
+    "pubDate": "2026-08-14T11:28:26+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Kherson",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72771",
+    "link": "https://t.me/kpszsu/72788",
     "score": 6.0,
-    "views": 8080,
+    "views": 5042,
     "forwards": 0
+  },
+  {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "A jet UAV in the east of Dnipropetrovsk region - heading for Pavlograd.",
+    "description_en": "A jet UAV in the east of Dnipropetrovsk region - heading for Pavlograd.",
+    "description_uk": "Реактивний БпЛА на сході Дніпропетровщини - курсом на Павлоград.",
+    "time": "",
+    "pubDate": "2026-08-14T11:26:44+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72786",
+    "score": 6.0,
+    "views": 9082,
+    "forwards": 1
+  },
+  {
+    "title": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
+    "title_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
+    "title_uk": "Глава МЗС України Андрій...",
+    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, welcomed New Zealand's joining the International Coalition for the Return of Ukrainian Children. \"New Zealand has become the 51st member of the Coalition, strengthening our joint international efforts to bring home Ukrainian children illegally deported and forcibly displaced by Russia. With each new country that joins the Coalition, international pressure on Russia grows, and...",
+    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, welcomed New Zealand's joining the International Coalition for the Return of Ukrainian Children. \"New Zealand has become the 51st member of the Coalition, strengthening our joint international efforts to bring home Ukrainian children illegally deported and forcibly displaced by Russia. With each new country that joins the Coalition, international pressure on Russia grows, and...",
+    "description_uk": "Очільник МЗС України Андрій Сибіга привітав приєднання Нової Зеландії до Міжнародної коаліції за повернення українських дітей. “Нова Зеландія стала 51-м членом Коаліції, посиливши наші спільні міжнародні зусилля щодо повернення додому українських дітей, незаконно депортованих та примусово переміщених Росією. З кожною новою країною, що приєднується до Коаліції, міжнародний тиск на Росію зростає, а...",
+    "time": "",
+    "pubDate": "2026-08-14T11:08:51+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/10011",
+    "score": 5.0,
+    "views": 298,
+    "forwards": 5
   },
   {
     "title": "Mykolaiv: UAV from the Black Sea - to the Mykolaiv region.",
@@ -72,24 +108,6 @@
     "forwards": 0
   },
   {
-    "title": "Dnipro: Drone incoming",
-    "title_en": "Dnipro: Drone incoming",
-    "title_uk": "Дніпро: Дрон вхід",
-    "description": "Dnipropetrovsk region: jet UAV ➡️ in the direction of Pavlograd.",
-    "description_en": "Dnipropetrovsk region: jet UAV ➡️ in the direction of Pavlograd.",
-    "description_uk": "Дніпропетровщина: реактивний БпЛА ➡️ в напрямку Павлограда.",
-    "time": "",
-    "pubDate": "2026-08-14T08:06:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72761",
-    "score": 6.0,
-    "views": 34317,
-    "forwards": 35
-  },
-  {
     "title": "Odesa: BpLA ➡️ to Bolgrad.",
     "title_en": "Odesa: BpLA ➡️ to Bolgrad.",
     "title_uk": "Одеса: BpLA ➡️ до Болграда.",
@@ -140,7 +158,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20386",
     "score": 15.5,
-    "views": 148038,
+    "views": 165376,
     "forwards": 178
   },
   {
@@ -230,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54796",
     "score": 13.0,
-    "views": 1820,
+    "views": 2010,
     "forwards": 4
   },
   {
@@ -306,24 +324,6 @@
     "forwards": 2
   },
   {
-    "title": "Kharkiv: KABy ➡️ to the north of Kharkiv Oblast. 🛵 BpLA to Kharkiv from the...",
-    "title_en": "Kharkiv: KABy ➡️ to the north of Kharkiv Oblast. 🛵 BpLA to Kharkiv from the...",
-    "title_uk": "Харків: КАБи ➡️ на північ Харківської обл. 🛵 BpLA до Харкова з...",
-    "description": "KABy ➡️ to the north of Kharkiv Oblast. 🛵 BpLA to Kharkiv from the north.",
-    "description_en": "KABy ➡️ to the north of Kharkiv Oblast. 🛵 BpLA to Kharkiv from the north.",
-    "description_uk": "КАБи ➡️ на північ Харківщини. 🛵 БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-08-13T23:05:11+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72712",
-    "score": 6.0,
-    "views": 14568,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
     "title_uk": "Київ: повідомлення про вибухи",
@@ -339,24 +339,6 @@
     "link": "https://t.me/KyivIndependent_official/54791",
     "score": 8.0,
     "views": 763,
-    "forwards": 8
-  },
-  {
-    "title": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
-    "title_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
-    "title_uk": "Глава МЗС України Андрій...",
-    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, expressed solidarity with NATO member states and noted that Ukraine condemns Russia's recent violations of the airspace of Poland and Romania. \"Russia is testing NATO's strength. Each new violation is a test of the allies' readiness, an attempt to test the limits of what is permissible for Moscow and raising the stakes before the next provocation. Ukraine has already seen this...",
-    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, expressed solidarity with NATO member states and noted that Ukraine condemns Russia's recent violations of the airspace of Poland and Romania. \"Russia is testing NATO's strength. Each new violation is a test of the allies' readiness, an attempt to test the limits of what is permissible for Moscow and raising the stakes before the next provocation. Ukraine has already seen this...",
-    "description_uk": "Очільник МЗС України Андрій Сибіга висловив солідарність з державами-членами НАТО та зазначив, що Україна засуджує нещодавні порушення Росією повітряного простору Польщі та Румунії. “Росія випробовує НАТО на міцність. Кожне нове порушення є перевіркою готовності союзників, спробою випробувати межі дозволеного для Москви та підвищенням ставок перед наступною провокацією. Україна вже бачила цю...",
-    "time": "",
-    "pubDate": "2026-08-13T15:15:49+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/10009",
-    "score": 9.0,
-    "views": 739,
     "forwards": 8
   },
   {
@@ -378,24 +360,6 @@
     "forwards": 2
   },
   {
-    "title": "Kyiv: Ukraine repatriates 261 bodies that Russia claims belong to Ukrainian...",
-    "title_en": "Kyiv: Ukraine repatriates 261 bodies that Russia claims belong to Ukrainian...",
-    "title_uk": "Київ: Україна повертає на батьківщину 261 тіло, які, як стверджує Росія, належать українцям...",
-    "description": "Ukraine repatriates 261 bodies that Russia claims belong to Ukrainian soldiers. During previous repatriations, Russia at times returned the bodies of its own soldiers to Kyiv, with Ukrainian officials alleging the practice may have been aimed at avoiding compensation payments to Russian families or reflected a \"negligent attitude toward their own people.\"",
-    "description_en": "Ukraine repatriates 261 bodies that Russia claims belong to Ukrainian soldiers. During previous repatriations, Russia at times returned the bodies of its own soldiers to Kyiv, with Ukrainian officials alleging the practice may have been aimed at avoiding compensation payments to Russian families or reflected a \"negligent attitude toward their own people.\"",
-    "description_uk": "Ukraine repatriates 261 bodies that Russia claims belong to Ukrainian soldiers. During previous repatriations, Russia at times returned the bodies of its own soldiers to Kyiv, with Ukrainian officials alleging the practice may have been aimed at avoiding compensation payments to Russian families or reflected a \"negligent attitude toward their own people.\"",
-    "time": "",
-    "pubDate": "2026-08-13T11:01:02+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54781",
-    "score": 6.0,
-    "views": 2330,
-    "forwards": 2
-  },
-  {
     "title": "He started his trip to the Ivano-Frankivsk region to commemorate the...",
     "title_en": "He started his trip to the Ivano-Frankivsk region to commemorate the...",
     "title_uk": "Він розпочав свою поїздку в Івано-Франківську область, щоб вшанувати...",
@@ -410,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20381",
     "score": 6.5,
-    "views": 95985,
+    "views": 96397,
     "forwards": 264
   },
   {
@@ -428,7 +392,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41866",
     "score": 13.0,
-    "views": 8128,
+    "views": 8191,
     "forwards": 21
   }
 ]
