@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kherson: BpLA on Kherson from the east.",
+    "title_en": "Kherson: BpLA on Kherson from the east.",
+    "title_uk": "Херсон: БпЛА на Херсон зі сх.",
+    "description": "BpLA on Kherson from the east.",
+    "description_en": "BpLA on Kherson from the east.",
+    "description_uk": "БпЛА на Херсон зі сходу.",
+    "time": "",
+    "pubDate": "2026-08-14T10:37:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72771",
+    "score": 6.0,
+    "views": 8080,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: UAV from the Black Sea - to the Mykolaiv region.",
+    "title_en": "Mykolaiv: UAV from the Black Sea - to the Mykolaiv region.",
+    "title_uk": "Миколаїв: БПЛА з Чорного моря - в Миколаївську область.",
+    "description": "UAV from the Black Sea - to the Mykolaiv region.",
+    "description_en": "UAV from the Black Sea - to the Mykolaiv region.",
+    "description_uk": "БпЛА з Чорного моря - на Миколаївщину.",
+    "time": "",
+    "pubDate": "2026-08-14T09:50:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72770",
+    "score": 6.0,
+    "views": 41469,
+    "forwards": 0
+  },
+  {
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Миколаїв: Дрон вхід",
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198421",
     "score": 4.5,
-    "views": 91436,
-    "forwards": 708
+    "views": 111829,
+    "forwards": 780
   },
   {
     "title": "Kramatorsk: Casualties reported",
@@ -104,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20386",
     "score": 15.5,
-    "views": 122075,
-    "forwards": 166
+    "views": 148038,
+    "forwards": 178
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -146,7 +182,7 @@
   {
     "title": "Kherson: 437 killed",
     "title_en": "Kherson: 437 killed",
-    "title_uk": "Херсон: 437 вбитих",
+    "title_uk": "Херсон: 437 убитих",
     "description": "🤬437 dead: July became the deadliest month for civilians in Ukraine in the last four years Another 2,610 civilians were injured as a result of Russian attacks. This is 30% more than in June, according to the report of the UN Human Rights Monitoring Mission. Children suffered especially: 17 died, another 166 were injured. This is the highest monthly indicator since April 2022. More...",
     "description_en": "🤬437 dead: July became the deadliest month for civilians in Ukraine in the last four years Another 2,610 civilians were injured as a result of Russian attacks. This is 30% more than in June, according to the report of the UN Human Rights Monitoring Mission. Children suffered especially: 17 died, another 166 were injured. This is the highest monthly indicator since April 2022. More...",
     "description_uk": "🤬437 погибших: июль стал самым смертоносным месяцем для гражданских в Украине за последние четыре года Еще 2610 гражданских получили ранения в результате российских атак. Это на 30% больше, чем в июне, говорится в отчете Мониторинговой миссии ООН по правам человека. Особенно пострадали дети: 17 погибли, еще 166 получили ранения. Это самый высокий месячный показатель с апреля 2022 года. Больше...",
@@ -158,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198413",
     "score": 7.5,
-    "views": 133467,
-    "forwards": 253
+    "views": 144261,
+    "forwards": 254
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -194,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54796",
     "score": 13.0,
-    "views": 1687,
+    "views": 1820,
     "forwards": 4
   },
   {
@@ -288,24 +324,6 @@
     "forwards": 0
   },
   {
-    "title": "Sumy: BpLA on Sumy from the north.",
-    "title_en": "Sumy: BpLA on Sumy from the north.",
-    "title_uk": "Суми: БпЛА на Суми з півн.",
-    "description": "BpLA on Sumy from the north.",
-    "description_en": "BpLA on Sumy from the north.",
-    "description_uk": "БпЛА на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-08-13T22:16:57+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72706",
-    "score": 6.0,
-    "views": 15250,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
     "title_uk": "Київ: повідомлення про вибухи",
@@ -338,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10009",
     "score": 9.0,
-    "views": 734,
+    "views": 739,
     "forwards": 8
   },
   {
@@ -392,61 +410,25 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20381",
     "score": 6.5,
-    "views": 95609,
+    "views": 95985,
     "forwards": 264
   },
   {
-    "title": "Sevastopol: Explosions reported",
-    "title_en": "Sevastopol: Explosions reported",
-    "title_uk": "Севастополь: повідомляється про вибухи",
-    "description": "Explosion reportedly kills man in Russian-occupied Crimean city of Sevastopol. A man has been killed by an explosive device in the Russian-occupied city of Sevastopol, Crimea, the independent Russian Telegram channel Astra reported on Aug. 13. The pro-Kremlin Mash Telegram channel reported the device had been placed in a trash can and killed the man instantly.",
-    "description_en": "Explosion reportedly kills man in Russian-occupied Crimean city of Sevastopol. A man has been killed by an explosive device in the Russian-occupied city of Sevastopol, Crimea, the independent Russian Telegram channel Astra reported on Aug. 13. The pro-Kremlin Mash Telegram channel reported the device had been placed in a trash can and killed the man instantly.",
-    "description_uk": "Explosion reportedly kills man in Russian-occupied Crimean city of Sevastopol. A man has been killed by an explosive device in the Russian-occupied city of Sevastopol, Crimea, the independent Russian Telegram channel Astra reported on Aug. 13. The pro-Kremlin Mash Telegram channel reported the device had been placed in a trash can and killed the man instantly.",
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "111 ENEMY UAVS DOWN/SUPPRESSED On the night of August 13 (from 18:00 on August 12), the enemy attacked 133 attack UAVs of the Shahed type (including jet ones), Gerber and simulator drones of the \"Parody\" type from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, units of EW and unmanned systems,...",
+    "description_en": "111 ENEMY UAVS DOWN/SUPPRESSED On the night of August 13 (from 18:00 on August 12), the enemy attacked 133 attack UAVs of the Shahed type (including jet ones), Gerber and simulator drones of the \"Parody\" type from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, units of EW and unmanned systems,...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 111 ВОРОЖИХ БПЛА У ніч на 13 серпня (з 18:00 12 серпня) противник атакував 133 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., ТОТ Донецьк, Гвардійське – ТОТ АР Крим. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем,...",
     "time": "",
-    "pubDate": "2026-08-13T10:22:06+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Sevastopol",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54780",
-    "score": 10.0,
-    "views": 2188,
-    "forwards": 1
-  },
-  {
-    "title": "Kyiv: Russian Gazprom oil refinery 1,300 km from Ukraine hit, General Staff...",
-    "title_en": "Kyiv: Russian Gazprom oil refinery 1,300 km from Ukraine hit, General Staff...",
-    "title_uk": "Київ: удар по нафтопереробному заводу російського \"Газпрому\" за 1300 км від України, - Генштаб...",
-    "description": "Russian Gazprom oil refinery 1,300 km from Ukraine hit, General Staff confirms. The refinery is located around 1,300 kilometers (810 miles) from the Ukrainian border and was last hit overnight on July 14.",
-    "description_en": "Russian Gazprom oil refinery 1,300 km from Ukraine hit, General Staff confirms. The refinery is located around 1,300 kilometers (810 miles) from the Ukrainian border and was last hit overnight on July 14.",
-    "description_uk": "Russian Gazprom oil refinery 1,300 km from Ukraine hit, General Staff confirms. The refinery is located around 1,300 kilometers (810 miles) from the Ukrainian border and was last hit overnight on July 14.",
-    "time": "",
-    "pubDate": "2026-08-13T09:50:38+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54778",
-    "score": 8.0,
-    "views": 587,
-    "forwards": 2
-  },
-  {
-    "title": "Air defense active",
-    "title_en": "Air defense active",
-    "title_uk": "Активна ППО",
-    "description": "Цього року в нас у два з половиною рази менше ракет-перехоплювачів, ніж було у 2025 році. Росія має вдвічі більше балістичних ракет на місяць, ніж раніше. Ми платимо 100% американцям за антибалістичні ракети. Ми отримуємо пакет від США, а далі вже починається моя особиста залученість. По-іншому це не працює. Це мої особисті розмови, зустрічі й телефонні дзвінки щодня. Я намагаюсь обміняти щось на...",
-    "description_en": "Цього року в нас у два з половиною рази менше ракет-перехоплювачів, ніж було у 2025 році. Росія має вдвічі більше балістичних ракет на місяць, ніж раніше. Ми платимо 100% американцям за антибалістичні ракети. Ми отримуємо пакет від США, а далі вже починається моя особиста залученість. По-іншому це не працює. Це мої особисті розмови, зустрічі й телефонні дзвінки щодня. Я намагаюсь обміняти щось на...",
-    "description_uk": "Цього року в нас у два з половиною рази менше ракет-перехоплювачів, ніж було у 2025 році. Росія має вдвічі більше балістичних ракет на місяць, ніж раніше. Ми платимо 100% американцям за антибалістичні ракети. Ми отримуємо пакет від США, а далі вже починається моя особиста залученість. По-іншому це не працює. Це мої особисті розмови, зустрічі й телефонні дзвінки щодня. Я намагаюсь обміняти щось на...",
-    "time": "",
-    "pubDate": "2026-08-13T09:47:47+00:00",
+    "pubDate": "2026-08-13T06:06:16+00:00",
     "category": "missile",
     "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20380",
-    "score": 8.5,
-    "views": 94813,
-    "forwards": 321
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41866",
+    "score": 13.0,
+    "views": 8128,
+    "forwards": 21
   }
 ]
