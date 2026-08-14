@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Several UAVs from the Black Sea area - to Odesa, heading for Tatarbunary.",
+    "description_en": "Several UAVs from the Black Sea area - to Odesa, heading for Tatarbunary.",
+    "description_uk": "Кілька БпЛА з акваторії Чорного моря - на Одещину, курсом на Татарбунари.",
+    "time": "",
+    "pubDate": "2026-08-14T16:14:47+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72824",
+    "score": 5.0,
+    "views": 14146,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "A group of UAVs from the Black Sea - to the Mykolaiv region, heading for Ochakiv.",
+    "description_en": "A group of UAVs from the Black Sea - to the Mykolaiv region, heading for Ochakiv.",
+    "description_uk": "Група БпЛА з Чорного моря - на Миколаївщину, курсом на Очаків.",
+    "time": "",
+    "pubDate": "2026-08-14T16:13:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72823",
+    "score": 6.0,
+    "views": 17183,
+    "forwards": 0
+  },
+  {
     "title": "Chernihiv: 🛸 Unmanned aerial vehicle in the north of Chernihiv Oblast - heading...",
     "title_en": "Chernihiv: 🛸 Unmanned aerial vehicle in the north of Chernihiv Oblast - heading...",
     "title_uk": "Чернігів: 🛸 Безпілотний літальний апарат на півночі Чернігівської області - курс...",
@@ -176,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10011",
     "score": 5.0,
-    "views": 651,
+    "views": 679,
     "forwards": 7
   },
   {
@@ -195,24 +231,6 @@
     "link": "https://t.me/kpszsu/72770",
     "score": 6.0,
     "views": 41469,
-    "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "A group of jet UAVs on Mykolaiv from the east.",
-    "description_en": "A group of jet UAVs on Mykolaiv from the east.",
-    "description_uk": "Група реактивних БпЛА на Миколаїв зі сходу.",
-    "time": "",
-    "pubDate": "2026-08-14T09:36:24+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72768",
-    "score": 6.0,
-    "views": 13151,
     "forwards": 0
   },
   {
@@ -272,7 +290,7 @@
   {
     "title": "Kramatorsk: Casualties reported",
     "title_en": "Kramatorsk: Casualties reported",
-    "title_uk": "Краматорськ: повідомляється про постраждалих",
+    "title_uk": "Kramatorsk: Casualties reported",
     "description": "Since night, our rescue services have been working at the sites of Russian attacks. In Kramatorsk, Donetsk region, the entrance of a ten-story building from the first to the sixth floor collapsed due to a Russian airstrike. One person died, another 16 were injured. In the village of Stepanivka, Sumy Oblast, two people were killed, including a child, as a result of a \"shaheed\" hitting a private house. My condolences to family and friends. In Smila on...",
     "description_en": "Since night, our rescue services have been working at the sites of Russian attacks. In Kramatorsk, Donetsk region, the entrance of a ten-story building from the first to the sixth floor collapsed due to a Russian airstrike. One person died, another 16 were injured. In the village of Stepanivka, Sumy Oblast, two people were killed, including a child, as a result of a \"shaheed\" hitting a private house. My condolences to family and friends. In Smila on...",
     "description_uk": "З ночі наші рятувальні служби працюють на місцях російських атак. У Краматорську на Донеччині через російський удар авіабомбою стався обвал під’їзду десятиповерхівки з першого по шостий поверх. Загинула одна людина, ще 16 поранені. У селищі Степанівка на Сумщині внаслідок влучання «шахеда» в приватний будинок загинули дві людини, і серед них дитина. Мої співчуття рідним та близьким. У Смілі на...",
@@ -284,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20386",
     "score": 16.5,
-    "views": 214248,
-    "forwards": 209
+    "views": 220009,
+    "forwards": 211
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
@@ -374,7 +392,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54796",
     "score": 13.0,
-    "views": 2473,
+    "views": 2560,
     "forwards": 4
   },
   {
@@ -416,9 +434,9 @@
   {
     "title": "He started his trip to the Ivano-Frankivsk region to commemorate the...",
     "title_en": "He started his trip to the Ivano-Frankivsk region to commemorate the...",
-    "title_uk": "He started his trip to the Ivano-Frankivsk region to commemorate the...",
-    "description": "He started his trip to the Ivano-Frankivsk region to commemorate the fallen defenders of Ukraine. Eternal respect and gratitude to everyone who defended Ukraine and gave their lives in this struggle. Bright memory of our fallen soldiers. And also thanks to those who create memory centers for our heroes, where Ukrainian men and women can come and simply say: \"Thank you\". It is very important...",
-    "description_en": "He started his trip to the Ivano-Frankivsk region to commemorate the fallen defenders of Ukraine. Eternal respect and gratitude to everyone who defended Ukraine and gave their lives in this struggle. Bright memory of our fallen soldiers. And also thanks to those who create memory centers for our heroes, where Ukrainian men and women can come and simply say: \"Thank you\". It is very important...",
+    "title_uk": "Він розпочав свою поїздку в Івано-Франківську область, щоб вшанувати...",
+    "description": "He started his trip to the Ivano-Frankivsk region to commemorate the fallen defenders of Ukraine. Eternal respect and gratitude to everyone who defended Ukraine and gave their lives in this struggle. Bright memory of our fallen soldiers. And also thanks to those who create memory centers for our heroes, where Ukrainian men and women can come and simply say: \"Thank you.\" It is very important...",
+    "description_en": "He started his trip to the Ivano-Frankivsk region to commemorate the fallen defenders of Ukraine. Eternal respect and gratitude to everyone who defended Ukraine and gave their lives in this struggle. Bright memory of our fallen soldiers. And also thanks to those who create memory centers for our heroes, where Ukrainian men and women can come and simply say: \"Thank you.\" It is very important...",
     "description_uk": "Розпочав свою поїздку до Івано-Франківської області з вшанування памʼяті полеглих захисників і захисниць України. Вічна шана та вдячність кожному й кожній, хто захищав Україну та віддав своє життя у цій боротьбі. Світла памʼять нашим загиблим воїнам. І також подяка тим, хто створює осередки памʼяті для наших героїв, де українці та українки можуть прийти і просто сказати: «Дякую». Дуже важливо,...",
     "time": "",
     "pubDate": "2026-08-13T10:53:56+00:00",
@@ -428,25 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20381",
     "score": 6.5,
-    "views": 98305,
+    "views": 98586,
     "forwards": 265
-  },
-  {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "111 ENEMY UAVS DOWN/SUPPRESSED On the night of August 13 (from 18:00 on August 12), the enemy attacked 133 attack UAVs of the Shahed type (including jet ones), Gerber and simulator drones of the \"Parody\" type from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, units of EW and unmanned systems,...",
-    "description_en": "111 ENEMY UAVS DOWN/SUPPRESSED On the night of August 13 (from 18:00 on August 12), the enemy attacked 133 attack UAVs of the Shahed type (including jet ones), Gerber and simulator drones of the \"Parody\" type from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk, Gvardiyske - TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, units of EW and unmanned systems,...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 111 ВОРОЖИХ БПЛА У ніч на 13 серпня (з 18:00 12 серпня) противник атакував 133 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., ТОТ Донецьк, Гвардійське – ТОТ АР Крим. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем,...",
-    "time": "",
-    "pubDate": "2026-08-13T06:06:16+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41866",
-    "score": 13.0,
-    "views": 8316,
-    "forwards": 21
   }
 ]
