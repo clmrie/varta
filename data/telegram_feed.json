@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: 610 injured",
+    "title_en": "Kyiv: 610 injured",
+    "title_uk": "Київ: 610 поранених",
+    "description": "July 2026 worst month for civilian casualties in Ukraine since first month of full-scale war. At least 437 civilians in Ukraine were killed and 2,610 injured in July alone, a 30% increase from June. More civilians were killed or injured in July than any month since March 2022.",
+    "description_en": "July 2026 worst month for civilian casualties in Ukraine since first month of full-scale war. At least 437 civilians in Ukraine were killed and 2,610 injured in July alone, a 30% increase from June. More civilians were killed or injured in July than any month since March 2022.",
+    "description_uk": "July 2026 worst month for civilian casualties in Ukraine since first month of full-scale war. At least 437 civilians in Ukraine were killed and 2,610 injured in July alone, a 30% increase from June. More civilians were killed or injured in July than any month since March 2022.",
+    "time": "",
+    "pubDate": "2026-08-14T19:43:53+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54807",
+    "score": 6.0,
+    "views": 300,
+    "forwards": 5
+  },
+  {
+    "title": "Mykolaiv: A group of BpLA from Kherson region - to Mykolaiv region, heading for...",
+    "title_en": "Mykolaiv: A group of BpLA from Kherson region - to Mykolaiv region, heading for...",
+    "title_uk": "Миколаїв: Група BpLA з Херсонщини - на Миколаївщину, прямуючи на...",
+    "description": "A group of BpLA from Kherson region - to Mykolaiv region, heading for Snigurivka.",
+    "description_en": "A group of BpLA from Kherson region - to Mykolaiv region, heading for Snigurivka.",
+    "description_uk": "Група БпЛА з Херсонщини - на Миколаївщину, курсом на Снігурівку.",
+    "time": "",
+    "pubDate": "2026-08-14T19:35:52+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72846",
+    "score": 6.0,
+    "views": 29364,
+    "forwards": 1
+  },
+  {
+    "title": "Kharkiv: Several unmanned aerial vehicles in the north of Kharkiv region -...",
+    "title_en": "Kharkiv: Several unmanned aerial vehicles in the north of Kharkiv region -...",
+    "title_uk": "Харків: Кілька безпілотників на півночі Харківської області -...",
+    "description": "Several unmanned aerial vehicles in the north of Kharkiv region - heading for Kharkiv, Huty.",
+    "description_en": "Several unmanned aerial vehicles in the north of Kharkiv region - heading for Kharkiv, Huty.",
+    "description_uk": "Кілька БпЛА на півночі Харківщини - курсом на Харків, Гути.",
+    "time": "",
+    "pubDate": "2026-08-14T19:35:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72845",
+    "score": 6.0,
+    "views": 27320,
+    "forwards": 0
+  },
+  {
     "title": "Mykolaiv: BpLA ➡️ in the direction of Chernihiv from the north. 🛵 BpLA group...",
     "title_en": "Mykolaiv: BpLA ➡️ in the direction of Chernihiv from the north. 🛵 BpLA group...",
     "title_uk": "Миколаїв: BpLA ➡️ в напрямку Чернігова з півночі. 🛵 Група BpLA...",
@@ -31,9 +85,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198467",
-    "score": 8.0,
-    "views": 32250,
-    "forwards": 39
+    "score": 8.5,
+    "views": 55957,
+    "forwards": 74
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -104,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54804",
     "score": 4.5,
-    "views": 997,
-    "forwards": 4
+    "views": 1148,
+    "forwards": 5
   },
   {
     "title": "Drone incoming",
@@ -302,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10011",
     "score": 5.0,
-    "views": 766,
+    "views": 780,
     "forwards": 7
   },
   {
@@ -360,24 +414,6 @@
     "forwards": 0
   },
   {
-    "title": "Odesa: BpLA ➡️ to Bolgrad.",
-    "title_en": "Odesa: BpLA ➡️ to Bolgrad.",
-    "title_uk": "Одеса: BpLA ➡️ до Болграда.",
-    "description": "Odesa: BpLA ➡️ to Bolgrad.",
-    "description_en": "Odesa: BpLA ➡️ to Bolgrad.",
-    "description_uk": "Одещина: БпЛА ➡️ на Болград.",
-    "time": "",
-    "pubDate": "2026-08-14T08:01:13+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72760",
-    "score": 5.0,
-    "views": 33316,
-    "forwards": 0
-  },
-  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -410,43 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20386",
     "score": 16.5,
-    "views": 239456,
+    "views": 242360,
     "forwards": 224
-  },
-  {
-    "title": "Kherson: 437 killed",
-    "title_en": "Kherson: 437 killed",
-    "title_uk": "Херсон: 437 убитих",
-    "description": "🤬437 dead: July became the deadliest month for civilians in Ukraine in the last four years Another 2,610 civilians were injured as a result of Russian attacks. This is 30% more than in June, according to the report of the UN Human Rights Monitoring Mission. Children suffered especially: 17 died, another 166 were injured. This is the highest monthly indicator since April 2022. More...",
-    "description_en": "🤬437 dead: July became the deadliest month for civilians in Ukraine in the last four years Another 2,610 civilians were injured as a result of Russian attacks. This is 30% more than in June, according to the report of the UN Human Rights Monitoring Mission. Children suffered especially: 17 died, another 166 were injured. This is the highest monthly indicator since April 2022. More...",
-    "description_uk": "🤬437 погибших: июль стал самым смертоносным месяцем для гражданских в Украине за последние четыре года Еще 2610 гражданских получили ранения в результате российских атак. Это на 30% больше, чем в июне, говорится в отчете Мониторинговой миссии ООН по правам человека. Особенно пострадали дети: 17 погибли, еще 166 получили ранения. Это самый высокий месячный показатель с апреля 2022 года. Больше...",
-    "time": "",
-    "pubDate": "2026-08-14T05:43:01+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kherson",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198413",
-    "score": 7.5,
-    "views": 144261,
-    "forwards": 254
-  },
-  {
-    "title": "Kyiv: Drone strike",
-    "title_en": "Kyiv: Drone strike",
-    "title_uk": "Київ: Дрон-удар",
-    "description": "Port infrastructure damaged in Ukrainian drone strike on Russia's Leningrad Oblast, governor says. Ukraine's military reportedly launched a drone attack on Russia's Leningrad Oblast overnight on Aug. 13, damaging \"port infrastructure\" in Ust-Luga, regional Governor Alexander Drozdenko said. Ust-Luga is one of Russia's largest ports on the Baltic Sea and home to an oil terminal that serves as a...",
-    "description_en": "Port infrastructure damaged in Ukrainian drone strike on Russia's Leningrad Oblast, governor says. Ukraine's military reportedly launched a drone attack on Russia's Leningrad Oblast overnight on Aug. 13, damaging \"port infrastructure\" in Ust-Luga, regional Governor Alexander Drozdenko said. Ust-Luga is one of Russia's largest ports on the Baltic Sea and home to an oil terminal that serves as a...",
-    "description_uk": "Port infrastructure damaged in Ukrainian drone strike on Russia's Leningrad Oblast, governor says. Ukraine's military reportedly launched a drone attack on Russia's Leningrad Oblast overnight on Aug. 13, damaging \"port infrastructure\" in Ust-Luga, regional Governor Alexander Drozdenko said. Ust-Luga is one of Russia's largest ports on the Baltic Sea and home to an oil terminal that serves as a...",
-    "time": "",
-    "pubDate": "2026-08-14T03:49:39+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54796",
-    "score": 13.0,
-    "views": 2725,
-    "forwards": 6
   }
 ]
