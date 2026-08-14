@@ -1,20 +1,38 @@
 [
   {
+    "title": "Kherson: 437 killed",
+    "title_en": "Kherson: 437 killed",
+    "title_uk": "Херсон: 437 убитих",
+    "description": "🤬437 dead: July became the deadliest month for civilians in Ukraine in the last four years Another 2,610 civilians were injured as a result of Russian attacks. This is 30% more than in June, according to the report of the UN Human Rights Monitoring Mission. Children suffered especially: 17 died, another 166 were injured. This is the highest monthly indicator since April 2022. More...",
+    "description_en": "🤬437 dead: July became the deadliest month for civilians in Ukraine in the last four years Another 2,610 civilians were injured as a result of Russian attacks. This is 30% more than in June, according to the report of the UN Human Rights Monitoring Mission. Children suffered especially: 17 died, another 166 were injured. This is the highest monthly indicator since April 2022. More...",
+    "description_uk": "🤬437 погибших: июль стал самым смертоносным месяцем для гражданских в Украине за последние четыре года Еще 2610 гражданских получили ранения в результате российских атак. Это на 30% больше, чем в июне, говорится в отчете Мониторинговой миссии ООН по правам человека. Особенно пострадали дети: 17 погибли, еще 166 получили ранения. Это самый высокий месячный показатель с апреля 2022 года. Больше...",
+    "time": "",
+    "pubDate": "2026-08-14T05:43:01+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kherson",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198413",
+    "score": 6.0,
+    "views": 18050,
+    "forwards": 38
+  },
+  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Харків: Дрон вхід",
-    "description": "Kharkiv region: jet UAVs in the direction of Kharkiv and Krasnopavlivka.",
-    "description_en": "Kharkiv region: jet UAVs in the direction of Kharkiv and Krasnopavlivka.",
-    "description_uk": "Харківщина: реактивні БпЛА у напрямку Харкова та Краснопавлівки.",
+    "description": "Kharkiv region: - UAVs ➡️ on a course to Kharkiv from the northeast, - jet UAVs ➡️ on/past Krasnopavlivka on a northerly course.",
+    "description_en": "Kharkiv region: - UAVs ➡️ on a course to Kharkiv from the northeast, - jet UAVs ➡️ on/past Krasnopavlivka on a northerly course.",
+    "description_uk": "Харківщина: - БпЛА ➡️ курсом на Харків з північного сходу, - реактивні БпЛА ➡️ на/повз Краснопавлівку північним курсом.",
     "time": "",
-    "pubDate": "2026-08-14T04:14:09+00:00",
+    "pubDate": "2026-08-14T05:15:30+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Kharkiv",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72734",
+    "link": "https://t.me/kpszsu/72741",
     "score": 6.0,
-    "views": 10093,
+    "views": 30323,
     "forwards": 0
   },
   {
@@ -32,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54796",
     "score": 13.0,
-    "views": 260,
-    "forwards": 2
+    "views": 747,
+    "forwards": 3
   },
   {
     "title": "BpLA ➡️ in the direction of Kharkiv from the north.",
@@ -211,9 +229,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198400",
-    "score": 8.5,
-    "views": 145365,
-    "forwards": 194
+    "score": 9.5,
+    "views": 167594,
+    "forwards": 230
   },
   {
     "title": "BpLA ➡️ in the direction of Odesa from the Black Sea.",
@@ -234,60 +252,6 @@
     "forwards": 0
   },
   {
-    "title": "Mykolaiv: Sumyshchyna: jet UAV ➡️ to/past Mykolaivka on a southwesterly course.",
-    "title_en": "Mykolaiv: Sumyshchyna: jet UAV ➡️ to/past Mykolaivka on a southwesterly course.",
-    "title_uk": "Миколаїв: Сумщина: реактивний БПЛА ➡️ до/повз Миколаївку південно-західним курсом.",
-    "description": "Sumyshchyna: jet UAV ➡️ to/past Mykolaivka on a southwesterly course.",
-    "description_en": "Sumyshchyna: jet UAV ➡️ to/past Mykolaivka on a southwesterly course.",
-    "description_uk": "Сумщина: реактивний БпЛА ➡️ на/повз Миколаївку південно-західним курсом.",
-    "time": "",
-    "pubDate": "2026-08-13T17:48:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72675",
-    "score": 6.0,
-    "views": 45487,
-    "forwards": 0
-  },
-  {
-    "title": "Chernihiv: Chernihiv region: BpLA ➡️ in the direction of Nizhyn from the...",
-    "title_en": "Chernihiv: Chernihiv region: BpLA ➡️ in the direction of Nizhyn from the...",
-    "title_uk": "Чернігів: Чернігівська область: БпЛА ➡️ в напрямку Ніжина від...",
-    "description": "Chernihiv region: BpLA ➡️ in the direction of Nizhyn from the southeast and north of Kholmiv.",
-    "description_en": "Chernihiv region: BpLA ➡️ in the direction of Nizhyn from the southeast and north of Kholmiv.",
-    "description_uk": "Чернігівщина: БпЛА ➡️ у напрямку Ніжина з південного сходу та на півночі від Холмів.",
-    "time": "",
-    "pubDate": "2026-08-13T17:23:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72669",
-    "score": 6.0,
-    "views": 21181,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: BpLA ➡️ course to Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA ➡️ course to Kharkiv from the north.",
-    "title_uk": "Харків: BpLA ➡️ курс на Харків з півночі.",
-    "description": "BpLA ➡️ course to Kharkiv from the north.",
-    "description_en": "BpLA ➡️ course to Kharkiv from the north.",
-    "description_uk": "БпЛА ➡️ курсом на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-08-13T16:59:19+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72665",
-    "score": 6.0,
-    "views": 38394,
-    "forwards": 1
-  },
-  {
     "title": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
     "title_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
     "title_uk": "Глава МЗС України Андрій...",
@@ -302,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10009",
     "score": 9.0,
-    "views": 644,
+    "views": 674,
     "forwards": 8
   },
   {
@@ -356,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20381",
     "score": 6.5,
-    "views": 91360,
-    "forwards": 262
+    "views": 92747,
+    "forwards": 263
   },
   {
     "title": "Sevastopol: Explosions reported",
@@ -410,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20380",
     "score": 8.5,
-    "views": 97323,
-    "forwards": 325
+    "views": 98695,
+    "forwards": 328
   },
   {
     "title": "Air defense active",
@@ -446,7 +410,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41866",
     "score": 13.0,
-    "views": 7763,
+    "views": 7936,
     "forwards": 21
   }
 ]
