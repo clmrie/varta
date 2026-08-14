@@ -1,21 +1,21 @@
 [
   {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "Полтавщина: група БпЛА ➡️ курсом на Лубни. 🛵 Група БпЛА з Херсонщини - на Миколаївщину, курсом на Снігурівку.",
-    "description_en": "Полтавщина: група БпЛА ➡️ курсом на Лубни. 🛵 Група БпЛА з Херсонщини - на Миколаївщину, курсом на Снігурівку.",
-    "description_uk": "Полтавщина: група БпЛА ➡️ курсом на Лубни. 🛵 Група БпЛА з Херсонщини - на Миколаївщину, курсом на Снігурівку.",
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Several dozens of attack UAVs from the Black Sea area ➡️ in the direction of Odesa (Tatarbunary/Sarat/Tuzla).",
+    "description_en": "Several dozens of attack UAVs from the Black Sea area ➡️ in the direction of Odesa (Tatarbunary/Sarat/Tuzla).",
+    "description_uk": "Кілька десятків ударних БпЛА з акваторії Чорного моря ➡️ у напрямку Одещини (Татарбунари/Сарата/Тузли).",
     "time": "",
-    "pubDate": "2026-08-14T20:45:38+00:00",
+    "pubDate": "2026-08-14T21:38:08+00:00",
     "category": "drone",
     "severity": "high",
-    "location": "Mykolaiv",
+    "location": "Odesa",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72849",
-    "score": 6.0,
-    "views": 28438,
-    "forwards": 0
+    "link": "https://t.me/kpszsu/72850",
+    "score": 5.0,
+    "views": 11093,
+    "forwards": 11
   },
   {
     "title": "Mykolaiv: Poltava region: a group of BpLA ➡️ heading for Lubny. 🛵 BpLA group...",
@@ -32,7 +32,25 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72849",
     "score": 6.0,
-    "views": 16220,
+    "views": 35823,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "Полтавщина: група БпЛА ➡️ курсом на Лубни. 🛵 Група БпЛА з Херсонщини - на Миколаївщину, курсом на Снігурівку.",
+    "description_en": "Полтавщина: група БпЛА ➡️ курсом на Лубни. 🛵 Група БпЛА з Херсонщини - на Миколаївщину, курсом на Снігурівку.",
+    "description_uk": "Полтавщина: група БпЛА ➡️ курсом на Лубни. 🛵 Група БпЛА з Херсонщини - на Миколаївщину, курсом на Снігурівку.",
+    "time": "",
+    "pubDate": "2026-08-14T20:45:38+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72849",
+    "score": 6.0,
+    "views": 28438,
     "forwards": 0
   },
   {
@@ -54,27 +72,9 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Полтавщина: БпЛА ➡️ курсом на Зіньків, Гадяч.",
-    "description_en": "Полтавщина: БпЛА ➡️ курсом на Зіньків, Гадяч.",
-    "description_uk": "Полтавщина: БпЛА ➡️ курсом на Зіньків, Гадяч.",
-    "time": "",
-    "pubDate": "2026-08-14T20:20:13+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72848",
-    "score": 5.0,
-    "views": 33461,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: 610 injured",
     "title_en": "Kyiv: 610 injured",
-    "title_uk": "Kyiv: 610 injured",
+    "title_uk": "Київ: 610 поранених",
     "description": "July 2026 worst month for civilian casualties in Ukraine since first month of full-scale war. At least 437 civilians in Ukraine were killed and 2,610 injured in July alone, a 30% increase from June. More civilians were killed or injured in July than any month since March 2022.",
     "description_en": "July 2026 worst month for civilian casualties in Ukraine since first month of full-scale war. At least 437 civilians in Ukraine were killed and 2,610 injured in July alone, a 30% increase from June. More civilians were killed or injured in July than any month since March 2022.",
     "description_uk": "July 2026 worst month for civilian casualties in Ukraine since first month of full-scale war. At least 437 civilians in Ukraine were killed and 2,610 injured in July alone, a 30% increase from June. More civilians were killed or injured in July than any month since March 2022.",
@@ -86,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54807",
     "score": 6.0,
-    "views": 959,
+    "views": 1037,
     "forwards": 8
   },
   {
@@ -146,7 +146,7 @@
   {
     "title": "Air defense active",
     "title_en": "Air defense active",
-    "title_uk": "Air defense active",
+    "title_uk": "Активна ППО",
     "description": "Ukrainian interceptor drones have already shot down 87% of Russian Shahed, and ground robots have completed 16,000 missions per month, - WSJ about the technological race at the front. The publication writes that in the first half of the year, technological solutions helped Ukraine gain an advantage in certain areas: medium-range strikes hit Russian logistics and slow down the advance of Russian troops, while long-range attacks...",
     "description_en": "Ukrainian interceptor drones have already shot down 87% of Russian Shahed, and ground robots have completed 16,000 missions per month, - WSJ about the technological race at the front. The publication writes that in the first half of the year, technological solutions helped Ukraine gain an advantage in certain areas: medium-range strikes hit Russian logistics and slow down the advance of Russian troops, while long-range attacks...",
     "description_uk": "Украинские дроны-перехватчики уже сбивают 87% российских Shahed, а наземные роботы выполнили 16 тысяч миссий за месяц, - WSJ о технологической гонке на фронте Издание пишет, что в первой половине года технологические решения помогли Украине получить преимущество на отдельных направлениях: удары средней дальности бьют по российской логистике и замедляют продвижение войск рф, а дальнобойные атаки...",
@@ -158,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198467",
     "score": 8.5,
-    "views": 84391,
-    "forwards": 76
+    "views": 87679,
+    "forwards": 110
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -230,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54804",
     "score": 4.5,
-    "views": 1479,
+    "views": 1521,
     "forwards": 6
   },
   {
@@ -380,7 +380,7 @@
   {
     "title": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
     "title_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
-    "title_uk": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
+    "title_uk": "Глава МЗС України Андрій...",
     "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, welcomed New Zealand's joining the International Coalition for the Return of Ukrainian Children. \"New Zealand has become the 51st member of the Coalition, strengthening our joint international efforts to bring home Ukrainian children illegally deported and forcibly displaced by Russia. With each new country that joins the Coalition, international pressure on Russia grows, and...",
     "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, welcomed New Zealand's joining the International Coalition for the Return of Ukrainian Children. \"New Zealand has become the 51st member of the Coalition, strengthening our joint international efforts to bring home Ukrainian children illegally deported and forcibly displaced by Russia. With each new country that joins the Coalition, international pressure on Russia grows, and...",
     "description_uk": "Очільник МЗС України Андрій Сибіга привітав приєднання Нової Зеландії до Міжнародної коаліції за повернення українських дітей. “Нова Зеландія стала 51-м членом Коаліції, посиливши наші спільні міжнародні зусилля щодо повернення додому українських дітей, незаконно депортованих та примусово переміщених Росією. З кожною новою країною, що приєднується до Коаліції, міжнародний тиск на Росію зростає, а...",
@@ -392,8 +392,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10011",
     "score": 5.0,
-    "views": 2807,
-    "forwards": 11
+    "views": 3095,
+    "forwards": 12
   },
   {
     "title": "Очільник МЗС України Андрій Сибіга привітав приєднання Нової Зеландії...",
@@ -414,24 +414,6 @@
     "forwards": 7
   },
   {
-    "title": "Mykolaiv: UAV from the Black Sea - to the Mykolaiv region.",
-    "title_en": "Mykolaiv: UAV from the Black Sea - to the Mykolaiv region.",
-    "title_uk": "Миколаїв: БПЛА з Чорного моря - в Миколаївську область.",
-    "description": "UAV from the Black Sea - to the Mykolaiv region.",
-    "description_en": "UAV from the Black Sea - to the Mykolaiv region.",
-    "description_uk": "БпЛА з Чорного моря - на Миколаївщину.",
-    "time": "",
-    "pubDate": "2026-08-14T09:50:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72770",
-    "score": 6.0,
-    "views": 41469,
-    "forwards": 0
-  },
-  {
     "title": "Kramatorsk: Casualties reported",
     "title_en": "Kramatorsk: Casualties reported",
     "title_uk": "Краматорськ: повідомляється про постраждалих",
@@ -446,7 +428,25 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20386",
     "score": 16.5,
-    "views": 246379,
-    "forwards": 225
+    "views": 246835,
+    "forwards": 226
+  },
+  {
+    "title": "He started his trip to the Ivano-Frankivsk region to commemorate the...",
+    "title_en": "He started his trip to the Ivano-Frankivsk region to commemorate the...",
+    "title_uk": "Він розпочав свою поїздку в Івано-Франківську область, щоб вшанувати...",
+    "description": "He started his trip to the Ivano-Frankivsk region to commemorate the fallen defenders of Ukraine. Eternal respect and gratitude to everyone who defended Ukraine and gave their lives in this struggle. Bright memory of our fallen soldiers. And also thanks to those who create memory centers for our heroes, where Ukrainian men and women can come and simply say: \"Thank you\". It is very important...",
+    "description_en": "He started his trip to the Ivano-Frankivsk region to commemorate the fallen defenders of Ukraine. Eternal respect and gratitude to everyone who defended Ukraine and gave their lives in this struggle. Bright memory of our fallen soldiers. And also thanks to those who create memory centers for our heroes, where Ukrainian men and women can come and simply say: \"Thank you\". It is very important...",
+    "description_uk": "Розпочав свою поїздку до Івано-Франківської області з вшанування памʼяті полеглих захисників і захисниць України. Вічна шана та вдячність кожному й кожній, хто захищав Україну та віддав своє життя у цій боротьбі. Світла памʼять нашим загиблим воїнам. І також подяка тим, хто створює осередки памʼяті для наших героїв, де українці та українки можуть прийти і просто сказати: «Дякую». Дуже важливо,...",
+    "time": "",
+    "pubDate": "2026-08-13T10:53:56+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ivano-Frankivsk",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20381",
+    "score": 6.5,
+    "views": 101342,
+    "forwards": 266
   }
 ]
