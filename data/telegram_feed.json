@@ -1,5 +1,23 @@
 [
   {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "A jet UAV heading towards the Dnipro from the east.",
+    "description_en": "A jet UAV heading towards the Dnipro from the east.",
+    "description_uk": "Реактивний БпЛА курсом на Дніпро зі сходу.",
+    "time": "",
+    "pubDate": "2026-08-15T07:22:21+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72909",
+    "score": 6.0,
+    "views": 6070,
+    "forwards": 0
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -14,8 +32,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198493",
     "score": 3.5,
-    "views": 18185,
-    "forwards": 71
+    "views": 45891,
+    "forwards": 143
   },
   {
     "title": "Donetsk: Drone incoming",
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72905",
     "score": 10.5,
-    "views": 36439,
+    "views": 53667,
     "forwards": 69
   },
   {
@@ -111,8 +129,8 @@
     "title": "Drone strike",
     "title_en": "Drone strike",
     "title_uk": "Безпілотний удар",
-    "description": "🤬Dreamers continue their war with residential buildings, shops and children. In Marganets, Dnipropetrovsk region, a Russian drone hit a multi-storey building. A three-month-old boy died, 11 more people were injured. And in Zaporozhye, the Russians hit the \"Epicenter\" with drones - a fire broke out there. The territory of the industrial enterprise was also damaged.",
-    "description_en": "🤬Dreamers continue their war with residential buildings, shops and children. In Marganets, Dnipropetrovsk region, a Russian drone hit a multi-storey building. A three-month-old boy died, 11 more people were injured. And in Zaporozhye, the Russians hit the \"Epicenter\" with drones - a fire broke out there. The territory of the industrial enterprise was also damaged.",
+    "description": "🤬Dreamers continue their war with residential buildings, shops and children In Marganets, Dnipropetrovsk region, a Russian drone hit a high-rise building. A three-month-old boy died, 11 more people were injured. And in Zaporozhye, the Russians hit the \"Epicenter\" with drones - a fire broke out there. The territory of the industrial enterprise was also damaged.",
+    "description_en": "🤬Dreamers continue their war with residential buildings, shops and children In Marganets, Dnipropetrovsk region, a Russian drone hit a high-rise building. A three-month-old boy died, 11 more people were injured. And in Zaporozhye, the Russians hit the \"Epicenter\" with drones - a fire broke out there. The territory of the industrial enterprise was also damaged.",
     "description_uk": "🤬МраZи же продолжают войну с жилыми домами, магазинами и детьми В Марганце Днепропетровской области российский дрон попал в многоэтажку. Погиб трехмесячный мальчик, еще 11 человек получили ранения. А в Запорожье россияне ударили дронами по «Эпицентру» — там вспыхнул пожар. Также повреждена территория промышленного предприятия.",
     "time": "",
     "pubDate": "2026-08-15T05:20:06+00:00",
@@ -122,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198484",
     "score": 3.5,
-    "views": 78845,
-    "forwards": 70
+    "views": 93816,
+    "forwards": 72
   },
   {
     "title": "Kharkiv: BpLA on Vilshany, Kharkiv from the north.",
@@ -230,8 +248,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54811",
     "score": 13.0,
-    "views": 1206,
-    "forwards": 7
+    "views": 1329,
+    "forwards": 8
   },
   {
     "title": "Unmanned aerial vehicle in the north of Poltava Region - heading for...",
@@ -392,7 +410,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54807",
     "score": 6.0,
-    "views": 2097,
+    "views": 2166,
     "forwards": 11
   },
   {
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/72845",
     "score": 6.0,
     "views": 27320,
-    "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: BpLA ➡️ in the direction of Chernihiv from the north. 🛵 BpLA group...",
-    "title_en": "Mykolaiv: BpLA ➡️ in the direction of Chernihiv from the north. 🛵 BpLA group...",
-    "title_uk": "Миколаїв: BpLA ➡️ в напрямку Чернігова з півночі. 🛵 Група BpLA...",
-    "description": "BpLA ➡️ in the direction of Chernihiv from the north. 🛵 BpLA group through Kherson Oblast ➡️ course to Mykolaiv Oblast.",
-    "description_en": "BpLA ➡️ in the direction of Chernihiv from the north. 🛵 BpLA group through Kherson Oblast ➡️ course to Mykolaiv Oblast.",
-    "description_uk": "БпЛА ➡️ у напрямку Чернігова з півночі. 🛵 Група БпЛА через Херсонщину ➡️ курсом на Миколаївщину.",
-    "time": "",
-    "pubDate": "2026-08-14T19:17:18+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72844",
-    "score": 6.0,
-    "views": 16178,
     "forwards": 0
   }
 ]
