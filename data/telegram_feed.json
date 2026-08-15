@@ -1,5 +1,23 @@
 [
   {
+    "title": "Chernihiv: Unmanned aerial vehicle in the north of Chernihiv Oblast heading for...",
+    "title_en": "Chernihiv: Unmanned aerial vehicle in the north of Chernihiv Oblast heading for...",
+    "title_uk": "Чернігів: безпілотник на півночі Чернігівської області прямує до...",
+    "description": "Unmanned aerial vehicle in the north of Chernihiv Oblast heading for Kyiv Oblast",
+    "description_en": "Unmanned aerial vehicle in the north of Chernihiv Oblast heading for Kyiv Oblast",
+    "description_uk": "БпЛА на півночі Чернігівщини курсом на Київщину",
+    "time": "",
+    "pubDate": "2026-08-15T21:37:33+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72949",
+    "score": 6.5,
+    "views": 22756,
+    "forwards": 143
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72948",
     "score": 5.0,
-    "views": 42861,
+    "views": 49102,
     "forwards": 20
   },
   {
@@ -50,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198543",
     "score": 8.5,
-    "views": 45906,
-    "forwards": 176
+    "views": 52833,
+    "forwards": 197
   },
   {
     "title": "Meanwhile, in occupied Donetsk, arrivals are recorded and fires are...",
@@ -68,7 +86,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198540",
     "score": 4.5,
-    "views": 57740,
+    "views": 63479,
     "forwards": 106
   },
   {
@@ -86,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54819",
     "score": 4.0,
-    "views": 1119,
+    "views": 1204,
     "forwards": 4
   },
   {
@@ -122,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54818",
     "score": 5.0,
-    "views": 1701,
+    "views": 1772,
     "forwards": 3
   },
   {
@@ -414,24 +432,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A jet UAV from the Black Sea, heading for Odesa.",
-    "description_en": "A jet UAV from the Black Sea, heading for Odesa.",
-    "description_uk": "Реактивний БпЛА з акваторії Чорного моря, курсом на Одещину.",
-    "time": "",
-    "pubDate": "2026-08-15T10:11:52+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72920",
-    "score": 5.0,
-    "views": 29334,
-    "forwards": 0
-  },
-  {
     "title": "Missile attack",
     "title_en": "Missile attack",
     "title_uk": "Ракетна атака",
@@ -446,7 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20396",
     "score": 12.0,
-    "views": 284824,
+    "views": 285516,
     "forwards": 475
   }
 ]
