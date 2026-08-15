@@ -1,5 +1,23 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "UAV in the north of Chernihiv region heading for Kyiv region",
+    "description_en": "UAV in the north of Chernihiv region heading for Kyiv region",
+    "description_uk": "БпЛА на півночі Чернігівщини курсом на Київщину",
+    "time": "",
+    "pubDate": "2026-08-15T21:37:33+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72949",
+    "score": 6.5,
+    "views": 14384,
+    "forwards": 140
+  },
+  {
     "title": "Udprni BpLA in the district Ochakova from the Black Sea",
     "title_en": "Udprni BpLA in the district Ochakova from the Black Sea",
     "title_uk": "Удпрні БпЛА в районі Очакова від Чорного моря",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72948",
     "score": 5.0,
-    "views": 34904,
+    "views": 42861,
     "forwards": 20
   },
   {
@@ -32,8 +50,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198543",
     "score": 8.5,
-    "views": 39230,
-    "forwards": 140
+    "views": 45906,
+    "forwards": 176
   },
   {
     "title": "Meanwhile, in occupied Donetsk, arrivals are recorded and fires are...",
@@ -50,7 +68,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198540",
     "score": 4.5,
-    "views": 51127,
+    "views": 57740,
     "forwards": 106
   },
   {
@@ -68,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54819",
     "score": 4.0,
-    "views": 1015,
+    "views": 1119,
     "forwards": 4
   },
   {
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54818",
     "score": 5.0,
-    "views": 1626,
+    "views": 1701,
     "forwards": 3
   },
   {
@@ -428,25 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20396",
     "score": 12.0,
-    "views": 283780,
-    "forwards": 473
-  },
-  {
-    "title": "Сьогодні є нові вагомі результати наших дипстрайків. У Самарському...",
-    "title_en": "Сьогодні є нові вагомі результати наших дипстрайків. У Самарському...",
-    "title_uk": "Сьогодні є нові вагомі результати наших дипстрайків. У Самарському...",
-    "description": "Сьогодні є нові вагомі результати наших дипстрайків. У Самарському регіоні Росії уражено одне з ключових підприємств у складі «Роскосмосу» – центр «Прогрес», який займався, зокрема, виробництвом електроніки. Застосовувалися ракети «Фламінго», хороше досягнення. Відстань від нашого кордону – близько 900 кілометрів. Наші далекобійні санкції також досягли аеродрому «Саваслейка», де базуються носії...",
-    "description_en": "Сьогодні є нові вагомі результати наших дипстрайків. У Самарському регіоні Росії уражено одне з ключових підприємств у складі «Роскосмосу» – центр «Прогрес», який займався, зокрема, виробництвом електроніки. Застосовувалися ракети «Фламінго», хороше досягнення. Відстань від нашого кордону – близько 900 кілометрів. Наші далекобійні санкції також досягли аеродрому «Саваслейка», де базуються носії...",
-    "description_uk": "Сьогодні є нові вагомі результати наших дипстрайків. У Самарському регіоні Росії уражено одне з ключових підприємств у складі «Роскосмосу» – центр «Прогрес», який займався, зокрема, виробництвом електроніки. Застосовувалися ракети «Фламінго», хороше досягнення. Відстань від нашого кордону – близько 900 кілометрів. Наші далекобійні санкції також досягли аеродрому «Саваслейка», де базуються носії...",
-    "time": "",
-    "pubDate": "2026-08-15T08:41:54+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20396",
-    "score": 12.0,
-    "views": 262072,
-    "forwards": 452
+    "views": 284824,
+    "forwards": 475
   }
 ]
