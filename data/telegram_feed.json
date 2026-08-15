@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: Poland will soon have Europe's largest army, Tusk pledges. \"Our...",
+    "title_en": "Kyiv: Poland will soon have Europe's largest army, Tusk pledges. \"Our...",
+    "title_uk": "Київ: Польща незабаром матиме найбільшу армію в Європі, – обіцяє Туск. \"Наш...",
+    "description": "Poland will soon have Europe's largest army, Tusk pledges. \"Our Polish-Ukrainian relations can be debated, but no one can doubt that supporting Ukraine in the war with Russia is for our security,\" Polish Prime Minister Donald Tusk said during the country's Army Day celebrations.",
+    "description_en": "Poland will soon have Europe's largest army, Tusk pledges. \"Our Polish-Ukrainian relations can be debated, but no one can doubt that supporting Ukraine in the war with Russia is for our security,\" Polish Prime Minister Donald Tusk said during the country's Army Day celebrations.",
+    "description_uk": "Poland will soon have Europe's largest army, Tusk pledges. \"Our Polish-Ukrainian relations can be debated, but no one can doubt that supporting Ukraine in the war with Russia is for our security,\" Polish Prime Minister Donald Tusk said during the country's Army Day celebrations.",
+    "time": "",
+    "pubDate": "2026-08-15T19:32:30+00:00",
+    "category": "alert",
+    "severity": "medium",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54819",
+    "score": 4.0,
+    "views": 176,
+    "forwards": 1
+  },
+  {
+    "title": "Cruise missile heading inbound",
+    "title_en": "Cruise missile heading inbound",
+    "title_uk": "Крилата ракета наближається",
+    "description": "If someone hasn't seen it yet, this is how the Flamingo cruise missiles are launched at \"Mother Russia\" 🤩",
+    "description_en": "If someone hasn't seen it yet, this is how the Flamingo cruise missiles are launched at \"Mother Russia\" 🤩",
+    "description_uk": "Если кто-то еще не видел - вот так запускают крылатые ракеты \"Фламинго\" по \"россии-матушке\" 🤩",
+    "time": "",
+    "pubDate": "2026-08-15T19:21:58+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198538",
+    "score": 5.5,
+    "views": 22510,
+    "forwards": 112
+  },
+  {
     "title": "Kyiv: Attack attack",
     "title_en": "Kyiv: Attack attack",
     "title_uk": "Київ: Атака",
@@ -14,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54818",
     "score": 5.0,
-    "views": 918,
+    "views": 1091,
     "forwards": 3
   },
   {
@@ -32,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72942",
     "score": 6.0,
-    "views": 79239,
+    "views": 86627,
     "forwards": 3
   },
   {
@@ -86,7 +122,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72940",
     "score": 5.5,
-    "views": 107945,
+    "views": 113444,
     "forwards": 81
   },
   {
@@ -194,7 +230,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198520",
     "score": 5.5,
-    "views": 121522,
+    "views": 126831,
     "forwards": 109
   },
   {
@@ -338,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20396",
     "score": 12.0,
-    "views": 271538,
-    "forwards": 462
+    "views": 274699,
+    "forwards": 466
   },
   {
     "title": "Сьогодні є нові вагомі результати наших дипстрайків. У Самарському...",
@@ -378,42 +414,6 @@
     "forwards": 320
   },
   {
-    "title": "Chernihiv: BpLA in Chernihiv region, heading for Mena.",
-    "title_en": "Chernihiv: BpLA in Chernihiv region, heading for Mena.",
-    "title_uk": "Чернігів: БпЛА в Чернігівській області, прямуючи до Мени.",
-    "description": "BpLA in Chernihiv region, heading for Mena.",
-    "description_en": "BpLA in Chernihiv region, heading for Mena.",
-    "description_uk": "БпЛА на Чернігівщині, курсом на Мену.",
-    "time": "",
-    "pubDate": "2026-08-15T07:27:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72911",
-    "score": 6.0,
-    "views": 54618,
-    "forwards": 0
-  },
-  {
-    "title": "Dnipro: Drone incoming",
-    "title_en": "Dnipro: Drone incoming",
-    "title_uk": "Дніпро: Дрон вхід",
-    "description": "A jet UAV heading towards the Dnipro from the east.",
-    "description_en": "A jet UAV heading towards the Dnipro from the east.",
-    "description_uk": "Реактивний БпЛА курсом на Дніпро зі сходу.",
-    "time": "",
-    "pubDate": "2026-08-15T07:22:21+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72909",
-    "score": 6.0,
-    "views": 6070,
-    "forwards": 0
-  },
-  {
     "title": "Donetsk: Drone incoming",
     "title_en": "Donetsk: Drone incoming",
     "title_uk": "Донецьк: Дрон вхід",
@@ -446,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10011",
     "score": 5.0,
-    "views": 7863,
+    "views": 7887,
     "forwards": 19
   }
 ]
