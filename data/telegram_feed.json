@@ -1,21 +1,39 @@
 [
   {
+    "title": "Chernihiv: More rockets in the Chernihiv region in the direction of Kyiv",
+    "title_en": "Chernihiv: More rockets in the Chernihiv region in the direction of Kyiv",
+    "title_uk": "Чернігів: Більше ракет на Чернігівщині в напрямку Києва",
+    "description": "More rockets in the Chernihiv region in the direction of Kyiv",
+    "description_en": "More rockets in the Chernihiv region in the direction of Kyiv",
+    "description_uk": "Ще ракети на Чернігівщині у напрямку Києва",
+    "time": "",
+    "pubDate": "2026-08-15T23:48:26+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72959",
+    "score": 6.0,
+    "views": 48588,
+    "forwards": 34
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons from the east.",
-    "description_en": "☄️ The threat of using ballistic weapons from the east.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння зі сходу.",
+    "description": "☄️ The threat of using ballistic weapons from the north.",
+    "description_en": "☄️ The threat of using ballistic weapons from the north.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння з півночі.",
     "time": "",
-    "pubDate": "2026-08-15T22:58:11+00:00",
+    "pubDate": "2026-08-15T23:46:36+00:00",
     "category": "missile",
     "severity": "high",
     "location": "Ukraine",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72951",
+    "link": "https://t.me/kpszsu/72957",
     "score": 5.0,
-    "views": 79900,
-    "forwards": 34
+    "views": 56665,
+    "forwards": 35
   },
   {
     "title": "Chernihiv: Unmanned aerial vehicle in the north of Chernihiv Oblast heading for...",
@@ -86,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198543",
     "score": 9.5,
-    "views": 71387,
-    "forwards": 218
+    "views": 78241,
+    "forwards": 220
   },
   {
     "title": "Meanwhile, in occupied Donetsk, arrivals are recorded and fires are...",
@@ -104,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198540",
     "score": 4.5,
-    "views": 80489,
-    "forwards": 138
+    "views": 85398,
+    "forwards": 139
   },
   {
     "title": "Kyiv: Poland will soon have Europe's largest army, Tusk pledges. \"Our...",
@@ -122,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54819",
     "score": 4.0,
-    "views": 1451,
+    "views": 1501,
     "forwards": 6
   },
   {
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54818",
     "score": 5.0,
-    "views": 1962,
+    "views": 2003,
     "forwards": 4
   },
   {
@@ -374,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20396",
     "score": 12.0,
-    "views": 290923,
+    "views": 292436,
     "forwards": 477
   },
   {
@@ -392,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10011",
     "score": 5.0,
-    "views": 8168,
+    "views": 8186,
     "forwards": 19
   },
   {
@@ -410,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20386",
     "score": 16.5,
-    "views": 283364,
+    "views": 283821,
     "forwards": 231
   }
 ]
