@@ -1,5 +1,41 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "UAV in the waters of the Black Sea, heading for Mykolaiv Oblast.",
+    "description_en": "UAV in the waters of the Black Sea, heading for Mykolaiv Oblast.",
+    "description_uk": "БпЛА в акваторії Чорного моря, курсом на Миколаївщину.",
+    "time": "",
+    "pubDate": "2026-08-15T11:11:11+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72922",
+    "score": 6.0,
+    "views": 6376,
+    "forwards": 0
+  },
+  {
+    "title": "Izmail: Drone incoming",
+    "title_en": "Izmail: Drone incoming",
+    "title_uk": "Ізмаїл: Наліт дрон",
+    "description": "UAV in the waters of the Black Sea, heading for the Izmail district.",
+    "description_en": "UAV in the waters of the Black Sea, heading for the Izmail district.",
+    "description_uk": "БпЛА в акваторії Чорного моря, курсом на Ізмаїльський район.",
+    "time": "",
+    "pubDate": "2026-08-15T11:08:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Izmail",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72921",
+    "score": 6.0,
+    "views": 7622,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -32,8 +68,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20396",
     "score": 12.0,
-    "views": 126948,
-    "forwards": 332
+    "views": 138065,
+    "forwards": 343
   },
   {
     "title": "Missile launch detected",
@@ -50,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198498",
     "score": 4.5,
-    "views": 97235,
-    "forwards": 249
+    "views": 102703,
+    "forwards": 283
   },
   {
     "title": "Chernihiv: BpLA in Chernihiv region, heading for Mena.",
@@ -104,7 +140,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198493",
     "score": 4.5,
-    "views": 123131,
+    "views": 126408,
     "forwards": 250
   },
   {
@@ -290,7 +326,7 @@
   {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "title_uk": "Київ: Зафіксовано пуск балістичної ракети",
     "description": "Ukraine reportedly strikes Russian military airbase behind ballistic missile attacks as rockets target Samara. Ukrainian forces struck Russia's Savasleyka military airbase, which stores Mig-31 fighter jets capable of launching Kinzhal ballistic missiles, monitoring channels reported overnight on Aug. 15.",
     "description_en": "Ukraine reportedly strikes Russian military airbase behind ballistic missile attacks as rockets target Samara. Ukrainian forces struck Russia's Savasleyka military airbase, which stores Mig-31 fighter jets capable of launching Kinzhal ballistic missiles, monitoring channels reported overnight on Aug. 15.",
     "description_uk": "Ukraine reportedly strikes Russian military airbase behind ballistic missile attacks as rockets target Samara. Ukrainian forces struck Russia's Savasleyka military airbase, which stores Mig-31 fighter jets capable of launching Kinzhal ballistic missiles, monitoring channels reported overnight on Aug. 15.",
@@ -302,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54811",
     "score": 13.0,
-    "views": 1958,
+    "views": 1997,
     "forwards": 9
   },
   {
@@ -360,24 +396,6 @@
     "forwards": 0
   },
   {
-    "title": "10 drones",
-    "title_en": "10 drones",
-    "title_uk": "10 дронів",
-    "description": "At least 10 UAVs from the Black Sea area ➡️ in the direction of Odesa (Tatarbunary/Sarat/Tuzla).",
-    "description_en": "At least 10 UAVs from the Black Sea area ➡️ in the direction of Odesa (Tatarbunary/Sarat/Tuzla).",
-    "description_uk": "Щонайменше 10 БпЛА із акваторії Чорного моря ➡️ у напрямку Одещини (Татарбунари/Сарата/Тузли).",
-    "time": "",
-    "pubDate": "2026-08-14T23:13:54+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72854",
-    "score": 8.0,
-    "views": 8236,
-    "forwards": 10
-  },
-  {
     "title": "Kyiv: 610 injured",
     "title_en": "Kyiv: 610 injured",
     "title_uk": "Київ: 610 поранених",
@@ -392,7 +410,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54807",
     "score": 6.0,
-    "views": 2433,
+    "views": 2453,
     "forwards": 12
   },
   {
@@ -410,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10011",
     "score": 5.0,
-    "views": 7032,
+    "views": 7085,
     "forwards": 18
   },
   {
@@ -428,7 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20386",
     "score": 16.5,
-    "views": 267127,
+    "views": 267506,
     "forwards": 228
   }
 ]
