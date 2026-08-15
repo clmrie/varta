@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "Ukraine will not receive enough Patriot missiles by winter — it will have to prepare for serious interruptions with electricity, water and heating, — The Guardian Ukraine is running out of stockpiles of missiles for Patriot — one of the few systems capable of effectively shooting down ballistic missiles. According to The Guardian, the share of ballistic intercepts dropped from more than 70% to zero. The problem is also in scale. Russian Federation produces...",
+    "description_en": "Ukraine will not receive enough Patriot missiles by winter — it will have to prepare for serious interruptions with electricity, water and heating, — The Guardian Ukraine is running out of stockpiles of missiles for Patriot — one of the few systems capable of effectively shooting down ballistic missiles. According to The Guardian, the share of ballistic intercepts dropped from more than 70% to zero. The problem is also in scale. Russian Federation produces...",
+    "description_uk": "Украина не получит достаточно ракет Patriot до зимы — придется готовиться к серьезным перебоям с электричеством, водой и отоплением, — The Guardian Украина исчерпывает запасы ракет для Patriot — одной из немногих систем, способных эффективно сбивать баллистические ракеты. По данным The Guardian, доля перехватов баллистики упала с более чем 70% до нуля. Проблема еще и в масштабах. рф производит...",
+    "time": "",
+    "pubDate": "2026-08-15T06:40:01+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198493",
+    "score": 3.5,
+    "views": 18185,
+    "forwards": 71
+  },
+  {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "127 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of August 15 (from 18:00 on August 14), the enemy attacked 152 attack UAVs of the Shahed type (including jet ones), Gerber, barrage \"Banderol\" ammunition and \"Parody\" type simulator drones from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile forces, electronic defense units and...",
+    "description_en": "127 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of August 15 (from 18:00 on August 14), the enemy attacked 152 attack UAVs of the Shahed type (including jet ones), Gerber, barrage \"Banderol\" ammunition and \"Parody\" type simulator drones from the directions: Kursk, Orel, Millerovo, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile forces, electronic defense units and...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 127 ЦІЛЕЙ ПРОТИВНИКА ➖➖➖➖➖➖➖➖➖➖ У ніч на 15 серпня (з 18:00 14 серпня) противник атакував 152 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, баражуючими боєприпасами “Бандероль” та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Орел, Міллерово, Приморсько-Ахтарськ – рф., ТОТ Донецьк. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та...",
+    "time": "",
+    "pubDate": "2026-08-15T06:10:14+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72905",
+    "score": 10.5,
+    "views": 36439,
+    "forwards": 69
+  },
+  {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
     "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
     "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на південному сході...",
@@ -14,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72902",
     "score": 5.0,
-    "views": 7092,
+    "views": 34392,
     "forwards": 1
   },
   {
@@ -85,9 +121,9 @@
     "location": "Dnipro",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198484",
-    "score": 3.0,
-    "views": 43554,
-    "forwards": 35
+    "score": 3.5,
+    "views": 78845,
+    "forwards": 70
   },
   {
     "title": "Kharkiv: BpLA on Vilshany, Kharkiv from the north.",
@@ -194,8 +230,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54811",
     "score": 13.0,
-    "views": 951,
-    "forwards": 5
+    "views": 1206,
+    "forwards": 7
   },
   {
     "title": "Unmanned aerial vehicle in the north of Poltava Region - heading for...",
@@ -356,8 +392,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54807",
     "score": 6.0,
-    "views": 1975,
-    "forwards": 10
+    "views": 2097,
+    "forwards": 11
   },
   {
     "title": "Mykolaiv: A group of BpLA from Kherson region - to Mykolaiv region, heading for...",
@@ -411,42 +447,6 @@
     "link": "https://t.me/kpszsu/72844",
     "score": 6.0,
     "views": 16178,
-    "forwards": 0
-  },
-  {
-    "title": "Air defense active",
-    "title_en": "Air defense active",
-    "title_uk": "Активна ППО",
-    "description": "Ukrainian interceptor drones have already shot down 87% of Russian Shahed, and ground robots have completed 16,000 missions per month, - WSJ about the technological race at the front. The publication writes that in the first half of the year, technological solutions helped Ukraine gain an advantage in certain areas: medium-range strikes hit Russian logistics and slow down the advance of Russian troops, while long-range attacks...",
-    "description_en": "Ukrainian interceptor drones have already shot down 87% of Russian Shahed, and ground robots have completed 16,000 missions per month, - WSJ about the technological race at the front. The publication writes that in the first half of the year, technological solutions helped Ukraine gain an advantage in certain areas: medium-range strikes hit Russian logistics and slow down the advance of Russian troops, while long-range attacks...",
-    "description_uk": "Украинские дроны-перехватчики уже сбивают 87% российских Shahed, а наземные роботы выполнили 16 тысяч миссий за месяц, - WSJ о технологической гонке на фронте Издание пишет, что в первой половине года технологические решения помогли Украине получить преимущество на отдельных направлениях: удары средней дальности бьют по российской логистике и замедляют продвижение войск рф, а дальнобойные атаки...",
-    "time": "",
-    "pubDate": "2026-08-14T18:58:47+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198467",
-    "score": 8.5,
-    "views": 142824,
-    "forwards": 122
-  },
-  {
-    "title": "Dnipro: Drone incoming",
-    "title_en": "Dnipro: Drone incoming",
-    "title_uk": "Дніпро: Дрон вхід",
-    "description": "A jet UAV in the east of Dnipropetrovsk region - heading for Pavlograd.",
-    "description_en": "A jet UAV in the east of Dnipropetrovsk region - heading for Pavlograd.",
-    "description_uk": "Реактивний БпЛА на сході Дніпропетровщини - курсом на Павлоград.",
-    "time": "",
-    "pubDate": "2026-08-14T18:45:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72843",
-    "score": 6.0,
-    "views": 45490,
     "forwards": 0
   }
 ]
