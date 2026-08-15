@@ -14,8 +14,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54819",
     "score": 4.0,
-    "views": 176,
-    "forwards": 1
+    "views": 367,
+    "forwards": 3
   },
   {
     "title": "Cruise missile heading inbound",
@@ -32,8 +32,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198538",
     "score": 5.5,
-    "views": 22510,
-    "forwards": 112
+    "views": 34425,
+    "forwards": 152
   },
   {
     "title": "Kyiv: Attack attack",
@@ -50,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54818",
     "score": 5.0,
-    "views": 1091,
+    "views": 1190,
     "forwards": 3
   },
   {
@@ -68,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72942",
     "score": 6.0,
-    "views": 86627,
+    "views": 92705,
     "forwards": 3
   },
   {
@@ -108,6 +108,24 @@
     "forwards": 6
   },
   {
+    "title": "The rocket has changed its direction and is moving towards the...",
+    "title_en": "The rocket has changed its direction and is moving towards the...",
+    "title_uk": "Ракета змінила напрямок і рухається до...",
+    "description": "The rocket has changed its direction and is moving towards the Kirovohrad region on a northerly course",
+    "description_en": "The rocket has changed its direction and is moving towards the Kirovohrad region on a northerly course",
+    "description_uk": "Ракета змінила напрямок рухається на Кіровоградщину північним курсом",
+    "time": "",
+    "pubDate": "2026-08-15T15:49:36+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72940",
+    "score": 5.5,
+    "views": 117509,
+    "forwards": 81
+  },
+  {
     "title": "The rocket has changed its direction and is moving towards Kirovohrad...",
     "title_en": "The rocket has changed its direction and is moving towards Kirovohrad...",
     "title_uk": "Ракета змінила напрямок і рухається в бік Кіровограда...",
@@ -123,24 +141,6 @@
     "link": "https://t.me/kpszsu/72940",
     "score": 5.5,
     "views": 113444,
-    "forwards": 81
-  },
-  {
-    "title": "The rocket has changed its direction and is moving towards the...",
-    "title_en": "The rocket has changed its direction and is moving towards the...",
-    "title_uk": "Ракета змінила напрямок і рухається до...",
-    "description": "The rocket has changed its direction and is moving towards the Kirovohrad region on a northerly course",
-    "description_en": "The rocket has changed its direction and is moving towards the Kirovohrad region on a northerly course",
-    "description_uk": "Ракета змінила напрямок рухається на Кіровоградщину північним курсом",
-    "time": "",
-    "pubDate": "2026-08-15T15:49:36+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72940",
-    "score": 5.5,
-    "views": 101819,
     "forwards": 81
   },
   {
@@ -218,7 +218,7 @@
   {
     "title": "The founder of Playboy allegedly warned the FBI about Epstein back in...",
     "title_en": "The founder of Playboy allegedly warned the FBI about Epstein back in...",
-    "title_uk": "Засновник Playboy нібито попередив ФБР про Епштейна ще в...",
+    "title_uk": "The founder of Playboy allegedly warned the FBI about Epstein back in...",
     "description": "The founder of Playboy allegedly warned the FBI about Epstein back in 2005, but the bureau contacted the alleged victim only 15 years later, - New York Post This is stated in the updated lawsuit of 32 alleged victims of Epstein against the US government. Former Playboy model Audra Lynn Christiansen claims she told Hugh Hefner about sexual abuse and sex trafficking by Epstein and asked...",
     "description_en": "The founder of Playboy allegedly warned the FBI about Epstein back in 2005, but the bureau contacted the alleged victim only 15 years later, - New York Post This is stated in the updated lawsuit of 32 alleged victims of Epstein against the US government. Former Playboy model Audra Lynn Christiansen claims she told Hugh Hefner about sexual abuse and sex trafficking by Epstein and asked...",
     "description_uk": "Основатель Playboy якобы предупреждал ФБР об Эпштейне еще в 2005 году, но бюро связалось с предполагаемой жертвой лишь спустя 15 лет, - New York Post Об этом говорится в обновленном иске 32 предполагаемых жертв Эпштейна против правительства США. Бывшая модель Playboy Одра Линн Кристиансен утверждает, что рассказала Хью Хефнеру о сексуальном насилии и секс-торговле со стороны Эпштейна и попросила...",
@@ -230,7 +230,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198520",
     "score": 5.5,
-    "views": 126831,
+    "views": 129014,
     "forwards": 109
   },
   {
@@ -374,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20396",
     "score": 12.0,
-    "views": 274699,
+    "views": 276508,
     "forwards": 466
   },
   {
@@ -446,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10011",
     "score": 5.0,
-    "views": 7887,
+    "views": 7897,
     "forwards": 19
   }
 ]
