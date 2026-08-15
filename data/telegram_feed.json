@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: BpLA on Vilshany, Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA on Vilshany, Kharkiv from the north.",
+    "title_uk": "Харків: БпЛА на Вільшані, Харків з півн.",
+    "description": "BpLA on Vilshany, Kharkiv from the north.",
+    "description_en": "BpLA on Vilshany, Kharkiv from the north.",
+    "description_uk": "БпЛА на Вільшани, Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-08-15T03:46:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72894",
+    "score": 6.0,
+    "views": 2009,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: Unmanned aerial vehicle in the north of Chernihiv Oblast - heading...",
+    "title_en": "Chernihiv: Unmanned aerial vehicle in the north of Chernihiv Oblast - heading...",
+    "title_uk": "Чернігів: БПЛА на півночі Чернігівської області - курс...",
+    "description": "Unmanned aerial vehicle in the north of Chernihiv Oblast - heading for Novgorod-Siverskyi.",
+    "description_en": "Unmanned aerial vehicle in the north of Chernihiv Oblast - heading for Novgorod-Siverskyi.",
+    "description_uk": "БпЛА на півночі Чернігівщини - курсом на Новгород-Сіверський.",
+    "time": "",
+    "pubDate": "2026-08-15T03:45:25+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72893",
+    "score": 6.0,
+    "views": 3012,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Харків: Дрон вхід",
@@ -56,7 +92,7 @@
   {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "title_uk": "Київ: Зафіксовано пуск балістичної ракети",
     "description": "Ukraine reportedly strikes Russian military airbase behind ballistic missile attacks as rockets target Samara. Ukrainian forces struck Russia's Savasleyka military airbase, which stores Mig-31 fighter jets capable of launching Kinzhal ballistic missiles, monitoring channels reported overnight on Aug. 15.",
     "description_en": "Ukraine reportedly strikes Russian military airbase behind ballistic missile attacks as rockets target Samara. Ukrainian forces struck Russia's Savasleyka military airbase, which stores Mig-31 fighter jets capable of launching Kinzhal ballistic missiles, monitoring channels reported overnight on Aug. 15.",
     "description_uk": "Ukraine reportedly strikes Russian military airbase behind ballistic missile attacks as rockets target Samara. Ukrainian forces struck Russia's Savasleyka military airbase, which stores Mig-31 fighter jets capable of launching Kinzhal ballistic missiles, monitoring channels reported overnight on Aug. 15.",
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54811",
     "score": 13.0,
-    "views": 317,
+    "views": 449,
     "forwards": 2
   },
   {
@@ -218,7 +254,7 @@
   {
     "title": "Kyiv: 610 injured",
     "title_en": "Kyiv: 610 injured",
-    "title_uk": "Kyiv: 610 injured",
+    "title_uk": "Київ: 610 поранених",
     "description": "July 2026 worst month for civilian casualties in Ukraine since first month of full-scale war. At least 437 civilians in Ukraine were killed and 2,610 injured in July alone, a 30% increase from June. More civilians were killed or injured in July than any month since March 2022.",
     "description_en": "July 2026 worst month for civilian casualties in Ukraine since first month of full-scale war. At least 437 civilians in Ukraine were killed and 2,610 injured in July alone, a 30% increase from June. More civilians were killed or injured in July than any month since March 2022.",
     "description_uk": "July 2026 worst month for civilian casualties in Ukraine since first month of full-scale war. At least 437 civilians in Ukraine were killed and 2,610 injured in July alone, a 30% increase from June. More civilians were killed or injured in July than any month since March 2022.",
@@ -230,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54807",
     "score": 6.0,
-    "views": 1669,
+    "views": 1724,
     "forwards": 10
   },
   {
@@ -290,7 +326,7 @@
   {
     "title": "Air defense active",
     "title_en": "Air defense active",
-    "title_uk": "Air defense active",
+    "title_uk": "Активна ППО",
     "description": "Ukrainian interceptor drones have already shot down 87% of Russian Shahed, and ground robots have completed 16,000 missions per month, - WSJ about the technological race at the front. The publication writes that in the first half of the year, technological solutions helped Ukraine gain an advantage in certain areas: medium-range strikes hit Russian logistics and slow down the advance of Russian troops, while long-range attacks...",
     "description_en": "Ukrainian interceptor drones have already shot down 87% of Russian Shahed, and ground robots have completed 16,000 missions per month, - WSJ about the technological race at the front. The publication writes that in the first half of the year, technological solutions helped Ukraine gain an advantage in certain areas: medium-range strikes hit Russian logistics and slow down the advance of Russian troops, while long-range attacks...",
     "description_uk": "Украинские дроны-перехватчики уже сбивают 87% российских Shahed, а наземные роботы выполнили 16 тысяч миссий за месяц, - WSJ о технологической гонке на фронте Издание пишет, что в первой половине года технологические решения помогли Украине получить преимущество на отдельных направлениях: удары средней дальности бьют по российской логистике и замедляют продвижение войск рф, а дальнобойные атаки...",
@@ -302,7 +338,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198467",
     "score": 8.5,
-    "views": 112790,
+    "views": 119713,
     "forwards": 121
   },
   {
@@ -378,42 +414,6 @@
     "forwards": 6
   },
   {
-    "title": "Chernihiv: 🛸 Unmanned aerial vehicle in the north of Chernihiv Oblast - heading...",
-    "title_en": "Chernihiv: 🛸 Unmanned aerial vehicle in the north of Chernihiv Oblast - heading...",
-    "title_uk": "Чернігів: 🛸 Безпілотний літальний апарат на півночі Чернігівської області - курс...",
-    "description": "🛸 Unmanned aerial vehicle in the north of Chernihiv Oblast - heading for Novgorod-Siverskyi.",
-    "description_en": "🛸 Unmanned aerial vehicle in the north of Chernihiv Oblast - heading for Novgorod-Siverskyi.",
-    "description_uk": "🛸 БпЛА на півночі Чернігівщини - курсом на Новгород-Сіверський.",
-    "time": "",
-    "pubDate": "2026-08-14T15:31:51+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72820",
-    "score": 6.0,
-    "views": 6044,
-    "forwards": 0
-  },
-  {
-    "title": "Several unmanned aerial vehicles from the Black Sea - to Odesa,...",
-    "title_en": "Several unmanned aerial vehicles from the Black Sea - to Odesa,...",
-    "title_uk": "Кілька безпілотників з Чорного моря - до Одеси,...",
-    "description": "Several unmanned aerial vehicles from the Black Sea - to Odesa, heading for Zatok, Tatarbunary.",
-    "description_en": "Several unmanned aerial vehicles from the Black Sea - to Odesa, heading for Zatok, Tatarbunary.",
-    "description_uk": "Кілька БпЛА з Чорного моря - на Одещину, курсом на Затоку, Татарбунари.",
-    "time": "",
-    "pubDate": "2026-08-14T15:28:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72818",
-    "score": 5.0,
-    "views": 11113,
-    "forwards": 0
-  },
-  {
     "title": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
     "title_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
     "title_uk": "Глава МЗС України Андрій...",
@@ -428,15 +428,15 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10011",
     "score": 5.0,
-    "views": 4208,
+    "views": 4419,
     "forwards": 12
   },
   {
-    "title": "Kramatorsk: Strike confirmed on residential building",
-    "title_en": "Kramatorsk: Strike confirmed on residential building",
-    "title_uk": "Краматорськ: підтверджено удар по житловому будинку",
-    "description": "З ночі наші рятувальні служби працюють на місцях російських атак. У Краматорську на Донеччині через російський удар авіабомбою стався обвал під’їзду десятиповерхівки з першого по шостий поверх. Загинула одна людина, ще 16 поранені. У селищі Степанівка на Сумщині внаслідок влучання «шахеда» в приватний будинок загинули дві людини, і серед них дитина. Мої співчуття рідним та близьким. У Смілі на...",
-    "description_en": "З ночі наші рятувальні служби працюють на місцях російських атак. У Краматорську на Донеччині через російський удар авіабомбою стався обвал під’їзду десятиповерхівки з першого по шостий поверх. Загинула одна людина, ще 16 поранені. У селищі Степанівка на Сумщині внаслідок влучання «шахеда» в приватний будинок загинули дві людини, і серед них дитина. Мої співчуття рідним та близьким. У Смілі на...",
+    "title": "Kramatorsk: Casualties reported",
+    "title_en": "Kramatorsk: Casualties reported",
+    "title_uk": "Краматорськ: повідомляється про постраждалих",
+    "description": "Since night, our rescue services have been working at the sites of Russian attacks. In Kramatorsk, Donetsk region, the entrance of a ten-story building from the first to the sixth floor collapsed due to a Russian airstrike. One person died, another 16 were injured. In the village of Stepanivka, Sumy Oblast, two people were killed, including a child, as a result of a \"shaheed\" hitting a private house. My condolences to family and friends. In Smila on...",
+    "description_en": "Since night, our rescue services have been working at the sites of Russian attacks. In Kramatorsk, Donetsk region, the entrance of a ten-story building from the first to the sixth floor collapsed due to a Russian airstrike. One person died, another 16 were injured. In the village of Stepanivka, Sumy Oblast, two people were killed, including a child, as a result of a \"shaheed\" hitting a private house. My condolences to family and friends. In Smila on...",
     "description_uk": "З ночі наші рятувальні служби працюють на місцях російських атак. У Краматорську на Донеччині через російський удар авіабомбою стався обвал під’їзду десятиповерхівки з першого по шостий поверх. Загинула одна людина, ще 16 поранені. У селищі Степанівка на Сумщині внаслідок влучання «шахеда» в приватний будинок загинули дві людини, і серед них дитина. Мої співчуття рідним та близьким. У Смілі на...",
     "time": "",
     "pubDate": "2026-08-14T07:43:48+00:00",
@@ -446,7 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20386",
     "score": 16.5,
-    "views": 250911,
+    "views": 252331,
     "forwards": 228
   }
 ]
