@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "Ukraine is running out of missiles for the Patriot - during the last attacks some launchers were empty, - Financial Times Ukrainian officials told the FT that a small supply of interceptors recently received from the US had already been used up. As a result, during the attack on Kiev on August 5, Ukraine was not able to intercept any of the 24 ballistic missiles. Six more ballistic missiles...",
+    "description_en": "Ukraine is running out of missiles for the Patriot - during the last attacks some launchers were empty, - Financial Times Ukrainian officials told the FT that a small supply of interceptors recently received from the US had already been used up. As a result, during the attack on Kiev on August 5, Ukraine was not able to intercept any of the 24 ballistic missiles. Six more ballistic missiles...",
+    "description_uk": "У Украины заканчиваются ракеты для Patriot - во время последних атак некоторые пусковые установки стояли пустыми, - Financial Times Украинские чиновники рассказали FT, что небольшой запас недавно полученных от США перехватчиков уже был израсходован. В результате во время удара по Киеву 5 августа Украина не смогла перехватить ни одну из 24 баллистических ракет. Еще шесть баллистических ракет...",
+    "time": "",
+    "pubDate": "2026-08-15T13:45:07+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198516",
+    "score": 3.0,
+    "views": 16121,
+    "forwards": 34
+  },
+  {
+    "title": "Strike confirmed",
+    "title_en": "Strike confirmed",
+    "title_uk": "Страйк підтверджено",
+    "description": "После прилетов Wildberries начал скрывать свои склады от продавцов — теперь они не будут знать, где лежит их товар росСМИ пишут, что вместо конкретных объектов теперь будут отображаться просто «Склад W РФ» и «Склад W СГТ РФ». При этом количество товара по-прежнему видно. В Wildberries объясняют это новой схемой поставок и дополнительной защитой складов. Теперь продавцы смогут передавать товары...",
+    "description_en": "После прилетов Wildberries начал скрывать свои склады от продавцов — теперь они не будут знать, где лежит их товар росСМИ пишут, что вместо конкретных объектов теперь будут отображаться просто «Склад W РФ» и «Склад W СГТ РФ». При этом количество товара по-прежнему видно. В Wildberries объясняют это новой схемой поставок и дополнительной защитой складов. Теперь продавцы смогут передавать товары...",
+    "description_uk": "После прилетов Wildberries начал скрывать свои склады от продавцов — теперь они не будут знать, где лежит их товар росСМИ пишут, что вместо конкретных объектов теперь будут отображаться просто «Склад W РФ» и «Склад W СГТ РФ». При этом количество товара по-прежнему видно. В Wildberries объясняют это новой схемой поставок и дополнительной защитой складов. Теперь продавцы смогут передавать товары...",
+    "time": "",
+    "pubDate": "2026-08-15T11:31:06+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198508",
+    "score": 4.5,
+    "views": 90379,
+    "forwards": 72
+  },
+  {
     "title": "After the arrival of the Wildberries, he began to hide his warehouses...",
     "title_en": "After the arrival of the Wildberries, he began to hide his warehouses...",
     "title_uk": "After the arrival of the Wildberries, he began to hide his warehouses...",
@@ -21,8 +57,8 @@
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Миколаїв: Дрон вхід",
-    "description": "UAV in the waters of the Black Sea, heading for Mykolaiv Oblast.",
-    "description_en": "UAV in the waters of the Black Sea, heading for Mykolaiv Oblast.",
+    "description": "БпЛА в акваторії Чорного моря, курсом на Миколаївщину.",
+    "description_en": "БпЛА в акваторії Чорного моря, курсом на Миколаївщину.",
     "description_uk": "БпЛА в акваторії Чорного моря, курсом на Миколаївщину.",
     "time": "",
     "pubDate": "2026-08-15T11:11:11+00:00",
@@ -32,13 +68,13 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72922",
     "score": 6.0,
-    "views": 102472,
+    "views": 104550,
     "forwards": 0
   },
   {
     "title": "Izmail: Drone incoming",
     "title_en": "Izmail: Drone incoming",
-    "title_uk": "Ізмаїл: Наліт дрон",
+    "title_uk": "Izmail: Drone incoming",
     "description": "UAV in the waters of the Black Sea, heading for the Izmail district.",
     "description_en": "UAV in the waters of the Black Sea, heading for the Izmail district.",
     "description_uk": "БпЛА в акваторії Чорного моря, курсом на Ізмаїльський район.",
@@ -50,7 +86,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72921",
     "score": 6.0,
-    "views": 89507,
+    "views": 91824,
     "forwards": 0
   },
   {
@@ -86,8 +122,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20396",
     "score": 12.0,
-    "views": 206130,
-    "forwards": 415
+    "views": 211035,
+    "forwards": 417
   },
   {
     "title": "Сьогодні є нові вагомі результати наших дипстрайків. У Самарському...",
@@ -160,24 +196,6 @@
     "score": 6.0,
     "views": 6070,
     "forwards": 0
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "Ukraine will not receive enough Patriot missiles before the winter — it will have to prepare for serious interruptions with electricity, water and heating, — The Guardian Ukraine is running out of missile supplies for Patriot — one of the few systems capable of effectively shooting down ballistic missiles. According to The Guardian, the share of ballistic intercepts dropped from more than 70% to zero. The problem is also in scale. Russian Federation produces...",
-    "description_en": "Ukraine will not receive enough Patriot missiles before the winter — it will have to prepare for serious interruptions with electricity, water and heating, — The Guardian Ukraine is running out of missile supplies for Patriot — one of the few systems capable of effectively shooting down ballistic missiles. According to The Guardian, the share of ballistic intercepts dropped from more than 70% to zero. The problem is also in scale. Russian Federation produces...",
-    "description_uk": "Украина не получит достаточно ракет Patriot до зимы — придется готовиться к серьезным перебоям с электричеством, водой и отоплением, — The Guardian Украина исчерпывает запасы ракет для Patriot — одной из немногих систем, способных эффективно сбивать баллистические ракеты. По данным The Guardian, доля перехватов баллистики упала с более чем 70% до нуля. Проблема еще и в масштабах. рф производит...",
-    "time": "",
-    "pubDate": "2026-08-15T06:40:01+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198493",
-    "score": 4.5,
-    "views": 126408,
-    "forwards": 250
   },
   {
     "title": "Donetsk: Drone incoming",
@@ -374,7 +392,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54811",
     "score": 13.0,
-    "views": 2280,
+    "views": 2300,
     "forwards": 9
   },
   {
@@ -392,7 +410,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54807",
     "score": 6.0,
-    "views": 2584,
+    "views": 2595,
     "forwards": 13
   },
   {
@@ -410,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10011",
     "score": 5.0,
-    "views": 7347,
+    "views": 7361,
     "forwards": 18
   },
   {
@@ -428,7 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20386",
     "score": 16.5,
-    "views": 273061,
+    "views": 273366,
     "forwards": 228
   }
 ]
