@@ -14,8 +14,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54818",
     "score": 5.0,
-    "views": 520,
-    "forwards": 2
+    "views": 747,
+    "forwards": 3
   },
   {
     "title": "Sumy: BpLA headed for Sumy from the north.",
@@ -32,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72942",
     "score": 6.0,
-    "views": 56948,
-    "forwards": 2
+    "views": 72143,
+    "forwards": 3
   },
   {
     "title": "Sumy: Drone incoming",
@@ -68,8 +68,26 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54817",
     "score": 5.0,
-    "views": 1213,
+    "views": 1349,
     "forwards": 6
+  },
+  {
+    "title": "The rocket has changed its direction and is moving towards the...",
+    "title_en": "The rocket has changed its direction and is moving towards the...",
+    "title_uk": "Ракета змінила напрямок і рухається до...",
+    "description": "The rocket has changed its direction and is moving towards the Kirovohrad region on a northerly course",
+    "description_en": "The rocket has changed its direction and is moving towards the Kirovohrad region on a northerly course",
+    "description_uk": "Ракета змінила напрямок рухається на Кіровоградщину північним курсом",
+    "time": "",
+    "pubDate": "2026-08-15T15:49:36+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72940",
+    "score": 5.5,
+    "views": 101819,
+    "forwards": 81
   },
   {
     "title": "The rocket has changed its direction and is moving towards Kirovohrad...",
@@ -88,24 +106,6 @@
     "score": 5.5,
     "views": 90655,
     "forwards": 80
-  },
-  {
-    "title": "The rocket has changed its direction and is moving towards the...",
-    "title_en": "The rocket has changed its direction and is moving towards the...",
-    "title_uk": "Ракета змінила напрямок і рухається до...",
-    "description": "The rocket has changed its direction and is moving towards the Kirovohrad region on a northerly course",
-    "description_en": "The rocket has changed its direction and is moving towards the Kirovohrad region on a northerly course",
-    "description_uk": "Ракета змінила напрямок рухається на Кіровоградщину північним курсом",
-    "time": "",
-    "pubDate": "2026-08-15T15:49:36+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72940",
-    "score": 5.5,
-    "views": 72573,
-    "forwards": 68
   },
   {
     "title": "Ракета змінила напрямок рухається на Кіровоградщину північним курсом",
@@ -194,7 +194,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198520",
     "score": 5.5,
-    "views": 106570,
+    "views": 115123,
     "forwards": 108
   },
   {
@@ -218,7 +218,7 @@
   {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
-    "title_uk": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
     "description": "Ukraine is running out of missiles for the Patriot - during the last attacks some launchers were empty, - Financial Times Ukrainian officials told the FT that a small supply of interceptors recently received from the US had already been used up. As a result, during the attack on Kiev on August 5, Ukraine was not able to intercept any of the 24 ballistic missiles. Six more ballistic missiles...",
     "description_en": "Ukraine is running out of missiles for the Patriot - during the last attacks some launchers were empty, - Financial Times Ukrainian officials told the FT that a small supply of interceptors recently received from the US had already been used up. As a result, during the attack on Kiev on August 5, Ukraine was not able to intercept any of the 24 ballistic missiles. Six more ballistic missiles...",
     "description_uk": "У Украины заканчиваются ракеты для Patriot - во время последних атак некоторые пусковые установки стояли пустыми, - Financial Times Украинские чиновники рассказали FT, что небольшой запас недавно полученных от США перехватчиков уже был израсходован. В результате во время удара по Киеву 5 августа Украина не смогла перехватить ни одну из 24 баллистических ракет. Еще шесть баллистических ракет...",
@@ -230,7 +230,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198516",
     "score": 3.5,
-    "views": 120730,
+    "views": 127100,
     "forwards": 105
   },
   {
@@ -324,6 +324,24 @@
     "forwards": 0
   },
   {
+    "title": "Missile attack",
+    "title_en": "Missile attack",
+    "title_uk": "Ракетна атака",
+    "description": "Today there are new significant results of our deep strikes. In the Samara region of Russia, one of the key enterprises of Roskosmos was affected - the Progress center, which was involved, in particular, in the production of electronics. Flamingo missiles were used, a good achievement. The distance from our border is about 900 kilometers. Our long-range sanctions also reached the airfield \"Savasleika\", where the carriers are based...",
+    "description_en": "Today there are new significant results of our deep strikes. In the Samara region of Russia, one of the key enterprises of Roskosmos was affected - the Progress center, which was involved, in particular, in the production of electronics. Flamingo missiles were used, a good achievement. The distance from our border is about 900 kilometers. Our long-range sanctions also reached the airfield \"Savasleika\", where the carriers are based...",
+    "description_uk": "Сьогодні є нові вагомі результати наших дипстрайків. У Самарському регіоні Росії уражено одне з ключових підприємств у складі «Роскосмосу» – центр «Прогрес», який займався, зокрема, виробництвом електроніки. Застосовувалися ракети «Фламінго», хороше досягнення. Відстань від нашого кордону – близько 900 кілометрів. Наші далекобійні санкції також досягли аеродрому «Саваслейка», де базуються носії...",
+    "time": "",
+    "pubDate": "2026-08-15T08:41:54+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20396",
+    "score": 12.0,
+    "views": 267376,
+    "forwards": 462
+  },
+  {
     "title": "Сьогодні є нові вагомі результати наших дипстрайків. У Самарському...",
     "title_en": "Сьогодні є нові вагомі результати наших дипстрайків. У Самарському...",
     "title_uk": "Сьогодні є нові вагомі результати наших дипстрайків. У Самарському...",
@@ -339,24 +357,6 @@
     "link": "https://t.me/V_Zelenskiy_official/20396",
     "score": 12.0,
     "views": 262072,
-    "forwards": 452
-  },
-  {
-    "title": "Missile attack",
-    "title_en": "Missile attack",
-    "title_uk": "Ракетна атака",
-    "description": "Today there are new significant results of our deep strikes. In the Samara region of Russia, one of the key enterprises of Roskosmos was affected - the Progress center, which was involved, in particular, in the production of electronics. Flamingo missiles were used, a good achievement. The distance from our border is about 900 kilometers. Our long-range sanctions also reached the airfield \"Savasleika\", where the carriers are based...",
-    "description_en": "Today there are new significant results of our deep strikes. In the Samara region of Russia, one of the key enterprises of Roskosmos was affected - the Progress center, which was involved, in particular, in the production of electronics. Flamingo missiles were used, a good achievement. The distance from our border is about 900 kilometers. Our long-range sanctions also reached the airfield \"Savasleika\", where the carriers are based...",
-    "description_uk": "Сьогодні є нові вагомі результати наших дипстрайків. У Самарському регіоні Росії уражено одне з ключових підприємств у складі «Роскосмосу» – центр «Прогрес», який займався, зокрема, виробництвом електроніки. Застосовувалися ракети «Фламінго», хороше досягнення. Відстань від нашого кордону – близько 900 кілометрів. Наші далекобійні санкції також досягли аеродрому «Саваслейка», де базуються носії...",
-    "time": "",
-    "pubDate": "2026-08-15T08:41:54+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20396",
-    "score": 12.0,
-    "views": 257065,
     "forwards": 452
   },
   {
@@ -434,7 +434,7 @@
   {
     "title": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
     "title_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
-    "title_uk": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
+    "title_uk": "Глава МЗС України Андрій...",
     "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, welcomed New Zealand's joining the International Coalition for the Return of Ukrainian Children. \"New Zealand has become the 51st member of the Coalition, strengthening our joint international efforts to bring home Ukrainian children illegally deported and forcibly displaced by Russia. With each new country that joins the Coalition, international pressure on Russia grows, and...",
     "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, welcomed New Zealand's joining the International Coalition for the Return of Ukrainian Children. \"New Zealand has become the 51st member of the Coalition, strengthening our joint international efforts to bring home Ukrainian children illegally deported and forcibly displaced by Russia. With each new country that joins the Coalition, international pressure on Russia grows, and...",
     "description_uk": "Очільник МЗС України Андрій Сибіга привітав приєднання Нової Зеландії до Міжнародної коаліції за повернення українських дітей. “Нова Зеландія стала 51-м членом Коаліції, посиливши наші спільні міжнародні зусилля щодо повернення додому українських дітей, незаконно депортованих та примусово переміщених Росією. З кожною новою країною, що приєднується до Коаліції, міжнародний тиск на Росію зростає, а...",
@@ -446,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10011",
     "score": 5.0,
-    "views": 7791,
+    "views": 7821,
     "forwards": 19
   }
 ]
