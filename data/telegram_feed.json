@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: Attack attack",
+    "title_en": "Kyiv: Attack attack",
+    "title_uk": "Київ: Атака",
+    "description": "Ukrainian forces target Moscow Oblast, damaging Wildberries warehouse in major attack. Ukrainian forces targeted a warehouse belonging to major Russian online retailer Wildberries and cities across Russia's Moscow Oblast in a major overnight attack on Aug. 16, monitoring channels reported.",
+    "description_en": "Ukrainian forces target Moscow Oblast, damaging Wildberries warehouse in major attack. Ukrainian forces targeted a warehouse belonging to major Russian online retailer Wildberries and cities across Russia's Moscow Oblast in a major overnight attack on Aug. 16, monitoring channels reported.",
+    "description_uk": "Ukrainian forces target Moscow Oblast, damaging Wildberries warehouse in major attack. Ukrainian forces targeted a warehouse belonging to major Russian online retailer Wildberries and cities across Russia's Moscow Oblast in a major overnight attack on Aug. 16, monitoring channels reported.",
+    "time": "",
+    "pubDate": "2026-08-16T02:28:02+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54822",
+    "score": 8.0,
+    "views": 104,
+    "forwards": 3
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea, heading for Odesa (Balabanivka).",
+    "description_en": "UAV from the Black Sea, heading for Odesa (Balabanivka).",
+    "description_uk": "БпЛА з акваторії Чорного моря, курсом на Одещину (Балабанівка).",
+    "time": "",
+    "pubDate": "2026-08-16T01:55:16+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72974",
+    "score": 5.0,
+    "views": 16427,
+    "forwards": 13
+  },
+  {
+    "title": "BpLA in the south of Odesa, heading for the Reni.",
+    "title_en": "BpLA in the south of Odesa, heading for the Reni.",
+    "title_uk": "BpLA на півдні Одеси, прямуючи до Рені.",
+    "description": "BpLA in the south of Odesa, heading for the Reni.",
+    "description_en": "BpLA in the south of Odesa, heading for the Reni.",
+    "description_uk": "БпЛА на півдні Одещини, курсом на Рені.",
+    "time": "",
+    "pubDate": "2026-08-16T01:23:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72968",
+    "score": 5.0,
+    "views": 31226,
+    "forwards": 0
+  },
+  {
     "title": "BpLA in the south of Odesa, heading for the Rhine.",
     "title_en": "BpLA in the south of Odesa, heading for the Rhine.",
     "title_uk": "BpLA на півдні Одеси, прямуючи до Рейну.",
@@ -38,7 +92,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
+    "title_uk": "Київ: повідомлення про вибухи",
     "description": "Russian attack rocks Kyiv as numerous explosions heard within minutes. A Russian attack rocked Kyiv overnight on Aug. 16 as multiple explosions were heard in Ukraine's capital within minutes.",
     "description_en": "Russian attack rocks Kyiv as numerous explosions heard within minutes. A Russian attack rocked Kyiv overnight on Aug. 16 as multiple explosions were heard in Ukraine's capital within minutes.",
     "description_uk": "Russian attack rocks Kyiv as numerous explosions heard within minutes. A Russian attack rocked Kyiv overnight on Aug. 16 as multiple explosions were heard in Ukraine's capital within minutes.",
@@ -50,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54821",
     "score": 8.0,
-    "views": 310,
-    "forwards": 3
+    "views": 515,
+    "forwards": 4
   },
   {
     "title": "Kyiv: Drone strike",
@@ -176,7 +230,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198543",
     "score": 9.5,
-    "views": 92277,
+    "views": 103461,
     "forwards": 252
   },
   {
@@ -194,8 +248,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198540",
     "score": 4.5,
-    "views": 97206,
-    "forwards": 139
+    "views": 106813,
+    "forwards": 149
   },
   {
     "title": "Kyiv: Poland will soon have Europe's largest army, Tusk pledges. \"Our...",
@@ -232,24 +286,6 @@
     "score": 6.5,
     "views": 50689,
     "forwards": 222
-  },
-  {
-    "title": "Kyiv: Attack attack",
-    "title_en": "Kyiv: Attack attack",
-    "title_uk": "Київ: Атака",
-    "description": "Zelensky orders government to prepare law protecting Ukraine's cultural monuments. \"Today, I signed a decree on measures at the state level to protect Ukraine's national shrines,\" Zelensky said on the 975th anniversary of the Kyiv Pechersk Lavra. The monastery was badly damaged during a Russian strike in June.",
-    "description_en": "Zelensky orders government to prepare law protecting Ukraine's cultural monuments. \"Today, I signed a decree on measures at the state level to protect Ukraine's national shrines,\" Zelensky said on the 975th anniversary of the Kyiv Pechersk Lavra. The monastery was badly damaged during a Russian strike in June.",
-    "description_uk": "Zelensky orders government to prepare law protecting Ukraine's cultural monuments. \"Today, I signed a decree on measures at the state level to protect Ukraine's national shrines,\" Zelensky said on the 975th anniversary of the Kyiv Pechersk Lavra. The monastery was badly damaged during a Russian strike in June.",
-    "time": "",
-    "pubDate": "2026-08-15T17:40:43+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54818",
-    "score": 5.0,
-    "views": 2003,
-    "forwards": 4
   },
   {
     "title": "Sumy: BpLA headed for Sumy from the north.",
@@ -412,41 +448,5 @@
     "score": 6.0,
     "views": 21273,
     "forwards": 0
-  },
-  {
-    "title": "The founder of Playboy allegedly warned the FBI about Epstein back in...",
-    "title_en": "The founder of Playboy allegedly warned the FBI about Epstein back in...",
-    "title_uk": "Засновник Playboy нібито попередив ФБР про Епштейна ще в...",
-    "description": "The founder of Playboy allegedly warned the FBI about Epstein back in 2005, but the bureau contacted the alleged victim only 15 years later, - New York Post This is stated in the updated lawsuit of 32 alleged victims of Epstein against the US government. Former Playboy model Audra Lynn Christiansen claims she told Hugh Hefner about sexual abuse and sex trafficking by Epstein and asked...",
-    "description_en": "The founder of Playboy allegedly warned the FBI about Epstein back in 2005, but the bureau contacted the alleged victim only 15 years later, - New York Post This is stated in the updated lawsuit of 32 alleged victims of Epstein against the US government. Former Playboy model Audra Lynn Christiansen claims she told Hugh Hefner about sexual abuse and sex trafficking by Epstein and asked...",
-    "description_uk": "Основатель Playboy якобы предупреждал ФБР об Эпштейне еще в 2005 году, но бюро связалось с предполагаемой жертвой лишь спустя 15 лет, - New York Post Об этом говорится в обновленном иске 32 предполагаемых жертв Эпштейна против правительства США. Бывшая модель Playboy Одра Линн Кристиансен утверждает, что рассказала Хью Хефнеру о сексуальном насилии и секс-торговле со стороны Эпштейна и попросила...",
-    "time": "",
-    "pubDate": "2026-08-15T14:59:02+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198520",
-    "score": 5.5,
-    "views": 133277,
-    "forwards": 110
-  },
-  {
-    "title": "Основатель Playboy якобы предупреждал ФБР об Эпштейне еще в 2005...",
-    "title_en": "Основатель Playboy якобы предупреждал ФБР об Эпштейне еще в 2005...",
-    "title_uk": "Основатель Playboy якоби передупередив ФБР про Епштейне ще в 2005 році...",
-    "description": "Основатель Playboy якобы предупреждал ФБР об Эпштейне еще в 2005 году, но бюро связалось с предполагаемой жертвой лишь спустя 15 лет, - New York Post Об этом говорится в обновленном иске 32 предполагаемых жертв Эпштейна против правительства США. Бывшая модель Playboy Одра Линн Кристиансен утверждает, что рассказала Хью Хефнеру о сексуальном насилии и секс-торговле со стороны Эпштейна и попросила...",
-    "description_en": "Основатель Playboy якобы предупреждал ФБР об Эпштейне еще в 2005 году, но бюро связалось с предполагаемой жертвой лишь спустя 15 лет, - New York Post Об этом говорится в обновленном иске 32 предполагаемых жертв Эпштейна против правительства США. Бывшая модель Playboy Одра Линн Кристиансен утверждает, что рассказала Хью Хефнеру о сексуальном насилии и секс-торговле со стороны Эпштейна и попросила...",
-    "description_uk": "Основатель Playboy якобы предупреждал ФБР об Эпштейне еще в 2005 году, но бюро связалось с предполагаемой жертвой лишь спустя 15 лет, - New York Post Об этом говорится в обновленном иске 32 предполагаемых жертв Эпштейна против правительства США. Бывшая модель Playboy Одра Линн Кристиансен утверждает, что рассказала Хью Хефнеру о сексуальном насилии и секс-торговле со стороны Эпштейна и попросила...",
-    "time": "",
-    "pubDate": "2026-08-15T14:59:02+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198520",
-    "score": 5.0,
-    "views": 48484,
-    "forwards": 39
   }
 ]
