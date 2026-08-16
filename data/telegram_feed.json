@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kryvyi Rih: Ballistic missile launch detected",
+    "title_en": "Kryvyi Rih: Ballistic missile launch detected",
+    "title_uk": "Кривий Ріг: виявлено пуск балістичної ракети",
+    "description": "88 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of August 16 (from 18:00 on August 15), the enemy attacked Kyiv, Kremenchuk, and Kryvyi Rih with Onyx anti-ship missiles, Iskander-M/S-400/KN-23 ballistic missiles from the Kursk, Bryansk, and Voronezh regions, guided air missiles X-59/69 from the airspace of the TOT of the Kherson region, Belgorod region, as well as 106 strike UAVs of the type...",
+    "description_en": "88 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of August 16 (from 18:00 on August 15), the enemy attacked Kyiv, Kremenchuk, and Kryvyi Rih with Onyx anti-ship missiles, Iskander-M/S-400/KN-23 ballistic missiles from the Kursk, Bryansk, and Voronezh regions, guided air missiles X-59/69 from the airspace of the TOT of the Kherson region, Belgorod region, as well as 106 strike UAVs of the type...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 88 ЦІЛЕЙ ПРОТИВНИКА ➖➖➖➖➖➖➖➖➖➖ У ніч на 16 серпня (з 18:00 15 серпня) противник атакував Київ, Кременчук та Кривий Ріг протикорабельними ракетами Онікс, балістичними ракетами Іскандер-М/С-400/KN-23 із Курської, Брянської та Воронезької обл., керованими авіаційними ракетами Х-59/69 із повітряного простору ТОТ Херсонської обл., Бєлгородської обл., а також 106 ударними БпЛА типу...",
+    "time": "",
+    "pubDate": "2026-08-16T05:01:36+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72984",
+    "score": 13.5,
+    "views": 28306,
+    "forwards": 70
+  },
+  {
     "title": "Dnipro: Drone incoming",
     "title_en": "Dnipro: Drone incoming",
     "title_uk": "Дніпро: Дрон вхід",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72982",
     "score": 6.0,
-    "views": 33333,
+    "views": 51519,
     "forwards": 1
   },
   {
@@ -68,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54822",
     "score": 8.0,
-    "views": 670,
+    "views": 790,
     "forwards": 6
   },
   {
@@ -146,7 +164,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
+    "title_uk": "Київ: повідомляється про вибухи",
     "description": "Russian attack rocks Kyiv as numerous explosions heard within minutes. A Russian attack rocked Kyiv overnight on Aug. 16 as multiple explosions were heard in Ukraine's capital within minutes.",
     "description_en": "Russian attack rocks Kyiv as numerous explosions heard within minutes. A Russian attack rocked Kyiv overnight on Aug. 16 as multiple explosions were heard in Ukraine's capital within minutes.",
     "description_uk": "Russian attack rocks Kyiv as numerous explosions heard within minutes. A Russian attack rocked Kyiv overnight on Aug. 16 as multiple explosions were heard in Ukraine's capital within minutes.",
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54821",
     "score": 8.0,
-    "views": 945,
+    "views": 1054,
     "forwards": 5
   },
   {
@@ -284,7 +302,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198543",
     "score": 9.5,
-    "views": 141509,
+    "views": 152158,
     "forwards": 252
   },
   {
@@ -392,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20396",
     "score": 12.0,
-    "views": 309058,
+    "views": 311590,
     "forwards": 488
   },
   {
@@ -410,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10011",
     "score": 5.0,
-    "views": 8309,
+    "views": 8323,
     "forwards": 19
   },
   {
@@ -428,7 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20386",
     "score": 16.5,
-    "views": 288072,
+    "views": 288744,
     "forwards": 233
   }
 ]
