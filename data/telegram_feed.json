@@ -1,5 +1,41 @@
 [
   {
+    "title": "Air defense active",
+    "title_en": "Air defense active",
+    "title_uk": "Активна ППО",
+    "description": "The target is visible, but it is not always possible to shoot it down - the monitoring channels showed how air defense works. As the monitors explain, the detection of a drone does not mean the possibility of its immediate destruction. Between the appearance of the target on the screen and the interception, it is necessary to determine the type of UAV and its route, find a suitable means of defeat and choose a safe moment for the attack. Therefore, the drone can fly...",
+    "description_en": "The target is visible, but it is not always possible to shoot it down - the monitoring channels showed how air defense works. As the monitors explain, the detection of a drone does not mean the possibility of its immediate destruction. Between the appearance of the target on the screen and the interception, it is necessary to determine the type of UAV and its route, find a suitable means of defeat and choose a safe moment for the attack. Therefore, the drone can fly...",
+    "description_uk": "Цель видна, но сбить ее не всегда возможно, - мониторинговые каналы показали, как работает ПВО Как объясняют мониторы, обнаружение дрона еще не означает возможность его немедленного уничтожения. Между появлением цели на экране и перехватом необходимо определить тип БПЛА и его маршрут, найти подходящее средство поражения и выбрать безопасный момент для атаки. Поэтому дрон может пролететь...",
+    "time": "",
+    "pubDate": "2026-08-16T15:29:50+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198611",
+    "score": 5.0,
+    "views": 13990,
+    "forwards": 35
+  },
+  {
+    "title": "Mykolaiv: Unmanned aerial vehicle in the north of Chernihiv Oblast - heading...",
+    "title_en": "Mykolaiv: Unmanned aerial vehicle in the north of Chernihiv Oblast - heading...",
+    "title_uk": "Миколаїв: БПЛА на півночі Чернігівської області - курс...",
+    "description": "Unmanned aerial vehicle in the north of Chernihiv Oblast - heading for Kholmy. 🛵 BpLA in the Mykolaiv region - heading for Voznesensk.",
+    "description_en": "Unmanned aerial vehicle in the north of Chernihiv Oblast - heading for Kholmy. 🛵 BpLA in the Mykolaiv region - heading for Voznesensk.",
+    "description_uk": "БпЛА на півночі Чернігівщини - курсом на Холми. 🛵 БпЛА на Миколаївщині - курсом на Вознесенськ.",
+    "time": "",
+    "pubDate": "2026-08-16T15:22:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73065",
+    "score": 6.0,
+    "views": 16174,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Харків: Дрон вхід",
@@ -14,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73064",
     "score": 6.0,
-    "views": 1005,
+    "views": 26285,
     "forwards": 0
   },
   {
@@ -70,24 +106,6 @@
     "score": 6.0,
     "views": 7084,
     "forwards": 0
-  },
-  {
-    "title": "Air defense active",
-    "title_en": "Air defense active",
-    "title_uk": "Активна ППО",
-    "description": "👀 Ukraine has almost doubled the use of Flamingo missiles in the Russian Federation Since June, the Ministry of Defense of the Russian Federation announced the interception of at least 57 Flamingo missiles, while from February to May it was reported about 31. In the last two weeks alone, the Russian agency reported 25 downed missiles, the Agency notes. In the summer, at least four successful \"Flamingo\" strikes on Russian enterprises in Cheboksary were confirmed,...",
-    "description_en": "👀 Ukraine has almost doubled the use of Flamingo missiles in the Russian Federation Since June, the Ministry of Defense of the Russian Federation announced the interception of at least 57 Flamingo missiles, while from February to May it was reported about 31. In the last two weeks alone, the Russian agency reported 25 downed missiles, the Agency notes. In the summer, at least four successful \"Flamingo\" strikes on Russian enterprises in Cheboksary were confirmed,...",
-    "description_uk": "👀 Украина почти вдвое нарастила применение ракет \"Фламинго\" по рф С июня Минобороны рф заявило о перехвате как минимум 57 ракет \"Фламинго\", тогда как с февраля по май сообщалось о 31. Только за последние две недели российское ведомство отчиталось о 25 сбитых ракетах, отмечает \"Агентство\". Летом подтверждались как минимум четыре успешных удара \"Фламинго\" по российским предприятиям в Чебоксарах,...",
-    "time": "",
-    "pubDate": "2026-08-16T13:50:11+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198604",
-    "score": 8.5,
-    "views": 72170,
-    "forwards": 103
   },
   {
     "title": "Kharkiv: BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
@@ -194,8 +212,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54829",
     "score": 10.0,
-    "views": 1092,
-    "forwards": 3
+    "views": 1183,
+    "forwards": 4
   },
   {
     "title": "Drone incoming",
@@ -302,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54827",
     "score": 8.0,
-    "views": 1512,
+    "views": 1585,
     "forwards": 4
   },
   {
@@ -430,23 +448,5 @@
     "score": 5.0,
     "views": 3005,
     "forwards": 0
-  },
-  {
-    "title": "Missile launch detected",
-    "title_en": "Missile launch detected",
-    "title_uk": "Виявлено запуск ракети",
-    "description": "The Russians were fired in the occupied Crimea as well: the defense forces hit the \"Bastion\", from which the Russian Federation launches \"Onyx\" and \"Zirkons\", the Navy reports that the starting positions and the deployment site of the Russian coastal missile complex were hit. The enemy suffered significant losses in weapons and personnel.",
-    "description_en": "The Russians were fired in the occupied Crimea as well: the defense forces hit the \"Bastion\", from which the Russian Federation launches \"Onyx\" and \"Zirkons\", the Navy reports that the starting positions and the deployment site of the Russian coastal missile complex were hit. The enemy suffered significant losses in weapons and personnel.",
-    "description_uk": "Прожарка русни была и в оккупированном Крыму: Силы обороны ударили по «Бастиону», из которого рф запускает «Ониксы» и «Цирконы» ВМС сообщают, что были поражены стартовые позиции и место дислокации российского берегового ракетного комплекса. Противник понес значительные потери в вооружении и личном составе.",
-    "time": "",
-    "pubDate": "2026-08-16T07:56:07+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Crimea",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198576",
-    "score": 5.5,
-    "views": 53158,
-    "forwards": 106
   }
 ]
