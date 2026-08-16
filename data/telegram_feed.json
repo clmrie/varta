@@ -1,5 +1,41 @@
 [
   {
+    "title": "An unknown munition flew along the Odessa beach, local newspapers...",
+    "title_en": "An unknown munition flew along the Odessa beach, local newspapers...",
+    "title_uk": "Одеським пляжем пролетів невідомий боєприпас, пишуть місцеві газети...",
+    "description": "An unknown munition flew along the Odessa beach, local newspapers write",
+    "description_en": "An unknown munition flew along the Odessa beach, local newspapers write",
+    "description_uk": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
+    "time": "",
+    "pubDate": "2026-08-16T18:31:38+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198621",
+    "score": 4.0,
+    "views": 8549,
+    "forwards": 36
+  },
+  {
+    "title": "Kherson: BpLA on Kherson from the east.",
+    "title_en": "Kherson: BpLA on Kherson from the east.",
+    "title_uk": "Херсон: БпЛА на Херсон зі сх.",
+    "description": "BpLA on Kherson from the east.",
+    "description_en": "BpLA on Kherson from the east.",
+    "description_uk": "БпЛА на Херсон зі сходу.",
+    "time": "",
+    "pubDate": "2026-08-16T18:00:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73083",
+    "score": 6.0,
+    "views": 36374,
+    "forwards": 0
+  },
+  {
     "title": "Kryvyi Rih: Drone incoming",
     "title_en": "Kryvyi Rih: Drone incoming",
     "title_uk": "Кривий Ріг: Дрон вхід",
@@ -14,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73081",
     "score": 6.0,
-    "views": 1,
+    "views": 39414,
     "forwards": 0
   },
   {
@@ -122,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54830",
     "score": 13.0,
-    "views": 1072,
+    "views": 1274,
     "forwards": 2
   },
   {
@@ -176,7 +212,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198611",
     "score": 5.5,
-    "views": 98904,
+    "views": 111682,
     "forwards": 105
   },
   {
@@ -356,7 +392,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54829",
     "score": 10.0,
-    "views": 1782,
+    "views": 1889,
     "forwards": 4
   },
   {
@@ -412,41 +448,5 @@
     "score": 6.0,
     "views": 6051,
     "forwards": 0
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на південному сході...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southeast direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-08-16T11:29:00+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73007",
-    "score": 5.0,
-    "views": 14163,
-    "forwards": 0
-  },
-  {
-    "title": "Explosions reported",
-    "title_en": "Explosions reported",
-    "title_uk": "Повідомляється про вибухи",
-    "description": "🤯Video of a drone attack on the Odessa \"Epicenter\" The BpLA raid on the city continues. Locals report new explosions.",
-    "description_en": "🤯Video of a drone attack on the Odessa \"Epicenter\" The BpLA raid on the city continues. Locals report new explosions.",
-    "description_uk": "🤯Видео удара дрона по одесскому «Эпицентру» Налет БпЛА на город продолжается. Местные сообщают о новых взрывах.",
-    "time": "",
-    "pubDate": "2026-08-16T11:18:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198593",
-    "score": 6.5,
-    "views": 101900,
-    "forwards": 354
   }
 ]
