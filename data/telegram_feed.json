@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: Attack attack",
+    "title_en": "Kyiv: Attack attack",
+    "title_uk": "Київ: Атака",
+    "description": "Update: Ukraine confirms strike against largest Wildberries warehouse. With the latest attack, Ukraine has now taken out of operation seven out of the 10 largest Wildberries logistics centers, Ukraine's Defense Ministry said.",
+    "description_en": "Update: Ukraine confirms strike against largest Wildberries warehouse. With the latest attack, Ukraine has now taken out of operation seven out of the 10 largest Wildberries logistics centers, Ukraine's Defense Ministry said.",
+    "description_uk": "Update: Ukraine confirms strike against largest Wildberries warehouse. With the latest attack, Ukraine has now taken out of operation seven out of the 10 largest Wildberries logistics centers, Ukraine's Defense Ministry said.",
+    "time": "",
+    "pubDate": "2026-08-16T10:52:44+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54827",
+    "score": 8.0,
+    "views": 52,
+    "forwards": 1
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV groups from the Black Sea area ➡️ heading for Odessa/Black Sea.",
+    "description_en": "UAV groups from the Black Sea area ➡️ heading for Odessa/Black Sea.",
+    "description_uk": "Групи БпЛА з акваторії Чорного моря➡️ курсом на Одесу/Чорноморське.",
+    "time": "",
+    "pubDate": "2026-08-16T10:38:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73004",
+    "score": 5.0,
+    "views": 18191,
+    "forwards": 0
+  },
+  {
     "title": "Crimea: Cruise missile heading inbound",
     "title_en": "Crimea: Cruise missile heading inbound",
     "title_uk": "Крим: крилата ракета наближається",
@@ -14,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54826",
     "score": 6.0,
-    "views": 247,
-    "forwards": 1
+    "views": 450,
+    "forwards": 2
   },
   {
     "title": "Mykolaiv: UAV from the Black Sea ➡️ course to Ochakiv (Mykolaiv Oblast).",
@@ -32,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73003",
     "score": 6.0,
-    "views": 19686,
+    "views": 35853,
     "forwards": 10
   },
   {
@@ -50,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198582",
     "score": 3.5,
-    "views": 73565,
-    "forwards": 148
+    "views": 82131,
+    "forwards": 182
   },
   {
     "title": "BpLA ➡️ course to Poltava from the north.",
@@ -104,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198577",
     "score": 6.5,
-    "views": 114116,
-    "forwards": 211
+    "views": 121586,
+    "forwards": 247
   },
   {
     "title": "A group of jet UAVs ➡️ on Kropyvnytskyi.",
@@ -176,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20402",
     "score": 23.0,
-    "views": 136768,
-    "forwards": 220
+    "views": 142061,
+    "forwards": 224
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -214,24 +250,6 @@
     "score": 13.0,
     "views": 1365,
     "forwards": 2
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Another jet UAV ➡️ heading for Brovary. 🛵 New UAV groups from the Black Sea ➡️ to the south of Odesa (Vylkove).",
-    "description_en": "Another jet UAV ➡️ heading for Brovary. 🛵 New UAV groups from the Black Sea ➡️ to the south of Odesa (Vylkove).",
-    "description_uk": "Ще реактивний БпЛА ➡️ курсом на Бровари. 🛵 Нові групи БпЛА з Чорного моря ➡️ на південь Одещини (Вилкове).",
-    "time": "",
-    "pubDate": "2026-08-16T06:52:28+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Brovary",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72995",
-    "score": 5.0,
-    "views": 74843,
-    "forwards": 34
   },
   {
     "title": "UAV from the Black Sea ➡️ to the south of Odesa (Vylkove).",
@@ -322,24 +340,6 @@
     "score": 6.0,
     "views": 44437,
     "forwards": 35
-  },
-  {
-    "title": "Kyiv: Attack attack",
-    "title_en": "Kyiv: Attack attack",
-    "title_uk": "Київ: Атака",
-    "description": "Ukrainian forces target Moscow Oblast, damaging Wildberries warehouse in major attack. Ukrainian forces targeted a warehouse belonging to major Russian online retailer Wildberries and cities across Russia's Moscow Oblast in a major overnight attack on Aug. 16, monitoring channels reported.",
-    "description_en": "Ukrainian forces target Moscow Oblast, damaging Wildberries warehouse in major attack. Ukrainian forces targeted a warehouse belonging to major Russian online retailer Wildberries and cities across Russia's Moscow Oblast in a major overnight attack on Aug. 16, monitoring channels reported.",
-    "description_uk": "Ukrainian forces target Moscow Oblast, damaging Wildberries warehouse in major attack. Ukrainian forces targeted a warehouse belonging to major Russian online retailer Wildberries and cities across Russia's Moscow Oblast in a major overnight attack on Aug. 16, monitoring channels reported.",
-    "time": "",
-    "pubDate": "2026-08-16T02:28:02+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54822",
-    "score": 8.0,
-    "views": 2101,
-    "forwards": 8
   },
   {
     "title": "BpLA in the south of Odesa, heading for the Reni.",
