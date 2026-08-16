@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "UAV in the east of Kharkiv Oblast - heading for Chuguiv. 🛵 A group of BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
+    "description_en": "UAV in the east of Kharkiv Oblast - heading for Chuguiv. 🛵 A group of BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
+    "description_uk": "БпЛА на сході Харківщини - курсом на Чугуїв. 🛵 Група БпЛА з Донеччини - на Харківщину, курсом на Лозову.",
+    "time": "",
+    "pubDate": "2026-08-16T15:14:04+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73064",
+    "score": 6.0,
+    "views": 1005,
+    "forwards": 0
+  },
+  {
     "title": "Kryvyi Rih: Drone incoming",
     "title_en": "Kryvyi Rih: Drone incoming",
     "title_uk": "Кривий Ріг: Дрон вхід",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73063",
     "score": 6.0,
-    "views": 17177,
+    "views": 29294,
     "forwards": 0
   },
   {
@@ -68,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198604",
     "score": 8.5,
-    "views": 61372,
-    "forwards": 69
+    "views": 72170,
+    "forwards": 103
   },
   {
     "title": "Kharkiv: BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
@@ -105,24 +123,6 @@
     "link": "https://t.me/kpszsu/73052",
     "score": 6.0,
     "views": 4043,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "A jet UAV in the south of Kharkiv region - heading for Zlatopil.",
-    "description_en": "A jet UAV in the south of Kharkiv region - heading for Zlatopil.",
-    "description_uk": "Реактивний БпЛА на півдні Харківщини - курсом на Златопіль.",
-    "time": "",
-    "pubDate": "2026-08-16T13:27:14+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73049",
-    "score": 6.0,
-    "views": 18191,
     "forwards": 0
   },
   {
@@ -176,7 +176,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198601",
     "score": 9.5,
-    "views": 90393,
+    "views": 96944,
     "forwards": 71
   },
   {
@@ -194,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54829",
     "score": 10.0,
-    "views": 986,
+    "views": 1092,
     "forwards": 3
   },
   {
@@ -302,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54827",
     "score": 8.0,
-    "views": 1447,
+    "views": 1512,
     "forwards": 4
   },
   {
