@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: BpLA from Donetsk region - to Kharkiv region, heading for Lozova. 🛵...",
+    "title_en": "Kharkiv: BpLA from Donetsk region - to Kharkiv region, heading for Lozova. 🛵...",
+    "title_uk": "Харків: BpLA з Донецької області - на Харківську область, прямуючи на Лозову. 🛵...",
+    "description": "BpLA from Donetsk region - to Kharkiv region, heading for Lozova. 🛵 BpLA in the east of Dnipropetrovsk region - heading for Sinelnikovo.",
+    "description_en": "BpLA from Donetsk region - to Kharkiv region, heading for Lozova. 🛵 BpLA in the east of Dnipropetrovsk region - heading for Sinelnikovo.",
+    "description_uk": "БпЛА з Донеччини - на Харківщину, курсом на Лозову. 🛵 БпЛА на сході Дніпропетровщини - курсом на Синельникове.",
+    "time": "",
+    "pubDate": "2026-08-16T17:47:33+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73080",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_uk": "Харків: БпЛА на Харків з півночі.",
+    "description": "BpLA on Kharkiv from the north.",
+    "description_en": "BpLA on Kharkiv from the north.",
+    "description_uk": "БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-08-16T17:44:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73078",
+    "score": 6.0,
+    "views": 6046,
+    "forwards": 0
+  },
+  {
     "title": "Dnipro: BpLA in the east of Dnipropetrovsk region - heading for Pavlograd.",
     "title_en": "Dnipro: BpLA in the east of Dnipropetrovsk region - heading for Pavlograd.",
     "title_uk": "Дніпро: BpLA на сході Дніпропетровської області – курс на Павлоград.",
@@ -15,42 +51,6 @@
     "link": "https://t.me/kpszsu/73075",
     "score": 6.0,
     "views": 14186,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_uk": "Харків: БпЛА на Харків з півночі.",
-    "description": "BpLA on Kharkiv from the north.",
-    "description_en": "BpLA on Kharkiv from the north.",
-    "description_uk": "БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-08-16T17:18:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73074",
-    "score": 6.0,
-    "views": 14154,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
-    "title_en": "Kharkiv: BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
-    "title_uk": "Харків: BpLA з Донецької області - на Харківську область, прямуючи на Лозову.",
-    "description": "BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
-    "description_en": "BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
-    "description_uk": "БпЛА з Донеччини - на Харківщину, курсом на Лозову.",
-    "time": "",
-    "pubDate": "2026-08-16T16:47:24+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73071",
-    "score": 6.0,
-    "views": 16170,
     "forwards": 0
   },
   {
@@ -104,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54830",
     "score": 13.0,
-    "views": 911,
+    "views": 1017,
     "forwards": 2
   },
   {
@@ -176,7 +176,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198611",
     "score": 5.5,
-    "views": 86082,
+    "views": 93602,
     "forwards": 105
   },
   {
@@ -266,7 +266,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198604",
     "score": 8.5,
-    "views": 118486,
+    "views": 123790,
     "forwards": 139
   },
   {
@@ -356,7 +356,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54829",
     "score": 10.0,
-    "views": 1703,
+    "views": 1748,
     "forwards": 4
   },
   {
