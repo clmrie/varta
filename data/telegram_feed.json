@@ -1,5 +1,23 @@
 [
   {
+    "title": "Нові групи БпЛА з акваторії Чорного моря ➡️ на Одещину...",
+    "title_en": "Нові групи БпЛА з акваторії Чорного моря ➡️ на Одещину...",
+    "title_uk": "Нові групи БпЛА з акваторії Чорного моря ➡️ на Одещину...",
+    "description": "Нові групи БпЛА з акваторії Чорного моря ➡️ на Одещину (Затока/Сергіївка/Чорноморськ).",
+    "description_en": "Нові групи БпЛА з акваторії Чорного моря ➡️ на Одещину (Затока/Сергіївка/Чорноморськ).",
+    "description_uk": "Нові групи БпЛА з акваторії Чорного моря ➡️ на Одещину (Затока/Сергіївка/Чорноморськ).",
+    "time": "",
+    "pubDate": "2026-08-16T22:33:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73098",
+    "score": 5.0,
+    "views": 6099,
+    "forwards": 0
+  },
+  {
     "title": "Another BpLA ➡️ in the direction of Sumy.",
     "title_en": "Another BpLA ➡️ in the direction of Sumy.",
     "title_uk": "Ще один БПЛА ➡️ в напрямку Сум.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73097",
     "score": 5.0,
-    "views": 22436,
+    "views": 27008,
     "forwards": 0
   },
   {
@@ -68,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54833",
     "score": 6.0,
-    "views": 1086,
+    "views": 1161,
     "forwards": 7
   },
   {
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54832",
     "score": 9.0,
-    "views": 1645,
+    "views": 1694,
     "forwards": 3
   },
   {
@@ -178,6 +196,24 @@
     "score": 6.0,
     "views": 23224,
     "forwards": 0
+  },
+  {
+    "title": "An unknown munition flew along the Odessa beach, local newspapers...",
+    "title_en": "An unknown munition flew along the Odessa beach, local newspapers...",
+    "title_uk": "Одеським пляжем пролетів невідомий боєприпас, пишуть місцеві газети...",
+    "description": "An unknown munition flew along the Odessa beach, local newspapers write",
+    "description_en": "An unknown munition flew along the Odessa beach, local newspapers write",
+    "description_uk": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
+    "time": "",
+    "pubDate": "2026-08-16T18:31:38+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198621",
+    "score": 5.5,
+    "views": 118683,
+    "forwards": 306
   },
   {
     "title": "An unknown munition landed on the Odessa beach, local newspapers write",
@@ -214,24 +250,6 @@
     "score": 5.5,
     "views": 99895,
     "forwards": 279
-  },
-  {
-    "title": "An unknown munition flew along the Odessa beach, local newspapers...",
-    "title_en": "An unknown munition flew along the Odessa beach, local newspapers...",
-    "title_uk": "Одеським пляжем пролетів невідомий боєприпас, пишуть місцеві газети...",
-    "description": "An unknown munition flew along the Odessa beach, local newspapers write",
-    "description_en": "An unknown munition flew along the Odessa beach, local newspapers write",
-    "description_uk": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
-    "time": "",
-    "pubDate": "2026-08-16T18:31:38+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198621",
-    "score": 4.0,
-    "views": 8549,
-    "forwards": 36
   },
   {
     "title": "Kherson: BpLA on Kherson from the east.",
@@ -430,23 +448,5 @@
     "score": 5.5,
     "views": 93602,
     "forwards": 105
-  },
-  {
-    "title": "Mykolaiv: Unmanned aerial vehicle in the north of Chernihiv Oblast - heading...",
-    "title_en": "Mykolaiv: Unmanned aerial vehicle in the north of Chernihiv Oblast - heading...",
-    "title_uk": "Миколаїв: БПЛА на півночі Чернігівської області - курс...",
-    "description": "Unmanned aerial vehicle in the north of Chernihiv Oblast - heading for Kholmy. 🛵 BpLA in the Mykolaiv region - heading for Voznesensk.",
-    "description_en": "Unmanned aerial vehicle in the north of Chernihiv Oblast - heading for Kholmy. 🛵 BpLA in the Mykolaiv region - heading for Voznesensk.",
-    "description_uk": "БпЛА на півночі Чернігівщини - курсом на Холми. 🛵 БпЛА на Миколаївщині - курсом на Вознесенськ.",
-    "time": "",
-    "pubDate": "2026-08-16T15:22:15+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73065",
-    "score": 6.0,
-    "views": 16174,
-    "forwards": 0
   }
 ]
