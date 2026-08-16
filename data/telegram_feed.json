@@ -2,7 +2,7 @@
   {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "title_uk": "Київ: Зафіксовано пуск балістичної ракети",
     "description": "Ukraine could use its own ballistic missiles against Russia by year-end, Fedorov tells CBS News. \"We need to defeat Russia in every technological cycle, and we have to make decisions 24/7,\" the former defense minister said in an interview published on Aug. 16.",
     "description_en": "Ukraine could use its own ballistic missiles against Russia by year-end, Fedorov tells CBS News. \"We need to defeat Russia in every technological cycle, and we have to make decisions 24/7,\" the former defense minister said in an interview published on Aug. 16.",
     "description_uk": "Ukraine could use its own ballistic missiles against Russia by year-end, Fedorov tells CBS News. \"We need to defeat Russia in every technological cycle, and we have to make decisions 24/7,\" the former defense minister said in an interview published on Aug. 16.",
@@ -14,8 +14,26 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54833",
     "score": 6.0,
-    "views": 335,
-    "forwards": 5
+    "views": 527,
+    "forwards": 7
+  },
+  {
+    "title": "Sumy: Drone incoming",
+    "title_en": "Sumy: Drone incoming",
+    "title_uk": "Суми: Дрон вхід",
+    "description": "Декілька БпЛА ➡️ курсом на Суми.",
+    "description_en": "Декілька БпЛА ➡️ курсом на Суми.",
+    "description_uk": "Декілька БпЛА ➡️ курсом на Суми.",
+    "time": "",
+    "pubDate": "2026-08-16T20:10:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73094",
+    "score": 6.0,
+    "views": 34476,
+    "forwards": 2
   },
   {
     "title": "Sumy: Several BpLA ➡️ heading for Sumy.",
@@ -50,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73093",
     "score": 5.0,
-    "views": 61764,
+    "views": 64827,
     "forwards": 35
   },
   {
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54832",
     "score": 9.0,
-    "views": 1139,
+    "views": 1260,
     "forwards": 3
   },
   {
@@ -126,6 +144,24 @@
     "forwards": 0
   },
   {
+    "title": "An unknown munition landed on the Odessa beach, local newspapers write",
+    "title_en": "An unknown munition landed on the Odessa beach, local newspapers write",
+    "title_uk": "На одеський пляж впав невідомий боєприпас, пишуть місцеві видання",
+    "description": "An unknown munition landed on the Odessa beach, local newspapers write",
+    "description_en": "An unknown munition landed on the Odessa beach, local newspapers write",
+    "description_uk": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
+    "time": "",
+    "pubDate": "2026-08-16T18:31:38+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198621",
+    "score": 5.5,
+    "views": 103235,
+    "forwards": 279
+  },
+  {
     "title": "Strike confirmed",
     "title_en": "Strike confirmed",
     "title_uk": "Страйк підтверджено",
@@ -142,24 +178,6 @@
     "score": 5.5,
     "views": 99895,
     "forwards": 279
-  },
-  {
-    "title": "An unknown munition landed on the Odessa beach, local newspapers write",
-    "title_en": "An unknown munition landed on the Odessa beach, local newspapers write",
-    "title_uk": "На одеський пляж впав невідомий боєприпас, пишуть місцеві видання",
-    "description": "An unknown munition landed on the Odessa beach, local newspapers write",
-    "description_en": "An unknown munition landed on the Odessa beach, local newspapers write",
-    "description_uk": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
-    "time": "",
-    "pubDate": "2026-08-16T18:31:38+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198621",
-    "score": 5.5,
-    "views": 80401,
-    "forwards": 245
   },
   {
     "title": "An unknown munition flew along the Odessa beach, local newspapers...",
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/73061",
     "score": 6.0,
     "views": 8100,
-    "forwards": 0
-  },
-  {
-    "title": "Sumy: A jet UAV in the south of Sumy Oblast - headed for Sumy.",
-    "title_en": "Sumy: A jet UAV in the south of Sumy Oblast - headed for Sumy.",
-    "title_uk": "Суми: реактивний БПЛА на півдні Сумської області – прямував на Суми.",
-    "description": "A jet UAV in the south of Sumy Oblast - headed for Sumy.",
-    "description_en": "A jet UAV in the south of Sumy Oblast - headed for Sumy.",
-    "description_uk": "Реактивний БпЛА на півдні Сумщини - курсом на Суми.",
-    "time": "",
-    "pubDate": "2026-08-16T13:56:26+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73057",
-    "score": 6.0,
-    "views": 7084,
     "forwards": 0
   }
 ]
