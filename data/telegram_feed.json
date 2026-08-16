@@ -1,8 +1,44 @@
 [
   {
+    "title": "Sumy: БпЛА на Суми з півночі.",
+    "title_en": "Sumy: БпЛА на Суми з півночі.",
+    "title_uk": "Суми: БпЛА на Суми з півночі.",
+    "description": "БпЛА на Суми з півночі.",
+    "description_en": "БпЛА на Суми з півночі.",
+    "description_uk": "БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-08-16T15:44:47+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73067",
+    "score": 6.0,
+    "views": 12126,
+    "forwards": 0
+  },
+  {
+    "title": "Kryvyi Rih: Drone incoming",
+    "title_en": "Kryvyi Rih: Drone incoming",
+    "title_uk": "Кривий Ріг: Дрон вхід",
+    "description": "Реактивний БпЛА із Запорізької області - на Дніпропетровську, курсом на Кривий Ріг.",
+    "description_en": "Реактивний БпЛА із Запорізької області - на Дніпропетровську, курсом на Кривий Ріг.",
+    "description_uk": "Реактивний БпЛА із Запорізької області - на Дніпропетровську, курсом на Кривий Ріг.",
+    "time": "",
+    "pubDate": "2026-08-16T15:44:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73066",
+    "score": 6.0,
+    "views": 13127,
+    "forwards": 1
+  },
+  {
     "title": "Air defense active",
     "title_en": "Air defense active",
-    "title_uk": "Активна ППО",
+    "title_uk": "Air defense active",
     "description": "The target is visible, but it is not always possible to shoot it down - the monitoring channels showed how air defense works. As the monitors explain, the detection of a drone does not mean the possibility of its immediate destruction. Between the appearance of the target on the screen and the interception, it is necessary to determine the type of UAV and its route, find a suitable means of defeat and choose a safe moment for the attack. Therefore, the drone can fly...",
     "description_en": "The target is visible, but it is not always possible to shoot it down - the monitoring channels showed how air defense works. As the monitors explain, the detection of a drone does not mean the possibility of its immediate destruction. Between the appearance of the target on the screen and the interception, it is necessary to determine the type of UAV and its route, find a suitable means of defeat and choose a safe moment for the attack. Therefore, the drone can fly...",
     "description_uk": "Цель видна, но сбить ее не всегда возможно, - мониторинговые каналы показали, как работает ПВО Как объясняют мониторы, обнаружение дрона еще не означает возможность его немедленного уничтожения. Между появлением цели на экране и перехватом необходимо определить тип БПЛА и его маршрут, найти подходящее средство поражения и выбрать безопасный момент для атаки. Поэтому дрон может пролететь...",
@@ -14,8 +50,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198611",
     "score": 5.0,
-    "views": 13990,
-    "forwards": 35
+    "views": 29062,
+    "forwards": 36
   },
   {
     "title": "Mykolaiv: Unmanned aerial vehicle in the north of Chernihiv Oblast - heading...",
@@ -51,24 +87,6 @@
     "link": "https://t.me/kpszsu/73064",
     "score": 6.0,
     "views": 26285,
-    "forwards": 0
-  },
-  {
-    "title": "Kryvyi Rih: Drone incoming",
-    "title_en": "Kryvyi Rih: Drone incoming",
-    "title_uk": "Кривий Ріг: Дрон вхід",
-    "description": "Jet UAVs from the Kherson region - to the Dnipropetrovsk region, heading for Kryvyi Rih.",
-    "description_en": "Jet UAVs from the Kherson region - to the Dnipropetrovsk region, heading for Kryvyi Rih.",
-    "description_uk": "Реактивні БпЛА з Херсонщини - на Дніпропетровщину, курсом на Кривий Ріг.",
-    "time": "",
-    "pubDate": "2026-08-16T14:39:37+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73063",
-    "score": 6.0,
-    "views": 29294,
     "forwards": 0
   },
   {
@@ -212,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54829",
     "score": 10.0,
-    "views": 1183,
+    "views": 1253,
     "forwards": 4
   },
   {
@@ -308,7 +326,7 @@
   {
     "title": "Kyiv: Attack attack",
     "title_en": "Kyiv: Attack attack",
-    "title_uk": "Київ: Атака",
+    "title_uk": "Kyiv: Attack attack",
     "description": "Update: Ukraine confirms strike against largest Wildberries warehouse. With the latest attack, Ukraine has now taken out of operation seven out of the 10 largest Wildberries logistics centers, Ukraine's Defense Ministry said.",
     "description_en": "Update: Ukraine confirms strike against largest Wildberries warehouse. With the latest attack, Ukraine has now taken out of operation seven out of the 10 largest Wildberries logistics centers, Ukraine's Defense Ministry said.",
     "description_uk": "Update: Ukraine confirms strike against largest Wildberries warehouse. With the latest attack, Ukraine has now taken out of operation seven out of the 10 largest Wildberries logistics centers, Ukraine's Defense Ministry said.",
@@ -320,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54827",
     "score": 8.0,
-    "views": 1585,
+    "views": 1630,
     "forwards": 4
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.5,
     "views": 130048,
     "forwards": 247
-  },
-  {
-    "title": "A group of jet UAVs ➡️ on Kropyvnytskyi.",
-    "title_en": "A group of jet UAVs ➡️ on Kropyvnytskyi.",
-    "title_uk": "Група реактивних БПЛА ➡️ на Кропивницький.",
-    "description": "A group of jet UAVs ➡️ on Kropyvnytskyi.",
-    "description_en": "A group of jet UAVs ➡️ on Kropyvnytskyi.",
-    "description_uk": "Група реактивних БпЛА ➡️ на Кропивницький.",
-    "time": "",
-    "pubDate": "2026-08-16T08:00:55+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kropyvnytskyi",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73000",
-    "score": 5.0,
-    "views": 3005,
-    "forwards": 0
   }
 ]
