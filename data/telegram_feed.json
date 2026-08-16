@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: Attack attack",
+    "title_en": "Kyiv: Attack attack",
+    "title_uk": "Київ: Атака",
+    "description": "Russian attack sets iconic Kyiv book market on fire, injures 3. Three people were injured after a Russian attack rocked Kyiv overnight on Aug. 16, sparking fires across Ukraine's capital, authorities reported.",
+    "description_en": "Russian attack sets iconic Kyiv book market on fire, injures 3. Three people were injured after a Russian attack rocked Kyiv overnight on Aug. 16, sparking fires across Ukraine's capital, authorities reported.",
+    "description_uk": "Russian attack sets iconic Kyiv book market on fire, injures 3. Three people were injured after a Russian attack rocked Kyiv overnight on Aug. 16, sparking fires across Ukraine's capital, authorities reported.",
+    "time": "",
+    "pubDate": "2026-08-16T16:05:44+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54830",
+    "score": 13.0,
+    "views": 261,
+    "forwards": 1
+  },
+  {
+    "title": "Sumy: BpLA on Sumy from the north.",
+    "title_en": "Sumy: BpLA on Sumy from the north.",
+    "title_uk": "Суми: БпЛА на Суми з півн.",
+    "description": "BpLA on Sumy from the north.",
+    "description_en": "BpLA on Sumy from the north.",
+    "description_uk": "БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-08-16T15:58:39+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73068",
+    "score": 6.0,
+    "views": 16158,
+    "forwards": 0
+  },
+  {
     "title": "Sumy: БпЛА на Суми з півночі.",
     "title_en": "Sumy: БпЛА на Суми з півночі.",
     "title_uk": "Суми: БпЛА на Суми з півночі.",
@@ -38,7 +74,7 @@
   {
     "title": "Air defense active",
     "title_en": "Air defense active",
-    "title_uk": "Air defense active",
+    "title_uk": "Активна ППО",
     "description": "The target is visible, but it is not always possible to shoot it down - the monitoring channels showed how air defense works. As the monitors explain, the detection of a drone does not mean the possibility of its immediate destruction. Between the appearance of the target on the screen and the interception, it is necessary to determine the type of UAV and its route, find a suitable means of defeat and choose a safe moment for the attack. Therefore, the drone can fly...",
     "description_en": "The target is visible, but it is not always possible to shoot it down - the monitoring channels showed how air defense works. As the monitors explain, the detection of a drone does not mean the possibility of its immediate destruction. Between the appearance of the target on the screen and the interception, it is necessary to determine the type of UAV and its route, find a suitable means of defeat and choose a safe moment for the attack. Therefore, the drone can fly...",
     "description_uk": "Цель видна, но сбить ее не всегда возможно, - мониторинговые каналы показали, как работает ПВО Как объясняют мониторы, обнаружение дрона еще не означает возможность его немедленного уничтожения. Между появлением цели на экране и перехватом необходимо определить тип БПЛА и его маршрут, найти подходящее средство поражения и выбрать безопасный момент для атаки. Поэтому дрон может пролететь...",
@@ -49,9 +85,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198611",
-    "score": 5.0,
-    "views": 29062,
-    "forwards": 36
+    "score": 5.5,
+    "views": 46287,
+    "forwards": 70
   },
   {
     "title": "Mykolaiv: Unmanned aerial vehicle in the north of Chernihiv Oblast - heading...",
@@ -230,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54829",
     "score": 10.0,
-    "views": 1253,
+    "views": 1407,
     "forwards": 4
   },
   {
@@ -324,24 +360,6 @@
     "forwards": 354
   },
   {
-    "title": "Kyiv: Attack attack",
-    "title_en": "Kyiv: Attack attack",
-    "title_uk": "Kyiv: Attack attack",
-    "description": "Update: Ukraine confirms strike against largest Wildberries warehouse. With the latest attack, Ukraine has now taken out of operation seven out of the 10 largest Wildberries logistics centers, Ukraine's Defense Ministry said.",
-    "description_en": "Update: Ukraine confirms strike against largest Wildberries warehouse. With the latest attack, Ukraine has now taken out of operation seven out of the 10 largest Wildberries logistics centers, Ukraine's Defense Ministry said.",
-    "description_uk": "Update: Ukraine confirms strike against largest Wildberries warehouse. With the latest attack, Ukraine has now taken out of operation seven out of the 10 largest Wildberries logistics centers, Ukraine's Defense Ministry said.",
-    "time": "",
-    "pubDate": "2026-08-16T10:52:44+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54827",
-    "score": 8.0,
-    "views": 1630,
-    "forwards": 4
-  },
-  {
     "title": "Crimea: Cruise missile heading inbound",
     "title_en": "Crimea: Cruise missile heading inbound",
     "title_uk": "Крим: крилата ракета наближається",
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 57208,
     "forwards": 35
-  },
-  {
-    "title": "Drone strike",
-    "title_en": "Drone strike",
-    "title_uk": "Безпілотний удар",
-    "description": "🎯 British drones are already hitting the Russian Federation: Ukraine uses them for long-range attacks on Russian refineries, The Times writes. Over the past six months, the Ukrainian Armed Forces have begun using British drones to strike targets far outside Ukraine. Among them is the Nyan jet, which was previously tested by the British Royal Navy. The name of the second has not yet been revealed. According to The Times, UAVs were used to strike oil refineries...",
-    "description_en": "🎯 British drones are already hitting the Russian Federation: Ukraine uses them for long-range attacks on Russian refineries, The Times writes. Over the past six months, the Ukrainian Armed Forces have begun using British drones to strike targets far outside Ukraine. Among them is the Nyan jet, which was previously tested by the British Royal Navy. The name of the second has not yet been revealed. According to The Times, UAVs were used to strike oil refineries...",
-    "description_uk": "🎯Британские дроны уже бьют по рф: Украина использует их для дальних атак на российские НПЗ, пишет The Times За последние полгода ВСУ начали применять британские беспилотники для ударов по целям далеко за пределами Украины. Среди них — реактивный Nyan, который ранее испытывал Королевский флот Британии. Название второго пока не раскрывается. По данным The Times, БпЛА использовали для ударов по НПЗ...",
-    "time": "",
-    "pubDate": "2026-08-16T08:17:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198577",
-    "score": 6.5,
-    "views": 130048,
-    "forwards": 247
   }
 ]
