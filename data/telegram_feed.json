@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A group of UAVs from the Black Sea - to Odesa, heading for the Bay, Black Sea.",
+    "description_en": "A group of UAVs from the Black Sea - to Odesa, heading for the Bay, Black Sea.",
+    "description_uk": "Група БпЛА з Чорного моря - на Одещину, курсом на Затоку, Чорноморське.",
+    "time": "",
+    "pubDate": "2026-08-16T19:21:52+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73093",
+    "score": 5.0,
+    "views": 8075,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_uk": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "description": "BpLA on Zaporozhye from the south.",
+    "description_en": "BpLA on Zaporozhye from the south.",
+    "description_uk": "БпЛА на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-08-16T19:20:04+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73092",
+    "score": 6.0,
+    "views": 11112,
+    "forwards": 0
+  },
+  {
     "title": "Kramatorsk: Casualties reported",
     "title_en": "Kramatorsk: Casualties reported",
     "title_uk": "Краматорськ: повідомляється про постраждалих",
@@ -14,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54832",
     "score": 9.0,
-    "views": 225,
+    "views": 529,
     "forwards": 1
   },
   {
@@ -36,24 +72,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAV from the Black Sea - to Odesa, heading for Zatok/Chornomorsk.",
-    "description_en": "Jet UAV from the Black Sea - to Odesa, heading for Zatok/Chornomorsk.",
-    "description_uk": "Реактивний БпЛА з Чорного моря - на Одещину, курсом на Затоку/Чорноморськ.",
-    "time": "",
-    "pubDate": "2026-08-16T18:41:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73088",
-    "score": 5.0,
-    "views": 31294,
-    "forwards": 0
-  },
-  {
     "title": "An unknown munition landed on the Odessa beach, local newspapers write",
     "title_en": "An unknown munition landed on the Odessa beach, local newspapers write",
     "title_uk": "На одеський пляж впав невідомий боєприпас, пишуть місцеві видання",
@@ -67,9 +85,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198621",
-    "score": 4.5,
-    "views": 38511,
-    "forwards": 174
+    "score": 5.5,
+    "views": 59976,
+    "forwards": 210
   },
   {
     "title": "An unknown munition flew along the Odessa beach, local newspapers...",
@@ -212,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54830",
     "score": 13.0,
-    "views": 1408,
+    "views": 1514,
     "forwards": 2
   },
   {
@@ -266,7 +284,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198611",
     "score": 5.5,
-    "views": 119187,
+    "views": 126609,
     "forwards": 139
   },
   {
@@ -375,24 +393,6 @@
     "link": "https://t.me/kpszsu/73052",
     "score": 6.0,
     "views": 4043,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
-    "description": "BpLA on Zaporozhye from the south.",
-    "description_en": "BpLA on Zaporozhye from the south.",
-    "description_uk": "БпЛА на Запоріжжя з півдня.",
-    "time": "",
-    "pubDate": "2026-08-16T12:55:19+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73041",
-    "score": 6.0,
-    "views": 15149,
     "forwards": 0
   },
   {
