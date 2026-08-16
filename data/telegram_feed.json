@@ -1,5 +1,59 @@
 [
   {
+    "title": "BpLA ➡️ course to Poltava from the north.",
+    "title_en": "BpLA ➡️ course to Poltava from the north.",
+    "title_uk": "BpLA ➡️ курс на Полтаву з півночі.",
+    "description": "BpLA ➡️ course to Poltava from the north.",
+    "description_en": "BpLA ➡️ course to Poltava from the north.",
+    "description_uk": "БпЛА ➡️ курсом на Полтаву з півночі.",
+    "time": "",
+    "pubDate": "2026-08-16T08:26:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73002",
+    "score": 5.0,
+    "views": 30310,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "Kyiv region: jet UAV ➡️ in the direction of Obukhov from the south.",
+    "description_en": "Kyiv region: jet UAV ➡️ in the direction of Obukhov from the south.",
+    "description_uk": "Київщина: реактивний БпЛА ➡️ у напрямку Обухова з півдня.",
+    "time": "",
+    "pubDate": "2026-08-16T08:23:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73001",
+    "score": 6.0,
+    "views": 33343,
+    "forwards": 35
+  },
+  {
+    "title": "Drone strike",
+    "title_en": "Drone strike",
+    "title_uk": "Безпілотний удар",
+    "description": "🎯 British drones are already hitting the Russian Federation: Ukraine uses them for long-range attacks on Russian refineries, The Times writes. Over the past six months, the Ukrainian Armed Forces have begun using British drones to strike targets far outside Ukraine. Among them is the Nyan jet, which was previously tested by the British Royal Navy. The name of the second has not yet been revealed. According to The Times, UAVs were used to strike oil refineries...",
+    "description_en": "🎯 British drones are already hitting the Russian Federation: Ukraine uses them for long-range attacks on Russian refineries, The Times writes. Over the past six months, the Ukrainian Armed Forces have begun using British drones to strike targets far outside Ukraine. Among them is the Nyan jet, which was previously tested by the British Royal Navy. The name of the second has not yet been revealed. According to The Times, UAVs were used to strike oil refineries...",
+    "description_uk": "🎯Британские дроны уже бьют по рф: Украина использует их для дальних атак на российские НПЗ, пишет The Times За последние полгода ВСУ начали применять британские беспилотники для ударов по целям далеко за пределами Украины. Среди них — реактивный Nyan, который ранее испытывал Королевский флот Британии. Название второго пока не раскрывается. По данным The Times, БпЛА использовали для ударов по НПЗ...",
+    "time": "",
+    "pubDate": "2026-08-16T08:17:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198577",
+    "score": 5.5,
+    "views": 36031,
+    "forwards": 71
+  },
+  {
     "title": "A group of jet UAVs ➡️ on Kropyvnytskyi.",
     "title_en": "A group of jet UAVs ➡️ on Kropyvnytskyi.",
     "title_uk": "Група реактивних БПЛА ➡️ на Кропивницький.",
@@ -16,6 +70,24 @@
     "score": 5.0,
     "views": 3005,
     "forwards": 0
+  },
+  {
+    "title": "Missile launch detected",
+    "title_en": "Missile launch detected",
+    "title_uk": "Виявлено запуск ракети",
+    "description": "The Russians were fired in the occupied Crimea as well: the defense forces hit the \"Bastion\", from which the Russian Federation launches \"Onyx\" and \"Zirkons\", the Navy reports that the starting positions and the deployment site of the Russian coastal missile complex were hit. The enemy suffered significant losses in weapons and personnel.",
+    "description_en": "The Russians were fired in the occupied Crimea as well: the defense forces hit the \"Bastion\", from which the Russian Federation launches \"Onyx\" and \"Zirkons\", the Navy reports that the starting positions and the deployment site of the Russian coastal missile complex were hit. The enemy suffered significant losses in weapons and personnel.",
+    "description_uk": "Прожарка русни была и в оккупированном Крыму: Силы обороны ударили по «Бастиону», из которого рф запускает «Ониксы» и «Цирконы» ВМС сообщают, что были поражены стартовые позиции и место дислокации российского берегового ракетного комплекса. Противник понес значительные потери в вооружении и личном составе.",
+    "time": "",
+    "pubDate": "2026-08-16T07:56:07+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Crimea",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198576",
+    "score": 5.5,
+    "views": 53158,
+    "forwards": 106
   },
   {
     "title": "Russia was also fired upon in the occupied Crimea: the Ukrainian...",
@@ -50,8 +122,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20402",
     "score": 22.0,
-    "views": 46411,
-    "forwards": 135
+    "views": 90187,
+    "forwards": 166
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -86,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54824",
     "score": 13.0,
-    "views": 428,
+    "views": 736,
     "forwards": 1
   },
   {
@@ -124,24 +196,6 @@
     "score": 5.0,
     "views": 80591,
     "forwards": 0
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Drone incoming",
-    "description": "Jet UAVs ➡️ heading for Kyiv/Brovary from the east and north.",
-    "description_en": "Jet UAVs ➡️ heading for Kyiv/Brovary from the east and north.",
-    "description_uk": "Реактивні БпЛА ➡️ курсом на Київ/Бровари зі сходу та півночі.",
-    "time": "",
-    "pubDate": "2026-08-16T06:26:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72992",
-    "score": 6.0,
-    "views": 10083,
-    "forwards": 2
   },
   {
     "title": "Kyiv: Kyiv region: groups of BpLA ➡️ in the direction of the Kyiv Reservoir...",
@@ -230,8 +284,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54822",
     "score": 8.0,
-    "views": 1717,
-    "forwards": 7
+    "views": 1891,
+    "forwards": 8
   },
   {
     "title": "BpLA in the south of Odesa, heading for the Reni.",
@@ -394,59 +448,5 @@
     "score": 6.5,
     "views": 14384,
     "forwards": 140
-  },
-  {
-    "title": "Udprni BpLA in the district Ochakova from the Black Sea",
-    "title_en": "Udprni BpLA in the district Ochakova from the Black Sea",
-    "title_uk": "Удпрні БпЛА в районі Очакова від Чорного моря",
-    "description": "Udprni BpLA in the district Ochakova from the Black Sea",
-    "description_en": "Udprni BpLA in the district Ochakova from the Black Sea",
-    "description_uk": "Удпрні БпЛА в р-н. Очакова з Чорного моря",
-    "time": "",
-    "pubDate": "2026-08-15T20:38:17+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72948",
-    "score": 5.0,
-    "views": 54210,
-    "forwards": 20
-  },
-  {
-    "title": "370 drones",
-    "title_en": "370 drones",
-    "title_uk": "370 дронів",
-    "description": "About 370 UAVs are known to have flown to create new fires in the Russian Federation and in the occupied territories",
-    "description_en": "About 370 UAVs are known to have flown to create new fires in the Russian Federation and in the occupied territories",
-    "description_uk": "Известно о примерно 370 БПЛА, которые полетели создавать новые возгорания в рф и на оккупированных территориях",
-    "time": "",
-    "pubDate": "2026-08-15T20:36:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198543",
-    "score": 9.5,
-    "views": 152158,
-    "forwards": 252
-  },
-  {
-    "title": "Meanwhile, in occupied Donetsk, arrivals are recorded and fires are...",
-    "title_en": "Meanwhile, in occupied Donetsk, arrivals are recorded and fires are...",
-    "title_uk": "Тим часом в окупованому Донецьку фіксують приїзди та пожежі...",
-    "description": "Meanwhile, in occupied Donetsk, arrivals are recorded and fires are observed 👀",
-    "description_en": "Meanwhile, in occupied Donetsk, arrivals are recorded and fires are observed 👀",
-    "description_uk": "Тем временем в оккупированном Донецке фиксируются прилеты и наблюдаются возгорания 👀",
-    "time": "",
-    "pubDate": "2026-08-15T20:16:01+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198540",
-    "score": 4.5,
-    "views": 128818,
-    "forwards": 150
   }
 ]
