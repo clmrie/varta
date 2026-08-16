@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Another jet UAV ➡️ heading for Brovary. 🛵 New UAV groups from the Black Sea ➡️ to the south of Odesa (Vylkove).",
+    "description_en": "Another jet UAV ➡️ heading for Brovary. 🛵 New UAV groups from the Black Sea ➡️ to the south of Odesa (Vylkove).",
+    "description_uk": "Ще реактивний БпЛА ➡️ курсом на Бровари. 🛵 Нові групи БпЛА з Чорного моря ➡️ на південь Одещини (Вилкове).",
+    "time": "",
+    "pubDate": "2026-08-16T06:52:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Brovary",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72995",
+    "score": 5.0,
+    "views": 53369,
+    "forwards": 34
+  },
+  {
+    "title": "UAV from the Black Sea ➡️ to the south of Odesa (Vylkove).",
+    "title_en": "UAV from the Black Sea ➡️ to the south of Odesa (Vylkove).",
+    "title_uk": "БПЛА з Чорного моря ➡️ на південь від Одеси (Вилкове).",
+    "description": "UAV from the Black Sea ➡️ to the south of Odesa (Vylkove).",
+    "description_en": "UAV from the Black Sea ➡️ to the south of Odesa (Vylkove).",
+    "description_uk": "БпЛА з Чорного моря ➡️ на південь Одещини (Вилкове).",
+    "time": "",
+    "pubDate": "2026-08-16T06:29:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72993",
+    "score": 5.0,
+    "views": 80591,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Drone incoming",
     "title_en": "Kyiv: Drone incoming",
     "title_uk": "Київ: Drone incoming",
@@ -50,26 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198564",
     "score": 4.5,
-    "views": 60409,
-    "forwards": 143
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV in the waters of the Black Sea, heading for Odesa.",
-    "description_en": "UAV in the waters of the Black Sea, heading for Odesa.",
-    "description_uk": "БпЛА в акваторії Чорного моря, курсом на Одещину.",
-    "time": "",
-    "pubDate": "2026-08-16T05:23:39+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72986",
-    "score": 5.0,
-    "views": 30306,
-    "forwards": 0
+    "views": 92257,
+    "forwards": 177
   },
   {
     "title": "Kryvyi Rih: Ballistic missile launch detected",
@@ -140,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54822",
     "score": 8.0,
-    "views": 1160,
+    "views": 1412,
     "forwards": 7
   },
   {
@@ -212,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54821",
     "score": 8.0,
-    "views": 1402,
+    "views": 1635,
     "forwards": 7
   },
   {
@@ -430,23 +448,5 @@
     "score": 11.0,
     "views": 1142,
     "forwards": 6
-  },
-  {
-    "title": "Missile attack",
-    "title_en": "Missile attack",
-    "title_uk": "Ракетна атака",
-    "description": "Today there are new significant results of our deep strikes. In the Samara region of Russia, one of the key enterprises of Roskosmos was affected - the Progress center, which was involved, in particular, in the production of electronics. Flamingo missiles were used, a good achievement. The distance from our border is about 900 kilometers. Our long-range sanctions also reached the airfield \"Savasleika\", where the carriers are based...",
-    "description_en": "Today there are new significant results of our deep strikes. In the Samara region of Russia, one of the key enterprises of Roskosmos was affected - the Progress center, which was involved, in particular, in the production of electronics. Flamingo missiles were used, a good achievement. The distance from our border is about 900 kilometers. Our long-range sanctions also reached the airfield \"Savasleika\", where the carriers are based...",
-    "description_uk": "Сьогодні є нові вагомі результати наших дипстрайків. У Самарському регіоні Росії уражено одне з ключових підприємств у складі «Роскосмосу» – центр «Прогрес», який займався, зокрема, виробництвом електроніки. Застосовувалися ракети «Фламінго», хороше досягнення. Відстань від нашого кордону – близько 900 кілометрів. Наші далекобійні санкції також досягли аеродрому «Саваслейка», де базуються носії...",
-    "time": "",
-    "pubDate": "2026-08-15T08:41:54+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20396",
-    "score": 12.0,
-    "views": 317558,
-    "forwards": 492
   }
 ]
