@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kyiv: Jet UAVs to Kyiv.",
+    "title_en": "Kyiv: Jet UAVs to Kyiv.",
+    "title_uk": "Київ: Реактивні БПЛА до Києва.",
+    "description": "Jet UAVs to Kyiv.",
+    "description_en": "Jet UAVs to Kyiv.",
+    "description_uk": "Реактивні БпЛА на Київ.",
+    "time": "",
+    "pubDate": "2026-08-16T04:02:52+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72981",
+    "score": 6.0,
+    "views": 18215,
+    "forwards": 1
+  },
+  {
     "title": "Kyiv: Drone incoming",
     "title_en": "Kyiv: Drone incoming",
     "title_uk": "Київ: Дрон вхід",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/72979",
     "score": 6.0,
-    "views": 9090,
-    "forwards": 1
+    "views": 43474,
+    "forwards": 35
   },
   {
     "title": "Kyiv: Attack attack",
@@ -32,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54822",
     "score": 8.0,
-    "views": 350,
+    "views": 512,
     "forwards": 6
   },
   {
@@ -122,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54821",
     "score": 8.0,
-    "views": 684,
+    "views": 811,
     "forwards": 5
   },
   {
@@ -248,7 +266,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198543",
     "score": 9.5,
-    "views": 114287,
+    "views": 128913,
     "forwards": 252
   },
   {
@@ -266,8 +284,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198540",
     "score": 4.5,
-    "views": 117271,
-    "forwards": 149
+    "views": 128818,
+    "forwards": 150
   },
   {
     "title": "Kyiv: Poland will soon have Europe's largest army, Tusk pledges. \"Our...",
@@ -360,78 +378,6 @@
     "forwards": 6
   },
   {
-    "title": "The rocket has changed its direction and is moving towards the...",
-    "title_en": "The rocket has changed its direction and is moving towards the...",
-    "title_uk": "Ракета змінила напрямок і рухається до...",
-    "description": "The rocket has changed its direction and is moving towards the Kirovohrad region on a northerly course",
-    "description_en": "The rocket has changed its direction and is moving towards the Kirovohrad region on a northerly course",
-    "description_uk": "Ракета змінила напрямок рухається на Кіровоградщину північним курсом",
-    "time": "",
-    "pubDate": "2026-08-15T15:49:36+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72940",
-    "score": 5.5,
-    "views": 121558,
-    "forwards": 81
-  },
-  {
-    "title": "The rocket has changed its direction and is moving towards Kirovohrad...",
-    "title_en": "The rocket has changed its direction and is moving towards Kirovohrad...",
-    "title_uk": "Ракета змінила напрямок і рухається в бік Кіровограда...",
-    "description": "The rocket has changed its direction and is moving towards Kirovohrad Region on a northerly course",
-    "description_en": "The rocket has changed its direction and is moving towards Kirovohrad Region on a northerly course",
-    "description_uk": "Ракета змінила напрямок рухається на Кіровоградщину північним курсом",
-    "time": "",
-    "pubDate": "2026-08-15T15:49:36+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72940",
-    "score": 5.5,
-    "views": 113444,
-    "forwards": 81
-  },
-  {
-    "title": "Ракета змінила напрямок рухається на Кіровоградщину північним курсом",
-    "title_en": "Ракета змінила напрямок рухається на Кіровоградщину північним курсом",
-    "title_uk": "Ракета змінила напрямок рухається на Кіровоградщину північним курсом",
-    "description": "Ракета змінила напрямок рухається на Кіровоградщину північним курсом",
-    "description_en": "Ракета змінила напрямок рухається на Кіровоградщину північним курсом",
-    "description_uk": "Ракета змінила напрямок рухається на Кіровоградщину північним курсом",
-    "time": "",
-    "pubDate": "2026-08-15T15:49:36+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72940",
-    "score": 5.0,
-    "views": 12109,
-    "forwards": 34
-  },
-  {
-    "title": "Mykolaiv: The rocket is north of Voskresenskyi (Mykolaiv region) in the...",
-    "title_en": "Mykolaiv: The rocket is north of Voskresenskyi (Mykolaiv region) in the...",
-    "title_uk": "Миколаїв: Ракета знаходиться на північ від Воскресенського (Миколаївська область) в...",
-    "description": "The rocket is north of Voskresenskyi (Mykolaiv region) in the direction of Nova Odesa.",
-    "description_en": "The rocket is north of Voskresenskyi (Mykolaiv region) in the direction of Nova Odesa.",
-    "description_uk": "Ракета північніше Воскресенського (Миколаївщина) у напрямку Нова Одеса.",
-    "time": "",
-    "pubDate": "2026-08-15T15:42:16+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72938",
-    "score": 6.5,
-    "views": 70010,
-    "forwards": 54
-  },
-  {
     "title": "Kyiv: Casualties reported",
     "title_en": "Kyiv: Casualties reported",
     "title_uk": "Київ: повідомляється про постраждалих",
@@ -448,5 +394,59 @@
     "score": 11.0,
     "views": 1142,
     "forwards": 6
+  },
+  {
+    "title": "Missile attack",
+    "title_en": "Missile attack",
+    "title_uk": "Ракетна атака",
+    "description": "Today there are new significant results of our deep strikes. In the Samara region of Russia, one of the key enterprises of Roskosmos was affected - the Progress center, which was involved, in particular, in the production of electronics. Flamingo missiles were used, a good achievement. The distance from our border is about 900 kilometers. Our long-range sanctions also reached the airfield \"Savasleika\", where the carriers are based...",
+    "description_en": "Today there are new significant results of our deep strikes. In the Samara region of Russia, one of the key enterprises of Roskosmos was affected - the Progress center, which was involved, in particular, in the production of electronics. Flamingo missiles were used, a good achievement. The distance from our border is about 900 kilometers. Our long-range sanctions also reached the airfield \"Savasleika\", where the carriers are based...",
+    "description_uk": "Сьогодні є нові вагомі результати наших дипстрайків. У Самарському регіоні Росії уражено одне з ключових підприємств у складі «Роскосмосу» – центр «Прогрес», який займався, зокрема, виробництвом електроніки. Застосовувалися ракети «Фламінго», хороше досягнення. Відстань від нашого кордону – близько 900 кілометрів. Наші далекобійні санкції також досягли аеродрому «Саваслейка», де базуються носії...",
+    "time": "",
+    "pubDate": "2026-08-15T08:41:54+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20396",
+    "score": 12.0,
+    "views": 305985,
+    "forwards": 484
+  },
+  {
+    "title": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
+    "title_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy...",
+    "title_uk": "Глава МЗС України Андрій...",
+    "description": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, welcomed New Zealand's joining the International Coalition for the Return of Ukrainian Children. \"New Zealand has become the 51st member of the Coalition, strengthening our joint international efforts to bring home Ukrainian children illegally deported and forcibly displaced by Russia. With each new country that joins the Coalition, international pressure on Russia grows, and...",
+    "description_en": "The head of the Ministry of Foreign Affairs of Ukraine, Andriy Sybiga, welcomed New Zealand's joining the International Coalition for the Return of Ukrainian Children. \"New Zealand has become the 51st member of the Coalition, strengthening our joint international efforts to bring home Ukrainian children illegally deported and forcibly displaced by Russia. With each new country that joins the Coalition, international pressure on Russia grows, and...",
+    "description_uk": "Очільник МЗС України Андрій Сибіга привітав приєднання Нової Зеландії до Міжнародної коаліції за повернення українських дітей. “Нова Зеландія стала 51-м членом Коаліції, посиливши наші спільні міжнародні зусилля щодо повернення додому українських дітей, незаконно депортованих та примусово переміщених Росією. З кожною новою країною, що приєднується до Коаліції, міжнародний тиск на Росію зростає, а...",
+    "time": "",
+    "pubDate": "2026-08-14T11:08:51+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/10011",
+    "score": 5.0,
+    "views": 8281,
+    "forwards": 19
+  },
+  {
+    "title": "Kramatorsk: Casualties reported",
+    "title_en": "Kramatorsk: Casualties reported",
+    "title_uk": "Краматорськ: повідомляється про постраждалих",
+    "description": "Since night, our rescue services have been working at the sites of Russian attacks. In Kramatorsk, Donetsk region, the entrance of a ten-story building from the first to the sixth floor collapsed due to a Russian airstrike. One person died, another 16 were injured. In the village of Stepanivka, Sumy Oblast, two people were killed, including a child, as a result of a \"shaheed\" hitting a private house. My condolences to family and friends. In Smila on...",
+    "description_en": "Since night, our rescue services have been working at the sites of Russian attacks. In Kramatorsk, Donetsk region, the entrance of a ten-story building from the first to the sixth floor collapsed due to a Russian airstrike. One person died, another 16 were injured. In the village of Stepanivka, Sumy Oblast, two people were killed, including a child, as a result of a \"shaheed\" hitting a private house. My condolences to family and friends. In Smila on...",
+    "description_uk": "З ночі наші рятувальні служби працюють на місцях російських атак. У Краматорську на Донеччині через російський удар авіабомбою стався обвал під’їзду десятиповерхівки з першого по шостий поверх. Загинула одна людина, ще 16 поранені. У селищі Степанівка на Сумщині внаслідок влучання «шахеда» в приватний будинок загинули дві людини, і серед них дитина. Мої співчуття рідним та близьким. У Смілі на...",
+    "time": "",
+    "pubDate": "2026-08-14T07:43:48+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kramatorsk",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20386",
+    "score": 16.5,
+    "views": 287180,
+    "forwards": 233
   }
 ]
