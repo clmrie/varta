@@ -1,8 +1,26 @@
 [
   {
+    "title": "Sumy: Several BpLA ➡️ heading for Sumy.",
+    "title_en": "Sumy: Several BpLA ➡️ heading for Sumy.",
+    "title_uk": "Суми: кілька BpLA ➡️ прямують на Суми.",
+    "description": "Several BpLA ➡️ heading for Sumy.",
+    "description_en": "Several BpLA ➡️ heading for Sumy.",
+    "description_uk": "Декілька БпЛА ➡️ курсом на Суми.",
+    "time": "",
+    "pubDate": "2026-08-16T20:10:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73094",
+    "score": 6.0,
+    "views": 15197,
+    "forwards": 1
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
+    "title_uk": "Drone incoming",
     "description": "A group of UAVs from the Black Sea - to Odesa, heading for the Bay, Black Sea.",
     "description_en": "A group of UAVs from the Black Sea - to Odesa, heading for the Bay, Black Sea.",
     "description_uk": "Група БпЛА з Чорного моря - на Одещину, курсом на Затоку, Чорноморське.",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73093",
     "score": 5.0,
-    "views": 36385,
-    "forwards": 1
+    "views": 51610,
+    "forwards": 35
   },
   {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
@@ -68,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54832",
     "score": 9.0,
-    "views": 799,
+    "views": 930,
     "forwards": 2
   },
   {
@@ -88,6 +106,24 @@
     "score": 6.0,
     "views": 23224,
     "forwards": 0
+  },
+  {
+    "title": "Strike confirmed",
+    "title_en": "Strike confirmed",
+    "title_uk": "Страйк підтверджено",
+    "description": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
+    "description_en": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
+    "description_uk": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
+    "time": "",
+    "pubDate": "2026-08-16T18:31:38+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198621",
+    "score": 5.5,
+    "views": 92249,
+    "forwards": 245
   },
   {
     "title": "An unknown munition landed on the Odessa beach, local newspapers write",
@@ -248,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54830",
     "score": 13.0,
-    "views": 1641,
+    "views": 1707,
     "forwards": 3
   },
   {
@@ -302,7 +338,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198611",
     "score": 5.5,
-    "views": 134143,
+    "views": 139551,
     "forwards": 139
   },
   {
@@ -412,41 +448,5 @@
     "score": 6.0,
     "views": 4043,
     "forwards": 0
-  },
-  {
-    "title": "Kursk: BpLA from the Kursk region, Russian Federation - to Sumy Oblast,...",
-    "title_en": "Kursk: BpLA from the Kursk region, Russian Federation - to Sumy Oblast,...",
-    "title_uk": "Курськ: BpLA з Курської області, РФ - в Сумську область,...",
-    "description": "BpLA from the Kursk region, Russian Federation - to Sumy Oblast, bound for Khotin, Sumy, Krasnopillya.",
-    "description_en": "BpLA from the Kursk region, Russian Federation - to Sumy Oblast, bound for Khotin, Sumy, Krasnopillya.",
-    "description_uk": "БпЛА з Курської обл., рф - на Сумщину, курсом на Хотінь, Суми, Краснопілля.",
-    "time": "",
-    "pubDate": "2026-08-16T12:51:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kursk",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73038",
-    "score": 6.0,
-    "views": 20219,
-    "forwards": 0
-  },
-  {
-    "title": "A house in Usatovo after the arrival of the \"Shakhed\" jet:...",
-    "title_en": "A house in Usatovo after the arrival of the \"Shakhed\" jet:...",
-    "title_uk": "Будинок в Усатовому після прибуття літака \"Шахед\":...",
-    "description": "A house in Usatovo after the arrival of the \"Shakhed\" jet: preliminary, two people were injured",
-    "description_en": "A house in Usatovo after the arrival of the \"Shakhed\" jet: preliminary, two people were injured",
-    "description_uk": "Дом в Усатово после прилета реактивного «Шахеда»: предварительно, пострадали два человека",
-    "time": "",
-    "pubDate": "2026-08-16T12:50:24+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198601",
-    "score": 9.5,
-    "views": 96944,
-    "forwards": 71
   }
 ]
