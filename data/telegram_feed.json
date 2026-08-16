@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "A jet UAV headed for Kyiv from the north.",
+    "description_en": "A jet UAV headed for Kyiv from the north.",
+    "description_uk": "Реактивний БпЛА курсом на Київ з півночі.",
+    "time": "",
+    "pubDate": "2026-08-16T03:31:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/72979",
+    "score": 6.0,
+    "views": 9090,
+    "forwards": 1
+  },
+  {
     "title": "Kyiv: Attack attack",
     "title_en": "Kyiv: Attack attack",
     "title_uk": "Київ: Атака",
@@ -14,8 +32,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54822",
     "score": 8.0,
-    "views": 104,
-    "forwards": 3
+    "views": 350,
+    "forwards": 6
   },
   {
     "title": "Drone incoming",
@@ -92,7 +110,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомлення про вибухи",
+    "title_uk": "Київ: повідомляється про вибухи",
     "description": "Russian attack rocks Kyiv as numerous explosions heard within minutes. A Russian attack rocked Kyiv overnight on Aug. 16 as multiple explosions were heard in Ukraine's capital within minutes.",
     "description_en": "Russian attack rocks Kyiv as numerous explosions heard within minutes. A Russian attack rocked Kyiv overnight on Aug. 16 as multiple explosions were heard in Ukraine's capital within minutes.",
     "description_uk": "Russian attack rocks Kyiv as numerous explosions heard within minutes. A Russian attack rocked Kyiv overnight on Aug. 16 as multiple explosions were heard in Ukraine's capital within minutes.",
@@ -104,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54821",
     "score": 8.0,
-    "views": 515,
-    "forwards": 4
+    "views": 684,
+    "forwards": 5
   },
   {
     "title": "Kyiv: Drone strike",
@@ -230,7 +248,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198543",
     "score": 9.5,
-    "views": 103461,
+    "views": 114287,
     "forwards": 252
   },
   {
@@ -248,7 +266,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198540",
     "score": 4.5,
-    "views": 106813,
+    "views": 117271,
     "forwards": 149
   },
   {
@@ -430,23 +448,5 @@
     "score": 11.0,
     "views": 1142,
     "forwards": 6
-  },
-  {
-    "title": "Chernihiv: Drone attack",
-    "title_en": "Chernihiv: Drone attack",
-    "title_uk": "Чернігів: Атака безпілотників",
-    "description": "Strike UAV in the north of Sumy Oblast on a westward course to Chernihiv Oblast",
-    "description_en": "Strike UAV in the north of Sumy Oblast on a westward course to Chernihiv Oblast",
-    "description_uk": "Ударний БпЛА на півночі Сумщини західним курсом на Чернігівщину",
-    "time": "",
-    "pubDate": "2026-08-15T15:08:39+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/72937",
-    "score": 6.0,
-    "views": 21273,
-    "forwards": 0
   }
 ]
