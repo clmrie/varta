@@ -1,5 +1,41 @@
 [
   {
+    "title": "Dnipro: BpLA in the east of Dnipropetrovsk region - heading for Pavlograd.",
+    "title_en": "Dnipro: BpLA in the east of Dnipropetrovsk region - heading for Pavlograd.",
+    "title_uk": "Дніпро: BpLA на сході Дніпропетровської області – курс на Павлоград.",
+    "description": "BpLA in the east of Dnipropetrovsk region - heading for Pavlograd.",
+    "description_en": "BpLA in the east of Dnipropetrovsk region - heading for Pavlograd.",
+    "description_uk": "БпЛА на сході Дніпропетровщини - курсом на Павлоград.",
+    "time": "",
+    "pubDate": "2026-08-16T17:19:33+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73075",
+    "score": 6.0,
+    "views": 14186,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
+    "title_uk": "Харків: БпЛА на Харків з півночі.",
+    "description": "BpLA on Kharkiv from the north.",
+    "description_en": "BpLA on Kharkiv from the north.",
+    "description_uk": "БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-08-16T17:18:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73074",
+    "score": 6.0,
+    "views": 14154,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
     "title_en": "Kharkiv: BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
     "title_uk": "Харків: BpLA з Донецької області - на Харківську область, прямуючи на Лозову.",
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54830",
     "score": 13.0,
-    "views": 713,
+    "views": 911,
     "forwards": 2
   },
   {
@@ -126,11 +162,11 @@
     "forwards": 1
   },
   {
-    "title": "Air defense active",
-    "title_en": "Air defense active",
-    "title_uk": "Активна ППО",
-    "description": "The target is visible, but it is not always possible to shoot it down - the monitoring channels showed how air defense works. As the monitors explain, the detection of a drone does not mean the possibility of its immediate destruction. Between the appearance of the target on the screen and the interception, it is necessary to determine the type of UAV and its route, find a suitable means of defeat and choose a safe moment for the attack. Therefore, the drone can fly...",
-    "description_en": "The target is visible, but it is not always possible to shoot it down - the monitoring channels showed how air defense works. As the monitors explain, the detection of a drone does not mean the possibility of its immediate destruction. Between the appearance of the target on the screen and the interception, it is necessary to determine the type of UAV and its route, find a suitable means of defeat and choose a safe moment for the attack. Therefore, the drone can fly...",
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака дронов",
+    "description": "Цель видна, но сбить ее не всегда возможно, - мониторинговые каналы показали, как работает ПВО Как объясняют мониторы, обнаружение дрона еще не означает возможность его немедленного уничтожения. Между появлением цели на экране и перехватом необходимо определить тип БПЛА и его маршрут, найти подходящее средство поражения и выбрать безопасный момент для атаки. Поэтому дрон может пролететь...",
+    "description_en": "Цель видна, но сбить ее не всегда возможно, - мониторинговые каналы показали, как работает ПВО Как объясняют мониторы, обнаружение дрона еще не означает возможность его немедленного уничтожения. Между появлением цели на экране и перехватом необходимо определить тип БПЛА и его маршрут, найти подходящее средство поражения и выбрать безопасный момент для атаки. Поэтому дрон может пролететь...",
     "description_uk": "Цель видна, но сбить ее не всегда возможно, - мониторинговые каналы показали, как работает ПВО Как объясняют мониторы, обнаружение дрона еще не означает возможность его немедленного уничтожения. Между появлением цели на экране и перехватом необходимо определить тип БПЛА и его маршрут, найти подходящее средство поражения и выбрать безопасный момент для атаки. Поэтому дрон может пролететь...",
     "time": "",
     "pubDate": "2026-08-16T15:29:50+00:00",
@@ -140,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198611",
     "score": 5.5,
-    "views": 73190,
-    "forwards": 70
+    "views": 86082,
+    "forwards": 105
   },
   {
     "title": "Mykolaiv: Unmanned aerial vehicle in the north of Chernihiv Oblast - heading...",
@@ -214,6 +250,24 @@
     "score": 6.0,
     "views": 7084,
     "forwards": 0
+  },
+  {
+    "title": "Air defense active",
+    "title_en": "Air defense active",
+    "title_uk": "Активна ППО",
+    "description": "👀 Ukraine has almost doubled the use of Flamingo missiles in the Russian Federation Since June, the Ministry of Defense of the Russian Federation announced the interception of at least 57 Flamingo missiles, while from February to May it was reported about 31. In the last two weeks alone, the Russian agency reported 25 downed missiles, the Agency notes. In the summer, at least four successful \"Flamingo\" strikes on Russian enterprises in Cheboksary were confirmed,...",
+    "description_en": "👀 Ukraine has almost doubled the use of Flamingo missiles in the Russian Federation Since June, the Ministry of Defense of the Russian Federation announced the interception of at least 57 Flamingo missiles, while from February to May it was reported about 31. In the last two weeks alone, the Russian agency reported 25 downed missiles, the Agency notes. In the summer, at least four successful \"Flamingo\" strikes on Russian enterprises in Cheboksary were confirmed,...",
+    "description_uk": "👀 Украина почти вдвое нарастила применение ракет \"Фламинго\" по рф С июня Минобороны рф заявило о перехвате как минимум 57 ракет \"Фламинго\", тогда как с февраля по май сообщалось о 31. Только за последние две недели российское ведомство отчиталось о 25 сбитых ракетах, отмечает \"Агентство\". Летом подтверждались как минимум четыре успешных удара \"Фламинго\" по российским предприятиям в Чебоксарах,...",
+    "time": "",
+    "pubDate": "2026-08-16T13:50:11+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198604",
+    "score": 8.5,
+    "views": 118486,
+    "forwards": 139
   },
   {
     "title": "Kharkiv: A jet UAV in the west of Kharkiv Oblast - headed for Valky.",
@@ -290,7 +344,7 @@
   {
     "title": "Kyiv: Casualties reported",
     "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Kyiv: Casualties reported",
+    "title_uk": "Київ: повідомляється про постраждалих",
     "description": "How Russia weaponizes civilian casualties | Ukraine This Week Is Ukraine deliberately targeting civilians inside Russia? In this episode of Ukraine This Week, Anna Belokur examines what we actually know about civilian deaths linked to Ukrainian strikes, how international humanitarian law distinguishes military targets from civilian targets, and why many of the most high-profile incidents remain...",
     "description_en": "How Russia weaponizes civilian casualties | Ukraine This Week Is Ukraine deliberately targeting civilians inside Russia? In this episode of Ukraine This Week, Anna Belokur examines what we actually know about civilian deaths linked to Ukrainian strikes, how international humanitarian law distinguishes military targets from civilian targets, and why many of the most high-profile incidents remain...",
     "description_uk": "How Russia weaponizes civilian casualties | Ukraine This Week Is Ukraine deliberately targeting civilians inside Russia? In this episode of Ukraine This Week, Anna Belokur examines what we actually know about civilian deaths linked to Ukrainian strikes, how international humanitarian law distinguishes military targets from civilian targets, and why many of the most high-profile incidents remain...",
@@ -302,7 +356,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54829",
     "score": 10.0,
-    "views": 1618,
+    "views": 1703,
     "forwards": 4
   },
   {
@@ -394,59 +448,5 @@
     "score": 6.5,
     "views": 101900,
     "forwards": 354
-  },
-  {
-    "title": "Crimea: Cruise missile heading inbound",
-    "title_en": "Crimea: Cruise missile heading inbound",
-    "title_uk": "Крим: крилата ракета наближається",
-    "description": "Ukraine claims strike on Onyx and Zircon missile launcher in occupied Crimea, shows footage. The Bastion is a relatively rare and expensive coastal defense system that Russia uses to launch Onyx and Zircon cruise missiles across Ukraine.",
-    "description_en": "Ukraine claims strike on Onyx and Zircon missile launcher in occupied Crimea, shows footage. The Bastion is a relatively rare and expensive coastal defense system that Russia uses to launch Onyx and Zircon cruise missiles across Ukraine.",
-    "description_uk": "Ukraine claims strike on Onyx and Zircon missile launcher in occupied Crimea, shows footage. The Bastion is a relatively rare and expensive coastal defense system that Russia uses to launch Onyx and Zircon cruise missiles across Ukraine.",
-    "time": "",
-    "pubDate": "2026-08-16T10:19:51+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Crimea",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54826",
-    "score": 6.0,
-    "views": 1054,
-    "forwards": 6
-  },
-  {
-    "title": "Mykolaiv: UAV from the Black Sea ➡️ course to Ochakiv (Mykolaiv Oblast).",
-    "title_en": "Mykolaiv: UAV from the Black Sea ➡️ course to Ochakiv (Mykolaiv Oblast).",
-    "title_uk": "Миколаїв: БПЛА з Чорного моря ➡️ курс на Очаків (Миколаївська область).",
-    "description": "UAV from the Black Sea ➡️ course to Ochakiv (Mykolaiv Oblast).",
-    "description_en": "UAV from the Black Sea ➡️ course to Ochakiv (Mykolaiv Oblast).",
-    "description_uk": "БпЛА з акваторії Чорного моря➡️ курсом на Очаків (Миколаївщина).",
-    "time": "",
-    "pubDate": "2026-08-16T10:18:56+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73003",
-    "score": 6.0,
-    "views": 46994,
-    "forwards": 10
-  },
-  {
-    "title": "😱The Danube has become so shallow that the Croatian island of Vukovar...",
-    "title_en": "😱The Danube has become so shallow that the Croatian island of Vukovar...",
-    "title_uk": "😱Дунай настільки обмілів, що хорватський острів Вуковар...",
-    "description": "😱The Danube has become so shallow that the Croatian island of Vukovar can now be reached on foot, — Blic The water level in the river has dropped to a record low. Due to this strait, which usually separates the island of Vukovar from the Serbian coast and is the water border between the countries, it has almost completely dried up in several places. Therefore, it is now possible to get to the island not only by water, but also on foot or by car. For...",
-    "description_en": "😱The Danube has become so shallow that the Croatian island of Vukovar can now be reached on foot, — Blic The water level in the river has dropped to a record low. Due to this strait, which usually separates the island of Vukovar from the Serbian coast and is the water border between the countries, it has almost completely dried up in several places. Therefore, it is now possible to get to the island not only by water, but also on foot or by car. For...",
-    "description_uk": "😱Дунай обмелел настолько, что до хорватского острова Вуковара теперь можно дойти пешком, — Blic Уровень воды в реке упал до рекордно низкого. Из-за этого протока, которая обычно отделяет остров Вуковар от сербского берега и является водной границей между странами, в нескольких местах почти полностью высохла. Поэтому попасть на остров теперь можно не только по воде, но и пешком или на машине. Для...",
-    "time": "",
-    "pubDate": "2026-08-16T09:05:22+00:00",
-    "category": "alert",
-    "severity": "medium",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198582",
-    "score": 4.5,
-    "views": 115507,
-    "forwards": 217
   }
 ]
