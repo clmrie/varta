@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kryvyi Rih: Drone incoming",
+    "title_en": "Kryvyi Rih: Drone incoming",
+    "title_uk": "Кривий Ріг: Дрон вхід",
+    "description": "A jet UAV from the Kherson region - to the Dnipropetrovsk region, heading for Kryvyi Rih.",
+    "description_en": "A jet UAV from the Kherson region - to the Dnipropetrovsk region, heading for Kryvyi Rih.",
+    "description_uk": "Реактивний БпЛА з Херсонщини - на Дніпропетровщину, курсом на Кривий Ріг.",
+    "time": "",
+    "pubDate": "2026-08-16T14:32:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73062",
+    "score": 6.0,
+    "views": 3049,
+    "forwards": 0
+  },
+  {
+    "title": "Kherson: Drone incoming",
+    "title_en": "Kherson: Drone incoming",
+    "title_uk": "Херсон: Дрон вхід",
+    "description": "A jet UAV from the east - to the north of the Kherson region, heading for Arkhangelsk.",
+    "description_en": "A jet UAV from the east - to the north of the Kherson region, heading for Arkhangelsk.",
+    "description_uk": "Реактивний БпЛА зі сходу - на північ Херсонщини, курсом на Архангельське.",
+    "time": "",
+    "pubDate": "2026-08-16T14:29:10+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73061",
+    "score": 6.0,
+    "views": 8100,
+    "forwards": 0
+  },
+  {
     "title": "Sumy: A jet UAV in the south of Sumy Oblast - headed for Sumy.",
     "title_en": "Sumy: A jet UAV in the south of Sumy Oblast - headed for Sumy.",
     "title_uk": "Суми: реактивний БПЛА на півдні Сумської області – прямував на Суми.",
@@ -31,9 +67,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198604",
-    "score": 8.0,
-    "views": 17185,
-    "forwards": 35
+    "score": 8.5,
+    "views": 46282,
+    "forwards": 69
   },
   {
     "title": "Kharkiv: BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
@@ -140,7 +176,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198601",
     "score": 9.5,
-    "views": 65556,
+    "views": 80762,
     "forwards": 71
   },
   {
@@ -158,8 +194,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54829",
     "score": 10.0,
-    "views": 732,
-    "forwards": 2
+    "views": 883,
+    "forwards": 3
   },
   {
     "title": "Drone incoming",
@@ -266,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54827",
     "score": 8.0,
-    "views": 1279,
+    "views": 1375,
     "forwards": 4
   },
   {
@@ -412,41 +448,5 @@
     "score": 5.5,
     "views": 53158,
     "forwards": 106
-  },
-  {
-    "title": "Russia was also fired upon in the occupied Crimea: the Ukrainian...",
-    "title_en": "Russia was also fired upon in the occupied Crimea: the Ukrainian...",
-    "title_uk": "Росію також обстріляли в окупованому Криму: українська...",
-    "description": "Russia was also fired upon in the occupied Crimea: the Ukrainian military struck Bastion, from which the Russian Federation launches Onyx and Zircons. The enemy suffered significant losses in weapons and personnel.",
-    "description_en": "Russia was also fired upon in the occupied Crimea: the Ukrainian military struck Bastion, from which the Russian Federation launches Onyx and Zircons. The enemy suffered significant losses in weapons and personnel.",
-    "description_uk": "Прожарка русни была и в оккупированном Крыму: украинские военные ударили по «Бастиону», из которого рф запускает «Ониксы» и «Цирконы» ВМС сообщают, что были поражены стартовые позиции и место дислокации российского берегового ракетного комплекса. Противник понес значительные потери в вооружении и личном составе.",
-    "time": "",
-    "pubDate": "2026-08-16T07:56:07+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Crimea",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198576",
-    "score": 5.0,
-    "views": 10363,
-    "forwards": 36
-  },
-  {
-    "title": "Kryvyi Rih: Ballistic missile launch detected",
-    "title_en": "Kryvyi Rih: Ballistic missile launch detected",
-    "title_uk": "Кривий Ріг: виявлено пуск балістичної ракети",
-    "description": "Emergency services work at the sites of morning and nighttime Russian strikes. In Kyiv, the fires were promptly extinguished, emergency work is currently underway. The Russians injured six people in the city and region. Kremenchuk and Kryvyi Rih were also hit by ballistic missiles. Wherever the Russians reach with their ballistics, they hit civilian infrastructure. In Kryvyi Rih, two people died and another 14 people were injured. THERE ARE...",
-    "description_en": "Emergency services work at the sites of morning and nighttime Russian strikes. In Kyiv, the fires were promptly extinguished, emergency work is currently underway. The Russians injured six people in the city and region. Kremenchuk and Kryvyi Rih were also hit by ballistic missiles. Wherever the Russians reach with their ballistics, they hit civilian infrastructure. In Kryvyi Rih, two people died and another 14 people were injured. THERE ARE...",
-    "description_uk": "Екстрені служби працюють на місцях ранкових та нічних російських ударів. У Києві оперативно ліквідували пожежі, зараз тривають аварійні роботи. У місті та області росіяни поранили шістьох людей. Під ударами балістикою також були Кременчук і Кривий Ріг. Всюди, де росіяни дотягуються своєю балістикою, вони бʼють по цивільній інфраструктурі. У Кривому Розі двоє загиблих і ще 14 людей постраждали. Є...",
-    "time": "",
-    "pubDate": "2026-08-16T07:38:00+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kryvyi Rih",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20402",
-    "score": 23.0,
-    "views": 179022,
-    "forwards": 243
   }
 ]
