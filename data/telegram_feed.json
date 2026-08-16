@@ -1,8 +1,26 @@
 [
   {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "Ukraine could use its own ballistic missiles against Russia by year-end, Fedorov tells CBS News. \"We need to defeat Russia in every technological cycle, and we have to make decisions 24/7,\" the former defense minister said in an interview published on Aug. 16.",
+    "description_en": "Ukraine could use its own ballistic missiles against Russia by year-end, Fedorov tells CBS News. \"We need to defeat Russia in every technological cycle, and we have to make decisions 24/7,\" the former defense minister said in an interview published on Aug. 16.",
+    "description_uk": "Ukraine could use its own ballistic missiles against Russia by year-end, Fedorov tells CBS News. \"We need to defeat Russia in every technological cycle, and we have to make decisions 24/7,\" the former defense minister said in an interview published on Aug. 16.",
+    "time": "",
+    "pubDate": "2026-08-16T20:30:31+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54833",
+    "score": 6.0,
+    "views": 335,
+    "forwards": 5
+  },
+  {
     "title": "Sumy: Several BpLA ➡️ heading for Sumy.",
     "title_en": "Sumy: Several BpLA ➡️ heading for Sumy.",
-    "title_uk": "Суми: кілька BpLA ➡️ прямують на Суми.",
+    "title_uk": "Sumy: Several BpLA ➡️ heading for Sumy.",
     "description": "Several BpLA ➡️ heading for Sumy.",
     "description_en": "Several BpLA ➡️ heading for Sumy.",
     "description_uk": "Декілька БпЛА ➡️ курсом на Суми.",
@@ -14,13 +32,13 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73094",
     "score": 6.0,
-    "views": 15197,
-    "forwards": 1
+    "views": 29401,
+    "forwards": 2
   },
   {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
+    "title_uk": "Дрон входить",
     "description": "A group of UAVs from the Black Sea - to Odesa, heading for the Bay, Black Sea.",
     "description_en": "A group of UAVs from the Black Sea - to Odesa, heading for the Bay, Black Sea.",
     "description_uk": "Група БпЛА з Чорного моря - на Одещину, курсом на Затоку, Чорноморське.",
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73093",
     "score": 5.0,
-    "views": 51610,
+    "views": 61764,
     "forwards": 35
   },
   {
@@ -86,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54832",
     "score": 9.0,
-    "views": 930,
-    "forwards": 2
+    "views": 1139,
+    "forwards": 3
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -122,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198621",
     "score": 5.5,
-    "views": 92249,
-    "forwards": 245
+    "views": 99895,
+    "forwards": 279
   },
   {
     "title": "An unknown munition landed on the Odessa beach, local newspapers write",
@@ -338,7 +356,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198611",
     "score": 5.5,
-    "views": 139551,
+    "views": 142859,
     "forwards": 139
   },
   {
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/73057",
     "score": 6.0,
     "views": 7084,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: A jet UAV in the west of Kharkiv Oblast - headed for Valky.",
-    "title_en": "Kharkiv: A jet UAV in the west of Kharkiv Oblast - headed for Valky.",
-    "title_uk": "Харків: реактивний БПЛА на заході Харківської області – прямував на Валки.",
-    "description": "A jet UAV in the west of Kharkiv Oblast - headed for Valky.",
-    "description_en": "A jet UAV in the west of Kharkiv Oblast - headed for Valky.",
-    "description_uk": "Реактивний БпЛА на заході Харківщини - курсом на Валки.",
-    "time": "",
-    "pubDate": "2026-08-16T13:39:48+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73052",
-    "score": 6.0,
-    "views": 4043,
     "forwards": 0
   }
 ]
