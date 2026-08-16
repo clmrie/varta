@@ -1,5 +1,23 @@
 [
   {
+    "title": "Chernihiv: Unmanned aerial vehicle in the north of Chernihiv Oblast - heading...",
+    "title_en": "Chernihiv: Unmanned aerial vehicle in the north of Chernihiv Oblast - heading...",
+    "title_uk": "Чернігів: БПЛА на півночі Чернігівської області - курс...",
+    "description": "Unmanned aerial vehicle in the north of Chernihiv Oblast - heading for Snovsk, Horodnia.",
+    "description_en": "Unmanned aerial vehicle in the north of Chernihiv Oblast - heading for Snovsk, Horodnia.",
+    "description_uk": "БпЛА на півночі Чернігівщини - курсом на Сновськ, Городню.",
+    "time": "",
+    "pubDate": "2026-08-16T16:22:03+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73069",
+    "score": 6.0,
+    "views": 20259,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Attack attack",
     "title_en": "Kyiv: Attack attack",
     "title_uk": "Київ: Атака",
@@ -14,8 +32,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54830",
     "score": 13.0,
-    "views": 261,
-    "forwards": 1
+    "views": 527,
+    "forwards": 2
   },
   {
     "title": "Sumy: BpLA on Sumy from the north.",
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73068",
     "score": 6.0,
-    "views": 16158,
+    "views": 34385,
     "forwards": 0
   },
   {
@@ -86,7 +104,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198611",
     "score": 5.5,
-    "views": 46287,
+    "views": 63410,
     "forwards": 70
   },
   {
@@ -266,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54829",
     "score": 10.0,
-    "views": 1407,
+    "views": 1519,
     "forwards": 4
   },
   {
@@ -430,23 +448,5 @@
     "score": 5.0,
     "views": 67286,
     "forwards": 32
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Дрон вхід",
-    "description": "Kyiv region: jet UAV ➡️ in the direction of Obukhov from the south.",
-    "description_en": "Kyiv region: jet UAV ➡️ in the direction of Obukhov from the south.",
-    "description_uk": "Київщина: реактивний БпЛА ➡️ у напрямку Обухова з півдня.",
-    "time": "",
-    "pubDate": "2026-08-16T08:23:27+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73001",
-    "score": 6.0,
-    "views": 57208,
-    "forwards": 35
   }
 ]
