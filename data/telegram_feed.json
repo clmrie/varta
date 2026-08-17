@@ -1,8 +1,44 @@
 [
   {
+    "title": "Kryvyi Rih: Drone incoming",
+    "title_en": "Kryvyi Rih: Drone incoming",
+    "title_uk": "Кривий Ріг: Дрон вхід",
+    "description": "A jet UAV in the west of Dnipropetrovsk region, in the direction of the city of Kryvyi Rih",
+    "description_en": "A jet UAV in the west of Dnipropetrovsk region, in the direction of the city of Kryvyi Rih",
+    "description_uk": "Реактивний БпЛА на заході Дніпропетровщини, напрямок м.Кривий Ріг",
+    "time": "",
+    "pubDate": "2026-08-17T14:20:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73206",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному...",
+    "title_en": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному...",
+    "title_uk": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному...",
+    "description": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "description_en": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-08-17T14:18:04+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73205",
+    "score": 5.0,
+    "views": 7079,
+    "forwards": 0
+  },
+  {
     "title": "5 missiles intercepted",
     "title_en": "5 missiles intercepted",
-    "title_uk": "Перехоплено 5 ракет",
+    "title_uk": "5 missiles intercepted",
     "description": "Russia is already intercepting almost all Ukrainian cruise missiles \"Flamingo\", writes the German Focus. In recent weeks, only one or two FP-5 missiles have reached their targets out of 11 launched. They defeated the Avitek missile plant in the Kirov Region on July 24-25. \"Flamingos\" can be shot down by A-50U early warning planes, which calculate the most probable flight routes of missiles: \"According to data...",
     "description_en": "Russia is already intercepting almost all Ukrainian cruise missiles \"Flamingo\", writes the German Focus. In recent weeks, only one or two FP-5 missiles have reached their targets out of 11 launched. They defeated the Avitek missile plant in the Kirov Region on July 24-25. \"Flamingos\" can be shot down by A-50U early warning planes, which calculate the most probable flight routes of missiles: \"According to data...",
     "description_uk": "Россия перехватывает уже почти все украинские крылатые ракеты \"Фламинго\", пишет немецкий Focus. За последние недели только одна или две ракеты FP-5 достигли своих целей из 11 запущенных. Они поразили ракетный завод \"Авитек\" в Кировской области 24-25 июля. Сбивать \"Фламинго\" позволяют самолёты раннего предупреждения А-50У, просчитывающие наиболее вероятные маршруты полёта ракет: \"По данным...",
@@ -13,9 +49,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198677",
-    "score": 3.5,
-    "views": 8499,
-    "forwards": 71
+    "score": 4.5,
+    "views": 40775,
+    "forwards": 212
   },
   {
     "title": "High-speed goal ➡️ course to Chornomorsk.",
@@ -51,24 +87,6 @@
     "link": "https://t.me/kpszsu/73196",
     "score": 5.0,
     "views": 20229,
-    "forwards": 0
-  },
-  {
-    "title": "Kryvyi Rih: Drone incoming",
-    "title_en": "Kryvyi Rih: Drone incoming",
-    "title_uk": "Кривий Ріг: Дрон вхід",
-    "description": "Jet UAV on Kryvyi Rih from the western direction.",
-    "description_en": "Jet UAV on Kryvyi Rih from the western direction.",
-    "description_uk": "Реактивний БпЛА на Кривий ріг із західного напрямку.",
-    "time": "",
-    "pubDate": "2026-08-17T12:56:16+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73192",
-    "score": 6.0,
-    "views": 17164,
     "forwards": 0
   },
   {
@@ -158,7 +176,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198664",
     "score": 6.5,
-    "views": 108702,
+    "views": 115256,
     "forwards": 72
   },
   {
@@ -284,7 +302,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41898",
     "score": 13.0,
-    "views": 6929,
+    "views": 7026,
     "forwards": 25
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 1239,
     "forwards": 0
-  },
-  {
-    "title": "Kharkiv: BpLA from the north - to Kharkiv.",
-    "title_en": "Kharkiv: BpLA from the north - to Kharkiv.",
-    "title_uk": "Харків: БпЛА з півночі – на Харків.",
-    "description": "BpLA from the north - to Kharkiv.",
-    "description_en": "BpLA from the north - to Kharkiv.",
-    "description_uk": "БпЛА з півночі - на Харків.",
-    "time": "",
-    "pubDate": "2026-08-17T02:31:22+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73116",
-    "score": 6.0,
-    "views": 1241,
-    "forwards": 3
   }
 ]
