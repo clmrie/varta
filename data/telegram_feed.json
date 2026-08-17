@@ -1,5 +1,23 @@
 [
   {
+    "title": "Zaporizhzhia: 🛸🛵 BpLA on Zaporozhye from the east.",
+    "title_en": "Zaporizhzhia: 🛸🛵 BpLA on Zaporozhye from the east.",
+    "title_uk": "Запоріжжя: 🛸🛵 BpLA на Запоріжжі зі сходу.",
+    "description": "🛸🛵 BpLA on Zaporozhye from the east.",
+    "description_en": "🛸🛵 BpLA on Zaporozhye from the east.",
+    "description_uk": "🛸🛵 БпЛА на Запоріжжя зі сходу.",
+    "time": "",
+    "pubDate": "2026-08-17T09:46:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73175",
+    "score": 6.0,
+    "views": 11117,
+    "forwards": 0
+  },
+  {
     "title": "Dnipro: Dnipropetrovsk region - jet UAV headed for Pavlograd.",
     "title_en": "Dnipro: Dnipropetrovsk region - jet UAV headed for Pavlograd.",
     "title_uk": "Дніпро: Дніпропетровська область - реактивний БПЛА взяв курс на Павлоград.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73172",
     "score": 6.0,
-    "views": 2026,
+    "views": 54557,
     "forwards": 1
   },
   {
@@ -54,24 +72,6 @@
     "forwards": 0
   },
   {
-    "title": "Zaporizhzhia: BpLA on Zaporozhye from the east.",
-    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the east.",
-    "title_uk": "Запоріжжя: БпЛА на Запоріжжі зі сх.",
-    "description": "BpLA on Zaporozhye from the east.",
-    "description_en": "BpLA on Zaporozhye from the east.",
-    "description_uk": "БпЛА на Запоріжжя зі сходу.",
-    "time": "",
-    "pubDate": "2026-08-17T07:23:39+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73162",
-    "score": 6.0,
-    "views": 45470,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Drone attack",
     "title_en": "Kyiv: Drone attack",
     "title_uk": "Київ: Атака безпілотників",
@@ -104,7 +104,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41898",
     "score": 13.0,
-    "views": 5147,
+    "views": 5615,
     "forwards": 21
   },
   {
@@ -284,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54835",
     "score": 5.0,
-    "views": 2032,
+    "views": 2131,
     "forwards": 8
   },
   {
@@ -360,24 +360,6 @@
     "forwards": 0
   },
   {
-    "title": "Another BpLA ➡️ in the direction of Sumy.",
-    "title_en": "Another BpLA ➡️ in the direction of Sumy.",
-    "title_uk": "Another BpLA ➡️ in the direction of Sumy.",
-    "description": "Another BpLA ➡️ in the direction of Sumy.",
-    "description_en": "Another BpLA ➡️ in the direction of Sumy.",
-    "description_uk": "Ще БпЛА ➡️ в напрямку Сум.",
-    "time": "",
-    "pubDate": "2026-08-16T21:21:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73097",
-    "score": 5.0,
-    "views": 32818,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Київ: виявлено пуск балістичної ракети",
@@ -392,7 +374,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54833",
     "score": 6.0,
-    "views": 2576,
+    "views": 2645,
     "forwards": 10
   },
   {
@@ -428,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20402",
     "score": 23.0,
-    "views": 252859,
+    "views": 254528,
     "forwards": 288
   }
 ]
