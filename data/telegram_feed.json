@@ -1,5 +1,59 @@
 [
   {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Донецьк: Дрон вхід",
+    "description": "106 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of August 17 (from 18:00 on August 16), the enemy attacked 128 attack UAVs of the Shahed type (including jet ones), Gerber, and imitation drones of the \"Parody\" type from the directions: Kursk, Orel, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile forces, EW and unmanned systems units, mobile fire groups of the Defense Forces...",
+    "description_en": "106 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of August 17 (from 18:00 on August 16), the enemy attacked 128 attack UAVs of the Shahed type (including jet ones), Gerber, and imitation drones of the \"Parody\" type from the directions: Kursk, Orel, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile forces, EW and unmanned systems units, mobile fire groups of the Defense Forces...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 106 ВОРОЖИХ БПЛА У ніч на 17 серпня (з 18:00 16 серпня) противник атакував 128 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Орел, Приморсько-Ахтарськ – рф., ТОТ Донецьк. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем, мобільні вогневі групи Сил оборони...",
+    "time": "",
+    "pubDate": "2026-08-17T05:42:21+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "General Staff ZSU",
+    "link": "https://t.me/GeneralStaffZSU/41898",
+    "score": 13.0,
+    "views": 504,
+    "forwards": 4
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "A jet UAV from Kharkiv Oblast - to Sumy Oblast, headed for Trostyanets. 🛵 A group of jet UAVs in the north of Kharkiv region - heading for Dergach, Merefu, Kharkiv.",
+    "description_en": "A jet UAV from Kharkiv Oblast - to Sumy Oblast, headed for Trostyanets. 🛵 A group of jet UAVs in the north of Kharkiv region - heading for Dergach, Merefu, Kharkiv.",
+    "description_uk": "Реактивний БпЛА з Харківщини - на Сумщину, курсом на Тростянець. 🛵 Група реактивних БпЛА на півночі Харківщини - курсом на Дергачі, Мерефу, Харків.",
+    "time": "",
+    "pubDate": "2026-08-17T05:35:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73148",
+    "score": 6.0,
+    "views": 14049,
+    "forwards": 0
+  },
+  {
+    "title": "Drone strike near civilians",
+    "title_en": "Drone strike near civilians",
+    "title_uk": "Удар безпілотників поблизу мирних жителів",
+    "description": "The Russian Federation is creating a network of bases for long-range drones that can threaten Poland, — The Telegraph According to journalists, the Russian Federation has deployed at least 10 new bases with launch pads. Some of them are already being used for strikes on Ukraine. In total, The Telegraph identified at least 59 new rail installations. Some of these hubs are built on the basis of repurposed military facilities and civilian...",
+    "description_en": "The Russian Federation is creating a network of bases for long-range drones that can threaten Poland, — The Telegraph According to journalists, the Russian Federation has deployed at least 10 new bases with launch pads. Some of them are already being used for strikes on Ukraine. In total, The Telegraph identified at least 59 new rail installations. Some of these hubs are built on the basis of repurposed military facilities and civilian...",
+    "description_uk": "рф создает сеть баз для дальнобойных дронов, которые могут угрожать Польше, — The Telegraph По данным журналистов, рф развернула как минимум 10 новых баз с пусковыми площадками. Некоторые из них уже используются для ударов по Украине. Всего The Telegraph идентифицировал как минимум 59 новых рельсовых установок. Часть этих хабов обустроена на базе перепрофилированных военных объектов и гражданских...",
+    "time": "",
+    "pubDate": "2026-08-17T05:08:01+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198632",
+    "score": 5.5,
+    "views": 47778,
+    "forwards": 70
+  },
+  {
     "title": "Zaporizhzhia: Drone incoming",
     "title_en": "Zaporizhzhia: Drone incoming",
     "title_uk": "Запоріжжя: Дрон вхід",
@@ -51,24 +105,6 @@
     "link": "https://t.me/kpszsu/73131",
     "score": 6.0,
     "views": 20215,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "UAV in the east of Kharkiv region - heading for Prikolotne, Stary Saltiv.",
-    "description_en": "UAV in the east of Kharkiv region - heading for Prikolotne, Stary Saltiv.",
-    "description_uk": "БпЛА на сході Харківщини - курсом на Приколотне, Старий Салтів.",
-    "time": "",
-    "pubDate": "2026-08-17T03:33:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73130",
-    "score": 6.0,
-    "views": 30272,
     "forwards": 0
   },
   {
@@ -158,8 +194,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54835",
     "score": 5.0,
-    "views": 1038,
-    "forwards": 5
+    "views": 1228,
+    "forwards": 7
   },
   {
     "title": "Mykolaiv: A group of BpLA from Kherson region - to Mykolaiv region, heading for...",
@@ -302,8 +338,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54833",
     "score": 6.0,
-    "views": 2002,
-    "forwards": 9
+    "views": 2124,
+    "forwards": 10
   },
   {
     "title": "Sumy: Drone incoming",
@@ -410,43 +446,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198621",
     "score": 5.5,
-    "views": 164591,
+    "views": 174187,
     "forwards": 319
-  },
-  {
-    "title": "Strike confirmed",
-    "title_en": "Strike confirmed",
-    "title_uk": "Strike confirmed",
-    "description": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
-    "description_en": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
-    "description_uk": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
-    "time": "",
-    "pubDate": "2026-08-16T18:31:38+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198621",
-    "score": 5.5,
-    "views": 135072,
-    "forwards": 308
-  },
-  {
-    "title": "An unknown munition flew along the Odessa beach, local newspapers...",
-    "title_en": "An unknown munition flew along the Odessa beach, local newspapers...",
-    "title_uk": "Одеським пляжем пролетів невідомий боєприпас, пишуть місцеві газети...",
-    "description": "An unknown munition flew along the Odessa beach, local newspapers write",
-    "description_en": "An unknown munition flew along the Odessa beach, local newspapers write",
-    "description_uk": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
-    "time": "",
-    "pubDate": "2026-08-16T18:31:38+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198621",
-    "score": 5.5,
-    "views": 123404,
-    "forwards": 307
   }
 ]
