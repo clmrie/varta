@@ -1,5 +1,41 @@
 [
   {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на південному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the southern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на південному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-08-17T11:44:10+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73182",
+    "score": 5.0,
+    "views": 14146,
+    "forwards": 34
+  },
+  {
+    "title": "A jet UAV headed for Odesa from the sea.",
+    "title_en": "A jet UAV headed for Odesa from the sea.",
+    "title_uk": "Реактивний БПЛА взяв курс на Одесу з моря.",
+    "description": "A jet UAV headed for Odesa from the sea.",
+    "description_en": "A jet UAV headed for Odesa from the sea.",
+    "description_uk": "Реактивний БпЛА курсом на Одещину з моря.",
+    "time": "",
+    "pubDate": "2026-08-17T11:43:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73181",
+    "score": 5.0,
+    "views": 14137,
+    "forwards": 0
+  },
+  {
     "title": "Kherson: Drone strike",
     "title_en": "Kherson: Drone strike",
     "title_uk": "Херсон: Удар безпілотників",
@@ -13,9 +49,9 @@
     "location": "Kherson",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198664",
-    "score": 6.0,
-    "views": 37510,
-    "forwards": 36
+    "score": 6.5,
+    "views": 59076,
+    "forwards": 72
   },
   {
     "title": "Cruise missile heading inbound",
@@ -32,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198657",
     "score": 5.5,
-    "views": 74034,
-    "forwards": 186
+    "views": 87034,
+    "forwards": 187
   },
   {
     "title": "Zaporizhzhia: 🛸🛵 BpLA on Zaporozhye from the east.",
@@ -140,7 +176,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41898",
     "score": 13.0,
-    "views": 6488,
+    "views": 6589,
     "forwards": 23
   },
   {
@@ -320,7 +356,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54835",
     "score": 5.0,
-    "views": 2335,
+    "views": 2390,
     "forwards": 8
   },
   {
@@ -342,24 +378,6 @@
     "forwards": 0
   },
   {
-    "title": "Kharkiv: Kharkiv region: BpLA ➡️ heading for Rohan.",
-    "title_en": "Kharkiv: Kharkiv region: BpLA ➡️ heading for Rohan.",
-    "title_uk": "Харків: Харківська область: BpLA ➡️ прямуємо на Рогань.",
-    "description": "Kharkiv region: BpLA ➡️ heading for Rohan.",
-    "description_en": "Kharkiv region: BpLA ➡️ heading for Rohan.",
-    "description_uk": "Харківщина : БпЛА ➡️ курсом на Рогань.",
-    "time": "",
-    "pubDate": "2026-08-16T23:24:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73099",
-    "score": 6.0,
-    "views": 6872,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Київ: виявлено пуск балістичної ракети",
@@ -374,7 +392,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54833",
     "score": 6.0,
-    "views": 2764,
+    "views": 2801,
     "forwards": 10
   },
   {
@@ -410,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20402",
     "score": 23.0,
-    "views": 257055,
+    "views": 257796,
     "forwards": 288
   }
 ]
