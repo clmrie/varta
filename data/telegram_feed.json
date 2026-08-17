@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kryvyi Rih: Drone incoming",
+    "title_en": "Kryvyi Rih: Drone incoming",
+    "title_uk": "Кривий Ріг: Дрон вхід",
+    "description": "Jet UAV on Kryvyi Rih from the western direction.",
+    "description_en": "Jet UAV on Kryvyi Rih from the western direction.",
+    "description_uk": "Реактивний БпЛА на Кривий ріг із західного напрямку.",
+    "time": "",
+    "pubDate": "2026-08-17T12:56:16+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73192",
+    "score": 6.0,
+    "views": 17164,
+    "forwards": 0
+  },
+  {
+    "title": "Kryvyi Rih: Jet UAV to Kryvyi Rih.",
+    "title_en": "Kryvyi Rih: Jet UAV to Kryvyi Rih.",
+    "title_uk": "Кривий Ріг: реактивний БПЛА до Кривого Рогу.",
+    "description": "Jet UAV to Kryvyi Rih.",
+    "description_en": "Jet UAV to Kryvyi Rih.",
+    "description_uk": "Реактивний БпЛА на Кривий ріг.",
+    "time": "",
+    "pubDate": "2026-08-17T12:38:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73190",
+    "score": 6.0,
+    "views": 41399,
+    "forwards": 0
+  },
+  {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
     "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
     "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
@@ -68,7 +104,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198664",
     "score": 6.5,
-    "views": 73099,
+    "views": 95744,
     "forwards": 72
   },
   {
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198657",
     "score": 6.5,
-    "views": 95716,
-    "forwards": 221
+    "views": 112927,
+    "forwards": 223
   },
   {
     "title": "Zaporizhzhia: 🛸🛵 BpLA on Zaporozhye from the east.",
@@ -194,8 +230,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41898",
     "score": 13.0,
-    "views": 6656,
-    "forwards": 24
+    "views": 6824,
+    "forwards": 25
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -374,26 +410,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54835",
     "score": 5.0,
-    "views": 2417,
+    "views": 2486,
     "forwards": 8
-  },
-  {
-    "title": "Mykolaiv: A group of BpLA from Kherson region - to Mykolaiv region, heading for...",
-    "title_en": "Mykolaiv: A group of BpLA from Kherson region - to Mykolaiv region, heading for...",
-    "title_uk": "Миколаїв: Група BpLA з Херсонщини - на Миколаївщину, прямуючи на...",
-    "description": "A group of BpLA from Kherson region - to Mykolaiv region, heading for Snigurivka, Bereznuvate.",
-    "description_en": "A group of BpLA from Kherson region - to Mykolaiv region, heading for Snigurivka, Bereznuvate.",
-    "description_uk": "Група БпЛА з Херсонщини - на Миколаївщину, курсом на Снігурівку, Березнувате.",
-    "time": "",
-    "pubDate": "2026-08-17T00:16:34+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73106",
-    "score": 6.0,
-    "views": 11135,
-    "forwards": 0
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -410,7 +428,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54833",
     "score": 6.0,
-    "views": 2820,
+    "views": 2866,
     "forwards": 10
   },
   {
@@ -430,23 +448,5 @@
     "score": 9.0,
     "views": 1822,
     "forwards": 4
-  },
-  {
-    "title": "Kryvyi Rih: Ballistic missile launch detected",
-    "title_en": "Kryvyi Rih: Ballistic missile launch detected",
-    "title_uk": "Кривий Ріг: виявлено пуск балістичної ракети",
-    "description": "Екстрені служби працюють на місцях ранкових та нічних російських ударів. У Києві оперативно ліквідували пожежі, зараз тривають аварійні роботи. У місті та області росіяни поранили шістьох людей. Під ударами балістикою також були Кременчук і Кривий Ріг. Всюди, де росіяни дотягуються своєю балістикою, вони бʼють по цивільній інфраструктурі. У Кривому Розі двоє загиблих і ще 14 людей постраждали. Є...",
-    "description_en": "Екстрені служби працюють на місцях ранкових та нічних російських ударів. У Києві оперативно ліквідували пожежі, зараз тривають аварійні роботи. У місті та області росіяни поранили шістьох людей. Під ударами балістикою також були Кременчук і Кривий Ріг. Всюди, де росіяни дотягуються своєю балістикою, вони бʼють по цивільній інфраструктурі. У Кривому Розі двоє загиблих і ще 14 людей постраждали. Є...",
-    "description_uk": "Екстрені служби працюють на місцях ранкових та нічних російських ударів. У Києві оперативно ліквідували пожежі, зараз тривають аварійні роботи. У місті та області росіяни поранили шістьох людей. Під ударами балістикою також були Кременчук і Кривий Ріг. Всюди, де росіяни дотягуються своєю балістикою, вони бʼють по цивільній інфраструктурі. У Кривому Розі двоє загиблих і ще 14 людей постраждали. Є...",
-    "time": "",
-    "pubDate": "2026-08-16T07:38:00+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kryvyi Rih",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20402",
-    "score": 23.0,
-    "views": 258417,
-    "forwards": 288
   }
 ]
