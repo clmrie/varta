@@ -1,5 +1,59 @@
 [
   {
+    "title": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
+    "title_en": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
+    "title_uk": "Запоріжжя: Запоріжжя – БпЛА в напрямку м.",
+    "description": "Zaporizhzhia - BpLA in the direction of the city.",
+    "description_en": "Zaporizhzhia - BpLA in the direction of the city.",
+    "description_uk": "Запоріжжя - БпЛА в напрямку міста.",
+    "time": "",
+    "pubDate": "2026-08-17T17:36:18+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73220",
+    "score": 6.0,
+    "views": 5061,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A group of UAVs in the direction of Odessa from the sea.",
+    "description_en": "A group of UAVs in the direction of Odessa from the sea.",
+    "description_uk": "Група БпЛА в напрямку Одеси з моря.",
+    "time": "",
+    "pubDate": "2026-08-17T17:20:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73219",
+    "score": 5.0,
+    "views": 23274,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Київ: повідомляється про постраждалих",
+    "description": "Analysis: Russia doubles down, setting stage for new phase of total war Two large and heavily armed states locked in an existential armed struggle. Hundreds of thousands of casualties. Mass mobilization. All these factors evoke an image of \"total war\" — the kind of interstate conflict where state, society, and economy are all not only an active part of the war effort but also a target of enemy...",
+    "description_en": "Analysis: Russia doubles down, setting stage for new phase of total war Two large and heavily armed states locked in an existential armed struggle. Hundreds of thousands of casualties. Mass mobilization. All these factors evoke an image of \"total war\" — the kind of interstate conflict where state, society, and economy are all not only an active part of the war effort but also a target of enemy...",
+    "description_uk": "Analysis: Russia doubles down, setting stage for new phase of total war Two large and heavily armed states locked in an existential armed struggle. Hundreds of thousands of casualties. Mass mobilization. All these factors evoke an image of \"total war\" — the kind of interstate conflict where state, society, and economy are all not only an active part of the war effort but also a target of enemy...",
+    "time": "",
+    "pubDate": "2026-08-17T17:04:59+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54840",
+    "score": 6.0,
+    "views": 489,
+    "forwards": 3
+  },
+  {
     "title": "Zaporizhzhia: Reactive BpLA from Kherson region to Mykolaiv region. 🛵 BpLA to...",
     "title_en": "Zaporizhzhia: Reactive BpLA from Kherson region to Mykolaiv region. 🛵 BpLA to...",
     "title_uk": "Запоріжжя: Реактивний BpLA з Херсонщини на Миколаївщину. 🛵 BpLA до...",
@@ -50,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54839",
     "score": 4.5,
-    "views": 689,
+    "views": 1034,
     "forwards": 4
   },
   {
@@ -104,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198685",
     "score": 6.5,
-    "views": 80754,
-    "forwards": 1031
+    "views": 95835,
+    "forwards": 1174
   },
   {
     "title": "Kyiv: Russia has built new drone launch pads near Ukraine, Belarus, putting...",
@@ -144,24 +198,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "Jet UAVs in the direction of Odessa from the Black Sea.",
-    "description_en": "Jet UAVs in the direction of Odessa from the Black Sea.",
-    "description_uk": "Реактивні БпЛА в напрямку Одеси з Чорного моря.",
-    "time": "",
-    "pubDate": "2026-08-17T14:43:04+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73210",
-    "score": 5.0,
-    "views": 45338,
-    "forwards": 1
-  },
-  {
     "title": "Kryvyi Rih: Drone incoming",
     "title_en": "Kryvyi Rih: Drone incoming",
     "title_uk": "Кривий Ріг: Дрон вхід",
@@ -198,6 +234,24 @@
     "forwards": 0
   },
   {
+    "title": "5 missiles intercepted",
+    "title_en": "5 missiles intercepted",
+    "title_uk": "Перехоплено 5 ракет",
+    "description": "Russia is already intercepting almost all Ukrainian cruise missiles \"Flamingo\", writes the German Focus. In recent weeks, only one or two FP-5 missiles have reached their targets out of 11 launched. They defeated the Avitek missile plant in the Kirov Region on July 24-25. \"Flamingos\" can be shot down by A-50U early warning planes, which calculate the most probable flight routes of missiles: \"According to data...",
+    "description_en": "Russia is already intercepting almost all Ukrainian cruise missiles \"Flamingo\", writes the German Focus. In recent weeks, only one or two FP-5 missiles have reached their targets out of 11 launched. They defeated the Avitek missile plant in the Kirov Region on July 24-25. \"Flamingos\" can be shot down by A-50U early warning planes, which calculate the most probable flight routes of missiles: \"According to data...",
+    "description_uk": "Россия перехватывает уже почти все украинские крылатые ракеты \"Фламинго\", пишет немецкий Focus. За последние недели только одна или две ракеты FP-5 достигли своих целей из 11 запущенных. Они поразили ракетный завод \"Авитек\" в Кировской области 24-25 июля. Сбивать \"Фламинго\" позволяют самолёты раннего предупреждения А-50У, просчитывающие наиболее вероятные маршруты полёта ракет: \"По данным...",
+    "time": "",
+    "pubDate": "2026-08-17T13:47:35+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198677",
+    "score": 4.5,
+    "views": 117329,
+    "forwards": 471
+  },
+  {
     "title": "Россия перехватывает уже почти все украинские крылатые ракеты...",
     "title_en": "Россия перехватывает уже почти все украинские крылатые ракеты...",
     "title_uk": "Росія перехоплює вже майже всі українські крилаті ракети...",
@@ -214,24 +268,6 @@
     "score": 4.5,
     "views": 108756,
     "forwards": 435
-  },
-  {
-    "title": "5 missiles intercepted",
-    "title_en": "5 missiles intercepted",
-    "title_uk": "Перехоплено 5 ракет",
-    "description": "Russia is already intercepting almost all Ukrainian cruise missiles \"Flamingo\", writes the German Focus. In recent weeks, only one or two FP-5 missiles have reached their targets out of 11 launched. They defeated the Avitek missile plant in the Kirov Region on July 24-25. \"Flamingos\" can be shot down by A-50U early warning planes, which calculate the most probable flight routes of missiles: \"According to data...",
-    "description_en": "Russia is already intercepting almost all Ukrainian cruise missiles \"Flamingo\", writes the German Focus. In recent weeks, only one or two FP-5 missiles have reached their targets out of 11 launched. They defeated the Avitek missile plant in the Kirov Region on July 24-25. \"Flamingos\" can be shot down by A-50U early warning planes, which calculate the most probable flight routes of missiles: \"According to data...",
-    "description_uk": "Россия перехватывает уже почти все украинские крылатые ракеты \"Фламинго\", пишет немецкий Focus. За последние недели только одна или две ракеты FP-5 достигли своих целей из 11 запущенных. Они поразили ракетный завод \"Авитек\" в Кировской области 24-25 июля. Сбивать \"Фламинго\" позволяют самолёты раннего предупреждения А-50У, просчитывающие наиболее вероятные маршруты полёта ракет: \"По данным...",
-    "time": "",
-    "pubDate": "2026-08-17T13:47:35+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198677",
-    "score": 4.5,
-    "views": 103324,
-    "forwards": 433
   },
   {
     "title": "High-speed goal ➡️ course to Chornomorsk.",
@@ -412,41 +448,5 @@
     "score": 5.0,
     "views": 8072,
     "forwards": 0
-  },
-  {
-    "title": "Kyiv: Drone attack",
-    "title_en": "Kyiv: Drone attack",
-    "title_uk": "Київ: Атака безпілотників",
-    "description": "The threat of using strike UAVs for Kyiv region!",
-    "description_en": "The threat of using strike UAVs for Kyiv region!",
-    "description_uk": "Загроза застосування ударних БпЛА для Київщини!",
-    "time": "",
-    "pubDate": "2026-08-17T07:06:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73161",
-    "score": 6.0,
-    "views": 45451,
-    "forwards": 35
-  },
-  {
-    "title": "Donetsk: Drone incoming",
-    "title_en": "Donetsk: Drone incoming",
-    "title_uk": "Донецьк: Дрон вхід",
-    "description": "106 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of August 17 (from 18:00 on August 16), the enemy attacked 128 attack UAVs of the Shahed type (including jet ones), Gerber, and imitation drones of the \"Parody\" type from the directions: Kursk, Orel, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile forces, EW and unmanned systems units, mobile fire groups of the Defense Forces...",
-    "description_en": "106 ENEMY UAVS SHOT DOWN/SUPPRESSED On the night of August 17 (from 18:00 on August 16), the enemy attacked 128 attack UAVs of the Shahed type (including jet ones), Gerber, and imitation drones of the \"Parody\" type from the directions: Kursk, Orel, Primorsko-Akhtarsk - Russian Federation, TOT Donetsk. The air attack was repulsed by aviation, anti-aircraft missile forces, EW and unmanned systems units, mobile fire groups of the Defense Forces...",
-    "description_uk": "ЗБИТО/ПОДАВЛЕНО 106 ВОРОЖИХ БПЛА У ніч на 17 серпня (з 18:00 16 серпня) противник атакував 128 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера, та дронами-імітаторами типу «Пародія» із напрямків: Курськ, Орел, Приморсько-Ахтарськ – рф., ТОТ Донецьк. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем, мобільні вогневі групи Сил оборони...",
-    "time": "",
-    "pubDate": "2026-08-17T05:42:21+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "General Staff ZSU",
-    "link": "https://t.me/GeneralStaffZSU/41898",
-    "score": 13.0,
-    "views": 7423,
-    "forwards": 25
   }
 ]
