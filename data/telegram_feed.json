@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kherson: Drone strike",
+    "title_en": "Kherson: Drone strike",
+    "title_uk": "Херсон: Удар безпілотників",
+    "description": "The defense forces hit the storage of attack drones and control points in the occupied Crimea - the General Staff of the Armed Forces of Ukraine. The ground control station of the Orion drones in Novofedorovka was also affected. In addition, the Ukrainian military hit the ground repeater, which is used to control Geran drones and...",
+    "description_en": "The defense forces hit the storage of attack drones and control points in the occupied Crimea - the General Staff of the Armed Forces of Ukraine. The ground control station of the Orion drones in Novofedorovka was also affected. In addition, the Ukrainian military hit the ground repeater, which is used to control Geran drones and...",
+    "description_uk": "Силы обороны ударили по хранилищу ударных дронов и пунктам управления в оккупированном Крыму, — Генштаб ВСУ Удар пришелся по месту хранения, подготовки и запуска ударных БпЛА в районе Гвардейского. Также поражена наземная станция управления дронов «Орион» в Новофедоровке. Кроме того, украинские военные ударили по наземному ретранслятору, который используют для управления дронами «Герань» и...",
+    "time": "",
+    "pubDate": "2026-08-17T10:51:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198664",
+    "score": 6.0,
+    "views": 8620,
+    "forwards": 2
+  },
+  {
     "title": "Cruise missile heading inbound",
     "title_en": "Cruise missile heading inbound",
     "title_uk": "Крилата ракета наближається",
@@ -14,8 +32,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198657",
     "score": 5.5,
-    "views": 36284,
-    "forwards": 115
+    "views": 60016,
+    "forwards": 152
   },
   {
     "title": "Zaporizhzhia: 🛸🛵 BpLA on Zaporozhye from the east.",
@@ -32,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73175",
     "score": 6.0,
-    "views": 30088,
-    "forwards": 0
+    "views": 45769,
+    "forwards": 10
   },
   {
     "title": "Dnipro: Dnipropetrovsk region - jet UAV headed for Pavlograd.",
@@ -50,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73172",
     "score": 6.0,
-    "views": 66826,
+    "views": 76956,
     "forwards": 2
   },
   {
@@ -122,8 +140,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41898",
     "score": 13.0,
-    "views": 6093,
-    "forwards": 22
+    "views": 6295,
+    "forwards": 23
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -302,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54835",
     "score": 5.0,
-    "views": 2206,
+    "views": 2283,
     "forwards": 8
   },
   {
@@ -342,42 +360,6 @@
     "forwards": 0
   },
   {
-    "title": "New UAV groups from the Black Sea area ➡️ to Odesa...",
-    "title_en": "New UAV groups from the Black Sea area ➡️ to Odesa...",
-    "title_uk": "Нові групи БПЛА з акваторії Чорного моря ➡️ до Одеси...",
-    "description": "New UAV groups from the Black Sea area ➡️ to Odesa (Zatoka/Sergiivka/Chornomorsk).",
-    "description_en": "New UAV groups from the Black Sea area ➡️ to Odesa (Zatoka/Sergiivka/Chornomorsk).",
-    "description_uk": "Нові групи БпЛА з акваторії Чорного моря ➡️ на Одещину (Затока/Сергіївка/Чорноморськ).",
-    "time": "",
-    "pubDate": "2026-08-16T22:33:07+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73098",
-    "score": 5.0,
-    "views": 18555,
-    "forwards": 10
-  },
-  {
-    "title": "Нові групи БпЛА з акваторії Чорного моря ➡️ на Одещину...",
-    "title_en": "Нові групи БпЛА з акваторії Чорного моря ➡️ на Одещину...",
-    "title_uk": "Нові групи БпЛА з акваторії Чорного моря ➡️ на Одещину...",
-    "description": "Нові групи БпЛА з акваторії Чорного моря ➡️ на Одещину (Затока/Сергіївка/Чорноморськ).",
-    "description_en": "Нові групи БпЛА з акваторії Чорного моря ➡️ на Одещину (Затока/Сергіївка/Чорноморськ).",
-    "description_uk": "Нові групи БпЛА з акваторії Чорного моря ➡️ на Одещину (Затока/Сергіївка/Чорноморськ).",
-    "time": "",
-    "pubDate": "2026-08-16T22:33:07+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73098",
-    "score": 5.0,
-    "views": 6099,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Київ: виявлено пуск балістичної ракети",
@@ -392,7 +374,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54833",
     "score": 6.0,
-    "views": 2686,
+    "views": 2735,
     "forwards": 10
   },
   {
@@ -428,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20402",
     "score": 23.0,
-    "views": 255474,
+    "views": 256303,
     "forwards": 288
   }
 ]
