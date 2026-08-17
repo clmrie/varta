@@ -1,5 +1,23 @@
 [
   {
+    "title": "Chernihiv: BpLA on Chernihiv from the north.",
+    "title_en": "Chernihiv: BpLA on Chernihiv from the north.",
+    "title_uk": "Чернігів: БпЛА на Чернігів з півн.",
+    "description": "BpLA on Chernihiv from the north.",
+    "description_en": "BpLA on Chernihiv from the north.",
+    "description_uk": "БпЛА на Чернігів з півночі.",
+    "time": "",
+    "pubDate": "2026-08-17T19:53:46+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73232",
+    "score": 6.0,
+    "views": 19186,
+    "forwards": 0
+  },
+  {
     "title": "БпЛА на Павлоград зі сходу.",
     "title_en": "БпЛА на Павлоград зі сходу.",
     "title_uk": "БпЛА на Павлоград зі сходу.",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73230",
     "score": 5.0,
-    "views": 17170,
-    "forwards": 0
+    "views": 35418,
+    "forwards": 1
   },
   {
     "title": "Jet UAV to Odessa from the Black Sea.",
@@ -74,7 +92,7 @@
   {
     "title": "Kyiv: Cruise missile heading inbound",
     "title_en": "Kyiv: Cruise missile heading inbound",
-    "title_uk": "Київ: наближається крилата ракета",
+    "title_uk": "Kyiv: Cruise missile heading inbound",
     "description": "Russian Banderol missile enters Moldovan airspace, Ukraine claims, explosion reported near village. The Banderol is a small, low-cost cruise missile which is launched from a Kronshtadt Orion strike and reconnaissance drone.",
     "description_en": "Russian Banderol missile enters Moldovan airspace, Ukraine claims, explosion reported near village. The Banderol is a small, low-cost cruise missile which is launched from a Kronshtadt Orion strike and reconnaissance drone.",
     "description_uk": "Russian Banderol missile enters Moldovan airspace, Ukraine claims, explosion reported near village. The Banderol is a small, low-cost cruise missile which is launched from a Kronshtadt Orion strike and reconnaissance drone.",
@@ -86,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54843",
     "score": 10.0,
-    "views": 807,
+    "views": 992,
     "forwards": 3
   },
   {
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54842",
     "score": 5.0,
-    "views": 1178,
+    "views": 1320,
     "forwards": 3
   },
   {
@@ -180,24 +198,6 @@
     "forwards": 1
   },
   {
-    "title": "Chernihiv: BpLA on Chernihiv from the north.",
-    "title_en": "Chernihiv: BpLA on Chernihiv from the north.",
-    "title_uk": "Чернігів: БпЛА на Чернігів з півн.",
-    "description": "BpLA on Chernihiv from the north.",
-    "description_en": "BpLA on Chernihiv from the north.",
-    "description_uk": "БпЛА на Чернігів з півночі.",
-    "time": "",
-    "pubDate": "2026-08-17T16:06:57+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73214",
-    "score": 6.0,
-    "views": 39470,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Ukraine urges EU to finally sanction Russia's nuclear giant Rosatom...",
     "title_en": "Kyiv: Ukraine urges EU to finally sanction Russia's nuclear giant Rosatom...",
     "title_uk": "Київ: Україна закликає ЄС нарешті запровадити санкції проти російського атомного гіганта \"Росатом\"...",
@@ -266,8 +266,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198685",
     "score": 6.5,
-    "views": 136491,
-    "forwards": 1456
+    "views": 140832,
+    "forwards": 1494
   },
   {
     "title": "Kyiv: Russia has built new drone launch pads near Ukraine, Belarus, putting...",
