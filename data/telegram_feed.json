@@ -1,5 +1,23 @@
 [
   {
+    "title": "BpLA in the direction of Kharkiv from the north.",
+    "title_en": "BpLA in the direction of Kharkiv from the north.",
+    "title_uk": "БпЛА в напрямку Харкова з півн.",
+    "description": "BpLA in the direction of Kharkiv from the north.",
+    "description_en": "BpLA in the direction of Kharkiv from the north.",
+    "description_uk": "БпЛА в напрямку Харкова з півночі.",
+    "time": "",
+    "pubDate": "2026-08-17T23:41:19+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73252",
+    "score": 5.0,
+    "views": 3991,
+    "forwards": 1
+  },
+  {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
     "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
     "title_uk": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
@@ -14,13 +32,13 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73251",
     "score": 6.0,
-    "views": 5060,
-    "forwards": 0
+    "views": 9677,
+    "forwards": 1
   },
   {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
+    "title_uk": "Дрон входить",
     "description": "UAV from Chernihiv region to the north of Kyiv region, in the direction of Kyiv - Air Force of Ukraine",
     "description_en": "UAV from Chernihiv region to the north of Kyiv region, in the direction of Kyiv - Air Force of Ukraine",
     "description_uk": "БПЛА из Черниговской области на север Киевской области, в направлении Киева, - Воздушные силы Украины",
@@ -32,7 +50,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198713",
     "score": 5.0,
-    "views": 4912,
+    "views": 10046,
     "forwards": 0
   },
   {
@@ -104,7 +122,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198709",
     "score": 4.0,
-    "views": 27053,
+    "views": 30348,
     "forwards": 21
   },
   {
@@ -272,7 +290,7 @@
   {
     "title": "Kyiv: Cruise missile heading inbound",
     "title_en": "Kyiv: Cruise missile heading inbound",
-    "title_uk": "Kyiv: Cruise missile heading inbound",
+    "title_uk": "Київ: наближається крилата ракета",
     "description": "Russian Banderol missile enters Moldovan airspace, Ukraine claims, explosion reported near village. The Banderol is a small, low-cost cruise missile which is launched from a Kronshtadt Orion strike and reconnaissance drone.",
     "description_en": "Russian Banderol missile enters Moldovan airspace, Ukraine claims, explosion reported near village. The Banderol is a small, low-cost cruise missile which is launched from a Kronshtadt Orion strike and reconnaissance drone.",
     "description_uk": "Russian Banderol missile enters Moldovan airspace, Ukraine claims, explosion reported near village. The Banderol is a small, low-cost cruise missile which is launched from a Kronshtadt Orion strike and reconnaissance drone.",
@@ -284,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54843",
     "score": 10.0,
-    "views": 1725,
+    "views": 1757,
     "forwards": 4
   },
   {
@@ -302,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54842",
     "score": 5.0,
-    "views": 1973,
+    "views": 2000,
     "forwards": 5
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.5,
     "views": 146333,
     "forwards": 1534
-  },
-  {
-    "title": "Kyiv: Russia has built new drone launch pads near Ukraine, Belarus, putting...",
-    "title_en": "Kyiv: Russia has built new drone launch pads near Ukraine, Belarus, putting...",
-    "title_uk": "Kyiv: Russia has built new drone launch pads near Ukraine, Belarus, putting...",
-    "description": "Russia has built new drone launch pads near Ukraine, Belarus, putting NATO countries within range, The Telegraph reports. Using satellite imagery and leaked documents, the publication identified at least 59 newly constructed \"launch rails\" spread across 10 locations, some repurposed from old military bases and civilian airports, while others were created in the countryside.",
-    "description_en": "Russia has built new drone launch pads near Ukraine, Belarus, putting NATO countries within range, The Telegraph reports. Using satellite imagery and leaked documents, the publication identified at least 59 newly constructed \"launch rails\" spread across 10 locations, some repurposed from old military bases and civilian airports, while others were created in the countryside.",
-    "description_uk": "Russia has built new drone launch pads near Ukraine, Belarus, putting NATO countries within range, The Telegraph reports. Using satellite imagery and leaked documents, the publication identified at least 59 newly constructed \"launch rails\" spread across 10 locations, some repurposed from old military bases and civilian airports, while others were created in the countryside.",
-    "time": "",
-    "pubDate": "2026-08-17T14:53:59+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54838",
-    "score": 10.0,
-    "views": 1178,
-    "forwards": 4
   }
 ]
