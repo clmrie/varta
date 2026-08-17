@@ -1,5 +1,41 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "UAV from the Black Sea - to the Mykolaiv region, heading for the Dnipro region.",
+    "description_en": "UAV from the Black Sea - to the Mykolaiv region, heading for the Dnipro region.",
+    "description_uk": "БпЛА з Чорного моря - на Миколаївщину, курсом на Дніпровське.",
+    "time": "",
+    "pubDate": "2026-08-17T03:17:49+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73127",
+    "score": 6.0,
+    "views": 11128,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: БпЛА на Миколаїв з півдня.",
+    "title_en": "Mykolaiv: БпЛА на Миколаїв з півдня.",
+    "title_uk": "Миколаїв: БпЛА на Миколаїв з півдня.",
+    "description": "БпЛА на Миколаїв з півдня.",
+    "description_en": "БпЛА на Миколаїв з півдня.",
+    "description_uk": "БпЛА на Миколаїв з півдня.",
+    "time": "",
+    "pubDate": "2026-08-17T03:08:06+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73125",
+    "score": 6.0,
+    "views": 16166,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
     "title_en": "Kharkiv: BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
     "title_uk": "Харків: BpLA з Донецької області - на Харківську область, прямуючи на Лозову.",
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54835",
     "score": 5.0,
-    "views": 469,
+    "views": 642,
     "forwards": 5
   },
   {
@@ -200,7 +236,7 @@
   {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
     "description": "Ukraine could use its own ballistic missiles against Russia by year-end, Fedorov tells CBS News. \"We need to defeat Russia in every technological cycle, and we have to make decisions 24/7,\" the former defense minister said in an interview published on Aug. 16.",
     "description_en": "Ukraine could use its own ballistic missiles against Russia by year-end, Fedorov tells CBS News. \"We need to defeat Russia in every technological cycle, and we have to make decisions 24/7,\" the former defense minister said in an interview published on Aug. 16.",
     "description_uk": "Ukraine could use its own ballistic missiles against Russia by year-end, Fedorov tells CBS News. \"We need to defeat Russia in every technological cycle, and we have to make decisions 24/7,\" the former defense minister said in an interview published on Aug. 16.",
@@ -212,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54833",
     "score": 6.0,
-    "views": 1604,
+    "views": 1719,
     "forwards": 9
   },
   {
@@ -306,6 +342,24 @@
     "forwards": 4
   },
   {
+    "title": "An unknown munition landed on the Odessa beach, local newspapers write",
+    "title_en": "An unknown munition landed on the Odessa beach, local newspapers write",
+    "title_uk": "На одеський пляж впав невідомий боєприпас, пишуть місцеві видання",
+    "description": "An unknown munition landed on the Odessa beach, local newspapers write",
+    "description_en": "An unknown munition landed on the Odessa beach, local newspapers write",
+    "description_uk": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
+    "time": "",
+    "pubDate": "2026-08-16T18:31:38+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198621",
+    "score": 5.5,
+    "views": 144466,
+    "forwards": 319
+  },
+  {
     "title": "Strike confirmed",
     "title_en": "Strike confirmed",
     "title_uk": "Strike confirmed",
@@ -322,24 +376,6 @@
     "score": 5.5,
     "views": 135072,
     "forwards": 308
-  },
-  {
-    "title": "An unknown munition landed on the Odessa beach, local newspapers write",
-    "title_en": "An unknown munition landed on the Odessa beach, local newspapers write",
-    "title_uk": "На одеський пляж впав невідомий боєприпас, пишуть місцеві видання",
-    "description": "An unknown munition landed on the Odessa beach, local newspapers write",
-    "description_en": "An unknown munition landed on the Odessa beach, local newspapers write",
-    "description_uk": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
-    "time": "",
-    "pubDate": "2026-08-16T18:31:38+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198621",
-    "score": 5.5,
-    "views": 128326,
-    "forwards": 307
   },
   {
     "title": "An unknown munition flew along the Odessa beach, local newspapers...",
@@ -411,42 +447,6 @@
     "link": "https://t.me/kpszsu/73078",
     "score": 6.0,
     "views": 6046,
-    "forwards": 0
-  },
-  {
-    "title": "Dnipro: BpLA in the east of Dnipropetrovsk region - heading for Pavlograd.",
-    "title_en": "Dnipro: BpLA in the east of Dnipropetrovsk region - heading for Pavlograd.",
-    "title_uk": "Дніпро: BpLA на сході Дніпропетровської області – курс на Павлоград.",
-    "description": "BpLA in the east of Dnipropetrovsk region - heading for Pavlograd.",
-    "description_en": "BpLA in the east of Dnipropetrovsk region - heading for Pavlograd.",
-    "description_uk": "БпЛА на сході Дніпропетровщини - курсом на Павлоград.",
-    "time": "",
-    "pubDate": "2026-08-16T17:19:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73075",
-    "score": 6.0,
-    "views": 14186,
-    "forwards": 0
-  },
-  {
-    "title": "Chernihiv: Unmanned aerial vehicle in the north of Chernihiv Oblast - heading...",
-    "title_en": "Chernihiv: Unmanned aerial vehicle in the north of Chernihiv Oblast - heading...",
-    "title_uk": "Чернігів: БПЛА на півночі Чернігівської області - курс...",
-    "description": "Unmanned aerial vehicle in the north of Chernihiv Oblast - heading for Snovsk, Horodnia.",
-    "description_en": "Unmanned aerial vehicle in the north of Chernihiv Oblast - heading for Snovsk, Horodnia.",
-    "description_uk": "БпЛА на півночі Чернігівщини - курсом на Сновськ, Городню.",
-    "time": "",
-    "pubDate": "2026-08-16T16:22:03+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73069",
-    "score": 6.0,
-    "views": 20259,
     "forwards": 0
   }
 ]
