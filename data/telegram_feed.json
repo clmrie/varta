@@ -1,5 +1,41 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "Jet UAVs in the direction of Odesa, Mykolaiv Oblast from the sea.",
+    "description_en": "Jet UAVs in the direction of Odesa, Mykolaiv Oblast from the sea.",
+    "description_uk": "Реактивні БпЛА в напрямку Одещини, Миколаївщини з моря.",
+    "time": "",
+    "pubDate": "2026-08-17T18:48:34+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73225",
+    "score": 6.0,
+    "views": 10076,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Cruise missile heading inbound",
+    "title_en": "Kyiv: Cruise missile heading inbound",
+    "title_uk": "Київ: наближається крилата ракета",
+    "description": "Russian Banderol missile enters Moldovan airspace, Ukraine claims, explosion reported near village. The Banderol is a small, low-cost cruise missile which is launched from a Kronshtadt Orion strike and reconnaissance drone.",
+    "description_en": "Russian Banderol missile enters Moldovan airspace, Ukraine claims, explosion reported near village. The Banderol is a small, low-cost cruise missile which is launched from a Kronshtadt Orion strike and reconnaissance drone.",
+    "description_uk": "Russian Banderol missile enters Moldovan airspace, Ukraine claims, explosion reported near village. The Banderol is a small, low-cost cruise missile which is launched from a Kronshtadt Orion strike and reconnaissance drone.",
+    "time": "",
+    "pubDate": "2026-08-17T18:40:10+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54843",
+    "score": 10.0,
+    "views": 228,
+    "forwards": 2
+  },
+  {
     "title": "Kyiv: Ukraine condemns inclusion of controversial Russian film in upcoming...",
     "title_en": "Kyiv: Ukraine condemns inclusion of controversial Russian film in upcoming...",
     "title_uk": "Київ: Україна засуджує включення суперечливого російського фільму в майбутній...",
@@ -14,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54842",
     "score": 5.0,
-    "views": 284,
-    "forwards": 1
+    "views": 774,
+    "forwards": 2
   },
   {
     "title": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
@@ -32,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73220",
     "score": 6.0,
-    "views": 27295,
+    "views": 61739,
     "forwards": 0
   },
   {
@@ -176,8 +212,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198685",
     "score": 6.5,
-    "views": 104364,
-    "forwards": 1209
+    "views": 121430,
+    "forwards": 1348
   },
   {
     "title": "Kyiv: Russia has built new drone launch pads near Ukraine, Belarus, putting...",
@@ -254,9 +290,9 @@
   {
     "title": "5 missiles intercepted",
     "title_en": "5 missiles intercepted",
-    "title_uk": "5 missiles intercepted",
-    "description": "Russia is already intercepting almost all Ukrainian cruise missiles \"Flamingo\", writes the German Focus. In recent weeks, only one or two FP-5 missiles have reached their targets out of 11 launched. They defeated the Avitek missile factory in the Kirov region on July 24-25. \"Flamingos\" can be shot down by A-50U early warning planes, which calculate the most probable flight routes of missiles: \"According to data...",
-    "description_en": "Russia is already intercepting almost all Ukrainian cruise missiles \"Flamingo\", writes the German Focus. In recent weeks, only one or two FP-5 missiles have reached their targets out of 11 launched. They defeated the Avitek missile factory in the Kirov region on July 24-25. \"Flamingos\" can be shot down by A-50U early warning planes, which calculate the most probable flight routes of missiles: \"According to data...",
+    "title_uk": "Перехоплено 5 ракет",
+    "description": "Russia is already intercepting almost all Ukrainian cruise missiles \"Flamingo\", writes the German Focus. In recent weeks, only one or two FP-5 missiles have reached their targets out of 11 launched. They defeated the Avitek missile plant in the Kirov Region on July 24-25. \"Flamingos\" can be shot down by A-50U early warning planes, which calculate the most probable flight routes of missiles: \"According to data...",
+    "description_en": "Russia is already intercepting almost all Ukrainian cruise missiles \"Flamingo\", writes the German Focus. In recent weeks, only one or two FP-5 missiles have reached their targets out of 11 launched. They defeated the Avitek missile plant in the Kirov Region on July 24-25. \"Flamingos\" can be shot down by A-50U early warning planes, which calculate the most probable flight routes of missiles: \"According to data...",
     "description_uk": "Россия перехватывает уже почти все украинские крылатые ракеты \"Фламинго\", пишет немецкий Focus. За последние недели только одна или две ракеты FP-5 достигли своих целей из 11 запущенных. Они поразили ракетный завод \"Авитек\" в Кировской области 24-25 июля. Сбивать \"Фламинго\" позволяют самолёты раннего предупреждения А-50У, просчитывающие наиболее вероятные маршруты полёта ракет: \"По данным...",
     "time": "",
     "pubDate": "2026-08-17T13:47:35+00:00",
@@ -266,8 +302,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198677",
     "score": 4.5,
-    "views": 122671,
-    "forwards": 473
+    "views": 133368,
+    "forwards": 510
   },
   {
     "title": "Россия перехватывает уже почти все украинские крылатые ракеты...",
@@ -412,41 +448,5 @@
     "score": 6.5,
     "views": 112927,
     "forwards": 223
-  },
-  {
-    "title": "Zaporizhzhia: 🛸🛵 BpLA on Zaporozhye from the east.",
-    "title_en": "Zaporizhzhia: 🛸🛵 BpLA on Zaporozhye from the east.",
-    "title_uk": "Запоріжжя: 🛸🛵 BpLA на Запоріжжі зі сходу.",
-    "description": "🛸🛵 BpLA on Zaporozhye from the east.",
-    "description_en": "🛸🛵 BpLA on Zaporozhye from the east.",
-    "description_uk": "🛸🛵 БпЛА на Запоріжжя зі сходу.",
-    "time": "",
-    "pubDate": "2026-08-17T09:46:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73175",
-    "score": 6.0,
-    "views": 53867,
-    "forwards": 10
-  },
-  {
-    "title": "Dnipro: Dnipropetrovsk region - jet UAV headed for Pavlograd.",
-    "title_en": "Dnipro: Dnipropetrovsk region - jet UAV headed for Pavlograd.",
-    "title_uk": "Дніпро: Дніпропетровська область - реактивний БПЛА взяв курс на Павлоград.",
-    "description": "Dnipropetrovsk region - jet UAV headed for Pavlograd.",
-    "description_en": "Dnipropetrovsk region - jet UAV headed for Pavlograd.",
-    "description_uk": "Дніпропетровщина - реактивний БпЛА курсом на Павлоград.",
-    "time": "",
-    "pubDate": "2026-08-17T09:06:07+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73172",
-    "score": 6.0,
-    "views": 83040,
-    "forwards": 2
   }
 ]
