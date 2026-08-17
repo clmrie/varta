@@ -1,5 +1,23 @@
 [
   {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "KAB to the south of Dnipropetrovsk region. 🚀 Let's go to Donetsk region. 🛵 Jet UAV in the direction of Odessa from the Black Sea.",
+    "description_en": "KAB to the south of Dnipropetrovsk region. 🚀 Let's go to Donetsk region. 🛵 Jet UAV in the direction of Odessa from the Black Sea.",
+    "description_uk": "КАБи на південь Дніпропетровщини. 🚀 КАБи на Донеччину. 🛵 Реактивний БпЛА в напрямку Одеси з Чорного моря.",
+    "time": "",
+    "pubDate": "2026-08-17T19:14:46+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73226",
+    "score": 6.0,
+    "views": 13115,
+    "forwards": 1
+  },
+  {
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Миколаїв: Дрон вхід",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73225",
     "score": 6.0,
-    "views": 10076,
+    "views": 50570,
     "forwards": 0
   },
   {
@@ -32,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54843",
     "score": 10.0,
-    "views": 228,
-    "forwards": 2
+    "views": 608,
+    "forwards": 3
   },
   {
     "title": "Kyiv: Ukraine condemns inclusion of controversial Russian film in upcoming...",
@@ -50,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54842",
     "score": 5.0,
-    "views": 774,
-    "forwards": 2
+    "views": 1015,
+    "forwards": 3
   },
   {
     "title": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
@@ -212,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198685",
     "score": 6.5,
-    "views": 121430,
-    "forwards": 1348
+    "views": 129996,
+    "forwards": 1417
   },
   {
     "title": "Kyiv: Russia has built new drone launch pads near Ukraine, Belarus, putting...",
@@ -430,23 +448,5 @@
     "score": 6.5,
     "views": 121752,
     "forwards": 106
-  },
-  {
-    "title": "Cruise missile heading inbound",
-    "title_en": "Cruise missile heading inbound",
-    "title_uk": "Крилата ракета наближається",
-    "description": "Russia is pulling warships into the Baltic Sea amid Putin's threats to Europe. The Russian Federation transferred the modern Admiral Kasatonov frigate from the Northern Fleet to the Baltic Sea. A few days earlier, the anti-submarine destroyer \"Admiral Levchenko\" arrived there, writes Bild. \"Kasatonov\" is one of the most modern Russian frigates. It can launch Kalibr and Zircon cruise missiles. \"Levchenko\"...",
-    "description_en": "Russia is pulling warships into the Baltic Sea amid Putin's threats to Europe. The Russian Federation transferred the modern Admiral Kasatonov frigate from the Northern Fleet to the Baltic Sea. A few days earlier, the anti-submarine destroyer \"Admiral Levchenko\" arrived there, writes Bild. \"Kasatonov\" is one of the most modern Russian frigates. It can launch Kalibr and Zircon cruise missiles. \"Levchenko\"...",
-    "description_uk": "россия стягивает боевые корабли в Балтийское море на фоне угроз путина Европе рф перебросила с Северного флота в Балтийское море современный фрегат «Адмирал Касатонов». Несколькими днями ранее туда же прибыл противолодочный эсминец «Адмирал Левченко», пишет Bild. «Касатонов» — один из самых современных российских фрегатов. Он может запускать крылатые ракеты «Калибр» и «Циркон». «Левченко»...",
-    "time": "",
-    "pubDate": "2026-08-17T09:58:01+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198657",
-    "score": 6.5,
-    "views": 112927,
-    "forwards": 223
   }
 ]
