@@ -1,5 +1,41 @@
 [
   {
+    "title": "The era of \"drone wars\" is ending before it started: China has...",
+    "title_en": "The era of \"drone wars\" is ending before it started: China has...",
+    "title_uk": "Епоха «війн безпілотників» закінчується, не почавшись: Китай...",
+    "description": "The era of \"drone wars\" is ending before it started: China has created a new system to combat UAVs. Acoustics detects the UAV, AI recognizes the target, and thermal imagers and laser rangefinders determine its position. After that, the complex affects the drones, and they lose control and fall to the ground.",
+    "description_en": "The era of \"drone wars\" is ending before it started: China has created a new system to combat UAVs. Acoustics detects the UAV, AI recognizes the target, and thermal imagers and laser rangefinders determine its position. After that, the complex affects the drones, and they lose control and fall to the ground.",
+    "description_uk": "Эпоха \"войны дронов\" заканчивается, не успев начаться: в Китае создали новую систему борьбы с БПЛА Акустика обнаруживает БПЛА, ИИ распознаёт цель, а тепловизоры и лазерные дальномеры определяют её положение. После этого комплекс воздействует на дроны, и они теряют управление и падают на землю.",
+    "time": "",
+    "pubDate": "2026-08-17T15:19:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198685",
+    "score": 5.0,
+    "views": 1036,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Russia has built new drone launch pads near Ukraine, Belarus, putting...",
+    "title_en": "Kyiv: Russia has built new drone launch pads near Ukraine, Belarus, putting...",
+    "title_uk": "Київ: Росія побудувала біля України та Білорусі нові стартові майданчики для безпілотників, поставивши...",
+    "description": "Russia has built new drone launch pads near Ukraine, Belarus, putting NATO countries within range, The Telegraph reports. Using satellite imagery and leaked documents, the publication identified at least 59 newly constructed \"launch rails\" spread across 10 locations, some repurposed from old military bases and civilian airports, while others were created in the countryside.",
+    "description_en": "Russia has built new drone launch pads near Ukraine, Belarus, putting NATO countries within range, The Telegraph reports. Using satellite imagery and leaked documents, the publication identified at least 59 newly constructed \"launch rails\" spread across 10 locations, some repurposed from old military bases and civilian airports, while others were created in the countryside.",
+    "description_uk": "Russia has built new drone launch pads near Ukraine, Belarus, putting NATO countries within range, The Telegraph reports. Using satellite imagery and leaked documents, the publication identified at least 59 newly constructed \"launch rails\" spread across 10 locations, some repurposed from old military bases and civilian airports, while others were created in the countryside.",
+    "time": "",
+    "pubDate": "2026-08-17T14:53:59+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54838",
+    "score": 10.0,
+    "views": 438,
+    "forwards": 3
+  },
+  {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
     "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
     "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
@@ -14,13 +50,13 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73211",
     "score": 6.0,
-    "views": 5058,
+    "views": 26330,
     "forwards": 0
   },
   {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
+    "title_uk": "Drone incoming",
     "description": "Jet UAVs in the direction of Odessa from the Black Sea.",
     "description_en": "Jet UAVs in the direction of Odessa from the Black Sea.",
     "description_uk": "Реактивні БпЛА в напрямку Одеси з Чорного моря.",
@@ -32,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73210",
     "score": 5.0,
-    "views": 17356,
+    "views": 36367,
     "forwards": 1
   },
   {
@@ -72,6 +108,24 @@
     "forwards": 0
   },
   {
+    "title": "5 missiles intercepted",
+    "title_en": "5 missiles intercepted",
+    "title_uk": "Перехоплено 5 ракет",
+    "description": "Russia is already intercepting almost all Ukrainian cruise missiles \"Flamingo\", writes the German Focus. In recent weeks, only one or two FP-5 missiles have reached their targets out of 11 launched. They defeated the Avitek missile factory in the Kirov region on July 24-25. \"Flamingos\" can be shot down by A-50U early warning planes, which calculate the most probable flight routes of missiles: \"According to data...",
+    "description_en": "Russia is already intercepting almost all Ukrainian cruise missiles \"Flamingo\", writes the German Focus. In recent weeks, only one or two FP-5 missiles have reached their targets out of 11 launched. They defeated the Avitek missile factory in the Kirov region on July 24-25. \"Flamingos\" can be shot down by A-50U early warning planes, which calculate the most probable flight routes of missiles: \"According to data...",
+    "description_uk": "Россия перехватывает уже почти все украинские крылатые ракеты \"Фламинго\", пишет немецкий Focus. За последние недели только одна или две ракеты FP-5 достигли своих целей из 11 запущенных. Они поразили ракетный завод \"Авитек\" в Кировской области 24-25 июля. Сбивать \"Фламинго\" позволяют самолёты раннего предупреждения А-50У, просчитывающие наиболее вероятные маршруты полёта ракет: \"По данным...",
+    "time": "",
+    "pubDate": "2026-08-17T13:47:35+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198677",
+    "score": 4.5,
+    "views": 76288,
+    "forwards": 325
+  },
+  {
     "title": "Россия перехватывает уже почти все украинские крылатые ракеты...",
     "title_en": "Россия перехватывает уже почти все украинские крылатые ракеты...",
     "title_uk": "Росія перехоплює вже майже всі українські крилаті ракети...",
@@ -88,24 +142,6 @@
     "score": 4.5,
     "views": 62278,
     "forwards": 288
-  },
-  {
-    "title": "5 missiles intercepted",
-    "title_en": "5 missiles intercepted",
-    "title_uk": "5 missiles intercepted",
-    "description": "Russia is already intercepting almost all Ukrainian cruise missiles \"Flamingo\", writes the German Focus. In recent weeks, only one or two FP-5 missiles have reached their targets out of 11 launched. They defeated the Avitek missile plant in the Kirov Region on July 24-25. \"Flamingos\" can be shot down by A-50U early warning planes, which calculate the most probable flight routes of missiles: \"According to data...",
-    "description_en": "Russia is already intercepting almost all Ukrainian cruise missiles \"Flamingo\", writes the German Focus. In recent weeks, only one or two FP-5 missiles have reached their targets out of 11 launched. They defeated the Avitek missile plant in the Kirov Region on July 24-25. \"Flamingos\" can be shot down by A-50U early warning planes, which calculate the most probable flight routes of missiles: \"According to data...",
-    "description_uk": "Россия перехватывает уже почти все украинские крылатые ракеты \"Фламинго\", пишет немецкий Focus. За последние недели только одна или две ракеты FP-5 достигли своих целей из 11 запущенных. Они поразили ракетный завод \"Авитек\" в Кировской области 24-25 июля. Сбивать \"Фламинго\" позволяют самолёты раннего предупреждения А-50У, просчитывающие наиболее вероятные маршруты полёта ракет: \"По данным...",
-    "time": "",
-    "pubDate": "2026-08-17T13:47:35+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198677",
-    "score": 4.5,
-    "views": 40775,
-    "forwards": 212
   },
   {
     "title": "High-speed goal ➡️ course to Chornomorsk.",
@@ -320,7 +356,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41898",
     "score": 13.0,
-    "views": 7160,
+    "views": 7257,
     "forwards": 25
   },
   {
@@ -411,42 +447,6 @@
     "link": "https://t.me/kpszsu/73131",
     "score": 6.0,
     "views": 20215,
-    "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "UAV from the Black Sea - to the Mykolaiv region, heading for the Dnipro region.",
-    "description_en": "UAV from the Black Sea - to the Mykolaiv region, heading for the Dnipro region.",
-    "description_uk": "БпЛА з Чорного моря - на Миколаївщину, курсом на Дніпровське.",
-    "time": "",
-    "pubDate": "2026-08-17T03:17:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73127",
-    "score": 6.0,
-    "views": 11128,
-    "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: БпЛА на Миколаїв з півдня.",
-    "title_en": "Mykolaiv: БпЛА на Миколаїв з півдня.",
-    "title_uk": "Миколаїв: БпЛА на Миколаїв з півдня.",
-    "description": "БпЛА на Миколаїв з півдня.",
-    "description_en": "БпЛА на Миколаїв з півдня.",
-    "description_uk": "БпЛА на Миколаїв з півдня.",
-    "time": "",
-    "pubDate": "2026-08-17T03:08:06+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73125",
-    "score": 6.0,
-    "views": 16166,
     "forwards": 0
   }
 ]
