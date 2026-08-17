@@ -1,5 +1,59 @@
 [
   {
+    "title": "Zaporizhzhia: BpLA to the south of Dnipropetrovsk region, in the direction of...",
+    "title_en": "Zaporizhzhia: BpLA to the south of Dnipropetrovsk region, in the direction of...",
+    "title_uk": "Запоріжжя: БпЛА на південь Дніпропетровської області, в напрямку...",
+    "description": "BpLA to the south of Dnipropetrovsk region, in the direction of Kryvyi Rih. 🛵 BpLA to Zaporozhye from the east.",
+    "description_en": "BpLA to the south of Dnipropetrovsk region, in the direction of Kryvyi Rih. 🛵 BpLA to Zaporozhye from the east.",
+    "description_uk": "БпЛА на південь Дніпропетровщини, в напрямку Кривого Рогу. 🛵 БпЛА на Запоріжжя зі сходу.",
+    "time": "",
+    "pubDate": "2026-08-17T20:40:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73235",
+    "score": 6.0,
+    "views": 2,
+    "forwards": 0
+  },
+  {
+    "title": "The Ukrainian Armed Forces will receive a new Dovbush UAV, which can...",
+    "title_en": "The Ukrainian Armed Forces will receive a new Dovbush UAV, which can...",
+    "title_uk": "Збройні сили України отримають новий БПЛА «Довбуш», який може...",
+    "description": "The Ukrainian Armed Forces will receive a new Dovbush UAV, which can reach Siberia. The Ministry of Defense has codified a Ukrainian drone with a range of more than 2,000 km. It can stay in the air for more than a day. This is enough for combat work on objects in the Urals and in the western part of Siberia. The drought is just beginning.",
+    "description_en": "The Ukrainian Armed Forces will receive a new Dovbush UAV, which can reach Siberia. The Ministry of Defense has codified a Ukrainian drone with a range of more than 2,000 km. It can stay in the air for more than a day. This is enough for combat work on objects in the Urals and in the western part of Siberia. The drought is just beginning.",
+    "description_uk": "ВСУ получат новый БПЛА \"Довбуш\", который может дотянуться до Сибири Минобороны кодифицировало украинский беспилотник с дальностью более 2000 км. В воздухе он может находиться больше суток. Этого достаточно для боевой работы по объектам на Урале и в западной части Сибири. Движуха только начинается.",
+    "time": "",
+    "pubDate": "2026-08-17T20:34:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198703",
+    "score": 5.0,
+    "views": 8702,
+    "forwards": 36
+  },
+  {
+    "title": "Sumy: BpLA on Sumy from the north.",
+    "title_en": "Sumy: BpLA on Sumy from the north.",
+    "title_uk": "Суми: БпЛА на Суми з півн.",
+    "description": "BpLA on Sumy from the north.",
+    "description_en": "BpLA on Sumy from the north.",
+    "description_uk": "БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-08-17T20:23:19+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73234",
+    "score": 6.0,
+    "views": 16214,
+    "forwards": 0
+  },
+  {
     "title": "Chernihiv: BpLA on Chernihiv from the north.",
     "title_en": "Chernihiv: BpLA on Chernihiv from the north.",
     "title_uk": "Чернігів: БпЛА на Чернігів з півн.",
@@ -92,7 +146,7 @@
   {
     "title": "Kyiv: Cruise missile heading inbound",
     "title_en": "Kyiv: Cruise missile heading inbound",
-    "title_uk": "Kyiv: Cruise missile heading inbound",
+    "title_uk": "Київ: наближається крилата ракета",
     "description": "Russian Banderol missile enters Moldovan airspace, Ukraine claims, explosion reported near village. The Banderol is a small, low-cost cruise missile which is launched from a Kronshtadt Orion strike and reconnaissance drone.",
     "description_en": "Russian Banderol missile enters Moldovan airspace, Ukraine claims, explosion reported near village. The Banderol is a small, low-cost cruise missile which is launched from a Kronshtadt Orion strike and reconnaissance drone.",
     "description_uk": "Russian Banderol missile enters Moldovan airspace, Ukraine claims, explosion reported near village. The Banderol is a small, low-cost cruise missile which is launched from a Kronshtadt Orion strike and reconnaissance drone.",
@@ -104,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54843",
     "score": 10.0,
-    "views": 992,
+    "views": 1205,
     "forwards": 3
   },
   {
@@ -122,8 +176,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54842",
     "score": 5.0,
-    "views": 1320,
-    "forwards": 3
+    "views": 1500,
+    "forwards": 5
   },
   {
     "title": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
@@ -266,8 +320,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198685",
     "score": 6.5,
-    "views": 140832,
-    "forwards": 1494
+    "views": 146333,
+    "forwards": 1534
   },
   {
     "title": "Kyiv: Russia has built new drone launch pads near Ukraine, Belarus, putting...",
@@ -394,59 +448,5 @@
     "score": 5.0,
     "views": 14157,
     "forwards": 0
-  },
-  {
-    "title": "UAV to Odessa from the Black Sea.",
-    "title_en": "UAV to Odessa from the Black Sea.",
-    "title_uk": "UAV to Odessa from the Black Sea.",
-    "description": "UAV to Odessa from the Black Sea.",
-    "description_en": "UAV to Odessa from the Black Sea.",
-    "description_uk": "БпЛА на Одесу з Чорного моря.",
-    "time": "",
-    "pubDate": "2026-08-17T13:42:04+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73196",
-    "score": 5.0,
-    "views": 20229,
-    "forwards": 0
-  },
-  {
-    "title": "Kryvyi Rih: Jet UAV to Kryvyi Rih.",
-    "title_en": "Kryvyi Rih: Jet UAV to Kryvyi Rih.",
-    "title_uk": "Кривий Ріг: реактивний БПЛА до Кривого Рогу.",
-    "description": "Jet UAV to Kryvyi Rih.",
-    "description_en": "Jet UAV to Kryvyi Rih.",
-    "description_uk": "Реактивний БпЛА на Кривий ріг.",
-    "time": "",
-    "pubDate": "2026-08-17T12:38:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73190",
-    "score": 6.0,
-    "views": 41399,
-    "forwards": 0
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southern...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southern...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на південному...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the southern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the southern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на південному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-08-17T11:44:10+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73182",
-    "score": 5.0,
-    "views": 44436,
-    "forwards": 35
   }
 ]
