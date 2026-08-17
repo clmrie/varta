@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
+    "title_en": "Kharkiv: BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
+    "title_uk": "Харків: BpLA з Донецької області - на Харківську область, прямуючи на Лозову.",
+    "description": "BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
+    "description_en": "BpLA from Donetsk region - to Kharkiv region, heading for Lozova.",
+    "description_uk": "БпЛА з Донеччини - на Харківщину, курсом на Лозову.",
+    "time": "",
+    "pubDate": "2026-08-17T02:31:53+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73117",
+    "score": 6.0,
+    "views": 1239,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: BpLA from the north - to Kharkiv.",
+    "title_en": "Kharkiv: BpLA from the north - to Kharkiv.",
+    "title_uk": "Харків: БпЛА з півночі – на Харків.",
+    "description": "BpLA from the north - to Kharkiv.",
+    "description_en": "BpLA from the north - to Kharkiv.",
+    "description_uk": "БпЛА з півночі - на Харків.",
+    "time": "",
+    "pubDate": "2026-08-17T02:31:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73116",
+    "score": 6.0,
+    "views": 1241,
+    "forwards": 3
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -20,7 +56,7 @@
   {
     "title": "Kyiv: Attack attack",
     "title_en": "Kyiv: Attack attack",
-    "title_uk": "Kyiv: Attack attack",
+    "title_uk": "Київ: Атака",
     "description": "Switzerland providing over $700,000 to restore Kyiv-Pechersk Lavra after Russian attack. Switzerland will provide 600,000 Swiss francs ($730,000) through UNESCO to help preserve and restore the Kyiv-Pechersk Lavra, one of Ukraine's most important historic and religious symbols, damaged in a Russian attack in June, Swiss Federal Council Delegate Jacques Gerber announced on Aug. 16.",
     "description_en": "Switzerland providing over $700,000 to restore Kyiv-Pechersk Lavra after Russian attack. Switzerland will provide 600,000 Swiss francs ($730,000) through UNESCO to help preserve and restore the Kyiv-Pechersk Lavra, one of Ukraine's most important historic and religious symbols, damaged in a Russian attack in June, Swiss Federal Council Delegate Jacques Gerber announced on Aug. 16.",
     "description_uk": "Switzerland providing over $700,000 to restore Kyiv-Pechersk Lavra after Russian attack. Switzerland will provide 600,000 Swiss francs ($730,000) through UNESCO to help preserve and restore the Kyiv-Pechersk Lavra, one of Ukraine's most important historic and religious symbols, damaged in a Russian attack in June, Swiss Federal Council Delegate Jacques Gerber announced on Aug. 16.",
@@ -32,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54835",
     "score": 5.0,
-    "views": 202,
-    "forwards": 4
+    "views": 469,
+    "forwards": 5
   },
   {
     "title": "Mykolaiv: A group of BpLA from Kherson region - to Mykolaiv region, heading for...",
@@ -164,7 +200,7 @@
   {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: Зафіксовано пуск балістичної ракети",
+    "title_uk": "Kyiv: Ballistic missile launch detected",
     "description": "Ukraine could use its own ballistic missiles against Russia by year-end, Fedorov tells CBS News. \"We need to defeat Russia in every technological cycle, and we have to make decisions 24/7,\" the former defense minister said in an interview published on Aug. 16.",
     "description_en": "Ukraine could use its own ballistic missiles against Russia by year-end, Fedorov tells CBS News. \"We need to defeat Russia in every technological cycle, and we have to make decisions 24/7,\" the former defense minister said in an interview published on Aug. 16.",
     "description_uk": "Ukraine could use its own ballistic missiles against Russia by year-end, Fedorov tells CBS News. \"We need to defeat Russia in every technological cycle, and we have to make decisions 24/7,\" the former defense minister said in an interview published on Aug. 16.",
@@ -176,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54833",
     "score": 6.0,
-    "views": 1462,
+    "views": 1604,
     "forwards": 9
   },
   {
@@ -270,6 +306,24 @@
     "forwards": 4
   },
   {
+    "title": "Strike confirmed",
+    "title_en": "Strike confirmed",
+    "title_uk": "Strike confirmed",
+    "description": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
+    "description_en": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
+    "description_uk": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
+    "time": "",
+    "pubDate": "2026-08-16T18:31:38+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198621",
+    "score": 5.5,
+    "views": 135072,
+    "forwards": 308
+  },
+  {
     "title": "An unknown munition landed on the Odessa beach, local newspapers write",
     "title_en": "An unknown munition landed on the Odessa beach, local newspapers write",
     "title_uk": "На одеський пляж впав невідомий боєприпас, пишуть місцеві видання",
@@ -306,24 +360,6 @@
     "forwards": 307
   },
   {
-    "title": "Strike confirmed",
-    "title_en": "Strike confirmed",
-    "title_uk": "Страйк підтверджено",
-    "description": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
-    "description_en": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
-    "description_uk": "По одесскому пляжу прилетел неизвестный боеприпас, - пишут местные паблики",
-    "time": "",
-    "pubDate": "2026-08-16T18:31:38+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198621",
-    "score": 5.5,
-    "views": 122683,
-    "forwards": 307
-  },
-  {
     "title": "Kherson: BpLA on Kherson from the east.",
     "title_en": "Kherson: BpLA on Kherson from the east.",
     "title_uk": "Херсон: БпЛА на Херсон зі сх.",
@@ -357,24 +393,6 @@
     "link": "https://t.me/kpszsu/73081",
     "score": 6.0,
     "views": 39414,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: BpLA from Donetsk region - to Kharkiv region, heading for Lozova. 🛵...",
-    "title_en": "Kharkiv: BpLA from Donetsk region - to Kharkiv region, heading for Lozova. 🛵...",
-    "title_uk": "Харків: BpLA з Донецької області - на Харківську область, прямуючи на Лозову. 🛵...",
-    "description": "BpLA from Donetsk region - to Kharkiv region, heading for Lozova. 🛵 BpLA in the east of Dnipropetrovsk region - heading for Sinelnikovo.",
-    "description_en": "BpLA from Donetsk region - to Kharkiv region, heading for Lozova. 🛵 BpLA in the east of Dnipropetrovsk region - heading for Sinelnikovo.",
-    "description_uk": "БпЛА з Донеччини - на Харківщину, курсом на Лозову. 🛵 БпЛА на сході Дніпропетровщини - курсом на Синельникове.",
-    "time": "",
-    "pubDate": "2026-08-16T17:47:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73080",
-    "score": 6.0,
-    "views": 16187,
     "forwards": 0
   },
   {
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/73069",
     "score": 6.0,
     "views": 20259,
-    "forwards": 0
-  },
-  {
-    "title": "Sumy: BpLA on Sumy from the north.",
-    "title_en": "Sumy: BpLA on Sumy from the north.",
-    "title_uk": "Суми: БпЛА на Суми з півн.",
-    "description": "BpLA on Sumy from the north.",
-    "description_en": "BpLA on Sumy from the north.",
-    "description_uk": "БпЛА на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-08-16T15:58:39+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73068",
-    "score": 6.0,
-    "views": 34385,
     "forwards": 0
   }
 ]
