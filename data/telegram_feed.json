@@ -1,5 +1,41 @@
 [
   {
+    "title": "БпЛА на Павлоград зі сходу.",
+    "title_en": "БпЛА на Павлоград зі сходу.",
+    "title_uk": "БпЛА на Павлоград зі сходу.",
+    "description": "БпЛА на Павлоград зі сходу.",
+    "description_en": "БпЛА на Павлоград зі сходу.",
+    "description_uk": "БпЛА на Павлоград зі сходу.",
+    "time": "",
+    "pubDate": "2026-08-17T19:40:57+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73230",
+    "score": 5.0,
+    "views": 17170,
+    "forwards": 0
+  },
+  {
+    "title": "Jet UAV to Odessa from the Black Sea.",
+    "title_en": "Jet UAV to Odessa from the Black Sea.",
+    "title_uk": "Реактивний БПЛА до Одеси з Чорного моря.",
+    "description": "Jet UAV to Odessa from the Black Sea.",
+    "description_en": "Jet UAV to Odessa from the Black Sea.",
+    "description_uk": "Реактивний БпЛА на Одесу з Чорного моря.",
+    "time": "",
+    "pubDate": "2026-08-17T19:39:51+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73229",
+    "score": 5.0,
+    "views": 16173,
+    "forwards": 0
+  },
+  {
     "title": "Dnipro: Drone incoming",
     "title_en": "Dnipro: Drone incoming",
     "title_uk": "Дніпро: Дрон вхід",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54843",
     "score": 10.0,
-    "views": 608,
+    "views": 807,
     "forwards": 3
   },
   {
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54842",
     "score": 5.0,
-    "views": 1015,
+    "views": 1178,
     "forwards": 3
   },
   {
@@ -230,8 +266,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198685",
     "score": 6.5,
-    "views": 129996,
-    "forwards": 1417
+    "views": 136491,
+    "forwards": 1456
   },
   {
     "title": "Kyiv: Russia has built new drone launch pads near Ukraine, Belarus, putting...",
@@ -412,41 +448,5 @@
     "score": 5.0,
     "views": 44436,
     "forwards": 35
-  },
-  {
-    "title": "A jet UAV headed for Odesa from the sea.",
-    "title_en": "A jet UAV headed for Odesa from the sea.",
-    "title_uk": "Реактивний БПЛА взяв курс на Одесу з моря.",
-    "description": "A jet UAV headed for Odesa from the sea.",
-    "description_en": "A jet UAV headed for Odesa from the sea.",
-    "description_uk": "Реактивний БпЛА курсом на Одещину з моря.",
-    "time": "",
-    "pubDate": "2026-08-17T11:43:13+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73181",
-    "score": 5.0,
-    "views": 14137,
-    "forwards": 0
-  },
-  {
-    "title": "Kherson: Drone strike",
-    "title_en": "Kherson: Drone strike",
-    "title_uk": "Херсон: Удар безпілотників",
-    "description": "The defense forces hit the storage of attack drones and control points in the occupied Crimea - the General Staff of the Armed Forces of Ukraine. The ground control station of the Orion drones in Novofedorovka and the ground repeater used to control the Geran and Gerbera drones were also affected. The military and the communication point passed by and...",
-    "description_en": "The defense forces hit the storage of attack drones and control points in the occupied Crimea - the General Staff of the Armed Forces of Ukraine. The ground control station of the Orion drones in Novofedorovka and the ground repeater used to control the Geran and Gerbera drones were also affected. The military and the communication point passed by and...",
-    "description_uk": "Силы обороны ударили по хранилищу ударных дронов и пунктам управления в оккупированном Крыму, — Генштаб ВСУ Удар пришелся по месту хранения, подготовки и запуска ударных БпЛА в районе Гвардейского. Также поражена наземная станция управления дронов «Орион» в Новофедоровке и наземный ретранслятор, который используют для управления дронами «Герань» и «Гербера». Минуснули военные и пункт связи и...",
-    "time": "",
-    "pubDate": "2026-08-17T10:51:07+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kherson",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198664",
-    "score": 6.5,
-    "views": 121752,
-    "forwards": 106
   }
 ]
