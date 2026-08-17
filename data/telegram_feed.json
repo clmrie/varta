@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "Група БпЛА з Брянської обл., рф - на Чернігівщину, курсом на Новгород-Сіверський.",
+    "description_en": "Група БпЛА з Брянської обл., рф - на Чернігівщину, курсом на Новгород-Сіверський.",
+    "description_uk": "Група БпЛА з Брянської обл., рф - на Чернігівщину, курсом на Новгород-Сіверський.",
+    "time": "",
+    "pubDate": "2026-08-17T03:52:21+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73131",
+    "score": 6.0,
+    "views": 20215,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "UAV in the east of Kharkiv region - heading for Prikolotne, Stary Saltiv.",
+    "description_en": "UAV in the east of Kharkiv region - heading for Prikolotne, Stary Saltiv.",
+    "description_uk": "БпЛА на сході Харківщини - курсом на Приколотне, Старий Салтів.",
+    "time": "",
+    "pubDate": "2026-08-17T03:33:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73130",
+    "score": 6.0,
+    "views": 30272,
+    "forwards": 0
+  },
+  {
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Миколаїв: Дрон вхід",
@@ -72,24 +108,6 @@
     "forwards": 3
   },
   {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "A group of UAVs from the Black Sea - to the south of Odesa - heading for Bilhorod-Dnfstrovskyi. 🛵 Unmanned aerial vehicle in the north of Chernihiv Oblast - heading for Snovsk. 🛵BpLA in the south of Kharkiv Oblast - heading for Slobozhansk.",
-    "description_en": "A group of UAVs from the Black Sea - to the south of Odesa - heading for Bilhorod-Dnfstrovskyi. 🛵 Unmanned aerial vehicle in the north of Chernihiv Oblast - heading for Snovsk. 🛵BpLA in the south of Kharkiv Oblast - heading for Slobozhansk.",
-    "description_uk": "Група БпЛА з Чорного моря - на південь Одещини - курсом на Білгород- Днфстровський. 🛵 БпЛА на півночі Чернігівщини - курсом на Сновськ. 🛵БпЛА на півдні Харківщини - курсом на Слобожанське.",
-    "time": "",
-    "pubDate": "2026-08-17T01:02:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73107",
-    "score": 6.0,
-    "views": 3971,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Attack attack",
     "title_en": "Kyiv: Attack attack",
     "title_uk": "Київ: Атака",
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54835",
     "score": 5.0,
-    "views": 642,
+    "views": 848,
     "forwards": 5
   },
   {
@@ -248,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54833",
     "score": 6.0,
-    "views": 1719,
+    "views": 1864,
     "forwards": 9
   },
   {
@@ -356,7 +374,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198621",
     "score": 5.5,
-    "views": 144466,
+    "views": 155085,
     "forwards": 319
   },
   {
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/73081",
     "score": 6.0,
     "views": 39414,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_uk": "Харків: БпЛА на Харків з півночі.",
-    "description": "BpLA on Kharkiv from the north.",
-    "description_en": "BpLA on Kharkiv from the north.",
-    "description_uk": "БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-08-16T17:44:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73078",
-    "score": 6.0,
-    "views": 6046,
     "forwards": 0
   }
 ]
