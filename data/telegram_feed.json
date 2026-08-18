@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: BpLA in Zaporizhzhia - heading for Dnipropetrovsk region. 🛵 BpLA in...",
+    "title_en": "Kharkiv: BpLA in Zaporizhzhia - heading for Dnipropetrovsk region. 🛵 BpLA in...",
+    "title_uk": "Харків: BpLA в Запоріжжі - курс на Дніпропетровську обл. 🛵 BpLA в...",
+    "description": "BpLA in Zaporizhzhia - heading for Dnipropetrovsk region. 🛵 BpLA in Donetsk region - heading for Kharkiv region.",
+    "description_en": "BpLA in Zaporizhzhia - heading for Dnipropetrovsk region. 🛵 BpLA in Donetsk region - heading for Kharkiv region.",
+    "description_uk": "БпЛА на Запоріжжі - курсом на Дніпропетровщину. 🛵 БпЛА на Донеччині - курсом на Харківщину.",
+    "time": "",
+    "pubDate": "2026-08-18T00:41:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73259",
+    "score": 6.0,
+    "views": 8129,
+    "forwards": 1
+  },
+  {
+    "title": "Chernihiv: BpLA from Chernihiv region - heading to Kyiv.",
+    "title_en": "Chernihiv: BpLA from Chernihiv region - heading to Kyiv.",
+    "title_uk": "Chernihiv: BpLA from Chernihiv region - heading to Kyiv.",
+    "description": "BpLA from Chernihiv region - heading to Kyiv.",
+    "description_en": "BpLA from Chernihiv region - heading to Kyiv.",
+    "description_uk": "БпЛА з Чернігівщини - курсом на Київ.",
+    "time": "",
+    "pubDate": "2026-08-18T00:34:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73258",
+    "score": 6.0,
+    "views": 14854,
+    "forwards": 1
+  },
+  {
     "title": "BpLA in the direction of Kharkiv from the north.",
     "title_en": "BpLA in the direction of Kharkiv from the north.",
     "title_uk": "БпЛА в напрямку Харкова з півн.",
@@ -50,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198713",
     "score": 5.0,
-    "views": 10046,
-    "forwards": 0
+    "views": 22784,
+    "forwards": 10
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -122,7 +158,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198709",
     "score": 4.0,
-    "views": 30348,
+    "views": 39613,
     "forwards": 21
   },
   {
@@ -302,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54843",
     "score": 10.0,
-    "views": 1757,
+    "views": 1832,
     "forwards": 4
   },
   {
@@ -320,7 +356,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54842",
     "score": 5.0,
-    "views": 2000,
+    "views": 2059,
     "forwards": 5
   },
   {
@@ -412,41 +448,5 @@
     "score": 6.0,
     "views": 35426,
     "forwards": 0
-  },
-  {
-    "title": "Chernihiv: Chernihiv region - BpLA past Menu, in the south-eastern direction.",
-    "title_en": "Chernihiv: Chernihiv region - BpLA past Menu, in the south-eastern direction.",
-    "title_uk": "Чернігів: Чернігівська обл.- БпЛА повз Меню, в південно-східному напрямку.",
-    "description": "Chernihiv region - BpLA past Menu, in the south-eastern direction.",
-    "description_en": "Chernihiv region - BpLA past Menu, in the south-eastern direction.",
-    "description_uk": "Чернігівщина - БпЛА повз Мену, в південно-східному напрямку.",
-    "time": "",
-    "pubDate": "2026-08-17T15:50:21+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73212",
-    "score": 6.0,
-    "views": 12127,
-    "forwards": 0
-  },
-  {
-    "title": "The era of \"drone wars\" is ending before it started: China has...",
-    "title_en": "The era of \"drone wars\" is ending before it started: China has...",
-    "title_uk": "Епоха «війн безпілотників» закінчується, не почавшись: Китай...",
-    "description": "The era of \"drone wars\" is ending before it started: China has created a new system to combat UAVs. Acoustics detects the UAV, AI recognizes the target, and thermal imagers and laser rangefinders determine its position. After that, the complex affects the drones, and they lose control and fall to the ground.",
-    "description_en": "The era of \"drone wars\" is ending before it started: China has created a new system to combat UAVs. Acoustics detects the UAV, AI recognizes the target, and thermal imagers and laser rangefinders determine its position. After that, the complex affects the drones, and they lose control and fall to the ground.",
-    "description_uk": "Эпоха \"войны дронов\" заканчивается, не успев начаться: в Китае создали новую систему борьбы с БПЛА Акустика обнаруживает БПЛА, ИИ распознаёт цель, а тепловизоры и лазерные дальномеры определяют её положение. После этого комплекс воздействует на дроны, и они теряют управление и падают на землю.",
-    "time": "",
-    "pubDate": "2026-08-17T15:19:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198685",
-    "score": 6.5,
-    "views": 146333,
-    "forwards": 1534
   }
 ]
