@@ -1,5 +1,41 @@
 [
   {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на східному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-08-18T04:26:10+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73272",
+    "score": 5.0,
+    "views": 14105,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "A group of jet UAVs in Chernihiv Oblast - heading for Kyiv Oblast.",
+    "description_en": "A group of jet UAVs in Chernihiv Oblast - heading for Kyiv Oblast.",
+    "description_uk": "Група реактивних БпЛА на Ченрнігівщині - курсом на Київщину.",
+    "time": "",
+    "pubDate": "2026-08-18T03:57:53+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73270",
+    "score": 6.0,
+    "views": 41328,
+    "forwards": 1
+  },
+  {
     "title": "600 drones intercepted",
     "title_en": "600 drones intercepted",
     "title_uk": "Перехоплено 600 безпілотників",
@@ -13,9 +49,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198717",
-    "score": 12.0,
-    "views": 1,
-    "forwards": 0
+    "score": 12.5,
+    "views": 38153,
+    "forwards": 176
   },
   {
     "title": "Kyiv: Jet UAV to Kyiv past Brovary.",
@@ -36,24 +72,6 @@
     "forwards": 1
   },
   {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Drone incoming",
-    "description": "A group of jet UAVs in Chernihiv Oblast - heading for Kyiv Oblast (Brovary)",
-    "description_en": "A group of jet UAVs in Chernihiv Oblast - heading for Kyiv Oblast (Brovary)",
-    "description_uk": "Група реактивних БпЛА на Ченрнігівщині - курсом на Київщину (Бровари)",
-    "time": "",
-    "pubDate": "2026-08-18T03:02:26+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73268",
-    "score": 6.0,
-    "views": 45416,
-    "forwards": 35
-  },
-  {
     "title": "Kyiv: Air defense active",
     "title_en": "Kyiv: Air defense active",
     "title_uk": "Київ: ППО діюча",
@@ -68,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54849",
     "score": 13.0,
-    "views": 423,
+    "views": 607,
     "forwards": 1
   },
   {
@@ -88,24 +106,6 @@
     "score": 6.0,
     "views": 27300,
     "forwards": 0
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на східному...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-08-18T00:54:43+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73260",
-    "score": 5.0,
-    "views": 15834,
-    "forwards": 2
   },
   {
     "title": "Kharkiv: BpLA in Zaporizhzhia - heading for Dnipropetrovsk region. 🛵 BpLA in...",
@@ -194,7 +194,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198713",
     "score": 5.0,
-    "views": 78716,
+    "views": 99852,
     "forwards": 10
   },
   {
