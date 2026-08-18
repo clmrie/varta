@@ -1,5 +1,41 @@
 [
   {
+    "title": "600 drones",
+    "title_en": "600 drones",
+    "title_uk": "600 дронів",
+    "description": "More footage of what is happening in the Moscow region They write that in total about 600 UAVs flew over the Russian Federation.",
+    "description_en": "More footage of what is happening in the Moscow region They write that in total about 600 UAVs flew over the Russian Federation.",
+    "description_uk": "Еще кадры происходящего в Подмосковье Пишут, что всего по столике рф летело около 600 БПЛА.",
+    "time": "",
+    "pubDate": "2026-08-18T05:28:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198722",
+    "score": 8.0,
+    "views": 18068,
+    "forwards": 36
+  },
+  {
+    "title": "Kyiv: Kyiv region - a jet UAV on Velika Dymerka, Brovary.",
+    "title_en": "Kyiv: Kyiv region - a jet UAV on Velika Dymerka, Brovary.",
+    "title_uk": "Київ: Київська область - реактивний БПЛА на Великій Димерці, Бровари.",
+    "description": "Kyiv region - a jet UAV on Velika Dymerka, Brovary.",
+    "description_en": "Kyiv region - a jet UAV on Velika Dymerka, Brovary.",
+    "description_uk": "Київщина - реактивний БпЛА на Велику Димерку, Бровари.",
+    "time": "",
+    "pubDate": "2026-08-18T05:22:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73278",
+    "score": 6.0,
+    "views": 28257,
+    "forwards": 1
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -68,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198717",
     "score": 13.5,
-    "views": 65782,
-    "forwards": 279
+    "views": 91399,
+    "forwards": 349
   },
   {
     "title": "Kyiv: Jet UAV to Kyiv past Brovary.",
@@ -104,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54849",
     "score": 13.0,
-    "views": 799,
-    "forwards": 1
+    "views": 1009,
+    "forwards": 2
   },
   {
     "title": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city from the south.",
@@ -411,42 +447,6 @@
     "link": "https://t.me/kpszsu/73232",
     "score": 6.0,
     "views": 19186,
-    "forwards": 0
-  },
-  {
-    "title": "БпЛА на Павлоград зі сходу.",
-    "title_en": "БпЛА на Павлоград зі сходу.",
-    "title_uk": "БпЛА на Павлоград зі сходу.",
-    "description": "БпЛА на Павлоград зі сходу.",
-    "description_en": "БпЛА на Павлоград зі сходу.",
-    "description_uk": "БпЛА на Павлоград зі сходу.",
-    "time": "",
-    "pubDate": "2026-08-17T19:40:57+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73230",
-    "score": 5.0,
-    "views": 35418,
-    "forwards": 1
-  },
-  {
-    "title": "Jet UAV to Odessa from the Black Sea.",
-    "title_en": "Jet UAV to Odessa from the Black Sea.",
-    "title_uk": "Реактивний БПЛА до Одеси з Чорного моря.",
-    "description": "Jet UAV to Odessa from the Black Sea.",
-    "description_en": "Jet UAV to Odessa from the Black Sea.",
-    "description_uk": "Реактивний БпЛА на Одесу з Чорного моря.",
-    "time": "",
-    "pubDate": "2026-08-17T19:39:51+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73229",
-    "score": 5.0,
-    "views": 16173,
     "forwards": 0
   }
 ]
