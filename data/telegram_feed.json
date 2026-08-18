@@ -1,5 +1,41 @@
 [
   {
+    "title": "Dnipro: Air raid alert",
+    "title_en": "Dnipro: Air raid alert",
+    "title_uk": "Дніпро: Повітряна тривога",
+    "description": "Russia unleashes large-scale attack with jet-powered drones as Kyiv faces at least 9 air raid alerts in a single day. At around 7:45 p.m. local time, Kyiv Mayor Vitaliy Klitschko said debris from Russian drones had been reported at two locations in the Dniprovskyi district.",
+    "description_en": "Russia unleashes large-scale attack with jet-powered drones as Kyiv faces at least 9 air raid alerts in a single day. At around 7:45 p.m. local time, Kyiv Mayor Vitaliy Klitschko said debris from Russian drones had been reported at two locations in the Dniprovskyi district.",
+    "description_uk": "Russia unleashes large-scale attack with jet-powered drones as Kyiv faces at least 9 air raid alerts in a single day. At around 7:45 p.m. local time, Kyiv Mayor Vitaliy Klitschko said debris from Russian drones had been reported at two locations in the Dniprovskyi district.",
+    "time": "",
+    "pubDate": "2026-08-18T18:07:23+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54863",
+    "score": 12.5,
+    "views": 171,
+    "forwards": 1
+  },
+  {
+    "title": "Drone strike",
+    "title_en": "Drone strike",
+    "title_uk": "Безпілотний удар",
+    "description": "🇬🇧 Moscow threatens Great Britain with \"consequences\" due to the supply of drones to Ukraine 🖥 This is reported by Reuters. The Russian Embassy in London accused Britain of \"deepening involvement\" in the war after The Times reported that British drones could be used for the first time for long-range strikes on the territory of the Russian Federation. The British Ministry of Defense has not confirmed the use of British UAVs. 📌 In April, London...",
+    "description_en": "🇬🇧 Moscow threatens Great Britain with \"consequences\" due to the supply of drones to Ukraine 🖥 This is reported by Reuters. The Russian Embassy in London accused Britain of \"deepening involvement\" in the war after The Times reported that British drones could be used for the first time for long-range strikes on the territory of the Russian Federation. The British Ministry of Defense has not confirmed the use of British UAVs. 📌 In April, London...",
+    "description_uk": "🇬🇧 москва погрожує Великій Британії «наслідками» через постачання дронів Україні 🖥 Про це повідомляє Reuters. Посольство рф у Лондоні звинуватило Британію у «поглибленні участі» у війні після повідомлення The Times, що британські дрони могли вперше застосувати для далекобійних ударів по території рф. Міноборони Великої Британії не підтвердило використання саме британських БПЛА. 📌 У квітні Лондон...",
+    "time": "",
+    "pubDate": "2026-08-18T18:03:23+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23754",
+    "score": 8.0,
+    "views": 20305,
+    "forwards": 43
+  },
+  {
     "title": "Kyiv: Drone incoming",
     "title_en": "Kyiv: Drone incoming",
     "title_uk": "Київ: Дрон вхід",
@@ -14,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73368",
     "score": 11.5,
-    "views": 78859,
-    "forwards": 552
+    "views": 104239,
+    "forwards": 588
   },
   {
     "title": "New BpLa groups in the north of Chernihiv ➡️ heading for Sedniv.",
@@ -32,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73367",
     "score": 5.0,
-    "views": 51547,
+    "views": 62688,
     "forwards": 0
   },
   {
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198766",
     "score": 8.5,
-    "views": 73630,
-    "forwards": 142
+    "views": 89617,
+    "forwards": 143
   },
   {
     "title": "Реактивний БпЛА на Дарницю",
@@ -176,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20417",
     "score": 9.0,
-    "views": 37664,
-    "forwards": 100
+    "views": 41049,
+    "forwards": 102
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -284,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54860",
     "score": 4.0,
-    "views": 1878,
+    "views": 1981,
     "forwards": 10
   },
   {
@@ -338,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10028",
     "score": 16.5,
-    "views": 526,
+    "views": 533,
     "forwards": 15
   },
   {
@@ -412,41 +448,5 @@
     "score": 5.0,
     "views": 59593,
     "forwards": 35
-  },
-  {
-    "title": "Mykolaiv: Rocket in the direction of Odesa/Mykolaiv Oblast!",
-    "title_en": "Mykolaiv: Rocket in the direction of Odesa/Mykolaiv Oblast!",
-    "title_uk": "Миколаїв: Ракета в напрямку Одеси/Миколаївської області!",
-    "description": "Rocket in the direction of Odesa/Mykolaiv Oblast!",
-    "description_en": "Rocket in the direction of Odesa/Mykolaiv Oblast!",
-    "description_uk": "Ракета у напрямку Одещини/Миколаївщини!",
-    "time": "",
-    "pubDate": "2026-08-18T09:47:31+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73307",
-    "score": 6.0,
-    "views": 64673,
-    "forwards": 36
-  },
-  {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
-    "description": "Ghana asks Moscow to stop recruiting its citizens for war in Ukraine. According to Ghanaian Foreign Minister Samuel Okudzeto Ablakwa, 62 of his country's citizens have been killed in Ukraine, and 15 remain missing.",
-    "description_en": "Ghana asks Moscow to stop recruiting its citizens for war in Ukraine. According to Ghanaian Foreign Minister Samuel Okudzeto Ablakwa, 62 of his country's citizens have been killed in Ukraine, and 15 remain missing.",
-    "description_uk": "Ghana asks Moscow to stop recruiting its citizens for war in Ukraine. According to Ghanaian Foreign Minister Samuel Okudzeto Ablakwa, 62 of his country's citizens have been killed in Ukraine, and 15 remain missing.",
-    "time": "",
-    "pubDate": "2026-08-18T09:23:43+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54854",
-    "score": 6.0,
-    "views": 2090,
-    "forwards": 2
   }
 ]
