@@ -1,20 +1,38 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "UAV from the Black Sea area heading for Mykolaiv Oblast.",
+    "description_en": "UAV from the Black Sea area heading for Mykolaiv Oblast.",
+    "description_uk": "БпЛА з акваторії Чорного моря курсом на Миколаївщину.",
+    "time": "",
+    "pubDate": "2026-08-18T16:01:21+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73357",
+    "score": 6.0,
+    "views": 8079,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Drone incoming",
     "title_en": "Kyiv: Drone incoming",
     "title_uk": "Київ: Дрон вхід",
-    "description": "Kyiv region: jet UAVs ➡️ heading for Brovary. 🛵 Poltava region: jet UAV ➡️ on Globina.",
-    "description_en": "Kyiv region: jet UAVs ➡️ heading for Brovary. 🛵 Poltava region: jet UAV ➡️ on Globina.",
-    "description_uk": "Київщина: реактивні БпЛА ➡️ курсом на Бровари. 🛵 Полтавщина: реактивний БпЛА ➡️ на Глобине.",
+    "description": "Jet UAV from Cherkasy region heading for Kyiv region (Pereyaslav)",
+    "description_en": "Jet UAV from Cherkasy region heading for Kyiv region (Pereyaslav)",
+    "description_uk": "Реактивний БпЛА з Черкащини курсом на Київщину ( Переяслав)",
     "time": "",
-    "pubDate": "2026-08-18T15:32:45+00:00",
+    "pubDate": "2026-08-18T15:55:14+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Kyiv",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73353",
+    "link": "https://t.me/kpszsu/73356",
     "score": 6.0,
-    "views": 26265,
+    "views": 21192,
     "forwards": 1
   },
   {
@@ -50,8 +68,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20417",
     "score": 9.0,
-    "views": 18708,
-    "forwards": 74
+    "views": 24797,
+    "forwards": 85
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -158,8 +176,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54860",
     "score": 4.0,
-    "views": 1322,
-    "forwards": 8
+    "views": 1471,
+    "forwards": 9
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -212,7 +230,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10028",
     "score": 16.5,
-    "views": 465,
+    "views": 475,
     "forwards": 14
   },
   {
@@ -320,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54854",
     "score": 6.0,
-    "views": 1890,
+    "views": 1939,
     "forwards": 2
   },
   {
@@ -374,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20411",
     "score": 7.5,
-    "views": 219530,
+    "views": 222384,
     "forwards": 1288
   },
   {
@@ -430,23 +448,5 @@
     "score": 4.5,
     "views": 139750,
     "forwards": 731
-  },
-  {
-    "title": "Reactive UAVs pass by Slavutych ➡️ on the course of Desnu.",
-    "title_en": "Reactive UAVs pass by Slavutych ➡️ on the course of Desnu.",
-    "title_uk": "Реактивні БПЛА проходять повз Славутич ➡️ курсом Десну.",
-    "description": "Reactive UAVs pass by Slavutych ➡️ on the course of Desnu.",
-    "description_en": "Reactive UAVs pass by Slavutych ➡️ on the course of Desnu.",
-    "description_uk": "Реактивні БпЛА повз Славутич ➡️ курсом Десну.",
-    "time": "",
-    "pubDate": "2026-08-18T06:16:34+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73282",
-    "score": 5.0,
-    "views": 44485,
-    "forwards": 0
   }
 ]
