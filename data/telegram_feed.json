@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kherson: Kherson: UAV over the city.",
+    "title_en": "Kherson: Kherson: UAV over the city.",
+    "title_uk": "Херсон: Херсон: БПЛА над містом.",
+    "description": "Kherson: UAV over the city.",
+    "description_en": "Kherson: UAV over the city.",
+    "description_uk": "Херсон: БпЛА над містом.",
+    "time": "",
+    "pubDate": "2026-08-18T13:50:46+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73336",
+    "score": 6.0,
+    "views": 3009,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: BpLA in the direction of Chernihiv from the north.",
+    "title_en": "Chernihiv: BpLA in the direction of Chernihiv from the north.",
+    "title_uk": "Чернігів: БпЛА в напрямку Чернігова з півн.",
+    "description": "BpLA in the direction of Chernihiv from the north.",
+    "description_en": "BpLA in the direction of Chernihiv from the north.",
+    "description_uk": "БпЛА в напрямку м.Чернігів з півночі.",
+    "time": "",
+    "pubDate": "2026-08-18T13:49:04+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73335",
+    "score": 6.0,
+    "views": 9079,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: PepsiCo said it would leave Russia. Last year, it paid $237 million...",
+    "title_en": "Kyiv: PepsiCo said it would leave Russia. Last year, it paid $237 million...",
+    "title_uk": "Київ: PepsiCo заявила, що йде з Росії. Минулого року вона заплатила 237 мільйонів доларів...",
+    "description": "PepsiCo said it would leave Russia. Last year, it paid $237 million to the state In response to Russia's full-scale invasion, PepsiCo announced it would suspend production and sales in Russia in March 2022 — and yet, last year it still paid $237 million in income tax to the Russian state. PepsiCo, one of the largest food and drink producers in the world, remains Russia's fourth-largest foreign...",
+    "description_en": "PepsiCo said it would leave Russia. Last year, it paid $237 million to the state In response to Russia's full-scale invasion, PepsiCo announced it would suspend production and sales in Russia in March 2022 — and yet, last year it still paid $237 million in income tax to the Russian state. PepsiCo, one of the largest food and drink producers in the world, remains Russia's fourth-largest foreign...",
+    "description_uk": "PepsiCo said it would leave Russia. Last year, it paid $237 million to the state In response to Russia's full-scale invasion, PepsiCo announced it would suspend production and sales in Russia in March 2022 — and yet, last year it still paid $237 million in income tax to the Russian state. PepsiCo, one of the largest food and drink producers in the world, remains Russia's fourth-largest foreign...",
+    "time": "",
+    "pubDate": "2026-08-18T13:24:34+00:00",
+    "category": "alert",
+    "severity": "medium",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54860",
+    "score": 4.0,
+    "views": 549,
+    "forwards": 4
+  },
+  {
     "title": "Dnipro: Drone incoming",
     "title_en": "Dnipro: Drone incoming",
     "title_uk": "Dnipro: Drone incoming",
@@ -50,8 +104,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10028",
     "score": 16.5,
-    "views": 288,
-    "forwards": 11
+    "views": 361,
+    "forwards": 13
   },
   {
     "title": "Kyiv: Drone incoming",
@@ -104,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198744",
     "score": 6.5,
-    "views": 81392,
-    "forwards": 213
+    "views": 98683,
+    "forwards": 281
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -140,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198741",
     "score": 9.5,
-    "views": 102871,
-    "forwards": 427
+    "views": 114828,
+    "forwards": 463
   },
   {
     "title": "Attack attack",
@@ -212,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54854",
     "score": 6.0,
-    "views": 1519,
+    "views": 1686,
     "forwards": 2
   },
   {
@@ -266,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20411",
     "score": 7.5,
-    "views": 197579,
-    "forwards": 1239
+    "views": 205017,
+    "forwards": 1259
   },
   {
     "title": "Kyiv: Eastern Europe's push to revive tourism amid Russia's war Europe's...",
@@ -286,24 +340,6 @@
     "score": 5.0,
     "views": 1784,
     "forwards": 4
-  },
-  {
-    "title": "Kherson: Kherson - UAV over the city.",
-    "title_en": "Kherson: Kherson - UAV over the city.",
-    "title_uk": "Херсон: Херсон - БПЛА над містом.",
-    "description": "Kherson - UAV over the city.",
-    "description_en": "Kherson - UAV over the city.",
-    "description_uk": "Херсон - БпЛА над містом.",
-    "time": "",
-    "pubDate": "2026-08-18T07:23:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kherson",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73289",
-    "score": 6.0,
-    "views": 49453,
-    "forwards": 0
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the southeastern...",
@@ -412,41 +448,5 @@
     "score": 6.0,
     "views": 46467,
     "forwards": 35
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на східному...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-08-18T04:26:10+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73272",
-    "score": 5.0,
-    "views": 62605,
-    "forwards": 1
-  },
-  {
-    "title": "600 drones intercepted",
-    "title_en": "600 drones intercepted",
-    "title_uk": "Перехоплено 600 безпілотників",
-    "description": "Moscow and the region are attacked by hundreds of drones According to the official authorities, 600 UAVs were flying in the direction of the Moscow region, of which 201 drones seem to have been shot down. The governor of the region has already confirmed the arrival of the drone in the Wildberries warehouse.",
-    "description_en": "Moscow and the region are attacked by hundreds of drones According to the official authorities, 600 UAVs were flying in the direction of the Moscow region, of which 201 drones seem to have been shot down. The governor of the region has already confirmed the arrival of the drone in the Wildberries warehouse.",
-    "description_uk": "Москву и область атакуют сотни дронов По данным официальных властей, в направлении Московского региона летели 600 БПЛА, из них 201 беспилотник вроде как сбили. Губернатор региона уже подтвердил прилет беспилотника в склад Wildberries.",
-    "time": "",
-    "pubDate": "2026-08-18T03:56:01+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198717",
-    "score": 13.5,
-    "views": 104254,
-    "forwards": 383
   }
 ]
