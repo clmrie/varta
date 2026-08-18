@@ -1,5 +1,59 @@
 [
   {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Dnipro: Drone incoming",
+    "description": "Groups of jet UAVs through Dnipropetrovsk region ➡️ to Poltava region. 🛵 Kyiv region: jet UAV ➡️ heading for Pereyaslav.",
+    "description_en": "Groups of jet UAVs through Dnipropetrovsk region ➡️ to Poltava region. 🛵 Kyiv region: jet UAV ➡️ heading for Pereyaslav.",
+    "description_uk": "Групи реактивних БпЛА через Дніпропетровщину ➡️ на Полтавщину. 🛵 Київщина: реактивний БпЛА ➡️ курсом на Переяслав.",
+    "time": "",
+    "pubDate": "2026-08-18T12:38:19+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73321",
+    "score": 6.0,
+    "views": 39356,
+    "forwards": 1
+  },
+  {
+    "title": "Kryvyi Rih: BpLA ➡️ course to Kryvyi Rih.",
+    "title_en": "Kryvyi Rih: BpLA ➡️ course to Kryvyi Rih.",
+    "title_uk": "Кривий Ріг: курс BpLA ➡️ до Кривого Рогу.",
+    "description": "BpLA ➡️ course to Kryvyi Rih.",
+    "description_en": "BpLA ➡️ course to Kryvyi Rih.",
+    "description_uk": "БпЛА ➡️ курсом на Кривий Ріг.",
+    "time": "",
+    "pubDate": "2026-08-18T12:30:33+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73319",
+    "score": 6.0,
+    "views": 48469,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: 🇧🇪 The head of the Ministry of Foreign Affairs of Ukraine Andriy...",
+    "title_en": "Chernihiv: 🇧🇪 The head of the Ministry of Foreign Affairs of Ukraine Andriy...",
+    "title_uk": "Чернігів: 🇧🇪 Глава МЗС України Андрій...",
+    "description": "🇧🇪 The head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga welcomed his colleague, Deputy Prime Minister, Minister of Foreign Affairs, European Affairs and Development Cooperation of the Kingdom of Belgium Maxim Prevot in Kyiv. Andrii Sybiga expressed his condolences in connection with the large-scale forest fires in Belgium and assured that Ukraine is ready to provide assistance in overcoming this natural disaster. The parties conducted detailed...",
+    "description_en": "🇧🇪 The head of the Ministry of Foreign Affairs of Ukraine Andriy Sybiga welcomed his colleague, Deputy Prime Minister, Minister of Foreign Affairs, European Affairs and Development Cooperation of the Kingdom of Belgium Maxim Prevot in Kyiv. Andrii Sybiga expressed his condolences in connection with the large-scale forest fires in Belgium and assured that Ukraine is ready to provide assistance in overcoming this natural disaster. The parties conducted detailed...",
+    "description_uk": "🇧🇪 Очільник МЗС України Андрій Сибіга привітав у Києві свого колегу, віцепрем’єр-міністра, міністра закордонних справ, європейських справ та співробітництва з розвитку Королівства Бельгія Максіма Прево. Андрій Сибіга висловив співчуття у зв’язку з масштабними лісовими пожежами у Бельгії та запевнив, що Україна готова надати допомогу в подоланні цього стихійного лиха. Сторони провели детальні...",
+    "time": "",
+    "pubDate": "2026-08-18T12:11:49+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Chernihiv",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/10028",
+    "score": 16.5,
+    "views": 288,
+    "forwards": 11
+  },
+  {
     "title": "Kyiv: Drone incoming",
     "title_en": "Kyiv: Drone incoming",
     "title_uk": "Київ: Дрон вхід",
@@ -49,9 +103,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198744",
-    "score": 5.5,
-    "views": 43677,
-    "forwards": 143
+    "score": 6.5,
+    "views": 81392,
+    "forwards": 213
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -86,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198741",
     "score": 9.5,
-    "views": 80112,
-    "forwards": 390
+    "views": 102871,
+    "forwards": 427
   },
   {
     "title": "Attack attack",
@@ -158,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54854",
     "score": 6.0,
-    "views": 1286,
+    "views": 1519,
     "forwards": 2
   },
   {
@@ -212,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20411",
     "score": 7.5,
-    "views": 184343,
-    "forwards": 1213
+    "views": 197579,
+    "forwards": 1239
   },
   {
     "title": "Kyiv: Eastern Europe's push to revive tourism amid Russia's war Europe's...",
@@ -230,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54852",
     "score": 5.0,
-    "views": 1615,
+    "views": 1784,
     "forwards": 4
   },
   {
@@ -394,59 +448,5 @@
     "score": 13.5,
     "views": 104254,
     "forwards": 383
-  },
-  {
-    "title": "Kyiv: Jet UAV to Kyiv past Brovary.",
-    "title_en": "Kyiv: Jet UAV to Kyiv past Brovary.",
-    "title_uk": "Київ: Реактивний БПЛА до Києва повз Бровари.",
-    "description": "Jet UAV to Kyiv past Brovary.",
-    "description_en": "Jet UAV to Kyiv past Brovary.",
-    "description_uk": "Реактивний БпЛА на Київ повз Бровари.",
-    "time": "",
-    "pubDate": "2026-08-18T03:17:21+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73269",
-    "score": 6.0,
-    "views": 32288,
-    "forwards": 1
-  },
-  {
-    "title": "Kyiv: Air defense active",
-    "title_en": "Kyiv: Air defense active",
-    "title_uk": "Київ: ППО діюча",
-    "description": "Update: Multiple fires reported near Moscow as Ukraine launches hundreds of drones towards Russian capital. Moscow Mayor Sergey Sobyanin said that at least 187 Ukrainian drones were shot down over Moscow Oblast during the attack, with over 600 claimed to have been launched at the region.",
-    "description_en": "Update: Multiple fires reported near Moscow as Ukraine launches hundreds of drones towards Russian capital. Moscow Mayor Sergey Sobyanin said that at least 187 Ukrainian drones were shot down over Moscow Oblast during the attack, with over 600 claimed to have been launched at the region.",
-    "description_uk": "Update: Multiple fires reported near Moscow as Ukraine launches hundreds of drones towards Russian capital. Moscow Mayor Sergey Sobyanin said that at least 187 Ukrainian drones were shot down over Moscow Oblast during the attack, with over 600 claimed to have been launched at the region.",
-    "time": "",
-    "pubDate": "2026-08-18T02:48:41+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54849",
-    "score": 13.0,
-    "views": 1916,
-    "forwards": 3
-  },
-  {
-    "title": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city from the south.",
-    "title_en": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city from the south.",
-    "title_uk": "Запоріжжя: Запоріжжя - БпЛА в напрямку міста з півд.",
-    "description": "Zaporizhzhia - BpLA in the direction of the city from the south.",
-    "description_en": "Zaporizhzhia - BpLA in the direction of the city from the south.",
-    "description_uk": "Запоріжжя - БпЛА в напрямку міста з півдня.",
-    "time": "",
-    "pubDate": "2026-08-18T02:22:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73266",
-    "score": 6.0,
-    "views": 27300,
-    "forwards": 0
   }
 ]
