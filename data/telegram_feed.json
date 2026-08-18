@@ -1,5 +1,23 @@
 [
   {
+    "title": "Sumy: BpLA on Sumy from the north.",
+    "title_en": "Sumy: BpLA on Sumy from the north.",
+    "title_uk": "Суми: БпЛА на Суми з півн.",
+    "description": "BpLA on Sumy from the north.",
+    "description_en": "BpLA on Sumy from the north.",
+    "description_uk": "БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-08-18T08:21:24+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73295",
+    "score": 6.0,
+    "views": 25242,
+    "forwards": 0
+  },
+  {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
     "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
     "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73293",
     "score": 6.0,
-    "views": 3010,
+    "views": 38393,
     "forwards": 0
   },
   {
@@ -31,9 +49,9 @@
     "location": "Kharkiv",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20411",
-    "score": 6.5,
-    "views": 13525,
-    "forwards": 200
+    "score": 7.5,
+    "views": 78076,
+    "forwards": 820
   },
   {
     "title": "Kyiv: Eastern Europe's push to revive tourism amid Russia's war Europe's...",
@@ -50,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54852",
     "score": 5.0,
-    "views": 372,
+    "views": 724,
     "forwards": 3
   },
   {
@@ -122,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198725",
     "score": 4.5,
-    "views": 95825,
-    "forwards": 590
+    "views": 112974,
+    "forwards": 627
   },
   {
     "title": "Reactive UAVs pass by Slavutych ➡️ on the course of Desnu.",
@@ -175,9 +193,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198722",
-    "score": 8.5,
-    "views": 118342,
-    "forwards": 174
+    "score": 9.5,
+    "views": 131189,
+    "forwards": 208
   },
   {
     "title": "Kyiv: Kyiv region - a jet UAV on Velika Dymerka, Brovary.",
@@ -302,8 +320,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54849",
     "score": 13.0,
-    "views": 1674,
-    "forwards": 2
+    "views": 1846,
+    "forwards": 3
   },
   {
     "title": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city from the south.",
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/73244",
     "score": 6.0,
     "views": 5048,
-    "forwards": 0
-  },
-  {
-    "title": "Dnipro: Drone incoming",
-    "title_en": "Dnipro: Drone incoming",
-    "title_uk": "Дніпро: Дрон вхід",
-    "description": "UAV in the direction of Kamianske in the Dnipropetrovsk region.",
-    "description_en": "UAV in the direction of Kamianske in the Dnipropetrovsk region.",
-    "description_uk": "БпЛА в напрямку Камянське на Дніпропетровщині.",
-    "time": "",
-    "pubDate": "2026-08-17T22:52:56+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73243",
-    "score": 6.0,
-    "views": 8097,
     "forwards": 0
   }
 ]
