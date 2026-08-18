@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "Харківщина: реактивний БпЛА ➡️в напрямку Лозової.",
+    "description_en": "Харківщина: реактивний БпЛА ➡️в напрямку Лозової.",
+    "description_uk": "Харківщина: реактивний БпЛА ➡️в напрямку Лозової.",
+    "time": "",
+    "pubDate": "2026-08-18T20:32:47+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73377",
+    "score": 6.0,
+    "views": 5038,
+    "forwards": 0
+  },
+  {
     "title": "Attack attack",
     "title_en": "Attack attack",
     "title_uk": "Атака нападу",
@@ -14,8 +32,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198785",
     "score": 3.5,
-    "views": 27894,
-    "forwards": 71
+    "views": 55032,
+    "forwards": 106
   },
   {
     "title": "Ballistic missile launch detected",
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73371",
     "score": 5.5,
-    "views": 118108,
+    "views": 125136,
     "forwards": 70
   },
   {
@@ -68,15 +86,15 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54863",
     "score": 12.5,
-    "views": 1323,
+    "views": 1538,
     "forwards": 5
   },
   {
     "title": "Drone strike",
     "title_en": "Drone strike",
-    "title_uk": "Drone strike",
-    "description": "🇬🇧 Moscow threatens Great Britain with \"consequences\" due to the supply of drones to Ukraine 🖥 This is reported by Reuters. The Russian Embassy in London accused Britain of \"deepening involvement\" in the war after The Times reported that British drones could be used for the first time for long-range strikes on the territory of the Russian Federation. The British Ministry of Defense has not confirmed the use of British UAVs. 📌 In April, London...",
-    "description_en": "🇬🇧 Moscow threatens Great Britain with \"consequences\" due to the supply of drones to Ukraine 🖥 This is reported by Reuters. The Russian Embassy in London accused Britain of \"deepening involvement\" in the war after The Times reported that British drones could be used for the first time for long-range strikes on the territory of the Russian Federation. The British Ministry of Defense has not confirmed the use of British UAVs. 📌 In April, London...",
+    "title_uk": "Безпілотний удар",
+    "description": "🇬🇧 москва погрожує Великій Британії «наслідками» через постачання дронів Україні 🖥 Про це повідомляє Reuters. Посольство рф у Лондоні звинуватило Британію у «поглибленні участі» у війні після повідомлення The Times, що британські дрони могли вперше застосувати для далекобійних ударів по території рф. Міноборони Великої Британії не підтвердило використання саме британських БПЛА. 📌 У квітні Лондон...",
+    "description_en": "🇬🇧 москва погрожує Великій Британії «наслідками» через постачання дронів Україні 🖥 Про це повідомляє Reuters. Посольство рф у Лондоні звинуватило Британію у «поглибленні участі» у війні після повідомлення The Times, що британські дрони могли вперше застосувати для далекобійних ударів по території рф. Міноборони Великої Британії не підтвердило використання саме британських БПЛА. 📌 У квітні Лондон...",
     "description_uk": "🇬🇧 москва погрожує Великій Британії «наслідками» через постачання дронів Україні 🖥 Про це повідомляє Reuters. Посольство рф у Лондоні звинуватило Британію у «поглибленні участі» у війні після повідомлення The Times, що британські дрони могли вперше застосувати для далекобійних ударів по території рф. Міноборони Великої Британії не підтвердило використання саме британських БПЛА. 📌 У квітні Лондон...",
     "time": "",
     "pubDate": "2026-08-18T18:03:23+00:00",
@@ -86,8 +104,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23754",
     "score": 8.5,
-    "views": 85937,
-    "forwards": 169
+    "views": 93126,
+    "forwards": 182
   },
   {
     "title": "Kyiv: Drone incoming",
@@ -266,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20417",
     "score": 9.0,
-    "views": 49631,
-    "forwards": 116
+    "views": 51309,
+    "forwards": 117
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -304,24 +322,6 @@
     "score": 5.0,
     "views": 9092,
     "forwards": 2
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "Харків : БпЛА в напрямку міста з півночі.",
-    "description_en": "Харків : БпЛА в напрямку міста з півночі.",
-    "description_uk": "Харків : БпЛА в напрямку міста з півночі.",
-    "time": "",
-    "pubDate": "2026-08-18T14:14:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73341",
-    "score": 6.0,
-    "views": 25250,
-    "forwards": 0
   },
   {
     "title": "Kherson: Kherson: UAV over the city.",
@@ -374,7 +374,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54860",
     "score": 4.0,
-    "views": 2351,
+    "views": 2440,
     "forwards": 12
   },
   {
@@ -428,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10028",
     "score": 16.5,
-    "views": 559,
+    "views": 571,
     "forwards": 15
   },
   {
