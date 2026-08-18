@@ -1,5 +1,59 @@
 [
   {
+    "title": "Rocket ➡️ in the direction of Ochakov!",
+    "title_en": "Rocket ➡️ in the direction of Ochakov!",
+    "title_uk": "Ракета ➡️ в сторону Очакова!",
+    "description": "Rocket ➡️ in the direction of Ochakov!",
+    "description_en": "Rocket ➡️ in the direction of Ochakov!",
+    "description_uk": "Ракета ➡️ у напрямку Очакова!",
+    "time": "",
+    "pubDate": "2026-08-18T09:48:53+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73308",
+    "score": 5.0,
+    "views": 21184,
+    "forwards": 35
+  },
+  {
+    "title": "Mykolaiv: Rocket in the direction of Odesa/Mykolaiv Oblast!",
+    "title_en": "Mykolaiv: Rocket in the direction of Odesa/Mykolaiv Oblast!",
+    "title_uk": "Миколаїв: Ракета в напрямку Одеси/Миколаївської області!",
+    "description": "Rocket in the direction of Odesa/Mykolaiv Oblast!",
+    "description_en": "Rocket in the direction of Odesa/Mykolaiv Oblast!",
+    "description_uk": "Ракета у напрямку Одещини/Миколаївщини!",
+    "time": "",
+    "pubDate": "2026-08-18T09:47:31+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73307",
+    "score": 6.0,
+    "views": 29263,
+    "forwards": 36
+  },
+  {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Київ: повідомляється про постраждалих",
+    "description": "Ghana asks Moscow to stop recruiting its citizens for war in Ukraine. According to Ghanaian Foreign Minister Samuel Okudzeto Ablakwa, 62 of his country's citizens have been killed in Ukraine, and 15 remain missing.",
+    "description_en": "Ghana asks Moscow to stop recruiting its citizens for war in Ukraine. According to Ghanaian Foreign Minister Samuel Okudzeto Ablakwa, 62 of his country's citizens have been killed in Ukraine, and 15 remain missing.",
+    "description_uk": "Ghana asks Moscow to stop recruiting its citizens for war in Ukraine. According to Ghanaian Foreign Minister Samuel Okudzeto Ablakwa, 62 of his country's citizens have been killed in Ukraine, and 15 remain missing.",
+    "time": "",
+    "pubDate": "2026-08-18T09:23:43+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54854",
+    "score": 6.0,
+    "views": 456,
+    "forwards": 2
+  },
+  {
     "title": "Sumy: BpLA on Sumy from the north.",
     "title_en": "Sumy: BpLA on Sumy from the north.",
     "title_uk": "Суми: БпЛА на Суми з півн.",
@@ -50,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20411",
     "score": 7.5,
-    "views": 105763,
-    "forwards": 960
+    "views": 136640,
+    "forwards": 1054
   },
   {
     "title": "Kyiv: Eastern Europe's push to revive tourism amid Russia's war Europe's...",
@@ -68,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54852",
     "score": 5.0,
-    "views": 883,
+    "views": 1101,
     "forwards": 3
   },
   {
@@ -140,8 +194,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198725",
     "score": 4.5,
-    "views": 122608,
-    "forwards": 663
+    "views": 132231,
+    "forwards": 697
   },
   {
     "title": "Reactive UAVs pass by Slavutych ➡️ on the course of Desnu.",
@@ -194,7 +248,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198722",
     "score": 9.5,
-    "views": 138696,
+    "views": 146217,
     "forwards": 209
   },
   {
@@ -394,59 +448,5 @@
     "score": 5.0,
     "views": 3991,
     "forwards": 1
-  },
-  {
-    "title": "БПЛА из Черниговской области на север Киевской области, в направлении...",
-    "title_en": "БПЛА из Черниговской области на север Киевской области, в направлении...",
-    "title_uk": "БПЛА з Чернігівської області на північ Київської області, в напрямку...",
-    "description": "БПЛА из Черниговской области на север Киевской области, в направлении Киева, - Воздушные силы Украины",
-    "description_en": "БПЛА из Черниговской области на север Киевской области, в направлении Киева, - Воздушные силы Украины",
-    "description_uk": "БПЛА из Черниговской области на север Киевской области, в направлении Киева, - Воздушные силы Украины",
-    "time": "",
-    "pubDate": "2026-08-17T23:21:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198713",
-    "score": 5.0,
-    "views": 55374,
-    "forwards": 10
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Chernihiv: Drone incoming",
-    "description": "UAV from Chernihiv Oblast to the north of Kyiv Oblast, in the direction of Kyiv.",
-    "description_en": "UAV from Chernihiv Oblast to the north of Kyiv Oblast, in the direction of Kyiv.",
-    "description_uk": "БпЛА з Чернігівщини на північ Київщини, в напрямку Києва.",
-    "time": "",
-    "pubDate": "2026-08-17T23:16:39+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73249",
-    "score": 6.0,
-    "views": 19253,
-    "forwards": 1
-  },
-  {
-    "title": "Chernihiv: БпЛА на півночі Чернігівщини, на південно-західний напрямок. 🛵 БпЛА...",
-    "title_en": "Chernihiv: БпЛА на півночі Чернігівщини, на південно-західний напрямок. 🛵 БпЛА...",
-    "title_uk": "Чернігів: БпЛА на півночі Чернігівщини, на південно-західний напрямок. 🛵 БпЛА...",
-    "description": "БпЛА на півночі Чернігівщини, на південно-західний напрямок. 🛵 БпЛА на н.п. Лозова на Харківщині з півдня.",
-    "description_en": "БпЛА на півночі Чернігівщини, на південно-західний напрямок. 🛵 БпЛА на н.п. Лозова на Харківщині з півдня.",
-    "description_uk": "БпЛА на півночі Чернігівщини, на південно-західний напрямок. 🛵 БпЛА на н.п. Лозова на Харківщині з півдня.",
-    "time": "",
-    "pubDate": "2026-08-17T22:57:04+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73244",
-    "score": 6.0,
-    "views": 5048,
-    "forwards": 0
   }
 ]
