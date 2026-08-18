@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "Kyiv region: jet UAV ➡️ heading for Pereyaslav.",
+    "description_en": "Kyiv region: jet UAV ➡️ heading for Pereyaslav.",
+    "description_uk": "Київщина: реактивний БпЛА ➡️ курсом на Переяслав.",
+    "time": "",
+    "pubDate": "2026-08-18T12:01:36+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73316",
+    "score": 6.0,
+    "views": 2025,
+    "forwards": 1
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73314",
     "score": 5.0,
-    "views": 9075,
-    "forwards": 0
+    "views": 34337,
+    "forwards": 34
   },
   {
     "title": "Pynya sends his nedoebbels to rest: Russian mass media write that...",
@@ -32,26 +50,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198744",
     "score": 5.5,
-    "views": 24468,
-    "forwards": 106
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Дрон вхід",
-    "description": "Kyiv region: jet UAV ➡️ heading for Rzhyshchiv.",
-    "description_en": "Kyiv region: jet UAV ➡️ heading for Rzhyshchiv.",
-    "description_uk": "Київщина: реактивний БпЛА ➡️ курсом на Ржищів.",
-    "time": "",
-    "pubDate": "2026-08-18T10:56:39+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73312",
-    "score": 6.0,
-    "views": 30309,
-    "forwards": 1
+    "views": 43677,
+    "forwards": 143
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -86,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198741",
     "score": 9.5,
-    "views": 70435,
-    "forwards": 322
+    "views": 80112,
+    "forwards": 390
   },
   {
     "title": "Attack attack",
@@ -158,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54854",
     "score": 6.0,
-    "views": 1220,
+    "views": 1286,
     "forwards": 2
   },
   {
@@ -212,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20411",
     "score": 7.5,
-    "views": 180160,
-    "forwards": 1192
+    "views": 184343,
+    "forwards": 1213
   },
   {
     "title": "Kyiv: Eastern Europe's push to revive tourism amid Russia's war Europe's...",
@@ -230,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54852",
     "score": 5.0,
-    "views": 1562,
+    "views": 1615,
     "forwards": 4
   },
   {
