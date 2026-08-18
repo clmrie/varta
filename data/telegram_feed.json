@@ -1,21 +1,57 @@
 [
   {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "Kyiv region: jet UAVs ➡️ heading for Brovary. 🛵 Poltava region: jet UAV ➡️ on Globina.",
+    "description_en": "Kyiv region: jet UAVs ➡️ heading for Brovary. 🛵 Poltava region: jet UAV ➡️ on Globina.",
+    "description_uk": "Київщина: реактивні БпЛА ➡️ курсом на Бровари. 🛵 Полтавщина: реактивний БпЛА ➡️ на Глобине.",
+    "time": "",
+    "pubDate": "2026-08-18T15:32:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73353",
+    "score": 6.0,
+    "views": 26265,
+    "forwards": 1
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
-    "description": "Jet UAV through Vinnytsia ➡️ in the direction of Khmelnytskyi (Nova Ushytsia/Dunaivtsi).",
-    "description_en": "Jet UAV through Vinnytsia ➡️ in the direction of Khmelnytskyi (Nova Ushytsia/Dunaivtsi).",
-    "description_uk": "Реактивний БпЛА через Вінниччину ➡️ у напрямку Хмельниччини ( Нова Ушиця/Дунаївці).",
+    "description": "Jet UAV through Ternopil Oblast ➡️ in the direction of Dubno.",
+    "description_en": "Jet UAV through Ternopil Oblast ➡️ in the direction of Dubno.",
+    "description_uk": "Реактивний БпЛА через Тернопільщину ➡️ у напрямку Дубно.",
     "time": "",
-    "pubDate": "2026-08-18T14:55:08+00:00",
+    "pubDate": "2026-08-18T15:28:34+00:00",
     "category": "drone",
     "severity": "high",
-    "location": "Khmelnytskyi",
+    "location": "Ternopil",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73349",
-    "score": 5.0,
-    "views": 14121,
-    "forwards": 35
+    "link": "https://t.me/kpszsu/73352",
+    "score": 5.5,
+    "views": 38405,
+    "forwards": 103
+  },
+  {
+    "title": "Energy infrastructure hit",
+    "title_en": "Energy infrastructure hit",
+    "title_uk": "Поразка енергетичної інфраструктури",
+    "description": "Report on the state of our energy industry and top priorities in communication with partners. First Deputy Prime Minister Denys Shmyhal informed about the state of Ukraine's energy system and the daily work of Ukrainian energy workers to eliminate the consequences of Russian strikes. Thanks to all industry specialists for their truly professional and selfless work. The processes of restoring the electricity supply continue every day...",
+    "description_en": "Report on the state of our energy industry and top priorities in communication with partners. First Deputy Prime Minister Denys Shmyhal informed about the state of Ukraine's energy system and the daily work of Ukrainian energy workers to eliminate the consequences of Russian strikes. Thanks to all industry specialists for their truly professional and selfless work. The processes of restoring the electricity supply continue every day...",
+    "description_uk": "Доповідь щодо стану нашої енергетики та першочергових пріоритетів в комунікації з партнерами. Перший віцепремʼєр-міністр Денис Шмигаль поінформував про стан енергетичної системи України та щоденну роботу українських енергетиків для ліквідації наслідків російських ударів. Дякую всім спеціалістам галузі за справді фахову та самовіддану роботу. Щодня тривають процеси відновлення постачання електрики...",
+    "time": "",
+    "pubDate": "2026-08-18T15:02:17+00:00",
+    "category": "shelling",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20417",
+    "score": 9.0,
+    "views": 18708,
+    "forwards": 74
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -122,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54860",
     "score": 4.0,
-    "views": 1091,
+    "views": 1322,
     "forwards": 8
   },
   {
@@ -176,26 +212,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10028",
     "score": 16.5,
-    "views": 440,
-    "forwards": 13
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Дрон вхід",
-    "description": "Kyiv region: jet UAV ➡️ heading for Pereyaslav.",
-    "description_en": "Kyiv region: jet UAV ➡️ heading for Pereyaslav.",
-    "description_uk": "Київщина: реактивний БпЛА ➡️ курсом на Переяслав.",
-    "time": "",
-    "pubDate": "2026-08-18T12:01:36+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73316",
-    "score": 6.0,
-    "views": 2025,
-    "forwards": 1
+    "views": 465,
+    "forwards": 14
   },
   {
     "title": "Pynya sends his nedoebbels to rest: Russian mass media write that...",
@@ -212,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198744",
     "score": 6.5,
-    "views": 117088,
-    "forwards": 282
+    "views": 125724,
+    "forwards": 316
   },
   {
     "title": "Ballistic missile launch detected",
@@ -302,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54854",
     "score": 6.0,
-    "views": 1830,
+    "views": 1890,
     "forwards": 2
   },
   {
@@ -356,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20411",
     "score": 7.5,
-    "views": 213908,
-    "forwards": 1276
+    "views": 219530,
+    "forwards": 1288
   },
   {
     "title": "Kyiv: Eastern Europe's push to revive tourism amid Russia's war Europe's...",
@@ -430,23 +448,5 @@
     "score": 5.0,
     "views": 44485,
     "forwards": 0
-  },
-  {
-    "title": "Kyiv: Kyiv region - jet BpLA on Brovary.",
-    "title_en": "Kyiv: Kyiv region - jet BpLA on Brovary.",
-    "title_uk": "Київ: Київська область - реактивний BpLA на Броварах.",
-    "description": "Kyiv region - jet BpLA on Brovary.",
-    "description_en": "Kyiv region - jet BpLA on Brovary.",
-    "description_uk": "Київщина - реактивний БпЛА на Бровари.",
-    "time": "",
-    "pubDate": "2026-08-18T05:47:14+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73281",
-    "score": 6.0,
-    "views": 19187,
-    "forwards": 36
   }
 ]
