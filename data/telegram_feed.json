@@ -1,5 +1,41 @@
 [
   {
+    "title": "Jet UAV headed for Brovary",
+    "title_en": "Jet UAV headed for Brovary",
+    "title_uk": "Реактивний БПЛА взяв курс на Бровари",
+    "description": "Jet UAV headed for Brovary",
+    "description_en": "Jet UAV headed for Brovary",
+    "description_uk": "Реактивний БпЛА курсом на Бровари",
+    "time": "",
+    "pubDate": "2026-08-18T14:24:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Brovary",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73343",
+    "score": 5.0,
+    "views": 9092,
+    "forwards": 2
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "Харків : БпЛА в напрямку міста з півночі.",
+    "description_en": "Харків : БпЛА в напрямку міста з півночі.",
+    "description_uk": "Харків : БпЛА в напрямку міста з півночі.",
+    "time": "",
+    "pubDate": "2026-08-18T14:14:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73341",
+    "score": 6.0,
+    "views": 25250,
+    "forwards": 0
+  },
+  {
     "title": "Kherson: Kherson: UAV over the city.",
     "title_en": "Kherson: Kherson: UAV over the city.",
     "title_uk": "Херсон: Херсон: БПЛА над містом.",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54860",
     "score": 4.0,
-    "views": 549,
-    "forwards": 4
+    "views": 870,
+    "forwards": 7
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -104,7 +140,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10028",
     "score": 16.5,
-    "views": 361,
+    "views": 411,
     "forwards": 13
   },
   {
@@ -158,7 +194,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198744",
     "score": 6.5,
-    "views": 98683,
+    "views": 109442,
     "forwards": 281
   },
   {
@@ -194,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198741",
     "score": 9.5,
-    "views": 114828,
-    "forwards": 463
+    "views": 122364,
+    "forwards": 499
   },
   {
     "title": "Attack attack",
@@ -266,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54854",
     "score": 6.0,
-    "views": 1686,
+    "views": 1768,
     "forwards": 2
   },
   {
@@ -320,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20411",
     "score": 7.5,
-    "views": 205017,
-    "forwards": 1259
+    "views": 209438,
+    "forwards": 1271
   },
   {
     "title": "Kyiv: Eastern Europe's push to revive tourism amid Russia's war Europe's...",
@@ -412,41 +448,5 @@
     "score": 6.0,
     "views": 19187,
     "forwards": 36
-  },
-  {
-    "title": "600 drones",
-    "title_en": "600 drones",
-    "title_uk": "600 дронів",
-    "description": "More footage of what is happening in the Moscow region They write that in total, about 600 UAVs flew over the capital of the Russian Federation.",
-    "description_en": "More footage of what is happening in the Moscow region They write that in total, about 600 UAVs flew over the capital of the Russian Federation.",
-    "description_uk": "Еще кадры происходящего в Подмосковье Пишут, что всего по столице рф летело около 600 БПЛА.",
-    "time": "",
-    "pubDate": "2026-08-18T05:28:41+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198722",
-    "score": 9.5,
-    "views": 151605,
-    "forwards": 209
-  },
-  {
-    "title": "Kyiv: Kyiv region - a jet UAV on Velika Dymerka, Brovary.",
-    "title_en": "Kyiv: Kyiv region - a jet UAV on Velika Dymerka, Brovary.",
-    "title_uk": "Київ: Київська область - реактивний БПЛА на Великій Димерці, Бровари.",
-    "description": "Kyiv region - a jet UAV on Velika Dymerka, Brovary.",
-    "description_en": "Kyiv region - a jet UAV on Velika Dymerka, Brovary.",
-    "description_uk": "Київщина - реактивний БпЛА на Велику Димерку, Бровари.",
-    "time": "",
-    "pubDate": "2026-08-18T05:22:28+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73278",
-    "score": 6.0,
-    "views": 46467,
-    "forwards": 35
   }
 ]
