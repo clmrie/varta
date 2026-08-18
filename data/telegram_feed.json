@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAVs pass Desna ➡️ heading for Brovary.",
+    "description_en": "Jet UAVs pass Desna ➡️ heading for Brovary.",
+    "description_uk": "Реактивні БпЛА повз Десну ➡️ курсом на Бровари.",
+    "time": "",
+    "pubDate": "2026-08-18T11:13:26+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Brovary",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73313",
+    "score": 5.0,
+    "views": 13144,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "Kyiv region: jet UAV ➡️ heading for Rzhyshchiv.",
+    "description_en": "Kyiv region: jet UAV ➡️ heading for Rzhyshchiv.",
+    "description_uk": "Київщина: реактивний БпЛА ➡️ курсом на Ржищів.",
+    "time": "",
+    "pubDate": "2026-08-18T10:56:39+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73312",
+    "score": 6.0,
+    "views": 30309,
+    "forwards": 1
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -31,9 +67,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198741",
-    "score": 8.5,
-    "views": 29850,
-    "forwards": 184
+    "score": 9.5,
+    "views": 52291,
+    "forwards": 287
   },
   {
     "title": "Attack attack",
@@ -50,26 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198740",
     "score": 5.5,
-    "views": 38343,
-    "forwards": 71
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Poltava region: jet UAVs ➡️ heading for Novi Sanzhary, Bilyky.",
-    "description_en": "Poltava region: jet UAVs ➡️ heading for Novi Sanzhary, Bilyky.",
-    "description_uk": "Полтавщина: реактивні БпЛА ➡️ курсом на Нові Санжари, Білики.",
-    "time": "",
-    "pubDate": "2026-08-18T10:22:38+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73310",
-    "score": 5.0,
-    "views": 37323,
-    "forwards": 1
+    "views": 57628,
+    "forwards": 106
   },
   {
     "title": "Rocket ➡️ in the direction of Ochakov!",
@@ -122,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54854",
     "score": 6.0,
-    "views": 938,
+    "views": 1074,
     "forwards": 2
   },
   {
@@ -176,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20411",
     "score": 7.5,
-    "views": 164287,
-    "forwards": 1152
+    "views": 172152,
+    "forwards": 1172
   },
   {
     "title": "Kyiv: Eastern Europe's push to revive tourism amid Russia's war Europe's...",
@@ -194,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54852",
     "score": 5.0,
-    "views": 1370,
+    "views": 1465,
     "forwards": 4
   },
   {
@@ -339,24 +357,6 @@
     "link": "https://t.me/kpszsu/73272",
     "score": 5.0,
     "views": 62605,
-    "forwards": 1
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Дрон вхід",
-    "description": "A group of jet UAVs in Chernihiv Oblast - heading for Kyiv Oblast.",
-    "description_en": "A group of jet UAVs in Chernihiv Oblast - heading for Kyiv Oblast.",
-    "description_uk": "Група реактивних БпЛА на Ченрнігівщині - курсом на Київщину.",
-    "time": "",
-    "pubDate": "2026-08-18T03:57:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73270",
-    "score": 6.0,
-    "views": 41328,
     "forwards": 1
   },
   {
