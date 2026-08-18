@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Jet UAVs ➡️ heading for Brovary from the north.",
+    "description_en": "Jet UAVs ➡️ heading for Brovary from the north.",
+    "description_uk": "Реактивні БпЛА ➡️ курсом на Бровари з півночі.",
+    "time": "",
+    "pubDate": "2026-08-18T06:26:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Brovary",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73283",
+    "score": 5.0,
+    "views": 35377,
+    "forwards": 35
+  },
+  {
+    "title": "Power outage reported",
+    "title_en": "Power outage reported",
+    "title_uk": "Повідомлено про відключення електроенергії",
+    "description": "👀 Ukraine began to hit the power system of the Moscow region: more than 10 thousand consumers were left without power After the attack of Ukrainian drones, the equipment in the Pavlovo-Posad district was damaged, \"Mosoblenergo\" reported. More than 10,000 consumers and 46 socially significant objects remained without electricity, a special working regime was introduced in the district. According to the Agency, this is the first such case in...",
+    "description_en": "👀 Ukraine began to hit the power system of the Moscow region: more than 10 thousand consumers were left without power After the attack of Ukrainian drones, the equipment in the Pavlovo-Posad district was damaged, \"Mosoblenergo\" reported. More than 10,000 consumers and 46 socially significant objects remained without electricity, a special working regime was introduced in the district. According to the Agency, this is the first such case in...",
+    "description_uk": "👀 Украина начала бить по энергосистеме Подмосковья: без света остались более 10 тысяч потребителей После атаки украинских дронов повреждено оборудование в Павлово-Посадском городском округе, сообщили в \"Мособлэнерго\". Без электричества остались более 10 тысяч потребителей и 46 социально значимых объектов, в районе ввели особый режим работы. По данным \"Агентства\", это первый подобный случай в...",
+    "time": "",
+    "pubDate": "2026-08-18T06:21:13+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198725",
+    "score": 4.5,
+    "views": 48773,
+    "forwards": 380
+  },
+  {
+    "title": "Reactive UAVs pass by Slavutych ➡️ on the course of Desnu.",
+    "title_en": "Reactive UAVs pass by Slavutych ➡️ on the course of Desnu.",
+    "title_uk": "Реактивні БПЛА проходять повз Славутич ➡️ курсом Десну.",
+    "description": "Reactive UAVs pass by Slavutych ➡️ on the course of Desnu.",
+    "description_en": "Reactive UAVs pass by Slavutych ➡️ on the course of Desnu.",
+    "description_uk": "Реактивні БпЛА повз Славутич ➡️ курсом Десну.",
+    "time": "",
+    "pubDate": "2026-08-18T06:16:34+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73282",
+    "score": 5.0,
+    "views": 44485,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Kyiv region - jet BpLA on Brovary.",
     "title_en": "Kyiv: Kyiv region - jet BpLA on Brovary.",
     "title_uk": "Київ: Київська область - реактивний BpLA на Броварах.",
@@ -32,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198722",
     "score": 8.5,
-    "views": 39370,
-    "forwards": 71
+    "views": 86176,
+    "forwards": 139
   },
   {
     "title": "Kyiv: Kyiv region - a jet UAV on Velika Dymerka, Brovary.",
@@ -158,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54849",
     "score": 13.0,
-    "views": 1115,
+    "views": 1410,
     "forwards": 2
   },
   {
@@ -250,24 +304,6 @@
     "score": 6.0,
     "views": 9677,
     "forwards": 1
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV from Chernihiv region to the north of Kyiv region, in the direction of Kyiv - Air Force of Ukraine",
-    "description_en": "UAV from Chernihiv region to the north of Kyiv region, in the direction of Kyiv - Air Force of Ukraine",
-    "description_uk": "БПЛА из Черниговской области на север Киевской области, в направлении Киева, - Воздушные силы Украины",
-    "time": "",
-    "pubDate": "2026-08-17T23:21:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198713",
-    "score": 5.0,
-    "views": 117912,
-    "forwards": 10
   },
   {
     "title": "БПЛА из Черниговской области на север Киевской области, в направлении...",
@@ -411,42 +447,6 @@
     "link": "https://t.me/kpszsu/73235",
     "score": 6.0,
     "views": 19272,
-    "forwards": 0
-  },
-  {
-    "title": "The Ukrainian Armed Forces will receive a new Dovbush UAV, which can...",
-    "title_en": "The Ukrainian Armed Forces will receive a new Dovbush UAV, which can...",
-    "title_uk": "The Ukrainian Armed Forces will receive a new Dovbush UAV, which can...",
-    "description": "The Ukrainian Armed Forces will receive a new Dovbush UAV, which can reach Siberia. The Ministry of Defense has codified a Ukrainian drone with a range of more than 2,000 km. It can stay in the air for more than a day. This is enough for combat work on objects in the Urals and in the western part of Siberia. The drought is just beginning.",
-    "description_en": "The Ukrainian Armed Forces will receive a new Dovbush UAV, which can reach Siberia. The Ministry of Defense has codified a Ukrainian drone with a range of more than 2,000 km. It can stay in the air for more than a day. This is enough for combat work on objects in the Urals and in the western part of Siberia. The drought is just beginning.",
-    "description_uk": "ВСУ получат новый БПЛА \"Довбуш\", который может дотянуться до Сибири Минобороны кодифицировало украинский беспилотник с дальностью более 2000 км. В воздухе он может находиться больше суток. Этого достаточно для боевой работы по объектам на Урале и в западной части Сибири. Движуха только начинается.",
-    "time": "",
-    "pubDate": "2026-08-17T20:34:58+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198703",
-    "score": 5.5,
-    "views": 49328,
-    "forwards": 144
-  },
-  {
-    "title": "Sumy: BpLA on Sumy from the north.",
-    "title_en": "Sumy: BpLA on Sumy from the north.",
-    "title_uk": "Суми: БпЛА на Суми з півн.",
-    "description": "BpLA on Sumy from the north.",
-    "description_en": "BpLA on Sumy from the north.",
-    "description_uk": "БпЛА на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-08-17T20:23:19+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73234",
-    "score": 6.0,
-    "views": 16214,
     "forwards": 0
   }
 ]
