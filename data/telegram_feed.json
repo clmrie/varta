@@ -1,5 +1,23 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons from the east.",
+    "description_en": "☄️ The threat of using ballistic weapons from the east.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння зі сходу.",
+    "time": "",
+    "pubDate": "2026-08-18T04:47:39+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73274",
+    "score": 5.5,
+    "views": 43404,
+    "forwards": 69
+  },
+  {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
     "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the eastern...",
     "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на східному...",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73272",
     "score": 5.0,
-    "views": 14105,
+    "views": 62605,
     "forwards": 1
   },
   {
@@ -49,9 +67,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198717",
-    "score": 12.5,
-    "views": 38153,
-    "forwards": 176
+    "score": 13.5,
+    "views": 65782,
+    "forwards": 279
   },
   {
     "title": "Kyiv: Jet UAV to Kyiv past Brovary.",
@@ -86,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54849",
     "score": 13.0,
-    "views": 607,
+    "views": 799,
     "forwards": 1
   },
   {
@@ -194,7 +212,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198713",
     "score": 5.0,
-    "views": 99852,
+    "views": 117912,
     "forwards": 10
   },
   {
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/73229",
     "score": 5.0,
     "views": 16173,
-    "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "Jet UAVs in the direction of Odesa, Mykolaiv Oblast from the sea.",
-    "description_en": "Jet UAVs in the direction of Odesa, Mykolaiv Oblast from the sea.",
-    "description_uk": "Реактивні БпЛА в напрямку Одещини, Миколаївщини з моря.",
-    "time": "",
-    "pubDate": "2026-08-17T18:48:34+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73225",
-    "score": 6.0,
-    "views": 50570,
     "forwards": 0
   }
 ]
