@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "Ударний БпЛА на Очаків з Чорного моря",
+    "description_en": "Ударний БпЛА на Очаків з Чорного моря",
+    "description_uk": "Ударний БпЛА на Очаків з Чорного моря",
+    "time": "",
+    "pubDate": "2026-08-19T20:39:11+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73456",
+    "score": 5.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Польша месяцами блокирует поиск и эксгумацию украинских жертв Второй...",
+    "title_en": "Польша месяцами блокирует поиск и эксгумацию украинских жертв Второй...",
+    "title_uk": "Польща місяцями блокує пошук і ексгумацію українських жертв Другої...",
+    "description": "Польша месяцами блокирует поиск и эксгумацию украинских жертв Второй мировой войны на своей территории Посол Украины в Польше Василий Боднар заявил в интервью RMF24, что уже несколько месяцев Киев добивается от Варшавы «хотя бы одного разрешения» на поисковые работы на территории Польши. Речь идет, в частности, о поиске останков украинцев, погибших в 1944 году в Ласкуве. Задержку объясняют...",
+    "description_en": "Польша месяцами блокирует поиск и эксгумацию украинских жертв Второй мировой войны на своей территории Посол Украины в Польше Василий Боднар заявил в интервью RMF24, что уже несколько месяцев Киев добивается от Варшавы «хотя бы одного разрешения» на поисковые работы на территории Польши. Речь идет, в частности, о поиске останков украинцев, погибших в 1944 году в Ласкуве. Задержку объясняют...",
+    "description_uk": "Польша месяцами блокирует поиск и эксгумацию украинских жертв Второй мировой войны на своей территории Посол Украины в Польше Василий Боднар заявил в интервью RMF24, что уже несколько месяцев Киев добивается от Варшавы «хотя бы одного разрешения» на поисковые работы на территории Польши. Речь идет, в частности, о поиске останков украинцев, погибших в 1944 году в Ласкуве. Задержку объясняют...",
+    "time": "",
+    "pubDate": "2026-08-19T18:57:11+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198865",
+    "score": 5.5,
+    "views": 88067,
+    "forwards": 112
+  },
+  {
     "title": "For months, Poland has blocked the search and exhumation of Ukrainian...",
     "title_en": "For months, Poland has blocked the search and exhumation of Ukrainian...",
     "title_uk": "Польща місяцями блокувала пошуки та ексгумацію українських...",
@@ -18,24 +54,6 @@
     "forwards": 75
   },
   {
-    "title": "Польша месяцами блокирует поиск и эксгумацию украинских жертв Второй...",
-    "title_en": "Польша месяцами блокирует поиск и эксгумацию украинских жертв Второй...",
-    "title_uk": "Польща місяцями блокує пошук і ексгумацію українських жертв Другої...",
-    "description": "Польша месяцами блокирует поиск и эксгумацию украинских жертв Второй мировой войны на своей территории Посол Украины в Польше Василий Боднар заявил в интервью RMF24, что уже несколько месяцев Киев добивается от Варшавы «хотя бы одного разрешения» на поисковые работы на территории Польши. Речь идет, в частности, о поиске останков украинцев, погибших в 1944 году в Ласкуве. Задержку объясняют...",
-    "description_en": "Польша месяцами блокирует поиск и эксгумацию украинских жертв Второй мировой войны на своей территории Посол Украины в Польше Василий Боднар заявил в интервью RMF24, что уже несколько месяцев Киев добивается от Варшавы «хотя бы одного разрешения» на поисковые работы на территории Польши. Речь идет, в частности, о поиске останков украинцев, погибших в 1944 году в Ласкуве. Задержку объясняют...",
-    "description_uk": "Польша месяцами блокирует поиск и эксгумацию украинских жертв Второй мировой войны на своей территории Посол Украины в Польше Василий Боднар заявил в интервью RMF24, что уже несколько месяцев Киев добивается от Варшавы «хотя бы одного разрешения» на поисковые работы на территории Польши. Речь идет, в частности, о поиске останков украинцев, погибших в 1944 году в Ласкуве. Задержку объясняют...",
-    "time": "",
-    "pubDate": "2026-08-19T18:57:11+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198865",
-    "score": 5.0,
-    "views": 27709,
-    "forwards": 39
-  },
-  {
     "title": "Kyiv: Putin shouldn't decide when Ukraine votes — but political ambition...",
     "title_en": "Kyiv: Putin shouldn't decide when Ukraine votes — but political ambition...",
     "title_uk": "Київ: не Путін має вирішувати, коли голосуватиме Україна — а політичні амбіції...",
@@ -50,13 +68,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54892",
     "score": 6.0,
-    "views": 992,
+    "views": 1215,
     "forwards": 3
   },
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомлення про вибухи",
+    "title_uk": "Kyiv: Explosions reported",
     "description": "Suspected drone crashes on police station grounds in Turkey. An object believed to be a drone has exploded at a Turkish police station in Trabzon, damaging cars and buildings.",
     "description_en": "Suspected drone crashes on police station grounds in Turkey. An object believed to be a drone has exploded at a Turkish police station in Trabzon, damaging cars and buildings.",
     "description_uk": "Suspected drone crashes on police station grounds in Turkey. An object believed to be a drone has exploded at a Turkish police station in Trabzon, damaging cars and buildings.",
@@ -68,13 +86,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54891",
     "score": 5.0,
-    "views": 1216,
-    "forwards": 3
+    "views": 1398,
+    "forwards": 4
   },
   {
     "title": "Kharkiv: BpLA headed for Kremenchuk from the east. 🛵 BpLA heading to Kharkiv...",
     "title_en": "Kharkiv: BpLA headed for Kremenchuk from the east. 🛵 BpLA heading to Kharkiv...",
-    "title_uk": "Kharkiv: BpLA headed for Kremenchuk from the east. 🛵 BpLA heading to Kharkiv...",
+    "title_uk": "Харків: BpLA прямувала на Кременчук зі сходу. 🛵 BpLA прямує до Харкова...",
     "description": "BpLA headed for Kremenchuk from the east. 🛵 BpLA heading to Kharkiv from the north.",
     "description_en": "BpLA headed for Kremenchuk from the east. 🛵 BpLA heading to Kharkiv from the north.",
     "description_uk": "БпЛА курсом на Кременчук зі сходу. 🛵 БпЛА курсом на Харків з півночі.",
@@ -86,7 +104,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73444",
     "score": 6.0,
-    "views": 119523,
+    "views": 128698,
     "forwards": 12
   },
   {
@@ -178,24 +196,6 @@
     "score": 12.5,
     "views": 133143,
     "forwards": 140
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "Ukraine began to attack the Russian space industry due to the development of a Starlink analogue, - NZZ It is about the \"Rassvet\" project, which is developed by the private \"Bureau 1440\". The system should provide satellite Internet, and one of the key areas of its application may be military tasks, including drone control. Now there are only 30-40 Russian satellites in orbit against more than 10 thousand in...",
-    "description_en": "Ukraine began to attack the Russian space industry due to the development of a Starlink analogue, - NZZ It is about the \"Rassvet\" project, which is developed by the private \"Bureau 1440\". The system should provide satellite Internet, and one of the key areas of its application may be military tasks, including drone control. Now there are only 30-40 Russian satellites in orbit against more than 10 thousand in...",
-    "description_uk": "Украина начала бить по российской космической отрасли из-за разработки аналога Starlink, - NZZ Речь о проекте \"Рассвет\", который развивает частное \"Бюро 1440\". Система должна обеспечить спутниковый интернет, а одним из ключевых направлений ее применения могут стать военные задачи, включая управление дронами. Сейчас на орбите находятся лишь 30-40 российских спутников против более 10 тысяч у...",
-    "time": "",
-    "pubDate": "2026-08-19T15:30:14+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198849",
-    "score": 12.5,
-    "views": 128837,
-    "forwards": 139
   },
   {
     "title": "Mykolaiv: Drone incoming",
