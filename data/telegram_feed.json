@@ -3,19 +3,19 @@
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
-    "description": "UAV from the Black Sea in the direction of Pivdenne",
-    "description_en": "UAV from the Black Sea in the direction of Pivdenne",
-    "description_uk": "БпЛА з акваторії Чорного моря в напрямку н.п.Південне",
+    "description": "UAV from the Black Sea in the direction of Chornomorsk/Limanka",
+    "description_en": "UAV from the Black Sea in the direction of Chornomorsk/Limanka",
+    "description_uk": "БпЛА з акваторії Чорного моря в напрямку Чорноморська/Лиманки",
     "time": "",
-    "pubDate": "2026-08-19T02:16:14+00:00",
+    "pubDate": "2026-08-19T03:11:35+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Ukraine",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73392",
+    "link": "https://t.me/kpszsu/73396",
     "score": 5.0,
-    "views": 10275,
-    "forwards": 11
+    "views": 11116,
+    "forwards": 1
   },
   {
     "title": "Zaporizhzhia: Zaporozhye: BpLA from the south in the direction of the city",
@@ -110,7 +110,7 @@
   {
     "title": "Attack attack",
     "title_en": "Attack attack",
-    "title_uk": "Attack attack",
+    "title_uk": "Атака нападу",
     "description": "the Russians switched to \"area\" terror with \"Zirkons\" against the background of problems with satellite reconnaissance, - expert According to Defense Express expert Ivan Kyrychevsky, after Ukraine's attacks on Russian space communication centers, the Russian Federation could lose part of its ability to receive accurate satellite data. This, the expert suggests, could affect the choice of targets. Due to problems with intelligence, the dreams became...",
     "description_en": "the Russians switched to \"area\" terror with \"Zirkons\" against the background of problems with satellite reconnaissance, - expert According to Defense Express expert Ivan Kyrychevsky, after Ukraine's attacks on Russian space communication centers, the Russian Federation could lose part of its ability to receive accurate satellite data. This, the expert suggests, could affect the choice of targets. Due to problems with intelligence, the dreams became...",
     "description_uk": "россияне перешли к «площадному» террору «Цирконами» на фоне проблем со спутниковой разведкой, — эксперт По словам эксперта Defense Express Ивана Киричевского, после ударов Украины по российским центрам космической связи рф могла потерять часть возможностей получать точные спутниковые данные. Это, предполагает эксперт, могло повлиять на выбор целей. Из-за проблем с разведданными мраZям стало...",
@@ -122,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198785",
     "score": 3.5,
-    "views": 113039,
-    "forwards": 155
+    "views": 125175,
+    "forwards": 156
   },
   {
     "title": "Ballistic missile launch detected",
@@ -176,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54863",
     "score": 12.5,
-    "views": 2379,
+    "views": 2431,
     "forwards": 5
   },
   {
@@ -194,8 +194,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23754",
     "score": 8.5,
-    "views": 110633,
-    "forwards": 196
+    "views": 113767,
+    "forwards": 197
   },
   {
     "title": "Kyiv: Drone incoming",
@@ -356,26 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20417",
     "score": 9.0,
-    "views": 55841,
-    "forwards": 124
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "Chernihiv region: groups of jet UAVs ➡️ in the direction of Slavutych.",
-    "description_en": "Chernihiv region: groups of jet UAVs ➡️ in the direction of Slavutych.",
-    "description_uk": "Чернігівщина: групи реактивних БпЛА ➡️ у напрямку Славутича.",
-    "time": "",
-    "pubDate": "2026-08-18T14:50:25+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73348",
-    "score": 6.0,
-    "views": 22219,
-    "forwards": 1
+    "views": 56608,
+    "forwards": 125
   },
   {
     "title": "Kyiv: PepsiCo said it would leave Russia. Last year, it paid $237 million...",
@@ -392,7 +374,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54860",
     "score": 4.0,
-    "views": 2897,
+    "views": 2922,
     "forwards": 13
   },
   {
@@ -410,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10028",
     "score": 16.5,
-    "views": 605,
+    "views": 606,
     "forwards": 15
   },
   {
@@ -446,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20411",
     "score": 7.5,
-    "views": 249112,
+    "views": 250080,
     "forwards": 1354
   }
 ]
