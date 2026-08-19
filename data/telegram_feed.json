@@ -2,7 +2,7 @@
   {
     "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
     "title_en": "Kharkiv: BpLA headed for Kharkiv from the north.",
-    "title_uk": "Харків: BpLA прямувала на Харків з півночі.",
+    "title_uk": "Kharkiv: BpLA headed for Kharkiv from the north.",
     "description": "BpLA headed for Kharkiv from the north.",
     "description_en": "BpLA headed for Kharkiv from the north.",
     "description_uk": "БпЛА курсом на Харків з півночі.",
@@ -14,7 +14,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73443",
     "score": 6.0,
-    "views": 19159,
+    "views": 34361,
     "forwards": 0
   },
   {
@@ -32,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73442",
     "score": 5.0,
-    "views": 29294,
+    "views": 43428,
     "forwards": 0
   },
   {
@@ -56,7 +56,7 @@
   {
     "title": "Zhytomyr: Casualties reported",
     "title_en": "Zhytomyr: Casualties reported",
-    "title_uk": "Житомир: повідомляється про постраждалих",
+    "title_uk": "Zhytomyr: Casualties reported",
     "description": "Russian drone strike on police headquarters in Zhytomyr kills 2, injures at least 20. The strike comes just over a week after Russia attacked Zhytomyr and the surrounding region with jet-powered drones overnight on Aug. 9.",
     "description_en": "Russian drone strike on police headquarters in Zhytomyr kills 2, injures at least 20. The strike comes just over a week after Russia attacked Zhytomyr and the surrounding region with jet-powered drones overnight on Aug. 9.",
     "description_uk": "Russian drone strike on police headquarters in Zhytomyr kills 2, injures at least 20. The strike comes just over a week after Russia attacked Zhytomyr and the surrounding region with jet-powered drones overnight on Aug. 9.",
@@ -68,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54887",
     "score": 12.5,
-    "views": 683,
+    "views": 875,
     "forwards": 0
   },
   {
@@ -86,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198849",
     "score": 12.5,
-    "views": 68761,
-    "forwards": 104
+    "views": 80549,
+    "forwards": 105
   },
   {
     "title": "Украина начала бить по российской космической отрасли из-за...",
@@ -128,7 +128,7 @@
   {
     "title": "Kyiv: Casualties reported",
     "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
+    "title_uk": "Kyiv: Casualties reported",
     "description": "The election that killed democracy in Russia In this interview, the Kyiv Independent's Jason Blevins speaks with Michael McFaul, former U.S. ambassador to Russia and a scholar who closely observed Russia's transition after the collapse of the Soviet Union. McFaul revisits the 1996 presidential election, explains how Boris Yeltsin defeated the communists, and reflects on the moment he realized...",
     "description_en": "The election that killed democracy in Russia In this interview, the Kyiv Independent's Jason Blevins speaks with Michael McFaul, former U.S. ambassador to Russia and a scholar who closely observed Russia's transition after the collapse of the Soviet Union. McFaul revisits the 1996 presidential election, explains how Boris Yeltsin defeated the communists, and reflects on the moment he realized...",
     "description_uk": "The election that killed democracy in Russia In this interview, the Kyiv Independent's Jason Blevins speaks with Michael McFaul, former U.S. ambassador to Russia and a scholar who closely observed Russia's transition after the collapse of the Soviet Union. McFaul revisits the 1996 presidential election, explains how Boris Yeltsin defeated the communists, and reflects on the moment he realized...",
@@ -140,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54886",
     "score": 11.0,
-    "views": 967,
+    "views": 1096,
     "forwards": 5
   },
   {
@@ -178,6 +178,24 @@
     "score": 6.0,
     "views": 54635,
     "forwards": 0
+  },
+  {
+    "title": "Drone strike",
+    "title_en": "Drone strike",
+    "title_uk": "Безпілотний удар",
+    "description": "У россиян минус три склада с БпЛА: Генштаб сообщает о серии ударов по оккупантам Украинские военные ударили по складам дронов в Новопетриковке и Новотроицком Донецкой области, а также в Лобачевом Луганской области. Кроме того, поражены наземный ретранслятор управления «Геранями» и «Герберами» в Крыму, пункт управления БпЛА, склад материально-технических средств и район сосредоточения техники...",
+    "description_en": "У россиян минус три склада с БпЛА: Генштаб сообщает о серии ударов по оккупантам Украинские военные ударили по складам дронов в Новопетриковке и Новотроицком Донецкой области, а также в Лобачевом Луганской области. Кроме того, поражены наземный ретранслятор управления «Геранями» и «Герберами» в Крыму, пункт управления БпЛА, склад материально-технических средств и район сосредоточения техники...",
+    "description_uk": "У россиян минус три склада с БпЛА: Генштаб сообщает о серии ударов по оккупантам Украинские военные ударили по складам дронов в Новопетриковке и Новотроицком Донецкой области, а также в Лобачевом Луганской области. Кроме того, поражены наземный ретранслятор управления «Геранями» и «Герберами» в Крыму, пункт управления БпЛА, склад материально-технических средств и район сосредоточения техники...",
+    "time": "",
+    "pubDate": "2026-08-19T13:57:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198839",
+    "score": 5.5,
+    "views": 108594,
+    "forwards": 141
   },
   {
     "title": "Airstrike attack",
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 89810,
     "forwards": 0
-  },
-  {
-    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
-    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
-    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-08-19T05:31:07+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73405",
-    "score": 5.0,
-    "views": 63766,
-    "forwards": 1
   }
 ]
