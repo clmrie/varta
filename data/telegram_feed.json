@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sumy: BpLA on Sumy from the north.",
+    "title_en": "Sumy: BpLA on Sumy from the north.",
+    "title_uk": "Суми: БпЛА на Суми з півн.",
+    "description": "BpLA on Sumy from the north.",
+    "description_en": "BpLA on Sumy from the north.",
+    "description_uk": "БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-08-19T14:25:35+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73436",
+    "score": 6.0,
+    "views": 4,
+    "forwards": 0
+  },
+  {
+    "title": "Airstrike attack",
+    "title_en": "Airstrike attack",
+    "title_uk": "Авіаційна атака",
+    "description": "The Russians have minus three warehouses with unmanned aerial vehicles: the General Staff reports a series of strikes against the occupiers. In addition, the ground repeater of the control of \"Geraniums\" and \"Gerbers\" in Crimea, the command post of the Air Force, the warehouse of material and technical means and the area of ​​​​the concentration of equipment were hit...",
+    "description_en": "The Russians have minus three warehouses with unmanned aerial vehicles: the General Staff reports a series of strikes against the occupiers. In addition, the ground repeater of the control of \"Geraniums\" and \"Gerbers\" in Crimea, the command post of the Air Force, the warehouse of material and technical means and the area of ​​​​the concentration of equipment were hit...",
+    "description_uk": "У россиян минус три склада с БпЛА: Генштаб сообщает о серии ударов по оккупантам Украинские военные ударили по складам дронов в Новопетриковке и Новотроицком Донецкой области, а также в Лобачевом Луганской области. Кроме того, поражены наземный ретранслятор управления «Геранями» и «Герберами» в Крыму, пункт управления БпЛА, склад материально-технических средств и район сосредоточения техники...",
+    "time": "",
+    "pubDate": "2026-08-19T13:57:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Crimea",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198839",
+    "score": 5.5,
+    "views": 36332,
+    "forwards": 70
+  },
+  {
     "title": "Kyiv: Another major corruption probe hits Zelensky's office, as...",
     "title_en": "Kyiv: Another major corruption probe hits Zelensky's office, as...",
     "title_uk": "Київ: чергове велике корупційне розслідування потрапило в офіс Зеленського, як...",
@@ -14,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54882",
     "score": 5.0,
-    "views": 139,
-    "forwards": 1
+    "views": 667,
+    "forwards": 3
   },
   {
     "title": "Drone incoming",
@@ -32,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73433",
     "score": 5.0,
-    "views": 21176,
+    "views": 48464,
     "forwards": 0
   },
   {
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54881",
     "score": 11.0,
-    "views": 536,
-    "forwards": 2
+    "views": 853,
+    "forwards": 4
   },
   {
     "title": "Kyiv: Update: New corruption probe involves Zelensky ally Mindich,...",
@@ -144,6 +180,24 @@
     "forwards": 0
   },
   {
+    "title": "💻🪖 IT and military service are of most interest to Ukrainian...",
+    "title_en": "💻🪖 IT and military service are of most interest to Ukrainian...",
+    "title_uk": "💻🪖 ІТ та військова служба найбільше цікавлять українців...",
+    "description": "💻🪖 IT and military service are of most interest to Ukrainian teenagers 🚸 psychologist Larisa Ren told about this during career guidance training at the \"Blogger Camp\" of the Rinat Akhmetov Foundation. According to her observations, teenagers are most interested in information technologies, cyber security, foreign languages ​​and professions related to service in the Armed Forces. During the training, the children identified their strengths...",
+    "description_en": "💻🪖 IT and military service are of most interest to Ukrainian teenagers 🚸 psychologist Larisa Ren told about this during career guidance training at the \"Blogger Camp\" of the Rinat Akhmetov Foundation. According to her observations, teenagers are most interested in information technologies, cyber security, foreign languages ​​and professions related to service in the Armed Forces. During the training, the children identified their strengths...",
+    "description_uk": "💻🪖 ІТ і військова служба найбільше цікавлять українських підлітків 🚸 Про це розповіла психологиня Лариса Рень під час профорієнтаційного тренінгу у «Блогер Кемпі» Фонду Ріната Ахметова. За її спостереженнями, підлітки найбільше цікавляться інформаційними технологіями, кібербезпекою, іноземними мовами та професіями, пов’язаними зі службою у ЗСУ. Під час тренінгу діти визначали свої сильні сторони...",
+    "time": "",
+    "pubDate": "2026-08-19T10:27:06+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198821",
+    "score": 8.0,
+    "views": 108831,
+    "forwards": 38
+  },
+  {
     "title": "💻🪖 ІТ і військова служба найбільше цікавлять українських підлітків 🚸...",
     "title_en": "💻🪖 ІТ і військова служба найбільше цікавлять українських підлітків 🚸...",
     "title_uk": "💻🪖 ІТ і військова служба найбільше цікавлять українських підлітків 🚸...",
@@ -159,24 +213,6 @@
     "link": "https://t.me/uniannet/198821",
     "score": 8.0,
     "views": 102308,
-    "forwards": 38
-  },
-  {
-    "title": "💻🪖 IT and military service are of most interest to Ukrainian...",
-    "title_en": "💻🪖 IT and military service are of most interest to Ukrainian...",
-    "title_uk": "💻🪖 ІТ та військова служба найбільше цікавлять українців...",
-    "description": "💻🪖 IT and military service are of most interest to Ukrainian teenagers 🚸 psychologist Larisa Ren told about this during career guidance training at the \"Blogger Camp\" of the Rinat Akhmetov Foundation. According to her observations, teenagers are most interested in information technologies, cyber security, foreign languages ​​and professions related to service in the Armed Forces. During the training, the children identified their strengths...",
-    "description_en": "💻🪖 IT and military service are of most interest to Ukrainian teenagers 🚸 psychologist Larisa Ren told about this during career guidance training at the \"Blogger Camp\" of the Rinat Akhmetov Foundation. According to her observations, teenagers are most interested in information technologies, cyber security, foreign languages ​​and professions related to service in the Armed Forces. During the training, the children identified their strengths...",
-    "description_uk": "💻🪖 ІТ і військова служба найбільше цікавлять українських підлітків 🚸 Про це розповіла психологиня Лариса Рень під час профорієнтаційного тренінгу у «Блогер Кемпі» Фонду Ріната Ахметова. За її спостереженнями, підлітки найбільше цікавляться інформаційними технологіями, кібербезпекою, іноземними мовами та професіями, пов’язаними зі службою у ЗСУ. Під час тренінгу діти визначали свої сильні сторони...",
-    "time": "",
-    "pubDate": "2026-08-19T10:27:06+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198821",
-    "score": 8.0,
-    "views": 90404,
     "forwards": 38
   },
   {
@@ -326,9 +362,9 @@
   {
     "title": "Drone strike",
     "title_en": "Drone strike",
-    "title_uk": "Drone strike",
-    "description": "🇬🇧 москва погрожує Великій Британії «наслідками» через постачання дронів Україні 🖥 Про це повідомляє Reuters. Посольство рф у Лондоні звинуватило Британію у «поглибленні участі» у війні після повідомлення The Times, що британські дрони могли вперше застосувати для далекобійних ударів по території рф. Міноборони Великої Британії не підтвердило використання саме британських БПЛА. 📌 У квітні Лондон...",
-    "description_en": "🇬🇧 москва погрожує Великій Британії «наслідками» через постачання дронів Україні 🖥 Про це повідомляє Reuters. Посольство рф у Лондоні звинуватило Британію у «поглибленні участі» у війні після повідомлення The Times, що британські дрони могли вперше застосувати для далекобійних ударів по території рф. Міноборони Великої Британії не підтвердило використання саме британських БПЛА. 📌 У квітні Лондон...",
+    "title_uk": "Безпілотний удар",
+    "description": "🇬🇧 Moscow threatens Great Britain with \"consequences\" due to the supply of drones to Ukraine 🖥 This is reported by Reuters. The Russian Embassy in London accused Britain of \"deepening involvement\" in the war after The Times reported that British drones could be used for the first time for long-range strikes on the territory of the Russian Federation. The British Ministry of Defense has not confirmed the use of British UAVs. 📌 In April, London...",
+    "description_en": "🇬🇧 Moscow threatens Great Britain with \"consequences\" due to the supply of drones to Ukraine 🖥 This is reported by Reuters. The Russian Embassy in London accused Britain of \"deepening involvement\" in the war after The Times reported that British drones could be used for the first time for long-range strikes on the territory of the Russian Federation. The British Ministry of Defense has not confirmed the use of British UAVs. 📌 In April, London...",
     "description_uk": "🇬🇧 москва погрожує Великій Британії «наслідками» через постачання дронів Україні 🖥 Про це повідомляє Reuters. Посольство рф у Лондоні звинуватило Британію у «поглибленні участі» у війні після повідомлення The Times, що британські дрони могли вперше застосувати для далекобійних ударів по території рф. Міноборони Великої Британії не підтвердило використання саме британських БПЛА. 📌 У квітні Лондон...",
     "time": "",
     "pubDate": "2026-08-18T18:03:23+00:00",
@@ -338,7 +374,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23754",
     "score": 9.5,
-    "views": 145575,
+    "views": 146295,
     "forwards": 217
   },
   {
