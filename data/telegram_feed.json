@@ -1,10 +1,28 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons from the north.",
+    "description_en": "☄️ The threat of using ballistic weapons from the north.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння з півночі.",
+    "time": "",
+    "pubDate": "2026-08-19T20:54:12+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73458",
+    "score": 5.0,
+    "views": 69734,
+    "forwards": 1
+  },
+  {
     "title": "Drone attack",
     "title_en": "Drone attack",
     "title_uk": "Атака безпілотників",
-    "description": "Ударний БпЛА на Очаків з Чорного моря",
-    "description_en": "Ударний БпЛА на Очаків з Чорного моря",
+    "description": "Strike UAV on Ochakiv from the Black Sea",
+    "description_en": "Strike UAV on Ochakiv from the Black Sea",
     "description_uk": "Ударний БпЛА на Очаків з Чорного моря",
     "time": "",
     "pubDate": "2026-08-19T20:39:11+00:00",
@@ -14,8 +32,26 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73456",
     "score": 5.0,
-    "views": 1,
+    "views": 79992,
     "forwards": 0
+  },
+  {
+    "title": "For months, Poland has blocked the search and exhumation of Ukrainian...",
+    "title_en": "For months, Poland has blocked the search and exhumation of Ukrainian...",
+    "title_uk": "Польща місяцями блокувала пошуки та ексгумацію українських...",
+    "description": "For months, Poland has blocked the search and exhumation of Ukrainian victims of the Second World War on its territory. Ukrainian Ambassador to Poland Vasyl Bodnar said in an interview with RMF24 that for several months Kyiv has been seeking \"at least one permission\" from Warsaw for search operations on the territory of Poland. It is, in particular, about the search for the remains of Ukrainians who died in 1944 in Laskuve. The delay is explained...",
+    "description_en": "For months, Poland has blocked the search and exhumation of Ukrainian victims of the Second World War on its territory. Ukrainian Ambassador to Poland Vasyl Bodnar said in an interview with RMF24 that for several months Kyiv has been seeking \"at least one permission\" from Warsaw for search operations on the territory of Poland. It is, in particular, about the search for the remains of Ukrainians who died in 1944 in Laskuve. The delay is explained...",
+    "description_uk": "Польша месяцами блокирует поиск и эксгумацию украинских жертв Второй мировой войны на своей территории Посол Украины в Польше Василий Боднар заявил в интервью RMF24, что уже несколько месяцев Киев добивается от Варшавы «хотя бы одного разрешения» на поисковые работы на территории Польши. Речь идет, в частности, о поиске останков украинцев, погибших в 1944 году в Ласкуве. Задержку объясняют...",
+    "time": "",
+    "pubDate": "2026-08-19T18:57:11+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198865",
+    "score": 5.5,
+    "views": 95651,
+    "forwards": 113
   },
   {
     "title": "Польша месяцами блокирует поиск и эксгумацию украинских жертв Второй...",
@@ -36,24 +72,6 @@
     "forwards": 112
   },
   {
-    "title": "For months, Poland has blocked the search and exhumation of Ukrainian...",
-    "title_en": "For months, Poland has blocked the search and exhumation of Ukrainian...",
-    "title_uk": "Польща місяцями блокувала пошуки та ексгумацію українських...",
-    "description": "For months, Poland has blocked the search and exhumation of Ukrainian victims of the Second World War on its territory. Ukrainian Ambassador to Poland Vasyl Bodnar said in an interview with RMF24 that for several months Kyiv has been seeking \"at least one permission\" from Warsaw for search operations on the territory of Poland. It is, in particular, about the search for the remains of Ukrainians who died in 1944 in Laskuve. The delay is explained...",
-    "description_en": "For months, Poland has blocked the search and exhumation of Ukrainian victims of the Second World War on its territory. Ukrainian Ambassador to Poland Vasyl Bodnar said in an interview with RMF24 that for several months Kyiv has been seeking \"at least one permission\" from Warsaw for search operations on the territory of Poland. It is, in particular, about the search for the remains of Ukrainians who died in 1944 in Laskuve. The delay is explained...",
-    "description_uk": "Польша месяцами блокирует поиск и эксгумацию украинских жертв Второй мировой войны на своей территории Посол Украины в Польше Василий Боднар заявил в интервью RMF24, что уже несколько месяцев Киев добивается от Варшавы «хотя бы одного разрешения» на поисковые работы на территории Польши. Речь идет, в частности, о поиске останков украинцев, погибших в 1944 году в Ласкуве. Задержку объясняют...",
-    "time": "",
-    "pubDate": "2026-08-19T18:57:11+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198865",
-    "score": 5.5,
-    "views": 69624,
-    "forwards": 75
-  },
-  {
     "title": "Kyiv: Putin shouldn't decide when Ukraine votes — but political ambition...",
     "title_en": "Kyiv: Putin shouldn't decide when Ukraine votes — but political ambition...",
     "title_uk": "Київ: не Путін має вирішувати, коли голосуватиме Україна — а політичні амбіції...",
@@ -68,13 +86,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54892",
     "score": 6.0,
-    "views": 1215,
+    "views": 1305,
     "forwards": 3
   },
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Kyiv: Explosions reported",
+    "title_uk": "Київ: повідомлення про вибухи",
     "description": "Suspected drone crashes on police station grounds in Turkey. An object believed to be a drone has exploded at a Turkish police station in Trabzon, damaging cars and buildings.",
     "description_en": "Suspected drone crashes on police station grounds in Turkey. An object believed to be a drone has exploded at a Turkish police station in Trabzon, damaging cars and buildings.",
     "description_uk": "Suspected drone crashes on police station grounds in Turkey. An object believed to be a drone has exploded at a Turkish police station in Trabzon, damaging cars and buildings.",
@@ -86,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54891",
     "score": 5.0,
-    "views": 1398,
+    "views": 1474,
     "forwards": 4
   },
   {
@@ -429,24 +447,6 @@
     "link": "https://t.me/uniannet/198821",
     "score": 8.0,
     "views": 108831,
-    "forwards": 38
-  },
-  {
-    "title": "💻🪖 ІТ і військова служба найбільше цікавлять українських підлітків 🚸...",
-    "title_en": "💻🪖 ІТ і військова служба найбільше цікавлять українських підлітків 🚸...",
-    "title_uk": "💻🪖 ІТ і військова служба найбільше цікавлять українських підлітків 🚸...",
-    "description": "💻🪖 ІТ і військова служба найбільше цікавлять українських підлітків 🚸 Про це розповіла психологиня Лариса Рень під час профорієнтаційного тренінгу у «Блогер Кемпі» Фонду Ріната Ахметова. За її спостереженнями, підлітки найбільше цікавляться інформаційними технологіями, кібербезпекою, іноземними мовами та професіями, пов’язаними зі службою у ЗСУ. Під час тренінгу діти визначали свої сильні сторони...",
-    "description_en": "💻🪖 ІТ і військова служба найбільше цікавлять українських підлітків 🚸 Про це розповіла психологиня Лариса Рень під час профорієнтаційного тренінгу у «Блогер Кемпі» Фонду Ріната Ахметова. За її спостереженнями, підлітки найбільше цікавляться інформаційними технологіями, кібербезпекою, іноземними мовами та професіями, пов’язаними зі службою у ЗСУ. Під час тренінгу діти визначали свої сильні сторони...",
-    "description_uk": "💻🪖 ІТ і військова служба найбільше цікавлять українських підлітків 🚸 Про це розповіла психологиня Лариса Рень під час профорієнтаційного тренінгу у «Блогер Кемпі» Фонду Ріната Ахметова. За її спостереженнями, підлітки найбільше цікавляться інформаційними технологіями, кібербезпекою, іноземними мовами та професіями, пов’язаними зі службою у ЗСУ. Під час тренінгу діти визначали свої сильні сторони...",
-    "time": "",
-    "pubDate": "2026-08-19T10:27:06+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198821",
-    "score": 8.0,
-    "views": 102308,
     "forwards": 38
   }
 ]
