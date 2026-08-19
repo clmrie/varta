@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kyiv: Explosions reported",
+    "title_en": "Kyiv: Explosions reported",
+    "title_uk": "Київ: повідомлення про вибухи",
+    "description": "Suspected drone crashes on police station grounds in Turkey. An object believed to be a drone has exploded at a Turkish police station in Trabzon, damaging cars and buildings.",
+    "description_en": "Suspected drone crashes on police station grounds in Turkey. An object believed to be a drone has exploded at a Turkish police station in Trabzon, damaging cars and buildings.",
+    "description_uk": "Suspected drone crashes on police station grounds in Turkey. An object believed to be a drone has exploded at a Turkish police station in Trabzon, damaging cars and buildings.",
+    "time": "",
+    "pubDate": "2026-08-19T17:54:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54891",
+    "score": 5.0,
+    "views": 172,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: BpLA headed for Kremenchuk from the east. 🛵 BpLA heading to Kharkiv...",
     "title_en": "Kharkiv: BpLA headed for Kremenchuk from the east. 🛵 BpLA heading to Kharkiv...",
     "title_uk": "Харків: BpLA прямувала на Кременчук зі сходу. 🛵 BpLA прямує до Харкова...",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73444",
     "score": 6.0,
-    "views": 26401,
-    "forwards": 11
+    "views": 41580,
+    "forwards": 12
   },
   {
     "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
@@ -32,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73443",
     "score": 6.0,
-    "views": 57921,
-    "forwards": 0
+    "views": 68029,
+    "forwards": 1
   },
   {
     "title": "Drone incoming",
@@ -86,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54887",
     "score": 12.5,
-    "views": 1026,
+    "views": 1116,
     "forwards": 0
   },
   {
@@ -104,7 +122,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198849",
     "score": 12.5,
-    "views": 93416,
+    "views": 99904,
     "forwards": 105
   },
   {
@@ -430,23 +448,5 @@
     "score": 4.5,
     "views": 93939,
     "forwards": 145
-  },
-  {
-    "title": "Sumy: BpLA in the direction of the city of Sumy from the north.",
-    "title_en": "Sumy: BpLA in the direction of the city of Sumy from the north.",
-    "title_uk": "Суми: БпЛА в напрямку м. Суми з пн.",
-    "description": "BpLA in the direction of the city of Sumy from the north.",
-    "description_en": "BpLA in the direction of the city of Sumy from the north.",
-    "description_uk": "БпЛА в напрямку м.Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-08-19T05:53:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73408",
-    "score": 6.0,
-    "views": 89810,
-    "forwards": 0
   }
 ]
