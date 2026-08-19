@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: BpLA headed for Kharkiv from the north.",
+    "title_en": "Kharkiv: BpLA headed for Kharkiv from the north.",
+    "title_uk": "Харків: BpLA прямувала на Харків з півночі.",
+    "description": "BpLA headed for Kharkiv from the north.",
+    "description_en": "BpLA headed for Kharkiv from the north.",
+    "description_uk": "БпЛА курсом на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-08-19T16:37:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73443",
+    "score": 6.0,
+    "views": 19159,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea, heading for Odesa.",
+    "description_en": "UAV from the Black Sea, heading for Odesa.",
+    "description_uk": "БпЛА з акваторії Чорного моря, курсом на Одещину.",
+    "time": "",
+    "pubDate": "2026-08-19T16:31:19+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73442",
+    "score": 5.0,
+    "views": 29294,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Харків: Дрон вхід",
@@ -32,8 +68,26 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54887",
     "score": 12.5,
-    "views": 413,
+    "views": 683,
     "forwards": 0
+  },
+  {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "Ukraine began to attack the Russian space industry due to the development of a Starlink analogue, - NZZ It is about the \"Rassvet\" project, which is developed by the private \"Bureau 1440\". The system should provide satellite Internet, and one of the key areas of its application may be military tasks, including drone control. Now there are only 30-40 Russian satellites in orbit against more than 10 thousand in...",
+    "description_en": "Ukraine began to attack the Russian space industry due to the development of a Starlink analogue, - NZZ It is about the \"Rassvet\" project, which is developed by the private \"Bureau 1440\". The system should provide satellite Internet, and one of the key areas of its application may be military tasks, including drone control. Now there are only 30-40 Russian satellites in orbit against more than 10 thousand in...",
+    "description_uk": "Украина начала бить по российской космической отрасли из-за разработки аналога Starlink, - NZZ Речь о проекте \"Рассвет\", который развивает частное \"Бюро 1440\". Система должна обеспечить спутниковый интернет, а одним из ключевых направлений ее применения могут стать военные задачи, включая управление дронами. Сейчас на орбите находятся лишь 30-40 российских спутников против более 10 тысяч у...",
+    "time": "",
+    "pubDate": "2026-08-19T15:30:14+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198849",
+    "score": 12.5,
+    "views": 68761,
+    "forwards": 104
   },
   {
     "title": "Украина начала бить по российской космической отрасли из-за...",
@@ -52,24 +106,6 @@
     "score": 12.5,
     "views": 44050,
     "forwards": 70
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "Ukraine began to attack the Russian space industry due to the development of a Starlink analogue, - NZZ It is about the \"Rassvet\" project, which is developed by the private \"Bureau 1440\". The system should provide satellite Internet, and one of the key areas of its application may be military tasks, including drone control. Now there are only 30-40 Russian satellites in orbit against more than 10 thousand in...",
-    "description_en": "Ukraine began to attack the Russian space industry due to the development of a Starlink analogue, - NZZ It is about the \"Rassvet\" project, which is developed by the private \"Bureau 1440\". The system should provide satellite Internet, and one of the key areas of its application may be military tasks, including drone control. Now there are only 30-40 Russian satellites in orbit against more than 10 thousand in...",
-    "description_uk": "Украина начала бить по российской космической отрасли из-за разработки аналога Starlink, - NZZ Речь о проекте \"Рассвет\", который развивает частное \"Бюро 1440\". Система должна обеспечить спутниковый интернет, а одним из ключевых направлений ее применения могут стать военные задачи, включая управление дронами. Сейчас на орбите находятся лишь 30-40 российских спутников против более 10 тысяч у...",
-    "time": "",
-    "pubDate": "2026-08-19T15:30:14+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198849",
-    "score": 12.0,
-    "views": 16045,
-    "forwards": 35
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54886",
     "score": 11.0,
-    "views": 749,
+    "views": 967,
     "forwards": 5
   },
   {
@@ -158,7 +194,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198839",
     "score": 5.5,
-    "views": 90306,
+    "views": 103136,
     "forwards": 107
   },
   {
@@ -178,24 +214,6 @@
     "score": 5.0,
     "views": 873,
     "forwards": 3
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAV in Odesa, heading for Teplodar.",
-    "description_en": "Jet UAV in Odesa, heading for Teplodar.",
-    "description_uk": "Реактивний БпЛА на Одещині, курсом на Теплодар.",
-    "time": "",
-    "pubDate": "2026-08-19T13:42:36+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73433",
-    "score": 5.0,
-    "views": 65699,
-    "forwards": 0
   },
   {
     "title": "Kyiv: Evacuation ordered",
@@ -430,23 +448,5 @@
     "score": 5.0,
     "views": 63766,
     "forwards": 1
-  },
-  {
-    "title": "Kyiv: Drone strike",
-    "title_en": "Kyiv: Drone strike",
-    "title_uk": "Київ: Дрон-удар",
-    "description": "Ukrainian drones reportedly strike Russia's Tula, Nizhny Novgorod oblasts. Ukrainian drones targeted Russia's Tula and Nizhny Novgorod oblasts overnight on Aug. 19, monitoring channels reported.",
-    "description_en": "Ukrainian drones reportedly strike Russia's Tula, Nizhny Novgorod oblasts. Ukrainian drones targeted Russia's Tula and Nizhny Novgorod oblasts overnight on Aug. 19, monitoring channels reported.",
-    "description_uk": "Ukrainian drones reportedly strike Russia's Tula, Nizhny Novgorod oblasts. Ukrainian drones targeted Russia's Tula and Nizhny Novgorod oblasts overnight on Aug. 19, monitoring channels reported.",
-    "time": "",
-    "pubDate": "2026-08-19T04:48:31+00:00",
-    "category": "drone",
-    "severity": "medium",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54869",
-    "score": 4.0,
-    "views": 2186,
-    "forwards": 4
   }
 ]
