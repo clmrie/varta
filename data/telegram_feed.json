@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "Attack UAVs in the south of Chernihiv Oblast in the direction of Kyiv Oblast",
+    "description_en": "Attack UAVs in the south of Chernihiv Oblast in the direction of Kyiv Oblast",
+    "description_uk": "Ударні БпЛА на півдні Чернігівщини у напрямку Київщини",
+    "time": "",
+    "pubDate": "2026-08-19T21:43:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73473",
+    "score": 6.5,
+    "views": 48615,
+    "forwards": 172
+  },
+  {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "Jet UAV in the Dnipropetrovsk region in the direction of Kamianskyi; 🛵 Jet UAV in the Kirovohrad region in the direction of Kropyvnytskyi.",
+    "description_en": "Jet UAV in the Dnipropetrovsk region in the direction of Kamianskyi; 🛵 Jet UAV in the Kirovohrad region in the direction of Kropyvnytskyi.",
+    "description_uk": "Реактивний БпЛА на Дніпропетровщині у напрямку Кам'янського; 🛵 Реактивний БпЛА на Кіровоградщині у напрямку Кропивницького.",
+    "time": "",
+    "pubDate": "2026-08-19T21:41:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73472",
+    "score": 6.5,
+    "views": 54675,
+    "forwards": 68
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -18,24 +54,6 @@
     "forwards": 37
   },
   {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "Ударні БпЛА на заході Сумщини у напрямку Чернігівщини.",
-    "description_en": "Ударні БпЛА на заході Сумщини у напрямку Чернігівщини.",
-    "description_uk": "Ударні БпЛА на заході Сумщини у напрямку Чернігівщини.",
-    "time": "",
-    "pubDate": "2026-08-19T21:26:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73468",
-    "score": 6.0,
-    "views": 49565,
-    "forwards": 34
-  },
-  {
     "title": "Missile launch detected",
     "title_en": "Missile launch detected",
     "title_uk": "Виявлено запуск ракети",
@@ -50,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198880",
     "score": 3.5,
-    "views": 18831,
-    "forwards": 105
+    "views": 40245,
+    "forwards": 140
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -68,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54895",
     "score": 10.0,
-    "views": 578,
+    "views": 806,
     "forwards": 5
   },
   {
@@ -86,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198877",
     "score": 3.5,
-    "views": 42984,
-    "forwards": 141
+    "views": 55097,
+    "forwards": 175
   },
   {
     "title": "Ballistic missile launch detected",
@@ -176,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54892",
     "score": 6.0,
-    "views": 1511,
+    "views": 1583,
     "forwards": 3
   },
   {
@@ -412,24 +430,6 @@
     "score": 4.5,
     "views": 579,
     "forwards": 6
-  },
-  {
-    "title": "Dnipro: Drone incoming",
-    "title_en": "Dnipro: Drone incoming",
-    "title_uk": "Дніпро: Дрон вхід",
-    "description": "UAV from the Kherson region in the direction of the south of the Dnipropetrovsk region.",
-    "description_en": "UAV from the Kherson region in the direction of the south of the Dnipropetrovsk region.",
-    "description_uk": "БпЛА з Херсонщини в напрямку півдня Дніпропетровщини.",
-    "time": "",
-    "pubDate": "2026-08-19T10:49:16+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73417",
-    "score": 6.0,
-    "views": 58618,
-    "forwards": 0
   },
   {
     "title": "Dnipro: BpLA from the Kherson region in the direction of the south of the...",
