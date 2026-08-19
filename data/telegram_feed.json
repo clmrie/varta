@@ -2,7 +2,7 @@
   {
     "title": "Kryvyi Rih: Drone attack",
     "title_en": "Kryvyi Rih: Drone attack",
-    "title_uk": "Кривий Ріг: атака дронів",
+    "title_uk": "Kryvyi Rih: Drone attack",
     "description": "A group of attack UAVs on Kryvyi Rih from the Kherson region.",
     "description_en": "A group of attack UAVs on Kryvyi Rih from the Kherson region.",
     "description_uk": "Група ударних БпЛА на Кривий Ріг з Херсонщини.",
@@ -14,7 +14,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73485",
     "score": 6.5,
-    "views": 20265,
+    "views": 41605,
     "forwards": 69
   },
   {
@@ -32,13 +32,13 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73484",
     "score": 6.0,
-    "views": 38515,
+    "views": 51761,
     "forwards": 0
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
     "description": "Update: Russian ballistic missile attack injures at least 4 in Kyiv, damages children's hospital. A children's hospital building in the Solomianskyi district was damaged overnight on Aug. 20, with windows blown out and cars burning on the hospital grounds.",
     "description_en": "Update: Russian ballistic missile attack injures at least 4 in Kyiv, damages children's hospital. A children's hospital building in the Solomianskyi district was damaged overnight on Aug. 20, with windows blown out and cars burning on the hospital grounds.",
     "description_uk": "Update: Russian ballistic missile attack injures at least 4 in Kyiv, damages children's hospital. A children's hospital building in the Solomianskyi district was damaged overnight on Aug. 20, with windows blown out and cars burning on the hospital grounds.",
@@ -50,8 +50,26 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54896",
     "score": 18.0,
-    "views": 294,
+    "views": 435,
     "forwards": 2
+  },
+  {
+    "title": "😔 KGVA informs about 3 victims and one death in Kyiv. The mayor...",
+    "title_en": "😔 KGVA informs about 3 victims and one death in Kyiv. The mayor...",
+    "title_uk": "😔 КГВА повідомляє про 3 постраждалих та одного загиблого в Києві. Міський голова...",
+    "description": "😔 KGVA informs about 3 victims and one death in Kyiv. The mayor clarified that the victim of rioters was a woman",
+    "description_en": "😔 KGVA informs about 3 victims and one death in Kyiv. The mayor clarified that the victim of rioters was a woman",
+    "description_uk": "😔 КГВА информирует о 3 пострадавших и одном погибшем в Киеве Мэр уточнил, что жертвой рашистов стала женщина",
+    "time": "",
+    "pubDate": "2026-08-19T22:02:26+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198888",
+    "score": 5.0,
+    "views": 41678,
+    "forwards": 0
   },
   {
     "title": "😔 КГВА информирует о 3 пострадавших и одном погибшем в Киеве Мэр...",
@@ -69,24 +87,6 @@
     "link": "https://t.me/uniannet/198888",
     "score": 5.0,
     "views": 36265,
-    "forwards": 0
-  },
-  {
-    "title": "😔 KGVA informs about 3 victims and one death in Kyiv. The mayor...",
-    "title_en": "😔 KGVA informs about 3 victims and one death in Kyiv. The mayor...",
-    "title_uk": "😔 КГВА повідомляє про 3 постраждалих та одну смерть у Києві. Міський голова...",
-    "description": "😔 KGVA informs about 3 victims and one death in Kyiv. The mayor clarified that the victim of rioters was a woman",
-    "description_en": "😔 KGVA informs about 3 victims and one death in Kyiv. The mayor clarified that the victim of rioters was a woman",
-    "description_uk": "😔 КГВА информирует о 3 пострадавших и одном погибшем в Киеве Мэр уточнил, что жертвой рашистов стала женщина",
-    "time": "",
-    "pubDate": "2026-08-19T22:02:26+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198888",
-    "score": 5.0,
-    "views": 22207,
     "forwards": 0
   },
   {
@@ -140,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198880",
     "score": 3.5,
-    "views": 56701,
-    "forwards": 140
+    "views": 59988,
+    "forwards": 141
   },
   {
     "title": "Attack attack on residential area",
