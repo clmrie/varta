@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Strike drones in the north-east of Sumy Oblast heading west.",
+    "description_en": "Strike drones in the north-east of Sumy Oblast heading west.",
+    "description_uk": "Ударні БпЛА на північному сході Сумщини курсом на захід.",
+    "time": "",
+    "pubDate": "2026-08-19T11:10:17+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73420",
+    "score": 5.0,
+    "views": 13125,
+    "forwards": 0
+  },
+  {
     "title": "Dnipro: Drone incoming",
     "title_en": "Dnipro: Drone incoming",
     "title_uk": "Дніпро: Дрон вхід",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73417",
     "score": 6.0,
-    "views": 9075,
+    "views": 36340,
     "forwards": 0
   },
   {
@@ -50,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198821",
     "score": 8.0,
-    "views": 29947,
-    "forwards": 3
+    "views": 48145,
+    "forwards": 4
   },
   {
     "title": "Kherson: Drone strike near civilians",
@@ -68,8 +86,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20421",
     "score": 7.5,
-    "views": 90939,
-    "forwards": 333
+    "views": 99476,
+    "forwards": 334
   },
   {
     "title": "Izmail: BpLa from the waters of the Black Sea, heading for Odesa (Izmail...",
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54869",
     "score": 4.0,
-    "views": 1869,
+    "views": 1945,
     "forwards": 4
   },
   {
@@ -196,24 +214,6 @@
     "score": 6.0,
     "views": 44438,
     "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV from the Black Sea in the direction of Chornomorsk/Limanka",
-    "description_en": "UAV from the Black Sea in the direction of Chornomorsk/Limanka",
-    "description_uk": "БпЛА з акваторії Чорного моря в напрямку Чорноморська/Лиманки",
-    "time": "",
-    "pubDate": "2026-08-19T03:11:35+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73396",
-    "score": 5.0,
-    "views": 36372,
-    "forwards": 1
   },
   {
     "title": "Zaporizhzhia: Zaporozhye: BpLA from the south in the direction of the city",
@@ -302,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54863",
     "score": 12.5,
-    "views": 3083,
+    "views": 3107,
     "forwards": 5
   },
   {
@@ -320,8 +320,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23754",
     "score": 9.5,
-    "views": 140620,
-    "forwards": 214
+    "views": 141326,
+    "forwards": 215
   },
   {
     "title": "Kyiv: Drone incoming",
