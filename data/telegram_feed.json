@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "🏍 Jet UAV from Poltava region to Cherkasy region. 🏍 A group of jet UAVs in the north of Chernihiv Oblast, heading south-west.",
+    "description_en": "🏍 Jet UAV from Poltava region to Cherkasy region. 🏍 A group of jet UAVs in the north of Chernihiv Oblast, heading south-west.",
+    "description_uk": "🏍 Реактивний БпЛА з Полтавщини на Черкащину. 🏍 Група реактивних БпЛА на півночі Чернігівщини, південно-західним курсом.",
+    "time": "",
+    "pubDate": "2026-08-20T11:40:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73613",
+    "score": 6.0,
+    "views": 20214,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Attack attack on residential area",
+    "title_en": "Kyiv: Attack attack on residential area",
+    "title_uk": "Київ: обстріл житлового кварталу",
+    "description": "The liquidation of the consequences of the Russian attack on the capital and cities of the Kyiv region is now underway. More than 600 rescuers of the State Emergency Service of Ukraine and police officers were involved in the work in Kyiv, Brovary and Boryspil. I am grateful to everyone who helps our people. In total, 30 residential buildings, an ordinary school, a children's hospital and a kindergarten were damaged in Kyiv and the region alone. Unfortunately, as of now, 15 people are known to have died in Kyiv...",
+    "description_en": "The liquidation of the consequences of the Russian attack on the capital and cities of the Kyiv region is now underway. More than 600 rescuers of the State Emergency Service of Ukraine and police officers were involved in the work in Kyiv, Brovary and Boryspil. I am grateful to everyone who helps our people. In total, 30 residential buildings, an ordinary school, a children's hospital and a kindergarten were damaged in Kyiv and the region alone. Unfortunately, as of now, 15 people are known to have died in Kyiv...",
+    "description_uk": "Зараз триває ліквідація наслідків російського удару по столиці й містах Київщини. Понад 600 рятувальників ДСНС України та поліцейських залучено до робіт у Києві, Броварах і Борисполі. Вдячний усім, хто допомагає нашим людям. Загалом тільки в Києві та області пошкоджено 30 житлових будинків, звичайну школу, дитячу лікарню і дитячий садок. На жаль, станом на зараз у Києві відомо про 15 загиблих...",
+    "time": "",
+    "pubDate": "2026-08-20T11:33:42+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20462",
+    "score": 18.5,
+    "views": 18303,
+    "forwards": 98
+  },
+  {
     "title": "Dnipro: 🏍 Poltavshchyna - a jet UAV passing by n.p. Squirrels, north-west...",
     "title_en": "Dnipro: 🏍 Poltavshchyna - a jet UAV passing by n.p. Squirrels, north-west...",
     "title_uk": "Дніпро: 🏍 Полтавщина - проліт реактивного БПЛА н.п. Білки, північний захід...",
@@ -14,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73612",
     "score": 6.0,
-    "views": 11081,
+    "views": 43452,
     "forwards": 1
   },
   {
@@ -68,26 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198990",
     "score": 5.5,
-    "views": 50217,
-    "forwards": 212
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "🏍 Chernihiv Oblast: jet UAV along the border with Belarus on/past Slavutych ➡️ in the direction of Kyiv Oblast.",
-    "description_en": "🏍 Chernihiv Oblast: jet UAV along the border with Belarus on/past Slavutych ➡️ in the direction of Kyiv Oblast.",
-    "description_uk": "🏍 Чернігівщина: реактивний БпЛА уздовж кордону з Білоруссю на/повз Славутич ➡️ у напрямку Київщини.",
-    "time": "",
-    "pubDate": "2026-08-20T10:11:11+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73606",
-    "score": 6.0,
-    "views": 22248,
-    "forwards": 35
+    "views": 69606,
+    "forwards": 248
   },
   {
     "title": "Mykolaiv: 🏍 A jet UAV passes Mykolaivka in the east of Odesa on a northwesterly...",
@@ -158,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198986",
     "score": 4.5,
-    "views": 82179,
-    "forwards": 251
+    "views": 95164,
+    "forwards": 286
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -176,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54904",
     "score": 9.0,
-    "views": 1017,
+    "views": 1240,
     "forwards": 0
   },
   {
@@ -194,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54902",
     "score": 18.0,
-    "views": 1252,
+    "views": 1502,
     "forwards": 1
   },
   {
@@ -284,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10052",
     "score": 9.0,
-    "views": 957,
+    "views": 970,
     "forwards": 9
   },
   {
@@ -302,7 +320,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10051",
     "score": 4.0,
-    "views": 878,
+    "views": 890,
     "forwards": 6
   },
   {
@@ -338,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20452",
     "score": 20.0,
-    "views": 207016,
-    "forwards": 529
+    "views": 212994,
+    "forwards": 539
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the northern...",
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 90010,
     "forwards": 36
-  },
-  {
-    "title": "Kyiv: Drone strike",
-    "title_en": "Kyiv: Drone strike",
-    "title_uk": "Київ: Дрон-удар",
-    "description": "Ukraine's military reportedly strikes Russian oil refinery, terminal in latest drone attack. Ukrainian drones reportedly struck an oil refinery in the Russian Republic of Tatarstan and an oil terminal in Krasnodar Krai overnight on Aug. 20, Russian Telegram media channels reported, as Ukraine continues its campaign targeting Russian oil infrastructure.",
-    "description_en": "Ukraine's military reportedly strikes Russian oil refinery, terminal in latest drone attack. Ukrainian drones reportedly struck an oil refinery in the Russian Republic of Tatarstan and an oil terminal in Krasnodar Krai overnight on Aug. 20, Russian Telegram media channels reported, as Ukraine continues its campaign targeting Russian oil infrastructure.",
-    "description_uk": "Ukraine's military reportedly strikes Russian oil refinery, terminal in latest drone attack. Ukrainian drones reportedly struck an oil refinery in the Russian Republic of Tatarstan and an oil terminal in Krasnodar Krai overnight on Aug. 20, Russian Telegram media channels reported, as Ukraine continues its campaign targeting Russian oil infrastructure.",
-    "time": "",
-    "pubDate": "2026-08-20T04:14:03+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54899",
-    "score": 8.0,
-    "views": 1049,
-    "forwards": 1
   }
 ]
