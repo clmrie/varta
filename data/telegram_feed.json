@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "🏍 Jet UAV in the direction of Boryspil/Kyiv from the southeast.",
+    "description_en": "🏍 Jet UAV in the direction of Boryspil/Kyiv from the southeast.",
+    "description_uk": "🏍 Реактивний БпЛА у напрямку Борисполя/Києва з південного сходу.",
+    "time": "",
+    "pubDate": "2026-08-20T08:37:03+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73590",
+    "score": 5.5,
+    "views": 14153,
+    "forwards": 69
+  },
+  {
+    "title": "Chernihiv: 🏍 New jet UAVs fly to the north of Chernihiv region from Bryansk...",
+    "title_en": "Chernihiv: 🏍 New jet UAVs fly to the north of Chernihiv region from Bryansk...",
+    "title_uk": "Чернігів: 🏍 Нові реактивні БПЛА летять на північ Чернігівщини з Брянська...",
+    "description": "🏍 New jet UAVs fly to the north of Chernihiv region from Bryansk region (Russian Federation).",
+    "description_en": "🏍 New jet UAVs fly to the north of Chernihiv region from Bryansk region (Russian Federation).",
+    "description_uk": "🏍 Нові реактивні БпЛА залітають на північ Чернігівщини з брянщини (рф).",
+    "time": "",
+    "pubDate": "2026-08-20T08:35:46+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73589",
+    "score": 6.5,
+    "views": 21222,
+    "forwards": 69
+  },
+  {
     "title": "18 injured",
     "title_en": "18 injured",
     "title_uk": "18 поранених",
@@ -13,9 +49,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198977",
-    "score": 5.0,
-    "views": 10368,
-    "forwards": 2
+    "score": 5.5,
+    "views": 58293,
+    "forwards": 72
   },
   {
     "title": "BpLA ➡️ in the direction of Kharkiv from the north.",
@@ -68,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198973",
     "score": 5.5,
-    "views": 68725,
-    "forwards": 241
+    "views": 93390,
+    "forwards": 310
   },
   {
     "title": "Air defense active",
@@ -86,7 +122,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10052",
     "score": 9.0,
-    "views": 704,
+    "views": 777,
     "forwards": 8
   },
   {
@@ -104,7 +140,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10051",
     "score": 4.0,
-    "views": 661,
+    "views": 721,
     "forwards": 5
   },
   {
@@ -140,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54901",
     "score": 15.0,
-    "views": 869,
+    "views": 1092,
     "forwards": 5
   },
   {
@@ -158,26 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20452",
     "score": 20.0,
-    "views": 129140,
-    "forwards": 397
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "Jet UAVs in the direction of Boryspil!",
-    "description_en": "Jet UAVs in the direction of Boryspil!",
-    "description_uk": "Реактивні БпЛА в напрямку Борисполя!",
-    "time": "",
-    "pubDate": "2026-08-20T06:10:40+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73551",
-    "score": 5.0,
-    "views": 45425,
-    "forwards": 35
+    "views": 156960,
+    "forwards": 434
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the northern...",
@@ -248,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54900",
     "score": 18.0,
-    "views": 1434,
+    "views": 1608,
     "forwards": 8
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 42404,
     "forwards": 1
-  },
-  {
-    "title": "Kyiv: 5 killed, 23 injured",
-    "title_en": "Kyiv: 5 killed, 23 injured",
-    "title_uk": "Київ: 5 загиблих, 23 поранених",
-    "description": "Update: At least 5 killed, 23 injured in Russian missile attack on Kyiv. The casualty toll in Russia's overnight attack on Kyiv has risen to include five deceased victims, with a further 23 injuries reported throughout the city, officials said.",
-    "description_en": "Update: At least 5 killed, 23 injured in Russian missile attack on Kyiv. The casualty toll in Russia's overnight attack on Kyiv has risen to include five deceased victims, with a further 23 injuries reported throughout the city, officials said.",
-    "description_uk": "Update: At least 5 killed, 23 injured in Russian missile attack on Kyiv. The casualty toll in Russia's overnight attack on Kyiv has risen to include five deceased victims, with a further 23 injuries reported throughout the city, officials said.",
-    "time": "",
-    "pubDate": "2026-08-20T00:47:11+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54897",
-    "score": 18.0,
-    "views": 960,
-    "forwards": 2
   }
 ]
