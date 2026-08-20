@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kharkiv: A group of BpLA in the Kharkiv Region - heading for Shevchenkov.",
+    "title_en": "Kharkiv: A group of BpLA in the Kharkiv Region - heading for Shevchenkov.",
+    "title_uk": "Харків: Група BpLA в Харківській області - прямує на Шевченків.",
+    "description": "A group of BpLA in the Kharkiv Region - heading for Shevchenkov.",
+    "description_en": "A group of BpLA in the Kharkiv Region - heading for Shevchenkov.",
+    "description_uk": "Група БпЛА на Харківщині - курсом на Шевченкове.",
+    "time": "",
+    "pubDate": "2026-08-20T23:07:37+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73675",
+    "score": 6.0,
+    "views": 3791,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Zelensky slaps new sanctions on Moscow's war machine, Russian...",
     "title_en": "Kyiv: Zelensky slaps new sanctions on Moscow's war machine, Russian...",
     "title_uk": "Київ: Зеленський накладає нові санкції на військову машину Москви, – Росія...",
@@ -14,7 +32,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54918",
     "score": 6.0,
-    "views": 438,
+    "views": 535,
     "forwards": 2
   },
   {
@@ -32,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73672",
     "score": 5.0,
-    "views": 39083,
-    "forwards": 2
+    "views": 41251,
+    "forwards": 15
   },
   {
     "title": "Drone incoming",
@@ -67,9 +85,9 @@
     "location": "Kyiv",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199034",
-    "score": 4.5,
-    "views": 53083,
-    "forwards": 194
+    "score": 5.5,
+    "views": 56734,
+    "forwards": 204
   },
   {
     "title": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
@@ -158,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20474",
     "score": 13.0,
-    "views": 29770,
-    "forwards": 14
+    "views": 30074,
+    "forwards": 15
   },
   {
     "title": "🏍 Sumyshchyna: jet UAV ➡️ to/past Voronezh on a southwesterly course.",
@@ -194,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54913",
     "score": 13.0,
-    "views": 1681,
+    "views": 1708,
     "forwards": 4
   },
   {
@@ -230,7 +248,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199019",
     "score": 6.5,
-    "views": 139643,
+    "views": 140986,
     "forwards": 210
   },
   {
@@ -248,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20473",
     "score": 13.5,
-    "views": 186223,
-    "forwards": 224
+    "views": 187359,
+    "forwards": 225
   },
   {
     "title": "👀 Ukraine planned to paralyze Moscow airports with swarms of...",
@@ -430,23 +448,5 @@
     "score": 16.5,
     "views": 1238,
     "forwards": 4
-  },
-  {
-    "title": "Missile attack",
-    "title_en": "Missile attack",
-    "title_uk": "Ракетна атака",
-    "description": "🤬 рф может готовить еще один удар баллистикой по Киеву уже этой ночью, - мониторы Пишут, что ночью российские войска использовали лишь около 35-40% подготовленных баллистических ракет, а в течение дня продолжали атаки управляемыми БПЛА. Мониторы предполагают, что целью возможного повторного удара могут стать объекты энергетической инфраструктуры столицы. При этом подчеркивается, что это лишь...",
-    "description_en": "🤬 рф может готовить еще один удар баллистикой по Киеву уже этой ночью, - мониторы Пишут, что ночью российские войска использовали лишь около 35-40% подготовленных баллистических ракет, а в течение дня продолжали атаки управляемыми БПЛА. Мониторы предполагают, что целью возможного повторного удара могут стать объекты энергетической инфраструктуры столицы. При этом подчеркивается, что это лишь...",
-    "description_uk": "🤬 рф может готовить еще один удар баллистикой по Киеву уже этой ночью, - мониторы Пишут, что ночью российские войска использовали лишь около 35-40% подготовленных баллистических ракет, а в течение дня продолжали атаки управляемыми БПЛА. Мониторы предполагают, что целью возможного повторного удара могут стать объекты энергетической инфраструктуры столицы. При этом подчеркивается, что это лишь...",
-    "time": "",
-    "pubDate": "2026-08-20T14:50:00+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199006",
-    "score": 6.5,
-    "views": 94302,
-    "forwards": 276
   }
 ]
