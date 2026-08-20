@@ -1,5 +1,41 @@
 [
   {
+    "title": "BpLA ➡️ in the direction of Kharkiv from the north.",
+    "title_en": "BpLA ➡️ in the direction of Kharkiv from the north.",
+    "title_uk": "BpLA ➡️ в напрямку Харкова з півночі.",
+    "description": "BpLA ➡️ in the direction of Kharkiv from the north.",
+    "description_en": "BpLA ➡️ in the direction of Kharkiv from the north.",
+    "description_uk": "БпЛА ➡️ у напрямку Харкова з півночі.",
+    "time": "",
+    "pubDate": "2026-08-20T09:11:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73596",
+    "score": 5.0,
+    "views": 13145,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "🏍 Jet UAVs from Chernihiv region along the Kyiv Reservoir ➡️ in the direction of Vyshgorod/Brovaryv/Kyiv.",
+    "description_en": "🏍 Jet UAVs from Chernihiv region along the Kyiv Reservoir ➡️ in the direction of Vyshgorod/Brovaryv/Kyiv.",
+    "description_uk": "🏍 Реактивні БпЛА з Чернігівщини уздовж Київського водосховища ➡️ у напрямку Вишгорода/Броварів/Києва.",
+    "time": "",
+    "pubDate": "2026-08-20T09:11:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73595",
+    "score": 6.0,
+    "views": 15150,
+    "forwards": 35
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -50,26 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198977",
     "score": 5.5,
-    "views": 58293,
+    "views": 81602,
     "forwards": 72
-  },
-  {
-    "title": "BpLA ➡️ in the direction of Kharkiv from the north.",
-    "title_en": "BpLA ➡️ in the direction of Kharkiv from the north.",
-    "title_uk": "BpLA ➡️ в напрямку Харкова з півночі.",
-    "description": "BpLA ➡️ in the direction of Kharkiv from the north.",
-    "description_en": "BpLA ➡️ in the direction of Kharkiv from the north.",
-    "description_uk": "БпЛА ➡️ у напрямку Харкова з півночі.",
-    "time": "",
-    "pubDate": "2026-08-20T07:53:14+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73576",
-    "score": 5.0,
-    "views": 19154,
-    "forwards": 2
   },
   {
     "title": "🏍 Jet UAV ➡️ to/past Zhmerinka on a north-westerly course.",
@@ -104,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198973",
     "score": 5.5,
-    "views": 93390,
-    "forwards": 310
+    "views": 108089,
+    "forwards": 344
   },
   {
     "title": "Air defense active",
@@ -122,7 +140,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10052",
     "score": 9.0,
-    "views": 777,
+    "views": 820,
     "forwards": 8
   },
   {
@@ -140,8 +158,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10051",
     "score": 4.0,
-    "views": 721,
-    "forwards": 5
+    "views": 756,
+    "forwards": 6
   },
   {
     "title": "Donetsk: Ballistic missile launch detected",
@@ -176,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54901",
     "score": 15.0,
-    "views": 1092,
+    "views": 1220,
     "forwards": 5
   },
   {
@@ -194,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20452",
     "score": 20.0,
-    "views": 156960,
-    "forwards": 434
+    "views": 172452,
+    "forwards": 469
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the northern...",
@@ -266,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54900",
     "score": 18.0,
-    "views": 1608,
+    "views": 1704,
     "forwards": 8
   },
   {
@@ -430,23 +448,5 @@
     "score": 3.0,
     "views": 4224,
     "forwards": 0
-  },
-  {
-    "title": "Kyiv: Jet UAVs headed for Brovary/Kyiv.",
-    "title_en": "Kyiv: Jet UAVs headed for Brovary/Kyiv.",
-    "title_uk": "Київ: реактивні БПЛА взяли курс на Бровари/Київ.",
-    "description": "Jet UAVs headed for Brovary/Kyiv.",
-    "description_en": "Jet UAVs headed for Brovary/Kyiv.",
-    "description_uk": "Реактивні БпЛА курсом на Бровари/Київ.",
-    "time": "",
-    "pubDate": "2026-08-20T01:51:38+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73515",
-    "score": 6.0,
-    "views": 42404,
-    "forwards": 1
   }
 ]
