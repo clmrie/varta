@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "🏍 Jet UAVs in Chernihiv Oblast, past Slavutych, heading for Kyiv Oblast.",
+    "description_en": "🏍 Jet UAVs in Chernihiv Oblast, past Slavutych, heading for Kyiv Oblast.",
+    "description_uk": "🏍 Реактивні БпЛА на Чернігівщині, повз Славутич, курсом на Київщину.",
+    "time": "",
+    "pubDate": "2026-08-20T18:31:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73660",
+    "score": 6.0,
+    "views": 38459,
+    "forwards": 35
+  },
+  {
+    "title": "Dnipro: Dnipropetrovsk region: BpLA ➡️ in the direction of Kamianskyi from...",
+    "title_en": "Dnipro: Dnipropetrovsk region: BpLA ➡️ in the direction of Kamianskyi from...",
+    "title_uk": "Дніпро: Дніпропетровська область: BpLA ➡️ в напрямку Кам'янського від...",
+    "description": "Dnipropetrovsk region: BpLA ➡️ in the direction of Kamianskyi from the north.",
+    "description_en": "Dnipropetrovsk region: BpLA ➡️ in the direction of Kamianskyi from the north.",
+    "description_uk": "Дніпропетровщина: БпЛА ➡️ у напрямку Кам'янського з півночі.",
+    "time": "",
+    "pubDate": "2026-08-20T18:19:04+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73659",
+    "score": 6.0,
+    "views": 49599,
+    "forwards": 0
+  },
+  {
     "title": "Chernihiv: 🏍 Chernihiv region: jet UAV passing by Makoshine ➡️ on a western...",
     "title_en": "Chernihiv: 🏍 Chernihiv region: jet UAV passing by Makoshine ➡️ on a western...",
     "title_uk": "Chernihiv: 🏍 Chernihiv region: jet UAV passing by Makoshine ➡️ on a western...",
@@ -32,8 +68,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20474",
     "score": 13.0,
-    "views": 5171,
-    "forwards": 5
+    "views": 16558,
+    "forwards": 8
   },
   {
     "title": "🏍 Sumyshchyna: jet UAV ➡️ to/past Voronezh on a southwesterly course.",
@@ -54,27 +90,9 @@
     "forwards": 0
   },
   {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "🏍 Chernihiv region: jet UAV ➡️ in the direction of Makoshinoy/Borzna.",
-    "description_en": "🏍 Chernihiv region: jet UAV ➡️ in the direction of Makoshinoy/Borzna.",
-    "description_uk": "🏍 Чернігівщина: реактивний БпЛА ➡️ у напрямку Макошиного/Борзни.",
-    "time": "",
-    "pubDate": "2026-08-20T17:38:36+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73649",
-    "score": 6.0,
-    "views": 3008,
-    "forwards": 0
-  },
-  {
     "title": "Donetsk: Drone strike",
     "title_en": "Donetsk: Drone strike",
-    "title_uk": "Донецьк: Дрон-удар",
+    "title_uk": "Donetsk: Drone strike",
     "description": "Ukraine hits Russian drone-launch airfields in Primorsko-Akhtarsk, occupied Donetsk, HUR says. HUR operators struck Russian drone storage and launch sites, as well as two radar systems — the 55Zh6U Nebo-U and 55Zh6UM Niobiy, the statement read.",
     "description_en": "Ukraine hits Russian drone-launch airfields in Primorsko-Akhtarsk, occupied Donetsk, HUR says. HUR operators struck Russian drone storage and launch sites, as well as two radar systems — the 55Zh6U Nebo-U and 55Zh6UM Niobiy, the statement read.",
     "description_uk": "Ukraine hits Russian drone-launch airfields in Primorsko-Akhtarsk, occupied Donetsk, HUR says. HUR operators struck Russian drone storage and launch sites, as well as two radar systems — the 55Zh6U Nebo-U and 55Zh6UM Niobiy, the statement read.",
@@ -86,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54913",
     "score": 13.0,
-    "views": 555,
+    "views": 921,
     "forwards": 1
   },
   {
@@ -110,9 +128,9 @@
   {
     "title": "Drone strike",
     "title_en": "Drone strike",
-    "title_uk": "Drone strike",
-    "description": "Katsapnya again hit the business center in Holoseivsky district of Kyiv. It is not yet known whether this is the center on which the wreckage of a Russian UAV fell a few hours ago. New jet drones continue to attack the capital.",
-    "description_en": "Katsapnya again hit the business center in Holoseivsky district of Kyiv. It is not yet known whether this is the center on which the wreckage of a Russian UAV fell a few hours ago. New jet drones continue to attack the capital.",
+    "title_uk": "Безпілотний удар",
+    "description": "Katsapnya again hit the business center in Goloseivsky district of Kyiv. It is not yet known whether this is the business center on which the wreckage of a Russian UAV fell a few hours ago. New jet drones continue to attack the capital.",
+    "description_en": "Katsapnya again hit the business center in Goloseivsky district of Kyiv. It is not yet known whether this is the business center on which the wreckage of a Russian UAV fell a few hours ago. New jet drones continue to attack the capital.",
     "description_uk": "Кацапня снова ударила по бизнес-центру в Голосеевском районе Киева Тот ли это БЦ, на который несколько часов назад упали обломки российского БПЛА, пока неизвестно. Новые реактивные дроны продолжают атаковать столицу.",
     "time": "",
     "pubDate": "2026-08-20T17:22:01+00:00",
@@ -122,15 +140,15 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199019",
     "score": 5.5,
-    "views": 50004,
-    "forwards": 140
+    "views": 87502,
+    "forwards": 176
   },
   {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "Work continued for a large part of the day today in Kyiv and in the region - in Boryspil, Brovary - after the Russian strike. It was a combined strike: there were a lot of ballistics, cruise missiles, and drones. Unfortunately, ballistics is the most difficult right now. If the percentage of cruise missiles being shot down in this strike is about 90%, the situation with ballistics is much worse. Missiles are needed for the \"patriots\", this is something that can only provide...",
-    "description_en": "Work continued for a large part of the day today in Kyiv and in the region - in Boryspil, Brovary - after the Russian strike. It was a combined strike: there were a lot of ballistics, cruise missiles, and drones. Unfortunately, ballistics is the most difficult right now. If the percentage of cruise missiles being shot down in this strike is about 90%, the situation with ballistics is much worse. Missiles are needed for the \"patriots\", this is something that can only provide...",
+    "description": "Work continued for a large part of the day today in Kyiv and in the region - in Boryspil, Brovary - after the Russian attack. It was a combined strike: there were a lot of ballistics, cruise missiles, and drones. Unfortunately, ballistics is the most difficult right now. If the percentage of cruise missiles being shot down in this strike is about 90%, the situation with ballistics is much worse. Missiles are needed for the \"patriots\", this is something that can only provide...",
+    "description_en": "Work continued for a large part of the day today in Kyiv and in the region - in Boryspil, Brovary - after the Russian attack. It was a combined strike: there were a lot of ballistics, cruise missiles, and drones. Unfortunately, ballistics is the most difficult right now. If the percentage of cruise missiles being shot down in this strike is about 90%, the situation with ballistics is much worse. Missiles are needed for the \"patriots\", this is something that can only provide...",
     "description_uk": "Значну частину дня сьогодні у Києві і в області – в Борисполі, в Броварах – тривали роботи після російського удару. Комбінований був удар: багато балістики, крилатих ракет, були дрони. На жаль, з балістикою найскладніше зараз. Якщо відсоток збиття крилатих ракет в цьому ударі – близько 90%, то з балістикою ситуація значно гірша. Потрібні ракети для «петріотів», це те, що можуть забезпечити тільки...",
     "time": "",
     "pubDate": "2026-08-20T17:07:58+00:00",
@@ -140,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20473",
     "score": 12.5,
-    "views": 63096,
-    "forwards": 148
+    "views": 121956,
+    "forwards": 194
   },
   {
     "title": "👀 Украина планировала парализовать московские аэропорты роями...",
@@ -158,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199018",
     "score": 6.5,
-    "views": 62944,
-    "forwards": 212
+    "views": 95038,
+    "forwards": 250
   },
   {
     "title": "Kyiv: Drone incoming",
@@ -266,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54910",
     "score": 6.0,
-    "views": 1267,
+    "views": 1469,
     "forwards": 3
   },
   {
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/73621",
     "score": 6.0,
     "views": 39384,
-    "forwards": 1
-  },
-  {
-    "title": "🏍 Jet UAVs from Cherkasy region to Kirovohrad region.",
-    "title_en": "🏍 Jet UAVs from Cherkasy region to Kirovohrad region.",
-    "title_uk": "🏍 Реактивні БПЛА з Черкащини на Кіровоградщину.",
-    "description": "🏍 Jet UAVs from Cherkasy region to Kirovohrad region.",
-    "description_en": "🏍 Jet UAVs from Cherkasy region to Kirovohrad region.",
-    "description_uk": "🏍 Реактивні БпЛА з Черкащини на Кіровоградщину.",
-    "time": "",
-    "pubDate": "2026-08-20T12:01:28+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Cherkasy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73617",
-    "score": 5.0,
-    "views": 52606,
     "forwards": 1
   }
 ]
