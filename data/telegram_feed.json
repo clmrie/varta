@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "🏍 Jet UAVs over the Kyiv Reservoir ➡️ in the direction of Dymer/Vyshhorod/Kyiv.",
+    "description_en": "🏍 Jet UAVs over the Kyiv Reservoir ➡️ in the direction of Dymer/Vyshhorod/Kyiv.",
+    "description_uk": "🏍 Реактивні БпЛА над Київським водосховищем ➡️ у напрямку Димера/Вишгорода/Києва.",
+    "time": "",
+    "pubDate": "2026-08-20T12:14:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73619",
+    "score": 6.5,
+    "views": 41489,
+    "forwards": 104
+  },
+  {
+    "title": "🏍 Jet UAVs from Cherkasy region to Kirovohrad region.",
+    "title_en": "🏍 Jet UAVs from Cherkasy region to Kirovohrad region.",
+    "title_uk": "🏍 Реактивні БПЛА з Черкащини на Кіровоградщину.",
+    "description": "🏍 Jet UAVs from Cherkasy region to Kirovohrad region.",
+    "description_en": "🏍 Jet UAVs from Cherkasy region to Kirovohrad region.",
+    "description_uk": "🏍 Реактивні БпЛА з Черкащини на Кіровоградщину.",
+    "time": "",
+    "pubDate": "2026-08-20T12:01:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Cherkasy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73617",
+    "score": 5.0,
+    "views": 52606,
+    "forwards": 1
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -32,8 +68,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20462",
     "score": 18.5,
-    "views": 18303,
-    "forwards": 98
+    "views": 59682,
+    "forwards": 167
   },
   {
     "title": "Dnipro: 🏍 Poltavshchyna - a jet UAV passing by n.p. Squirrels, north-west...",
@@ -104,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198990",
     "score": 5.5,
-    "views": 69606,
-    "forwards": 248
+    "views": 90100,
+    "forwards": 286
   },
   {
     "title": "Mykolaiv: 🏍 A jet UAV passes Mykolaivka in the east of Odesa on a northwesterly...",
@@ -176,8 +212,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198986",
     "score": 4.5,
-    "views": 95164,
-    "forwards": 286
+    "views": 109280,
+    "forwards": 289
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -194,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54904",
     "score": 9.0,
-    "views": 1240,
+    "views": 1464,
     "forwards": 0
   },
   {
@@ -212,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54902",
     "score": 18.0,
-    "views": 1502,
+    "views": 1795,
     "forwards": 1
   },
   {
@@ -302,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10052",
     "score": 9.0,
-    "views": 970,
+    "views": 992,
     "forwards": 9
   },
   {
@@ -320,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10051",
     "score": 4.0,
-    "views": 890,
+    "views": 911,
     "forwards": 6
   },
   {
@@ -356,7 +392,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20452",
     "score": 20.0,
-    "views": 212994,
+    "views": 221357,
     "forwards": 539
   },
   {
@@ -412,41 +448,5 @@
     "score": 5.0,
     "views": 36545,
     "forwards": 2
-  },
-  {
-    "title": "Kyiv: 8 killed, 33 injured",
-    "title_en": "Kyiv: 8 killed, 33 injured",
-    "title_uk": "Київ: 8 загиблих, 33 поранених",
-    "description": "Update: 8 killed, 33 injured in large-scale Russian attack on Kyiv. The casualty count from the overnight Russian missile and drone attack on Kyiv has grown to included eight deceased and 33 injured victims, officials reported, as search efforts remain ongoing.",
-    "description_en": "Update: 8 killed, 33 injured in large-scale Russian attack on Kyiv. The casualty count from the overnight Russian missile and drone attack on Kyiv has grown to included eight deceased and 33 injured victims, officials reported, as search efforts remain ongoing.",
-    "description_uk": "Update: 8 killed, 33 injured in large-scale Russian attack on Kyiv. The casualty count from the overnight Russian missile and drone attack on Kyiv has grown to included eight deceased and 33 injured victims, officials reported, as search efforts remain ongoing.",
-    "time": "",
-    "pubDate": "2026-08-20T04:54:04+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54900",
-    "score": 18.0,
-    "views": 1704,
-    "forwards": 8
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Дрон вхід",
-    "description": "A jet UAV in the Kyiv region, heading for Boryspil.",
-    "description_en": "A jet UAV in the Kyiv region, heading for Boryspil.",
-    "description_uk": "Реактивний БпЛА на Київщині, курсом на Бориспіль.",
-    "time": "",
-    "pubDate": "2026-08-20T04:20:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73543",
-    "score": 6.0,
-    "views": 90010,
-    "forwards": 36
   }
 ]
