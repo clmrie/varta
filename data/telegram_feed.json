@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "🏍 Chernihiv region: jet UAV ➡️ in the direction to/past the village of Desna from the north.",
+    "description_en": "🏍 Chernihiv region: jet UAV ➡️ in the direction to/past the village of Desna from the north.",
+    "description_uk": "🏍 Чернігівщина: реактивний БпЛА ➡️ у напрямку на/повз н.п.Десна з півночі.",
+    "time": "",
+    "pubDate": "2026-08-20T15:08:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73637",
+    "score": 6.0,
+    "views": 31327,
+    "forwards": 34
+  },
+  {
+    "title": "Kharkiv: Kharkiv region: BpLA in the direction of Lozova from the southeast.",
+    "title_en": "Kharkiv: Kharkiv region: BpLA in the direction of Lozova from the southeast.",
+    "title_uk": "Харків: Харківська область: БпЛА в напрямку Лозової з пд.-сх.",
+    "description": "Kharkiv region: BpLA in the direction of Lozova from the southeast.",
+    "description_en": "Kharkiv region: BpLA in the direction of Lozova from the southeast.",
+    "description_uk": "Харківщина: БпЛА у напрямку Лозової з південного сходу.",
+    "time": "",
+    "pubDate": "2026-08-20T14:53:34+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73635",
+    "score": 6.0,
+    "views": 49516,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Drone strike",
     "title_en": "Kyiv: Drone strike",
     "title_uk": "Київ: Дрон-удар",
@@ -14,8 +50,26 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54908",
     "score": 16.5,
-    "views": 54,
-    "forwards": 1
+    "views": 586,
+    "forwards": 3
+  },
+  {
+    "title": "2 injured",
+    "title_en": "2 injured",
+    "title_uk": "2 поранених",
+    "description": "A business center is on fire in the Goloseivskyi district of Kyiv as a result of falling UAV debris, - Klychko UPD: It is already known about the dead and 2 injured.",
+    "description_en": "A business center is on fire in the Goloseivskyi district of Kyiv as a result of falling UAV debris, - Klychko UPD: It is already known about the dead and 2 injured.",
+    "description_uk": "В Голосеевском районе Киева горит бизнес-центр в результате падения обломков БПЛА, - Кличко UPD: Уже известно о погибшем и 2 пострадавших.",
+    "time": "",
+    "pubDate": "2026-08-20T14:43:17+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199005",
+    "score": 5.5,
+    "views": 52456,
+    "forwards": 172
   },
   {
     "title": "A business center is on fire in the Goloseivskyi district of Kyiv as...",
@@ -54,24 +108,6 @@
     "forwards": 68
   },
   {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "🏍 Jet UAVs over the Kyiv Reservoir ➡️ in the direction of Vyshgorod/Kyiv/Brovary and from Chernihiv Oblast ➡️ in the direction of/past Berezan.",
-    "description_en": "🏍 Jet UAVs over the Kyiv Reservoir ➡️ in the direction of Vyshgorod/Kyiv/Brovary and from Chernihiv Oblast ➡️ in the direction of/past Berezan.",
-    "description_uk": "🏍 Реактивні БпЛА над Київським водосховищем ➡️ у напрямку Вишгорода/Києва/Броварів та з Чернігівщини ➡️ у напрямку на/повз Березань.",
-    "time": "",
-    "pubDate": "2026-08-20T14:05:16+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73630",
-    "score": 6.0,
-    "views": 15152,
-    "forwards": 35
-  },
-  {
     "title": "Air raid alert",
     "title_en": "Air raid alert",
     "title_uk": "Повітряна тривога",
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54907",
     "score": 5.0,
-    "views": 954,
+    "views": 1240,
     "forwards": 1
   },
   {
@@ -176,7 +212,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20462",
     "score": 19.5,
-    "views": 103280,
+    "views": 113250,
     "forwards": 209
   },
   {
@@ -412,41 +448,5 @@
     "score": 5.5,
     "views": 107386,
     "forwards": 109
-  },
-  {
-    "title": "🏍 Jet UAV ➡️ to/past Zhmerinka on a north-westerly course.",
-    "title_en": "🏍 Jet UAV ➡️ to/past Zhmerinka on a north-westerly course.",
-    "title_uk": "🏍 Реактивний БПЛА ➡️ до/повз Жмеринка північно-західним курсом.",
-    "description": "🏍 Jet UAV ➡️ to/past Zhmerinka on a north-westerly course.",
-    "description_en": "🏍 Jet UAV ➡️ to/past Zhmerinka on a north-westerly course.",
-    "description_uk": "🏍 Реактивний БпЛА ➡️ на/повз Жмеринку північно-західним курсом.",
-    "time": "",
-    "pubDate": "2026-08-20T07:52:34+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73575",
-    "score": 5.0,
-    "views": 20157,
-    "forwards": 3
-  },
-  {
-    "title": "Attack attack",
-    "title_en": "Attack attack",
-    "title_uk": "Атака нападу",
-    "description": "In Boryspil there was an attack on food warehouses and facilities of the \"Red Cross\", - Prime Minister Koretsky Now the fire there is extinguished by aviation. It is likely that there will again be a shortage of a number of goods on the shelves.",
-    "description_en": "In Boryspil there was an attack on food warehouses and facilities of the \"Red Cross\", - Prime Minister Koretsky Now the fire there is extinguished by aviation. It is likely that there will again be a shortage of a number of goods on the shelves.",
-    "description_uk": "В Борисполе был удар по продуктовым складам и объектам \"Красного креста\", — премьер Корецкий Сейчас пожар там гасит авиация. Вероятно, снова будет дефицит ряда товаров на полках.",
-    "time": "",
-    "pubDate": "2026-08-20T07:02:58+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198973",
-    "score": 5.5,
-    "views": 108089,
-    "forwards": 344
   }
 ]
