@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone strike",
+    "title_en": "Drone strike",
+    "title_uk": "Безпілотний удар",
+    "description": "NASA Firms satellites record 5 large fires in Kyiv. Rusnia claims that the facilities of the Fire Point company for the production of UAVs and Flamingo missiles, the trade and warehouse complex of the Ukrspecssystems company, the facility of the State Enterprise \"Antonov\" where the An-196 \"Lyuty\" long-range UAVs were manufactured, the ammunition warehouse for Baba-Yaga-type drones, the fuel storage warehouse in Brovary, etc., were hit. About destroyed houses in Kyiv and...",
+    "description_en": "NASA Firms satellites record 5 large fires in Kyiv. Rusnia claims that the facilities of the Fire Point company for the production of UAVs and Flamingo missiles, the trade and warehouse complex of the Ukrspecssystems company, the facility of the State Enterprise \"Antonov\" where the An-196 \"Lyuty\" long-range UAVs were manufactured, the ammunition warehouse for Baba-Yaga-type drones, the fuel storage warehouse in Brovary, etc., were hit. About destroyed houses in Kyiv and...",
+    "description_uk": "Спутники NASA Firms фиксируют в Киеве 5 крупных очагов пожаров Русня утверждает, что под удар попали объекты компании Fire Point по производству БПЛА и ракет Фламинго, торгово-складской комплекс компании «Укрспецсистемс», объект ГП «Антонов», где производились дальние БПЛА Ан-196 «Лютый», склад боеприпасов для дронов типа Баба-Яга, склад ГСМ в Броварах и т.п. Об уничтоженных домах в Киеве и...",
+    "time": "",
+    "pubDate": "2026-08-20T05:33:05+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Brovary",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198954",
+    "score": 12.5,
+    "views": 28388,
+    "forwards": 172
+  },
+  {
+    "title": "Attack attack",
+    "title_en": "Attack attack",
+    "title_uk": "Атака нападу",
+    "description": "August 21 was declared a day of mourning for the victims of the massive Russian attack in Kyiv - Klitschko. Flags on communal buildings in the capital will be lowered, and state and private institutions are recommended to do the same. Also, entertainment events will be banned in the city.",
+    "description_en": "August 21 was declared a day of mourning for the victims of the massive Russian attack in Kyiv - Klitschko. Flags on communal buildings in the capital will be lowered, and state and private institutions are recommended to do the same. Also, entertainment events will be banned in the city.",
+    "description_uk": "21 августа в Киеве объявили Днем траура по жертвам массированной российской атаки, — Кличко В столице опустят флаги на коммунальных зданиях, а государственным и частным учреждениям рекомендуют сделать то же самое. Также в городе запретят проведение развлекательных мероприятий.",
+    "time": "",
+    "pubDate": "2026-08-20T05:26:26+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/198953",
+    "score": 5.0,
+    "views": 36747,
+    "forwards": 36
+  },
+  {
     "title": "💔 At night, the enemy launched about 70 rockets of different types,...",
     "title_en": "💔 At night, the enemy launched about 70 rockets of different types,...",
     "title_uk": "💔 Вночі ворог випустив близько 70 ракет різних типів,...",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54900",
     "score": 18.0,
-    "views": 324,
-    "forwards": 1
+    "views": 601,
+    "forwards": 4
   },
   {
     "title": "Kyiv: Drone incoming",
@@ -68,7 +104,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73543",
     "score": 6.0,
-    "views": 70754,
+    "views": 90010,
     "forwards": 36
   },
   {
@@ -86,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54899",
     "score": 8.0,
-    "views": 613,
-    "forwards": 0
+    "views": 862,
+    "forwards": 1
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -288,24 +324,6 @@
     "forwards": 0
   },
   {
-    "title": "Attack attack",
-    "title_en": "Attack attack",
-    "title_uk": "Атака нападу",
-    "description": "Strike BpLA from Odesa to Vinnytsia on a north-westerly course.",
-    "description_en": "Strike BpLA from Odesa to Vinnytsia on a north-westerly course.",
-    "description_uk": "Ударний БпЛА з Одещини на Вінниччину північно-західним курсом.",
-    "time": "",
-    "pubDate": "2026-08-20T00:09:22+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Vinnytsia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73494",
-    "score": 5.0,
-    "views": 39538,
-    "forwards": 34
-  },
-  {
     "title": "Attack attack on residential area",
     "title_en": "Attack attack on residential area",
     "title_uk": "Напад на житловий квартал",
@@ -430,23 +448,5 @@
     "score": 18.0,
     "views": 1267,
     "forwards": 4
-  },
-  {
-    "title": "😔 KGVA informs about 3 victims and one death in Kyiv. The mayor...",
-    "title_en": "😔 KGVA informs about 3 victims and one death in Kyiv. The mayor...",
-    "title_uk": "😔 КГВА повідомляє про 3 постраждалих та одного загиблого в Києві. Міський голова...",
-    "description": "😔 KGVA informs about 3 victims and one death in Kyiv. The mayor clarified that the victim of rioters was a woman",
-    "description_en": "😔 KGVA informs about 3 victims and one death in Kyiv. The mayor clarified that the victim of rioters was a woman",
-    "description_uk": "😔 КГВА информирует о 3 пострадавших и одном погибшем в Киеве Мэр уточнил, что жертвой рашистов стала женщина",
-    "time": "",
-    "pubDate": "2026-08-19T22:02:26+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198888",
-    "score": 5.0,
-    "views": 47216,
-    "forwards": 0
   }
 ]
