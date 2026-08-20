@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "A jet UAV in the Kyiv region, heading for Boryspil.",
+    "description_en": "A jet UAV in the Kyiv region, heading for Boryspil.",
+    "description_uk": "Реактивний БпЛА на Київщині, курсом на Бориспіль.",
+    "time": "",
+    "pubDate": "2026-08-20T04:20:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73543",
+    "score": 6.0,
+    "views": 43447,
+    "forwards": 36
+  },
+  {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Київ: Дрон-удар",
+    "description": "Ukraine's military reportedly strikes Russian oil refinery, terminal in latest drone attack. Ukrainian drones reportedly struck an oil refinery in the Russian Republic of Tatarstan and an oil terminal in Krasnodar Krai overnight on Aug. 20, Russian Telegram media channels reported, as Ukraine continues its campaign targeting Russian oil infrastructure.",
+    "description_en": "Ukraine's military reportedly strikes Russian oil refinery, terminal in latest drone attack. Ukrainian drones reportedly struck an oil refinery in the Russian Republic of Tatarstan and an oil terminal in Krasnodar Krai overnight on Aug. 20, Russian Telegram media channels reported, as Ukraine continues its campaign targeting Russian oil infrastructure.",
+    "description_uk": "Ukraine's military reportedly strikes Russian oil refinery, terminal in latest drone attack. Ukrainian drones reportedly struck an oil refinery in the Russian Republic of Tatarstan and an oil terminal in Krasnodar Krai overnight on Aug. 20, Russian Telegram media channels reported, as Ukraine continues its campaign targeting Russian oil infrastructure.",
+    "time": "",
+    "pubDate": "2026-08-20T04:14:03+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54899",
+    "score": 8.0,
+    "views": 335,
+    "forwards": 0
+  },
+  {
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Миколаїв: Дрон вхід",
@@ -18,27 +54,9 @@
     "forwards": 1
   },
   {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Київ: Дрон вхід",
-    "description": "A jet UAV in the Kyiv region, heading for Brovary.",
-    "description_en": "A jet UAV in the Kyiv region, heading for Brovary.",
-    "description_uk": "Реактивний БпЛА на Київщині, курсом на Бровари.",
-    "time": "",
-    "pubDate": "2026-08-20T03:52:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73539",
-    "score": 6.0,
-    "views": 21178,
-    "forwards": 2
-  },
-  {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: повідомляється про вибухи",
+    "title_uk": "Київ: Повідомляється про вибухи",
     "description": "Explosions again heard in Kyiv amid large-scale Russian missile, drone attack. A second round of explosions was heard in Kyiv at 6:17 a.m. local time, according to a Kyiv Independent journalist on the ground, amid Russia's ongoing missile and drone attack on the capital.",
     "description_en": "Explosions again heard in Kyiv amid large-scale Russian missile, drone attack. A second round of explosions was heard in Kyiv at 6:17 a.m. local time, according to a Kyiv Independent journalist on the ground, amid Russia's ongoing missile and drone attack on the capital.",
     "description_uk": "Explosions again heard in Kyiv amid large-scale Russian missile, drone attack. A second round of explosions was heard in Kyiv at 6:17 a.m. local time, according to a Kyiv Independent journalist on the ground, amid Russia's ongoing missile and drone attack on the capital.",
@@ -50,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54898",
     "score": 18.0,
-    "views": 393,
+    "views": 703,
     "forwards": 1
   },
   {
@@ -104,13 +122,13 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198929",
     "score": 3.0,
-    "views": 65515,
+    "views": 94979,
     "forwards": 34
   },
   {
     "title": "Rockets towards Kremenchug. New groups of X-101 are coming through...",
     "title_en": "Rockets towards Kremenchug. New groups of X-101 are coming through...",
-    "title_uk": "Ракети на Кременчук. Нові групи X-101 надходять через...",
+    "title_uk": "Ракети в бік Кременчука. Нові групи X-101 надходять через...",
     "description": "Rockets towards Kremenchug. New groups of X-101 are coming through the Sumy region. In addition, according to the monitors, jet drones continue to fly into our airspace",
     "description_en": "Rockets towards Kremenchug. New groups of X-101 are coming through the Sumy region. In addition, according to the monitors, jet drones continue to fly into our airspace",
     "description_uk": "Ракеты в сторону Кременчуга. Новые группы Х-101 заходят через Сумскую область Кроме того, по данным мониторов, в наше воздушное пространство продолжают залетать реактивные дроны",
@@ -122,7 +140,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198927",
     "score": 3.0,
-    "views": 66665,
+    "views": 95128,
     "forwards": 0
   },
   {
@@ -430,23 +448,5 @@
     "score": 5.0,
     "views": 79992,
     "forwards": 0
-  },
-  {
-    "title": "For months, Poland has blocked the search and exhumation of Ukrainian...",
-    "title_en": "For months, Poland has blocked the search and exhumation of Ukrainian...",
-    "title_uk": "Польща місяцями блокувала пошуки та ексгумацію українських...",
-    "description": "For months, Poland has blocked the search and exhumation of Ukrainian victims of the Second World War on its territory. Ukrainian Ambassador to Poland Vasyl Bodnar said in an interview with RMF24 that for several months Kyiv has been seeking \"at least one permission\" from Warsaw for search operations on the territory of Poland. It is, in particular, about the search for the remains of Ukrainians who died in 1944 in Laskuve. The delay is explained...",
-    "description_en": "For months, Poland has blocked the search and exhumation of Ukrainian victims of the Second World War on its territory. Ukrainian Ambassador to Poland Vasyl Bodnar said in an interview with RMF24 that for several months Kyiv has been seeking \"at least one permission\" from Warsaw for search operations on the territory of Poland. It is, in particular, about the search for the remains of Ukrainians who died in 1944 in Laskuve. The delay is explained...",
-    "description_uk": "Польша месяцами блокирует поиск и эксгумацию украинских жертв Второй мировой войны на своей территории Посол Украины в Польше Василий Боднар заявил в интервью RMF24, что уже несколько месяцев Киев добивается от Варшавы «хотя бы одного разрешения» на поисковые работы на территории Польши. Речь идет, в частности, о поиске останков украинцев, погибших в 1944 году в Ласкуве. Задержку объясняют...",
-    "time": "",
-    "pubDate": "2026-08-19T18:57:11+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/198865",
-    "score": 5.5,
-    "views": 95651,
-    "forwards": 113
   }
 ]
