@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "🏍 Chernihiv Oblast: jet UAV along the border with Belarus on/past Slavutych ➡️ in the direction of Kyiv Oblast.",
+    "description_en": "🏍 Chernihiv Oblast: jet UAV along the border with Belarus on/past Slavutych ➡️ in the direction of Kyiv Oblast.",
+    "description_uk": "🏍 Чернігівщина: реактивний БпЛА уздовж кордону з Білоруссю на/повз Славутич ➡️ у напрямку Київщини.",
+    "time": "",
+    "pubDate": "2026-08-20T10:11:11+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73606",
+    "score": 6.0,
+    "views": 22248,
+    "forwards": 35
+  },
+  {
+    "title": "Mykolaiv: 🏍 A jet UAV passes Mykolaivka in the east of Odesa on a northwesterly...",
+    "title_en": "Mykolaiv: 🏍 A jet UAV passes Mykolaivka in the east of Odesa on a northwesterly...",
+    "title_uk": "Миколаїв: 🏍 Реактивний БПЛА пролітає повз Миколаївку на сході Одеси на північно-західному...",
+    "description": "🏍 A jet UAV passes Mykolaivka in the east of Odesa on a northwesterly course.",
+    "description_en": "🏍 A jet UAV passes Mykolaivka in the east of Odesa on a northwesterly course.",
+    "description_uk": "🏍 Реактивний БпЛА повз Миколаївку на сході Одещини північно-західним курсом.",
+    "time": "",
+    "pubDate": "2026-08-20T10:09:18+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73605",
+    "score": 6.0,
+    "views": 25259,
+    "forwards": 0
+  },
+  {
     "title": "Mykolaiv: 🏍 Mykolaiv region: jet UAV ➡️ on/past Bashtanka on a northwesterly...",
     "title_en": "Mykolaiv: 🏍 Mykolaiv region: jet UAV ➡️ on/past Bashtanka on a northwesterly...",
     "title_uk": "Миколаїв: 🏍 Миколаївська область: реактивний БПЛА ➡️ на/повз Баштанку на північно-західному...",
@@ -50,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198986",
     "score": 3.5,
-    "views": 12686,
-    "forwards": 71
+    "views": 44678,
+    "forwards": 178
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54904",
     "score": 9.0,
-    "views": 345,
+    "views": 631,
     "forwards": 0
   },
   {
@@ -86,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54902",
     "score": 18.0,
-    "views": 384,
-    "forwards": 0
+    "views": 755,
+    "forwards": 1
   },
   {
     "title": "BpLA ➡️ in the direction of Kharkiv from the north.",
@@ -106,24 +142,6 @@
     "score": 5.0,
     "views": 13145,
     "forwards": 0
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "🏍 Jet UAVs from Chernihiv region along the Kyiv Reservoir ➡️ in the direction of Vyshgorod/Brovaryv/Kyiv.",
-    "description_en": "🏍 Jet UAVs from Chernihiv region along the Kyiv Reservoir ➡️ in the direction of Vyshgorod/Brovaryv/Kyiv.",
-    "description_uk": "🏍 Реактивні БпЛА з Чернігівщини уздовж Київського водосховища ➡️ у напрямку Вишгорода/Броварів/Києва.",
-    "time": "",
-    "pubDate": "2026-08-20T09:11:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73595",
-    "score": 6.0,
-    "views": 15150,
-    "forwards": 35
   },
   {
     "title": "Drone incoming",
@@ -176,7 +194,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/198977",
     "score": 5.5,
-    "views": 97639,
+    "views": 107386,
     "forwards": 109
   },
   {
@@ -230,7 +248,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10052",
     "score": 9.0,
-    "views": 867,
+    "views": 924,
     "forwards": 9
   },
   {
@@ -248,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10051",
     "score": 4.0,
-    "views": 794,
+    "views": 848,
     "forwards": 6
   },
   {
@@ -284,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20452",
     "score": 20.0,
-    "views": 185854,
-    "forwards": 470
+    "views": 194434,
+    "forwards": 507
   },
   {
     "title": "WARNING! 🛫 Activity of enemy tactical aviation in the northern...",
@@ -430,23 +448,5 @@
     "score": 18.0,
     "views": 703,
     "forwards": 1
-  },
-  {
-    "title": "Reactive UAVs in the Kirovohrad region in the district. Khmelové and...",
-    "title_en": "Reactive UAVs in the Kirovohrad region in the district. Khmelové and...",
-    "title_uk": "Реактивні БПЛА в Кіровоградській області в районі. Хмельове та...",
-    "description": "Reactive UAVs in the Kirovohrad region in the district. Khmelové and Haydamatske on a western course.",
-    "description_en": "Reactive UAVs in the Kirovohrad region in the district. Khmelové and Haydamatske on a western course.",
-    "description_uk": "Реактивні БпЛА на Кіровоградщині в р-ні. Хмельове та Гайдамацьке західним курсом.",
-    "time": "",
-    "pubDate": "2026-08-20T02:57:24+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73535",
-    "score": 5.0,
-    "views": 24289,
-    "forwards": 0
   }
 ]
