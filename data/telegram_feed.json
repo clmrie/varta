@@ -1,5 +1,23 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "🏍 New groups of jet UAVs from Bryansk region, Russian Federation - to Chernihiv Oblast, heading for Horodnya.",
+    "description_en": "🏍 New groups of jet UAVs from Bryansk region, Russian Federation - to Chernihiv Oblast, heading for Horodnya.",
+    "description_uk": "🏍 Нові групи реактивних БпЛА з Брянської обл., рф - на Чернігівщину, курсом на Городню.",
+    "time": "",
+    "pubDate": "2026-08-21T17:00:38+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73775",
+    "score": 6.0,
+    "views": 9095,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -14,13 +32,13 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73774",
     "score": 5.0,
-    "views": 9107,
+    "views": 29350,
     "forwards": 1
   },
   {
     "title": "Kyiv: Airstrike attack",
     "title_en": "Kyiv: Airstrike attack",
-    "title_uk": "Kyiv: Airstrike attack",
+    "title_uk": "Київ: Авіаційна атака",
     "description": "Ukrainian attack on Russian airfield damages Su-34 bomber. The Akhtubinsk air base is home to Russia's 929th State Aircraft Test Center of the Ministry of Defense.",
     "description_en": "Ukrainian attack on Russian airfield damages Su-34 bomber. The Akhtubinsk air base is home to Russia's 929th State Aircraft Test Center of the Ministry of Defense.",
     "description_uk": "Ukrainian attack on Russian airfield damages Su-34 bomber. The Akhtubinsk air base is home to Russia's 929th State Aircraft Test Center of the Ministry of Defense.",
@@ -32,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54928",
     "score": 5.0,
-    "views": 218,
+    "views": 516,
     "forwards": 0
   },
   {
@@ -74,7 +92,7 @@
   {
     "title": "Kryvyi Rih: 5 killed, 90 injured",
     "title_en": "Kryvyi Rih: 5 killed, 90 injured",
-    "title_uk": "Kryvyi Rih: 5 killed, 90 injured",
+    "title_uk": "Кривий Ріг: 5 загиблих, 90 поранених",
     "description": "Russia strikes shopping center in Kryvyi Rih, at least 5 dead, more than 90 injured. Russian forces launched a daytime drone strike on a shopping center in Kryvyi Rih on August 21, killing at least five people and injuring more than 90 others, including six children, local authorities said.",
     "description_en": "Russia strikes shopping center in Kryvyi Rih, at least 5 dead, more than 90 injured. Russian forces launched a daytime drone strike on a shopping center in Kryvyi Rih on August 21, killing at least five people and injuring more than 90 others, including six children, local authorities said.",
     "description_uk": "Russia strikes shopping center in Kryvyi Rih, at least 5 dead, more than 90 injured. Russian forces launched a daytime drone strike on a shopping center in Kryvyi Rih on August 21, killing at least five people and injuring more than 90 others, including six children, local authorities said.",
@@ -86,26 +104,44 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54927",
     "score": 18.0,
-    "views": 738,
+    "views": 885,
     "forwards": 2
   },
   {
     "title": "Drone strike",
     "title_en": "Drone strike",
     "title_uk": "Безпілотний удар",
-    "description": "В Кривом Роге ударные дроны сработали в две волны: через полчаса после первого попадания и пожара был повторный удар по спасательным службам, - Зеленский",
-    "description_en": "В Кривом Роге ударные дроны сработали в две волны: через полчаса после первого попадания и пожара был повторный удар по спасательным службам, - Зеленский",
+    "description": "In Kryvyi Rih, the attack drones worked in two waves: half an hour after the first hit and the fire, there was a second attack on the rescue services, - Zelensky",
+    "description_en": "In Kryvyi Rih, the attack drones worked in two waves: half an hour after the first hit and the fire, there was a second attack on the rescue services, - Zelensky",
     "description_uk": "В Кривом Роге ударные дроны сработали в две волны: через полчаса после первого попадания и пожара был повторный удар по спасательным службам, - Зеленский",
     "time": "",
     "pubDate": "2026-08-21T15:11:05+00:00",
     "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
+    "severity": "critical",
+    "location": "Kryvyi Rih",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199090",
     "score": 4.5,
-    "views": 66778,
-    "forwards": 177
+    "views": 79661,
+    "forwards": 178
+  },
+  {
+    "title": "Casualties reported",
+    "title_en": "Casualties reported",
+    "title_uk": "Повідомляється про постраждалих",
+    "description": "The Russians struck an absolutely cynical and vile attack on an ordinary shopping center in Kryvyi Rih. The strike drones went off in two waves: half an hour after the first hit and the fire, there was a second strike on the rescue services. As of now, it is known about five dead. My condolences to family and friends. There are at least 52 victims, including six children. All wounded are given...",
+    "description_en": "The Russians struck an absolutely cynical and vile attack on an ordinary shopping center in Kryvyi Rih. The strike drones went off in two waves: half an hour after the first hit and the fire, there was a second strike on the rescue services. As of now, it is known about five dead. My condolences to family and friends. There are at least 52 victims, including six children. All wounded are given...",
+    "description_uk": "Абсолютно цинічний і підлий удар завдали росіяни по звичайному торговельному центру в Кривому Розі. Ударні дрони спрацювали у дві хвилі: через пів години після першого влучання і пожежі був повторний удар по рятувальних службах. Станом на зараз відомо про пʼятьох загиблих. Мої співчуття рідним та близьким. Щонайменше зараз 52 постраждалих, серед них шестеро дітей. Усім пораненим надається...",
+    "time": "",
+    "pubDate": "2026-08-21T15:08:51+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kryvyi Rih",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20476",
+    "score": 13.5,
+    "views": 307633,
+    "forwards": 1247
   },
   {
     "title": "Strike confirmed",
@@ -126,24 +162,6 @@
     "forwards": 1177
   },
   {
-    "title": "Casualties reported",
-    "title_en": "Casualties reported",
-    "title_uk": "Повідомляється про постраждалих",
-    "description": "The Russians struck an absolutely cynical and vile attack on an ordinary shopping center in Kryvyi Rih. The strike drones went off in two waves: half an hour after the first hit and the fire, there was a second strike on the rescue services. As of now, it is known about five dead. My condolences to family and friends. There are at least 52 victims, including six children. All wounded are given...",
-    "description_en": "The Russians struck an absolutely cynical and vile attack on an ordinary shopping center in Kryvyi Rih. The strike drones went off in two waves: half an hour after the first hit and the fire, there was a second strike on the rescue services. As of now, it is known about five dead. My condolences to family and friends. There are at least 52 victims, including six children. All wounded are given...",
-    "description_uk": "Абсолютно цинічний і підлий удар завдали росіяни по звичайному торговельному центру в Кривому Розі. Ударні дрони спрацювали у дві хвилі: через пів години після першого влучання і пожежі був повторний удар по рятувальних службах. Станом на зараз відомо про пʼятьох загиблих. Мої співчуття рідним та близьким. Щонайменше зараз 52 постраждалих, серед них шестеро дітей. Усім пораненим надається...",
-    "time": "",
-    "pubDate": "2026-08-21T15:08:51+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kryvyi Rih",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20476",
-    "score": 13.5,
-    "views": 59849,
-    "forwards": 477
-  },
-  {
     "title": "Chernihiv: 🏍 Jet UAVs headed for Chernihiv.",
     "title_en": "Chernihiv: 🏍 Jet UAVs headed for Chernihiv.",
     "title_uk": "Чернігів: 🏍 Реактивні БПЛА взяли курс на Чернігів.",
@@ -159,24 +177,6 @@
     "link": "https://t.me/kpszsu/73770",
     "score": 6.0,
     "views": 40460,
-    "forwards": 0
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "🏍 Chernihiv region: jet UAVs in the direction of Slavutych.",
-    "description_en": "🏍 Chernihiv region: jet UAVs in the direction of Slavutych.",
-    "description_uk": "🏍 Чернігівщина: реактивні БпЛА в напрямку Славутича.",
-    "time": "",
-    "pubDate": "2026-08-21T14:55:13+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73769",
-    "score": 6.0,
-    "views": 33371,
     "forwards": 0
   },
   {
@@ -410,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20475",
     "score": 5.5,
-    "views": 132193,
+    "views": 135416,
     "forwards": 260
   },
   {
