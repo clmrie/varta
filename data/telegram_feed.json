@@ -1,5 +1,59 @@
 [
   {
+    "title": "2 killed, 15 injured",
+    "title_en": "2 killed, 15 injured",
+    "title_uk": "2 загиблих, 15 поранених",
+    "description": "More video from the place of arrival in Kryvyi Rih Local authorities report 15 injured and 2 dead.",
+    "description_en": "More video from the place of arrival in Kryvyi Rih Local authorities report 15 injured and 2 dead.",
+    "description_uk": "Еще видео с места прилета в Кривом Роге Местные власти сообщают о 15 пострадавших и 2 погибших.",
+    "time": "",
+    "pubDate": "2026-08-21T14:15:22+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kryvyi Rih",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199084",
+    "score": 4.0,
+    "views": 1034,
+    "forwards": 0
+  },
+  {
+    "title": "Footage of the arrival from the second angle",
+    "title_en": "Footage of the arrival from the second angle",
+    "title_uk": "Кадри приїзду з другого ракурсу",
+    "description": "Footage of the arrival from the second angle",
+    "description_en": "Footage of the arrival from the second angle",
+    "description_uk": "Кадры прилета с другого ракурса",
+    "time": "",
+    "pubDate": "2026-08-21T14:10:05+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199083",
+    "score": 4.5,
+    "views": 10624,
+    "forwards": 69
+  },
+  {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "🏍 Mykolaiv region: jet UAV in the direction of Kazanka/Novy Bug from the east.",
+    "description_en": "🏍 Mykolaiv region: jet UAV in the direction of Kazanka/Novy Bug from the east.",
+    "description_uk": "🏍 Миколаївщина: реактивний БпЛА в напрямку Казанки/Нового Буга зі сходу.",
+    "time": "",
+    "pubDate": "2026-08-21T13:43:46+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73764",
+    "score": 6.0,
+    "views": 38458,
+    "forwards": 35
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -14,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73762",
     "score": 6.0,
-    "views": 49506,
+    "views": 69773,
     "forwards": 0
   },
   {
@@ -140,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54925",
     "score": 6.0,
-    "views": 1189,
+    "views": 1355,
     "forwards": 7
   },
   {
@@ -237,8 +291,8 @@
     "title": "Airstrike attack",
     "title_en": "Airstrike attack",
     "title_uk": "Авіаційна атака",
-    "description": "With our far-reaching sanctions, we continue to return the consequences of the war to where it came from. That night, our deep strikes hit the oil refinery in Perm, more than 1,600 kilometers from the border, and the Marynivka military airfield in the Volgograd region. There are results in the waters of the Black Sea. We also have confirmed results of previous strikes: a Russian plane was damaged at the Akhtubinsk airfield...",
-    "description_en": "With our far-reaching sanctions, we continue to return the consequences of the war to where it came from. That night, our deep strikes hit the oil refinery in Perm, more than 1,600 kilometers from the border, and the Marynivka military airfield in the Volgograd region. There are results in the waters of the Black Sea. We also have confirmed results of previous strikes: a Russian plane was damaged at the Akhtubinsk airfield...",
+    "description": "With our far-reaching sanctions, we continue to return the consequences of the war to where it came from. That night, our deep strikes hit the oil refinery in Perm, more than 1,600 kilometers from the border, and the Marynivka military airfield in the Volgograd region. There are results in the water area of ​​the Black Sea. We also have confirmed results of previous strikes: a Russian plane was damaged at the Akhtubinsk airfield...",
+    "description_en": "With our far-reaching sanctions, we continue to return the consequences of the war to where it came from. That night, our deep strikes hit the oil refinery in Perm, more than 1,600 kilometers from the border, and the Marynivka military airfield in the Volgograd region. There are results in the water area of ​​the Black Sea. We also have confirmed results of previous strikes: a Russian plane was damaged at the Akhtubinsk airfield...",
     "description_uk": "Продовжуємо нашими далекобійними санкціями повертати наслідки війни туди, звідки вона прийшла. Цієї ночі наші дипстрайки уразили НПЗ у Пермі на відстані понад 1600 кілометрів від кордону та військовий аеродром «Маринівка» у Волгоградському регіоні. Є результати і в акваторії Чорного моря. Також маємо підтверджені результати попередніх ударів: на аеродромі «Ахтубінськ» пошкоджено російський літак...",
     "time": "",
     "pubDate": "2026-08-21T08:21:31+00:00",
@@ -248,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20475",
     "score": 5.5,
-    "views": 104513,
-    "forwards": 250
+    "views": 111190,
+    "forwards": 252
   },
   {
     "title": "Kursk: A group of BpLA from the Kursk region, Russian Federation - to Sumy...",
@@ -284,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54921",
     "score": 8.0,
-    "views": 1831,
+    "views": 1920,
     "forwards": 0
   },
   {
@@ -308,9 +362,9 @@
   {
     "title": "16 killed",
     "title_en": "16 killed",
-    "title_uk": "16 убитих",
-    "description": "A day of mourning for those who died as a result of the massive Russian attack on August 20 was announced in Kyiv today. So far, 16 dead and dozens of injured are known. We express our sincere condolences to the relatives and friends of those whose lives were taken by Russia, and we wish the victims a speedy recovery. As a result of the attack, residential buildings, industrial facilities, warehouses, hospitals, cars, a school and...",
-    "description_en": "A day of mourning for those who died as a result of the massive Russian attack on August 20 was announced in Kyiv today. So far, 16 dead and dozens of injured are known. We express our sincere condolences to the relatives and friends of those whose lives were taken by Russia, and we wish the victims a speedy recovery. As a result of the attack, residential buildings, industrial facilities, warehouses, hospitals, cars, a school and...",
+    "title_uk": "16 вбитих",
+    "description": "A day of mourning for those who died as a result of the massive Russian attack on August 20 was announced in Kyiv today. Currently, 16 dead and dozens of injured are known. We express our sincere condolences to the relatives and friends of those whose lives were taken by Russia, and we wish the victims a speedy recovery. As a result of the attack, residential buildings, industrial facilities, warehouses, hospitals, cars, a school and...",
+    "description_en": "A day of mourning for those who died as a result of the massive Russian attack on August 20 was announced in Kyiv today. Currently, 16 dead and dozens of injured are known. We express our sincere condolences to the relatives and friends of those whose lives were taken by Russia, and we wish the victims a speedy recovery. As a result of the attack, residential buildings, industrial facilities, warehouses, hospitals, cars, a school and...",
     "description_uk": "Сьогодні у Києві оголошено День жалоби за загиблими внаслідок масованої російської атаки 20 серпня. Наразі відомо про 16 загиблих та десятки постраждалих. Ми висловлюємо щирі співчуття рідним і близьким тих, чиї життя забрала Росія, та бажаємо якнайшвидшого одужання постраждалим. Внаслідок атаки пошкоджено житлові будинки, промислові об’єкти, складські приміщення, лікарні, автомобілі, школу та...",
     "time": "",
     "pubDate": "2026-08-21T06:03:03+00:00",
@@ -320,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10065",
     "score": 9.0,
-    "views": 721,
+    "views": 734,
     "forwards": 8
   },
   {
@@ -393,60 +447,6 @@
     "link": "https://t.me/kpszsu/73694",
     "score": 5.0,
     "views": 11117,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
-    "title_en": "Zaporizhzhia: BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
-    "title_uk": "Запоріжжя: BpLA ➡️ в напрямку м. Запоріжжя з південного сходу.",
-    "description": "BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
-    "description_en": "BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
-    "description_uk": "БпЛА ➡️ у напрямку м.Запоріжжя з південного сходу.",
-    "time": "",
-    "pubDate": "2026-08-21T03:22:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73690",
-    "score": 6.0,
-    "views": 16148,
-    "forwards": 0
-  },
-  {
-    "title": "BpLA ➡️ in the direction of Sumy from the north.",
-    "title_en": "BpLA ➡️ in the direction of Sumy from the north.",
-    "title_uk": "БпЛА ➡️ в напрямку Сум з півночі.",
-    "description": "BpLA ➡️ in the direction of Sumy from the north.",
-    "description_en": "BpLA ➡️ in the direction of Sumy from the north.",
-    "description_uk": "БпЛА ➡️ у напрямку Сум з півночі.",
-    "time": "",
-    "pubDate": "2026-08-21T02:50:55+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73688",
-    "score": 5.0,
-    "views": 2028,
-    "forwards": 0
-  },
-  {
-    "title": "Chernihiv: Air defense active",
-    "title_en": "Chernihiv: Air defense active",
-    "title_uk": "Chernihiv: Air defense active",
-    "description": "🛸 Імовірно, розвідувальний, БпЛА противника на Чернігівщині в районі н.п.Семенівка, Холми. Даний вид безпілотника може бути навідником ворожих засобів ураження. Залучено засоби для збиття.",
-    "description_en": "🛸 Імовірно, розвідувальний, БпЛА противника на Чернігівщині в районі н.п.Семенівка, Холми. Даний вид безпілотника може бути навідником ворожих засобів ураження. Залучено засоби для збиття.",
-    "description_uk": "🛸 Імовірно, розвідувальний, БпЛА противника на Чернігівщині в районі н.п.Семенівка, Холми. Даний вид безпілотника може бути навідником ворожих засобів ураження. Залучено засоби для збиття.",
-    "time": "",
-    "pubDate": "2026-08-21T01:44:32+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73684",
-    "score": 10.0,
-    "views": 3053,
     "forwards": 0
   }
 ]
