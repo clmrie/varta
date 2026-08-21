@@ -1,5 +1,41 @@
 [
   {
+    "title": "Nikopol: Drone incoming",
+    "title_en": "Nikopol: Drone incoming",
+    "title_uk": "Нікополь: Дрон вхід",
+    "description": "🏍 A jet UAV passes Nikopol in the direction of Kryvyi Rih.",
+    "description_en": "🏍 A jet UAV passes Nikopol in the direction of Kryvyi Rih.",
+    "description_uk": "🏍 Реактивний БпЛА повз Нікополь в напрямку Кривого Рогу.",
+    "time": "",
+    "pubDate": "2026-08-21T09:57:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Nikopol",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73741",
+    "score": 6.0,
+    "views": 3029,
+    "forwards": 1
+  },
+  {
+    "title": "Kherson: A group of BpLA on Kherson from the east.",
+    "title_en": "Kherson: A group of BpLA on Kherson from the east.",
+    "title_uk": "Херсон: Група БпЛА на Херсон зі сх.",
+    "description": "A group of BpLA on Kherson from the east.",
+    "description_en": "A group of BpLA on Kherson from the east.",
+    "description_uk": "Група БпЛА на Херсон зі сходу.",
+    "time": "",
+    "pubDate": "2026-08-21T09:50:26+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73740",
+    "score": 6.0,
+    "views": 15148,
+    "forwards": 1
+  },
+  {
     "title": "Mykolaiv: BpLA to the Mykolaiv region from the south, heading for Ochakiv,...",
     "title_en": "Mykolaiv: BpLA to the Mykolaiv region from the south, heading for Ochakiv,...",
     "title_uk": "Миколаїв: БпЛА в Миколаївську область з півдня, курсом на Очаків,...",
@@ -49,9 +85,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20475",
-    "score": 4.5,
-    "views": 43776,
-    "forwards": 186
+    "score": 5.5,
+    "views": 59452,
+    "forwards": 206
   },
   {
     "title": "Drone incoming",
@@ -122,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54921",
     "score": 8.0,
-    "views": 866,
+    "views": 1094,
     "forwards": 0
   },
   {
@@ -146,7 +182,7 @@
   {
     "title": "16 killed",
     "title_en": "16 killed",
-    "title_uk": "16 убитих",
+    "title_uk": "16 вбитих",
     "description": "A day of mourning for those who died as a result of the massive Russian attack on August 20 was announced in Kyiv today. So far, 16 dead and dozens of injured are known. We express our sincere condolences to the relatives and friends of those whose lives were taken by Russia, and we wish the victims a speedy recovery. As a result of the attack, residential buildings, industrial facilities, warehouses, hospitals, cars, a school and...",
     "description_en": "A day of mourning for those who died as a result of the massive Russian attack on August 20 was announced in Kyiv today. So far, 16 dead and dozens of injured are known. We express our sincere condolences to the relatives and friends of those whose lives were taken by Russia, and we wish the victims a speedy recovery. As a result of the attack, residential buildings, industrial facilities, warehouses, hospitals, cars, a school and...",
     "description_uk": "Сьогодні у Києві оголошено День жалоби за загиблими внаслідок масованої російської атаки 20 серпня. Наразі відомо про 16 загиблих та десятки постраждалих. Ми висловлюємо щирі співчуття рідним і близьким тих, чиї життя забрала Росія, та бажаємо якнайшвидшого одужання постраждалим. Внаслідок атаки пошкоджено житлові будинки, промислові об’єкти, складські приміщення, лікарні, автомобілі, школу та...",
@@ -158,7 +194,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10065",
     "score": 9.0,
-    "views": 544,
+    "views": 569,
     "forwards": 8
   },
   {
@@ -356,7 +392,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54918",
     "score": 6.0,
-    "views": 2285,
+    "views": 2380,
     "forwards": 3
   },
   {
@@ -374,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20474",
     "score": 13.0,
-    "views": 45694,
+    "views": 46730,
     "forwards": 29
   },
   {
@@ -412,23 +448,5 @@
     "score": 13.5,
     "views": 264592,
     "forwards": 245
-  },
-  {
-    "title": "Air defense active",
-    "title_en": "Air defense active",
-    "title_uk": "Активна ППО",
-    "description": "\"We know which of the partners can provide these interceptors, and once again we call to act without delay. Every delay is measured by human lives\", - stressed Minister Andrii Sybiga. The head of the Ministry of Foreign Affairs also noted that Ukraine informs all states and international organizations about the consequences of this attack and calls on them to immediately take concrete measures to increase pressure on Russia and strengthen support for Ukraine.",
-    "description_en": "\"We know which of the partners can provide these interceptors, and once again we call to act without delay. Every delay is measured by human lives\", - stressed Minister Andrii Sybiga. The head of the Ministry of Foreign Affairs also noted that Ukraine informs all states and international organizations about the consequences of this attack and calls on them to immediately take concrete measures to increase pressure on Russia and strengthen support for Ukraine.",
-    "description_uk": "\"Ми знаємо хто з партнерів може надати ці перехоплювачі, і вкотре закликаємо діяти без зволікань. Кожне зволікання вимірюється людськими життями\", – наголосив міністр Андрій Сибіга. Очільник МЗС також зазначив, що Україна інформує всі держави та міжнародні організації про наслідки цієї атаки й закликає їх негайно вжити конкретних заходів для посилення тиску на Росію та зміцнення підтримки України.",
-    "time": "",
-    "pubDate": "2026-08-20T06:41:24+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/10052",
-    "score": 9.0,
-    "views": 1220,
-    "forwards": 9
   }
 ]
