@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kryvyi Rih: 15 killed, 130 injured",
+    "title_en": "Kryvyi Rih: 15 killed, 130 injured",
+    "title_uk": "Кривий Ріг: 15 загиблих, 130 поранених",
+    "description": "Update: Death toll rises after Russian attack on Kryvyi Rih, with 15 killed and 130 injured, including 23 children. President Volodymyr Zelensky said the drones struck in two waves, with the second strike taking place around half an hour after the first, when rescue services were already responding at the scene. Photo: Dnipropetrovsk Oblast Military Administration / Telegram",
+    "description_en": "Update: Death toll rises after Russian attack on Kryvyi Rih, with 15 killed and 130 injured, including 23 children. President Volodymyr Zelensky said the drones struck in two waves, with the second strike taking place around half an hour after the first, when rescue services were already responding at the scene. Photo: Dnipropetrovsk Oblast Military Administration / Telegram",
+    "description_uk": "Update: Death toll rises after Russian attack on Kryvyi Rih, with 15 killed and 130 injured, including 23 children. President Volodymyr Zelensky said the drones struck in two waves, with the second strike taking place around half an hour after the first, when rescue services were already responding at the scene. Photo: Dnipropetrovsk Oblast Military Administration / Telegram",
+    "time": "",
+    "pubDate": "2026-08-21T19:25:48+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kryvyi Rih",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54934",
+    "score": 10.0,
+    "views": 337,
+    "forwards": 5
+  },
+  {
     "title": "Kyiv: Kremlin labels independent news outlet Mediazona 'foreign agent' —...",
     "title_en": "Kyiv: Kremlin labels independent news outlet Mediazona 'foreign agent' —...",
     "title_uk": "Київ: Кремль назвав незалежне видання «Медіазона» іноземним агентом —...",
@@ -14,8 +32,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54933",
     "score": 4.5,
-    "views": 322,
-    "forwards": 1
+    "views": 584,
+    "forwards": 3
   },
   {
     "title": "Odesa: Attack attack on infrastructure",
@@ -50,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73812",
     "score": 6.0,
-    "views": 41466,
+    "views": 51621,
     "forwards": 34
   },
   {
@@ -68,7 +86,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73811",
     "score": 6.0,
-    "views": 44499,
+    "views": 53649,
     "forwards": 34
   },
   {
@@ -86,7 +104,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10067",
     "score": 9.0,
-    "views": 311,
+    "views": 371,
     "forwards": 3
   },
   {
@@ -104,8 +122,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20486",
     "score": 10.0,
-    "views": 16278,
-    "forwards": 7
+    "views": 19633,
+    "forwards": 8
   },
   {
     "title": "Kherson: BpLA on Kherson from the east.",
@@ -158,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20485",
     "score": 6.5,
-    "views": 171342,
-    "forwards": 458
+    "views": 194066,
+    "forwards": 492
   },
   {
     "title": "Dnipro: BpLA from Donetsk region - to Dnipropetrovsk region.",
@@ -230,7 +248,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199096",
     "score": 5.5,
-    "views": 106275,
+    "views": 113797,
     "forwards": 143
   },
   {
@@ -338,8 +356,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199090",
     "score": 5.5,
-    "views": 122556,
-    "forwards": 249
+    "views": 126924,
+    "forwards": 250
   },
   {
     "title": "Strike confirmed",
@@ -430,23 +448,5 @@
     "score": 4.5,
     "views": 47061,
     "forwards": 139
-  },
-  {
-    "title": "Chernihiv: A group of BpLA from Bryansk region, Russian Federation - to...",
-    "title_en": "Chernihiv: A group of BpLA from Bryansk region, Russian Federation - to...",
-    "title_uk": "Чернігів: Група BpLA з Брянської області, РФ - до...",
-    "description": "A group of BpLA from Bryansk region, Russian Federation - to Chernihiv Oblast, heading for Horodnya.",
-    "description_en": "A group of BpLA from Bryansk region, Russian Federation - to Chernihiv Oblast, heading for Horodnya.",
-    "description_uk": "Група БпЛА з Брянської обл., рф - на Чернігівщину, курсом на Городню.",
-    "time": "",
-    "pubDate": "2026-08-21T11:41:51+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73758",
-    "score": 6.0,
-    "views": 24248,
-    "forwards": 35
   }
 ]
