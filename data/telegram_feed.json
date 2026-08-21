@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: Air defense active",
+    "title_en": "Chernihiv: Air defense active",
+    "title_uk": "Chernihiv: Air defense active",
+    "description": "🛸 Імовірно, розвідувальний, БпЛА противника на Чернігівщині в районі н.п.Семенівка, Холми. Даний вид безпілотника може бути навідником ворожих засобів ураження. Залучено засоби для збиття.",
+    "description_en": "🛸 Імовірно, розвідувальний, БпЛА противника на Чернігівщині в районі н.п.Семенівка, Холми. Даний вид безпілотника може бути навідником ворожих засобів ураження. Залучено засоби для збиття.",
+    "description_uk": "🛸 Імовірно, розвідувальний, БпЛА противника на Чернігівщині в районі н.п.Семенівка, Холми. Даний вид безпілотника може бути навідником ворожих засобів ураження. Залучено засоби для збиття.",
+    "time": "",
+    "pubDate": "2026-08-21T01:44:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73684",
+    "score": 10.0,
+    "views": 3053,
+    "forwards": 0
+  },
+  {
+    "title": "Sumy: Drone incoming",
+    "title_en": "Sumy: Drone incoming",
+    "title_uk": "Суми: Дрон вхід",
+    "description": "БпЛА курсом на Суми з півночі.",
+    "description_en": "БпЛА курсом на Суми з півночі.",
+    "description_uk": "БпЛА курсом на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-08-21T01:19:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73682",
+    "score": 6.0,
+    "views": 6744,
+    "forwards": 5
+  },
+  {
     "title": "A group of UAVs from the Black Sea - to the south of Odesa...",
     "title_en": "A group of UAVs from the Black Sea - to the south of Odesa...",
     "title_uk": "Група БПЛА з Чорного моря - на південь від Одеси...",
@@ -38,7 +74,7 @@
   {
     "title": "Kyiv: Zelensky slaps new sanctions on Moscow's war machine, Russian...",
     "title_en": "Kyiv: Zelensky slaps new sanctions on Moscow's war machine, Russian...",
-    "title_uk": "Київ: Зеленський накладає нові санкції на військову машину Москви, – Росія...",
+    "title_uk": "Kyiv: Zelensky slaps new sanctions on Moscow's war machine, Russian...",
     "description": "Zelensky slaps new sanctions on Moscow's war machine, Russian propagandists, former Ukrainian officials. Among the targets of the latest measures are former Party of Regions lawmaker Yurii Ivanyushchenko and the creators of the animated Russian children's series \"Masha and the Bear.\"",
     "description_en": "Zelensky slaps new sanctions on Moscow's war machine, Russian propagandists, former Ukrainian officials. Among the targets of the latest measures are former Party of Regions lawmaker Yurii Ivanyushchenko and the creators of the animated Russian children's series \"Masha and the Bear.\"",
     "description_uk": "Zelensky slaps new sanctions on Moscow's war machine, Russian propagandists, former Ukrainian officials. Among the targets of the latest measures are former Party of Regions lawmaker Yurii Ivanyushchenko and the creators of the animated Russian children's series \"Masha and the Bear.\"",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54918",
     "score": 6.0,
-    "views": 669,
-    "forwards": 2
+    "views": 892,
+    "forwards": 3
   },
   {
     "title": "🏍 Reactive BpLA in Sumy Oblast - heading for Poltava Oblast.",
@@ -92,7 +128,7 @@
   {
     "title": "Another video of Kyiv this night. Rockets arrived one after another",
     "title_en": "Another video of Kyiv this night. Rockets arrived one after another",
-    "title_uk": "Чергове відео Києва цієї ночі. Одна за одною долітали ракети",
+    "title_uk": "Another video of Kyiv this night. Rockets arrived one after another",
     "description": "Another video of Kyiv this night. Rockets arrived one after another",
     "description_en": "Another video of Kyiv this night. Rockets arrived one after another",
     "description_uk": "Еще одно видео Киева этой ночью. Ракеты прилетали одна за другой",
@@ -104,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199034",
     "score": 5.5,
-    "views": 61093,
-    "forwards": 214
+    "views": 73892,
+    "forwards": 224
   },
   {
     "title": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
@@ -194,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20474",
     "score": 13.0,
-    "views": 30462,
-    "forwards": 15
+    "views": 31451,
+    "forwards": 16
   },
   {
     "title": "🏍 Sumyshchyna: jet UAV ➡️ to/past Voronezh on a southwesterly course.",
@@ -230,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54913",
     "score": 13.0,
-    "views": 1760,
+    "views": 1854,
     "forwards": 4
   },
   {
@@ -255,19 +291,19 @@
     "title": "Drone strike",
     "title_en": "Drone strike",
     "title_uk": "Безпілотний удар",
-    "description": "Katsapnya again hit the business center in Holoseivsky district of Kyiv. It is not yet known whether this is the center on which the wreckage of a Russian UAV fell a few hours ago. New jet drones continue to attack the capital.",
-    "description_en": "Katsapnya again hit the business center in Holoseivsky district of Kyiv. It is not yet known whether this is the center on which the wreckage of a Russian UAV fell a few hours ago. New jet drones continue to attack the capital.",
+    "description": "Кацапня снова ударила по бизнес-центру в Голосеевском районе Киева Тот ли это БЦ, на который несколько часов назад упали обломки российского БПЛА, пока неизвестно. Новые реактивные дроны продолжают атаковать столицу.",
+    "description_en": "Кацапня снова ударила по бизнес-центру в Голосеевском районе Киева Тот ли это БЦ, на который несколько часов назад упали обломки российского БПЛА, пока неизвестно. Новые реактивные дроны продолжают атаковать столицу.",
     "description_uk": "Кацапня снова ударила по бизнес-центру в Голосеевском районе Киева Тот ли это БЦ, на который несколько часов назад упали обломки российского БПЛА, пока неизвестно. Новые реактивные дроны продолжают атаковать столицу.",
     "time": "",
     "pubDate": "2026-08-20T17:22:01+00:00",
     "category": "drone",
     "severity": "high",
-    "location": "Kyiv",
+    "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199019",
     "score": 6.5,
-    "views": 142679,
-    "forwards": 210
+    "views": 147582,
+    "forwards": 220
   },
   {
     "title": "Ballistic missile launch detected",
@@ -284,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20473",
     "score": 13.5,
-    "views": 188896,
-    "forwards": 226
+    "views": 193639,
+    "forwards": 227
   },
   {
     "title": "👀 Ukraine planned to paralyze Moscow airports with swarms of...",
@@ -412,41 +448,5 @@
     "score": 6.0,
     "views": 23238,
     "forwards": 35
-  },
-  {
-    "title": "Donetsk: Once a hub in the rear, Pavlohrad is now in Russia's guided bomb...",
-    "title_en": "Donetsk: Once a hub in the rear, Pavlohrad is now in Russia's guided bomb...",
-    "title_uk": "Донецьк: Павлоград, який колись був тиловим центром, зараз опинився під ударом російської керованої бомби...",
-    "description": "Once a hub in the rear, Pavlohrad is now in Russia's guided bomb crosshairs When Russia launched its full-scale invasion, the city of Pavlohrad in Dnipropetrovsk Oblast, roughly 75 kilometers (45 miles) from the front line, became a relatively safe haven for those fleeing the war further east. But as the war drags on and the range of Russian weaponry increases, those living there fear their home...",
-    "description_en": "Once a hub in the rear, Pavlohrad is now in Russia's guided bomb crosshairs When Russia launched its full-scale invasion, the city of Pavlohrad in Dnipropetrovsk Oblast, roughly 75 kilometers (45 miles) from the front line, became a relatively safe haven for those fleeing the war further east. But as the war drags on and the range of Russian weaponry increases, those living there fear their home...",
-    "description_uk": "Once a hub in the rear, Pavlohrad is now in Russia's guided bomb crosshairs When Russia launched its full-scale invasion, the city of Pavlohrad in Dnipropetrovsk Oblast, roughly 75 kilometers (45 miles) from the front line, became a relatively safe haven for those fleeing the war further east. But as the war drags on and the range of Russian weaponry increases, those living there fear their home...",
-    "time": "",
-    "pubDate": "2026-08-20T15:36:41+00:00",
-    "category": "shelling",
-    "severity": "high",
-    "location": "Donetsk",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54910",
-    "score": 6.0,
-    "views": 1855,
-    "forwards": 4
-  },
-  {
-    "title": "Kharkiv: Kharkiv region: BpLA in the direction of Lozova from the southeast.",
-    "title_en": "Kharkiv: Kharkiv region: BpLA in the direction of Lozova from the southeast.",
-    "title_uk": "Харків: Харківська область: БпЛА в напрямку Лозової з пд.-сх.",
-    "description": "Kharkiv region: BpLA in the direction of Lozova from the southeast.",
-    "description_en": "Kharkiv region: BpLA in the direction of Lozova from the southeast.",
-    "description_uk": "Харківщина: БпЛА у напрямку Лозової з південного сходу.",
-    "time": "",
-    "pubDate": "2026-08-20T14:53:34+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73635",
-    "score": 6.0,
-    "views": 63733,
-    "forwards": 0
   }
 ]
