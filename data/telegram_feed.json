@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zaporizhzhia: Odeshchyna: BpLA heading for Rozdilna. 🛵 BpLA heading to Zaporozhye...",
+    "title_en": "Zaporizhzhia: Odeshchyna: BpLA heading for Rozdilna. 🛵 BpLA heading to Zaporozhye...",
+    "title_uk": "Запоріжжя: Одещина: BpLA прямує на Роздільну. 🛵 BpLA прямує до Запоріжжя...",
+    "description": "Odeshchyna: BpLA heading for Rozdilna. 🛵 BpLA heading to Zaporozhye from the south.",
+    "description_en": "Odeshchyna: BpLA heading for Rozdilna. 🛵 BpLA heading to Zaporozhye from the south.",
+    "description_uk": "Одещина: БпЛА курсом на Роздільну. 🛵 БпЛА курсом на Запоріжжя із півдня.",
+    "time": "",
+    "pubDate": "2026-08-21T23:40:26+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73837",
+    "score": 6.0,
+    "views": 3037,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: Chernihiv Oblast: \"Banderol\" past Ichnya in the direction of Kyiv...",
+    "title_en": "Chernihiv: Chernihiv Oblast: \"Banderol\" past Ichnya in the direction of Kyiv...",
+    "title_uk": "Чернігів: Чернігівська область: «Бандероль» повз Ічню в напрямку Києва...",
+    "description": "Chernihiv Oblast: \"Banderol\" past Ichnya in the direction of Kyiv Oblast.",
+    "description_en": "Chernihiv Oblast: \"Banderol\" past Ichnya in the direction of Kyiv Oblast.",
+    "description_uk": "Чернігівщина: \"Бандероль\" повз Ічню у напрямку Київщини.",
+    "time": "",
+    "pubDate": "2026-08-21T23:39:15+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73836",
+    "score": 6.0,
+    "views": 4062,
+    "forwards": 34
+  },
+  {
     "title": "Mykolaiv: Mykolayiv region: \"Banderol\" past Vradiivka in the direction of Odesa.",
     "title_en": "Mykolaiv: Mykolayiv region: \"Banderol\" past Vradiivka in the direction of Odesa.",
     "title_uk": "Миколаїв: Миколаївська область: «Бандероль» повз Врадіївку в напрямку Одеси.",
@@ -34,6 +70,24 @@
     "score": 5.0,
     "views": 22309,
     "forwards": 0
+  },
+  {
+    "title": "Взрывы в Николаеве, Шахед над Кривым Рогом, - мониторы",
+    "title_en": "Взрывы в Николаеве, Шахед над Кривым Рогом, - мониторы",
+    "title_uk": "Взрывы в Николаеве, Шахед над Кривым Рогом, - мониторы",
+    "description": "Взрывы в Николаеве, Шахед над Кривым Рогом, - мониторы",
+    "description_en": "Взрывы в Николаеве, Шахед над Кривым Рогом, - мониторы",
+    "description_uk": "Взрывы в Николаеве, Шахед над Кривым Рогом, - мониторы",
+    "time": "",
+    "pubDate": "2026-08-21T22:52:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199128",
+    "score": 5.0,
+    "views": 17560,
+    "forwards": 1
   },
   {
     "title": "Explosions reported",
@@ -110,7 +164,7 @@
   {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "title_uk": "Kyiv: Ballistic missile launch detected",
     "description": "Explosions rock Kyiv as Russia launches ballistic missiles at Ukraine's capital. Several consecutive explosions were heard in Kyiv around 1 a.m. local time on Aug. 22, according to Kyiv Independent journalists on the ground. The explosions came just minutes after an air raid alert was issued.",
     "description_en": "Explosions rock Kyiv as Russia launches ballistic missiles at Ukraine's capital. Several consecutive explosions were heard in Kyiv around 1 a.m. local time on Aug. 22, according to Kyiv Independent journalists on the ground. The explosions came just minutes after an air raid alert was issued.",
     "description_uk": "Explosions rock Kyiv as Russia launches ballistic missiles at Ukraine's capital. Several consecutive explosions were heard in Kyiv around 1 a.m. local time on Aug. 22, according to Kyiv Independent journalists on the ground. The explosions came just minutes after an air raid alert was issued.",
@@ -122,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54936",
     "score": 10.0,
-    "views": 708,
+    "views": 772,
     "forwards": 2
   },
   {
@@ -272,7 +326,7 @@
   {
     "title": "Kryvyi Rih: 15 killed, 130 injured",
     "title_en": "Kryvyi Rih: 15 killed, 130 injured",
-    "title_uk": "Кривий Ріг: 15 загиблих, 130 поранених",
+    "title_uk": "Kryvyi Rih: 15 killed, 130 injured",
     "description": "Update: Death toll rises after Russian attack on Kryvyi Rih, with 15 killed and 130 injured, including 23 children. President Volodymyr Zelensky said the drones struck in two waves, with the second strike taking place around half an hour after the first, when rescue services were already responding at the scene. Photo: Dnipropetrovsk Oblast Military Administration / Telegram",
     "description_en": "Update: Death toll rises after Russian attack on Kryvyi Rih, with 15 killed and 130 injured, including 23 children. President Volodymyr Zelensky said the drones struck in two waves, with the second strike taking place around half an hour after the first, when rescue services were already responding at the scene. Photo: Dnipropetrovsk Oblast Military Administration / Telegram",
     "description_uk": "Update: Death toll rises after Russian attack on Kryvyi Rih, with 15 killed and 130 injured, including 23 children. President Volodymyr Zelensky said the drones struck in two waves, with the second strike taking place around half an hour after the first, when rescue services were already responding at the scene. Photo: Dnipropetrovsk Oblast Military Administration / Telegram",
@@ -284,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54934",
     "score": 10.0,
-    "views": 1625,
+    "views": 1661,
     "forwards": 6
   },
   {
@@ -374,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10067",
     "score": 9.0,
-    "views": 570,
+    "views": 572,
     "forwards": 3
   },
   {
@@ -392,61 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20486",
     "score": 10.0,
-    "views": 32388,
+    "views": 32745,
     "forwards": 25
-  },
-  {
-    "title": "Kherson: BpLA on Kherson from the east.",
-    "title_en": "Kherson: BpLA on Kherson from the east.",
-    "title_uk": "Херсон: БпЛА на Херсон зі сх.",
-    "description": "BpLA on Kherson from the east.",
-    "description_en": "BpLA on Kherson from the east.",
-    "description_uk": "БпЛА на Херсон зі сходу.",
-    "time": "",
-    "pubDate": "2026-08-21T17:59:14+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kherson",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73792",
-    "score": 6.0,
-    "views": 5034,
-    "forwards": 0
-  },
-  {
-    "title": "Chernihiv: 🏍 Reactive BpLA from Bryansk region, Russian Federation - to...",
-    "title_en": "Chernihiv: 🏍 Reactive BpLA from Bryansk region, Russian Federation - to...",
-    "title_uk": "Чернігів: 🏍 Реактивний BpLA з Брянської області, РФ - до...",
-    "description": "🏍 Reactive BpLA from Bryansk region, Russian Federation - to Chernihiv Oblast, heading for Horodnya.",
-    "description_en": "🏍 Reactive BpLA from Bryansk region, Russian Federation - to Chernihiv Oblast, heading for Horodnya.",
-    "description_uk": "🏍 Реактивний БпЛА з Брянської обл., рф - на Чернігівщину, курсом на Городню.",
-    "time": "",
-    "pubDate": "2026-08-21T17:55:47+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73791",
-    "score": 6.0,
-    "views": 13107,
-    "forwards": 0
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "Now in Kryvyi Rih there is a rescue operation after an attack on a shopping center. All necessary forces are involved. Unfortunately, many people were injured. There was an attack by several Russian drones. Purposeful, mean. One by one. So far, 14 people have died. My condolences to family and friends. More than 100 people were injured. It is known that there are 11 children among them. They are finding out information about everyone who could be in...",
-    "description_en": "Now in Kryvyi Rih there is a rescue operation after an attack on a shopping center. All necessary forces are involved. Unfortunately, many people were injured. There was an attack by several Russian drones. Purposeful, mean. One by one. So far, 14 people have died. My condolences to family and friends. More than 100 people were injured. It is known that there are 11 children among them. They are finding out information about everyone who could be in...",
-    "description_uk": "Зараз в Кривому Розі – рятувальна операція після удару по торговельному центру. Сили залучені всі необхідні. На жаль, багато людей постраждали. Був удар кількох російських дронів. Цілеспрямований, підлий. Один за одним. На зараз відомо вже про 14 загиблих. Мої співчуття рідним та близьким. Більше 100 людей поранені. Відомо, що серед них 11 дітей. З’ясовують інформацію про всіх, хто міг бути в...",
-    "time": "",
-    "pubDate": "2026-08-21T17:40:11+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kryvyi Rih",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20485",
-    "score": 6.5,
-    "views": 272545,
-    "forwards": 578
   }
 ]
