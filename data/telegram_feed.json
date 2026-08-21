@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "🏍 Poltava region: jet UAV on/past Gogolevo ➡️ in the direction of Myrhorod.",
+    "description_en": "🏍 Poltava region: jet UAV on/past Gogolevo ➡️ in the direction of Myrhorod.",
+    "description_uk": "🏍 Полтавщина: реактивний БпЛА на/повз Гоголеве ➡️ у напрямку Миргорода.",
+    "time": "",
+    "pubDate": "2026-08-21T03:35:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73692",
+    "score": 5.0,
+    "views": 10059,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
+    "title_en": "Zaporizhzhia: BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
+    "title_uk": "Запоріжжя: BpLA ➡️ в напрямку м. Запоріжжя з південного сходу.",
+    "description": "BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
+    "description_en": "BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
+    "description_uk": "БпЛА ➡️ у напрямку м.Запоріжжя з південного сходу.",
+    "time": "",
+    "pubDate": "2026-08-21T03:22:33+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73690",
+    "score": 6.0,
+    "views": 16148,
+    "forwards": 0
+  },
+  {
     "title": "BpLA ➡️ in the direction of Sumy from the north.",
     "title_en": "BpLA ➡️ in the direction of Sumy from the north.",
     "title_uk": "БпЛА ➡️ в напрямку Сум з півночі.",
@@ -15,24 +51,6 @@
     "link": "https://t.me/kpszsu/73688",
     "score": 5.0,
     "views": 2028,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
-    "title_en": "Zaporizhzhia: BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
-    "title_uk": "Запоріжжя: BpLA ➡️ в напрямку м. Запоріжжя з південного сходу.",
-    "description": "BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
-    "description_en": "BpLA ➡️ in the direction of the city of Zaporozhye from the southeast.",
-    "description_uk": "БпЛА ➡️ у напрямку м.Запоріжжя з південного сходу.",
-    "time": "",
-    "pubDate": "2026-08-21T02:18:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73686",
-    "score": 6.0,
-    "views": 10936,
     "forwards": 0
   },
   {
@@ -122,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54918",
     "score": 6.0,
-    "views": 1019,
+    "views": 1199,
     "forwards": 3
   },
   {
@@ -144,22 +162,22 @@
     "forwards": 15
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A group of UAVs from the Black Sea - in the direction of Odesa (Tatarbunary).",
-    "description_en": "A group of UAVs from the Black Sea - in the direction of Odesa (Tatarbunary).",
-    "description_uk": "Група БпЛА з акваторії Чорного моря - в напрямку Одещини (Татарбунари).",
+    "title": "Another video of Kyiv this night. Rockets arrived one after another",
+    "title_en": "Another video of Kyiv this night. Rockets arrived one after another",
+    "title_uk": "Чергове відео Києва цієї ночі. Одна за одною долітали ракети",
+    "description": "Another video of Kyiv this night. Rockets arrived one after another",
+    "description_en": "Another video of Kyiv this night. Rockets arrived one after another",
+    "description_uk": "Еще одно видео Киева этой ночью. Ракеты прилетали одна за другой",
     "time": "",
-    "pubDate": "2026-08-20T20:55:59+00:00",
-    "category": "drone",
+    "pubDate": "2026-08-20T20:48:01+00:00",
+    "category": "missile",
     "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73671",
-    "score": 5.0,
-    "views": 39777,
-    "forwards": 0
+    "location": "Kyiv",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199034",
+    "score": 5.5,
+    "views": 107924,
+    "forwards": 246
   },
   {
     "title": "Strike confirmed",
@@ -178,24 +196,6 @@
     "score": 5.5,
     "views": 87587,
     "forwards": 246
-  },
-  {
-    "title": "Another video of Kyiv this night. Rockets arrived one after another",
-    "title_en": "Another video of Kyiv this night. Rockets arrived one after another",
-    "title_uk": "Another video of Kyiv this night. Rockets arrived one after another",
-    "description": "Another video of Kyiv this night. Rockets arrived one after another",
-    "description_en": "Another video of Kyiv this night. Rockets arrived one after another",
-    "description_uk": "Еще одно видео Киева этой ночью. Ракеты прилетали одна за другой",
-    "time": "",
-    "pubDate": "2026-08-20T20:48:01+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199034",
-    "score": 5.5,
-    "views": 73892,
-    "forwards": 224
   },
   {
     "title": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
@@ -284,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20474",
     "score": 13.0,
-    "views": 32201,
-    "forwards": 17
+    "views": 33380,
+    "forwards": 18
   },
   {
     "title": "🏍 Sumyshchyna: jet UAV ➡️ to/past Voronezh on a southwesterly course.",
@@ -320,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54913",
     "score": 13.0,
-    "views": 1912,
+    "views": 1963,
     "forwards": 4
   },
   {
@@ -345,8 +345,8 @@
     "title": "Drone strike",
     "title_en": "Drone strike",
     "title_uk": "Безпілотний удар",
-    "description": "Katsapnya again hit the business center in Holoseivsky district of Kyiv. It is not yet known whether this is the center on which the wreckage of a Russian UAV fell a few hours ago. New jet drones continue to attack the capital.",
-    "description_en": "Katsapnya again hit the business center in Holoseivsky district of Kyiv. It is not yet known whether this is the center on which the wreckage of a Russian UAV fell a few hours ago. New jet drones continue to attack the capital.",
+    "description": "Katsapnya again hit the business center in Goloseivsky district of Kyiv. It is not yet known whether this is the business center on which the wreckage of a Russian UAV fell a few hours ago. New jet drones continue to attack the capital.",
+    "description_en": "Katsapnya again hit the business center in Goloseivsky district of Kyiv. It is not yet known whether this is the business center on which the wreckage of a Russian UAV fell a few hours ago. New jet drones continue to attack the capital.",
     "description_uk": "Кацапня снова ударила по бизнес-центру в Голосеевском районе Киева Тот ли это БЦ, на который несколько часов назад упали обломки российского БПЛА, пока неизвестно. Новые реактивные дроны продолжают атаковать столицу.",
     "time": "",
     "pubDate": "2026-08-20T17:22:01+00:00",
@@ -356,7 +356,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199019",
     "score": 6.5,
-    "views": 152364,
+    "views": 158578,
     "forwards": 220
   },
   {
@@ -374,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20473",
     "score": 13.5,
-    "views": 200062,
-    "forwards": 229
+    "views": 210126,
+    "forwards": 232
   },
   {
     "title": "👀 Ukraine planned to paralyze Moscow airports with swarms of...",
