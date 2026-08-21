@@ -1,5 +1,23 @@
 [
   {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "🏍 A jet UAV passes Marganets in the direction of Zaporizhzhia.",
+    "description_en": "🏍 A jet UAV passes Marganets in the direction of Zaporizhzhia.",
+    "description_uk": "🏍 Реактивний БпЛА повз Марганець в напрямку Запоріжжя.",
+    "time": "",
+    "pubDate": "2026-08-21T10:09:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73742",
+    "score": 6.0,
+    "views": 25267,
+    "forwards": 1
+  },
+  {
     "title": "Nikopol: Drone incoming",
     "title_en": "Nikopol: Drone incoming",
     "title_uk": "Нікополь: Дрон вхід",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73741",
     "score": 6.0,
-    "views": 3029,
+    "views": 38435,
     "forwards": 1
   },
   {
@@ -86,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20475",
     "score": 5.5,
-    "views": 59452,
-    "forwards": 206
+    "views": 69733,
+    "forwards": 217
   },
   {
     "title": "Drone incoming",
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54921",
     "score": 8.0,
-    "views": 1094,
+    "views": 1241,
     "forwards": 0
   },
   {
@@ -194,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10065",
     "score": 9.0,
-    "views": 569,
+    "views": 586,
     "forwards": 8
   },
   {
@@ -392,7 +410,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54918",
     "score": 6.0,
-    "views": 2380,
+    "views": 2433,
     "forwards": 3
   },
   {
@@ -410,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20474",
     "score": 13.0,
-    "views": 46730,
+    "views": 47528,
     "forwards": 29
   },
   {
@@ -430,23 +448,5 @@
     "score": 13.0,
     "views": 2229,
     "forwards": 4
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "Work continued for a large part of the day today in Kyiv and in the region - in Boryspil, Brovary - after the Russian attack. It was a combined strike: there were a lot of ballistics, cruise missiles, and drones. Unfortunately, ballistics is the most difficult right now. If the percentage of cruise missiles being shot down in this strike is about 90%, the situation with ballistics is much worse. Missiles are needed for the \"patriots\", this is something that can only provide...",
-    "description_en": "Work continued for a large part of the day today in Kyiv and in the region - in Boryspil, Brovary - after the Russian attack. It was a combined strike: there were a lot of ballistics, cruise missiles, and drones. Unfortunately, ballistics is the most difficult right now. If the percentage of cruise missiles being shot down in this strike is about 90%, the situation with ballistics is much worse. Missiles are needed for the \"patriots\", this is something that can only provide...",
-    "description_uk": "Значну частину дня сьогодні у Києві і в області – в Борисполі, в Броварах – тривали роботи після російського удару. Комбінований був удар: багато балістики, крилатих ракет, були дрони. На жаль, з балістикою найскладніше зараз. Якщо відсоток збиття крилатих ракет в цьому ударі – близько 90%, то з балістикою ситуація значно гірша. Потрібні ракети для «петріотів», це те, що можуть забезпечити тільки...",
-    "time": "",
-    "pubDate": "2026-08-20T17:07:58+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Brovary",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20473",
-    "score": 13.5,
-    "views": 264592,
-    "forwards": 245
   }
 ]
