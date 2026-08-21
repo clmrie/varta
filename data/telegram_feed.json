@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "🏍 Sumyshchyna: a group of jet UAVs heading for Shostka.",
+    "description_en": "🏍 Sumyshchyna: a group of jet UAVs heading for Shostka.",
+    "description_uk": "🏍 Сумщина: група реактивних БпЛА - курсом на Шостку.",
+    "time": "",
+    "pubDate": "2026-08-21T22:52:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73834",
+    "score": 5.0,
+    "views": 6079,
+    "forwards": 0
+  },
+  {
+    "title": "Explosions reported",
+    "title_en": "Explosions reported",
+    "title_uk": "Повідомляється про вибухи",
+    "description": "Explosions in Nikolaev, Shahed over Kryvyi Rih, - monitors",
+    "description_en": "Explosions in Nikolaev, Shahed over Kryvyi Rih, - monitors",
+    "description_uk": "Взрывы в Николаеве, Шахед над Кривым Рогом, - мониторы",
+    "time": "",
+    "pubDate": "2026-08-21T22:52:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199128",
+    "score": 5.0,
+    "views": 3192,
+    "forwards": 1
+  },
+  {
+    "title": "Kryvyi Rih: A group of BpLA headed for Kryvyi Rih.",
+    "title_en": "Kryvyi Rih: A group of BpLA headed for Kryvyi Rih.",
+    "title_uk": "Кривий Ріг: Група БПЛА прямує до Кривого Рогу.",
+    "description": "A group of BpLA headed for Kryvyi Rih.",
+    "description_en": "A group of BpLA headed for Kryvyi Rih.",
+    "description_uk": "Група БпЛА курсом на Кривий Ріг.",
+    "time": "",
+    "pubDate": "2026-08-21T22:43:53+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kryvyi Rih",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73833",
+    "score": 6.0,
+    "views": 18241,
+    "forwards": 34
+  },
+  {
     "title": "Cherkasy region: \"Banderol\" in the direction of...",
     "title_en": "Cherkasy region: \"Banderol\" in the direction of...",
     "title_uk": "Черкаська область: «Бандероль» у напрямку...",
@@ -50,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54936",
     "score": 10.0,
-    "views": 517,
+    "views": 615,
     "forwards": 1
   },
   {
@@ -200,7 +254,7 @@
   {
     "title": "Kryvyi Rih: 15 killed, 130 injured",
     "title_en": "Kryvyi Rih: 15 killed, 130 injured",
-    "title_uk": "Kryvyi Rih: 15 killed, 130 injured",
+    "title_uk": "Кривий Ріг: 15 загиблих, 130 поранених",
     "description": "Update: Death toll rises after Russian attack on Kryvyi Rih, with 15 killed and 130 injured, including 23 children. President Volodymyr Zelensky said the drones struck in two waves, with the second strike taking place around half an hour after the first, when rescue services were already responding at the scene. Photo: Dnipropetrovsk Oblast Military Administration / Telegram",
     "description_en": "Update: Death toll rises after Russian attack on Kryvyi Rih, with 15 killed and 130 injured, including 23 children. President Volodymyr Zelensky said the drones struck in two waves, with the second strike taking place around half an hour after the first, when rescue services were already responding at the scene. Photo: Dnipropetrovsk Oblast Military Administration / Telegram",
     "description_uk": "Update: Death toll rises after Russian attack on Kryvyi Rih, with 15 killed and 130 injured, including 23 children. President Volodymyr Zelensky said the drones struck in two waves, with the second strike taking place around half an hour after the first, when rescue services were already responding at the scene. Photo: Dnipropetrovsk Oblast Military Administration / Telegram",
@@ -212,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54934",
     "score": 10.0,
-    "views": 1533,
+    "views": 1565,
     "forwards": 6
   },
   {
@@ -302,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10067",
     "score": 9.0,
-    "views": 565,
+    "views": 570,
     "forwards": 3
   },
   {
@@ -320,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20486",
     "score": 10.0,
-    "views": 30957,
+    "views": 31969,
     "forwards": 24
   },
   {
@@ -374,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20485",
     "score": 6.5,
-    "views": 264838,
+    "views": 269391,
     "forwards": 568
   },
   {
@@ -394,59 +448,5 @@
     "score": 6.0,
     "views": 11118,
     "forwards": 0
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "🏍 New groups of jet UAVs from Bryansk region, Russian Federation - to Chernihiv Oblast, heading for Horodnya.",
-    "description_en": "🏍 New groups of jet UAVs from Bryansk region, Russian Federation - to Chernihiv Oblast, heading for Horodnya.",
-    "description_uk": "🏍 Нові групи реактивних БпЛА з Брянської обл., рф - на Чернігівщину, курсом на Городню.",
-    "time": "",
-    "pubDate": "2026-08-21T17:00:38+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73775",
-    "score": 6.0,
-    "views": 9095,
-    "forwards": 0
-  },
-  {
-    "title": "Air defense active",
-    "title_en": "Air defense active",
-    "title_uk": "Air defense active",
-    "description": "The Ukrainian Armed Forces received the first Ukrainian reactive interceptor drone Alexa Spatium to combat the \"Shakheds\". The drone develops high speed, is capable of sharp maneuvers and is launched from a mobile catapult. The entire complex is placed in a pickup, and if the target is not hit, the interceptor can be returned for reuse. The development of Ukrainian engineers has already been tested.",
-    "description_en": "The Ukrainian Armed Forces received the first Ukrainian reactive interceptor drone Alexa Spatium to combat the \"Shakheds\". The drone develops high speed, is capable of sharp maneuvers and is launched from a mobile catapult. The entire complex is placed in a pickup, and if the target is not hit, the interceptor can be returned for reuse. The development of Ukrainian engineers has already been tested.",
-    "description_uk": "ВСУ получили первый украинский реактивный дрон-перехватчик Alexa Spatium для борьбы с \"Шахедами\" Дрон развивает высокую скорость, способен выполнять резкие маневры и запускаться с мобильной катапульты. Весь комплекс помещается в пикап, а если цель не поражена, перехватчик может вернуться для повторного использования. Разработка украинских инженеров уже прошла испытания.",
-    "time": "",
-    "pubDate": "2026-08-21T16:31:45+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199096",
-    "score": 5.5,
-    "views": 134615,
-    "forwards": 178
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "A group of UAVs in the direction of Sumy.",
-    "description_en": "A group of UAVs in the direction of Sumy.",
-    "description_uk": "Група БпЛА в напрямку Сум.",
-    "time": "",
-    "pubDate": "2026-08-21T16:30:32+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73774",
-    "score": 5.0,
-    "views": 29350,
-    "forwards": 1
   }
 ]
