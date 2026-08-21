@@ -1,5 +1,59 @@
 [
   {
+    "title": "Mykolaiv: A group of BpLA from Kherson region - to Mykolaiv region, heading for...",
+    "title_en": "Mykolaiv: A group of BpLA from Kherson region - to Mykolaiv region, heading for...",
+    "title_uk": "Миколаїв: Група BpLA з Херсонщини - на Миколаївщину, прямуючи на...",
+    "description": "A group of BpLA from Kherson region - to Mykolaiv region, heading for Snigurivka.",
+    "description_en": "A group of BpLA from Kherson region - to Mykolaiv region, heading for Snigurivka.",
+    "description_uk": "Група БпЛА з Херсонщини - на Миколаївщину, курсом на Снігурівку.",
+    "time": "",
+    "pubDate": "2026-08-21T11:32:44+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73753",
+    "score": 6.0,
+    "views": 6060,
+    "forwards": 0
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "Trump opposed Ukraine's use of Starlink for strikes deep into Russia, Musk supported him According to the interlocutors of the Financial Times newspaper, it was about the possibility of attacking ballistic missile launchers at a depth of up to 200 km from the border. The success of such strikes is important for Kiev in the conditions of an acute shortage of missiles for air defense systems capable of intercepting \"ballistics\". The request was...",
+    "description_en": "Trump opposed Ukraine's use of Starlink for strikes deep into Russia, Musk supported him According to the interlocutors of the Financial Times newspaper, it was about the possibility of attacking ballistic missile launchers at a depth of up to 200 km from the border. The success of such strikes is important for Kiev in the conditions of an acute shortage of missiles for air defense systems capable of intercepting \"ballistics\". The request was...",
+    "description_uk": "Трамп выступил против использования Украиной Starlink для ударов вглубь России, Маск его поддержал По словам собеседников газеты Financial Times, речь шла о возможности атаковать пусковые установки баллистических ракет на глубине до 200 км от границы. Успешность таких ударов важна для Киева в условиях острой нехватки ракет для систем ПВО, способных перехватывать \"баллистику\". Просьба была...",
+    "time": "",
+    "pubDate": "2026-08-21T11:24:58+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199064",
+    "score": 3.5,
+    "views": 15977,
+    "forwards": 72
+  },
+  {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника на північно-східному...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation in the north-eastern direction! 🚀🚀The threat of using aviation means of destruction for the frontline areas!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-08-21T11:24:39+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73750",
+    "score": 5.0,
+    "views": 21231,
+    "forwards": 1
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -32,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54925",
     "score": 6.0,
-    "views": 205,
+    "views": 530,
     "forwards": 1
   },
   {
@@ -140,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20475",
     "score": 5.5,
-    "views": 76699,
-    "forwards": 221
+    "views": 83863,
+    "forwards": 229
   },
   {
     "title": "Kursk: A group of BpLA from the Kursk region, Russian Federation - to Sumy...",
@@ -162,24 +216,6 @@
     "forwards": 1
   },
   {
-    "title": "Mykolaiv: A group of BpLA from Kherson region - to Mykolaiv region, heading for...",
-    "title_en": "Mykolaiv: A group of BpLA from Kherson region - to Mykolaiv region, heading for...",
-    "title_uk": "Миколаїв: Група BpLA з Херсонщини - на Миколаївщину, прямуючи на...",
-    "description": "A group of BpLA from Kherson region - to Mykolaiv region, heading for Mykolaiv.",
-    "description_en": "A group of BpLA from Kherson region - to Mykolaiv region, heading for Mykolaiv.",
-    "description_uk": "Група БпЛА з Херсонщини - на Миколаївщину, курсом на Миколаїв.",
-    "time": "",
-    "pubDate": "2026-08-21T07:44:40+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73726",
-    "score": 6.0,
-    "views": 20194,
-    "forwards": 2
-  },
-  {
     "title": "Kyiv: Air defense active",
     "title_en": "Kyiv: Air defense active",
     "title_uk": "Київ: ППО діюча",
@@ -194,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54921",
     "score": 8.0,
-    "views": 1373,
+    "views": 1503,
     "forwards": 0
   },
   {
@@ -218,9 +254,9 @@
   {
     "title": "16 killed",
     "title_en": "16 killed",
-    "title_uk": "16 вбитих",
-    "description": "A day of mourning for those who died as a result of the massive Russian attack on August 20 was announced in Kyiv today. Currently, 16 dead and dozens of injured are known. We express our sincere condolences to the relatives and friends of those whose lives were taken by Russia, and we wish the victims a speedy recovery. As a result of the attack, residential buildings, industrial facilities, warehouses, hospitals, cars, a school and...",
-    "description_en": "A day of mourning for those who died as a result of the massive Russian attack on August 20 was announced in Kyiv today. Currently, 16 dead and dozens of injured are known. We express our sincere condolences to the relatives and friends of those whose lives were taken by Russia, and we wish the victims a speedy recovery. As a result of the attack, residential buildings, industrial facilities, warehouses, hospitals, cars, a school and...",
+    "title_uk": "16 убитих",
+    "description": "A day of mourning for those who died as a result of the massive Russian attack on August 20 was announced in Kyiv today. So far, 16 dead and dozens of injured are known. We express our sincere condolences to the relatives and friends of those whose lives were taken by Russia, and we wish the victims a speedy recovery. As a result of the attack, residential buildings, industrial facilities, warehouses, hospitals, cars, a school and...",
+    "description_en": "A day of mourning for those who died as a result of the massive Russian attack on August 20 was announced in Kyiv today. So far, 16 dead and dozens of injured are known. We express our sincere condolences to the relatives and friends of those whose lives were taken by Russia, and we wish the victims a speedy recovery. As a result of the attack, residential buildings, industrial facilities, warehouses, hospitals, cars, a school and...",
     "description_uk": "Сьогодні у Києві оголошено День жалоби за загиблими внаслідок масованої російської атаки 20 серпня. Наразі відомо про 16 загиблих та десятки постраждалих. Ми висловлюємо щирі співчуття рідним і близьким тих, чиї життя забрала Росія, та бажаємо якнайшвидшого одужання постраждалим. Внаслідок атаки пошкоджено житлові будинки, промислові об’єкти, складські приміщення, лікарні, автомобілі, школу та...",
     "time": "",
     "pubDate": "2026-08-21T06:03:03+00:00",
@@ -230,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10065",
     "score": 9.0,
-    "views": 633,
+    "views": 672,
     "forwards": 8
   },
   {
@@ -396,24 +432,6 @@
     "forwards": 10
   },
   {
-    "title": "Kharkiv: A group of BpLA in the Kharkiv Region - heading for Shevchenkov.",
-    "title_en": "Kharkiv: A group of BpLA in the Kharkiv Region - heading for Shevchenkov.",
-    "title_uk": "Харків: Група BpLA в Харківській області - прямує на Шевченків.",
-    "description": "A group of BpLA in the Kharkiv Region - heading for Shevchenkov.",
-    "description_en": "A group of BpLA in the Kharkiv Region - heading for Shevchenkov.",
-    "description_uk": "Група БпЛА на Харківщині - курсом на Шевченкове.",
-    "time": "",
-    "pubDate": "2026-08-20T23:07:37+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73675",
-    "score": 6.0,
-    "views": 10883,
-    "forwards": 1
-  },
-  {
     "title": "Kyiv: Zelensky slaps new sanctions on Moscow's war machine, Russian...",
     "title_en": "Kyiv: Zelensky slaps new sanctions on Moscow's war machine, Russian...",
     "title_uk": "Київ: Зеленський накладає нові санкції на військову машину Москви, – Росія...",
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 2433,
     "forwards": 3
-  },
-  {
-    "title": "Brovary: Ballistic missile launch detected",
-    "title_en": "Brovary: Ballistic missile launch detected",
-    "title_uk": "Бровари: виявлено пуск балістичної ракети",
-    "description": "For much of the day today, work continued in Kyiv and the region – in Boryspil and Brovary – in the aftermath of the Russian strike. It was a combined attack involving many ballistic missiles, cruise missiles, and drones. Unfortunately, ballistic missiles are the most difficult challenge right now. While about 90 percent of the cruise missiles in this attack were intercepted, the situation with...",
-    "description_en": "For much of the day today, work continued in Kyiv and the region – in Boryspil and Brovary – in the aftermath of the Russian strike. It was a combined attack involving many ballistic missiles, cruise missiles, and drones. Unfortunately, ballistic missiles are the most difficult challenge right now. While about 90 percent of the cruise missiles in this attack were intercepted, the situation with...",
-    "description_uk": "For much of the day today, work continued in Kyiv and the region – in Boryspil and Brovary – in the aftermath of the Russian strike. It was a combined attack involving many ballistic missiles, cruise missiles, and drones. Unfortunately, ballistic missiles are the most difficult challenge right now. While about 90 percent of the cruise missiles in this attack were intercepted, the situation with...",
-    "time": "",
-    "pubDate": "2026-08-20T17:53:04+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Brovary",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20474",
-    "score": 13.0,
-    "views": 48251,
-    "forwards": 31
   }
 ]
