@@ -1,5 +1,59 @@
 [
   {
+    "title": "Cherkasy region: \"Banderol\" in the direction of...",
+    "title_en": "Cherkasy region: \"Banderol\" in the direction of...",
+    "title_uk": "Черкаська область: «Бандероль» у напрямку...",
+    "description": "Cherkasy region: \"Banderol\" in the direction of Korsun-Shevchenkivskyi.",
+    "description_en": "Cherkasy region: \"Banderol\" in the direction of Korsun-Shevchenkivskyi.",
+    "description_uk": "Черкащина: \"Бандероль\" у напрямку Корсунь-Шевченківського.",
+    "time": "",
+    "pubDate": "2026-08-21T22:29:58+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Cherkasy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73831",
+    "score": 5.0,
+    "views": 27309,
+    "forwards": 34
+  },
+  {
+    "title": "Mykolaiv: BpLA groups headed for Mykolaiv, Bashtanka.",
+    "title_en": "Mykolaiv: BpLA groups headed for Mykolaiv, Bashtanka.",
+    "title_uk": "Миколаїв: групи BpLA прямували на Миколаїв, Баштанку.",
+    "description": "BpLA groups headed for Mykolaiv, Bashtanka.",
+    "description_en": "BpLA groups headed for Mykolaiv, Bashtanka.",
+    "description_uk": "Групи БпЛА курсом на Миколаїв, Баштанку.",
+    "time": "",
+    "pubDate": "2026-08-21T22:28:57+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73830",
+    "score": 6.0,
+    "views": 33409,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "Explosions rock Kyiv as Russia launches ballistic missiles at Ukraine's capital. Several consecutive explosions were heard in Kyiv around 1 a.m. local time on Aug. 22, according to Kyiv Independent journalists on the ground. The explosions came just minutes after an air raid alert was issued.",
+    "description_en": "Explosions rock Kyiv as Russia launches ballistic missiles at Ukraine's capital. Several consecutive explosions were heard in Kyiv around 1 a.m. local time on Aug. 22, according to Kyiv Independent journalists on the ground. The explosions came just minutes after an air raid alert was issued.",
+    "description_uk": "Explosions rock Kyiv as Russia launches ballistic missiles at Ukraine's capital. Several consecutive explosions were heard in Kyiv around 1 a.m. local time on Aug. 22, according to Kyiv Independent journalists on the ground. The explosions came just minutes after an air raid alert was issued.",
+    "time": "",
+    "pubDate": "2026-08-21T22:06:38+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54936",
+    "score": 10.0,
+    "views": 517,
+    "forwards": 1
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -146,7 +200,7 @@
   {
     "title": "Kryvyi Rih: 15 killed, 130 injured",
     "title_en": "Kryvyi Rih: 15 killed, 130 injured",
-    "title_uk": "Кривий Ріг: 15 загиблих, 130 поранених",
+    "title_uk": "Kryvyi Rih: 15 killed, 130 injured",
     "description": "Update: Death toll rises after Russian attack on Kryvyi Rih, with 15 killed and 130 injured, including 23 children. President Volodymyr Zelensky said the drones struck in two waves, with the second strike taking place around half an hour after the first, when rescue services were already responding at the scene. Photo: Dnipropetrovsk Oblast Military Administration / Telegram",
     "description_en": "Update: Death toll rises after Russian attack on Kryvyi Rih, with 15 killed and 130 injured, including 23 children. President Volodymyr Zelensky said the drones struck in two waves, with the second strike taking place around half an hour after the first, when rescue services were already responding at the scene. Photo: Dnipropetrovsk Oblast Military Administration / Telegram",
     "description_uk": "Update: Death toll rises after Russian attack on Kryvyi Rih, with 15 killed and 130 injured, including 23 children. President Volodymyr Zelensky said the drones struck in two waves, with the second strike taking place around half an hour after the first, when rescue services were already responding at the scene. Photo: Dnipropetrovsk Oblast Military Administration / Telegram",
@@ -158,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54934",
     "score": 10.0,
-    "views": 1270,
+    "views": 1533,
     "forwards": 6
   },
   {
@@ -248,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10067",
     "score": 9.0,
-    "views": 517,
+    "views": 565,
     "forwards": 3
   },
   {
@@ -266,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20486",
     "score": 10.0,
-    "views": 28745,
-    "forwards": 23
+    "views": 30957,
+    "forwards": 24
   },
   {
     "title": "Kherson: BpLA on Kherson from the east.",
@@ -320,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20485",
     "score": 6.5,
-    "views": 250386,
-    "forwards": 567
+    "views": 264838,
+    "forwards": 568
   },
   {
     "title": "Dnipro: BpLA from Donetsk region - to Dnipropetrovsk region.",
@@ -394,59 +448,5 @@
     "score": 5.0,
     "views": 29350,
     "forwards": 1
-  },
-  {
-    "title": "Kyiv: Airstrike attack",
-    "title_en": "Kyiv: Airstrike attack",
-    "title_uk": "Київ: Авіаційна атака",
-    "description": "Ukrainian attack on Russian airfield damages Su-34 bomber. The Akhtubinsk air base is home to Russia's 929th State Aircraft Test Center of the Ministry of Defense.",
-    "description_en": "Ukrainian attack on Russian airfield damages Su-34 bomber. The Akhtubinsk air base is home to Russia's 929th State Aircraft Test Center of the Ministry of Defense.",
-    "description_uk": "Ukrainian attack on Russian airfield damages Su-34 bomber. The Akhtubinsk air base is home to Russia's 929th State Aircraft Test Center of the Ministry of Defense.",
-    "time": "",
-    "pubDate": "2026-08-21T16:28:03+00:00",
-    "category": "shelling",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54928",
-    "score": 5.0,
-    "views": 1058,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "A group of UAVs in the direction of Zaporizhzhia from the south.",
-    "description_en": "A group of UAVs in the direction of Zaporizhzhia from the south.",
-    "description_uk": "Група БпЛА в напрямку Запоріжжя з півдня.",
-    "time": "",
-    "pubDate": "2026-08-21T15:41:13+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73771",
-    "score": 6.0,
-    "views": 18218,
-    "forwards": 0
-  },
-  {
-    "title": "Kryvyi Rih: 5 killed, 90 injured",
-    "title_en": "Kryvyi Rih: 5 killed, 90 injured",
-    "title_uk": "Кривий Ріг: 5 загиблих, 90 поранених",
-    "description": "Russia strikes shopping center in Kryvyi Rih, at least 5 dead, more than 90 injured. Russian forces launched a daytime drone strike on a shopping center in Kryvyi Rih on August 21, killing at least five people and injuring more than 90 others, including six children, local authorities said.",
-    "description_en": "Russia strikes shopping center in Kryvyi Rih, at least 5 dead, more than 90 injured. Russian forces launched a daytime drone strike on a shopping center in Kryvyi Rih on August 21, killing at least five people and injuring more than 90 others, including six children, local authorities said.",
-    "description_uk": "Russia strikes shopping center in Kryvyi Rih, at least 5 dead, more than 90 injured. Russian forces launched a daytime drone strike on a shopping center in Kryvyi Rih on August 21, killing at least five people and injuring more than 90 others, including six children, local authorities said.",
-    "time": "",
-    "pubDate": "2026-08-21T15:35:21+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kryvyi Rih",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54927",
-    "score": 18.0,
-    "views": 1338,
-    "forwards": 2
   }
 ]
