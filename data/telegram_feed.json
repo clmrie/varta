@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
+    "description": "BpLA on Zaporozhye from the south.",
+    "description_en": "BpLA on Zaporozhye from the south.",
+    "description_uk": "БпЛА на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-08-21T07:05:43+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73718",
+    "score": 6.0,
+    "views": 9106,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "🏍 Jet UAV from the Black Sea - to Odessa, heading for Odessa, Chornomorsk.",
+    "description_en": "🏍 Jet UAV from the Black Sea - to Odessa, heading for Odessa, Chornomorsk.",
+    "description_uk": "🏍 Реактивний БпЛА з Чорного моря - на Одещину, курсом на Одесу, Чорноморськ.",
+    "time": "",
+    "pubDate": "2026-08-21T06:58:14+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73717",
+    "score": 5.0,
+    "views": 19211,
+    "forwards": 0
+  },
+  {
     "title": "Mykolaiv: A group of BpLA from Kherson region - to Mykolaiv region, heading for...",
     "title_en": "Mykolaiv: A group of BpLA from Kherson region - to Mykolaiv region, heading for...",
     "title_uk": "Миколаїв: Група BpLA з Херсонщини - на Миколаївщину, прямуючи на...",
@@ -50,8 +86,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10065",
     "score": 9.0,
-    "views": 171,
-    "forwards": 4
+    "views": 365,
+    "forwards": 6
   },
   {
     "title": "Donetsk: 135 drones intercepted",
@@ -123,24 +159,6 @@
     "link": "https://t.me/kpszsu/73694",
     "score": 5.0,
     "views": 11117,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "🏍 Poltava region: jet UAV on/past Gogolevo ➡️ in the direction of Myrhorod.",
-    "description_en": "🏍 Poltava region: jet UAV on/past Gogolevo ➡️ in the direction of Myrhorod.",
-    "description_uk": "🏍 Полтавщина: реактивний БпЛА на/повз Гоголеве ➡️ у напрямку Миргорода.",
-    "time": "",
-    "pubDate": "2026-08-21T03:35:15+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73692",
-    "score": 5.0,
-    "views": 10059,
     "forwards": 0
   },
   {
@@ -266,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54918",
     "score": 6.0,
-    "views": 1775,
+    "views": 1959,
     "forwards": 3
   },
   {
@@ -290,7 +308,7 @@
   {
     "title": "Another video of Kyiv this night. Rockets arrived one after another",
     "title_en": "Another video of Kyiv this night. Rockets arrived one after another",
-    "title_uk": "Another video of Kyiv this night. Rockets arrived one after another",
+    "title_uk": "Чергове відео Києва цієї ночі. Одна за одною долітали ракети",
     "description": "Another video of Kyiv this night. Rockets arrived one after another",
     "description_en": "Another video of Kyiv this night. Rockets arrived one after another",
     "description_uk": "Еще одно видео Киева этой ночью. Ракеты прилетали одна за другой",
@@ -302,7 +320,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199034",
     "score": 5.5,
-    "views": 168422,
+    "views": 179160,
     "forwards": 350
   },
   {
@@ -324,60 +342,6 @@
     "forwards": 246
   },
   {
-    "title": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
-    "title_en": "Zaporizhzhia: Zaporizhzhia - BpLA in the direction of the city.",
-    "title_uk": "Запоріжжя: Запоріжжя – БпЛА в напрямку м.",
-    "description": "Zaporizhzhia - BpLA in the direction of the city.",
-    "description_en": "Zaporizhzhia - BpLA in the direction of the city.",
-    "description_uk": "Запоріжжя - БпЛА в напрямку міста.",
-    "time": "",
-    "pubDate": "2026-08-20T19:07:24+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73664",
-    "score": 6.0,
-    "views": 69945,
-    "forwards": 0
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "🏍 Jet UAVs in Chernihiv Oblast, past Slavutych, heading for Kyiv Oblast.",
-    "description_en": "🏍 Jet UAVs in Chernihiv Oblast, past Slavutych, heading for Kyiv Oblast.",
-    "description_uk": "🏍 Реактивні БпЛА на Чернігівщині, повз Славутич, курсом на Київщину.",
-    "time": "",
-    "pubDate": "2026-08-20T18:31:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73660",
-    "score": 6.0,
-    "views": 88160,
-    "forwards": 35
-  },
-  {
-    "title": "Dnipro: Dnipropetrovsk region: BpLA ➡️ in the direction of Kamianskyi from...",
-    "title_en": "Dnipro: Dnipropetrovsk region: BpLA ➡️ in the direction of Kamianskyi from...",
-    "title_uk": "Дніпро: Дніпропетровська область: BpLA ➡️ в напрямку Кам'янського від...",
-    "description": "Dnipropetrovsk region: BpLA ➡️ in the direction of Kamianskyi from the north.",
-    "description_en": "Dnipropetrovsk region: BpLA ➡️ in the direction of Kamianskyi from the north.",
-    "description_uk": "Дніпропетровщина: БпЛА ➡️ у напрямку Кам'янського з півночі.",
-    "time": "",
-    "pubDate": "2026-08-20T18:19:04+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73659",
-    "score": 6.0,
-    "views": 49599,
-    "forwards": 0
-  },
-  {
     "title": "Brovary: Ballistic missile launch detected",
     "title_en": "Brovary: Ballistic missile launch detected",
     "title_uk": "Бровари: виявлено пуск балістичної ракети",
@@ -392,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20474",
     "score": 13.0,
-    "views": 38063,
+    "views": 39580,
     "forwards": 28
   },
   {
@@ -410,13 +374,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54913",
     "score": 13.0,
-    "views": 2157,
+    "views": 2229,
     "forwards": 4
   },
   {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
-    "title_uk": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
     "description": "Work continued for a large part of the day today in Kyiv and in the region - in Boryspil, Brovary - after the Russian strike. It was a combined strike: there were a lot of ballistics, cruise missiles, and drones. Unfortunately, ballistics is the most difficult right now. If the percentage of cruise missiles being shot down in this strike is about 90%, the situation with ballistics is much worse. Missiles are needed for the \"patriots\", this is something that can only provide...",
     "description_en": "Work continued for a large part of the day today in Kyiv and in the region - in Boryspil, Brovary - after the Russian strike. It was a combined strike: there were a lot of ballistics, cruise missiles, and drones. Unfortunately, ballistics is the most difficult right now. If the percentage of cruise missiles being shot down in this strike is about 90%, the situation with ballistics is much worse. Missiles are needed for the \"patriots\", this is something that can only provide...",
     "description_uk": "Значну частину дня сьогодні у Києві і в області – в Борисполі, в Броварах – тривали роботи після російського удару. Комбінований був удар: багато балістики, крилатих ракет, були дрони. На жаль, з балістикою найскладніше зараз. Якщо відсоток збиття крилатих ракет в цьому ударі – близько 90%, то з балістикою ситуація значно гірша. Потрібні ракети для «петріотів», це те, що можуть забезпечити тільки...",
@@ -428,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20473",
     "score": 13.5,
-    "views": 247782,
-    "forwards": 243
+    "views": 258205,
+    "forwards": 245
   },
   {
     "title": "Air defense active",
@@ -446,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10052",
     "score": 9.0,
-    "views": 1212,
+    "views": 1214,
     "forwards": 9
   }
 ]
