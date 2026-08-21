@@ -1,5 +1,59 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Чернігів: Дрон вхід",
+    "description": "🏍 Chernihiv region: jet UAVs in the direction of Slavutych.",
+    "description_en": "🏍 Chernihiv region: jet UAVs in the direction of Slavutych.",
+    "description_uk": "🏍 Чернігівщина: реактивні БпЛА в напрямку Славутича.",
+    "time": "",
+    "pubDate": "2026-08-21T14:55:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73769",
+    "score": 6.0,
+    "views": 2,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "🏍 Jet UAVs from Mykolaiv Oblast heading east of Odesa (Berezhivka).",
+    "description_en": "🏍 Jet UAVs from Mykolaiv Oblast heading east of Odesa (Berezhivka).",
+    "description_uk": "🏍 Реактивні БпЛА з Миколаївщини курсом на схід Одещини (Березівка).",
+    "time": "",
+    "pubDate": "2026-08-21T14:42:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73768",
+    "score": 6.0,
+    "views": 21218,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Київ: повідомляється про постраждалих",
+    "description": "Retired FSB general found dead in Moscow, Russian media report. The 83-year-old was found with a gunshot wound to the head in his apartment according to Russian outlets.",
+    "description_en": "Retired FSB general found dead in Moscow, Russian media report. The 83-year-old was found with a gunshot wound to the head in his apartment according to Russian outlets.",
+    "description_uk": "Retired FSB general found dead in Moscow, Russian media report. The 83-year-old was found with a gunshot wound to the head in his apartment according to Russian outlets.",
+    "time": "",
+    "pubDate": "2026-08-21T14:24:36+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54926",
+    "score": 9.5,
+    "views": 508,
+    "forwards": 1
+  },
+  {
     "title": "2 killed, 15 injured",
     "title_en": "2 killed, 15 injured",
     "title_uk": "2 загиблих, 15 поранених",
@@ -13,9 +67,9 @@
     "location": "Kryvyi Rih",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199084",
-    "score": 4.0,
-    "views": 1034,
-    "forwards": 0
+    "score": 4.5,
+    "views": 43842,
+    "forwards": 70
   },
   {
     "title": "Footage of the arrival from the second angle",
@@ -32,44 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199083",
     "score": 4.5,
-    "views": 10624,
-    "forwards": 69
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "🏍 Mykolaiv region: jet UAV in the direction of Kazanka/Novy Bug from the east.",
-    "description_en": "🏍 Mykolaiv region: jet UAV in the direction of Kazanka/Novy Bug from the east.",
-    "description_uk": "🏍 Миколаївщина: реактивний БпЛА в напрямку Казанки/Нового Буга зі сходу.",
-    "time": "",
-    "pubDate": "2026-08-21T13:43:46+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73764",
-    "score": 6.0,
-    "views": 38458,
-    "forwards": 35
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Чернігів: Дрон вхід",
-    "description": "🏍 Chernihiv region: jet UAVs in the direction of Snovsk, Kulikivka from the east.",
-    "description_en": "🏍 Chernihiv region: jet UAVs in the direction of Snovsk, Kulikivka from the east.",
-    "description_uk": "🏍 Чернігівщина: реактивні БпЛА в напрямку Сновська, Куликівки зі сходу.",
-    "time": "",
-    "pubDate": "2026-08-21T12:23:58+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73762",
-    "score": 6.0,
-    "views": 69773,
-    "forwards": 0
+    "views": 47061,
+    "forwards": 139
   },
   {
     "title": "Chernihiv: 🏍 Jet UAVs headed for Chernihiv.",
@@ -194,8 +212,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54925",
     "score": 6.0,
-    "views": 1355,
-    "forwards": 7
+    "views": 1607,
+    "forwards": 8
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -302,8 +320,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20475",
     "score": 5.5,
-    "views": 111190,
-    "forwards": 252
+    "views": 116306,
+    "forwards": 256
   },
   {
     "title": "Kursk: A group of BpLA from the Kursk region, Russian Federation - to Sumy...",
@@ -374,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10065",
     "score": 9.0,
-    "views": 734,
+    "views": 745,
     "forwards": 8
   },
   {
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/73695",
     "score": 6.0,
     "views": 7077,
-    "forwards": 0
-  },
-  {
-    "title": "A group of UAVs from the Black Sea area ➡️ to the south of Odesa.",
-    "title_en": "A group of UAVs from the Black Sea area ➡️ to the south of Odesa.",
-    "title_uk": "Група БПЛА з акваторії Чорного моря ➡️ на південь від Одеси.",
-    "description": "A group of UAVs from the Black Sea area ➡️ to the south of Odesa.",
-    "description_en": "A group of UAVs from the Black Sea area ➡️ to the south of Odesa.",
-    "description_uk": "Група БпЛА з акваторії Чорного моря ➡️ на південь Одещини.",
-    "time": "",
-    "pubDate": "2026-08-21T04:12:31+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73694",
-    "score": 5.0,
-    "views": 11117,
     "forwards": 0
   }
 ]
