@@ -1,5 +1,41 @@
 [
   {
+    "title": "Dnipro: BpLA from Donetsk region - to Dnipropetrovsk region.",
+    "title_en": "Dnipro: BpLA from Donetsk region - to Dnipropetrovsk region.",
+    "title_uk": "Дніпро: БпЛА з Донецької області - на Дніпропетровську область.",
+    "description": "BpLA from Donetsk region - to Dnipropetrovsk region.",
+    "description_en": "BpLA from Donetsk region - to Dnipropetrovsk region.",
+    "description_uk": "БпЛА з Донеччини - на Дніпропетровщину.",
+    "time": "",
+    "pubDate": "2026-08-21T17:33:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73784",
+    "score": 6.0,
+    "views": 11118,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "🏍 Jet UAV on Kharkiv from the north.",
+    "description_en": "🏍 Jet UAV on Kharkiv from the north.",
+    "description_uk": "🏍 Реактивний БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-08-21T17:32:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73783",
+    "score": 6.0,
+    "views": 14146,
+    "forwards": 0
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54928",
     "score": 5.0,
-    "views": 516,
+    "views": 699,
     "forwards": 0
   },
   {
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54927",
     "score": 18.0,
-    "views": 885,
+    "views": 1056,
     "forwards": 2
   },
   {
@@ -121,9 +157,9 @@
     "location": "Kryvyi Rih",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199090",
-    "score": 4.5,
-    "views": 79661,
-    "forwards": 178
+    "score": 5.5,
+    "views": 91526,
+    "forwards": 213
   },
   {
     "title": "Casualties reported",
@@ -140,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20476",
     "score": 13.5,
-    "views": 307633,
-    "forwards": 1247
+    "views": 350583,
+    "forwards": 1318
   },
   {
     "title": "Strike confirmed",
@@ -410,43 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20475",
     "score": 5.5,
-    "views": 135416,
+    "views": 138606,
     "forwards": 260
-  },
-  {
-    "title": "Attack attack",
-    "title_en": "Attack attack",
-    "title_uk": "Атака нападу",
-    "description": "Продовжуємо нашими далекобійними санкціями повертати наслідки війни туди, звідки вона прийшла. Цієї ночі наші дипстрайки уразили НПЗ у Пермі на відстані понад 1600 кілометрів від кордону та військовий аеродром «Маринівка» у Волгоградському регіоні. Є результати і в акваторії Чорного моря. Також маємо підтверджені результати попередніх ударів: на аеродромі «Ахтубінськ» пошкоджено російський літак...",
-    "description_en": "Продовжуємо нашими далекобійними санкціями повертати наслідки війни туди, звідки вона прийшла. Цієї ночі наші дипстрайки уразили НПЗ у Пермі на відстані понад 1600 кілометрів від кордону та військовий аеродром «Маринівка» у Волгоградському регіоні. Є результати і в акваторії Чорного моря. Також маємо підтверджені результати попередніх ударів: на аеродромі «Ахтубінськ» пошкоджено російський літак...",
-    "description_uk": "Продовжуємо нашими далекобійними санкціями повертати наслідки війни туди, звідки вона прийшла. Цієї ночі наші дипстрайки уразили НПЗ у Пермі на відстані понад 1600 кілометрів від кордону та військовий аеродром «Маринівка» у Волгоградському регіоні. Є результати і в акваторії Чорного моря. Також маємо підтверджені результати попередніх ударів: на аеродромі «Ахтубінськ» пошкоджено російський літак...",
-    "time": "",
-    "pubDate": "2026-08-21T08:21:31+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20475",
-    "score": 5.5,
-    "views": 127931,
-    "forwards": 259
-  },
-  {
-    "title": "Kursk: A group of BpLA from the Kursk region, Russian Federation - to Sumy...",
-    "title_en": "Kursk: A group of BpLA from the Kursk region, Russian Federation - to Sumy...",
-    "title_uk": "Курськ: Група БПЛА з Курської області РФ - до Сум...",
-    "description": "A group of BpLA from the Kursk region, Russian Federation - to Sumy Oblast, heading for Bilopylla, Buryn.",
-    "description_en": "A group of BpLA from the Kursk region, Russian Federation - to Sumy Oblast, heading for Bilopylla, Buryn.",
-    "description_uk": "Група БпЛА з Курської обл., рф - на Сумщину, курсом на Білопілля, Буринь.",
-    "time": "",
-    "pubDate": "2026-08-21T07:45:09+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kursk",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73727",
-    "score": 6.0,
-    "views": 19187,
-    "forwards": 1
   }
 ]
