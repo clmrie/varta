@@ -1,5 +1,41 @@
 [
   {
+    "title": "Nikopol: BpLA past Nikopol in the direction of Kryvyi Rih.",
+    "title_en": "Nikopol: BpLA past Nikopol in the direction of Kryvyi Rih.",
+    "title_uk": "Нікополь: БпЛА повз Нікополь в напрямку Кривого Рогу.",
+    "description": "BpLA past Nikopol in the direction of Kryvyi Rih.",
+    "description_en": "BpLA past Nikopol in the direction of Kryvyi Rih.",
+    "description_uk": "БпЛА повз Нікополь у напрямку Кривого Рогу.",
+    "time": "",
+    "pubDate": "2026-08-21T20:17:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Nikopol",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73816",
+    "score": 6.0,
+    "views": 20259,
+    "forwards": 34
+  },
+  {
+    "title": "Kharkiv: BpLA - headed for Sumy, Kharkiv.",
+    "title_en": "Kharkiv: BpLA - headed for Sumy, Kharkiv.",
+    "title_uk": "Харків: BpLA - прямував на Суми, Харків.",
+    "description": "BpLA - headed for Sumy, Kharkiv.",
+    "description_en": "BpLA - headed for Sumy, Kharkiv.",
+    "description_uk": "БпЛА - курсом на Суми, Харків.",
+    "time": "",
+    "pubDate": "2026-08-21T20:16:10+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73815",
+    "score": 6.0,
+    "views": 22291,
+    "forwards": 0
+  },
+  {
     "title": "Kryvyi Rih: 15 killed, 130 injured",
     "title_en": "Kryvyi Rih: 15 killed, 130 injured",
     "title_uk": "Кривий Ріг: 15 загиблих, 130 поранених",
@@ -14,13 +50,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54934",
     "score": 10.0,
-    "views": 472,
-    "forwards": 5
+    "views": 735,
+    "forwards": 6
   },
   {
     "title": "Kyiv: Kremlin labels independent news outlet Mediazona 'foreign agent' —...",
     "title_en": "Kyiv: Kremlin labels independent news outlet Mediazona 'foreign agent' —...",
-    "title_uk": "Kyiv: Kremlin labels independent news outlet Mediazona 'foreign agent' —...",
+    "title_uk": "Київ: Кремль назвав незалежне видання «Медіазона» іноземним агентом —...",
     "description": "Kremlin labels independent news outlet Mediazona 'foreign agent' — for 2nd time. Pyotr Verzilov, a co-founder of the publication, told the Kyiv Independent that the designation only \"adds power to the incredible reporting that the Mediazona team is doing.\"",
     "description_en": "Kremlin labels independent news outlet Mediazona 'foreign agent' — for 2nd time. Pyotr Verzilov, a co-founder of the publication, told the Kyiv Independent that the designation only \"adds power to the incredible reporting that the Mediazona team is doing.\"",
     "description_uk": "Kremlin labels independent news outlet Mediazona 'foreign agent' — for 2nd time. Pyotr Verzilov, a co-founder of the publication, told the Kyiv Independent that the designation only \"adds power to the incredible reporting that the Mediazona team is doing.\"",
@@ -32,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54933",
     "score": 4.5,
-    "views": 689,
+    "views": 906,
     "forwards": 3
   },
   {
@@ -104,7 +140,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10067",
     "score": 9.0,
-    "views": 390,
+    "views": 439,
     "forwards": 3
   },
   {
@@ -122,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20486",
     "score": 10.0,
-    "views": 20820,
-    "forwards": 8
+    "views": 24496,
+    "forwards": 23
   },
   {
     "title": "Kherson: BpLA on Kherson from the east.",
@@ -176,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20485",
     "score": 6.5,
-    "views": 204362,
-    "forwards": 492
+    "views": 223252,
+    "forwards": 532
   },
   {
     "title": "Dnipro: BpLA from Donetsk region - to Dnipropetrovsk region.",
@@ -248,7 +284,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199096",
     "score": 5.5,
-    "views": 117132,
+    "views": 125708,
     "forwards": 177
   },
   {
@@ -412,41 +448,5 @@
     "score": 9.5,
     "views": 1028,
     "forwards": 3
-  },
-  {
-    "title": "2 killed, 15 injured",
-    "title_en": "2 killed, 15 injured",
-    "title_uk": "2 загиблих, 15 поранених",
-    "description": "More video from the place of arrival in Kryvyi Rih Local authorities report 15 injured and 2 dead.",
-    "description_en": "More video from the place of arrival in Kryvyi Rih Local authorities report 15 injured and 2 dead.",
-    "description_uk": "Еще видео с места прилета в Кривом Роге Местные власти сообщают о 15 пострадавших и 2 погибших.",
-    "time": "",
-    "pubDate": "2026-08-21T14:15:22+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kryvyi Rih",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199084",
-    "score": 4.5,
-    "views": 76235,
-    "forwards": 105
-  },
-  {
-    "title": "Footage of the arrival from the second angle",
-    "title_en": "Footage of the arrival from the second angle",
-    "title_uk": "Кадри приїзду з другого ракурсу",
-    "description": "Footage of the arrival from the second angle",
-    "description_en": "Footage of the arrival from the second angle",
-    "description_uk": "Кадры прилета с другого ракурса",
-    "time": "",
-    "pubDate": "2026-08-21T14:10:05+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199083",
-    "score": 4.5,
-    "views": 47061,
-    "forwards": 139
   }
 ]
