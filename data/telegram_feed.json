@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "🏍 Jet UAV from the Black Sea - to Odeshchyna, heading for the Black Sea, the South.",
+    "description_en": "🏍 Jet UAV from the Black Sea - to Odeshchyna, heading for the Black Sea, the South.",
+    "description_uk": "🏍 Реактивний БпЛА з Чорного моря - на Одещину, курсом на Чорноморське, Південне.",
+    "time": "",
+    "pubDate": "2026-08-21T10:51:49+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73747",
+    "score": 5.0,
+    "views": 15122,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Germany mulls shuttering Russian cultural center in Berlin, media...",
+    "title_en": "Kyiv: Germany mulls shuttering Russian cultural center in Berlin, media...",
+    "title_uk": "Київ: Німеччина думає про закриття російського культурного центру в Берліні, – ЗМІ",
+    "description": "Germany mulls shuttering Russian cultural center in Berlin, media reports. Four years since Moscow launched its full-scale invasion of Ukraine, the Russian House has been allowed to continue operating at its location on Friedrichstrasse, one of Berlin's most famous streets.",
+    "description_en": "Germany mulls shuttering Russian cultural center in Berlin, media reports. Four years since Moscow launched its full-scale invasion of Ukraine, the Russian House has been allowed to continue operating at its location on Friedrichstrasse, one of Berlin's most famous streets.",
+    "description_uk": "Germany mulls shuttering Russian cultural center in Berlin, media reports. Four years since Moscow launched its full-scale invasion of Ukraine, the Russian House has been allowed to continue operating at its location on Friedrichstrasse, one of Berlin's most famous streets.",
+    "time": "",
+    "pubDate": "2026-08-21T10:48:12+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54925",
+    "score": 6.0,
+    "views": 205,
+    "forwards": 1
+  },
+  {
     "title": "Zaporizhzhia: Drone incoming",
     "title_en": "Zaporizhzhia: Drone incoming",
     "title_uk": "Запоріжжя: Дрон вхід",
@@ -93,8 +129,8 @@
     "title": "Airstrike attack",
     "title_en": "Airstrike attack",
     "title_uk": "Авіаційна атака",
-    "description": "With our far-reaching sanctions, we continue to return the consequences of the war to where it came from. That night, our deep strikes hit the oil refinery in Perm, more than 1,600 kilometers from the border, and the Marynivka military airfield in the Volgograd region. There are results in the waters of the Black Sea. We also have confirmed results of previous strikes: a Russian plane was damaged at the Akhtubinsk airfield...",
-    "description_en": "With our far-reaching sanctions, we continue to return the consequences of the war to where it came from. That night, our deep strikes hit the oil refinery in Perm, more than 1,600 kilometers from the border, and the Marynivka military airfield in the Volgograd region. There are results in the waters of the Black Sea. We also have confirmed results of previous strikes: a Russian plane was damaged at the Akhtubinsk airfield...",
+    "description": "With our far-reaching sanctions, we continue to return the consequences of the war to where it came from. That night, our deep strikes hit the oil refinery in Perm, more than 1,600 kilometers from the border, and the Marynivka military airfield in the Volgograd region. There are results in the water area of ​​the Black Sea. We also have confirmed results of previous strikes: a Russian plane was damaged at the Akhtubinsk airfield...",
+    "description_en": "With our far-reaching sanctions, we continue to return the consequences of the war to where it came from. That night, our deep strikes hit the oil refinery in Perm, more than 1,600 kilometers from the border, and the Marynivka military airfield in the Volgograd region. There are results in the water area of ​​the Black Sea. We also have confirmed results of previous strikes: a Russian plane was damaged at the Akhtubinsk airfield...",
     "description_uk": "Продовжуємо нашими далекобійними санкціями повертати наслідки війни туди, звідки вона прийшла. Цієї ночі наші дипстрайки уразили НПЗ у Пермі на відстані понад 1600 кілометрів від кордону та військовий аеродром «Маринівка» у Волгоградському регіоні. Є результати і в акваторії Чорного моря. Також маємо підтверджені результати попередніх ударів: на аеродромі «Ахтубінськ» пошкоджено російський літак...",
     "time": "",
     "pubDate": "2026-08-21T08:21:31+00:00",
@@ -104,26 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20475",
     "score": 5.5,
-    "views": 69733,
-    "forwards": 217
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "🏍 Jet UAV from the Black Sea - to Odeshchyna, heading for Zatok, Serhiyivka.",
-    "description_en": "🏍 Jet UAV from the Black Sea - to Odeshchyna, heading for Zatok, Serhiyivka.",
-    "description_uk": "🏍 Реактивний БпЛА з Чорного моря - на Одещину, курсом на Затоку, Сергіївку.",
-    "time": "",
-    "pubDate": "2026-08-21T08:04:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73731",
-    "score": 5.0,
-    "views": 39394,
-    "forwards": 0
+    "views": 76699,
+    "forwards": 221
   },
   {
     "title": "Kursk: A group of BpLA from the Kursk region, Russian Federation - to Sumy...",
@@ -176,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54921",
     "score": 8.0,
-    "views": 1241,
+    "views": 1373,
     "forwards": 0
   },
   {
@@ -201,8 +219,8 @@
     "title": "16 killed",
     "title_en": "16 killed",
     "title_uk": "16 вбитих",
-    "description": "A day of mourning for those who died as a result of the massive Russian attack on August 20 was announced in Kyiv today. So far, 16 dead and dozens of injured are known. We express our sincere condolences to the relatives and friends of those whose lives were taken by Russia, and we wish the victims a speedy recovery. As a result of the attack, residential buildings, industrial facilities, warehouses, hospitals, cars, a school and...",
-    "description_en": "A day of mourning for those who died as a result of the massive Russian attack on August 20 was announced in Kyiv today. So far, 16 dead and dozens of injured are known. We express our sincere condolences to the relatives and friends of those whose lives were taken by Russia, and we wish the victims a speedy recovery. As a result of the attack, residential buildings, industrial facilities, warehouses, hospitals, cars, a school and...",
+    "description": "A day of mourning for those who died as a result of the massive Russian attack on August 20 was announced in Kyiv today. Currently, 16 dead and dozens of injured are known. We express our sincere condolences to the relatives and friends of those whose lives were taken by Russia, and we wish the victims a speedy recovery. As a result of the attack, residential buildings, industrial facilities, warehouses, hospitals, cars, a school and...",
+    "description_en": "A day of mourning for those who died as a result of the massive Russian attack on August 20 was announced in Kyiv today. Currently, 16 dead and dozens of injured are known. We express our sincere condolences to the relatives and friends of those whose lives were taken by Russia, and we wish the victims a speedy recovery. As a result of the attack, residential buildings, industrial facilities, warehouses, hospitals, cars, a school and...",
     "description_uk": "Сьогодні у Києві оголошено День жалоби за загиблими внаслідок масованої російської атаки 20 серпня. Наразі відомо про 16 загиблих та десятки постраждалих. Ми висловлюємо щирі співчуття рідним і близьким тих, чиї життя забрала Росія, та бажаємо якнайшвидшого одужання постраждалим. Внаслідок атаки пошкоджено житлові будинки, промислові об’єкти, складські приміщення, лікарні, автомобілі, школу та...",
     "time": "",
     "pubDate": "2026-08-21T06:03:03+00:00",
@@ -212,7 +230,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10065",
     "score": 9.0,
-    "views": 586,
+    "views": 633,
     "forwards": 8
   },
   {
@@ -428,25 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20474",
     "score": 13.0,
-    "views": 47528,
-    "forwards": 29
-  },
-  {
-    "title": "Donetsk: Drone strike",
-    "title_en": "Donetsk: Drone strike",
-    "title_uk": "Донецьк: Дрон-удар",
-    "description": "Ukraine hits Russian drone-launch airfields in Primorsko-Akhtarsk, occupied Donetsk, HUR says. HUR operators struck Russian drone storage and launch sites, as well as two radar systems — the 55Zh6U Nebo-U and 55Zh6UM Niobiy, the statement read.",
-    "description_en": "Ukraine hits Russian drone-launch airfields in Primorsko-Akhtarsk, occupied Donetsk, HUR says. HUR operators struck Russian drone storage and launch sites, as well as two radar systems — the 55Zh6U Nebo-U and 55Zh6UM Niobiy, the statement read.",
-    "description_uk": "Ukraine hits Russian drone-launch airfields in Primorsko-Akhtarsk, occupied Donetsk, HUR says. HUR operators struck Russian drone storage and launch sites, as well as two radar systems — the 55Zh6U Nebo-U and 55Zh6UM Niobiy, the statement read.",
-    "time": "",
-    "pubDate": "2026-08-20T17:24:01+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Donetsk",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54913",
-    "score": 13.0,
-    "views": 2229,
-    "forwards": 4
+    "views": 48251,
+    "forwards": 31
   }
 ]
