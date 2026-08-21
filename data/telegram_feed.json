@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "A group of UAVs in the direction of Sumy.",
+    "description_en": "A group of UAVs in the direction of Sumy.",
+    "description_uk": "Група БпЛА в напрямку Сум.",
+    "time": "",
+    "pubDate": "2026-08-21T16:30:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73774",
+    "score": 5.0,
+    "views": 9107,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Airstrike attack",
+    "title_en": "Kyiv: Airstrike attack",
+    "title_uk": "Kyiv: Airstrike attack",
+    "description": "Ukrainian attack on Russian airfield damages Su-34 bomber. The Akhtubinsk air base is home to Russia's 929th State Aircraft Test Center of the Ministry of Defense.",
+    "description_en": "Ukrainian attack on Russian airfield damages Su-34 bomber. The Akhtubinsk air base is home to Russia's 929th State Aircraft Test Center of the Ministry of Defense.",
+    "description_uk": "Ukrainian attack on Russian airfield damages Su-34 bomber. The Akhtubinsk air base is home to Russia's 929th State Aircraft Test Center of the Ministry of Defense.",
+    "time": "",
+    "pubDate": "2026-08-21T16:28:03+00:00",
+    "category": "shelling",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54928",
+    "score": 5.0,
+    "views": 218,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Mykolaiv: Drone incoming",
+    "description": "UAV from the Black Sea in the direction of Ochakov (Mykolaiv Oblast).",
+    "description_en": "UAV from the Black Sea in the direction of Ochakov (Mykolaiv Oblast).",
+    "description_uk": "БпЛА з Чорного моря в напрямку Очакова (Миколаївщина).",
+    "time": "",
+    "pubDate": "2026-08-21T16:17:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73773",
+    "score": 6.0,
+    "views": 27309,
+    "forwards": 0
+  },
+  {
     "title": "Zaporizhzhia: Drone incoming",
     "title_en": "Zaporizhzhia: Drone incoming",
     "title_uk": "Запоріжжя: Дрон вхід",
@@ -20,7 +74,7 @@
   {
     "title": "Kryvyi Rih: 5 killed, 90 injured",
     "title_en": "Kryvyi Rih: 5 killed, 90 injured",
-    "title_uk": "Кривий Ріг: 5 загиблих, 90 поранених",
+    "title_uk": "Kryvyi Rih: 5 killed, 90 injured",
     "description": "Russia strikes shopping center in Kryvyi Rih, at least 5 dead, more than 90 injured. Russian forces launched a daytime drone strike on a shopping center in Kryvyi Rih on August 21, killing at least five people and injuring more than 90 others, including six children, local authorities said.",
     "description_en": "Russia strikes shopping center in Kryvyi Rih, at least 5 dead, more than 90 injured. Russian forces launched a daytime drone strike on a shopping center in Kryvyi Rih on August 21, killing at least five people and injuring more than 90 others, including six children, local authorities said.",
     "description_uk": "Russia strikes shopping center in Kryvyi Rih, at least 5 dead, more than 90 injured. Russian forces launched a daytime drone strike on a shopping center in Kryvyi Rih on August 21, killing at least five people and injuring more than 90 others, including six children, local authorities said.",
@@ -32,26 +86,26 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54927",
     "score": 18.0,
-    "views": 389,
-    "forwards": 1
+    "views": 738,
+    "forwards": 2
   },
   {
     "title": "Drone strike",
     "title_en": "Drone strike",
     "title_uk": "Безпілотний удар",
-    "description": "In Kryvyi Rih, the attack drones worked in two waves: half an hour after the first hit and the fire, there was a second attack on the rescue services, - Zelensky",
-    "description_en": "In Kryvyi Rih, the attack drones worked in two waves: half an hour after the first hit and the fire, there was a second attack on the rescue services, - Zelensky",
+    "description": "В Кривом Роге ударные дроны сработали в две волны: через полчаса после первого попадания и пожара был повторный удар по спасательным службам, - Зеленский",
+    "description_en": "В Кривом Роге ударные дроны сработали в две волны: через полчаса после первого попадания и пожара был повторный удар по спасательным службам, - Зеленский",
     "description_uk": "В Кривом Роге ударные дроны сработали в две волны: через полчаса после первого попадания и пожара был повторный удар по спасательным службам, - Зеленский",
     "time": "",
     "pubDate": "2026-08-21T15:11:05+00:00",
     "category": "drone",
-    "severity": "critical",
-    "location": "Kryvyi Rih",
+    "severity": "high",
+    "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199090",
     "score": 4.5,
-    "views": 46210,
-    "forwards": 107
+    "views": 66778,
+    "forwards": 177
   },
   {
     "title": "Strike confirmed",
@@ -68,8 +122,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20476",
     "score": 13.5,
-    "views": 183638,
-    "forwards": 932
+    "views": 266619,
+    "forwards": 1177
   },
   {
     "title": "Casualties reported",
@@ -123,24 +177,6 @@
     "link": "https://t.me/kpszsu/73769",
     "score": 6.0,
     "views": 33371,
-    "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "🏍 Jet UAVs from Mykolaiv Oblast heading east of Odesa (Berezhivka).",
-    "description_en": "🏍 Jet UAVs from Mykolaiv Oblast heading east of Odesa (Berezhivka).",
-    "description_uk": "🏍 Реактивні БпЛА з Миколаївщини курсом на схід Одещини (Березівка).",
-    "time": "",
-    "pubDate": "2026-08-21T14:42:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73768",
-    "score": 6.0,
-    "views": 21218,
     "forwards": 0
   },
   {
@@ -270,24 +306,6 @@
     "forwards": 1
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "🏍 Jet UAV from the Black Sea - to Odeshchyna, heading for the Black Sea, the South.",
-    "description_en": "🏍 Jet UAV from the Black Sea - to Odeshchyna, heading for the Black Sea, the South.",
-    "description_uk": "🏍 Реактивний БпЛА з Чорного моря - на Одещину, курсом на Чорноморське, Південне.",
-    "time": "",
-    "pubDate": "2026-08-21T10:51:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73747",
-    "score": 5.0,
-    "views": 15122,
-    "forwards": 1
-  },
-  {
     "title": "Kyiv: Germany mulls shuttering Russian cultural center in Berlin, media...",
     "title_en": "Kyiv: Germany mulls shuttering Russian cultural center in Berlin, media...",
     "title_uk": "Kyiv: Germany mulls shuttering Russian cultural center in Berlin, media...",
@@ -378,6 +396,24 @@
     "forwards": 0
   },
   {
+    "title": "Airstrike attack",
+    "title_en": "Airstrike attack",
+    "title_uk": "Авіаційна атака",
+    "description": "With our far-reaching sanctions, we continue to return the consequences of the war to where it came from. That night, our deep strikes hit the oil refinery in Perm, more than 1,600 kilometers from the border, and the Marynivka military airfield in the Volgograd region. There are results in the water area of ​​the Black Sea. We also have confirmed results of previous strikes: a Russian plane was damaged at the Akhtubinsk airfield...",
+    "description_en": "With our far-reaching sanctions, we continue to return the consequences of the war to where it came from. That night, our deep strikes hit the oil refinery in Perm, more than 1,600 kilometers from the border, and the Marynivka military airfield in the Volgograd region. There are results in the water area of ​​the Black Sea. We also have confirmed results of previous strikes: a Russian plane was damaged at the Akhtubinsk airfield...",
+    "description_uk": "Продовжуємо нашими далекобійними санкціями повертати наслідки війни туди, звідки вона прийшла. Цієї ночі наші дипстрайки уразили НПЗ у Пермі на відстані понад 1600 кілометрів від кордону та військовий аеродром «Маринівка» у Волгоградському регіоні. Є результати і в акваторії Чорного моря. Також маємо підтверджені результати попередніх ударів: на аеродромі «Ахтубінськ» пошкоджено російський літак...",
+    "time": "",
+    "pubDate": "2026-08-21T08:21:31+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20475",
+    "score": 5.5,
+    "views": 132193,
+    "forwards": 260
+  },
+  {
     "title": "Attack attack",
     "title_en": "Attack attack",
     "title_uk": "Атака нападу",
@@ -396,24 +432,6 @@
     "forwards": 259
   },
   {
-    "title": "Airstrike attack",
-    "title_en": "Airstrike attack",
-    "title_uk": "Авіаційна атака",
-    "description": "With our far-reaching sanctions, we continue to return the consequences of the war to where it came from. That night, our deep strikes hit the oil refinery in Perm, more than 1,600 kilometers from the border, and the Marynivka military airfield in the Volgograd region. There are results in the water area of ​​the Black Sea. We also have confirmed results of previous strikes: a Russian plane was damaged at the Akhtubinsk airfield...",
-    "description_en": "With our far-reaching sanctions, we continue to return the consequences of the war to where it came from. That night, our deep strikes hit the oil refinery in Perm, more than 1,600 kilometers from the border, and the Marynivka military airfield in the Volgograd region. There are results in the water area of ​​the Black Sea. We also have confirmed results of previous strikes: a Russian plane was damaged at the Akhtubinsk airfield...",
-    "description_uk": "Продовжуємо нашими далекобійними санкціями повертати наслідки війни туди, звідки вона прийшла. Цієї ночі наші дипстрайки уразили НПЗ у Пермі на відстані понад 1600 кілометрів від кордону та військовий аеродром «Маринівка» у Волгоградському регіоні. Є результати і в акваторії Чорного моря. Також маємо підтверджені результати попередніх ударів: на аеродромі «Ахтубінськ» пошкоджено російський літак...",
-    "time": "",
-    "pubDate": "2026-08-21T08:21:31+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20475",
-    "score": 5.5,
-    "views": 123604,
-    "forwards": 257
-  },
-  {
     "title": "Kursk: A group of BpLA from the Kursk region, Russian Federation - to Sumy...",
     "title_en": "Kursk: A group of BpLA from the Kursk region, Russian Federation - to Sumy...",
     "title_uk": "Курськ: Група БПЛА з Курської області РФ - до Сум...",
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 19187,
     "forwards": 1
-  },
-  {
-    "title": "Kyiv: Air defense active",
-    "title_en": "Kyiv: Air defense active",
-    "title_uk": "Київ: ППО діюча",
-    "description": "Drone attack reported on oil refinery in Russia's Perm. Russia’s Defense Ministry claimed its air defenses shot down 325 Ukrainian drones overnight.",
-    "description_en": "Drone attack reported on oil refinery in Russia's Perm. Russia’s Defense Ministry claimed its air defenses shot down 325 Ukrainian drones overnight.",
-    "description_uk": "Drone attack reported on oil refinery in Russia's Perm. Russia’s Defense Ministry claimed its air defenses shot down 325 Ukrainian drones overnight.",
-    "time": "",
-    "pubDate": "2026-08-21T07:30:27+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54921",
-    "score": 8.0,
-    "views": 1920,
-    "forwards": 0
   }
 ]
