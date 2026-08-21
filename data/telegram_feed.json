@@ -1,5 +1,23 @@
 [
   {
+    "title": "A group of UAVs from the Black Sea - to the south of Odesa...",
+    "title_en": "A group of UAVs from the Black Sea - to the south of Odesa...",
+    "title_uk": "Група БПЛА з Чорного моря - на південь від Одеси...",
+    "description": "A group of UAVs from the Black Sea - to the south of Odesa (Tatarbunary/Katlabug).",
+    "description_en": "A group of UAVs from the Black Sea - to the south of Odesa (Tatarbunary/Katlabug).",
+    "description_uk": "Група БпЛА з акваторії Чорного моря - на південь Одещини (Татарбунари/Катлабуг).",
+    "time": "",
+    "pubDate": "2026-08-20T23:50:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73676",
+    "score": 5.0,
+    "views": 3355,
+    "forwards": 10
+  },
+  {
     "title": "Kharkiv: A group of BpLA in the Kharkiv Region - heading for Shevchenkov.",
     "title_en": "Kharkiv: A group of BpLA in the Kharkiv Region - heading for Shevchenkov.",
     "title_uk": "Харків: Група BpLA в Харківській області - прямує на Шевченків.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73675",
     "score": 6.0,
-    "views": 8432,
+    "views": 10883,
     "forwards": 1
   },
   {
@@ -32,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54918",
     "score": 6.0,
-    "views": 621,
+    "views": 669,
     "forwards": 2
   },
   {
@@ -86,7 +104,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199034",
     "score": 5.5,
-    "views": 59403,
+    "views": 61093,
     "forwards": 214
   },
   {
@@ -176,7 +194,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20474",
     "score": 13.0,
-    "views": 30298,
+    "views": 30462,
     "forwards": 15
   },
   {
@@ -212,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54913",
     "score": 13.0,
-    "views": 1742,
+    "views": 1760,
     "forwards": 4
   },
   {
@@ -237,8 +255,8 @@
     "title": "Drone strike",
     "title_en": "Drone strike",
     "title_uk": "Безпілотний удар",
-    "description": "Katsapnya again hit the business center in Goloseivsky district of Kyiv. It is not yet known whether this is the business center on which the wreckage of a Russian UAV fell a few hours ago. New jet drones continue to attack the capital.",
-    "description_en": "Katsapnya again hit the business center in Goloseivsky district of Kyiv. It is not yet known whether this is the business center on which the wreckage of a Russian UAV fell a few hours ago. New jet drones continue to attack the capital.",
+    "description": "Katsapnya again hit the business center in Holoseivsky district of Kyiv. It is not yet known whether this is the center on which the wreckage of a Russian UAV fell a few hours ago. New jet drones continue to attack the capital.",
+    "description_en": "Katsapnya again hit the business center in Holoseivsky district of Kyiv. It is not yet known whether this is the center on which the wreckage of a Russian UAV fell a few hours ago. New jet drones continue to attack the capital.",
     "description_uk": "Кацапня снова ударила по бизнес-центру в Голосеевском районе Киева Тот ли это БЦ, на который несколько часов назад упали обломки российского БПЛА, пока неизвестно. Новые реактивные дроны продолжают атаковать столицу.",
     "time": "",
     "pubDate": "2026-08-20T17:22:01+00:00",
@@ -248,7 +266,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199019",
     "score": 6.5,
-    "views": 142013,
+    "views": 142679,
     "forwards": 210
   },
   {
@@ -266,7 +284,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20473",
     "score": 13.5,
-    "views": 188220,
+    "views": 188896,
     "forwards": 226
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 63733,
     "forwards": 0
-  },
-  {
-    "title": "Kyiv: Drone strike",
-    "title_en": "Kyiv: Drone strike",
-    "title_uk": "Київ: Дрон-удар",
-    "description": "Germany to provide 50 million euros to repair Chornobyl Nuclear Plant after Russian strike. The New Safe Confinement, a protective shelter covering the remains of Chornobyl's destroyed reactor, was damaged by Russian drones in February 2025.",
-    "description_en": "Germany to provide 50 million euros to repair Chornobyl Nuclear Plant after Russian strike. The New Safe Confinement, a protective shelter covering the remains of Chornobyl's destroyed reactor, was damaged by Russian drones in February 2025.",
-    "description_uk": "Germany to provide 50 million euros to repair Chornobyl Nuclear Plant after Russian strike. The New Safe Confinement, a protective shelter covering the remains of Chornobyl's destroyed reactor, was damaged by Russian drones in February 2025.",
-    "time": "",
-    "pubDate": "2026-08-20T14:51:44+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54908",
-    "score": 16.5,
-    "views": 1238,
-    "forwards": 4
   }
 ]
