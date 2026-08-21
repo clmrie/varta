@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zaporizhzhia: BpLA ➡️ in the direction of Zaporozhye from the southeast and Sumy...",
+    "title_en": "Zaporizhzhia: BpLA ➡️ in the direction of Zaporozhye from the southeast and Sumy...",
+    "title_uk": "Запоріжжя: BpLA ➡️ в напрямку Запоріжжя з південного сходу та Сумської...",
+    "description": "BpLA ➡️ in the direction of Zaporozhye from the southeast and Sumy from the north.",
+    "description_en": "BpLA ➡️ in the direction of Zaporozhye from the southeast and Sumy from the north.",
+    "description_uk": "БпЛА ➡️ у напрямку м.Запоріжжя з південного сходу та Сум з півночі.",
+    "time": "",
+    "pubDate": "2026-08-21T04:16:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73695",
+    "score": 6.0,
+    "views": 7077,
+    "forwards": 0
+  },
+  {
+    "title": "A group of UAVs from the Black Sea area ➡️ to the south of Odesa.",
+    "title_en": "A group of UAVs from the Black Sea area ➡️ to the south of Odesa.",
+    "title_uk": "Група БПЛА з акваторії Чорного моря ➡️ на південь від Одеси.",
+    "description": "A group of UAVs from the Black Sea area ➡️ to the south of Odesa.",
+    "description_en": "A group of UAVs from the Black Sea area ➡️ to the south of Odesa.",
+    "description_uk": "Група БпЛА з акваторії Чорного моря ➡️ на південь Одещини.",
+    "time": "",
+    "pubDate": "2026-08-21T04:12:31+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73694",
+    "score": 5.0,
+    "views": 11117,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -140,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54918",
     "score": 6.0,
-    "views": 1199,
+    "views": 1331,
     "forwards": 3
   },
   {
@@ -176,8 +212,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199034",
     "score": 5.5,
-    "views": 107924,
-    "forwards": 246
+    "views": 124825,
+    "forwards": 281
   },
   {
     "title": "Strike confirmed",
@@ -284,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20474",
     "score": 13.0,
-    "views": 33380,
+    "views": 34373,
     "forwards": 18
   },
   {
@@ -320,7 +356,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54913",
     "score": 13.0,
-    "views": 1963,
+    "views": 2013,
     "forwards": 4
   },
   {
@@ -356,7 +392,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199019",
     "score": 6.5,
-    "views": 158578,
+    "views": 162833,
     "forwards": 220
   },
   {
@@ -374,7 +410,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20473",
     "score": 13.5,
-    "views": 210126,
+    "views": 219586,
     "forwards": 232
   },
   {
@@ -412,41 +448,5 @@
     "score": 6.5,
     "views": 108940,
     "forwards": 285
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Kyiv: Drone incoming",
-    "description": "🏍 Kyiv region: a jet UAV in the direction of Ukrainka/Rzhishchev from the northeast.",
-    "description_en": "🏍 Kyiv region: a jet UAV in the direction of Ukrainka/Rzhishchev from the northeast.",
-    "description_uk": "🏍 Київщина: реактивний БпЛА у напрямку Українки/Ржищева з північного сходу.",
-    "time": "",
-    "pubDate": "2026-08-20T17:02:19+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73645",
-    "score": 6.0,
-    "views": 9079,
-    "forwards": 1
-  },
-  {
-    "title": "Air raid alert",
-    "title_en": "Air raid alert",
-    "title_uk": "Повітряна тривога",
-    "description": "An aerial alert has been announced in Kyiv once again during the day: a jet UAV flies over the center of the capital, - monitors",
-    "description_en": "An aerial alert has been announced in Kyiv once again during the day: a jet UAV flies over the center of the capital, - monitors",
-    "description_uk": "В Киеве в очередной раз за день объявлена воздушная тревога: над центром столицы пролетает реактивный БПЛА, - мониторы",
-    "time": "",
-    "pubDate": "2026-08-20T16:47:14+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199017",
-    "score": 5.0,
-    "views": 25532,
-    "forwards": 0
   }
 ]
