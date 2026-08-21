@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chernihiv: 🏍 A group of jet UAVs headed for Chernihiv.",
+    "title_en": "Chernihiv: 🏍 A group of jet UAVs headed for Chernihiv.",
+    "title_uk": "Чернігів: 🏍 Група реактивних БПЛА взяла курс на Чернігів.",
+    "description": "🏍 A group of jet UAVs headed for Chernihiv.",
+    "description_en": "🏍 A group of jet UAVs headed for Chernihiv.",
+    "description_uk": "🏍 Група реактивних БпЛА на - курсом на Чернігів.",
+    "time": "",
+    "pubDate": "2026-08-21T21:41:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73819",
+    "score": 6.0,
+    "views": 3655,
+    "forwards": 30
+  },
+  {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "Групи БпЛА на Миколаївщину з півдня, курсом на Очаків.",
+    "description_en": "Групи БпЛА на Миколаївщину з півдня, курсом на Очаків.",
+    "description_uk": "Групи БпЛА на Миколаївщину з півдня, курсом на Очаків.",
+    "time": "",
+    "pubDate": "2026-08-21T20:45:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73818",
+    "score": 6.0,
+    "views": 31876,
+    "forwards": 0
+  },
+  {
     "title": "Mykolaiv: BpLA groups to the Mykolaiv region from the south, heading for...",
     "title_en": "Mykolaiv: BpLA groups to the Mykolaiv region from the south, heading for...",
     "title_uk": "Миколаїв: групи BpLA до Миколаївської області з півдня, прямуючи на...",
@@ -86,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54934",
     "score": 10.0,
-    "views": 1066,
+    "views": 1176,
     "forwards": 6
   },
   {
@@ -104,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54933",
     "score": 4.5,
-    "views": 1161,
-    "forwards": 3
+    "views": 1251,
+    "forwards": 4
   },
   {
     "title": "Odesa: Attack attack on infrastructure",
@@ -176,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10067",
     "score": 9.0,
-    "views": 492,
+    "views": 507,
     "forwards": 3
   },
   {
@@ -194,7 +230,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20486",
     "score": 10.0,
-    "views": 26706,
+    "views": 28040,
     "forwards": 23
   },
   {
@@ -248,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20485",
     "score": 6.5,
-    "views": 238210,
-    "forwards": 554
+    "views": 244333,
+    "forwards": 555
   },
   {
     "title": "Dnipro: BpLA from Donetsk region - to Dnipropetrovsk region.",
@@ -290,7 +326,7 @@
   {
     "title": "Air defense active",
     "title_en": "Air defense active",
-    "title_uk": "Активна ППО",
+    "title_uk": "Air defense active",
     "description": "The Ukrainian Armed Forces received the first Ukrainian reactive interceptor drone Alexa Spatium to combat the \"Shakheds\". The drone develops high speed, is capable of sharp maneuvers and is launched from a mobile catapult. The entire complex is placed in a pickup, and if the target is not hit, the interceptor can be returned for reuse. The development of Ukrainian engineers has already been tested.",
     "description_en": "The Ukrainian Armed Forces received the first Ukrainian reactive interceptor drone Alexa Spatium to combat the \"Shakheds\". The drone develops high speed, is capable of sharp maneuvers and is launched from a mobile catapult. The entire complex is placed in a pickup, and if the target is not hit, the interceptor can be returned for reuse. The development of Ukrainian engineers has already been tested.",
     "description_uk": "ВСУ получили первый украинский реактивный дрон-перехватчик Alexa Spatium для борьбы с \"Шахедами\" Дрон развивает высокую скорость, способен выполнять резкие маневры и запускаться с мобильной катапульты. Весь комплекс помещается в пикап, а если цель не поражена, перехватчик может вернуться для повторного использования. Разработка украинских инженеров уже прошла испытания.",
@@ -302,7 +338,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199096",
     "score": 5.5,
-    "views": 132364,
+    "views": 134615,
     "forwards": 178
   },
   {
@@ -339,24 +375,6 @@
     "link": "https://t.me/KyivIndependent_official/54928",
     "score": 5.0,
     "views": 1058,
-    "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Mykolaiv: Drone incoming",
-    "description": "UAV from the Black Sea in the direction of Ochakov (Mykolaiv Oblast).",
-    "description_en": "UAV from the Black Sea in the direction of Ochakov (Mykolaiv Oblast).",
-    "description_uk": "БпЛА з Чорного моря в напрямку Очакова (Миколаївщина).",
-    "time": "",
-    "pubDate": "2026-08-21T16:17:09+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73773",
-    "score": 6.0,
-    "views": 27309,
     "forwards": 0
   },
   {
@@ -430,23 +448,5 @@
     "score": 13.5,
     "views": 266619,
     "forwards": 1177
-  },
-  {
-    "title": "Chernihiv: 🏍 Jet UAVs headed for Chernihiv.",
-    "title_en": "Chernihiv: 🏍 Jet UAVs headed for Chernihiv.",
-    "title_uk": "Чернігів: 🏍 Реактивні БПЛА взяли курс на Чернігів.",
-    "description": "🏍 Jet UAVs headed for Chernihiv.",
-    "description_en": "🏍 Jet UAVs headed for Chernihiv.",
-    "description_uk": "🏍 Реактивні БпЛА курсом на Чернігів.",
-    "time": "",
-    "pubDate": "2026-08-21T15:08:19+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73770",
-    "score": 6.0,
-    "views": 40460,
-    "forwards": 0
   }
 ]
