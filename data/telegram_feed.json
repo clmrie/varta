@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone strike",
+    "title_en": "Drone strike",
+    "title_uk": "Безпілотний удар",
+    "description": "В Кривом Роге ударные дроны сработали в две волны: через полчаса после первого попадания и пожара был повторный удар по спасательным службам, - Зеленский",
+    "description_en": "В Кривом Роге ударные дроны сработали в две волны: через полчаса после первого попадания и пожара был повторный удар по спасательным службам, - Зеленский",
+    "description_uk": "В Кривом Роге ударные дроны сработали в две волны: через полчаса после первого попадания и пожара был повторный удар по спасательным службам, - Зеленский",
+    "time": "",
+    "pubDate": "2026-08-21T15:11:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199090",
+    "score": 4.5,
+    "views": 21459,
+    "forwards": 72
+  },
+  {
+    "title": "Casualties reported",
+    "title_en": "Casualties reported",
+    "title_uk": "Повідомляється про постраждалих",
+    "description": "The Russians struck an absolutely cynical and vile attack on an ordinary shopping center in Kryvyi Rih. The strike drones went off in two waves: half an hour after the first hit and the fire, there was a second strike on the rescue services. As of now, it is known about five dead. My condolences to family and friends. There are at least 52 victims, including six children. All wounded are given...",
+    "description_en": "The Russians struck an absolutely cynical and vile attack on an ordinary shopping center in Kryvyi Rih. The strike drones went off in two waves: half an hour after the first hit and the fire, there was a second strike on the rescue services. As of now, it is known about five dead. My condolences to family and friends. There are at least 52 victims, including six children. All wounded are given...",
+    "description_uk": "Абсолютно цинічний і підлий удар завдали росіяни по звичайному торговельному центру в Кривому Розі. Ударні дрони спрацювали у дві хвилі: через пів години після першого влучання і пожежі був повторний удар по рятувальних службах. Станом на зараз відомо про пʼятьох загиблих. Мої співчуття рідним та близьким. Щонайменше зараз 52 постраждалих, серед них шестеро дітей. Усім пораненим надається...",
+    "time": "",
+    "pubDate": "2026-08-21T15:08:51+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kryvyi Rih",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20476",
+    "score": 13.5,
+    "views": 59849,
+    "forwards": 477
+  },
+  {
+    "title": "Chernihiv: 🏍 Jet UAVs headed for Chernihiv.",
+    "title_en": "Chernihiv: 🏍 Jet UAVs headed for Chernihiv.",
+    "title_uk": "Chernihiv: 🏍 Jet UAVs headed for Chernihiv.",
+    "description": "🏍 Jet UAVs headed for Chernihiv.",
+    "description_en": "🏍 Jet UAVs headed for Chernihiv.",
+    "description_uk": "🏍 Реактивні БпЛА курсом на Чернігів.",
+    "time": "",
+    "pubDate": "2026-08-21T15:08:19+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73770",
+    "score": 6.0,
+    "views": 22234,
+    "forwards": 0
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -14,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73769",
     "score": 6.0,
-    "views": 2,
+    "views": 33371,
     "forwards": 0
   },
   {
@@ -50,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54926",
     "score": 9.5,
-    "views": 508,
-    "forwards": 1
+    "views": 776,
+    "forwards": 2
   },
   {
     "title": "2 killed, 15 injured",
@@ -68,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199084",
     "score": 4.5,
-    "views": 43842,
-    "forwards": 70
+    "views": 63226,
+    "forwards": 105
   },
   {
     "title": "Footage of the arrival from the second angle",
@@ -88,24 +142,6 @@
     "score": 4.5,
     "views": 47061,
     "forwards": 139
-  },
-  {
-    "title": "Chernihiv: 🏍 Jet UAVs headed for Chernihiv.",
-    "title_en": "Chernihiv: 🏍 Jet UAVs headed for Chernihiv.",
-    "title_uk": "Чернігів: 🏍 Реактивні БПЛА взяли курс на Чернігів.",
-    "description": "🏍 Jet UAVs headed for Chernihiv.",
-    "description_en": "🏍 Jet UAVs headed for Chernihiv.",
-    "description_uk": "🏍 Реактивні БпЛА курсом на Чернігів.",
-    "time": "",
-    "pubDate": "2026-08-21T12:04:35+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73761",
-    "score": 6.0,
-    "views": 58642,
-    "forwards": 1
   },
   {
     "title": "Chernihiv: A group of BpLA from Bryansk region, Russian Federation - to...",
@@ -200,7 +236,7 @@
   {
     "title": "Kyiv: Germany mulls shuttering Russian cultural center in Berlin, media...",
     "title_en": "Kyiv: Germany mulls shuttering Russian cultural center in Berlin, media...",
-    "title_uk": "Київ: Німеччина думає про закриття російського культурного центру в Берліні, – ЗМІ",
+    "title_uk": "Kyiv: Germany mulls shuttering Russian cultural center in Berlin, media...",
     "description": "Germany mulls shuttering Russian cultural center in Berlin, media reports. Four years since Moscow launched its full-scale invasion of Ukraine, the Russian House has been allowed to continue operating at its location on Friedrichstrasse, one of Berlin's most famous streets.",
     "description_en": "Germany mulls shuttering Russian cultural center in Berlin, media reports. Four years since Moscow launched its full-scale invasion of Ukraine, the Russian House has been allowed to continue operating at its location on Friedrichstrasse, one of Berlin's most famous streets.",
     "description_uk": "Germany mulls shuttering Russian cultural center in Berlin, media reports. Four years since Moscow launched its full-scale invasion of Ukraine, the Russian House has been allowed to continue operating at its location on Friedrichstrasse, one of Berlin's most famous streets.",
@@ -212,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54925",
     "score": 6.0,
-    "views": 1607,
+    "views": 1730,
     "forwards": 8
   },
   {
@@ -320,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20475",
     "score": 5.5,
-    "views": 116306,
-    "forwards": 256
+    "views": 123604,
+    "forwards": 257
   },
   {
     "title": "Kursk: A group of BpLA from the Kursk region, Russian Federation - to Sumy...",
@@ -380,9 +416,9 @@
   {
     "title": "16 killed",
     "title_en": "16 killed",
-    "title_uk": "16 вбитих",
-    "description": "A day of mourning for those who died as a result of the massive Russian attack on August 20 was announced in Kyiv today. Currently, 16 dead and dozens of injured are known. We express our sincere condolences to the relatives and friends of those whose lives were taken by Russia, and we wish the victims a speedy recovery. As a result of the attack, residential buildings, industrial facilities, warehouses, hospitals, cars, a school and...",
-    "description_en": "A day of mourning for those who died as a result of the massive Russian attack on August 20 was announced in Kyiv today. Currently, 16 dead and dozens of injured are known. We express our sincere condolences to the relatives and friends of those whose lives were taken by Russia, and we wish the victims a speedy recovery. As a result of the attack, residential buildings, industrial facilities, warehouses, hospitals, cars, a school and...",
+    "title_uk": "16 убитих",
+    "description": "A day of mourning for those who died as a result of the massive Russian attack on August 20 was announced in Kyiv today. So far, 16 dead and dozens of injured are known. We express our sincere condolences to the relatives and friends of those whose lives were taken by Russia, and we wish the victims a speedy recovery. As a result of the attack, residential buildings, industrial facilities, warehouses, hospitals, cars, a school and...",
+    "description_en": "A day of mourning for those who died as a result of the massive Russian attack on August 20 was announced in Kyiv today. So far, 16 dead and dozens of injured are known. We express our sincere condolences to the relatives and friends of those whose lives were taken by Russia, and we wish the victims a speedy recovery. As a result of the attack, residential buildings, industrial facilities, warehouses, hospitals, cars, a school and...",
     "description_uk": "Сьогодні у Києві оголошено День жалоби за загиблими внаслідок масованої російської атаки 20 серпня. Наразі відомо про 16 загиблих та десятки постраждалих. Ми висловлюємо щирі співчуття рідним і близьким тих, чиї життя забрала Росія, та бажаємо якнайшвидшого одужання постраждалим. Внаслідок атаки пошкоджено житлові будинки, промислові об’єкти, складські приміщення, лікарні, автомобілі, школу та...",
     "time": "",
     "pubDate": "2026-08-21T06:03:03+00:00",
@@ -392,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10065",
     "score": 9.0,
-    "views": 745,
+    "views": 749,
     "forwards": 8
   },
   {
@@ -412,41 +448,5 @@
     "score": 13.5,
     "views": 40481,
     "forwards": 102
-  },
-  {
-    "title": "Chernihiv: Chernihiv region: BpLA passes Novgorod-Siverskyi in the south on a...",
-    "title_en": "Chernihiv: Chernihiv region: BpLA passes Novgorod-Siverskyi in the south on a...",
-    "title_uk": "Чернігів: Чернігівська область: BpLA проходить Новгород-Сіверський на півдні по...",
-    "description": "Chernihiv region: BpLA passes Novgorod-Siverskyi in the south on a westerly course.",
-    "description_en": "Chernihiv region: BpLA passes Novgorod-Siverskyi in the south on a westerly course.",
-    "description_uk": "Чернігівщина: БпЛА повз Новгород-Сіверський на півдні західним курсом.",
-    "time": "",
-    "pubDate": "2026-08-21T04:59:54+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73698",
-    "score": 6.0,
-    "views": 30294,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: BpLA ➡️ in the direction of Zaporozhye from the southeast and Sumy...",
-    "title_en": "Zaporizhzhia: BpLA ➡️ in the direction of Zaporozhye from the southeast and Sumy...",
-    "title_uk": "Запоріжжя: BpLA ➡️ в напрямку Запоріжжя з південного сходу та Сумської...",
-    "description": "BpLA ➡️ in the direction of Zaporozhye from the southeast and Sumy from the north.",
-    "description_en": "BpLA ➡️ in the direction of Zaporozhye from the southeast and Sumy from the north.",
-    "description_uk": "БпЛА ➡️ у напрямку м.Запоріжжя з південного сходу та Сум з півночі.",
-    "time": "",
-    "pubDate": "2026-08-21T04:16:15+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73695",
-    "score": 6.0,
-    "views": 7077,
-    "forwards": 0
   }
 ]
