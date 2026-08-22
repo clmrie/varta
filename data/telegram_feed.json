@@ -1,21 +1,57 @@
 [
   {
+    "title": "Mykolaiv: BpLA on Mykolaiv from the west and east.",
+    "title_en": "Mykolaiv: BpLA on Mykolaiv from the west and east.",
+    "title_uk": "Миколаїв: БпЛА на Миколаїв із зах.-сх.",
+    "description": "BpLA on Mykolaiv from the west and east.",
+    "description_en": "BpLA on Mykolaiv from the west and east.",
+    "description_uk": "БпЛА на Миколаїв із заходу та сходу.",
+    "time": "",
+    "pubDate": "2026-08-22T02:37:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73899",
+    "score": 6.0,
+    "views": 3040,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
-    "description": "🏍 Jet UAV to Sumy Oblast from the east, heading for Putivl, Buryn.",
-    "description_en": "🏍 Jet UAV to Sumy Oblast from the east, heading for Putivl, Buryn.",
-    "description_uk": "🏍 Реактивний БпЛА на Сумщину зі сходу, курсом на Путивль, Буринь.",
+    "description": "🏍 Jet UAVs in the east of Poltava Oblast - heading for Dykanka, Opishna, Kotelva.",
+    "description_en": "🏍 Jet UAVs in the east of Poltava Oblast - heading for Dykanka, Opishna, Kotelva.",
+    "description_uk": "🏍 Реактивні БпЛА на сході Полтавщини - курсом на Диканьку, Опішню, Котельву.",
     "time": "",
-    "pubDate": "2026-08-22T01:40:08+00:00",
+    "pubDate": "2026-08-22T02:36:29+00:00",
     "category": "drone",
     "severity": "high",
-    "location": "Sumy",
+    "location": "Poltava",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73879",
+    "link": "https://t.me/kpszsu/73898",
     "score": 5.0,
-    "views": 10109,
-    "forwards": 1
+    "views": 3047,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Attack attack",
+    "title_en": "Kyiv: Attack attack",
+    "title_uk": "Київ: Атака",
+    "description": "Major oil refinery, logistics center set ablaze in reported Ukrainian attack. Ukraine's military reportedly launched an attack on Russia's Samara Oblast overnight on Aug. 22, striking a key oil refinery as well as a commercial logistics center, Russian Telegram media channels reported.",
+    "description_en": "Major oil refinery, logistics center set ablaze in reported Ukrainian attack. Ukraine's military reportedly launched an attack on Russia's Samara Oblast overnight on Aug. 22, striking a key oil refinery as well as a commercial logistics center, Russian Telegram media channels reported.",
+    "description_uk": "Major oil refinery, logistics center set ablaze in reported Ukrainian attack. Ukraine's military reportedly launched an attack on Russia's Samara Oblast overnight on Aug. 22, striking a key oil refinery as well as a commercial logistics center, Russian Telegram media channels reported.",
+    "time": "",
+    "pubDate": "2026-08-22T02:09:40+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54939",
+    "score": 9.0,
+    "views": 177,
+    "forwards": 0
   },
   {
     "title": "🏍🛵 Unmanned aerial vehicle groups, including jet ones, heading for...",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54938",
     "score": 6.0,
-    "views": 180,
-    "forwards": 2
+    "views": 377,
+    "forwards": 3
   },
   {
     "title": "\"Banderol\" in the direction of Brovary/Kyiv.",
@@ -140,7 +176,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199128",
     "score": 5.0,
-    "views": 40303,
+    "views": 51281,
     "forwards": 25
   },
   {
@@ -412,41 +448,5 @@
     "score": 4.5,
     "views": 1329,
     "forwards": 4
-  },
-  {
-    "title": "Odesa: Attack attack on infrastructure",
-    "title_en": "Odesa: Attack attack on infrastructure",
-    "title_uk": "Одеса: Атака на інфраструктуру",
-    "description": "Former Trump envoy Keith Kellogg visits Odesa amid Russia's ongoing port strikes. According to the Infrastructure Ministry, the U.S. delegation led by Kellogg was shown the damage from Russian attacks on port infrastructure and briefed on measures being taken to maintain operations.",
-    "description_en": "Former Trump envoy Keith Kellogg visits Odesa amid Russia's ongoing port strikes. According to the Infrastructure Ministry, the U.S. delegation led by Kellogg was shown the damage from Russian attacks on port infrastructure and briefed on measures being taken to maintain operations.",
-    "description_uk": "Former Trump envoy Keith Kellogg visits Odesa amid Russia's ongoing port strikes. According to the Infrastructure Ministry, the U.S. delegation led by Kellogg was shown the damage from Russian attacks on port infrastructure and briefed on measures being taken to maintain operations.",
-    "time": "",
-    "pubDate": "2026-08-21T19:01:34+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54932",
-    "score": 5.0,
-    "views": 354,
-    "forwards": 1
-  },
-  {
-    "title": "Dnipro: BpLA on the Dnipro from the east.",
-    "title_en": "Dnipro: BpLA on the Dnipro from the east.",
-    "title_uk": "Дніпро: БпЛА на Дніпрі зі сх.",
-    "description": "BpLA on the Dnipro from the east.",
-    "description_en": "BpLA on the Dnipro from the east.",
-    "description_uk": "БпЛА на Дніпро зі сходу.",
-    "time": "",
-    "pubDate": "2026-08-21T18:44:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73812",
-    "score": 6.0,
-    "views": 55676,
-    "forwards": 34
   }
 ]
