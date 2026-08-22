@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "Kharkiv: UAV in the direction of the city from the north.",
+    "description_en": "Kharkiv: UAV in the direction of the city from the north.",
+    "description_uk": "Харків: БпЛА в напрямку міста з півночі.",
+    "time": "",
+    "pubDate": "2026-08-22T19:32:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74055",
+    "score": 6.0,
+    "views": 12151,
+    "forwards": 1
+  },
+  {
+    "title": "Odesa: Drone incoming",
+    "title_en": "Odesa: Drone incoming",
+    "title_uk": "Одеса: Дрон вхід",
+    "description": "🏍 Jet UAV in Odesa region, in the direction of Odessa from the north",
+    "description_en": "🏍 Jet UAV in Odesa region, in the direction of Odessa from the north",
+    "description_uk": "🏍 Реактивний БпЛА на Одещині, в напрямку м.Одеса з півночі",
+    "time": "",
+    "pubDate": "2026-08-22T19:26:34+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74054",
+    "score": 6.0,
+    "views": 20253,
+    "forwards": 0
+  },
+  {
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Mykolaiv: Drone incoming",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54951",
     "score": 5.0,
-    "views": 426,
-    "forwards": 1
+    "views": 558,
+    "forwards": 4
   },
   {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
@@ -284,7 +320,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199194",
     "score": 4.5,
-    "views": 120190,
+    "views": 125558,
     "forwards": 217
   },
   {
@@ -320,8 +356,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10088",
     "score": 9.0,
-    "views": 494,
-    "forwards": 8
+    "views": 527,
+    "forwards": 9
   },
   {
     "title": "Chernihiv: До Чернігівської обласної дитячої лікарні доставили гуманітарну...",
@@ -412,41 +448,5 @@
     "score": 5.0,
     "views": 43466,
     "forwards": 34
-  },
-  {
-    "title": "☄️ Загроза застосування балістичного озброєння",
-    "title_en": "☄️ Загроза застосування балістичного озброєння",
-    "title_uk": "☄️ Загроза застосування балістичного озброєння",
-    "description": "☄️ Загроза застосування балістичного озброєння",
-    "description_en": "☄️ Загроза застосування балістичного озброєння",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння",
-    "time": "",
-    "pubDate": "2026-08-22T14:22:54+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74018",
-    "score": 5.0,
-    "views": 28310,
-    "forwards": 34
-  },
-  {
-    "title": "Odesa: Drone incoming",
-    "title_en": "Odesa: Drone incoming",
-    "title_uk": "Одеса: Дрон вхід",
-    "description": "🏍 Jet UAV heading towards Odessa from the north.",
-    "description_en": "🏍 Jet UAV heading towards Odessa from the north.",
-    "description_uk": "🏍 Реактивний БпЛА курсом на м.Одеса з півночі.",
-    "time": "",
-    "pubDate": "2026-08-22T13:53:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74014",
-    "score": 6.0,
-    "views": 11113,
-    "forwards": 0
   }
 ]
