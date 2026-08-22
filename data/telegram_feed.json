@@ -1,8 +1,26 @@
 [
   {
+    "title": "Sumy: Drone incoming",
+    "title_en": "Sumy: Drone incoming",
+    "title_uk": "Суми: Дрон вхід",
+    "description": "Суми: БпЛА в напрямку міста",
+    "description_en": "Суми: БпЛА в напрямку міста",
+    "description_uk": "Суми: БпЛА в напрямку міста",
+    "time": "",
+    "pubDate": "2026-08-22T15:05:11+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74023",
+    "score": 6.0,
+    "views": 11142,
+    "forwards": 0
+  },
+  {
     "title": "Zaporizhzhia: Drone incoming",
     "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
+    "title_uk": "Zaporizhzhia: Drone incoming",
     "description": "🏍 city of Zaporizhia: jet UAV heading for the city",
     "description_en": "🏍 city of Zaporizhia: jet UAV heading for the city",
     "description_uk": "🏍 м.Запоріжжя: реактивний БпЛА курсом на місто",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74020",
     "score": 6.0,
-    "views": 19197,
+    "views": 35407,
     "forwards": 0
   },
   {
@@ -104,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54946",
     "score": 6.0,
-    "views": 704,
+    "views": 886,
     "forwards": 1
   },
   {
@@ -164,7 +182,7 @@
   {
     "title": "Drone strike",
     "title_en": "Drone strike",
-    "title_uk": "Безпілотний удар",
+    "title_uk": "Drone strike",
     "description": "the Russian fleet in the Black Sea has nowhere else to hide: Ukrainian strikes will also reach Novorossiysk, — the BBC of the Russian Federation relocated the troughs from occupied Sevastopol to Novorossiysk, hoping to hide them further from Ukrainian missiles and drones. But the recent attacks on the Admiral Makarov and Admiral Essen frigates right at the pier showed that even this base is no longer safe. According to...",
     "description_en": "the Russian fleet in the Black Sea has nowhere else to hide: Ukrainian strikes will also reach Novorossiysk, — the BBC of the Russian Federation relocated the troughs from occupied Sevastopol to Novorossiysk, hoping to hide them further from Ukrainian missiles and drones. But the recent attacks on the Admiral Makarov and Admiral Essen frigates right at the pier showed that even this base is no longer safe. According to...",
     "description_uk": "российскому флоту в Черном море больше негде прятаться: украинские удары достают его и в Новороссийске, — BBC рф перебазировала корыта из оккупированного Севастополя в Новороссийск, рассчитывая спрятать их подальше от украинских ракет и дронов. Но недавние атаки по фрегатам «Адмирал Макаров» и «Адмирал Эссен» прямо у причала показали, что и эта база больше не является безопасной. По данным...",
@@ -176,7 +194,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199183",
     "score": 8.5,
-    "views": 83874,
+    "views": 90370,
     "forwards": 107
   },
   {
@@ -212,8 +230,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54945",
     "score": 21.5,
-    "views": 1118,
-    "forwards": 2
+    "views": 1246,
+    "forwards": 3
   },
   {
     "title": "Kyiv: Germany pledges additional 50 million euros in humanitarian aid to...",
@@ -302,7 +320,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199179",
     "score": 4.5,
-    "views": 106452,
+    "views": 111794,
     "forwards": 493
   },
   {
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/73974",
     "score": 6.0,
     "views": 8071,
-    "forwards": 0
-  },
-  {
-    "title": "🏍 Jet UAVs on n.p. Chornomorsk in Odesa from the Black Sea.",
-    "title_en": "🏍 Jet UAVs on n.p. Chornomorsk in Odesa from the Black Sea.",
-    "title_uk": "🏍 Реактивні БПЛА на н.п. Чорноморська в Одесі з боку Чорного моря.",
-    "description": "🏍 Jet UAVs on n.p. Chornomorsk in Odesa from the Black Sea.",
-    "description_en": "🏍 Jet UAVs on n.p. Chornomorsk in Odesa from the Black Sea.",
-    "description_uk": "🏍 Реактивні БпЛА на н.п. Чорноморськ на Одещині з Чорного моря.",
-    "time": "",
-    "pubDate": "2026-08-22T08:21:18+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73959",
-    "score": 5.0,
-    "views": 1,
     "forwards": 0
   }
 ]
