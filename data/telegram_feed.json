@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "UAV headed for Kharkiv from the east.",
+    "description_en": "UAV headed for Kharkiv from the east.",
+    "description_uk": "БпЛА курсом на Харків зі сходу.",
+    "time": "",
+    "pubDate": "2026-08-22T10:05:29+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73978",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
     "title": "Ballistic missile launch detected",
     "title_en": "Ballistic missile launch detected",
     "title_uk": "Виявлено запуск балістичної ракети",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73976",
     "score": 5.0,
-    "views": 18167,
+    "views": 40249,
     "forwards": 37
   },
   {
@@ -32,8 +50,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199169",
     "score": 5.5,
-    "views": 23349,
-    "forwards": 73
+    "views": 42302,
+    "forwards": 107
   },
   {
     "title": "Kharkiv: Kharkiv: BpLA heading north towards the city.",
@@ -158,7 +176,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20487",
     "score": 20.0,
-    "views": 107752,
+    "views": 112966,
     "forwards": 283
   },
   {
@@ -212,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54942",
     "score": 9.0,
-    "views": 1142,
+    "views": 1210,
     "forwards": 2
   },
   {
@@ -230,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54941",
     "score": 4.5,
-    "views": 1117,
+    "views": 1174,
     "forwards": 1
   },
   {
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/73909",
     "score": 6.0,
     "views": 9081,
-    "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: BpLA on Mykolaiv from the west and east.",
-    "title_en": "Mykolaiv: BpLA on Mykolaiv from the west and east.",
-    "title_uk": "Миколаїв: БпЛА на Миколаїв із зах.-сх.",
-    "description": "BpLA on Mykolaiv from the west and east.",
-    "description_en": "BpLA on Mykolaiv from the west and east.",
-    "description_uk": "БпЛА на Миколаїв із заходу та сходу.",
-    "time": "",
-    "pubDate": "2026-08-22T02:37:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73899",
-    "score": 6.0,
-    "views": 3040,
     "forwards": 0
   }
 ]
