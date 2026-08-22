@@ -1,5 +1,41 @@
 [
   {
+    "title": "☄️ Загроза застосування балістичного озброєння",
+    "title_en": "☄️ Загроза застосування балістичного озброєння",
+    "title_uk": "☄️ Загроза застосування балістичного озброєння",
+    "description": "☄️ Загроза застосування балістичного озброєння",
+    "description_en": "☄️ Загроза застосування балістичного озброєння",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння",
+    "time": "",
+    "pubDate": "2026-08-22T14:22:54+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74018",
+    "score": 5.0,
+    "views": 28310,
+    "forwards": 34
+  },
+  {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "🏍 Mykolaiv city: jet UAV heading towards the city from the east",
+    "description_en": "🏍 Mykolaiv city: jet UAV heading towards the city from the east",
+    "description_uk": "🏍 м.Миколаїв: реактивний БпЛА курсом на місто зі сходу",
+    "time": "",
+    "pubDate": "2026-08-22T14:14:29+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74017",
+    "score": 6.0,
+    "views": 41456,
+    "forwards": 0
+  },
+  {
     "title": "Odesa: Drone incoming",
     "title_en": "Odesa: Drone incoming",
     "title_uk": "Одеса: Дрон вхід",
@@ -32,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54946",
     "score": 6.0,
-    "views": 298,
+    "views": 566,
     "forwards": 1
   },
   {
@@ -92,7 +128,7 @@
   {
     "title": "Drone strike",
     "title_en": "Drone strike",
-    "title_uk": "Безпілотний удар",
+    "title_uk": "Drone strike",
     "description": "the Russian fleet in the Black Sea has nowhere else to hide: Ukrainian strikes will also reach Novorossiysk, — the BBC of the Russian Federation relocated the troughs from occupied Sevastopol to Novorossiysk, hoping to hide them further from Ukrainian missiles and drones. But the recent attacks on the Admiral Makarov and Admiral Essen frigates right at the pier showed that even this base is no longer safe. According to...",
     "description_en": "the Russian fleet in the Black Sea has nowhere else to hide: Ukrainian strikes will also reach Novorossiysk, — the BBC of the Russian Federation relocated the troughs from occupied Sevastopol to Novorossiysk, hoping to hide them further from Ukrainian missiles and drones. But the recent attacks on the Admiral Makarov and Admiral Essen frigates right at the pier showed that even this base is no longer safe. According to...",
     "description_uk": "российскому флоту в Черном море больше негде прятаться: украинские удары достают его и в Новороссийске, — BBC рф перебазировала корыта из оккупированного Севастополя в Новороссийск, рассчитывая спрятать их подальше от украинских ракет и дронов. Но недавние атаки по фрегатам «Адмирал Макаров» и «Адмирал Эссен» прямо у причала показали, что и эта база больше не является безопасной. По данным...",
@@ -104,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199183",
     "score": 8.5,
-    "views": 55927,
-    "forwards": 71
+    "views": 74253,
+    "forwards": 107
   },
   {
     "title": "Chornomorsk: a high-speed destination in the direction of the city...",
@@ -140,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54945",
     "score": 21.5,
-    "views": 860,
+    "views": 1030,
     "forwards": 2
   },
   {
@@ -218,7 +254,7 @@
   {
     "title": "31 missiles + 70 drones launched",
     "title_en": "31 missiles + 70 drones launched",
-    "title_uk": "31 missiles + 70 drones launched",
+    "title_uk": "Запущено 31 ракету + 70 безпілотників",
     "description": "🤬 Almost everything that is possible has been flying over the Odesa region since 4 in the morning, the monitors report. According to their data, 17 Banderol missiles, 4 Kh-59 and Kh-31 missiles, about 10 aerial bombs, about 70 drones have already been launched in the region. The attack continues even now.",
     "description_en": "🤬 Almost everything that is possible has been flying over the Odesa region since 4 in the morning, the monitors report. According to their data, 17 Banderol missiles, 4 Kh-59 and Kh-31 missiles, about 10 aerial bombs, about 70 drones have already been launched in the region. The attack continues even now.",
     "description_uk": "🤬По Одесской области с 4 утра летит практически все, что только можно, сообщают мониторы По их данным, по региону уже запустили 17 ракет «Бандероль», 4 ракеты Х-59 и Х-31, около 10 авиабомб, около 70 дронов. Атака продолжается и сейчас.",
@@ -230,8 +266,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199179",
     "score": 4.5,
-    "views": 90246,
-    "forwards": 457
+    "views": 101047,
+    "forwards": 492
   },
   {
     "title": "Cruise missile heading inbound",
@@ -412,41 +448,5 @@
     "score": 5.0,
     "views": 1,
     "forwards": 0
-  },
-  {
-    "title": "Dnipro: 💣 KAB to the south of Dnipropetrovsk region. 🛵 BpLA to Sumy from the...",
-    "title_en": "Dnipro: 💣 KAB to the south of Dnipropetrovsk region. 🛵 BpLA to Sumy from the...",
-    "title_uk": "Дніпро: 💣 КАБ на південь Дніпропетровської обл. 🛵 BpLA в Суми з...",
-    "description": "💣 KAB to the south of Dnipropetrovsk region. 🛵 BpLA to Sumy from the north.",
-    "description_en": "💣 KAB to the south of Dnipropetrovsk region. 🛵 BpLA to Sumy from the north.",
-    "description_uk": "💣 КАБи на південь Дніпропетровщини. 🛵 БпЛА на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-08-22T08:08:38+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73957",
-    "score": 6.0,
-    "views": 26280,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
-    "title_uk": "Харків: БпЛА на Харків з півночі.",
-    "description": "BpLA on Kharkiv from the north.",
-    "description_en": "BpLA on Kharkiv from the north.",
-    "description_uk": "БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-08-22T07:44:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73954",
-    "score": 6.0,
-    "views": 15145,
-    "forwards": 1
   }
 ]
