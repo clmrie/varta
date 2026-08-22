@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: BpLA from Kharkiv Oblast heading for Poltava Oblast, direction Dykanka",
+    "title_en": "Kharkiv: BpLA from Kharkiv Oblast heading for Poltava Oblast, direction Dykanka",
+    "title_uk": "Харків: BpLA з Харківської області в напрямку Полтавської області, напрямок Диканька",
+    "description": "BpLA from Kharkiv Oblast heading for Poltava Oblast, direction Dykanka",
+    "description_en": "BpLA from Kharkiv Oblast heading for Poltava Oblast, direction Dykanka",
+    "description_uk": "БпЛА з Харківщини курсом на Полтавщину, напрямок Диканька",
+    "time": "",
+    "pubDate": "2026-08-22T20:26:57+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74058",
+    "score": 6.0,
+    "views": 12,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "Zaporozhye: UAV in the direction of the city from the east",
+    "description_en": "Zaporozhye: UAV in the direction of the city from the east",
+    "description_uk": "м.Запоріжжя: БпЛА в напрямку міста зі сходу",
+    "time": "",
+    "pubDate": "2026-08-22T20:24:50+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74057",
+    "score": 6.0,
+    "views": 4061,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Kharkiv: Drone incoming",
@@ -86,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54951",
     "score": 5.0,
-    "views": 728,
+    "views": 1011,
     "forwards": 4
   },
   {
@@ -308,7 +344,7 @@
   {
     "title": "000 drones",
     "title_en": "000 drones",
-    "title_uk": "000 дронів",
+    "title_uk": "000 drones",
     "description": "🤔 Ukraine rejected the plan to paralyze Russian airports with thousands of drones due to the risk of hitting passenger planes and the lack of support from Europe, - The Telegraph According to the publication, up to 1,000 drones per night were supposed to be sent to Moscow airports to stop air traffic. Zelensky allegedly feared that one of the drones might hit a civilian plane, and...",
     "description_en": "🤔 Ukraine rejected the plan to paralyze Russian airports with thousands of drones due to the risk of hitting passenger planes and the lack of support from Europe, - The Telegraph According to the publication, up to 1,000 drones per night were supposed to be sent to Moscow airports to stop air traffic. Zelensky allegedly feared that one of the drones might hit a civilian plane, and...",
     "description_uk": "🤔 Украина отказалась от плана парализовать российские аэропорты тысячами дронов из-за риска попадания в пассажирские самолеты и отсутствия поддержки Европы, - The Telegraph По информации издания, для остановки авиасообщения предполагалось направлять до 1000 дронов за ночь в сторону московских аэропортов. Зеленский якобы опасался, что один из беспилотников может попасть в гражданский самолет, а...",
@@ -320,7 +356,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199194",
     "score": 4.5,
-    "views": 128851,
+    "views": 134249,
     "forwards": 217
   },
   {
@@ -342,6 +378,24 @@
     "forwards": 182
   },
   {
+    "title": "Chernihiv: До Чернігівської обласної дитячої лікарні доставили гуманітарну...",
+    "title_en": "Chernihiv: До Чернігівської обласної дитячої лікарні доставили гуманітарну...",
+    "title_uk": "Chernihiv: До Чернігівської обласної дитячої лікарні доставили гуманітарну...",
+    "description": "До Чернігівської обласної дитячої лікарні доставили гуманітарну допомогу для покращення умов лікування та перебування дітей у медичному закладі. Ініціативу реалізовано у розвиток візиту на Чернігівщину міністра закордонних справ України Андрія Сибіги та в межах роботи Асоціації Подружжів Українських Дипломатів, яку очолює пані Тетяни Сибіги, за сприяння Посольства України вРеспубліці Ангола....",
+    "description_en": "До Чернігівської обласної дитячої лікарні доставили гуманітарну допомогу для покращення умов лікування та перебування дітей у медичному закладі. Ініціативу реалізовано у розвиток візиту на Чернігівщину міністра закордонних справ України Андрія Сибіги та в межах роботи Асоціації Подружжів Українських Дипломатів, яку очолює пані Тетяни Сибіги, за сприяння Посольства України вРеспубліці Ангола....",
+    "description_uk": "До Чернігівської обласної дитячої лікарні доставили гуманітарну допомогу для покращення умов лікування та перебування дітей у медичному закладі. Ініціативу реалізовано у розвиток візиту на Чернігівщину міністра закордонних справ України Андрія Сибіги та в межах роботи Асоціації Подружжів Українських Дипломатів, яку очолює пані Тетяни Сибіги, за сприяння Посольства України вРеспубліці Ангола....",
+    "time": "",
+    "pubDate": "2026-08-22T15:25:56+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Chernihiv",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/10088",
+    "score": 9.0,
+    "views": 548,
+    "forwards": 9
+  },
+  {
     "title": "Chernihiv: Humanitarian aid was delivered to the Chernihiv Regional Children's...",
     "title_en": "Chernihiv: Humanitarian aid was delivered to the Chernihiv Regional Children's...",
     "title_uk": "Чернігів: Гуманітарну допомогу доставили до Чернігівського обласного дитячого...",
@@ -358,24 +412,6 @@
     "score": 9.0,
     "views": 538,
     "forwards": 9
-  },
-  {
-    "title": "Chernihiv: До Чернігівської обласної дитячої лікарні доставили гуманітарну...",
-    "title_en": "Chernihiv: До Чернігівської обласної дитячої лікарні доставили гуманітарну...",
-    "title_uk": "Chernihiv: До Чернігівської обласної дитячої лікарні доставили гуманітарну...",
-    "description": "До Чернігівської обласної дитячої лікарні доставили гуманітарну допомогу для покращення умов лікування та перебування дітей у медичному закладі. Ініціативу реалізовано у розвиток візиту на Чернігівщину міністра закордонних справ України Андрія Сибіги та в межах роботи Асоціації Подружжів Українських Дипломатів, яку очолює пані Тетяни Сибіги, за сприяння Посольства України вРеспубліці Ангола....",
-    "description_en": "До Чернігівської обласної дитячої лікарні доставили гуманітарну допомогу для покращення умов лікування та перебування дітей у медичному закладі. Ініціативу реалізовано у розвиток візиту на Чернігівщину міністра закордонних справ України Андрія Сибіги та в межах роботи Асоціації Подружжів Українських Дипломатів, яку очолює пані Тетяни Сибіги, за сприяння Посольства України вРеспубліці Ангола....",
-    "description_uk": "До Чернігівської обласної дитячої лікарні доставили гуманітарну допомогу для покращення умов лікування та перебування дітей у медичному закладі. Ініціативу реалізовано у розвиток візиту на Чернігівщину міністра закордонних справ України Андрія Сибіги та в межах роботи Асоціації Подружжів Українських Дипломатів, яку очолює пані Тетяни Сибіги, за сприяння Посольства України вРеспубліці Ангола....",
-    "time": "",
-    "pubDate": "2026-08-22T15:25:56+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Chernihiv",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/10088",
-    "score": 9.0,
-    "views": 440,
-    "forwards": 8
   },
   {
     "title": "Sumy: Sumy: BpLA in the direction of the city",
@@ -412,41 +448,5 @@
     "score": 6.0,
     "views": 11142,
     "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Zaporizhzhia: Drone incoming",
-    "description": "🏍 city of Zaporizhia: jet UAV heading for the city",
-    "description_en": "🏍 city of Zaporizhia: jet UAV heading for the city",
-    "description_uk": "🏍 м.Запоріжжя: реактивний БпЛА курсом на місто",
-    "time": "",
-    "pubDate": "2026-08-22T14:38:32+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74020",
-    "score": 6.0,
-    "views": 35407,
-    "forwards": 0
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons",
-    "description_en": "☄️ The threat of using ballistic weapons",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння",
-    "time": "",
-    "pubDate": "2026-08-22T14:22:54+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74018",
-    "score": 5.0,
-    "views": 43466,
-    "forwards": 34
   }
 ]
