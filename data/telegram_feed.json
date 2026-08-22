@@ -1,5 +1,23 @@
 [
   {
+    "title": "Sumy: Sumy: BpLA heading north towards the city.",
+    "title_en": "Sumy: Sumy: BpLA heading north towards the city.",
+    "title_uk": "Суми: Суми: BpLA прямує на північ до міста.",
+    "description": "Sumy: BpLA heading north towards the city.",
+    "description_en": "Sumy: BpLA heading north towards the city.",
+    "description_uk": "Суми: БпЛА з півночі курсом на місто.",
+    "time": "",
+    "pubDate": "2026-08-22T10:42:52+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73986",
+    "score": 6.0,
+    "views": 17177,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: Kharkiv: BpLA heading north towards the city.",
     "title_en": "Kharkiv: Kharkiv: BpLA heading north towards the city.",
     "title_uk": "Харків: Харків: BpLA прямує на північ до міста.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73983",
     "score": 6.0,
-    "views": 5041,
+    "views": 30325,
     "forwards": 0
   },
   {
@@ -68,7 +86,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199169",
     "score": 5.5,
-    "views": 63628,
+    "views": 73370,
     "forwards": 141
   },
   {
@@ -176,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20487",
     "score": 20.0,
-    "views": 120420,
-    "forwards": 294
+    "views": 124199,
+    "forwards": 304
   },
   {
     "title": "Dnipro: 🏍 Dnipro: jet UAV over the city.",
@@ -230,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54942",
     "score": 9.0,
-    "views": 1324,
+    "views": 1385,
     "forwards": 2
   },
   {
@@ -248,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54941",
     "score": 4.5,
-    "views": 1271,
+    "views": 1325,
     "forwards": 1
   },
   {
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/73910",
     "score": 6.0,
     "views": 6042,
-    "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "🏍 Jet UAV in the center of Mykolaiv Oblast - heading for Voznesensk.",
-    "description_en": "🏍 Jet UAV in the center of Mykolaiv Oblast - heading for Voznesensk.",
-    "description_uk": "🏍 Реактивний БпЛА у центрі Миколаївщини - курсом на Вознесенськ.",
-    "time": "",
-    "pubDate": "2026-08-22T03:12:46+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73909",
-    "score": 6.0,
-    "views": 9081,
     "forwards": 0
   }
 ]
