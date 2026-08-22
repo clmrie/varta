@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons from the north.",
+    "description_en": "☄️ The threat of using ballistic weapons from the north.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння з півночі.",
+    "time": "",
+    "pubDate": "2026-08-22T09:46:05+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73976",
+    "score": 5.0,
+    "views": 18167,
+    "forwards": 37
+  },
+  {
+    "title": "And at the Primorsko-Akhtarsk airfield, 18 warehouses with Russian...",
+    "title_en": "And at the Primorsko-Akhtarsk airfield, 18 warehouses with Russian...",
+    "title_uk": "А на аеродромі Приморсько-Ахтарськ відкрито 18 складів з російськими...",
+    "description": "And at the Primorsko-Akhtarsk airfield, 18 warehouses with Russian UAVs and Niobiy radars were damaged, — General Staff What a day 🔥",
+    "description_en": "And at the Primorsko-Akhtarsk airfield, 18 warehouses with Russian UAVs and Niobiy radars were damaged, — General Staff What a day 🔥",
+    "description_uk": "А на аэродроме «Приморско-Ахтарск» повреждены 18 складов с российскими БпЛА и РЛС «Ниобий», — Генштаб What a day 🔥",
+    "time": "",
+    "pubDate": "2026-08-22T09:32:44+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199169",
+    "score": 5.5,
+    "views": 23349,
+    "forwards": 73
+  },
+  {
     "title": "Kharkiv: Kharkiv: BpLA heading north towards the city.",
     "title_en": "Kharkiv: Kharkiv: BpLA heading north towards the city.",
     "title_uk": "Харків: Харків: BpLA прямує на північ до міста.",
@@ -14,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/73975",
     "score": 6.0,
-    "views": 1,
-    "forwards": 0
+    "views": 37389,
+    "forwards": 1
   },
   {
     "title": "Odesa: Odesa: UAV over the city.",
@@ -34,24 +70,6 @@
     "score": 6.0,
     "views": 8071,
     "forwards": 0
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons from the north.",
-    "description_en": "☄️ The threat of using ballistic weapons from the north.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння з півночі.",
-    "time": "",
-    "pubDate": "2026-08-22T08:39:34+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73962",
-    "score": 5.0,
-    "views": 68673,
-    "forwards": 1
   },
   {
     "title": "Drone incoming",
@@ -140,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20487",
     "score": 20.0,
-    "views": 95885,
-    "forwards": 243
+    "views": 107752,
+    "forwards": 283
   },
   {
     "title": "Dnipro: 🏍 Dnipro: jet UAV over the city.",
@@ -194,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54942",
     "score": 9.0,
-    "views": 1030,
+    "views": 1142,
     "forwards": 2
   },
   {
@@ -212,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54941",
     "score": 4.5,
-    "views": 1017,
+    "views": 1117,
     "forwards": 1
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 3040,
     "forwards": 0
-  },
-  {
-    "title": "Kyiv: Attack attack",
-    "title_en": "Kyiv: Attack attack",
-    "title_uk": "Київ: Атака",
-    "description": "Major oil refinery, logistics center set ablaze in reported Ukrainian attack. Ukraine's military reportedly launched an attack on Russia's Samara Oblast overnight on Aug. 22, striking a key oil refinery as well as a commercial logistics center, Russian Telegram media channels reported.",
-    "description_en": "Major oil refinery, logistics center set ablaze in reported Ukrainian attack. Ukraine's military reportedly launched an attack on Russia's Samara Oblast overnight on Aug. 22, striking a key oil refinery as well as a commercial logistics center, Russian Telegram media channels reported.",
-    "description_uk": "Major oil refinery, logistics center set ablaze in reported Ukrainian attack. Ukraine's military reportedly launched an attack on Russia's Samara Oblast overnight on Aug. 22, striking a key oil refinery as well as a commercial logistics center, Russian Telegram media channels reported.",
-    "time": "",
-    "pubDate": "2026-08-22T02:09:40+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54939",
-    "score": 9.0,
-    "views": 1201,
-    "forwards": 3
   }
 ]
