@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "🏍 Reactive UAVs in Odesa, heading for Berezivka",
+    "description_en": "🏍 Reactive UAVs in Odesa, heading for Berezivka",
+    "description_uk": "🏍 Реактивні БпЛА на Одещині, курсом на н.п.Березівка",
+    "time": "",
+    "pubDate": "2026-08-22T20:40:12+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74060",
+    "score": 5.0,
+    "views": 13134,
+    "forwards": 0
+  },
+  {
+    "title": "🤬 Russian Federation increases the production of reactive UAVs and...",
+    "title_en": "🤬 Russian Federation increases the production of reactive UAVs and...",
+    "title_uk": "🤬 РФ нарощує виробництво реактивних БПЛА та...",
+    "description": "🤬 Russian Federation increases the production of reactive UAVs and can produce up to 300-400 \"Banderolei\" per month, - \"Flash\" According to the adviser to the president, Sergei Beskrestnov, Russia is increasing the production of reactive drones, since Ukraine has learned to effectively counter the usual \"Shahedas\". The main bet of the Russians is on \"Banderol\" with a warhead of about 100 kg. Due to the high speed and ability...",
+    "description_en": "🤬 Russian Federation increases the production of reactive UAVs and can produce up to 300-400 \"Banderolei\" per month, - \"Flash\" According to the adviser to the president, Sergei Beskrestnov, Russia is increasing the production of reactive drones, since Ukraine has learned to effectively counter the usual \"Shahedas\". The main bet of the Russians is on \"Banderol\" with a warhead of about 100 kg. Due to the high speed and ability...",
+    "description_uk": "🤬 рф наращивает производство реактивных БПЛА и может выпускать до 300-400 \"Бандеролей\" в месяц, - \"Флэш\" По словам советника президента Сергея Бескрестнова, россия усиливает производство реактивных дронов, поскольку Украина научилась эффективно противодействовать обычным \"Шахедам\". Основную ставку россияне делают на \"Бандероль\" с боевой частью около 100 кг. Из-за высокой скорости и способности...",
+    "time": "",
+    "pubDate": "2026-08-22T20:30:01+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199208",
+    "score": 8.5,
+    "views": 21533,
+    "forwards": 70
+  },
+  {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "🏍 Jet UAVs from the Black Sea area heading for Mykolaiv Oblast.",
+    "description_en": "🏍 Jet UAVs from the Black Sea area heading for Mykolaiv Oblast.",
+    "description_uk": "🏍 Реактивні БпЛА з акваторії Чорного моря курсом на Миколаївщину.",
+    "time": "",
+    "pubDate": "2026-08-22T20:28:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74059",
+    "score": 6.0,
+    "views": 26337,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: BpLA from Kharkiv Oblast heading for Poltava Oblast, direction Dykanka",
     "title_en": "Kharkiv: BpLA from Kharkiv Oblast heading for Poltava Oblast, direction Dykanka",
     "title_uk": "Харків: BpLA з Харківської області в напрямку Полтавської області, напрямок Диканька",
@@ -72,24 +126,6 @@
     "forwards": 0
   },
   {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Mykolaiv: Drone incoming",
-    "description": "🏍 Реактивний БпЛА з акваторії Чорного моря курсом на Миколаївщину.",
-    "description_en": "🏍 Реактивний БпЛА з акваторії Чорного моря курсом на Миколаївщину.",
-    "description_uk": "🏍 Реактивний БпЛА з акваторії Чорного моря курсом на Миколаївщину.",
-    "time": "",
-    "pubDate": "2026-08-22T19:14:56+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74053",
-    "score": 6.0,
-    "views": 16036,
-    "forwards": 0
-  },
-  {
     "title": "🏍 Jet UAV from the Black Sea to the south of Odesa (Vylkove)",
     "title_en": "🏍 Jet UAV from the Black Sea to the south of Odesa (Vylkove)",
     "title_uk": "🏍 Реактивний БПЛА з Чорного моря на південь від Одеси (Вилкове)",
@@ -122,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54951",
     "score": 5.0,
-    "views": 1011,
-    "forwards": 4
+    "views": 1150,
+    "forwards": 5
   },
   {
     "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
@@ -177,24 +213,6 @@
     "link": "https://t.me/kpszsu/74045",
     "score": 6.0,
     "views": 48544,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV in the direction of Kryvyi Rih from the east.",
-    "description_en": "UAV in the direction of Kryvyi Rih from the east.",
-    "description_uk": "БпЛА в напрямку Кривого Рогу зі сходу.",
-    "time": "",
-    "pubDate": "2026-08-22T17:34:15+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74042",
-    "score": 5.0,
-    "views": 24269,
     "forwards": 0
   },
   {
@@ -344,7 +362,7 @@
   {
     "title": "000 drones",
     "title_en": "000 drones",
-    "title_uk": "000 drones",
+    "title_uk": "000 дронів",
     "description": "🤔 Ukraine rejected the plan to paralyze Russian airports with thousands of drones due to the risk of hitting passenger planes and the lack of support from Europe, - The Telegraph According to the publication, up to 1,000 drones per night were supposed to be sent to Moscow airports to stop air traffic. Zelensky allegedly feared that one of the drones might hit a civilian plane, and...",
     "description_en": "🤔 Ukraine rejected the plan to paralyze Russian airports with thousands of drones due to the risk of hitting passenger planes and the lack of support from Europe, - The Telegraph According to the publication, up to 1,000 drones per night were supposed to be sent to Moscow airports to stop air traffic. Zelensky allegedly feared that one of the drones might hit a civilian plane, and...",
     "description_uk": "🤔 Украина отказалась от плана парализовать российские аэропорты тысячами дронов из-за риска попадания в пассажирские самолеты и отсутствия поддержки Европы, - The Telegraph По информации издания, для остановки авиасообщения предполагалось направлять до 1000 дронов за ночь в сторону московских аэропортов. Зеленский якобы опасался, что один из беспилотников может попасть в гражданский самолет, а...",
@@ -356,7 +374,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199194",
     "score": 4.5,
-    "views": 134249,
+    "views": 138496,
     "forwards": 217
   },
   {
@@ -378,6 +396,24 @@
     "forwards": 182
   },
   {
+    "title": "Chernihiv: Humanitarian aid was delivered to the Chernihiv Regional Children's...",
+    "title_en": "Chernihiv: Humanitarian aid was delivered to the Chernihiv Regional Children's...",
+    "title_uk": "Чернігів: Гуманітарну допомогу доставили до Чернігівського обласного дитячого...",
+    "description": "Humanitarian aid was delivered to the Chernihiv Regional Children's Hospital to improve the conditions of treatment and stay of children in the medical institution. The initiative was implemented in the development of the visit to Chernihiv Region by the Minister of Foreign Affairs of Ukraine Andrii Sybyga and within the framework of the work of the Association of Spouses of Ukrainian Diplomats, headed by Ms. Tetyana Sybyga, with the assistance of the Embassy of Ukraine in the Republic of Angola....",
+    "description_en": "Humanitarian aid was delivered to the Chernihiv Regional Children's Hospital to improve the conditions of treatment and stay of children in the medical institution. The initiative was implemented in the development of the visit to Chernihiv Region by the Minister of Foreign Affairs of Ukraine Andrii Sybyga and within the framework of the work of the Association of Spouses of Ukrainian Diplomats, headed by Ms. Tetyana Sybyga, with the assistance of the Embassy of Ukraine in the Republic of Angola....",
+    "description_uk": "До Чернігівської обласної дитячої лікарні доставили гуманітарну допомогу для покращення умов лікування та перебування дітей у медичному закладі. Ініціативу реалізовано у розвиток візиту на Чернігівщину міністра закордонних справ України Андрія Сибіги та в межах роботи Асоціації Подружжів Українських Дипломатів, яку очолює пані Тетяни Сибіги, за сприяння Посольства України вРеспубліці Ангола....",
+    "time": "",
+    "pubDate": "2026-08-22T15:25:56+00:00",
+    "category": "political",
+    "severity": "critical",
+    "location": "Chernihiv",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/10088",
+    "score": 9.0,
+    "views": 556,
+    "forwards": 9
+  },
+  {
     "title": "Chernihiv: До Чернігівської обласної дитячої лікарні доставили гуманітарну...",
     "title_en": "Chernihiv: До Чернігівської обласної дитячої лікарні доставили гуманітарну...",
     "title_uk": "Chernihiv: До Чернігівської обласної дитячої лікарні доставили гуманітарну...",
@@ -396,24 +432,6 @@
     "forwards": 9
   },
   {
-    "title": "Chernihiv: Humanitarian aid was delivered to the Chernihiv Regional Children's...",
-    "title_en": "Chernihiv: Humanitarian aid was delivered to the Chernihiv Regional Children's...",
-    "title_uk": "Чернігів: Гуманітарну допомогу доставили до Чернігівського обласного дитячого...",
-    "description": "Humanitarian aid was delivered to the Chernihiv Regional Children's Hospital to improve the conditions of treatment and stay of children in the medical institution. The initiative was implemented in the development of the visit to Chernihiv Region by the Minister of Foreign Affairs of Ukraine Andrii Sybyga and within the framework of the work of the Association of Spouses of Ukrainian Diplomats, headed by Ms. Tetyana Sybyga, with the assistance of the Embassy of Ukraine in the Republic of Angola....",
-    "description_en": "Humanitarian aid was delivered to the Chernihiv Regional Children's Hospital to improve the conditions of treatment and stay of children in the medical institution. The initiative was implemented in the development of the visit to Chernihiv Region by the Minister of Foreign Affairs of Ukraine Andrii Sybyga and within the framework of the work of the Association of Spouses of Ukrainian Diplomats, headed by Ms. Tetyana Sybyga, with the assistance of the Embassy of Ukraine in the Republic of Angola....",
-    "description_uk": "До Чернігівської обласної дитячої лікарні доставили гуманітарну допомогу для покращення умов лікування та перебування дітей у медичному закладі. Ініціативу реалізовано у розвиток візиту на Чернігівщину міністра закордонних справ України Андрія Сибіги та в межах роботи Асоціації Подружжів Українських Дипломатів, яку очолює пані Тетяни Сибіги, за сприяння Посольства України вРеспубліці Ангола....",
-    "time": "",
-    "pubDate": "2026-08-22T15:25:56+00:00",
-    "category": "political",
-    "severity": "critical",
-    "location": "Chernihiv",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/10088",
-    "score": 9.0,
-    "views": 538,
-    "forwards": 9
-  },
-  {
     "title": "Sumy: Sumy: BpLA in the direction of the city",
     "title_en": "Sumy: Sumy: BpLA in the direction of the city",
     "title_uk": "Суми : Суми : БпЛА в напрямку міст",
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/74023",
     "score": 6.0,
     "views": 30333,
-    "forwards": 0
-  },
-  {
-    "title": "Sumy: Drone incoming",
-    "title_en": "Sumy: Drone incoming",
-    "title_uk": "Суми: Дрон вхід",
-    "description": "Суми: БпЛА в напрямку міста",
-    "description_en": "Суми: БпЛА в напрямку міста",
-    "description_uk": "Суми: БпЛА в напрямку міста",
-    "time": "",
-    "pubDate": "2026-08-22T15:05:11+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74023",
-    "score": 6.0,
-    "views": 11142,
     "forwards": 0
   }
 ]
