@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "🏍 city of Zaporizhia: jet UAV heading for the city",
+    "description_en": "🏍 city of Zaporizhia: jet UAV heading for the city",
+    "description_uk": "🏍 м.Запоріжжя: реактивний БпЛА курсом на місто",
+    "time": "",
+    "pubDate": "2026-08-22T14:38:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74020",
+    "score": 6.0,
+    "views": 19197,
+    "forwards": 0
+  },
+  {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons",
+    "description_en": "☄️ The threat of using ballistic weapons",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння",
+    "time": "",
+    "pubDate": "2026-08-22T14:22:54+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74018",
+    "score": 5.0,
+    "views": 43466,
+    "forwards": 34
+  },
+  {
     "title": "☄️ Загроза застосування балістичного озброєння",
     "title_en": "☄️ Загроза застосування балістичного озброєння",
     "title_uk": "☄️ Загроза застосування балістичного озброєння",
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54946",
     "score": 6.0,
-    "views": 566,
+    "views": 704,
     "forwards": 1
   },
   {
@@ -128,7 +164,7 @@
   {
     "title": "Drone strike",
     "title_en": "Drone strike",
-    "title_uk": "Drone strike",
+    "title_uk": "Безпілотний удар",
     "description": "the Russian fleet in the Black Sea has nowhere else to hide: Ukrainian strikes will also reach Novorossiysk, — the BBC of the Russian Federation relocated the troughs from occupied Sevastopol to Novorossiysk, hoping to hide them further from Ukrainian missiles and drones. But the recent attacks on the Admiral Makarov and Admiral Essen frigates right at the pier showed that even this base is no longer safe. According to...",
     "description_en": "the Russian fleet in the Black Sea has nowhere else to hide: Ukrainian strikes will also reach Novorossiysk, — the BBC of the Russian Federation relocated the troughs from occupied Sevastopol to Novorossiysk, hoping to hide them further from Ukrainian missiles and drones. But the recent attacks on the Admiral Makarov and Admiral Essen frigates right at the pier showed that even this base is no longer safe. According to...",
     "description_uk": "российскому флоту в Черном море больше негде прятаться: украинские удары достают его и в Новороссийске, — BBC рф перебазировала корыта из оккупированного Севастополя в Новороссийск, рассчитывая спрятать их подальше от украинских ракет и дронов. Но недавние атаки по фрегатам «Адмирал Макаров» и «Адмирал Эссен» прямо у причала показали, что и эта база больше не является безопасной. По данным...",
@@ -140,7 +176,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199183",
     "score": 8.5,
-    "views": 74253,
+    "views": 83874,
     "forwards": 107
   },
   {
@@ -176,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54945",
     "score": 21.5,
-    "views": 1030,
+    "views": 1118,
     "forwards": 2
   },
   {
@@ -266,8 +302,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199179",
     "score": 4.5,
-    "views": 101047,
-    "forwards": 492
+    "views": 106452,
+    "forwards": 493
   },
   {
     "title": "Cruise missile heading inbound",
@@ -286,24 +322,6 @@
     "score": 3.0,
     "views": 54543,
     "forwards": 39
-  },
-  {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "Zaporizhzhia: UAV in the direction of the city from the southeast",
-    "description_en": "Zaporizhzhia: UAV in the direction of the city from the southeast",
-    "description_uk": "Запоріжжя: БпЛА в напрямку міста з південного сходу",
-    "time": "",
-    "pubDate": "2026-08-22T11:18:06+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73992",
-    "score": 6.0,
-    "views": 30322,
-    "forwards": 0
   },
   {
     "title": "Kryvyi Rih: Drone incoming",
@@ -376,24 +394,6 @@
     "score": 6.0,
     "views": 1,
     "forwards": 0
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons from the north.",
-    "description_en": "☄️ The threat of using ballistic weapons from the north.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння з півночі.",
-    "time": "",
-    "pubDate": "2026-08-22T09:46:05+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73976",
-    "score": 5.0,
-    "views": 40249,
-    "forwards": 37
   },
   {
     "title": "And at the Primorsko-Akhtarsk airfield, 18 warehouses with Russian...",
