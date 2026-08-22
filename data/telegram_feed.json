@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zaporizhzhia: A group of BpLA on Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: A group of BpLA on Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: Група БпЛА на Запоріжжі з півд.",
+    "description": "A group of BpLA on Zaporozhye from the south.",
+    "description_en": "A group of BpLA on Zaporozhye from the south.",
+    "description_uk": "Група БпЛА на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-08-22T05:57:20+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73937",
+    "score": 6.0,
+    "views": 7037,
+    "forwards": 0
+  },
+  {
+    "title": "Sumy: BpLA on Sumy from the southeast.",
+    "title_en": "Sumy: BpLA on Sumy from the southeast.",
+    "title_uk": "Суми: БпЛА на Суми з пд.-сх.",
+    "description": "BpLA on Sumy from the southeast.",
+    "description_en": "BpLA on Sumy from the southeast.",
+    "description_uk": "БпЛА на Суми з південного сходу.",
+    "time": "",
+    "pubDate": "2026-08-22T05:56:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73936",
+    "score": 6.0,
+    "views": 8067,
+    "forwards": 0
+  },
+  {
     "title": "🏍 Jet UAV from the Black Sea - to Odesa, bound for Chornomorsk.",
     "title_en": "🏍 Jet UAV from the Black Sea - to Odesa, bound for Chornomorsk.",
     "title_uk": "🏍 Реактивний БПЛА з Чорного моря - до Одеси, прямуючи до Чорноморська.",
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199134",
     "score": 5.5,
-    "views": 75219,
-    "forwards": 733
+    "views": 85862,
+    "forwards": 804
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -194,8 +230,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54939",
     "score": 9.0,
-    "views": 846,
-    "forwards": 2
+    "views": 917,
+    "forwards": 3
   },
   {
     "title": "🏍🛵 Unmanned aerial vehicle groups, including jet ones, heading for...",
@@ -230,8 +266,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54938",
     "score": 6.0,
-    "views": 988,
-    "forwards": 3
+    "views": 1057,
+    "forwards": 4
   },
   {
     "title": "\"Banderol\" in the direction of Brovary/Kyiv.",
@@ -320,7 +356,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199128",
     "score": 5.0,
-    "views": 124337,
+    "views": 131815,
     "forwards": 26
   },
   {
@@ -412,41 +448,5 @@
     "score": 10.0,
     "views": 1099,
     "forwards": 3
-  },
-  {
-    "title": "Ballistic missile launch detected",
-    "title_en": "Ballistic missile launch detected",
-    "title_uk": "Виявлено запуск балістичної ракети",
-    "description": "☄️ The threat of using ballistic weapons from the northeast.",
-    "description_en": "☄️ The threat of using ballistic weapons from the northeast.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння з північного сходу.",
-    "time": "",
-    "pubDate": "2026-08-21T21:57:28+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73822",
-    "score": 5.0,
-    "views": 37411,
-    "forwards": 34
-  },
-  {
-    "title": "Chernihiv: Barrage ammunition \"Banderol\" in the direction of Pryluk (Chernihiv...",
-    "title_en": "Chernihiv: Barrage ammunition \"Banderol\" in the direction of Pryluk (Chernihiv...",
-    "title_uk": "Чернігів: Загороджувальний боєприпас \"Бандероль\" в напрямку Прилук (Чернігів...",
-    "description": "Barrage ammunition \"Banderol\" in the direction of Pryluk (Chernihiv Region).",
-    "description_en": "Barrage ammunition \"Banderol\" in the direction of Pryluk (Chernihiv Region).",
-    "description_uk": "Баражуючі боєприпаси \"Бандероль\" у напрямку Прилук (Чернігівщина).",
-    "time": "",
-    "pubDate": "2026-08-21T21:50:37+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73821",
-    "score": 6.0,
-    "views": 45542,
-    "forwards": 34
   }
 ]
