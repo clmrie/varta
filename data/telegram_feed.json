@@ -1,5 +1,59 @@
 [
   {
+    "title": "Cruise missile heading inbound",
+    "title_en": "Cruise missile heading inbound",
+    "title_uk": "Cruise missile heading inbound",
+    "description": "🇩🇪Germany will spend almost €12 billion on a new arsenal of long-range weapons - the list includes American, British and Ukrainian missiles. According to Politico, Berlin wants to create its own long-range strike system capable of hitting targets hundreds and even thousands of kilometers away. Possible targets include command posts, airfields, launchers and logistics centers. The first inexpensive cruise missile...",
+    "description_en": "🇩🇪Germany will spend almost €12 billion on a new arsenal of long-range weapons - the list includes American, British and Ukrainian missiles. According to Politico, Berlin wants to create its own long-range strike system capable of hitting targets hundreds and even thousands of kilometers away. Possible targets include command posts, airfields, launchers and logistics centers. The first inexpensive cruise missile...",
+    "description_uk": "🇩🇪Германия потратит почти €12 млрд на новый арсенал дальнобойного оружия — в списке американские, британские и украинские ракеты По данным Politico, Берлин хочет создать собственную дальнобойную ударную систему, способную поражать цели на сотни и даже тысячи километров. Среди возможных целей — командные пункты, аэродромы, пусковые установки и логистические центры. Первую недорогую крылатую ракету...",
+    "time": "",
+    "pubDate": "2026-08-22T11:30:01+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199177",
+    "score": 3.0,
+    "views": 11715,
+    "forwards": 3
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "🏍 Jet UAVs in the direction of Odesa from the Black Sea (Chornomorsk - Pivdenne).",
+    "description_en": "🏍 Jet UAVs in the direction of Odesa from the Black Sea (Chornomorsk - Pivdenne).",
+    "description_uk": "🏍 Реактивні БпЛА в напрямку Одещини з Чорного моря(Чорноморськ - Південне).",
+    "time": "",
+    "pubDate": "2026-08-22T11:22:46+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73993",
+    "score": 5.0,
+    "views": 27314,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "Zaporizhzhia: UAV in the direction of the city from the southeast",
+    "description_en": "Zaporizhzhia: UAV in the direction of the city from the southeast",
+    "description_uk": "Запоріжжя: БпЛА в напрямку міста з південного сходу",
+    "time": "",
+    "pubDate": "2026-08-22T11:18:06+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73992",
+    "score": 6.0,
+    "views": 30322,
+    "forwards": 0
+  },
+  {
     "title": "Kryvyi Rih: Drone incoming",
     "title_en": "Kryvyi Rih: Drone incoming",
     "title_uk": "Кривий Ріг: Дрон вхід",
@@ -104,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199169",
     "score": 5.5,
-    "views": 83052,
-    "forwards": 141
+    "views": 92671,
+    "forwards": 175
   },
   {
     "title": "Odesa: Odesa: UAV over the city.",
@@ -124,24 +178,6 @@
     "score": 6.0,
     "views": 8071,
     "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "New groups of UAVs in the direction of Odesa from the Black Sea.",
-    "description_en": "New groups of UAVs in the direction of Odesa from the Black Sea.",
-    "description_uk": "Нові групи БпЛА в напрямку Одещини з Чорного моря.",
-    "time": "",
-    "pubDate": "2026-08-22T08:37:23+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73961",
-    "score": 5.0,
-    "views": 71714,
-    "forwards": 1
   },
   {
     "title": "🏍 Jet UAVs on n.p. Chornomorsk in Odesa from the Black Sea.",
@@ -212,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20487",
     "score": 20.0,
-    "views": 128266,
-    "forwards": 304
+    "views": 132669,
+    "forwards": 315
   },
   {
     "title": "Dnipro: 🏍 Dnipro: jet UAV over the city.",
@@ -266,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54942",
     "score": 9.0,
-    "views": 1445,
+    "views": 1511,
     "forwards": 3
   },
   {
@@ -284,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54941",
     "score": 4.5,
-    "views": 1379,
+    "views": 1443,
     "forwards": 2
   },
   {
@@ -412,41 +448,5 @@
     "score": 5.0,
     "views": 33365,
     "forwards": 1
-  },
-  {
-    "title": "Drone strike",
-    "title_en": "Drone strike",
-    "title_uk": "Безпілотний удар",
-    "description": "Drones hit the logistics hub of Ozon in Rossy for the first time On the night of August 22, the Defense Forces of Ukraine struck the logistics hub of the Ozon marketplace in Chapaevsk, Samara region of the Russian Federation. After the drones hit the territory of the complex, a large-scale fire broke out. A thick column of smoke rose above the object. We are talking about one of the largest Ozon warehouse complexes in the Volga region. Ego Square...",
-    "description_en": "Drones hit the logistics hub of Ozon in Rossy for the first time On the night of August 22, the Defense Forces of Ukraine struck the logistics hub of the Ozon marketplace in Chapaevsk, Samara region of the Russian Federation. After the drones hit the territory of the complex, a large-scale fire broke out. A thick column of smoke rose above the object. We are talking about one of the largest Ozon warehouse complexes in the Volga region. Ego Square...",
-    "description_uk": "Дроны впервые поразили логистический хаб Ozon в Росси В ночь на 22 августа Силы обороны Украины нанесли удар по логистическому хабу маркетплейса Ozon в Чапаевске Самарской области РФ. После попадания беспилотников на территории комплекса вспыхнул масштабный пожар. Над объектом поднялся густой столб дыма. Речь идет об одном из самых больших складских комплексов Ozon в Поволжье. Его площадь...",
-    "time": "",
-    "pubDate": "2026-08-22T04:08:36+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199134",
-    "score": 5.5,
-    "views": 124516,
-    "forwards": 1159
-  },
-  {
-    "title": "Dnipro: Drone incoming",
-    "title_en": "Dnipro: Drone incoming",
-    "title_uk": "Дніпро: Дрон вхід",
-    "description": "🏍 A jet UAV in the east of Dnipropetrovsk region - heading for Pavlograd.",
-    "description_en": "🏍 A jet UAV in the east of Dnipropetrovsk region - heading for Pavlograd.",
-    "description_uk": "🏍 Реактивний БпЛА на сході Дніпропетровщини - курсом на Павлоград.",
-    "time": "",
-    "pubDate": "2026-08-22T04:02:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73915",
-    "score": 6.0,
-    "views": 3039,
-    "forwards": 0
   }
 ]
