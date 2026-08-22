@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "🏍 Sumyshchyna: jet UAV - heading for Terny/Bilopillia.",
+    "description_en": "🏍 Sumyshchyna: jet UAV - heading for Terny/Bilopillia.",
+    "description_uk": "🏍 Сумщина: реактивний БпЛА - курсом на Терни/Білопілля.",
+    "time": "",
+    "pubDate": "2026-08-21T23:56:56+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73840",
+    "score": 5.0,
+    "views": 12137,
+    "forwards": 0
+  },
+  {
+    "title": "\"Banderol\" in the direction of Brovary/Kyiv.",
+    "title_en": "\"Banderol\" in the direction of Brovary/Kyiv.",
+    "title_uk": "\"Banderol\" in the direction of Brovary/Kyiv.",
+    "description": "\"Banderol\" in the direction of Brovary/Kyiv.",
+    "description_en": "\"Banderol\" in the direction of Brovary/Kyiv.",
+    "description_uk": "\"Бандероль\" у напрямку Броварів/Києва.",
+    "time": "",
+    "pubDate": "2026-08-21T23:55:33+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Brovary",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73839",
+    "score": 5.0,
+    "views": 19691,
+    "forwards": 33
+  },
+  {
     "title": "Zaporizhzhia: Odeshchyna: BpLA heading for Rozdilna. 🛵 BpLA heading to Zaporozhye...",
     "title_en": "Zaporizhzhia: Odeshchyna: BpLA heading for Rozdilna. 🛵 BpLA heading to Zaporozhye...",
     "title_uk": "Запоріжжя: Одещина: BpLA прямує на Роздільну. 🛵 BpLA прямує до Запоріжжя...",
@@ -54,22 +90,22 @@
     "forwards": 1
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "🏍 Sumyshchyna: a group of jet UAVs heading for Shostka.",
-    "description_en": "🏍 Sumyshchyna: a group of jet UAVs heading for Shostka.",
-    "description_uk": "🏍 Сумщина: група реактивних БпЛА - курсом на Шостку.",
+    "title": "Explosions reported",
+    "title_en": "Explosions reported",
+    "title_uk": "Повідомляється про вибухи",
+    "description": "Explosions in Nikolaev, Shahed over Kryvyi Rih, - monitors",
+    "description_en": "Explosions in Nikolaev, Shahed over Kryvyi Rih, - monitors",
+    "description_uk": "Взрывы в Николаеве, Шахед над Кривым Рогом, - мониторы",
     "time": "",
-    "pubDate": "2026-08-21T22:52:59+00:00",
+    "pubDate": "2026-08-21T22:52:12+00:00",
     "category": "drone",
     "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73834",
+    "location": "Kryvyi Rih",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199128",
     "score": 5.0,
-    "views": 22309,
-    "forwards": 0
+    "views": 22594,
+    "forwards": 1
   },
   {
     "title": "Взрывы в Николаеве, Шахед над Кривым Рогом, - мониторы",
@@ -87,24 +123,6 @@
     "link": "https://t.me/uniannet/199128",
     "score": 5.0,
     "views": 17560,
-    "forwards": 1
-  },
-  {
-    "title": "Explosions reported",
-    "title_en": "Explosions reported",
-    "title_uk": "Explosions reported",
-    "description": "Explosions in Nikolaev, Shahed over Kryvyi Rih, - monitors",
-    "description_en": "Explosions in Nikolaev, Shahed over Kryvyi Rih, - monitors",
-    "description_uk": "Взрывы в Николаеве, Шахед над Кривым Рогом, - мониторы",
-    "time": "",
-    "pubDate": "2026-08-21T22:52:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199128",
-    "score": 5.0,
-    "views": 12067,
     "forwards": 1
   },
   {
@@ -164,7 +182,7 @@
   {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
     "description": "Explosions rock Kyiv as Russia launches ballistic missiles at Ukraine's capital. Several consecutive explosions were heard in Kyiv around 1 a.m. local time on Aug. 22, according to Kyiv Independent journalists on the ground. The explosions came just minutes after an air raid alert was issued.",
     "description_en": "Explosions rock Kyiv as Russia launches ballistic missiles at Ukraine's capital. Several consecutive explosions were heard in Kyiv around 1 a.m. local time on Aug. 22, according to Kyiv Independent journalists on the ground. The explosions came just minutes after an air raid alert was issued.",
     "description_uk": "Explosions rock Kyiv as Russia launches ballistic missiles at Ukraine's capital. Several consecutive explosions were heard in Kyiv around 1 a.m. local time on Aug. 22, according to Kyiv Independent journalists on the ground. The explosions came just minutes after an air raid alert was issued.",
@@ -176,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54936",
     "score": 10.0,
-    "views": 772,
+    "views": 815,
     "forwards": 2
   },
   {
@@ -326,7 +344,7 @@
   {
     "title": "Kryvyi Rih: 15 killed, 130 injured",
     "title_en": "Kryvyi Rih: 15 killed, 130 injured",
-    "title_uk": "Kryvyi Rih: 15 killed, 130 injured",
+    "title_uk": "Кривий Ріг: 15 загиблих, 130 поранених",
     "description": "Update: Death toll rises after Russian attack on Kryvyi Rih, with 15 killed and 130 injured, including 23 children. President Volodymyr Zelensky said the drones struck in two waves, with the second strike taking place around half an hour after the first, when rescue services were already responding at the scene. Photo: Dnipropetrovsk Oblast Military Administration / Telegram",
     "description_en": "Update: Death toll rises after Russian attack on Kryvyi Rih, with 15 killed and 130 injured, including 23 children. President Volodymyr Zelensky said the drones struck in two waves, with the second strike taking place around half an hour after the first, when rescue services were already responding at the scene. Photo: Dnipropetrovsk Oblast Military Administration / Telegram",
     "description_uk": "Update: Death toll rises after Russian attack on Kryvyi Rih, with 15 killed and 130 injured, including 23 children. President Volodymyr Zelensky said the drones struck in two waves, with the second strike taking place around half an hour after the first, when rescue services were already responding at the scene. Photo: Dnipropetrovsk Oblast Military Administration / Telegram",
@@ -338,7 +356,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54934",
     "score": 10.0,
-    "views": 1661,
+    "views": 1686,
     "forwards": 6
   },
   {
@@ -428,25 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10067",
     "score": 9.0,
-    "views": 572,
+    "views": 575,
     "forwards": 3
-  },
-  {
-    "title": "Kryvyi Rih: Casualties reported",
-    "title_en": "Kryvyi Rih: Casualties reported",
-    "title_uk": "Кривий Ріг: повідомляється про постраждалих",
-    "description": "A rescue operation is currently underway in Kryvyi Rih following a strike on a shopping mall. All the necessary services have been deployed. Unfortunately, there are many casualties. It was an attack by several Russian drones – deliberate, despicable, one after another. As of now, 14 people have been reported killed. My condolences to their families and loved ones. More than 100 people have been...",
-    "description_en": "A rescue operation is currently underway in Kryvyi Rih following a strike on a shopping mall. All the necessary services have been deployed. Unfortunately, there are many casualties. It was an attack by several Russian drones – deliberate, despicable, one after another. As of now, 14 people have been reported killed. My condolences to their families and loved ones. More than 100 people have been...",
-    "description_uk": "A rescue operation is currently underway in Kryvyi Rih following a strike on a shopping mall. All the necessary services have been deployed. Unfortunately, there are many casualties. It was an attack by several Russian drones – deliberate, despicable, one after another. As of now, 14 people have been reported killed. My condolences to their families and loved ones. More than 100 people have been...",
-    "time": "",
-    "pubDate": "2026-08-21T18:30:50+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kryvyi Rih",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20486",
-    "score": 10.0,
-    "views": 32745,
-    "forwards": 25
   }
 ]
