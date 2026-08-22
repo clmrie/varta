@@ -1,10 +1,28 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "🏍 Jet UAVs from the Black Sea area heading for Mykolaiv Oblast.",
+    "description_en": "🏍 Jet UAVs from the Black Sea area heading for Mykolaiv Oblast.",
+    "description_uk": "🏍 Реактивні БпЛА з акваторії Чорного моря курсом на Миколаївщину.",
+    "time": "",
+    "pubDate": "2026-08-22T22:20:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74064",
+    "score": 6.0,
+    "views": 9663,
+    "forwards": 10
+  },
+  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Kharkiv: Drone incoming",
-    "description": "🏍 Kharkiv: jet UAV in the direction of the city from the south",
-    "description_en": "🏍 Kharkiv: jet UAV in the direction of the city from the south",
+    "description": "🏍 Харків: реактивний БпЛА в напрямку міста з півдня",
+    "description_en": "🏍 Харків: реактивний БпЛА в напрямку міста з півдня",
     "description_uk": "🏍 Харків: реактивний БпЛА в напрямку міста з півдня",
     "time": "",
     "pubDate": "2026-08-22T21:29:08+00:00",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74063",
     "score": 6.0,
-    "views": 19455,
+    "views": 25880,
     "forwards": 0
   },
   {
@@ -56,7 +74,7 @@
   {
     "title": "🤬 Russian Federation increases the production of reactive UAVs and...",
     "title_en": "🤬 Russian Federation increases the production of reactive UAVs and...",
-    "title_uk": "🤬 РФ нарощує виробництво реактивних БПЛА та...",
+    "title_uk": "🤬 Russian Federation increases the production of reactive UAVs and...",
     "description": "🤬 Russian Federation increases the production of reactive UAVs and can produce up to 300-400 \"Banderolei\" per month, - \"Flash\" According to the adviser to the president, Sergei Beskrestnov, Russia is increasing the production of reactive drones, since Ukraine has learned to effectively counter the usual \"Shahedas\". The main bet of the Russians is on \"Banderol\" with a warhead of about 100 kg. Due to the high speed and ability...",
     "description_en": "🤬 Russian Federation increases the production of reactive UAVs and can produce up to 300-400 \"Banderolei\" per month, - \"Flash\" According to the adviser to the president, Sergei Beskrestnov, Russia is increasing the production of reactive drones, since Ukraine has learned to effectively counter the usual \"Shahedas\". The main bet of the Russians is on \"Banderol\" with a warhead of about 100 kg. Due to the high speed and ability...",
     "description_uk": "🤬 рф наращивает производство реактивных БПЛА и может выпускать до 300-400 \"Бандеролей\" в месяц, - \"Флэш\" По словам советника президента Сергея Бескрестнова, россия усиливает производство реактивных дронов, поскольку Украина научилась эффективно противодействовать обычным \"Шахедам\". Основную ставку россияне делают на \"Бандероль\" с боевой частью около 100 кг. Из-за высокой скорости и способности...",
@@ -68,7 +86,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199208",
     "score": 8.5,
-    "views": 58485,
+    "views": 63183,
     "forwards": 128
   },
   {
@@ -88,24 +106,6 @@
     "score": 8.5,
     "views": 45537,
     "forwards": 105
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "🏍 Jet UAVs from the Black Sea area heading for Mykolaiv Oblast.",
-    "description_en": "🏍 Jet UAVs from the Black Sea area heading for Mykolaiv Oblast.",
-    "description_uk": "🏍 Реактивні БпЛА з акваторії Чорного моря курсом на Миколаївщину.",
-    "time": "",
-    "pubDate": "2026-08-22T20:28:58+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74059",
-    "score": 6.0,
-    "views": 26337,
-    "forwards": 0
   },
   {
     "title": "Kharkiv: BpLA from Kharkiv Oblast heading for Poltava Oblast, direction Dykanka",
@@ -194,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54951",
     "score": 5.0,
-    "views": 1541,
+    "views": 1614,
     "forwards": 5
   },
   {
@@ -410,8 +410,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199194",
     "score": 4.5,
-    "views": 147243,
-    "forwards": 252
+    "views": 148602,
+    "forwards": 262
   },
   {
     "title": "1000 drones",
@@ -432,21 +432,21 @@
     "forwards": 182
   },
   {
-    "title": "Chernihiv: До Чернігівської обласної дитячої лікарні доставили гуманітарну...",
-    "title_en": "Chernihiv: До Чернігівської обласної дитячої лікарні доставили гуманітарну...",
-    "title_uk": "Chernihiv: До Чернігівської обласної дитячої лікарні доставили гуманітарну...",
-    "description": "До Чернігівської обласної дитячої лікарні доставили гуманітарну допомогу для покращення умов лікування та перебування дітей у медичному закладі. Ініціативу реалізовано у розвиток візиту на Чернігівщину міністра закордонних справ України Андрія Сибіги та в межах роботи Асоціації Подружжів Українських Дипломатів, яку очолює пані Тетяни Сибіги, за сприяння Посольства України вРеспубліці Ангола....",
-    "description_en": "До Чернігівської обласної дитячої лікарні доставили гуманітарну допомогу для покращення умов лікування та перебування дітей у медичному закладі. Ініціативу реалізовано у розвиток візиту на Чернігівщину міністра закордонних справ України Андрія Сибіги та в межах роботи Асоціації Подружжів Українських Дипломатів, яку очолює пані Тетяни Сибіги, за сприяння Посольства України вРеспубліці Ангола....",
+    "title": "Chernihiv: Humanitarian aid was delivered to the Chernihiv Regional Children's...",
+    "title_en": "Chernihiv: Humanitarian aid was delivered to the Chernihiv Regional Children's...",
+    "title_uk": "Чернігів: Гуманітарну допомогу доставили до Чернігівського обласного дитячого...",
+    "description": "Humanitarian aid was delivered to the Chernihiv Regional Children's Hospital to improve the conditions of treatment and stay of children in the medical institution. The initiative was implemented in the development of the visit to Chernihiv Region by the Minister of Foreign Affairs of Ukraine Andrii Sybyga and within the framework of the work of the Association of Spouses of Ukrainian Diplomats, headed by Ms. Tetyana Sybyga, with the assistance of the Embassy of Ukraine in the Republic of Angola....",
+    "description_en": "Humanitarian aid was delivered to the Chernihiv Regional Children's Hospital to improve the conditions of treatment and stay of children in the medical institution. The initiative was implemented in the development of the visit to Chernihiv Region by the Minister of Foreign Affairs of Ukraine Andrii Sybyga and within the framework of the work of the Association of Spouses of Ukrainian Diplomats, headed by Ms. Tetyana Sybyga, with the assistance of the Embassy of Ukraine in the Republic of Angola....",
     "description_uk": "До Чернігівської обласної дитячої лікарні доставили гуманітарну допомогу для покращення умов лікування та перебування дітей у медичному закладі. Ініціативу реалізовано у розвиток візиту на Чернігівщину міністра закордонних справ України Андрія Сибіги та в межах роботи Асоціації Подружжів Українських Дипломатів, яку очолює пані Тетяни Сибіги, за сприяння Посольства України вРеспубліці Ангола....",
     "time": "",
     "pubDate": "2026-08-22T15:25:56+00:00",
-    "category": "alert",
+    "category": "political",
     "severity": "critical",
     "location": "Chernihiv",
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10088",
     "score": 9.0,
-    "views": 572,
+    "views": 574,
     "forwards": 9
   }
 ]
