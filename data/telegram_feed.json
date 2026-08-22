@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons from the north.",
+    "description_en": "☄️ The threat of using ballistic weapons from the north.",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння з півночі.",
+    "time": "",
+    "pubDate": "2026-08-22T08:39:34+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73962",
+    "score": 5.0,
+    "views": 68673,
+    "forwards": 1
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "New groups of UAVs in the direction of Odesa from the Black Sea.",
+    "description_en": "New groups of UAVs in the direction of Odesa from the Black Sea.",
+    "description_uk": "Нові групи БпЛА в напрямку Одещини з Чорного моря.",
+    "time": "",
+    "pubDate": "2026-08-22T08:37:23+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73961",
+    "score": 5.0,
+    "views": 71714,
+    "forwards": 1
+  },
+  {
     "title": "🏍 Jet UAVs on n.p. Chornomorsk in Odesa from the Black Sea.",
     "title_en": "🏍 Jet UAVs on n.p. Chornomorsk in Odesa from the Black Sea.",
     "title_uk": "🏍 Реактивні БПЛА на н.п. Чорноморська в Одесі з боку Чорного моря.",
@@ -68,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20487",
     "score": 20.0,
-    "views": 61704,
-    "forwards": 207
+    "views": 84400,
+    "forwards": 242
   },
   {
     "title": "Dnipro: 🏍 Dnipro: jet UAV over the city.",
@@ -122,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54942",
     "score": 9.0,
-    "views": 587,
-    "forwards": 1
+    "views": 862,
+    "forwards": 2
   },
   {
     "title": "Kyiv: Explainer: What does Ukraine's latest corruption scandal tell us...",
@@ -140,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54941",
     "score": 4.5,
-    "views": 638,
+    "views": 878,
     "forwards": 1
   },
   {
@@ -160,24 +196,6 @@
     "score": 6.0,
     "views": 13146,
     "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "🏍 Jet UAV from the Black Sea area heading for Odesa (Chornomorsk)",
-    "description_en": "🏍 Jet UAV from the Black Sea area heading for Odesa (Chornomorsk)",
-    "description_uk": "🏍 Реактивний БпЛА з акваторії Чорного моря курсом на Одещину (Чорноморськ)",
-    "time": "",
-    "pubDate": "2026-08-22T06:20:16+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73943",
-    "score": 5.0,
-    "views": 32369,
-    "forwards": 1
   },
   {
     "title": "Donetsk: 217 drones intercepted",
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 1320,
     "forwards": 4
-  },
-  {
-    "title": "\"Banderol\" in the direction of Brovary/Kyiv.",
-    "title_en": "\"Banderol\" in the direction of Brovary/Kyiv.",
-    "title_uk": "\"Banderol\" in the direction of Brovary/Kyiv.",
-    "description": "\"Banderol\" in the direction of Brovary/Kyiv.",
-    "description_en": "\"Banderol\" in the direction of Brovary/Kyiv.",
-    "description_uk": "\"Бандероль\" у напрямку Броварів/Києва.",
-    "time": "",
-    "pubDate": "2026-08-21T23:55:33+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Brovary",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73839",
-    "score": 5.0,
-    "views": 19691,
-    "forwards": 33
   }
 ]
