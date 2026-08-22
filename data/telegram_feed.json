@@ -1,5 +1,41 @@
 [
   {
+    "title": "🏍 Jet UAVs on n.p. Chornomorsk in Odesa from the Black Sea.",
+    "title_en": "🏍 Jet UAVs on n.p. Chornomorsk in Odesa from the Black Sea.",
+    "title_uk": "🏍 Реактивні БПЛА на н.п. Чорноморська в Одесі з боку Чорного моря.",
+    "description": "🏍 Jet UAVs on n.p. Chornomorsk in Odesa from the Black Sea.",
+    "description_en": "🏍 Jet UAVs on n.p. Chornomorsk in Odesa from the Black Sea.",
+    "description_uk": "🏍 Реактивні БпЛА на н.п. Чорноморськ на Одещині з Чорного моря.",
+    "time": "",
+    "pubDate": "2026-08-22T08:21:18+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73959",
+    "score": 5.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: 💣 KAB to the south of Dnipropetrovsk region. 🛵 BpLA to Sumy from the...",
+    "title_en": "Dnipro: 💣 KAB to the south of Dnipropetrovsk region. 🛵 BpLA to Sumy from the...",
+    "title_uk": "Дніпро: 💣 КАБ на південь Дніпропетровської обл. 🛵 BpLA в Суми з...",
+    "description": "💣 KAB to the south of Dnipropetrovsk region. 🛵 BpLA to Sumy from the north.",
+    "description_en": "💣 KAB to the south of Dnipropetrovsk region. 🛵 BpLA to Sumy from the north.",
+    "description_uk": "💣 КАБи на південь Дніпропетровщини. 🛵 БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-08-22T08:08:38+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73957",
+    "score": 6.0,
+    "views": 26280,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_en": "Kharkiv: BpLA on Kharkiv from the north.",
     "title_uk": "Харків: БпЛА на Харків з півночі.",
@@ -31,9 +67,9 @@
     "location": "Mykolaiv",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20487",
-    "score": 19.0,
-    "views": 42053,
-    "forwards": 169
+    "score": 20.0,
+    "views": 61704,
+    "forwards": 207
   },
   {
     "title": "Dnipro: 🏍 Dnipro: jet UAV over the city.",
@@ -86,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54942",
     "score": 9.0,
-    "views": 415,
+    "views": 587,
     "forwards": 1
   },
   {
@@ -104,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54941",
     "score": 4.5,
-    "views": 474,
+    "views": 638,
     "forwards": 1
   },
   {
@@ -412,41 +448,5 @@
     "score": 5.0,
     "views": 19691,
     "forwards": 33
-  },
-  {
-    "title": "Zaporizhzhia: Odeshchyna: BpLA heading for Rozdilna. 🛵 BpLA heading to Zaporozhye...",
-    "title_en": "Zaporizhzhia: Odeshchyna: BpLA heading for Rozdilna. 🛵 BpLA heading to Zaporozhye...",
-    "title_uk": "Запоріжжя: Одещина: BpLA прямує на Роздільну. 🛵 BpLA прямує до Запоріжжя...",
-    "description": "Odeshchyna: BpLA heading for Rozdilna. 🛵 BpLA heading to Zaporozhye from the south.",
-    "description_en": "Odeshchyna: BpLA heading for Rozdilna. 🛵 BpLA heading to Zaporozhye from the south.",
-    "description_uk": "Одещина: БпЛА курсом на Роздільну. 🛵 БпЛА курсом на Запоріжжя із півдня.",
-    "time": "",
-    "pubDate": "2026-08-21T23:40:26+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73837",
-    "score": 6.0,
-    "views": 3037,
-    "forwards": 0
-  },
-  {
-    "title": "Chernihiv: Chernihiv Oblast: \"Banderol\" past Ichnya in the direction of Kyiv...",
-    "title_en": "Chernihiv: Chernihiv Oblast: \"Banderol\" past Ichnya in the direction of Kyiv...",
-    "title_uk": "Чернігів: Чернігівська область: «Бандероль» повз Ічню в напрямку Києва...",
-    "description": "Chernihiv Oblast: \"Banderol\" past Ichnya in the direction of Kyiv Oblast.",
-    "description_en": "Chernihiv Oblast: \"Banderol\" past Ichnya in the direction of Kyiv Oblast.",
-    "description_uk": "Чернігівщина: \"Бандероль\" повз Ічню у напрямку Київщини.",
-    "time": "",
-    "pubDate": "2026-08-21T23:39:15+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73836",
-    "score": 6.0,
-    "views": 4062,
-    "forwards": 34
   }
 ]
