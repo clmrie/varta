@@ -1,5 +1,59 @@
 [
   {
+    "title": "WARNING! 🛫 Activity of enemy tactical aviation over the Black Sea!...",
+    "title_en": "WARNING! 🛫 Activity of enemy tactical aviation over the Black Sea!...",
+    "title_uk": "УВАГА! 🛫 Активність тактичної авіації противника над Чорним морем!...",
+    "description": "WARNING! 🛫 Activity of enemy tactical aviation over the Black Sea! 🚀🚀The threat of using aviation means of destruction for the southern regions!",
+    "description_en": "WARNING! 🛫 Activity of enemy tactical aviation over the Black Sea! 🚀🚀The threat of using aviation means of destruction for the southern regions!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації над акваторією Чорного моря! 🚀🚀Загроза застосування авіаційних засобів ураження для південних областей!",
+    "time": "",
+    "pubDate": "2026-08-22T04:19:03+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73918",
+    "score": 5.0,
+    "views": 19199,
+    "forwards": 1
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea - to Odesa, heading for Chornomorsk.",
+    "description_en": "UAV from the Black Sea - to Odesa, heading for Chornomorsk.",
+    "description_uk": "БпЛА з Чорного моря - на Одещину, курсом на Чорноморськ.",
+    "time": "",
+    "pubDate": "2026-08-22T04:11:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/73917",
+    "score": 5.0,
+    "views": 24238,
+    "forwards": 0
+  },
+  {
+    "title": "Drone strike",
+    "title_en": "Drone strike",
+    "title_uk": "Безпілотний удар",
+    "description": "Drones hit the logistics hub of Ozon in Rossy for the first time On the night of August 22, the Defense Forces of Ukraine struck the logistics hub of the Ozon marketplace in Chapaevsk, Samara region of the Russian Federation. After the drones hit the territory of the complex, a large-scale fire broke out. A thick column of smoke rose above the object. We are talking about one of the largest Ozon warehouse complexes in the Volga region. Ego Square...",
+    "description_en": "Drones hit the logistics hub of Ozon in Rossy for the first time On the night of August 22, the Defense Forces of Ukraine struck the logistics hub of the Ozon marketplace in Chapaevsk, Samara region of the Russian Federation. After the drones hit the territory of the complex, a large-scale fire broke out. A thick column of smoke rose above the object. We are talking about one of the largest Ozon warehouse complexes in the Volga region. Ego Square...",
+    "description_uk": "Дроны впервые поразили логистический хаб Ozon в Росси В ночь на 22 августа Силы обороны Украины нанесли удар по логистическому хабу маркетплейса Ozon в Чапаевске Самарской области РФ. После попадания беспилотников на территории комплекса вспыхнул масштабный пожар. Над объектом поднялся густой столб дыма. Речь идет об одном из самых больших складских комплексов Ozon в Поволжье. Его площадь...",
+    "time": "",
+    "pubDate": "2026-08-22T04:08:36+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199134",
+    "score": 5.5,
+    "views": 30697,
+    "forwards": 315
+  },
+  {
     "title": "Dnipro: Drone incoming",
     "title_en": "Dnipro: Drone incoming",
     "title_uk": "Дніпро: Дрон вхід",
@@ -90,24 +144,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "🏍 Jet UAVs in the east of Poltava Oblast - heading for Dykanka, Opishna, Kotelva.",
-    "description_en": "🏍 Jet UAVs in the east of Poltava Oblast - heading for Dykanka, Opishna, Kotelva.",
-    "description_uk": "🏍 Реактивні БпЛА на сході Полтавщини - курсом на Диканьку, Опішню, Котельву.",
-    "time": "",
-    "pubDate": "2026-08-22T02:36:29+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Poltava",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73898",
-    "score": 5.0,
-    "views": 3047,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Attack attack",
     "title_en": "Kyiv: Attack attack",
     "title_uk": "Київ: Атака",
@@ -122,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54939",
     "score": 9.0,
-    "views": 450,
+    "views": 588,
     "forwards": 2
   },
   {
@@ -158,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54938",
     "score": 6.0,
-    "views": 615,
+    "views": 744,
     "forwards": 3
   },
   {
@@ -248,7 +284,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199128",
     "score": 5.0,
-    "views": 77662,
+    "views": 96629,
     "forwards": 25
   },
   {
@@ -412,41 +448,5 @@
     "score": 6.0,
     "views": 24346,
     "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "🏍 Jet UAV from Kharkiv Oblast in the direction of Poltava Oblast.",
-    "description_en": "🏍 Jet UAV from Kharkiv Oblast in the direction of Poltava Oblast.",
-    "description_uk": "🏍 Реактивний БпЛА з Харківщини у напрямку Полтавщини.",
-    "time": "",
-    "pubDate": "2026-08-21T20:44:44+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73817",
-    "score": 6.0,
-    "views": 26377,
-    "forwards": 1
-  },
-  {
-    "title": "Nikopol: BpLA past Nikopol in the direction of Kryvyi Rih.",
-    "title_en": "Nikopol: BpLA past Nikopol in the direction of Kryvyi Rih.",
-    "title_uk": "Нікополь: БпЛА повз Нікополь в напрямку Кривого Рогу.",
-    "description": "BpLA past Nikopol in the direction of Kryvyi Rih.",
-    "description_en": "BpLA past Nikopol in the direction of Kryvyi Rih.",
-    "description_uk": "БпЛА повз Нікополь у напрямку Кривого Рогу.",
-    "time": "",
-    "pubDate": "2026-08-21T20:17:28+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Nikopol",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/73816",
-    "score": 6.0,
-    "views": 20259,
-    "forwards": 34
   }
 ]
