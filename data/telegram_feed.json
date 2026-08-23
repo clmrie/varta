@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zaporizhzhia: БпЛА в районі м. Запоріжжя.",
+    "title_en": "Zaporizhzhia: БпЛА в районі м. Запоріжжя.",
+    "title_uk": "Zaporizhzhia: БпЛА в районі м. Запоріжжя.",
+    "description": "БпЛА в районі м. Запоріжжя.",
+    "description_en": "БпЛА в районі м. Запоріжжя.",
+    "description_uk": "БпЛА в районі м. Запоріжжя.",
+    "time": "",
+    "pubDate": "2026-08-23T17:46:20+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74203",
+    "score": 6.0,
+    "views": 30318,
+    "forwards": 0
+  },
+  {
+    "title": "🏍 Reactive BpLA heading for Odesa.",
+    "title_en": "🏍 Reactive BpLA heading for Odesa.",
+    "title_uk": "🏍 Reactive BpLA heading for Odesa.",
+    "description": "🏍 Reactive BpLA heading for Odesa.",
+    "description_en": "🏍 Reactive BpLA heading for Odesa.",
+    "description_uk": "🏍 Реактивний БпЛА курсом на Одесу.",
+    "time": "",
+    "pubDate": "2026-08-23T17:25:21+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74199",
+    "score": 5.0,
+    "views": 52525,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Drone incoming",
@@ -122,7 +158,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10109",
     "score": 12.0,
-    "views": 425,
+    "views": 440,
     "forwards": 5
   },
   {
@@ -194,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54960",
     "score": 5.0,
-    "views": 1485,
+    "views": 1575,
     "forwards": 2
   },
   {
@@ -230,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54959",
     "score": 5.0,
-    "views": 1709,
+    "views": 1778,
     "forwards": 6
   },
   {
@@ -412,41 +448,5 @@
     "score": 5.0,
     "views": 14151,
     "forwards": 1
-  },
-  {
-    "title": "Sumy: BpLA on Sumy from the north.",
-    "title_en": "Sumy: BpLA on Sumy from the north.",
-    "title_uk": "Суми: БпЛА на Суми з півн.",
-    "description": "BpLA on Sumy from the north.",
-    "description_en": "BpLA on Sumy from the north.",
-    "description_uk": "БпЛА на Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-08-23T10:09:54+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74142",
-    "score": 6.0,
-    "views": 9099,
-    "forwards": 1
-  },
-  {
-    "title": "Attack attack on residential area",
-    "title_en": "Attack attack on residential area",
-    "title_uk": "Attack attack on residential area",
-    "description": "Путін не хоче завершувати війну і розширює масштаб ударів. Чекає зиму. Вони бʼють по наших цивільних підприємствах, по логістиці, по Укрпошті, палять «Нову пошту» з 2022 року. Чому ми б’ємо, зокрема, по Wildberries? Тому що це і постачання військових товарів, і великі гроші для Росії. Дуже прорахована наша операція. Саме їхні логістичні удари призвели до того, що ми їм почали так само логістично...",
-    "description_en": "Путін не хоче завершувати війну і розширює масштаб ударів. Чекає зиму. Вони бʼють по наших цивільних підприємствах, по логістиці, по Укрпошті, палять «Нову пошту» з 2022 року. Чому ми б’ємо, зокрема, по Wildberries? Тому що це і постачання військових товарів, і великі гроші для Росії. Дуже прорахована наша операція. Саме їхні логістичні удари призвели до того, що ми їм почали так само логістично...",
-    "description_uk": "Путін не хоче завершувати війну і розширює масштаб ударів. Чекає зиму. Вони бʼють по наших цивільних підприємствах, по логістиці, по Укрпошті, палять «Нову пошту» з 2022 року. Чому ми б’ємо, зокрема, по Wildberries? Тому що це і постачання військових товарів, і великі гроші для Росії. Дуже прорахована наша операція. Саме їхні логістичні удари призвели до того, що ми їм почали так само логістично...",
-    "time": "",
-    "pubDate": "2026-08-23T09:38:02+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20505",
-    "score": 10.5,
-    "views": 55303,
-    "forwards": 225
   }
 ]
