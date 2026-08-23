@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "БпЛА ➡️ у напрямку Харкова з північного заходу.",
+    "description_en": "БпЛА ➡️ у напрямку Харкова з північного заходу.",
+    "description_uk": "БпЛА ➡️ у напрямку Харкова з північного заходу.",
+    "time": "",
+    "pubDate": "2026-08-23T22:32:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74233",
+    "score": 5.0,
+    "views": 4282,
+    "forwards": 0
+  },
+  {
+    "title": "Kherson: Drone incoming",
+    "title_en": "Kherson: Drone incoming",
+    "title_uk": "Kherson: Drone incoming",
+    "description": "Група БпЛА на Херсонщині ➡️ у напрямку Високопілля, Архангельського.",
+    "description_en": "Група БпЛА на Херсонщині ➡️ у напрямку Високопілля, Архангельського.",
+    "description_uk": "Група БпЛА на Херсонщині ➡️ у напрямку Високопілля, Архангельського.",
+    "time": "",
+    "pubDate": "2026-08-23T22:31:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74232",
+    "score": 6.0,
+    "views": 4885,
+    "forwards": 0
+  },
+  {
     "title": "Dnipro: Drone incoming",
     "title_en": "Dnipro: Drone incoming",
     "title_uk": "Dnipro: Drone incoming",
@@ -54,24 +90,6 @@
     "forwards": 68
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "БпЛА ➡️ у напрямку Харкова з північного заходу.",
-    "description_en": "БпЛА ➡️ у напрямку Харкова з північного заходу.",
-    "description_uk": "БпЛА ➡️ у напрямку Харкова з північного заходу.",
-    "time": "",
-    "pubDate": "2026-08-23T21:04:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74226",
-    "score": 5.0,
-    "views": 33411,
-    "forwards": 0
-  },
-  {
     "title": "Kharkiv: 🏍 Харківщина: реактивний БпЛА ➡️ на/повз Орільку з півдня.",
     "title_en": "Kharkiv: 🏍 Харківщина: реактивний БпЛА ➡️ на/повз Орільку з півдня.",
     "title_uk": "Kharkiv: 🏍 Харківщина: реактивний БпЛА ➡️ на/повз Орільку з півдня.",
@@ -122,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54962",
     "score": 6.0,
-    "views": 1230,
+    "views": 1313,
     "forwards": 2
   },
   {
@@ -284,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10109",
     "score": 12.0,
-    "views": 554,
+    "views": 557,
     "forwards": 5
   },
   {
@@ -324,24 +342,6 @@
     "forwards": 0
   },
   {
-    "title": "Kherson: Drone incoming",
-    "title_en": "Kherson: Drone incoming",
-    "title_uk": "Kherson: Drone incoming",
-    "description": "🏍 Реактивний БпЛА ➡️ курсом на Херсон з південного заходу.",
-    "description_en": "🏍 Реактивний БпЛА ➡️ курсом на Херсон з південного заходу.",
-    "description_uk": "🏍 Реактивний БпЛА ➡️ курсом на Херсон з південного заходу.",
-    "time": "",
-    "pubDate": "2026-08-23T14:27:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kherson",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74182",
-    "score": 6.0,
-    "views": 11119,
-    "forwards": 0
-  },
-  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -374,7 +374,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54960",
     "score": 5.0,
-    "views": 2428,
+    "views": 2460,
     "forwards": 3
   },
   {
