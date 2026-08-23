@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
+    "description": "🏍 Jet UAV on Kharkiv from the west.",
+    "description_en": "🏍 Jet UAV on Kharkiv from the west.",
+    "description_uk": "🏍 Реактивний БпЛА на Харків із заходу.",
+    "time": "",
+    "pubDate": "2026-08-23T02:07:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74081",
+    "score": 6.0,
+    "views": 4966,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Missile attack on residential area",
+    "title_en": "Kyiv: Missile attack on residential area",
+    "title_uk": "Київ: Ракетний обстріл житлового кварталу",
+    "description": "Zelensky, former Trump envoy Kellogg discuss Ukraine's air defense needs during visit to Kyiv. Keith Kellogg, the former U.S. envoy to Ukraine, met with President Volodymyr Zelensky in Kyiv on Aug. 22 to discuss Ukraine’s urgent need for air defense missiles, as Russia continues to intensify its attacks on Ukrainian cities.",
+    "description_en": "Zelensky, former Trump envoy Kellogg discuss Ukraine's air defense needs during visit to Kyiv. Keith Kellogg, the former U.S. envoy to Ukraine, met with President Volodymyr Zelensky in Kyiv on Aug. 22 to discuss Ukraine’s urgent need for air defense missiles, as Russia continues to intensify its attacks on Ukrainian cities.",
+    "description_uk": "Zelensky, former Trump envoy Kellogg discuss Ukraine's air defense needs during visit to Kyiv. Keith Kellogg, the former U.S. envoy to Ukraine, met with President Volodymyr Zelensky in Kyiv on Aug. 22 to discuss Ukraine’s urgent need for air defense missiles, as Russia continues to intensify its attacks on Ukrainian cities.",
+    "time": "",
+    "pubDate": "2026-08-23T01:31:20+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54955",
+    "score": 6.0,
+    "views": 269,
+    "forwards": 4
+  },
+  {
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Миколаїв: Дрон вхід",
@@ -16,24 +52,6 @@
     "score": 6.0,
     "views": 34375,
     "forwards": 11
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "🏍 Харків: реактивний БпЛА в напрямку міста з півдня",
-    "description_en": "🏍 Харків: реактивний БпЛА в напрямку міста з півдня",
-    "description_uk": "🏍 Харків: реактивний БпЛА в напрямку міста з півдня",
-    "time": "",
-    "pubDate": "2026-08-22T21:29:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74063",
-    "score": 6.0,
-    "views": 46110,
-    "forwards": 1
   },
   {
     "title": "Zaporizhzhia: Zaporozhye: BpLA in the direction of the city",
@@ -86,7 +104,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199208",
     "score": 8.5,
-    "views": 78497,
+    "views": 88808,
     "forwards": 139
   },
   {
@@ -410,7 +428,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199194",
     "score": 4.5,
-    "views": 153717,
+    "views": 156636,
     "forwards": 265
   },
   {
@@ -430,23 +448,5 @@
     "score": 3.5,
     "views": 102014,
     "forwards": 182
-  },
-  {
-    "title": "Chernihiv: Humanitarian aid was delivered to the Chernihiv Regional Children's...",
-    "title_en": "Chernihiv: Humanitarian aid was delivered to the Chernihiv Regional Children's...",
-    "title_uk": "Чернігів: Гуманітарну допомогу доставили до Чернігівського обласного дитячого...",
-    "description": "Humanitarian aid was delivered to the Chernihiv Regional Children's Hospital to improve the conditions of treatment and stay of children in the medical institution. The initiative was implemented in the development of the visit to Chernihiv Region by the Minister of Foreign Affairs of Ukraine Andrii Sybyga and within the framework of the work of the Association of Spouses of Ukrainian Diplomats, headed by Ms. Tetyana Sybyga, with the assistance of the Embassy of Ukraine in the Republic of Angola....",
-    "description_en": "Humanitarian aid was delivered to the Chernihiv Regional Children's Hospital to improve the conditions of treatment and stay of children in the medical institution. The initiative was implemented in the development of the visit to Chernihiv Region by the Minister of Foreign Affairs of Ukraine Andrii Sybyga and within the framework of the work of the Association of Spouses of Ukrainian Diplomats, headed by Ms. Tetyana Sybyga, with the assistance of the Embassy of Ukraine in the Republic of Angola....",
-    "description_uk": "До Чернігівської обласної дитячої лікарні доставили гуманітарну допомогу для покращення умов лікування та перебування дітей у медичному закладі. Ініціативу реалізовано у розвиток візиту на Чернігівщину міністра закордонних справ України Андрія Сибіги та в межах роботи Асоціації Подружжів Українських Дипломатів, яку очолює пані Тетяни Сибіги, за сприяння Посольства України вРеспубліці Ангола....",
-    "time": "",
-    "pubDate": "2026-08-22T15:25:56+00:00",
-    "category": "political",
-    "severity": "critical",
-    "location": "Chernihiv",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/10088",
-    "score": 9.0,
-    "views": 582,
-    "forwards": 9
   }
 ]
