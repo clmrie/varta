@@ -1,5 +1,41 @@
 [
   {
+    "title": "BpLA in the direction of Kharkiv from the north.",
+    "title_en": "BpLA in the direction of Kharkiv from the north.",
+    "title_uk": "БпЛА в напрямку Харкова з півн.",
+    "description": "BpLA in the direction of Kharkiv from the north.",
+    "description_en": "BpLA in the direction of Kharkiv from the north.",
+    "description_uk": "БпЛА у напрямку Харкова з півночі.",
+    "time": "",
+    "pubDate": "2026-08-23T07:48:15+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74131",
+    "score": 5.0,
+    "views": 3003,
+    "forwards": 1
+  },
+  {
+    "title": "Mykolaiv: 🏍 Reactive BpLA from Mykolaiv Oblast to Odesa.",
+    "title_en": "Mykolaiv: 🏍 Reactive BpLA from Mykolaiv Oblast to Odesa.",
+    "title_uk": "Миколаїв: 🏍 Reactive BpLA з Миколаївської області до Одеси.",
+    "description": "🏍 Reactive BpLA from Mykolaiv Oblast to Odesa.",
+    "description_en": "🏍 Reactive BpLA from Mykolaiv Oblast to Odesa.",
+    "description_uk": "🏍 Реактивний БпЛА з Миколаївщини на Одещину.",
+    "time": "",
+    "pubDate": "2026-08-23T07:46:52+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74130",
+    "score": 6.0,
+    "views": 6069,
+    "forwards": 1
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -50,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199221",
     "score": 5.5,
-    "views": 44743,
-    "forwards": 70
+    "views": 68268,
+    "forwards": 104
   },
   {
     "title": "Donetsk: 127 drones intercepted",
@@ -158,8 +194,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54956",
     "score": 9.0,
-    "views": 977,
-    "forwards": 2
+    "views": 1143,
+    "forwards": 3
   },
   {
     "title": "🏍 Jet UAV on Chornomorsk in Odesa region.",
@@ -230,8 +266,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54955",
     "score": 6.0,
-    "views": 1334,
-    "forwards": 4
+    "views": 1483,
+    "forwards": 6
   },
   {
     "title": "Zaporizhzhia: Zaporozhye: BpLA in the direction of the city",
@@ -324,24 +360,6 @@
     "forwards": 0
   },
   {
-    "title": "Odesa: Drone incoming",
-    "title_en": "Odesa: Drone incoming",
-    "title_uk": "Одеса: Дрон вхід",
-    "description": "🏍 Jet UAV in Odesa region, in the direction of Odessa from the north",
-    "description_en": "🏍 Jet UAV in Odesa region, in the direction of Odessa from the north",
-    "description_uk": "🏍 Реактивний БпЛА на Одещині, в напрямку м.Одеса з півночі",
-    "time": "",
-    "pubDate": "2026-08-22T19:26:34+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74054",
-    "score": 6.0,
-    "views": 33424,
-    "forwards": 0
-  },
-  {
     "title": "000 drones",
     "title_en": "000 drones",
     "title_uk": "000 drones",
@@ -374,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10088",
     "score": 9.0,
-    "views": 619,
+    "views": 622,
     "forwards": 9
   },
   {
@@ -410,7 +428,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20487",
     "score": 20.0,
-    "views": 186858,
+    "views": 187803,
     "forwards": 385
   },
   {
@@ -428,7 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20486",
     "score": 10.0,
-    "views": 60277,
+    "views": 60358,
     "forwards": 49
   }
 ]
