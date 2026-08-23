@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "БпЛА ➡️ у напрямку Харкова з півночі.",
+    "description_en": "БпЛА ➡️ у напрямку Харкова з півночі.",
+    "description_uk": "БпЛА ➡️ у напрямку Харкова з півночі.",
+    "time": "",
+    "pubDate": "2026-08-23T20:39:36+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74221",
+    "score": 5.0,
+    "views": 2007,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: 🏍 Харківщина: реактивний БпЛА ➡️в районі н.п. Орілька.",
+    "title_en": "Kharkiv: 🏍 Харківщина: реактивний БпЛА ➡️в районі н.п. Орілька.",
+    "title_uk": "Kharkiv: 🏍 Харківщина: реактивний БпЛА ➡️в районі н.п. Орілька.",
+    "description": "🏍 Харківщина: реактивний БпЛА ➡️в районі н.п. Орілька.",
+    "description_en": "🏍 Харківщина: реактивний БпЛА ➡️в районі н.п. Орілька.",
+    "description_uk": "🏍 Харківщина: реактивний БпЛА ➡️в районі н.п. Орілька.",
+    "time": "",
+    "pubDate": "2026-08-23T20:26:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74220",
+    "score": 6.0,
+    "views": 16217,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: 🏍 Харківщина: реактивний БпЛА ➡️ на/повз Орільку з півдня.",
     "title_en": "Kharkiv: 🏍 Харківщина: реактивний БпЛА ➡️ на/повз Орільку з півдня.",
     "title_uk": "Kharkiv: 🏍 Харківщина: реактивний БпЛА ➡️ на/повз Орільку з півдня.",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54962",
     "score": 6.0,
-    "views": 446,
+    "views": 684,
     "forwards": 1
   },
   {
@@ -70,24 +106,6 @@
     "score": 10.0,
     "views": 11130,
     "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "БпЛА ➡️ у напрямку Харкова з північного сходу.",
-    "description_en": "БпЛА ➡️ у напрямку Харкова з північного сходу.",
-    "description_uk": "БпЛА ➡️ у напрямку Харкова з північного сходу.",
-    "time": "",
-    "pubDate": "2026-08-23T19:43:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74214",
-    "score": 5.0,
-    "views": 14174,
-    "forwards": 1
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -230,7 +248,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10109",
     "score": 12.0,
-    "views": 522,
+    "views": 532,
     "forwards": 5
   },
   {
@@ -302,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54960",
     "score": 5.0,
-    "views": 2110,
+    "views": 2179,
     "forwards": 3
   },
   {
@@ -430,23 +448,5 @@
     "score": 5.5,
     "views": 128203,
     "forwards": 184
-  },
-  {
-    "title": "Kyiv: Ballistic missile launch detected",
-    "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Kyiv: Ballistic missile launch detected",
-    "description": "'Hunting their launch sites' — Zelensky reveals new details about Ukraine's ballistic missile defense. Zelensky said that Ukrainian military struck an Iskander ballistic missile launcher near Ukraine's borders on Aug. 22, without providing further details.",
-    "description_en": "'Hunting their launch sites' — Zelensky reveals new details about Ukraine's ballistic missile defense. Zelensky said that Ukrainian military struck an Iskander ballistic missile launcher near Ukraine's borders on Aug. 22, without providing further details.",
-    "description_uk": "'Hunting their launch sites' — Zelensky reveals new details about Ukraine's ballistic missile defense. Zelensky said that Ukrainian military struck an Iskander ballistic missile launcher near Ukraine's borders on Aug. 22, without providing further details.",
-    "time": "",
-    "pubDate": "2026-08-23T11:21:26+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54958",
-    "score": 13.0,
-    "views": 907,
-    "forwards": 2
   }
 ]
