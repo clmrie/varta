@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "🏍 Jet UAV ➡️ in the direction of Odessa from the north.",
+    "description_en": "🏍 Jet UAV ➡️ in the direction of Odessa from the north.",
+    "description_uk": "🏍 Реактивний БпЛА ➡️ у напрямку Одеси з півночі.",
+    "time": "",
+    "pubDate": "2026-08-23T11:51:17+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74157",
+    "score": 5.0,
+    "views": 4040,
+    "forwards": 1
+  },
+  {
+    "title": "Mykolaiv: 🏍 Jet UAV in the Mykolaiv region past Berezanka on a northwesterly...",
+    "title_en": "Mykolaiv: 🏍 Jet UAV in the Mykolaiv region past Berezanka on a northwesterly...",
+    "title_uk": "Миколаїв: 🏍 Реактивний БПЛА в Миколаївській області повз Березанку на північно-західному...",
+    "description": "🏍 Jet UAV in the Mykolaiv region past Berezanka on a northwesterly course.",
+    "description_en": "🏍 Jet UAV in the Mykolaiv region past Berezanka on a northwesterly course.",
+    "description_uk": "🏍 Реактивний БпЛА на Миколаївщині повз Березанку північно-західним курсом.",
+    "time": "",
+    "pubDate": "2026-08-23T11:39:49+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74156",
+    "score": 6.0,
+    "views": 19210,
+    "forwards": 2
+  },
+  {
     "title": "Drone attack",
     "title_en": "Drone attack",
     "title_uk": "Атака безпілотників",
@@ -13,9 +49,9 @@
     "location": "Crimea",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199241",
-    "score": 5.0,
-    "views": 1,
-    "forwards": 1
+    "score": 5.5,
+    "views": 26779,
+    "forwards": 73
   },
   {
     "title": "BpLA ➡️ in the direction of Kharkiv from the north.",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54958",
     "score": 13.0,
-    "views": 180,
+    "views": 393,
     "forwards": 0
   },
   {
@@ -67,9 +103,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199240",
-    "score": 4.0,
-    "views": 13909,
-    "forwards": 40
+    "score": 4.5,
+    "views": 35315,
+    "forwards": 109
   },
   {
     "title": "Zaporizhzhia: 🛸 In the southeast of the city of Zaporozhye, there is a...",
@@ -126,24 +162,6 @@
     "forwards": 1
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "🏍 Реактивний БпЛА ➡️ у напрямку Миколаєва з північного сходу.",
-    "description_en": "🏍 Реактивний БпЛА ➡️ у напрямку Миколаєва з північного сходу.",
-    "description_uk": "🏍 Реактивний БпЛА ➡️ у напрямку Миколаєва з північного сходу.",
-    "time": "",
-    "pubDate": "2026-08-23T10:40:43+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74146",
-    "score": 5.0,
-    "views": 7094,
-    "forwards": 1
-  },
-  {
     "title": "Zaporizhzhia: Drone incoming",
     "title_en": "Zaporizhzhia: Drone incoming",
     "title_uk": "Запоріжжя: Дрон вхід",
@@ -194,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20505",
     "score": 9.5,
-    "views": 39936,
-    "forwards": 187
+    "views": 42284,
+    "forwards": 190
   },
   {
     "title": "Ballistic missile launch detected",
@@ -212,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20503",
     "score": 8.5,
-    "views": 36477,
-    "forwards": 120
+    "views": 38786,
+    "forwards": 122
   },
   {
     "title": "Missile attack",
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/74101",
     "score": 6.0,
     "views": 34363,
-    "forwards": 0
-  },
-  {
-    "title": "UAV to the south of Odesa from the sea.",
-    "title_en": "UAV to the south of Odesa from the sea.",
-    "title_uk": "БПЛА на південь від Одеси з боку моря.",
-    "description": "UAV to the south of Odesa from the sea.",
-    "description_en": "UAV to the south of Odesa from the sea.",
-    "description_uk": "БпЛА на південь Одещини з моря.",
-    "time": "",
-    "pubDate": "2026-08-23T04:29:57+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74097",
-    "score": 5.0,
-    "views": 11134,
     "forwards": 0
   }
 ]
