@@ -3,18 +3,18 @@
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Drone incoming",
-    "description": "БпЛА ➡️ у напрямку Харкова з півночі.",
-    "description_en": "БпЛА ➡️ у напрямку Харкова з півночі.",
-    "description_uk": "БпЛА ➡️ у напрямку Харкова з півночі.",
+    "description": "БпЛА ➡️ у напрямку Сум з північного заходу.",
+    "description_en": "БпЛА ➡️ у напрямку Сум з північного заходу.",
+    "description_uk": "БпЛА ➡️ у напрямку Сум з північного заходу.",
     "time": "",
-    "pubDate": "2026-08-23T20:39:36+00:00",
+    "pubDate": "2026-08-23T20:57:57+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Ukraine",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74221",
+    "link": "https://t.me/kpszsu/74224",
     "score": 5.0,
-    "views": 2007,
+    "views": 4038,
     "forwards": 0
   },
   {
@@ -86,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54962",
     "score": 6.0,
-    "views": 684,
+    "views": 814,
     "forwards": 1
   },
   {
@@ -234,6 +234,24 @@
     "forwards": 1
   },
   {
+    "title": "Minister of Foreign Affairs of Ukraine Andriy Sybiga: \"Ukraine knows...",
+    "title_en": "Minister of Foreign Affairs of Ukraine Andriy Sybiga: \"Ukraine knows...",
+    "title_uk": "Minister of Foreign Affairs of Ukraine Andriy Sybiga: \"Ukraine knows...",
+    "description": "Minister of Foreign Affairs of Ukraine Andriy Sybiga: \"Ukraine knows well from the Soviet past what oppression of freedom of religion is. Today we see the continuation of the same policy in the Ukrainian territories temporarily occupied by Russia. There were many thoughts about freedom, faith and human dignity today at the National Prayer Breakfast of Ukraine. Representatives of various...",
+    "description_en": "Minister of Foreign Affairs of Ukraine Andriy Sybiga: \"Ukraine knows well from the Soviet past what oppression of freedom of religion is. Today we see the continuation of the same policy in the Ukrainian territories temporarily occupied by Russia. There were many thoughts about freedom, faith and human dignity today at the National Prayer Breakfast of Ukraine. Representatives of various...",
+    "description_uk": "Міністр закордонних справ України Андрій Сибіга: \"Україна добре знає ще з радянського минулого, що таке утиски свободи віросповідання. Сьогодні ми бачимо продовження тієї самої політики на тимчасово окупованих Росією українських територіях. Про свободу, віру і людську гідність багато роздумів було сьогодні на Національному молитовному сніданку України. Разом зібралися представники різних...",
+    "time": "",
+    "pubDate": "2026-08-23T15:37:49+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/10109",
+    "score": 12.0,
+    "views": 536,
+    "forwards": 5
+  },
+  {
     "title": "Міністр закордонних справ України Андрій Сибіга: \"Україна добре знає...",
     "title_en": "Міністр закордонних справ України Андрій Сибіга: \"Україна добре знає...",
     "title_uk": "Міністр закордонних справ України Андрій Сибіга: \"Україна добре знає...",
@@ -320,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54960",
     "score": 5.0,
-    "views": 2179,
+    "views": 2234,
     "forwards": 3
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 19210,
     "forwards": 2
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Drone attack",
-    "description": "СБС поразили российские Су-33 и МиГ-29 на аэродроме в Краснодарском крае, - Мадяр По его словам, оба истребителя находились в районе Витязево. Там же в замес попал ударно-разведывательный БпЛА «Орион». Всего Силы беспилотных систем отработали по 14 целям в России и оккупированном Крыму. Среди них также позиции С-400, комплексы «Тор» и «Панцирь-С1» и восемь РЛС. Российская авиация сегодня явно не...",
-    "description_en": "СБС поразили российские Су-33 и МиГ-29 на аэродроме в Краснодарском крае, - Мадяр По его словам, оба истребителя находились в районе Витязево. Там же в замес попал ударно-разведывательный БпЛА «Орион». Всего Силы беспилотных систем отработали по 14 целям в России и оккупированном Крыму. Среди них также позиции С-400, комплексы «Тор» и «Панцирь-С1» и восемь РЛС. Российская авиация сегодня явно не...",
-    "description_uk": "СБС поразили российские Су-33 и МиГ-29 на аэродроме в Краснодарском крае, - Мадяр По его словам, оба истребителя находились в районе Витязево. Там же в замес попал ударно-разведывательный БпЛА «Орион». Всего Силы беспилотных систем отработали по 14 целям в России и оккупированном Крыму. Среди них также позиции С-400, комплексы «Тор» и «Панцирь-С1» и восемь РЛС. Российская авиация сегодня явно не...",
-    "time": "",
-    "pubDate": "2026-08-23T11:30:07+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199241",
-    "score": 5.5,
-    "views": 128203,
-    "forwards": 184
   }
 ]
