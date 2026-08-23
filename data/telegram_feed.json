@@ -1,8 +1,26 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "БпЛА ➡️ у напрямку Сум з північного сходу.",
+    "description_en": "БпЛА ➡️ у напрямку Сум з північного сходу.",
+    "description_uk": "БпЛА ➡️ у напрямку Сум з північного сходу.",
+    "time": "",
+    "pubDate": "2026-08-23T14:58:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74185",
+    "score": 5.0,
+    "views": 18213,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Kharkiv: Drone incoming",
+    "title_uk": "Харків: Дрон вхід",
     "description": "БпЛА ➡️ курсом на Харків з півночі.",
     "description_en": "БпЛА ➡️ курсом на Харків з півночі.",
     "description_uk": "БпЛА ➡️ курсом на Харків з півночі.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74184",
     "score": 6.0,
-    "views": 5072,
+    "views": 24289,
     "forwards": 0
   },
   {
@@ -33,24 +51,6 @@
     "link": "https://t.me/kpszsu/74183",
     "score": 5.0,
     "views": 20262,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "БпЛА ➡️ у напрямку Харкова з півночі.",
-    "description_en": "БпЛА ➡️ у напрямку Харкова з півночі.",
-    "description_uk": "БпЛА ➡️ у напрямку Харкова з півночі.",
-    "time": "",
-    "pubDate": "2026-08-23T14:32:13+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74183",
-    "score": 5.0,
-    "views": 4057,
     "forwards": 0
   },
   {
@@ -92,7 +92,7 @@
   {
     "title": "Kyiv: Drone strike",
     "title_en": "Kyiv: Drone strike",
-    "title_uk": "Київ: Дрон-удар",
+    "title_uk": "Kyiv: Drone strike",
     "description": "Ukraine strikes 2 Russian fighters, air defense assets in Krasnodar Krai, drone commander says. The two jets, a Su-33 and a Mig-29, as well as a large Orion strike drone, were hit at the Vityazevo airfield in Russia's southern region of Krasnodar Krai, Robert Brovdi said.",
     "description_en": "Ukraine strikes 2 Russian fighters, air defense assets in Krasnodar Krai, drone commander says. The two jets, a Su-33 and a Mig-29, as well as a large Orion strike drone, were hit at the Vityazevo airfield in Russia's southern region of Krasnodar Krai, Robert Brovdi said.",
     "description_uk": "Ukraine strikes 2 Russian fighters, air defense assets in Krasnodar Krai, drone commander says. The two jets, a Su-33 and a Mig-29, as well as a large Orion strike drone, were hit at the Vityazevo airfield in Russia's southern region of Krasnodar Krai, Robert Brovdi said.",
@@ -104,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54960",
     "score": 5.0,
-    "views": 689,
+    "views": 845,
     "forwards": 2
   },
   {
@@ -128,7 +128,7 @@
   {
     "title": "Kyiv: Elections now would 'destroy Ukraine,' Zelensky says, revealing new...",
     "title_en": "Kyiv: Elections now would 'destroy Ukraine,' Zelensky says, revealing new...",
-    "title_uk": "Київ: Вибори зараз «знищать Україну», – Зеленський, відкривши нові...",
+    "title_uk": "Kyiv: Elections now would 'destroy Ukraine,' Zelensky says, revealing new...",
     "description": "Elections now would 'destroy Ukraine,' Zelensky says, revealing new details on disagreements with Fedorov. \"Elections right now are a tsunami for the state that will split Ukraine,\" Zelensky told journalists.",
     "description_en": "Elections now would 'destroy Ukraine,' Zelensky says, revealing new details on disagreements with Fedorov. \"Elections right now are a tsunami for the state that will split Ukraine,\" Zelensky told journalists.",
     "description_uk": "Elections now would 'destroy Ukraine,' Zelensky says, revealing new details on disagreements with Fedorov. \"Elections right now are a tsunami for the state that will split Ukraine,\" Zelensky told journalists.",
@@ -140,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54959",
     "score": 5.0,
-    "views": 1049,
+    "views": 1178,
     "forwards": 4
   },
   {
@@ -230,7 +230,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199241",
     "score": 5.5,
-    "views": 112998,
+    "views": 118435,
     "forwards": 183
   },
   {
@@ -252,6 +252,24 @@
     "forwards": 2
   },
   {
+    "title": "Strike confirmed",
+    "title_en": "Strike confirmed",
+    "title_uk": "Страйк підтверджено",
+    "description": "Так сегодня утром прилетело по складу Ozon в Оренбурге На видео - сам удар по объекту. После атаки работу склада остановили.",
+    "description_en": "Так сегодня утром прилетело по складу Ozon в Оренбурге На видео - сам удар по объекту. После атаки работу склада остановили.",
+    "description_uk": "Так сегодня утром прилетело по складу Ozon в Оренбурге На видео - сам удар по объекту. После атаки работу склада остановили.",
+    "time": "",
+    "pubDate": "2026-08-23T11:20:58+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199240",
+    "score": 5.5,
+    "views": 118467,
+    "forwards": 252
+  },
+  {
     "title": "Strike confirmed on residential building",
     "title_en": "Strike confirmed on residential building",
     "title_uk": "Strike confirmed on residential building",
@@ -267,24 +285,6 @@
     "link": "https://t.me/uniannet/199240",
     "score": 5.5,
     "views": 114060,
-    "forwards": 251
-  },
-  {
-    "title": "Strike confirmed",
-    "title_en": "Strike confirmed",
-    "title_uk": "Страйк підтверджено",
-    "description": "Так сегодня утром прилетело по складу Ozon в Оренбурге На видео - сам удар по объекту. После атаки работу склада остановили.",
-    "description_en": "Так сегодня утром прилетело по складу Ozon в Оренбурге На видео - сам удар по объекту. После атаки работу склада остановили.",
-    "description_uk": "Так сегодня утром прилетело по складу Ozon в Оренбурге На видео - сам удар по объекту. После атаки работу склада остановили.",
-    "time": "",
-    "pubDate": "2026-08-23T11:20:58+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199240",
-    "score": 5.5,
-    "views": 109664,
     "forwards": 251
   },
   {
@@ -344,7 +344,7 @@
   {
     "title": "Attack attack on residential area",
     "title_en": "Attack attack on residential area",
-    "title_uk": "Attack attack on residential area",
+    "title_uk": "Напад на житловий квартал",
     "description": "Путін не хоче завершувати війну і розширює масштаб ударів. Чекає зиму. Вони бʼють по наших цивільних підприємствах, по логістиці, по Укрпошті, палять «Нову пошту» з 2022 року. Чому ми б’ємо, зокрема, по Wildberries? Тому що це і постачання військових товарів, і великі гроші для Росії. Дуже прорахована наша операція. Саме їхні логістичні удари призвели до того, що ми їм почали так само логістично...",
     "description_en": "Путін не хоче завершувати війну і розширює масштаб ударів. Чекає зиму. Вони бʼють по наших цивільних підприємствах, по логістиці, по Укрпошті, палять «Нову пошту» з 2022 року. Чому ми б’ємо, зокрема, по Wildberries? Тому що це і постачання військових товарів, і великі гроші для Росії. Дуже прорахована наша операція. Саме їхні логістичні удари призвели до того, що ми їм почали так само логістично...",
     "description_uk": "Путін не хоче завершувати війну і розширює масштаб ударів. Чекає зиму. Вони бʼють по наших цивільних підприємствах, по логістиці, по Укрпошті, палять «Нову пошту» з 2022 року. Чому ми б’ємо, зокрема, по Wildberries? Тому що це і постачання військових товарів, і великі гроші для Росії. Дуже прорахована наша операція. Саме їхні логістичні удари призвели до того, що ми їм почали так само логістично...",
@@ -356,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20505",
     "score": 10.5,
-    "views": 53126,
+    "views": 53831,
     "forwards": 214
   },
   {
@@ -374,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20503",
     "score": 8.5,
-    "views": 47940,
+    "views": 48645,
     "forwards": 150
   },
   {
