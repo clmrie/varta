@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Kharkiv: Drone incoming",
+    "description": "🏍 Харківщина: реактивний БпЛА повз Савинці ➡️ у напрямку Балаклії.",
+    "description_en": "🏍 Харківщина: реактивний БпЛА повз Савинці ➡️ у напрямку Балаклії.",
+    "description_uk": "🏍 Харківщина: реактивний БпЛА повз Савинці ➡️ у напрямку Балаклії.",
+    "time": "",
+    "pubDate": "2026-08-23T19:14:23+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74212",
+    "score": 6.0,
+    "views": 25283,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "🏍 Сумщина: БпЛА ➡️ на/повз Недригайлів південно-східним курсом.",
+    "description_en": "🏍 Сумщина: БпЛА ➡️ на/повз Недригайлів південно-східним курсом.",
+    "description_uk": "🏍 Сумщина: БпЛА ➡️ на/повз Недригайлів південно-східним курсом.",
+    "time": "",
+    "pubDate": "2026-08-23T19:13:20+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74211",
+    "score": 5.0,
+    "views": 25295,
+    "forwards": 0
+  },
+  {
     "title": "🛫 Активність ворожої тактичної авіації на північно-східному та...",
     "title_en": "🛫 Активність ворожої тактичної авіації на північно-східному та...",
     "title_uk": "🛫 Активність ворожої тактичної авіації на північно-східному та...",
@@ -51,24 +87,6 @@
     "link": "https://t.me/kpszsu/74199",
     "score": 5.0,
     "views": 52525,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "🏍 Реактивний БпЛА курсом на Одесу.",
-    "description_en": "🏍 Реактивний БпЛА курсом на Одесу.",
-    "description_uk": "🏍 Реактивний БпЛА курсом на Одесу.",
-    "time": "",
-    "pubDate": "2026-08-23T17:25:21+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74199",
-    "score": 5.0,
-    "views": 24244,
     "forwards": 0
   },
   {
@@ -144,24 +162,6 @@
     "forwards": 1
   },
   {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Kharkiv: Drone incoming",
-    "description": "🏍 Харківщина: реактивні БпЛА ➡️ у напрямку Лиманіки, Кегичівки.",
-    "description_en": "🏍 Харківщина: реактивні БпЛА ➡️ у напрямку Лиманіки, Кегичівки.",
-    "description_uk": "🏍 Харківщина: реактивні БпЛА ➡️ у напрямку Лиманіки, Кегичівки.",
-    "time": "",
-    "pubDate": "2026-08-23T15:53:23+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74191",
-    "score": 6.0,
-    "views": 9087,
-    "forwards": 0
-  },
-  {
     "title": "Міністр закордонних справ України Андрій Сибіга: \"Україна добре знає...",
     "title_en": "Міністр закордонних справ України Андрій Сибіга: \"Україна добре знає...",
     "title_uk": "Міністр закордонних справ України Андрій Сибіга: \"Україна добре знає...",
@@ -176,7 +176,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10109",
     "score": 12.0,
-    "views": 498,
+    "views": 499,
     "forwards": 5
   },
   {
@@ -248,8 +248,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54960",
     "score": 5.0,
-    "views": 1851,
-    "forwards": 2
+    "views": 1946,
+    "forwards": 3
   },
   {
     "title": "🏍 Jet UAVs from the Black Sea area ➡️ past Rosyka on a western course.",
@@ -284,8 +284,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54959",
     "score": 5.0,
-    "views": 2006,
-    "forwards": 6
+    "views": 2085,
+    "forwards": 7
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
