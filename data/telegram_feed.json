@@ -3,18 +3,36 @@
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Drone incoming",
-    "description": "БпЛА ➡️ у напрямку Сум, Харкова з півночі.",
-    "description_en": "БпЛА ➡️ у напрямку Сум, Харкова з півночі.",
-    "description_uk": "БпЛА ➡️ у напрямку Сум, Харкова з півночі.",
+    "description": "БпЛА ➡️ у напрямку Харкова з півночі.",
+    "description_en": "БпЛА ➡️ у напрямку Харкова з півночі.",
+    "description_uk": "БпЛА ➡️ у напрямку Харкова з півночі.",
     "time": "",
-    "pubDate": "2026-08-23T14:02:28+00:00",
+    "pubDate": "2026-08-23T14:32:13+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Ukraine",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74178",
+    "link": "https://t.me/kpszsu/74183",
     "score": 5.0,
-    "views": 1,
+    "views": 4057,
+    "forwards": 0
+  },
+  {
+    "title": "Kherson: Drone incoming",
+    "title_en": "Kherson: Drone incoming",
+    "title_uk": "Kherson: Drone incoming",
+    "description": "🏍 Реактивний БпЛА ➡️ курсом на Херсон з південного заходу.",
+    "description_en": "🏍 Реактивний БпЛА ➡️ курсом на Херсон з південного заходу.",
+    "description_uk": "🏍 Реактивний БпЛА ➡️ курсом на Херсон з південного заходу.",
+    "time": "",
+    "pubDate": "2026-08-23T14:27:49+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74182",
+    "score": 6.0,
+    "views": 11119,
     "forwards": 0
   },
   {
@@ -50,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54960",
     "score": 5.0,
-    "views": 272,
-    "forwards": 1
+    "views": 555,
+    "forwards": 2
   },
   {
     "title": "🏍 Jet UAVs from the Black Sea area ➡️ past Rosyka on a western course.",
@@ -104,8 +122,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54959",
     "score": 5.0,
-    "views": 736,
-    "forwards": 3
+    "views": 949,
+    "forwards": 4
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
@@ -212,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199241",
     "score": 5.5,
-    "views": 97834,
-    "forwards": 180
+    "views": 107602,
+    "forwards": 183
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -248,7 +266,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199240",
     "score": 5.5,
-    "views": 98898,
+    "views": 109664,
     "forwards": 251
   },
   {
@@ -338,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20505",
     "score": 10.5,
-    "views": 51122,
+    "views": 52440,
     "forwards": 214
   },
   {
@@ -356,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20503",
     "score": 8.5,
-    "views": 45970,
-    "forwards": 140
+    "views": 47288,
+    "forwards": 150
   },
   {
     "title": "Ballistic missile launch detected",
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/74138",
     "score": 6.0,
     "views": 15149,
-    "forwards": 1
-  },
-  {
-    "title": "Sumy: Drone incoming",
-    "title_en": "Sumy: Drone incoming",
-    "title_uk": "Суми: Дрон вхід",
-    "description": "🏍 Jet UAV to/past Sumy from the north.",
-    "description_en": "🏍 Jet UAV to/past Sumy from the north.",
-    "description_uk": "🏍 Реактивний БпЛА на/повз Суми з півночі.",
-    "time": "",
-    "pubDate": "2026-08-23T08:47:23+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74135",
-    "score": 6.0,
-    "views": 6066,
     "forwards": 1
   }
 ]
