@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Kharkiv: Drone incoming",
+    "description": "🏍 Харківщина: реактивний БпЛА ➡️ у напрямку Лозової з півночі.",
+    "description_en": "🏍 Харківщина: реактивний БпЛА ➡️ у напрямку Лозової з півночі.",
+    "description_uk": "🏍 Харківщина: реактивний БпЛА ➡️ у напрямку Лозової з півночі.",
+    "time": "",
+    "pubDate": "2026-08-23T12:17:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74162",
+    "score": 6.0,
+    "views": 12124,
+    "forwards": 1
+  },
+  {
+    "title": "Chernihiv: Sumy: BpLA ➡️ in the direction of Sumy from the north and past...",
+    "title_en": "Chernihiv: Sumy: BpLA ➡️ in the direction of Sumy from the north and past...",
+    "title_uk": "Chernihiv: Sumy: BpLA ➡️ in the direction of Sumy from the north and past...",
+    "description": "Sumy: BpLA ➡️ in the direction of Sumy from the north and past Krolevets ➡️ in the direction of Koropa (Chernihiv region).",
+    "description_en": "Sumy: BpLA ➡️ in the direction of Sumy from the north and past Krolevets ➡️ in the direction of Koropa (Chernihiv region).",
+    "description_uk": "Сумщина: БпЛА ➡️ у напрямку Сум з півночі та повз Кролевець ➡️ у напрямку Коропа (Чернігівщина).",
+    "time": "",
+    "pubDate": "2026-08-23T12:14:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74160",
+    "score": 6.0,
+    "views": 15166,
+    "forwards": 1
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -38,20 +74,20 @@
   {
     "title": "Drone attack",
     "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "SBS defeated Russian Su-33 and MiG-29 at the airfield in the Krasnodar region, - Magyar According to him, both fighters were in the Vityazevo area. There, the strike-reconnaissance UAV \"Orion\" got into the mix. In total, the Forces of unmanned systems worked on 14 targets in Russia and occupied Crimea. Among them are also S-400 positions, Tor and Pantsir-S1 complexes and eight radars. Russian aviation today is clearly not...",
-    "description_en": "SBS defeated Russian Su-33 and MiG-29 at the airfield in the Krasnodar region, - Magyar According to him, both fighters were in the Vityazevo area. There, the strike-reconnaissance UAV \"Orion\" got into the mix. In total, the Forces of unmanned systems worked on 14 targets in Russia and occupied Crimea. Among them are also S-400 positions, Tor and Pantsir-S1 complexes and eight radars. Russian aviation today is clearly not...",
+    "title_uk": "Drone attack",
+    "description": "СБС поразили российские Су-33 и МиГ-29 на аэродроме в Краснодарском крае, - Мадяр По его словам, оба истребителя находились в районе Витязево. Там же в замес попал ударно-разведывательный БпЛА «Орион». Всего Силы беспилотных систем отработали по 14 целям в России и оккупированном Крыму. Среди них также позиции С-400, комплексы «Тор» и «Панцирь-С1» и восемь РЛС. Российская авиация сегодня явно не...",
+    "description_en": "СБС поразили российские Су-33 и МиГ-29 на аэродроме в Краснодарском крае, - Мадяр По его словам, оба истребителя находились в районе Витязево. Там же в замес попал ударно-разведывательный БпЛА «Орион». Всего Силы беспилотных систем отработали по 14 целям в России и оккупированном Крыму. Среди них также позиции С-400, комплексы «Тор» и «Панцирь-С1» и восемь РЛС. Российская авиация сегодня явно не...",
     "description_uk": "СБС поразили российские Су-33 и МиГ-29 на аэродроме в Краснодарском крае, - Мадяр По его словам, оба истребителя находились в районе Витязево. Там же в замес попал ударно-разведывательный БпЛА «Орион». Всего Силы беспилотных систем отработали по 14 целям в России и оккупированном Крыму. Среди них также позиции С-400, комплексы «Тор» и «Панцирь-С1» и восемь РЛС. Российская авиация сегодня явно не...",
     "time": "",
     "pubDate": "2026-08-23T11:30:07+00:00",
-    "category": "missile",
+    "category": "drone",
     "severity": "high",
-    "location": "Crimea",
+    "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199241",
     "score": 5.5,
-    "views": 26779,
-    "forwards": 73
+    "views": 53649,
+    "forwards": 110
   },
   {
     "title": "BpLA ➡️ in the direction of Kharkiv from the north.",
@@ -74,7 +110,7 @@
   {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "title_uk": "Kyiv: Ballistic missile launch detected",
     "description": "'Hunting their launch sites' — Zelensky reveals new details about Ukraine's ballistic missile defense. Zelensky said that Ukrainian military struck an Iskander ballistic missile launcher near Ukraine's borders on Aug. 22, without providing further details.",
     "description_en": "'Hunting their launch sites' — Zelensky reveals new details about Ukraine's ballistic missile defense. Zelensky said that Ukrainian military struck an Iskander ballistic missile launcher near Ukraine's borders on Aug. 22, without providing further details.",
     "description_uk": "'Hunting their launch sites' — Zelensky reveals new details about Ukraine's ballistic missile defense. Zelensky said that Ukrainian military struck an Iskander ballistic missile launcher near Ukraine's borders on Aug. 22, without providing further details.",
@@ -86,13 +122,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54958",
     "score": 13.0,
-    "views": 393,
+    "views": 615,
     "forwards": 0
   },
   {
     "title": "Strike confirmed on residential building",
     "title_en": "Strike confirmed on residential building",
-    "title_uk": "Підтверджено удар по житловому будинку",
+    "title_uk": "Strike confirmed on residential building",
     "description": "So this morning it flew over the Ozon warehouse in Orenburg. On video - the actual impact on the object. After the attack, the warehouse was stopped.",
     "description_en": "So this morning it flew over the Ozon warehouse in Orenburg. On video - the actual impact on the object. After the attack, the warehouse was stopped.",
     "description_uk": "Так сегодня утром прилетело по складу Ozon в Оренбурге На видео - сам удар по объекту. После атаки работу склада остановили.",
@@ -104,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199240",
     "score": 4.5,
-    "views": 35315,
-    "forwards": 109
+    "views": 58965,
+    "forwards": 146
   },
   {
     "title": "Zaporizhzhia: 🛸 In the southeast of the city of Zaporozhye, there is a...",
@@ -123,24 +159,6 @@
     "link": "https://t.me/kpszsu/74151",
     "score": 10.0,
     "views": 13154,
-    "forwards": 1
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Харків: Дрон вхід",
-    "description": "Харківщина: БпЛА ➡️ у напрямку Старого Салтова.",
-    "description_en": "Харківщина: БпЛА ➡️ у напрямку Старого Салтова.",
-    "description_uk": "Харківщина: БпЛА ➡️ у напрямку Старого Салтова.",
-    "time": "",
-    "pubDate": "2026-08-23T10:49:32+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74148",
-    "score": 6.0,
-    "views": 12146,
     "forwards": 1
   },
   {
@@ -200,9 +218,9 @@
   {
     "title": "Attack attack on residential area",
     "title_en": "Attack attack on residential area",
-    "title_uk": "Напад на житловий квартал",
-    "description": "Putin does not want to end the war and is expanding the scale of the strikes. Waiting for winter. They attack our civilian enterprises, logistics, Ukrposhta, and burn Nova Poshta from 2022. Why are we targeting Wildberries in particular? Because it is both a supply of military goods and a lot of money for Russia. Our operation is very calculated. It was their logistical blows that led to us giving them an equally logistical kick…",
-    "description_en": "Putin does not want to end the war and is expanding the scale of the strikes. Waiting for winter. They attack our civilian enterprises, logistics, Ukrposhta, and burn Nova Poshta from 2022. Why are we targeting Wildberries in particular? Because it is both a supply of military goods and a lot of money for Russia. Our operation is very calculated. It was their logistical blows that led to us giving them an equally logistical kick…",
+    "title_uk": "Attack attack on residential area",
+    "description": "Путін не хоче завершувати війну і розширює масштаб ударів. Чекає зиму. Вони бʼють по наших цивільних підприємствах, по логістиці, по Укрпошті, палять «Нову пошту» з 2022 року. Чому ми б’ємо, зокрема, по Wildberries? Тому що це і постачання військових товарів, і великі гроші для Росії. Дуже прорахована наша операція. Саме їхні логістичні удари призвели до того, що ми їм почали так само логістично...",
+    "description_en": "Путін не хоче завершувати війну і розширює масштаб ударів. Чекає зиму. Вони бʼють по наших цивільних підприємствах, по логістиці, по Укрпошті, палять «Нову пошту» з 2022 року. Чому ми б’ємо, зокрема, по Wildberries? Тому що це і постачання військових товарів, і великі гроші для Росії. Дуже прорахована наша операція. Саме їхні логістичні удари призвели до того, що ми їм почали так само логістично...",
     "description_uk": "Путін не хоче завершувати війну і розширює масштаб ударів. Чекає зиму. Вони бʼють по наших цивільних підприємствах, по логістиці, по Укрпошті, палять «Нову пошту» з 2022 року. Чому ми б’ємо, зокрема, по Wildberries? Тому що це і постачання військових товарів, і великі гроші для Росії. Дуже прорахована наша операція. Саме їхні логістичні удари призвели до того, що ми їм почали так само логістично...",
     "time": "",
     "pubDate": "2026-08-23T09:38:02+00:00",
@@ -212,8 +230,26 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20505",
     "score": 9.5,
-    "views": 42284,
-    "forwards": 190
+    "views": 44681,
+    "forwards": 200
+  },
+  {
+    "title": "Missile attack",
+    "title_en": "Missile attack",
+    "title_uk": "Missile attack",
+    "description": "У Росії може бути до 1300 балістичних ракет на рік. Зараз у них є 600–630. Приблизно ми розуміємо, на який обсяг вони розраховують вийти від сьогодні до кінця зими. Приблизно у них може бути 100 балістичних ракет на місяць. Зараз цього ще немає. Ми працюємо над послабленням їхньої воєнної промисловості, є відповідні завдання щодо ударів по військових цілях та інших антибалістичних санкцій. Інші...",
+    "description_en": "У Росії може бути до 1300 балістичних ракет на рік. Зараз у них є 600–630. Приблизно ми розуміємо, на який обсяг вони розраховують вийти від сьогодні до кінця зими. Приблизно у них може бути 100 балістичних ракет на місяць. Зараз цього ще немає. Ми працюємо над послабленням їхньої воєнної промисловості, є відповідні завдання щодо ударів по військових цілях та інших антибалістичних санкцій. Інші...",
+    "description_uk": "У Росії може бути до 1300 балістичних ракет на рік. Зараз у них є 600–630. Приблизно ми розуміємо, на який обсяг вони розраховують вийти від сьогодні до кінця зими. Приблизно у них може бути 100 балістичних ракет на місяць. Зараз цього ще немає. Ми працюємо над послабленням їхньої воєнної промисловості, є відповідні завдання щодо ударів по військових цілях та інших антибалістичних санкцій. Інші...",
+    "time": "",
+    "pubDate": "2026-08-23T09:26:51+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20503",
+    "score": 8.5,
+    "views": 40849,
+    "forwards": 136
   },
   {
     "title": "Ballistic missile launch detected",
@@ -232,24 +268,6 @@
     "score": 8.5,
     "views": 38786,
     "forwards": 122
-  },
-  {
-    "title": "Missile attack",
-    "title_en": "Missile attack",
-    "title_uk": "Missile attack",
-    "description": "У Росії може бути до 1300 балістичних ракет на рік. Зараз у них є 600–630. Приблизно ми розуміємо, на який обсяг вони розраховують вийти від сьогодні до кінця зими. Приблизно у них може бути 100 балістичних ракет на місяць. Зараз цього ще немає. Ми працюємо над послабленням їхньої воєнної промисловості, є відповідні завдання щодо ударів по військових цілях та інших антибалістичних санкцій. Інші...",
-    "description_en": "У Росії може бути до 1300 балістичних ракет на рік. Зараз у них є 600–630. Приблизно ми розуміємо, на який обсяг вони розраховують вийти від сьогодні до кінця зими. Приблизно у них може бути 100 балістичних ракет на місяць. Зараз цього ще немає. Ми працюємо над послабленням їхньої воєнної промисловості, є відповідні завдання щодо ударів по військових цілях та інших антибалістичних санкцій. Інші...",
-    "description_uk": "У Росії може бути до 1300 балістичних ракет на рік. Зараз у них є 600–630. Приблизно ми розуміємо, на який обсяг вони розраховують вийти від сьогодні до кінця зими. Приблизно у них може бути 100 балістичних ракет на місяць. Зараз цього ще немає. Ми працюємо над послабленням їхньої воєнної промисловості, є відповідні завдання щодо ударів по військових цілях та інших антибалістичних санкцій. Інші...",
-    "time": "",
-    "pubDate": "2026-08-23T09:26:51+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20503",
-    "score": 8.5,
-    "views": 33200,
-    "forwards": 110
   },
   {
     "title": "Mykolaiv: 🏍 Jet UAV from the Black Sea ➡️ to the Mykolaiv Region (vector -...",
@@ -430,23 +448,5 @@
     "score": 13.0,
     "views": 11137,
     "forwards": 34
-  },
-  {
-    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
-    "description": "BpLA on Zaporozhye from the south.",
-    "description_en": "BpLA on Zaporozhye from the south.",
-    "description_uk": "БпЛА на Запоріжжя з півдня.",
-    "time": "",
-    "pubDate": "2026-08-23T05:10:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74101",
-    "score": 6.0,
-    "views": 34363,
-    "forwards": 0
   }
 ]
