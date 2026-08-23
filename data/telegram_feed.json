@@ -1,5 +1,23 @@
 [
   {
+    "title": "Sumy: BpLA on Sumy from the north.",
+    "title_en": "Sumy: BpLA on Sumy from the north.",
+    "title_uk": "Суми: БпЛА на Суми з півн.",
+    "description": "BpLA on Sumy from the north.",
+    "description_en": "BpLA on Sumy from the north.",
+    "description_uk": "БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-08-23T10:09:54+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74142",
+    "score": 6.0,
+    "views": 9099,
+    "forwards": 1
+  },
+  {
     "title": "Attack attack on residential area",
     "title_en": "Attack attack on residential area",
     "title_uk": "Напад на житловий квартал",
@@ -14,8 +32,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20505",
     "score": 9.5,
-    "views": 11475,
-    "forwards": 71
+    "views": 22552,
+    "forwards": 136
   },
   {
     "title": "Ballistic missile launch detected",
@@ -31,9 +49,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20503",
-    "score": 8.0,
-    "views": 17022,
-    "forwards": 43
+    "score": 8.5,
+    "views": 25197,
+    "forwards": 79
   },
   {
     "title": "Mykolaiv: 🏍 Jet UAV from the Black Sea ➡️ to the Mykolaiv Region (vector -...",
@@ -50,7 +68,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74141",
     "score": 6.0,
-    "views": 26271,
+    "views": 41481,
     "forwards": 0
   },
   {
@@ -140,7 +158,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199231",
     "score": 8.5,
-    "views": 74730,
+    "views": 85412,
     "forwards": 71
   },
   {
@@ -338,7 +356,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54956",
     "score": 9.0,
-    "views": 1543,
+    "views": 1615,
     "forwards": 3
   },
   {
@@ -410,7 +428,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54955",
     "score": 6.0,
-    "views": 1858,
+    "views": 1917,
     "forwards": 6
   },
   {
@@ -430,23 +448,5 @@
     "score": 4.5,
     "views": 170088,
     "forwards": 275
-  },
-  {
-    "title": "Chernihiv: Humanitarian aid was delivered to the Chernihiv Regional Children's...",
-    "title_en": "Chernihiv: Humanitarian aid was delivered to the Chernihiv Regional Children's...",
-    "title_uk": "Чернігів: Гуманітарну допомогу доставили до Чернігівського обласного дитячого...",
-    "description": "Humanitarian aid was delivered to the Chernihiv Regional Children's Hospital to improve the conditions of treatment and stay of children in the medical institution. The initiative was implemented in the development of the visit to Chernihiv Region by the Minister of Foreign Affairs of Ukraine Andrii Sybyga and within the framework of the work of the Association of Spouses of Ukrainian Diplomats, headed by Ms. Tetyana Sybyga, with the assistance of the Embassy of Ukraine in the Republic of Angola....",
-    "description_en": "Humanitarian aid was delivered to the Chernihiv Regional Children's Hospital to improve the conditions of treatment and stay of children in the medical institution. The initiative was implemented in the development of the visit to Chernihiv Region by the Minister of Foreign Affairs of Ukraine Andrii Sybyga and within the framework of the work of the Association of Spouses of Ukrainian Diplomats, headed by Ms. Tetyana Sybyga, with the assistance of the Embassy of Ukraine in the Republic of Angola....",
-    "description_uk": "До Чернігівської обласної дитячої лікарні доставили гуманітарну допомогу для покращення умов лікування та перебування дітей у медичному закладі. Ініціативу реалізовано у розвиток візиту на Чернігівщину міністра закордонних справ України Андрія Сибіги та в межах роботи Асоціації Подружжів Українських Дипломатів, яку очолює пані Тетяни Сибіги, за сприяння Посольства України вРеспубліці Ангола....",
-    "time": "",
-    "pubDate": "2026-08-22T15:25:56+00:00",
-    "category": "political",
-    "severity": "critical",
-    "location": "Chernihiv",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/10088",
-    "score": 9.0,
-    "views": 646,
-    "forwards": 9
   }
 ]
