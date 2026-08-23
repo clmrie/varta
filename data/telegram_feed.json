@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "🏍 Реактивний БпЛА курсом на Одесу.",
+    "description_en": "🏍 Реактивний БпЛА курсом на Одесу.",
+    "description_uk": "🏍 Реактивний БпЛА курсом на Одесу.",
+    "time": "",
+    "pubDate": "2026-08-23T17:25:21+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74199",
+    "score": 5.0,
+    "views": 24244,
+    "forwards": 0
+  },
+  {
     "title": "Kharkiv: БпЛА на Харків з півночі.",
     "title_en": "Kharkiv: БпЛА на Харків з півночі.",
     "title_uk": "Kharkiv: БпЛА на Харків з півночі.",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74198",
     "score": 6.0,
-    "views": 9100,
+    "views": 33346,
     "forwards": 0
   },
   {
@@ -72,24 +90,6 @@
     "forwards": 1
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "🏍 Sumyshchyna: jet UAV passing by Krolevets heading for Konotop.",
-    "description_en": "🏍 Sumyshchyna: jet UAV passing by Krolevets heading for Konotop.",
-    "description_uk": "🏍 Сумщина: реактивний БпЛА повз Кролевець курсом на Конотоп.",
-    "time": "",
-    "pubDate": "2026-08-23T16:29:07+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74194",
-    "score": 5.0,
-    "views": 13147,
-    "forwards": 0
-  },
-  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Kharkiv: Drone incoming",
@@ -122,8 +122,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10109",
     "score": 12.0,
-    "views": 383,
-    "forwards": 4
+    "views": 425,
+    "forwards": 5
   },
   {
     "title": "BpLA ➡️ in the direction of Kharkiv from the north.",
@@ -194,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54960",
     "score": 5.0,
-    "views": 1378,
+    "views": 1485,
     "forwards": 2
   },
   {
@@ -218,7 +218,7 @@
   {
     "title": "Kyiv: Elections now would 'destroy Ukraine,' Zelensky says, revealing new...",
     "title_en": "Kyiv: Elections now would 'destroy Ukraine,' Zelensky says, revealing new...",
-    "title_uk": "Київ: Вибори зараз «знищать Україну», – Зеленський, відкривши нові...",
+    "title_uk": "Kyiv: Elections now would 'destroy Ukraine,' Zelensky says, revealing new...",
     "description": "Elections now would 'destroy Ukraine,' Zelensky says, revealing new details on disagreements with Fedorov. \"Elections right now are a tsunami for the state that will split Ukraine,\" Zelensky told journalists.",
     "description_en": "Elections now would 'destroy Ukraine,' Zelensky says, revealing new details on disagreements with Fedorov. \"Elections right now are a tsunami for the state that will split Ukraine,\" Zelensky told journalists.",
     "description_uk": "Elections now would 'destroy Ukraine,' Zelensky says, revealing new details on disagreements with Fedorov. \"Elections right now are a tsunami for the state that will split Ukraine,\" Zelensky told journalists.",
@@ -230,8 +230,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54959",
     "score": 5.0,
-    "views": 1618,
-    "forwards": 4
+    "views": 1709,
+    "forwards": 6
   },
   {
     "title": "Zaporizhzhia: Drone incoming",
