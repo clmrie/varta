@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sumy: Drone incoming",
+    "title_en": "Sumy: Drone incoming",
+    "title_uk": "Суми: Дрон вхід",
+    "description": "🏍 Jet UAV to/past Sumy from the north.",
+    "description_en": "🏍 Jet UAV to/past Sumy from the north.",
+    "description_uk": "🏍 Реактивний БпЛА на/повз Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-08-23T08:47:23+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74135",
+    "score": 6.0,
+    "views": 6066,
+    "forwards": 1
+  },
+  {
+    "title": "Dnipro: 🏍 Jet UAV on the Dnipro.",
+    "title_en": "Dnipro: 🏍 Jet UAV on the Dnipro.",
+    "title_uk": "Дніпро: 🏍 Реактивний БПЛА на Дніпрі.",
+    "description": "🏍 Jet UAV on the Dnipro.",
+    "description_en": "🏍 Jet UAV on the Dnipro.",
+    "description_uk": "🏍 Реактивний БпЛА на Дніпро.",
+    "time": "",
+    "pubDate": "2026-08-23T08:37:52+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74134",
+    "score": 6.0,
+    "views": 16140,
+    "forwards": 1
+  },
+  {
     "title": "Missile launch detected",
     "title_en": "Missile launch detected",
     "title_uk": "Виявлено запуск ракети",
@@ -13,9 +49,9 @@
     "location": "Kyiv",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199231",
-    "score": 8.0,
-    "views": 5395,
-    "forwards": 2
+    "score": 8.5,
+    "views": 41578,
+    "forwards": 71
   },
   {
     "title": "Ballistic missile launch detected",
@@ -31,9 +67,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199228",
-    "score": 3.0,
-    "views": 15999,
-    "forwards": 38
+    "score": 3.5,
+    "views": 45843,
+    "forwards": 72
   },
   {
     "title": "BpLA in the direction of Kharkiv from the north.",
@@ -230,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54956",
     "score": 9.0,
-    "views": 1229,
+    "views": 1373,
     "forwards": 3
   },
   {
@@ -302,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54955",
     "score": 6.0,
-    "views": 1570,
+    "views": 1702,
     "forwards": 6
   },
   {
@@ -321,78 +357,6 @@
     "link": "https://t.me/kpszsu/74062",
     "score": 6.0,
     "views": 36371,
-    "forwards": 0
-  },
-  {
-    "title": "🤬 Russian Federation increases the production of reactive UAVs and...",
-    "title_en": "🤬 Russian Federation increases the production of reactive UAVs and...",
-    "title_uk": "🤬 РФ нарощує виробництво реактивних БПЛА та...",
-    "description": "🤬 Russian Federation increases the production of reactive UAVs and can produce up to 300-400 \"Banderolei\" per month, - \"Flash\" According to the adviser to the president, Sergei Beskrestnov, Russia is increasing the production of reactive drones, since Ukraine has learned to effectively counter the usual \"Shahedas\". The main bet of the Russians is on \"Banderol\" with a warhead of about 100 kg. Due to the high speed and ability...",
-    "description_en": "🤬 Russian Federation increases the production of reactive UAVs and can produce up to 300-400 \"Banderolei\" per month, - \"Flash\" According to the adviser to the president, Sergei Beskrestnov, Russia is increasing the production of reactive drones, since Ukraine has learned to effectively counter the usual \"Shahedas\". The main bet of the Russians is on \"Banderol\" with a warhead of about 100 kg. Due to the high speed and ability...",
-    "description_uk": "🤬 рф наращивает производство реактивных БПЛА и может выпускать до 300-400 \"Бандеролей\" в месяц, - \"Флэш\" По словам советника президента Сергея Бескрестнова, россия усиливает производство реактивных дронов, поскольку Украина научилась эффективно противодействовать обычным \"Шахедам\". Основную ставку россияне делают на \"Бандероль\" с боевой частью около 100 кг. Из-за высокой скорости и способности...",
-    "time": "",
-    "pubDate": "2026-08-22T20:30:01+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199208",
-    "score": 8.5,
-    "views": 163449,
-    "forwards": 185
-  },
-  {
-    "title": "🤬 Russia is increasing the production of reactive UAVs and can...",
-    "title_en": "🤬 Russia is increasing the production of reactive UAVs and can...",
-    "title_uk": "🤬 Росія нарощує виробництво реактивних БПЛА і може...",
-    "description": "🤬 Russia is increasing the production of reactive UAVs and can produce up to 300-400 \"Banderolei\" per month, - \"Flash\" According to the adviser to the president, Sergei Beskrestnov, Russia is increasing the production of reactive drones, since Ukraine has learned to effectively counter the usual \"Shahedas\". The main bet of the Russians is on \"Banderol\" with a warhead of about 100 kg. Due to the high speed and ability...",
-    "description_en": "🤬 Russia is increasing the production of reactive UAVs and can produce up to 300-400 \"Banderolei\" per month, - \"Flash\" According to the adviser to the president, Sergei Beskrestnov, Russia is increasing the production of reactive drones, since Ukraine has learned to effectively counter the usual \"Shahedas\". The main bet of the Russians is on \"Banderol\" with a warhead of about 100 kg. Due to the high speed and ability...",
-    "description_uk": "🤬 рф наращивает производство реактивных БПЛА и может выпускать до 300-400 \"Бандеролей\" в месяц, - \"Флэш\" По словам советника президента Сергея Бескрестнова, россия усиливает производство реактивных дронов, поскольку Украина научилась эффективно противодействовать обычным \"Шахедам\". Основную ставку россияне делают на \"Бандероль\" с боевой частью около 100 кг. Из-за высокой скорости и способности...",
-    "time": "",
-    "pubDate": "2026-08-22T20:30:01+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199208",
-    "score": 8.5,
-    "views": 151809,
-    "forwards": 149
-  },
-  {
-    "title": "Kharkiv: BpLA from Kharkiv Oblast heading for Poltava Oblast, direction Dykanka",
-    "title_en": "Kharkiv: BpLA from Kharkiv Oblast heading for Poltava Oblast, direction Dykanka",
-    "title_uk": "Харків: BpLA з Харківської області в напрямку Полтавської області, напрямок Диканька",
-    "description": "BpLA from Kharkiv Oblast heading for Poltava Oblast, direction Dykanka",
-    "description_en": "BpLA from Kharkiv Oblast heading for Poltava Oblast, direction Dykanka",
-    "description_uk": "БпЛА з Харківщини курсом на Полтавщину, напрямок Диканька",
-    "time": "",
-    "pubDate": "2026-08-22T20:26:57+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74058",
-    "score": 6.0,
-    "views": 12,
-    "forwards": 0
-  },
-  {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Запоріжжя: Дрон вхід",
-    "description": "Zaporozhye: UAV in the direction of the city from the east",
-    "description_en": "Zaporozhye: UAV in the direction of the city from the east",
-    "description_uk": "м.Запоріжжя: БпЛА в напрямку міста зі сходу",
-    "time": "",
-    "pubDate": "2026-08-22T20:24:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74057",
-    "score": 6.0,
-    "views": 4061,
     "forwards": 0
   },
   {
@@ -428,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10088",
     "score": 9.0,
-    "views": 628,
+    "views": 634,
     "forwards": 9
   },
   {
@@ -448,5 +412,41 @@
     "score": 9.0,
     "views": 599,
     "forwards": 9
+  },
+  {
+    "title": "Mykolaiv: 16 killed, 130 injured",
+    "title_en": "Mykolaiv: 16 killed, 130 injured",
+    "title_uk": "Миколаїв: 16 загиблих, 130 поранених",
+    "description": "In Kryvyi Rih, at the site of yesterday's attack by the Russians on the shopping center, emergency and rescue operations are ongoing. The fire on an area of ​​9,000 square meters has been extinguished, specialists of the State Emergency Service are sorting through the debris and continuing to search for people. Rescuers from seven regions and canine calculations are involved in the work. Unfortunately, now we know about 16 dead and 130 injured, including 23 children. My condolences to all...",
+    "description_en": "In Kryvyi Rih, at the site of yesterday's attack by the Russians on the shopping center, emergency and rescue operations are ongoing. The fire on an area of ​​9,000 square meters has been extinguished, specialists of the State Emergency Service are sorting through the debris and continuing to search for people. Rescuers from seven regions and canine calculations are involved in the work. Unfortunately, now we know about 16 dead and 130 injured, including 23 children. My condolences to all...",
+    "description_uk": "У Кривому Розі на місці вчорашнього удару росіян по торговельному центру тривають аварійно-рятувальні роботи. Пожежу на площі 9 тисяч квадратних метрів ліквідовано, фахівці ДСНС розбирають завали й продовжують пошуки людей. До робіт залучені рятувальники із семи областей та кінологічні розрахунки. На жаль, зараз відомо про 16 загиблих і 130 постраждалих, серед них 23 дитини. Мої співчуття всім...",
+    "time": "",
+    "pubDate": "2026-08-22T07:23:05+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Mykolaiv",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20487",
+    "score": 20.0,
+    "views": 188857,
+    "forwards": 385
+  },
+  {
+    "title": "Kryvyi Rih: Casualties reported",
+    "title_en": "Kryvyi Rih: Casualties reported",
+    "title_uk": "Кривий Ріг: повідомляється про постраждалих",
+    "description": "A rescue operation is currently underway in Kryvyi Rih following a strike on a shopping mall. All the necessary services have been deployed. Unfortunately, there are many casualties. It was an attack by several Russian drones – deliberate, despicable, one after another. As of now, 14 people have been reported killed. My condolences to their families and loved ones. More than 100 people have been...",
+    "description_en": "A rescue operation is currently underway in Kryvyi Rih following a strike on a shopping mall. All the necessary services have been deployed. Unfortunately, there are many casualties. It was an attack by several Russian drones – deliberate, despicable, one after another. As of now, 14 people have been reported killed. My condolences to their families and loved ones. More than 100 people have been...",
+    "description_uk": "A rescue operation is currently underway in Kryvyi Rih following a strike on a shopping mall. All the necessary services have been deployed. Unfortunately, there are many casualties. It was an attack by several Russian drones – deliberate, despicable, one after another. As of now, 14 people have been reported killed. My condolences to their families and loved ones. More than 100 people have been...",
+    "time": "",
+    "pubDate": "2026-08-21T18:30:50+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kryvyi Rih",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20486",
+    "score": 10.0,
+    "views": 60563,
+    "forwards": 49
   }
 ]
