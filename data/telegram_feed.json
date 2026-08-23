@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "🏍 Сумщина: реактивний БпЛА ➡️ на/повз Конотоп південно-західним курсом.",
+    "description_en": "🏍 Сумщина: реактивний БпЛА ➡️ на/повз Конотоп південно-західним курсом.",
+    "description_uk": "🏍 Сумщина: реактивний БпЛА ➡️ на/повз Конотоп південно-західним курсом.",
+    "time": "",
+    "pubDate": "2026-08-23T23:52:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74240",
+    "score": 5.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
     "title": "Увага! 🛫 Активність ворожої тактичної авіації на східному та...",
     "title_en": "Увага! 🛫 Активність ворожої тактичної авіації на східному та...",
     "title_uk": "Увага! 🛫 Активність ворожої тактичної авіації на східному та...",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74237",
     "score": 5.0,
-    "views": 4,
-    "forwards": 0
+    "views": 7130,
+    "forwards": 1
   },
   {
     "title": "Kyiv: Attack attack",
@@ -32,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54965",
     "score": 5.0,
-    "views": 112,
-    "forwards": 0
+    "views": 223,
+    "forwards": 1
   },
   {
     "title": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному...",
@@ -69,24 +87,6 @@
     "link": "https://t.me/kpszsu/74234",
     "score": 5.0,
     "views": 5085,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "БпЛА ➡️ у напрямку Харкова з північного заходу.",
-    "description_en": "БпЛА ➡️ у напрямку Харкова з північного заходу.",
-    "description_uk": "БпЛА ➡️ у напрямку Харкова з північного заходу.",
-    "time": "",
-    "pubDate": "2026-08-23T22:32:07+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74233",
-    "score": 5.0,
-    "views": 10399,
     "forwards": 0
   },
   {
@@ -212,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54962",
     "score": 6.0,
-    "views": 1449,
+    "views": 1499,
     "forwards": 2
   },
   {
@@ -374,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10109",
     "score": 12.0,
-    "views": 559,
+    "views": 561,
     "forwards": 5
   },
   {
