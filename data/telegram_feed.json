@@ -1,10 +1,46 @@
 [
   {
+    "title": "Zaporizhzhia: BpLA in the direction of Zaporozhye.",
+    "title_en": "Zaporizhzhia: BpLA in the direction of Zaporozhye.",
+    "title_uk": "Запоріжжя: БпЛА в напрямку Запоріжжя.",
+    "description": "BpLA in the direction of Zaporozhye.",
+    "description_en": "BpLA in the direction of Zaporozhye.",
+    "description_uk": "БпЛА у напрямку м. Запоріжжя.",
+    "time": "",
+    "pubDate": "2026-08-23T06:25:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74114",
+    "score": 6.0,
+    "views": 7071,
+    "forwards": 0
+  },
+  {
+    "title": "Donetsk: 127 drones intercepted",
+    "title_en": "Donetsk: 127 drones intercepted",
+    "title_uk": "Донецьк: перехоплено 127 безпілотників",
+    "description": "97 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of August 23 (from 18:00 on August 22), the enemy attacked 127 Shahed-type strike UAVs (including jet ones), Gerber and \"Parody\"-type simulator drones from the directions: Kursk, Millerovo, Orel, Primorsko - Akhtarsk - Russian Federation, Donetsk - TOT, TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, units of EW and unmanned systems,...",
+    "description_en": "97 ENEMY TARGETS DESTROYED/SUPPRESSED On the night of August 23 (from 18:00 on August 22), the enemy attacked 127 Shahed-type strike UAVs (including jet ones), Gerber and \"Parody\"-type simulator drones from the directions: Kursk, Millerovo, Orel, Primorsko - Akhtarsk - Russian Federation, Donetsk - TOT, TOT AR Crimea. The air attack was repulsed by aviation, anti-aircraft missile forces, units of EW and unmanned systems,...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 97 ЦІЛЕЙ ПРОТИВНИКА ➖➖➖➖➖➖➖➖➖➖ У ніч на 23 серпня (з 18:00 22 серпня) противник атакував 127 ударними БпЛА типу Shahed (в т.ч. реактивними), Гербера та дронами-імітаторами типу “Пародія” із напрямків: Курськ, Міллєрово, Орел, Приморсько - Ахтарськ – рф,, Донецьк -ТОТ, ТОТ АР Крим. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем,...",
+    "time": "",
+    "pubDate": "2026-08-23T06:23:42+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74113",
+    "score": 13.0,
+    "views": 11137,
+    "forwards": 34
+  },
+  {
     "title": "Evacuation ordered",
     "title_en": "Evacuation ordered",
     "title_uk": "Наказано евакуацію",
-    "description": "In Orenburg, drones attacked the largest Ozon warehouse. After the arrival, a fire started on the territory of the logistics complex. More than 300 employees were evacuated from the building, but there were no injuries. The work of the warehouse was temporarily stopped. This is already the second Ozon warehouse to suffer from drone attacks in two days. The company's facility in the Samara region was on fire the day before. Looks like Ozon has started shipping issues very quickly.",
-    "description_en": "In Orenburg, drones attacked the largest Ozon warehouse. After the arrival, a fire started on the territory of the logistics complex. More than 300 employees were evacuated from the building, but there were no injuries. The work of the warehouse was temporarily stopped. This is already the second Ozon warehouse to suffer from drone attacks in two days. The company's facility in the Samara region was on fire the day before. Looks like Ozon has started shipping issues very quickly.",
+    "description": "In Orenburg, drones attacked the largest Ozon warehouse. After the arrival, a fire started on the territory of the logistics complex. More than 300 employees were evacuated from the building, but there were no injuries. The work of the warehouse was temporarily stopped. This is the second Ozon warehouse to be hit by drone attacks in two days. The day before, the company's facility in the Samara region was on fire. Looks like Ozon has started shipping issues very quickly.",
+    "description_en": "In Orenburg, drones attacked the largest Ozon warehouse. After the arrival, a fire started on the territory of the logistics complex. More than 300 employees were evacuated from the building, but there were no injuries. The work of the warehouse was temporarily stopped. This is the second Ozon warehouse to be hit by drone attacks in two days. The day before, the company's facility in the Samara region was on fire. Looks like Ozon has started shipping issues very quickly.",
     "description_uk": "В Оренбурге дроны атаковали крупнейший склад Ozon После прилета на территории логистического комплекса начался пожар. Из здания эвакуировали более 300 сотрудников, пострадавших нет. Работу склада временно остановили. Это уже второй склад Ozon, пострадавший от атаки дронов за два дня. Накануне горел объект компании в Самарской области. Похоже, у Ozon началась очень быстрая доставка проблем.",
     "time": "",
     "pubDate": "2026-08-23T05:33:51+00:00",
@@ -13,9 +49,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199214",
-    "score": 4.5,
-    "views": 23342,
-    "forwards": 106
+    "score": 5.5,
+    "views": 58446,
+    "forwards": 213
   },
   {
     "title": "Drone incoming",
@@ -122,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54956",
     "score": 9.0,
-    "views": 600,
+    "views": 767,
     "forwards": 2
   },
   {
@@ -194,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54955",
     "score": 6.0,
-    "views": 979,
+    "views": 1134,
     "forwards": 4
   },
   {
@@ -216,6 +252,24 @@
     "forwards": 0
   },
   {
+    "title": "🤬 Russian Federation increases the production of reactive UAVs and...",
+    "title_en": "🤬 Russian Federation increases the production of reactive UAVs and...",
+    "title_uk": "🤬 РФ нарощує виробництво реактивних БПЛА та...",
+    "description": "🤬 Russian Federation increases the production of reactive UAVs and can produce up to 300-400 \"Banderolei\" per month, - \"Flash\" According to the adviser to the president, Sergei Beskrestnov, Russia is increasing the production of reactive drones, since Ukraine has learned to effectively counter the usual \"Shahedas\". The main bet of the Russians is on \"Banderol\" with a warhead of about 100 kg. Due to the high speed and ability...",
+    "description_en": "🤬 Russian Federation increases the production of reactive UAVs and can produce up to 300-400 \"Banderolei\" per month, - \"Flash\" According to the adviser to the president, Sergei Beskrestnov, Russia is increasing the production of reactive drones, since Ukraine has learned to effectively counter the usual \"Shahedas\". The main bet of the Russians is on \"Banderol\" with a warhead of about 100 kg. Due to the high speed and ability...",
+    "description_uk": "🤬 рф наращивает производство реактивных БПЛА и может выпускать до 300-400 \"Бандеролей\" в месяц, - \"Флэш\" По словам советника президента Сергея Бескрестнова, россия усиливает производство реактивных дронов, поскольку Украина научилась эффективно противодействовать обычным \"Шахедам\". Основную ставку россияне делают на \"Бандероль\" с боевой частью около 100 кг. Из-за высокой скорости и способности...",
+    "time": "",
+    "pubDate": "2026-08-22T20:30:01+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199208",
+    "score": 8.5,
+    "views": 163449,
+    "forwards": 185
+  },
+  {
     "title": "🤬 Russia is increasing the production of reactive UAVs and can...",
     "title_en": "🤬 Russia is increasing the production of reactive UAVs and can...",
     "title_uk": "🤬 Росія нарощує виробництво реактивних БПЛА і може...",
@@ -231,24 +285,6 @@
     "link": "https://t.me/uniannet/199208",
     "score": 8.5,
     "views": 151809,
-    "forwards": 149
-  },
-  {
-    "title": "🤬 Russian Federation increases the production of reactive UAVs and...",
-    "title_en": "🤬 Russian Federation increases the production of reactive UAVs and...",
-    "title_uk": "🤬 РФ нарощує виробництво реактивних БПЛА та...",
-    "description": "🤬 Russian Federation increases the production of reactive UAVs and can produce up to 300-400 \"Banderolei\" per month, - \"Flash\" According to the adviser to the president, Sergei Beskrestnov, Russia is increasing the production of reactive drones, since Ukraine has learned to effectively counter the usual \"Shahedas\". The main bet of the Russians is on \"Banderol\" with a warhead of about 100 kg. Due to the high speed and ability...",
-    "description_en": "🤬 Russian Federation increases the production of reactive UAVs and can produce up to 300-400 \"Banderolei\" per month, - \"Flash\" According to the adviser to the president, Sergei Beskrestnov, Russia is increasing the production of reactive drones, since Ukraine has learned to effectively counter the usual \"Shahedas\". The main bet of the Russians is on \"Banderol\" with a warhead of about 100 kg. Due to the high speed and ability...",
-    "description_uk": "🤬 рф наращивает производство реактивных БПЛА и может выпускать до 300-400 \"Бандеролей\" в месяц, - \"Флэш\" По словам советника президента Сергея Бескрестнова, россия усиливает производство реактивных дронов, поскольку Украина научилась эффективно противодействовать обычным \"Шахедам\". Основную ставку россияне делают на \"Бандероль\" с боевой частью около 100 кг. Из-за высокой скорости и способности...",
-    "time": "",
-    "pubDate": "2026-08-22T20:30:01+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199208",
-    "score": 8.5,
-    "views": 129591,
     "forwards": 149
   },
   {
@@ -342,42 +378,6 @@
     "forwards": 5
   },
   {
-    "title": "Zaporizhzhia: БпЛА на Запоріжжя з півдня.",
-    "title_en": "Zaporizhzhia: БпЛА на Запоріжжя з півдня.",
-    "title_uk": "Zaporizhzhia: БпЛА на Запоріжжя з півдня.",
-    "description": "БпЛА на Запоріжжя з півдня.",
-    "description_en": "БпЛА на Запоріжжя з півдня.",
-    "description_uk": "БпЛА на Запоріжжя з півдня.",
-    "time": "",
-    "pubDate": "2026-08-22T18:13:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74046",
-    "score": 6.0,
-    "views": 10109,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: BpLA from the east of Dnipropetrovsk region to Kharkiv region.",
-    "title_en": "Kharkiv: BpLA from the east of Dnipropetrovsk region to Kharkiv region.",
-    "title_uk": "Харків: БпЛА зі сходу Дніпропетровщини на Харківщину.",
-    "description": "BpLA from the east of Dnipropetrovsk region to Kharkiv region.",
-    "description_en": "BpLA from the east of Dnipropetrovsk region to Kharkiv region.",
-    "description_uk": "БпЛА на зі сходу Дніпропетровщини на Харківщину.",
-    "time": "",
-    "pubDate": "2026-08-22T18:01:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74045",
-    "score": 6.0,
-    "views": 48544,
-    "forwards": 0
-  },
-  {
     "title": "000 drones",
     "title_en": "000 drones",
     "title_uk": "000 drones",
@@ -410,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10088",
     "score": 9.0,
-    "views": 606,
+    "views": 613,
     "forwards": 9
   },
   {
@@ -446,7 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20487",
     "score": 20.0,
-    "views": 184242,
-    "forwards": 382
+    "views": 185592,
+    "forwards": 383
   }
 ]
