@@ -1,5 +1,41 @@
 [
   {
+    "title": "Dnipro: 🏍 Dnipropetrovsk region: Reactive UAV in the east of the region in...",
+    "title_en": "Dnipro: 🏍 Dnipropetrovsk region: Reactive UAV in the east of the region in...",
+    "title_uk": "Дніпро: 🏍 Дніпропетровська область: реактивний БПЛА на сході області в...",
+    "description": "🏍 Dnipropetrovsk region: Reactive UAV in the east of the region in the area of ​​n.p. Mezhova",
+    "description_en": "🏍 Dnipropetrovsk region: Reactive UAV in the east of the region in the area of ​​n.p. Mezhova",
+    "description_uk": "🏍 Дніпропетровщина:Реактивний БпЛА на сході області в районі н.п. Межова.",
+    "time": "",
+    "pubDate": "2026-08-24T10:36:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74320",
+    "score": 6.0,
+    "views": 19178,
+    "forwards": 0
+  },
+  {
+    "title": "Air defense active",
+    "title_en": "Air defense active",
+    "title_uk": "Активна ППО",
+    "description": "The Air Force adapted Mi-8 helicopters to launch \"Pysyunov\" Now drones interceptors of Russian Shaheds and other evil spirits will be able to work not only from the ground.",
+    "description_en": "The Air Force adapted Mi-8 helicopters to launch \"Pysyunov\" Now drones interceptors of Russian Shaheds and other evil spirits will be able to work not only from the ground.",
+    "description_uk": "Воздушные силы адаптировали вертолеты Ми-8 для запуска \"Писюнов\" Теперь дроны-перехватчики российских Шахедов и прочей нечисти смогут работать не только с земли.",
+    "time": "",
+    "pubDate": "2026-08-24T10:25:19+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199320",
+    "score": 5.5,
+    "views": 35115,
+    "forwards": 141
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Дрон входить",
@@ -14,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74319",
     "score": 5.0,
-    "views": 24212,
+    "views": 49503,
     "forwards": 1
   },
   {
@@ -194,8 +230,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41993",
     "score": 6.5,
-    "views": 71209,
-    "forwards": 108
+    "views": 74216,
+    "forwards": 111
   },
   {
     "title": "Sumy: Drone incoming",
@@ -266,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54966",
     "score": 5.0,
-    "views": 1972,
+    "views": 2059,
     "forwards": 5
   },
   {
@@ -338,7 +374,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54965",
     "score": 5.0,
-    "views": 2185,
+    "views": 2281,
     "forwards": 2
   },
   {
@@ -358,41 +394,5 @@
     "score": 5.0,
     "views": 4896,
     "forwards": 11
-  },
-  {
-    "title": "Several groups of BpLA from the Black Sea area ➡️ to Odesa...",
-    "title_en": "Several groups of BpLA from the Black Sea area ➡️ to Odesa...",
-    "title_uk": "Several groups of BpLA from the Black Sea area ➡️ to Odesa...",
-    "description": "Several groups of BpLA from the Black Sea area ➡️ to Odesa (Sergiiivka, Kurortne, Novomykhailivka, Bilhorod-Dnistrovskyi).",
-    "description_en": "Several groups of BpLA from the Black Sea area ➡️ to Odesa (Sergiiivka, Kurortne, Novomykhailivka, Bilhorod-Dnistrovskyi).",
-    "description_uk": "Декілька груп БпЛА з акваторії Чорного моря ➡️ на Одещину (Сергіїівка, Курортне, Новомихайлівка, Білгород-Дністровський).",
-    "time": "",
-    "pubDate": "2026-08-23T22:49:18+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74234",
-    "score": 5.0,
-    "views": 5085,
-    "forwards": 0
-  },
-  {
-    "title": "Kherson: Drone incoming",
-    "title_en": "Kherson: Drone incoming",
-    "title_uk": "Kherson: Drone incoming",
-    "description": "Група БпЛА на Херсонщині ➡️ у напрямку Високопілля, Архангельського.",
-    "description_en": "Група БпЛА на Херсонщині ➡️ у напрямку Високопілля, Архангельського.",
-    "description_uk": "Група БпЛА на Херсонщині ➡️ у напрямку Високопілля, Архангельського.",
-    "time": "",
-    "pubDate": "2026-08-23T22:31:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kherson",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74232",
-    "score": 6.0,
-    "views": 4885,
-    "forwards": 0
   }
 ]
