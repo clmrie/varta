@@ -1,5 +1,59 @@
 [
   {
+    "title": "Donetsk: Today, as part of a special stage of exchange, we are returning 10 of...",
+    "title_en": "Donetsk: Today, as part of a special stage of exchange, we are returning 10 of...",
+    "title_uk": "Donetsk: Today, as part of a special stage of exchange, we are returning 10 of...",
+    "description": "Today, as part of a special stage of exchange, we are returning 10 of our soldiers - via Belarus. Servicemen of the Armed Forces and the National Guard of Ukraine. They defended the country in the Donetsk direction. All of them were considered missing. And it is very important that we managed to return them. Thank you to everyone who works every day to bring our people back. We remember each and every one who remains in captivity....",
+    "description_en": "Today, as part of a special stage of exchange, we are returning 10 of our soldiers - via Belarus. Servicemen of the Armed Forces and the National Guard of Ukraine. They defended the country in the Donetsk direction. All of them were considered missing. And it is very important that we managed to return them. Thank you to everyone who works every day to bring our people back. We remember each and every one who remains in captivity....",
+    "description_uk": "Сьогодні в межах спеціального етапу обміну повертаємо 10 наших воїнів – через Білорусь. Військовослужбовців Збройних Сил і Національної гвардії України. Захищали країну на Донецькому напрямку. Всі вони вважалися зниклими безвісти. І це дуже важливо, що нам вдалося їх повернути. Дякую всім, хто щодня працює над поверненням наших людей. Пам’ятаємо про кожного й кожну, хто залишається в неволі....",
+    "time": "",
+    "pubDate": "2026-08-24T11:18:35+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Donetsk",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20543",
+    "score": 6.5,
+    "views": 17864,
+    "forwards": 134
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "🏍 Jet UAV in the direction of Pavlograd from the east.",
+    "description_en": "🏍 Jet UAV in the direction of Pavlograd from the east.",
+    "description_uk": "🏍 Реактивний БпЛА у напрямку Павлограду зі сходу.",
+    "time": "",
+    "pubDate": "2026-08-24T10:59:39+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74322",
+    "score": 5.0,
+    "views": 26253,
+    "forwards": 1
+  },
+  {
+    "title": "Kharkiv: Kharkiv region: BpLA passes Zolochiv on a southerly course.",
+    "title_en": "Kharkiv: Kharkiv region: BpLA passes Zolochiv on a southerly course.",
+    "title_uk": "Харків : Харківська область : БпЛА проходить Золочів на південному курсі.",
+    "description": "Kharkiv region: BpLA passes Zolochiv on a southerly course.",
+    "description_en": "Kharkiv region: BpLA passes Zolochiv on a southerly course.",
+    "description_uk": "Харківщина: БпЛА повз Золочів південним курсом.",
+    "time": "",
+    "pubDate": "2026-08-24T10:53:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74321",
+    "score": 6.0,
+    "views": 28293,
+    "forwards": 1
+  },
+  {
     "title": "Dnipro: 🏍 Dnipropetrovsk region: Reactive UAV in the east of the region in...",
     "title_en": "Dnipro: 🏍 Dnipropetrovsk region: Reactive UAV in the east of the region in...",
     "title_uk": "Дніпро: 🏍 Дніпропетровська область: реактивний БПЛА на сході області в...",
@@ -31,27 +85,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199320",
-    "score": 5.5,
-    "views": 35115,
-    "forwards": 141
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "🏍 Jet UAV in the direction of Pavlograd from the east.",
-    "description_en": "🏍 Jet UAV in the direction of Pavlograd from the east.",
-    "description_uk": "🏍 Реактивний БпЛА у напрямку Павлограду зі сходу.",
-    "time": "",
-    "pubDate": "2026-08-24T09:50:40+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74319",
-    "score": 5.0,
-    "views": 49503,
-    "forwards": 1
+    "score": 6.5,
+    "views": 58654,
+    "forwards": 212
   },
   {
     "title": "Dnipro: BpLA from the south of Dnipropetrovsk region in the direction of...",
@@ -230,8 +266,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41993",
     "score": 6.5,
-    "views": 74216,
-    "forwards": 111
+    "views": 76293,
+    "forwards": 112
   },
   {
     "title": "Sumy: Drone incoming",
@@ -302,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54966",
     "score": 5.0,
-    "views": 2059,
+    "views": 2129,
     "forwards": 5
   },
   {
@@ -374,25 +410,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54965",
     "score": 5.0,
-    "views": 2281,
+    "views": 2332,
     "forwards": 2
-  },
-  {
-    "title": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному...",
-    "title_en": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному...",
-    "title_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному...",
-    "description": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "description_en": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-08-23T23:19:51+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74236",
-    "score": 5.0,
-    "views": 4896,
-    "forwards": 11
   }
 ]
