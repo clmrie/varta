@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: 300 drones",
+    "title_en": "Kyiv: 300 drones",
+    "title_uk": "Kyiv: 300 drones",
+    "description": "'We need more money' — Zelensky says Kyiv needs to produce hundreds more drones per day to pressure Russia into peace. The president revealed that Ukraine produces about 200-300 drones a day — but needs to churn out over three times that number to stay competitive with Moscow.",
+    "description_en": "'We need more money' — Zelensky says Kyiv needs to produce hundreds more drones per day to pressure Russia into peace. The president revealed that Ukraine produces about 200-300 drones a day — but needs to churn out over three times that number to stay competitive with Moscow.",
+    "description_uk": "'We need more money' — Zelensky says Kyiv needs to produce hundreds more drones per day to pressure Russia into peace. The president revealed that Ukraine produces about 200-300 drones a day — but needs to churn out over three times that number to stay competitive with Moscow.",
+    "time": "",
+    "pubDate": "2026-08-24T19:54:56+00:00",
+    "category": "drone",
+    "severity": "medium",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54982",
+    "score": 4.0,
+    "views": 145,
+    "forwards": 3
+  },
+  {
+    "title": "Все реактивные «Шахеды» россиян летают на онлайн-управлении, —...",
+    "title_en": "Все реактивные «Шахеды» россиян летают на онлайн-управлении, —...",
+    "title_uk": "Все реактивные «Шахеды» россиян летают на онлайн-управлении, —...",
+    "description": "Все реактивные «Шахеды» россиян летают на онлайн-управлении, — советник президента «Флэш» По словам специалиста Сергея Бескрестнова, что оператор в рф может в реальном времени видеть картинку с дрона и управлять им, фактически используя реактивный «Шахед» как большой FPV. Более того, больше половины таких дронов, вероятно, уже делают с функцией захвата цели. По словам Бескрестнова, оператор может...",
+    "description_en": "Все реактивные «Шахеды» россиян летают на онлайн-управлении, — советник президента «Флэш» По словам специалиста Сергея Бескрестнова, что оператор в рф может в реальном времени видеть картинку с дрона и управлять им, фактически используя реактивный «Шахед» как большой FPV. Более того, больше половины таких дронов, вероятно, уже делают с функцией захвата цели. По словам Бескрестнова, оператор может...",
+    "description_uk": "Все реактивные «Шахеды» россиян летают на онлайн-управлении, — советник президента «Флэш» По словам специалиста Сергея Бескрестнова, что оператор в рф может в реальном времени видеть картинку с дрона и управлять им, фактически используя реактивный «Шахед» как большой FPV. Более того, больше половины таких дронов, вероятно, уже делают с функцией захвата цели. По словам Бескрестнова, оператор может...",
+    "time": "",
+    "pubDate": "2026-08-24T19:53:33+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199368",
+    "score": 5.0,
+    "views": 9738,
+    "forwards": 38
+  },
+  {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Drone attack",
+    "description": "Ударні БпЛА на Вилкове з Чорного моря.",
+    "description_en": "Ударні БпЛА на Вилкове з Чорного моря.",
+    "description_uk": "Ударні БпЛА на Вилкове з Чорного моря.",
+    "time": "",
+    "pubDate": "2026-08-24T19:44:38+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74360",
+    "score": 5.0,
+    "views": 20251,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Casualties reported",
     "title_en": "Kyiv: Casualties reported",
     "title_uk": "Kyiv: Casualties reported",
@@ -14,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54981",
     "score": 6.0,
-    "views": 172,
-    "forwards": 2
+    "views": 575,
+    "forwards": 5
   },
   {
     "title": "🏍 Реактивний БпЛА на Полтаву зі сходу.",
@@ -32,7 +86,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74359",
     "score": 5.0,
-    "views": 18208,
+    "views": 37456,
     "forwards": 1
   },
   {
@@ -104,7 +158,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199358",
     "score": 7.5,
-    "views": 104860,
+    "views": 111439,
     "forwards": 107
   },
   {
@@ -158,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20560",
     "score": 8.5,
-    "views": 75863,
-    "forwards": 253
+    "views": 78008,
+    "forwards": 287
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -194,7 +248,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20559",
     "score": 5.5,
-    "views": 58127,
+    "views": 59210,
     "forwards": 112
   },
   {
@@ -394,59 +448,5 @@
     "score": 9.5,
     "views": 107363,
     "forwards": 315
-  },
-  {
-    "title": "Russia did launch a rocket with a military cargo into orbit,...",
-    "title_en": "Russia did launch a rocket with a military cargo into orbit,...",
-    "title_uk": "Росія таки запустила на орбіту ракету з військовим вантажем,...",
-    "description": "Russia did launch a rocket with a military cargo into orbit, presumably with the next batch of Rassvet satellites. The Ministry of Defense of the Russian Federation reports that the medium-class Soyuz-2.1b launch vehicle was successfully launched from the Plesetsk Cosmodrome in the Arkhangelsk region, which launched a military cargo into orbit, the type and purpose of which are not disclosed. It was this spaceport that was the likely target...",
-    "description_en": "Russia did launch a rocket with a military cargo into orbit, presumably with the next batch of Rassvet satellites. The Ministry of Defense of the Russian Federation reports that the medium-class Soyuz-2.1b launch vehicle was successfully launched from the Plesetsk Cosmodrome in the Arkhangelsk region, which launched a military cargo into orbit, the type and purpose of which are not disclosed. It was this spaceport that was the likely target...",
-    "description_uk": "Русня таки вывела на орбиту ракету с грузом военного назначения, предположительно, с очередной партией спутников «Рассвета» Минобороны РФ сообщает, что с космодрома Плесецк в Архангельской области был успешно осуществлён пуск ракеты-носителя среднего класса «Союз-2.1б», которая вывела на орбиту военный груз, тип и предназначение которого не раскрываются. Именно этот космодром был вероятной целью...",
-    "time": "",
-    "pubDate": "2026-08-24T11:31:09+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199324",
-    "score": 9.5,
-    "views": 64380,
-    "forwards": 212
-  },
-  {
-    "title": "Kyiv: Attack attack",
-    "title_en": "Kyiv: Attack attack",
-    "title_uk": "Київ: Атака",
-    "description": "Ukraine hits Ozon logistics centers, rocket fuel plant, MiG-29 fighter jet in Russia, military says. Three Ozon warehouses were hit in Dagestan, Stavropol Krai and Adygea, Russian independent media outlet Astra reported. Ozon shares fell 12% following the Ukrainian strikes, according to the report.",
-    "description_en": "Ukraine hits Ozon logistics centers, rocket fuel plant, MiG-29 fighter jet in Russia, military says. Three Ozon warehouses were hit in Dagestan, Stavropol Krai and Adygea, Russian independent media outlet Astra reported. Ozon shares fell 12% following the Ukrainian strikes, according to the report.",
-    "description_uk": "Ukraine hits Ozon logistics centers, rocket fuel plant, MiG-29 fighter jet in Russia, military says. Three Ozon warehouses were hit in Dagestan, Stavropol Krai and Adygea, Russian independent media outlet Astra reported. Ozon shares fell 12% following the Ukrainian strikes, according to the report.",
-    "time": "",
-    "pubDate": "2026-08-24T11:30:10+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54972",
-    "score": 5.0,
-    "views": 440,
-    "forwards": 1
-  },
-  {
-    "title": "Donetsk: Сьогодні в межах спеціального етапу обміну повертаємо 10 наших воїнів...",
-    "title_en": "Donetsk: Сьогодні в межах спеціального етапу обміну повертаємо 10 наших воїнів...",
-    "title_uk": "Donetsk: Сьогодні в межах спеціального етапу обміну повертаємо 10 наших воїнів...",
-    "description": "Сьогодні в межах спеціального етапу обміну повертаємо 10 наших воїнів – через Білорусь. Військовослужбовців Збройних Сил і Національної гвардії України. Захищали країну на Донецькому напрямку. Всі вони вважалися зниклими безвісти. І це дуже важливо, що нам вдалося їх повернути. Дякую всім, хто щодня працює над поверненням наших людей. Пам’ятаємо про кожного й кожну, хто залишається в неволі....",
-    "description_en": "Сьогодні в межах спеціального етапу обміну повертаємо 10 наших воїнів – через Білорусь. Військовослужбовців Збройних Сил і Національної гвардії України. Захищали країну на Донецькому напрямку. Всі вони вважалися зниклими безвісти. І це дуже важливо, що нам вдалося їх повернути. Дякую всім, хто щодня працює над поверненням наших людей. Пам’ятаємо про кожного й кожну, хто залишається в неволі....",
-    "description_uk": "Сьогодні в межах спеціального етапу обміну повертаємо 10 наших воїнів – через Білорусь. Військовослужбовців Збройних Сил і Національної гвардії України. Захищали країну на Донецькому напрямку. Всі вони вважалися зниклими безвісти. І це дуже важливо, що нам вдалося їх повернути. Дякую всім, хто щодня працює над поверненням наших людей. Пам’ятаємо про кожного й кожну, хто залишається в неволі....",
-    "time": "",
-    "pubDate": "2026-08-24T11:18:35+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Donetsk",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20543",
-    "score": 7.5,
-    "views": 983489,
-    "forwards": 2046
   }
 ]
