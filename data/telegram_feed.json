@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Drone attack",
+    "description": "Загроза ударних БпЛА для Білгород-Дністровського р-ну.",
+    "description_en": "Загроза ударних БпЛА для Білгород-Дністровського р-ну.",
+    "description_uk": "Загроза ударних БпЛА для Білгород-Дністровського р-ну.",
+    "time": "",
+    "pubDate": "2026-08-24T23:23:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74371",
+    "score": 5.0,
+    "views": 6637,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Drone incoming",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74370",
     "score": 5.0,
-    "views": 911,
-    "forwards": 0
+    "views": 8742,
+    "forwards": 11
   },
   {
     "title": "В Голосеевском районе в результате падения обломков БПЛА в 16-этажном...",
@@ -32,26 +50,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199388",
     "score": 8.0,
-    "views": 25105,
+    "views": 28423,
     "forwards": 35
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Drone attack",
-    "description": "С России вылетели 32 группы реактивных «Шахедов»! В ближайшее время ожидается атака, - мониторы",
-    "description_en": "С России вылетели 32 группы реактивных «Шахедов»! В ближайшее время ожидается атака, - мониторы",
-    "description_uk": "С России вылетели 32 группы реактивных «Шахедов»! В ближайшее время ожидается атака, - мониторы",
-    "time": "",
-    "pubDate": "2026-08-24T21:53:32+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199387",
-    "score": 6.5,
-    "views": 31675,
-    "forwards": 229
   },
   {
     "title": "Strike confirmed",
@@ -176,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54982",
     "score": 4.0,
-    "views": 1216,
+    "views": 1259,
     "forwards": 4
   },
   {
@@ -212,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54981",
     "score": 6.0,
-    "views": 1465,
+    "views": 1508,
     "forwards": 6
   },
   {
@@ -338,7 +338,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20560",
     "score": 8.5,
-    "views": 89414,
+    "views": 89469,
     "forwards": 328
   },
   {
@@ -374,7 +374,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20559",
     "score": 5.5,
-    "views": 66696,
+    "views": 66714,
     "forwards": 140
   },
   {
