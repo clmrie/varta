@@ -1,5 +1,41 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "UAV on the Black Sea in Odesa from the Black Sea. 🏍 Jet UAVs from the Black Sea in the direction of Odesa/Mykolaiv Oblast.",
+    "description_en": "UAV on the Black Sea in Odesa from the Black Sea. 🏍 Jet UAVs from the Black Sea in the direction of Odesa/Mykolaiv Oblast.",
+    "description_uk": "БпЛА на Чорноморське на Одещині з Чорного моря. 🏍 Реактивні БпЛА з Чорного моря в напрямку Одещини/Миколаївщини.",
+    "time": "",
+    "pubDate": "2026-08-24T08:24:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74307",
+    "score": 6.0,
+    "views": 9075,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: KAB to the south-eastern part of Dnipropetrovsk region. 🛵 BpLA to...",
+    "title_en": "Zaporizhzhia: KAB to the south-eastern part of Dnipropetrovsk region. 🛵 BpLA to...",
+    "title_uk": "Запоріжжя : КАБ до південно-східної частини Дніпропетровської обл. 🛵 BpLA до...",
+    "description": "KAB to the south-eastern part of Dnipropetrovsk region. 🛵 BpLA to Zaporizhzhia from the south.",
+    "description_en": "KAB to the south-eastern part of Dnipropetrovsk region. 🛵 BpLA to Zaporizhzhia from the south.",
+    "description_uk": "КАБи на південно-східну частину Дніпропетровщини. 🛵 БпЛА на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-08-24T08:02:03+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74305",
+    "score": 6.0,
+    "views": 32412,
+    "forwards": 1
+  },
+  {
     "title": "Zaporizhzhia: Drone incoming",
     "title_en": "Zaporizhzhia: Drone incoming",
     "title_uk": "Запоріжжя: Дрон вхід",
@@ -72,24 +108,6 @@
     "forwards": 70
   },
   {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "🏍 Mykolaiv region: jet UAV ➡️ on/past Berezanka on a northwesterly course. 🏍 Jet UAV from the Black Sea area ➡️ in the direction of Chornomorskyi.",
-    "description_en": "🏍 Mykolaiv region: jet UAV ➡️ on/past Berezanka on a northwesterly course. 🏍 Jet UAV from the Black Sea area ➡️ in the direction of Chornomorskyi.",
-    "description_uk": "🏍 Миколаївщина: реактивний БпЛА ➡️ на/повз Березанку північно-західним курсом. 🏍 Реактивний БпЛА з акваторії Чорного моря ➡️ у напрямку Чорноморського.",
-    "time": "",
-    "pubDate": "2026-08-24T05:50:40+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74289",
-    "score": 6.0,
-    "views": 1009,
-    "forwards": 1
-  },
-  {
     "title": "Kharkiv: 🏍 Jet UAV to Kharkiv.",
     "title_en": "Kharkiv: 🏍 Jet UAV to Kharkiv.",
     "title_uk": "Харків: 🏍 Реактивний БПЛА до Харкова.",
@@ -140,8 +158,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41993",
     "score": 6.5,
-    "views": 52224,
-    "forwards": 85
+    "views": 60061,
+    "forwards": 93
   },
   {
     "title": "Sumy: Drone incoming",
@@ -212,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54966",
     "score": 5.0,
-    "views": 1547,
+    "views": 1704,
     "forwards": 4
   },
   {
@@ -284,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54965",
     "score": 5.0,
-    "views": 1850,
+    "views": 1976,
     "forwards": 1
   },
   {
@@ -394,59 +412,5 @@
     "score": 5.5,
     "views": 30380,
     "forwards": 68
-  },
-  {
-    "title": "Kharkiv: 🏍 Харківщина: реактивний БпЛА ➡️ на/повз Орільку з півдня.",
-    "title_en": "Kharkiv: 🏍 Харківщина: реактивний БпЛА ➡️ на/повз Орільку з півдня.",
-    "title_uk": "Kharkiv: 🏍 Харківщина: реактивний БпЛА ➡️ на/повз Орільку з півдня.",
-    "description": "🏍 Харківщина: реактивний БпЛА ➡️ на/повз Орільку з півдня.",
-    "description_en": "🏍 Харківщина: реактивний БпЛА ➡️ на/повз Орільку з півдня.",
-    "description_uk": "🏍 Харківщина: реактивний БпЛА ➡️ на/повз Орільку з півдня.",
-    "time": "",
-    "pubDate": "2026-08-23T20:05:22+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74217",
-    "score": 6.0,
-    "views": 13183,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Musk 'may change his mind' on using Starlink over Russian territory,...",
-    "title_en": "Kyiv: Musk 'may change his mind' on using Starlink over Russian territory,...",
-    "title_uk": "Kyiv: Musk 'may change his mind' on using Starlink over Russian territory,...",
-    "description": "Musk 'may change his mind' on using Starlink over Russian territory, Zelensky says. \"So far, he has said that this constitutes an escalation,\" President Volodymyr Zelensky told reporters on Aug. 22. \"However, he may change his mind once he sees further arguments.\"",
-    "description_en": "Musk 'may change his mind' on using Starlink over Russian territory, Zelensky says. \"So far, he has said that this constitutes an escalation,\" President Volodymyr Zelensky told reporters on Aug. 22. \"However, he may change his mind once he sees further arguments.\"",
-    "description_uk": "Musk 'may change his mind' on using Starlink over Russian territory, Zelensky says. \"So far, he has said that this constitutes an escalation,\" President Volodymyr Zelensky told reporters on Aug. 22. \"However, he may change his mind once he sees further arguments.\"",
-    "time": "",
-    "pubDate": "2026-08-23T19:49:53+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54962",
-    "score": 6.0,
-    "views": 1736,
-    "forwards": 2
-  },
-  {
-    "title": "Chernihiv: Air defense active",
-    "title_en": "Chernihiv: Air defense active",
-    "title_uk": "Chernihiv: Air defense active",
-    "description": "🛸 На Чернігівщині між н.п.Семенівка і Холми працює розвідувальний БпЛА противника, який може бути потенційним навідником ворожих засобів ураження. Залучено засоби для збиття.",
-    "description_en": "🛸 На Чернігівщині між н.п.Семенівка і Холми працює розвідувальний БпЛА противника, який може бути потенційним навідником ворожих засобів ураження. Залучено засоби для збиття.",
-    "description_uk": "🛸 На Чернігівщині між н.п.Семенівка і Холми працює розвідувальний БпЛА противника, який може бути потенційним навідником ворожих засобів ураження. Залучено засоби для збиття.",
-    "time": "",
-    "pubDate": "2026-08-23T19:45:45+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74215",
-    "score": 10.0,
-    "views": 11130,
-    "forwards": 0
   }
 ]
