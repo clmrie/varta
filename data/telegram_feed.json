@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "🏍 Jet UAV in the direction of Zaporizhzhia. 🚀Let's go to Donetsk region.",
+    "description_en": "🏍 Jet UAV in the direction of Zaporizhzhia. 🚀Let's go to Donetsk region.",
+    "description_uk": "🏍 Реактивний БпЛА в напрямку Запоріжжя. 🚀КАБи на Донеччину.",
+    "time": "",
+    "pubDate": "2026-08-24T07:35:31+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74302",
+    "score": 6.0,
+    "views": 15144,
+    "forwards": 1
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV in the north of Sumy Oblast, in the direction of Esman.",
+    "description_en": "UAV in the north of Sumy Oblast, in the direction of Esman.",
+    "description_uk": "БпЛА на півночі Сумщини, в напрямку н.п. Есмань.",
+    "time": "",
+    "pubDate": "2026-08-24T07:24:21+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74301",
+    "score": 5.0,
+    "views": 27289,
+    "forwards": 0
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -54,24 +90,6 @@
     "forwards": 1
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV from the Black Sea area ➡️ in the direction of Southern (Odeszine).",
-    "description_en": "UAV from the Black Sea area ➡️ in the direction of Southern (Odeszine).",
-    "description_uk": "БпЛА з акваторії Чорного моря ➡️ у напрямку Південного (Одещина).",
-    "time": "",
-    "pubDate": "2026-08-24T05:39:25+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74288",
-    "score": 5.0,
-    "views": 15148,
-    "forwards": 1
-  },
-  {
     "title": "Kharkiv: 🏍 Jet UAV to Kharkiv.",
     "title_en": "Kharkiv: 🏍 Jet UAV to Kharkiv.",
     "title_uk": "Харків: 🏍 Реактивний БПЛА до Харкова.",
@@ -122,8 +140,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41993",
     "score": 6.5,
-    "views": 42714,
-    "forwards": 74
+    "views": 52224,
+    "forwards": 85
   },
   {
     "title": "Sumy: Drone incoming",
@@ -194,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54966",
     "score": 5.0,
-    "views": 1226,
+    "views": 1547,
     "forwards": 4
   },
   {
@@ -266,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54965",
     "score": 5.0,
-    "views": 1640,
+    "views": 1850,
     "forwards": 1
   },
   {
@@ -429,24 +447,6 @@
     "link": "https://t.me/kpszsu/74215",
     "score": 10.0,
     "views": 11130,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Kharkiv: Drone incoming",
-    "description": "🏍 Харківщина: реактивний БпЛА повз Савинці ➡️ у напрямку Балаклії.",
-    "description_en": "🏍 Харківщина: реактивний БпЛА повз Савинці ➡️ у напрямку Балаклії.",
-    "description_uk": "🏍 Харківщина: реактивний БпЛА повз Савинці ➡️ у напрямку Балаклії.",
-    "time": "",
-    "pubDate": "2026-08-23T19:14:23+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74212",
-    "score": 6.0,
-    "views": 25283,
     "forwards": 0
   }
 ]
