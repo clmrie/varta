@@ -1,5 +1,41 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "🏍 Mykolaiv region: jet UAV ➡️ on/past Berezanka on a northwesterly course. 🏍 Jet UAV from the Black Sea area ➡️ in the direction of Chornomorskyi.",
+    "description_en": "🏍 Mykolaiv region: jet UAV ➡️ on/past Berezanka on a northwesterly course. 🏍 Jet UAV from the Black Sea area ➡️ in the direction of Chornomorskyi.",
+    "description_uk": "🏍 Миколаївщина: реактивний БпЛА ➡️ на/повз Березанку північно-західним курсом. 🏍 Реактивний БпЛА з акваторії Чорного моря ➡️ у напрямку Чорноморського.",
+    "time": "",
+    "pubDate": "2026-08-24T05:50:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74289",
+    "score": 6.0,
+    "views": 1009,
+    "forwards": 1
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "UAV from the Black Sea area ➡️ in the direction of Southern (Odeszine).",
+    "description_en": "UAV from the Black Sea area ➡️ in the direction of Southern (Odeszine).",
+    "description_uk": "БпЛА з акваторії Чорного моря ➡️ у напрямку Південного (Одещина).",
+    "time": "",
+    "pubDate": "2026-08-24T05:39:25+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74288",
+    "score": 5.0,
+    "views": 15148,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: 🏍 Jet UAV to Kharkiv.",
     "title_en": "Kharkiv: 🏍 Jet UAV to Kharkiv.",
     "title_uk": "Харків: 🏍 Реактивний БПЛА до Харкова.",
@@ -49,27 +85,9 @@
     "location": "Crimea",
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41993",
-    "score": 6.0,
-    "views": 2579,
-    "forwards": 21
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "🏍 Jet UAV in the direction of Mykolaiv from the southwest.",
-    "description_en": "🏍 Jet UAV in the direction of Mykolaiv from the southwest.",
-    "description_uk": "🏍 Реактивний БпЛА у напрямку Миколаєва з південного заходу.",
-    "time": "",
-    "pubDate": "2026-08-24T04:20:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74277",
-    "score": 5.0,
-    "views": 2043,
-    "forwards": 0
+    "score": 6.5,
+    "views": 19855,
+    "forwards": 58
   },
   {
     "title": "Sumy: Drone incoming",
@@ -140,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54966",
     "score": 5.0,
-    "views": 726,
-    "forwards": 1
+    "views": 946,
+    "forwards": 2
   },
   {
     "title": "Odesa: Групи БпЛА з акваторії Чорного моря на Одещину, вектор -...",
@@ -159,24 +177,6 @@
     "link": "https://t.me/kpszsu/74263",
     "score": 6.0,
     "views": 6047,
-    "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Mykolaiv: Drone incoming",
-    "description": "🏍 Mykolaiv Oblast: jet UAV on/past Ochakiv from the southeast.",
-    "description_en": "🏍 Mykolaiv Oblast: jet UAV on/past Ochakiv from the southeast.",
-    "description_uk": "🏍 Миколаївщина: реактивний БпЛА на/повз Очаків з південного сходу.",
-    "time": "",
-    "pubDate": "2026-08-24T00:50:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74247",
-    "score": 6.0,
-    "views": 3054,
     "forwards": 0
   },
   {
@@ -230,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54965",
     "score": 5.0,
-    "views": 1214,
+    "views": 1413,
     "forwards": 1
   },
   {
@@ -430,23 +430,5 @@
     "score": 5.0,
     "views": 66755,
     "forwards": 35
-  },
-  {
-    "title": "Zaporizhzhia: БпЛА в районі м. Запоріжжя.",
-    "title_en": "Zaporizhzhia: БпЛА в районі м. Запоріжжя.",
-    "title_uk": "Zaporizhzhia: БпЛА в районі м. Запоріжжя.",
-    "description": "БпЛА в районі м. Запоріжжя.",
-    "description_en": "БпЛА в районі м. Запоріжжя.",
-    "description_uk": "БпЛА в районі м. Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-08-23T17:46:20+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74203",
-    "score": 6.0,
-    "views": 94070,
-    "forwards": 0
   }
 ]
