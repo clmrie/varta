@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "🏍 Jet UAV in the direction of Pavlograd from the east.",
+    "description_en": "🏍 Jet UAV in the direction of Pavlograd from the east.",
+    "description_uk": "🏍 Реактивний БпЛА у напрямку Павлограду зі сходу.",
+    "time": "",
+    "pubDate": "2026-08-24T09:50:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74319",
+    "score": 5.0,
+    "views": 24212,
+    "forwards": 1
+  },
+  {
     "title": "Dnipro: BpLA from the south of Dnipropetrovsk region in the direction of...",
     "title_en": "Dnipro: BpLA from the south of Dnipropetrovsk region in the direction of...",
     "title_uk": "Дніпро: БпЛА з півдня Дніпропетровської області в напрямку...",
@@ -90,24 +108,6 @@
     "forwards": 1
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "UAV in the north of Sumy Oblast, in the direction of Esman.",
-    "description_en": "UAV in the north of Sumy Oblast, in the direction of Esman.",
-    "description_uk": "БпЛА на півночі Сумщини, в напрямку н.п. Есмань.",
-    "time": "",
-    "pubDate": "2026-08-24T07:24:21+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Sumy",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74301",
-    "score": 5.0,
-    "views": 27289,
-    "forwards": 0
-  },
-  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Чернігів: Дрон вхід",
@@ -194,8 +194,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41993",
     "score": 6.5,
-    "views": 66906,
-    "forwards": 102
+    "views": 71209,
+    "forwards": 108
   },
   {
     "title": "Sumy: Drone incoming",
@@ -266,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54966",
     "score": 5.0,
-    "views": 1842,
+    "views": 1972,
     "forwards": 5
   },
   {
@@ -338,7 +338,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54965",
     "score": 5.0,
-    "views": 2081,
+    "views": 2185,
     "forwards": 2
   },
   {
@@ -393,42 +393,6 @@
     "link": "https://t.me/kpszsu/74232",
     "score": 6.0,
     "views": 4885,
-    "forwards": 0
-  },
-  {
-    "title": "Dnipro: Drone incoming",
-    "title_en": "Dnipro: Drone incoming",
-    "title_uk": "Dnipro: Drone incoming",
-    "description": "Дніпропетровщина: - 🛵 БпЛА ➡️ у напрямку Верхньодніпровська з півдня, 🏍 реактивний БпЛА ➡️ у напрямку Межової з півночі.",
-    "description_en": "Дніпропетровщина: - 🛵 БпЛА ➡️ у напрямку Верхньодніпровська з півдня, 🏍 реактивний БпЛА ➡️ у напрямку Межової з півночі.",
-    "description_uk": "Дніпропетровщина: - 🛵 БпЛА ➡️ у напрямку Верхньодніпровська з півдня, 🏍 реактивний БпЛА ➡️ у напрямку Межової з півночі.",
-    "time": "",
-    "pubDate": "2026-08-23T21:50:55+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74230",
-    "score": 6.0,
-    "views": 14214,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: 🏍 Харківщина: реактивний БпЛА ➡️в районі н.п. Орілька.",
-    "title_en": "Kharkiv: 🏍 Харківщина: реактивний БпЛА ➡️в районі н.п. Орілька.",
-    "title_uk": "Kharkiv: 🏍 Харківщина: реактивний БпЛА ➡️в районі н.п. Орілька.",
-    "description": "🏍 Харківщина: реактивний БпЛА ➡️в районі н.п. Орілька.",
-    "description_en": "🏍 Харківщина: реактивний БпЛА ➡️в районі н.п. Орілька.",
-    "description_uk": "🏍 Харківщина: реактивний БпЛА ➡️в районі н.п. Орілька.",
-    "time": "",
-    "pubDate": "2026-08-23T21:37:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74229",
-    "score": 6.0,
-    "views": 20317,
     "forwards": 0
   }
 ]
