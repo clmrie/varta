@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone strike",
+    "title_en": "Drone strike",
+    "title_uk": "Drone strike",
+    "description": "Украинские дроны остановили работу крупного Пермского НПЗ в россии, — Reuters Во время атаки украинских дронов 21 августа под удар попала установка CDU-4, на которую приходится почти 40% мощности завода. Она перерабатывала около 14 тысяч тонн нефти в сутки. По предварительным оценкам, ремонт может занять от одной до двух недель. При этом другая крупная установка — CDU-5, которая обеспечивает еще...",
+    "description_en": "Украинские дроны остановили работу крупного Пермского НПЗ в россии, — Reuters Во время атаки украинских дронов 21 августа под удар попала установка CDU-4, на которую приходится почти 40% мощности завода. Она перерабатывала около 14 тысяч тонн нефти в сутки. По предварительным оценкам, ремонт может занять от одной до двух недель. При этом другая крупная установка — CDU-5, которая обеспечивает еще...",
+    "description_uk": "Украинские дроны остановили работу крупного Пермского НПЗ в россии, — Reuters Во время атаки украинских дронов 21 августа под удар попала установка CDU-4, на которую приходится почти 40% мощности завода. Она перерабатывала около 14 тысяч тонн нефти в сутки. По предварительным оценкам, ремонт может занять от одной до двух недель. При этом другая крупная установка — CDU-5, которая обеспечивает еще...",
+    "time": "",
+    "pubDate": "2026-08-24T17:22:30+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199358",
+    "score": 7.0,
+    "views": 26748,
+    "forwards": 37
+  },
+  {
     "title": "Zaporizhzhia: Drone incoming",
     "title_en": "Zaporizhzhia: Drone incoming",
     "title_uk": "Zaporizhzhia: Drone incoming",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74350",
     "score": 6.0,
-    "views": 23209,
+    "views": 36609,
     "forwards": 0
   },
   {
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74349",
     "score": 5.0,
-    "views": 38593,
+    "views": 51021,
     "forwards": 2
   },
   {
@@ -50,8 +68,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20560",
     "score": 7.5,
-    "views": 27015,
-    "forwards": 109
+    "views": 39501,
+    "forwards": 179
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -86,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20559",
     "score": 5.5,
-    "views": 35879,
-    "forwards": 75
+    "views": 41164,
+    "forwards": 76
   },
   {
     "title": "Група БпЛА з акваторії Чорного моря ➡️ на південь Одещини (Вилкове).",
@@ -140,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199344",
     "score": 5.5,
-    "views": 89285,
-    "forwards": 147
+    "views": 102115,
+    "forwards": 181
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -248,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54975",
     "score": 9.0,
-    "views": 1754,
+    "views": 1825,
     "forwards": 4
   },
   {
@@ -266,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54974",
     "score": 9.0,
-    "views": 1799,
+    "views": 1868,
     "forwards": 6
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.5,
     "views": 95288,
     "forwards": 284
-  },
-  {
-    "title": "Dnipro: BpLA from the south of Dnipropetrovsk region in the direction of...",
-    "title_en": "Dnipro: BpLA from the south of Dnipropetrovsk region in the direction of...",
-    "title_uk": "Дніпро: БпЛА з півдня Дніпропетровської області в напрямку...",
-    "description": "BpLA from the south of Dnipropetrovsk region in the direction of Dnipro.",
-    "description_en": "BpLA from the south of Dnipropetrovsk region in the direction of Dnipro.",
-    "description_uk": "БпЛА з півдня Дніпропетровщини в напрямку Дніпра.",
-    "time": "",
-    "pubDate": "2026-08-24T09:14:04+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74316",
-    "score": 6.0,
-    "views": 16148,
-    "forwards": 34
   }
 ]
