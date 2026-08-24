@@ -1,5 +1,41 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Mykolaiv: Drone incoming",
+    "description": "🏍 Mykolaiv Oblast: jet UAV on/past Ochakiv from the southeast.",
+    "description_en": "🏍 Mykolaiv Oblast: jet UAV on/past Ochakiv from the southeast.",
+    "description_uk": "🏍 Миколаївщина: реактивний БпЛА на/повз Очаків з південного сходу.",
+    "time": "",
+    "pubDate": "2026-08-24T00:50:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74247",
+    "score": 6.0,
+    "views": 3054,
+    "forwards": 0
+  },
+  {
+    "title": "🏍 Сумщина: реактивний БпЛА ➡️ на/повз Конотоп з півночі.",
+    "title_en": "🏍 Сумщина: реактивний БпЛА ➡️ на/повз Конотоп з півночі.",
+    "title_uk": "🏍 Сумщина: реактивний БпЛА ➡️ на/повз Конотоп з півночі.",
+    "description": "🏍 Сумщина: реактивний БпЛА ➡️ на/повз Конотоп з півночі.",
+    "description_en": "🏍 Сумщина: реактивний БпЛА ➡️ на/повз Конотоп з півночі.",
+    "description_uk": "🏍 Сумщина: реактивний БпЛА ➡️ на/повз Конотоп з півночі.",
+    "time": "",
+    "pubDate": "2026-08-24T00:46:54+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74246",
+    "score": 5.0,
+    "views": 4076,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Drone incoming",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54965",
     "score": 5.0,
-    "views": 223,
+    "views": 419,
     "forwards": 1
   },
   {
@@ -180,24 +216,6 @@
     "forwards": 0
   },
   {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Mykolaiv: Drone incoming",
-    "description": "🏍 Реактивний БпЛА на південь Миколаївщини повз н.п.Іванівка ➡️ північним курсом.",
-    "description_en": "🏍 Реактивний БпЛА на південь Миколаївщини повз н.п.Іванівка ➡️ північним курсом.",
-    "description_uk": "🏍 Реактивний БпЛА на південь Миколаївщини повз н.п.Іванівка ➡️ північним курсом.",
-    "time": "",
-    "pubDate": "2026-08-23T19:58:22+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74216",
-    "score": 6.0,
-    "views": 28434,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Musk 'may change his mind' on using Starlink over Russian territory,...",
     "title_en": "Kyiv: Musk 'may change his mind' on using Starlink over Russian territory,...",
     "title_uk": "Kyiv: Musk 'may change his mind' on using Starlink over Russian territory,...",
@@ -212,7 +230,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54962",
     "score": 6.0,
-    "views": 1499,
+    "views": 1602,
     "forwards": 2
   },
   {
@@ -374,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10109",
     "score": 12.0,
-    "views": 561,
+    "views": 563,
     "forwards": 5
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 8074,
     "forwards": 1
-  },
-  {
-    "title": "Kyiv: Drone strike",
-    "title_en": "Kyiv: Drone strike",
-    "title_uk": "Kyiv: Drone strike",
-    "description": "Ukraine strikes 2 Russian fighters, air defense assets in Krasnodar Krai, drone commander says. The two jets, a Su-33 and a Mig-29, as well as a large Orion strike drone, were hit at the Vityazevo airfield in Russia's southern region of Krasnodar Krai, Robert Brovdi said.",
-    "description_en": "Ukraine strikes 2 Russian fighters, air defense assets in Krasnodar Krai, drone commander says. The two jets, a Su-33 and a Mig-29, as well as a large Orion strike drone, were hit at the Vityazevo airfield in Russia's southern region of Krasnodar Krai, Robert Brovdi said.",
-    "description_uk": "Ukraine strikes 2 Russian fighters, air defense assets in Krasnodar Krai, drone commander says. The two jets, a Su-33 and a Mig-29, as well as a large Orion strike drone, were hit at the Vityazevo airfield in Russia's southern region of Krasnodar Krai, Robert Brovdi said.",
-    "time": "",
-    "pubDate": "2026-08-23T13:45:34+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54960",
-    "score": 5.0,
-    "views": 2480,
-    "forwards": 3
   }
 ]
