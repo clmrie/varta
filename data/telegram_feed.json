@@ -1,5 +1,59 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "🏍 Реактивний БпЛА на межі Одеської та Миколаївської області, рухається в північно-західному напрямку.",
+    "description_en": "🏍 Реактивний БпЛА на межі Одеської та Миколаївської області, рухається в північно-західному напрямку.",
+    "description_uk": "🏍 Реактивний БпЛА на межі Одеської та Миколаївської області, рухається в північно-західному напрямку.",
+    "time": "",
+    "pubDate": "2026-08-24T11:39:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74324",
+    "score": 6.0,
+    "views": 19182,
+    "forwards": 1
+  },
+  {
+    "title": "Russia did launch a rocket with a military cargo into orbit,...",
+    "title_en": "Russia did launch a rocket with a military cargo into orbit,...",
+    "title_uk": "Росія таки запустила на орбіту ракету з військовим вантажем,...",
+    "description": "Russia did launch a rocket with a military cargo into orbit, presumably with the next batch of Rassvet satellites. The Ministry of Defense of the Russian Federation reports that the medium-class Soyuz-2.1b launch vehicle was successfully launched from the Plesetsk Cosmodrome in the Arkhangelsk region, which launched a military cargo into orbit, the type and purpose of which are not disclosed. It was this spaceport that was the likely target...",
+    "description_en": "Russia did launch a rocket with a military cargo into orbit, presumably with the next batch of Rassvet satellites. The Ministry of Defense of the Russian Federation reports that the medium-class Soyuz-2.1b launch vehicle was successfully launched from the Plesetsk Cosmodrome in the Arkhangelsk region, which launched a military cargo into orbit, the type and purpose of which are not disclosed. It was this spaceport that was the likely target...",
+    "description_uk": "Русня таки вывела на орбиту ракету с грузом военного назначения, предположительно, с очередной партией спутников «Рассвета» Минобороны РФ сообщает, что с космодрома Плесецк в Архангельской области был успешно осуществлён пуск ракеты-носителя среднего класса «Союз-2.1б», которая вывела на орбиту военный груз, тип и предназначение которого не раскрываются. Именно этот космодром был вероятной целью...",
+    "time": "",
+    "pubDate": "2026-08-24T11:31:09+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199324",
+    "score": 8.5,
+    "views": 29969,
+    "forwards": 142
+  },
+  {
+    "title": "Kyiv: Attack attack",
+    "title_en": "Kyiv: Attack attack",
+    "title_uk": "Київ: Атака",
+    "description": "Ukraine hits Ozon logistics centers, rocket fuel plant, MiG-29 fighter jet in Russia, military says. Three Ozon warehouses were hit in Dagestan, Stavropol Krai and Adygea, Russian independent media outlet Astra reported. Ozon shares fell 12% following the Ukrainian strikes, according to the report.",
+    "description_en": "Ukraine hits Ozon logistics centers, rocket fuel plant, MiG-29 fighter jet in Russia, military says. Three Ozon warehouses were hit in Dagestan, Stavropol Krai and Adygea, Russian independent media outlet Astra reported. Ozon shares fell 12% following the Ukrainian strikes, according to the report.",
+    "description_uk": "Ukraine hits Ozon logistics centers, rocket fuel plant, MiG-29 fighter jet in Russia, military says. Three Ozon warehouses were hit in Dagestan, Stavropol Krai and Adygea, Russian independent media outlet Astra reported. Ozon shares fell 12% following the Ukrainian strikes, according to the report.",
+    "time": "",
+    "pubDate": "2026-08-24T11:30:10+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54972",
+    "score": 5.0,
+    "views": 440,
+    "forwards": 1
+  },
+  {
     "title": "Donetsk: Today, as part of a special stage of exchange, we are returning 10 of...",
     "title_en": "Donetsk: Today, as part of a special stage of exchange, we are returning 10 of...",
     "title_uk": "Donetsk: Today, as part of a special stage of exchange, we are returning 10 of...",
@@ -13,9 +67,9 @@
     "location": "Donetsk",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20543",
-    "score": 6.5,
-    "views": 17864,
-    "forwards": 134
+    "score": 7.5,
+    "views": 354341,
+    "forwards": 1276
   },
   {
     "title": "Drone incoming",
@@ -86,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199320",
     "score": 6.5,
-    "views": 58654,
-    "forwards": 212
+    "views": 76895,
+    "forwards": 248
   },
   {
     "title": "Dnipro: BpLA from the south of Dnipropetrovsk region in the direction of...",
@@ -124,24 +178,6 @@
     "score": 6.0,
     "views": 33338,
     "forwards": 1
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Миколаїв: Дрон вхід",
-    "description": "UAV on the Black Sea in Odesa from the Black Sea. 🏍 Jet UAVs from the Black Sea in the direction of Odesa/Mykolaiv Oblast.",
-    "description_en": "UAV on the Black Sea in Odesa from the Black Sea. 🏍 Jet UAVs from the Black Sea in the direction of Odesa/Mykolaiv Oblast.",
-    "description_uk": "БпЛА на Чорноморське на Одещині з Чорного моря. 🏍 Реактивні БпЛА з Чорного моря в напрямку Одещини/Миколаївщини.",
-    "time": "",
-    "pubDate": "2026-08-24T08:24:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74307",
-    "score": 6.0,
-    "views": 9075,
-    "forwards": 0
   },
   {
     "title": "Zaporizhzhia: KAB to the south-eastern part of Dnipropetrovsk region. 🛵 BpLA to...",
@@ -266,8 +302,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41993",
     "score": 6.5,
-    "views": 76293,
-    "forwards": 112
+    "views": 78260,
+    "forwards": 113
   },
   {
     "title": "Sumy: Drone incoming",
@@ -338,7 +374,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54966",
     "score": 5.0,
-    "views": 2129,
+    "views": 2241,
     "forwards": 5
   },
   {
@@ -376,41 +412,5 @@
     "score": 5.0,
     "views": 4076,
     "forwards": 0
-  },
-  {
-    "title": "Увага! 🛫 Активність ворожої тактичної авіації на східному та...",
-    "title_en": "Увага! 🛫 Активність ворожої тактичної авіації на східному та...",
-    "title_uk": "Увага! 🛫 Активність ворожої тактичної авіації на східному та...",
-    "description": "Увага! 🛫 Активність ворожої тактичної авіації на східному та південно-східному напрямках! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "description_en": "Увага! 🛫 Активність ворожої тактичної авіації на східному та південно-східному напрямках! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на східному та південно-східному напрямках! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
-    "time": "",
-    "pubDate": "2026-08-23T23:31:14+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74237",
-    "score": 5.0,
-    "views": 7130,
-    "forwards": 1
-  },
-  {
-    "title": "Kyiv: Attack attack",
-    "title_en": "Kyiv: Attack attack",
-    "title_uk": "Київ: Атака",
-    "description": "Ukraine reportedly targets Russia's Krasnodar, nearby Ozon logistics center in major attack. Ukrainian forces struck a retail warehouse in the southern Russian city of Krasnodar and a nearby logistics center belonging to Russian e-commerce giant Ozon, monitoring channels reported Aug. 24.",
-    "description_en": "Ukraine reportedly targets Russia's Krasnodar, nearby Ozon logistics center in major attack. Ukrainian forces struck a retail warehouse in the southern Russian city of Krasnodar and a nearby logistics center belonging to Russian e-commerce giant Ozon, monitoring channels reported Aug. 24.",
-    "description_uk": "Ukraine reportedly targets Russia's Krasnodar, nearby Ozon logistics center in major attack. Ukrainian forces struck a retail warehouse in the southern Russian city of Krasnodar and a nearby logistics center belonging to Russian e-commerce giant Ozon, monitoring channels reported Aug. 24.",
-    "time": "",
-    "pubDate": "2026-08-23T23:20:32+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54965",
-    "score": 5.0,
-    "views": 2332,
-    "forwards": 2
   }
 ]
