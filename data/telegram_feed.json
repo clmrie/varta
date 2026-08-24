@@ -1,5 +1,41 @@
 [
   {
+    "title": "Dnipro: BpLA from the south of Dnipropetrovsk region in the direction of...",
+    "title_en": "Dnipro: BpLA from the south of Dnipropetrovsk region in the direction of...",
+    "title_uk": "Дніпро: БпЛА з півдня Дніпропетровської області в напрямку...",
+    "description": "BpLA from the south of Dnipropetrovsk region in the direction of Dnipro.",
+    "description_en": "BpLA from the south of Dnipropetrovsk region in the direction of Dnipro.",
+    "description_uk": "БпЛА з півдня Дніпропетровщини в напрямку Дніпра.",
+    "time": "",
+    "pubDate": "2026-08-24T09:14:04+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74316",
+    "score": 6.0,
+    "views": 16148,
+    "forwards": 34
+  },
+  {
+    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
+    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
+    "description": "BpLA on Zaporozhye from the south.",
+    "description_en": "BpLA on Zaporozhye from the south.",
+    "description_uk": "БпЛА на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-08-24T08:49:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74315",
+    "score": 6.0,
+    "views": 33338,
+    "forwards": 1
+  },
+  {
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Миколаїв: Дрон вхід",
@@ -158,8 +194,8 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41993",
     "score": 6.5,
-    "views": 60061,
-    "forwards": 93
+    "views": 66906,
+    "forwards": 102
   },
   {
     "title": "Sumy: Drone incoming",
@@ -230,8 +266,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54966",
     "score": 5.0,
-    "views": 1704,
-    "forwards": 4
+    "views": 1842,
+    "forwards": 5
   },
   {
     "title": "Odesa: Групи БпЛА з акваторії Чорного моря на Одещину, вектор -...",
@@ -302,8 +338,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54965",
     "score": 5.0,
-    "views": 1976,
-    "forwards": 1
+    "views": 2081,
+    "forwards": 2
   },
   {
     "title": "Увага! 🛫 Активність ворожої тактичної авіації на північно-східному...",
@@ -394,23 +430,5 @@
     "score": 6.0,
     "views": 20317,
     "forwards": 0
-  },
-  {
-    "title": "☄️ Загроза застосування балістичного озброєння з південного сходу.",
-    "title_en": "☄️ Загроза застосування балістичного озброєння з південного сходу.",
-    "title_uk": "☄️ Загроза застосування балістичного озброєння з південного сходу.",
-    "description": "☄️ Загроза застосування балістичного озброєння з південного сходу.",
-    "description_en": "☄️ Загроза застосування балістичного озброєння з південного сходу.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння з південного сходу.",
-    "time": "",
-    "pubDate": "2026-08-23T21:11:09+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74227",
-    "score": 5.5,
-    "views": 30380,
-    "forwards": 68
   }
 ]
