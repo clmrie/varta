@@ -1,5 +1,23 @@
 [
   {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Zaporizhzhia: Drone incoming",
+    "description": "БпЛА у напрямку м. Запоріжжя зі сходу.",
+    "description_en": "БпЛА у напрямку м. Запоріжжя зі сходу.",
+    "description_uk": "БпЛА у напрямку м. Запоріжжя зі сходу.",
+    "time": "",
+    "pubDate": "2026-08-24T16:38:49+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74350",
+    "score": 6.0,
+    "views": 23209,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Drone incoming",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74349",
     "score": 5.0,
-    "views": 20210,
+    "views": 38593,
     "forwards": 2
   },
   {
@@ -32,8 +50,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20560",
     "score": 7.5,
-    "views": 15379,
-    "forwards": 72
+    "views": 27015,
+    "forwards": 109
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -68,8 +86,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20559",
     "score": 5.5,
-    "views": 29469,
-    "forwards": 74
+    "views": 35879,
+    "forwards": 75
   },
   {
     "title": "Група БпЛА з акваторії Чорного моря ➡️ на південь Одещини (Вилкове).",
@@ -122,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199344",
     "score": 5.5,
-    "views": 75280,
-    "forwards": 146
+    "views": 89285,
+    "forwards": 147
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -230,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54975",
     "score": 9.0,
-    "views": 1661,
+    "views": 1754,
     "forwards": 4
   },
   {
@@ -248,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54974",
     "score": 9.0,
-    "views": 1706,
+    "views": 1799,
     "forwards": 6
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 16148,
     "forwards": 34
-  },
-  {
-    "title": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_en": "Zaporizhzhia: BpLA on Zaporozhye from the south.",
-    "title_uk": "Запоріжжя: БпЛА на Запоріжжі з півд.",
-    "description": "BpLA on Zaporozhye from the south.",
-    "description_en": "BpLA on Zaporozhye from the south.",
-    "description_uk": "БпЛА на Запоріжжя з півдня.",
-    "time": "",
-    "pubDate": "2026-08-24T08:49:09+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74315",
-    "score": 6.0,
-    "views": 33338,
-    "forwards": 1
   }
 ]
