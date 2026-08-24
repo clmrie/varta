@@ -1,5 +1,23 @@
 [
   {
+    "title": "В Голосеевском районе в результате падения обломков БПЛА в 16-этажном...",
+    "title_en": "В Голосеевском районе в результате падения обломков БПЛА в 16-этажном...",
+    "title_uk": "В Голосеевском районе в результате падения обломков БПЛА в 16-этажном...",
+    "description": "В Голосеевском районе в результате падения обломков БПЛА в 16-этажном жилом доме произошло разрушение стен и выбиты окна на уровне 14-го этажа. Пожара нет. Экстренные службы работают на месте, - Кличко",
+    "description_en": "В Голосеевском районе в результате падения обломков БПЛА в 16-этажном жилом доме произошло разрушение стен и выбиты окна на уровне 14-го этажа. Пожара нет. Экстренные службы работают на месте, - Кличко",
+    "description_uk": "В Голосеевском районе в результате падения обломков БПЛА в 16-этажном жилом доме произошло разрушение стен и выбиты окна на уровне 14-го этажа. Пожара нет. Экстренные службы работают на месте, - Кличко",
+    "time": "",
+    "pubDate": "2026-08-24T22:05:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199388",
+    "score": 8.0,
+    "views": 13114,
+    "forwards": 0
+  },
+  {
     "title": "Drone attack",
     "title_en": "Drone attack",
     "title_uk": "Drone attack",
@@ -13,9 +31,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199387",
-    "score": 5.5,
-    "views": 6435,
-    "forwards": 103
+    "score": 6.5,
+    "views": 20701,
+    "forwards": 206
   },
   {
     "title": "Strike confirmed",
@@ -67,9 +85,9 @@
     "location": "Kyiv",
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74366",
-    "score": 6.0,
-    "views": 33482,
-    "forwards": 35
+    "score": 6.5,
+    "views": 38626,
+    "forwards": 69
   },
   {
     "title": "Баражуючий боєприпас \"Бандероль\" у напрямку Обухова.",
@@ -86,7 +104,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74365",
     "score": 5.5,
-    "views": 66936,
+    "views": 70919,
     "forwards": 138
   },
   {
@@ -140,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54982",
     "score": 4.0,
-    "views": 1014,
+    "views": 1115,
     "forwards": 4
   },
   {
@@ -176,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54981",
     "score": 6.0,
-    "views": 1284,
+    "views": 1375,
     "forwards": 6
   },
   {
@@ -320,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20560",
     "score": 8.5,
-    "views": 87574,
-    "forwards": 288
+    "views": 88444,
+    "forwards": 323
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -356,8 +374,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20559",
     "score": 5.5,
-    "views": 65662,
-    "forwards": 112
+    "views": 66071,
+    "forwards": 139
   },
   {
     "title": "Група БпЛА з акваторії Чорного моря ➡️ на південь Одещини (Вилкове).",
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 40492,
     "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Kharkiv: Drone incoming",
-    "description": "🏍 Харківщина: реактивний БпЛА ➡️ на/повз Близнюки у північно-західному напрямку.",
-    "description_en": "🏍 Харківщина: реактивний БпЛА ➡️ на/повз Близнюки у північно-західному напрямку.",
-    "description_uk": "🏍 Харківщина: реактивний БпЛА ➡️ на/повз Близнюки у північно-західному напрямку.",
-    "time": "",
-    "pubDate": "2026-08-24T14:07:13+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74342",
-    "score": 6.0,
-    "views": 17221,
-    "forwards": 1
   }
 ]
