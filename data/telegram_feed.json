@@ -1,10 +1,46 @@
 [
   {
+    "title": "Ballistic missile launch detected",
+    "title_en": "Ballistic missile launch detected",
+    "title_uk": "Виявлено запуск балістичної ракети",
+    "description": "☄️ The threat of using ballistic weapons",
+    "description_en": "☄️ The threat of using ballistic weapons",
+    "description_uk": "☄️ Загроза застосування балістичного озброєння",
+    "time": "",
+    "pubDate": "2026-08-25T10:49:19+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74432",
+    "score": 5.5,
+    "views": 32308,
+    "forwards": 72
+  },
+  {
+    "title": "Explosions reported",
+    "title_en": "Explosions reported",
+    "title_uk": "Повідомляється про вибухи",
+    "description": "Four years after a serious injury: Vitaly Shumey begins to speak and stand on his own 🇺🇦 August 25 marked four years since the day when the commander of the anti-aircraft missile complex Vitaliy Shumey received a severe mine-explosive injury near Avdiivka. Despite difficult prognoses, speech returns to the defender, memory and limb mobility are restored, and vision improves. During verticalization, it already...",
+    "description_en": "Four years after a serious injury: Vitaly Shumey begins to speak and stand on his own 🇺🇦 August 25 marked four years since the day when the commander of the anti-aircraft missile complex Vitaliy Shumey received a severe mine-explosive injury near Avdiivka. Despite difficult prognoses, speech returns to the defender, memory and limb mobility are restored, and vision improves. During verticalization, it already...",
+    "description_uk": "Чотири роки після важкого поранення: Віталій Шумей починає говорити та самостійно стояти 🇺🇦 25 серпня виповнилося чотири роки від дня, коли командир зенітно-ракетного комплексу Віталій Шумей отримав важку мінно-вибухову травму під Авдіївкою. Попри складні прогнози, до захисника повертається мовлення, відновлюються пам’ять і рухливість кінцівок, покращується зір. Під час вертикалізації він уже...",
+    "time": "",
+    "pubDate": "2026-08-25T10:44:22+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Avdiivka",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199420",
+    "score": 9.0,
+    "views": 22262,
+    "forwards": 1
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "🏍 Реактивні БпЛА курсом на Кременчук зі сходу та півночі.",
-    "description_en": "🏍 Реактивні БпЛА курсом на Кременчук зі сходу та півночі.",
+    "title_uk": "Дрон входить",
+    "description": "🏍 Jet UAVs headed for Kremenchuk from the east and north.",
+    "description_en": "🏍 Jet UAVs headed for Kremenchuk from the east and north.",
     "description_uk": "🏍 Реактивні БпЛА курсом на Кременчук зі сходу та півночі.",
     "time": "",
     "pubDate": "2026-08-25T10:01:27+00:00",
@@ -14,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74431",
     "score": 5.0,
-    "views": 27244,
+    "views": 59621,
     "forwards": 35
   },
   {
@@ -90,6 +126,24 @@
     "forwards": 0
   },
   {
+    "title": "Twelve years of Russia's attempts to break Ukrainians. Already 1644...",
+    "title_en": "Twelve years of Russia's attempts to break Ukrainians. Already 1644...",
+    "title_uk": "Дванадцять років спроб Росії зламати українців. Вже 1644...",
+    "description": "Twelve years of Russia's attempts to break Ukrainians. Already 1644 days of full-scale war. And every day of this struggle has a face. These are all our people who continue to act, work, help and do everything to make Ukraine a reality every day. Thanks to each and every one. I thank our soldiers who fight for Ukraine, for our cities and villages, for the opportunity to live on their land. To everyone who holds the front and does not allow the enemy to break...",
+    "description_en": "Twelve years of Russia's attempts to break Ukrainians. Already 1644 days of full-scale war. And every day of this struggle has a face. These are all our people who continue to act, work, help and do everything to make Ukraine a reality every day. Thanks to each and every one. I thank our soldiers who fight for Ukraine, for our cities and villages, for the opportunity to live on their land. To everyone who holds the front and does not allow the enemy to break...",
+    "description_uk": "Дванадцять років спроб Росії зламати українців. Вже 1644 дні повномасштабної війни. І кожен день цієї боротьби має обличчя. Це всі наші люди, які щодня продовжують діяти, працювати, допомагати й робити все, щоб Україна була. Дякую кожному і кожній. Я дякую нашим воїнам, які борються за Україну, за наші міста й села, за можливість жити на своїй землі. Усім, хто тримає фронт і не дає ворогу зламати...",
+    "time": "",
+    "pubDate": "2026-08-25T07:44:35+00:00",
+    "category": "shelling",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20567",
+    "score": 5.5,
+    "views": 59568,
+    "forwards": 134
+  },
+  {
     "title": "Дванадцять років спроб Росії зламати українців. Вже 1644 дні...",
     "title_en": "Дванадцять років спроб Росії зламати українців. Вже 1644 дні...",
     "title_uk": "Дванадцять років спроб Росії зламати українців. Вже 1644 дні...",
@@ -128,7 +182,7 @@
   {
     "title": "Kyiv: Russia's war against Ukraine endangers whole neighborhood, Poland...",
     "title_en": "Kyiv: Russia's war against Ukraine endangers whole neighborhood, Poland...",
-    "title_uk": "Kyiv: Russia's war against Ukraine endangers whole neighborhood, Poland...",
+    "title_uk": "Київ: Війна Росії проти України ставить під загрозу все сусідство, Польща...",
     "description": "Russia's war against Ukraine endangers whole neighborhood, Poland tells UN. Russian aggression in Ukraine poses a serious threat to neighboring states, as evident in recent airspace violations of the Polish, Romanian, and Latvian airspace, said Poland's deputy permanent representative to the U.N., Michal Miarka, on Aug. 24.",
     "description_en": "Russia's war against Ukraine endangers whole neighborhood, Poland tells UN. Russian aggression in Ukraine poses a serious threat to neighboring states, as evident in recent airspace violations of the Polish, Romanian, and Latvian airspace, said Poland's deputy permanent representative to the U.N., Michal Miarka, on Aug. 24.",
     "description_uk": "Russia's war against Ukraine endangers whole neighborhood, Poland tells UN. Russian aggression in Ukraine poses a serious threat to neighboring states, as evident in recent airspace violations of the Polish, Romanian, and Latvian airspace, said Poland's deputy permanent representative to the U.N., Michal Miarka, on Aug. 24.",
@@ -140,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54991",
     "score": 6.0,
-    "views": 1207,
+    "views": 1338,
     "forwards": 0
   },
   {
@@ -254,7 +308,7 @@
   {
     "title": "Kyiv: 'Quite clear what I need to do' — UK PM Burnham, European leaders...",
     "title_en": "Kyiv: 'Quite clear what I need to do' — UK PM Burnham, European leaders...",
-    "title_uk": "Kyiv: 'Quite clear what I need to do' — UK PM Burnham, European leaders...",
+    "title_uk": "Київ: «Цілком зрозуміло, що мені потрібно зробити», — прем’єр-міністр Великобританії Бернем, європейські лідери...",
     "description": "'Quite clear what I need to do' — UK PM Burnham, European leaders plan to lobby Trump on Patriot missiles for Ukraine. U.K. Prime Minister Andy Burnham and other European leaders plan to lobby U.S. President Donald Trump next month to provide Ukraine access to U.S. stockpiles of Patriot missiles, Burnham said on Aug. 24.",
     "description_en": "'Quite clear what I need to do' — UK PM Burnham, European leaders plan to lobby Trump on Patriot missiles for Ukraine. U.K. Prime Minister Andy Burnham and other European leaders plan to lobby U.S. President Donald Trump next month to provide Ukraine access to U.S. stockpiles of Patriot missiles, Burnham said on Aug. 24.",
     "description_uk": "'Quite clear what I need to do' — UK PM Burnham, European leaders plan to lobby Trump on Patriot missiles for Ukraine. U.K. Prime Minister Andy Burnham and other European leaders plan to lobby U.S. President Donald Trump next month to provide Ukraine access to U.S. stockpiles of Patriot missiles, Burnham said on Aug. 24.",
@@ -266,8 +320,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54989",
     "score": 4.0,
-    "views": 1743,
-    "forwards": 4
+    "views": 1820,
+    "forwards": 5
   },
   {
     "title": "Sumy: Sumy - BpLA on Nyzy, Sumy.",
@@ -342,6 +396,24 @@
     "forwards": 0
   },
   {
+    "title": "During the war, Ukraine built an almost new defense industry. Modern....",
+    "title_en": "During the war, Ukraine built an almost new defense industry. Modern....",
+    "title_uk": "Під час війни Україна побудувала майже нову оборонну промисловість. Сучасний....",
+    "description": "During the war, Ukraine built an almost new defense industry. Modern. Technological. Industry that meets the challenges of war. And today we all see the results of this work - on land, at sea and in the sky. The Ukrainian force that we saw today on Khreschatyk, on the Dnieper and in our skies is the first such drone parade. Ground robotic complexes - \"Termit\", \"Lynx\", \"Simba\",...",
+    "description_en": "During the war, Ukraine built an almost new defense industry. Modern. Technological. Industry that meets the challenges of war. And today we all see the results of this work - on land, at sea and in the sky. The Ukrainian force that we saw today on Khreschatyk, on the Dnieper and in our skies is the first such drone parade. Ground robotic complexes - \"Termit\", \"Lynx\", \"Simba\",...",
+    "description_uk": "За роки війни Україна побудувала практично нову оборонну промисловість. Сучасну. Технологічну. Промисловість, яка відповідає викликам війни. І сьогодні результати цієї роботи ми всі бачимо – на землі, на морі та в небі. Українська сила, яку ми побачили сьогодні на Хрещатику, на Дніпрі та в нашому небі, – перший такий парад дронів. Наземні роботизовані комплекси – «Терміт», «Рись», «Сімба»,...",
+    "time": "",
+    "pubDate": "2026-08-24T16:02:08+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20560",
+    "score": 8.5,
+    "views": 112109,
+    "forwards": 387
+  },
+  {
     "title": "За роки війни Україна побудувала практично нову оборонну...",
     "title_en": "За роки війни Україна побудувала практично нову оборонну...",
     "title_uk": "За роки війни Україна побудувала практично нову оборонну...",
@@ -362,7 +434,7 @@
   {
     "title": "Crimea: \"Воїни Збройних Сил України, Дорогі українці! 35 років тому Україна...",
     "title_en": "Crimea: \"Воїни Збройних Сил України, Дорогі українці! 35 років тому Україна...",
-    "title_uk": "Crimea: \"Воїни Збройних Сил України, Дорогі українці! 35 років тому Україна...",
+    "title_uk": "Крим: \"Воїни Збройних Сил України, Дорогі українці! 35 років тому Україна...",
     "description": "\"Воїни Збройних Сил України, Дорогі українці! 35 років тому Україна відновила свою Незалежність. Але наша боротьба за неї почалася не у 1991 році. До нас були покоління українців, які воювали за свою державу, йшли у підпілля, сиділи у в’язницях, зберігали мову, культуру і право називати себе українцями тоді, коли за це карали. Сьогодні ця боротьба випала нам. І ми добре знаємо ціну Незалежності....",
     "description_en": "\"Воїни Збройних Сил України, Дорогі українці! 35 років тому Україна відновила свою Незалежність. Але наша боротьба за неї почалася не у 1991 році. До нас були покоління українців, які воювали за свою державу, йшли у підпілля, сиділи у в’язницях, зберігали мову, культуру і право називати себе українцями тоді, коли за це карали. Сьогодні ця боротьба випала нам. І ми добре знаємо ціну Незалежності....",
     "description_uk": "\"Воїни Збройних Сил України, Дорогі українці! 35 років тому Україна відновила свою Незалежність. Але наша боротьба за неї почалася не у 1991 році. До нас були покоління українців, які воювали за свою державу, йшли у підпілля, сиділи у в’язницях, зберігали мову, культуру і право називати себе українцями тоді, коли за це карали. Сьогодні ця боротьба випала нам. І ми добре знаємо ціну Незалежності....",
@@ -374,7 +446,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41993",
     "score": 6.5,
-    "views": 103552,
+    "views": 103688,
     "forwards": 120
   }
 ]
