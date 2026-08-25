@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Zaporizhzhia: Drone incoming",
+    "description": "🏍 Реактивний БпЛА з півночі в напрямку м.Запоріжжя.",
+    "description_en": "🏍 Реактивний БпЛА з півночі в напрямку м.Запоріжжя.",
+    "description_uk": "🏍 Реактивний БпЛА з півночі в напрямку м.Запоріжжя.",
+    "time": "",
+    "pubDate": "2026-08-25T23:52:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74493",
+    "score": 6.0,
+    "views": 619,
+    "forwards": 0
+  },
+  {
+    "title": "Kherson: Херсон: БпЛА над містом.",
+    "title_en": "Kherson: Херсон: БпЛА над містом.",
+    "title_uk": "Kherson: Херсон: БпЛА над містом.",
+    "description": "Херсон: БпЛА над містом.",
+    "description_en": "Херсон: БпЛА над містом.",
+    "description_uk": "Херсон: БпЛА над містом.",
+    "time": "",
+    "pubDate": "2026-08-25T23:49:47+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74492",
+    "score": 6.0,
+    "views": 2144,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
     "title_uk": "Kyiv: Explosions reported",
@@ -14,7 +50,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55009",
     "score": 8.0,
-    "views": 79,
+    "views": 203,
     "forwards": 1
   },
   {
@@ -108,24 +144,6 @@
     "forwards": 69
   },
   {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Zaporizhzhia: Drone incoming",
-    "description": "Запоріжжя: БпЛА в напрямку міста зі сходу",
-    "description_en": "Запоріжжя: БпЛА в напрямку міста зі сходу",
-    "description_uk": "Запоріжжя: БпЛА в напрямку міста зі сходу",
-    "time": "",
-    "pubDate": "2026-08-25T20:23:34+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74478",
-    "score": 6.0,
-    "views": 24321,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Attack attack on energy grid",
     "title_en": "Kyiv: Attack attack on energy grid",
     "title_uk": "Kyiv: Attack attack on energy grid",
@@ -140,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55008",
     "score": 4.5,
-    "views": 1203,
-    "forwards": 1
+    "views": 1263,
+    "forwards": 2
   },
   {
     "title": "Air defense active",
@@ -158,8 +176,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199462",
     "score": 5.5,
-    "views": 82135,
-    "forwards": 577
+    "views": 84115,
+    "forwards": 579
   },
   {
     "title": "Evacuation ordered",
@@ -212,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199459",
     "score": 6.5,
-    "views": 97975,
-    "forwards": 535
+    "views": 99297,
+    "forwards": 538
   },
   {
     "title": "Chess has been brought to Telegram - in the new update, a bot has...",
@@ -430,23 +448,5 @@
     "score": 5.0,
     "views": 925,
     "forwards": 1
-  },
-  {
-    "title": "Швидкісна ціль в напрямку Одещини.",
-    "title_en": "Швидкісна ціль в напрямку Одещини.",
-    "title_uk": "Швидкісна ціль в напрямку Одещини.",
-    "description": "Швидкісна ціль в напрямку Одещини.",
-    "description_en": "Швидкісна ціль в напрямку Одещини.",
-    "description_uk": "Швидкісна ціль в напрямку Одещини.",
-    "time": "",
-    "pubDate": "2026-08-25T12:38:18+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74448",
-    "score": 5.0,
-    "views": 74777,
-    "forwards": 35
   }
 ]
