@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "🏍 Кременчук: реактивний БпЛА в напрямку міста",
+    "description_en": "🏍 Кременчук: реактивний БпЛА в напрямку міста",
+    "description_uk": "🏍 Кременчук: реактивний БпЛА в напрямку міста",
+    "time": "",
+    "pubDate": "2026-08-25T09:15:35+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74429",
+    "score": 5.0,
+    "views": 5036,
+    "forwards": 0
+  },
+  {
+    "title": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному...",
+    "title_en": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному...",
+    "title_uk": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному...",
+    "description": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "description_en": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному напрямку! 🚀🚀Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-08-25T08:53:03+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74426",
+    "score": 5.0,
+    "views": 38359,
+    "forwards": 1
+  },
+  {
     "title": "Poltava: Drone incoming",
     "title_en": "Poltava: Drone incoming",
     "title_uk": "Poltava: Drone incoming",
@@ -50,8 +86,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20567",
     "score": 5.5,
-    "views": 30131,
-    "forwards": 63
+    "views": 40582,
+    "forwards": 98
   },
   {
     "title": "Kherson: Херсон: БпЛА над містом.",
@@ -104,25 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54991",
     "score": 6.0,
-    "views": 677,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "🏍Південне: реактивний БпЛА в напрямку міста.",
-    "description_en": "🏍Південне: реактивний БпЛА в напрямку міста.",
-    "description_uk": "🏍Південне: реактивний БпЛА в напрямку міста.",
-    "time": "",
-    "pubDate": "2026-08-25T07:01:34+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74405",
-    "score": 5.0,
-    "views": 5042,
+    "views": 934,
     "forwards": 0
   },
   {
@@ -248,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54989",
     "score": 4.0,
-    "views": 1448,
+    "views": 1590,
     "forwards": 4
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.5,
     "views": 44128,
     "forwards": 69
-  },
-  {
-    "title": "Баражуючий боєприпас \"Бандероль\" у напрямку Обухова.",
-    "title_en": "Баражуючий боєприпас \"Бандероль\" у напрямку Обухова.",
-    "title_uk": "Баражуючий боєприпас \"Бандероль\" у напрямку Обухова.",
-    "description": "Баражуючий боєприпас \"Бандероль\" у напрямку Обухова.",
-    "description_en": "Баражуючий боєприпас \"Бандероль\" у напрямку Обухова.",
-    "description_uk": "Баражуючий боєприпас \"Бандероль\" у напрямку Обухова.",
-    "time": "",
-    "pubDate": "2026-08-24T20:58:09+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74365",
-    "score": 5.5,
-    "views": 70919,
-    "forwards": 138
   }
 ]
