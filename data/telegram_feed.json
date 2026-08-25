@@ -1,5 +1,23 @@
 [
   {
+    "title": "Zaporizhzhia: Drone incoming",
+    "title_en": "Zaporizhzhia: Drone incoming",
+    "title_uk": "Zaporizhzhia: Drone incoming",
+    "description": "🏍 Запоріжжя: реактивний БпЛА в напрямку міста з заходу.",
+    "description_en": "🏍 Запоріжжя: реактивний БпЛА в напрямку міста з заходу.",
+    "description_uk": "🏍 Запоріжжя: реактивний БпЛА в напрямку міста з заходу.",
+    "time": "",
+    "pubDate": "2026-08-25T18:24:33+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74470",
+    "score": 6.0,
+    "views": 14175,
+    "forwards": 0
+  },
+  {
     "title": "Буданов заявил, что ракет для \"Патритов\" в 2026 Украина получит...",
     "title_en": "Буданов заявил, что ракет для \"Патритов\" в 2026 Украина получит...",
     "title_uk": "Буданов заявил, что ракет для \"Патритов\" в 2026 Украина получит...",
@@ -13,9 +31,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199450",
-    "score": 3.0,
-    "views": 38429,
-    "forwards": 36
+    "score": 3.5,
+    "views": 72571,
+    "forwards": 72
   },
   {
     "title": "Kyiv: Lithuania allocates 600,000 euros to bring home Ukrainian children...",
@@ -32,8 +50,26 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55006",
     "score": 6.0,
-    "views": 454,
+    "views": 739,
     "forwards": 2
+  },
+  {
+    "title": "UAV on the course of Odesa from the waters of the Black Sea (Gulf)",
+    "title_en": "UAV on the course of Odesa from the waters of the Black Sea (Gulf)",
+    "title_uk": "UAV on the course of Odesa from the waters of the Black Sea (Gulf)",
+    "description": "UAV on the course of Odesa from the waters of the Black Sea (Gulf)",
+    "description_en": "UAV on the course of Odesa from the waters of the Black Sea (Gulf)",
+    "description_uk": "БпЛА курсом Одещину з акваторії Чорного моря (Затока)",
+    "time": "",
+    "pubDate": "2026-08-25T17:10:54+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Odesa",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74467",
+    "score": 5.0,
+    "views": 64731,
+    "forwards": 0
   },
   {
     "title": "Drone incoming",
@@ -72,24 +108,6 @@
     "forwards": 0
   },
   {
-    "title": "Zaporizhzhia: Drone incoming",
-    "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Zaporizhzhia: Drone incoming",
-    "description": "БпЛА курсом на м.Запоріжжя",
-    "description_en": "БпЛА курсом на м.Запоріжжя",
-    "description_uk": "БпЛА курсом на м.Запоріжжя",
-    "time": "",
-    "pubDate": "2026-08-25T16:30:23+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74464",
-    "score": 6.0,
-    "views": 19190,
-    "forwards": 0
-  },
-  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Kharkiv: Drone incoming",
@@ -108,6 +126,24 @@
     "forwards": 0
   },
   {
+    "title": "Россия готовится к новым испытаниям \"летающего Чернобыля\" — все...",
+    "title_en": "Россия готовится к новым испытаниям \"летающего Чернобыля\" — все...",
+    "title_uk": "Россия готовится к новым испытаниям \"летающего Чернобыля\" — все...",
+    "description": "Россия готовится к новым испытаниям \"летающего Чернобыля\" — все предыдущие попытки были неудачными В районе архипелага Новая Земля появились военные корабли рф, а часть воздушного пространства в регионе и акватории была временно закрыта. По данным аналитической группы AviVector, все это может указывать на подготовку новых испытаний российской крылатой ракеты \"Буревестник\" с ядерной силовой...",
+    "description_en": "Россия готовится к новым испытаниям \"летающего Чернобыля\" — все предыдущие попытки были неудачными В районе архипелага Новая Земля появились военные корабли рф, а часть воздушного пространства в регионе и акватории была временно закрыта. По данным аналитической группы AviVector, все это может указывать на подготовку новых испытаний российской крылатой ракеты \"Буревестник\" с ядерной силовой...",
+    "description_uk": "Россия готовится к новым испытаниям \"летающего Чернобыля\" — все предыдущие попытки были неудачными В районе архипелага Новая Земля появились военные корабли рф, а часть воздушного пространства в регионе и акватории была временно закрыта. По данным аналитической группы AviVector, все это может указывать на подготовку новых испытаний российской крылатой ракеты \"Буревестник\" с ядерной силовой...",
+    "time": "",
+    "pubDate": "2026-08-25T15:50:16+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199444",
+    "score": 8.5,
+    "views": 106043,
+    "forwards": 182
+  },
+  {
     "title": "Russia is preparing for new tests of the \"flying Chernobyl\" - all...",
     "title_en": "Russia is preparing for new tests of the \"flying Chernobyl\" - all...",
     "title_uk": "Russia is preparing for new tests of the \"flying Chernobyl\" - all...",
@@ -124,24 +160,6 @@
     "score": 8.5,
     "views": 91151,
     "forwards": 147
-  },
-  {
-    "title": "Россия готовится к новым испытаниям \"летающего Чернобыля\" — все...",
-    "title_en": "Россия готовится к новым испытаниям \"летающего Чернобыля\" — все...",
-    "title_uk": "Росія готується до нових випробувань \"летающего Чернобыля\" — все...",
-    "description": "Россия готовится к новым испытаниям \"летающего Чернобыля\" — все предыдущие попытки были неудачными В районе архипелага Новая Земля появились военные корабли рф, а часть воздушного пространства в регионе и акватории была временно закрыта. По данным аналитической группы AviVector, все это может указывать на подготовку новых испытаний российской крылатой ракеты \"Буревестник\" с ядерной силовой...",
-    "description_en": "Россия готовится к новым испытаниям \"летающего Чернобыля\" — все предыдущие попытки были неудачными В районе архипелага Новая Земля появились военные корабли рф, а часть воздушного пространства в регионе и акватории была временно закрыта. По данным аналитической группы AviVector, все это может указывать на подготовку новых испытаний российской крылатой ракеты \"Буревестник\" с ядерной силовой...",
-    "description_uk": "Россия готовится к новым испытаниям \"летающего Чернобыля\" — все предыдущие попытки были неудачными В районе архипелага Новая Земля появились военные корабли рф, а часть воздушного пространства в регионе и акватории была временно закрыта. По данным аналитической группы AviVector, все это может указывать на подготовку новых испытаний российской крылатой ракеты \"Буревестник\" с ядерной силовой...",
-    "time": "",
-    "pubDate": "2026-08-25T15:50:16+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199444",
-    "score": 8.5,
-    "views": 77290,
-    "forwards": 146
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -164,7 +182,7 @@
   {
     "title": "Kyiv: UK, France approve Storm Shadow/SCALP missile production in Ukraine,...",
     "title_en": "Kyiv: UK, France approve Storm Shadow/SCALP missile production in Ukraine,...",
-    "title_uk": "Kyiv: UK, France approve Storm Shadow/SCALP missile production in Ukraine,...",
+    "title_uk": "Київ: Великобританія та Франція схвалили виробництво ракет Storm Shadow/SCALP в Україні,...",
     "description": "UK, France approve Storm Shadow/SCALP missile production in Ukraine, Zelensky says. Ukraine has received approval from the U.K. and France to produce long-range Storm Shadow/SCALP missiles, President Volodymyr Zelensky said on Aug. 25.",
     "description_en": "UK, France approve Storm Shadow/SCALP missile production in Ukraine, Zelensky says. Ukraine has received approval from the U.K. and France to produce long-range Storm Shadow/SCALP missiles, President Volodymyr Zelensky said on Aug. 25.",
     "description_uk": "UK, France approve Storm Shadow/SCALP missile production in Ukraine, Zelensky says. Ukraine has received approval from the U.K. and France to produce long-range Storm Shadow/SCALP missiles, President Volodymyr Zelensky said on Aug. 25.",
@@ -176,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55003",
     "score": 4.0,
-    "views": 1439,
+    "views": 1559,
     "forwards": 3
   },
   {
@@ -270,6 +288,24 @@
     "forwards": 35
   },
   {
+    "title": "Chernihiv: 🇱🇻 Minister of Foreign Affairs of Ukraine Andrii Sybiga expressed his...",
+    "title_en": "Chernihiv: 🇱🇻 Minister of Foreign Affairs of Ukraine Andrii Sybiga expressed his...",
+    "title_uk": "Chernihiv: 🇱🇻 Minister of Foreign Affairs of Ukraine Andrii Sybiga expressed his...",
+    "description": "🇱🇻 Minister of Foreign Affairs of Ukraine Andrii Sybiga expressed his gratitude to Latvia for the new package of energy support for the Chernihiv region in the amount of about 200 thousand euros. \"This support will make a significant contribution to strengthening Ukraine's energy stability and preparing for winter. I thank the Minister of Foreign Affairs of Latvia Baiba Braže and all our Latvian friends for their constant support to Ukraine\", -...",
+    "description_en": "🇱🇻 Minister of Foreign Affairs of Ukraine Andrii Sybiga expressed his gratitude to Latvia for the new package of energy support for the Chernihiv region in the amount of about 200 thousand euros. \"This support will make a significant contribution to strengthening Ukraine's energy stability and preparing for winter. I thank the Minister of Foreign Affairs of Latvia Baiba Braže and all our Latvian friends for their constant support to Ukraine\", -...",
+    "description_uk": "🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив вдячність Латвії за новий пакет енергетичної підтримки для Чернігівської області на суму близько 200 тисяч євро. “Ця підтримка зробить вагомий внесок у зміцнення енергетичної стійкості України та підготовку до зими. Дякую міністерці закордонних справ Латвії Байбі Браже та всім нашим латвійським друзям за незмінну підтримку України”, -...",
+    "time": "",
+    "pubDate": "2026-08-25T11:54:54+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/10183",
+    "score": 4.5,
+    "views": 589,
+    "forwards": 2
+  },
+  {
     "title": "Chernihiv: 🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив вдячність...",
     "title_en": "Chernihiv: 🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив вдячність...",
     "title_uk": "Chernihiv: 🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив вдячність...",
@@ -288,24 +324,6 @@
     "forwards": 2
   },
   {
-    "title": "Chernihiv: 🇱🇻 Minister of Foreign Affairs of Ukraine Andrii Sybiga expressed his...",
-    "title_en": "Chernihiv: 🇱🇻 Minister of Foreign Affairs of Ukraine Andrii Sybiga expressed his...",
-    "title_uk": "Чернігів: 🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив...",
-    "description": "🇱🇻 Minister of Foreign Affairs of Ukraine Andrii Sybiga expressed his gratitude to Latvia for the new package of energy support for the Chernihiv region in the amount of about 200 thousand euros. \"This support will make a significant contribution to strengthening Ukraine's energy stability and preparing for winter. I thank the Minister of Foreign Affairs of Latvia Baiba Braže and all our Latvian friends for their constant support to Ukraine\", -...",
-    "description_en": "🇱🇻 Minister of Foreign Affairs of Ukraine Andrii Sybiga expressed his gratitude to Latvia for the new package of energy support for the Chernihiv region in the amount of about 200 thousand euros. \"This support will make a significant contribution to strengthening Ukraine's energy stability and preparing for winter. I thank the Minister of Foreign Affairs of Latvia Baiba Braže and all our Latvian friends for their constant support to Ukraine\", -...",
-    "description_uk": "🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив вдячність Латвії за новий пакет енергетичної підтримки для Чернігівської області на суму близько 200 тисяч євро. “Ця підтримка зробить вагомий внесок у зміцнення енергетичної стійкості України та підготовку до зими. Дякую міністерці закордонних справ Латвії Байбі Браже та всім нашим латвійським друзям за незмінну підтримку України”, -...",
-    "time": "",
-    "pubDate": "2026-08-25T11:54:54+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/10183",
-    "score": 4.5,
-    "views": 452,
-    "forwards": 2
-  },
-  {
     "title": "🇯🇵 Міністр закордонних справ України Андрій Сибіга провів телефонні...",
     "title_en": "🇯🇵 Міністр закордонних справ України Андрій Сибіга провів телефонні...",
     "title_uk": "🇯🇵 Міністр закордонних справ України Андрій Сибіга провів телефонні...",
@@ -320,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10182",
     "score": 3.5,
-    "views": 643,
+    "views": 659,
     "forwards": 5
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 6036,
     "forwards": 2
-  },
-  {
-    "title": "Дванадцять років спроб Росії зламати українців. Вже 1644 дні...",
-    "title_en": "Дванадцять років спроб Росії зламати українців. Вже 1644 дні...",
-    "title_uk": "Дванадцять років спроб Росії зламати українців. Вже 1644 дні...",
-    "description": "Дванадцять років спроб Росії зламати українців. Вже 1644 дні повномасштабної війни. І кожен день цієї боротьби має обличчя. Це всі наші люди, які щодня продовжують діяти, працювати, допомагати й робити все, щоб Україна була. Дякую кожному і кожній. Я дякую нашим воїнам, які борються за Україну, за наші міста й села, за можливість жити на своїй землі. Усім, хто тримає фронт і не дає ворогу зламати...",
-    "description_en": "Дванадцять років спроб Росії зламати українців. Вже 1644 дні повномасштабної війни. І кожен день цієї боротьби має обличчя. Це всі наші люди, які щодня продовжують діяти, працювати, допомагати й робити все, щоб Україна була. Дякую кожному і кожній. Я дякую нашим воїнам, які борються за Україну, за наші міста й села, за можливість жити на своїй землі. Усім, хто тримає фронт і не дає ворогу зламати...",
-    "description_uk": "Дванадцять років спроб Росії зламати українців. Вже 1644 дні повномасштабної війни. І кожен день цієї боротьби має обличчя. Це всі наші люди, які щодня продовжують діяти, працювати, допомагати й робити все, щоб Україна була. Дякую кожному і кожній. Я дякую нашим воїнам, які борються за Україну, за наші міста й села, за можливість жити на своїй землі. Усім, хто тримає фронт і не дає ворогу зламати...",
-    "time": "",
-    "pubDate": "2026-08-25T07:44:35+00:00",
-    "category": "shelling",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20567",
-    "score": 5.5,
-    "views": 92692,
-    "forwards": 168
   }
 ]
