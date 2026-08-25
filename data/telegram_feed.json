@@ -1,5 +1,41 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Mykolaiv: Drone incoming",
+    "description": "🏍 Реактивний БпЛА на Миколаївщині в напрямку м.Первомайськ",
+    "description_en": "🏍 Реактивний БпЛА на Миколаївщині в напрямку м.Первомайськ",
+    "description_uk": "🏍 Реактивний БпЛА на Миколаївщині в напрямку м.Первомайськ",
+    "time": "",
+    "pubDate": "2026-08-25T12:32:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74446",
+    "score": 6.0,
+    "views": 12114,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "🏍 Кременчук: реактивний БпЛА в напрямку міста зі сходу",
+    "description_en": "🏍 Кременчук: реактивний БпЛА в напрямку міста зі сходу",
+    "description_uk": "🏍 Кременчук: реактивний БпЛА в напрямку міста зі сходу",
+    "time": "",
+    "pubDate": "2026-08-25T12:18:25+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74444",
+    "score": 5.0,
+    "views": 29254,
+    "forwards": 1
+  },
+  {
     "title": "Chernihiv: 🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив вдячність...",
     "title_en": "Chernihiv: 🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив вдячність...",
     "title_uk": "Chernihiv: 🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив вдячність...",
@@ -14,7 +50,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10183",
     "score": 4.5,
-    "views": 26,
+    "views": 286,
     "forwards": 1
   },
   {
@@ -72,24 +108,6 @@
     "forwards": 1
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "🏍 Кременчук: реактивний БпЛА в напрямку міста зі сходу",
-    "description_en": "🏍 Кременчук: реактивний БпЛА в напрямку міста зі сходу",
-    "description_uk": "🏍 Кременчук: реактивний БпЛА в напрямку міста зі сходу",
-    "time": "",
-    "pubDate": "2026-08-25T11:09:17+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74434",
-    "score": 5.0,
-    "views": 29281,
-    "forwards": 37
-  },
-  {
     "title": "🇯🇵 Міністр закордонних справ України Андрій Сибіга провів телефонні...",
     "title_en": "🇯🇵 Міністр закордонних справ України Андрій Сибіга провів телефонні...",
     "title_uk": "🇯🇵 Міністр закордонних справ України Андрій Сибіга провів телефонні...",
@@ -104,7 +122,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10182",
     "score": 3.5,
-    "views": 338,
+    "views": 459,
     "forwards": 3
   },
   {
@@ -140,7 +158,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199420",
     "score": 9.0,
-    "views": 64054,
+    "views": 81384,
     "forwards": 1
   },
   {
@@ -212,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20567",
     "score": 5.5,
-    "views": 69117,
-    "forwards": 146
+    "views": 74950,
+    "forwards": 156
   },
   {
     "title": "Twelve years of Russia's attempts to break Ukrainians. Already 1644...",
@@ -266,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54991",
     "score": 6.0,
-    "views": 1560,
+    "views": 1666,
     "forwards": 0
   },
   {
@@ -286,24 +304,6 @@
     "score": 6.0,
     "views": 15180,
     "forwards": 0
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Mykolaiv: Drone incoming",
-    "description": "🏍Реактивний БпЛА на півдні Миколаївщини, курсом на Одещину.",
-    "description_en": "🏍Реактивний БпЛА на півдні Миколаївщини, курсом на Одещину.",
-    "description_uk": "🏍Реактивний БпЛА на півдні Миколаївщини, курсом на Одещину.",
-    "time": "",
-    "pubDate": "2026-08-25T05:59:43+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74397",
-    "score": 6.0,
-    "views": 4036,
-    "forwards": 1
   },
   {
     "title": "Увага! 🛫 Активність ворожої тактичної авіації на східному напрямку!...",
@@ -374,7 +374,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54989",
     "score": 4.0,
-    "views": 1976,
+    "views": 2040,
     "forwards": 5
   },
   {
