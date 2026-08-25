@@ -1,5 +1,41 @@
 [
   {
+    "title": "Poltava: Drone incoming",
+    "title_en": "Poltava: Drone incoming",
+    "title_uk": "Poltava: Drone incoming",
+    "description": "🏍Полтава: реактивний БпЛА в напрямку міста",
+    "description_en": "🏍Полтава: реактивний БпЛА в напрямку міста",
+    "description_uk": "🏍Полтава: реактивний БпЛА в напрямку міста",
+    "time": "",
+    "pubDate": "2026-08-25T08:32:22+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Poltava",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74424",
+    "score": 6.0,
+    "views": 6036,
+    "forwards": 2
+  },
+  {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Chernihiv: Drone incoming",
+    "description": "🏍 Чернігів: БпЛА в напрямку міста",
+    "description_en": "🏍 Чернігів: БпЛА в напрямку міста",
+    "description_uk": "🏍 Чернігів: БпЛА в напрямку міста",
+    "time": "",
+    "pubDate": "2026-08-25T08:15:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74423",
+    "score": 6.0,
+    "views": 30268,
+    "forwards": 0
+  },
+  {
     "title": "Дванадцять років спроб Росії зламати українців. Вже 1644 дні...",
     "title_en": "Дванадцять років спроб Росії зламати українців. Вже 1644 дні...",
     "title_uk": "Дванадцять років спроб Росії зламати українців. Вже 1644 дні...",
@@ -13,9 +49,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20567",
-    "score": 5.0,
-    "views": 10415,
-    "forwards": 24
+    "score": 5.5,
+    "views": 30131,
+    "forwards": 63
   },
   {
     "title": "Kherson: Херсон: БпЛА над містом.",
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54991",
     "score": 6.0,
-    "views": 370,
+    "views": 677,
     "forwards": 0
   },
   {
@@ -158,7 +194,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199393",
     "score": 3.5,
-    "views": 106379,
+    "views": 118158,
     "forwards": 140
   },
   {
@@ -212,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54989",
     "score": 4.0,
-    "views": 1288,
+    "views": 1448,
     "forwards": 4
   },
   {
@@ -302,7 +338,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199388",
     "score": 8.5,
-    "views": 180652,
+    "views": 186004,
     "forwards": 89
   },
   {
@@ -412,41 +448,5 @@
     "score": 5.5,
     "views": 70919,
     "forwards": 138
-  },
-  {
-    "title": "Chernihiv: БпЛА на півночі Чернігівщини на Київщину, вектор руху Яготин.",
-    "title_en": "Chernihiv: БпЛА на півночі Чернігівщини на Київщину, вектор руху Яготин.",
-    "title_uk": "Chernihiv: БпЛА на півночі Чернігівщини на Київщину, вектор руху Яготин.",
-    "description": "БпЛА на півночі Чернігівщини на Київщину, вектор руху Яготин.",
-    "description_en": "БпЛА на півночі Чернігівщини на Київщину, вектор руху Яготин.",
-    "description_uk": "БпЛА на півночі Чернігівщини на Київщину, вектор руху Яготин.",
-    "time": "",
-    "pubDate": "2026-08-24T20:43:32+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74364",
-    "score": 6.5,
-    "views": 40478,
-    "forwards": 70
-  },
-  {
-    "title": "Dnipro: 🏍 Реактивний БпЛА на Дніпро з півночі.",
-    "title_en": "Dnipro: 🏍 Реактивний БпЛА на Дніпро з півночі.",
-    "title_uk": "Dnipro: 🏍 Реактивний БпЛА на Дніпро з півночі.",
-    "description": "🏍 Реактивний БпЛА на Дніпро з півночі.",
-    "description_en": "🏍 Реактивний БпЛА на Дніпро з півночі.",
-    "description_uk": "🏍 Реактивний БпЛА на Дніпро з півночі.",
-    "time": "",
-    "pubDate": "2026-08-24T20:28:11+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74361",
-    "score": 6.0,
-    "views": 16180,
-    "forwards": 0
   }
 ]
