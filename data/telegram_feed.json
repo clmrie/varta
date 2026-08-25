@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: 'Quite clear what I need to do' — UK PM Burnham, European leaders...",
+    "title_en": "Kyiv: 'Quite clear what I need to do' — UK PM Burnham, European leaders...",
+    "title_uk": "Kyiv: 'Quite clear what I need to do' — UK PM Burnham, European leaders...",
+    "description": "'Quite clear what I need to do' — UK PM Burnham, European leaders plan to lobby Trump on Patriot missiles for Ukraine. U.K. Prime Minister Andy Burnham and other European leaders plan to lobby U.S. President Donald Trump next month to provide access to U.S. stockpiles of Patriot missiles, Burnham said on Aug. 24.",
+    "description_en": "'Quite clear what I need to do' — UK PM Burnham, European leaders plan to lobby Trump on Patriot missiles for Ukraine. U.K. Prime Minister Andy Burnham and other European leaders plan to lobby U.S. President Donald Trump next month to provide access to U.S. stockpiles of Patriot missiles, Burnham said on Aug. 24.",
+    "description_uk": "'Quite clear what I need to do' — UK PM Burnham, European leaders plan to lobby Trump on Patriot missiles for Ukraine. U.K. Prime Minister Andy Burnham and other European leaders plan to lobby U.S. President Donald Trump next month to provide access to U.S. stockpiles of Patriot missiles, Burnham said on Aug. 24.",
+    "time": "",
+    "pubDate": "2026-08-25T04:18:17+00:00",
+    "category": "missile",
+    "severity": "medium",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/54989",
+    "score": 4.0,
+    "views": 21,
+    "forwards": 1
+  },
+  {
+    "title": "Sumy: Sumy - BpLA on Nyzy, Sumy.",
+    "title_en": "Sumy: Sumy - BpLA on Nyzy, Sumy.",
+    "title_uk": "Sumy: Sumy - BpLA on Nyzy, Sumy.",
+    "description": "Sumy - BpLA on Nyzy, Sumy.",
+    "description_en": "Sumy - BpLA on Nyzy, Sumy.",
+    "description_uk": "Сумщина - БпЛА на Низи, Суми.",
+    "time": "",
+    "pubDate": "2026-08-25T03:42:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74389",
+    "score": 6.0,
+    "views": 25237,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Drone incoming",
@@ -14,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74388",
     "score": 5.0,
-    "views": 19216,
+    "views": 42440,
     "forwards": 2
   },
   {
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54988",
     "score": 13.0,
-    "views": 455,
+    "views": 642,
     "forwards": 2
   },
   {
@@ -104,13 +140,13 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199388",
     "score": 8.5,
-    "views": 78469,
+    "views": 103801,
     "forwards": 55
   },
   {
     "title": "Drone attack",
     "title_en": "Drone attack",
-    "title_uk": "Drone attack",
+    "title_uk": "Атака безпілотників",
     "description": "С России вылетели 32 группы реактивных «Шахедов»! В ближайшее время ожидается атака, - мониторы",
     "description_en": "С России вылетели 32 группы реактивных «Шахедов»! В ближайшее время ожидается атака, - мониторы",
     "description_uk": "С России вылетели 32 группы реактивных «Шахедов»! В ближайшее время ожидается атака, - мониторы",
@@ -122,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199387",
     "score": 6.5,
-    "views": 84272,
-    "forwards": 240
+    "views": 108602,
+    "forwards": 241
   },
   {
     "title": "Strike confirmed",
@@ -396,24 +432,6 @@
     "forwards": 1
   },
   {
-    "title": "During the war, Ukraine built an almost new defense industry. Modern....",
-    "title_en": "During the war, Ukraine built an almost new defense industry. Modern....",
-    "title_uk": "During the war, Ukraine built an almost new defense industry. Modern....",
-    "description": "During the war, Ukraine built an almost new defense industry. Modern. Technological. Industry that meets the challenges of war. And today we all see the results of this work - on land, at sea and in the sky. The Ukrainian force that we saw today on Khreschatyk, on the Dnieper and in our skies is the first such drone parade. Ground robotic complexes - \"Termit\", \"Lynx\", \"Simba\",...",
-    "description_en": "During the war, Ukraine built an almost new defense industry. Modern. Technological. Industry that meets the challenges of war. And today we all see the results of this work - on land, at sea and in the sky. The Ukrainian force that we saw today on Khreschatyk, on the Dnieper and in our skies is the first such drone parade. Ground robotic complexes - \"Termit\", \"Lynx\", \"Simba\",...",
-    "description_uk": "За роки війни Україна побудувала практично нову оборонну промисловість. Сучасну. Технологічну. Промисловість, яка відповідає викликам війни. І сьогодні результати цієї роботи ми всі бачимо – на землі, на морі та в небі. Українська сила, яку ми побачили сьогодні на Хрещатику, на Дніпрі та в нашому небі, – перший такий парад дронів. Наземні роботизовані комплекси – «Терміт», «Рись», «Сімба»,...",
-    "time": "",
-    "pubDate": "2026-08-24T16:02:08+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20560",
-    "score": 8.5,
-    "views": 94643,
-    "forwards": 344
-  },
-  {
     "title": "За роки війни Україна побудувала практично нову оборонну...",
     "title_en": "За роки війни Україна побудувала практично нову оборонну...",
     "title_uk": "За роки війни Україна побудувала практично нову оборонну...",
@@ -428,25 +446,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20560",
     "score": 8.5,
-    "views": 92480,
-    "forwards": 344
-  },
-  {
-    "title": "Casualties reported",
-    "title_en": "Casualties reported",
-    "title_uk": "Casualties reported",
-    "description": "З нагоди 35-ї річниці відновлення незалежності України відзначив наших воїнів та цивільних державними нагородами. Передав нагороди рідним загиблих, які удостоєні відзнак посмертно. І також вручив бойові прапори та стрічки почесної відзнаки «За мужність та відвагу» військовим підрозділам. Серед нагороджених посмертно – молодший лейтенант Назарій Гринцевич (Грєнка), керівник пошукової організації...",
-    "description_en": "З нагоди 35-ї річниці відновлення незалежності України відзначив наших воїнів та цивільних державними нагородами. Передав нагороди рідним загиблих, які удостоєні відзнак посмертно. І також вручив бойові прапори та стрічки почесної відзнаки «За мужність та відвагу» військовим підрозділам. Серед нагороджених посмертно – молодший лейтенант Назарій Гринцевич (Грєнка), керівник пошукової організації...",
-    "description_uk": "З нагоди 35-ї річниці відновлення незалежності України відзначив наших воїнів та цивільних державними нагородами. Передав нагороди рідним загиблих, які удостоєні відзнак посмертно. І також вручив бойові прапори та стрічки почесної відзнаки «За мужність та відвагу» військовим підрозділам. Серед нагороджених посмертно – молодший лейтенант Назарій Гринцевич (Грєнка), керівник пошукової організації...",
-    "time": "",
-    "pubDate": "2026-08-24T15:28:13+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20559",
-    "score": 5.5,
-    "views": 68965,
-    "forwards": 144
+    "views": 97436,
+    "forwards": 354
   }
 ]
