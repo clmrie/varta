@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "🏍 Реактивні БпЛА курсом на Кременчук зі сходу та півночі.",
+    "description_en": "🏍 Реактивні БпЛА курсом на Кременчук зі сходу та півночі.",
+    "description_uk": "🏍 Реактивні БпЛА курсом на Кременчук зі сходу та півночі.",
+    "time": "",
+    "pubDate": "2026-08-25T10:01:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74431",
+    "score": 5.0,
+    "views": 27244,
+    "forwards": 35
+  },
+  {
     "title": "Sumy: Drone incoming",
     "title_en": "Sumy: Drone incoming",
     "title_uk": "Sumy: Drone incoming",
@@ -14,26 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74430",
     "score": 6.0,
-    "views": 30279,
+    "views": 50484,
     "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "🏍 Кременчук: реактивний БпЛА в напрямку міста",
-    "description_en": "🏍 Кременчук: реактивний БпЛА в напрямку міста",
-    "description_uk": "🏍 Кременчук: реактивний БпЛА в напрямку міста",
-    "time": "",
-    "pubDate": "2026-08-25T09:15:35+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74429",
-    "score": 5.0,
-    "views": 42380,
-    "forwards": 35
   },
   {
     "title": "Увага! 🛫 Активність ворожої тактичної авіації на південно-східному...",
@@ -104,8 +104,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20567",
     "score": 5.5,
-    "views": 48044,
-    "forwards": 114
+    "views": 54060,
+    "forwards": 124
   },
   {
     "title": "Kherson: Херсон: БпЛА над містом.",
@@ -140,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54991",
     "score": 6.0,
-    "views": 1099,
+    "views": 1207,
     "forwards": 0
   },
   {
@@ -266,7 +266,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54989",
     "score": 4.0,
-    "views": 1678,
+    "views": 1743,
     "forwards": 4
   },
   {
@@ -342,24 +342,6 @@
     "forwards": 0
   },
   {
-    "title": "В Голосеевском районе в результате падения обломков БПЛА в 16-этажном...",
-    "title_en": "В Голосеевском районе в результате падения обломков БПЛА в 16-этажном...",
-    "title_uk": "В Голосеевском районе в результате падения обломков БПЛА в 16-этажном...",
-    "description": "В Голосеевском районе в результате падения обломков БПЛА в 16-этажном жилом доме произошло разрушение стен и выбиты окна на уровне 14-го этажа. Пожара нет. Экстренные службы работают на месте, - Кличко",
-    "description_en": "В Голосеевском районе в результате падения обломков БПЛА в 16-этажном жилом доме произошло разрушение стен и выбиты окна на уровне 14-го этажа. Пожара нет. Экстренные службы работают на месте, - Кличко",
-    "description_uk": "В Голосеевском районе в результате падения обломков БПЛА в 16-этажном жилом доме произошло разрушение стен и выбиты окна на уровне 14-го этажа. Пожара нет. Экстренные службы работают на месте, - Кличко",
-    "time": "",
-    "pubDate": "2026-08-24T22:05:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199388",
-    "score": 8.5,
-    "views": 186004,
-    "forwards": 89
-  },
-  {
     "title": "За роки війни Україна побудувала практично нову оборонну...",
     "title_en": "За роки війни Україна побудувала практично нову оборонну...",
     "title_uk": "За роки війни Україна побудувала практично нову оборонну...",
@@ -374,8 +356,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20560",
     "score": 8.5,
-    "views": 111130,
-    "forwards": 377
+    "views": 111771,
+    "forwards": 387
   },
   {
     "title": "Crimea: \"Воїни Збройних Сил України, Дорогі українці! 35 років тому Україна...",
@@ -392,7 +374,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/41993",
     "score": 6.5,
-    "views": 103392,
+    "views": 103552,
     "forwards": 120
   }
 ]
