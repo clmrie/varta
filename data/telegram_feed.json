@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Kharkiv: Drone incoming",
+    "description": "Харків: БпЛА в напрямку міста зі сходу",
+    "description_en": "Харків: БпЛА в напрямку міста зі сходу",
+    "description_uk": "Харків: БпЛА в напрямку міста зі сходу",
+    "time": "",
+    "pubDate": "2026-08-25T21:34:03+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74483",
+    "score": 6.0,
+    "views": 13197,
+    "forwards": 0
+  },
+  {
     "title": "☄️ Загроза застосування балістичного озброєння з півночі",
     "title_en": "☄️ Загроза застосування балістичного озброєння з півночі",
     "title_uk": "☄️ Загроза застосування балістичного озброєння з півночі",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74481",
     "score": 5.5,
-    "views": 69827,
-    "forwards": 68
+    "views": 89219,
+    "forwards": 69
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -68,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55008",
     "score": 4.5,
-    "views": 652,
+    "views": 823,
     "forwards": 1
   },
   {
@@ -86,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199462",
     "score": 5.5,
-    "views": 53747,
-    "forwards": 428
+    "views": 64734,
+    "forwards": 496
   },
   {
     "title": "Sumy: Drone incoming",
@@ -122,8 +140,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199459",
     "score": 6.5,
-    "views": 77701,
-    "forwards": 429
+    "views": 85382,
+    "forwards": 465
   },
   {
     "title": "Zaporizhzhia: Zaporizhzhia: BpLA in the direction of the city from the south 🛵...",
@@ -176,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55006",
     "score": 6.0,
-    "views": 1665,
+    "views": 1762,
     "forwards": 4
   },
   {
@@ -231,24 +249,6 @@
     "link": "https://t.me/kpszsu/74466",
     "score": 6.0,
     "views": 50534,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Kharkiv: Drone incoming",
-    "description": "БпЛА курсом на Харків з півночі.",
-    "description_en": "БпЛА курсом на Харків з півночі.",
-    "description_uk": "БпЛА курсом на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-08-25T15:55:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74460",
-    "score": 6.0,
-    "views": 8105,
     "forwards": 0
   },
   {
@@ -410,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10183",
     "score": 4.5,
-    "views": 662,
+    "views": 668,
     "forwards": 2
   },
   {
@@ -446,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10182",
     "score": 3.5,
-    "views": 721,
+    "views": 727,
     "forwards": 5
   }
 ]
