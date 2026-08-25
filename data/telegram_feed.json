@@ -1,5 +1,41 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Mykolaiv: Drone incoming",
+    "description": "🏍Реактивний БпЛА на півдні Миколаївщини, курсом на Одещину.",
+    "description_en": "🏍Реактивний БпЛА на півдні Миколаївщини, курсом на Одещину.",
+    "description_uk": "🏍Реактивний БпЛА на півдні Миколаївщини, курсом на Одещину.",
+    "time": "",
+    "pubDate": "2026-08-25T05:59:43+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74397",
+    "score": 6.0,
+    "views": 4036,
+    "forwards": 1
+  },
+  {
+    "title": "Увага! 🛫 Активність ворожої тактичної авіації на східному напрямку!...",
+    "title_en": "Увага! 🛫 Активність ворожої тактичної авіації на східному напрямку!...",
+    "title_uk": "Увага! 🛫 Активність ворожої тактичної авіації на східному напрямку!...",
+    "description": "Увага! 🛫 Активність ворожої тактичної авіації на східному напрямку! 🚀💣Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "description_en": "Увага! 🛫 Активність ворожої тактичної авіації на східному напрямку! 🚀💣Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "description_uk": "Увага! 🛫 Активність ворожої тактичної авіації на східному напрямку! 🚀💣Загроза застосування авіаційних засобів ураження для прифронтових областей!",
+    "time": "",
+    "pubDate": "2026-08-25T05:39:13+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74396",
+    "score": 5.0,
+    "views": 26275,
+    "forwards": 2
+  },
+  {
     "title": "80 drones",
     "title_en": "80 drones",
     "title_uk": "80 drones",
@@ -13,27 +49,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199393",
-    "score": 3.0,
-    "views": 12680,
-    "forwards": 35
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Mykolaiv: Drone incoming",
-    "description": "🏍Реактивний БпЛА з Херсонщини - на Миколаївщину, курсом на Снігурівку.",
-    "description_en": "🏍Реактивний БпЛА з Херсонщини - на Миколаївщину, курсом на Снігурівку.",
-    "description_uk": "🏍Реактивний БпЛА з Херсонщини - на Миколаївщину, курсом на Снігурівку.",
-    "time": "",
-    "pubDate": "2026-08-25T05:10:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74395",
-    "score": 6.0,
-    "views": 27305,
-    "forwards": 0
+    "score": 3.5,
+    "views": 45465,
+    "forwards": 70
   },
   {
     "title": "Izmail: Drone incoming",
@@ -86,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54989",
     "score": 4.0,
-    "views": 525,
-    "forwards": 1
+    "views": 692,
+    "forwards": 3
   },
   {
     "title": "Sumy: Sumy - BpLA on Nyzy, Sumy.",
@@ -140,8 +158,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/54988",
     "score": 13.0,
-    "views": 998,
-    "forwards": 2
+    "views": 1144,
+    "forwards": 3
   },
   {
     "title": "Kyiv: Armenia to launch EU accession bid in 'near future,' PM says, further...",
@@ -194,7 +212,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199388",
     "score": 8.5,
-    "views": 143177,
+    "views": 154881,
     "forwards": 89
   },
   {
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 46573,
     "forwards": 35
-  },
-  {
-    "title": "☄️ Загроза застосування балістичного озброєння зі сходу.",
-    "title_en": "☄️ Загроза застосування балістичного озброєння зі сходу.",
-    "title_uk": "☄️ Загроза застосування балістичного озброєння зі сходу.",
-    "description": "☄️ Загроза застосування балістичного озброєння зі сходу.",
-    "description_en": "☄️ Загроза застосування балістичного озброєння зі сходу.",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння зі сходу.",
-    "time": "",
-    "pubDate": "2026-08-24T18:24:21+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74354",
-    "score": 5.5,
-    "views": 99183,
-    "forwards": 69
   }
 ]
