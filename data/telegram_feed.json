@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zaporizhzhia: 🏍 Реактивний БпЛА на Запоріжжя з півдня.",
+    "title_en": "Zaporizhzhia: 🏍 Реактивний БпЛА на Запоріжжя з півдня.",
+    "title_uk": "Zaporizhzhia: 🏍 Реактивний БпЛА на Запоріжжя з півдня.",
+    "description": "🏍 Реактивний БпЛА на Запоріжжя з півдня.",
+    "description_en": "🏍 Реактивний БпЛА на Запоріжжя з півдня.",
+    "description_uk": "🏍 Реактивний БпЛА на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-08-26T07:03:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74526",
+    "score": 6.0,
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "БпЛА в напрямку Дніпра із заходу.",
+    "description_en": "БпЛА в напрямку Дніпра із заходу.",
+    "description_uk": "БпЛА в напрямку Дніпра із заходу.",
+    "time": "",
+    "pubDate": "2026-08-26T06:52:10+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74523",
+    "score": 5.0,
+    "views": 21181,
+    "forwards": 0
+  },
+  {
     "title": "Sumy: БпЛА на Суми з півночі.",
     "title_en": "Sumy: БпЛА на Суми з півночі.",
     "title_uk": "Sumy: БпЛА на Суми з півночі.",
@@ -50,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55012",
     "score": 4.0,
-    "views": 562,
+    "views": 1010,
     "forwards": 1
   },
   {
@@ -68,26 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55011",
     "score": 6.0,
-    "views": 995,
+    "views": 1372,
     "forwards": 1
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "🏍 Jet UAV in the waters of the Black Sea, heading for Bilhorod-Dnistrovsky.",
-    "description_en": "🏍 Jet UAV in the waters of the Black Sea, heading for Bilhorod-Dnistrovsky.",
-    "description_uk": "🏍 Реактивний БпЛА в акваторії Чорного моря, курсом на Білгород-Дністровський.",
-    "time": "",
-    "pubDate": "2026-08-26T02:23:17+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74503",
-    "score": 5.0,
-    "views": 61950,
-    "forwards": 0
   },
   {
     "title": "Kharkiv: High-speed targets on White Well in Kharkiv Oblast.",
@@ -396,24 +414,6 @@
     "forwards": 617
   },
   {
-    "title": "Zaporizhzhia: Zaporizhzhia: BpLA in the direction of the city from the south 🛵...",
-    "title_en": "Zaporizhzhia: Zaporizhzhia: BpLA in the direction of the city from the south 🛵...",
-    "title_uk": "Запоріжжя: Запоріжжя: БпЛА в напрямку міста з півдня 🛵...",
-    "description": "Zaporizhzhia: BpLA in the direction of the city from the south 🛵 Kharkiv: BpLA in the direction of the city from the north",
-    "description_en": "Zaporizhzhia: BpLA in the direction of the city from the south 🛵 Kharkiv: BpLA in the direction of the city from the north",
-    "description_uk": "Запоріжжя: БпЛА в напрямку міста з півдня 🛵 Харків: БпЛА в напрямку міста з півночі",
-    "time": "",
-    "pubDate": "2026-08-25T18:52:41+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74473",
-    "score": 6.0,
-    "views": 26316,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Lithuania allocates 600,000 euros to bring home Ukrainian children...",
     "title_en": "Kyiv: Lithuania allocates 600,000 euros to bring home Ukrainian children...",
     "title_uk": "Київ: Литва виділяє 600 тисяч євро на повернення додому українських дітей...",
@@ -446,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10183",
     "score": 4.5,
-    "views": 732,
+    "views": 747,
     "forwards": 3
   }
 ]
