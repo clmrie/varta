@@ -1,5 +1,59 @@
 [
   {
+    "title": "Missile attack on infrastructure",
+    "title_en": "Missile attack on infrastructure",
+    "title_uk": "Missile attack on infrastructure",
+    "description": "За добу наші воїни санкціонували 16 обʼєктів у Росії. Зокрема, були далекобійні відповіді по нафтових обʼєктах – російському нафтовому гаманцю, що фінансує війну. Також по аеродромах, ракетному підрозділу та інфраструктурі, що постійно використовуються для нанесення ударів по Україні. Спрацювали наші санкції і по воєнному підприємству, російській логістиці. Війна мусить повертатися туди, звідки...",
+    "description_en": "За добу наші воїни санкціонували 16 обʼєктів у Росії. Зокрема, були далекобійні відповіді по нафтових обʼєктах – російському нафтовому гаманцю, що фінансує війну. Також по аеродромах, ракетному підрозділу та інфраструктурі, що постійно використовуються для нанесення ударів по Україні. Спрацювали наші санкції і по воєнному підприємству, російській логістиці. Війна мусить повертатися туди, звідки...",
+    "description_uk": "За добу наші воїни санкціонували 16 обʼєктів у Росії. Зокрема, були далекобійні відповіді по нафтових обʼєктах – російському нафтовому гаманцю, що фінансує війну. Також по аеродромах, ракетному підрозділу та інфраструктурі, що постійно використовуються для нанесення ударів по Україні. Спрацювали наші санкції і по воєнному підприємству, російській логістиці. Війна мусить повертатися туди, звідки...",
+    "time": "",
+    "pubDate": "2026-08-26T09:07:52+00:00",
+    "category": "missile",
+    "severity": "medium",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20602",
+    "score": 3.5,
+    "views": 15930,
+    "forwards": 89
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "БпЛА в напрямку Харкова та Сум з півночі.",
+    "description_en": "БпЛА в напрямку Харкова та Сум з півночі.",
+    "description_uk": "БпЛА в напрямку Харкова та Сум з півночі.",
+    "time": "",
+    "pubDate": "2026-08-26T09:07:45+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74549",
+    "score": 5.0,
+    "views": 21203,
+    "forwards": 1
+  },
+  {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Dnipro: Drone incoming",
+    "description": "КАБи на південно-східну частину Дніпропетровщини. 🏍 Реактивний БпЛА на Дніпропетровщині, в напрямку Павлограда.",
+    "description_en": "КАБи на південно-східну частину Дніпропетровщини. 🏍 Реактивний БпЛА на Дніпропетровщині, в напрямку Павлограда.",
+    "description_uk": "КАБи на південно-східну частину Дніпропетровщини. 🏍 Реактивний БпЛА на Дніпропетровщині, в напрямку Павлограда.",
+    "time": "",
+    "pubDate": "2026-08-26T08:53:50+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74547",
+    "score": 6.0,
+    "views": 34333,
+    "forwards": 1
+  },
+  {
     "title": "Kharkiv: БпЛА на Харків з півночі.",
     "title_en": "Kharkiv: БпЛА на Харків з півночі.",
     "title_uk": "Kharkiv: БпЛА на Харків з півночі.",
@@ -15,24 +69,6 @@
     "link": "https://t.me/kpszsu/74541",
     "score": 6.0,
     "views": 32299,
-    "forwards": 1
-  },
-  {
-    "title": "Dnipro: Drone incoming",
-    "title_en": "Dnipro: Drone incoming",
-    "title_uk": "Dnipro: Drone incoming",
-    "description": "🏍 Реактивні БпЛА на півдні Дніпропетровщини, в напрямку Павлограда. 🛵 БпЛА в напрямку Сум з півдня.",
-    "description_en": "🏍 Реактивні БпЛА на півдні Дніпропетровщини, в напрямку Павлограда. 🛵 БпЛА в напрямку Сум з півдня.",
-    "description_uk": "🏍 Реактивні БпЛА на півдні Дніпропетровщини, в напрямку Павлограда. 🛵 БпЛА в напрямку Сум з півдня.",
-    "time": "",
-    "pubDate": "2026-08-26T07:58:15+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74539",
-    "score": 6.0,
-    "views": 41372,
     "forwards": 1
   },
   {
@@ -90,24 +126,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "БпЛА в напрямку Дніпра із заходу.",
-    "description_en": "БпЛА в напрямку Дніпра із заходу.",
-    "description_uk": "БпЛА в напрямку Дніпра із заходу.",
-    "time": "",
-    "pubDate": "2026-08-26T06:52:10+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74523",
-    "score": 5.0,
-    "views": 21181,
-    "forwards": 0
-  },
-  {
     "title": "Donetsk: Drone incoming",
     "title_en": "Donetsk: Drone incoming",
     "title_uk": "Donetsk: Drone incoming",
@@ -140,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55012",
     "score": 4.0,
-    "views": 1364,
+    "views": 1540,
     "forwards": 2
   },
   {
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55011",
     "score": 6.0,
-    "views": 1675,
+    "views": 1827,
     "forwards": 1
   },
   {
@@ -324,24 +342,6 @@
     "forwards": 0
   },
   {
-    "title": "☄️ Загроза застосування балістичного озброєння з півночі",
-    "title_en": "☄️ Загроза застосування балістичного озброєння з півночі",
-    "title_uk": "☄️ Загроза застосування балістичного озброєння з півночі",
-    "description": "☄️ Загроза застосування балістичного озброєння з півночі",
-    "description_en": "☄️ Загроза застосування балістичного озброєння з півночі",
-    "description_uk": "☄️ Загроза застосування балістичного озброєння з півночі",
-    "time": "",
-    "pubDate": "2026-08-25T20:55:17+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74481",
-    "score": 5.5,
-    "views": 93347,
-    "forwards": 69
-  },
-  {
     "title": "Kyiv: Lithuania allocates 600,000 euros to bring home Ukrainian children...",
     "title_en": "Kyiv: Lithuania allocates 600,000 euros to bring home Ukrainian children...",
     "title_uk": "Київ: Литва виділяє 600 тисяч євро на повернення додому українських дітей...",
@@ -374,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10183",
     "score": 4.5,
-    "views": 764,
+    "views": 773,
     "forwards": 3
   },
   {
@@ -392,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10182",
     "score": 3.5,
-    "views": 797,
+    "views": 807,
     "forwards": 8
   }
 ]
