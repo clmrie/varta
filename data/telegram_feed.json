@@ -3,19 +3,37 @@
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Mykolaiv: Drone incoming",
-    "description": "🏍 Херсонщина: реактивний БпЛА повз Велику Олександрівку курсом на Березнегувате (Миколаївщина).",
-    "description_en": "🏍 Херсонщина: реактивний БпЛА повз Велику Олександрівку курсом на Березнегувате (Миколаївщина).",
-    "description_uk": "🏍 Херсонщина: реактивний БпЛА повз Велику Олександрівку курсом на Березнегувате (Миколаївщина).",
+    "description": "🏍 Миколаївщина: реактивні БпЛА повз Баштанку курсом на Ольшанське.",
+    "description_en": "🏍 Миколаївщина: реактивні БпЛА повз Баштанку курсом на Ольшанське.",
+    "description_uk": "🏍 Миколаївщина: реактивні БпЛА повз Баштанку курсом на Ольшанське.",
     "time": "",
-    "pubDate": "2026-08-26T10:43:01+00:00",
+    "pubDate": "2026-08-26T11:07:12+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Mykolaiv",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74561",
+    "link": "https://t.me/kpszsu/74563",
     "score": 6.0,
-    "views": 10106,
-    "forwards": 2
+    "views": 16140,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: БпЛА на Харків з півночі.",
+    "title_en": "Kharkiv: БпЛА на Харків з півночі.",
+    "title_uk": "Kharkiv: БпЛА на Харків з півночі.",
+    "description": "БпЛА на Харків з півночі.",
+    "description_en": "БпЛА на Харків з півночі.",
+    "description_uk": "БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-08-26T10:58:38+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74562",
+    "score": 6.0,
+    "views": 22180,
+    "forwards": 1
   },
   {
     "title": "Drone incoming",
@@ -50,8 +68,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199491",
     "score": 6.0,
-    "views": 25604,
-    "forwards": 36
+    "views": 48131,
+    "forwards": 37
   },
   {
     "title": "Missile attack on infrastructure",
@@ -68,8 +86,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20602",
     "score": 4.5,
-    "views": 110525,
-    "forwards": 302
+    "views": 133420,
+    "forwards": 355
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -87,24 +105,6 @@
     "link": "https://t.me/kpszsu/74547",
     "score": 6.0,
     "views": 34333,
-    "forwards": 1
-  },
-  {
-    "title": "Kharkiv: БпЛА на Харків з півночі.",
-    "title_en": "Kharkiv: БпЛА на Харків з півночі.",
-    "title_uk": "Kharkiv: БпЛА на Харків з півночі.",
-    "description": "БпЛА на Харків з півночі.",
-    "description_en": "БпЛА на Харків з півночі.",
-    "description_uk": "БпЛА на Харків з півночі.",
-    "time": "",
-    "pubDate": "2026-08-26T08:09:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74541",
-    "score": 6.0,
-    "views": 32299,
     "forwards": 1
   },
   {
@@ -194,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55012",
     "score": 4.0,
-    "views": 1797,
+    "views": 1885,
     "forwards": 2
   },
   {
@@ -212,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55011",
     "score": 6.0,
-    "views": 2042,
+    "views": 2115,
     "forwards": 1
   },
   {
@@ -374,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10183",
     "score": 4.5,
-    "views": 786,
+    "views": 788,
     "forwards": 3
   },
   {
@@ -392,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10182",
     "score": 3.5,
-    "views": 819,
+    "views": 821,
     "forwards": 8
   }
 ]
