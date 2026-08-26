@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "БпЛА в напрямку Кривого Рогу з півдня.",
+    "description_en": "БпЛА в напрямку Кривого Рогу з півдня.",
+    "description_uk": "БпЛА в напрямку Кривого Рогу з півдня.",
+    "time": "",
+    "pubDate": "2026-08-26T09:58:11+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74553",
+    "score": 5.0,
+    "views": 13142,
+    "forwards": 35
+  },
+  {
     "title": "Missile attack on infrastructure",
     "title_en": "Missile attack on infrastructure",
     "title_uk": "Missile attack on infrastructure",
@@ -14,26 +32,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20602",
     "score": 3.5,
-    "views": 15930,
-    "forwards": 89
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "БпЛА в напрямку Харкова та Сум з півночі.",
-    "description_en": "БпЛА в напрямку Харкова та Сум з півночі.",
-    "description_uk": "БпЛА в напрямку Харкова та Сум з півночі.",
-    "time": "",
-    "pubDate": "2026-08-26T09:07:45+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74549",
-    "score": 5.0,
-    "views": 21203,
-    "forwards": 1
+    "views": 49196,
+    "forwards": 196
   },
   {
     "title": "Dnipro: Drone incoming",
@@ -158,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55012",
     "score": 4.0,
-    "views": 1540,
+    "views": 1682,
     "forwards": 2
   },
   {
@@ -176,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55011",
     "score": 6.0,
-    "views": 1827,
+    "views": 1948,
     "forwards": 1
   },
   {
@@ -374,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10183",
     "score": 4.5,
-    "views": 773,
+    "views": 778,
     "forwards": 3
   },
   {
@@ -392,7 +392,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10182",
     "score": 3.5,
-    "views": 807,
+    "views": 810,
     "forwards": 8
   }
 ]
