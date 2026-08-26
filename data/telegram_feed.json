@@ -1,8 +1,26 @@
 [
   {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Київ: Дрон-удар",
+    "description": "Major Russian oil refinery in flames after drone strike, locals say. The Lukoil-owned NORSI plant in Nizhny Novogorod Oblast is the fourth-largest oil refinery in Russia.",
+    "description_en": "Major Russian oil refinery in flames after drone strike, locals say. The Lukoil-owned NORSI plant in Nizhny Novogorod Oblast is the fourth-largest oil refinery in Russia.",
+    "description_uk": "Major Russian oil refinery in flames after drone strike, locals say. The Lukoil-owned NORSI plant in Nizhny Novogorod Oblast is the fourth-largest oil refinery in Russia.",
+    "time": "",
+    "pubDate": "2026-08-26T04:55:11+00:00",
+    "category": "drone",
+    "severity": "medium",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55012",
+    "score": 4.0,
+    "views": 72,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Pope's envoy meets Russia's Lavrov for first time since full-scale...",
     "title_en": "Kyiv: Pope's envoy meets Russia's Lavrov for first time since full-scale...",
-    "title_uk": "Kyiv: Pope's envoy meets Russia's Lavrov for first time since full-scale...",
+    "title_uk": "Київ: Посланник Папи Римського зустрівся з російським Лавровим вперше після повномасштабного...",
     "description": "Pope's envoy meets Russia's Lavrov for first time since full-scale invasion. The visit marks the first face-to-face talks between Moscow and the Vatican since Russia launched its all-out war against Ukraine in 2022.",
     "description_en": "Pope's envoy meets Russia's Lavrov for first time since full-scale invasion. The visit marks the first face-to-face talks between Moscow and the Vatican since Russia launched its all-out war against Ukraine in 2022.",
     "description_uk": "Pope's envoy meets Russia's Lavrov for first time since full-scale invasion. The visit marks the first face-to-face talks between Moscow and the Vatican since Russia launched its all-out war against Ukraine in 2022.",
@@ -14,15 +32,15 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55011",
     "score": 6.0,
-    "views": 420,
+    "views": 627,
     "forwards": 0
   },
   {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "🏍 Реактивний БпЛА в акваторії Чорного моря, курсом на Білгород-Дністровський.",
-    "description_en": "🏍 Реактивний БпЛА в акваторії Чорного моря, курсом на Білгород-Дністровський.",
+    "title_uk": "Дрон входить",
+    "description": "🏍 Jet UAV in the waters of the Black Sea, heading for Bilhorod-Dnistrovsky.",
+    "description_en": "🏍 Jet UAV in the waters of the Black Sea, heading for Bilhorod-Dnistrovsky.",
     "description_uk": "🏍 Реактивний БпЛА в акваторії Чорного моря, курсом на Білгород-Дністровський.",
     "time": "",
     "pubDate": "2026-08-26T02:23:17+00:00",
@@ -32,7 +50,25 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74503",
     "score": 5.0,
-    "views": 45773,
+    "views": 61950,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: High-speed targets on White Well in Kharkiv Oblast.",
+    "title_en": "Kharkiv: High-speed targets on White Well in Kharkiv Oblast.",
+    "title_uk": "Харків: Швидкісні мішені на Білій криниці в Харківській області.",
+    "description": "High-speed targets on White Well in Kharkiv Oblast.",
+    "description_en": "High-speed targets on White Well in Kharkiv Oblast.",
+    "description_uk": "Швидкісні цілі на Білий Колодязь на Харківщині.",
+    "time": "",
+    "pubDate": "2026-08-26T02:21:56+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74502",
+    "score": 6.0,
+    "views": 59124,
     "forwards": 0
   },
   {
@@ -51,24 +87,6 @@
     "link": "https://t.me/kpszsu/74502",
     "score": 6.0,
     "views": 44955,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: High-speed targets on White Well in Kharkiv Oblast.",
-    "title_en": "Kharkiv: High-speed targets on White Well in Kharkiv Oblast.",
-    "title_uk": "Харків: Швидкісні мішені на Білій криниці в Харківській області.",
-    "description": "High-speed targets on White Well in Kharkiv Oblast.",
-    "description_en": "High-speed targets on White Well in Kharkiv Oblast.",
-    "description_uk": "Швидкісні цілі на Білий Колодязь на Харківщині.",
-    "time": "",
-    "pubDate": "2026-08-26T02:21:56+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74502",
-    "score": 6.0,
-    "views": 1529,
     "forwards": 0
   },
   {
@@ -252,6 +270,24 @@
     "forwards": 2
   },
   {
+    "title": "Evacuation ordered",
+    "title_en": "Evacuation ordered",
+    "title_uk": "Наказано евакуацію",
+    "description": "Meanwhile, policemen in full uniform and special forces officers arrived at the scene of the incident in Ternopil. Military equipment and a bus arrived. According to eyewitnesses, an employee of the TCC was taken out of the car with broken windows and shouted \"Shame!\" they put him on a bus and hurriedly evacuated from the anger of the people. It is remarkable that no one left, only more people.",
+    "description_en": "Meanwhile, policemen in full uniform and special forces officers arrived at the scene of the incident in Ternopil. Military equipment and a bus arrived. According to eyewitnesses, an employee of the TCC was taken out of the car with broken windows and shouted \"Shame!\" they put him on a bus and hurriedly evacuated from the anger of the people. It is remarkable that no one left, only more people.",
+    "description_uk": "Тем временем на место происшествия в Тернополе приехали полицейские в полной экипировке и сотрудники спецназа Прибыла военная техника и автобус. По словам очевидцев, из автомобиля с разбитыми окнами вывели сотрудника ТЦК и под крики \"Ганьба!\" посадили его в автобус и спешно эвакуировали от народного гнева. Примечательно, что никто не расходился, людей стало только больше.",
+    "time": "",
+    "pubDate": "2026-08-25T20:15:19+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ternopil",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199462",
+    "score": 5.5,
+    "views": 150904,
+    "forwards": 669
+  },
+  {
     "title": "Air defense active",
     "title_en": "Air defense active",
     "title_uk": "Air defense active",
@@ -268,24 +304,6 @@
     "score": 5.5,
     "views": 137098,
     "forwards": 634
-  },
-  {
-    "title": "Evacuation ordered",
-    "title_en": "Evacuation ordered",
-    "title_uk": "Наказано евакуацію",
-    "description": "Meanwhile, policemen in full uniform and special forces officers arrived at the scene of the incident in Ternopil. Military equipment and a bus arrived. According to eyewitnesses, an employee of the TCC was taken out of the car with broken windows and shouted \"Shame!\" they put him on a bus and hurriedly evacuated from the anger of the people. It is remarkable that no one left, only more people.",
-    "description_en": "Meanwhile, policemen in full uniform and special forces officers arrived at the scene of the incident in Ternopil. Military equipment and a bus arrived. According to eyewitnesses, an employee of the TCC was taken out of the car with broken windows and shouted \"Shame!\" they put him on a bus and hurriedly evacuated from the anger of the people. It is remarkable that no one left, only more people.",
-    "description_uk": "Тем временем на место происшествия в Тернополе приехали полицейские в полной экипировке и сотрудники спецназа Прибыла военная техника и автобус. По словам очевидцев, из автомобиля с разбитыми окнами вывели сотрудника ТЦК и под крики \"Ганьба!\" посадили его в автобус и спешно эвакуировали от народного гнева. Примечательно, что никто не расходился, людей стало только больше.",
-    "time": "",
-    "pubDate": "2026-08-25T20:15:19+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ternopil",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199462",
-    "score": 5.5,
-    "views": 99873,
-    "forwards": 610
   },
   {
     "title": "Sumy: Drone incoming",
@@ -306,6 +324,24 @@
     "forwards": 0
   },
   {
+    "title": "Chess has been brought to Telegram - in the new update, a bot has...",
+    "title_en": "Chess has been brought to Telegram - in the new update, a bot has...",
+    "title_uk": "Шахи перенесли в Telegram - в новому оновленні бот...",
+    "description": "Chess has been brought to Telegram - in the new update, a bot has appeared that starts the game directly in the chat. Thanks to the text editor, you have a board and control of pieces at your fingertips without a separate application. Chess works on the new advanced formatting, so the application must be updated to the latest version. Let's play here.",
+    "description_en": "Chess has been brought to Telegram - in the new update, a bot has appeared that starts the game directly in the chat. Thanks to the text editor, you have a board and control of pieces at your fingertips without a separate application. Chess works on the new advanced formatting, so the application must be updated to the latest version. Let's play here.",
+    "description_uk": "В Telegram завезли шахматы - в новом обновлении появился бот, который запускает партию прямо в чате Благодаря редактору текста у вас под руками появляется доска и управление фигурами без отдельного приложения. Шахматы работают на новом расширенном форматировании, поэтому приложение нужно обновить до последней версии. Играем тут.",
+    "time": "",
+    "pubDate": "2026-08-25T19:29:14+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199459",
+    "score": 6.5,
+    "views": 151971,
+    "forwards": 619
+  },
+  {
     "title": "В Telegram завезли шахматы - в новом обновлении появился бот, который...",
     "title_en": "В Telegram завезли шахматы - в новом обновлении появился бот, который...",
     "title_uk": "В Telegram завезли шахматы - в новом обновлении появился бот, который...",
@@ -322,24 +358,6 @@
     "score": 6.5,
     "views": 141392,
     "forwards": 617
-  },
-  {
-    "title": "Chess has been brought to Telegram - in the new update, a bot has...",
-    "title_en": "Chess has been brought to Telegram - in the new update, a bot has...",
-    "title_uk": "У Telegram перенесли шахи - в новому оновленні бот...",
-    "description": "Chess has been brought to Telegram - in the new update, a bot has appeared that starts the game directly in the chat. Thanks to the text editor, you have a board and control of pieces at your fingertips without a separate application. Chess works on the new advanced formatting, so the application must be updated to the latest version. Let's play here.",
-    "description_en": "Chess has been brought to Telegram - in the new update, a bot has appeared that starts the game directly in the chat. Thanks to the text editor, you have a board and control of pieces at your fingertips without a separate application. Chess works on the new advanced formatting, so the application must be updated to the latest version. Let's play here.",
-    "description_uk": "В Telegram завезли шахматы - в новом обновлении появился бот, который запускает партию прямо в чате Благодаря редактору текста у вас под руками появляется доска и управление фигурами без отдельного приложения. Шахматы работают на новом расширенном форматировании, поэтому приложение нужно обновить до последней версии. Играем тут.",
-    "time": "",
-    "pubDate": "2026-08-25T19:29:14+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199459",
-    "score": 6.5,
-    "views": 112147,
-    "forwards": 571
   },
   {
     "title": "Zaporizhzhia: Zaporizhzhia: BpLA in the direction of the city from the south 🛵...",
@@ -430,23 +448,5 @@
     "score": 6.0,
     "views": 50534,
     "forwards": 0
-  },
-  {
-    "title": "Chernihiv: 🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив вдячність...",
-    "title_en": "Chernihiv: 🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив вдячність...",
-    "title_uk": "Chernihiv: 🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив вдячність...",
-    "description": "🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив вдячність Латвії за новий пакет енергетичної підтримки для Чернігівської області на суму близько 200 тисяч євро. “Ця підтримка зробить вагомий внесок у зміцнення енергетичної стійкості України та підготовку до зими. Дякую міністерці закордонних справ Латвії Байбі Браже та всім нашим латвійським друзям за незмінну підтримку України”, -...",
-    "description_en": "🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив вдячність Латвії за новий пакет енергетичної підтримки для Чернігівської області на суму близько 200 тисяч євро. “Ця підтримка зробить вагомий внесок у зміцнення енергетичної стійкості України та підготовку до зими. Дякую міністерці закордонних справ Латвії Байбі Браже та всім нашим латвійським друзям за незмінну підтримку України”, -...",
-    "description_uk": "🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив вдячність Латвії за новий пакет енергетичної підтримки для Чернігівської області на суму близько 200 тисяч євро. “Ця підтримка зробить вагомий внесок у зміцнення енергетичної стійкості України та підготовку до зими. Дякую міністерці закордонних справ Латвії Байбі Браже та всім нашим латвійським друзям за незмінну підтримку України”, -...",
-    "time": "",
-    "pubDate": "2026-08-25T11:54:54+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/10183",
-    "score": 4.5,
-    "views": 701,
-    "forwards": 2
   }
 ]
