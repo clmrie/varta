@@ -1,10 +1,28 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Миколаїв: Дрон вхід",
+    "description": "UAV from the waters of the Black Sea, heading for Odesa (Bilhorod-Dnistrovsky district). 🏍 Jet UAVs in the south of Mykolaiv Oblast, heading for Odesa. 🏍 Jet UAVs in Kharkiv Oblast, heading for Berestyn.",
+    "description_en": "UAV from the waters of the Black Sea, heading for Odesa (Bilhorod-Dnistrovsky district). 🏍 Jet UAVs in the south of Mykolaiv Oblast, heading for Odesa. 🏍 Jet UAVs in Kharkiv Oblast, heading for Berestyn.",
+    "description_uk": "БпЛА з акваторії Чорного моря, курсом на Одещину (Білгород-Дністровський район). 🏍 Реактивні БпЛА на півдні Миколаївщини, курсом на Одещину. 🏍 Реактивні БпЛА на Харківщині, курсом на Берестин.",
+    "time": "",
+    "pubDate": "2026-08-26T00:49:38+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74496",
+    "score": 6.0,
+    "views": 3355,
+    "forwards": 2
+  },
+  {
     "title": "Zaporizhzhia: Drone incoming",
     "title_en": "Zaporizhzhia: Drone incoming",
-    "title_uk": "Zaporizhzhia: Drone incoming",
-    "description": "🏍 Реактивний БпЛА з півночі в напрямку м.Запоріжжя.",
-    "description_en": "🏍 Реактивний БпЛА з півночі в напрямку м.Запоріжжя.",
+    "title_uk": "Запоріжжя: Дрон вхід",
+    "description": "🏍 Jet UAV from the north in the direction of Zaporozhye.",
+    "description_en": "🏍 Jet UAV from the north in the direction of Zaporozhye.",
     "description_uk": "🏍 Реактивний БпЛА з півночі в напрямку м.Запоріжжя.",
     "time": "",
     "pubDate": "2026-08-25T23:52:42+00:00",
@@ -14,7 +32,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/74493",
     "score": 6.0,
-    "views": 619,
+    "views": 14008,
     "forwards": 0
   },
   {
@@ -38,7 +56,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Kyiv: Explosions reported",
+    "title_uk": "Київ: Повідомляється про вибухи",
     "description": "Ukrainian forces resume strikes on Russia's Wildberries amid reported attack in Tambov Oblast. Ukrainian forces resumed strikes on Russia's largest online retailer, Wildberries, following several days of strikes on competitor Ozon, monitoring channels reported Aug. 26 as explosions rocked Tambov Oblast and Ukraine's occupied territories.",
     "description_en": "Ukrainian forces resume strikes on Russia's Wildberries amid reported attack in Tambov Oblast. Ukrainian forces resumed strikes on Russia's largest online retailer, Wildberries, following several days of strikes on competitor Ozon, monitoring channels reported Aug. 26 as explosions rocked Tambov Oblast and Ukraine's occupied territories.",
     "description_uk": "Ukrainian forces resume strikes on Russia's Wildberries amid reported attack in Tambov Oblast. Ukrainian forces resumed strikes on Russia's largest online retailer, Wildberries, following several days of strikes on competitor Ozon, monitoring channels reported Aug. 26 as explosions rocked Tambov Oblast and Ukraine's occupied territories.",
@@ -50,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55009",
     "score": 8.0,
-    "views": 203,
+    "views": 426,
     "forwards": 1
   },
   {
@@ -146,7 +164,7 @@
   {
     "title": "Kyiv: Attack attack on energy grid",
     "title_en": "Kyiv: Attack attack on energy grid",
-    "title_uk": "Kyiv: Attack attack on energy grid",
+    "title_uk": "Київ: Атака на енергомережі",
     "description": "Kazakh oil refinery to process Russian crude, send fuel back to Russia amid shortage. An oil refinery in Kazakhstan is set to process Russian crude and send 70% of its diesel and gasoline output back to Russia amid shortages as a result of Ukrainian attacks, Kazakh Energy Minister Yerlan Akkenzhenov said Aug. 25.",
     "description_en": "Kazakh oil refinery to process Russian crude, send fuel back to Russia amid shortage. An oil refinery in Kazakhstan is set to process Russian crude and send 70% of its diesel and gasoline output back to Russia amid shortages as a result of Ukrainian attacks, Kazakh Energy Minister Yerlan Akkenzhenov said Aug. 25.",
     "description_uk": "Kazakh oil refinery to process Russian crude, send fuel back to Russia amid shortage. An oil refinery in Kazakhstan is set to process Russian crude and send 70% of its diesel and gasoline output back to Russia amid shortages as a result of Ukrainian attacks, Kazakh Energy Minister Yerlan Akkenzhenov said Aug. 25.",
@@ -158,8 +176,26 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55008",
     "score": 4.5,
-    "views": 1263,
+    "views": 1397,
     "forwards": 2
+  },
+  {
+    "title": "Evacuation ordered",
+    "title_en": "Evacuation ordered",
+    "title_uk": "Наказано евакуацію",
+    "description": "Meanwhile, policemen in full uniform and special forces officers arrived at the scene of the incident in Ternopil. Military equipment and a bus arrived. According to eyewitnesses, an employee of the TCC was taken out of the car with broken windows and shouted \"Shame!\" they put him on a bus and hurriedly evacuated from the anger of the people. It is remarkable that no one left, only more people.",
+    "description_en": "Meanwhile, policemen in full uniform and special forces officers arrived at the scene of the incident in Ternopil. Military equipment and a bus arrived. According to eyewitnesses, an employee of the TCC was taken out of the car with broken windows and shouted \"Shame!\" they put him on a bus and hurriedly evacuated from the anger of the people. It is remarkable that no one left, only more people.",
+    "description_uk": "Тем временем на место происшествия в Тернополе приехали полицейские в полной экипировке и сотрудники спецназа Прибыла военная техника и автобус. По словам очевидцев, из автомобиля с разбитыми окнами вывели сотрудника ТЦК и под крики \"Ганьба!\" посадили его в автобус и спешно эвакуировали от народного гнева. Примечательно, что никто не расходился, людей стало только больше.",
+    "time": "",
+    "pubDate": "2026-08-25T20:15:19+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ternopil",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199462",
+    "score": 5.5,
+    "views": 89336,
+    "forwards": 589
   },
   {
     "title": "Air defense active",
@@ -180,24 +216,6 @@
     "forwards": 579
   },
   {
-    "title": "Evacuation ordered",
-    "title_en": "Evacuation ordered",
-    "title_uk": "Наказано евакуацію",
-    "description": "Meanwhile, policemen in full uniform and special forces officers arrived at the scene of the incident in Ternopil. Military equipment and a bus arrived. According to eyewitnesses, an employee of the TCC was taken out of the car with broken windows and shouted \"Shame!\" they put him on a bus and hurriedly evacuated from the anger of the people. It is remarkable that no one left, only more people.",
-    "description_en": "Meanwhile, policemen in full uniform and special forces officers arrived at the scene of the incident in Ternopil. Military equipment and a bus arrived. According to eyewitnesses, an employee of the TCC was taken out of the car with broken windows and shouted \"Shame!\" they put him on a bus and hurriedly evacuated from the anger of the people. It is remarkable that no one left, only more people.",
-    "description_uk": "Тем временем на место происшествия в Тернополе приехали полицейские в полной экипировке и сотрудники спецназа Прибыла военная техника и автобус. По словам очевидцев, из автомобиля с разбитыми окнами вывели сотрудника ТЦК и под крики \"Ганьба!\" посадили его в автобус и спешно эвакуировали от народного гнева. Примечательно, что никто не расходился, людей стало только больше.",
-    "time": "",
-    "pubDate": "2026-08-25T20:15:19+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ternopil",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199462",
-    "score": 5.5,
-    "views": 79086,
-    "forwards": 565
-  },
-  {
     "title": "Sumy: Drone incoming",
     "title_en": "Sumy: Drone incoming",
     "title_uk": "Sumy: Drone incoming",
@@ -216,6 +234,24 @@
     "forwards": 0
   },
   {
+    "title": "Chess has been brought to Telegram - in the new update, a bot has...",
+    "title_en": "Chess has been brought to Telegram - in the new update, a bot has...",
+    "title_uk": "Шахи перенесли в Telegram - в новому оновленні бот...",
+    "description": "Chess has been brought to Telegram - in the new update, a bot has appeared that starts the game directly in the chat. Thanks to the text editor, you have a board and control of pieces at your fingertips without a separate application. Chess works on the new advanced formatting, so the application must be updated to the latest version. Let's play here.",
+    "description_en": "Chess has been brought to Telegram - in the new update, a bot has appeared that starts the game directly in the chat. Thanks to the text editor, you have a board and control of pieces at your fingertips without a separate application. Chess works on the new advanced formatting, so the application must be updated to the latest version. Let's play here.",
+    "description_uk": "В Telegram завезли шахматы - в новом обновлении появился бот, который запускает партию прямо в чате Благодаря редактору текста у вас под руками появляется доска и управление фигурами без отдельного приложения. Шахматы работают на новом расширенном форматировании, поэтому приложение нужно обновить до последней версии. Играем тут.",
+    "time": "",
+    "pubDate": "2026-08-25T19:29:14+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199459",
+    "score": 6.5,
+    "views": 103523,
+    "forwards": 549
+  },
+  {
     "title": "В Telegram завезли шахматы - в новом обновлении появился бот, который...",
     "title_en": "В Telegram завезли шахматы - в новом обновлении появился бот, который...",
     "title_uk": "В Telegram завезли шахматы - в новом обновлении появился бот, который...",
@@ -232,24 +268,6 @@
     "score": 6.5,
     "views": 99297,
     "forwards": 538
-  },
-  {
-    "title": "Chess has been brought to Telegram - in the new update, a bot has...",
-    "title_en": "Chess has been brought to Telegram - in the new update, a bot has...",
-    "title_uk": "У Telegram перенесли шахи - в новому оновленні бот...",
-    "description": "Chess has been brought to Telegram - in the new update, a bot has appeared that starts the game directly in the chat. Thanks to the text editor, you have a board and control of pieces at your fingertips without a separate application. Chess works on the new advanced formatting, so the application must be updated to the latest version. Let's play here.",
-    "description_en": "Chess has been brought to Telegram - in the new update, a bot has appeared that starts the game directly in the chat. Thanks to the text editor, you have a board and control of pieces at your fingertips without a separate application. Chess works on the new advanced formatting, so the application must be updated to the latest version. Let's play here.",
-    "description_uk": "В Telegram завезли шахматы - в новом обновлении появился бот, который запускает партию прямо в чате Благодаря редактору текста у вас под руками появляется доска и управление фигурами без отдельного приложения. Шахматы работают на новом расширенном форматировании, поэтому приложение нужно обновить до последней версии. Играем тут.",
-    "time": "",
-    "pubDate": "2026-08-25T19:29:14+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199459",
-    "score": 6.5,
-    "views": 95304,
-    "forwards": 524
   },
   {
     "title": "Zaporizhzhia: Zaporizhzhia: BpLA in the direction of the city from the south 🛵...",
@@ -378,24 +396,6 @@
     "forwards": 182
   },
   {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Mykolaiv: Drone incoming",
-    "description": "🏍 Реактивний БпЛА на півдні Миколаївщини, курсом на Одещину.",
-    "description_en": "🏍 Реактивний БпЛА на півдні Миколаївщини, курсом на Одещину.",
-    "description_uk": "🏍 Реактивний БпЛА на півдні Миколаївщини, курсом на Одещину.",
-    "time": "",
-    "pubDate": "2026-08-25T15:37:15+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74459",
-    "score": 6.0,
-    "views": 26296,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: UK, France approve Storm Shadow/SCALP missile production in Ukraine,...",
     "title_en": "Kyiv: UK, France approve Storm Shadow/SCALP missile production in Ukraine,...",
     "title_uk": "Kyiv: UK, France approve Storm Shadow/SCALP missile production in Ukraine,...",
@@ -432,21 +432,21 @@
     "forwards": 251
   },
   {
-    "title": "Kyiv: Airstrike attack",
-    "title_en": "Kyiv: Airstrike attack",
-    "title_uk": "Kyiv: Airstrike attack",
-    "description": "Ukrainian strike damages MiG-29 fighter jet at Russian air base. Ukrainian forces struck several targets, including the fourth generation fighter jet on Millerovo air base in Russia's Rostov Oblast.",
-    "description_en": "Ukrainian strike damages MiG-29 fighter jet at Russian air base. Ukrainian forces struck several targets, including the fourth generation fighter jet on Millerovo air base in Russia's Rostov Oblast.",
-    "description_uk": "Ukrainian strike damages MiG-29 fighter jet at Russian air base. Ukrainian forces struck several targets, including the fourth generation fighter jet on Millerovo air base in Russia's Rostov Oblast.",
+    "title": "Chernihiv: 🇱🇻 Minister of Foreign Affairs of Ukraine Andrii Sybiga expressed his...",
+    "title_en": "Chernihiv: 🇱🇻 Minister of Foreign Affairs of Ukraine Andrii Sybiga expressed his...",
+    "title_uk": "Чернігів: 🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив...",
+    "description": "🇱🇻 Minister of Foreign Affairs of Ukraine Andrii Sybiga expressed his gratitude to Latvia for the new package of energy support for the Chernihiv region in the amount of about 200 thousand euros. \"This support will make a significant contribution to strengthening Ukraine's energy stability and preparing for winter. I thank the Minister of Foreign Affairs of Latvia Baiba Braže and all our Latvian friends for their constant support to Ukraine\", -...",
+    "description_en": "🇱🇻 Minister of Foreign Affairs of Ukraine Andrii Sybiga expressed his gratitude to Latvia for the new package of energy support for the Chernihiv region in the amount of about 200 thousand euros. \"This support will make a significant contribution to strengthening Ukraine's energy stability and preparing for winter. I thank the Minister of Foreign Affairs of Latvia Baiba Braže and all our Latvian friends for their constant support to Ukraine\", -...",
+    "description_uk": "🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив вдячність Латвії за новий пакет енергетичної підтримки для Чернігівської області на суму близько 200 тисяч євро. “Ця підтримка зробить вагомий внесок у зміцнення енергетичної стійкості України та підготовку до зими. Дякую міністерці закордонних справ Латвії Байбі Браже та всім нашим латвійським друзям за незмінну підтримку України”, -...",
     "time": "",
-    "pubDate": "2026-08-25T12:51:02+00:00",
+    "pubDate": "2026-08-25T11:54:54+00:00",
     "category": "alert",
     "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/54999",
-    "score": 5.0,
-    "views": 925,
-    "forwards": 1
+    "location": "Chernihiv",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/10183",
+    "score": 4.5,
+    "views": 682,
+    "forwards": 2
   }
 ]
