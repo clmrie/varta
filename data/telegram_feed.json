@@ -1,5 +1,23 @@
 [
   {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Dnipro: Drone incoming",
+    "description": "🏍 Дніпропетровщина: Реактивний БпЛА у напрямку Яворницького/м.Дніпро.",
+    "description_en": "🏍 Дніпропетровщина: Реактивний БпЛА у напрямку Яворницького/м.Дніпро.",
+    "description_uk": "🏍 Дніпропетровщина: Реактивний БпЛА у напрямку Яворницького/м.Дніпро.",
+    "time": "",
+    "pubDate": "2026-08-26T18:21:31+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74610",
+    "score": 6.0,
+    "views": 21226,
+    "forwards": 0
+  },
+  {
     "title": "Explosions reported",
     "title_en": "Explosions reported",
     "title_uk": "Explosions reported",
@@ -13,9 +31,9 @@
     "location": "Ukraine",
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23780",
-    "score": 10.5,
-    "views": 7180,
-    "forwards": 26
+    "score": 11.0,
+    "views": 73416,
+    "forwards": 98
   },
   {
     "title": "Drone incoming",
@@ -51,24 +69,6 @@
     "link": "https://t.me/kpszsu/74592",
     "score": 6.0,
     "views": 13135,
-    "forwards": 0
-  },
-  {
-    "title": "Dnipro: Drone incoming",
-    "title_en": "Dnipro: Drone incoming",
-    "title_uk": "Dnipro: Drone incoming",
-    "description": "БпЛА на сході Дніпропетровщини ➡️ курсом на Василівку, Павлоград.",
-    "description_en": "БпЛА на сході Дніпропетровщини ➡️ курсом на Василівку, Павлоград.",
-    "description_uk": "БпЛА на сході Дніпропетровщини ➡️ курсом на Василівку, Павлоград.",
-    "time": "",
-    "pubDate": "2026-08-26T15:37:19+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74589",
-    "score": 6.0,
-    "views": 19240,
     "forwards": 0
   },
   {
@@ -212,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20602",
     "score": 4.5,
-    "views": 256382,
-    "forwards": 475
+    "views": 275314,
+    "forwards": 489
   },
   {
     "title": "Zaporizhzhia: БпЛА на Запоріжжя з півдня.",
@@ -302,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55012",
     "score": 4.0,
-    "views": 2436,
+    "views": 2537,
     "forwards": 3
   },
   {
@@ -320,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55011",
     "score": 6.0,
-    "views": 2566,
+    "views": 2650,
     "forwards": 2
   },
   {
@@ -396,24 +396,6 @@
     "forwards": 1
   },
   {
-    "title": "Kyiv: Lithuania allocates 600,000 euros to bring home Ukrainian children...",
-    "title_en": "Kyiv: Lithuania allocates 600,000 euros to bring home Ukrainian children...",
-    "title_uk": "Київ: Литва виділяє 600 тисяч євро на повернення додому українських дітей...",
-    "description": "Lithuania allocates 600,000 euros to bring home Ukrainian children abducted by Russia. \"Сhildren cannot be used as instruments of war or occupation,\" First Lady of Lithuania, Diana Nausediene, said.",
-    "description_en": "Lithuania allocates 600,000 euros to bring home Ukrainian children abducted by Russia. \"Сhildren cannot be used as instruments of war or occupation,\" First Lady of Lithuania, Diana Nausediene, said.",
-    "description_uk": "Lithuania allocates 600,000 euros to bring home Ukrainian children abducted by Russia. \"Сhildren cannot be used as instruments of war or occupation,\" First Lady of Lithuania, Diana Nausediene, said.",
-    "time": "",
-    "pubDate": "2026-08-25T17:19:06+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55006",
-    "score": 6.0,
-    "views": 1918,
-    "forwards": 4
-  },
-  {
     "title": "Chernihiv: 🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив вдячність...",
     "title_en": "Chernihiv: 🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив вдячність...",
     "title_uk": "Chernihiv: 🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив вдячність...",
@@ -428,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10183",
     "score": 4.5,
-    "views": 953,
+    "views": 971,
     "forwards": 3
   },
   {
@@ -446,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10182",
     "score": 3.5,
-    "views": 926,
+    "views": 943,
     "forwards": 8
   }
 ]
