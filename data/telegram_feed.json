@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "🏍 Jet UAV in the waters of the Black Sea, heading for Bilhorod-Dnistrovsky.",
+    "description_en": "🏍 Jet UAV in the waters of the Black Sea, heading for Bilhorod-Dnistrovsky.",
+    "description_uk": "🏍 Реактивний БпЛА в акваторії Чорного моря, курсом на Білгород-Дністровський.",
+    "time": "",
+    "pubDate": "2026-08-26T02:23:17+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74503",
+    "score": 5.0,
+    "views": 323,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: High-speed targets on White Well in Kharkiv Oblast.",
+    "title_en": "Kharkiv: High-speed targets on White Well in Kharkiv Oblast.",
+    "title_uk": "Харків: Швидкісні мішені на Білій криниці в Харківській області.",
+    "description": "High-speed targets on White Well in Kharkiv Oblast.",
+    "description_en": "High-speed targets on White Well in Kharkiv Oblast.",
+    "description_uk": "Швидкісні цілі на Білий Колодязь на Харківщині.",
+    "time": "",
+    "pubDate": "2026-08-26T02:21:56+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74502",
+    "score": 6.0,
+    "views": 1529,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: 10 drones intercepted",
+    "title_en": "Kyiv: 10 drones intercepted",
+    "title_uk": "Київ: перехоплено 10 безпілотників",
+    "description": "Update: Ukrainian drones target Moscow again after CIA director's visit, mayor claims. Moscow Mayor Sergey Sobyanin reported in the early hours of Aug. 26 that 10 drones had been shot down en route to the capital. His report came several hours after CIA Director John Ratcliffe departed the city after his first official visit to Russia. Ratcliffe has not yet commented on the trip.",
+    "description_en": "Update: Ukrainian drones target Moscow again after CIA director's visit, mayor claims. Moscow Mayor Sergey Sobyanin reported in the early hours of Aug. 26 that 10 drones had been shot down en route to the capital. His report came several hours after CIA Director John Ratcliffe departed the city after his first official visit to Russia. Ratcliffe has not yet commented on the trip.",
+    "description_uk": "Update: Ukrainian drones target Moscow again after CIA director's visit, mayor claims. Moscow Mayor Sergey Sobyanin reported in the early hours of Aug. 26 that 10 drones had been shot down en route to the capital. His report came several hours after CIA Director John Ratcliffe departed the city after his first official visit to Russia. Ratcliffe has not yet commented on the trip.",
+    "time": "",
+    "pubDate": "2026-08-26T01:34:49+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55010",
+    "score": 8.0,
+    "views": 264,
+    "forwards": 1
+  },
+  {
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Миколаїв: Дрон вхід",
@@ -56,7 +110,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
+    "title_uk": "Київ: повідомлення про вибухи",
     "description": "Ukrainian forces resume strikes on Russia's Wildberries amid reported attack in Tambov Oblast. Ukrainian forces resumed strikes on Russia's largest online retailer, Wildberries, following several days of strikes on competitor Ozon, monitoring channels reported Aug. 26 as explosions rocked Tambov Oblast and Ukraine's occupied territories.",
     "description_en": "Ukrainian forces resume strikes on Russia's Wildberries amid reported attack in Tambov Oblast. Ukrainian forces resumed strikes on Russia's largest online retailer, Wildberries, following several days of strikes on competitor Ozon, monitoring channels reported Aug. 26 as explosions rocked Tambov Oblast and Ukraine's occupied territories.",
     "description_uk": "Ukrainian forces resume strikes on Russia's Wildberries amid reported attack in Tambov Oblast. Ukrainian forces resumed strikes on Russia's largest online retailer, Wildberries, following several days of strikes on competitor Ozon, monitoring channels reported Aug. 26 as explosions rocked Tambov Oblast and Ukraine's occupied territories.",
@@ -68,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55009",
     "score": 8.0,
-    "views": 426,
+    "views": 671,
     "forwards": 1
   },
   {
@@ -87,24 +141,6 @@
     "link": "https://t.me/kpszsu/74488",
     "score": 6.0,
     "views": 5822,
-    "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "БпЛА з акваторії Чорного моря курсом на південь Одещини (Вилкове)",
-    "description_en": "БпЛА з акваторії Чорного моря курсом на південь Одещини (Вилкове)",
-    "description_uk": "БпЛА з акваторії Чорного моря курсом на південь Одещини (Вилкове)",
-    "time": "",
-    "pubDate": "2026-08-25T22:28:13+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74487",
-    "score": 5.0,
-    "views": 17256,
     "forwards": 0
   },
   {
@@ -194,8 +230,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199462",
     "score": 5.5,
-    "views": 89336,
-    "forwards": 589
+    "views": 99873,
+    "forwards": 610
   },
   {
     "title": "Air defense active",
@@ -236,7 +272,7 @@
   {
     "title": "Chess has been brought to Telegram - in the new update, a bot has...",
     "title_en": "Chess has been brought to Telegram - in the new update, a bot has...",
-    "title_uk": "Шахи перенесли в Telegram - в новому оновленні бот...",
+    "title_uk": "У Telegram перенесли шахи - в новому оновленні бот...",
     "description": "Chess has been brought to Telegram - in the new update, a bot has appeared that starts the game directly in the chat. Thanks to the text editor, you have a board and control of pieces at your fingertips without a separate application. Chess works on the new advanced formatting, so the application must be updated to the latest version. Let's play here.",
     "description_en": "Chess has been brought to Telegram - in the new update, a bot has appeared that starts the game directly in the chat. Thanks to the text editor, you have a board and control of pieces at your fingertips without a separate application. Chess works on the new advanced formatting, so the application must be updated to the latest version. Let's play here.",
     "description_uk": "В Telegram завезли шахматы - в новом обновлении появился бот, который запускает партию прямо в чате Благодаря редактору текста у вас под руками появляется доска и управление фигурами без отдельного приложения. Шахматы работают на новом расширенном форматировании, поэтому приложение нужно обновить до последней версии. Играем тут.",
@@ -248,8 +284,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199459",
     "score": 6.5,
-    "views": 103523,
-    "forwards": 549
+    "views": 112147,
+    "forwards": 571
   },
   {
     "title": "В Telegram завезли шахматы - в новом обновлении появился бот, который...",
@@ -412,41 +448,5 @@
     "score": 4.0,
     "views": 1885,
     "forwards": 5
-  },
-  {
-    "title": "Эпоха танков в ВСУ закончилась: танкисты массово переучиваются на...",
-    "title_en": "Эпоха танков в ВСУ закончилась: танкисты массово переучиваются на...",
-    "title_uk": "Эпоха танков в ВСУ закончилась: танкисты массово переучиваются на...",
-    "description": "Эпоха танков в ВСУ закончилась: танкисты массово переучиваются на операторов дронов, - The New York Times Из-за массового применения дронов использование танков на передовой в Украине стало слишком рискованным. Так, около половины военнослужащих 33-й отдельной механизированной бригады уже переучились на операторов БПЛА, а некоторые новобранцы вообще ни разу не управляли танком, передаёт издание....",
-    "description_en": "Эпоха танков в ВСУ закончилась: танкисты массово переучиваются на операторов дронов, - The New York Times Из-за массового применения дронов использование танков на передовой в Украине стало слишком рискованным. Так, около половины военнослужащих 33-й отдельной механизированной бригады уже переучились на операторов БПЛА, а некоторые новобранцы вообще ни разу не управляли танком, передаёт издание....",
-    "description_uk": "Эпоха танков в ВСУ закончилась: танкисты массово переучиваются на операторов дронов, - The New York Times Из-за массового применения дронов использование танков на передовой в Украине стало слишком рискованным. Так, около половины военнослужащих 33-й отдельной механизированной бригады уже переучились на операторов БПЛА, а некоторые новобранцы вообще ни разу не управляли танком, передаёт издание....",
-    "time": "",
-    "pubDate": "2026-08-25T13:52:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199434",
-    "score": 9.5,
-    "views": 116009,
-    "forwards": 251
-  },
-  {
-    "title": "Chernihiv: 🇱🇻 Minister of Foreign Affairs of Ukraine Andrii Sybiga expressed his...",
-    "title_en": "Chernihiv: 🇱🇻 Minister of Foreign Affairs of Ukraine Andrii Sybiga expressed his...",
-    "title_uk": "Чернігів: 🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив...",
-    "description": "🇱🇻 Minister of Foreign Affairs of Ukraine Andrii Sybiga expressed his gratitude to Latvia for the new package of energy support for the Chernihiv region in the amount of about 200 thousand euros. \"This support will make a significant contribution to strengthening Ukraine's energy stability and preparing for winter. I thank the Minister of Foreign Affairs of Latvia Baiba Braže and all our Latvian friends for their constant support to Ukraine\", -...",
-    "description_en": "🇱🇻 Minister of Foreign Affairs of Ukraine Andrii Sybiga expressed his gratitude to Latvia for the new package of energy support for the Chernihiv region in the amount of about 200 thousand euros. \"This support will make a significant contribution to strengthening Ukraine's energy stability and preparing for winter. I thank the Minister of Foreign Affairs of Latvia Baiba Braže and all our Latvian friends for their constant support to Ukraine\", -...",
-    "description_uk": "🇱🇻 Міністр закордонних справ України Андрій Сибіга висловив вдячність Латвії за новий пакет енергетичної підтримки для Чернігівської області на суму близько 200 тисяч євро. “Ця підтримка зробить вагомий внесок у зміцнення енергетичної стійкості України та підготовку до зими. Дякую міністерці закордонних справ Латвії Байбі Браже та всім нашим латвійським друзям за незмінну підтримку України”, -...",
-    "time": "",
-    "pubDate": "2026-08-25T11:54:54+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/10183",
-    "score": 4.5,
-    "views": 682,
-    "forwards": 2
   }
 ]
