@@ -1,5 +1,41 @@
 [
   {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Dnipro: Drone incoming",
+    "description": "БпЛА на сході Дніпропетровщини ➡️ курсом на Василівку, Павлоград.",
+    "description_en": "БпЛА на сході Дніпропетровщини ➡️ курсом на Василівку, Павлоград.",
+    "description_uk": "БпЛА на сході Дніпропетровщини ➡️ курсом на Василівку, Павлоград.",
+    "time": "",
+    "pubDate": "2026-08-26T15:37:19+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74589",
+    "score": 6.0,
+    "views": 19240,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Kharkiv: Drone incoming",
+    "description": "Харківщина БпЛА курсом на Дергачі/Малу Данилівку з північного напрямку.",
+    "description_en": "Харківщина БпЛА курсом на Дергачі/Малу Данилівку з північного напрямку.",
+    "description_uk": "Харківщина БпЛА курсом на Дергачі/Малу Данилівку з північного напрямку.",
+    "time": "",
+    "pubDate": "2026-08-26T15:20:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74588",
+    "score": 6.0,
+    "views": 31396,
+    "forwards": 0
+  },
+  {
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Mykolaiv: Drone incoming",
@@ -140,7 +176,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/199491",
     "score": 6.5,
-    "views": 117184,
+    "views": 136545,
     "forwards": 110
   },
   {
@@ -158,26 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20602",
     "score": 4.5,
-    "views": 222936,
-    "forwards": 422
-  },
-  {
-    "title": "Dnipro: Drone incoming",
-    "title_en": "Dnipro: Drone incoming",
-    "title_uk": "Dnipro: Drone incoming",
-    "description": "КАБи на південно-східну частину Дніпропетровщини. 🏍 Реактивний БпЛА на Дніпропетровщині, в напрямку Павлограда.",
-    "description_en": "КАБи на південно-східну частину Дніпропетровщини. 🏍 Реактивний БпЛА на Дніпропетровщині, в напрямку Павлограда.",
-    "description_uk": "КАБи на південно-східну частину Дніпропетровщини. 🏍 Реактивний БпЛА на Дніпропетровщині, в напрямку Павлограда.",
-    "time": "",
-    "pubDate": "2026-08-26T08:53:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74547",
-    "score": 6.0,
-    "views": 34333,
-    "forwards": 1
+    "views": 247846,
+    "forwards": 465
   },
   {
     "title": "Zaporizhzhia: БпЛА на Запоріжжя з півдня.",
@@ -266,7 +284,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55012",
     "score": 4.0,
-    "views": 2232,
+    "views": 2384,
     "forwards": 3
   },
   {
@@ -284,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55011",
     "score": 6.0,
-    "views": 2398,
+    "views": 2530,
     "forwards": 2
   },
   {
@@ -392,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10183",
     "score": 4.5,
-    "views": 921,
+    "views": 946,
     "forwards": 3
   },
   {
@@ -410,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10182",
     "score": 3.5,
-    "views": 904,
+    "views": 919,
     "forwards": 8
   }
 ]
