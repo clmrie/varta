@@ -1,5 +1,59 @@
 [
   {
+    "title": "Explosions reported",
+    "title_en": "Explosions reported",
+    "title_uk": "Explosions reported",
+    "description": "🇸🇩🇪 Американська розвідка пов’язала дрон із вибухівкою в Лейпцигу з російським ГРУ 🖥 Дрон із вибухівкою, який 4 серпня знайшли біля українського вантажного літака в аеропорту Лейпциг/Галле, мав ознаки пристроїв, що використовує російське ГРУ, повідомило ABC News із посиланням на джерело в американській розвідці. 🔎 За словами співрозмовника, вибухівка та конструкція дрона відповідали типовим...",
+    "description_en": "🇸🇩🇪 Американська розвідка пов’язала дрон із вибухівкою в Лейпцигу з російським ГРУ 🖥 Дрон із вибухівкою, який 4 серпня знайшли біля українського вантажного літака в аеропорту Лейпциг/Галле, мав ознаки пристроїв, що використовує російське ГРУ, повідомило ABC News із посиланням на джерело в американській розвідці. 🔎 За словами співрозмовника, вибухівка та конструкція дрона відповідали типовим...",
+    "description_uk": "🇸🇩🇪 Американська розвідка пов’язала дрон із вибухівкою в Лейпцигу з російським ГРУ 🖥 Дрон із вибухівкою, який 4 серпня знайшли біля українського вантажного літака в аеропорту Лейпциг/Галле, мав ознаки пристроїв, що використовує російське ГРУ, повідомило ABC News із посиланням на джерело в американській розвідці. 🔎 За словами співрозмовника, вибухівка та конструкція дрона відповідали типовим...",
+    "time": "",
+    "pubDate": "2026-08-26T16:40:50+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23780",
+    "score": 10.5,
+    "views": 7180,
+    "forwards": 26
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "БпЛА ➡️ в напрямку Харкова/Малої Данилівки з півночі.",
+    "description_en": "БпЛА ➡️ в напрямку Харкова/Малої Данилівки з півночі.",
+    "description_uk": "БпЛА ➡️ в напрямку Харкова/Малої Данилівки з півночі.",
+    "time": "",
+    "pubDate": "2026-08-26T16:38:59+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74593",
+    "score": 5.0,
+    "views": 7072,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Kharkiv: Drone incoming",
+    "description": "Харківщина: реактивний БпЛА ➡️ курсом на Нову Водолагу.",
+    "description_en": "Харківщина: реактивний БпЛА ➡️ курсом на Нову Водолагу.",
+    "description_uk": "Харківщина: реактивний БпЛА ➡️ курсом на Нову Водолагу.",
+    "time": "",
+    "pubDate": "2026-08-26T16:34:23+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/74592",
+    "score": 6.0,
+    "views": 13135,
+    "forwards": 0
+  },
+  {
     "title": "Dnipro: Drone incoming",
     "title_en": "Dnipro: Drone incoming",
     "title_uk": "Dnipro: Drone incoming",
@@ -15,24 +69,6 @@
     "link": "https://t.me/kpszsu/74589",
     "score": 6.0,
     "views": 19240,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Kharkiv: Drone incoming",
-    "description": "Харківщина БпЛА курсом на Дергачі/Малу Данилівку з північного напрямку.",
-    "description_en": "Харківщина БпЛА курсом на Дергачі/Малу Данилівку з північного напрямку.",
-    "description_uk": "Харківщина БпЛА курсом на Дергачі/Малу Данилівку з північного напрямку.",
-    "time": "",
-    "pubDate": "2026-08-26T15:20:27+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74588",
-    "score": 6.0,
-    "views": 31396,
     "forwards": 0
   },
   {
@@ -52,24 +88,6 @@
     "score": 6.0,
     "views": 10109,
     "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "🏍 Реактивний БпЛА на Одещині, курсом на Південне.",
-    "description_en": "🏍 Реактивний БпЛА на Одещині, курсом на Південне.",
-    "description_uk": "🏍 Реактивний БпЛА на Одещині, курсом на Південне.",
-    "time": "",
-    "pubDate": "2026-08-26T13:30:09+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/74577",
-    "score": 5.0,
-    "views": 35354,
-    "forwards": 1
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -194,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20602",
     "score": 4.5,
-    "views": 247846,
-    "forwards": 465
+    "views": 256382,
+    "forwards": 475
   },
   {
     "title": "Zaporizhzhia: БпЛА на Запоріжжя з півдня.",
@@ -284,7 +302,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55012",
     "score": 4.0,
-    "views": 2384,
+    "views": 2436,
     "forwards": 3
   },
   {
@@ -302,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55011",
     "score": 6.0,
-    "views": 2530,
+    "views": 2566,
     "forwards": 2
   },
   {
@@ -410,7 +428,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10183",
     "score": 4.5,
-    "views": 946,
+    "views": 953,
     "forwards": 3
   },
   {
@@ -428,7 +446,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10182",
     "score": 3.5,
-    "views": 919,
+    "views": 926,
     "forwards": 8
   }
 ]
