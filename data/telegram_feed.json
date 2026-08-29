@@ -1,5 +1,77 @@
 [
   {
+    "title": "Zaporizhzhia: БпЛА на Запоріжжя з півдня.",
+    "title_en": "Zaporizhzhia: БпЛА на Запоріжжя з півдня.",
+    "title_uk": "Zaporizhzhia: БпЛА на Запоріжжя з півдня.",
+    "description": "БпЛА на Запоріжжя з півдня.",
+    "description_en": "БпЛА на Запоріжжя з півдня.",
+    "description_uk": "БпЛА на Запоріжжя з півдня.",
+    "time": "",
+    "pubDate": "2026-08-29T17:05:27+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/75274",
+    "score": 6.0,
+    "views": 11106,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: БпЛА на Харків з півночі.",
+    "title_en": "Kharkiv: БпЛА на Харків з півночі.",
+    "title_uk": "Kharkiv: БпЛА на Харків з півночі.",
+    "description": "БпЛА на Харків з півночі.",
+    "description_en": "БпЛА на Харків з півночі.",
+    "description_uk": "БпЛА на Харків з півночі.",
+    "time": "",
+    "pubDate": "2026-08-29T17:01:03+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/75273",
+    "score": 6.0,
+    "views": 17176,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Kyiv: Casualties reported",
+    "description": "2-year-old killed as Russia's near-continuous attacks stretch into third day across Ukraine. A two-year-old girl was killed in a Russian attack on Kyiv's Obolonskyi district in the morning, while eight other people were injured, Kyiv Mayor Vitali Klitschko said.",
+    "description_en": "2-year-old killed as Russia's near-continuous attacks stretch into third day across Ukraine. A two-year-old girl was killed in a Russian attack on Kyiv's Obolonskyi district in the morning, while eight other people were injured, Kyiv Mayor Vitali Klitschko said.",
+    "description_uk": "2-year-old killed as Russia's near-continuous attacks stretch into third day across Ukraine. A two-year-old girl was killed in a Russian attack on Kyiv's Obolonskyi district in the morning, while eight other people were injured, Kyiv Mayor Vitali Klitschko said.",
+    "time": "",
+    "pubDate": "2026-08-29T16:35:12+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55089",
+    "score": 11.0,
+    "views": 456,
+    "forwards": 2
+  },
+  {
+    "title": "199 drones launched",
+    "title_en": "199 drones launched",
+    "title_uk": "199 drones launched",
+    "description": "рф за день атаковала Украину 224 ударными БПЛА, большинство из них - реактивные, - ВС ВСУ Основную массу дронов направили на Киев. ПВО сбила или подавила 199 БПЛА. По состоянию на 18:20 в воздухе оставались до 10 вражеских дронов.",
+    "description_en": "рф за день атаковала Украину 224 ударными БПЛА, большинство из них - реактивные, - ВС ВСУ Основную массу дронов направили на Киев. ПВО сбила или подавила 199 БПЛА. По состоянию на 18:20 в воздухе оставались до 10 вражеских дронов.",
+    "description_uk": "рф за день атаковала Украину 224 ударными БПЛА, большинство из них - реактивные, - ВС ВСУ Основную массу дронов направили на Киев. ПВО сбила или подавила 199 БПЛА. По состоянию на 18:20 в воздухе оставались до 10 вражеских дронов.",
+    "time": "",
+    "pubDate": "2026-08-29T15:31:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199807",
+    "score": 8.5,
+    "views": 78237,
+    "forwards": 75
+  },
+  {
     "title": "Kherson: Drone incoming",
     "title_en": "Kherson: Drone incoming",
     "title_uk": "Херсон: Дрон вхід",
@@ -20,7 +92,7 @@
   {
     "title": "Kyiv: Drone strike",
     "title_en": "Kyiv: Drone strike",
-    "title_uk": "Київ: Дрон-удар",
+    "title_uk": "Kyiv: Drone strike",
     "description": "Ukraine strikes Russian drone sites, command posts in occupied territories, General Staff says. The General Staff added that the destruction of a Russian Buk-M3 surface-to-air missile system near the town of Klintsy in Russia's Bryansk Oblast on Aug. 28 had also been confirmed.",
     "description_en": "Ukraine strikes Russian drone sites, command posts in occupied territories, General Staff says. The General Staff added that the destruction of a Russian Buk-M3 surface-to-air missile system near the town of Klintsy in Russia's Bryansk Oblast on Aug. 28 had also been confirmed.",
     "description_uk": "Ukraine strikes Russian drone sites, command posts in occupied territories, General Staff says. The General Staff added that the destruction of a Russian Buk-M3 surface-to-air missile system near the town of Klintsy in Russia's Bryansk Oblast on Aug. 28 had also been confirmed.",
@@ -32,8 +104,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55088",
     "score": 13.0,
-    "views": 303,
-    "forwards": 2
+    "views": 1474,
+    "forwards": 3
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -56,7 +128,7 @@
   {
     "title": "Bucha: Explosions reported",
     "title_en": "Bucha: Explosions reported",
-    "title_uk": "Буча: повідомляється про вибухи",
+    "title_uk": "Bucha: Explosions reported",
     "description": "Since yesterday evening and throughout the day today, I have been receiving reports on the situation in the Kyiv region – in the village of Myla, Bucha district – where detonation began following a Russian strike. A terrible situation and terrible negligence on the part of those who stored explosives right next to people. Another such crime – after what happened in Vyshneve – is absolutely...",
     "description_en": "Since yesterday evening and throughout the day today, I have been receiving reports on the situation in the Kyiv region – in the village of Myla, Bucha district – where detonation began following a Russian strike. A terrible situation and terrible negligence on the part of those who stored explosives right next to people. Another such crime – after what happened in Vyshneve – is absolutely...",
     "description_uk": "Since yesterday evening and throughout the day today, I have been receiving reports on the situation in the Kyiv region – in the village of Myla, Bucha district – where detonation began following a Russian strike. A terrible situation and terrible negligence on the part of those who stored explosives right next to people. Another such crime – after what happened in Vyshneve – is absolutely...",
@@ -68,15 +140,15 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20637",
     "score": 5.0,
-    "views": 13729,
-    "forwards": 4
+    "views": 32809,
+    "forwards": 45
   },
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Київ: Повідомляється про вибухи",
-    "description": "From yesterday evening until today, the entire day of the report on the situation in the Kyiv region - the village of Mila, Buchan district, where the detonation began after the Russian strike. A terrible situation, the terrible negligence of those who kept explosives right next to people. After the situation in Vishnevo, another such crime is absolutely unacceptable. I expect that the details will be presented to the public promptly. First...",
-    "description_en": "From yesterday evening until today, the entire day of the report on the situation in the Kyiv region - the village of Mila, Buchan district, where the detonation began after the Russian strike. A terrible situation, the terrible negligence of those who kept explosives right next to people. After the situation in Vishnevo, another such crime is absolutely unacceptable. I expect that the details will be presented to the public promptly. First...",
+    "title_uk": "Kyiv: Explosions reported",
+    "description": "Від вечора вчора й сьогодні увесь день доповіді по ситуації на Київщині – село Мила Бучанського району, де після російського удару почалась детонація. Жахлива ситуація, жахлива недбалість тих, хто зберігав вибухові речовини просто поруч із людьми. Після ситуації у Вишневому ще один такий злочин – це абсолютно неприпустимо. Я розраховую, що деталі будуть представлені суспільству оперативно. Перше...",
+    "description_en": "Від вечора вчора й сьогодні увесь день доповіді по ситуації на Київщині – село Мила Бучанського району, де після російського удару почалась детонація. Жахлива ситуація, жахлива недбалість тих, хто зберігав вибухові речовини просто поруч із людьми. Після ситуації у Вишневому ще один такий злочин – це абсолютно неприпустимо. Я розраховую, що деталі будуть представлені суспільству оперативно. Перше...",
     "description_uk": "Від вечора вчора й сьогодні увесь день доповіді по ситуації на Київщині – село Мила Бучанського району, де після російського удару почалась детонація. Жахлива ситуація, жахлива недбалість тих, хто зберігав вибухові речовини просто поруч із людьми. Після ситуації у Вишневому ще один такий злочин – це абсолютно неприпустимо. Я розраховую, що деталі будуть представлені суспільству оперативно. Перше...",
     "time": "",
     "pubDate": "2026-08-29T12:00:47+00:00",
@@ -86,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20636",
     "score": 6.5,
-    "views": 143421,
-    "forwards": 560
+    "views": 272031,
+    "forwards": 794
   },
   {
     "title": "Drone strike",
@@ -108,24 +180,6 @@
     "forwards": 108
   },
   {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Київ: повідомляється про постраждалих",
-    "description": "56 Ukrainians still missing in Nepal after massive floods. As of Aug. 29, there had been no reports of Ukrainian citizens being injured or killed, according to the ministry.",
-    "description_en": "56 Ukrainians still missing in Nepal after massive floods. As of Aug. 29, there had been no reports of Ukrainian citizens being injured or killed, according to the ministry.",
-    "description_uk": "56 Ukrainians still missing in Nepal after massive floods. As of Aug. 29, there had been no reports of Ukrainian citizens being injured or killed, according to the ministry.",
-    "time": "",
-    "pubDate": "2026-08-29T11:28:49+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55087",
-    "score": 9.0,
-    "views": 993,
-    "forwards": 3
-  },
-  {
     "title": "A 2-year-old girl who was injured in Obolony as a result of the crash...",
     "title_en": "A 2-year-old girl who was injured in Obolony as a result of the crash...",
     "title_uk": "На Оболоні внаслідок ДТП постраждала 2-річна дівчинка...",
@@ -142,6 +196,24 @@
     "score": 5.5,
     "views": 100651,
     "forwards": 104
+  },
+  {
+    "title": "Casualties reported",
+    "title_en": "Casualties reported",
+    "title_uk": "Casualties reported",
+    "description": "🕯️29 серпня – День пам’яті захисників України 👥 За кожним прізвищем у списку не просто людина, яка загинула на війні. За ним чийсь син, батько, чоловік, дружина, донька, друг. Людина, яка мала свої плани на завтра. Але свого завтра в неї вже немає. 🔫 Окремий біль – ті, чиїх імен ми досі не знаємо. Невідомі солдати, які залишилися без прізвищ у повідомленнях і без можливості бути названими...",
+    "description_en": "🕯️29 серпня – День пам’яті захисників України 👥 За кожним прізвищем у списку не просто людина, яка загинула на війні. За ним чийсь син, батько, чоловік, дружина, донька, друг. Людина, яка мала свої плани на завтра. Але свого завтра в неї вже немає. 🔫 Окремий біль – ті, чиїх імен ми досі не знаємо. Невідомі солдати, які залишилися без прізвищ у повідомленнях і без можливості бути названими...",
+    "description_uk": "🕯️29 серпня – День пам’яті захисників України 👥 За кожним прізвищем у списку не просто людина, яка загинула на війні. За ним чийсь син, батько, чоловік, дружина, донька, друг. Людина, яка мала свої плани на завтра. Але свого завтра в неї вже немає. 🔫 Окремий біль – ті, чиїх імен ми досі не знаємо. Невідомі солдати, які залишилися без прізвищ у повідомленнях і без можливості бути названими...",
+    "time": "",
+    "pubDate": "2026-08-29T09:50:24+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "DeepState",
+    "link": "https://t.me/DeepStateUA/23785",
+    "score": 5.5,
+    "views": 81413,
+    "forwards": 111
   },
   {
     "title": "🕯️August 29 – Memorial Day of defenders of Ukraine 👥 Behind each...",
@@ -200,9 +272,9 @@
   {
     "title": "💬 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"August 29 is...",
     "title_en": "💬 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"August 29 is...",
-    "title_uk": "💬 Міністр закордонних справ України Андрій Сибіга: «29 серпня...",
-    "description": "💬 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"August 29 is the Day of Remembrance of defenders of Ukraine who died in the struggle for independence, sovereignty and territorial integrity of the state. This is the day when we bow our heads in memory of our fallen heroes. Those who died so that we could live. This date also reminds us of the turning point of the first year of the war, the battle for Ilovaisk. Twelve years ago...",
-    "description_en": "💬 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"August 29 is the Day of Remembrance of defenders of Ukraine who died in the struggle for independence, sovereignty and territorial integrity of the state. This is the day when we bow our heads in memory of our fallen heroes. Those who died so that we could live. This date also reminds us of the turning point of the first year of the war, the battle for Ilovaisk. Twelve years ago...",
+    "title_uk": "💬 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"August 29 is...",
+    "description": "💬 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"August 29 is the Day of Remembrance of defenders of Ukraine who died in the struggle for independence, sovereignty and territorial integrity of the state. It is a day when we bow our heads in memory of our fallen heroes. Those who died so that we could live. This date also reminds us of the turning point of the first year of the war, the battle for Ilovaisk. Twelve years ago...",
+    "description_en": "💬 Minister of Foreign Affairs of Ukraine Andrii Sybiga: \"August 29 is the Day of Remembrance of defenders of Ukraine who died in the struggle for independence, sovereignty and territorial integrity of the state. It is a day when we bow our heads in memory of our fallen heroes. Those who died so that we could live. This date also reminds us of the turning point of the first year of the war, the battle for Ilovaisk. Twelve years ago...",
     "description_uk": "💬 Міністр закордонних справ України Андрій Сибіга: \"29 серпня – День пам'яті захисників України, які загинули в боротьбі за незалежність, суверенітет і територіальну цілісність держави. Це день, коли ми схиляємо голови у памʼять про наших загиблих героїв. Тих, хто загинув, щоб ми жили. Ця дата також нагадує про переломний момент першого року війни, битву за Іловайськ. Дванадцять років тому...",
     "time": "",
     "pubDate": "2026-08-29T06:41:08+00:00",
@@ -212,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10219",
     "score": 5.0,
-    "views": 650,
+    "views": 705,
     "forwards": 5
   },
   {
@@ -270,11 +342,11 @@
     "forwards": 5
   },
   {
-    "title": "Minister of Foreign Affairs of Ukraine Andriy Sybiga thanked his...",
-    "title_en": "Minister of Foreign Affairs of Ukraine Andriy Sybiga thanked his...",
-    "title_uk": "Міністр закордонних справ України Андрій Сибіга подякував своїм...",
-    "description": "Minister of Foreign Affairs of Ukraine Andriy Sybiga thanked his colleagues - 🇸🇪 Maria Malmer Stenergard, 🇵🇱 Radoslav Sikorskyi, 🇳🇱 Tom Berendsen and 🇪🇸 Jose Manuel Albares - for their letter regarding immobilized Russian assets. 💬 \"Russia refuses to end the war and instead escalates terror. Ukraine needs to fill funding gaps caused by rising defense spending and...",
-    "description_en": "Minister of Foreign Affairs of Ukraine Andriy Sybiga thanked his colleagues - 🇸🇪 Maria Malmer Stenergard, 🇵🇱 Radoslav Sikorskyi, 🇳🇱 Tom Berendsen and 🇪🇸 Jose Manuel Albares - for their letter regarding immobilized Russian assets. 💬 \"Russia refuses to end the war and instead escalates terror. Ukraine needs to fill funding gaps caused by rising defense spending and...",
+    "title": "Міністр закордонних справ України Андрій Сибіга подякував колегам –...",
+    "title_en": "Міністр закордонних справ України Андрій Сибіга подякував колегам –...",
+    "title_uk": "Міністр закордонних справ України Андрій Сибіга подякував колегам –...",
+    "description": "Міністр закордонних справ України Андрій Сибіга подякував колегам – 🇸🇪 Марії Мальмер Стенергард, 🇵🇱 Радославу Сікорському, 🇳🇱 Тому Берендсену та 🇪🇸 Хосе Мануелю Альбаресу – за їхній лист щодо знерухомлених російських активів. 💬 “Росія відмовляється припиняти війну і натомість ескалує терор. Україні необхідно заповнювати прогалини у фінансуванні, спричинені зростанням видатків на оборону та...",
+    "description_en": "Міністр закордонних справ України Андрій Сибіга подякував колегам – 🇸🇪 Марії Мальмер Стенергард, 🇵🇱 Радославу Сікорському, 🇳🇱 Тому Берендсену та 🇪🇸 Хосе Мануелю Альбаресу – за їхній лист щодо знерухомлених російських активів. 💬 “Росія відмовляється припиняти війну і натомість ескалує терор. Україні необхідно заповнювати прогалини у фінансуванні, спричинені зростанням видатків на оборону та...",
     "description_uk": "Міністр закордонних справ України Андрій Сибіга подякував колегам – 🇸🇪 Марії Мальмер Стенергард, 🇵🇱 Радославу Сікорському, 🇳🇱 Тому Берендсену та 🇪🇸 Хосе Мануелю Альбаресу – за їхній лист щодо знерухомлених російських активів. 💬 “Росія відмовляється припиняти війну і натомість ескалує терор. Україні необхідно заповнювати прогалини у фінансуванні, спричинені зростанням видатків на оборону та...",
     "time": "",
     "pubDate": "2026-08-28T07:47:37+00:00",
@@ -284,7 +356,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10203",
     "score": 3.5,
-    "views": 942,
+    "views": 959,
     "forwards": 5
   }
 ]
