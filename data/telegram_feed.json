@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: Kyiv 🏍 Jet UAV over the city! Stay in shelters!",
+    "title_en": "Kyiv: Kyiv 🏍 Jet UAV over the city! Stay in shelters!",
+    "title_uk": "Київ: Київ 🏍 Реактивний БПЛА над містом! Залишайтеся в притулках!",
+    "description": "Kyiv 🏍 Jet UAV over the city! Stay in shelters!",
+    "description_en": "Kyiv 🏍 Jet UAV over the city! Stay in shelters!",
+    "description_uk": "Київ 🏍 Реактивний БпЛА над містом! Перебувайте в укриттях!",
+    "time": "",
+    "pubDate": "2026-08-30T21:19:04+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/75510",
+    "score": 11.0,
+    "views": 16194,
+    "forwards": 2
+  },
+  {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Київ: Дрон вхід",
+    "description": "🏍 A jet UAV over the Kyiv Reservoir is moving in the direction of Kyiv.",
+    "description_en": "🏍 A jet UAV over the Kyiv Reservoir is moving in the direction of Kyiv.",
+    "description_uk": "🏍 Реактивний БпЛА над Київським водосховищем рухається в напрямку Києва.",
+    "time": "",
+    "pubDate": "2026-08-30T21:12:34+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/75509",
+    "score": 6.0,
+    "views": 30358,
+    "forwards": 2
+  },
+  {
+    "title": "In Pogreby of the Kyiv region, the arrival was recorded, a strong...",
+    "title_en": "In Pogreby of the Kyiv region, the arrival was recorded, a strong...",
+    "title_uk": "Погреби Київської області зафіксовано наліт, сильний...",
+    "description": "In Pogreby of the Kyiv region, the arrival was recorded, a strong fire started, - write local public",
+    "description_en": "In Pogreby of the Kyiv region, the arrival was recorded, a strong fire started, - write local public",
+    "description_uk": "В Погребах Киевской области зафиксирован прилет, начался сильный пожар, - пишут местные паблики",
+    "time": "",
+    "pubDate": "2026-08-30T18:57:02+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/199903",
+    "score": 5.5,
+    "views": 107415,
+    "forwards": 282
+  },
+  {
     "title": "Kyiv: Ukrainian drones destroy Russian air defense, radar systems at Yeysk,...",
     "title_en": "Kyiv: Ukrainian drones destroy Russian air defense, radar systems at Yeysk,...",
     "title_uk": "Київ: Українські безпілотники знищили російську ППО, РЛС Єйська,...",
@@ -14,13 +68,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55104",
     "score": 5.0,
-    "views": 258,
-    "forwards": 1
+    "views": 1574,
+    "forwards": 3
   },
   {
     "title": "Kyiv: Energy infrastructure hit",
     "title_en": "Kyiv: Energy infrastructure hit",
-    "title_uk": "Kyiv: Energy infrastructure hit",
+    "title_uk": "Київ: удар по енергетичній інфраструктурі",
     "description": "Missile strike hits Belgorod, reportedly damaging Ozon facility and power plant. Russia's Belgorod came under a missile attack on Aug. 30, with a logistics facility housing an Ozon sorting center and delivery hub damaged in the strike, according to Russian officials and the company.",
     "description_en": "Missile strike hits Belgorod, reportedly damaging Ozon facility and power plant. Russia's Belgorod came under a missile attack on Aug. 30, with a logistics facility housing an Ozon sorting center and delivery hub damaged in the strike, according to Russian officials and the company.",
     "description_uk": "Missile strike hits Belgorod, reportedly damaging Ozon facility and power plant. Russia's Belgorod came under a missile attack on Aug. 30, with a logistics facility housing an Ozon sorting center and delivery hub damaged in the strike, according to Russian officials and the company.",
@@ -32,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55103",
     "score": 11.5,
-    "views": 281,
-    "forwards": 1
+    "views": 1530,
+    "forwards": 2
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -51,24 +105,6 @@
     "link": "https://t.me/kpszsu/75490",
     "score": 6.0,
     "views": 58590,
-    "forwards": 1
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Kyiv: Drone incoming",
-    "description": "🏍 Київ - реактивний БпЛА в напрямку міста з півдня.",
-    "description_en": "🏍 Київ - реактивний БпЛА в напрямку міста з півдня.",
-    "description_uk": "🏍 Київ - реактивний БпЛА в напрямку міста з півдня.",
-    "time": "",
-    "pubDate": "2026-08-30T17:56:33+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/75488",
-    "score": 6.0,
-    "views": 60606,
     "forwards": 1
   },
   {
@@ -104,8 +140,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20642",
     "score": 13.5,
-    "views": 192635,
-    "forwards": 248
+    "views": 251373,
+    "forwards": 280
   },
   {
     "title": "Drone incoming",
@@ -142,6 +178,24 @@
     "score": 13.5,
     "views": 939,
     "forwards": 1
+  },
+  {
+    "title": "At least 9,796 people have been victims of enforced disappearances as...",
+    "title_en": "At least 9,796 people have been victims of enforced disappearances as...",
+    "title_uk": "Щонайменше 9796 людей стали жертвами насильницьких зникнень, як...",
+    "description": "At least 9,796 people have been victims of enforced disappearances as a result of Russia's war against Ukraine since 2014, according to human rights activists. However, the real number of victims may be much higher, because Russia hides information about the missing, and not all cases are recorded and documented. Behind these numbers are specific people. These are thousands of people whose fate and whereabouts...",
+    "description_en": "At least 9,796 people have been victims of enforced disappearances as a result of Russia's war against Ukraine since 2014, according to human rights activists. However, the real number of victims may be much higher, because Russia hides information about the missing, and not all cases are recorded and documented. Behind these numbers are specific people. These are thousands of people whose fate and whereabouts...",
+    "description_uk": "Щонайменше 9796 людей стали жертвами насильницьких зникнень внаслідок війни Росії проти України з 2014 року – за підрахунками правозахисників. Проте реальна кількість постраждалих може бути значно більшою, адже Росія приховує інформацію про зниклих, і далеко не всі випадки вдається зафіксувати та задокументувати. За цими цифрами – конкретні люди. Це тисячі людей, доля та місцеперебування яких...",
+    "time": "",
+    "pubDate": "2026-08-30T12:17:20+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/10237",
+    "score": 5.0,
+    "views": 659,
+    "forwards": 6
   },
   {
     "title": "Щонайменше 9796 людей стали жертвами насильницьких зникнень внаслідок...",
@@ -236,7 +290,7 @@
   {
     "title": "Drone strike",
     "title_en": "Drone strike",
-    "title_uk": "Drone strike",
+    "title_uk": "Безпілотний удар",
     "description": "Our long-range responses work at different distances and in different planes, but always fairly and in such a way as to deprive Russia of the resources to wage its brutal war. During this night, the Defense Forces of Ukraine struck the storage, training and launch sites of attack drones in the Oryol and Rostov regions. There was a hit on the military airfield in Yeisk and in the Black Sea. Also our soldiers...",
     "description_en": "Our long-range responses work at different distances and in different planes, but always fairly and in such a way as to deprive Russia of the resources to wage its brutal war. During this night, the Defense Forces of Ukraine struck the storage, training and launch sites of attack drones in the Oryol and Rostov regions. There was a hit on the military airfield in Yeisk and in the Black Sea. Also our soldiers...",
     "description_uk": "Наші далекобійні відповіді працюють на різних відстанях і в різних площинах, але завжди справедливо і так, щоби позбавляти Росію ресурсів вести її жорстоку війну. Протягом цієї ночі Сили оборони України уразили місця зберігання, підготовки та пуску ударних безпілотників в Орловському і Ростовському регіонах. Було влучання по військовому аеродрому в Єйську та в Чорному морі. Також наші воїни...",
@@ -248,26 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20641",
     "score": 5.5,
-    "views": 162083,
-    "forwards": 315
-  },
-  {
-    "title": "Attack attack on residential area",
-    "title_en": "Attack attack on residential area",
-    "title_uk": "Напад на житловий квартал",
-    "description": "The number of reactive \"Shakhedov\" that the Russian Federation launches in Ukraine has increased sharply from 1,500 to more than 2,500 in a month - the adviser to the president \"Flash\" Now they are sent to attack our cities almost directly from the assembly line.",
-    "description_en": "The number of reactive \"Shakhedov\" that the Russian Federation launches in Ukraine has increased sharply from 1,500 to more than 2,500 in a month - the adviser to the president \"Flash\" Now they are sent to attack our cities almost directly from the assembly line.",
-    "description_uk": "Количество реактивных «Шахедов», которые рф запускает по Украине, за месяц резко выросло с 1500 до более чем 2500, — советник президента «Флэш» Теперь их отправляют атаковать наши города практически прямо с конвеера.",
-    "time": "",
-    "pubDate": "2026-08-30T08:51:45+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/199860",
-    "score": 8.5,
-    "views": 85958,
-    "forwards": 145
+    "views": 173754,
+    "forwards": 322
   },
   {
     "title": "Kramatorsk: Explosions reported",
@@ -288,24 +324,6 @@
     "forwards": 276
   },
   {
-    "title": "Kyiv: 'Orcas hunt these bears' — Putin says children should learn the 'food...",
-    "title_en": "Kyiv: 'Orcas hunt these bears' — Putin says children should learn the 'food...",
-    "title_uk": "Kyiv: 'Orcas hunt these bears' — Putin says children should learn the 'food...",
-    "description": "'Orcas hunt these bears' — Putin says children should learn the 'food chain' to understand Russia's war. \"Yes, that's the food chain. Children should be taught about this, so that they understand what kind of world we live in and why we are conducting the special military operation,\" Vladimir Putin said.",
-    "description_en": "'Orcas hunt these bears' — Putin says children should learn the 'food chain' to understand Russia's war. \"Yes, that's the food chain. Children should be taught about this, so that they understand what kind of world we live in and why we are conducting the special military operation,\" Vladimir Putin said.",
-    "description_uk": "'Orcas hunt these bears' — Putin says children should learn the 'food chain' to understand Russia's war. \"Yes, that's the food chain. Children should be taught about this, so that they understand what kind of world we live in and why we are conducting the special military operation,\" Vladimir Putin said.",
-    "time": "",
-    "pubDate": "2026-08-29T20:08:39+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55092",
-    "score": 6.0,
-    "views": 1428,
-    "forwards": 6
-  },
-  {
     "title": "🕯️August 29 – Memorial Day of defenders of Ukraine 👥 Behind each...",
     "title_en": "🕯️August 29 – Memorial Day of defenders of Ukraine 👥 Behind each...",
     "title_uk": "🕯️29 серпня – День пам'яті захисників і захисниць України 👥 За кожним...",
@@ -320,7 +338,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23785",
     "score": 5.5,
-    "views": 158295,
-    "forwards": 119
+    "views": 161417,
+    "forwards": 120
   }
 ]
