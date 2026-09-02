@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Kyiv: Drone incoming",
+    "description": "🏍 Київщина - реактивний БпЛА курсом на Гостомель/Бучу з півночі.",
+    "description_en": "🏍 Київщина - реактивний БпЛА курсом на Гостомель/Бучу з півночі.",
+    "description_uk": "🏍 Київщина - реактивний БпЛА курсом на Гостомель/Бучу з півночі.",
+    "time": "",
+    "pubDate": "2026-09-02T00:31:40+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/75850",
+    "score": 6.0,
+    "views": 22334,
+    "forwards": 24
+  },
+  {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Chernihiv: Drone incoming",
+    "description": "🏍 Реактивний БпЛА на Чернігівщині, повз Славутич курсом на південь.",
+    "description_en": "🏍 Реактивний БпЛА на Чернігівщині, повз Славутич курсом на південь.",
+    "description_uk": "🏍 Реактивний БпЛА на Чернігівщині, повз Славутич курсом на південь.",
+    "time": "",
+    "pubDate": "2026-09-02T00:14:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/75849",
+    "score": 6.0,
+    "views": 29243,
+    "forwards": 0
+  },
+  {
     "title": "🏍 Jet BpLA to Poltava from the south.",
     "title_en": "🏍 Jet BpLA to Poltava from the south.",
     "title_uk": "🏍 Jet BpLA до Полтави з півдня.",
@@ -38,7 +74,7 @@
   {
     "title": "Kyiv: Airstrike attack on residential area",
     "title_en": "Kyiv: Airstrike attack on residential area",
-    "title_uk": "Київ: авіаудар по житловому кварталу",
+    "title_uk": "Kyiv: Airstrike attack on residential area",
     "description": "Update: Zelensky vows 'Russian sky will be de facto closed,' warns airlines, foreign governments as Putin accuses Ukraine of state terrorism. Russian President Vladimir Putin responded by accusing Kyiv of \"state terrorism\" despite Russia's six days of attacks on Kyiv.",
     "description_en": "Update: Zelensky vows 'Russian sky will be de facto closed,' warns airlines, foreign governments as Putin accuses Ukraine of state terrorism. Russian President Vladimir Putin responded by accusing Kyiv of \"state terrorism\" despite Russia's six days of attacks on Kyiv.",
     "description_uk": "Update: Zelensky vows 'Russian sky will be de facto closed,' warns airlines, foreign governments as Putin accuses Ukraine of state terrorism. Russian President Vladimir Putin responded by accusing Kyiv of \"state terrorism\" despite Russia's six days of attacks on Kyiv.",
@@ -50,8 +86,26 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55153",
     "score": 6.0,
-    "views": 982,
-    "forwards": 3
+    "views": 1289,
+    "forwards": 6
+  },
+  {
+    "title": "Заявления маразматичного деда, внезапно вышедшего к журналистам:...",
+    "title_en": "Заявления маразматичного деда, внезапно вышедшего к журналистам:...",
+    "title_uk": "Заявления маразматичного деда, внезапно вышедшего к журналистам:...",
+    "description": "Заявления маразматичного деда, внезапно вышедшего к журналистам: ▪️\"Переговоры по Украине сейчас заморожены. Мы за то, чтобы любые переговоры были наполнены конкретным содержанием. Нужно ли расширение участников? Мы за то, чтобы переговоры были наполнены содержанием. Если кто-то может внести вклад, мы только за. Единственное, чего бы не хотелось - чтобы это крутилось в бессмысленном режиме. Но...",
+    "description_en": "Заявления маразматичного деда, внезапно вышедшего к журналистам: ▪️\"Переговоры по Украине сейчас заморожены. Мы за то, чтобы любые переговоры были наполнены конкретным содержанием. Нужно ли расширение участников? Мы за то, чтобы переговоры были наполнены содержанием. Если кто-то может внести вклад, мы только за. Единственное, чего бы не хотелось - чтобы это крутилось в бессмысленном режиме. Но...",
+    "description_uk": "Заявления маразматичного деда, внезапно вышедшего к журналистам: ▪️\"Переговоры по Украине сейчас заморожены. Мы за то, чтобы любые переговоры были наполнены конкретным содержанием. Нужно ли расширение участников? Мы за то, чтобы переговоры были наполнены содержанием. Если кто-то может внести вклад, мы только за. Единственное, чего бы не хотелось - чтобы это крутилось в бессмысленном режиме. Но...",
+    "time": "",
+    "pubDate": "2026-09-01T20:11:29+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/200088",
+    "score": 6.5,
+    "views": 87312,
+    "forwards": 316
   },
   {
     "title": "The statements of the grumpy grandfather, who suddenly came out to...",
@@ -72,27 +126,9 @@
     "forwards": 305
   },
   {
-    "title": "Заявления маразматичного деда, внезапно вышедшего к журналистам:...",
-    "title_en": "Заявления маразматичного деда, внезапно вышедшего к журналистам:...",
-    "title_uk": "Заявления маразматичного деда, внезапно вышедшего к журналистам:...",
-    "description": "Заявления маразматичного деда, внезапно вышедшего к журналистам: ▪️\"Переговоры по Украине сейчас заморожены. Мы за то, чтобы любые переговоры были наполнены конкретным содержанием. Нужно ли расширение участников? Мы за то, чтобы переговоры были наполнены содержанием. Если кто-то может внести вклад, мы только за. Единственное, чего бы не хотелось - чтобы это крутилось в бессмысленном режиме. Но...",
-    "description_en": "Заявления маразматичного деда, внезапно вышедшего к журналистам: ▪️\"Переговоры по Украине сейчас заморожены. Мы за то, чтобы любые переговоры были наполнены конкретным содержанием. Нужно ли расширение участников? Мы за то, чтобы переговоры были наполнены содержанием. Если кто-то может внести вклад, мы только за. Единственное, чего бы не хотелось - чтобы это крутилось в бессмысленном режиме. Но...",
-    "description_uk": "Заявления маразматичного деда, внезапно вышедшего к журналистам: ▪️\"Переговоры по Украине сейчас заморожены. Мы за то, чтобы любые переговоры были наполнены конкретным содержанием. Нужно ли расширение участников? Мы за то, чтобы переговоры были наполнены содержанием. Если кто-то может внести вклад, мы только за. Единственное, чего бы не хотелось - чтобы это крутилось в бессмысленном режиме. Но...",
-    "time": "",
-    "pubDate": "2026-09-01T20:11:29+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/200088",
-    "score": 6.5,
-    "views": 51900,
-    "forwards": 257
-  },
-  {
     "title": "Kyiv: Ukraine's former Defense Minister Fedorov to open defense tech firm...",
     "title_en": "Kyiv: Ukraine's former Defense Minister Fedorov to open defense tech firm...",
-    "title_uk": "Київ: Колишній міністр оборони України Федоров відкриває оборонно-технічну фірму...",
+    "title_uk": "Kyiv: Ukraine's former Defense Minister Fedorov to open defense tech firm...",
     "description": "Ukraine's former Defense Minister Fedorov to open defense tech firm with backing from Palantir CEO. Former Defense Minister Mykhailo Fedorov announced on Sept. 1 plans to launch a new defense technology firm, with Palantir CEO Alex Karp as its top investor.",
     "description_en": "Ukraine's former Defense Minister Fedorov to open defense tech firm with backing from Palantir CEO. Former Defense Minister Mykhailo Fedorov announced on Sept. 1 plans to launch a new defense technology firm, with Palantir CEO Alex Karp as its top investor.",
     "description_uk": "Ukraine's former Defense Minister Fedorov to open defense tech firm with backing from Palantir CEO. Former Defense Minister Mykhailo Fedorov announced on Sept. 1 plans to launch a new defense technology firm, with Palantir CEO Alex Karp as its top investor.",
@@ -104,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55152",
     "score": 6.0,
-    "views": 1346,
-    "forwards": 7
+    "views": 1603,
+    "forwards": 9
   },
   {
     "title": "Российские беспилотные летательные аппараты (БПЛА) начали...",
@@ -122,13 +158,13 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/200086",
     "score": 5.5,
-    "views": 80176,
-    "forwards": 153
+    "views": 91198,
+    "forwards": 163
   },
   {
     "title": "Today, we want to warn every airline that uses Russian airspace,...",
     "title_en": "Today, we want to warn every airline that uses Russian airspace,...",
-    "title_uk": "Сьогодні ми хочемо попередити кожну авіакомпанію, яка використовує повітряний простір Росії,...",
+    "title_uk": "Today, we want to warn every airline that uses Russian airspace,...",
     "description": "Today, we want to warn every airline that uses Russian airspace, every insurer, and everyone who still uses Russia’s key airports: Russian airspace is becoming completely unsafe. Ukraine does not threaten civilian aviation as such – not a single civilian aircraft. There will simply be drones in Russia’s skies on a scale that has to be taken into account. Although the Russian authorities are not...",
     "description_en": "Today, we want to warn every airline that uses Russian airspace, every insurer, and everyone who still uses Russia’s key airports: Russian airspace is becoming completely unsafe. Ukraine does not threaten civilian aviation as such – not a single civilian aircraft. There will simply be drones in Russia’s skies on a scale that has to be taken into account. Although the Russian authorities are not...",
     "description_uk": "Today, we want to warn every airline that uses Russian airspace, every insurer, and everyone who still uses Russia’s key airports: Russian airspace is becoming completely unsafe. Ukraine does not threaten civilian aviation as such – not a single civilian aircraft. There will simply be drones in Russia’s skies on a scale that has to be taken into account. Although the Russian authorities are not...",
@@ -140,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20662",
     "score": 6.5,
-    "views": 34510,
-    "forwards": 292
+    "views": 36425,
+    "forwards": 305
   },
   {
     "title": "Mykolaiv: 🏍 Реактивний БпЛА на Миколаїв.",
@@ -162,22 +198,22 @@
     "forwards": 34
   },
   {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Chernihiv: Drone incoming",
-    "description": "🏍 Реактивні БпЛА на Чернігівщині, повз Славутич курсом на південь.",
-    "description_en": "🏍 Реактивні БпЛА на Чернігівщині, повз Славутич курсом на південь.",
-    "description_uk": "🏍 Реактивні БпЛА на Чернігівщині, повз Славутич курсом на південь.",
+    "title": "Сьогодні ми хочемо попередити кожну авіакомпанію, яка використовує...",
+    "title_en": "Сьогодні ми хочемо попередити кожну авіакомпанію, яка використовує...",
+    "title_uk": "Сьогодні ми хочемо попередити кожну авіакомпанію, яка використовує...",
+    "description": "Сьогодні ми хочемо попередити кожну авіакомпанію, яка використовує російський повітряний простір, кожного страховика, усіх, хто ще користується ключовими російськими аеропортами: російське небо стає повністю небезпечним. Україна не загрожує цивільній авіації як такій – жодному цивільному літаку. Просто дрони у небі Росії будуть так, що треба на це зважати. Хоча російська влада про це не...",
+    "description_en": "Сьогодні ми хочемо попередити кожну авіакомпанію, яка використовує російський повітряний простір, кожного страховика, усіх, хто ще користується ключовими російськими аеропортами: російське небо стає повністю небезпечним. Україна не загрожує цивільній авіації як такій – жодному цивільному літаку. Просто дрони у небі Росії будуть так, що треба на це зважати. Хоча російська влада про це не...",
+    "description_uk": "Сьогодні ми хочемо попередити кожну авіакомпанію, яка використовує російський повітряний простір, кожного страховика, усіх, хто ще користується ключовими російськими аеропортами: російське небо стає повністю небезпечним. Україна не загрожує цивільній авіації як такій – жодному цивільному літаку. Просто дрони у небі Росії будуть так, що треба на це зважати. Хоча російська влада про це не...",
     "time": "",
-    "pubDate": "2026-09-01T18:03:45+00:00",
+    "pubDate": "2026-09-01T17:44:15+00:00",
     "category": "drone",
     "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/75817",
-    "score": 6.0,
-    "views": 23215,
-    "forwards": 0
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20660",
+    "score": 6.5,
+    "views": 293799,
+    "forwards": 2757
   },
   {
     "title": "Today we want to warn every airline that uses Russian airspace, every...",
@@ -196,24 +232,6 @@
     "score": 6.5,
     "views": 266313,
     "forwards": 2709
-  },
-  {
-    "title": "Сьогодні ми хочемо попередити кожну авіакомпанію, яка використовує...",
-    "title_en": "Сьогодні ми хочемо попередити кожну авіакомпанію, яка використовує...",
-    "title_uk": "Сьогодні ми хочемо попередити кожну авіакомпанію, яка використовує...",
-    "description": "Сьогодні ми хочемо попередити кожну авіакомпанію, яка використовує російський повітряний простір, кожного страховика, усіх, хто ще користується ключовими російськими аеропортами: російське небо стає повністю небезпечним. Україна не загрожує цивільній авіації як такій – жодному цивільному літаку. Просто дрони у небі Росії будуть так, що треба на це зважати. Хоча російська влада про це не...",
-    "description_en": "Сьогодні ми хочемо попередити кожну авіакомпанію, яка використовує російський повітряний простір, кожного страховика, усіх, хто ще користується ключовими російськими аеропортами: російське небо стає повністю небезпечним. Україна не загрожує цивільній авіації як такій – жодному цивільному літаку. Просто дрони у небі Росії будуть так, що треба на це зважати. Хоча російська влада про це не...",
-    "description_uk": "Сьогодні ми хочемо попередити кожну авіакомпанію, яка використовує російський повітряний простір, кожного страховика, усіх, хто ще користується ключовими російськими аеропортами: російське небо стає повністю небезпечним. Україна не загрожує цивільній авіації як такій – жодному цивільному літаку. Просто дрони у небі Росії будуть так, що треба на це зважати. Хоча російська влада про це не...",
-    "time": "",
-    "pubDate": "2026-09-01T17:44:15+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20660",
-    "score": 6.5,
-    "views": 68268,
-    "forwards": 1374
   },
   {
     "title": "Kyiv: 12 killed",
@@ -288,6 +306,24 @@
     "forwards": 2
   },
   {
+    "title": "Attack attack",
+    "title_en": "Attack attack",
+    "title_uk": "Attack attack",
+    "description": "🇻🇦 Міністр закордонних справ Андрій Сибіга провів телефонні переговори з Секретарем Святого Престолу з питань відносин з державами та міжнародними організаціями, архієпископом Полом Річардом Галлагером. Глава МЗС поінформував співрозмовника про наслідки нічної атаки Росії на українські міста та постійні загрози для наших людей. Міністр висловив вдячність Папі Леву XIV за привітання України з Днем...",
+    "description_en": "🇻🇦 Міністр закордонних справ Андрій Сибіга провів телефонні переговори з Секретарем Святого Престолу з питань відносин з державами та міжнародними організаціями, архієпископом Полом Річардом Галлагером. Глава МЗС поінформував співрозмовника про наслідки нічної атаки Росії на українські міста та постійні загрози для наших людей. Міністр висловив вдячність Папі Леву XIV за привітання України з Днем...",
+    "description_uk": "🇻🇦 Міністр закордонних справ Андрій Сибіга провів телефонні переговори з Секретарем Святого Престолу з питань відносин з державами та міжнародними організаціями, архієпископом Полом Річардом Галлагером. Глава МЗС поінформував співрозмовника про наслідки нічної атаки Росії на українські міста та постійні загрози для наших людей. Міністр висловив вдячність Папі Леву XIV за привітання України з Днем...",
+    "time": "",
+    "pubDate": "2026-09-01T12:45:29+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Ukraine MFA",
+    "link": "https://t.me/Ukraine_MFA/10258",
+    "score": 5.0,
+    "views": 622,
+    "forwards": 5
+  },
+  {
     "title": "Airstrike attack",
     "title_en": "Airstrike attack",
     "title_uk": "Авіаційна атака",
@@ -303,24 +339,6 @@
     "link": "https://t.me/Ukraine_MFA/10258",
     "score": 5.0,
     "views": 618,
-    "forwards": 5
-  },
-  {
-    "title": "Attack attack",
-    "title_en": "Attack attack",
-    "title_uk": "Атака нападу",
-    "description": "🇻🇦 Міністр закордонних справ Андрій Сибіга провів телефонні переговори з Секретарем Святого Престолу з питань відносин з державами та міжнародними організаціями, архієпископом Полом Річардом Галлагером. Глава МЗС поінформував співрозмовника про наслідки нічної атаки Росії на українські міста та постійні загрози для наших людей. Міністр висловив вдячність Папі Леву XIV за привітання України з Днем...",
-    "description_en": "🇻🇦 Міністр закордонних справ Андрій Сибіга провів телефонні переговори з Секретарем Святого Престолу з питань відносин з державами та міжнародними організаціями, архієпископом Полом Річардом Галлагером. Глава МЗС поінформував співрозмовника про наслідки нічної атаки Росії на українські міста та постійні загрози для наших людей. Міністр висловив вдячність Папі Леву XIV за привітання України з Днем...",
-    "description_uk": "🇻🇦 Міністр закордонних справ Андрій Сибіга провів телефонні переговори з Секретарем Святого Престолу з питань відносин з державами та міжнародними організаціями, архієпископом Полом Річардом Галлагером. Глава МЗС поінформував співрозмовника про наслідки нічної атаки Росії на українські міста та постійні загрози для наших людей. Міністр висловив вдячність Папі Леву XIV за привітання України з Днем...",
-    "time": "",
-    "pubDate": "2026-09-01T12:45:29+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/10258",
-    "score": 5.0,
-    "views": 609,
     "forwards": 5
   },
   {
@@ -376,23 +394,5 @@
     "score": 13.0,
     "views": 1053,
     "forwards": 3
-  },
-  {
-    "title": "Kyiv: Швидкісна ціль на Київ!",
-    "title_en": "Kyiv: Швидкісна ціль на Київ!",
-    "title_uk": "Kyiv: Швидкісна ціль на Київ!",
-    "description": "Швидкісна ціль на Київ!",
-    "description_en": "Швидкісна ціль на Київ!",
-    "description_uk": "Швидкісна ціль на Київ!",
-    "time": "",
-    "pubDate": "2026-08-31T23:44:16+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/75685",
-    "score": 6.5,
-    "views": 82795,
-    "forwards": 105
   }
 ]
