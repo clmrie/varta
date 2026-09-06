@@ -1,5 +1,59 @@
 [
   {
+    "title": "Sumy: BpLA on Sumy from the north.",
+    "title_en": "Sumy: BpLA on Sumy from the north.",
+    "title_uk": "Суми: БпЛА на Суми з півн.",
+    "description": "BpLA on Sumy from the north.",
+    "description_en": "BpLA on Sumy from the north.",
+    "description_uk": "БпЛА на Суми з півночі.",
+    "time": "",
+    "pubDate": "2026-09-06T22:13:33+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Sumy",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/76900",
+    "score": 6.0,
+    "views": 4083,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: Дніпропетровщина: БпЛА на Васильківку.",
+    "title_en": "Dnipro: Дніпропетровщина: БпЛА на Васильківку.",
+    "title_uk": "Дніпро: Дніпропетровщина: БпЛА на Васильківку.",
+    "description": "Дніпропетровщина: БпЛА на Васильківку.",
+    "description_en": "Дніпропетровщина: БпЛА на Васильківку.",
+    "description_uk": "Дніпропетровщина: БпЛА на Васильківку.",
+    "time": "",
+    "pubDate": "2026-09-06T22:01:44+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/76898",
+    "score": 6.0,
+    "views": 8672,
+    "forwards": 0
+  },
+  {
+    "title": "Air defense active",
+    "title_en": "Air defense active",
+    "title_uk": "Air defense active",
+    "description": "The race to create autonomous swarms of drones could decide the outcome of the war in Ukraine, - The Sunday Times Ex-CIA head David Petraeus believes that the side that first learns to mass-use AI-controlled drone swarms will have a huge advantage on the battlefield. \"Now, 90% of drones can be shot down, but the one who will be the first to deal with the swarms will make a breakthrough,\" Petraeus said. Such systems will allow...",
+    "description_en": "The race to create autonomous swarms of drones could decide the outcome of the war in Ukraine, - The Sunday Times Ex-CIA head David Petraeus believes that the side that first learns to mass-use AI-controlled drone swarms will have a huge advantage on the battlefield. \"Now, 90% of drones can be shot down, but the one who will be the first to deal with the swarms will make a breakthrough,\" Petraeus said. Such systems will allow...",
+    "description_uk": "Гонка по созданию автономных роев дронов может решить исход войны в Украине, - The Sunday Times Экс-глава ЦРУ Дэвид Петреус считает, что сторона, которая первой научится массово применять управляемые ИИ рои беспилотников, получит огромное преимущество на поле боя. \"Сейчас 90% дронов можно сбить, но тот, кто первым справится с роями, совершит прорыв\", - заявил Петреус. Такие системы позволят...",
+    "time": "",
+    "pubDate": "2026-09-06T20:45:20+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/200559",
+    "score": 5.5,
+    "views": 45418,
+    "forwards": 118
+  },
+  {
     "title": "Kharkiv: БпЛА на Харків з півночі.",
     "title_en": "Kharkiv: БпЛА на Харків з півночі.",
     "title_uk": "Kharkiv: БпЛА на Харків з півночі.",
@@ -34,6 +88,24 @@
     "score": 6.0,
     "views": 31427,
     "forwards": 0
+  },
+  {
+    "title": "We had three rounds of negotiations today. All are very objective. I...",
+    "title_en": "We had three rounds of negotiations today. All are very objective. I...",
+    "title_uk": "У нас сьогодні було три раунди переговорів. Всі дуже об'єктивні. я...",
+    "description": "We had three rounds of negotiations today. All are very objective. I want to thank Steve, Jared for coming. And we are grateful to the President of the USA. We had good conversations. Thank you for the fact that today we paid enough attention to the winter period and all the challenges that may arise. We hope that we will have the opportunity to negotiate with the American partners, and we hope for the support of the European partners. If...",
+    "description_en": "We had three rounds of negotiations today. All are very objective. I want to thank Steve, Jared for coming. And we are grateful to the President of the USA. We had good conversations. Thank you for the fact that today we paid enough attention to the winter period and all the challenges that may arise. We hope that we will have the opportunity to negotiate with the American partners, and we hope for the support of the European partners. If...",
+    "description_uk": "У нас сьогодні було три раунди перемовин. Всі дуже предметні. Хочу подякувати Стіву, Джареду за приїзд. І ми вдячні Президенту США. Ми провели хороші розмови. Дякую за те, що ми сьогодні приділили достатньо уваги зимовому періоду і всім викликам, які можуть бути. Сподіваємось, що у нас буде можливість домовитися з американськими партнерами, і сподіваємось на підтримку європейських партнерів. Якщо...",
+    "time": "",
+    "pubDate": "2026-09-06T19:05:50+00:00",
+    "category": "political",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20725",
+    "score": 5.0,
+    "views": 103159,
+    "forwards": 204
   },
   {
     "title": "У нас сьогодні було три раунди перемовин. Всі дуже предметні. Хочу...",
@@ -86,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/200547",
     "score": 4.5,
-    "views": 118096,
-    "forwards": 618
+    "views": 133939,
+    "forwards": 691
   },
   {
     "title": "The pro-Russian far-right AdG confidently wins the elections in...",
@@ -218,7 +290,7 @@
   {
     "title": "Kyiv: Explosions reported",
     "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Kyiv: Explosions reported",
+    "title_uk": "Київ: повідомлення про вибухи",
     "description": "Russia's Lavrov claims start of 'real war' with Germany after Moscow accused of Leipzig Airport attack. Russia's foreign minister claimed Germany has started \"a real war\" after his country was accused of launching explosive-laden drones at Leipzig Airport.",
     "description_en": "Russia's Lavrov claims start of 'real war' with Germany after Moscow accused of Leipzig Airport attack. Russia's foreign minister claimed Germany has started \"a real war\" after his country was accused of launching explosive-laden drones at Leipzig Airport.",
     "description_uk": "Russia's Lavrov claims start of 'real war' with Germany after Moscow accused of Leipzig Airport attack. Russia's foreign minister claimed Germany has started \"a real war\" after his country was accused of launching explosive-laden drones at Leipzig Airport.",
@@ -230,8 +302,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55273",
     "score": 10.0,
-    "views": 2211,
-    "forwards": 13
+    "views": 2456,
+    "forwards": 14
   },
   {
     "title": "Zaporizhzhia: Drone strike",
@@ -248,7 +320,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55272",
     "score": 5.0,
-    "views": 2131,
+    "views": 2356,
     "forwards": 6
   },
   {
@@ -342,24 +414,6 @@
     "forwards": 70
   },
   {
-    "title": "Mykolaiv: 🏍 Reactive BpLA on Novomykolaivka, Zaporizhzhia region from the...",
-    "title_en": "Mykolaiv: 🏍 Reactive BpLA on Novomykolaivka, Zaporizhzhia region from the...",
-    "title_uk": "Миколаїв: 🏍 Reactive BpLA на Новомиколаївці Запорізької області від...",
-    "description": "🏍 Reactive BpLA on Novomykolaivka, Zaporizhzhia region from the southeast",
-    "description_en": "🏍 Reactive BpLA on Novomykolaivka, Zaporizhzhia region from the southeast",
-    "description_uk": "🏍 Реактивний БпЛА на Новомиколаївку Запорізької області з південного сходу",
-    "time": "",
-    "pubDate": "2026-09-06T10:04:30+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/76797",
-    "score": 6.0,
-    "views": 5037,
-    "forwards": 2
-  },
-  {
     "title": "Kyiv: Ukrainian drones reportedly target Ryazan oil refinery, cities across...",
     "title_en": "Kyiv: Ukrainian drones reportedly target Ryazan oil refinery, cities across...",
     "title_uk": "Київ: українські безпілотники націлили на Рязанський нафтопереробний завод, міста по...",
@@ -380,19 +434,19 @@
   {
     "title": "Missile attack",
     "title_en": "Missile attack",
-    "title_uk": "Missile attack",
-    "description": "Міністр закордонних справ Андрій Сибіга: \"Росія вже у війні проти Європи, навіть якщо Європа відмовляється це бачити. Від інциденту в Лейпцигу до підривних дій проти виробників оборонної продукції в десятці країн ЄС, таємних вербувань, глушіння GPS для авіації, вторгнень дронів та ракет у повітряний простір НАТО, пошкодження підводних кабелів у Балтії та кібератак; Від масштабних дезінформаційних...",
-    "description_en": "Міністр закордонних справ Андрій Сибіга: \"Росія вже у війні проти Європи, навіть якщо Європа відмовляється це бачити. Від інциденту в Лейпцигу до підривних дій проти виробників оборонної продукції в десятці країн ЄС, таємних вербувань, глушіння GPS для авіації, вторгнень дронів та ракет у повітряний простір НАТО, пошкодження підводних кабелів у Балтії та кібератак; Від масштабних дезінформаційних...",
+    "title_uk": "Ракетна атака",
+    "description": "Minister of Foreign Affairs Andriy Sybiga: \"Russia is already at war against Europe, even if Europe refuses to see it. From the incident in Leipzig to subversive actions against defense manufacturers in ten EU countries, secret recruitment, GPS jamming for aviation, drone and missile intrusions into NATO airspace, damage to submarine cables in the Baltic and cyber attacks; From large-scale disinformation...",
+    "description_en": "Minister of Foreign Affairs Andriy Sybiga: \"Russia is already at war against Europe, even if Europe refuses to see it. From the incident in Leipzig to subversive actions against defense manufacturers in ten EU countries, secret recruitment, GPS jamming for aviation, drone and missile intrusions into NATO airspace, damage to submarine cables in the Baltic and cyber attacks; From large-scale disinformation...",
     "description_uk": "Міністр закордонних справ Андрій Сибіга: \"Росія вже у війні проти Європи, навіть якщо Європа відмовляється це бачити. Від інциденту в Лейпцигу до підривних дій проти виробників оборонної продукції в десятці країн ЄС, таємних вербувань, глушіння GPS для авіації, вторгнень дронів та ракет у повітряний простір НАТО, пошкодження підводних кабелів у Балтії та кібератак; Від масштабних дезінформаційних...",
     "time": "",
     "pubDate": "2026-09-05T13:07:09+00:00",
     "category": "missile",
-    "severity": "high",
+    "severity": "critical",
     "location": "Ukraine",
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10332",
     "score": 7.5,
-    "views": 2949,
+    "views": 2976,
     "forwards": 15
   }
 ]
