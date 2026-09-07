@@ -221,3 +221,8 @@ python3 -m http.server 8000
 <sub>ВАРТА — "The Guard" — Стоїть на варті, щоб вам не довелося.</sub>
 
 </div>
+
+
+## Personal website
+
+Check out [Clement Marie’s personal website](https://clmrie.github.io/) for my research, projects, and CV.
