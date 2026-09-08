@@ -1,5 +1,95 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Дрон входить",
+    "description": "Attack UAVs in the direction of Tatarbunary from the Black Sea.",
+    "description_en": "Attack UAVs in the direction of Tatarbunary from the Black Sea.",
+    "description_uk": "Ударні БпЛА у напрямку Татарбунарів з акваторії Чорного моря.",
+    "time": "",
+    "pubDate": "2026-09-08T19:58:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/77324",
+    "score": 5.0,
+    "views": 22263,
+    "forwards": 0
+  },
+  {
+    "title": "Dnipro: Drone incoming",
+    "title_en": "Dnipro: Drone incoming",
+    "title_uk": "Дніпро: Дрон вхід",
+    "description": "🏍 Jet UAV in the direction of Dnipro/Kamyanske from the south.",
+    "description_en": "🏍 Jet UAV in the direction of Dnipro/Kamyanske from the south.",
+    "description_uk": "🏍 Реактивний БпЛА у напрямку Дніпро/Кам'янське з півдня.",
+    "time": "",
+    "pubDate": "2026-09-08T19:55:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/77323",
+    "score": 6.0,
+    "views": 29335,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Ukraine to sign contracts for around 1,000 Patriot missiles with...",
+    "title_en": "Kyiv: Ukraine to sign contracts for around 1,000 Patriot missiles with...",
+    "title_uk": "Київ: Україна підпише контракти на близько 1000 ракет Patriot з...",
+    "description": "Ukraine to sign contracts for around 1,000 Patriot missiles with partner support and EU loan funding, defense minister says. The defense minister cautioned that the contracted missiles would take time to arrive.",
+    "description_en": "Ukraine to sign contracts for around 1,000 Patriot missiles with partner support and EU loan funding, defense minister says. The defense minister cautioned that the contracted missiles would take time to arrive.",
+    "description_uk": "Ukraine to sign contracts for around 1,000 Patriot missiles with partner support and EU loan funding, defense minister says. The defense minister cautioned that the contracted missiles would take time to arrive.",
+    "time": "",
+    "pubDate": "2026-09-08T19:55:02+00:00",
+    "category": "missile",
+    "severity": "medium",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55325",
+    "score": 4.0,
+    "views": 267,
+    "forwards": 2
+  },
+  {
+    "title": "Evacuation ordered",
+    "title_en": "Evacuation ordered",
+    "title_uk": "Наказано евакуацію",
+    "description": "Russian savages hit another train, the third train in a day. Russian anti-aircraft missiles attacked a suburban diesel train in the Sumy region, the State Emergency Service reported. A locomotive and a passenger car caught fire. 19 passengers were evacuated. 10 people were injured. During the rescue operation, the occupiers struck again. Fortunately, none of the firefighters were injured. All sources of burning are liquidated.",
+    "description_en": "Russian savages hit another train, the third train in a day. Russian anti-aircraft missiles attacked a suburban diesel train in the Sumy region, the State Emergency Service reported. A locomotive and a passenger car caught fire. 19 passengers were evacuated. 10 people were injured. During the rescue operation, the occupiers struck again. Fortunately, none of the firefighters were injured. All sources of burning are liquidated.",
+    "description_uk": "Российские дикари ударили по еще одному, уже третьему поезду за сутки Российские БпЛА атаковали пригородный дизель-поезд на Сумщине, сообщили в ГСЧС. Загорелись локомотив и пассажирский вагон. 19 пассажиров эвакуировали. Пострадали 10 человек. Во время спасательной операции оккупанты нанесли повторный удар. К счастью, никто из пожарных не пострадал. Все очаги горения ликвидированы.",
+    "time": "",
+    "pubDate": "2026-09-08T19:12:22+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Sumy",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/200713",
+    "score": 9.5,
+    "views": 61031,
+    "forwards": 213
+  },
+  {
+    "title": "Kyiv: Ballistic missile launch detected",
+    "title_en": "Kyiv: Ballistic missile launch detected",
+    "title_uk": "Київ: виявлено пуск балістичної ракети",
+    "description": "Russia's 160-year war on Ukrainian books \"Today, Russia seeks to accomplish with ballistic missiles what its predecessors failed to obtain with legal oppression and deportations. We must ensure that, by burning Ukrainian books, Moscow only reminds the world how valuable they are,\" writes Pauline Foret, lecturer at the Kyiv School of Economics, in this op-ed. Photo: Kostiantyn Liberov / Libkos /...",
+    "description_en": "Russia's 160-year war on Ukrainian books \"Today, Russia seeks to accomplish with ballistic missiles what its predecessors failed to obtain with legal oppression and deportations. We must ensure that, by burning Ukrainian books, Moscow only reminds the world how valuable they are,\" writes Pauline Foret, lecturer at the Kyiv School of Economics, in this op-ed. Photo: Kostiantyn Liberov / Libkos /...",
+    "description_uk": "Russia's 160-year war on Ukrainian books \"Today, Russia seeks to accomplish with ballistic missiles what its predecessors failed to obtain with legal oppression and deportations. We must ensure that, by burning Ukrainian books, Moscow only reminds the world how valuable they are,\" writes Pauline Foret, lecturer at the Kyiv School of Economics, in this op-ed. Photo: Kostiantyn Liberov / Libkos /...",
+    "time": "",
+    "pubDate": "2026-09-08T18:37:26+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55324",
+    "score": 10.0,
+    "views": 964,
+    "forwards": 4
+  },
+  {
     "title": "Kharkiv: Drone incoming",
     "title_en": "Kharkiv: Drone incoming",
     "title_uk": "Харків: Дрон вхід",
@@ -36,27 +126,9 @@
     "forwards": 1
   },
   {
-    "title": "Kyiv: Ballistic missile launch detected",
-    "title_en": "Kyiv: Ballistic missile launch detected",
-    "title_uk": "Київ: Зафіксовано пуск балістичної ракети",
-    "description": "Germany 'ready to provide missiles for Patriots,' Zelensky says. Ukraine relies on the American-made Patriot PAC-3 air defense system for its defense against Russian ballistic missiles.",
-    "description_en": "Germany 'ready to provide missiles for Patriots,' Zelensky says. Ukraine relies on the American-made Patriot PAC-3 air defense system for its defense against Russian ballistic missiles.",
-    "description_uk": "Germany 'ready to provide missiles for Patriots,' Zelensky says. Ukraine relies on the American-made Patriot PAC-3 air defense system for its defense against Russian ballistic missiles.",
-    "time": "",
-    "pubDate": "2026-09-08T16:42:35+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55321",
-    "score": 6.0,
-    "views": 613,
-    "forwards": 4
-  },
-  {
     "title": "000 missiles",
     "title_en": "000 missiles",
-    "title_uk": "000 missiles",
+    "title_uk": "000 ракет",
     "description": "The Ukrainian Context publication linked to Budanova's name notes that the quote from Khmara's statement about \"the purchase of 1,000 missiles for Patriot at the expense of the EU loan\" is incomplete. \"It lacks the most important detail - deliveries of most of these missiles will begin only in the following years. Nowhere in the world, including the United States, is there just such a large number of free Patriot missiles that could be given to someone at once...",
     "description_en": "The Ukrainian Context publication linked to Budanova's name notes that the quote from Khmara's statement about \"the purchase of 1,000 missiles for Patriot at the expense of the EU loan\" is incomplete. \"It lacks the most important detail - deliveries of most of these missiles will begin only in the following years. Nowhere in the world, including the United States, is there just such a large number of free Patriot missiles that could be given to someone at once...",
     "description_uk": "Связываемый с именем Буданова паблик Ukraine Context отмечает, что цитата из заявление Хмары о \"закупке 1000 ракет для Patriot за счет кредита ЕС\" является неполной. \"В ней отсутствует важнейшая деталь - поставки большинства этих ракет начнутся только в последующие годы. Нигде в мире, включая США, сейчас просто нет такого количества свободных ракет для Patriot, которые можно было бы сразу кому-то...",
@@ -67,9 +139,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/200703",
-    "score": 3.5,
-    "views": 62872,
-    "forwards": 143
+    "score": 4.5,
+    "views": 128099,
+    "forwards": 211
   },
   {
     "title": "Kyiv: Russia's FSB detains Moldovan citizen allegedly recruited by Ukraine...",
@@ -106,24 +178,6 @@
     "score": 5.5,
     "views": 112120,
     "forwards": 186
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Дрон входить",
-    "description": "🏍 The threat of using jet UAVs for Kremenchuk from the north.",
-    "description_en": "🏍 The threat of using jet UAVs for Kremenchuk from the north.",
-    "description_uk": "🏍 Загроза застосування реактивних БпЛА для Кременчука з півночі.",
-    "time": "",
-    "pubDate": "2026-09-08T13:29:41+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/77263",
-    "score": 5.0,
-    "views": 16145,
-    "forwards": 34
   },
   {
     "title": "Kyiv: 🏍 Reactive BpLA Kyiv (Shulyavka) from the north",
@@ -176,7 +230,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10358",
     "score": 6.5,
-    "views": 564,
+    "views": 634,
     "forwards": 5
   },
   {
@@ -212,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10356",
     "score": 5.0,
-    "views": 5183,
+    "views": 5685,
     "forwards": 9
   },
   {
@@ -248,8 +302,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20761",
     "score": 15.5,
-    "views": 319461,
-    "forwards": 2215
+    "views": 344837,
+    "forwards": 2266
   },
   {
     "title": "Thick smoke is visible from different parts of the city on the right...",
@@ -356,8 +410,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20752",
     "score": 21.5,
-    "views": 226686,
-    "forwards": 414
+    "views": 238241,
+    "forwards": 416
   },
   {
     "title": "Kyiv: 6 injured",
@@ -378,11 +432,11 @@
     "forwards": 0
   },
   {
-    "title": "🇿🇹🇷 Азербайджан і Туреччина спільно виробляють морські дрони SALVO та...",
-    "title_en": "🇿🇹🇷 Азербайджан і Туреччина спільно виробляють морські дрони SALVO та...",
-    "title_uk": "🇿🇹🇷 Азербайджан і Туреччина спільно виробляють морські дрони SALVO та...",
-    "description": "🇿🇹🇷 Азербайджан і Туреччина спільно виробляють морські дрони SALVO та KAYRA 🖥 6 вересня президент Азербайджану Ільхам Алієв відвідав спільне виробництво азербайджанської MIRAS і турецької Dearsan, де оглянув SALVO та KAYRA. Виготовлені апарати також пройшли практичні випробування. 🪖 SALVO є озброєним надводним безпілотником завдовжки 14,79 метра. На сайті Dearsan вказано, що його максимальна...",
-    "description_en": "🇿🇹🇷 Азербайджан і Туреччина спільно виробляють морські дрони SALVO та KAYRA 🖥 6 вересня президент Азербайджану Ільхам Алієв відвідав спільне виробництво азербайджанської MIRAS і турецької Dearsan, де оглянув SALVO та KAYRA. Виготовлені апарати також пройшли практичні випробування. 🪖 SALVO є озброєним надводним безпілотником завдовжки 14,79 метра. На сайті Dearsan вказано, що його максимальна...",
+    "title": "🇿🇹🇷 Azerbaijan and Turkey jointly produce SALVO and KAYRA maritime...",
+    "title_en": "🇿🇹🇷 Azerbaijan and Turkey jointly produce SALVO and KAYRA maritime...",
+    "title_uk": "🇿🇹🇷 Азербайджан і Туреччина спільно виробляють SALVO і KAYRA maritime...",
+    "description": "🇿🇹🇷 Azerbaijan and Turkey jointly produce SALVO and KAYRA maritime drones 🖥 On September 6, the President of Azerbaijan Ilham Aliyev visited the joint production of the Azerbaijani MIRAS and the Turkish Dearsan, where he inspected the SALVO and KAYRA. The manufactured devices also passed practical tests. 🪖 SALVO is a 14.79 meter long armed surface drone. The Dearsan website states that its maximum...",
+    "description_en": "🇿🇹🇷 Azerbaijan and Turkey jointly produce SALVO and KAYRA maritime drones 🖥 On September 6, the President of Azerbaijan Ilham Aliyev visited the joint production of the Azerbaijani MIRAS and the Turkish Dearsan, where he inspected the SALVO and KAYRA. The manufactured devices also passed practical tests. 🪖 SALVO is a 14.79 meter long armed surface drone. The Dearsan website states that its maximum...",
     "description_uk": "🇿🇹🇷 Азербайджан і Туреччина спільно виробляють морські дрони SALVO та KAYRA 🖥 6 вересня президент Азербайджану Ільхам Алієв відвідав спільне виробництво азербайджанської MIRAS і турецької Dearsan, де оглянув SALVO та KAYRA. Виготовлені апарати також пройшли практичні випробування. 🪖 SALVO є озброєним надводним безпілотником завдовжки 14,79 метра. На сайті Dearsan вказано, що його максимальна...",
     "time": "",
     "pubDate": "2026-09-07T14:34:08+00:00",
@@ -392,7 +446,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23809",
     "score": 12.5,
-    "views": 154059,
-    "forwards": 116
+    "views": 156882,
+    "forwards": 118
   }
 ]
