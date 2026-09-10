@@ -1,21 +1,57 @@
 [
   {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Атака безпілотників",
-    "description": "The threat of attack UAVs for the Dnipro.",
-    "description_en": "The threat of attack UAVs for the Dnipro.",
-    "description_uk": "Загроза ударних БпЛА для Дніпра.",
+    "title": "Mykolaiv: 🏍 Reactive BpLA on Mykolaiv from the south.",
+    "title_en": "Mykolaiv: 🏍 Reactive BpLA on Mykolaiv from the south.",
+    "title_uk": "Миколаїв: 🏍 Реактивний BpLA на Миколаїв з півдня.",
+    "description": "🏍 Reactive BpLA on Mykolaiv from the south.",
+    "description_en": "🏍 Reactive BpLA on Mykolaiv from the south.",
+    "description_uk": "🏍 Реактивні БпЛА на Миколаїв з півдня.",
     "time": "",
-    "pubDate": "2026-09-09T22:12:59+00:00",
+    "pubDate": "2026-09-10T00:16:43+00:00",
     "category": "drone",
     "severity": "high",
-    "location": "Dnipro",
+    "location": "Mykolaiv",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/77516",
+    "link": "https://t.me/kpszsu/77525",
+    "score": 6.0,
+    "views": 2051,
+    "forwards": 0
+  },
+  {
+    "title": "🏍 A group of jet UAVs from the Black Sea area headed for Ochakiv.",
+    "title_en": "🏍 A group of jet UAVs from the Black Sea area headed for Ochakiv.",
+    "title_uk": "🏍 Група реактивних БПЛА з акваторії Чорного моря взяла курс на Очаків.",
+    "description": "🏍 A group of jet UAVs from the Black Sea area headed for Ochakiv.",
+    "description_en": "🏍 A group of jet UAVs from the Black Sea area headed for Ochakiv.",
+    "description_uk": "🏍 Група реактивних БпЛА з акваторії Чорного моря курсом на Очаків.",
+    "time": "",
+    "pubDate": "2026-09-10T00:06:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/77523",
     "score": 5.0,
-    "views": 8313,
-    "forwards": 2
+    "views": 6264,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Київ: Дрон-удар",
+    "description": "Russia's Sochi port hit in fiery strike by Ukrainian sea drone, officials claim. Russian officials said a fire broke out on a port embankment in Sochi as a result of a Ukrainian unmanned surface vessel (USV) strike. The attack reportedly disrupted a nearby concert. Photo: Exilenova-Plus / Telegram",
+    "description_en": "Russia's Sochi port hit in fiery strike by Ukrainian sea drone, officials claim. Russian officials said a fire broke out on a port embankment in Sochi as a result of a Ukrainian unmanned surface vessel (USV) strike. The attack reportedly disrupted a nearby concert. Photo: Exilenova-Plus / Telegram",
+    "description_uk": "Russia's Sochi port hit in fiery strike by Ukrainian sea drone, officials claim. Russian officials said a fire broke out on a port embankment in Sochi as a result of a Ukrainian unmanned surface vessel (USV) strike. The attack reportedly disrupted a nearby concert. Photo: Exilenova-Plus / Telegram",
+    "time": "",
+    "pubDate": "2026-09-09T22:54:13+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55349",
+    "score": 5.0,
+    "views": 435,
+    "forwards": 1
   },
   {
     "title": "Kryvyi Rih: Airstrike attack",
@@ -50,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55348",
     "score": 9.0,
-    "views": 445,
-    "forwards": 2
+    "views": 809,
+    "forwards": 3
   },
   {
     "title": "Kyiv: Drone strike near civilians",
@@ -86,8 +122,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20793",
     "score": 4.0,
-    "views": 32511,
-    "forwards": 122
+    "views": 35653,
+    "forwards": 129
   },
   {
     "title": "Drone incoming",
@@ -108,22 +144,22 @@
     "forwards": 0
   },
   {
-    "title": "Kyiv: Drone strike",
-    "title_en": "Kyiv: Drone strike",
-    "title_uk": "Kyiv: Drone strike",
-    "description": "Russian drone in Moldova nearly hit Zelensky's plane, source says. At the time of the drone violation, Zelensky's plane was taking off from Moldova en route to Norway.",
-    "description_en": "Russian drone in Moldova nearly hit Zelensky's plane, source says. At the time of the drone violation, Zelensky's plane was taking off from Moldova en route to Norway.",
-    "description_uk": "Russian drone in Moldova nearly hit Zelensky's plane, source says. At the time of the drone violation, Zelensky's plane was taking off from Moldova en route to Norway.",
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Атака безпілотників",
+    "description": "The forces of special operations of the Ukrainian Armed Forces announced the attack by drones on two large enterprises of the gas-condensate industry in Novy Urengoy - the Novourengoi and Purovsky plants. Friendly drones covered more than 3,000 kilometers, which became a record range for such attacks. 💥",
+    "description_en": "The forces of special operations of the Ukrainian Armed Forces announced the attack by drones on two large enterprises of the gas-condensate industry in Novy Urengoy - the Novourengoi and Purovsky plants. Friendly drones covered more than 3,000 kilometers, which became a record range for such attacks. 💥",
+    "description_uk": "Силы специальных операций ВСУ заявили об ударе беспилотниками по двум крупным предприятиям газоконденсатной отрасли в Новом Уренгое – Новоуренгойскому и Пуровскому заводам. Любезные дроны преодолели более 3000 километров, что стало рекордной дальностью для подобных атак. 💥",
     "time": "",
-    "pubDate": "2026-09-09T19:02:27+00:00",
+    "pubDate": "2026-09-09T18:55:56+00:00",
     "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55346",
-    "score": 5.0,
-    "views": 783,
-    "forwards": 6
+    "severity": "medium",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/200813",
+    "score": 4.5,
+    "views": 114426,
+    "forwards": 218
   },
   {
     "title": "Drone strike near civilians",
@@ -157,9 +193,9 @@
     "location": "Mykolaiv",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20783",
-    "score": 9.5,
-    "views": 101686,
-    "forwards": 200
+    "score": 10.5,
+    "views": 105417,
+    "forwards": 204
   },
   {
     "title": "Casualties reported",
@@ -230,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10366",
     "score": 3.0,
-    "views": 726,
+    "views": 731,
     "forwards": 1
   },
   {
@@ -338,7 +374,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23814",
     "score": 13.5,
-    "views": 135461,
+    "views": 136701,
     "forwards": 238
   },
   {
@@ -356,7 +392,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/42173",
     "score": 13.0,
-    "views": 6749,
+    "views": 6777,
     "forwards": 15
   },
   {
@@ -412,41 +448,5 @@
     "score": 11.5,
     "views": 241533,
     "forwards": 508
-  },
-  {
-    "title": "Zaporizhzhia: Evacuation ordered",
-    "title_en": "Zaporizhzhia: Evacuation ordered",
-    "title_uk": "Запоріжжя: видано евакуацію",
-    "description": "In the morning in Kyiv, a Russian drone hit a residential high-rise building. Four people were injured. As usual, our rescuers worked quickly: the fire has now been extinguished. At night in Odesa there was a hit at the international checkpoint \"Starokazache\" on the border with Moldova. His work is suspended. Unfortunately, two people died, three more were injured, sixteen were evacuated by rescuers...",
-    "description_en": "In the morning in Kyiv, a Russian drone hit a residential high-rise building. Four people were injured. As usual, our rescuers worked quickly: the fire has now been extinguished. At night in Odesa there was a hit at the international checkpoint \"Starokazache\" on the border with Moldova. His work is suspended. Unfortunately, two people died, three more were injured, sixteen were evacuated by rescuers...",
-    "description_uk": "Зранку в Києві російський дрон вдарив по житловій багатоповерхівці. Постраждали чотири людини. Як завжди, оперативно спрацювали наші рятувальники: станом на зараз пожежу ліквідовано. Вночі на Одещині було влучання по міжнародному пункту пропуску «Старокозаче» на кордоні з Молдовою. Його роботу призупинено. На жаль, двоє людей загинули, ще троє зазнали травм, шістнадцятьох рятувальники евакуювали....",
-    "time": "",
-    "pubDate": "2026-09-09T07:03:07+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Zaporizhzhia",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20771",
-    "score": 11.5,
-    "views": 224873,
-    "forwards": 497
-  },
-  {
-    "title": "Minister of Foreign Affairs of Ukraine Andriy Sybiga thanked Great...",
-    "title_en": "Minister of Foreign Affairs of Ukraine Andriy Sybiga thanked Great...",
-    "title_uk": "Міністр закордонних справ України Андрій Сибіга подякував Великому...",
-    "description": "Minister of Foreign Affairs of Ukraine Andriy Sybiga thanked Great Britain for its contribution to the PURL initiative. 💬 \"Grateful to the UK and its government for a new £100 million air defense aid package for Ukraine, which includes Patriot missiles and other much-needed weapons, to be delivered ahead of winter through NATO's PURL initiative. This...",
-    "description_en": "Minister of Foreign Affairs of Ukraine Andriy Sybiga thanked Great Britain for its contribution to the PURL initiative. 💬 \"Grateful to the UK and its government for a new £100 million air defense aid package for Ukraine, which includes Patriot missiles and other much-needed weapons, to be delivered ahead of winter through NATO's PURL initiative. This...",
-    "description_uk": "Міністр закордонних справ України Андрій Сибіга подякував Великій Британії за внесок у ініціативу PURL. 💬 \"Вдячний Великій Британії та її уряду за новий пакет допомоги для посилення протиповітряної оборони України на суму 100 мільйонів фунтів стерлінгів, що включає ракети до систем Patriot та інше вкрай необхідне озброєння, яке буде поставлене напередодні зими через ініціативу НАТО PURL. Ця...",
-    "time": "",
-    "pubDate": "2026-09-08T12:59:02+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/10358",
-    "score": 6.5,
-    "views": 759,
-    "forwards": 5
   }
 ]
