@@ -1,5 +1,41 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "🏍 Реактивні БпЛА на Запоріжжі рухаються у напрямку Томаківки з півдня.",
+    "description_en": "🏍 Реактивні БпЛА на Запоріжжі рухаються у напрямку Томаківки з півдня.",
+    "description_uk": "🏍 Реактивні БпЛА на Запоріжжі рухаються у напрямку Томаківки з півдня.",
+    "time": "",
+    "pubDate": "2026-09-11T22:19:16+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/77823",
+    "score": 5.0,
+    "views": 17359,
+    "forwards": 1
+  },
+  {
+    "title": "Dnipro: 🏍 Реактивний БпЛА на Дніпро із заходу.",
+    "title_en": "Dnipro: 🏍 Реактивний БпЛА на Дніпро із заходу.",
+    "title_uk": "Dnipro: 🏍 Реактивний БпЛА на Дніпро із заходу.",
+    "description": "🏍 Реактивний БпЛА на Дніпро із заходу.",
+    "description_en": "🏍 Реактивний БпЛА на Дніпро із заходу.",
+    "description_uk": "🏍 Реактивний БпЛА на Дніпро із заходу.",
+    "time": "",
+    "pubDate": "2026-09-11T21:44:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Dnipro",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/77822",
+    "score": 6.0,
+    "views": 28293,
+    "forwards": 0
+  },
+  {
     "title": "🏍 Реактивний БпЛА на Одесу із заходу.",
     "title_en": "🏍 Реактивний БпЛА на Одесу із заходу.",
     "title_uk": "🏍 Реактивний БпЛА на Одесу із заходу.",
@@ -18,24 +54,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "🏍 Реактивний БпЛА з Броварів у центр Києва південно-західним курсом",
-    "description_en": "🏍 Реактивний БпЛА з Броварів у центр Києва південно-західним курсом",
-    "description_uk": "🏍 Реактивний БпЛА з Броварів у центр Києва південно-західним курсом",
-    "time": "",
-    "pubDate": "2026-09-11T20:47:49+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/77816",
-    "score": 5.0,
-    "views": 24290,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: Traveling to Kyiv during war: What you need to know Reaching...",
     "title_en": "Kyiv: Traveling to Kyiv during war: What you need to know Reaching...",
     "title_uk": "Kyiv: Traveling to Kyiv during war: What you need to know Reaching...",
@@ -50,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55397",
     "score": 4.5,
-    "views": 767,
-    "forwards": 5
+    "views": 1199,
+    "forwards": 6
   },
   {
     "title": "Strike confirmed",
@@ -68,7 +86,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/201008",
     "score": 4.0,
-    "views": 65869,
+    "views": 83999,
     "forwards": 36
   },
   {
@@ -86,13 +104,13 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55395",
     "score": 6.0,
-    "views": 1237,
-    "forwards": 5
+    "views": 1516,
+    "forwards": 6
   },
   {
     "title": "Sanctions must be introduced now. Sanctions should be strong. This is...",
     "title_en": "Sanctions must be introduced now. Sanctions should be strong. This is...",
-    "title_uk": "Sanctions must be introduced now. Sanctions should be strong. This is...",
+    "title_uk": "Санкції потрібно вводити зараз. Санкції мають бути жорсткими. Це...",
     "description": "Sanctions must be introduced now. Sanctions should be strong. This is a tool that the US has in order to deprive Russia of the opportunity to finance the war against Ukraine on a daily basis. And, to be honest, sometimes I don't understand why I can't make a decision quickly. Because in times of war, it is better to make a sometimes imperfect decision than to do nothing. Decisions on sanctions, on economic and energy restrictions...",
     "description_en": "Sanctions must be introduced now. Sanctions should be strong. This is a tool that the US has in order to deprive Russia of the opportunity to finance the war against Ukraine on a daily basis. And, to be honest, sometimes I don't understand why I can't make a decision quickly. Because in times of war, it is better to make a sometimes imperfect decision than to do nothing. Decisions on sanctions, on economic and energy restrictions...",
     "description_uk": "Санкції потрібно вводити зараз. Санкції повинні бути сильні. Це інструмент, який є в США для того, щоб позбавляти Росію можливості щоденно фінансувати війну проти України. І я, чесно кажучи, іноді не розумію, чому не виходить приймати рішення швидко. Бо під час війни краще прийняти іноді неідеальне рішення, ніж нічого не робити. Рішення щодо санкцій, щодо економічних та енергетичних обмежень...",
@@ -104,8 +122,26 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20821",
     "score": 9.0,
-    "views": 44227,
-    "forwards": 74
+    "views": 46620,
+    "forwards": 78
+  },
+  {
+    "title": "Casualties reported",
+    "title_en": "Casualties reported",
+    "title_uk": "Casualties reported",
+    "description": "Сьогодні важливий день – день сильних людей – і в той самий час достатньо трагічний. Двадцять п’ять років тому 11 вересня було завдано удару по людях. Страшний удар, трагедія у Сполучених Штатах Америки. Загинуло близько 3 тисяч людей із 90 країн світу, у тому числі українці. Шана всім героям, котрі тоді робили все, щоб зберегти життя іншим. Поліцейські та пожежники й просто небайдужі люди, серед...",
+    "description_en": "Сьогодні важливий день – день сильних людей – і в той самий час достатньо трагічний. Двадцять п’ять років тому 11 вересня було завдано удару по людях. Страшний удар, трагедія у Сполучених Штатах Америки. Загинуло близько 3 тисяч людей із 90 країн світу, у тому числі українці. Шана всім героям, котрі тоді робили все, щоб зберегти життя іншим. Поліцейські та пожежники й просто небайдужі люди, серед...",
+    "description_uk": "Сьогодні важливий день – день сильних людей – і в той самий час достатньо трагічний. Двадцять п’ять років тому 11 вересня було завдано удару по людях. Страшний удар, трагедія у Сполучених Штатах Америки. Загинуло близько 3 тисяч людей із 90 країн світу, у тому числі українці. Шана всім героям, котрі тоді робили все, щоб зберегти життя іншим. Поліцейські та пожежники й просто небайдужі люди, серед...",
+    "time": "",
+    "pubDate": "2026-09-11T16:56:51+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Ukraine",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20819",
+    "score": 5.5,
+    "views": 99918,
+    "forwards": 153
   },
   {
     "title": "Attack attack",
@@ -234,24 +270,6 @@
     "forwards": 308
   },
   {
-    "title": "🏍Реактивний БпЛА на Вознесенськ з півночі.",
-    "title_en": "🏍Реактивний БпЛА на Вознесенськ з півночі.",
-    "title_uk": "🏍Реактивний БпЛА на Вознесенськ з півночі.",
-    "description": "🏍Реактивний БпЛА на Вознесенськ з півночі.",
-    "description_en": "🏍Реактивний БпЛА на Вознесенськ з півночі.",
-    "description_uk": "🏍Реактивний БпЛА на Вознесенськ з півночі.",
-    "time": "",
-    "pubDate": "2026-09-11T11:10:50+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/77774",
-    "score": 5.0,
-    "views": 56511,
-    "forwards": 2
-  },
-  {
     "title": "Kyiv: Casualties reported",
     "title_en": "Kyiv: Casualties reported",
     "title_uk": "Київ: повідомляється про постраждалих",
@@ -268,24 +286,6 @@
     "score": 6.0,
     "views": 1617,
     "forwards": 6
-  },
-  {
-    "title": "Dnipro: Drone incoming",
-    "title_en": "Dnipro: Drone incoming",
-    "title_uk": "Dnipro: Drone incoming",
-    "description": "🏍 Реактивний БпЛА рухається у напрямку Софіївки на Дніпропетровщині",
-    "description_en": "🏍 Реактивний БпЛА рухається у напрямку Софіївки на Дніпропетровщині",
-    "description_uk": "🏍 Реактивний БпЛА рухається у напрямку Софіївки на Дніпропетровщині",
-    "time": "",
-    "pubDate": "2026-09-11T10:25:11+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/77772",
-    "score": 6.0,
-    "views": 78698,
-    "forwards": 1
   },
   {
     "title": "Kyiv: Ballistic missile launch detected",
@@ -374,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10383",
     "score": 14.0,
-    "views": 925,
+    "views": 933,
     "forwards": 4
   },
   {
@@ -392,25 +392,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23823",
     "score": 4.5,
-    "views": 157376,
-    "forwards": 776
-  },
-  {
-    "title": "Casualties reported",
-    "title_en": "Casualties reported",
-    "title_uk": "Casualties reported",
-    "description": "Міністр закордонних справ України Андрій Сибіга щодо удару РФ по підприємству «Олейна»: 💬 \"Росія знову завдала удару по цивільному підприємству з виробництва соняшникової олії в Дніпрі, що належить американському агробізнес-гіганту Bunge. Щонайменше двоє людей загинули. Підприємство зазнало серйозних пошкоджень. Це не випадковість, а частина систематичної терористичної кампанії Москви проти...",
-    "description_en": "Міністр закордонних справ України Андрій Сибіга щодо удару РФ по підприємству «Олейна»: 💬 \"Росія знову завдала удару по цивільному підприємству з виробництва соняшникової олії в Дніпрі, що належить американському агробізнес-гіганту Bunge. Щонайменше двоє людей загинули. Підприємство зазнало серйозних пошкоджень. Це не випадковість, а частина систематичної терористичної кампанії Москви проти...",
-    "description_uk": "Міністр закордонних справ України Андрій Сибіга щодо удару РФ по підприємству «Олейна»: 💬 \"Росія знову завдала удару по цивільному підприємству з виробництва соняшникової олії в Дніпрі, що належить американському агробізнес-гіганту Bunge. Щонайменше двоє людей загинули. Підприємство зазнало серйозних пошкоджень. Це не випадковість, а частина систематичної терористичної кампанії Москви проти...",
-    "time": "",
-    "pubDate": "2026-09-10T12:10:09+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "Ukraine MFA",
-    "link": "https://t.me/Ukraine_MFA/10371",
-    "score": 9.0,
-    "views": 2735,
-    "forwards": 24
+    "views": 158575,
+    "forwards": 777
   }
 ]
