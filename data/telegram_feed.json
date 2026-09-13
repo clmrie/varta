@@ -1,5 +1,41 @@
 [
   {
+    "title": "Mariupol: Energy infrastructure hit",
+    "title_en": "Mariupol: Energy infrastructure hit",
+    "title_uk": "Mariupol: Energy infrastructure hit",
+    "description": "Ukrainian forces reportedly strike energy infrastructure in occupied Mariupol as fire burns in Russia's Taganrog. Ukrainian forces hit energy infrastructure in the occupied city of Mariupol late on Sept. 13 as a fire continued to burn in southern Russia's Taganrog following an earlier attack, monitoring channels reported.",
+    "description_en": "Ukrainian forces reportedly strike energy infrastructure in occupied Mariupol as fire burns in Russia's Taganrog. Ukrainian forces hit energy infrastructure in the occupied city of Mariupol late on Sept. 13 as a fire continued to burn in southern Russia's Taganrog following an earlier attack, monitoring channels reported.",
+    "description_uk": "Ukrainian forces reportedly strike energy infrastructure in occupied Mariupol as fire burns in Russia's Taganrog. Ukrainian forces hit energy infrastructure in the occupied city of Mariupol late on Sept. 13 as a fire continued to burn in southern Russia's Taganrog following an earlier attack, monitoring channels reported.",
+    "time": "",
+    "pubDate": "2026-09-13T20:48:31+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Mariupol",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55427",
+    "score": 8.5,
+    "views": 624,
+    "forwards": 1
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Kharkiv: Drone incoming",
+    "description": "Ударний БпЛА на Харків з північного напрямку.",
+    "description_en": "Ударний БпЛА на Харків з північного напрямку.",
+    "description_uk": "Ударний БпЛА на Харків з північного напрямку.",
+    "time": "",
+    "pubDate": "2026-09-13T20:07:43+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/78141",
+    "score": 6.5,
+    "views": 61998,
+    "forwards": 92
+  },
+  {
     "title": "БпЛА на Черкаси з півдня.",
     "title_en": "БпЛА на Черкаси з півдня.",
     "title_uk": "БпЛА на Черкаси з півдня.",
@@ -14,8 +50,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/78139",
     "score": 5.0,
-    "views": 8067,
-    "forwards": 0
+    "views": 77201,
+    "forwards": 1
   },
   {
     "title": "Drone incoming",
@@ -50,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/201182",
     "score": 3.5,
-    "views": 30044,
-    "forwards": 79
+    "views": 86423,
+    "forwards": 191
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -69,24 +105,6 @@
     "link": "https://t.me/kpszsu/78127",
     "score": 6.0,
     "views": 7055,
-    "forwards": 0
-  },
-  {
-    "title": "Kharkiv: Drone incoming",
-    "title_en": "Kharkiv: Drone incoming",
-    "title_uk": "Kharkiv: Drone incoming",
-    "description": "Дніпропетровщина - БпЛА в районі Павлограда курсом на Харківщину.",
-    "description_en": "Дніпропетровщина - БпЛА в районі Павлограда курсом на Харківщину.",
-    "description_uk": "Дніпропетровщина - БпЛА в районі Павлограда курсом на Харківщину.",
-    "time": "",
-    "pubDate": "2026-09-13T17:15:02+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kharkiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/78126",
-    "score": 6.0,
-    "views": 26148,
     "forwards": 0
   },
   {
@@ -122,7 +140,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10392",
     "score": 5.0,
-    "views": 1414,
+    "views": 1495,
     "forwards": 9
   },
   {
@@ -140,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55422",
     "score": 10.0,
-    "views": 2329,
+    "views": 2583,
     "forwards": 4
   },
   {
@@ -194,44 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20861",
     "score": 17.0,
-    "views": 255215,
-    "forwards": 421
-  },
-  {
-    "title": "И к хорошим новостям — русня утверждает, что в Таганроге выбили всю...",
-    "title_en": "И к хорошим новостям — русня утверждает, что в Таганроге выбили всю...",
-    "title_uk": "И к хорошим новостям — русня утверждает, что в Таганроге выбили всю...",
-    "description": "И к хорошим новостям — русня утверждает, что в Таганроге выбили всю ПВО. Там не осталось действующих «Панцирей» и С-300/400 😌 Также уничтожен склад, где хранились готовые БПЛА «Молния».",
-    "description_en": "И к хорошим новостям — русня утверждает, что в Таганроге выбили всю ПВО. Там не осталось действующих «Панцирей» и С-300/400 😌 Также уничтожен склад, где хранились готовые БПЛА «Молния».",
-    "description_uk": "И к хорошим новостям — русня утверждает, что в Таганроге выбили всю ПВО. Там не осталось действующих «Панцирей» и С-300/400 😌 Также уничтожен склад, где хранились готовые БПЛА «Молния».",
-    "time": "",
-    "pubDate": "2026-09-13T08:43:45+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/201142",
-    "score": 6.5,
-    "views": 73282,
-    "forwards": 212
-  },
-  {
-    "title": "Attack attack",
-    "title_en": "Attack attack",
-    "title_uk": "Attack attack",
-    "description": "Удар по локомотиву пассажирского поезда был в двух километрах от границы с Польшей, — «УЗ» Поездную бригаду своевременно предупредили об угрозе. Никто не пострадал.",
-    "description_en": "Удар по локомотиву пассажирского поезда был в двух километрах от границы с Польшей, — «УЗ» Поездную бригаду своевременно предупредили об угрозе. Никто не пострадал.",
-    "description_uk": "Удар по локомотиву пассажирского поезда был в двух километрах от границы с Польшей, — «УЗ» Поездную бригаду своевременно предупредили об угрозе. Никто не пострадал.",
-    "time": "",
-    "pubDate": "2026-09-13T08:19:11+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/201141",
-    "score": 4.5,
-    "views": 84007,
-    "forwards": 147
+    "views": 264311,
+    "forwards": 430
   },
   {
     "title": "Kursk: Drone incoming",
@@ -266,7 +248,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20857",
     "score": 5.5,
-    "views": 93567,
+    "views": 94397,
     "forwards": 135
   },
   {
@@ -284,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10387",
     "score": 3.5,
-    "views": 689,
+    "views": 694,
     "forwards": 3
   },
   {
@@ -302,8 +284,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23826",
     "score": 15.5,
-    "views": 166587,
-    "forwards": 555
+    "views": 168193,
+    "forwards": 556
   },
   {
     "title": "Strike confirmed",
@@ -320,7 +302,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/42205",
     "score": 8.0,
-    "views": 25688,
+    "views": 25770,
     "forwards": 60
   }
 ]
