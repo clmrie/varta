@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kherson: Drone incoming",
+    "title_en": "Kherson: Drone incoming",
+    "title_uk": "Kherson: Drone incoming",
+    "description": "Ударний БпЛА на Херсонщині у напрямку Чорного моря.",
+    "description_en": "Ударний БпЛА на Херсонщині у напрямку Чорного моря.",
+    "description_uk": "Ударний БпЛА на Херсонщині у напрямку Чорного моря.",
+    "time": "",
+    "pubDate": "2026-09-13T22:02:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kherson",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/78144",
+    "score": 6.0,
+    "views": 22612,
+    "forwards": 10
+  },
+  {
     "title": "Mariupol: Energy infrastructure hit",
     "title_en": "Mariupol: Energy infrastructure hit",
     "title_uk": "Mariupol: Energy infrastructure hit",
@@ -14,7 +32,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55427",
     "score": 8.5,
-    "views": 624,
+    "views": 1012,
     "forwards": 1
   },
   {
@@ -32,7 +50,7 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/78141",
     "score": 6.5,
-    "views": 61998,
+    "views": 75489,
     "forwards": 92
   },
   {
@@ -85,9 +103,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/201182",
-    "score": 3.5,
-    "views": 86423,
-    "forwards": 191
+    "score": 4.5,
+    "views": 97133,
+    "forwards": 230
   },
   {
     "title": "Mykolaiv: Drone incoming",
@@ -140,7 +158,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10392",
     "score": 5.0,
-    "views": 1495,
+    "views": 1509,
     "forwards": 9
   },
   {
@@ -158,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55422",
     "score": 10.0,
-    "views": 2583,
+    "views": 2692,
     "forwards": 4
   },
   {
@@ -212,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20861",
     "score": 17.0,
-    "views": 264311,
-    "forwards": 430
+    "views": 266533,
+    "forwards": 438
   },
   {
     "title": "Kursk: Drone incoming",
@@ -248,7 +266,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20857",
     "score": 5.5,
-    "views": 94397,
+    "views": 94711,
     "forwards": 135
   },
   {
@@ -284,7 +302,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23826",
     "score": 15.5,
-    "views": 168193,
+    "views": 168709,
     "forwards": 556
   },
   {
@@ -302,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/42205",
     "score": 8.0,
-    "views": 25770,
+    "views": 25793,
     "forwards": 60
   }
 ]
