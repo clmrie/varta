@@ -1,5 +1,41 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Mykolaiv: Drone incoming",
+    "description": "🏍 Реактивний БпЛА у напрямку Миколаївщини з акваторії Чорного моря.",
+    "description_en": "🏍 Реактивний БпЛА у напрямку Миколаївщини з акваторії Чорного моря.",
+    "description_uk": "🏍 Реактивний БпЛА у напрямку Миколаївщини з акваторії Чорного моря.",
+    "time": "",
+    "pubDate": "2026-09-13T17:29:00+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/78127",
+    "score": 6.0,
+    "views": 7055,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: Drone incoming",
+    "title_en": "Kharkiv: Drone incoming",
+    "title_uk": "Kharkiv: Drone incoming",
+    "description": "Дніпропетровщина - БпЛА в районі Павлограда курсом на Харківщину.",
+    "description_en": "Дніпропетровщина - БпЛА в районі Павлограда курсом на Харківщину.",
+    "description_uk": "Дніпропетровщина - БпЛА в районі Павлограда курсом на Харківщину.",
+    "time": "",
+    "pubDate": "2026-09-13T17:15:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/78126",
+    "score": 6.0,
+    "views": 26148,
+    "forwards": 0
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Drone incoming",
@@ -50,8 +86,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10392",
     "score": 5.0,
-    "views": 691,
-    "forwards": 7
+    "views": 1249,
+    "forwards": 9
   },
   {
     "title": "Sloviansk: Attack attack on residential area",
@@ -68,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55422",
     "score": 10.0,
-    "views": 1156,
+    "views": 1959,
     "forwards": 4
   },
   {
@@ -86,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55421",
     "score": 10.0,
-    "views": 1473,
+    "views": 2078,
     "forwards": 3
   },
   {
@@ -122,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20861",
     "score": 17.0,
-    "views": 195159,
-    "forwards": 367
+    "views": 233411,
+    "forwards": 392
   },
   {
     "title": "И к хорошим новостям — русня утверждает, что в Таганроге выбили всю...",
@@ -180,60 +216,6 @@
     "forwards": 68
   },
   {
-    "title": "Zaporizhzhia: Drone attack",
-    "title_en": "Zaporizhzhia: Drone attack",
-    "title_uk": "Zaporizhzhia: Drone attack",
-    "description": "Ударний БпЛА на Запоріжжя зі сходу.",
-    "description_en": "Ударний БпЛА на Запоріжжя зі сходу.",
-    "description_uk": "Ударний БпЛА на Запоріжжя зі сходу.",
-    "time": "",
-    "pubDate": "2026-09-13T05:01:25+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/78069",
-    "score": 6.0,
-    "views": 19226,
-    "forwards": 0
-  },
-  {
-    "title": "Kyiv: Russian region offers record $18,000 reward for recruiting foreigners...",
-    "title_en": "Kyiv: Russian region offers record $18,000 reward for recruiting foreigners...",
-    "title_uk": "Kyiv: Russian region offers record $18,000 reward for recruiting foreigners...",
-    "description": "Russian region offers record $18,000 reward for recruiting foreigners to fight in Ukraine. The increase comes amid mounting evidence that Russia has relied on foreigners, particularly people from lower-income countries, to replenish its forces.",
-    "description_en": "Russian region offers record $18,000 reward for recruiting foreigners to fight in Ukraine. The increase comes amid mounting evidence that Russia has relied on foreigners, particularly people from lower-income countries, to replenish its forces.",
-    "description_uk": "Russian region offers record $18,000 reward for recruiting foreigners to fight in Ukraine. The increase comes amid mounting evidence that Russia has relied on foreigners, particularly people from lower-income countries, to replenish its forces.",
-    "time": "",
-    "pubDate": "2026-09-13T04:35:57+00:00",
-    "category": "alert",
-    "severity": "medium",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55416",
-    "score": 4.0,
-    "views": 271,
-    "forwards": 1
-  },
-  {
-    "title": "Odesa: Missile attack",
-    "title_en": "Odesa: Missile attack",
-    "title_uk": "Odesa: Missile attack",
-    "description": "Ukrainian tennis player Yastremska says family apartment destroyed in Russian attack on Odesa. \"A Russian missile destroyed our apartment in Odesa. The only thing that survived was a Roland Garros towel,\" Yastremska wrote on Instagram.",
-    "description_en": "Ukrainian tennis player Yastremska says family apartment destroyed in Russian attack on Odesa. \"A Russian missile destroyed our apartment in Odesa. The only thing that survived was a Roland Garros towel,\" Yastremska wrote on Instagram.",
-    "description_uk": "Ukrainian tennis player Yastremska says family apartment destroyed in Russian attack on Odesa. \"A Russian missile destroyed our apartment in Odesa. The only thing that survived was a Roland Garros towel,\" Yastremska wrote on Instagram.",
-    "time": "",
-    "pubDate": "2026-09-13T02:33:20+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Odesa",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55415",
-    "score": 5.0,
-    "views": 639,
-    "forwards": 1
-  },
-  {
     "title": "Kyiv: 'First-ever battle' — Ukrainian naval drone destroys Russian unmanned...",
     "title_en": "Kyiv: 'First-ever battle' — Ukrainian naval drone destroys Russian unmanned...",
     "title_uk": "Kyiv: 'First-ever battle' — Ukrainian naval drone destroys Russian unmanned...",
@@ -266,8 +248,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20857",
     "score": 5.5,
-    "views": 89944,
-    "forwards": 131
+    "views": 92043,
+    "forwards": 133
   },
   {
     "title": "Air defense active",
@@ -320,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10387",
     "score": 3.5,
-    "views": 668,
+    "views": 679,
     "forwards": 3
   },
   {
@@ -338,8 +320,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23826",
     "score": 15.5,
-    "views": 157952,
-    "forwards": 550
+    "views": 163907,
+    "forwards": 551
   },
   {
     "title": "Strike confirmed",
@@ -356,7 +338,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/42205",
     "score": 8.0,
-    "views": 25276,
+    "views": 25496,
     "forwards": 60
   }
 ]
