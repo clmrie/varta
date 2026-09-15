@@ -1,5 +1,23 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "🏍 Реактивний БпЛА у напрямку Ковеля зв сходу.",
+    "description_en": "🏍 Реактивний БпЛА у напрямку Ковеля зв сходу.",
+    "description_uk": "🏍 Реактивний БпЛА у напрямку Ковеля зв сходу.",
+    "time": "",
+    "pubDate": "2026-09-15T00:41:55+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/78273",
+    "score": 5.0,
+    "views": 4043,
+    "forwards": 0
+  },
+  {
     "title": "🏍 Реактивний БпЛА на Кременчук з півночі.",
     "title_en": "🏍 Реактивний БпЛА на Кременчук з півночі.",
     "title_uk": "🏍 Реактивний БпЛА на Кременчук з півночі.",
@@ -18,24 +36,6 @@
     "forwards": 0
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "🏍 Реактивний БпЛА у напрямку Гадяча на Полтавщині з північного сходу.",
-    "description_en": "🏍 Реактивний БпЛА у напрямку Гадяча на Полтавщині з північного сходу.",
-    "description_uk": "🏍 Реактивний БпЛА у напрямку Гадяча на Полтавщині з північного сходу.",
-    "time": "",
-    "pubDate": "2026-09-14T22:09:46+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/78260",
-    "score": 5.0,
-    "views": 10169,
-    "forwards": 1
-  },
-  {
     "title": "Attack attack on infrastructure",
     "title_en": "Attack attack on infrastructure",
     "title_uk": "Attack attack on infrastructure",
@@ -50,8 +50,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20874",
     "score": 7.5,
-    "views": 19004,
-    "forwards": 26
+    "views": 22036,
+    "forwards": 32
   },
   {
     "title": "Kyiv: Attack attack",
@@ -68,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55452",
     "score": 9.0,
-    "views": 1172,
-    "forwards": 2
+    "views": 1459,
+    "forwards": 3
   },
   {
     "title": "Kyiv: Drone attack on energy grid",
@@ -86,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55451",
     "score": 7.5,
-    "views": 1086,
-    "forwards": 6
+    "views": 1332,
+    "forwards": 7
   },
   {
     "title": "Kharkiv: Drone incoming",
@@ -158,7 +158,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10400",
     "score": 5.0,
-    "views": 477,
+    "views": 487,
     "forwards": 6
   },
   {
@@ -252,24 +252,6 @@
     "forwards": 113
   },
   {
-    "title": "У россиян появились КАБы, которыми они могут дотянуться до Одессы...",
-    "title_en": "У россиян появились КАБы, которыми они могут дотянуться до Одессы...",
-    "title_uk": "У россиян появились КАБы, которыми они могут дотянуться до Одессы...",
-    "description": "У россиян появились КАБы, которыми они могут дотянуться до Одессы Россияне снова усовершенствовали свои управляемые авиабомбы — теперь отдельные КАБы способны пролетать более 120 км. Это позволяет запускать их так, чтобы они могли достигать непосредственно Одессы. Ранее такие боеприпасы фиксировали преимущественно в других районах Одесской области. Военный эксперт Александр Коваленко в...",
-    "description_en": "У россиян появились КАБы, которыми они могут дотянуться до Одессы Россияне снова усовершенствовали свои управляемые авиабомбы — теперь отдельные КАБы способны пролетать более 120 км. Это позволяет запускать их так, чтобы они могли достигать непосредственно Одессы. Ранее такие боеприпасы фиксировали преимущественно в других районах Одесской области. Военный эксперт Александр Коваленко в...",
-    "description_uk": "У россиян появились КАБы, которыми они могут дотянуться до Одессы Россияне снова усовершенствовали свои управляемые авиабомбы — теперь отдельные КАБы способны пролетать более 120 км. Это позволяет запускать их так, чтобы они могли достигать непосредственно Одессы. Ранее такие боеприпасы фиксировали преимущественно в других районах Одесской области. Военный эксперт Александр Коваленко в...",
-    "time": "",
-    "pubDate": "2026-09-14T11:37:45+00:00",
-    "category": "shelling",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/201230",
-    "score": 6.5,
-    "views": 97197,
-    "forwards": 276
-  },
-  {
     "title": "Kyiv: Update: Prosecutor General leaves Ukraine citing business trip. A...",
     "title_en": "Kyiv: Update: Prosecutor General leaves Ukraine citing business trip. A...",
     "title_uk": "Kyiv: Update: Prosecutor General leaves Ukraine citing business trip. A...",
@@ -320,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10392",
     "score": 5.0,
-    "views": 1892,
+    "views": 1895,
     "forwards": 12
   }
 ]
