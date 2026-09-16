@@ -1,5 +1,95 @@
 [
   {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Mykolaiv: Drone incoming",
+    "description": "🏍 Реактивний БпЛА в р-ні Нового Бугу (Миколаївщина) у напрямку Кіровоградщини.",
+    "description_en": "🏍 Реактивний БпЛА в р-ні Нового Бугу (Миколаївщина) у напрямку Кіровоградщини.",
+    "description_uk": "🏍 Реактивний БпЛА в р-ні Нового Бугу (Миколаївщина) у напрямку Кіровоградщини.",
+    "time": "",
+    "pubDate": "2026-09-16T23:02:28+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/78576",
+    "score": 6.0,
+    "views": 37368,
+    "forwards": 0
+  },
+  {
+    "title": "Zaporizhzhia: Ракета у напрямку м Запоріжжя з південного-сходу.",
+    "title_en": "Zaporizhzhia: Ракета у напрямку м Запоріжжя з південного-сходу.",
+    "title_uk": "Zaporizhzhia: Ракета у напрямку м Запоріжжя з південного-сходу.",
+    "description": "Ракета у напрямку м Запоріжжя з південного-сходу.",
+    "description_en": "Ракета у напрямку м Запоріжжя з південного-сходу.",
+    "description_uk": "Ракета у напрямку м Запоріжжя з південного-сходу.",
+    "time": "",
+    "pubDate": "2026-09-16T23:00:09+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Zaporizhzhia",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/78575",
+    "score": 6.0,
+    "views": 37914,
+    "forwards": 31
+  },
+  {
+    "title": "В Киеве прозвучал взрыв, предположительно, после сбития реактивного...",
+    "title_en": "В Киеве прозвучал взрыв, предположительно, после сбития реактивного...",
+    "title_uk": "В Киеве прозвучал взрыв, предположительно, после сбития реактивного...",
+    "description": "В Киеве прозвучал взрыв, предположительно, после сбития реактивного БПЛА на юге города По данным мониторов, вокруг столицы еще остаются несколько управляемых дронов.",
+    "description_en": "В Киеве прозвучал взрыв, предположительно, после сбития реактивного БПЛА на юге города По данным мониторов, вокруг столицы еще остаются несколько управляемых дронов.",
+    "description_uk": "В Киеве прозвучал взрыв, предположительно, после сбития реактивного БПЛА на юге города По данным мониторов, вокруг столицы еще остаются несколько управляемых дронов.",
+    "time": "",
+    "pubDate": "2026-09-16T21:37:55+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/201423",
+    "score": 5.0,
+    "views": 34742,
+    "forwards": 1
+  },
+  {
+    "title": "Польша усилит защиту границы с Украиной: установят электронную...",
+    "title_en": "Польша усилит защиту границы с Украиной: установят электронную...",
+    "title_uk": "Польша усилит защиту границы с Украиной: установят электронную...",
+    "description": "Польша усилит защиту границы с Украиной: установят электронную систему контроля и датчики движения, — Polskie Radio На более чем 100 км польско-украинской границы планируют установить электронную систему защиты и датчики движения. Речь идет о 69 км в зоне ответственности Надбужанского отдела Пограничной службы, что граничит с Волынской и Львовской областями Украины, а еще 43 км Бещадского отдела...",
+    "description_en": "Польша усилит защиту границы с Украиной: установят электронную систему контроля и датчики движения, — Polskie Radio На более чем 100 км польско-украинской границы планируют установить электронную систему защиты и датчики движения. Речь идет о 69 км в зоне ответственности Надбужанского отдела Пограничной службы, что граничит с Волынской и Львовской областями Украины, а еще 43 км Бещадского отдела...",
+    "description_uk": "Польша усилит защиту границы с Украиной: установят электронную систему контроля и датчики движения, — Polskie Radio На более чем 100 км польско-украинской границы планируют установить электронную систему защиты и датчики движения. Речь идет о 69 км в зоне ответственности Надбужанского отдела Пограничной службы, что граничит с Волынской и Львовской областями Украины, а еще 43 км Бещадского отдела...",
+    "time": "",
+    "pubDate": "2026-09-16T21:29:58+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/201422",
+    "score": 5.5,
+    "views": 37692,
+    "forwards": 66
+  },
+  {
+    "title": "Kyiv: Drone attack on infrastructure",
+    "title_en": "Kyiv: Drone attack on infrastructure",
+    "title_uk": "Kyiv: Drone attack on infrastructure",
+    "description": "Russian attack damages education facility in Ukraine's capital, targets Kyiv Oblast infrastructure. A late-night Russian drone attack on Sept. 16 damaged an education facility in Ukraine's capital and additional infrastructure in Kyiv Oblast, authorities reported.",
+    "description_en": "Russian attack damages education facility in Ukraine's capital, targets Kyiv Oblast infrastructure. A late-night Russian drone attack on Sept. 16 damaged an education facility in Ukraine's capital and additional infrastructure in Kyiv Oblast, authorities reported.",
+    "description_uk": "Russian attack damages education facility in Ukraine's capital, targets Kyiv Oblast infrastructure. A late-night Russian drone attack on Sept. 16 damaged an education facility in Ukraine's capital and additional infrastructure in Kyiv Oblast, authorities reported.",
+    "time": "",
+    "pubDate": "2026-09-16T21:08:47+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55511",
+    "score": 8.0,
+    "views": 791,
+    "forwards": 5
+  },
+  {
     "title": "Реактивний БпЛА на Одесу.",
     "title_en": "Реактивний БпЛА на Одесу.",
     "title_uk": "Реактивний БпЛА на Одесу.",
@@ -122,7 +212,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55507",
     "score": 6.0,
-    "views": 1414,
+    "views": 1803,
     "forwards": 6
   },
   {
@@ -234,24 +324,6 @@
     "forwards": 112
   },
   {
-    "title": "Airstrike attack",
-    "title_en": "Airstrike attack",
-    "title_uk": "Airstrike attack",
-    "description": "ВСУ поразили очередной российский самолет в оккупированном Крыму, - Генштаб На аэродроме Саки под удар попал бомбардировщик Су-24. Степень повреждений самолета пока уточняется.",
-    "description_en": "ВСУ поразили очередной российский самолет в оккупированном Крыму, - Генштаб На аэродроме Саки под удар попал бомбардировщик Су-24. Степень повреждений самолета пока уточняется.",
-    "description_uk": "ВСУ поразили очередной российский самолет в оккупированном Крыму, - Генштаб На аэродроме Саки под удар попал бомбардировщик Су-24. Степень повреждений самолета пока уточняется.",
-    "time": "",
-    "pubDate": "2026-09-16T09:30:07+00:00",
-    "category": "shelling",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/201379",
-    "score": 4.5,
-    "views": 112697,
-    "forwards": 111
-  },
-  {
     "title": "Mykolaiv: Casualties reported",
     "title_en": "Mykolaiv: Casualties reported",
     "title_uk": "Mykolaiv: Casualties reported",
@@ -266,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20894",
     "score": 18.0,
-    "views": 145824,
-    "forwards": 307
+    "views": 148766,
+    "forwards": 311
   },
   {
     "title": "Kyiv: Casualties reported",
@@ -302,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10416",
     "score": 14.0,
-    "views": 882,
+    "views": 892,
     "forwards": 5
   },
   {
@@ -320,8 +392,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20890",
     "score": 4.0,
-    "views": 80564,
-    "forwards": 172
+    "views": 81379,
+    "forwards": 175
   },
   {
     "title": "Attack attack on infrastructure",
@@ -338,7 +410,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10413",
     "score": 9.0,
-    "views": 1033,
+    "views": 1036,
     "forwards": 10
   }
 ]
