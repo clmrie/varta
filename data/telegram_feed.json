@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "🏍 Реактивний БпЛА південніше Миколаєва західним курсом у напрямку Одеси",
+    "description_en": "🏍 Реактивний БпЛА південніше Миколаєва західним курсом у напрямку Одеси",
+    "description_uk": "🏍 Реактивний БпЛА південніше Миколаєва західним курсом у напрямку Одеси",
+    "time": "",
+    "pubDate": "2026-09-17T22:25:25+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/78733",
+    "score": 5.0,
+    "views": 1222,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Air defense active",
+    "title_en": "Kyiv: Air defense active",
+    "title_uk": "Kyiv: Air defense active",
+    "description": "US set to approve 10 Patriot interceptors for Ukraine from Germany, records show. Germany will soon transfer 10 MIM–104E GEM–T Patriot interceptor missiles, valued at $29.6 million, to Ukraine, the U.S. State Department said in a notification to Congress.",
+    "description_en": "US set to approve 10 Patriot interceptors for Ukraine from Germany, records show. Germany will soon transfer 10 MIM–104E GEM–T Patriot interceptor missiles, valued at $29.6 million, to Ukraine, the U.S. State Department said in a notification to Congress.",
+    "description_uk": "US set to approve 10 Patriot interceptors for Ukraine from Germany, records show. Germany will soon transfer 10 MIM–104E GEM–T Patriot interceptor missiles, valued at $29.6 million, to Ukraine, the U.S. State Department said in a notification to Congress.",
+    "time": "",
+    "pubDate": "2026-09-17T21:55:07+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55545",
+    "score": 8.0,
+    "views": 291,
+    "forwards": 4
+  },
+  {
+    "title": "Kyiv: Explosions reported",
+    "title_en": "Kyiv: Explosions reported",
+    "title_uk": "Kyiv: Explosions reported",
+    "description": "Update: 2 arrested in terrorist investigation after explosion at Lviv Oblast recruitment center injures serviceman. Law enforcement officers arrested two local residents after the explosion, the Lviv Special Prosecutor's Office said. Earlier in the day, an unknown individual threw an explosive device from a Daewoo Lanos car that had been driven past the gates of a military recruitment facility.",
+    "description_en": "Update: 2 arrested in terrorist investigation after explosion at Lviv Oblast recruitment center injures serviceman. Law enforcement officers arrested two local residents after the explosion, the Lviv Special Prosecutor's Office said. Earlier in the day, an unknown individual threw an explosive device from a Daewoo Lanos car that had been driven past the gates of a military recruitment facility.",
+    "description_uk": "Update: 2 arrested in terrorist investigation after explosion at Lviv Oblast recruitment center injures serviceman. Law enforcement officers arrested two local residents after the explosion, the Lviv Special Prosecutor's Office said. Earlier in the day, an unknown individual threw an explosive device from a Daewoo Lanos car that had been driven past the gates of a military recruitment facility.",
+    "time": "",
+    "pubDate": "2026-09-17T19:46:07+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55543",
+    "score": 10.0,
+    "views": 1121,
+    "forwards": 4
+  },
+  {
     "title": "Kherson: Drone strike near civilians",
     "title_en": "Kherson: Drone strike near civilians",
     "title_uk": "Kherson: Drone strike near civilians",
@@ -54,24 +108,6 @@
     "forwards": 1
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "🏍 Реактивний БпЛа зі сторони Чабанів у напрямку центру Києва.",
-    "description_en": "🏍 Реактивний БпЛа зі сторони Чабанів у напрямку центру Києва.",
-    "description_uk": "🏍 Реактивний БпЛа зі сторони Чабанів у напрямку центру Києва.",
-    "time": "",
-    "pubDate": "2026-09-17T18:57:16+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/78722",
-    "score": 5.0,
-    "views": 53600,
-    "forwards": 34
-  },
-  {
     "title": "Strike confirmed",
     "title_en": "Strike confirmed",
     "title_uk": "Strike confirmed",
@@ -86,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/201510",
     "score": 4.5,
-    "views": 59929,
-    "forwards": 139
+    "views": 99293,
+    "forwards": 168
   },
   {
     "title": "🇩🇪 Rheinmetall планує випускати до 400 систем ППО Skyranger і Skynex...",
@@ -104,8 +140,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23840",
     "score": 8.5,
-    "views": 75240,
-    "forwards": 97
+    "views": 88713,
+    "forwards": 121
   },
   {
     "title": "10 missiles",
@@ -198,24 +234,6 @@
     "forwards": 2
   },
   {
-    "title": "Kyiv: Explosions reported",
-    "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Kyiv: Explosions reported",
-    "description": "'Powerful explosion' occurs near Polish border amid Russian drone attack on western Ukraine, Tusk says A Russian jet-powered drone crashed or struck a target about 4 kilometers (2.5 miles) from the Polish border during a Russian attack on western Ukraine, Polish authorities said on Sept. 17.",
-    "description_en": "'Powerful explosion' occurs near Polish border amid Russian drone attack on western Ukraine, Tusk says A Russian jet-powered drone crashed or struck a target about 4 kilometers (2.5 miles) from the Polish border during a Russian attack on western Ukraine, Polish authorities said on Sept. 17.",
-    "description_uk": "'Powerful explosion' occurs near Polish border amid Russian drone attack on western Ukraine, Tusk says A Russian jet-powered drone crashed or struck a target about 4 kilometers (2.5 miles) from the Polish border during a Russian attack on western Ukraine, Polish authorities said on Sept. 17.",
-    "time": "",
-    "pubDate": "2026-09-17T14:22:37+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55530",
-    "score": 11.5,
-    "views": 1000,
-    "forwards": 4
-  },
-  {
     "title": "Kryvyi Rih: Drone incoming",
     "title_en": "Kryvyi Rih: Drone incoming",
     "title_uk": "Kryvyi Rih: Drone incoming",
@@ -302,7 +320,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20912",
     "score": 6.5,
-    "views": 176383,
+    "views": 178363,
     "forwards": 220
   },
   {
@@ -376,23 +394,5 @@
     "score": 18.0,
     "views": 173,
     "forwards": 4
-  },
-  {
-    "title": "Kyiv: Drone attack on infrastructure",
-    "title_en": "Kyiv: Drone attack on infrastructure",
-    "title_uk": "Kyiv: Drone attack on infrastructure",
-    "description": "Russian attack damages education facility in Ukraine's capital, targets Kyiv Oblast infrastructure. A late-night Russian drone attack on Sept. 16 damaged an education facility in Ukraine's capital and additional infrastructure in Kyiv Oblast, authorities reported.",
-    "description_en": "Russian attack damages education facility in Ukraine's capital, targets Kyiv Oblast infrastructure. A late-night Russian drone attack on Sept. 16 damaged an education facility in Ukraine's capital and additional infrastructure in Kyiv Oblast, authorities reported.",
-    "description_uk": "Russian attack damages education facility in Ukraine's capital, targets Kyiv Oblast infrastructure. A late-night Russian drone attack on Sept. 16 damaged an education facility in Ukraine's capital and additional infrastructure in Kyiv Oblast, authorities reported.",
-    "time": "",
-    "pubDate": "2026-09-16T21:08:47+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55511",
-    "score": 8.0,
-    "views": 791,
-    "forwards": 5
   }
 ]
