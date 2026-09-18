@@ -1,5 +1,23 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Chernihiv: Drone incoming",
+    "description": "Сумщина - БпЛА повз Путивль, курсом на Чернігівщину.",
+    "description_en": "Сумщина - БпЛА повз Путивль, курсом на Чернігівщину.",
+    "description_uk": "Сумщина - БпЛА повз Путивль, курсом на Чернігівщину.",
+    "time": "",
+    "pubDate": "2026-09-17T22:53:52+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/78734",
+    "score": 6.0,
+    "views": 19528,
+    "forwards": 10
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Drone incoming",
@@ -14,8 +32,8 @@
     "source": "Ukrainian Air Force",
     "link": "https://t.me/kpszsu/78733",
     "score": 5.0,
-    "views": 1222,
-    "forwards": 0
+    "views": 24731,
+    "forwards": 11
   },
   {
     "title": "Kyiv: Air defense active",
@@ -32,8 +50,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55545",
     "score": 8.0,
-    "views": 291,
-    "forwards": 4
+    "views": 713,
+    "forwards": 7
   },
   {
     "title": "Kyiv: Explosions reported",
@@ -50,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55543",
     "score": 10.0,
-    "views": 1121,
+    "views": 1383,
     "forwards": 4
   },
   {
@@ -90,24 +108,6 @@
     "forwards": 2
   },
   {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Chernihiv: Drone incoming",
-    "description": "🏍 Реактивний БпЛА з Брянської області на північ Чернігівщини західним курсом у напрямку Київщини.",
-    "description_en": "🏍 Реактивний БпЛА з Брянської області на північ Чернігівщини західним курсом у напрямку Київщини.",
-    "description_uk": "🏍 Реактивний БпЛА з Брянської області на північ Чернігівщини західним курсом у напрямку Київщини.",
-    "time": "",
-    "pubDate": "2026-09-17T19:08:58+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/78724",
-    "score": 6.0,
-    "views": 35407,
-    "forwards": 1
-  },
-  {
     "title": "Strike confirmed",
     "title_en": "Strike confirmed",
     "title_uk": "Strike confirmed",
@@ -122,7 +122,7 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/201510",
     "score": 4.5,
-    "views": 99293,
+    "views": 107513,
     "forwards": 168
   },
   {
@@ -140,8 +140,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23840",
     "score": 8.5,
-    "views": 88713,
-    "forwards": 121
+    "views": 91521,
+    "forwards": 125
   },
   {
     "title": "10 missiles",
@@ -234,42 +234,6 @@
     "forwards": 2
   },
   {
-    "title": "Kryvyi Rih: Drone incoming",
-    "title_en": "Kryvyi Rih: Drone incoming",
-    "title_uk": "Kryvyi Rih: Drone incoming",
-    "description": "🏍 Реактивний БпЛА курсом на Кривий Ріг.",
-    "description_en": "🏍 Реактивний БпЛА курсом на Кривий Ріг.",
-    "description_uk": "🏍 Реактивний БпЛА курсом на Кривий Ріг.",
-    "time": "",
-    "pubDate": "2026-09-17T11:54:46+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kryvyi Rih",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/78668",
-    "score": 6.0,
-    "views": 4038,
-    "forwards": 0
-  },
-  {
-    "title": "Dnipro: Drone incoming",
-    "title_en": "Dnipro: Drone incoming",
-    "title_uk": "Dnipro: Drone incoming",
-    "description": "🏍 Дніпропетровщина: реактивний БпЛА курсом на Кам'янське.",
-    "description_en": "🏍 Дніпропетровщина: реактивний БпЛА курсом на Кам'янське.",
-    "description_uk": "🏍 Дніпропетровщина: реактивний БпЛА курсом на Кам'янське.",
-    "time": "",
-    "pubDate": "2026-09-17T11:43:15+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Dnipro",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/78667",
-    "score": 6.0,
-    "views": 20223,
-    "forwards": 0
-  },
-  {
     "title": "Kyiv: 18 injured",
     "title_en": "Kyiv: 18 injured",
     "title_uk": "Kyiv: 18 injured",
@@ -320,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20912",
     "score": 6.5,
-    "views": 178363,
-    "forwards": 220
+    "views": 178836,
+    "forwards": 222
   },
   {
     "title": "Kyiv: 16 injured",
