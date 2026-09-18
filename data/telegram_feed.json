@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kyiv: Strike confirmed on residential building",
+    "title_en": "Kyiv: Strike confirmed on residential building",
+    "title_uk": "Kyiv: Strike confirmed on residential building",
+    "description": "Всі служби зараз працюють на місці абсолютно нелюдського російського удару по житловій багатоповерхівці у Сумах. Було пряме влучання авіабомби між третім і четвертим поверхом. З-під завалів вже врятували чотирьох осіб, в тому числі й дитину. Станом на зараз відомо, що, на жаль, двоє людей загинуло. Мої співчуття всім рідним та близьким. Під завалами ще можуть бути люди. Рятувальники роблять все,...",
+    "description_en": "Всі служби зараз працюють на місці абсолютно нелюдського російського удару по житловій багатоповерхівці у Сумах. Було пряме влучання авіабомби між третім і четвертим поверхом. З-під завалів вже врятували чотирьох осіб, в тому числі й дитину. Станом на зараз відомо, що, на жаль, двоє людей загинуло. Мої співчуття всім рідним та близьким. Під завалами ще можуть бути люди. Рятувальники роблять все,...",
+    "description_uk": "Всі служби зараз працюють на місці абсолютно нелюдського російського удару по житловій багатоповерхівці у Сумах. Було пряме влучання авіабомби між третім і четвертим поверхом. З-під завалів вже врятували чотирьох осіб, в тому числі й дитину. Станом на зараз відомо, що, на жаль, двоє людей загинуло. Мої співчуття всім рідним та близьким. Під завалами ще можуть бути люди. Рятувальники роблять все,...",
+    "time": "",
+    "pubDate": "2026-09-18T19:44:26+00:00",
+    "category": "shelling",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Zelenskyy Official",
+    "link": "https://t.me/V_Zelenskiy_official/20945",
+    "score": 10.0,
+    "views": 5672,
+    "forwards": 37
+  },
+  {
+    "title": "🏍 Одещина реактивний БпЛА на Маяки",
+    "title_en": "🏍 Одещина реактивний БпЛА на Маяки",
+    "title_uk": "🏍 Одещина реактивний БпЛА на Маяки",
+    "description": "🏍 Одещина реактивний БпЛА на Маяки",
+    "description_en": "🏍 Одещина реактивний БпЛА на Маяки",
+    "description_uk": "🏍 Одещина реактивний БпЛА на Маяки",
+    "time": "",
+    "pubDate": "2026-09-18T19:40:09+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/78897",
+    "score": 5.0,
+    "views": 14140,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Mykolaiv: Drone incoming",
+    "description": "БпЛА на півдні Миколаївщини ➡️ в напрямку на/повз Березанку.",
+    "description_en": "БпЛА на півдні Миколаївщини ➡️ в напрямку на/повз Березанку.",
+    "description_uk": "БпЛА на півдні Миколаївщини ➡️ в напрямку на/повз Березанку.",
+    "time": "",
+    "pubDate": "2026-09-18T19:38:07+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/78896",
+    "score": 6.0,
+    "views": 17174,
+    "forwards": 0
+  },
+  {
     "title": "Kyiv: Ballistic missile launch detected",
     "title_en": "Kyiv: Ballistic missile launch detected",
     "title_uk": "Kyiv: Ballistic missile launch detected",
@@ -14,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55565",
     "score": 9.0,
-    "views": 188,
-    "forwards": 1
+    "views": 1075,
+    "forwards": 2
   },
   {
     "title": "БпЛА на Тернопіль зі сходу.",
@@ -67,9 +121,9 @@
     "location": "Ukraine",
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23842",
-    "score": 5.0,
-    "views": 69201,
-    "forwards": 47
+    "score": 5.5,
+    "views": 89645,
+    "forwards": 61
   },
   {
     "title": "Missile launch detected",
@@ -85,9 +139,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/201589",
-    "score": 17.5,
-    "views": 91009,
-    "forwards": 174
+    "score": 18.5,
+    "views": 121100,
+    "forwards": 211
   },
   {
     "title": "Kherson: БпЛА на Херсон з півдня.",
@@ -140,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55558",
     "score": 6.0,
-    "views": 1393,
+    "views": 1624,
     "forwards": 7
   },
   {
@@ -230,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10460",
     "score": 3.5,
-    "views": 617,
+    "views": 639,
     "forwards": 3
   },
   {
@@ -306,42 +360,6 @@
     "forwards": 8
   },
   {
-    "title": "Kyiv: Explosions reported",
-    "title_en": "Kyiv: Explosions reported",
-    "title_uk": "Kyiv: Explosions reported",
-    "description": "Update: 2 arrested in terrorist investigation after explosion at Lviv Oblast recruitment center injures serviceman. Law enforcement officers arrested two local residents after the explosion, the Lviv Special Prosecutor's Office said. Earlier in the day, an unknown individual threw an explosive device from a Daewoo Lanos car that had been driven past the gates of a military recruitment facility.",
-    "description_en": "Update: 2 arrested in terrorist investigation after explosion at Lviv Oblast recruitment center injures serviceman. Law enforcement officers arrested two local residents after the explosion, the Lviv Special Prosecutor's Office said. Earlier in the day, an unknown individual threw an explosive device from a Daewoo Lanos car that had been driven past the gates of a military recruitment facility.",
-    "description_uk": "Update: 2 arrested in terrorist investigation after explosion at Lviv Oblast recruitment center injures serviceman. Law enforcement officers arrested two local residents after the explosion, the Lviv Special Prosecutor's Office said. Earlier in the day, an unknown individual threw an explosive device from a Daewoo Lanos car that had been driven past the gates of a military recruitment facility.",
-    "time": "",
-    "pubDate": "2026-09-17T19:46:07+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55543",
-    "score": 10.0,
-    "views": 2324,
-    "forwards": 4
-  },
-  {
-    "title": "Kyiv: Missile attack",
-    "title_en": "Kyiv: Missile attack",
-    "title_uk": "Kyiv: Missile attack",
-    "description": "Ukraine war latest: Russian missile, drone attack on Kyiv injures at least 20 The attack comes as the U.S. government backed sweeping legislation that would allow tariffs of up to 100% to be imposed on countries that purchase Russian oil and gas. Kyiv Mayor Vitali Klitshchko said that 20 people were injured, with at least five of the injured victims being hospitalized. Photo: Ukraine's State...",
-    "description_en": "Ukraine war latest: Russian missile, drone attack on Kyiv injures at least 20 The attack comes as the U.S. government backed sweeping legislation that would allow tariffs of up to 100% to be imposed on countries that purchase Russian oil and gas. Kyiv Mayor Vitali Klitshchko said that 20 people were injured, with at least five of the injured victims being hospitalized. Photo: Ukraine's State...",
-    "description_uk": "Ukraine war latest: Russian missile, drone attack on Kyiv injures at least 20 The attack comes as the U.S. government backed sweeping legislation that would allow tariffs of up to 100% to be imposed on countries that purchase Russian oil and gas. Kyiv Mayor Vitali Klitshchko said that 20 people were injured, with at least five of the injured victims being hospitalized. Photo: Ukraine's State...",
-    "time": "",
-    "pubDate": "2026-09-17T19:33:51+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55539",
-    "score": 9.0,
-    "views": 226,
-    "forwards": 2
-  },
-  {
     "title": "🇩🇪 Rheinmetall планує випускати до 400 систем ППО Skyranger і Skynex...",
     "title_en": "🇩🇪 Rheinmetall планує випускати до 400 систем ППО Skyranger і Skynex...",
     "title_uk": "🇩🇪 Rheinmetall планує випускати до 400 систем ППО Skyranger і Skynex...",
@@ -356,7 +374,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23840",
     "score": 8.5,
-    "views": 149558,
-    "forwards": 180
+    "views": 153622,
+    "forwards": 182
   }
 ]
