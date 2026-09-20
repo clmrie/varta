@@ -1,5 +1,77 @@
 [
   {
+    "title": "Donetsk: Air defense active",
+    "title_en": "Donetsk: Air defense active",
+    "title_uk": "Donetsk: Air defense active",
+    "description": "ЗБИТО/ПОДАВЛЕНО 101 ВОРОЖИЙ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 20 вересня (з 18:00 19 вересня) противник атакував 138 ударними БпЛА типу Shahed (половина з них реактивні), Гербера, дронами-імітаторами типу “Пародія” із напрямків: Орел, Міллерово - рф; ТОТ Донецьк, ТОТ АР Крим – Гвардійське. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем, мобільні вогневі...",
+    "description_en": "ЗБИТО/ПОДАВЛЕНО 101 ВОРОЖИЙ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 20 вересня (з 18:00 19 вересня) противник атакував 138 ударними БпЛА типу Shahed (половина з них реактивні), Гербера, дронами-імітаторами типу “Пародія” із напрямків: Орел, Міллерово - рф; ТОТ Донецьк, ТОТ АР Крим – Гвардійське. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем, мобільні вогневі...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 101 ВОРОЖИЙ БПЛА ➖➖➖➖➖➖➖➖➖➖ У ніч на 20 вересня (з 18:00 19 вересня) противник атакував 138 ударними БпЛА типу Shahed (половина з них реактивні), Гербера, дронами-імітаторами типу “Пародія” із напрямків: Орел, Міллерово - рф; ТОТ Донецьк, ТОТ АР Крим – Гвардійське. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем, мобільні вогневі...",
+    "time": "",
+    "pubDate": "2026-09-20T05:06:02+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/79128",
+    "score": 10.0,
+    "views": 6064,
+    "forwards": 34
+  },
+  {
+    "title": "Kyiv: 249 drones launched",
+    "title_en": "Kyiv: 249 drones launched",
+    "title_uk": "Kyiv: 249 drones launched",
+    "description": "Update: Russia reports deadly mass drone attack on Moscow region amid parliamentary election. Moscow Oblast came under a large-scale drone attack, with Russian air defenses downing 249 drones, according to local authorities.",
+    "description_en": "Update: Russia reports deadly mass drone attack on Moscow region amid parliamentary election. Moscow Oblast came under a large-scale drone attack, with Russian air defenses downing 249 drones, according to local authorities.",
+    "description_uk": "Update: Russia reports deadly mass drone attack on Moscow region amid parliamentary election. Moscow Oblast came under a large-scale drone attack, with Russian air defenses downing 249 drones, according to local authorities.",
+    "time": "",
+    "pubDate": "2026-09-20T04:31:56+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55593",
+    "score": 13.0,
+    "views": 336,
+    "forwards": 2
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "🏍 Реактивний БпЛА у напрямку Василькова з півночі.",
+    "description_en": "🏍 Реактивний БпЛА у напрямку Василькова з півночі.",
+    "description_uk": "🏍 Реактивний БпЛА у напрямку Василькова з півночі.",
+    "time": "",
+    "pubDate": "2026-09-20T04:13:26+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/79126",
+    "score": 5.0,
+    "views": 37358,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Air defense active",
+    "title_en": "Kyiv: Air defense active",
+    "title_uk": "Kyiv: Air defense active",
+    "description": "Russia says dozens of Ukrainian drones targeted Moscow as broader attack hit multiple regions. Moscow Mayor Sergei Sobyanin said air defenses had shot down drones approaching the capital, later reporting that the total number intercepted had risen to 76.",
+    "description_en": "Russia says dozens of Ukrainian drones targeted Moscow as broader attack hit multiple regions. Moscow Mayor Sergei Sobyanin said air defenses had shot down drones approaching the capital, later reporting that the total number intercepted had risen to 76.",
+    "description_uk": "Russia says dozens of Ukrainian drones targeted Moscow as broader attack hit multiple regions. Moscow Mayor Sergei Sobyanin said air defenses had shot down drones approaching the capital, later reporting that the total number intercepted had risen to 76.",
+    "time": "",
+    "pubDate": "2026-09-20T01:56:34+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55591",
+    "score": 8.0,
+    "views": 960,
+    "forwards": 3
+  },
+  {
     "title": "Mykolaiv: Drone incoming",
     "title_en": "Mykolaiv: Drone incoming",
     "title_uk": "Mykolaiv: Drone incoming",
@@ -16,24 +88,6 @@
     "score": 6.0,
     "views": 2036,
     "forwards": 0
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "🏍 Реактивний БпЛА вздовж Кременчуцького водосховища ➡️ курсом на Черкаси.",
-    "description_en": "🏍 Реактивний БпЛА вздовж Кременчуцького водосховища ➡️ курсом на Черкаси.",
-    "description_uk": "🏍 Реактивний БпЛА вздовж Кременчуцького водосховища ➡️ курсом на Черкаси.",
-    "time": "",
-    "pubDate": "2026-09-20T00:10:51+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/79092",
-    "score": 5.0,
-    "views": 5071,
-    "forwards": 1
   },
   {
     "title": "🏍 Реактивний БпЛА на Білу Церкву з півночі.",
@@ -104,8 +158,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/201677",
     "score": 11.5,
-    "views": 101297,
-    "forwards": 297
+    "views": 143827,
+    "forwards": 317
   },
   {
     "title": "🏍 Реактивні БпЛА на Кременчук зі сходу.",
@@ -144,24 +198,6 @@
     "forwards": 0
   },
   {
-    "title": "Kyiv: Drone attack",
-    "title_en": "Kyiv: Drone attack",
-    "title_uk": "Kyiv: Drone attack",
-    "description": "UK military sites see near-daily drone incidents in 2026 as Europe confronts widening hybrid threat. The unexplained drone activity comes as NATO officials warn that hybrid attacks are increasingly aimed at undermining public confidence and cohesion within the alliance.",
-    "description_en": "UK military sites see near-daily drone incidents in 2026 as Europe confronts widening hybrid threat. The unexplained drone activity comes as NATO officials warn that hybrid attacks are increasingly aimed at undermining public confidence and cohesion within the alliance.",
-    "description_uk": "UK military sites see near-daily drone incidents in 2026 as Europe confronts widening hybrid threat. The unexplained drone activity comes as NATO officials warn that hybrid attacks are increasingly aimed at undermining public confidence and cohesion within the alliance.",
-    "time": "",
-    "pubDate": "2026-09-19T16:59:43+00:00",
-    "category": "drone",
-    "severity": "medium",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55586",
-    "score": 4.0,
-    "views": 1995,
-    "forwards": 6
-  },
-  {
     "title": "Зеленский сообщил о втором за сегодня успешном перехвате российского...",
     "title_en": "Зеленский сообщил о втором за сегодня успешном перехвате российского...",
     "title_uk": "Зеленский сообщил о втором за сегодня успешном перехвате российского...",
@@ -176,8 +212,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/201673",
     "score": 5.5,
-    "views": 132970,
-    "forwards": 146
+    "views": 155809,
+    "forwards": 159
   },
   {
     "title": "Air defense active",
@@ -194,44 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20963",
     "score": 10.5,
-    "views": 275838,
-    "forwards": 498
-  },
-  {
-    "title": "Zaporizhzhia: Drone attack",
-    "title_en": "Zaporizhzhia: Drone attack",
-    "title_uk": "Zaporizhzhia: Drone attack",
-    "description": "Запорізька область: ударний БпЛА на/повз Вільнянськ / Запоріжжя.",
-    "description_en": "Запорізька область: ударний БпЛА на/повз Вільнянськ / Запоріжжя.",
-    "description_uk": "Запорізька область: ударний БпЛА на/повз Вільнянськ / Запоріжжя.",
-    "time": "",
-    "pubDate": "2026-09-19T15:38:24+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/79043",
-    "score": 6.0,
-    "views": 14159,
-    "forwards": 0
-  },
-  {
-    "title": "Strike confirmed",
-    "title_en": "Strike confirmed",
-    "title_uk": "Strike confirmed",
-    "description": "Появились еще кадры с места прилета в Днепре",
-    "description_en": "Появились еще кадры с места прилета в Днепре",
-    "description_uk": "Появились еще кадры с места прилета в Днепре",
-    "time": "",
-    "pubDate": "2026-09-19T15:08:57+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/201666",
-    "score": 4.5,
-    "views": 95600,
-    "forwards": 175
+    "views": 307010,
+    "forwards": 515
   },
   {
     "title": "Casualties reported",
@@ -248,8 +248,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23842",
     "score": 5.5,
-    "views": 140934,
-    "forwards": 74
+    "views": 142411,
+    "forwards": 75
   },
   {
     "title": "Attack attack",
