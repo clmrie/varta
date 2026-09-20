@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "🏍 Реактивний БпЛА на Одещині н.п.Балта курсом на Вінниччину.",
+    "description_en": "🏍 Реактивний БпЛА на Одещині н.п.Балта курсом на Вінниччину.",
+    "description_uk": "🏍 Реактивний БпЛА на Одещині н.п.Балта курсом на Вінниччину.",
+    "time": "",
+    "pubDate": "2026-09-20T21:05:17+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/79230",
+    "score": 5.0,
+    "views": 22622,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Kyiv: Drone incoming",
+    "description": "🏍 Реактивний БпЛА в р-ні Київського водосховища у напрямку Києва.",
+    "description_en": "🏍 Реактивний БпЛА в р-ні Київського водосховища у напрямку Києва.",
+    "description_uk": "🏍 Реактивний БпЛА в р-ні Київського водосховища у напрямку Києва.",
+    "time": "",
+    "pubDate": "2026-09-20T20:35:05+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/79228",
+    "score": 6.0,
+    "views": 44829,
+    "forwards": 1
+  },
+  {
+    "title": "Attack attack",
+    "title_en": "Attack attack",
+    "title_uk": "Attack attack",
+    "description": "Удар по Московскому НПЗ вывел из строя еще около 4% российских нефтеперерабатывающих мощностей, - Fire Point Мощность предприятия составляет около 12 млн тонн нефти в год. В Fire Point заявили, что после атаки завод полностью остановился. Таким образом, только за первые 20 дней сентября украинские атаки парализовали около 14% нефтеперерабатывающих мощностей рф.",
+    "description_en": "Удар по Московскому НПЗ вывел из строя еще около 4% российских нефтеперерабатывающих мощностей, - Fire Point Мощность предприятия составляет около 12 млн тонн нефти в год. В Fire Point заявили, что после атаки завод полностью остановился. Таким образом, только за первые 20 дней сентября украинские атаки парализовали около 14% нефтеперерабатывающих мощностей рф.",
+    "description_uk": "Удар по Московскому НПЗ вывел из строя еще около 4% российских нефтеперерабатывающих мощностей, - Fire Point Мощность предприятия составляет около 12 млн тонн нефти в год. В Fire Point заявили, что после атаки завод полностью остановился. Таким образом, только за первые 20 дней сентября украинские атаки парализовали около 14% нефтеперерабатывающих мощностей рф.",
+    "time": "",
+    "pubDate": "2026-09-20T20:21:43+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/201752",
+    "score": 4.5,
+    "views": 54478,
+    "forwards": 108
+  },
+  {
     "title": "Strike confirmed",
     "title_en": "Strike confirmed",
     "title_uk": "Strike confirmed",
@@ -13,45 +67,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/201749",
-    "score": 4.0,
-    "views": 19258,
-    "forwards": 36
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Kyiv: Drone incoming",
-    "description": "🏍 Реактивні БпЛА на Київщині в р-ні Вишгород, Вишневе курсом на Київ.",
-    "description_en": "🏍 Реактивні БпЛА на Київщині в р-ні Вишгород, Вишневе курсом на Київ.",
-    "description_uk": "🏍 Реактивні БпЛА на Київщині в р-ні Вишгород, Вишневе курсом на Київ.",
-    "time": "",
-    "pubDate": "2026-09-20T18:35:25+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/79220",
-    "score": 6.0,
-    "views": 55686,
-    "forwards": 35
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "🏍 Реактивний БпЛА у напрямку Вишневого з півночі.",
-    "description_en": "🏍 Реактивний БпЛА у напрямку Вишневого з півночі.",
-    "description_uk": "🏍 Реактивний БпЛА у напрямку Вишневого з півночі.",
-    "time": "",
-    "pubDate": "2026-09-20T18:06:57+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/79218",
-    "score": 5.0,
-    "views": 75925,
-    "forwards": 1
+    "score": 4.5,
+    "views": 96361,
+    "forwards": 105
   },
   {
     "title": "Kyiv: Drone attack",
@@ -68,8 +86,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55602",
     "score": 8.0,
-    "views": 964,
-    "forwards": 2
+    "views": 1765,
+    "forwards": 6
   },
   {
     "title": "Kyiv: Cruise missile heading inbound",
@@ -122,26 +140,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10481",
     "score": 5.0,
-    "views": 606,
+    "views": 663,
     "forwards": 4
-  },
-  {
-    "title": "Attack attack",
-    "title_en": "Attack attack",
-    "title_uk": "Attack attack",
-    "description": "Из 5 млн квадратных метров современных складских помещений в Украине уничтожено уже 2,1 млн, — FT Только за последние месяцы российские удары повредили или уничтожили около 900 тысяч квадратных метров складов. Вместе с ними под удар попадают распределительные центры, торговые сети и другая логистика, без которой товары просто не доезжают до магазинов. Издание пишет, что бизнесу приходится менять...",
-    "description_en": "Из 5 млн квадратных метров современных складских помещений в Украине уничтожено уже 2,1 млн, — FT Только за последние месяцы российские удары повредили или уничтожили около 900 тысяч квадратных метров складов. Вместе с ними под удар попадают распределительные центры, торговые сети и другая логистика, без которой товары просто не доезжают до магазинов. Издание пишет, что бизнесу приходится менять...",
-    "description_uk": "Из 5 млн квадратных метров современных складских помещений в Украине уничтожено уже 2,1 млн, — FT Только за последние месяцы российские удары повредили или уничтожили около 900 тысяч квадратных метров складов. Вместе с ними под удар попадают распределительные центры, торговые сети и другая логистика, без которой товары просто не доезжают до магазинов. Издание пишет, что бизнесу приходится менять...",
-    "time": "",
-    "pubDate": "2026-09-20T13:05:08+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/201727",
-    "score": 5.5,
-    "views": 124868,
-    "forwards": 317
   },
   {
     "title": "У нас сейчас сплошной дефицит по всем ракетам. Украина потратила...",
@@ -176,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20967",
     "score": 14.5,
-    "views": 170073,
-    "forwards": 234
+    "views": 179440,
+    "forwards": 237
   },
   {
     "title": "У Московському регіоні цієї ночі дуже відчутно спрацювали наші...",
@@ -194,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20966",
     "score": 5.0,
-    "views": 503176,
-    "forwards": 3172
+    "views": 518321,
+    "forwards": 3228
   },
   {
     "title": "Donetsk: Air defense active",
@@ -250,23 +250,5 @@
     "score": 8.0,
     "views": 960,
     "forwards": 3
-  },
-  {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Kyiv: Casualties reported",
-    "description": "'Irreparable tragedy' — Mother, 2 children killed in Russian strike on Kyiv Oblast. A 2-year-old boy and a 3-year-old girl were killed by a Russian drone strike the evening of Sept. 19, regional authorities said.",
-    "description_en": "'Irreparable tragedy' — Mother, 2 children killed in Russian strike on Kyiv Oblast. A 2-year-old boy and a 3-year-old girl were killed by a Russian drone strike the evening of Sept. 19, regional authorities said.",
-    "description_uk": "'Irreparable tragedy' — Mother, 2 children killed in Russian strike on Kyiv Oblast. A 2-year-old boy and a 3-year-old girl were killed by a Russian drone strike the evening of Sept. 19, regional authorities said.",
-    "time": "",
-    "pubDate": "2026-09-19T21:20:03+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55589",
-    "score": 13.0,
-    "views": 984,
-    "forwards": 4
   }
 ]
