@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "🏍 Реактивний БпЛА курсом на Черкаси з півночі.",
+    "description_en": "🏍 Реактивний БпЛА курсом на Черкаси з півночі.",
+    "description_uk": "🏍 Реактивний БпЛА курсом на Черкаси з півночі.",
+    "time": "",
+    "pubDate": "2026-09-20T17:00:30+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/79215",
+    "score": 5.0,
+    "views": 2009,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Kyiv: Drone incoming",
+    "description": "🏍 Реактивні БпЛА на Київщині в р-ні Іванкова курсом на Київ.",
+    "description_en": "🏍 Реактивні БпЛА на Київщині в р-ні Іванкова курсом на Київ.",
+    "description_uk": "🏍 Реактивні БпЛА на Київщині в р-ні Іванкова курсом на Київ.",
+    "time": "",
+    "pubDate": "2026-09-20T16:38:19+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/79213",
+    "score": 6.0,
+    "views": 37322,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Cruise missile heading inbound",
+    "title_en": "Kyiv: Cruise missile heading inbound",
+    "title_uk": "Kyiv: Cruise missile heading inbound",
+    "description": "Update: Moscow Oil Refinery ablaze after massive Ukraine missile, drone blitz on Russia \"Our long-range responses had a very significant impact in the Moscow region last night,\" President Volodymyr Zelensky said. Zelensky did not say how many drones and missiles were launched, but listed several largely domestically produced weapons systems used in the attack including the Flamingo cruise missile.",
+    "description_en": "Update: Moscow Oil Refinery ablaze after massive Ukraine missile, drone blitz on Russia \"Our long-range responses had a very significant impact in the Moscow region last night,\" President Volodymyr Zelensky said. Zelensky did not say how many drones and missiles were launched, but listed several largely domestically produced weapons systems used in the attack including the Flamingo cruise missile.",
+    "description_uk": "Update: Moscow Oil Refinery ablaze after massive Ukraine missile, drone blitz on Russia \"Our long-range responses had a very significant impact in the Moscow region last night,\" President Volodymyr Zelensky said. Zelensky did not say how many drones and missiles were launched, but listed several largely domestically produced weapons systems used in the attack including the Flamingo cruise missile.",
+    "time": "",
+    "pubDate": "2026-09-20T14:56:41+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55599",
+    "score": 13.0,
+    "views": 1284,
+    "forwards": 3
+  },
+  {
     "title": "Kyiv: 🏍 Реактивний БпЛА на Вишневе/Київ.",
     "title_en": "Kyiv: 🏍 Реактивний БпЛА на Вишневе/Київ.",
     "title_uk": "Kyiv: 🏍 Реактивний БпЛА на Вишневе/Київ.",
@@ -18,24 +72,6 @@
     "forwards": 1
   },
   {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "🏍 Черкащина: реактивний БпЛА курсом на Умань.",
-    "description_en": "🏍 Черкащина: реактивний БпЛА курсом на Умань.",
-    "description_uk": "🏍 Черкащина: реактивний БпЛА курсом на Умань.",
-    "time": "",
-    "pubDate": "2026-09-20T13:42:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/79191",
-    "score": 5.0,
-    "views": 2014,
-    "forwards": 1
-  },
-  {
     "title": "Андрій Сибіга про нову доповідь ООН щодо масштабів сексуального...",
     "title_en": "Андрій Сибіга про нову доповідь ООН щодо масштабів сексуального...",
     "title_uk": "Андрій Сибіга про нову доповідь ООН щодо масштабів сексуального...",
@@ -50,8 +86,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10481",
     "score": 5.0,
-    "views": 150,
-    "forwards": 0
+    "views": 507,
+    "forwards": 2
   },
   {
     "title": "Attack attack",
@@ -67,9 +103,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/201727",
-    "score": 4.5,
-    "views": 39774,
-    "forwards": 110
+    "score": 5.5,
+    "views": 124868,
+    "forwards": 317
   },
   {
     "title": "У нас сейчас сплошной дефицит по всем ракетам. Украина потратила...",
@@ -86,26 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/201726",
     "score": 8.5,
-    "views": 60123,
-    "forwards": 107
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Kyiv: Drone incoming",
-    "description": "🏍 Київщина: реактивний БпЛА повз Димер курсом на південь.",
-    "description_en": "🏍 Київщина: реактивний БпЛА повз Димер курсом на південь.",
-    "description_uk": "🏍 Київщина: реактивний БпЛА повз Димер курсом на південь.",
-    "time": "",
-    "pubDate": "2026-09-20T09:39:53+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/79165",
-    "score": 6.0,
-    "views": 13110,
-    "forwards": 1
+    "views": 129187,
+    "forwards": 176
   },
   {
     "title": "Kharkiv: Strike confirmed on residential building",
@@ -121,9 +139,9 @@
     "location": "Kharkiv",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20967",
-    "score": 13.5,
-    "views": 123469,
-    "forwards": 188
+    "score": 14.5,
+    "views": 146517,
+    "forwards": 226
   },
   {
     "title": "У Московському регіоні цієї ночі дуже відчутно спрацювали наші...",
@@ -140,8 +158,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20966",
     "score": 5.0,
-    "views": 419912,
-    "forwards": 2889
+    "views": 471711,
+    "forwards": 3082
   },
   {
     "title": "Kyiv: Attack attack",
@@ -250,23 +268,5 @@
     "score": 11.5,
     "views": 143827,
     "forwards": 317
-  },
-  {
-    "title": "Casualties reported",
-    "title_en": "Casualties reported",
-    "title_uk": "Casualties reported",
-    "description": "🖥 В Україні прискорять ідентифікацію тіл загиблих військових 👥 У Кабміні планують пришвидшити процес ідентифікації тіл репатрійованих військових і цивільних та усунути затримки на окремих етапах. Для цього посилять взаємодію між державними відомствами. 🗒 Прем'єр-міністр Сергій Корецький провів нараду з представниками МОЗ, МВС та Міноборони, на якій розглянули весь процес ідентифікації...",
-    "description_en": "🖥 В Україні прискорять ідентифікацію тіл загиблих військових 👥 У Кабміні планують пришвидшити процес ідентифікації тіл репатрійованих військових і цивільних та усунути затримки на окремих етапах. Для цього посилять взаємодію між державними відомствами. 🗒 Прем'єр-міністр Сергій Корецький провів нараду з представниками МОЗ, МВС та Міноборони, на якій розглянули весь процес ідентифікації...",
-    "description_uk": "🖥 В Україні прискорять ідентифікацію тіл загиблих військових 👥 У Кабміні планують пришвидшити процес ідентифікації тіл репатрійованих військових і цивільних та усунути затримки на окремих етапах. Для цього посилять взаємодію між державними відомствами. 🗒 Прем'єр-міністр Сергій Корецький провів нараду з представниками МОЗ, МВС та Міноборони, на якій розглянули весь процес ідентифікації...",
-    "time": "",
-    "pubDate": "2026-09-18T15:01:49+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "DeepState",
-    "link": "https://t.me/DeepStateUA/23842",
-    "score": 5.5,
-    "views": 151645,
-    "forwards": 77
   }
 ]
