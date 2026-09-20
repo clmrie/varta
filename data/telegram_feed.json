@@ -3,37 +3,19 @@
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Drone incoming",
-    "description": "🏍 Реактивний БпЛА на Одещині н.п.Балта курсом на Вінниччину.",
-    "description_en": "🏍 Реактивний БпЛА на Одещині н.п.Балта курсом на Вінниччину.",
-    "description_uk": "🏍 Реактивний БпЛА на Одещині н.п.Балта курсом на Вінниччину.",
+    "description": "Групи ударних БпЛА з Чорного моря у напрямку Татарбунарів.",
+    "description_en": "Групи ударних БпЛА з Чорного моря у напрямку Татарбунарів.",
+    "description_uk": "Групи ударних БпЛА з Чорного моря у напрямку Татарбунарів.",
     "time": "",
-    "pubDate": "2026-09-20T21:05:17+00:00",
+    "pubDate": "2026-09-20T23:25:42+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Ukraine",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/79230",
+    "link": "https://t.me/kpszsu/79241",
     "score": 5.0,
-    "views": 22622,
+    "views": 3560,
     "forwards": 0
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Kyiv: Drone incoming",
-    "description": "🏍 Реактивний БпЛА в р-ні Київського водосховища у напрямку Києва.",
-    "description_en": "🏍 Реактивний БпЛА в р-ні Київського водосховища у напрямку Києва.",
-    "description_uk": "🏍 Реактивний БпЛА в р-ні Київського водосховища у напрямку Києва.",
-    "time": "",
-    "pubDate": "2026-09-20T20:35:05+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/79228",
-    "score": 6.0,
-    "views": 44829,
-    "forwards": 1
   },
   {
     "title": "Attack attack",
@@ -50,8 +32,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/201752",
     "score": 4.5,
-    "views": 54478,
-    "forwards": 108
+    "views": 72925,
+    "forwards": 129
   },
   {
     "title": "Strike confirmed",
@@ -68,8 +50,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/201749",
     "score": 4.5,
-    "views": 96361,
-    "forwards": 105
+    "views": 108903,
+    "forwards": 128
   },
   {
     "title": "Kyiv: Drone attack",
@@ -86,8 +68,26 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55602",
     "score": 8.0,
-    "views": 1765,
+    "views": 1993,
     "forwards": 6
+  },
+  {
+    "title": "Kyiv: Drone incoming",
+    "title_en": "Kyiv: Drone incoming",
+    "title_uk": "Kyiv: Drone incoming",
+    "description": "Explosions reported in Kyiv amid drone threats. Kyiv Independent journalists on the ground reported explosions in the capital at around 7 p.m. local time, as Ukraine's Air Force warned of the threat of Russian drones heading toward Kyiv.",
+    "description_en": "Explosions reported in Kyiv amid drone threats. Kyiv Independent journalists on the ground reported explosions in the capital at around 7 p.m. local time, as Ukraine's Air Force warned of the threat of Russian drones heading toward Kyiv.",
+    "description_uk": "Explosions reported in Kyiv amid drone threats. Kyiv Independent journalists on the ground reported explosions in the capital at around 7 p.m. local time, as Ukraine's Air Force warned of the threat of Russian drones heading toward Kyiv.",
+    "time": "",
+    "pubDate": "2026-09-20T16:20:41+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55601",
+    "score": 10.0,
+    "views": 2312,
+    "forwards": 5
   },
   {
     "title": "Kyiv: Cruise missile heading inbound",
@@ -140,7 +140,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10481",
     "score": 5.0,
-    "views": 663,
+    "views": 675,
     "forwards": 4
   },
   {
@@ -176,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20967",
     "score": 14.5,
-    "views": 179440,
-    "forwards": 237
+    "views": 181531,
+    "forwards": 239
   },
   {
     "title": "У Московському регіоні цієї ночі дуже відчутно спрацювали наші...",
@@ -194,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20966",
     "score": 5.0,
-    "views": 518321,
-    "forwards": 3228
+    "views": 522661,
+    "forwards": 3242
   },
   {
     "title": "Donetsk: Air defense active",
