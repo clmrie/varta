@@ -1,5 +1,77 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "Група БпЛА на півдні Одещини - курсом на Болград, Катлабуг.",
+    "description_en": "Група БпЛА на півдні Одещини - курсом на Болград, Катлабуг.",
+    "description_uk": "Група БпЛА на півдні Одещини - курсом на Болград, Катлабуг.",
+    "time": "",
+    "pubDate": "2026-09-22T00:44:46+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/79423",
+    "score": 5.0,
+    "views": 12158,
+    "forwards": 0
+  },
+  {
+    "title": "Strike confirmed",
+    "title_en": "Strike confirmed",
+    "title_uk": "Strike confirmed",
+    "description": "В районе Усатово, недалеко от Одессы также сильный пожар на месте прилета, – местные паблики.",
+    "description_en": "В районе Усатово, недалеко от Одессы также сильный пожар на месте прилета, – местные паблики.",
+    "description_uk": "В районе Усатово, недалеко от Одессы также сильный пожар на месте прилета, – местные паблики.",
+    "time": "",
+    "pubDate": "2026-09-22T00:32:16+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/201852",
+    "score": 4.0,
+    "views": 10569,
+    "forwards": 22
+  },
+  {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Donetsk: Drone incoming",
+    "description": "🏍 Реактивний БпЛА на Донеччині, повз Новодонецьке➡️ курсом на північний захід.",
+    "description_en": "🏍 Реактивний БпЛА на Донеччині, повз Новодонецьке➡️ курсом на північний захід.",
+    "description_uk": "🏍 Реактивний БпЛА на Донеччині, повз Новодонецьке➡️ курсом на північний захід.",
+    "time": "",
+    "pubDate": "2026-09-22T00:30:37+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Donetsk",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/79421",
+    "score": 6.0,
+    "views": 20220,
+    "forwards": 0
+  },
+  {
+    "title": "Missile launch detected",
+    "title_en": "Missile launch detected",
+    "title_uk": "Missile launch detected",
+    "description": "😨 В Днепре вспыхнул сильный пожар после атаки БпЛА Также взрывы снова прозвучали над Киевом, а в Черниговской области из-за атаки на энергообъект без света остались около 100 тысяч абонентов, сообщили в \"Черниговоблэнерго\". Кроме того, мониторы писали о запуске по крайней мере пяти крылатых ракет \"Калибр\" с Каспийского моря, которые должны подлететь к 1:50–2:30. ❗️UPD: по всей Украине угроза...",
+    "description_en": "😨 В Днепре вспыхнул сильный пожар после атаки БпЛА Также взрывы снова прозвучали над Киевом, а в Черниговской области из-за атаки на энергообъект без света остались около 100 тысяч абонентов, сообщили в \"Черниговоблэнерго\". Кроме того, мониторы писали о запуске по крайней мере пяти крылатых ракет \"Калибр\" с Каспийского моря, которые должны подлететь к 1:50–2:30. ❗️UPD: по всей Украине угроза...",
+    "description_uk": "😨 В Днепре вспыхнул сильный пожар после атаки БпЛА Также взрывы снова прозвучали над Киевом, а в Черниговской области из-за атаки на энергообъект без света остались около 100 тысяч абонентов, сообщили в \"Черниговоблэнерго\". Кроме того, мониторы писали о запуске по крайней мере пяти крылатых ракет \"Калибр\" с Каспийского моря, которые должны подлететь к 1:50–2:30. ❗️UPD: по всей Украине угроза...",
+    "time": "",
+    "pubDate": "2026-09-21T22:47:52+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/201847",
+    "score": 8.5,
+    "views": 37527,
+    "forwards": 78
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Chernihiv: Drone incoming",
@@ -68,7 +140,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10500",
     "score": 5.0,
-    "views": 112,
+    "views": 215,
     "forwards": 2
   },
   {
@@ -104,8 +176,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55626",
     "score": 6.0,
-    "views": 712,
-    "forwards": 3
+    "views": 1085,
+    "forwards": 4
   },
   {
     "title": "Міністр закордонних справ України Андрій Сибіга відреагував на заяви...",
@@ -122,7 +194,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10491",
     "score": 3.5,
-    "views": 493,
+    "views": 515,
     "forwards": 9
   },
   {
@@ -158,8 +230,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55620",
     "score": 4.0,
-    "views": 1949,
-    "forwards": 5
+    "views": 2120,
+    "forwards": 6
   },
   {
     "title": "Kyiv: Russia's election is over. Could mobilization be next? Nobody...",
@@ -212,8 +284,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23848",
     "score": 4.5,
-    "views": 91153,
-    "forwards": 132
+    "views": 94240,
+    "forwards": 136
   },
   {
     "title": "🛰 Россия хочет заменить Starlink, но ее «Рассвет» уже столкнулся с...",
@@ -252,24 +324,6 @@
     "forwards": 1
   },
   {
-    "title": "Strike confirmed",
-    "title_en": "Strike confirmed",
-    "title_uk": "Strike confirmed",
-    "description": "Под Киевом снова серьезный прилет Столб черного дыма скоро будет виден за километры.",
-    "description_en": "Под Киевом снова серьезный прилет Столб черного дыма скоро будет виден за километры.",
-    "description_uk": "Под Киевом снова серьезный прилет Столб черного дыма скоро будет виден за километры.",
-    "time": "",
-    "pubDate": "2026-09-21T12:46:50+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/201792",
-    "score": 4.5,
-    "views": 67474,
-    "forwards": 141
-  },
-  {
     "title": "Zaporizhzhia: Drone strike on residential area",
     "title_en": "Zaporizhzhia: Drone strike on residential area",
     "title_uk": "Zaporizhzhia: Drone strike on residential area",
@@ -284,8 +338,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20969",
     "score": 11.5,
-    "views": 127358,
-    "forwards": 257
+    "views": 129279,
+    "forwards": 261
   },
   {
     "title": "Kharkiv: Strike confirmed on residential building",
@@ -302,7 +356,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20967",
     "score": 14.5,
-    "views": 211167,
+    "views": 211765,
     "forwards": 259
   }
 ]
