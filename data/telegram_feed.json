@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "Реактивний БпЛА на Житомирщині у напрямку Коростеня з півночі.",
+    "description_en": "Реактивний БпЛА на Житомирщині у напрямку Коростеня з півночі.",
+    "description_uk": "Реактивний БпЛА на Житомирщині у напрямку Коростеня з півночі.",
+    "time": "",
+    "pubDate": "2026-09-23T04:41:46+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/79648",
+    "score": 5.0,
+    "views": 31245,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Київ 🏍 Декілька реактивний БпЛА над містом!",
+    "title_en": "Kyiv: Київ 🏍 Декілька реактивний БпЛА над містом!",
+    "title_uk": "Kyiv: Київ 🏍 Декілька реактивний БпЛА над містом!",
+    "description": "Київ 🏍 Декілька реактивний БпЛА над містом!",
+    "description_en": "Київ 🏍 Декілька реактивний БпЛА над містом!",
+    "description_uk": "Київ 🏍 Декілька реактивний БпЛА над містом!",
+    "time": "",
+    "pubDate": "2026-09-23T04:37:20+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/79647",
+    "score": 6.0,
+    "views": 37283,
+    "forwards": 36
+  },
+  {
+    "title": "Kyiv: Explosions reported",
+    "title_en": "Kyiv: Explosions reported",
+    "title_uk": "Kyiv: Explosions reported",
+    "description": "Explosions heard in Kyiv. Two explosions were heard in the capital just after 6 a.m. local time on Sept. 23, according to a Kyiv Independent journalist on the ground. Ukraine's Air Force warned of the threat of Russian attack drones in the region.",
+    "description_en": "Explosions heard in Kyiv. Two explosions were heard in the capital just after 6 a.m. local time on Sept. 23, according to a Kyiv Independent journalist on the ground. Ukraine's Air Force warned of the threat of Russian attack drones in the region.",
+    "description_uk": "Explosions heard in Kyiv. Two explosions were heard in the capital just after 6 a.m. local time on Sept. 23, according to a Kyiv Independent journalist on the ground. Ukraine's Air Force warned of the threat of Russian attack drones in the region.",
+    "time": "",
+    "pubDate": "2026-09-23T03:16:41+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55653",
+    "score": 10.0,
+    "views": 696,
+    "forwards": 2
+  },
+  {
     "title": "Kyiv: 🏍 Реактивний БпЛА на Київ з півдня.",
     "title_en": "Kyiv: 🏍 Реактивний БпЛА на Київ з півдня.",
     "title_uk": "Kyiv: 🏍 Реактивний БпЛА на Київ з півдня.",
@@ -49,9 +103,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/21001",
-    "score": 3.5,
-    "views": 4622,
-    "forwards": 38
+    "score": 4.0,
+    "views": 28917,
+    "forwards": 63
   },
   {
     "title": "Зустрівся з Президентом Чилі Хосе Антоніо Кастом. Подякував за...",
@@ -67,9 +121,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20999",
-    "score": 5.0,
-    "views": 8317,
-    "forwards": 43
+    "score": 5.5,
+    "views": 23600,
+    "forwards": 63
   },
   {
     "title": "Kyiv: Airstrike attack on residential area",
@@ -86,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55652",
     "score": 8.0,
-    "views": 576,
-    "forwards": 4
+    "views": 1480,
+    "forwards": 6
   },
   {
     "title": "Kyiv: 🏍 Київщина - реактивний БпЛА на Вишгород/Київ з півночі.",
@@ -106,24 +160,6 @@
     "score": 6.0,
     "views": 7078,
     "forwards": 1
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "🏍Реактивний БпЛА в р-ні. Козина у напрямку Києва.",
-    "description_en": "🏍Реактивний БпЛА в р-ні. Козина у напрямку Києва.",
-    "description_uk": "🏍Реактивний БпЛА в р-ні. Козина у напрямку Києва.",
-    "time": "",
-    "pubDate": "2026-09-22T21:43:12+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/79604",
-    "score": 5.0,
-    "views": 18228,
-    "forwards": 0
   },
   {
     "title": "Kyiv: Fertilizers: End the free pass for the merchants of death \"Fertilizer...",
@@ -176,7 +212,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10518",
     "score": 9.0,
-    "views": 343,
+    "views": 390,
     "forwards": 1
   },
   {
@@ -252,60 +288,6 @@
     "forwards": 2
   },
   {
-    "title": "Chernihiv: 🏍 Реактивні БпЛА з Чернігівщини на Київщину.",
-    "title_en": "Chernihiv: 🏍 Реактивні БпЛА з Чернігівщини на Київщину.",
-    "title_uk": "Chernihiv: 🏍 Реактивні БпЛА з Чернігівщини на Київщину.",
-    "description": "🏍 Реактивні БпЛА з Чернігівщини на Київщину.",
-    "description_en": "🏍 Реактивні БпЛА з Чернігівщини на Київщину.",
-    "description_uk": "🏍 Реактивні БпЛА з Чернігівщини на Київщину.",
-    "time": "",
-    "pubDate": "2026-09-22T15:38:41+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/79569",
-    "score": 6.0,
-    "views": 1,
-    "forwards": 0
-  },
-  {
-    "title": "🤦‍♂️ Немного о готовности Польши к возможной войне: возле...",
-    "title_en": "🤦‍♂️ Немного о готовности Польши к возможной войне: возле...",
-    "title_uk": "🤦‍♂️ Немного о готовности Польши к возможной войне: возле...",
-    "description": "🤦‍♂️ Немного о готовности Польши к возможной войне: возле американской базы ПРО в Редзиково обнаружили неизвестный дрон, а военные вместо его нейтрализации позвонили по номеру экстренной помощи 112, - Onet Беспилотник около пяти минут находился в запретной для полетов зоне примерно в полукилометре от базы. Польское Минобороны позже заявило, что это был гражданский дрон, не представлявший угрозы,...",
-    "description_en": "🤦‍♂️ Немного о готовности Польши к возможной войне: возле американской базы ПРО в Редзиково обнаружили неизвестный дрон, а военные вместо его нейтрализации позвонили по номеру экстренной помощи 112, - Onet Беспилотник около пяти минут находился в запретной для полетов зоне примерно в полукилометре от базы. Польское Минобороны позже заявило, что это был гражданский дрон, не представлявший угрозы,...",
-    "description_uk": "🤦‍♂️ Немного о готовности Польши к возможной войне: возле американской базы ПРО в Редзиково обнаружили неизвестный дрон, а военные вместо его нейтрализации позвонили по номеру экстренной помощи 112, - Onet Беспилотник около пяти минут находился в запретной для полетов зоне примерно в полукилометре от базы. Польское Минобороны позже заявило, что это был гражданский дрон, не представлявший угрозы,...",
-    "time": "",
-    "pubDate": "2026-09-22T15:35:02+00:00",
-    "category": "drone",
-    "severity": "medium",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/201907",
-    "score": 3.0,
-    "views": 9551,
-    "forwards": 38
-  },
-  {
-    "title": "Strike confirmed",
-    "title_en": "Strike confirmed",
-    "title_uk": "Strike confirmed",
-    "description": "Дякую нашим воїнам за щоденні результати у застосуванні українських далекобійних санкцій. За цю добу є ураження двох НПЗ – у Башкортостані та Самарському регіоні. Були влучання і в Чорному морі. Повертаємо війну туди, звідки вона прийшла. Наближаємо мир для України. Вдячний залученим підрозділам за влучність.",
-    "description_en": "Дякую нашим воїнам за щоденні результати у застосуванні українських далекобійних санкцій. За цю добу є ураження двох НПЗ – у Башкортостані та Самарському регіоні. Були влучання і в Чорному морі. Повертаємо війну туди, звідки вона прийшла. Наближаємо мир для України. Вдячний залученим підрозділам за влучність.",
-    "description_uk": "Дякую нашим воїнам за щоденні результати у застосуванні українських далекобійних санкцій. За цю добу є ураження двох НПЗ – у Башкортостані та Самарському регіоні. Були влучання і в Чорному морі. Повертаємо війну туди, звідки вона прийшла. Наближаємо мир для України. Вдячний залученим підрозділам за влучність.",
-    "time": "",
-    "pubDate": "2026-09-22T14:20:56+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/20984",
-    "score": 4.5,
-    "views": 149595,
-    "forwards": 184
-  },
-  {
     "title": "Casualties reported",
     "title_en": "Casualties reported",
     "title_uk": "Casualties reported",
@@ -338,7 +320,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23848",
     "score": 4.5,
-    "views": 153608,
+    "views": 157141,
     "forwards": 192
   }
 ]
