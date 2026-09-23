@@ -1,5 +1,77 @@
 [
   {
+    "title": "Strike confirmed",
+    "title_en": "Strike confirmed",
+    "title_uk": "Strike confirmed",
+    "description": "Момент прилета по Киевскому национальному университета строительства и архитектуры. Удар пришелся по одному из корпусов университета и бизнес-центру. К счастью, студенты, проходившие рядом, не пострадали.",
+    "description_en": "Момент прилета по Киевскому национальному университета строительства и архитектуры. Удар пришелся по одному из корпусов университета и бизнес-центру. К счастью, студенты, проходившие рядом, не пострадали.",
+    "description_uk": "Момент прилета по Киевскому национальному университета строительства и архитектуры. Удар пришелся по одному из корпусов университета и бизнес-центру. К счастью, студенты, проходившие рядом, не пострадали.",
+    "time": "",
+    "pubDate": "2026-09-23T09:28:54+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/201984",
+    "score": 5.5,
+    "views": 28406,
+    "forwards": 453
+  },
+  {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Mykolaiv: Drone incoming",
+    "description": "🏍 Реактивний БпЛА з Херсонщини на північний схід Миколаївщини північно-західним курсом.",
+    "description_en": "🏍 Реактивний БпЛА з Херсонщини на північний схід Миколаївщини північно-західним курсом.",
+    "description_uk": "🏍 Реактивний БпЛА з Херсонщини на північний схід Миколаївщини північно-західним курсом.",
+    "time": "",
+    "pubDate": "2026-09-23T09:16:37+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/79678",
+    "score": 6.0,
+    "views": 35364,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: 🏍 Реактивні БпЛА зі сторони Вишневого та Броварів на Київ.",
+    "title_en": "Kyiv: 🏍 Реактивні БпЛА зі сторони Вишневого та Броварів на Київ.",
+    "title_uk": "Kyiv: 🏍 Реактивні БпЛА зі сторони Вишневого та Броварів на Київ.",
+    "description": "🏍 Реактивні БпЛА зі сторони Вишневого та Броварів на Київ.",
+    "description_en": "🏍 Реактивні БпЛА зі сторони Вишневого та Броварів на Київ.",
+    "description_uk": "🏍 Реактивні БпЛА зі сторони Вишневого та Броварів на Київ.",
+    "time": "",
+    "pubDate": "2026-09-23T09:15:06+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/79677",
+    "score": 6.0,
+    "views": 39400,
+    "forwards": 36
+  },
+  {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Kyiv: Drone strike",
+    "description": "Russian drone attack hits Kyiv gas stations, warehouses, officials say. Warehouses and gas stations in at least two districts of the capital were damaged by drones in the early hours of Sept. 23, local authorities reported.",
+    "description_en": "Russian drone attack hits Kyiv gas stations, warehouses, officials say. Warehouses and gas stations in at least two districts of the capital were damaged by drones in the early hours of Sept. 23, local authorities reported.",
+    "description_uk": "Russian drone attack hits Kyiv gas stations, warehouses, officials say. Warehouses and gas stations in at least two districts of the capital were damaged by drones in the early hours of Sept. 23, local authorities reported.",
+    "time": "",
+    "pubDate": "2026-09-23T05:10:47+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55655",
+    "score": 8.0,
+    "views": 1511,
+    "forwards": 3
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Drone incoming",
@@ -50,7 +122,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55653",
     "score": 10.0,
-    "views": 696,
+    "views": 1791,
     "forwards": 2
   },
   {
@@ -104,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/21001",
     "score": 4.0,
-    "views": 28917,
-    "forwards": 63
+    "views": 52542,
+    "forwards": 110
   },
   {
     "title": "Зустрівся з Президентом Чилі Хосе Антоніо Кастом. Подякував за...",
@@ -122,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/20999",
     "score": 5.5,
-    "views": 23600,
-    "forwards": 63
+    "views": 37084,
+    "forwards": 80
   },
   {
     "title": "Kyiv: Airstrike attack on residential area",
@@ -212,43 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10518",
     "score": 9.0,
-    "views": 390,
-    "forwards": 1
-  },
-  {
-    "title": "Запуск производства систем Patriot в Украине может занять около...",
-    "title_en": "Запуск производства систем Patriot в Украине может занять около...",
-    "title_uk": "Запуск производства систем Patriot в Украине может занять около...",
-    "description": "Запуск производства систем Patriot в Украине может занять около года-полутора, - Зеленский \"Мы попросили Трампа помочь нам действовать оперативно. Он положительно относится к вопросу о лицензиях\", - отметил Зеленский. На вопрос о поставках Украине перехватчиков Patriot президент ответил: \"Никто не сказал \"нет\", но я не получил особо конкретного ответа\".",
-    "description_en": "Запуск производства систем Patriot в Украине может занять около года-полутора, - Зеленский \"Мы попросили Трампа помочь нам действовать оперативно. Он положительно относится к вопросу о лицензиях\", - отметил Зеленский. На вопрос о поставках Украине перехватчиков Patriot президент ответил: \"Никто не сказал \"нет\", но я не получил особо конкретного ответа\".",
-    "description_uk": "Запуск производства систем Patriot в Украине может занять около года-полутора, - Зеленский \"Мы попросили Трампа помочь нам действовать оперативно. Он положительно относится к вопросу о лицензиях\", - отметил Зеленский. На вопрос о поставках Украине перехватчиков Patriot президент ответил: \"Никто не сказал \"нет\", но я не получил особо конкретного ответа\".",
-    "time": "",
-    "pubDate": "2026-09-22T19:00:48+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/201925",
-    "score": 5.5,
-    "views": 107299,
-    "forwards": 114
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Chernihiv: Drone incoming",
-    "description": "🏍 Реактивні БпЛА на північному заході Чернігівщини курсом на Київщину.",
-    "description_en": "🏍 Реактивні БпЛА на північному заході Чернігівщини курсом на Київщину.",
-    "description_uk": "🏍 Реактивні БпЛА на північному заході Чернігівщини курсом на Київщину.",
-    "time": "",
-    "pubDate": "2026-09-22T18:32:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/79587",
-    "score": 6.0,
-    "views": 47472,
+    "views": 444,
     "forwards": 1
   },
   {
@@ -320,7 +356,7 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23848",
     "score": 4.5,
-    "views": 157141,
-    "forwards": 192
+    "views": 162524,
+    "forwards": 195
   }
 ]
