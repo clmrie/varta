@@ -1,5 +1,59 @@
 [
   {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Drone attack",
+    "description": "Ударний БпЛА з Житомирщини на Хмельниччину вектором руху Шепетівка.",
+    "description_en": "Ударний БпЛА з Житомирщини на Хмельниччину вектором руху Шепетівка.",
+    "description_uk": "Ударний БпЛА з Житомирщини на Хмельниччину вектором руху Шепетівка.",
+    "time": "",
+    "pubDate": "2026-09-23T21:38:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/79769",
+    "score": 5.0,
+    "views": 9097,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Chernihiv: Drone incoming",
+    "description": "Групи ударних БпЛА на північному заході Чернігівщини курсом на Київщину.",
+    "description_en": "Групи ударних БпЛА на північному заході Чернігівщини курсом на Київщину.",
+    "description_uk": "Групи ударних БпЛА на північному заході Чернігівщини курсом на Київщину.",
+    "time": "",
+    "pubDate": "2026-09-23T21:35:02+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/79767",
+    "score": 6.0,
+    "views": 12144,
+    "forwards": 1
+  },
+  {
+    "title": "Drone strike",
+    "title_en": "Drone strike",
+    "title_uk": "Drone strike",
+    "description": "За три месяца рф нанесла не менее 350 ударов по Киеву и окрестностям, - французский OSINT-аналитик Клеман Молин В июле он насчитал 112 ударов, в августе - 124, а за неполный сентябрь - уже 117. Среди примененных средств были десятки ракет и большое количество ударных дронов. Среди целей аналитик отмечает склады, промышленные и военные объекты, а также многочисленные гражданские объекты. На фоне...",
+    "description_en": "За три месяца рф нанесла не менее 350 ударов по Киеву и окрестностям, - французский OSINT-аналитик Клеман Молин В июле он насчитал 112 ударов, в августе - 124, а за неполный сентябрь - уже 117. Среди примененных средств были десятки ракет и большое количество ударных дронов. Среди целей аналитик отмечает склады, промышленные и военные объекты, а также многочисленные гражданские объекты. На фоне...",
+    "description_uk": "За три месяца рф нанесла не менее 350 ударов по Киеву и окрестностям, - французский OSINT-аналитик Клеман Молин В июле он насчитал 112 ударов, в августе - 124, а за неполный сентябрь - уже 117. Среди примененных средств были десятки ракет и большое количество ударных дронов. Среди целей аналитик отмечает склады, промышленные и военные объекты, а также многочисленные гражданские объекты. На фоне...",
+    "time": "",
+    "pubDate": "2026-09-23T19:22:45+00:00",
+    "category": "missile",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/202044",
+    "score": 5.5,
+    "views": 83264,
+    "forwards": 107
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Drone incoming",
@@ -18,24 +72,6 @@
     "forwards": 0
   },
   {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Chernihiv: Drone incoming",
-    "description": "Група ударних БпЛА на заході Чернігівщини, курсом на Київське водосховище.",
-    "description_en": "Група ударних БпЛА на заході Чернігівщини, курсом на Київське водосховище.",
-    "description_uk": "Група ударних БпЛА на заході Чернігівщини, курсом на Київське водосховище.",
-    "time": "",
-    "pubDate": "2026-09-23T18:21:27+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/79748",
-    "score": 6.0,
-    "views": 20177,
-    "forwards": 1
-  },
-  {
     "title": "2100 missiles launched",
     "title_en": "2100 missiles launched",
     "title_uk": "2100 missiles launched",
@@ -49,9 +85,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/202038",
-    "score": 8.0,
-    "views": 25580,
-    "forwards": 37
+    "score": 8.5,
+    "views": 109676,
+    "forwards": 109
   },
   {
     "title": "Kyiv: «Пане Президенте, російський представник виступав за цим столом. Він...",
@@ -68,7 +104,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10555",
     "score": 10.0,
-    "views": 824,
+    "views": 1089,
     "forwards": 8
   },
   {
@@ -104,7 +140,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10541",
     "score": 9.0,
-    "views": 1275,
+    "views": 1376,
     "forwards": 14
   },
   {
@@ -176,8 +212,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23858",
     "score": 5.5,
-    "views": 91647,
-    "forwards": 382
+    "views": 107892,
+    "forwards": 412
   },
   {
     "title": "24 injured",
@@ -212,7 +248,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55669",
     "score": 8.0,
-    "views": 1948,
+    "views": 2197,
     "forwards": 3
   },
   {
@@ -230,62 +266,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55666",
     "score": 4.0,
-    "views": 1899,
-    "forwards": 6
-  },
-  {
-    "title": "Strike confirmed",
-    "title_en": "Strike confirmed",
-    "title_uk": "Strike confirmed",
-    "description": "Момент прилета по Киевскому национальному университета строительства и архитектуры. Удар пришелся по одному из корпусов университета и бизнес-центру. К счастью, студенты, проходившие рядом, не пострадали.",
-    "description_en": "Момент прилета по Киевскому национальному университета строительства и архитектуры. Удар пришелся по одному из корпусов университета и бизнес-центру. К счастью, студенты, проходившие рядом, не пострадали.",
-    "description_uk": "Момент прилета по Киевскому национальному университета строительства и архитектуры. Удар пришелся по одному из корпусов университета и бизнес-центру. К счастью, студенты, проходившие рядом, не пострадали.",
-    "time": "",
-    "pubDate": "2026-09-23T09:28:54+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/201984",
-    "score": 5.5,
-    "views": 28406,
-    "forwards": 453
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Mykolaiv: Drone incoming",
-    "description": "🏍 Реактивний БпЛА з Херсонщини на північний схід Миколаївщини північно-західним курсом.",
-    "description_en": "🏍 Реактивний БпЛА з Херсонщини на північний схід Миколаївщини північно-західним курсом.",
-    "description_uk": "🏍 Реактивний БпЛА з Херсонщини на північний схід Миколаївщини північно-західним курсом.",
-    "time": "",
-    "pubDate": "2026-09-23T09:16:37+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/79678",
-    "score": 6.0,
-    "views": 35364,
-    "forwards": 1
-  },
-  {
-    "title": "Kyiv: 🏍 Реактивні БпЛА зі сторони Вишневого та Броварів на Київ.",
-    "title_en": "Kyiv: 🏍 Реактивні БпЛА зі сторони Вишневого та Броварів на Київ.",
-    "title_uk": "Kyiv: 🏍 Реактивні БпЛА зі сторони Вишневого та Броварів на Київ.",
-    "description": "🏍 Реактивні БпЛА зі сторони Вишневого та Броварів на Київ.",
-    "description_en": "🏍 Реактивні БпЛА зі сторони Вишневого та Броварів на Київ.",
-    "description_uk": "🏍 Реактивні БпЛА зі сторони Вишневого та Броварів на Київ.",
-    "time": "",
-    "pubDate": "2026-09-23T09:15:06+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/79677",
-    "score": 6.0,
-    "views": 39400,
-    "forwards": 36
+    "views": 2097,
+    "forwards": 7
   },
   {
     "title": "Kyiv: Drone strike",
@@ -324,24 +306,6 @@
     "forwards": 2
   },
   {
-    "title": "Подякував Прем’єр-міністерці Санае Такаїчі під час нашої зустрічі за...",
-    "title_en": "Подякував Прем’єр-міністерці Санае Такаїчі під час нашої зустрічі за...",
-    "title_uk": "Подякував Прем’єр-міністерці Санае Такаїчі під час нашої зустрічі за...",
-    "description": "Подякував Прем’єр-міністерці Санае Такаїчі під час нашої зустрічі за міцну підтримку Японії протягом усіх цих років російської війни: енергетичні пакети, санкційні рішення та гуманітарні проєкти. І дуже важливо було почути, що допомога продовжиться. Обговорили напрями, де можемо бути корисні одне одному. Звісно, Україна готова ділитися своїм досвідом і технологіями на взаємовигідній основі....",
-    "description_en": "Подякував Прем’єр-міністерці Санае Такаїчі під час нашої зустрічі за міцну підтримку Японії протягом усіх цих років російської війни: енергетичні пакети, санкційні рішення та гуманітарні проєкти. І дуже важливо було почути, що допомога продовжиться. Обговорили напрями, де можемо бути корисні одне одному. Звісно, Україна готова ділитися своїм досвідом і технологіями на взаємовигідній основі....",
-    "description_uk": "Подякував Прем’єр-міністерці Санае Такаїчі під час нашої зустрічі за міцну підтримку Японії протягом усіх цих років російської війни: енергетичні пакети, санкційні рішення та гуманітарні проєкти. І дуже важливо було почути, що допомога продовжиться. Обговорили напрями, де можемо бути корисні одне одному. Звісно, Україна готова ділитися своїм досвідом і технологіями на взаємовигідній основі....",
-    "time": "",
-    "pubDate": "2026-09-22T23:32:42+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/21001",
-    "score": 4.0,
-    "views": 76202,
-    "forwards": 155
-  },
-  {
     "title": "Зустрівся з Президентом Чилі Хосе Антоніо Кастом. Подякував за...",
     "title_en": "Зустрівся з Президентом Чилі Хосе Антоніо Кастом. Подякував за...",
     "title_uk": "Зустрівся з Президентом Чилі Хосе Антоніо Кастом. Подякував за...",
@@ -376,41 +340,5 @@
     "score": 8.0,
     "views": 1480,
     "forwards": 6
-  },
-  {
-    "title": "Kyiv: Fertilizers: End the free pass for the merchants of death \"Fertilizer...",
-    "title_en": "Kyiv: Fertilizers: End the free pass for the merchants of death \"Fertilizer...",
-    "title_uk": "Kyiv: Fertilizers: End the free pass for the merchants of death \"Fertilizer...",
-    "description": "Fertilizers: End the free pass for the merchants of death \"Fertilizer production is inherently dual-use, and in wartime it is critical. As a result, that food security free pass has enabled and enriched the Russian fertilizer industry and Russia's financial capacity to wage war,\" writes Alan Riley, Visiting Professor at the College of Europe, in this op-ed. Photo: Andrey Rudakov / Bloomberg via...",
-    "description_en": "Fertilizers: End the free pass for the merchants of death \"Fertilizer production is inherently dual-use, and in wartime it is critical. As a result, that food security free pass has enabled and enriched the Russian fertilizer industry and Russia's financial capacity to wage war,\" writes Alan Riley, Visiting Professor at the College of Europe, in this op-ed. Photo: Andrey Rudakov / Bloomberg via...",
-    "description_uk": "Fertilizers: End the free pass for the merchants of death \"Fertilizer production is inherently dual-use, and in wartime it is critical. As a result, that food security free pass has enabled and enriched the Russian fertilizer industry and Russia's financial capacity to wage war,\" writes Alan Riley, Visiting Professor at the College of Europe, in this op-ed. Photo: Andrey Rudakov / Bloomberg via...",
-    "time": "",
-    "pubDate": "2026-09-22T21:30:59+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55651",
-    "score": 6.0,
-    "views": 945,
-    "forwards": 3
-  },
-  {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Drone attack",
-    "description": "рф резко усилила гибридные атаки против Европы, превращая отдельные диверсии в непрерывную кампанию, - The Economist Среди таких операций - дроны-разведчики, кибератаки, поджоги, диверсии на инфраструктуре и оборонных предприятиях, почтовые бомбы и покушения. Эксперты считают, что Москва преследует три цели: заставить Европу сократить поддержку Украины, сделать эту помощь дороже и показать НАТО...",
-    "description_en": "рф резко усилила гибридные атаки против Европы, превращая отдельные диверсии в непрерывную кампанию, - The Economist Среди таких операций - дроны-разведчики, кибератаки, поджоги, диверсии на инфраструктуре и оборонных предприятиях, почтовые бомбы и покушения. Эксперты считают, что Москва преследует три цели: заставить Европу сократить поддержку Украины, сделать эту помощь дороже и показать НАТО...",
-    "description_uk": "рф резко усилила гибридные атаки против Европы, превращая отдельные диверсии в непрерывную кампанию, - The Economist Среди таких операций - дроны-разведчики, кибератаки, поджоги, диверсии на инфраструктуре и оборонных предприятиях, почтовые бомбы и покушения. Эксперты считают, что Москва преследует три цели: заставить Европу сократить поддержку Украины, сделать эту помощь дороже и показать НАТО...",
-    "time": "",
-    "pubDate": "2026-09-22T20:00:01+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/201931",
-    "score": 5.5,
-    "views": 81872,
-    "forwards": 75
   }
 ]
