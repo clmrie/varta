@@ -1,5 +1,77 @@
 [
   {
+    "title": "Air raid alert",
+    "title_en": "Air raid alert",
+    "title_uk": "Air raid alert",
+    "description": "🥺 Обстрелы пугают не только людей, но и животных – в сети вирусится видео собаки, дрожащей из-за сирены в городе Для собак и кошек взрывы – это громкий и непонятный источник опасности, от которого они не могут ни сбежать, ни спрятаться. Особенно тяжело приходится животным, которые живут на улице и во время обстрелов остаются без дома и человека рядом.",
+    "description_en": "🥺 Обстрелы пугают не только людей, но и животных – в сети вирусится видео собаки, дрожащей из-за сирены в городе Для собак и кошек взрывы – это громкий и непонятный источник опасности, от которого они не могут ни сбежать, ни спрятаться. Особенно тяжело приходится животным, которые живут на улице и во время обстрелов остаются без дома и человека рядом.",
+    "description_uk": "🥺 Обстрелы пугают не только людей, но и животных – в сети вирусится видео собаки, дрожащей из-за сирены в городе Для собак и кошек взрывы – это громкий и непонятный источник опасности, от которого они не могут ни сбежать, ни спрятаться. Особенно тяжело приходится животным, которые живут на улице и во время обстрелов остаются без дома и человека рядом.",
+    "time": "",
+    "pubDate": "2026-09-26T00:30:36+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/202281",
+    "score": 5.0,
+    "views": 3575,
+    "forwards": 41
+  },
+  {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Mykolaiv: Drone incoming",
+    "description": "🏍 Реактивний БпЛА у напрямку Миколаївщини з акваторії Чорного моря.",
+    "description_en": "🏍 Реактивний БпЛА у напрямку Миколаївщини з акваторії Чорного моря.",
+    "description_uk": "🏍 Реактивний БпЛА у напрямку Миколаївщини з акваторії Чорного моря.",
+    "time": "",
+    "pubDate": "2026-09-26T00:30:24+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/80217",
+    "score": 6.0,
+    "views": 6082,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Київ 🏍 Реактивний БпЛА над містом!",
+    "title_en": "Kyiv: Київ 🏍 Реактивний БпЛА над містом!",
+    "title_uk": "Kyiv: Київ 🏍 Реактивний БпЛА над містом!",
+    "description": "Київ 🏍 Реактивний БпЛА над містом!",
+    "description_en": "Київ 🏍 Реактивний БпЛА над містом!",
+    "description_uk": "Київ 🏍 Реактивний БпЛА над містом!",
+    "time": "",
+    "pubDate": "2026-09-26T00:24:20+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/80215",
+    "score": 6.0,
+    "views": 9123,
+    "forwards": 4
+  },
+  {
+    "title": "Strike confirmed",
+    "title_en": "Strike confirmed",
+    "title_uk": "Strike confirmed",
+    "description": "В Салтовском и Киевском районах Харькова зафиксированы прилеты БпЛА, – мэр Терехов По предварительным данным, в Салтовском районе было попадание вблизи нежилых зданий. Также повреждены автомобили, часть из них горит. На данный момент известно о 4-х пострадавших. Также взрывы были слышны в Борисполе.",
+    "description_en": "В Салтовском и Киевском районах Харькова зафиксированы прилеты БпЛА, – мэр Терехов По предварительным данным, в Салтовском районе было попадание вблизи нежилых зданий. Также повреждены автомобили, часть из них горит. На данный момент известно о 4-х пострадавших. Также взрывы были слышны в Борисполе.",
+    "description_uk": "В Салтовском и Киевском районах Харькова зафиксированы прилеты БпЛА, – мэр Терехов По предварительным данным, в Салтовском районе было попадание вблизи нежилых зданий. Также повреждены автомобили, часть из них горит. На данный момент известно о 4-х пострадавших. Также взрывы были слышны в Борисполе.",
+    "time": "",
+    "pubDate": "2026-09-25T23:32:52+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/202278",
+    "score": 9.0,
+    "views": 14286,
+    "forwards": 10
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Drone incoming",
@@ -33,42 +105,6 @@
     "link": "https://t.me/kpszsu/80192",
     "score": 6.0,
     "views": 12167,
-    "forwards": 0
-  },
-  {
-    "title": "Strike confirmed",
-    "title_en": "Strike confirmed",
-    "title_uk": "Strike confirmed",
-    "description": "😱 Еще одно видео момента прилета по бизнес-центру в Киеве",
-    "description_en": "😱 Еще одно видео момента прилета по бизнес-центру в Киеве",
-    "description_uk": "😱 Еще одно видео момента прилета по бизнес-центру в Киеве",
-    "time": "",
-    "pubDate": "2026-09-25T19:18:54+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/202265",
-    "score": 5.5,
-    "views": 80049,
-    "forwards": 429
-  },
-  {
-    "title": "Mykolaiv: Drone incoming",
-    "title_en": "Mykolaiv: Drone incoming",
-    "title_uk": "Mykolaiv: Drone incoming",
-    "description": "🏍 Миколаївщина: реактивний БпЛА через Криве Озеро в напрямку Одещини.",
-    "description_en": "🏍 Миколаївщина: реактивний БпЛА через Криве Озеро в напрямку Одещини.",
-    "description_uk": "🏍 Миколаївщина: реактивний БпЛА через Криве Озеро в напрямку Одещини.",
-    "time": "",
-    "pubDate": "2026-09-25T18:56:28+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Mykolaiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/80173",
-    "score": 6.0,
-    "views": 14148,
     "forwards": 0
   },
   {
@@ -140,7 +176,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55733",
     "score": 5.0,
-    "views": 1619,
+    "views": 1749,
     "forwards": 9
   },
   {
@@ -158,7 +194,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55732",
     "score": 14.0,
-    "views": 1547,
+    "views": 1669,
     "forwards": 6
   },
   {
@@ -194,8 +230,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/21068",
     "score": 10.0,
-    "views": 161847,
-    "forwards": 639
+    "views": 163853,
+    "forwards": 642
   },
   {
     "title": "General Motors начала производить компоненты для ракет Patriot...",
@@ -234,24 +270,6 @@
     "forwards": 4
   },
   {
-    "title": "Kyiv: Macron cites 'several signs' Russia is preparing to mobilize 300,000...",
-    "title_en": "Kyiv: Macron cites 'several signs' Russia is preparing to mobilize 300,000...",
-    "title_uk": "Kyiv: Macron cites 'several signs' Russia is preparing to mobilize 300,000...",
-    "description": "Macron cites 'several signs' Russia is preparing to mobilize 300,000 people. French President Emmanuel Macron claimed the Kremlin had been waiting to hold elections before launching another wave of mobilization.",
-    "description_en": "Macron cites 'several signs' Russia is preparing to mobilize 300,000 people. French President Emmanuel Macron claimed the Kremlin had been waiting to hold elections before launching another wave of mobilization.",
-    "description_uk": "Macron cites 'several signs' Russia is preparing to mobilize 300,000 people. French President Emmanuel Macron claimed the Kremlin had been waiting to hold elections before launching another wave of mobilization.",
-    "time": "",
-    "pubDate": "2026-09-25T11:26:31+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55721",
-    "score": 6.0,
-    "views": 1394,
-    "forwards": 3
-  },
-  {
     "title": "Щодо 27 мільярдів доларів дефіциту державного бюджету. В основному це...",
     "title_en": "Щодо 27 мільярдів доларів дефіциту державного бюджету. В основному це...",
     "title_uk": "Щодо 27 мільярдів доларів дефіциту державного бюджету. В основному це...",
@@ -266,7 +284,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/21066",
     "score": 3.5,
-    "views": 53281,
+    "views": 53825,
     "forwards": 87
   },
   {
@@ -342,24 +360,6 @@
     "forwards": 3
   },
   {
-    "title": "Kyiv: US allocates $27 million for the return of Ukrainian children...",
-    "title_en": "Kyiv: US allocates $27 million for the return of Ukrainian children...",
-    "title_uk": "Kyiv: US allocates $27 million for the return of Ukrainian children...",
-    "description": "US allocates $27 million for the return of Ukrainian children kidnapped by Russia. \"We are sincerely grateful to the United States for its unwavering and strong support of efforts aimed at the return, rehabilitation, and full reintegration of Ukrainian children and young people,\" Foreign Minister Andrii Sybiha said.",
-    "description_en": "US allocates $27 million for the return of Ukrainian children kidnapped by Russia. \"We are sincerely grateful to the United States for its unwavering and strong support of efforts aimed at the return, rehabilitation, and full reintegration of Ukrainian children and young people,\" Foreign Minister Andrii Sybiha said.",
-    "description_uk": "US allocates $27 million for the return of Ukrainian children kidnapped by Russia. \"We are sincerely grateful to the United States for its unwavering and strong support of efforts aimed at the return, rehabilitation, and full reintegration of Ukrainian children and young people,\" Foreign Minister Andrii Sybiha said.",
-    "time": "",
-    "pubDate": "2026-09-24T22:41:18+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55710",
-    "score": 6.0,
-    "views": 387,
-    "forwards": 2
-  },
-  {
     "title": "Міністр закордонних справ України Андрій Сибіга подякував США за...",
     "title_en": "Міністр закордонних справ України Андрій Сибіга подякував США за...",
     "title_uk": "Міністр закордонних справ України Андрій Сибіга подякував США за...",
@@ -374,7 +374,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10564",
     "score": 5.0,
-    "views": 815,
+    "views": 818,
     "forwards": 7
   }
 ]
