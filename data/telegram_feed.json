@@ -1,5 +1,59 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Chernihiv: Drone incoming",
+    "description": "🏍 Реактивний БпЛА на півночі Чернігівщини на/повз Ріпки ➡️ у південно-західному напрямку.",
+    "description_en": "🏍 Реактивний БпЛА на півночі Чернігівщини на/повз Ріпки ➡️ у південно-західному напрямку.",
+    "description_uk": "🏍 Реактивний БпЛА на півночі Чернігівщини на/повз Ріпки ➡️ у південно-західному напрямку.",
+    "time": "",
+    "pubDate": "2026-09-27T22:59:32+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/80807",
+    "score": 6.0,
+    "views": 3949,
+    "forwards": 0
+  },
+  {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "🏍 Одещина: реактивний БпЛА курсом на Маяки/Біляївку з півдня.",
+    "description_en": "🏍 Одещина: реактивний БпЛА курсом на Маяки/Біляївку з півдня.",
+    "description_uk": "🏍 Одещина: реактивний БпЛА курсом на Маяки/Біляївку з півдня.",
+    "time": "",
+    "pubDate": "2026-09-27T22:37:03+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/80806",
+    "score": 5.0,
+    "views": 10665,
+    "forwards": 0
+  },
+  {
+    "title": "Strike confirmed",
+    "title_en": "Strike confirmed",
+    "title_uk": "Strike confirmed",
+    "description": "Террор Киева не прекращается Местные паблики сообщают о прилете на Столичном шоссе и пожаре в центре города — возле «Дворца Украина». В Печерском районе беспилотник попал по складу.",
+    "description_en": "Террор Киева не прекращается Местные паблики сообщают о прилете на Столичном шоссе и пожаре в центре города — возле «Дворца Украина». В Печерском районе беспилотник попал по складу.",
+    "description_uk": "Террор Киева не прекращается Местные паблики сообщают о прилете на Столичном шоссе и пожаре в центре города — возле «Дворца Украина». В Печерском районе беспилотник попал по складу.",
+    "time": "",
+    "pubDate": "2026-09-27T20:42:11+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/202434",
+    "score": 5.5,
+    "views": 54165,
+    "forwards": 218
+  },
+  {
     "title": "Kyiv: Drone incoming",
     "title_en": "Kyiv: Drone incoming",
     "title_uk": "Kyiv: Drone incoming",
@@ -18,42 +72,6 @@
     "forwards": 1
   },
   {
-    "title": "Strike confirmed",
-    "title_en": "Strike confirmed",
-    "title_uk": "Strike confirmed",
-    "description": "Прилет в 16-этажный жилой дом в Подольском районе Киева. Предварительно, есть пострадавшие, — Кличко",
-    "description_en": "Прилет в 16-этажный жилой дом в Подольском районе Киева. Предварительно, есть пострадавшие, — Кличко",
-    "description_uk": "Прилет в 16-этажный жилой дом в Подольском районе Киева. Предварительно, есть пострадавшие, — Кличко",
-    "time": "",
-    "pubDate": "2026-09-27T20:01:15+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/202432",
-    "score": 4.5,
-    "views": 16974,
-    "forwards": 105
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "🏍 Реактивний БпЛА через північ Житомирщини в напрямку Рівненщини.",
-    "description_en": "🏍 Реактивний БпЛА через північ Житомирщини в напрямку Рівненщини.",
-    "description_uk": "🏍 Реактивний БпЛА через північ Житомирщини в напрямку Рівненщини.",
-    "time": "",
-    "pubDate": "2026-09-27T19:58:59+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/80783",
-    "score": 5.0,
-    "views": 38396,
-    "forwards": 1
-  },
-  {
     "title": "Kyiv: 2 killed, 4 injured",
     "title_en": "Kyiv: 2 killed, 4 injured",
     "title_uk": "Kyiv: 2 killed, 4 injured",
@@ -68,7 +86,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55762",
     "score": 10.0,
-    "views": 525,
+    "views": 1437,
     "forwards": 3
   },
   {
@@ -86,7 +104,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55761",
     "score": 5.0,
-    "views": 987,
+    "views": 1674,
     "forwards": 6
   },
   {
@@ -104,7 +122,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10577",
     "score": 6.0,
-    "views": 643,
+    "views": 745,
     "forwards": 6
   },
   {
@@ -198,24 +216,6 @@
     "forwards": 1
   },
   {
-    "title": "Drone attack",
-    "title_en": "Drone attack",
-    "title_uk": "Drone attack",
-    "description": "В Вишневом после российского удара погиб человек, еще трое пострадали, - ГСЧС БпЛА рашистов упал на проезжую часть, по которой двигались автомобили. Повреждены 5 машин.",
-    "description_en": "В Вишневом после российского удара погиб человек, еще трое пострадали, - ГСЧС БпЛА рашистов упал на проезжую часть, по которой двигались автомобили. Повреждены 5 машин.",
-    "description_uk": "В Вишневом после российского удара погиб человек, еще трое пострадали, - ГСЧС БпЛА рашистов упал на проезжую часть, по которой двигались автомобили. Повреждены 5 машин.",
-    "time": "",
-    "pubDate": "2026-09-27T10:33:21+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/202381",
-    "score": 5.5,
-    "views": 73847,
-    "forwards": 72
-  },
-  {
     "title": "Casualties reported",
     "title_en": "Casualties reported",
     "title_uk": "Casualties reported",
@@ -234,24 +234,6 @@
     "forwards": 213
   },
   {
-    "title": "Kyiv: Drone attack",
-    "title_en": "Kyiv: Drone attack",
-    "title_uk": "Kyiv: Drone attack",
-    "description": "Russia launches third consecutive attack on Kyiv, injuring 1, setting off fires. Russia launched another drone attack on Kyiv on the night of Sept. 26-27, marking the third consecutive day of attacks on the Ukrainian capital, according to authorities.",
-    "description_en": "Russia launches third consecutive attack on Kyiv, injuring 1, setting off fires. Russia launched another drone attack on Kyiv on the night of Sept. 26-27, marking the third consecutive day of attacks on the Ukrainian capital, according to authorities.",
-    "description_uk": "Russia launches third consecutive attack on Kyiv, injuring 1, setting off fires. Russia launched another drone attack on Kyiv on the night of Sept. 26-27, marking the third consecutive day of attacks on the Ukrainian capital, according to authorities.",
-    "time": "",
-    "pubDate": "2026-09-26T22:45:35+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55753",
-    "score": 14.0,
-    "views": 2776,
-    "forwards": 2
-  },
-  {
     "title": "26 вересня світ відзначає Міжнародний день боротьби за повну...",
     "title_en": "26 вересня світ відзначає Міжнародний день боротьби за повну...",
     "title_uk": "26 вересня світ відзначає Міжнародний день боротьби за повну...",
@@ -266,7 +248,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10574",
     "score": 5.0,
-    "views": 820,
+    "views": 828,
     "forwards": 4
   },
   {
@@ -284,7 +266,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/21084",
     "score": 11.0,
-    "views": 158831,
+    "views": 159809,
     "forwards": 230
   }
 ]
