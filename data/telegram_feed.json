@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kharkiv: Drone attack",
+    "title_en": "Kharkiv: Drone attack",
+    "title_uk": "Kharkiv: Drone attack",
+    "description": "Харківщина: ударні БпЛА в районі н.п. Балаклія, Андріївка, Слобожанське",
+    "description_en": "Харківщина: ударні БпЛА в районі н.п. Балаклія, Андріївка, Слобожанське",
+    "description_uk": "Харківщина: ударні БпЛА в районі н.п. Балаклія, Андріївка, Слобожанське",
+    "time": "",
+    "pubDate": "2026-09-28T01:27:26+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/80824",
+    "score": 6.0,
+    "views": 3038,
+    "forwards": 0
+  },
+  {
+    "title": "Mykolaiv: Drone incoming",
+    "title_en": "Mykolaiv: Drone incoming",
+    "title_uk": "Mykolaiv: Drone incoming",
+    "description": "🏍 Реактивні БпЛА у напрямку Миколаївщини з акваторії Чорного моря.",
+    "description_en": "🏍 Реактивні БпЛА у напрямку Миколаївщини з акваторії Чорного моря.",
+    "description_uk": "🏍 Реактивні БпЛА у напрямку Миколаївщини з акваторії Чорного моря.",
+    "time": "",
+    "pubDate": "2026-09-28T01:06:42+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Mykolaiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/80822",
+    "score": 6.0,
+    "views": 12174,
+    "forwards": 0
+  },
+  {
+    "title": "Жёлтая тревога. Угроза БПЛА в Киеве и областях, где объявлена тревога...",
+    "title_en": "Жёлтая тревога. Угроза БПЛА в Киеве и областях, где объявлена тревога...",
+    "title_uk": "Жёлтая тревога. Угроза БПЛА в Киеве и областях, где объявлена тревога...",
+    "description": "Жёлтая тревога. Угроза БПЛА в Киеве и областях, где объявлена тревога Реактивный БПЛА пролетел мимо Бучи в направлении Киева (Лукьяновка), - Воздушные силы Украины.",
+    "description_en": "Жёлтая тревога. Угроза БПЛА в Киеве и областях, где объявлена тревога Реактивный БПЛА пролетел мимо Бучи в направлении Киева (Лукьяновка), - Воздушные силы Украины.",
+    "description_uk": "Жёлтая тревога. Угроза БПЛА в Киеве и областях, где объявлена тревога Реактивный БПЛА пролетел мимо Бучи в направлении Киева (Лукьяновка), - Воздушные силы Украины.",
+    "time": "",
+    "pubDate": "2026-09-27T23:31:18+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/202436",
+    "score": 5.0,
+    "views": 22144,
+    "forwards": 10
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Chernihiv: Drone incoming",
@@ -50,8 +104,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/202434",
     "score": 5.5,
-    "views": 54165,
-    "forwards": 218
+    "views": 71129,
+    "forwards": 228
   },
   {
     "title": "Kyiv: Drone incoming",
@@ -86,7 +140,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55762",
     "score": 10.0,
-    "views": 1437,
+    "views": 1625,
     "forwards": 3
   },
   {
@@ -104,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55761",
     "score": 5.0,
-    "views": 1674,
+    "views": 1831,
     "forwards": 6
   },
   {
@@ -122,7 +176,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10577",
     "score": 6.0,
-    "views": 745,
+    "views": 763,
     "forwards": 6
   },
   {
@@ -180,42 +234,6 @@
     "forwards": 1
   },
   {
-    "title": "Zaporizhzhia: БпЛА на Запоріжжя зі сходу.",
-    "title_en": "Zaporizhzhia: БпЛА на Запоріжжя зі сходу.",
-    "title_uk": "Zaporizhzhia: БпЛА на Запоріжжя зі сходу.",
-    "description": "БпЛА на Запоріжжя зі сходу.",
-    "description_en": "БпЛА на Запоріжжя зі сходу.",
-    "description_uk": "БпЛА на Запоріжжя зі сходу.",
-    "time": "",
-    "pubDate": "2026-09-27T12:30:18+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Zaporizhzhia",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/80624",
-    "score": 6.0,
-    "views": 2,
-    "forwards": 0
-  },
-  {
-    "title": "🏍 Реактивні БпЛА на півночі, заході та півдні від Чернігова, на...",
-    "title_en": "🏍 Реактивні БпЛА на півночі, заході та півдні від Чернігова, на...",
-    "title_uk": "🏍 Реактивні БпЛА на півночі, заході та півдні від Чернігова, на...",
-    "description": "🏍 Реактивні БпЛА на півночі, заході та півдні від Чернігова, на південно-західний напрямок.",
-    "description_en": "🏍 Реактивні БпЛА на півночі, заході та півдні від Чернігова, на південно-західний напрямок.",
-    "description_uk": "🏍 Реактивні БпЛА на півночі, заході та півдні від Чернігова, на південно-західний напрямок.",
-    "time": "",
-    "pubDate": "2026-09-27T12:29:20+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/80623",
-    "score": 5.0,
-    "views": 3005,
-    "forwards": 1
-  },
-  {
     "title": "Casualties reported",
     "title_en": "Casualties reported",
     "title_uk": "Casualties reported",
@@ -248,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10574",
     "score": 5.0,
-    "views": 828,
+    "views": 833,
     "forwards": 4
   },
   {
@@ -266,7 +284,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/21084",
     "score": 11.0,
-    "views": 159809,
-    "forwards": 230
+    "views": 160087,
+    "forwards": 231
   }
 ]
