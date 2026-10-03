@@ -1,5 +1,59 @@
 [
   {
+    "title": "Chernihiv: Drone incoming",
+    "title_en": "Chernihiv: Drone incoming",
+    "title_uk": "Chernihiv: Drone incoming",
+    "description": "🏍 Чернігівщина: реактивний БпЛА повз Городню в напрямку Березни",
+    "description_en": "🏍 Чернігівщина: реактивний БпЛА повз Городню в напрямку Березни",
+    "description_uk": "🏍 Чернігівщина: реактивний БпЛА повз Городню в напрямку Березни",
+    "time": "",
+    "pubDate": "2026-10-03T21:26:52+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/82629",
+    "score": 6.0,
+    "views": 9135,
+    "forwards": 0
+  },
+  {
+    "title": "Kharkiv: БпЛА на Харків з півночі",
+    "title_en": "Kharkiv: БпЛА на Харків з півночі",
+    "title_uk": "Kharkiv: БпЛА на Харків з півночі",
+    "description": "БпЛА на Харків з півночі",
+    "description_en": "БпЛА на Харків з півночі",
+    "description_uk": "БпЛА на Харків з півночі",
+    "time": "",
+    "pubDate": "2026-10-03T21:26:08+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kharkiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/82628",
+    "score": 6.0,
+    "views": 10091,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Kyiv: Casualties reported",
+    "description": "Russian strike on Liberian-flagged cargo ship in Black Sea kills 1, injures 3. The attack comes amid an international call for Russia to halt attacks on civilian ships in the Black Sea and allow the passage of grain exports.",
+    "description_en": "Russian strike on Liberian-flagged cargo ship in Black Sea kills 1, injures 3. The attack comes amid an international call for Russia to halt attacks on civilian ships in the Black Sea and allow the passage of grain exports.",
+    "description_uk": "Russian strike on Liberian-flagged cargo ship in Black Sea kills 1, injures 3. The attack comes amid an international call for Russia to halt attacks on civilian ships in the Black Sea and allow the passage of grain exports.",
+    "time": "",
+    "pubDate": "2026-10-03T19:32:22+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55892",
+    "score": 10.0,
+    "views": 962,
+    "forwards": 2
+  },
+  {
     "title": "Kyiv: Energy infrastructure hit",
     "title_en": "Kyiv: Energy infrastructure hit",
     "title_uk": "Kyiv: Energy infrastructure hit",
@@ -14,8 +68,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55891",
     "score": 9.5,
-    "views": 249,
-    "forwards": 0
+    "views": 1434,
+    "forwards": 3
   },
   {
     "title": "Drone strike",
@@ -32,8 +86,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/203054",
     "score": 9.5,
-    "views": 23372,
-    "forwards": 279
+    "views": 105318,
+    "forwards": 531
   },
   {
     "title": "Zaporizhzhia: Energy infrastructure hit",
@@ -86,7 +140,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10631",
     "score": 3.0,
-    "views": 251,
+    "views": 507,
     "forwards": 0
   },
   {
@@ -103,9 +157,9 @@
     "location": "Ukraine",
     "source": "UNIAN",
     "link": "https://t.me/uniannet/203049",
-    "score": 3.0,
-    "views": 83294,
-    "forwards": 35
+    "score": 3.5,
+    "views": 126581,
+    "forwards": 70
   },
   {
     "title": "Останні кілька місяців ми працювали над нашим фінансовим дефіцитом....",
@@ -122,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/21184",
     "score": 3.5,
-    "views": 32942,
-    "forwards": 90
+    "views": 45172,
+    "forwards": 102
   },
   {
     "title": "Kyiv: Drone incoming",
@@ -142,24 +196,6 @@
     "score": 6.0,
     "views": 20147,
     "forwards": 2
-  },
-  {
-    "title": "Chernihiv: Drone incoming",
-    "title_en": "Chernihiv: Drone incoming",
-    "title_uk": "Chernihiv: Drone incoming",
-    "description": "🏍 Реактивний БпЛА на Чернігівщині вздовж кордону з Білоруссю в напрямку Київщини",
-    "description_en": "🏍 Реактивний БпЛА на Чернігівщині вздовж кордону з Білоруссю в напрямку Київщини",
-    "description_uk": "🏍 Реактивний БпЛА на Чернігівщині вздовж кордону з Білоруссю в напрямку Київщини",
-    "time": "",
-    "pubDate": "2026-10-03T14:36:07+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Chernihiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/82591",
-    "score": 6.0,
-    "views": 30268,
-    "forwards": 1
   },
   {
     "title": "Kyiv: Explosions reported",
@@ -196,24 +232,6 @@
     "score": 3.5,
     "views": 100961,
     "forwards": 109
-  },
-  {
-    "title": "Attack attack",
-    "title_en": "Attack attack",
-    "title_uk": "Attack attack",
-    "description": "Русня ударила по складу крупного фармацевтического дистрибьютора под Киевом В Гостомеле под удар попал склад компании «Вента ЛТД», который обслуживал Киевский регион. Об этом сообщает «Экономическая правда» со ссылкой на источники. По данным издания, «Вента ЛТД» является третьим по величине фармацевтическим дистрибьютором Украины. На складе хранились лекарства от фирм Bayer, Sanofi, Pfizer, Inc.,...",
-    "description_en": "Русня ударила по складу крупного фармацевтического дистрибьютора под Киевом В Гостомеле под удар попал склад компании «Вента ЛТД», который обслуживал Киевский регион. Об этом сообщает «Экономическая правда» со ссылкой на источники. По данным издания, «Вента ЛТД» является третьим по величине фармацевтическим дистрибьютором Украины. На складе хранились лекарства от фирм Bayer, Sanofi, Pfizer, Inc.,...",
-    "description_uk": "Русня ударила по складу крупного фармацевтического дистрибьютора под Киевом В Гостомеле под удар попал склад компании «Вента ЛТД», который обслуживал Киевский регион. Об этом сообщает «Экономическая правда» со ссылкой на источники. По данным издания, «Вента ЛТД» является третьим по величине фармацевтическим дистрибьютором Украины. На складе хранились лекарства от фирм Bayer, Sanofi, Pfizer, Inc.,...",
-    "time": "",
-    "pubDate": "2026-10-03T09:15:01+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/203020",
-    "score": 4.5,
-    "views": 57551,
-    "forwards": 72
   },
   {
     "title": "Kyiv: 4 injured",
@@ -266,8 +284,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/21180",
     "score": 8.5,
-    "views": 81912,
-    "forwards": 92
+    "views": 83551,
+    "forwards": 93
   },
   {
     "title": "Drone attack",
@@ -284,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10626",
     "score": 10.0,
-    "views": 839,
+    "views": 870,
     "forwards": 5
   }
 ]
