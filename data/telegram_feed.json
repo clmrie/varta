@@ -1,21 +1,57 @@
 [
   {
+    "title": "Strike confirmed",
+    "title_en": "Strike confirmed",
+    "title_uk": "Strike confirmed",
+    "description": "🤬 В Запорожье был прилет БпЛА по пожарной части, – ГСЧС Предварительно, дрон влетел в здание, когда спасатели собирались выезжать на вызов. Известно об одном пострадавшем.",
+    "description_en": "🤬 В Запорожье был прилет БпЛА по пожарной части, – ГСЧС Предварительно, дрон влетел в здание, когда спасатели собирались выезжать на вызов. Известно об одном пострадавшем.",
+    "description_uk": "🤬 В Запорожье был прилет БпЛА по пожарной части, – ГСЧС Предварительно, дрон влетел в здание, когда спасатели собирались выезжать на вызов. Известно об одном пострадавшем.",
+    "time": "",
+    "pubDate": "2026-10-03T00:20:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/202994",
+    "score": 9.0,
+    "views": 1658,
+    "forwards": 11
+  },
+  {
     "title": "Drone incoming",
     "title_en": "Drone incoming",
     "title_uk": "Drone incoming",
-    "description": "🏍 Реактивний БпЛА повз Ширяєве на Одещині ➡️ у північно-західному напрямку",
-    "description_en": "🏍 Реактивний БпЛА повз Ширяєве на Одещині ➡️ у північно-західному напрямку",
-    "description_uk": "🏍 Реактивний БпЛА повз Ширяєве на Одещині ➡️ у північно-західному напрямку",
+    "description": "🏍 Вінниччина: реактивний БпЛА в напрямку Ладижина.",
+    "description_en": "🏍 Вінниччина: реактивний БпЛА в напрямку Ладижина.",
+    "description_uk": "🏍 Вінниччина: реактивний БпЛА в напрямку Ладижина.",
     "time": "",
-    "pubDate": "2026-10-02T20:46:21+00:00",
+    "pubDate": "2026-10-03T00:01:14+00:00",
     "category": "drone",
     "severity": "high",
     "location": "Ukraine",
     "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/82483",
+    "link": "https://t.me/kpszsu/82497",
     "score": 5.0,
-    "views": 16216,
-    "forwards": 0
+    "views": 7022,
+    "forwards": 20
+  },
+  {
+    "title": "Kyiv: 'Every fallen hero will be found' — Kyiv to speed up identification...",
+    "title_en": "Kyiv: 'Every fallen hero will be found' — Kyiv to speed up identification...",
+    "title_uk": "Kyiv: 'Every fallen hero will be found' — Kyiv to speed up identification...",
+    "description": "'Every fallen hero will be found' — Kyiv to speed up identification of fallen Ukrainians, Budanov says. While over 26,000 bodies and remains have been repatriated to Ukraine, \"a significant portion\" remain unidentified, Presidential Office Head Kyrylo Budanov said.",
+    "description_en": "'Every fallen hero will be found' — Kyiv to speed up identification of fallen Ukrainians, Budanov says. While over 26,000 bodies and remains have been repatriated to Ukraine, \"a significant portion\" remain unidentified, Presidential Office Head Kyrylo Budanov said.",
+    "description_uk": "'Every fallen hero will be found' — Kyiv to speed up identification of fallen Ukrainians, Budanov says. While over 26,000 bodies and remains have been repatriated to Ukraine, \"a significant portion\" remain unidentified, Presidential Office Head Kyrylo Budanov said.",
+    "time": "",
+    "pubDate": "2026-10-02T22:46:13+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55883",
+    "score": 6.0,
+    "views": 443,
+    "forwards": 5
   },
   {
     "title": "Kyiv: Russia planning to increase \"hybrid warfare\" activity in Europe,...",
@@ -32,7 +68,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55879",
     "score": 4.5,
-    "views": 1162,
+    "views": 1624,
     "forwards": 1
   },
   {
@@ -126,24 +162,6 @@
     "forwards": 1
   },
   {
-    "title": "Strike confirmed",
-    "title_en": "Strike confirmed",
-    "title_uk": "Strike confirmed",
-    "description": "Видео момента прилета по Южному мосту",
-    "description_en": "Видео момента прилета по Южному мосту",
-    "description_uk": "Видео момента прилета по Южному мосту",
-    "time": "",
-    "pubDate": "2026-10-02T14:55:11+00:00",
-    "category": "alert",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/202954",
-    "score": 5.5,
-    "views": 79039,
-    "forwards": 463
-  },
-  {
     "title": "Сьогодні, напередодні Дня працівників освіти, особисто подякував...",
     "title_en": "Сьогодні, напередодні Дня працівників освіти, особисто подякував...",
     "title_uk": "Сьогодні, напередодні Дня працівників освіти, особисто подякував...",
@@ -158,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/21180",
     "score": 8.5,
-    "views": 57034,
-    "forwards": 81
+    "views": 60296,
+    "forwards": 84
   },
   {
     "title": "Був сьогодні в одному з наших ліцеїв. Поспілкувався з дітьми про...",
@@ -176,8 +194,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/21179",
     "score": 6.5,
-    "views": 67946,
-    "forwards": 275
+    "views": 70246,
+    "forwards": 280
   },
   {
     "title": "Drone attack",
@@ -194,26 +212,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10626",
     "score": 10.0,
-    "views": 629,
+    "views": 661,
     "forwards": 5
-  },
-  {
-    "title": "Таки да! В вечный полет отправился российский Ми-8 руснявые ПВОшники...",
-    "title_en": "Таки да! В вечный полет отправился российский Ми-8 руснявые ПВОшники...",
-    "title_uk": "Таки да! В вечный полет отправился российский Ми-8 руснявые ПВОшники...",
-    "description": "Таки да! В вечный полет отправился российский Ми-8 руснявые ПВОшники сбили собственный вертолет вместе с тремя членами экипажа, приняв его за БпЛА. Хорошая работа!",
-    "description_en": "Таки да! В вечный полет отправился российский Ми-8 руснявые ПВОшники сбили собственный вертолет вместе с тремя членами экипажа, приняв его за БпЛА. Хорошая работа!",
-    "description_uk": "Таки да! В вечный полет отправился российский Ми-8 руснявые ПВОшники сбили собственный вертолет вместе с тремя членами экипажа, приняв его за БпЛА. Хорошая работа!",
-    "time": "",
-    "pubDate": "2026-10-02T09:20:01+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/202915",
-    "score": 5.5,
-    "views": 85148,
-    "forwards": 109
   },
   {
     "title": "Donetsk: Air defense active",
@@ -266,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10625",
     "score": 9.0,
-    "views": 2562,
+    "views": 2571,
     "forwards": 9
   }
 ]
