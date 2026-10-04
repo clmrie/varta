@@ -1,5 +1,59 @@
 [
   {
+    "title": "Donetsk: Drone incoming",
+    "title_en": "Donetsk: Drone incoming",
+    "title_uk": "Donetsk: Drone incoming",
+    "description": "ЗБИТО/ПОДАВЛЕНО 125 ВОРОЖИХ ЦІЛЕЙ ➖➖➖➖➖➖➖➖➖➖ У ніч на 04 жовтня (з 18:00 03 жовтня) противник атакував 135 ударними БпЛА типу Shahed (52 із них - реактивні), Гербера, «Бандероль»/«Дань-Т», дронами-імітаторами типу “Пародія” із напрямків: Орел, Курськ, Міллерово, Приморсько-Ахтарськ - рф; ТОТ Донецьк та ТОТ АР Крим – Гвардійське. Повітряний напад відбивали авіація, зенітні ракетні війська,...",
+    "description_en": "ЗБИТО/ПОДАВЛЕНО 125 ВОРОЖИХ ЦІЛЕЙ ➖➖➖➖➖➖➖➖➖➖ У ніч на 04 жовтня (з 18:00 03 жовтня) противник атакував 135 ударними БпЛА типу Shahed (52 із них - реактивні), Гербера, «Бандероль»/«Дань-Т», дронами-імітаторами типу “Пародія” із напрямків: Орел, Курськ, Міллерово, Приморсько-Ахтарськ - рф; ТОТ Донецьк та ТОТ АР Крим – Гвардійське. Повітряний напад відбивали авіація, зенітні ракетні війська,...",
+    "description_uk": "ЗБИТО/ПОДАВЛЕНО 125 ВОРОЖИХ ЦІЛЕЙ ➖➖➖➖➖➖➖➖➖➖ У ніч на 04 жовтня (з 18:00 03 жовтня) противник атакував 135 ударними БпЛА типу Shahed (52 із них - реактивні), Гербера, «Бандероль»/«Дань-Т», дронами-імітаторами типу “Пародія” із напрямків: Орел, Курськ, Міллерово, Приморсько-Ахтарськ - рф; ТОТ Донецьк та ТОТ АР Крим – Гвардійське. Повітряний напад відбивали авіація, зенітні ракетні війська,...",
+    "time": "",
+    "pubDate": "2026-10-04T05:42:00+00:00",
+    "category": "missile",
+    "severity": "critical",
+    "location": "Donetsk",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/82681",
+    "score": 13.0,
+    "views": 3040,
+    "forwards": 35
+  },
+  {
+    "title": "Irpin: Drone incoming",
+    "title_en": "Irpin: Drone incoming",
+    "title_uk": "Irpin: Drone incoming",
+    "description": "🏍 Реактивний БпЛА на Київщині, в напрямку н.п.Буча/Ірпінь",
+    "description_en": "🏍 Реактивний БпЛА на Київщині, в напрямку н.п.Буча/Ірпінь",
+    "description_uk": "🏍 Реактивний БпЛА на Київщині, в напрямку н.п.Буча/Ірпінь",
+    "time": "",
+    "pubDate": "2026-10-04T04:45:50+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Irpin",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/82674",
+    "score": 6.0,
+    "views": 40407,
+    "forwards": 1
+  },
+  {
+    "title": "Kyiv: Casualties reported",
+    "title_en": "Kyiv: Casualties reported",
+    "title_uk": "Kyiv: Casualties reported",
+    "description": "At least 15,000 civilian casualties documented in Ukraine in 2026, UN report finds. The UN Human Rights Office found that an average of more than 400 civilians were killed or injured every week in Ukraine during the first eight months of 2026, a 55% increase from the same period in 2025, High Commissioner Volker Turk told the Human Rights Council in Geneva on Oct. 2.",
+    "description_en": "At least 15,000 civilian casualties documented in Ukraine in 2026, UN report finds. The UN Human Rights Office found that an average of more than 400 civilians were killed or injured every week in Ukraine during the first eight months of 2026, a 55% increase from the same period in 2025, High Commissioner Volker Turk told the Human Rights Council in Geneva on Oct. 2.",
+    "description_uk": "At least 15,000 civilian casualties documented in Ukraine in 2026, UN report finds. The UN Human Rights Office found that an average of more than 400 civilians were killed or injured every week in Ukraine during the first eight months of 2026, a 55% increase from the same period in 2025, High Commissioner Volker Turk told the Human Rights Council in Geneva on Oct. 2.",
+    "time": "",
+    "pubDate": "2026-10-04T02:44:01+00:00",
+    "category": "alert",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55894",
+    "score": 6.0,
+    "views": 794,
+    "forwards": 8
+  },
+  {
     "title": "Chernihiv: Drone incoming",
     "title_en": "Chernihiv: Drone incoming",
     "title_uk": "Chernihiv: Drone incoming",
@@ -52,24 +106,6 @@
     "score": 6.0,
     "views": 10091,
     "forwards": 0
-  },
-  {
-    "title": "Kyiv: Casualties reported",
-    "title_en": "Kyiv: Casualties reported",
-    "title_uk": "Kyiv: Casualties reported",
-    "description": "Russian strike on Liberian-flagged cargo ship in Black Sea kills 1, injures 3. The attack comes amid an international call for Russia to halt attacks on civilian ships in the Black Sea and allow the passage of grain exports.",
-    "description_en": "Russian strike on Liberian-flagged cargo ship in Black Sea kills 1, injures 3. The attack comes amid an international call for Russia to halt attacks on civilian ships in the Black Sea and allow the passage of grain exports.",
-    "description_uk": "Russian strike on Liberian-flagged cargo ship in Black Sea kills 1, injures 3. The attack comes amid an international call for Russia to halt attacks on civilian ships in the Black Sea and allow the passage of grain exports.",
-    "time": "",
-    "pubDate": "2026-10-03T19:32:22+00:00",
-    "category": "alert",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55892",
-    "score": 10.0,
-    "views": 1302,
-    "forwards": 2
   },
   {
     "title": "Kyiv: Energy infrastructure hit",
@@ -158,26 +194,8 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10631",
     "score": 3.0,
-    "views": 531,
+    "views": 649,
     "forwards": 0
-  },
-  {
-    "title": "Украина закроет нынешний финансовый дефицит до конца года, —...",
-    "title_en": "Украина закроет нынешний финансовый дефицит до конца года, —...",
-    "title_uk": "Украина закроет нынешний финансовый дефицит до конца года, —...",
-    "description": "Украина закроет нынешний финансовый дефицит до конца года, — Зеленский в интервью Reuters При этом часть средств хотят взять из займа, предусмотренного на следующий год. Зеленский уточнил, что это планируют сделать ближе к январю, и направить эти деньги на закупку дронов для Украины на январь и февраль 2027 года.",
-    "description_en": "Украина закроет нынешний финансовый дефицит до конца года, — Зеленский в интервью Reuters При этом часть средств хотят взять из займа, предусмотренного на следующий год. Зеленский уточнил, что это планируют сделать ближе к январю, и направить эти деньги на закупку дронов для Украины на январь и февраль 2027 года.",
-    "description_uk": "Украина закроет нынешний финансовый дефицит до конца года, — Зеленский в интервью Reuters При этом часть средств хотят взять из займа, предусмотренного на следующий год. Зеленский уточнил, что это планируют сделать ближе к январю, и направить эти деньги на закупку дронов для Украины на январь и февраль 2027 года.",
-    "time": "",
-    "pubDate": "2026-10-03T16:44:18+00:00",
-    "category": "drone",
-    "severity": "medium",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/203049",
-    "score": 3.5,
-    "views": 134968,
-    "forwards": 91
   },
   {
     "title": "Останні кілька місяців ми працювали над нашим фінансовим дефіцитом....",
@@ -194,26 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/21184",
     "score": 3.5,
-    "views": 47539,
-    "forwards": 105
-  },
-  {
-    "title": "Kyiv: Drone incoming",
-    "title_en": "Kyiv: Drone incoming",
-    "title_uk": "Kyiv: Drone incoming",
-    "description": "🏍 Реактивний БпЛА в напрямку Вишгорода з Київського водосховища",
-    "description_en": "🏍 Реактивний БпЛА в напрямку Вишгорода з Київського водосховища",
-    "description_uk": "🏍 Реактивний БпЛА в напрямку Вишгорода з Київського водосховища",
-    "time": "",
-    "pubDate": "2026-10-03T14:43:08+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/82592",
-    "score": 6.0,
-    "views": 20147,
-    "forwards": 2
+    "views": 53061,
+    "forwards": 107
   },
   {
     "title": "Kyiv: Explosions reported",
@@ -234,24 +234,6 @@
     "forwards": 3
   },
   {
-    "title": "Kyiv: 4 injured",
-    "title_en": "Kyiv: 4 injured",
-    "title_uk": "Kyiv: 4 injured",
-    "description": "4 injured in Kyiv Oblast as Russian drones reportedly strike pharmaceutical warehouse. Russia launched a drone attack on the city of Hostomel in Kyiv Oblast on the evening of Oct. 2, striking warehouses and reportedly injuring four people, including a child, officials reported.",
-    "description_en": "4 injured in Kyiv Oblast as Russian drones reportedly strike pharmaceutical warehouse. Russia launched a drone attack on the city of Hostomel in Kyiv Oblast on the evening of Oct. 2, striking warehouses and reportedly injuring four people, including a child, officials reported.",
-    "description_uk": "4 injured in Kyiv Oblast as Russian drones reportedly strike pharmaceutical warehouse. Russia launched a drone attack on the city of Hostomel in Kyiv Oblast on the evening of Oct. 2, striking warehouses and reportedly injuring four people, including a child, officials reported.",
-    "time": "",
-    "pubDate": "2026-10-03T03:54:21+00:00",
-    "category": "drone",
-    "severity": "critical",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55885",
-    "score": 11.0,
-    "views": 1694,
-    "forwards": 4
-  },
-  {
     "title": "Сьогодні, напередодні Дня працівників освіти, особисто подякував...",
     "title_en": "Сьогодні, напередодні Дня працівників освіти, особисто подякував...",
     "title_uk": "Сьогодні, напередодні Дня працівників освіти, особисто подякував...",
@@ -266,7 +248,7 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/21180",
     "score": 8.5,
-    "views": 83938,
+    "views": 84891,
     "forwards": 93
   },
   {
@@ -284,7 +266,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10626",
     "score": 10.0,
-    "views": 874,
+    "views": 893,
     "forwards": 5
   }
 ]
