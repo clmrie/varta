@@ -1,5 +1,77 @@
 [
   {
+    "title": "БпЛА на Вознесенськ з південного заходу",
+    "title_en": "БпЛА на Вознесенськ з південного заходу",
+    "title_uk": "БпЛА на Вознесенськ з південного заходу",
+    "description": "БпЛА на Вознесенськ з південного заходу",
+    "description_en": "БпЛА на Вознесенськ з південного заходу",
+    "description_uk": "БпЛА на Вознесенськ з південного заходу",
+    "time": "",
+    "pubDate": "2026-10-06T02:12:23+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/83197",
+    "score": 5.0,
+    "views": 1019,
+    "forwards": 0
+  },
+  {
+    "title": "Chernihiv: 🏍 Реактивний БпЛА на Чернігів з північного сходу",
+    "title_en": "Chernihiv: 🏍 Реактивний БпЛА на Чернігів з північного сходу",
+    "title_uk": "Chernihiv: 🏍 Реактивний БпЛА на Чернігів з північного сходу",
+    "description": "🏍 Реактивний БпЛА на Чернігів з північного сходу",
+    "description_en": "🏍 Реактивний БпЛА на Чернігів з північного сходу",
+    "description_uk": "🏍 Реактивний БпЛА на Чернігів з північного сходу",
+    "time": "",
+    "pubDate": "2026-10-06T02:09:23+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Chernihiv",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/83195",
+    "score": 6.0,
+    "views": 3023,
+    "forwards": 0
+  },
+  {
+    "title": "Kyiv: Drone strike",
+    "title_en": "Kyiv: Drone strike",
+    "title_uk": "Kyiv: Drone strike",
+    "description": "Ukrainian drones reportedly attack Moscow Oblast in mass attack near Russia's capital. It remains unclear if any targets have been hit in the attack. As Ukrainian forces work to return the war to Russian soil, the Defense Ministry on Oct. 4 reported that over 51% of Russia's oil refining capacity has been disabled by Ukrainian attacks.",
+    "description_en": "Ukrainian drones reportedly attack Moscow Oblast in mass attack near Russia's capital. It remains unclear if any targets have been hit in the attack. As Ukrainian forces work to return the war to Russian soil, the Defense Ministry on Oct. 4 reported that over 51% of Russia's oil refining capacity has been disabled by Ukrainian attacks.",
+    "description_uk": "Ukrainian drones reportedly attack Moscow Oblast in mass attack near Russia's capital. It remains unclear if any targets have been hit in the attack. As Ukrainian forces work to return the war to Russian soil, the Defense Ministry on Oct. 4 reported that over 51% of Russia's oil refining capacity has been disabled by Ukrainian attacks.",
+    "time": "",
+    "pubDate": "2026-10-06T00:16:04+00:00",
+    "category": "drone",
+    "severity": "critical",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55940",
+    "score": 5.0,
+    "views": 429,
+    "forwards": 3
+  },
+  {
+    "title": "Drone attack",
+    "title_en": "Drone attack",
+    "title_uk": "Drone attack",
+    "description": "В Московской области после массированной атаки горит НПЗ в Капотне, – osint-каналы Пишут, что в регион одновременно с разных направлений зашли БпЛА. При этом мониторы также сообщали о возможной угрозе баллистики в сторону Москвы. Всего взрывы и работа ПВО звучали в регионе около часа. НПЗ в Капотне - один из 10 крупнейших в россии. UPD: сообщения о повреждении Московского НПЗ могут быть ложными.",
+    "description_en": "В Московской области после массированной атаки горит НПЗ в Капотне, – osint-каналы Пишут, что в регион одновременно с разных направлений зашли БпЛА. При этом мониторы также сообщали о возможной угрозе баллистики в сторону Москвы. Всего взрывы и работа ПВО звучали в регионе около часа. НПЗ в Капотне - один из 10 крупнейших в россии. UPD: сообщения о повреждении Московского НПЗ могут быть ложными.",
+    "description_uk": "В Московской области после массированной атаки горит НПЗ в Капотне, – osint-каналы Пишут, что в регион одновременно с разных направлений зашли БпЛА. При этом мониторы также сообщали о возможной угрозе баллистики в сторону Москвы. Всего взрывы и работа ПВО звучали в регионе около часа. НПЗ в Капотне - один из 10 крупнейших в россии. UPD: сообщения о повреждении Московского НПЗ могут быть ложными.",
+    "time": "",
+    "pubDate": "2026-10-06T00:16:01+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/203215",
+    "score": 5.5,
+    "views": 25496,
+    "forwards": 120
+  },
+  {
     "title": "Odesa: Drone incoming",
     "title_en": "Odesa: Drone incoming",
     "title_uk": "Odesa: Drone incoming",
@@ -50,8 +122,8 @@
     "source": "UNIAN",
     "link": "https://t.me/uniannet/203207",
     "score": 4.5,
-    "views": 32022,
-    "forwards": 259
+    "views": 66140,
+    "forwards": 367
   },
   {
     "title": "Вот, кстати, та самая автономная зенитная турель для борьбы с...",
@@ -86,7 +158,7 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55936",
     "score": 13.5,
-    "views": 1428,
+    "views": 1854,
     "forwards": 2
   },
   {
@@ -104,8 +176,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/21235",
     "score": 9.0,
-    "views": 23642,
-    "forwards": 22
+    "views": 26681,
+    "forwards": 25
   },
   {
     "title": "Air defense active",
@@ -121,9 +193,9 @@
     "location": "Ukraine",
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/21224",
-    "score": 14.5,
-    "views": 138896,
-    "forwards": 191
+    "score": 15.5,
+    "views": 149356,
+    "forwards": 201
   },
   {
     "title": "Chernihiv: Drone incoming",
@@ -198,78 +270,6 @@
     "forwards": 0
   },
   {
-    "title": "Kyiv: New automatic gun turrets successfully down first Russian jet-powered...",
-    "title_en": "Kyiv: New automatic gun turrets successfully down first Russian jet-powered...",
-    "title_uk": "Kyiv: New automatic gun turrets successfully down first Russian jet-powered...",
-    "description": "New automatic gun turrets successfully down first Russian jet-powered drones, Air Force says. President Volodymyr Zelensky previously announced that twelve such turrets had been installed where Russian jet-powered drones have been particularly active, including around Kyiv.",
-    "description_en": "New automatic gun turrets successfully down first Russian jet-powered drones, Air Force says. President Volodymyr Zelensky previously announced that twelve such turrets had been installed where Russian jet-powered drones have been particularly active, including around Kyiv.",
-    "description_uk": "New automatic gun turrets successfully down first Russian jet-powered drones, Air Force says. President Volodymyr Zelensky previously announced that twelve such turrets had been installed where Russian jet-powered drones have been particularly active, including around Kyiv.",
-    "time": "",
-    "pubDate": "2026-10-05T12:29:34+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55925",
-    "score": 4.5,
-    "views": 1380,
-    "forwards": 4
-  },
-  {
-    "title": "Strike confirmed",
-    "title_en": "Strike confirmed",
-    "title_uk": "Strike confirmed",
-    "description": "👎🐷 Русня ударила авиабомбой по многоэтажке в Харькове Как сообщает Терехов, известно о по меньшей мере 10 пострадавших. Под завалами могут находиться люди. Уже есть погибшие. Перед этим сообщалось о прилете по городу сразу трех КАБов. UPD. Уже трое погибших",
-    "description_en": "👎🐷 Русня ударила авиабомбой по многоэтажке в Харькове Как сообщает Терехов, известно о по меньшей мере 10 пострадавших. Под завалами могут находиться люди. Уже есть погибшие. Перед этим сообщалось о прилете по городу сразу трех КАБов. UPD. Уже трое погибших",
-    "description_uk": "👎🐷 Русня ударила авиабомбой по многоэтажке в Харькове Как сообщает Терехов, известно о по меньшей мере 10 пострадавших. Под завалами могут находиться люди. Уже есть погибшие. Перед этим сообщалось о прилете по городу сразу трех КАБов. UPD. Уже трое погибших",
-    "time": "",
-    "pubDate": "2026-10-05T12:26:31+00:00",
-    "category": "shelling",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "UNIAN",
-    "link": "https://t.me/uniannet/203169",
-    "score": 4.5,
-    "views": 98576,
-    "forwards": 143
-  },
-  {
-    "title": "Drone strike",
-    "title_en": "Drone strike",
-    "title_uk": "Drone strike",
-    "description": "Важливі домовленості України та Німеччини, які посилять обидві країни та наші індустрії. П'ятнадцять угод, домовленості на 8,5 мільярда євро. Напрями протидії дронам – перехоплювачі та малі ракети, радари, НРК, артилерія, працюватимемо максимально над ППО і збільшенням виробництва в Німеччині ракет для систем Patriot. FREYJA. Підтримка енергетики. Під час цієї війни Німеччина допомагає нам, а...",
-    "description_en": "Важливі домовленості України та Німеччини, які посилять обидві країни та наші індустрії. П'ятнадцять угод, домовленості на 8,5 мільярда євро. Напрями протидії дронам – перехоплювачі та малі ракети, радари, НРК, артилерія, працюватимемо максимально над ППО і збільшенням виробництва в Німеччині ракет для систем Patriot. FREYJA. Підтримка енергетики. Під час цієї війни Німеччина допомагає нам, а...",
-    "description_uk": "Важливі домовленості України та Німеччини, які посилять обидві країни та наші індустрії. П'ятнадцять угод, домовленості на 8,5 мільярда євро. Напрями протидії дронам – перехоплювачі та малі ракети, радари, НРК, артилерія, працюватимемо максимально над ППО і збільшенням виробництва в Німеччині ракет для систем Patriot. FREYJA. Підтримка енергетики. Під час цієї війни Німеччина допомагає нам, а...",
-    "time": "",
-    "pubDate": "2026-10-05T10:43:07+00:00",
-    "category": "missile",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Zelenskyy Official",
-    "link": "https://t.me/V_Zelenskiy_official/21216",
-    "score": 8.0,
-    "views": 104112,
-    "forwards": 145
-  },
-  {
-    "title": "Kharkiv: Casualties reported",
-    "title_en": "Kharkiv: Casualties reported",
-    "title_uk": "Kharkiv: Casualties reported",
-    "description": "Russian double-tap Banderol strikes hit Kharkiv, killing 1, injuring 6. One person was killed and six injured, as Russian forces carried out a double-tap strike using Banderol missiles in Kharkiv’s industrial district.",
-    "description_en": "Russian double-tap Banderol strikes hit Kharkiv, killing 1, injuring 6. One person was killed and six injured, as Russian forces carried out a double-tap strike using Banderol missiles in Kharkiv’s industrial district.",
-    "description_uk": "Russian double-tap Banderol strikes hit Kharkiv, killing 1, injuring 6. One person was killed and six injured, as Russian forces carried out a double-tap strike using Banderol missiles in Kharkiv’s industrial district.",
-    "time": "",
-    "pubDate": "2026-10-04T22:47:23+00:00",
-    "category": "missile",
-    "severity": "critical",
-    "location": "Kharkiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55913",
-    "score": 10.0,
-    "views": 1737,
-    "forwards": 5
-  },
-  {
     "title": "💬 Міністр Андрій Сибіга – до Дня працівників освіти України: \"Кожна...",
     "title_en": "💬 Міністр Андрій Сибіга – до Дня працівників освіти України: \"Кожна...",
     "title_uk": "💬 Міністр Андрій Сибіга – до Дня працівників освіти України: \"Кожна...",
@@ -284,7 +284,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10639",
     "score": 9.0,
-    "views": 899,
+    "views": 907,
     "forwards": 1
   },
   {
@@ -302,7 +302,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10638",
     "score": 3.0,
-    "views": 824,
+    "views": 830,
     "forwards": 6
   },
   {
@@ -320,7 +320,7 @@
     "source": "General Staff ZSU",
     "link": "https://t.me/GeneralStaffZSU/42468",
     "score": 13.0,
-    "views": 7986,
+    "views": 7997,
     "forwards": 27
   }
 ]
