@@ -1,5 +1,77 @@
 [
   {
+    "title": "Drone incoming",
+    "title_en": "Drone incoming",
+    "title_uk": "Drone incoming",
+    "description": "🏍 Реактивний БпЛА з Житомирщини в напрямку Рівненщини",
+    "description_en": "🏍 Реактивний БпЛА з Житомирщини в напрямку Рівненщини",
+    "description_uk": "🏍 Реактивний БпЛА з Житомирщини в напрямку Рівненщини",
+    "time": "",
+    "pubDate": "2026-10-08T02:31:55+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "Ukrainian Air Force",
+    "link": "https://t.me/kpszsu/83811",
+    "score": 5.0,
+    "views": 11102,
+    "forwards": 0
+  },
+  {
+    "title": "Drone strike",
+    "title_en": "Drone strike",
+    "title_uk": "Drone strike",
+    "description": "🇲🇩 Молдова оборудует защитные зоны на границе с Украиной из-за угрозы ударов дронов На молдавско-украинских КПП строят специальные укрытия для людей на случай угрозы атаки дронов. Об этом заявила глава МВД Молдовы Даниела Мисаил-Никитин. Также Молдова выводит своих сотрудников с совместных КПП, расположенных на территории Украины. В МВД уточнили, что речь идет о пунктах «Крива» и «Паланка»....",
+    "description_en": "🇲🇩 Молдова оборудует защитные зоны на границе с Украиной из-за угрозы ударов дронов На молдавско-украинских КПП строят специальные укрытия для людей на случай угрозы атаки дронов. Об этом заявила глава МВД Молдовы Даниела Мисаил-Никитин. Также Молдова выводит своих сотрудников с совместных КПП, расположенных на территории Украины. В МВД уточнили, что речь идет о пунктах «Крива» и «Паланка»....",
+    "description_uk": "🇲🇩 Молдова оборудует защитные зоны на границе с Украиной из-за угрозы ударов дронов На молдавско-украинских КПП строят специальные укрытия для людей на случай угрозы атаки дронов. Об этом заявила глава МВД Молдовы Даниела Мисаил-Никитин. Также Молдова выводит своих сотрудников с совместных КПП, расположенных на территории Украины. В МВД уточнили, что речь идет о пунктах «Крива» и «Паланка»....",
+    "time": "",
+    "pubDate": "2026-10-08T01:40:03+00:00",
+    "category": "drone",
+    "severity": "medium",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/203431",
+    "score": 3.0,
+    "views": 23213,
+    "forwards": 22
+  },
+  {
+    "title": "Strike confirmed",
+    "title_en": "Strike confirmed",
+    "title_uk": "Strike confirmed",
+    "description": "Взрыв прозвучал в Киеве в районе Броваров – предварительно, упала \"Герань-5\" Также прилеты КАБами были по Сумам и Запорожью.",
+    "description_en": "Взрыв прозвучал в Киеве в районе Броваров – предварительно, упала \"Герань-5\" Также прилеты КАБами были по Сумам и Запорожью.",
+    "description_uk": "Взрыв прозвучал в Киеве в районе Броваров – предварительно, упала \"Герань-5\" Также прилеты КАБами были по Сумам и Запорожью.",
+    "time": "",
+    "pubDate": "2026-10-08T00:58:12+00:00",
+    "category": "alert",
+    "severity": "high",
+    "location": "Ukraine",
+    "source": "UNIAN",
+    "link": "https://t.me/uniannet/203429",
+    "score": 9.0,
+    "views": 30790,
+    "forwards": 21
+  },
+  {
+    "title": "Kyiv: Drone attack",
+    "title_en": "Kyiv: Drone attack",
+    "title_uk": "Kyiv: Drone attack",
+    "description": "Moldova to build drone shelters near Ukrainian border amid escalating Russian attacks. In addition to the new structures, some Moldovan border guards currently stationed on the Ukrainian side of the border will be transferred to the Moldovan side.",
+    "description_en": "Moldova to build drone shelters near Ukrainian border amid escalating Russian attacks. In addition to the new structures, some Moldovan border guards currently stationed on the Ukrainian side of the border will be transferred to the Moldovan side.",
+    "description_uk": "Moldova to build drone shelters near Ukrainian border amid escalating Russian attacks. In addition to the new structures, some Moldovan border guards currently stationed on the Ukrainian side of the border will be transferred to the Moldovan side.",
+    "time": "",
+    "pubDate": "2026-10-07T23:55:48+00:00",
+    "category": "drone",
+    "severity": "high",
+    "location": "Kyiv",
+    "source": "Kyiv Independent",
+    "link": "https://t.me/KyivIndependent_official/55986",
+    "score": 6.0,
+    "views": 621,
+    "forwards": 5
+  },
+  {
     "title": "Missile attack",
     "title_en": "Missile attack",
     "title_uk": "Missile attack",
@@ -16,24 +88,6 @@
     "score": 5.0,
     "views": 1303,
     "forwards": 11
-  },
-  {
-    "title": "Drone incoming",
-    "title_en": "Drone incoming",
-    "title_uk": "Drone incoming",
-    "description": "🏍 Реактивний БпЛА в напрямку Києва з півночі.",
-    "description_en": "🏍 Реактивний БпЛА в напрямку Києва з півночі.",
-    "description_uk": "🏍 Реактивний БпЛА в напрямку Києва з півночі.",
-    "time": "",
-    "pubDate": "2026-10-07T23:26:04+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/83775",
-    "score": 5.0,
-    "views": 6091,
-    "forwards": 0
   },
   {
     "title": "Zaporizhzhia: БпЛА на Запоріжжя з півдня.",
@@ -86,8 +140,8 @@
     "source": "Kyiv Independent",
     "link": "https://t.me/KyivIndependent_official/55984",
     "score": 10.0,
-    "views": 575,
-    "forwards": 1
+    "views": 1006,
+    "forwards": 3
   },
   {
     "title": "Kyiv: Explosions reported",
@@ -158,8 +212,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/21266",
     "score": 17.0,
-    "views": 26866,
-    "forwards": 27
+    "views": 29215,
+    "forwards": 29
   },
   {
     "title": "Chernihiv: Casualties reported",
@@ -198,24 +252,6 @@
     "forwards": 7
   },
   {
-    "title": "🏍 Реактивний БпЛА в зоні відчуження Чорнобильської АЕС",
-    "title_en": "🏍 Реактивний БпЛА в зоні відчуження Чорнобильської АЕС",
-    "title_uk": "🏍 Реактивний БпЛА в зоні відчуження Чорнобильської АЕС",
-    "description": "🏍 Реактивний БпЛА в зоні відчуження Чорнобильської АЕС",
-    "description_en": "🏍 Реактивний БпЛА в зоні відчуження Чорнобильської АЕС",
-    "description_uk": "🏍 Реактивний БпЛА в зоні відчуження Чорнобильської АЕС",
-    "time": "",
-    "pubDate": "2026-10-07T13:11:00+00:00",
-    "category": "drone",
-    "severity": "high",
-    "location": "Ukraine",
-    "source": "Ukrainian Air Force",
-    "link": "https://t.me/kpszsu/83608",
-    "score": 5.0,
-    "views": 5032,
-    "forwards": 0
-  },
-  {
     "title": "Attack attack",
     "title_en": "Attack attack",
     "title_uk": "Attack attack",
@@ -230,8 +266,8 @@
     "source": "Zelenskyy Official",
     "link": "https://t.me/V_Zelenskiy_official/21263",
     "score": 12.5,
-    "views": 67557,
-    "forwards": 115
+    "views": 68568,
+    "forwards": 117
   },
   {
     "title": "Kyiv: 🇳 Військовий комітет НАТО в повному складі відвідав Київ 👥 У межах...",
@@ -248,26 +284,8 @@
     "source": "DeepState",
     "link": "https://t.me/DeepStateUA/23885",
     "score": 7.5,
-    "views": 121615,
-    "forwards": 208
-  },
-  {
-    "title": "Kyiv: EU ambassadors wave through largest-ever list of Russia sanctions....",
-    "title_en": "Kyiv: EU ambassadors wave through largest-ever list of Russia sanctions....",
-    "title_uk": "Kyiv: EU ambassadors wave through largest-ever list of Russia sanctions....",
-    "description": "EU ambassadors wave through largest-ever list of Russia sanctions. The list targets a wide range of defense industry players, from shipyards and aviation companies to electronics manufacturers, armored vehicle repair facilities, and aerospace companies.",
-    "description_en": "EU ambassadors wave through largest-ever list of Russia sanctions. The list targets a wide range of defense industry players, from shipyards and aviation companies to electronics manufacturers, armored vehicle repair facilities, and aerospace companies.",
-    "description_uk": "EU ambassadors wave through largest-ever list of Russia sanctions. The list targets a wide range of defense industry players, from shipyards and aviation companies to electronics manufacturers, armored vehicle repair facilities, and aerospace companies.",
-    "time": "",
-    "pubDate": "2026-10-07T12:18:53+00:00",
-    "category": "political",
-    "severity": "medium",
-    "location": "Kyiv",
-    "source": "Kyiv Independent",
-    "link": "https://t.me/KyivIndependent_official/55971",
-    "score": 4.0,
-    "views": 632,
-    "forwards": 0
+    "views": 125007,
+    "forwards": 209
   },
   {
     "title": "Kyiv: Attack attack on residential area",
@@ -320,7 +338,7 @@
     "source": "Ukraine MFA",
     "link": "https://t.me/Ukraine_MFA/10651",
     "score": 16.5,
-    "views": 2643,
+    "views": 2676,
     "forwards": 22
   },
   {
